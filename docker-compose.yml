@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: school_management
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database-setup/database/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+    networks:
+      - school_network
+
+  backend:
+    build: ./backend
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_NAME=school_management
+      - DB_USER=postgres
+      - DB_PASSWORD=password
+      - JWT_SECRET=your_jwt_secret_key_here
+    depends_on:
+      - postgres
+    networks:
+      - school_network
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - school_network
+
+volumes:
+  postgres_data:
+
+networks:
+  school_network:
+    driver: bridge

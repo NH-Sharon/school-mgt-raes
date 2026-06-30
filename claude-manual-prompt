@@ -1,0 +1,64 @@
+Student Management  e section ka/kha lagbe like ID	Name	Class section	Roll	Guardian	Actions
+
+New Student add er somoy student ID auto generated hobe,photo upload korte hobe,and admin ba add korar por ami view,edit ba delete korte parbo
+Attendance  class and section select korle name roll and student id dekhabe
+
+Payment Management  e kon class e koto jon due payment koto taka collection sob card e dekhabe,and jokhon new payment hobe tokhon jeno class,section,student ID and roll er against e ami taka payment dite pari sekhane payment option cash,bkash ,nagad,bank and customs thakbe
+
+and r akta feature amr sob employee der HR management o korte pari jeta super admin Admin theke control hobe etao add kore dao
+
+and ami jeno role based  user create kore dite pari i mean je kawke chaile admin privillage ,academic privillage ,finance section,transport section,website section etc mark kore diye access distributr kore dite pari,
+
+teacher portal er Students e section add korte hobe class er pashapahi,also homework eo section lagbe
+© 2026 রওশন আমির এলিমেন্টারি স্কুল. All Rights Reserved.  er poriborte diba Specter Technologies Ltd. bosay diba
+
+
+###new correction
+
+jokhon new payment hobe tokhon roll/student ID no er je kono kisu dilei  taka payment kora jay.also payement section er dash board e
+
+student ID Student Roll Student Name	Class section	Type	Amount	Method	Status	Actions  ei format e chai and pagination hisebe chai
+
+teacher portal er Students e section ka/kha add korte hobe class er pashapahi,also homework eo section lagbe same vabe section ka/kha 
+
+attendance report o lagbe for students jeta teacher ra dekhte parbe attendence e  and hr departments er all employee er attendence newa and report dekhte parbe admin only or jake access dibe sei only jeno pare
+
+
+###Correction 2
+teacher er j attendence report ase seta card akare na hoye table akare chai and jeno chaile print kora jay,and admin thekeo jeno dekha jay attendence report.
+student portal er Fee Status e only taka r amount ase kono heading nai,and ki babod fee setao nai segulo thik kore dio
+admin portal er academic er moddhe classes er All Classes edit o jeno korte pari seta lagbe
+
+admin portal er exam>add exam er moddhe type er moddhe monthly ,weekly o lagbe 1st,2nd,annual er pasapashi
+
+users and role permisstion er modhe Module Access (additional privileges)
+
+📚 Academic Module
+
+💰 Finance / Payments
+
+👔 HR Management
+
+🚌 Transport
+
+🌐 Website Control
+
+📊 Reports & Analytics  evabe ase but ami chai er moddheo jesob sub feature ase segulo o jeno dhore dhore customize kore access dewa jay and j user k dibo sejob module sub-module and feature jeno sesob user er portal e se dekhte pay
+
+esob fix kore dao  
+
+
+### correction 3
+
+ami users and role permisstion er modhe  je sob user k permisstion dissi but ei user diye login korar por tader taskbar/portal e sesob menu /module dekhte paitesi na.ami kisukhon age teacher1 name akta user k privillage disi but login er por tar modde sesob dekhte passi na,tumi eita fix kore dao
+
+
+### correction 4
+aro kisu correcetion ase kisu jinish add korte hobe ekhane class 1 theke class 5 porjonto ase but play group ,Nursary tao add hobe class 1 er age,and amr website e admission e r akta feature thakbe jekhane amr application form thakbe,registration form thakbe,circular thakbe ja admit hote chay jesob candidate tara register korbe and admin portal theke sesob management kora jabe,approve ,reject,admit etc,also admin er r akta kaj korte hobe seta holo kono user tader password ba username vule gele admin seta reset korte parbe ei feature o lagbe.tumi fix kore dao
+
+
+#### correction 5
+operation module e transport e transport list e Route	Driver	Vehicle	Capacity	Fee/Mo	Status	Actions action er moddhe edit option lagbe
+and sob class er moddhe j Play group and Nursary add koreso segulor kisu kisu jaygay Play group and  Nursary class five er pore chole gese esob class 1 er age hobe ei 2 tao correction kore dao
+
+and kono kisu submit ba save ba kono action complete korle jeno successfully submitted /save or jemon kaj onujayi dewa dorkar seta dey

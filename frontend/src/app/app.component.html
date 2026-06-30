@@ -1,0 +1,28 @@
+<div class="app-container">
+  <nav class="navbar" *ngIf="showAdminNav">
+    <div class="nav-brand">
+      <div class="brand-icon">🏫</div>
+      <div class="brand-text">
+        <div class="brand-name">Rowshon Amir Elementary School</div>
+        <div class="brand-sub">রওশন আমির প্রাথমিক বিদ্যালয়</div>
+      </div>
+    </div>
+    <div class="nav-menu">
+      <a routerLink="/dashboard" routerLinkActive="active">ড্যাশবোর্ড</a>
+      <a routerLink="/students" routerLinkActive="active">শিক্ষার্থী</a>
+      <a routerLink="/teachers" routerLinkActive="active">শিক্ষক</a>
+      <a routerLink="/attendance" routerLinkActive="active">উপস্থিতি</a>
+      <a routerLink="/exams" routerLinkActive="active">পরীক্ষা</a>
+      <a routerLink="/payments" routerLinkActive="active">পেমেন্ট</a>
+      <a routerLink="/homework" routerLinkActive="active">হোমওয়ার্ক</a>
+      <a routerLink="/transport" routerLinkActive="active">পরিবহন</a>
+      <div class="nav-divider"></div>
+      <span class="user-info">{{ authService.currentUser()?.username }}</span>
+      <button (click)="logout()" class="logout-btn">লগআউট</button>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <router-outlet></router-outlet>
+  </main>
+</div>
