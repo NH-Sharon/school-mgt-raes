@@ -56,6 +56,17 @@ app.use('/api/employees', employeesRoutes);
 app.use('/api/employee-attendance', employeeAttendanceRoutes);
 app.use('/api/admissions', admissionsRoutes);
 
+// Health check / keep-alive endpoint (public, no auth)
+const pool = require('./config/database');
+app.get('/api/ping', async (req, res) => {
+  try {
+    await pool.query('SELECT 1');
+    res.json({ status: 'ok', time: new Date().toISOString() });
+  } catch {
+    res.status(500).json({ status: 'db_error' });
+  }
+});
+
 // Local development
 if (process.env.NODE_ENV !== 'production' || process.env.PORT) {
   const PORT = process.env.PORT || 3000;

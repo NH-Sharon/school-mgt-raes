@@ -1,0 +1,21 @@
+name: Keep Database Alive
+
+on:
+  schedule:
+    # Every 4 minutes — keeps Neon DB from suspending (suspends after 5 min)
+    - cron: '*/4 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping backend to keep Neon DB alive
+        run: |
+          response=$(curl -s -o /dev/null -w "%{http_code}" https://raes-backend.vercel.app/api/ping)
+          echo "Response: $response"
+          if [ "$response" = "200" ]; then
+            echo "✅ Database is alive"
+          else
+            echo "⚠️ Unexpected response: $response"
+          fi
