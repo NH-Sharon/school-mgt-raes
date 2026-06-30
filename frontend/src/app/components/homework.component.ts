@@ -155,7 +155,7 @@ export class HomeworkComponent implements OnInit {
   loadHomework() {
     if (!this.filterClassId) return;
     this.loading = true;
-    this.http.get<Homework[]>(`http://localhost:3000/api/homework/class/${this.filterClassId}`).subscribe({
+    this.http.get<Homework[]>(`https://raes-backend.vercel.app/api/homework/class/${this.filterClassId}`).subscribe({
       next: (data) => { this.homeworks = data; this.loading = false; },
       error: () => { this.loading = false; }
     });
@@ -164,7 +164,7 @@ export class HomeworkComponent implements OnInit {
   addHomework() {
     this.loading = true;
     this.errorMsg = '';
-    this.http.post<Homework>('http://localhost:3000/api/homework', this.newHw).subscribe({
+    this.http.post<Homework>('https://raes-backend.vercel.app/api/homework', this.newHw).subscribe({
       next: () => {
         this.successMsg = 'হোমওয়ার্ক সফলভাবে যোগ করা হয়েছে!';
         if (this.filterClassId) this.loadHomework();

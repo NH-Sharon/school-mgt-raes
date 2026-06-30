@@ -180,7 +180,7 @@ export class AttendanceComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.http.get<ClassOption[]>('http://localhost:3000/api/classes').subscribe({
+    this.http.get<ClassOption[]>('https://raes-backend.vercel.app/api/classes').subscribe({
       next: (data) => { this.classes = data; },
       error: () => {}
     });
@@ -188,7 +188,7 @@ export class AttendanceComponent implements OnInit {
 
   loadAttendance() {
     if (!this.selectedClassId || !this.selectedDate) return;
-    this.http.get<AttendanceRecord[]>(`http://localhost:3000/api/attendance/${this.selectedClassId}/${this.selectedDate}`).subscribe({
+    this.http.get<AttendanceRecord[]>(`https://raes-backend.vercel.app/api/attendance/${this.selectedClassId}/${this.selectedDate}`).subscribe({
       next: (data) => { this.records = data; },
       error: () => {}
     });
@@ -212,7 +212,7 @@ export class AttendanceComponent implements OnInit {
       created_by: 1
     }));
 
-    this.http.post('http://localhost:3000/api/attendance', { attendanceData }).subscribe({
+    this.http.post('https://raes-backend.vercel.app/api/attendance', { attendanceData }).subscribe({
       next: () => {
         this.successMsg = 'উপস্থিতি সফলভাবে সংরক্ষণ করা হয়েছে!';
         this.saving = false;

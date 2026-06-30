@@ -175,7 +175,7 @@ export class TransportComponent implements OnInit {
 
   loadRoutes() {
     this.loading = true;
-    this.http.get<Transport[]>('http://localhost:3000/api/transport').subscribe({
+    this.http.get<Transport[]>('https://raes-backend.vercel.app/api/transport').subscribe({
       next: (data) => { this.routes = data; this.loading = false; },
       error: () => { this.loading = false; }
     });
@@ -184,7 +184,7 @@ export class TransportComponent implements OnInit {
   addRoute() {
     this.loading = true;
     this.errorMsg = '';
-    this.http.post<Transport>('http://localhost:3000/api/transport', this.newRoute).subscribe({
+    this.http.post<Transport>('https://raes-backend.vercel.app/api/transport', this.newRoute).subscribe({
       next: () => {
         this.successMsg = 'রুট সফলভাবে যোগ করা হয়েছে!';
         this.loadRoutes();

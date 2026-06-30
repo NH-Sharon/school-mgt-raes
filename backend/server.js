@@ -56,7 +56,10 @@ app.use('/api/employees', employeesRoutes);
 app.use('/api/employee-attendance', employeeAttendanceRoutes);
 app.use('/api/admissions', admissionsRoutes);
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+// Local development
+if (process.env.NODE_ENV !== 'production' || process.env.PORT) {
+  const PORT = process.env.PORT || 3000;
+  app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+}
+
+module.exports = app;

@@ -203,7 +203,7 @@ export class ExamsComponent implements OnInit {
 
   loadExams() {
     this.loading = true;
-    this.http.get<Exam[]>('http://localhost:3000/api/exams').subscribe({
+    this.http.get<Exam[]>('https://raes-backend.vercel.app/api/exams').subscribe({
       next: (data) => { this.exams = data; this.loading = false; },
       error: () => { this.loading = false; }
     });
@@ -212,7 +212,7 @@ export class ExamsComponent implements OnInit {
   addExam() {
     this.loading = true;
     this.errorMsg = '';
-    this.http.post<Exam>('http://localhost:3000/api/exams', this.newExam).subscribe({
+    this.http.post<Exam>('https://raes-backend.vercel.app/api/exams', this.newExam).subscribe({
       next: () => {
         this.successMsg = 'পরীক্ষা সফলভাবে যোগ করা হয়েছে!';
         this.loadExams();

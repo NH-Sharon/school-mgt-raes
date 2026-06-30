@@ -229,7 +229,7 @@ export class PaymentsComponent implements OnInit {
 
   loadPayments() {
     this.loading = true;
-    this.http.get<Payment[]>('http://localhost:3000/api/payments').subscribe({
+    this.http.get<Payment[]>('https://raes-backend.vercel.app/api/payments').subscribe({
       next: (data) => { this.payments = data; this.loading = false; },
       error: () => { this.loading = false; }
     });
@@ -238,7 +238,7 @@ export class PaymentsComponent implements OnInit {
   addPayment() {
     this.loading = true;
     this.errorMsg = '';
-    this.http.post<Payment>('http://localhost:3000/api/payments', this.newPayment).subscribe({
+    this.http.post<Payment>('https://raes-backend.vercel.app/api/payments', this.newPayment).subscribe({
       next: () => {
         this.successMsg = 'পেমেন্ট সফলভাবে যোগ করা হয়েছে!';
         this.loadPayments();
@@ -253,7 +253,7 @@ export class PaymentsComponent implements OnInit {
 
   markPaid(payment: Payment) {
     if (!payment.id) return;
-    this.http.put(`http://localhost:3000/api/payments/${payment.id}/status`, { status: 'paid' }).subscribe({
+    this.http.put(`https://raes-backend.vercel.app/api/payments/${payment.id}/status`, { status: 'paid' }).subscribe({
       next: () => { this.loadPayments(); },
       error: () => {}
     });

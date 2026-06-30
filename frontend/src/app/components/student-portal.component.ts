@@ -496,7 +496,7 @@ export class StudentPortalComponent implements OnInit {
       this.userInitial = this.userName.charAt(0).toUpperCase();
     }
 
-    this.http.get<any>('http://localhost:3000/api/auth/me').subscribe({
+    this.http.get<any>('https://raes-backend.vercel.app/api/auth/me').subscribe({
       next: (me: any) => {
         if (me.linkedId) {
           this.studentId = me.linkedId;
@@ -507,7 +507,7 @@ export class StudentPortalComponent implements OnInit {
       error: () => { this.loadStudentData(); }
     });
 
-    this.http.get<any[]>('http://localhost:3000/api/exams').subscribe({
+    this.http.get<any[]>('https://raes-backend.vercel.app/api/exams').subscribe({
       next: d => { this.exams = d.slice(0, 3); },
       error: () => {}
     });
@@ -515,14 +515,14 @@ export class StudentPortalComponent implements OnInit {
 
   loadStudentData() {
     if (this.classId) {
-      this.http.get<any[]>(`http://localhost:3000/api/homework/class/${this.classId}`).subscribe({
+      this.http.get<any[]>(`https://raes-backend.vercel.app/api/homework/class/${this.classId}`).subscribe({
         next: d => { this.homework = d; this.pendingHomework = d.filter((h: any) => !h.submitted).length || d.length; },
         error: () => {}
       });
     }
 
     if (this.studentId) {
-      this.http.get<any>(`http://localhost:3000/api/attendance/student-summary/${this.studentId}`).subscribe({
+      this.http.get<any>(`https://raes-backend.vercel.app/api/attendance/student-summary/${this.studentId}`).subscribe({
         next: (d: any) => {
           this.attendancePct = d.pct || 0;
           this.presentDays = d.present || 0;
@@ -532,7 +532,7 @@ export class StudentPortalComponent implements OnInit {
         error: () => {}
       });
 
-      this.http.get<any[]>(`http://localhost:3000/api/payments/student/${this.studentId}`).subscribe({
+      this.http.get<any[]>(`https://raes-backend.vercel.app/api/payments/student/${this.studentId}`).subscribe({
         next: d => {
           this.payments = d.slice(0, 6);
           this.pendingFees = d.filter((p: any) => p.status !== 'paid').length;
@@ -540,7 +540,7 @@ export class StudentPortalComponent implements OnInit {
         error: () => {}
       });
 
-      this.http.get<any[]>(`http://localhost:3000/api/exams/student-results/${this.studentId}`).subscribe({
+      this.http.get<any[]>(`https://raes-backend.vercel.app/api/exams/student-results/${this.studentId}`).subscribe({
         next: d => {
           this.subjects = d.map((r: any) => ({
             name: r.subject_name,

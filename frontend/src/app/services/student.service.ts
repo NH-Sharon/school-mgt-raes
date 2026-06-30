@@ -24,7 +24,7 @@ export interface Student {
   providedIn: 'root'
 })
 export class StudentService {
-  private apiUrl = 'http://localhost:3000/api/students';
+  private apiUrl = 'https://raes-backend.vercel.app/api/students';
 
   constructor(private http: HttpClient) {}
 

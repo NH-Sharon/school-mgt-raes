@@ -6,7 +6,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { I18nService } from '../services/i18n.service';
 import { AuthService } from '../services/auth.service';
 
-const API = 'http://localhost:3000/api';
+const API = 'https://raes-backend.vercel.app/api';
 
 @Component({
   selector: 'app-admin-panel',

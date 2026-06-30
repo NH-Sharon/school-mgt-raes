@@ -781,7 +781,7 @@ export class TeacherPortalComponent implements OnInit {
       this.userName = user.full_name || user.username || 'Teacher';
       this.userInitial = this.userName.charAt(0).toUpperCase();
     }
-    this.http.get<any>('http://localhost:3000/api/auth/me').subscribe({
+    this.http.get<any>('https://raes-backend.vercel.app/api/auth/me').subscribe({
       next: (me: any) => {
         if (me.linkedId) this.teacherId = me.linkedId;
         if (me.linkedData?.class_id) {
@@ -792,15 +792,15 @@ export class TeacherPortalComponent implements OnInit {
         this.userPermissions = (me.permissions || '').split(',').filter((p: string) => p);
       }, error: () => {}
     });
-    this.http.get<any[]>('http://localhost:3000/api/classes').subscribe({ next: d => { this.classes = d; }, error: () => {} });
-    this.http.get<any[]>('http://localhost:3000/api/students').subscribe({ next: d => { this.students = d; }, error: () => {} });
-    this.http.get<any[]>('http://localhost:3000/api/exams').subscribe({ next: d => { this.exams = d; }, error: () => {} });
-    this.http.get<any[]>('http://localhost:3000/api/subjects').subscribe({ next: d => { this.subjects = d; }, error: () => {} });
+    this.http.get<any[]>('https://raes-backend.vercel.app/api/classes').subscribe({ next: d => { this.classes = d; }, error: () => {} });
+    this.http.get<any[]>('https://raes-backend.vercel.app/api/students').subscribe({ next: d => { this.students = d; }, error: () => {} });
+    this.http.get<any[]>('https://raes-backend.vercel.app/api/exams').subscribe({ next: d => { this.exams = d; }, error: () => {} });
+    this.http.get<any[]>('https://raes-backend.vercel.app/api/subjects').subscribe({ next: d => { this.subjects = d; }, error: () => {} });
   }
 
   loadAttendance() {
     if (!this.selectedClassId || !this.selectedDate) return;
-    this.http.get<any[]>(`http://localhost:3000/api/attendance/${this.selectedClassId}/${this.selectedDate}`).subscribe({
+    this.http.get<any[]>(`https://raes-backend.vercel.app/api/attendance/${this.selectedClassId}/${this.selectedDate}`).subscribe({
       next: d => { this.attendanceList = d.map(s => ({ ...s, status: s.status || 'present' })); },
       error: () => {}
     });
@@ -809,7 +809,7 @@ export class TeacherPortalComponent implements OnInit {
   loadHomework() {
     const classId = this.newHw.class_id || this.selectedClassId || this.classes[0]?.id;
     if (!classId) return;
-    this.http.get<any[]>(`http://localhost:3000/api/homework/class/${classId}`).subscribe({
+    this.http.get<any[]>(`https://raes-backend.vercel.app/api/homework/class/${classId}`).subscribe({
       next: d => { this.homeworkList = d; },
       error: () => {}
     });
@@ -819,14 +819,14 @@ export class TeacherPortalComponent implements OnInit {
 
   saveAttendance() {
     const records = this.attendanceList.map(a => ({ student_id: a.student_id, status: a.status, date: this.selectedDate }));
-    this.http.post(`http://localhost:3000/api/attendance/${this.selectedClassId}/${this.selectedDate}`, { records }).subscribe({
+    this.http.post(`https://raes-backend.vercel.app/api/attendance/${this.selectedClassId}/${this.selectedDate}`, { records }).subscribe({
       next: () => { this.saveMsgVisible = true; setTimeout(() => { this.saveMsgVisible = false; }, 3000); },
       error: () => {}
     });
   }
 
   loadAttReport() {
-    const API = 'http://localhost:3000/api';
+    const API = 'https://raes-backend.vercel.app/api';
     let url = `${API}/attendance/report-summary?month=${this.attReportMonth}`;
     if (this.attReportClassId) url += `&class_id=${this.attReportClassId}`;
     this.http.get<any[]>(url).subscribe({
@@ -872,7 +872,7 @@ export class TeacherPortalComponent implements OnInit {
 
   addHomework() {
     if (!this.newHw.description || !this.newHw.class_id) return;
-    this.http.post('http://localhost:3000/api/homework', { ...this.newHw, teacher_id: this.teacherId || 1 }).subscribe({
+    this.http.post('https://raes-backend.vercel.app/api/homework', { ...this.newHw, teacher_id: this.teacherId || 1 }).subscribe({
       next: () => {
         this.loadHomework();
         this.newHw = { class_id: this.newHw.class_id, subject_id: '', description: '', due_date: '' };
@@ -890,7 +890,7 @@ export class TeacherPortalComponent implements OnInit {
   }
 
   loadPermPayments() {
-    const API = 'http://localhost:3000/api';
+    const API = 'https://raes-backend.vercel.app/api';
     this.http.get<any[]>(`${API}/payments`).subscribe({
       next: d => {
         this.permPayments = d;
@@ -905,28 +905,28 @@ export class TeacherPortalComponent implements OnInit {
   }
 
   loadPermHr() {
-    const API = 'http://localhost:3000/api';
+    const API = 'https://raes-backend.vercel.app/api';
     this.http.get<any[]>(`${API}/employees`).subscribe({
       next: d => { this.permHrList = d; }, error: () => {}
     });
   }
 
   loadPermHrAtt() {
-    const API = 'http://localhost:3000/api';
+    const API = 'https://raes-backend.vercel.app/api';
     this.http.get<any[]>(`${API}/employee-attendance/summary?month=${this.permHrAttMonth}`).subscribe({
       next: d => { this.permHrAtt = d; }, error: () => {}
     });
   }
 
   loadPermTransport() {
-    const API = 'http://localhost:3000/api';
+    const API = 'https://raes-backend.vercel.app/api';
     this.http.get<any[]>(`${API}/transport`).subscribe({
       next: d => { this.permTransport = d; }, error: () => {}
     });
   }
 
   loadPermReports() {
-    const API = 'http://localhost:3000/api';
+    const API = 'https://raes-backend.vercel.app/api';
     let url = `${API}/attendance/report-summary?month=${this.permRptMonth}`;
     if (this.permRptClassId) url += `&class_id=${this.permRptClassId}`;
     this.http.get<any[]>(url).subscribe({
