@@ -64,8 +64,8 @@ const API = 'https://raes-backend.vercel.app/api';
           <li><a (click)="scrollTo('about')">{{ i18n.isEn ? 'Our History' : 'আমাদের ইতিহাস' }}</a></li>
           <li><a (click)="scrollTo('mission')">{{ i18n.isEn ? 'Mission & Vision' : 'লক্ষ্য ও উদ্দেশ্য' }}</a></li>
           <li><a (click)="scrollTo('founder')">{{ i18n.isEn ? "Founder's Message" : 'প্রতিষ্ঠাতার বার্তা' }}</a></li>
-          <li><a (click)="scrollTo('director')">{{ i18n.isEn ? "Director's Message" : 'পরিচালকের বার্তা' }}</a></li>
-          <li><a (click)="scrollTo('principal')">{{ i18n.isEn ? "Principal's Message" : 'প্রধান শিক্ষকের বার্তা' }}</a></li>
+          <li><a (click)="scrollTo('director')">{{ i18n.isEn ? "Managing Director's Message" : 'ব্যবস্থাপনা পরিচালকের বার্তা' }}</a></li>
+          <li><a (click)="scrollTo('principal')">{{ i18n.isEn ? "Director's Message" : 'পরিচালকের বার্তা' }}</a></li>
         </ul>
       </li>
       <li class="has-dropdown">
@@ -182,7 +182,7 @@ const API = 'https://raes-backend.vercel.app/api';
   <div class="section-container">
     <div class="section-title-bar">
       <span class="section-title-line"></span>
-      <h2>{{ i18n.isEn ? "Director's Message" : 'পরিচালকের বার্তা' }}</h2>
+      <h2>{{ i18n.isEn ? "Managing Director's Message" : 'ব্যবস্থাপনা পরিচালকের বার্তা' }}</h2>
       <span class="section-title-line"></span>
     </div>
     <div class="principal-grid director-grid">
@@ -210,7 +210,7 @@ const API = 'https://raes-backend.vercel.app/api';
   <div class="section-container">
     <div class="section-title-bar">
       <span class="section-title-line"></span>
-      <h2>{{ i18n.isEn ? "Principal's Message" : 'প্রধান শিক্ষকের বার্তা' }}</h2>
+      <h2>{{ i18n.isEn ? "Director's Message" : 'পরিচালকের বার্তা' }}</h2>
       <span class="section-title-line"></span>
     </div>
     <div class="principal-grid">

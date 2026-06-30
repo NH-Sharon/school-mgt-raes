@@ -207,37 +207,37 @@ const API = 'https://raes-backend.vercel.app/api';
           </div>
 
           <div class="ap-form-group span2" style="margin-top:.5rem; border-top:1px solid var(--border); padding-top:1rem">
-            <label style="font-size:.9rem; color:var(--dark); font-weight:700">👨‍💼 {{ i18n.isEn ? "Director's Information" : 'পরিচালকের তথ্য' }}</label>
+            <label style="font-size:.9rem; color:var(--dark); font-weight:700">👨‍💼 {{ i18n.isEn ? "Managing Director's Information" : 'ব্যবস্থাপনা পরিচালকের তথ্য' }}</label>
           </div>
-          <div class="ap-form-group"><label>Director Name (EN)</label><input class="ap-input" [(ngModel)]="settings['director_name_en']"></div>
-          <div class="ap-form-group"><label>পরিচালকের নাম</label><input class="ap-input" [(ngModel)]="settings['director_name_bn']"></div>
+          <div class="ap-form-group"><label>Managing Director Name (EN)</label><input class="ap-input" [(ngModel)]="settings['director_name_en']"></div>
+          <div class="ap-form-group"><label>ব্যবস্থাপনা পরিচালকের নাম</label><input class="ap-input" [(ngModel)]="settings['director_name_bn']"></div>
           <div class="ap-form-group"><label>Title (EN)</label><input class="ap-input" [(ngModel)]="settings['director_title_en']"></div>
           <div class="ap-form-group"><label>পদবি (বাংলা)</label><input class="ap-input" [(ngModel)]="settings['director_title_bn']"></div>
           <div class="ap-form-group span2"><label>Message (English)</label><textarea class="ap-input ap-textarea" [(ngModel)]="settings['director_message_en']" rows="4"></textarea></div>
           <div class="ap-form-group span2"><label>বার্তা (বাংলা)</label><textarea class="ap-input ap-textarea" [(ngModel)]="settings['director_message_bn']" rows="4"></textarea></div>
           <div class="ap-form-group span2">
-            <label>Director Photo</label>
+            <label>Managing Director Photo</label>
             <input type="file" accept="image/*" (change)="onDirectorPhoto($event)" class="ap-file-input">
             <div class="ap-image-preview" *ngIf="settings['director_photo']">
-              <img [src]="settings['director_photo']" alt="Director" style="max-height:150px">
+              <img [src]="settings['director_photo']" alt="Managing Director" style="max-height:150px">
               <button class="ap-clear-img" (click)="settings['director_photo']=null">✕ Remove</button>
             </div>
           </div>
 
           <div class="ap-form-group span2" style="margin-top:.5rem; border-top:1px solid var(--border); padding-top:1rem">
-            <label style="font-size:.9rem; color:var(--dark); font-weight:700">👨‍🏫 {{ i18n.isEn ? "Principal's Information" : 'প্রধান শিক্ষকের তথ্য' }}</label>
+            <label style="font-size:.9rem; color:var(--dark); font-weight:700">👨‍🏫 {{ i18n.isEn ? "Director's Information" : 'পরিচালকের তথ্য' }}</label>
           </div>
-          <div class="ap-form-group"><label>Principal Name (EN)</label><input class="ap-input" [(ngModel)]="settings['principal_name_en']"></div>
-          <div class="ap-form-group"><label>প্রধান শিক্ষকের নাম</label><input class="ap-input" [(ngModel)]="settings['principal_name_bn']"></div>
+          <div class="ap-form-group"><label>Director Name (EN)</label><input class="ap-input" [(ngModel)]="settings['principal_name_en']"></div>
+          <div class="ap-form-group"><label>পরিচালকের নাম</label><input class="ap-input" [(ngModel)]="settings['principal_name_bn']"></div>
           <div class="ap-form-group"><label>Title (EN)</label><input class="ap-input" [(ngModel)]="settings['principal_title_en']"></div>
           <div class="ap-form-group"><label>পদবি (বাংলা)</label><input class="ap-input" [(ngModel)]="settings['principal_title_bn']"></div>
           <div class="ap-form-group span2"><label>Message (English)</label><textarea class="ap-input ap-textarea" [(ngModel)]="settings['principal_message_en']" rows="4"></textarea></div>
           <div class="ap-form-group span2"><label>বার্তা (বাংলা)</label><textarea class="ap-input ap-textarea" [(ngModel)]="settings['principal_message_bn']" rows="4"></textarea></div>
           <div class="ap-form-group span2">
-            <label>Principal Photo</label>
+            <label>Director Photo</label>
             <input type="file" accept="image/*" (change)="onPrincipalPhoto($event)" class="ap-file-input">
             <div class="ap-image-preview" *ngIf="settings['principal_photo']">
-              <img [src]="settings['principal_photo']" alt="Principal" style="max-height:150px">
+              <img [src]="settings['principal_photo']" alt="Director" style="max-height:150px">
               <button class="ap-clear-img" (click)="settings['principal_photo']=null">✕ Remove</button>
             </div>
           </div>
