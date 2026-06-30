@@ -55,7 +55,8 @@ const API = 'https://raes-backend.vercel.app/api';
     <div class="nav-brand-mini" (click)="goHome()">
       <span>🏫</span> রওশন আমির
     </div>
-    <ul class="nav-menu">
+    <button class="nav-hamburger" (click)="toggleMobileMenu()" [attr.aria-expanded]="mobileMenuOpen" aria-label="Toggle navigation">☰</button>
+    <ul class="nav-menu" [class.nav-open]="mobileMenuOpen">
       <li><a (click)="goHome()">{{ i18n.isEn ? 'Home' : 'হোম' }}</a></li>
       <li class="has-dropdown">
         <a>{{ i18n.isEn ? 'About' : 'আমাদের সম্পর্কে' }} ▾</a>
@@ -778,6 +779,235 @@ const API = 'https://raes-backend.vercel.app/api';
     .adm-success-card h3 { font-family: 'Noto Serif Bengali', serif; color: #059669; font-size: 1.2rem; margin-bottom: .5rem; }
     .adm-success-card p { color: var(--muted); font-size: .88rem; line-height: 1.6; }
     .nav-admission-link { color: var(--gold) !important; font-weight: 700 !important; }
+
+    /* ── HAMBURGER BUTTON (hidden on desktop) ── */
+    .nav-hamburger {
+      display: none;
+      background: none;
+      border: 2px solid rgba(255,255,255,.45);
+      color: #fff;
+      font-size: 1.3rem;
+      line-height: 1;
+      padding: .25rem .6rem;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-left: auto;
+      flex-shrink: 0;
+    }
+
+    /* ════════════════════════════════════════════
+       TABLET / MOBILE  ≤ 768px
+    ════════════════════════════════════════════ */
+    @media (max-width: 768px) {
+
+      /* ── ALERT BAR ── */
+      .alert-bar { font-size: .75rem; padding: .3rem .75rem; gap: .5rem; }
+
+      /* ── HEADER ── */
+      .header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: .85rem 1rem;
+        gap: .75rem;
+      }
+      .header-logo { font-size: 2rem; }
+      .header-school-name { font-size: 1.05rem; }
+      .header-contact {
+        align-items: flex-start;
+        width: 100%;
+        gap: .25rem;
+      }
+      .contact-item { font-size: .72rem; }
+
+      /* ── NAVIGATION ── */
+      .nav-inner {
+        padding: 0 1rem;
+        flex-wrap: wrap;
+        position: relative;
+      }
+      .nav-brand-mini { display: block; flex: 1; }
+      .nav-hamburger { display: block; }
+      .nav-login-btn { display: none; }
+
+      .nav-menu {
+        display: none;
+        width: 100%;
+        flex-direction: column;
+        background: var(--green-dark);
+        border-top: 1px solid rgba(255,255,255,.1);
+        padding-bottom: .5rem;
+      }
+      .nav-menu.nav-open { display: flex; }
+      .nav-menu li a {
+        padding: .75rem 1rem;
+        font-size: .9rem;
+        border-bottom: 1px solid rgba(255,255,255,.06);
+        white-space: normal;
+      }
+      .has-dropdown .dropdown {
+        display: block;
+        position: static;
+        box-shadow: none;
+        border-top: none;
+        border-left: 3px solid var(--gold);
+        margin-left: 1rem;
+        min-width: unset;
+      }
+      .dropdown li a { padding: .6rem 1rem; font-size: .85rem; }
+
+      /* ── HERO CAROUSEL ── */
+      .hero-carousel { height: 340px; }
+      .slide-content { padding: 0 1.5rem; max-width: 100%; }
+      .slide-title { font-size: 1.45rem; }
+      .slide-subtitle { font-size: .88rem; margin-bottom: 1rem; }
+      .slide-eyebrow { font-size: .72rem; }
+      .slide-btn-primary, .slide-btn-ghost { padding: .55rem 1rem; font-size: .8rem; }
+      .carousel-prev, .carousel-next { width: 36px; height: 36px; font-size: 1.2rem; }
+
+      /* ── QUICK ACCESS ── */
+      .qa-inner { justify-content: flex-start; }
+      .qa-card { min-width: 100px; max-width: none; flex: 0 0 calc(50% - 1px); }
+
+      /* ── STATS STRIP ── */
+      .stats-inner {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0;
+        padding: 1.25rem 1rem;
+      }
+      .stat-box { padding: .85rem .5rem; }
+      .stat-num { font-size: 2.2rem; }
+      .stat-divider {
+        display: none;
+      }
+      /* Restore dividers as bottom borders for the 2×2 grid top row */
+      .stat-box:nth-child(1),
+      .stat-box:nth-child(3) {
+        border-right: 1px solid rgba(255,255,255,.2);
+      }
+      .stat-box:nth-child(1),
+      .stat-box:nth-child(2) {
+        border-bottom: 1px solid rgba(255,255,255,.2);
+      }
+
+      /* ── SECTION SHARED ── */
+      .section-container { padding: 2.5rem 1rem; }
+      .section-title-bar h2 { font-size: 1.25rem; white-space: normal; }
+
+      /* ── PRINCIPAL / FOUNDER / DIRECTOR ── */
+      .principal-grid {
+        grid-template-columns: 1fr !important;
+        gap: 1.5rem;
+      }
+      .director-grid {
+        grid-template-columns: 1fr !important;
+      }
+      .director-photo-col { text-align: left; }
+      .director-photo-col .principal-photo-frame { margin-left: 0; }
+      .principal-photo-frame { width: 160px; height: 180px; }
+
+      /* ── ABOUT ── */
+      .about-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      /* ── PROGRAMS ── */
+      .programs-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      /* ── NOTICE + EVENTS ── */
+      .ne-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+      .event-thumb { width: 56px; height: 48px; }
+
+      /* ── GALLERY ── */
+      .gallery-grid { grid-template-columns: repeat(2, 1fr); gap: .5rem; }
+
+      /* ── ADMISSION ── */
+      .admission-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+      .adm-form-grid { grid-template-columns: 1fr; }
+      .adm-form-group.span2 { grid-column: span 1; }
+
+      /* ── FOOTER ── */
+      .footer-inner {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        padding: 2rem 1rem 1.5rem;
+      }
+      .footer-bottom {
+        flex-direction: column;
+        gap: .75rem;
+        text-align: center;
+        padding: 1rem;
+      }
+    }
+
+    /* ════════════════════════════════════════════
+       SMALL PHONES  ≤ 480px
+    ════════════════════════════════════════════ */
+    @media (max-width: 480px) {
+
+      /* ── HEADER ── */
+      .header-school-name { font-size: .95rem; }
+      .header-logo { font-size: 1.75rem; }
+
+      /* ── HERO ── */
+      .hero-carousel { height: 280px; }
+      .slide-title { font-size: 1.15rem; }
+      .slide-subtitle { font-size: .8rem; }
+      .slide-actions { gap: .5rem; }
+      .slide-btn-primary, .slide-btn-ghost { padding: .45rem .85rem; font-size: .75rem; }
+      .slide-content { padding: 0 1rem; }
+
+      /* ── STATS ── */
+      .stat-num { font-size: 1.9rem; }
+      .stat-lbl { font-size: .72rem; }
+
+      /* ── SECTION TITLES ── */
+      .section-title-bar h2 { font-size: 1.1rem; }
+
+      /* ── QUICK ACCESS ── */
+      .qa-card { padding: 1rem .5rem; }
+      .qa-icon { font-size: 1.4rem; }
+      .qa-label { font-size: .75rem; }
+
+      /* ── PROGRAMS ── */
+      .programs-grid { grid-template-columns: repeat(2, 1fr); gap: .6rem; }
+      .program-card { padding: .85rem .6rem; }
+      .program-badge { font-size: .88rem; }
+
+      /* ── GALLERY ── */
+      .gallery-grid { grid-template-columns: repeat(2, 1fr); }
+
+      /* ── PRINCIPAL ── */
+      .principal-photo-frame { width: 130px; height: 150px; }
+      .principal-quote-mark { font-size: 3.5rem; }
+
+      /* ── NOTICE ROWS ── */
+      .notice-date-badge, .event-date-badge { width: 38px; }
+      .nd-day, .ed-day { font-size: 1rem; }
+
+      /* ── ADMISSION ── */
+      .adm-info-card { padding: 1.25rem 1rem; }
+      .adm-form-card { padding: 1.25rem 1rem; }
+
+      /* ── FOOTER ── */
+      .footer-inner { padding: 1.5rem 1rem 1rem; }
+
+      /* ── ALERT BAR ── */
+      .alert-label { display: none; }
+    }
+
+    /* ── Table overflow safety ── */
+    table { overflow-x: auto; display: block; }
+    *, *::before, *::after { box-sizing: border-box; }
   `]
 })
 export class LandingComponent implements OnInit, OnDestroy {
@@ -786,6 +1016,7 @@ export class LandingComponent implements OnInit, OnDestroy {
   http = inject(HttpClient);
 
   scrolled = false;
+  mobileMenuOpen = false;
   currentYear = new Date().getFullYear();
   currentSlide = 0;
   private slideTimer: any;
@@ -878,9 +1109,11 @@ export class LandingComponent implements OnInit, OnDestroy {
     return m[cat] || 'Event';
   }
 
+  toggleMobileMenu() { this.mobileMenuOpen = !this.mobileMenuOpen; }
+
   goHome() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
   goToLogin() { this.router.navigate(['/login']); }
-  scrollTo(id: string) { document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  scrollTo(id: string) { this.mobileMenuOpen = false; document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
 
   submitAdmission() {
     this.admFormError = '';

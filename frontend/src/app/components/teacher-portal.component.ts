@@ -12,8 +12,12 @@ import { AuthService } from '../services/auth.service';
   imports: [CommonModule, FormsModule],
   template: `
 <div class="portal-wrap">
+  <!-- Mobile hamburger -->
+  <button class="sidebar-toggle" (click)="sidebarOpen=true">☰</button>
+  <!-- Sidebar backdrop -->
+  <div class="sidebar-backdrop" [class.open]="sidebarOpen" (click)="sidebarOpen=false"></div>
   <!-- SIDEBAR -->
-  <aside class="sidebar">
+  <aside class="sidebar" [class.open]="sidebarOpen">
     <div class="sidebar-brand">
       <div class="sidebar-logo">🏫</div>
       <div class="sidebar-school">{{ i18n.isEn ? 'Rowshon Amir' : 'রওশন আমির' }}</div>
@@ -21,43 +25,43 @@ import { AuthService } from '../services/auth.service';
     </div>
     <nav class="sidebar-nav">
       <div class="nav-section-label">{{ i18n.isEn ? 'Academic' : 'একাডেমিক' }}</div>
-      <button [class.active]="activeTab==='overview'" (click)="activeTab='overview'">
+      <button [class.active]="activeTab==='overview'" (click)="activeTab='overview'; sidebarOpen=false">
         <span class="nav-icon">📊</span> {{ i18n.isEn ? 'Overview' : 'সারসংক্ষেপ' }}
       </button>
-      <button [class.active]="activeTab==='attendance'" (click)="activeTab='attendance'; loadAttendance()">
+      <button [class.active]="activeTab==='attendance'" (click)="activeTab='attendance'; loadAttendance(); sidebarOpen=false">
         <span class="nav-icon">📅</span> {{ i18n.t('attendance') }}
       </button>
-      <button [class.active]="activeTab==='homework'" (click)="activeTab='homework'; loadHomework()">
+      <button [class.active]="activeTab==='homework'" (click)="activeTab='homework'; loadHomework(); sidebarOpen=false">
         <span class="nav-icon">📚</span> {{ i18n.t('homework') }}
       </button>
-      <button [class.active]="activeTab==='students'" (click)="activeTab='students'">
+      <button [class.active]="activeTab==='students'" (click)="activeTab='students'; sidebarOpen=false">
         <span class="nav-icon">👨‍🎓</span> {{ i18n.t('myStudents') }}
       </button>
-      <button [class.active]="activeTab==='exams'" (click)="activeTab='exams'">
+      <button [class.active]="activeTab==='exams'" (click)="activeTab='exams'; sidebarOpen=false">
         <span class="nav-icon">📋</span> {{ i18n.t('exams') }}
       </button>
       <!-- Permission-based extra modules -->
       <ng-container *ngIf="hasPerm('finance')">
         <div class="nav-section-label">{{ i18n.isEn ? 'Finance' : 'ফিনান্স' }}</div>
-        <button [class.active]="activeTab==='payments'" (click)="activeTab='payments'; loadPermPayments()">
+        <button [class.active]="activeTab==='payments'" (click)="activeTab='payments'; loadPermPayments(); sidebarOpen=false">
           <span class="nav-icon">💰</span> {{ i18n.isEn ? 'Payments' : 'পেমেন্ট' }}
         </button>
       </ng-container>
       <ng-container *ngIf="hasPerm('hr')">
         <div class="nav-section-label">{{ i18n.isEn ? 'HR' : 'এইচআর' }}</div>
-        <button [class.active]="activeTab==='hr'" (click)="activeTab='hr'; loadPermHr()">
+        <button [class.active]="activeTab==='hr'" (click)="activeTab='hr'; loadPermHr(); sidebarOpen=false">
           <span class="nav-icon">👔</span> {{ i18n.isEn ? 'HR Management' : 'কর্মী ব্যবস্থাপনা' }}
         </button>
       </ng-container>
       <ng-container *ngIf="hasPerm('transport')">
         <div class="nav-section-label">{{ i18n.isEn ? 'Transport' : 'পরিবহন' }}</div>
-        <button [class.active]="activeTab==='transport'" (click)="activeTab='transport'; loadPermTransport()">
+        <button [class.active]="activeTab==='transport'" (click)="activeTab='transport'; loadPermTransport(); sidebarOpen=false">
           <span class="nav-icon">🚌</span> {{ i18n.isEn ? 'Transport' : 'পরিবহন' }}
         </button>
       </ng-container>
       <ng-container *ngIf="hasPerm('reports')">
         <div class="nav-section-label">{{ i18n.isEn ? 'Reports' : 'রিপোর্ট' }}</div>
-        <button [class.active]="activeTab==='reports'" (click)="activeTab='reports'; loadPermReports()">
+        <button [class.active]="activeTab==='reports'" (click)="activeTab='reports'; loadPermReports(); sidebarOpen=false">
           <span class="nav-icon">📊</span> {{ i18n.isEn ? 'Reports' : 'রিপোর্ট' }}
         </button>
       </ng-container>
@@ -194,6 +198,7 @@ import { AuthService } from '../services/auth.service';
           </button>
         </div>
         <div id="att-report-print-area">
+          <div class="table-scroll-wrap">
           <table class="data-table att-report-table" *ngIf="attReport.length">
             <thead>
               <tr>
@@ -226,6 +231,7 @@ import { AuthService } from '../services/auth.service';
               </tr>
             </tbody>
           </table>
+          </div>
         </div>
         <div class="empty-state" *ngIf="!attReport.length">{{ i18n.isEn ? 'No attendance records found' : 'কোনো উপস্থিতি রেকর্ড নেই' }}</div>
       </div>
@@ -273,6 +279,7 @@ import { AuthService } from '../services/auth.service';
         <h1 class="page-title">{{ i18n.t('myStudents') }}</h1>
       </div>
       <div class="section-card">
+        <div class="table-scroll-wrap">
         <table class="data-table">
           <thead>
             <tr>
@@ -301,6 +308,7 @@ import { AuthService } from '../services/auth.service';
             </tr>
           </tbody>
         </table>
+        </div>
         <div class="empty-state" *ngIf="!students.length">{{ i18n.isEn ? 'No students found' : 'কোনো শিক্ষার্থী পাওয়া যায়নি' }}</div>
       </div>
     </div>
@@ -350,6 +358,7 @@ import { AuthService } from '../services/auth.service';
         </div>
       </div>
       <div class="section-card">
+        <div class="table-scroll-wrap">
         <table class="data-table" *ngIf="permPayments.length">
           <thead>
             <tr>
@@ -377,6 +386,7 @@ import { AuthService } from '../services/auth.service';
             </tr>
           </tbody>
         </table>
+        </div>
         <div class="empty-state" *ngIf="!permPayments.length">{{ i18n.isEn ? 'No payment records' : 'পেমেন্ট রেকর্ড নেই' }}</div>
       </div>
     </div>
@@ -396,6 +406,7 @@ import { AuthService } from '../services/auth.service';
       </div>
       <!-- Employee List -->
       <div class="section-card" *ngIf="hrSubTab==='employees'">
+        <div class="table-scroll-wrap">
         <table class="data-table" *ngIf="permHrList.length">
           <thead>
             <tr>
@@ -421,6 +432,7 @@ import { AuthService } from '../services/auth.service';
             </tr>
           </tbody>
         </table>
+        </div>
         <div class="empty-state" *ngIf="!permHrList.length">{{ i18n.isEn ? 'No employees' : 'কোনো কর্মচারী নেই' }}</div>
       </div>
       <!-- HR Attendance -->
@@ -428,6 +440,7 @@ import { AuthService } from '../services/auth.service';
         <div class="filter-row" style="margin-bottom:1rem">
           <input type="month" class="form-input" [(ngModel)]="permHrAttMonth" (change)="loadPermHrAtt()" style="width:180px">
         </div>
+        <div class="table-scroll-wrap">
         <table class="data-table" *ngIf="permHrAtt.length">
           <thead>
             <tr>
@@ -453,6 +466,7 @@ import { AuthService } from '../services/auth.service';
             </tr>
           </tbody>
         </table>
+        </div>
         <div class="empty-state" *ngIf="!permHrAtt.length">{{ i18n.isEn ? 'No attendance data' : 'উপস্থিতি তথ্য নেই' }}</div>
       </div>
     </div>
@@ -463,6 +477,7 @@ import { AuthService } from '../services/auth.service';
         <h1 class="page-title">🚌 {{ i18n.isEn ? 'Transport' : 'পরিবহন' }}</h1>
       </div>
       <div class="section-card">
+        <div class="table-scroll-wrap">
         <table class="data-table" *ngIf="permTransport.length">
           <thead>
             <tr>
@@ -488,6 +503,7 @@ import { AuthService } from '../services/auth.service';
             </tr>
           </tbody>
         </table>
+        </div>
         <div class="empty-state" *ngIf="!permTransport.length">{{ i18n.isEn ? 'No transport routes' : 'কোনো রুট নেই' }}</div>
       </div>
     </div>
@@ -509,6 +525,7 @@ import { AuthService } from '../services/auth.service';
           <button class="btn-primary" (click)="printAttReport()" *ngIf="permRptData.length" style="margin-left:auto">🖨️ {{ i18n.isEn ? 'Print' : 'প্রিন্ট' }}</button>
         </div>
         <div id="att-report-print-area">
+          <div class="table-scroll-wrap">
           <table class="data-table" *ngIf="permRptData.length">
             <thead>
               <tr>
@@ -533,6 +550,7 @@ import { AuthService } from '../services/auth.service';
               </tr>
             </tbody>
           </table>
+          </div>
         </div>
         <div class="empty-state" *ngIf="!permRptData.length">{{ i18n.isEn ? 'Select class and month' : 'শ্রেণী ও মাস নির্বাচন করুন' }}</div>
       </div>
@@ -729,6 +747,129 @@ import { AuthService } from '../services/auth.service';
     .status-scheduled { background: #DBEAFE; color: #1E40AF; }
     .status-ongoing { background: #D1FAE5; color: #065F46; }
     .status-completed { background: #F3F4F6; color: #374151; }
+
+    /* ===== MOBILE RESPONSIVE ===== */
+
+    /* Hamburger toggle button — shown on mobile only */
+    .sidebar-toggle {
+      display: none;
+      position: fixed;
+      top: 0.75rem;
+      left: 0.75rem;
+      z-index: 200;
+      background: var(--surface-dark);
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      padding: 0.45rem 0.65rem;
+      font-size: 1.1rem;
+      cursor: pointer;
+      line-height: 1;
+    }
+
+    /* Sidebar overlay backdrop */
+    .sidebar-backdrop {
+      display: none;
+    }
+
+    @media (max-width: 768px) {
+      /* Show hamburger */
+      .sidebar-toggle { display: block; }
+
+      /* Sidebar: hidden off-screen by default, slides in when .open */
+      .sidebar {
+        position: fixed;
+        left: -260px;
+        top: 0;
+        height: 100vh;
+        z-index: 150;
+        transition: left 0.25s ease;
+        width: 240px;
+      }
+      .sidebar.open { left: 0; }
+
+      /* Backdrop */
+      .sidebar-backdrop {
+        display: block;
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.45);
+        z-index: 140;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.25s;
+      }
+      .sidebar-backdrop.open { opacity: 1; pointer-events: auto; }
+
+      /* Main takes full width; add top padding for hamburger button */
+      .portal-main { width: 100%; padding-top: 3rem; }
+      .tab-content { padding: 1rem; }
+
+      /* Page header: stack vertically */
+      .page-header { flex-direction: column; gap: 0.4rem; margin-bottom: 1rem; }
+      .page-title { font-size: 1.35rem; }
+      .header-date { font-size: 0.75rem; }
+
+      /* Stats: 2 columns */
+      .overview-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
+      .perm-stat-row { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
+
+      /* Section card: less padding */
+      .section-card { padding: 1rem; }
+
+      /* Tables: horizontal scroll via wrapper div */
+      .table-scroll-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+      /* Homework form: single column */
+      .form-grid { grid-template-columns: 1fr; }
+      .span-full { grid-column: 1; }
+
+      /* Filter row: wrap and stack */
+      .filter-row { flex-direction: column; align-items: stretch; }
+      .filter-row .form-select,
+      .filter-row .form-input,
+      .filter-row .btn-primary,
+      .filter-row .btn-success { width: 100%; }
+
+      /* Attendance sub-tabs: scrollable */
+      .att-subtabs {
+        overflow-x: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 0.25rem;
+        gap: 0.4rem;
+      }
+      .att-subtabs button { white-space: nowrap; }
+
+      /* HR sub-tabs */
+      .perm-hr-subtabs {
+        overflow-x: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 0.25rem;
+      }
+      .perm-hr-subtabs button { white-space: nowrap; }
+
+      /* Attendance row: stack student name above radio chips */
+      .att-row { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+      .att-student { min-width: unset; }
+      .att-radio-group { flex-wrap: wrap; }
+
+      /* Classes grid auto columns work fine on mobile already */
+      .classes-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    @media (max-width: 480px) {
+      .overview-grid { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+      .perm-stat-row { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+      .stat-tile { padding: 0.9rem; }
+      .tile-value { font-size: 1.4rem; }
+      .section-card { padding: 0.75rem; }
+      .tab-content { padding: 0.75rem; }
+      .page-title { font-size: 1.2rem; }
+      .classes-grid { grid-template-columns: 1fr 1fr; }
+      .radio-chip { padding: 0.2rem 0.45rem; font-size: 0.7rem; }
+    }
   `]
 })
 export class TeacherPortalComponent implements OnInit {
@@ -738,6 +879,7 @@ export class TeacherPortalComponent implements OnInit {
   http = inject(HttpClient);
 
   activeTab = 'overview';
+  sidebarOpen = false;
   todayLabel = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
   userName = '';

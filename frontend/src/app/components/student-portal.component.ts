@@ -11,27 +11,31 @@ import { AuthService } from '../services/auth.service';
   imports: [CommonModule],
   template: `
 <div class="portal-wrap">
+  <!-- Mobile hamburger -->
+  <button class="sidebar-toggle" (click)="sidebarOpen=true">☰</button>
+  <!-- Sidebar backdrop -->
+  <div class="sidebar-backdrop" [class.open]="sidebarOpen" (click)="sidebarOpen=false"></div>
   <!-- SIDEBAR -->
-  <aside class="sidebar">
+  <aside class="sidebar" [class.open]="sidebarOpen">
     <div class="sidebar-brand">
       <div class="sidebar-logo">🏫</div>
       <div class="sidebar-school">{{ i18n.isEn ? 'Rowshon Amir' : 'রওশন আমির' }}</div>
       <div class="sidebar-role-badge">{{ i18n.t('studentPortal') }}</div>
     </div>
     <nav class="sidebar-nav">
-      <button [class.active]="activeTab==='overview'" (click)="activeTab='overview'">
+      <button [class.active]="activeTab==='overview'" (click)="activeTab='overview'; sidebarOpen=false">
         <span class="nav-icon">📊</span> {{ i18n.isEn ? 'Overview' : 'সারসংক্ষেপ' }}
       </button>
-      <button [class.active]="activeTab==='grades'" (click)="activeTab='grades'">
+      <button [class.active]="activeTab==='grades'" (click)="activeTab='grades'; sidebarOpen=false">
         <span class="nav-icon">📝</span> {{ i18n.t('myGrades') }}
       </button>
-      <button [class.active]="activeTab==='attendance'" (click)="activeTab='attendance'">
+      <button [class.active]="activeTab==='attendance'" (click)="activeTab='attendance'; sidebarOpen=false">
         <span class="nav-icon">📅</span> {{ i18n.t('myAttendance') }}
       </button>
-      <button [class.active]="activeTab==='homework'" (click)="activeTab='homework'">
+      <button [class.active]="activeTab==='homework'" (click)="activeTab='homework'; sidebarOpen=false">
         <span class="nav-icon">📚</span> {{ i18n.t('myHomework') }}
       </button>
-      <button [class.active]="activeTab==='fees'" (click)="activeTab='fees'">
+      <button [class.active]="activeTab==='fees'" (click)="activeTab='fees'; sidebarOpen=false">
         <span class="nav-icon">💳</span> {{ i18n.t('myPayments') }}
       </button>
     </nav>
@@ -206,6 +210,7 @@ import { AuthService } from '../services/auth.service';
           </div>
         </div>
         <!-- Fee table -->
+        <div class="table-scroll-wrap">
         <table class="fee-table" *ngIf="payments.length > 0">
           <thead>
             <tr>
@@ -232,6 +237,7 @@ import { AuthService } from '../services/auth.service';
             </tr>
           </tbody>
         </table>
+        </div>
         <div class="empty-state" *ngIf="payments.length === 0">
           {{ i18n.isEn ? 'No payment records' : 'কোনো পেমেন্ট রেকর্ড নেই' }}
         </div>
@@ -460,6 +466,106 @@ import { AuthService } from '../services/auth.service';
     .fstatus-paid { background: #D1FAE5; color: #065F46; }
     .fstatus-pending { background: #FEF3C7; color: #92400E; }
     .fstatus-overdue { background: #FEE2E2; color: #991B1B; }
+
+    /* ===== MOBILE RESPONSIVE ===== */
+
+    /* Hamburger toggle button */
+    .sidebar-toggle {
+      display: none;
+      position: fixed;
+      top: 0.75rem;
+      left: 0.75rem;
+      z-index: 200;
+      background: var(--surface-dark);
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      padding: 0.45rem 0.65rem;
+      font-size: 1.1rem;
+      cursor: pointer;
+      line-height: 1;
+    }
+
+    /* Sidebar backdrop */
+    .sidebar-backdrop { display: none; }
+
+    /* Table scroll wrapper */
+    .table-scroll-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+    @media (max-width: 768px) {
+      /* Show hamburger */
+      .sidebar-toggle { display: block; }
+
+      /* Sidebar: slide in from left */
+      .sidebar {
+        position: fixed;
+        left: -260px;
+        top: 0;
+        height: 100vh;
+        z-index: 150;
+        transition: left 0.25s ease;
+        width: 240px;
+      }
+      .sidebar.open { left: 0; }
+
+      /* Backdrop */
+      .sidebar-backdrop {
+        display: block;
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.45);
+        z-index: 140;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.25s;
+      }
+      .sidebar-backdrop.open { opacity: 1; pointer-events: auto; }
+
+      /* Main: full width, top padding for hamburger */
+      .portal-main { width: 100%; padding-top: 3rem; }
+      .tab-content { padding: 1rem; }
+
+      /* Page header: stack */
+      .page-header { flex-direction: column; gap: 0.4rem; margin-bottom: 1rem; }
+      .page-title { font-size: 1.35rem; }
+      .header-date { font-size: 0.75rem; }
+
+      /* Stat tiles: 2 columns */
+      .overview-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
+
+      /* Section card: less padding */
+      .section-card { padding: 1rem; }
+
+      /* Grades: stack the result-card columns */
+      .result-card {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+        gap: 0.5rem;
+      }
+      .result-bar-wrap { grid-column: 1 / -1; }
+
+      /* Attendance summary: stack vertically */
+      .attendance-summary { flex-direction: column; gap: 1.5rem; align-items: flex-start; }
+
+      /* Fee summary bar: single column on small screens */
+      .fee-summary-bar { flex-direction: column; }
+      .fee-sum-item { min-width: unset; }
+
+      /* Fee table: horizontal scroll */
+      .fee-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    }
+
+    @media (max-width: 480px) {
+      .overview-grid { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+      .stat-tile { padding: 0.9rem; }
+      .tile-value { font-size: 1.4rem; }
+      .section-card { padding: 0.75rem; }
+      .tab-content { padding: 0.75rem; }
+      .page-title { font-size: 1.2rem; }
+      .result-card { grid-template-columns: 1fr; }
+      .result-bar-wrap { grid-column: 1; }
+      .result-score, .result-grade { justify-self: start; }
+    }
   `]
 })
 export class StudentPortalComponent implements OnInit {
@@ -469,6 +575,7 @@ export class StudentPortalComponent implements OnInit {
   http = inject(HttpClient);
 
   activeTab = 'overview';
+  sidebarOpen = false;
   todayLabel = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
   userName = '';

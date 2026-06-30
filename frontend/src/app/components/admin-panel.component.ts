@@ -16,9 +16,17 @@ const API = 'https://raes-backend.vercel.app/api';
 <!-- Toast notification -->
 <div class="ap-toast" *ngIf="toastMsg" [class.ap-toast-show]="toastMsg">{{ toastMsg }}</div>
 
+<!-- Mobile top bar -->
+<div class="ap-mobile-bar">
+  <button class="ap-hamburger" (click)="toggleSidebar()">☰</button>
+  <span class="ap-mobile-title">🏫 RAES Admin</span>
+  <span class="ap-mobile-section">{{ activeSection }}</span>
+</div>
+<div class="ap-sidebar-overlay" *ngIf="sidebarOpen" (click)="toggleSidebar()"></div>
+
 <div class="ap-wrap">
   <!-- SIDEBAR -->
-  <aside class="ap-sidebar">
+  <aside class="ap-sidebar" [class.open]="sidebarOpen">
     <div class="ap-brand">
       <div class="ap-logo">🏫</div>
       <div class="ap-school">{{ i18n.isEn ? 'Rowshon Amir' : 'রওশন আমির' }}</div>
@@ -2027,6 +2035,285 @@ const API = 'https://raes-backend.vercel.app/api';
     /* Toast */
     .ap-toast { position: fixed; bottom: 2rem; right: 2rem; background: #1A4731; color: #fff; padding: .75rem 1.5rem; border-radius: 8px; font-size: .88rem; font-weight: 600; z-index: 9999; box-shadow: 0 4px 20px rgba(0,0,0,0.25); font-family: 'Noto Sans Bengali', 'DM Sans', sans-serif; animation: slideIn .25s ease; }
     @keyframes slideIn { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+    /* ── MOBILE BAR (hidden on desktop) ── */
+    .ap-mobile-bar { display: none; }
+    .ap-sidebar-overlay { display: none; }
+
+    /* ── MOBILE RESPONSIVE ── */
+    @media (max-width: 768px) {
+      /* Mobile top bar */
+      .ap-mobile-bar {
+        display: flex;
+        align-items: center;
+        background: var(--dark);
+        color: #fff;
+        padding: 0.6rem 1rem;
+        position: sticky;
+        top: 0;
+        z-index: 1001;
+        gap: 0.75rem;
+      }
+      .ap-hamburger {
+        background: none;
+        border: none;
+        color: #fff;
+        font-size: 1.3rem;
+        cursor: pointer;
+        padding: 0.1rem 0.3rem;
+        line-height: 1;
+        flex-shrink: 0;
+      }
+      .ap-mobile-title {
+        flex: 1;
+        font-weight: 700;
+        font-size: 0.95rem;
+        text-align: center;
+        font-family: 'Noto Serif Bengali', serif;
+      }
+      .ap-mobile-section {
+        font-size: 0.72rem;
+        color: rgba(255,255,255,0.65);
+        text-align: right;
+        flex-shrink: 0;
+        max-width: 100px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      /* Sidebar overlay */
+      .ap-sidebar-overlay {
+        display: block;
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.5);
+        z-index: 999;
+      }
+
+      /* Sidebar: fixed, slides in from left */
+      .ap-sidebar {
+        position: fixed;
+        left: 0;
+        top: 0;
+        height: 100vh;
+        z-index: 1000;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease;
+        width: 240px;
+      }
+      .ap-sidebar.open {
+        transform: translateX(0);
+      }
+
+      /* Main layout stacks vertically */
+      .ap-wrap {
+        flex-direction: column;
+      }
+      .ap-main {
+        width: 100%;
+        min-height: calc(100vh - 50px);
+      }
+
+      /* Section padding reduced on mobile */
+      .ap-section {
+        padding: 1rem;
+        max-width: 100%;
+      }
+
+      /* Page header: stack title and button vertically */
+      .ap-page-head {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.75rem;
+      }
+      .ap-page-head h1 {
+        font-size: 1.2rem;
+      }
+
+      /* Stat cards: 2 columns on mobile */
+      .ap-stat-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.6rem;
+      }
+      .ap-stat-val {
+        font-size: 1.5rem;
+      }
+
+      /* Quick cards: 2 columns on mobile */
+      .ap-quick-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.5rem;
+      }
+
+      /* Tables: wrap in overflow container */
+      .ap-card {
+        overflow-x: auto;
+        padding: 0.75rem;
+      }
+      .ap-table {
+        min-width: 480px;
+      }
+
+      /* Forms: single column on mobile */
+      .ap-form-grid {
+        grid-template-columns: 1fr;
+      }
+      .span2 {
+        grid-column: 1;
+      }
+
+      /* Modals: full-screen on mobile */
+      .ap-modal-bg {
+        padding: 0;
+        align-items: flex-end;
+      }
+      .ap-modal {
+        max-width: 100%;
+        width: 100%;
+        max-height: 92vh;
+        border-radius: 16px 16px 0 0;
+      }
+      .ap-modal-lg {
+        max-width: 100%;
+      }
+
+      /* Action buttons: wrap if needed */
+      .ap-action-row {
+        flex-wrap: wrap;
+      }
+
+      /* Toolbar: stack filters */
+      .ap-toolbar {
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      .ap-search {
+        width: 100%;
+        min-width: unset;
+      }
+      .ap-filter {
+        width: 100%;
+      }
+
+      /* Filter row */
+      .ap-filter-row {
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      .ap-filter-row select,
+      .ap-filter-row input {
+        width: 100% !important;
+      }
+
+      /* Attendance rows: stack on very small screens */
+      .ap-att-header {
+        display: none;
+      }
+      .ap-att-row {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+      .ap-att-roll,
+      .ap-att-sid {
+        width: auto;
+      }
+      .ap-radio-group {
+        width: 100%;
+      }
+
+      /* Profile view: stack photo and fields */
+      .ap-profile-view {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 0 1rem 1rem;
+      }
+      .ap-profile-fields {
+        grid-template-columns: 1fr;
+      }
+
+      /* Payment stats row: wrap */
+      .ap-stat-row {
+        gap: 0.5rem;
+      }
+      .ap-mini-stat {
+        flex: 1;
+        min-width: calc(50% - 0.25rem);
+        font-size: 0.75rem;
+        padding: 0.5rem 0.6rem;
+      }
+
+      /* Pay class grid: 2 columns */
+      .ap-pay-class-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.5rem;
+      }
+
+      /* Permission modules: single column */
+      .ap-perm-modules {
+        grid-template-columns: 1fr;
+      }
+
+      /* Tab bars */
+      .ap-tab-bar,
+      .ap-subtabs {
+        flex-wrap: wrap;
+        gap: 0.4rem;
+      }
+      .ap-tab-bar button,
+      .ap-subtabs button {
+        font-size: 0.75rem;
+        padding: 0.35rem 0.6rem;
+      }
+
+      /* Slides grid: single column */
+      .ap-slides-grid {
+        grid-template-columns: 1fr;
+      }
+
+      /* Gallery grid: 2 columns */
+      .ap-gallery-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.5rem;
+      }
+
+      /* HR attendance buttons: wrap */
+      .ap-att-btns {
+        flex-wrap: wrap;
+        gap: 0.3rem;
+      }
+      .ap-att-btn {
+        font-size: 0.72rem;
+        padding: 0.25rem 0.5rem;
+      }
+
+      /* Button sizes */
+      .ap-btn-primary,
+      .ap-btn-ghost {
+        width: 100%;
+        text-align: center;
+      }
+      .ap-page-head .ap-btn-primary,
+      .ap-page-head .ap-btn-ghost {
+        width: auto;
+      }
+
+      /* Permission section */
+      .ap-perm-section {
+        margin: 0.5rem 0.75rem 0;
+      }
+
+      /* Modal form grid padding */
+      .ap-modal .ap-form-grid {
+        padding: 0 1rem;
+      }
+      .ap-modal-head {
+        padding: 1rem 1rem 0;
+      }
+      .ap-modal-foot {
+        padding: 0.75rem 1rem 1rem;
+      }
+    }
   `]
 })
 export class AdminPanelComponent implements OnInit {
@@ -2036,6 +2323,8 @@ export class AdminPanelComponent implements OnInit {
   http = inject(HttpClient);
 
   activeSection = 'dashboard';
+  sidebarOpen = false;
+  toggleSidebar() { this.sidebarOpen = !this.sidebarOpen; }
   today = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
   userName = 'Admin';
@@ -2254,6 +2543,7 @@ export class AdminPanelComponent implements OnInit {
   }
 
   go(section: string) {
+    this.sidebarOpen = false;
     this.activeSection = section;
     switch (section) {
       case 'notices': this.loadNotices(); break;
