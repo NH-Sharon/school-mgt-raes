@@ -1,0 +1,13 @@
+{
+  "name": "BdVirtualLab",
+  "short_name": "BdVirtualLab",
+  "description": "Interactive Lab Simulation, Learning & MCQ Examination Platform for Classes 6-12 (NCTB)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9f9",
+  "theme_color": "#1a6d5e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
