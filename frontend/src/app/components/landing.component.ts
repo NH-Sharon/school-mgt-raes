@@ -81,7 +81,10 @@ const API = 'https://raes-backend.vercel.app/api';
       <li><a (click)="scrollTo('gallery-section')">{{ i18n.isEn ? 'Gallery' : 'গ্যালারি' }}</a></li>
       <li><a (click)="scrollTo('admission-section')" class="nav-admission-link">🎓 {{ i18n.isEn ? 'Admission' : 'ভর্তি' }}</a></li>
       <li><a (click)="scrollTo('contact')">{{ i18n.isEn ? 'Contact' : 'যোগাযোগ' }}</a></li>
+      <li><a (click)="goToLab()" style="color:#0e7490;font-weight:700">🔬 {{ i18n.isEn ? 'Virtual Lab' : 'ভার্চুয়াল ল্যাব' }}</a></li>
+      <li><a (click)="goToLogin()" style="color:var(--gold);font-weight:700">{{ i18n.isEn ? '🔑 Login Portal' : '🔑 পোর্টালে প্রবেশ' }}</a></li>
     </ul>
+    <button class="nav-lab-btn" (click)="goToLab()">{{ i18n.isEn ? '🔬 Virtual Lab' : '🔬 ভার্চুয়াল ল্যাব' }}</button>
     <button class="nav-login-btn" (click)="goToLogin()">{{ i18n.isEn ? 'Login Portal' : 'পোর্টালে প্রবেশ' }}</button>
   </div>
 </nav>
@@ -117,6 +120,10 @@ const API = 'https://raes-backend.vercel.app/api';
 <!-- ═══ QUICK ACCESS CARDS ═══ -->
 <section class="quick-access">
   <div class="qa-inner">
+    <div class="qa-card qa-card-lab" (click)="goToLab()">
+      <div class="qa-icon">🔬</div>
+      <div class="qa-label">{{ i18n.isEn ? 'Virtual Lab' : 'ভার্চুয়াল ল্যাব' }}</div>
+    </div>
     <div class="qa-card" *ngFor="let q of quickLinks" (click)="handleQuickLink(q)">
       <div class="qa-icon">{{ q.icon }}</div>
       <div class="qa-label">{{ i18n.isEn ? q.label_en : q.label_bn }}</div>
@@ -583,6 +590,8 @@ const API = 'https://raes-backend.vercel.app/api';
     .dropdown { display: none; position: absolute; top: 100%; left: 0; background: var(--green-dark); min-width: 200px; box-shadow: 0 8px 24px rgba(0,0,0,0.3); z-index: 300; border-top: 3px solid var(--gold); }
     .has-dropdown:hover .dropdown { display: block; }
     .dropdown li a { padding: .65rem 1rem; font-size: .8rem; border-bottom: 1px solid rgba(255,255,255,.06); }
+    .nav-lab-btn { background: #0e7490; color: #fff; border: none; padding: .5rem 1.1rem; border-radius: 3px; font-size: .82rem; font-weight: 700; cursor: pointer; white-space: nowrap; font-family: 'Noto Sans Bengali', 'DM Sans', sans-serif; transition: background .15s; flex-shrink: 0; }
+    .nav-lab-btn:hover { background: #0c6476; }
     .nav-login-btn { background: var(--gold); color: #fff; border: none; padding: .5rem 1.2rem; border-radius: 3px; font-size: .82rem; font-weight: 700; cursor: pointer; white-space: nowrap; font-family: 'Noto Sans Bengali', 'DM Sans', sans-serif; transition: background .15s; flex-shrink: 0; }
     .nav-login-btn:hover { background: #b87a14; }
 
@@ -620,6 +629,10 @@ const API = 'https://raes-backend.vercel.app/api';
     .qa-card:last-child { border-right: none; }
     .qa-card:hover { background: var(--green); }
     .qa-card:hover .qa-icon, .qa-card:hover .qa-label { color: #fff; }
+    .qa-card-lab { background: #ecfeff; }
+    .qa-card-lab .qa-icon, .qa-card-lab .qa-label { color: #0e7490; }
+    .qa-card-lab:hover { background: #0e7490 !important; }
+    .qa-card-lab:hover .qa-icon, .qa-card-lab:hover .qa-label { color: #fff !important; }
     .qa-icon { font-size: 1.8rem; transition: color .2s; }
     .qa-label { font-size: .82rem; font-weight: 600; color: var(--text); text-align: center; font-family: 'Noto Sans Bengali', 'DM Sans', sans-serif; transition: color .2s; }
 
@@ -828,6 +841,7 @@ const API = 'https://raes-backend.vercel.app/api';
       .nav-brand-mini { display: block; flex: 1; }
       .nav-hamburger { display: block; }
       .nav-login-btn { display: none; }
+      .nav-lab-btn { display: none; }
 
       .nav-menu {
         display: none;
@@ -1113,6 +1127,7 @@ export class LandingComponent implements OnInit, OnDestroy {
 
   goHome() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
   goToLogin() { this.router.navigate(['/login']); }
+  goToLab() { window.open('https://bdvirtuallab-frontend.vercel.app', '_blank'); }
   scrollTo(id: string) { this.mobileMenuOpen = false; document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
 
   submitAdmission() {
