@@ -81,8 +81,6 @@ const API = 'https://raes-backend.vercel.app/api';
       <li><a (click)="scrollTo('gallery-section')">{{ i18n.isEn ? 'Gallery' : 'গ্যালারি' }}</a></li>
       <li><a (click)="scrollTo('admission-section')" class="nav-admission-link">🎓 {{ i18n.isEn ? 'Admission' : 'ভর্তি' }}</a></li>
       <li><a (click)="scrollTo('contact')">{{ i18n.isEn ? 'Contact' : 'যোগাযোগ' }}</a></li>
-      <li><a (click)="goToLab()" style="color:#0e7490;font-weight:700">🔬 {{ i18n.isEn ? 'Virtual Lab' : 'ভার্চুয়াল ল্যাব' }}</a></li>
-      <li><a (click)="goToLogin()" style="color:var(--gold);font-weight:700">{{ i18n.isEn ? '🔑 Login Portal' : '🔑 পোর্টালে প্রবেশ' }}</a></li>
     </ul>
     <button class="nav-lab-btn" (click)="goToLab()">{{ i18n.isEn ? '🔬 Virtual Lab' : '🔬 ভার্চুয়াল ল্যাব' }}</button>
     <button class="nav-login-btn" (click)="goToLogin()">{{ i18n.isEn ? 'Login Portal' : 'পোর্টালে প্রবেশ' }}</button>
