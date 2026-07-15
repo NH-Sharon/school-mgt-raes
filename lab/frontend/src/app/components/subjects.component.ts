@@ -27,6 +27,7 @@ import { I18nService } from '../services/i18n.service';
       <div *ngIf="activeSubject">
         <button class="back-link" (click)="activeSubject = null">&larr; {{ i18n.isEn ? 'Back to subjects' : 'বিষয়ে ফিরুন' }}</button>
         <h3>{{ i18n.isEn ? activeSubject.name_en : activeSubject.name_bn }}</h3>
+        <p class="empty-hint" *ngIf="loading">{{ i18n.t('loading') }}</p>
         <p class="empty-hint" *ngIf="!loading && chapters.length === 0">
           {{ i18n.isEn ? 'No published chapters for this class yet.' : 'এই শ্রেণির জন্য এখনো কোনো অধ্যায় প্রকাশিত হয়নি।' }}
         </p>

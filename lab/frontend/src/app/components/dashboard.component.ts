@@ -10,6 +10,9 @@ import { I18nService } from '../services/i18n.service';
   imports: [CommonModule],
   template: `
     <div class="page">
+      <div class="loading-state" *ngIf="role === 'student' && !student || role === 'teacher' && !teacher">
+        <div class="spinner"></div><p>{{ i18n.t('loading') }}</p>
+      </div>
       <ng-container [ngSwitch]="role">
 
         <!-- ===== Student dashboard (FR-5.1/5.2/5.3) ===== -->
@@ -134,6 +137,9 @@ import { I18nService } from '../services/i18n.service';
   `,
   styles: [`
     .page { max-width: 1000px; margin: 0 auto; padding: 24px 20px; }
+    .loading-state { display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 80px 20px; color: #667680; }
+    .spinner { width: 32px; height: 32px; border: 3px solid #e2e8ec; border-top-color: #1a6d5e; border-radius: 50%; animation: spin 0.8s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
     .stat-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin-bottom: 24px; }
     .stat-card { background: #fff; border: 1px solid #e2e8ec; border-radius: 12px; padding: 16px; text-align: center; }
     .stat-num { display: block; font-size: 1.4rem; font-weight: 700; color: #1a6d5e; }

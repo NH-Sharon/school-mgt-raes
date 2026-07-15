@@ -24,6 +24,10 @@ const SIMULATION_ROUTES: Record<string, string> = {
   standalone: true,
   imports: [CommonModule, FormsModule],
   template: `
+    <div class="page loading-state" *ngIf="!detail">
+      <div class="spinner"></div>
+      <p>{{ i18n.t('loading') }}</p>
+    </div>
     <div class="page" *ngIf="detail as d">
       <h2>{{ i18n.isEn ? d.chapter.title_en : d.chapter.title_bn }}</h2>
 
@@ -55,6 +59,9 @@ const SIMULATION_ROUTES: Record<string, string> = {
   `,
   styles: [`
     .page { max-width: 800px; margin: 0 auto; padding: 24px 20px; }
+    .loading-state { display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 80px 20px; color: #667680; }
+    .spinner { width: 32px; height: 32px; border: 3px solid #e2e8ec; border-top-color: #1a6d5e; border-radius: 50%; animation: spin 0.8s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
     h2 { color: #1a6d5e; }
     .progress-row { display: flex; align-items: center; gap: 10px; margin-bottom: 20px; }
     .progress-bar { flex: 1; height: 8px; background: #e2e8ec; border-radius: 999px; overflow: hidden; }
