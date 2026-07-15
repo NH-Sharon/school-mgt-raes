@@ -2,8 +2,8 @@ name: Keep Database Alive
 
 on:
   schedule:
-    # Every 4 minutes — keeps Neon DB from suspending (suspends after 5 min)
-    - cron: '*/4 * * * *'
+    # Every 2 minutes — keeps Neon DB from suspending (suspends after 5 min)
+    - cron: '*/2 * * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
