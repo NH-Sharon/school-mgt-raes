@@ -1,6 +1,7 @@
 const express = require('express');
 const pool = require('../config/database');
-const { verifyToken, requireRole } = require('../middleware/auth');
+const { verifyToken, requireRole, requireOwnStudentOrStaff, requireOwnClassOrAdmin } = require('../middleware/auth');
+const { logAudit } = require('../middleware/audit');
 
 const router = express.Router();
 
@@ -17,6 +18,7 @@ router.get('/', verifyToken, requireRole('admin'), async (req, res) => {
     `);
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -34,11 +36,12 @@ router.get('/class/:classId', verifyToken, async (req, res) => {
     `, [req.params.classId]);
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
 
-router.post('/', verifyToken, requireRole('admin', 'teacher'), async (req, res) => {
+router.post('/', verifyToken, requireOwnClassOrAdmin(req => req.body.class_id), async (req, res) => {
   try {
     const {
       class_id, subject_id, teacher_id, title,
@@ -60,8 +63,10 @@ router.post('/', verifyToken, requireRole('admin', 'teacher'), async (req, res) 
       RETURNING *
     `, [class_id, subject_id, teacher_id, effectiveTitle, description, effectiveDue, attachment_url]);
 
+    logAudit(req, 'create', 'homework', result.rows[0].id, { class_id, subject_id });
     res.status(201).json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -81,8 +86,10 @@ router.put('/:id', verifyToken, requireRole('admin', 'teacher'), async (req, res
     `, [title, description, due_date, id]);
 
     if (!result.rows.length) return res.status(404).json({ message: 'Homework not found' });
+    logAudit(req, 'update', 'homework', id, { title, due_date });
     res.json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -91,13 +98,15 @@ router.delete('/:id', verifyToken, requireRole('admin', 'teacher'), async (req, 
   try {
     const result = await pool.query('DELETE FROM homework WHERE id = $1 RETURNING id', [req.params.id]);
     if (!result.rows.length) return res.status(404).json({ message: 'Homework not found' });
+    logAudit(req, 'delete', 'homework', req.params.id);
     res.json({ message: 'Homework deleted successfully' });
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
 
-router.post('/submit', verifyToken, async (req, res) => {
+router.post('/submit', verifyToken, requireOwnStudentOrStaff(req => req.body.student_id), async (req, res) => {
   try {
     const { homework_id, student_id, submission_text, attachment_url } = req.body;
 
@@ -118,8 +127,10 @@ router.post('/submit', verifyToken, async (req, res) => {
       `, [homework_id, student_id, submission_text, attachment_url]);
     }
 
+    logAudit(req, existing.rows.length ? 'resubmit' : 'submit', 'homework_submission', result.rows[0].id, { homework_id, student_id });
     res.status(201).json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -135,6 +146,7 @@ router.get('/:homeworkId/submissions', verifyToken, requireRole('admin', 'teache
     `, [req.params.homeworkId]);
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });

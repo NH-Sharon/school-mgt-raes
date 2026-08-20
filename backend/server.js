@@ -23,6 +23,9 @@ const quickLinksRoutes = require('./routes/quick-links');
 const employeesRoutes = require('./routes/employees');
 const employeeAttendanceRoutes = require('./routes/employee-attendance');
 const admissionsRoutes = require('./routes/admissions');
+const uploadsRoutes = require('./routes/uploads');
+const feeStructuresRoutes = require('./routes/fee-structures');
+const teacherAssignmentsRoutes = require('./routes/teacher-assignments');
 
 const app = express();
 
@@ -33,6 +36,7 @@ app.use(cors({
 app.use(express.json({ limit: '20mb' }));
 app.use(express.urlencoded({ extended: true, limit: '20mb' }));
 app.use(express.static('public'));
+app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
 // API Routes
 app.use('/api/auth', authRoutes);
@@ -55,6 +59,9 @@ app.use('/api/quick-links', quickLinksRoutes);
 app.use('/api/employees', employeesRoutes);
 app.use('/api/employee-attendance', employeeAttendanceRoutes);
 app.use('/api/admissions', admissionsRoutes);
+app.use('/api/uploads', uploadsRoutes);
+app.use('/api/fee-structures', feeStructuresRoutes);
+app.use('/api/teacher-assignments', teacherAssignmentsRoutes);
 
 // Health check / keep-alive endpoint (public, no auth)
 const pool = require('./config/database');
@@ -67,8 +74,9 @@ app.get('/api/ping', async (req, res) => {
   }
 });
 
-// Local development
-if (process.env.NODE_ENV !== 'production' || process.env.PORT) {
+// Local development / Render-style production (skipped under Vercel's serverless
+// production and under the test suite, which imports `app` directly)
+if (process.env.NODE_ENV !== 'test' && (process.env.NODE_ENV !== 'production' || process.env.PORT)) {
   const PORT = process.env.PORT || 3000;
   app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 }

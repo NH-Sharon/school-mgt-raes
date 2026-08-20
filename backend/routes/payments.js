@@ -1,10 +1,11 @@
 const express = require('express');
 const pool = require('../config/database');
-const { verifyToken, requireRole, requirePermission } = require('../middleware/auth');
+const { verifyToken, requireRole, requirePermission, requireOwnStudentOrStaff } = require('../middleware/auth');
+const { logAudit } = require('../middleware/audit');
 
 const router = express.Router();
 
-router.get('/', verifyToken, async (req, res) => {
+router.get('/', verifyToken, requireRole('admin', 'teacher'), async (req, res) => {
   try {
     const result = await pool.query(`
       SELECT p.*, s.name_en, s.name_bn, s.student_id as student_code, s.roll_number,
@@ -16,6 +17,7 @@ router.get('/', verifyToken, async (req, res) => {
     `);
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -41,11 +43,12 @@ router.get('/class-stats', verifyToken, requirePermission('finance.view'), async
     `);
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
 
-router.get('/student/:studentId', verifyToken, async (req, res) => {
+router.get('/student/:studentId', verifyToken, requireOwnStudentOrStaff(req => req.params.studentId), async (req, res) => {
   try {
     const result = await pool.query(
       'SELECT * FROM payments WHERE student_id = $1 ORDER BY payment_date DESC',
@@ -53,6 +56,7 @@ router.get('/student/:studentId', verifyToken, async (req, res) => {
     );
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -78,6 +82,7 @@ router.get('/lookup-student', verifyToken, requireRole('admin'), async (req, res
     if (!result.rows.length) return res.status(404).json({ message: 'Student not found' });
     res.json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -99,8 +104,10 @@ router.post('/', verifyToken, requireRole('admin'), async (req, res) => {
       RETURNING *
     `, [student_id, payment_type, amount, due_date, payment_method, transaction_id, remarks]);
 
+    logAudit(req, 'create', 'payment', result.rows[0].id, { student_id, payment_type, amount });
     res.status(201).json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -118,8 +125,10 @@ router.put('/:id/status', verifyToken, requireRole('admin'), async (req, res) =>
       [status, req.params.id]
     );
     if (!result.rows.length) return res.status(404).json({ message: 'Payment not found' });
+    logAudit(req, 'update-status', 'payment', req.params.id, { status });
     res.json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -128,8 +137,10 @@ router.delete('/:id', verifyToken, requireRole('admin'), async (req, res) => {
   try {
     const result = await pool.query('DELETE FROM payments WHERE id = $1 RETURNING id', [req.params.id]);
     if (!result.rows.length) return res.status(404).json({ message: 'Payment not found' });
+    logAudit(req, 'delete', 'payment', req.params.id);
     res.json({ message: 'Payment deleted successfully' });
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });

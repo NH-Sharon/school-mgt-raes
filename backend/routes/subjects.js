@@ -1,6 +1,7 @@
 const express = require('express');
 const pool = require('../config/database');
 const { verifyToken, requireRole } = require('../middleware/auth');
+const { logAudit } = require('../middleware/audit');
 
 const router = express.Router();
 
@@ -8,7 +9,8 @@ router.get('/', verifyToken, async (req, res) => {
   try {
     const r = await pool.query('SELECT * FROM subjects ORDER BY class_id, subject_name');
     res.json(r.rows);
-  } catch {
+  } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -23,9 +25,11 @@ router.post('/', verifyToken, requireRole('admin'), async (req, res) => {
       'INSERT INTO subjects (subject_name, subject_name_bn, subject_code, class_id) VALUES ($1,$2,$3,$4) RETURNING *',
       [subject_name, subject_name_bn || '', subject_code || '', class_id]
     );
+    logAudit(req, 'create', 'subject', r.rows[0].id, { subject_name, class_id });
     res.status(201).json(r.rows[0]);
   } catch (e) {
-    res.status(500).json({ message: e.message });
+    console.error(e);
+    res.status(500).json({ message: 'Server error' });
   }
 });
 
@@ -42,9 +46,11 @@ router.put('/:id', verifyToken, requireRole('admin'), async (req, res) => {
       [subject_name, subject_name_bn, subject_code, class_id, req.params.id]
     );
     if (!r.rows.length) return res.status(404).json({ message: 'Subject not found' });
+    logAudit(req, 'update', 'subject', req.params.id, req.body);
     res.json(r.rows[0]);
   } catch (e) {
-    res.status(500).json({ message: e.message });
+    console.error(e);
+    res.status(500).json({ message: 'Server error' });
   }
 });
 
@@ -52,8 +58,10 @@ router.delete('/:id', verifyToken, requireRole('admin'), async (req, res) => {
   try {
     const r = await pool.query('DELETE FROM subjects WHERE id=$1 RETURNING id', [req.params.id]);
     if (!r.rows.length) return res.status(404).json({ message: 'Subject not found' });
+    logAudit(req, 'delete', 'subject', req.params.id);
     res.json({ message: 'Deleted' });
-  } catch {
+  } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });

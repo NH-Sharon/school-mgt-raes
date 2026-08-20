@@ -1,6 +1,7 @@
 const express = require('express');
 const pool = require('../config/database');
 const { verifyToken, requireRole } = require('../middleware/auth');
+const { logAudit } = require('../middleware/audit');
 
 const router = express.Router();
 
@@ -9,6 +10,7 @@ router.get('/', verifyToken, async (req, res) => {
     const result = await pool.query('SELECT * FROM teachers ORDER BY name_en');
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -19,6 +21,7 @@ router.get('/:id', verifyToken, async (req, res) => {
     if (!result.rows.length) return res.status(404).json({ message: 'Teacher not found' });
     res.json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -43,8 +46,10 @@ router.post('/', verifyToken, requireRole('admin'), async (req, res) => {
       designation, subject, phone, email, address, salary
     ]);
 
+    logAudit(req, 'create', 'teacher', result.rows[0].id, { name_en });
     res.status(201).json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -73,8 +78,10 @@ router.put('/:id', verifyToken, requireRole('admin'), async (req, res) => {
       `UPDATE teachers SET ${setClause} WHERE id = $1 RETURNING *`, values
     );
     if (!result.rows.length) return res.status(404).json({ message: 'Teacher not found' });
+    logAudit(req, 'update', 'teacher', id, filtered);
     res.json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -83,8 +90,10 @@ router.delete('/:id', verifyToken, requireRole('admin'), async (req, res) => {
   try {
     const result = await pool.query('DELETE FROM teachers WHERE id = $1 RETURNING id', [req.params.id]);
     if (!result.rows.length) return res.status(404).json({ message: 'Teacher not found' });
+    logAudit(req, 'delete', 'teacher', req.params.id);
     res.json({ message: 'Teacher deleted successfully' });
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });

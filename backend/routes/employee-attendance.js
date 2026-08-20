@@ -1,6 +1,7 @@
 const express = require('express');
 const pool = require('../config/database');
 const { verifyToken, requireRole, requirePermission } = require('../middleware/auth');
+const { logAudit } = require('../middleware/audit');
 const router = express.Router();
 
 // Ensure table exists
@@ -40,7 +41,7 @@ router.get('/', verifyToken, requirePermission('hr.attendance'), async (req, res
     query += ` ORDER BY e.department, e.name_en`;
     const r = await pool.query(query, params);
     res.json(r.rows);
-  } catch (e) { res.status(500).json({ message: e.message }); }
+  } catch (e) { console.error(e); res.status(500).json({ message: 'Server error' }); }
 });
 
 // GET /api/employee-attendance/report?employee_id=&month=YYYY-MM
@@ -59,7 +60,7 @@ router.get('/report', verifyToken, requirePermission('hr.attendance'), async (re
     query += ` ORDER BY ea.date DESC`;
     const r = await pool.query(query, params);
     res.json(r.rows);
-  } catch (e) { res.status(500).json({ message: e.message }); }
+  } catch (e) { console.error(e); res.status(500).json({ message: 'Server error' }); }
 });
 
 // GET /api/employee-attendance/summary — summary per employee for a month
@@ -80,7 +81,7 @@ router.get('/summary', verifyToken, requirePermission('hr.attendance'), async (r
       ORDER BY e.department, e.name_en
     `, [m + '%']);
     res.json(r.rows);
-  } catch (e) { res.status(500).json({ message: e.message }); }
+  } catch (e) { console.error(e); res.status(500).json({ message: 'Server error' }); }
 });
 
 // POST /api/employee-attendance — bulk save attendance for a date
@@ -95,8 +96,9 @@ router.post('/', verifyToken, requireRole('admin'), async (req, res) => {
         ON CONFLICT (employee_id, date) DO UPDATE SET status=$3, remarks=$4
       `, [r.emp_db_id, date, r.status || 'absent', r.remarks || null, req.user.userId]);
     }
+    logAudit(req, 'mark', 'employee_attendance', null, { date, count: records.length });
     res.json({ message: 'Attendance saved' });
-  } catch (e) { res.status(500).json({ message: e.message }); }
+  } catch (e) { console.error(e); res.status(500).json({ message: 'Server error' }); }
 });
 
 module.exports = router;

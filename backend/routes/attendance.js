@@ -1,6 +1,7 @@
 const express = require('express');
 const pool = require('../config/database');
-const { verifyToken, requireRole } = require('../middleware/auth');
+const { verifyToken, requireRole, requireOwnStudentOrStaff, requireOwnClassOrAdmin } = require('../middleware/auth');
+const { logAudit } = require('../middleware/audit');
 
 const router = express.Router();
 
@@ -16,12 +17,13 @@ router.get('/', verifyToken, requireRole('admin'), async (req, res) => {
     `);
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
 
 // Get student attendance summary — must come before /:classId/:date
-router.get('/student-summary/:studentId', verifyToken, async (req, res) => {
+router.get('/student-summary/:studentId', verifyToken, requireOwnStudentOrStaff(req => req.params.studentId), async (req, res) => {
   try {
     const result = await pool.query(`
       SELECT
@@ -40,12 +42,13 @@ router.get('/student-summary/:studentId', verifyToken, async (req, res) => {
     const pct = total > 0 ? Math.round(((present + late) / total) * 100) : 0;
     res.json({ present, absent, late, total, pct });
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
 
 // Get attendance report for a student by month — must come before /:classId/:date
-router.get('/report/:studentId/:month', verifyToken, async (req, res) => {
+router.get('/report/:studentId/:month', verifyToken, requireOwnStudentOrStaff(req => req.params.studentId), async (req, res) => {
   try {
     const { studentId, month } = req.params;
 
@@ -58,12 +61,13 @@ router.get('/report/:studentId/:month', verifyToken, async (req, res) => {
 
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
 
 // Attendance report summary per student for a month — for teacher report view
-router.get('/report-summary', verifyToken, async (req, res) => {
+router.get('/report-summary', verifyToken, requireRole('admin', 'teacher'), async (req, res) => {
   try {
     const { month, class_id } = req.query;
     const m = month || new Date().toISOString().slice(0, 7);
@@ -87,12 +91,13 @@ router.get('/report-summary', verifyToken, async (req, res) => {
     }));
     res.json(rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
 
-// Get attendance by class and date (admin & teacher)
-router.get('/:classId/:date', verifyToken, async (req, res) => {
+// Get attendance by class and date (admin & teacher, scoped to the teacher's assigned classes once any assignment exists)
+router.get('/:classId/:date', verifyToken, requireOwnClassOrAdmin(req => req.params.classId), async (req, res) => {
   try {
     const { classId, date } = req.params;
 
@@ -107,12 +112,13 @@ router.get('/:classId/:date', verifyToken, async (req, res) => {
 
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
 
 // Mark attendance — frontend sends POST /:classId/:date with { records }
-router.post('/:classId/:date', verifyToken, requireRole('admin', 'teacher'), async (req, res) => {
+router.post('/:classId/:date', verifyToken, requireOwnClassOrAdmin(req => req.params.classId), async (req, res) => {
   try {
     const { classId, date } = req.params;
     const { records } = req.body;
@@ -130,8 +136,10 @@ router.post('/:classId/:date', verifyToken, requireRole('admin', 'teacher'), asy
       `, [record.student_id, classId, date, record.status || 'absent', record.remarks || null, req.user.userId]);
     }
 
+    logAudit(req, 'mark', 'attendance', null, { classId, date, count: records.length });
     res.json({ message: 'Attendance marked successfully' });
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });

@@ -1,6 +1,7 @@
 const express = require('express');
 const pool = require('../config/database');
 const { verifyToken, requireRole } = require('../middleware/auth');
+const { logAudit } = require('../middleware/audit');
 
 const router = express.Router();
 
@@ -27,6 +28,7 @@ router.get('/', verifyToken, async (req, res) => {
     `);
     res.json(result.rows);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -40,6 +42,7 @@ router.get('/:id', verifyToken, async (req, res) => {
     if (!result.rows.length) return res.status(404).json({ message: 'Class not found' });
     res.json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -56,8 +59,10 @@ router.post('/', verifyToken, requireRole('admin'), async (req, res) => {
       RETURNING *
     `, [class_name, class_name_bn, section, class_teacher_id, room_number, capacity]);
 
+    logAudit(req, 'create', 'class', result.rows[0].id, { class_name, section });
     res.status(201).json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -80,8 +85,10 @@ router.put('/:id', verifyToken, requireRole('admin'), async (req, res) => {
     `, [class_name, class_name_bn, section, class_teacher_id, room_number, capacity, id]);
 
     if (!result.rows.length) return res.status(404).json({ message: 'Class not found' });
+    logAudit(req, 'update', 'class', id, req.body);
     res.json(result.rows[0]);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });
@@ -90,8 +97,10 @@ router.delete('/:id', verifyToken, requireRole('admin'), async (req, res) => {
   try {
     const result = await pool.query('DELETE FROM classes WHERE id = $1 RETURNING id', [req.params.id]);
     if (!result.rows.length) return res.status(404).json({ message: 'Class not found' });
+    logAudit(req, 'delete', 'class', req.params.id);
     res.json({ message: 'Class deleted successfully' });
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Server error' });
   }
 });

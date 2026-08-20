@@ -1,6 +1,7 @@
 const express = require('express');
 const pool = require('../config/database');
 const { verifyToken, requireRole } = require('../middleware/auth');
+const { logAudit } = require('../middleware/audit');
 const router = express.Router();
 
 router.get('/', async (req, res) => {
@@ -9,7 +10,7 @@ router.get('/', async (req, res) => {
     const settings = {};
     r.rows.forEach(row => { settings[row.key] = row.value; });
     res.json(settings);
-  } catch { res.status(500).json({ message: 'Server error' }); }
+  } catch (error) { console.error(error); res.status(500).json({ message: 'Server error' }); }
 });
 
 router.put('/', verifyToken, requireRole('admin'), async (req, res) => {
@@ -21,8 +22,9 @@ router.put('/', verifyToken, requireRole('admin'), async (req, res) => {
         [key, value]
       );
     }
+    logAudit(req, 'update', 'website_settings', null, { keys: Object.keys(settings) });
     res.json({ message: 'Settings saved' });
-  } catch (e) { res.status(500).json({ message: e.message }); }
+  } catch (e) { console.error(e); res.status(500).json({ message: 'Server error' }); }
 });
 
 module.exports = router;
