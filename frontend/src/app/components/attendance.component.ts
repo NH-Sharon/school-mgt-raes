@@ -2,6 +2,9 @@ import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
+import { environment } from '../../environments/environment';
+
+const API = environment.apiUrl;
 
 interface AttendanceRecord {
   id?: number;
@@ -180,7 +183,7 @@ export class AttendanceComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.http.get<ClassOption[]>('https://raes-backend.vercel.app/api/classes').subscribe({
+    this.http.get<ClassOption[]>(`${API}/classes`).subscribe({
       next: (data) => { this.classes = data; },
       error: () => {}
     });
@@ -188,7 +191,7 @@ export class AttendanceComponent implements OnInit {
 
   loadAttendance() {
     if (!this.selectedClassId || !this.selectedDate) return;
-    this.http.get<AttendanceRecord[]>(`https://raes-backend.vercel.app/api/attendance/${this.selectedClassId}/${this.selectedDate}`).subscribe({
+    this.http.get<AttendanceRecord[]>(`${API}/attendance/${this.selectedClassId}/${this.selectedDate}`).subscribe({
       next: (data) => { this.records = data; },
       error: () => {}
     });
@@ -212,7 +215,7 @@ export class AttendanceComponent implements OnInit {
       created_by: 1
     }));
 
-    this.http.post('https://raes-backend.vercel.app/api/attendance', { attendanceData }).subscribe({
+    this.http.post(`${API}/attendance`, { attendanceData }).subscribe({
       next: () => {
         this.successMsg = 'উপস্থিতি সফলভাবে সংরক্ষণ করা হয়েছে!';
         this.saving = false;

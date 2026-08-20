@@ -2,6 +2,9 @@ import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
+import { environment } from '../../environments/environment';
+
+const API = environment.apiUrl;
 
 interface Transport {
   id?: number;
@@ -175,7 +178,7 @@ export class TransportComponent implements OnInit {
 
   loadRoutes() {
     this.loading = true;
-    this.http.get<Transport[]>('https://raes-backend.vercel.app/api/transport').subscribe({
+    this.http.get<Transport[]>(`${API}/transport`).subscribe({
       next: (data) => { this.routes = data; this.loading = false; },
       error: () => { this.loading = false; }
     });
@@ -184,7 +187,7 @@ export class TransportComponent implements OnInit {
   addRoute() {
     this.loading = true;
     this.errorMsg = '';
-    this.http.post<Transport>('https://raes-backend.vercel.app/api/transport', this.newRoute).subscribe({
+    this.http.post<Transport>(`${API}/transport`, this.newRoute).subscribe({
       next: () => {
         this.successMsg = 'রুট সফলভাবে যোগ করা হয়েছে!';
         this.loadRoutes();

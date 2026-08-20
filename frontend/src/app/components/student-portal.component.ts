@@ -4,6 +4,9 @@ import { Router } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { I18nService } from '../services/i18n.service';
 import { AuthService } from '../services/auth.service';
+import { environment } from '../../environments/environment';
+
+const API = environment.apiUrl;
 
 @Component({
   selector: 'app-student-portal',
@@ -101,6 +104,7 @@ import { AuthService } from '../services/auth.service';
             <div class="exam-info">
               <div class="exam-name">{{ e.exam_name }}</div>
               <div class="exam-date">{{ e.start_date | date:'mediumDate' }}</div>
+              <div class="exam-seat" *ngIf="e.seat">🪑 {{ i18n.isEn ? 'Room' : 'রুম' }} {{ e.seat.room }} — {{ i18n.isEn ? 'Seat' : 'আসন' }} {{ e.seat.seat_number }}</div>
             </div>
             <div class="exam-status" [class]="'status-' + e.status">{{ e.status }}</div>
           </div>
@@ -394,6 +398,7 @@ import { AuthService } from '../services/auth.service';
     .exam-info { flex: 1; }
     .exam-name { font-size: 0.9rem; font-weight: 600; color: var(--text); }
     .exam-date { font-size: 0.775rem; color: var(--muted); margin-top: 0.1rem; font-family: 'DM Sans', sans-serif; }
+    .exam-seat { font-size: 0.775rem; color: var(--accent); margin-top: 0.2rem; font-weight: 600; }
     .exam-status { font-size: 0.7rem; padding: 0.2rem 0.6rem; border-radius: 2rem; font-family: 'DM Sans', sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
     .status-scheduled { background: #DBEAFE; color: #1E40AF; }
     .status-ongoing { background: #D1FAE5; color: #065F46; }
@@ -603,33 +608,44 @@ export class StudentPortalComponent implements OnInit {
       this.userInitial = this.userName.charAt(0).toUpperCase();
     }
 
-    this.http.get<any>('https://raes-backend.vercel.app/api/auth/me').subscribe({
+    this.http.get<any>(`${API}/auth/me`).subscribe({
       next: (me: any) => {
         if (me.linkedId) {
           this.studentId = me.linkedId;
           this.classId = me.linkedData?.class_id || null;
           this.loadStudentData();
+          this.loadSeats();
         }
       },
       error: () => { this.loadStudentData(); }
     });
 
-    this.http.get<any[]>('https://raes-backend.vercel.app/api/exams').subscribe({
-      next: d => { this.exams = d.slice(0, 3); },
+    this.http.get<any[]>(`${API}/exams`).subscribe({
+      next: d => { this.exams = d.slice(0, 3); this.loadSeats(); },
       error: () => {}
+    });
+  }
+
+  loadSeats() {
+    if (!this.studentId || !this.exams.length) return;
+    this.exams.forEach((e: any) => {
+      this.http.get<any>(`${API}/exams/${e.id}/seat-plan/mine/${this.studentId}`).subscribe({
+        next: (seat: any) => { e.seat = seat; },
+        error: () => {}
+      });
     });
   }
 
   loadStudentData() {
     if (this.classId) {
-      this.http.get<any[]>(`https://raes-backend.vercel.app/api/homework/class/${this.classId}`).subscribe({
+      this.http.get<any[]>(`${API}/homework/class/${this.classId}`).subscribe({
         next: d => { this.homework = d; this.pendingHomework = d.filter((h: any) => !h.submitted).length || d.length; },
         error: () => {}
       });
     }
 
     if (this.studentId) {
-      this.http.get<any>(`https://raes-backend.vercel.app/api/attendance/student-summary/${this.studentId}`).subscribe({
+      this.http.get<any>(`${API}/attendance/student-summary/${this.studentId}`).subscribe({
         next: (d: any) => {
           this.attendancePct = d.pct || 0;
           this.presentDays = d.present || 0;
@@ -639,7 +655,7 @@ export class StudentPortalComponent implements OnInit {
         error: () => {}
       });
 
-      this.http.get<any[]>(`https://raes-backend.vercel.app/api/payments/student/${this.studentId}`).subscribe({
+      this.http.get<any[]>(`${API}/payments/student/${this.studentId}`).subscribe({
         next: d => {
           this.payments = d.slice(0, 6);
           this.pendingFees = d.filter((p: any) => p.status !== 'paid').length;
@@ -647,7 +663,7 @@ export class StudentPortalComponent implements OnInit {
         error: () => {}
       });
 
-      this.http.get<any[]>(`https://raes-backend.vercel.app/api/exams/student-results/${this.studentId}`).subscribe({
+      this.http.get<any[]>(`${API}/exams/student-results/${this.studentId}`).subscribe({
         next: d => {
           this.subjects = d.map((r: any) => ({
             name: r.subject_name,

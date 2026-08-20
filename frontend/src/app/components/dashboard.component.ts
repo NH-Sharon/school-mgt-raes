@@ -2,6 +2,9 @@ import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { RouterLink } from '@angular/router';
+import { environment } from '../../environments/environment';
+
+const API = environment.apiUrl;
 
 @Component({
   selector: 'app-dashboard',
@@ -275,19 +278,19 @@ export class DashboardComponent implements OnInit {
   }
 
   loadStats() {
-    this.http.get<any[]>('https://raes-backend.vercel.app/api/students').subscribe({
+    this.http.get<any[]>(`${API}/students`).subscribe({
       next: (data) => { this.stats.students = data.length; },
       error: () => {}
     });
-    this.http.get<any[]>('https://raes-backend.vercel.app/api/teachers').subscribe({
+    this.http.get<any[]>(`${API}/teachers`).subscribe({
       next: (data) => { this.stats.teachers = data.length; },
       error: () => {}
     });
-    this.http.get<any[]>('https://raes-backend.vercel.app/api/classes').subscribe({
+    this.http.get<any[]>(`${API}/classes`).subscribe({
       next: (data) => { this.stats.classes = data.length; },
       error: () => {}
     });
-    this.http.get<any[]>('https://raes-backend.vercel.app/api/exams').subscribe({
+    this.http.get<any[]>(`${API}/exams`).subscribe({
       next: (data) => { this.stats.exams = data.length; },
       error: () => {}
     });

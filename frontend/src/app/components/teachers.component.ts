@@ -3,6 +3,9 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { AuthService } from '../services/auth.service';
+import { environment } from '../../environments/environment';
+
+const API = environment.apiUrl;
 
 interface Teacher {
   id?: number;
@@ -208,7 +211,7 @@ export class TeachersComponent implements OnInit {
 
   loadTeachers() {
     this.loading = true;
-    this.http.get<Teacher[]>('https://raes-backend.vercel.app/api/teachers').subscribe({
+    this.http.get<Teacher[]>(`${API}/teachers`).subscribe({
       next: (data) => { this.teachers = data; this.loading = false; },
       error: () => { this.loading = false; }
     });
@@ -217,7 +220,7 @@ export class TeachersComponent implements OnInit {
   addTeacher() {
     this.loading = true;
     this.errorMsg = '';
-    this.http.post<Teacher>('https://raes-backend.vercel.app/api/teachers', this.newTeacher).subscribe({
+    this.http.post<Teacher>(`${API}/teachers`, this.newTeacher).subscribe({
       next: () => {
         this.successMsg = 'শিক্ষক সফলভাবে যোগ করা হয়েছে!';
         this.loadTeachers();

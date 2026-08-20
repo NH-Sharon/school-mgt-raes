@@ -5,8 +5,9 @@ import { Router } from '@angular/router';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { I18nService } from '../services/i18n.service';
 import { AuthService } from '../services/auth.service';
+import { environment } from '../../environments/environment';
 
-const API = 'https://raes-backend.vercel.app/api';
+const API = environment.apiUrl;
 
 @Component({
   selector: 'app-admin-panel',
@@ -49,6 +50,7 @@ const API = 'https://raes-backend.vercel.app/api';
       <button [class.active]="activeSection==='students'" (click)="go('students')">👨‍🎓 {{ i18n.isEn ? 'Students' : 'শিক্ষার্থী' }}</button>
       <button [class.active]="activeSection==='teachers'" (click)="go('teachers')">👨‍🏫 {{ i18n.isEn ? 'Teachers' : 'শিক্ষক' }}</button>
       <button [class.active]="activeSection==='classes'" (click)="go('classes')">🏫 {{ i18n.isEn ? 'Classes' : 'শ্রেণী' }}</button>
+      <button [class.active]="activeSection==='teacher-assignments'" (click)="go('teacher-assignments')">🧑‍🏫 {{ i18n.isEn ? 'Teacher Assignments' : 'শিক্ষক বণ্টন' }}</button>
       <button [class.active]="activeSection==='attendance'" (click)="go('attendance')">📅 {{ i18n.isEn ? 'Attendance' : 'উপস্থিতি' }}</button>
       <button [class.active]="activeSection==='exams'" (click)="go('exams')">📋 {{ i18n.isEn ? 'Exams' : 'পরীক্ষা' }}</button>
       <button [class.active]="activeSection==='homework'" (click)="go('homework')">📚 {{ i18n.isEn ? 'Homework' : 'হোমওয়ার্ক' }}</button>
@@ -56,6 +58,7 @@ const API = 'https://raes-backend.vercel.app/api';
 
       <div class="ap-nav-section">{{ i18n.isEn ? 'Operations' : 'পরিচালনা' }}</div>
       <button [class.active]="activeSection==='payments'" (click)="go('payments')">💳 {{ i18n.isEn ? 'Payments' : 'পেমেন্ট' }}</button>
+      <button [class.active]="activeSection==='fee-structures'" (click)="go('fee-structures')">🧾 {{ i18n.isEn ? 'Fee Structures' : 'ফি কাঠামো' }}</button>
       <button [class.active]="activeSection==='transport'" (click)="go('transport')">🚌 {{ i18n.isEn ? 'Transport' : 'পরিবহন' }}</button>
 
       <div class="ap-nav-section">{{ i18n.isEn ? 'HR' : 'এইচআর' }}</div>
@@ -573,7 +576,10 @@ const API = 'https://raes-backend.vercel.app/api';
     <section *ngIf="activeSection==='students'" class="ap-section">
       <div class="ap-page-head">
         <h1>👨‍🎓 {{ i18n.isEn ? 'Student Management' : 'শিক্ষার্থী ব্যবস্থাপনা' }}</h1>
-        <button class="ap-btn-primary" (click)="openStudentModal()">+ {{ i18n.isEn ? 'Add Student' : 'শিক্ষার্থী যোগ করুন' }}</button>
+        <div class="ap-action-row">
+          <button class="ap-btn-ghost" (click)="openBulkImportModal()">⬆️ {{ i18n.isEn ? 'Bulk Import (CSV)' : 'বাল্ক ইমপোর্ট (CSV)' }}</button>
+          <button class="ap-btn-primary" (click)="openStudentModal()">+ {{ i18n.isEn ? 'Add Student' : 'শিক্ষার্থী যোগ করুন' }}</button>
+        </div>
       </div>
       <div class="ap-toolbar">
         <input class="ap-search" [(ngModel)]="studentSearch" [placeholder]="i18n.isEn ? 'Search by name or ID…' : 'নাম বা আইডি দিয়ে খুঁজুন…'">
@@ -615,6 +621,7 @@ const API = 'https://raes-backend.vercel.app/api';
                 <div class="ap-action-row">
                   <button class="ap-btn-view" (click)="viewStudent(s)" title="View">👁️</button>
                   <button class="ap-btn-edit" (click)="editStudent(s)">✏️</button>
+                  <button class="ap-btn-sm ap-btn-ghost" (click)="openGuardianModal(s)" title="Link guardian">👪</button>
                   <button class="ap-btn-del" (click)="deleteStudent(s.id)">🗑️</button>
                 </div>
               </td>
@@ -703,6 +710,61 @@ const API = 'https://raes-backend.vercel.app/api';
           <div class="ap-modal-foot">
             <button class="ap-btn-ghost" (click)="closeStudentModal()">Cancel</button>
             <button class="ap-btn-primary" (click)="saveStudent()">{{ i18n.isEn ? 'Save' : 'সংরক্ষণ' }}</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Bulk Import Modal -->
+      <div class="ap-modal-bg" *ngIf="bulkImportModal" (click)="bulkImportModal=false">
+        <div class="ap-modal ap-modal-lg" (click)="$event.stopPropagation()">
+          <div class="ap-modal-head">
+            <h2>⬆️ {{ i18n.isEn ? 'Bulk Import Students (CSV)' : 'শিক্ষার্থী বাল্ক ইমপোর্ট (CSV)' }}</h2>
+            <button class="ap-modal-close" (click)="bulkImportModal=false">✕</button>
+          </div>
+          <div class="ap-form-grid">
+            <div class="ap-form-group span2">
+              <label>{{ i18n.isEn ? 'CSV columns: name_en, name_bn, father_name, mother_name, class_id, section, roll_number' : 'CSV কলাম: name_en, name_bn, father_name, mother_name, class_id, section, roll_number' }}</label>
+              <textarea class="ap-input" rows="8" [(ngModel)]="bulkImportCsv" placeholder="name_en,name_bn,father_name,mother_name,class_id,section,roll_number
+Rahim Uddin,রহিম উদ্দিন,Karim,Rokeya,1,ক,10"></textarea>
+            </div>
+            <div class="ap-form-group span2" *ngIf="bulkImportResult">
+              <div class="ap-mini-stat green">✓ {{ bulkImportResult.created.length }} {{ i18n.isEn ? 'created' : 'তৈরি হয়েছে' }}</div>
+              <div class="ap-mini-stat red" *ngIf="bulkImportResult.failed.length">✕ {{ bulkImportResult.failed.length }} {{ i18n.isEn ? 'failed' : 'ব্যর্থ' }}</div>
+              <div *ngFor="let f of bulkImportResult.failed" style="font-size:.8rem;color:#c0392b">Row {{ f.row }}: {{ f.reason }}</div>
+            </div>
+          </div>
+          <div class="ap-modal-foot">
+            <button class="ap-btn-ghost" (click)="bulkImportModal=false">{{ i18n.isEn ? 'Close' : 'বন্ধ' }}</button>
+            <button class="ap-btn-primary" (click)="submitBulkImport()">{{ i18n.isEn ? 'Import' : 'ইমপোর্ট করুন' }}</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Guardian Linking Modal -->
+      <div class="ap-modal-bg" *ngIf="guardianModalStudent" (click)="guardianModalStudent=null">
+        <div class="ap-modal" (click)="$event.stopPropagation()">
+          <div class="ap-modal-head">
+            <h2>👪 {{ i18n.isEn ? 'Guardians of' : 'অভিভাবক —' }} {{ guardianModalStudent.name_en }}</h2>
+            <button class="ap-modal-close" (click)="guardianModalStudent=null">✕</button>
+          </div>
+          <div class="ap-form-grid">
+            <div class="ap-form-group span2" *ngFor="let g of studentGuardians">
+              <div class="ap-pf-row"><span>{{ g.full_name || g.username }}</span>
+                <button class="ap-btn-del" (click)="unlinkGuardian(g.id)">🗑️</button>
+              </div>
+            </div>
+            <div class="ap-form-group span2" *ngIf="!studentGuardians.length">{{ i18n.isEn ? 'No guardian linked yet' : 'এখনো কোনো অভিভাবক যুক্ত করা হয়নি' }}</div>
+            <div class="ap-form-group span2">
+              <label>{{ i18n.isEn ? 'Link a parent account by username' : 'ইউজারনেম দিয়ে অভিভাবক যুক্ত করুন' }}</label>
+              <div style="display:flex;gap:.5rem">
+                <input class="ap-input" [(ngModel)]="guardianUsernameInput" placeholder="parent1">
+                <button class="ap-btn-primary" (click)="linkGuardian()">+ {{ i18n.isEn ? 'Link' : 'যুক্ত করুন' }}</button>
+              </div>
+              <div *ngIf="guardianLinkError" style="color:#c0392b;font-size:.85rem;margin-top:.3rem">{{ guardianLinkError }}</div>
+            </div>
+          </div>
+          <div class="ap-modal-foot">
+            <button class="ap-btn-ghost" (click)="guardianModalStudent=null">{{ i18n.isEn ? 'Close' : 'বন্ধ' }}</button>
           </div>
         </div>
       </div>
@@ -999,6 +1061,8 @@ const API = 'https://raes-backend.vercel.app/api';
               <td><span class="ap-badge ap-badge-{{ e.status === 'completed' ? 'gray' : e.status === 'ongoing' ? 'green' : 'blue' }}">{{ e.status }}</span></td>
               <td>
                 <div class="ap-action-row">
+                  <button class="ap-btn-sm ap-btn-ghost" (click)="openSeatPlanModal(e)" title="Seat plan">🪑</button>
+                  <button class="ap-btn-sm ap-btn-ghost" (click)="openReportCardModal(e)" title="Report cards">📄</button>
                   <button class="ap-btn-edit" (click)="editExam(e)">✏️</button>
                   <button class="ap-btn-del" (click)="deleteExam(e.id)">🗑️</button>
                 </div>
@@ -1028,6 +1092,61 @@ const API = 'https://raes-backend.vercel.app/api';
             <div class="ap-form-group"><label>Status</label><select class="ap-input" [(ngModel)]="editingExam.status"><option value="scheduled">Scheduled</option><option value="ongoing">Ongoing</option><option value="completed">Completed</option></select></div>
           </div>
           <div class="ap-modal-foot"><button class="ap-btn-ghost" (click)="closeExamModal()">Cancel</button><button class="ap-btn-primary" (click)="saveExam()">Save</button></div>
+        </div>
+      </div>
+
+      <!-- Seat Plan Modal -->
+      <div class="ap-modal-bg" *ngIf="seatPlanExam" (click)="seatPlanExam=null">
+        <div class="ap-modal ap-modal-lg" (click)="$event.stopPropagation()">
+          <div class="ap-modal-head">
+            <h2>🪑 {{ i18n.isEn ? 'Seat Plan' : 'সিট প্ল্যান' }} — {{ seatPlanExam.exam_name }}</h2>
+            <button class="ap-modal-close" (click)="seatPlanExam=null">✕</button>
+          </div>
+          <div class="ap-form-grid">
+            <div class="ap-form-group"><label>{{ i18n.isEn ? 'Rooms (comma-separated)' : 'রুম (কমা দিয়ে আলাদা)' }}</label>
+              <input class="ap-input" [(ngModel)]="seatPlanRooms" placeholder="Room A, Room B">
+            </div>
+            <div class="ap-form-group"><label>{{ i18n.isEn ? 'Capacity per room' : 'প্রতি রুমে আসন সংখ্যা' }}</label>
+              <input type="number" class="ap-input" [(ngModel)]="seatPlanCapacity">
+            </div>
+            <div class="ap-form-group span2">
+              <button class="ap-btn-primary" (click)="generateSeatPlan()">⚡ {{ i18n.isEn ? 'Generate' : 'তৈরি করুন' }}</button>
+            </div>
+            <div class="ap-form-group span2" *ngIf="seatPlanRows.length">
+              <table class="ap-table">
+                <thead><tr><th>Roll</th><th>{{ i18n.isEn ? 'Name' : 'নাম' }}</th><th>Room</th><th>Seat</th></tr></thead>
+                <tbody>
+                  <tr *ngFor="let r of seatPlanRows">
+                    <td>{{ r.roll_number }}</td><td>{{ r.name_en }}</td><td>{{ r.room }}</td><td>{{ r.seat_number }}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div class="ap-modal-foot"><button class="ap-btn-ghost" (click)="seatPlanExam=null">{{ i18n.isEn ? 'Close' : 'বন্ধ' }}</button></div>
+        </div>
+      </div>
+
+      <!-- Report Card Modal -->
+      <div class="ap-modal-bg" *ngIf="reportCardExam" (click)="reportCardExam=null">
+        <div class="ap-modal ap-modal-lg" (click)="$event.stopPropagation()">
+          <div class="ap-modal-head">
+            <h2>📄 {{ i18n.isEn ? 'Report Cards' : 'রিপোর্ট কার্ড' }} — {{ reportCardExam.exam_name }}</h2>
+            <button class="ap-modal-close" (click)="reportCardExam=null">✕</button>
+          </div>
+          <div class="ap-card" style="max-height:400px;overflow-y:auto">
+            <table class="ap-table">
+              <thead><tr><th>Roll</th><th>{{ i18n.isEn ? 'Name' : 'নাম' }}</th><th></th></tr></thead>
+              <tbody>
+                <tr *ngFor="let s of reportCardStudents">
+                  <td>{{ s.roll_number }}</td><td>{{ s.name_en }}</td>
+                  <td><button class="ap-btn-sm ap-btn-primary" (click)="downloadReportCard(reportCardExam.id, s.id, s.name_en)">⬇️ PDF</button></td>
+                </tr>
+              </tbody>
+            </table>
+            <div class="ap-empty" *ngIf="!reportCardStudents.length">{{ i18n.isEn ? 'No students in this class' : 'এই শ্রেণীতে কোনো শিক্ষার্থী নেই' }}</div>
+          </div>
+          <div class="ap-modal-foot"><button class="ap-btn-ghost" (click)="reportCardExam=null">{{ i18n.isEn ? 'Close' : 'বন্ধ' }}</button></div>
         </div>
       </div>
     </section>
@@ -1186,6 +1305,101 @@ const API = 'https://raes-backend.vercel.app/api';
       </div>
     </section>
 
+    <!-- ═══ FEE STRUCTURES ═══ -->
+    <section *ngIf="activeSection==='fee-structures'" class="ap-section">
+      <div class="ap-page-head">
+        <h1>🧾 {{ i18n.isEn ? 'Fee Structures' : 'ফি কাঠামো' }}</h1>
+        <button class="ap-btn-primary" (click)="generateDues()">⚡ {{ i18n.isEn ? 'Generate This Month\'s Dues' : 'এই মাসের বকেয়া তৈরি করুন' }}</button>
+      </div>
+      <div class="ap-card">
+        <div class="ap-form-grid">
+          <div class="ap-form-group"><label>{{ i18n.isEn ? 'Class (blank = all)' : 'শ্রেণী (ফাঁকা = সব)' }}</label>
+            <select class="ap-input" [(ngModel)]="newFeeStructure.class_id">
+              <option value="">-- {{ i18n.isEn ? 'All classes' : 'সব শ্রেণী' }} --</option>
+              <option *ngFor="let c of classes" [value]="c.id">{{ c.class_name }} {{ c.section }}</option>
+            </select>
+          </div>
+          <div class="ap-form-group"><label>{{ i18n.isEn ? 'Fee Type' : 'ফি ধরন' }}</label>
+            <input class="ap-input" [(ngModel)]="newFeeStructure.fee_type" placeholder="মাসিক বেতন">
+          </div>
+          <div class="ap-form-group"><label>{{ i18n.isEn ? 'Amount (৳)' : 'পরিমাণ (৳)' }}</label>
+            <input type="number" class="ap-input" [(ngModel)]="newFeeStructure.amount">
+          </div>
+          <div class="ap-form-group"><label>{{ i18n.isEn ? 'Recurrence' : 'পুনরাবৃত্তি' }}</label>
+            <select class="ap-input" [(ngModel)]="newFeeStructure.recurrence">
+              <option value="monthly">{{ i18n.isEn ? 'Monthly' : 'মাসিক' }}</option>
+              <option value="yearly">{{ i18n.isEn ? 'Yearly' : 'বাৎসরিক' }}</option>
+              <option value="one_time">{{ i18n.isEn ? 'One-time' : 'একবার' }}</option>
+            </select>
+          </div>
+          <div class="ap-form-group span2">
+            <button class="ap-btn-primary" (click)="saveFeeStructure()">+ {{ i18n.isEn ? 'Add Fee Structure' : 'ফি কাঠামো যোগ করুন' }}</button>
+          </div>
+        </div>
+      </div>
+      <div class="ap-card" style="margin-top:1rem">
+        <table class="ap-table">
+          <thead><tr><th>{{ i18n.isEn ? 'Class' : 'শ্রেণী' }}</th><th>{{ i18n.isEn ? 'Fee Type' : 'ফি ধরন' }}</th><th>{{ i18n.isEn ? 'Amount' : 'পরিমাণ' }}</th><th>{{ i18n.isEn ? 'Recurrence' : 'পুনরাবৃত্তি' }}</th><th></th></tr></thead>
+          <tbody>
+            <tr *ngFor="let fs of feeStructures">
+              <td>{{ fs.class_name ? fs.class_name + ' ' + fs.section : (i18n.isEn ? 'All classes' : 'সব শ্রেণী') }}</td>
+              <td>{{ fs.fee_type }}</td>
+              <td class="ap-mono">৳{{ fs.amount }}</td>
+              <td><span class="ap-tag">{{ fs.recurrence }}</span></td>
+              <td><button class="ap-btn-del" (click)="deleteFeeStructure(fs.id)">🗑️</button></td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="ap-empty" *ngIf="!feeStructures.length">{{ i18n.isEn ? 'No fee structures yet' : 'এখনো কোনো ফি কাঠামো নেই' }}</div>
+      </div>
+    </section>
+
+    <!-- ═══ TEACHER ASSIGNMENTS ═══ -->
+    <section *ngIf="activeSection==='teacher-assignments'" class="ap-section">
+      <div class="ap-page-head">
+        <h1>🧑‍🏫 {{ i18n.isEn ? 'Teacher Assignments' : 'শিক্ষক বণ্টন' }}</h1>
+      </div>
+      <div class="ap-card">
+        <div class="ap-form-grid">
+          <div class="ap-form-group"><label>{{ i18n.isEn ? 'Class' : 'শ্রেণী' }}</label>
+            <select class="ap-input" [(ngModel)]="newAssignment.class_id">
+              <option value="">-- {{ i18n.isEn ? 'Select' : 'নির্বাচন' }} --</option>
+              <option *ngFor="let c of classes" [value]="c.id">{{ c.class_name }} {{ c.section }}</option>
+            </select>
+          </div>
+          <div class="ap-form-group"><label>{{ i18n.isEn ? 'Subject' : 'বিষয়' }}</label>
+            <select class="ap-input" [(ngModel)]="newAssignment.subject_id">
+              <option value="">-- {{ i18n.isEn ? 'Select' : 'নির্বাচন' }} --</option>
+              <option *ngFor="let s of subjects" [value]="s.id">{{ s.subject_name }}</option>
+            </select>
+          </div>
+          <div class="ap-form-group"><label>{{ i18n.isEn ? 'Teacher' : 'শিক্ষক' }}</label>
+            <select class="ap-input" [(ngModel)]="newAssignment.teacher_id">
+              <option value="">-- {{ i18n.isEn ? 'Select' : 'নির্বাচন' }} --</option>
+              <option *ngFor="let t of teachers" [value]="t.id">{{ t.name_en }}</option>
+            </select>
+          </div>
+          <div class="ap-form-group span2">
+            <button class="ap-btn-primary" (click)="saveTeacherAssignment()">+ {{ i18n.isEn ? 'Assign' : 'বণ্টন করুন' }}</button>
+          </div>
+        </div>
+      </div>
+      <div class="ap-card" style="margin-top:1rem">
+        <table class="ap-table">
+          <thead><tr><th>{{ i18n.isEn ? 'Class' : 'শ্রেণী' }}</th><th>{{ i18n.isEn ? 'Subject' : 'বিষয়' }}</th><th>{{ i18n.isEn ? 'Teacher' : 'শিক্ষক' }}</th><th></th></tr></thead>
+          <tbody>
+            <tr *ngFor="let a of teacherAssignments">
+              <td>{{ a.class_name }} {{ a.section }}</td>
+              <td>{{ a.subject_name }}</td>
+              <td>{{ a.teacher_name }}</td>
+              <td><button class="ap-btn-del" (click)="deleteTeacherAssignment(a.id)">🗑️</button></td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="ap-empty" *ngIf="!teacherAssignments.length">{{ i18n.isEn ? 'No assignments yet' : 'এখনো কোনো বণ্টন নেই' }}</div>
+      </div>
+    </section>
+
     <!-- ═══ HOMEWORK ═══ -->
     <section *ngIf="activeSection==='homework'" class="ap-section">
       <div class="ap-page-head">
@@ -1213,6 +1427,11 @@ const API = 'https://raes-backend.vercel.app/api';
             <div class="ap-form-group"><label>Teacher</label><select class="ap-input" [(ngModel)]="editingHw.teacher_id"><option *ngFor="let t of teachers" [value]="t.id">{{ t.name_en }}</option></select></div>
             <div class="ap-form-group"><label>Due Date</label><input type="date" class="ap-input" [(ngModel)]="editingHw.due_date"></div>
             <div class="ap-form-group span2"><label>Description *</label><textarea class="ap-input ap-textarea" [(ngModel)]="editingHw.description" rows="3"></textarea></div>
+            <div class="ap-form-group span2">
+              <label>{{ i18n.isEn ? 'Attachment' : 'সংযুক্তি' }}</label>
+              <input type="file" (change)="onHwAttachment($event)" class="ap-file-input">
+              <span *ngIf="editingHw.attachment_url" style="font-size:.8rem;color:#1A4731">✓ {{ i18n.isEn ? 'Attached' : 'সংযুক্ত হয়েছে' }}</span>
+            </div>
           </div>
           <div class="ap-modal-foot"><button class="ap-btn-ghost" (click)="hwModal=false">Cancel</button><button class="ap-btn-primary" (click)="saveHomework()">Save</button></div>
         </div>
@@ -2555,6 +2774,8 @@ export class AdminPanelComponent implements OnInit {
       case 'teachers': this.loadTeachers(); break;
       case 'exams': this.loadExams(); break;
       case 'payments': this.loadPayments(); break;
+      case 'fee-structures': this.loadFeeStructures(); break;
+      case 'teacher-assignments': this.loadTeacherAssignments(); this.loadTeachers(); break;
       case 'homework': this.loadHomework(); break;
       case 'transport': this.loadTransport(); break;
       case 'users': this.loadUsers(); break;
@@ -2562,7 +2783,6 @@ export class AdminPanelComponent implements OnInit {
       case 'classes': this.loadClasses(); this.loadStudents(); break;
       case 'employees': this.loadEmployees(); break;
       case 'hr-attendance': this.loadHrAtt(); this.loadEmployees(); break;
-      case 'payments': this.loadPayments(); break;
     }
   }
 
@@ -2739,9 +2959,12 @@ export class AdminPanelComponent implements OnInit {
   closeStudentModal() { this.studentModal = false; this.editingStudent = null; }
   onStudentPhoto(e: any) {
     const f = e.target.files[0]; if (!f) return;
-    const r = new FileReader();
-    r.onload = (ev: any) => { this.editingStudent.photo = ev.target.result; };
-    r.readAsDataURL(f);
+    const form = new FormData();
+    form.append('file', f);
+    this.http.post<{ url: string }>(`${API}/uploads`, form, { headers: this.headers }).subscribe({
+      next: (res) => { this.editingStudent.photo = `${API.replace(/\/api$/, '')}${res.url}`; },
+      error: () => { alert(this.i18n.isEn ? 'Photo upload failed' : 'ছবি আপলোড ব্যর্থ হয়েছে'); }
+    });
   }
   saveStudent() {
     const obs = this.editingStudent.id
@@ -2752,6 +2975,57 @@ export class AdminPanelComponent implements OnInit {
   deleteStudent(id: number) {
     if (!confirm('Delete this student?')) return;
     this.http.delete(`${API}/students/${id}`, { headers: this.headers }).subscribe({ next: () => this.loadStudents() });
+  }
+
+  // ── BULK IMPORT (CSV) ──
+  bulkImportModal = false;
+  bulkImportCsv = '';
+  bulkImportResult: { created: any[]; failed: any[] } | null = null;
+  openBulkImportModal() { this.bulkImportCsv = ''; this.bulkImportResult = null; this.bulkImportModal = true; }
+  submitBulkImport() {
+    const lines = this.bulkImportCsv.trim().split('\n').filter(l => l.trim());
+    if (lines.length < 2) { alert('Paste a header row plus at least one data row'); return; }
+    const headers = lines[0].split(',').map(h => h.trim());
+    const rows = lines.slice(1).map(line => {
+      const cells = line.split(',').map(c => c.trim());
+      const row: any = {};
+      headers.forEach((h, i) => { row[h] = cells[i] ?? ''; });
+      if (row.class_id) row.class_id = Number(row.class_id);
+      if (row.roll_number) row.roll_number = Number(row.roll_number);
+      return row;
+    });
+    this.http.post<{ created: any[]; failed: any[] }>(`${API}/students/bulk-import`, { rows }, { headers: this.headers }).subscribe({
+      next: (res) => { this.bulkImportResult = res; this.loadStudents(); },
+      error: (err) => alert(err.error?.message || 'Import failed')
+    });
+  }
+
+  // ── GUARDIAN LINKING (parent portal) ──
+  guardianModalStudent: any = null;
+  studentGuardians: any[] = [];
+  guardianUsernameInput = '';
+  guardianLinkError = '';
+  openGuardianModal(s: any) {
+    this.guardianModalStudent = s;
+    this.guardianUsernameInput = '';
+    this.guardianLinkError = '';
+    this.loadUsers();
+    this.http.get<any[]>(`${API}/students/${s.id}/guardians`, { headers: this.headers }).subscribe({ next: d => { this.studentGuardians = d; } });
+  }
+  linkGuardian() {
+    this.guardianLinkError = '';
+    const u = this.users.find((x: any) => x.username === this.guardianUsernameInput.trim());
+    if (!u) { this.guardianLinkError = 'No user with that username'; return; }
+    if (u.role !== 'parent') { this.guardianLinkError = 'That user is not a parent-role account'; return; }
+    this.http.post(`${API}/students/${this.guardianModalStudent.id}/guardians`, { guardian_user_id: u.id }, { headers: this.headers }).subscribe({
+      next: () => { this.guardianUsernameInput = ''; this.openGuardianModal(this.guardianModalStudent); },
+      error: (err) => { this.guardianLinkError = err.error?.message || 'Failed to link'; }
+    });
+  }
+  unlinkGuardian(guardianUserId: number) {
+    this.http.delete(`${API}/students/${this.guardianModalStudent.id}/guardians/${guardianUserId}`, { headers: this.headers }).subscribe({
+      next: () => this.openGuardianModal(this.guardianModalStudent)
+    });
   }
 
   // ── TEACHERS ──
@@ -2803,6 +3077,47 @@ export class AdminPanelComponent implements OnInit {
   deleteExam(id: number) {
     if (!confirm('Delete this exam?')) return;
     this.http.delete(`${API}/exams/${id}`).subscribe({ next: () => this.loadExams() });
+  }
+
+  // ── SEAT PLAN ──
+  seatPlanExam: any = null;
+  seatPlanRooms = '';
+  seatPlanCapacity = 30;
+  seatPlanRows: any[] = [];
+  openSeatPlanModal(e: any) {
+    this.seatPlanExam = e;
+    this.seatPlanRooms = '';
+    this.seatPlanRows = [];
+    this.http.get<any[]>(`${API}/exams/${e.id}/seat-plan`, { headers: this.headers }).subscribe({ next: d => { this.seatPlanRows = d; } });
+  }
+  generateSeatPlan() {
+    const rooms = this.seatPlanRooms.split(',').map(r => r.trim()).filter(Boolean);
+    if (!rooms.length || !this.seatPlanCapacity) { alert('Enter at least one room and a capacity'); return; }
+    this.http.post(`${API}/exams/${this.seatPlanExam.id}/seat-plan/generate`, { rooms, capacity_per_room: this.seatPlanCapacity }, { headers: this.headers }).subscribe({
+      next: () => this.openSeatPlanModal(this.seatPlanExam),
+      error: (err) => alert(err.error?.message || 'Failed to generate seat plan')
+    });
+  }
+
+  // ── REPORT CARDS ──
+  reportCardExam: any = null;
+  reportCardStudents: any[] = [];
+  openReportCardModal(e: any) {
+    this.reportCardExam = e;
+    this.reportCardStudents = this.students.filter((s: any) => s.class_id === e.class_id);
+  }
+  downloadReportCard(examId: number, studentId: number, studentName: string) {
+    this.http.get(`${API}/exams/${examId}/report-card/${studentId}`, { headers: this.headers, responseType: 'blob' }).subscribe({
+      next: (blob) => {
+        const url = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `report-card-${studentName.replace(/\s+/g, '-')}.pdf`;
+        a.click();
+        window.URL.revokeObjectURL(url);
+      },
+      error: () => alert('Failed to download report card')
+    });
   }
 
   // ── PAYMENTS ──
@@ -2867,11 +3182,63 @@ export class AdminPanelComponent implements OnInit {
     this.http.delete(`${API}/payments/${id}`, { headers: this.headers }).subscribe({ next: () => this.loadPayments() });
   }
 
+  // ── FEE STRUCTURES ──
+  feeStructures: any[] = [];
+  newFeeStructure: any = { class_id: '', fee_type: '', amount: null, recurrence: 'monthly' };
+  loadFeeStructures() {
+    this.http.get<any[]>(`${API}/fee-structures`, { headers: this.headers }).subscribe({ next: d => { this.feeStructures = d; } });
+  }
+  saveFeeStructure() {
+    if (!this.newFeeStructure.fee_type || !this.newFeeStructure.amount) { alert('Fee type and amount are required'); return; }
+    this.http.post(`${API}/fee-structures`, this.newFeeStructure, { headers: this.headers }).subscribe({
+      next: () => { this.newFeeStructure = { class_id: '', fee_type: '', amount: null, recurrence: 'monthly' }; this.loadFeeStructures(); }
+    });
+  }
+  deleteFeeStructure(id: number) {
+    if (!confirm('Delete this fee structure?')) return;
+    this.http.delete(`${API}/fee-structures/${id}`, { headers: this.headers }).subscribe({ next: () => this.loadFeeStructures() });
+  }
+  generateDues() {
+    if (!confirm(this.i18n.isEn ? "Generate this month's dues for all active monthly fee structures?" : 'এই মাসের সব সক্রিয় মাসিক ফি বকেয়া তৈরি করবেন?')) return;
+    this.http.post<{ message: string }>(`${API}/fee-structures/generate-dues`, {}, { headers: this.headers }).subscribe({
+      next: (res) => alert(res.message),
+      error: (err) => alert(err.error?.message || 'Failed to generate dues')
+    });
+  }
+
+  // ── TEACHER ASSIGNMENTS ──
+  teacherAssignments: any[] = [];
+  newAssignment: any = { class_id: '', subject_id: '', teacher_id: '' };
+  loadTeacherAssignments() {
+    this.http.get<any[]>(`${API}/teacher-assignments`, { headers: this.headers }).subscribe({ next: d => { this.teacherAssignments = d; } });
+  }
+  saveTeacherAssignment() {
+    if (!this.newAssignment.class_id || !this.newAssignment.subject_id || !this.newAssignment.teacher_id) {
+      alert('Class, subject and teacher are all required'); return;
+    }
+    this.http.post(`${API}/teacher-assignments`, this.newAssignment, { headers: this.headers }).subscribe({
+      next: () => { this.newAssignment = { class_id: '', subject_id: '', teacher_id: '' }; this.loadTeacherAssignments(); }
+    });
+  }
+  deleteTeacherAssignment(id: number) {
+    if (!confirm('Remove this assignment?')) return;
+    this.http.delete(`${API}/teacher-assignments/${id}`, { headers: this.headers }).subscribe({ next: () => this.loadTeacherAssignments() });
+  }
+
   // ── HOMEWORK ──
   loadHomework() {
     this.http.get<any[]>(`${API}/homework/class/1`).subscribe({ next: d => { this.homework = d; } });
   }
   openHwModal() { this.editingHw = { class_id: '', subject_id: '', teacher_id: '', description: '', due_date: '' }; this.hwModal = true; }
+  onHwAttachment(e: any) {
+    const f = e.target.files[0]; if (!f) return;
+    const form = new FormData();
+    form.append('file', f);
+    this.http.post<{ url: string }>(`${API}/uploads`, form, { headers: this.headers }).subscribe({
+      next: (res) => { this.editingHw.attachment_url = `${API.replace(/\/api$/, '')}${res.url}`; },
+      error: () => { alert(this.i18n.isEn ? 'Attachment upload failed' : 'সংযুক্তি আপলোড ব্যর্থ হয়েছে'); }
+    });
+  }
   saveHomework() {
     this.http.post(`${API}/homework`, this.editingHw).subscribe({ next: () => { this.hwModal = false; this.loadHomework(); } });
   }

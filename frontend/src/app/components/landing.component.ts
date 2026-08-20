@@ -4,8 +4,9 @@ import { FormsModule } from '@angular/forms';
 import { Router } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { I18nService } from '../services/i18n.service';
+import { environment } from '../../environments/environment';
 
-const API = 'https://raes-backend.vercel.app/api';
+const API = environment.apiUrl;
 
 @Component({
   selector: 'app-landing',

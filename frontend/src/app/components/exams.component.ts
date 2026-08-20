@@ -2,6 +2,9 @@ import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
+import { environment } from '../../environments/environment';
+
+const API = environment.apiUrl;
 
 interface Exam {
   id?: number;
@@ -203,7 +206,7 @@ export class ExamsComponent implements OnInit {
 
   loadExams() {
     this.loading = true;
-    this.http.get<Exam[]>('https://raes-backend.vercel.app/api/exams').subscribe({
+    this.http.get<Exam[]>(`${API}/exams`).subscribe({
       next: (data) => { this.exams = data; this.loading = false; },
       error: () => { this.loading = false; }
     });
@@ -212,7 +215,7 @@ export class ExamsComponent implements OnInit {
   addExam() {
     this.loading = true;
     this.errorMsg = '';
-    this.http.post<Exam>('https://raes-backend.vercel.app/api/exams', this.newExam).subscribe({
+    this.http.post<Exam>(`${API}/exams`, this.newExam).subscribe({
       next: () => {
         this.successMsg = 'পরীক্ষা সফলভাবে যোগ করা হয়েছে!';
         this.loadExams();

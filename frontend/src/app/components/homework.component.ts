@@ -2,6 +2,9 @@ import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
+import { environment } from '../../environments/environment';
+
+const API = environment.apiUrl;
 
 interface Homework {
   id?: number;
@@ -15,6 +18,7 @@ interface Homework {
   subject_name?: string;
   teacher_name?: string;
   status?: string;
+  attachment_url?: string | null;
 }
 
 @Component({
@@ -71,6 +75,12 @@ interface Homework {
         <div class="form-group">
           <label>বিবরণ</label>
           <textarea class="form-control" [(ngModel)]="newHw.description" name="description" rows="3" placeholder="হোমওয়ার্কের বিস্তারিত..."></textarea>
+        </div>
+
+        <div class="form-group">
+          <label>সংযুক্তি</label>
+          <input type="file" (change)="onAttachment($event)">
+          <span *ngIf="newHw.attachment_url" style="font-size:.8rem;color:#198754;margin-left:.5rem">✓ সংযুক্ত হয়েছে</span>
         </div>
 
         <div *ngIf="errorMsg" class="alert alert-danger">{{ errorMsg }}</div>
@@ -155,16 +165,26 @@ export class HomeworkComponent implements OnInit {
   loadHomework() {
     if (!this.filterClassId) return;
     this.loading = true;
-    this.http.get<Homework[]>(`https://raes-backend.vercel.app/api/homework/class/${this.filterClassId}`).subscribe({
+    this.http.get<Homework[]>(`${API}/homework/class/${this.filterClassId}`).subscribe({
       next: (data) => { this.homeworks = data; this.loading = false; },
       error: () => { this.loading = false; }
+    });
+  }
+
+  onAttachment(e: any) {
+    const f = e.target.files[0]; if (!f) return;
+    const form = new FormData();
+    form.append('file', f);
+    this.http.post<{ url: string }>(`${API}/uploads`, form).subscribe({
+      next: (res) => { this.newHw.attachment_url = `${API.replace(/\/api$/, '')}${res.url}`; },
+      error: () => { this.errorMsg = 'সংযুক্তি আপলোড ব্যর্থ হয়েছে।'; }
     });
   }
 
   addHomework() {
     this.loading = true;
     this.errorMsg = '';
-    this.http.post<Homework>('https://raes-backend.vercel.app/api/homework', this.newHw).subscribe({
+    this.http.post<Homework>(`${API}/homework`, this.newHw).subscribe({
       next: () => {
         this.successMsg = 'হোমওয়ার্ক সফলভাবে যোগ করা হয়েছে!';
         if (this.filterClassId) this.loadHomework();

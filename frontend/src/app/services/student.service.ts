@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
+import { environment } from '../../environments/environment';
 
 export interface Student {
   id?: number;
@@ -24,7 +25,7 @@ export interface Student {
   providedIn: 'root'
 })
 export class StudentService {
-  private apiUrl = 'https://raes-backend.vercel.app/api/students';
+  private apiUrl = `${environment.apiUrl}/students`;
 
   constructor(private http: HttpClient) {}
 

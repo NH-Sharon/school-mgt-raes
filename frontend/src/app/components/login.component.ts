@@ -67,6 +67,10 @@ import { I18nService } from '../services/i18n.service';
 
         <div *ngIf="error" class="alert-error">{{ i18n.t('wrongCreds') }}</div>
 
+        <div class="forgot-link-row">
+          <button type="button" class="forgot-link" (click)="goForgotPassword()">{{ i18n.isEn ? 'Forgot password?' : 'পাসওয়ার্ড ভুলে গেছেন?' }}</button>
+        </div>
+
         <button
           type="submit"
           class="login-btn"
@@ -245,6 +249,9 @@ import { I18nService } from '../services/i18n.service';
     .form-control:focus { outline: none; border-color: var(--surface-dark); box-shadow: 0 0 0 3px rgba(26,71,49,0.1); }
 
     .alert-error { background: #FEE2E2; border: 1px solid #FCA5A5; color: #991B1B; padding: 0.65rem 0.9rem; border-radius: 7px; font-size: 0.82rem; margin-bottom: 1rem; font-family: 'Noto Sans Bengali', 'DM Sans', sans-serif; }
+    .forgot-link-row { text-align: right; margin-bottom: 0.85rem; margin-top: -0.5rem; }
+    .forgot-link { background: none; border: none; color: var(--muted); font-size: 0.8rem; cursor: pointer; text-decoration: underline; font-family: 'Noto Sans Bengali', 'DM Sans', sans-serif; }
+    .forgot-link:hover { color: var(--surface-dark); }
 
     .login-btn {
       width: 100%;
@@ -330,6 +337,7 @@ export class LoginComponent {
   loading = false;
 
   goBack() { this.router.navigate(['/']); }
+  goForgotPassword() { this.router.navigate(['/forgot-password']); }
 
   fillDemo(role: string) {
     if (role === 'admin') { this.credentials = { username: 'admin', password: 'password' }; }
@@ -347,6 +355,7 @@ export class LoginComponent {
         const role = user?.role;
         if (role === 'teacher') { this.router.navigate(['/teacher-portal']); }
         else if (role === 'student') { this.router.navigate(['/student-portal']); }
+        else if (role === 'parent') { this.router.navigate(['/parent-portal']); }
         else { this.router.navigate(['/admin']); }
       },
       error: () => {

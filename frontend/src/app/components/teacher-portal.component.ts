@@ -5,6 +5,9 @@ import { Router } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { I18nService } from '../services/i18n.service';
 import { AuthService } from '../services/auth.service';
+import { environment } from '../../environments/environment';
+
+const API = environment.apiUrl;
 
 @Component({
   selector: 'app-teacher-portal',
@@ -256,6 +259,10 @@ import { AuthService } from '../services/auth.service';
           </select>
           <input type="date" class="form-input" [(ngModel)]="newHw.due_date" placeholder="Due date">
           <input type="text" class="form-input span-full" [(ngModel)]="newHw.description" [placeholder]="i18n.isEn ? 'Description…' : 'বিবরণ…'">
+          <div class="span-full">
+            <input type="file" (change)="onHwAttachment($event)" style="font-size:0.85rem">
+            <span *ngIf="newHw.attachment_url" style="font-size:0.8rem;color:#1A4731;margin-left:0.5rem">✓ {{ i18n.isEn ? 'Attached' : 'সংযুক্ত হয়েছে' }}</span>
+          </div>
           <button class="btn-primary span-full" (click)="addHomework()">
             {{ i18n.isEn ? 'Assign' : 'দিন' }}
           </button>
@@ -923,7 +930,7 @@ export class TeacherPortalComponent implements OnInit {
       this.userName = user.full_name || user.username || 'Teacher';
       this.userInitial = this.userName.charAt(0).toUpperCase();
     }
-    this.http.get<any>('https://raes-backend.vercel.app/api/auth/me').subscribe({
+    this.http.get<any>(`${API}/auth/me`).subscribe({
       next: (me: any) => {
         if (me.linkedId) this.teacherId = me.linkedId;
         if (me.linkedData?.class_id) {
@@ -934,15 +941,15 @@ export class TeacherPortalComponent implements OnInit {
         this.userPermissions = (me.permissions || '').split(',').filter((p: string) => p);
       }, error: () => {}
     });
-    this.http.get<any[]>('https://raes-backend.vercel.app/api/classes').subscribe({ next: d => { this.classes = d; }, error: () => {} });
-    this.http.get<any[]>('https://raes-backend.vercel.app/api/students').subscribe({ next: d => { this.students = d; }, error: () => {} });
-    this.http.get<any[]>('https://raes-backend.vercel.app/api/exams').subscribe({ next: d => { this.exams = d; }, error: () => {} });
-    this.http.get<any[]>('https://raes-backend.vercel.app/api/subjects').subscribe({ next: d => { this.subjects = d; }, error: () => {} });
+    this.http.get<any[]>(`${API}/classes`).subscribe({ next: d => { this.classes = d; }, error: () => {} });
+    this.http.get<any[]>(`${API}/students`).subscribe({ next: d => { this.students = d; }, error: () => {} });
+    this.http.get<any[]>(`${API}/exams`).subscribe({ next: d => { this.exams = d; }, error: () => {} });
+    this.http.get<any[]>(`${API}/subjects`).subscribe({ next: d => { this.subjects = d; }, error: () => {} });
   }
 
   loadAttendance() {
     if (!this.selectedClassId || !this.selectedDate) return;
-    this.http.get<any[]>(`https://raes-backend.vercel.app/api/attendance/${this.selectedClassId}/${this.selectedDate}`).subscribe({
+    this.http.get<any[]>(`${API}/attendance/${this.selectedClassId}/${this.selectedDate}`).subscribe({
       next: d => { this.attendanceList = d.map(s => ({ ...s, status: s.status || 'present' })); },
       error: () => {}
     });
@@ -951,7 +958,7 @@ export class TeacherPortalComponent implements OnInit {
   loadHomework() {
     const classId = this.newHw.class_id || this.selectedClassId || this.classes[0]?.id;
     if (!classId) return;
-    this.http.get<any[]>(`https://raes-backend.vercel.app/api/homework/class/${classId}`).subscribe({
+    this.http.get<any[]>(`${API}/homework/class/${classId}`).subscribe({
       next: d => { this.homeworkList = d; },
       error: () => {}
     });
@@ -961,14 +968,13 @@ export class TeacherPortalComponent implements OnInit {
 
   saveAttendance() {
     const records = this.attendanceList.map(a => ({ student_id: a.student_id, status: a.status, date: this.selectedDate }));
-    this.http.post(`https://raes-backend.vercel.app/api/attendance/${this.selectedClassId}/${this.selectedDate}`, { records }).subscribe({
+    this.http.post(`${API}/attendance/${this.selectedClassId}/${this.selectedDate}`, { records }).subscribe({
       next: () => { this.saveMsgVisible = true; setTimeout(() => { this.saveMsgVisible = false; }, 3000); },
       error: () => {}
     });
   }
 
   loadAttReport() {
-    const API = 'https://raes-backend.vercel.app/api';
     let url = `${API}/attendance/report-summary?month=${this.attReportMonth}`;
     if (this.attReportClassId) url += `&class_id=${this.attReportClassId}`;
     this.http.get<any[]>(url).subscribe({
@@ -1012,9 +1018,19 @@ export class TeacherPortalComponent implements OnInit {
     setTimeout(() => { win.print(); }, 400);
   }
 
+  onHwAttachment(e: any) {
+    const f = e.target.files[0]; if (!f) return;
+    const form = new FormData();
+    form.append('file', f);
+    this.http.post<{ url: string }>(`${API}/uploads`, form).subscribe({
+      next: (res) => { this.newHw.attachment_url = `${API.replace(/\/api$/, '')}${res.url}`; },
+      error: () => { alert(this.i18n.isEn ? 'Attachment upload failed' : 'সংযুক্তি আপলোড ব্যর্থ হয়েছে'); }
+    });
+  }
+
   addHomework() {
     if (!this.newHw.description || !this.newHw.class_id) return;
-    this.http.post('https://raes-backend.vercel.app/api/homework', { ...this.newHw, teacher_id: this.teacherId || 1 }).subscribe({
+    this.http.post(`${API}/homework`, { ...this.newHw, teacher_id: this.teacherId || 1 }).subscribe({
       next: () => {
         this.loadHomework();
         this.newHw = { class_id: this.newHw.class_id, subject_id: '', description: '', due_date: '' };
@@ -1032,7 +1048,6 @@ export class TeacherPortalComponent implements OnInit {
   }
 
   loadPermPayments() {
-    const API = 'https://raes-backend.vercel.app/api';
     this.http.get<any[]>(`${API}/payments`).subscribe({
       next: d => {
         this.permPayments = d;
@@ -1047,28 +1062,24 @@ export class TeacherPortalComponent implements OnInit {
   }
 
   loadPermHr() {
-    const API = 'https://raes-backend.vercel.app/api';
     this.http.get<any[]>(`${API}/employees`).subscribe({
       next: d => { this.permHrList = d; }, error: () => {}
     });
   }
 
   loadPermHrAtt() {
-    const API = 'https://raes-backend.vercel.app/api';
     this.http.get<any[]>(`${API}/employee-attendance/summary?month=${this.permHrAttMonth}`).subscribe({
       next: d => { this.permHrAtt = d; }, error: () => {}
     });
   }
 
   loadPermTransport() {
-    const API = 'https://raes-backend.vercel.app/api';
     this.http.get<any[]>(`${API}/transport`).subscribe({
       next: d => { this.permTransport = d; }, error: () => {}
     });
   }
 
   loadPermReports() {
-    const API = 'https://raes-backend.vercel.app/api';
     let url = `${API}/attendance/report-summary?month=${this.permRptMonth}`;
     if (this.permRptClassId) url += `&class_id=${this.permRptClassId}`;
     this.http.get<any[]>(url).subscribe({

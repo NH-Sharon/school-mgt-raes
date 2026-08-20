@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { BehaviorSubject, Observable } from 'rxjs';
 import { tap } from 'rxjs/operators';
+import { environment } from '../../environments/environment';
 
 export interface User {
   id: number;
@@ -21,7 +22,7 @@ export interface LoginResponse {
   providedIn: 'root'
 })
 export class AuthService {
-  private apiUrl = 'https://raes-backend.vercel.app/api/auth';
+  private apiUrl = `${environment.apiUrl}/auth`;
   private currentUserSubject = new BehaviorSubject<User | null>(null);
   public currentUser$ = this.currentUserSubject.asObservable();
 
@@ -43,6 +44,14 @@ export class AuthService {
           this.currentUserSubject.next(response.user);
         })
       );
+  }
+
+  forgotPassword(username: string): Observable<{ message: string; devToken?: string }> {
+    return this.http.post<{ message: string; devToken?: string }>(`${this.apiUrl}/forgot-password`, { username });
+  }
+
+  resetPassword(token: string, password: string): Observable<{ message: string }> {
+    return this.http.post<{ message: string }>(`${this.apiUrl}/reset-password`, { token, password });
   }
 
   logout(): void {

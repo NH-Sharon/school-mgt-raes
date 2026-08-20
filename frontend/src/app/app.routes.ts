@@ -11,21 +11,28 @@ import { HomeworkComponent } from './components/homework.component';
 import { TransportComponent } from './components/transport.component';
 import { StudentPortalComponent } from './components/student-portal.component';
 import { TeacherPortalComponent } from './components/teacher-portal.component';
+import { ParentPortalComponent } from './components/parent-portal.component';
 import { AdminPanelComponent } from './components/admin-panel.component';
+import { ForgotPasswordComponent } from './components/forgot-password.component';
+import { ResetPasswordComponent } from './components/reset-password.component';
+import { authGuard } from './guards/auth.guard';
 
 export const routes: Routes = [
   { path: '', component: LandingComponent },
   { path: 'login', component: LoginComponent },
-  { path: 'admin', component: AdminPanelComponent },
+  { path: 'forgot-password', component: ForgotPasswordComponent },
+  { path: 'reset-password', component: ResetPasswordComponent },
+  { path: 'admin', component: AdminPanelComponent, canActivate: [authGuard] },
   { path: 'dashboard', redirectTo: '/admin', pathMatch: 'full' },
-  { path: 'students', component: StudentsComponent },
-  { path: 'teachers', component: TeachersComponent },
-  { path: 'attendance', component: AttendanceComponent },
-  { path: 'exams', component: ExamsComponent },
-  { path: 'payments', component: PaymentsComponent },
-  { path: 'homework', component: HomeworkComponent },
-  { path: 'transport', component: TransportComponent },
-  { path: 'student-portal', component: StudentPortalComponent },
-  { path: 'teacher-portal', component: TeacherPortalComponent },
+  { path: 'students', component: StudentsComponent, canActivate: [authGuard] },
+  { path: 'teachers', component: TeachersComponent, canActivate: [authGuard] },
+  { path: 'attendance', component: AttendanceComponent, canActivate: [authGuard] },
+  { path: 'exams', component: ExamsComponent, canActivate: [authGuard] },
+  { path: 'payments', component: PaymentsComponent, canActivate: [authGuard] },
+  { path: 'homework', component: HomeworkComponent, canActivate: [authGuard] },
+  { path: 'transport', component: TransportComponent, canActivate: [authGuard] },
+  { path: 'student-portal', component: StudentPortalComponent, canActivate: [authGuard] },
+  { path: 'teacher-portal', component: TeacherPortalComponent, canActivate: [authGuard] },
+  { path: 'parent-portal', component: ParentPortalComponent, canActivate: [authGuard] },
   { path: '**', redirectTo: '/' }
 ];
