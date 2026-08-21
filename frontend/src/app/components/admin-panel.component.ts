@@ -1309,7 +1309,7 @@ Rahim Uddin,রহিম উদ্দিন,Karim,Rokeya,1,ক,10"></textarea>
     <section *ngIf="activeSection==='fee-structures'" class="ap-section">
       <div class="ap-page-head">
         <h1>🧾 {{ i18n.isEn ? 'Fee Structures' : 'ফি কাঠামো' }}</h1>
-        <button class="ap-btn-primary" (click)="generateDues()">⚡ {{ i18n.isEn ? 'Generate This Month\'s Dues' : 'এই মাসের বকেয়া তৈরি করুন' }}</button>
+        <button class="ap-btn-primary" (click)="generateDues()">⚡ {{ i18n.isEn ? "Generate This Month's Dues" : 'এই মাসের বকেয়া তৈরি করুন' }}</button>
       </div>
       <div class="ap-card">
         <div class="ap-form-grid">
