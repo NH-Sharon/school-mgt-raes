@@ -3227,7 +3227,7 @@ export class AdminPanelComponent implements OnInit {
 
   // ── HOMEWORK ──
   loadHomework() {
-    this.http.get<any[]>(`${API}/homework/class/1`).subscribe({ next: d => { this.homework = d; } });
+    this.http.get<any[]>(`${API}/homework`).subscribe({ next: d => { this.homework = d; } });
   }
   openHwModal() { this.editingHw = { class_id: '', subject_id: '', teacher_id: '', description: '', due_date: '' }; this.hwModal = true; }
   onHwAttachment(e: any) {
