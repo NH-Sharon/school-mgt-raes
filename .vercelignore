@@ -1,0 +1,8 @@
+lab/
+frontend/node_modules/
+backend/node_modules/
+frontend/dist/
+RAES_User_Manual.docx
+RAES_User_Manual.pdf
+school_backup.sql
+.git/
