@@ -76,7 +76,12 @@ const FALLBACK = { icon: '📘', c1: '#5b7f78', c2: '#3a5550' };
           <div class="skeleton" *ngFor="let n of [1,2,3,4]"></div>
         </div>
 
-        <div class="empty" *ngIf="!loading() && !shown().length">
+        <div class="pick" *ngIf="!loading() && !active() && !search().trim()">
+          <span>👆</span>
+          <p>{{ i18n.isEn ? 'Choose a subject above to see its chapters.' : 'অধ্যায় দেখতে উপরে একটি বিষয় বেছে নিন।' }}</p>
+        </div>
+
+        <div class="empty" *ngIf="!loading() && (active() || search().trim()) && !shown().length">
           <span>📭</span>
           <p>{{ search().trim() ? (i18n.isEn ? 'No chapter matches your search.' : 'আপনার খোঁজের সাথে কোনো অধ্যায় মেলেনি।') : (i18n.isEn ? 'No published chapters for this class yet.' : 'এই শ্রেণির জন্য এখনো কোনো অধ্যায় প্রকাশিত হয়নি।') }}</p>
         </div>
@@ -151,6 +156,7 @@ const FALLBACK = { icon: '📘', c1: '#5b7f78', c2: '#3a5550' };
 
     .skeleton { height: 128px; border-radius: 16px; background: linear-gradient(90deg, #eef2f3 25%, #f7f9f9 50%, #eef2f3 75%); background-size: 200% 100%; animation: sh 1.2s infinite; }
     @keyframes sh { to { background-position: -200% 0; } }
+    .pick { text-align: center; padding: 26px 10px; color: #55666f; background: #f2f9f7; border: 1px dashed #b8d9d1; border-radius: 14px; } .pick span { font-size: 1.8rem; } .pick p { margin: 6px 0 0; }
     .empty { text-align: center; padding: 40px 10px; color: #6b7a84; } .empty span { font-size: 2.2rem; }
     @media (max-width: 560px) { .grid { grid-template-columns: 1fr; } .search { flex: 1 1 100%; } .subjects { grid-template-columns: repeat(2, 1fr); gap: 10px; } .s-card { padding: 12px; } .s-ico { font-size: 1.5rem; } .s-name { font-size: .92rem; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
@@ -205,9 +211,8 @@ export class SubjectsComponent implements OnInit {
       const map: Record<number, Chapter[]> = {};
       subs.forEach((s, i) => map[s.id] = lists[i]);
       this.chaptersBySubject.set(map);
-      // open the last-used subject, else the first one that has chapters
-      let saved = 0; try { saved = +(localStorage.getItem('studySubject') || 0); } catch { /* ignore */ }
-      this.active.set(subs.find(s => s.id === saved && map[s.id].length) || subs.find(s => map[s.id].length) || subs[0]);
+      // nothing is opened until the student clicks a subject
+      this.active.set(null);
       this.loading.set(false);
       const ids = lists.flat().map(c => c.id);
       if (ids.length) this.examSvc.availability(ids).pipe(catchError(() => of(null))).subscribe(a => this.avail.set(a));
@@ -215,7 +220,7 @@ export class SubjectsComponent implements OnInit {
   }
 
   selectClass(c: number) { this.classLevel.set(c); this.avail.set(null); this.loadAll(); }
-  selectSubject(s: Subject) { this.active.set(s); this.search.set(''); try { localStorage.setItem('studySubject', String(s.id)); } catch { /* ignore */ } }
+  selectSubject(s: Subject) { this.search.set(''); this.active.set(this.active()?.id === s.id ? null : s); }
 
   theme(s: Subject | null) { return (s && THEME[s.code]) || FALLBACK; }
   subjectOf(ch: Chapter): Subject | null { return this.subjects().find(s => s.id === ch.subject_id) || null; }
