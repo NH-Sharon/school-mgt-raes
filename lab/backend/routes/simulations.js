@@ -4,6 +4,10 @@ const { verifyToken } = require('../middleware/auth');
 
 const router = express.Router();
 
+// Labs open to every class 9-12 even if the DB row has no config.classLevels yet
+// (so a fresh deploy works without a data migration). Others can opt in via config.classLevels.
+const SHARED_9_12_KEYS = ['chem-mixing', 'chem-titration'];
+
 // FR-7 — lab catalog ordered by class -> subject -> chapter -> topic -> sim order.
 // Access control: students see only their own class; guardians see their linked
 // students' classes; teachers/content_admin/system_admin (moderators) see all.
@@ -31,23 +35,26 @@ router.get('/catalog/list', verifyToken, async (req, res) => {
 
     // A lab can be shared across classes: simulations.config.classLevels = [9,10,11,12]
     // makes it visible to every listed class (shown under the viewer's own class).
-    let classParam = null;
+    let classParam = null, keysParam = 0;
+    const shared = (a) => `(s.config->'classLevels' @> to_jsonb(${a}) OR (s.key = ANY($${keysParam}::text[]) AND ${a} BETWEEN 9 AND 12))`;
     if (allowedClasses) {
       params.push(allowedClasses);
       classParam = params.length;
+      params.push(SHARED_9_12_KEYS); keysParam = params.length;
       clauses.push(`(c.class_level = ANY($${classParam}::int[])
-        OR EXISTS (SELECT 1 FROM unnest($${classParam}::int[]) a WHERE s.config->'classLevels' @> to_jsonb(a)))`);
+        OR EXISTS (SELECT 1 FROM unnest($${classParam}::int[]) a WHERE ${shared('a')}))`);
     }
     // Optional narrowing filters (used by the staff class/subject selectors).
     if (req.query.subjectId) { params.push(req.query.subjectId); clauses.push(`c.subject_id = $${params.length}`); }
     if (req.query.classLevel && !allowedClasses) {
       params.push(Number(req.query.classLevel)); classParam = params.length;
-      clauses.push(`(c.class_level = $${classParam} OR s.config->'classLevels' @> to_jsonb($${classParam}::int))`);
+      params.push(SHARED_9_12_KEYS); keysParam = params.length;
+      clauses.push(`(c.class_level = $${classParam} OR ${shared(`$${classParam}::int`)})`);
     }
     // class shown for a shared lab = the class the viewer asked for / belongs to
     const shownClass = classParam
       ? (allowedClasses
-          ? `COALESCE((SELECT MIN(a) FROM unnest($${classParam}::int[]) a WHERE a = c.class_level OR s.config->'classLevels' @> to_jsonb(a)), c.class_level)`
+          ? `COALESCE((SELECT MIN(a) FROM unnest($${classParam}::int[]) a WHERE a = c.class_level OR ${shared('a')}), c.class_level)`
           : `$${classParam}::int`)
       : 'c.class_level';
 
