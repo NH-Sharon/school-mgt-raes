@@ -14,7 +14,10 @@ import { I18nService } from '../services/i18n.service';
       <h2>{{ i18n.isEn ? 'Class' : 'শ্রেণি' }} {{ classLevel }} — {{ i18n.t('subjects') }}</h2>
 
       <button class="practice-cta" (click)="goPractice()">
-        🎯 {{ i18n.isEn ? 'Build a custom MCQ practice (choose subject, chapters, topics & how many questions)' : 'কাস্টম এমসিকিউ অনুশীলন তৈরি করুন (বিষয়, অধ্যায়, টপিক ও প্রশ্নসংখ্যা বেছে নিন)' }}
+        <span class="pc-ico">🎯</span>
+        <span class="pc-txt"><b>{{ i18n.isEn ? 'Practice & exam builder' : 'অনুশীলন ও পরীক্ষা সেটআপ' }}</b>
+        <small>{{ i18n.isEn ? 'Choose subject, chapters, topics, Easy / Medium / Hard and how many questions — then practise or sit an exam.' : 'বিষয়, অধ্যায়, টপিক, সহজ / মাঝারি / কঠিন ও প্রশ্নসংখ্যা বেছে নিন — তারপর অনুশীলন বা পরীক্ষা দিন।' }}</small></span>
+        <span class="pc-go">→</span>
       </button>
 
       <div class="class-picker">
@@ -30,16 +33,20 @@ import { I18nService } from '../services/i18n.service';
 
       <div *ngIf="activeSubject">
         <button class="back-link" (click)="activeSubject = null">&larr; {{ i18n.isEn ? 'Back to subjects' : 'বিষয়ে ফিরুন' }}</button>
-        <h3>{{ i18n.isEn ? activeSubject.name_en : activeSubject.name_bn }}</h3>
+        <div class="subj-head">
+          <h3>{{ i18n.isEn ? activeSubject.name_en : activeSubject.name_bn }}</h3>
+          <button class="build-btn" (click)="goPractice(activeSubject.id)">🎯 {{ i18n.isEn ? 'Make a practice / exam' : 'এই বিষয়ে অনুশীলন / পরীক্ষা বানান' }}</button>
+        </div>
         <p class="empty-hint" *ngIf="loading">{{ i18n.t('loading') }}</p>
         <p class="empty-hint" *ngIf="!loading && chapters.length === 0">
           {{ i18n.isEn ? 'No published chapters for this class yet.' : 'এই শ্রেণির জন্য এখনো কোনো অধ্যায় প্রকাশিত হয়নি।' }}
         </p>
         <div class="chapter-list">
-          <button class="chapter-card" *ngFor="let ch of chapters" (click)="openChapter(ch)">
-            <span>{{ i18n.isEn ? ch.title_en : ch.title_bn }}</span>
-            <span class="arrow">→</span>
-          </button>
+          <div class="chapter-card" *ngFor="let ch of chapters">
+            <button class="ch-main" (click)="openChapter(ch)"><span class="ch-no">{{ ch.order_index }}</span><span>{{ i18n.isEn ? ch.title_en : ch.title_bn }}</span></button>
+            <button class="ch-quiz" (click)="goPractice(ch.subject_id, ch.id)" [title]="i18n.isEn ? 'Practice / exam this chapter' : 'এই অধ্যায়ের অনুশীলন / পরীক্ষা'">🎯 {{ i18n.isEn ? 'Practice' : 'অনুশীলন' }}</button>
+            <button class="arrow" (click)="openChapter(ch)">→</button>
+          </div>
         </div>
       </div>
     </div>
@@ -47,8 +54,15 @@ import { I18nService } from '../services/i18n.service';
   styles: [`
     .page { max-width: 900px; margin: 0 auto; padding: 24px 20px; }
     h2 { color: #1a6d5e; font-size: 1.2rem; }
-    .practice-cta { width: 100%; text-align: left; background: linear-gradient(135deg, var(--brand-soft), #fff); border: 1px solid var(--brand); color: var(--brand); border-radius: var(--radius); padding: 14px 16px; font-weight: 600; font-size: 0.9rem; margin-bottom: 18px; }
-    .practice-cta:hover { background: var(--brand-soft); }
+    .practice-cta { width: 100%; display: flex; align-items: center; gap: 14px; text-align: left; background: linear-gradient(135deg, #eef6f4, #fff); border: 1px solid var(--brand); color: var(--brand); border-radius: 14px; padding: 14px 16px; margin: 6px 0 18px; cursor: pointer; font-family: inherit; }
+    .pc-ico { font-size: 1.8rem; } .pc-txt { flex: 1; display: flex; flex-direction: column; gap: 2px; } .pc-txt small { color: #55666f; font-size: .8rem; line-height: 1.4; } .pc-go { font-size: 1.3rem; }
+    .subj-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+    .build-btn { background: var(--brand); color: #fff; border: none; border-radius: 10px; padding: 8px 14px; font-size: .84rem; font-weight: 600; cursor: pointer; }
+    .ch-main { display: flex; align-items: center; gap: 10px; flex: 1; background: none; border: none; text-align: left; font-size: .92rem; color: #33454f; cursor: pointer; padding: 0; font-family: inherit; }
+    .ch-no { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%; background: #eef6f4; color: #1a6d5e; font-size: .78rem; font-weight: 700; }
+    .ch-quiz { background: #eef6f4; color: #1a6d5e; border: 1px solid #cfe3de; border-radius: 99px; padding: 4px 11px; font-size: .76rem; font-weight: 600; cursor: pointer; }
+    .arrow { background: none; border: none; cursor: pointer; }
+    .practice-cta:hover { box-shadow: 0 6px 16px rgba(20,60,50,.12); }
     .class-picker { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px; }
     .chip { padding: 7px 14px; border-radius: 999px; border: 1px solid #cfd9dd; background: #fff; font-size: 0.85rem; }
     .chip.active { background: #1a6d5e; color: #fff; border-color: #1a6d5e; }
@@ -116,7 +130,9 @@ export class SubjectsComponent implements OnInit {
     this.router.navigate(['/subjects', ch.subject_id, 'chapters', ch.id]);
   }
 
-  goPractice() { this.router.navigateByUrl('/practice'); }
+  goPractice(subject?: number, chapter?: number) {
+    this.router.navigate(['/practice'], { queryParams: { ...(subject ? { subject } : {}), ...(chapter ? { chapter } : {}) } });
+  }
 
   subjectIcon(code: string): string {
     return { CHE: '⚗️', PHY: '🔭', BIO: '🧬', ICT: '💻' }[code] || '📘';

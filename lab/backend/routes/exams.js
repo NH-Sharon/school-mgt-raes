@@ -26,13 +26,43 @@ function publicQuestion(q) {
   };
 }
 
+// How many published questions match a selection (drives the exam/practice builder UI).
+// GET /exams/availability?chapterIds=1,2&topicIds=5,6   (topicIds optional)
+router.get('/availability', verifyToken, async (req, res) => {
+  try {
+    const ids = (v) => String(v || '').split(',').map(Number).filter(n => Number.isInteger(n) && n > 0);
+    const chapterIds = ids(req.query.chapterIds);
+    const topicIds = ids(req.query.topicIds);
+    if (!chapterIds.length) return res.json({ total: 0, basic: 0, medium: 0, advanced: 0, byChapter: {}, byTopic: {} });
+
+    const rows = (await pool.query(
+      `SELECT chapter_id, topic_id, difficulty, COUNT(*)::int AS n
+       FROM questions WHERE chapter_id = ANY($1::int[]) AND status = 'published'
+       GROUP BY chapter_id, topic_id, difficulty`, [chapterIds]
+    )).rows;
+
+    const empty = () => ({ total: 0, basic: 0, medium: 0, advanced: 0 });
+    const out = { ...empty(), byChapter: {}, byTopic: {} };
+    const topicSet = new Set(topicIds);
+    for (const r of rows) {
+      const ch = out.byChapter[r.chapter_id] = out.byChapter[r.chapter_id] || empty();
+      ch.total += r.n; ch[r.difficulty] += r.n;
+      if (r.topic_id) { const t = out.byTopic[r.topic_id] = out.byTopic[r.topic_id] || empty(); t.total += r.n; t[r.difficulty] += r.n; }
+      if (!topicSet.size || topicSet.has(r.topic_id)) { out.total += r.n; out[r.difficulty] += r.n; }
+    }
+    res.json(out);
+  } catch (error) {
+    res.status(500).json({ message: 'Server error' });
+  }
+});
+
 // FR-4.2/4.3 — start exam: configurable count/timer/negative-marking/difficulty, randomized bank
 router.post('/start', verifyToken, async (req, res) => {
   try {
     const {
       chapterIds, examMode = 'exam', numQuestions = 25,
       timeLimitSec = 1500, negativeMarking = false, difficultyMix = null,
-      topicIds = null, difficulty = null, assignmentId = null,
+      topicIds = null, difficulty = null, difficulties = null, assignmentId = null,
     } = req.body;
     if (!Array.isArray(chapterIds) || !chapterIds.length) {
       return res.status(400).json({ message: 'chapterIds is required' });
@@ -48,9 +78,11 @@ router.post('/start', verifyToken, async (req, res) => {
       const set = new Set(topicIds.map(Number));
       bankRows = bankRows.filter(q => set.has(q.topic_id));
     }
-    // Optional single-level filter (FR-4: Basic / Medium / Advanced)
-    if (difficulty && ['basic', 'medium', 'advanced'].includes(difficulty)) {
-      bankRows = bankRows.filter(q => q.difficulty === difficulty);
+    // Optional level filter (FR-4: Basic / Medium / Advanced) — one level or any combination
+    const levels = (Array.isArray(difficulties) ? difficulties : (difficulty ? [difficulty] : []))
+      .filter(l => ['basic', 'medium', 'advanced'].includes(l));
+    if (levels.length) {
+      bankRows = bankRows.filter(q => levels.includes(q.difficulty));
     }
     const bank = { rows: bankRows };
     if (!bank.rows.length) return res.status(404).json({ message: 'No published questions match your selection yet' });

@@ -28,7 +28,7 @@ import { I18nService } from '../services/i18n.service';
           <tr *ngFor="let h of history">
             <td>{{ h.started_at | date:'mediumDate' }}</td>
             <td>{{ h.score }} / {{ h.max_score }}</td>
-            <td>{{ h.exam_mode }}</td>
+            <td>{{ h.exam_mode === 'exam' ? (i18n.isEn ? '📝 Exam' : '📝 পরীক্ষা') : (i18n.isEn ? '🎯 Practice' : '🎯 অনুশীলন') }}</td>
             <td><button class="ghost-btn" (click)="router.navigate(['/exam/result', h.id])">{{ i18n.isEn ? 'Review' : 'রিভিউ' }}</button></td>
           </tr>
         </tbody>
@@ -38,7 +38,10 @@ import { I18nService } from '../services/i18n.service';
   `,
   styles: [`
     .page { max-width: 800px; margin: 0 auto; padding: 24px 20px; }
-    h2 { color: #1a6d5e; }
+    h2 { color: #1a6d5e; margin: 0; }
+    .top { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 14px; }
+    .new-btn { background: linear-gradient(135deg, #1f8a76, #144f45); color: #fff; border: none; border-radius: 10px; padding: 10px 16px; font-weight: 700; font-size: .9rem; cursor: pointer; box-shadow: 0 4px 12px rgba(20,79,69,.25); }
+    .sub { color: #33454f; font-size: .95rem; margin: 14px 0 8px; }
     .weak-section { background: #fff8ee; border: 1px solid #f3d9a8; border-radius: 12px; padding: 16px; margin-bottom: 20px; }
     .weak-section h3 { margin: 0 0 10px; font-size: 0.95rem; color: #a5690c; }
     .weak-list { display: flex; flex-direction: column; gap: 6px; }

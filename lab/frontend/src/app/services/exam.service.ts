@@ -8,6 +8,11 @@ export interface ExamQuestion {
   options: { id: string; bn: string; en: string }[]; questionType: string; difficulty: string;
 }
 
+export interface LevelCounts { total: number; basic: number; medium: number; advanced: number; }
+export interface Availability extends LevelCounts {
+  byChapter: Record<number, LevelCounts>; byTopic: Record<number, LevelCounts>;
+}
+
 export interface ExamStartResponse {
   attempt: any;
   questions: ExamQuestion[];
@@ -21,9 +26,15 @@ export class ExamService {
   start(payload: {
     chapterIds: number[]; examMode: 'practice' | 'exam'; numQuestions?: number;
     timeLimitSec?: number; negativeMarking?: boolean; assignmentId?: number;
-    topicIds?: number[]; difficulty?: 'basic' | 'medium' | 'advanced'; difficultyMix?: Record<string, number>;
+    topicIds?: number[]; difficulty?: 'basic' | 'medium' | 'advanced'; difficulties?: ('basic' | 'medium' | 'advanced')[]; difficultyMix?: Record<string, number>;
   }): Observable<ExamStartResponse> {
     return this.http.post<ExamStartResponse>(`${this.apiUrl}/start`, payload);
+  }
+
+  availability(chapterIds: number[], topicIds: number[] = []): Observable<Availability> {
+    let url = `${this.apiUrl}/availability?chapterIds=${chapterIds.join(',')}`;
+    if (topicIds.length) url += `&topicIds=${topicIds.join(',')}`;
+    return this.http.get<Availability>(url);
   }
 
   getAttempt(attemptId: number): Observable<any> {

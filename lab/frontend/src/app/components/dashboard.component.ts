@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { Router } from '@angular/router';
 import { AuthService } from '../services/auth.service';
 import { DashboardService } from '../services/dashboard.service';
+import { ExamService } from '../services/exam.service';
 import { I18nService } from '../services/i18n.service';
 
 interface ActivityGroup { kind: 'exam' | 'simulation'; title: string; count: number; last: string; detail: string; ok: boolean; }
@@ -25,19 +26,53 @@ interface HeatCell { day: string; count: number; level: number; future: boolean;
           <ng-container *ngIf="student as s">
             <!-- hero -->
             <section class="hero">
+              <span class="bubble b1"></span><span class="bubble b2"></span><span class="bubble b3"></span>
               <div class="hero-text">
-                <p class="hello">{{ i18n.isEn ? 'Welcome back' : 'স্বাগতম' }},</p>
+                <p class="hello">{{ greeting() }} 👋</p>
                 <h1>{{ userName }}</h1>
                 <p class="hero-sub">
-                  <span class="pill">{{ i18n.isEn ? 'Class' : 'শ্রেণি' }} {{ classLevel }}</span>
+                  <span class="pill">🎓 {{ i18n.isEn ? 'Class' : 'শ্রেণি' }} {{ classLevel }}</span>
                   <span class="pill warm">🔥 {{ s.streakDays }} {{ i18n.isEn ? 'day streak' : 'দিনের ধারা' }}</span>
                   <span class="pill">⭐ {{ s.points }} {{ i18n.t('points') }}</span>
                 </p>
+                <p class="motto">{{ motto() }}</p>
               </div>
-              <div class="hero-actions">
-                <button class="act primary" (click)="go('/labs')">🧪 {{ i18n.isEn ? 'Open a lab' : 'ল্যাবে যান' }}</button>
-                <button class="act" (click)="go('/practice')">📝 {{ i18n.isEn ? 'Practice exam' : 'অনুশীলন পরীক্ষা' }}</button>
-                <button class="act" (click)="go('/subjects')">📚 {{ i18n.isEn ? 'Study' : 'অধ্যয়ন' }}</button>
+              <div class="hero-ring" [title]="i18n.isEn ? 'Overall chapters mastered' : 'সব বিষয়ের মোট দক্ষতা'">
+                <svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="52" fill="none" stroke="rgba(255,255,255,.2)" stroke-width="10"/>
+                  <circle cx="60" cy="60" r="52" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" [attr.stroke-dasharray]="ringArc(overallPct)" transform="rotate(-90 60 60)" class="ring-anim"/></svg>
+                <div class="ring-in"><b>{{ overallPct | number:'1.0-0' }}%</b><small>{{ i18n.isEn ? 'mastery' : 'দক্ষতা' }}</small></div>
+              </div>
+            </section>
+
+            <!-- quick actions -->
+            <section class="qa">
+              <button class="qa-tile t1" (click)="go('/labs')"><span>🧪</span><b>{{ i18n.isEn ? 'Virtual labs' : 'ভার্চুয়াল ল্যাব' }}</b><small>{{ i18n.isEn ? 'Experiment now' : 'এখনই পরীক্ষা করুন' }}</small></button>
+              <button class="qa-tile t2" (click)="go('/practice')"><span>🎯</span><b>{{ i18n.isEn ? 'Practice & exam' : 'অনুশীলন ও পরীক্ষা' }}</b><small>{{ i18n.isEn ? 'Pick topics & level' : 'টপিক ও স্তর বেছে নিন' }}</small></button>
+              <button class="qa-tile t3" (click)="go('/subjects')"><span>📚</span><b>{{ i18n.isEn ? 'Study' : 'অধ্যয়ন' }}</b><small>{{ i18n.isEn ? 'Chapters & notes' : 'অধ্যায় ও নোট' }}</small></button>
+              <button class="qa-tile t4" (click)="go('/exam/history')"><span>🕘</span><b>{{ i18n.isEn ? 'My results' : 'আমার ফলাফল' }}</b><small>{{ i18n.isEn ? 'Past attempts' : 'আগের পরীক্ষা' }}</small></button>
+            </section>
+
+            <!-- next step + weekly goal -->
+            <section class="grid2 top2">
+              <div class="card next">
+                <div class="card-h"><h3>💡 {{ i18n.isEn ? 'Your next step' : 'আপনার পরের ধাপ' }}</h3></div>
+                <ng-container *ngIf="weak; else noWeak">
+                  <p class="nx-t">{{ i18n.isEn ? 'Strengthen' : 'আরও দক্ষ হন:' }} <b>{{ i18n.isEn ? weak.chapter.title_en : weak.chapter.title_bn }}</b></p>
+                  <p class="nx-s">{{ i18n.isEn ? 'Your score here is' : 'এখানে আপনার স্কোর' }} <b class="bad">{{ weak.avg_ratio * 100 | number:'1.0-0' }}%</b> — {{ i18n.isEn ? 'a short practice will help.' : 'অল্প অনুশীলনেই উন্নতি হবে।' }}</p>
+                  <button class="cta" (click)="practiceWeak()">🎯 {{ i18n.isEn ? 'Practise this chapter' : 'এই অধ্যায় অনুশীলন করুন' }}</button>
+                </ng-container>
+                <ng-template #noWeak>
+                  <p class="nx-t">{{ s.examsTaken ? (i18n.isEn ? 'Great going! Try a lab or a harder set.' : 'দারুণ চলছে! একটি ল্যাব বা কঠিন সেট চেষ্টা করুন।') : (i18n.isEn ? 'Start with your first practice set.' : 'প্রথম অনুশীলন সেট দিয়ে শুরু করুন।') }}</p>
+                  <button class="cta" (click)="go('/practice')">🎯 {{ i18n.isEn ? 'Build a practice set' : 'অনুশীলন সেট বানান' }}</button>
+                </ng-template>
+              </div>
+              <div class="card goal">
+                <div class="card-h"><h3>🎯 {{ i18n.isEn ? 'This week' : 'এই সপ্তাহের লক্ষ্য' }}</h3><small>{{ weeklyDays }}/{{ weeklyGoal }} {{ i18n.isEn ? 'active days' : 'দিন সক্রিয়' }}</small></div>
+                <div class="days">
+                  <span class="day" *ngFor="let d of weekDays" [class.on]="d.on" [class.today]="d.today"><i>{{ d.on ? '✓' : '' }}</i>{{ d.label }}</span>
+                </div>
+                <div class="bar"><div class="bar-in main" [style.width.%]="Math.min(100, weeklyDays / weeklyGoal * 100)"></div></div>
+                <small class="msub">{{ weeklyDays >= weeklyGoal ? (i18n.isEn ? '🎉 Weekly goal reached!' : '🎉 সাপ্তাহিক লক্ষ্য পূরণ!') : (weeklyGoal - weeklyDays) + (i18n.isEn ? ' more active day(s) to reach your goal' : ' দিন সক্রিয় থাকলেই লক্ষ্য পূরণ') }}</small>
               </div>
             </section>
 
@@ -56,10 +91,10 @@ interface HeatCell { day: string; count: number; level: number; future: boolean;
                 <div class="card-h"><h3>{{ i18n.isEn ? 'Mastery by subject' : 'বিষয়ভিত্তিক দক্ষতা' }}</h3><small>{{ i18n.isEn ? 'chapters ≥ 80% done' : '৮০%+ সম্পন্ন অধ্যায়' }}</small></div>
                 <div class="mrow" *ngFor="let m of s.mastery">
                   <div class="mtop">
-                    <span class="mname">{{ subjectIcon(m.name_en) }} {{ i18n.isEn ? m.name_en : m.name_bn }}</span>
+                    <span class="mname"><i class="sico" [style.background]="subjectColor(m.name_en)">{{ subjectIcon(m.name_en) }}</i> {{ i18n.isEn ? m.name_en : m.name_bn }}</span>
                     <span class="mnum">{{ m.mastered }}/{{ m.total_chapters }}</span>
                   </div>
-                  <div class="bar"><div class="bar-in" [style.width.%]="pct(m.in_progress, m.total_chapters) + pct(m.mastered, m.total_chapters)" style="background:#9fd8cf"></div><div class="bar-in main" [style.width.%]="pct(m.mastered, m.total_chapters)"></div></div>
+                  <div class="bar"><div class="bar-in" [style.width.%]="pct(m.in_progress, m.total_chapters) + pct(m.mastered, m.total_chapters)" style="background:#9fd8cf"></div><div class="bar-in main" [style.width.%]="pct(m.mastered, m.total_chapters)" [style.background]="subjectColor(m.name_en)"></div></div>
                   <small class="msub">{{ m.mastered }} {{ i18n.isEn ? 'mastered' : 'সম্পন্ন' }} · {{ m.in_progress }} {{ i18n.isEn ? 'in progress' : 'চলমান' }}</small>
                 </div>
               </div>
@@ -67,12 +102,18 @@ interface HeatCell { day: string; count: number; level: number; future: boolean;
               <div class="card">
                 <div class="card-h"><h3>{{ i18n.isEn ? 'Exam score trend' : 'পরীক্ষার স্কোর প্রবণতা' }}</h3></div>
                 <ng-container *ngIf="s.scoreTrend.length >= 2; else fewScores">
+                  <div class="tstats">
+                    <span><small>{{ i18n.isEn ? 'Latest' : 'সর্বশেষ' }}</small><b>{{ trendStat('last') }}%</b></span>
+                    <span><small>{{ i18n.isEn ? 'Best' : 'সর্বোচ্চ' }}</small><b>{{ trendStat('best') }}%</b></span>
+                    <span><small>{{ i18n.isEn ? 'Average' : 'গড়' }}</small><b>{{ trendStat('avg') }}%</b></span>
+                  </div>
                   <svg viewBox="0 0 260 120" class="trend">
-                    <line x1="28" y1="10" x2="28" y2="100" stroke="#e2e8ec"/><line x1="28" y1="100" x2="252" y2="100" stroke="#e2e8ec"/>
-                    <line x1="28" y1="55" x2="252" y2="55" stroke="#eef2f4" stroke-dasharray="3 3"/>
+                    <defs><linearGradient id="tg" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#1a6d5e" stop-opacity=".35"/><stop offset="1" stop-color="#1a6d5e" stop-opacity="0"/></linearGradient></defs>
+                    <line x1="28" y1="10" x2="252" y2="10" stroke="#eef2f4"/><line x1="28" y1="55" x2="252" y2="55" stroke="#eef2f4" stroke-dasharray="3 3"/><line x1="28" y1="100" x2="252" y2="100" stroke="#dfe7ea"/>
                     <text x="2" y="14" class="ax">100%</text><text x="6" y="58" class="ax">50%</text><text x="12" y="103" class="ax">0</text>
-                    <polyline [attr.points]="trendPoints()" fill="none" stroke="#1a6d5e" stroke-width="2.2" stroke-linejoin="round"/>
-                    <circle *ngFor="let p of trendPointsArr()" [attr.cx]="p.x" [attr.cy]="p.y" r="3.4" fill="#fff" stroke="#1a6d5e" stroke-width="2"/>
+                    <polygon [attr.points]="trendArea()" fill="url(#tg)"/>
+                    <polyline [attr.points]="trendPoints()" fill="none" stroke="#1a6d5e" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+                    <circle *ngFor="let p of trendPointsArr()" [attr.cx]="p.x" [attr.cy]="p.y" r="3.8" fill="#fff" stroke="#1a6d5e" stroke-width="2"/>
                   </svg>
                 </ng-container>
                 <ng-template #fewScores>
@@ -281,11 +322,11 @@ interface HeatCell { day: string; count: number; level: number; future: boolean;
     .badge-chip { background: #fff8ee; border: 1px solid #f3d9a8; border-radius: 999px; padding: 6px 12px; font-size: .82rem; }
 
     /* heatmap */
-    .heat-wrap { display: flex; gap: 8px; padding-bottom: 4px; }
-    .heat-days { display: grid; grid-template-rows: repeat(7, 18px); gap: 4px; font-size: .62rem; color: var(--mu); align-items: center; }
-    .heat { display: flex; gap: 4px; flex: 1; }
-    .heat-col { display: grid; grid-template-rows: repeat(7, 18px); gap: 4px; flex: 1; }
-    .hc { width: 100%; height: 18px; border-radius: 4px; background: #edf2f1; display: inline-block; }
+    .heat-wrap { display: flex; gap: 8px; padding-bottom: 4px; overflow-x: auto; }
+    .heat-days { display: grid; grid-template-rows: repeat(7, 20px); gap: 5px; font-size: .62rem; color: var(--mu); align-items: center; }
+    .heat { display: flex; gap: 5px; }
+    .heat-col { display: grid; grid-template-rows: repeat(7, 20px); gap: 5px; }
+    .hc { width: 20px; height: 20px; border-radius: 5px; background: #edf2f1; display: inline-block; }
     .hc[data-l="1"] { background: #bfe6df; } .hc[data-l="2"] { background: #5cc4b4; } .hc[data-l="3"] { background: #1a6d5e; }
     .hc.future { visibility: hidden; }
     .legend { display: flex; align-items: center; gap: 4px; justify-content: flex-end; margin-top: 8px; color: var(--mu); }
@@ -319,11 +360,57 @@ interface HeatCell { day: string; count: number; level: number; future: boolean;
     .linked { display: flex; align-items: center; gap: 12px; padding: 10px 2px; border-bottom: 1px solid #eef2f4; }
     .linked:last-child { border-bottom: none; }
     .pending { color: #a5690c; background: #fff6e6; border-radius: 99px; padding: 3px 10px; font-size: .76rem; }
+    /* ---- v2 polish ---- */
+    .hero { position: relative; overflow: hidden; }
+    .hero > * { position: relative; z-index: 1; }
+    .bubble { position: absolute !important; border-radius: 50%; background: rgba(255,255,255,.09); z-index: 0 !important; animation: float 9s ease-in-out infinite; }
+    .bubble.b1 { width: 160px; height: 160px; right: 8%; top: -50px; } .bubble.b2 { width: 90px; height: 90px; right: 28%; bottom: -30px; animation-delay: -3s; } .bubble.b3 { width: 56px; height: 56px; left: 46%; top: 14px; animation-delay: -6s; }
+    @keyframes float { 50% { transform: translateY(-12px); } }
+    .motto { margin: 10px 0 0; font-size: .86rem; opacity: .9; }
+    .hero-ring { position: relative; width: 112px; height: 112px; flex-shrink: 0; }
+    .hero-ring svg { width: 100%; height: 100%; }
+    .ring-anim { transition: stroke-dasharray 1.2s ease; }
+    .ring-in { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+    .ring-in b { font-size: 1.5rem; line-height: 1; } .ring-in small { font-size: .68rem; opacity: .85; }
+    @media (max-width: 560px) { .hero-ring { width: 84px; height: 84px; } .ring-in b { font-size: 1.1rem; } }
+
+    .qa { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 16px; }
+    @media (max-width: 760px) { .qa { grid-template-columns: repeat(2, 1fr); } }
+    .qa-tile { display: flex; flex-direction: column; gap: 2px; align-items: flex-start; text-align: left; padding: 14px 14px 12px; border-radius: 16px; border: 1px solid var(--line); background: #fff; cursor: pointer; transition: .18s; font-family: inherit; position: relative; overflow: hidden; }
+    .qa-tile::after { content: ''; position: absolute; right: -22px; top: -22px; width: 80px; height: 80px; border-radius: 50%; opacity: .14; background: var(--tc); }
+    .qa-tile span { font-size: 1.6rem; } .qa-tile b { font-size: .92rem; color: var(--tx); } .qa-tile small { color: var(--mu); font-size: .74rem; }
+    .qa-tile:hover { transform: translateY(-4px); box-shadow: 0 12px 24px rgba(20,60,50,.13); border-color: var(--tc); }
+    .qa-tile.t1 { --tc: #1a8f7e; } .qa-tile.t2 { --tc: #d4900f; } .qa-tile.t3 { --tc: #3b7ddd; } .qa-tile.t4 { --tc: #8a5cd6; }
+
+    .top2 { margin-bottom: 16px; }
+    .next { background: linear-gradient(135deg, #fffaf0, #fff); border-color: #f3dfb8; }
+    .nx-t { margin: 4px 0; font-size: .95rem; } .nx-s { margin: 2px 0 12px; font-size: .84rem; color: var(--mu); }
+    .bad { color: #c0392b; }
+    .cta { background: linear-gradient(135deg, #1f8a76, #144f45); color: #fff; border: none; border-radius: 10px; padding: 9px 16px; font-weight: 700; font-size: .86rem; cursor: pointer; box-shadow: 0 4px 12px rgba(20,79,69,.25); }
+    .cta:hover { transform: translateY(-1px); }
+    .days { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; margin: 4px 0 12px; }
+    .day { display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: .68rem; color: var(--mu); }
+    .day i { width: 28px; height: 28px; border-radius: 50%; background: #edf2f1; display: grid; place-items: center; font-style: normal; color: #fff; font-weight: 800; font-size: .8rem; }
+    .day.on i { background: linear-gradient(135deg, #37c2b5, #1a6d5e); }
+    .day.today { color: var(--b); font-weight: 800; } .day.today i { box-shadow: 0 0 0 2px #fff, 0 0 0 4px #9fd3c9; }
+
+    .sico { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 8px; font-style: normal; font-size: .95rem; margin-right: 4px; vertical-align: middle; }
+    .tstats { display: flex; gap: 8px; margin-bottom: 8px; }
+    .tstats span { flex: 1; background: var(--soft); border-radius: 10px; padding: 6px 10px; display: flex; flex-direction: column; }
+    .tstats small { font-size: .68rem; color: var(--mu); } .tstats b { font-size: 1.05rem; color: var(--b); }
+
+    .stat { transition: .18s; } .stat:hover { transform: translateY(-3px); box-shadow: 0 10px 22px rgba(20,60,50,.1); }
+    .stats .stat, .qa .qa-tile, .card, .hero { animation: fadeup .5s ease both; }
+    .stats .stat:nth-child(2) { animation-delay: .05s; } .stats .stat:nth-child(3) { animation-delay: .1s; } .stats .stat:nth-child(4) { animation-delay: .15s; } .stats .stat:nth-child(5) { animation-delay: .2s; }
+    @keyframes fadeup { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    .feed li:hover { background: #f7fbfa; border-radius: 10px; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
   `],
 })
 export class DashboardComponent implements OnInit {
   private auth = inject(AuthService);
   private dashboardService = inject(DashboardService);
+  private examSvc = inject(ExamService);
   private router = inject(Router);
   i18n = inject(I18nService);
   Math = Math;
@@ -337,6 +424,39 @@ export class DashboardComponent implements OnInit {
   guardianSummary: any = null;
   isStaffAdmin = false;
   staffClasses = [6, 7, 8, 9, 10, 11, 12];
+
+  weak: any = null;
+  overallPct = 0;
+  weeklyGoal = 5;
+  weeklyDays = 0;
+  weekDays: { label: string; on: boolean; today: boolean }[] = [];
+
+  greeting(): string {
+    const h = new Date().getHours(), en = this.i18n.isEn;
+    return h < 5 ? (en ? 'Good night' : 'শুভ রাত্রি') : h < 12 ? (en ? 'Good morning' : 'শুভ সকাল') : h < 16 ? (en ? 'Good afternoon' : 'শুভ দুপুর') : h < 19 ? (en ? 'Good evening' : 'শুভ বিকাল') : (en ? 'Good evening' : 'শুভ সন্ধ্যা');
+  }
+  motto(): string {
+    const s = this.student, en = this.i18n.isEn;
+    if (!s) return '';
+    if (s.streakDays >= 7) return en ? 'A whole week and more — keep the flame alive!' : 'এক সপ্তাহেরও বেশি — ধারা ধরে রাখুন!';
+    if (s.examsTaken === 0) return en ? 'Take your first practice set today.' : 'আজই প্রথম অনুশীলন সেটটি দিন।';
+    return en ? 'Small steps every day add up.' : 'প্রতিদিনের ছোট ছোট ধাপই বড় সাফল্য আনে।';
+  }
+  ringArc(pct: number): string { const c = 2 * Math.PI * 52; return `${(Math.max(0, Math.min(100, pct)) / 100) * c} ${c}`; }
+  subjectColor(nameEn: string): string {
+    const n = (nameEn || '').toLowerCase();
+    return n.includes('chem') ? 'linear-gradient(90deg,#37c2b5,#1a6d5e)' : n.includes('phys') ? 'linear-gradient(90deg,#6aa2ff,#2f55c0)' : n.includes('bio') ? 'linear-gradient(90deg,#74d39a,#2c8a55)' : 'linear-gradient(90deg,#b58cf0,#6a3fc4)';
+  }
+  practiceWeak() { if (this.weak) this.router.navigate(['/practice'], { queryParams: { subject: this.weak.chapter.subject_id, chapter: this.weak.chapter.id } }); }
+  trendStat(k: 'last' | 'best' | 'avg'): number {
+    const v = (this.student?.scoreTrend || []).map((t: any) => t.max_score > 0 ? (t.score / t.max_score) * 100 : 0); // newest first
+    if (!v.length) return 0;
+    return Math.round(k === 'last' ? v[0] : k === 'best' ? Math.max(...v) : v.reduce((a: number, b: number) => a + b, 0) / v.length);
+  }
+  trendArea(): string {
+    const pts = this.trendPointsArr(); if (!pts.length) return '';
+    return `${pts[0].x},100 ` + pts.map(p => `${p.x},${p.y}`).join(' ') + ` ${pts[pts.length - 1].x},100`;
+  }
 
   groups: ActivityGroup[] = [];
   showAll = false;
@@ -353,7 +473,14 @@ export class DashboardComponent implements OnInit {
     this.classLevel = user.classLevel || 9;
 
     if (user.role === 'student') {
-      this.dashboardService.student().subscribe(s => { this.student = s; this.buildGroups(s.timeline || []); this.buildHeat(s.heatmap || []); });
+      this.dashboardService.student().subscribe(s => {
+        this.student = s; this.buildGroups(s.timeline || []); this.buildHeat(s.heatmap || []);
+        const tot = (s.mastery || []).reduce((a: number, m: any) => a + (+m.total_chapters || 0), 0);
+        const done = (s.mastery || []).reduce((a: number, m: any) => a + (+m.mastered || 0), 0);
+        this.overallPct = tot ? (done / tot) * 100 : 0;
+        this.buildWeek(s.heatmap || []);
+      });
+      this.examSvc.weakChapters().subscribe({ next: w => this.weak = (w || []).find((x: any) => x.chapter) || null, error: () => {} });
     } else if (this.role === 'teacher') {
       this.loadTeacher();
     } else if (user.role === 'guardian') {
@@ -414,6 +541,20 @@ export class DashboardComponent implements OnInit {
       }
       return { kind: g.kind, title: g.title, count: g.count, last: g.last, detail: parts.join(' · '), ok: true };
     });
+  }
+
+  /** Sun→Sat strip of the current week + how many days were active */
+  private buildWeek(heatmap: any[]) {
+    const counts = new Set(heatmap.filter(h => +h.count > 0).map(h => String(h.day).slice(0, 10)));
+    const key = (d: Date) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+    const today = new Date(); today.setHours(0, 0, 0, 0);
+    const start = new Date(today); start.setDate(start.getDate() - today.getDay());
+    const labelsBn = ['রবি', 'সোম', 'মঙ্গল', 'বুধ', 'বৃহ', 'শুক্র', 'শনি'], labelsEn = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+    this.weekDays = Array.from({ length: 7 }, (_, i) => {
+      const d = new Date(start); d.setDate(start.getDate() + i);
+      return { label: this.i18n.isEn ? labelsEn[i] : labelsBn[i], on: counts.has(key(d)), today: key(d) === key(today) };
+    });
+    this.weeklyDays = this.weekDays.filter(d => d.on).length;
   }
 
   /** 13 weeks × 7 days grid (week starts Sunday), counts → 4 intensity levels. */
