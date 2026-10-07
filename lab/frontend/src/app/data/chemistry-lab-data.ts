@@ -6,11 +6,26 @@ export interface Chemical {
   nameBn: string;
   nameEn: string;
   formula: string;
-  type: 'acid' | 'base' | 'salt' | 'metal' | 'indicator';
+  type: 'acid' | 'base' | 'salt' | 'metal' | 'indicator' | 'nonmetal' | 'oxide' | 'organic' | 'other';
   state: 'liquid' | 'solid';
   color: string;
   category: string;
   weak?: boolean;
+  /** how it is stocked / dispensed on the bench (defaults derive from type/state) */
+  dispense?: 'bottle' | 'powder' | 'metal' | 'indicator';
+  /** g/mol — needed for solids (moles = g / molarMass) */
+  molarMass?: number;
+  /** mol/L of the liquid as stocked (defaults to the lab-wide 1 M; water = 55.5) */
+  conc?: number;
+  /** solvents this substance dissolves in (solids). [] = insoluble */
+  solubleIn?: ('water' | 'kerosene')[];
+  /** colour the solution gets when dissolved */
+  solColor?: string;
+  /** acid/base strength data (mol H⁺/OH⁻ per mol, and Ka/Kb for weak ones) used for pH */
+  acid?: { h: number; ka?: number };
+  base?: { oh: number; kb?: number };
+  /** salt whose aqueous solution is acidic/basic (hydrolysis constant K) */
+  hydrolysis?: { type: 'acid' | 'base'; K: number };
 }
 
 export const CHEMICALS: Chemical[] = [
@@ -44,6 +59,10 @@ export const CHEMICALS: Chemical[] = [
   { id: 'UniversalIndicator', nameBn: 'ইউনিভার্সাল ইন্ডিকেটর', nameEn: 'Universal Indicator', formula: '—', type: 'indicator', state: 'liquid', color: '#7fbf7f', category: 'indicator' },
 ];
 
+import { EXTRA_CHEMICALS } from './chem-extra-data';
+// Extra reagents introduced by the Class 9-10 curriculum (added once at load).
+EXTRA_CHEMICALS.forEach(c => { if (!CHEMICALS.some(x => x.id === c.id)) CHEMICALS.push(c); });
+
 export function getChem(id: string): Chemical | undefined {
   return CHEMICALS.find(c => c.id === id);
 }
@@ -65,6 +84,7 @@ export interface Reaction {
   equation: string;
   nameBn: string;
   effects: ReactionEffects;
+  productColor?: string;
   observationBn: string;
   useBn: string;
   safetyBn: string;

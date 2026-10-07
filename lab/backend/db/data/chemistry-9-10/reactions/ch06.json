@@ -1,0 +1,906 @@
+{
+ "chapter": 6,
+ "pdf_pages": [
+  114,
+  146
+ ],
+ "experiments": [
+  {
+   "title_bn": "ম্যাগনেসিয়াম ও হাইড্রোক্লোরিক এসিড (সমতাকরণ উদাহরণ ১)",
+   "book_page": 129,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mg + 2HCl → MgCl₂ + H₂↑",
+   "observations_bn": "বইয়ে শুধু সমতাকরণ দেখানো হয়েছে; কোনো পর্যবেক্ষণ নেই।",
+   "procedure_bn": [
+    "অসমতাকৃত: Mg + HCl → MgCl₂ + H₂ (p127-128)",
+    "HCl কে ২ দিয়ে গুণ করে সমতা: Mg + 2HCl = MgCl₂ + H₂ (p129)"
+   ],
+   "confidence": "read",
+   "id": "c6-e1",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "conditions": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "title_bn": "সোডিয়াম কার্বনেট ও হাইড্রোক্লোরিক এসিড (সমতাকরণ উদাহরণ ২)",
+   "book_page": 129,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑",
+   "procedure_bn": [
+    "অসমতাকৃত: Na₂CO₃ + HCl → NaCl + H₂O + CO₂",
+    "NaCl কে ২ ও HCl কে ২ দিয়ে গুণ করে সমতা (p129)"
+   ],
+   "observations_bn": "বইয়ে কোনো পর্যবেক্ষণ নেই।",
+   "id": "c6-e2",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "conditions": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "title_bn": "অ্যালুমিনিয়াম অক্সাইড ও হাইড্রোক্লোরিক এসিড (সমতাকরণ উদাহরণ ৩)",
+   "book_page": 130,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম অক্সাইড",
+     "formula": "Al₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O",
+   "procedure_bn": [
+    "Al সমান করতে AlCl₃ ×২; Cl এর জন্য HCl ×৬; O/H এর জন্য H₂O ×৩ (p129-130)"
+   ],
+   "conditions": "বইয়ে শর্ত নেই (p129-130)।",
+   "confidence": "read",
+   "observations_bn": "বইয়ে কোনো পর্যবেক্ষণ নেই।",
+   "id": "c6-e3",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "title_bn": "কঠিন ক্যালসিয়াম কার্বনেট ও HCl এর জলীয় দ্রবণ",
+   "book_page": 127,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g)↑ + H₂O(l)",
+   "observations_bn": "কঠিন CaCO₃, HCl এর জলীয় দ্রবণের সাথে বিক্রিয়া করে CaCl₂, গ্যাসীয় CO₂ ও তরল পানি উৎপন্ন করে।",
+   "procedure_bn": [
+    "বইয়ে সমীকরণটি অসমতাকৃত (CaCO₃(s)+HCl(aq)→CaCl₂(aq)+CO₂(g)+H₂O(l)) দেখানো; উপরেরটি সমতাকৃত রূপ।"
+   ],
+   "confidence": "read (equation balanced by me; book shows unbalanced)",
+   "id": "c6-e4",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "conditions": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "title_bn": "ম্যাগনেসিয়াম ও অক্সিজেন (স্টয়কিওমিতি ও হিসাব)",
+   "book_page": 130,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+     "formula": "MgO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Mg(s) + O₂(g) → 2MgO(s)",
+   "conditions": "দহন; বইয়ে শর্ত উল্লেখ নেই।",
+   "materials_bn": [
+    "২ মোল Mg = ২×২৪ = ৪৮ g",
+    "১ মোল O₂ = ৩২ g",
+    "২ মোল MgO = ২×৪০ = ৮০ g"
+   ],
+   "procedure_bn": [
+    "৫ g Mg + O₂ → কত g O₂ লাগবে? উত্তর ৩.৩৩ g (p131)",
+    "২ g Mg + O₂ → কত g MgO? উত্তর ৩.৩৩ g (p131)",
+    "১০ g MgO পেতে কত g O₂? উত্তর ৪ g (p131-132)",
+    "উৎপাদের শতকরা পরিমাণ: ২ g Mg থেকে প্রকৃত MgO ৩.২৫ g, তাত্ত্বিক ৩.৩৩ g, শতকরা ৯৭.৬ (p135)",
+    "লিমিটিং বিক্রিয়ক: ৪টি Mg পরমাণু + ৪টি O₂ অণু → Mg লিমিটিং, ২টি O₂ অণু উদ্বৃত্ত; ৭০টি Mg + ৩০টি O₂ → O₂ লিমিটিং (p133-134)"
+   ],
+   "observations_bn": "বইয়ে পর্যবেক্ষণ নেই (শুধু হিসাব)।",
+   "id": "c6-e5",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "title_bn": "নাইট্রোজেন ও হাইড্রোজেন থেকে অ্যামোনিয়া (স্টয়কিওমিতি)",
+   "book_page": 132,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) → 2NH₃(g)",
+   "conditions": "বইয়ে শর্ত নেই; শিল্প প্রক্রিয়া (আমার শ্রেণিবিন্যাস)।",
+   "procedure_bn": [
+    "৫টি N₂ অণু থেকে কতটি NH₃ অণু? উত্তর ১০টি (p132)",
+    "নিজে করো: ৬ মোল পানি উৎপন্ন করতে কত মোল O₂ লাগবে? (2H₂+O₂→2H₂O)",
+    "নিজে করো: STP তে ৪ L N₂ থেকে কত L NH₃? (সব গ্যাসীয়) (p132)"
+   ],
+   "confidence": "read",
+   "id": "c6-e6",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "observations_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "title_bn": "হাইড্রোজেন ও ক্লোরিন থেকে হাইড্রোজেন ক্লোরাইড (লিমিটিং বিক্রিয়ক)",
+   "book_page": 134,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂ + Cl₂ → 2HCl",
+   "conditions": "বইয়ে শর্ত নেই; গ্যাসীয় বিক্রিয়া (আমার শ্রেণিবিন্যাস)।",
+   "procedure_bn": [
+    "৫ g H₂ + ৭৫ g Cl₂: ২ g H₂ : ৭১ g Cl₂; ৫ g H₂ এর জন্য ১৭৭.৫ g Cl₂ লাগে, তাই Cl₂ লিমিটিং (p134)",
+    "নিজে করো: কতটুকু H₂ অবশিষ্ট থাকবে? (p134)",
+    "MCQ ৩-৪ (p140): ৫ g H₂ + ৭৫ g Cl₂; Cl পরমাণু সংখ্যা, অবশিষ্ট বিক্রিয়ক"
+   ],
+   "id": "c6-e7",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "observations_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "title_bn": "কঠিন কার্বন ও অক্সিজেন",
+   "book_page": 127,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C(s) + O₂(g) → CO₂(g)",
+   "conditions": "দহন; বইয়ে শর্ত নেই।",
+   "observations_bn": "কঠিন কার্বন অক্সিজেনের সাথে বিক্রিয়া করে CO₂ গ্যাস উৎপন্ন করে।",
+   "id": "c6-e8",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "title_bn": "হাইড্রোজেন ও অক্সিজেন থেকে পানি (সমীকরণ লেখার নিয়ম)",
+   "book_page": 126,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2H₂(g) + O₂(g) → 2H₂O(l)",
+   "conditions": "বইয়ে শর্ত নেই।",
+   "id": "c6-e9",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "title_bn": "ম্যাগনেসিয়াম নাইট্রেট তাপ প্রয়োগ",
+   "book_page": 127,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম নাইট্রেট",
+     "formula": "Mg(NO₃)₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+     "formula": "MgO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Mg(NO₃)₂(s) →(Δ) 2MgO(s) + 4NO₂(g)↑ + O₂(g)↑",
+   "conditions": "তাপ প্রয়োগ (Δ)",
+   "observations_bn": "বইয়ে বলা হয়েছে MgO, NO₂ গ্যাস ও O₂ গ্যাস তৈরি হয়।",
+   "safety_bn": "বইয়ে নেই; NO₂ বিষাক্ত (আমার মন্তব্য)।",
+   "id": "c6-e10",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "confidence": "read"
+  },
+  {
+   "title_bn": "CaCO₃ তাপ দিয়ে CaO (উৎপাদের শতকরা পরিমাণ, নিজে করো)",
+   "book_page": 135,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ → CaO + CO₂↑",
+   "conditions": "তাপ (বইয়ে 'তাপ দিয়ে')",
+   "procedure_bn": [
+    "৮০ g CaCO₃ তাপ দিলে ৩৯ g CaO পাওয়া যায়; শতকরা পরিমাণ বের করো। Ca=40, C=12, O=16 (p135)"
+   ],
+   "confidence": "inferred (book gives no equation, only the data)",
+   "id": "c6-e11",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "observations_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "title_bn": "CaO ও CO₂ থেকে ১০ g CaCO₃ (সৃজনশীল প্রশ্ন ২)",
+   "book_page": 141,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "CaO + CO₂ → CaCO₃",
+   "conditions": "বইয়ে শর্ত নেই",
+   "procedure_bn": [
+    "১০ g CaCO₃ প্রস্তুত করার লক্ষ্যে ৪.৪ g CO₂ ও ৫ g CaO মিশ্রিত করা হলো; প্রত্যাশিত উৎপাদ পাওয়া গেল না; CO₂ এর মোল ও ব্যাখ্যা (p141)"
+   ],
+   "confidence": "inferred (book gives data, not the equation)",
+   "id": "c6-e12",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "observations_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "title_bn": "HCl (৪ g/১০০ mL) ও NaOH (৪ g/১০০ mL) মিশ্রণ (সৃজনশীল প্রশ্ন ১)",
+   "book_page": 141,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCl + NaOH → NaCl + H₂O",
+   "procedure_bn": [
+    "চিত্রে ১০০ mL দ্রবণে ৪ g HCl ও ১০০ mL দ্রবণে ৪ g NaOH; একত্রে মিশ্রিত করলে প্রাপ্ত লবণের সংযুতি; দ্রবণ দুটির মোলারিটি সমান কিনা (p141)"
+   ],
+   "confidence": "inferred (book shows bottles, not the equation)",
+   "id": "c6-e13",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "title_bn": "০.২ মোলার NaCl দ্রবণ (২৫০ mL) প্রস্তুতি",
+   "book_page": 117,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড (খাবার লবণ)",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "০.২ মোলার NaCl দ্রবণ",
+     "formula": "NaCl(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaCl(s) + H₂O(l) → NaCl(aq)",
+   "conditions": "দ্রবণ প্রস্তুতি, বিক্রিয়া নয়।",
+   "materials_bn": [
+    "২৫০ mL আয়তনিক ফ্লাস্ক",
+    "NaCl (আণবিক ভর ৫৮.৫)"
+   ],
+   "procedure_bn": [
+    "w = SVM/1000 = ০.২×২৫০×৫৮.৫/১০০০ = ২.৯২৫ g NaCl",
+    "২৫০ mL আয়তনিক ফ্লাস্কে ২.৯২৫ g NaCl নিয়ে পানি যোগ করে আয়তন ২৫০ mL করো (p117)"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "id": "c6-e14",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "observations_bn": ""
+  },
+  {
+   "title_bn": "Na₂CO₃ দ্রবণের মোলারিটি/ভর/আয়তন হিসাব (০.১ M ২ L; ২০ g ২৫০ mL; ০.৭৫ M; ০.৫ M ২০০ mL)",
+   "book_page": 118,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "Na₂CO₃ দ্রবণ",
+     "formula": "Na₂CO₃(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂CO₃(s) + H₂O(l) → Na₂CO₃(aq)",
+   "conditions": "দ্রবণ প্রস্তুতি; M=১০৬",
+   "procedure_bn": [
+    "২ L ০.১ M Na₂CO₃ এ ২১.২ g (p117-118)",
+    "২৫০ mL এ ২০ g থাকলে মোলারিটি ০.৭৫ M (p118)",
+    "০.৭৫ M দ্রবণে ২০ g থাকলে আয়তন ২৫০ mL (p118)",
+    "২০০ mL ০.৫ M (সেমিমোলার) দ্রবণ: ১০.৬ g Na₂CO₃ (p119)",
+    "নিজে করো (p119): ১০০ mL দ্রবণে ৪ g NaOH এবং ১০০ mL এ ৪ g HCl এর মোলারিটি"
+   ],
+   "confidence": "read (book has typos, e.g. S=0.7 M in problem 5 at p118; problem numbering)",
+   "id": "c6-e15",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "observations_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "title_bn": "পরীক্ষণ: ২৫০ mL এ ০.১ মোলার সোডিয়াম কার্বনেট দ্রবণ প্রস্তুতি",
+   "book_page": 136,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "বিশুদ্ধ সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পাতিত পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "০.১ M Na₂CO₃ দ্রবণ",
+     "formula": "Na₂CO₃(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂CO₃(s) + H₂O(l) → Na₂CO₃(aq)",
+   "conditions": "কক্ষ তাপমাত্রা; w=০.১×২৫০×১০৬/১০০০=২.৬৫ g",
+   "materials_bn": [
+    "২৫০ mL আয়তনিক ফ্লাস্ক",
+    "ফানেল",
+    "ওজন বোতল",
+    "রাসায়নিক নিক্তি",
+    "ওয়াশ বোতল",
+    "বিশুদ্ধ Na₂CO₃",
+    "পানি"
+   ],
+   "procedure_bn": [
+    "পরিষ্কার ফানেল আয়তনিক ফ্লাস্কের মুখে রাখো",
+    "শুষ্ক ওজন বোতলে ~২.৬৫ g (বেশি) Na₂CO₃ নিয়ে নিক্তিতে ওজন নাও",
+    "ফানেল দিয়ে ফ্লাস্কে এমনভাবে ঢালো যেন ওজন বোতলের ওজন ২.৬৫ g কমে",
+    "ওয়াশ বোতল থেকে পাতিত পানি ধীরে যোগ করো; অর্ধেক ভরে ছিপি এঁটে ঝাঁকিয়ে সম্পূর্ণ দ্রবীভূত করো",
+    "২৫০ mL দাগ পর্যন্ত পানি দিয়ে পূর্ণ করো"
+   ],
+   "safety_bn": "সতর্কতা (বইয়ে): শুষ্ক ও বিশুদ্ধ Na₂CO₃, শুষ্ক ওজন বোতল, পাতিত পানি ব্যবহার। (p137)",
+   "observations_bn": "Na₂CO₃ প্রাইমারি স্ট্যান্ডার্ড; সঠিক ২.৬৫ g মাপা কঠিন বলে কাছাকাছি ঘনমাত্রার দ্রবণ তৈরি হয় (p136)।",
+   "id": "c6-e16",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "confidence": "read"
+  },
+  {
+   "title_bn": "পরীক্ষণ: তুঁতের কেলাস পানির শতকরা পরিমাণ নির্ণয়",
+   "book_page": 138,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "তুঁতে (কপার সালফেট পেন্টাহাইড্রেট, নীল)",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নির্জল কপার সালফেট (সাদা)",
+     "formula": "CuSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানির বাষ্প",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CuSO₄·5H₂O → CuSO₄ + 5H₂O↑",
+   "conditions": "পোর্সেলিন ক্রুসিবলে বুনসেন বার্নার/স্পিরিট ল্যাম্প দিয়ে ধীরে সমানভাবে তাপ",
+   "observations_bn": "নীল বর্ণ আস্তে আস্তে সাদা হয়; তুঁতেতে ৫ অণু কেলাস পানি আছে (p138-139)।",
+   "materials_bn": [
+    "তুঁতে",
+    "ডেসিকেটর",
+    "নিক্তি",
+    "পোর্সেলিন ক্রুসিবল",
+    "ত্রিপদী স্ট্যান্ড",
+    "তারজালি",
+    "বুনসেন বার্নার/স্পিরিট ল্যাম্প"
+   ],
+   "procedure_bn": [
+    "খালি ক্রুসিবলের ওজন a g",
+    "তুঁতেসহ ওজন b g, তুঁতের ওজন (b−a)",
+    "ত্রিপদীতে তারজালির ওপর ক্রুসিবল রেখে তাপ দাও",
+    "বর্ণ সম্পূর্ণ সাদা হলে তাপ বন্ধ করো",
+    "দ্রুত ডেসিকেটরে নিয়ে ঠান্ডা করে ওজন নাও c g",
+    "হিসাব: কেলাস পানির শতকরা পরিমাণ = (b−c)/(b−a)×100 %"
+   ],
+   "safety_bn": "ধীরে সমানভাবে তাপ দাও; পানি বাষ্পীভূত হলে দ্রুত ওজন নাও, নয়তো আবার পানি শোষণ করবে (p139)।",
+   "id": "c6-e17",
+   "topic_title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+   "confidence": "read"
+  }
+ ],
+ "chemicals_mentioned": [
+  {
+   "name_bn": "পানি",
+   "formula": "H₂O",
+   "state": "liquid",
+   "colour_bn": "বর্ণহীন"
+  },
+  {
+   "name_bn": "হাইড্রোজেন",
+   "formula": "H₂",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অক্সিজেন",
+   "formula": "O₂",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্লোরিন",
+   "formula": "Cl₂",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "নাইট্রোজেন",
+   "formula": "N₂",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কার্বন",
+   "formula": "C",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম",
+   "formula": "Mg",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম ক্লোরাইড (খাবার লবণ)",
+   "formula": "NaCl",
+   "state": "solid",
+   "colour_bn": "সাদা"
+  },
+  {
+   "name_bn": "সোডিয়াম কার্বনেট",
+   "formula": "Na₂CO₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "হাইড্রোক্লোরিক এসিড",
+   "formula": "HCl",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সালফিউরিক এসিড",
+   "formula": "H₂SO₄",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+   "formula": "NaOH",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম কার্বনেট",
+   "formula": "CaCO₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+   "formula": "CaCl₂",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কার্বন ডাইঅক্সাইড",
+   "formula": "CO₂",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+   "formula": "MgO",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+   "formula": "MgCl₂",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম নাইট্রেট",
+   "formula": "Mg(NO₃)₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+   "formula": "NO₂",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যালুমিনিয়াম অক্সাইড",
+   "formula": "Al₂O₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+   "formula": "AlCl₃",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যালুমিনিয়াম সালফেট",
+   "formula": "Al₂(SO₄)₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যামোনিয়া",
+   "formula": "NH₃",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "হাইড্রোজেন ক্লোরাইড",
+   "formula": "HCl",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "হাইড্রোজেন পার অক্সাইড",
+   "formula": "H₂O₂",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "গ্লুকোজ",
+   "formula": "C₆H₁₂O₆",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "বেনজিন",
+   "formula": "C₆H₆",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথিন",
+   "formula": "C₂H₄",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম অক্সাইড",
+   "formula": "CaO",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম ফসফেট",
+   "formula": "Ca₃(PO₄)₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "তুঁতে/ব্লু ভিট্রিয়ল (কপার সালফেট পেন্টাহাইড্রেট)",
+   "formula": "CuSO₄·5H₂O",
+   "state": "solid",
+   "colour_bn": "নীল"
+  },
+  {
+   "name_bn": "নির্জল কপার সালফেট",
+   "formula": "CuSO₄",
+   "state": "solid",
+   "colour_bn": "সাদা"
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "pdf page = book page + 5 (verified). All 33 pages read. Topics 1-5 (মোল, অ্যাভোগাড্রো, মোলার ভর, শতকরা সংযুতি, স্থূল/আণবিক সংকেত) contain only arithmetic examples (H2O, H2SO4, Al2(SO4)3, HCl, CO2, NaCl molar mass/percent composition) with no reactions or activities; they are not listed as experiments. Molarity/solution-prep items are assigned to topic 6. Only the CuSO4·5H2O experiment mentions colour change; book gives few observations. Book typos: p118 problem 5 S=0.7 vs 0.75; p117 problem numbering."
+}

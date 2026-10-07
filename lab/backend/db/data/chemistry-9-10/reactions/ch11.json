@@ -1,0 +1,1223 @@
+{
+ "chapter": 11,
+ "pdf_pages": [
+  266,
+  291
+ ],
+ "experiments": [
+  {
+   "id": "c11-e1",
+   "topic_title_bn": "3.খনিজ তেল ও পরিশোধন",
+   "title_bn": "পেট্রোলিয়ামের আংশিক পাতন (অপরিশোধিত তেল থেকে অংশ পৃথকীকরণ)",
+   "book_page": 264,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "অপরিশোধিত তেল (ক্রুড অয়েল)",
+     "formula": "মিশ্রণ (হাইড্রোকার্বন)",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পেট্রোলিয়াম গ্যাস (0–20°C)",
+     "formula": "C₁–C₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "গ্যাসোলিন/পেট্রোল (21–70°C)",
+     "formula": "C₅–C₁₀",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ন্যাপথা (71–120°C)",
+     "formula": "C₇–C₁₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কেরোসিন (121–170°C)",
+     "formula": "C₁₁–C₁₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ডিজেল (171–270°C)",
+     "formula": "C₁₇–C₂₀",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "প্যারাফিন মোম (271–340°C)",
+     "formula": "C₂₀–C₃₀",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পিচ (340°C এর ঊর্ধ্বে)",
+     "formula": ">C₃₀",
+     "state": "solid"
+    }
+   ],
+   "equation": "কোনো সমীকরণ নেই (ভৌত পৃথকীকরণ)",
+   "conditions": "চুল্লিতে বাষ্পীভূত করে আংশিক পাতন কলামে প্রবেশ; কলামের উপরের দিকে তাপমাত্রা কম; চিত্র ১১.০১ (20°C, 70°C, 120°C, 170°C, 270°C, 340°C)।",
+   "observations_bn": "প্রতিটি উপাদান নিজ স্ফুটনাঙ্ক অনুযায়ী কলামের বিভিন্ন অংশে পৃথক হয়",
+   "materials_bn": [
+    "চুল্লি",
+    "আংশিক পাতন কলাম",
+    "অপরিশোধিত তেল"
+   ],
+   "procedure_bn": [
+    "অপরিশোধিত তেলকে চুল্লিতে বাষ্পীভূত করা হয়",
+    "বাষ্প কলামের নিচের অংশে প্রবেশ করে উপরে ওঠে",
+    "স্ফুটনাঙ্ক অনুযায়ী প্রতিটি অংশ কলামের ভিন্ন উচ্চতায় ঘনীভূত হয়ে পৃথক হয়"
+   ],
+   "safety_bn": "শিল্প প্রক্রিয়া; স্কুল ল্যাবে করা যায় না",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e2",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "কার্বন ডাই-অক্সাইড থেকে মিথেন প্রস্তুতি",
+   "book_page": 270,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CO₂ + 4H₂ →(Ni, 250°C) CH₄ + 2H₂O",
+   "conditions": "নিকেল প্রভাবক, 250°C",
+   "observations_bn": "বইয়ে শুধু সমীকরণ",
+   "materials_bn": [
+    "CO₂",
+    "H₂",
+    "নিকেল"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e3",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথিন থেকে ইথেন প্রস্তুতি (হাইড্রোজেন সংযোজন)",
+   "book_page": 271,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃–CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₂=CH₂ + H₂ →(Ni, 180–200°C) CH₃–CH₃",
+   "conditions": "নিকেল প্রভাবক, 180–200°C",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথিন",
+    "H₂",
+    "নিকেল"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e4",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথাইন থেকে ইথেন প্রস্তুতি (হাইড্রোজেন সংযোজন)",
+   "book_page": 271,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "CH≡CH",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃–CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH≡CH + 2H₂ →(Ni, 180–200°C) CH₃–CH₃",
+   "conditions": "নিকেল প্রভাবক, 180–200°C",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথাইন",
+    "H₂",
+    "নিকেল"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e5",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ডিকার্বক্সিলেশন: সোডিয়াম ইথানয়েট থেকে মিথেন",
+   "book_page": 271,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ইথানয়েট",
+     "formula": "CH₃COONa",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডা লাইম (NaOH + CaO)",
+     "formula": "NaOH+CaO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃COONa + NaOH →(CaO, Δ) CH₄↑ + Na₂CO₃",
+   "conditions": "CaO উপস্থিতিতে সোডা লাইমসহ উত্তপ্ত (প্রবল তাপ)",
+   "observations_bn": "",
+   "materials_bn": [
+    "সোডিয়াম ইথানয়েট",
+    "সোডা লাইম"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e6",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "মিথেনের সাথে ক্লোরিনের বিক্রিয়া (চার ধাপ, UV আলোতে)",
+   "book_page": 272,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরো মিথেন",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ডাইক্লোরো মিথেন",
+     "formula": "CH₂Cl₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ট্রাইক্লোরো মিথেন",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "টেট্রাক্লোরো মিথেন",
+     "formula": "CCl₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + Cl₂ →(UV) CH₃Cl + HCl; CH₃Cl + Cl₂ →(UV) CH₂Cl₂ + HCl; CH₂Cl₂ + Cl₂ →(UV) CHCl₃ + HCl; CHCl₃ + Cl₂ →(UV) CCl₄ + HCl",
+   "conditions": "অতিবেগুনি (UV) আলো",
+   "observations_bn": "বইয়ে পর্যবেক্ষণ নেই",
+   "materials_bn": [
+    "মিথেন",
+    "ক্লোরিন"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "ক্লোরিন বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e7",
+   "topic_title_bn": "4.প্রাকৃতিক গ্যাস",
+   "title_bn": "মিথেনের দহন",
+   "book_page": 272,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি (জলীয় বাষ্প)",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + 2O₂ → CO₂ + 2H₂O + তাপশক্তি",
+   "conditions": "বায়ুর অক্সিজেনে দহন",
+   "observations_bn": "তাপশক্তি উৎপন্ন হয়, রান্নায় ব্যবহৃত",
+   "materials_bn": [
+    "মিথেন",
+    "অক্সিজেন"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e8",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথাইল ক্লোরাইড থেকে ইথিন (অ্যালকোহলীয় NaOH)",
+   "book_page": 273,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ক্লোরাইড",
+     "formula": "CH₃CH₂Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইডের অ্যালকোহলীয় দ্রবণ",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂Cl + NaOH → CH₂=CH₂↑ + NaCl + H₂O",
+   "conditions": "উত্তপ্ত করা হয়",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথাইল ক্লোরাইড",
+    "NaOH এর অ্যালকোহলীয় দ্রবণ"
+   ],
+   "procedure_bn": [
+    "ইথাইল ক্লোরাইডের সাথে NaOH এর অ্যালকোহলীয় দ্রবণ উত্তপ্ত করা হয়"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e9",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথানল থেকে ইথিন (ডিহাইড্রেশন)",
+   "book_page": 273,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড (অতিরিক্ত)",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OH →(গাঢ় H₂SO₄) CH₂=CH₂↑ + H₂O",
+   "conditions": "অতিরিক্ত গাঢ় H₂SO₄ সহ উত্তপ্ত (তাপমাত্রা বইয়ে নেই)",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথানল",
+    "গাঢ় H₂SO₄"
+   ],
+   "procedure_bn": [
+    "ইথানলের সাথে অতিরিক্ত গাঢ় সালফিউরিক এসিড উত্তপ্ত করা হয়"
+   ],
+   "safety_bn": "গাঢ় এসিড ক্ষয়কারক",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e10",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথিনে হাইড্রোজেন সংযোজন",
+   "book_page": 273,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃–CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₂=CH₂ + H₂ →(Ni, 180–200°C) CH₃–CH₃",
+   "conditions": "Ni, 180–200°C",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথিন",
+    "H₂",
+    "Ni"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e11",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথিনে পানি সংযোজন (ইথানল প্রস্তুতি)",
+   "book_page": 274,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানির বাষ্প",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + H₂O →(H₃PO₄, উচ্চ তাপ ও উচ্চ চাপ) CH₃CH₂OH",
+   "conditions": "ফসফরিক এসিড প্রভাবক, উচ্চ তাপ ও চাপ",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথিন",
+    "জলীয় বাষ্প",
+    "H₃PO₄"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e12",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথিনে ব্রোমিন সংযোজন (অসম্পৃক্ততা পরীক্ষা)",
+   "book_page": 274,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন দ্রবণ (লাল)",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইব্রোমো ইথেন",
+     "formula": "CH₂Br–CH₂Br",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br",
+   "conditions": "",
+   "observations_bn": "ব্রোমিনের লাল বর্ণ অপসারিত হয়; সকল অসম্পৃক্ত হাইড্রোকার্বন এই বিক্রিয়া দেয়; ইথিন যে অসম্পৃক্ত তা প্রমাণিত",
+   "materials_bn": [
+    "ব্রোমিন দ্রবণ",
+    "ইথিন"
+   ],
+   "procedure_bn": [
+    "ইথিনের মধ্যে লাল বর্ণের ব্রোমিন দ্রবণ যোগ করা হয়"
+   ],
+   "safety_bn": "ব্রোমিন ক্ষয়কারক ও বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e13",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথিনের পটাশিয়াম পারম্যাঙ্গানেট দ্বারা জারণ (অসম্পৃক্ততা পরীক্ষা)",
+   "book_page": 274,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পটাশিয়াম পারম্যাঙ্গানেটের গোলাপি দ্রবণ",
+     "formula": "KMnO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাশিয়াম হাইড্রোক্সাইড",
+     "formula": "KOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিলিন গ্লাইকল",
+     "formula": "CH₂OH–CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + H₂O + [O] →(KMnO₄, KOH) CH₂OH–CH₂OH",
+   "conditions": "জায়মান অক্সিজেন [O] KMnO₄ ও KOH থেকে",
+   "observations_bn": "পটাশিয়াম পারম্যাঙ্গানেটের গোলাপি বর্ণ অপসারিত হয়; সকল অসম্পৃক্ত হাইড্রোকার্বন এই বিক্রিয়া দেয়",
+   "materials_bn": [
+    "ইথিন",
+    "KMnO₄ দ্রবণ",
+    "KOH"
+   ],
+   "procedure_bn": [
+    "ইথিনের মধ্যে KMnO₄ এর গোলাপি দ্রবণ ও KOH যোগ করা হয়"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e14",
+   "topic_title_bn": "6.পলিমার",
+   "title_bn": "ইথিনের পলিমারকরণ (পলিথিন)",
+   "book_page": 274,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথিন (মনোমার)",
+     "formula": "nCH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিথিন",
+     "formula": "(–CH₂–CH₂–)ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCH₂=CH₂ →(1000 atm, 200°C, সামান্য O₂) (–CH₂–CH₂–)ₙ",
+   "conditions": "1000 atm, 200°C, সামান্য অক্সিজেন",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথিন",
+    "অক্সিজেন"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e15",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথাইনের হাইড্রোজেন সংযোজন",
+   "book_page": 275,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "CH≡CH",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃–CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH≡CH + 2H₂ →(Ni, 180–200°C) CH₃–CH₃",
+   "conditions": "Ni, 180–200°C",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথাইন",
+    "H₂",
+    "Ni"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e16",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ক্যালসিয়াম কার্বাইড থেকে ইথাইন প্রস্তুতি",
+   "book_page": 275,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বাইড",
+     "formula": "CaC₂",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "CH≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রোক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "CaC₂ + 2H₂O → CH≡CH↑ + Ca(OH)₂",
+   "conditions": "পানি যোগ করা",
+   "observations_bn": "বইয়ে পর্যবেক্ষণ নেই",
+   "materials_bn": [
+    "ক্যালসিয়াম কার্বাইড",
+    "পানি",
+    "ফ্লাস্ক"
+   ],
+   "procedure_bn": [
+    "ক্যালসিয়াম কার্বাইডের মধ্যে পানি যোগ করা হয়"
+   ],
+   "safety_bn": "দাহ্য গ্যাস উৎপন্ন",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e17",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথাইনে ব্রোমিন সংযোজন (অসম্পৃক্ততা পরীক্ষা)",
+   "book_page": 275,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "CH≡CH",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন দ্রবণ (লাল)",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাব্রোমো ইথেন",
+     "formula": "CHBr₂–CHBr₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH≡CH + 2Br₂ → CHBr₂–CHBr₂",
+   "conditions": "",
+   "observations_bn": "ব্রোমিনের লাল বর্ণ অপসারিত হয়; ইথাইন অসম্পৃক্ত তা প্রমাণিত",
+   "materials_bn": [
+    "ব্রোমিন দ্রবণ",
+    "ইথাইন"
+   ],
+   "procedure_bn": [
+    "ইথাইনের মধ্যে লাল বর্ণের ব্রোমিন দ্রবণ যোগ করা হয়"
+   ],
+   "safety_bn": "ব্রোমিন ক্ষয়কারক ও বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e18",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথাইনে পানি সংযোজন (ইথান্যাল প্রস্তুতি)",
+   "book_page": 276,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "CH≡CH",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথান্যাল (অ্যাসিটালডিহাইড)",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH≡CH + H₂O →(20% H₂SO₄, 2% HgSO₄, 80°C) CH₃CHO",
+   "conditions": "80°C, 20% H₂SO₄, 2% HgSO₄",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথাইন",
+    "H₂SO₄ (20%)",
+    "HgSO₄ (2%)"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "পারদ লবণ বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e19",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথাইল ব্রোমাইড থেকে ইথানল (জলীয় NaOH)",
+   "book_page": 276,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ব্রোমাইড",
+     "formula": "CH₃CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইডের জলীয় দ্রবণ",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CH₂Br + NaOH →(Δ) CH₃CH₂OH + NaBr",
+   "conditions": "উত্তপ্ত (Δ); তাপমাত্রা বইয়ে নেই",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথাইল ব্রোমাইড",
+    "NaOH জলীয় দ্রবণ",
+    "পরীক্ষা নল"
+   ],
+   "procedure_bn": [
+    "ইথাইল ব্রোমাইডে NaOH এর জলীয় দ্রবণ যোগ করে উত্তপ্ত করা হয়"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e20",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথান্যালের জারণে ইথানয়িক এসিড",
+   "book_page": 278,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাশিয়াম ডাইক্রোমেট",
+     "formula": "K₂Cr₂O₇",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানয়িক এসিড (অ্যাসিটিক এসিড)",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + [O] →(K₂Cr₂O₇ + H₂SO₄) CH₃COOH",
+   "conditions": "জায়মান অক্সিজেন [O] K₂Cr₂O₇ ও H₂SO₄ থেকে",
+   "observations_bn": "",
+   "materials_bn": [
+    "ইথান্যাল",
+    "K₂Cr₂O₇",
+    "লঘু H₂SO₄"
+   ],
+   "procedure_bn": [
+    "ইথান্যালে লঘু H₂SO₄ ও পটাশিয়াম ডাইক্রোমেট যোগ করা হয়"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e21",
+   "topic_title_bn": "5.হাইড্রোকার্বন",
+   "title_bn": "ইথানয়িক এসিড ও NaOH এর প্রশমন বিক্রিয়া",
+   "book_page": 278,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ইথানয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথানয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH + NaOH → CH₃COONa + H₂O",
+   "conditions": "",
+   "observations_bn": "ফ্যাটি এসিডের জলীয় দ্রবণ নীল লিটমাসকে লাল করে (বইয়ের উক্তি)",
+   "materials_bn": [
+    "ইথানয়িক এসিড",
+    "NaOH দ্রবণ",
+    "নীল লিটমাস"
+   ],
+   "procedure_bn": [
+    "ইথানয়িক এসিডের জলীয় দ্রবণে NaOH দ্রবণ যোগ করা হয়"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e22",
+   "topic_title_bn": "6.পলিমার",
+   "title_bn": "প্রোপিনের পলিমারকরণ (পলিপ্রোপিন)",
+   "book_page": 281,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "nCH₂=CH(CH₃)",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিপ্রোপিন",
+     "formula": "[–CH₂–CH(CH₃)–]ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCH₂=CH(CH₃) →(140 atm, 120°C, টাইটানিয়াম ক্লোরাইড) [–CH₂–CH(CH₃)–]ₙ",
+   "conditions": "140 atm, 120°C, টাইটানিয়াম ক্লোরাইড",
+   "observations_bn": "",
+   "materials_bn": [
+    "প্রোপিন",
+    "টাইটানিয়াম ক্লোরাইড"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e23",
+   "topic_title_bn": "6.পলিমার",
+   "title_bn": "ভিনাইল ক্লোরাইড থেকে পিভিসি (PVC)",
+   "book_page": 281,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ভিনাইল ক্লোরাইড",
+     "formula": "nCH₂=CHCl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলি ভিনাইল ক্লোরাইড (PVC)",
+     "formula": "–(CH₂–CHCl)–ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCH₂=CHCl →(উচ্চ চাপ, উচ্চ তাপমাত্রা, জৈব পার-অক্সাইড) –(CH₂–CHCl)–ₙ",
+   "conditions": "উচ্চ চাপ ও তাপ, জৈব পার-অক্সাইড",
+   "observations_bn": "",
+   "materials_bn": [
+    "ভিনাইল ক্লোরাইড",
+    "জৈব পার-অক্সাইড"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c11-e24",
+   "topic_title_bn": "6.পলিমার",
+   "title_bn": "নাইলন ৬:৬ উৎপাদন (ঘনীভবন পলিমার)",
+   "book_page": 281,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "অ্যাডিপিক এসিড",
+     "formula": "nHOOC–(CH₂)₄–COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হেক্সামিথিলিন ডাই-অ্যামিন",
+     "formula": "nNH₂–(CH₂)₆–NH₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইলন ৬:৬",
+     "formula": "(–OC–(CH₂)₄–CONH–(CH₂)₆–NH–)ₙ",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "2nH₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "nHOOC–(CH₂)₄–COOH + nNH₂–(CH₂)₆–NH₂ →(TiO₂, Δ) (–OC–(CH₂)₄–CONH–(CH₂)₆–NH–)ₙ + 2nH₂O",
+   "conditions": "TiO₂ উপস্থিতিতে উত্তপ্ত",
+   "observations_bn": "",
+   "materials_bn": [
+    "অ্যাডিপিক এসিড",
+    "হেক্সামিথিলিন ডাই-অ্যামিন",
+    "TiO₂"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "chemicals_mentioned": [
+  {
+   "name_bn": "মিথেন",
+   "formula": "CH₄",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথেন",
+   "formula": "C₂H₆",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "প্রোপেন",
+   "formula": "C₃H₈",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "বিউটেন",
+   "formula": "C₄H₁₀",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথিন",
+   "formula": "C₂H₄",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "প্রোপিন",
+   "formula": "C₃H₆",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথাইন (অ্যাসিটিলিন)",
+   "formula": "C₂H₂",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "প্রোপাইন",
+   "formula": "C₃H₄",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "বেনজিন",
+   "formula": "C₆H₆",
+   "state": "তরল",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ন্যাপথলিন",
+   "formula": "C₁₀H₈",
+   "state": "কঠিন",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সাইক্লোহেক্সেন",
+   "formula": "C₆H₁₂",
+   "state": "তরল",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "পেন্টেন",
+   "formula": "C₅H₁₂",
+   "state": "তরল",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কার্বন ডাই-অক্সাইড",
+   "formula": "CO₂",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম কার্বাইড",
+   "formula": "CaC₂",
+   "state": "কঠিন",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম হাইড্রোক্সাইড",
+   "formula": "Ca(OH)₂",
+   "state": "কঠিন",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্লোরিন",
+   "formula": "Cl₂",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ব্রোমিন (দ্রবণ লাল)",
+   "formula": "Br₂",
+   "state": "তরল/দ্রবণ",
+   "colour_bn": "লাল"
+  },
+  {
+   "name_bn": "পটাশিয়াম পারম্যাঙ্গানেট (দ্রবণ গোলাপি)",
+   "formula": "KMnO₄",
+   "state": "দ্রবণ",
+   "colour_bn": "গোলাপি"
+  },
+  {
+   "name_bn": "পটাশিয়াম ডাইক্রোমেট",
+   "formula": "K₂Cr₂O₇",
+   "state": "কঠিন/দ্রবণ",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সালফিউরিক এসিড",
+   "formula": "H₂SO₄",
+   "state": "তরল",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+   "formula": "NaOH",
+   "state": "কঠিন/দ্রবণ",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম ইথানয়েট",
+   "formula": "CH₃COONa",
+   "state": "কঠিন",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম অক্সাইড",
+   "formula": "CaO",
+   "state": "কঠিন",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথানল",
+   "formula": "C₂H₅OH",
+   "state": "তরল (বর্ণহীন)",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "মিথানল",
+   "formula": "CH₃OH",
+   "state": "তরল (বর্ণহীন)",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথান্যাল",
+   "formula": "CH₃CHO",
+   "state": "তরল",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথানয়িক এসিড",
+   "formula": "CH₃COOH",
+   "state": "তরল",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ফরমালিন (40% মিথান্যাল)",
+   "formula": "HCHO(aq)",
+   "state": "দ্রবণ",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথিলিন গ্লাইকল",
+   "formula": "CH₂OH–CH₂OH",
+   "state": "তরল",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "হাইড্রোজেন সালফাইড",
+   "formula": "H₂S",
+   "state": "গ্যাস",
+   "colour_bn": ""
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "বইয়ের আসল অধ্যায় বিন্যাস প্রদত্ত ৬টি টপিকের সাথে মেলে না (আছে 11.1 জীবাশ্ম জ্বালানি, 11.2 হাইড্রোকার্বন, 11.3 অ্যালকেন, 11.4 অ্যালকিন/অ্যালকাইন, 11.5 অ্যালকোহল-অ্যালডিহাইড-ফ্যাটি এসিড, 11.6 ব্যবহার, 11.7 পলিমার); আলাদা 'কয়লা' অংশ নেই। অ্যালকেন/অ্যালকিন/অ্যালকাইন/অ্যালকোহল/এসিড সম্পর্কিত বিক্রিয়া টপিক 5 এর অধীনে রাখা হয়েছে। প্রাকৃতিক গ্যাসের উপাদান (মিথেন 93-98% ইত্যাদি) পৃ.263 এ আছে, কোনো বিক্রিয়া নেই। বইয়ে কোনো হাতে-কলমে পরীক্ষা (procedure) বর্ণিত নেই; procedure_bn ও materials_bn শুধু বইয়ের বর্ণনা থেকে নেওয়া। ইথিন/ইথাইনের Br₂ ও KMnO₄ পরীক্ষা 'bench' ধরা হয়েছে (দ্রবণ পরীক্ষা), কিন্তু বইয়ে গ্যাস প্রস্তুতির পদ্ধতি দেওয়া নেই। 'নিজে করো' (পৃ.284) তে শুধু জৈব/অজৈব যৌগের গলনাঙ্ক পার্থক্যের কাজ আছে, নির্দিষ্ট পদ্ধতি নেই। CaC₂+H₂O, C₂H₅Br+NaOH(aq) ও CH₃CHO জারণ bench ধরা। book_page = pdf_page − 5। পৃ.279 এ বায়ুর অক্সিজেনে ইথিন→ইথানল (300°C, 60 atm), ফরমালডিহাইড পলিমার (ডেরলিন), ইউরিয়া-ফরমালডিহাইড রেজিন শুধু গদ্যে, সমীকরণ নেই বলে বাদ।"
+}

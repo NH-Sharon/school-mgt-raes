@@ -1,0 +1,1248 @@
+{
+ "chapter": 8,
+ "pdf_pages": [
+  173,
+  210
+ ],
+ "experiments": [
+  {
+   "id": "c8-e1",
+   "topic_title_bn": "তাপোৎপাদী ও তাপহারী পরিবর্তন",
+   "title_bn": "পরীক্ষণ-২: পানিতে অ্যামোনিয়াম ক্লোরাইড দ্রবীভূত করে তাপমাত্রা পর্যবেক্ষণ",
+   "book_page": 201,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄Cl → NH₄⁺ + Cl⁻",
+   "conditions": "পাতিত পানি 50 g, NH₄Cl 10 g",
+   "observations_bn": "পানিতে দ্রবীভূত হলে পানির তাপমাত্রা হ্রাস পায়, অর্থাৎ এটি একটি তাপহারী প্রক্রিয়া। (ব্যাখ্যা: কেলাস ভাঙতে ও অণু আয়নিত হতে শক্তি লাগে, যা পানি থেকে আসে; পৃ. ২০১-২০২)",
+   "materials_bn": [
+    "বিকার",
+    "অ্যামোনিয়াম ক্লোরাইড (NH₄Cl)",
+    "পাতিত পানি",
+    "কাচ দণ্ড",
+    "থার্মোমিটার"
+   ],
+   "procedure_bn": [
+    "বিকারে 50 গ্রাম পাতিত পানি নাও।",
+    "থার্মোমিটারের সাহায্যে পানির তাপমাত্রা নির্ণয় করো।",
+    "10 গ্রাম অ্যামোনিয়াম ক্লোরাইড বিকারের পানিতে যোগ করো।",
+    "কাচ দণ্ড দিয়ে নাড়াচাড়া করে সম্পূর্ণ অ্যামোনিয়াম ক্লোরাইডকে দ্রবীভূত করো।",
+    "যত তাড়াতাড়ি সম্ভব দ্রবীভূত হওয়ার সাথে সাথে দ্রবণের তাপমাত্রা থার্মোমিটার দিয়ে নির্ণয় করো।"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e2",
+   "topic_title_bn": "তাপোৎপাদী ও তাপহারী পরিবর্তন",
+   "title_bn": "পরীক্ষণ-৩: পানিতে চুন (CaO) যোগ করে তাপমাত্রা পর্যবেক্ষণ",
+   "book_page": 202,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড (চুন)",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রোক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CaO + H₂O → Ca(OH)₂ + তাপ",
+   "conditions": "",
+   "observations_bn": "পানিতে চুন যোগ করলে তাপমাত্রা বৃদ্ধি পায়। এটি একটি তাপোৎপাদী প্রক্রিয়া। (পৃ. ২০৩)",
+   "materials_bn": [
+    "বিকার",
+    "চুন বা ক্যালসিয়াম অক্সাইড (CaO)",
+    "পাতিত পানি",
+    "কাচ দণ্ড",
+    "থার্মোমিটার"
+   ],
+   "procedure_bn": [
+    "বিকারের অর্ধেক পরিমাণ পাতিত পানি নাও।",
+    "থার্মোমিটারের সাহায্যে পানির তাপমাত্রা নির্ণয় করো।",
+    "চুন বা ক্যালসিয়াম অক্সাইড বিকারের পানিতে যোগ করো।",
+    "বিক্রিয়া শুরু হলে কাচ দণ্ড দিয়ে বিকারের দ্রবণকে নাড়াচাড়া করো।",
+    "যত তাড়াতাড়ি সম্ভব বিকারের দ্রবণের তাপমাত্রা থার্মোমিটার দিয়ে নির্ণয় করো। দেখা যাবে দ্রবণের তাপমাত্রা বেড়ে গেছে।"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e3",
+   "topic_title_bn": "তাপোৎপাদী ও তাপহারী পরিবর্তন",
+   "title_bn": "চুনের সাথে পানির বিক্রিয়া (ΔH সহ উদাহরণ)",
+   "book_page": 173,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড (চুন)",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রোক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CaO(s) + 2H₂O(l) → Ca(OH)₂(aq) ; ΔH = -63.95 kJ/mol",
+   "conditions": "",
+   "observations_bn": "শুকনা চুনে পানি যোগ করলে গরম হয়ে ওঠে; 63.95 kJ/mol তাপ উৎপন্ন হয় (পৃ. ১৭৩)।",
+   "materials_bn": [
+    "চুন",
+    "পানি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e4",
+   "topic_title_bn": "রাসায়নিক থেকে বৈদ্যুতিক শক্তি",
+   "title_bn": "ডেনিয়েল কোষের নিট বিক্রিয়া: জিংকের সাথে কপার সালফেট দ্রবণ",
+   "book_page": 177,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s)",
+   "conditions": "",
+   "observations_bn": "বইয়ে শুধু ডেনিয়েল কোষে ঘটা বিক্রিয়া হিসেবে দেওয়া; বিক্রিয়ায় রাসায়নিক শক্তি বিদ্যুৎ শক্তিতে রূপান্তরিত হয়। (বইয়ে সরাসরি মেশানোর পরীক্ষা নেই; bench-এ সরাসরি মেশানো সম্ভব হলেও এটি অনুমান)",
+   "materials_bn": [
+    "জিংক দণ্ড/টুকরো",
+    "কপার সালফেট দ্রবণ"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "c8-e5",
+   "topic_title_bn": "রাসায়নিক শক্তির উৎস",
+   "title_bn": "মিথেনের দহন (তাপোৎপাদী)",
+   "book_page": 172,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জলীয় বাষ্প",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g) + 890 kJ/mol ; ΔH = −890 kJ/mol (পৃ. ১৭৩)",
+   "conditions": "দহন",
+   "observations_bn": "প্রতি 1 মোল মিথেন পুড়লে 890 kJ তাপ উৎপন্ন হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e6",
+   "topic_title_bn": "তাপোৎপাদী ও তাপহারী পরিবর্তন",
+   "title_bn": "শামুক/ঝিনুকের খোলস থেকে চুন তৈরি (CaCO₃-এর বিয়োজন)",
+   "book_page": 173,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃(s) + 176.8 kJ/mole → CaO(s) + CO₂(g) ; ΔH = 176.8 kJ/mole (পৃ. ১৭৪)",
+   "conditions": "আগুনে উত্তপ্ত করা",
+   "observations_bn": "খোলসে প্রায় 98% CaCO₃ থাকে; আগুনের তাপে ভেঙে CaO ও CO₂ তৈরি হয়; চুন পড়ে থাকে, CO₂ বাতাসে মিশে যায় (পৃ. ১৭৪; চিত্র ৮.০২ পৃ. ১৭৩)",
+   "materials_bn": [
+    "শামুক বা ঝিনুকের খোলস"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e7",
+   "topic_title_bn": "বন্ধন শক্তি",
+   "title_bn": "বন্ধন শক্তি দিয়ে ΔH হিসাব: CH₄ + Cl₂ → CH₃Cl + HCl",
+   "book_page": 175,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + Cl₂ → CH₃Cl + HCl ; ΔH = (658 − 757) kJ = −99 kJ (পৃ. ১৭৬)",
+   "conditions": "বই: C-H 414, C-Cl 326, Cl-Cl 244, H-Cl 431 kJ/mol",
+   "observations_bn": "তাপোৎপাদী; 99 kJ/mol তাপ উৎপন্ন হয়",
+   "materials_bn": [],
+   "procedure_bn": [
+    "ভাঙা বন্ধন: 414+244 = 658 kJ",
+    "তৈরি বন্ধন: 326+431 = 757 kJ",
+    "ΔH = 658 − 757 = −99 kJ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e8",
+   "topic_title_bn": "রাসায়নিক শক্তির উৎস",
+   "title_bn": "কাঠ/কয়লা/মিথেন প্রভৃতি জ্বালানির দহন (শক্তি রূপান্তর)",
+   "book_page": 176,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "মিথেন (প্রাকৃতিক গ্যাস)",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জলীয় বাষ্প",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "মিথেন + অক্সিজেন → কার্বন ডাই-অক্সাইড + জলীয় বাষ্প + তাপ + আলো (বইয়ে শুধু শব্দে)",
+   "conditions": "",
+   "observations_bn": "কার্বন ডাই-অক্সাইড, জলীয় বাষ্প, তাপ ও আলো সৃষ্টি হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e9",
+   "topic_title_bn": "রাসায়নিক শক্তির উৎস",
+   "title_bn": "সালোকসংশ্লেষণ",
+   "book_page": 177,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O",
+   "conditions": "সূর্যালোক, ক্লোরোফিল (চিত্র ৮.০৩)",
+   "observations_bn": "গ্লুকোজ ও অক্সিজেন উৎপন্ন হয়; সূর্যালোক শর্করায় রাসায়নিক শক্তি হিসেবে সঞ্চিত হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e10",
+   "topic_title_bn": "রাসায়নিক শক্তির উৎস",
+   "title_bn": "আতশবাজি ও ড্রাই সেলে শক্তি রূপান্তর (বর্ণনা)",
+   "book_page": 176,
+   "type": "card",
+   "reactants": [],
+   "products": [],
+   "equation": "বইয়ে সমীকরণ নেই",
+   "conditions": "",
+   "observations_bn": "আতশবাজিতে রাসায়নিক শক্তি আলো ও শব্দে রূপান্তরিত হয়; ড্রাই সেলে বিদ্যুৎ শক্তিতে",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e11",
+   "topic_title_bn": "রাসায়নিক শক্তির উৎস",
+   "title_bn": "এসিড বৃষ্টির বিক্রিয়াসমূহ: CO₂ + H₂O → H₂CO₃",
+   "book_page": 179,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "CO₂ + H₂O → H₂CO₃",
+   "conditions": "",
+   "observations_bn": "এসিড বৃষ্টি তৈরির বিক্রিয়া",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e12",
+   "topic_title_bn": "রাসায়নিক শক্তির উৎস",
+   "title_bn": "এসিড বৃষ্টি: SO₂ → SO₃",
+   "book_page": 179,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂ + O₂ → 2SO₃",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e13",
+   "topic_title_bn": "রাসায়নিক শক্তির উৎস",
+   "title_bn": "এসিড বৃষ্টি: SO₃ + পানি",
+   "book_page": 179,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2SO₃ + 2H₂O → 2H₂SO₄",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e14",
+   "topic_title_bn": "রাসায়নিক শক্তির উৎস",
+   "title_bn": "এসিড বৃষ্টি: NO₂ → HNO₃",
+   "book_page": 179,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাই-অক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "4NO₂ + 2H₂O + O₂ → 4HNO₃",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e15",
+   "topic_title_bn": "তড়িৎ বিশ্লেষণ",
+   "title_bn": "গলিত NaCl-এর তড়িৎ বিশ্লেষণ",
+   "book_page": 183,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "গলিত সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaCl(l) → 2Na(s) + Cl₂(g) ; অ্যানোড: Cl⁻ → ½Cl₂ + e⁻ ; ক্যাথোড: Na⁺ + e⁻ → Na",
+   "conditions": "কাচ/চিনামাটির পাত্র, দুটি ধাতব বা গ্রাফাইট দণ্ড, ব্যাটারি",
+   "observations_bn": "অ্যানোডে ক্লোরিন গ্যাস, ক্যাথোডে সোডিয়াম ধাতু (চিত্র ৮.০৪)",
+   "materials_bn": [
+    "কাচ বা চিনামাটির পাত্র",
+    "গলিত NaCl",
+    "দুটি ধাতব/গ্রাফাইট দণ্ড",
+    "ব্যাটারি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e16",
+   "topic_title_bn": "তড়িৎ বিশ্লেষণ",
+   "title_bn": "অ্যানোডে ক্লোরিন শনাক্তকরণ লিটমাস পেপার দিয়ে",
+   "book_page": 183,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HOCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl₂ + H₂O → HCl + HOCl",
+   "conditions": "",
+   "observations_bn": "ভেজা নীল লিটমাস পেপার ক্লোরিন গ্যাসে লাল হয় (বইয়ে লিখিত: লাল বর্ণে পরিণত হবে)। পৃ. ১৮৩-১৮৪",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "ভেজা নীল লিটমাস পেপার"
+   ],
+   "procedure_bn": [
+    "অ্যানোডের গ্যাস টেস্টটিউবে সংগ্রহ করো।",
+    "মুখে ভেজা নীল লিটমাস পেপার ধরো।"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e17",
+   "topic_title_bn": "তড়িৎ বিশ্লেষণ",
+   "title_bn": "গাঢ় NaCl দ্রবণের তড়িৎ বিশ্লেষণ",
+   "book_page": 184,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "গাঢ় সোডিয়াম ক্লোরাইড দ্রবণ",
+     "formula": "NaCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড দ্রবণ",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "ক্যাথোড: H⁺ + e⁻ → H ; H + H → H₂ ; অ্যানোড: Cl⁻ → Cl + e⁻ ; Cl + Cl → Cl₂ ; Na⁺ + OH⁻ → NaOH",
+   "conditions": "তড়িৎ বিশ্লেষণ কোষ (চিত্র ৮.০৫)",
+   "observations_bn": "ক্যাথোডে H₂, অ্যানোডে Cl₂, পাত্রে NaOH দ্রবণ থাকে (পৃ. ১৮৪-১৮৫)",
+   "materials_bn": [
+    "গাঢ় NaCl দ্রবণ",
+    "দুটি দণ্ড (ডায়াফ্রাম সহ কোষ)",
+    "ব্যাটারি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e18",
+   "topic_title_bn": "তড়িৎ বিশ্লেষণ",
+   "title_bn": "বিশুদ্ধ পানির তড়িৎ বিশ্লেষণ",
+   "book_page": 186,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "পানি (সামান্য H₂SO₄ সহ)",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "ক্যাথোড: 4H⁺ + 4e⁻ → 2H₂ ; অ্যানোড: 4OH⁻ → O₂ + 2H₂O + 4e⁻ (বইয়ে H₂O ⇌ আয়নন: 4H₂O ⇌ 4H⁺ + 4OH⁻)",
+   "conditions": "প্লাটিনাম পাত অ্যানোড ও ক্যাথোড; কয়েক ফোঁটা সালফিউরিক এসিড; ব্যাটারি (চিত্র ৮.০৬)",
+   "observations_bn": "ক্যাথোডে হাইড্রোজেন, অ্যানোডে অক্সিজেন গ্যাস (পৃ. ১৮৭)",
+   "materials_bn": [
+    "প্লাটিনাম ইলেকট্রোড",
+    "পানি",
+    "H₂SO₄ (কয়েক ফোঁটা)",
+    "ব্যাটারি",
+    "গ্যাস সংগ্রহের নল"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "সালফিউরিক এসিড শুধু পরিবাহিতা বাড়াতে সামান্য পরিমাণ",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e19",
+   "topic_title_bn": "তড়িৎ বিশ্লেষণ",
+   "title_bn": "গলিত অ্যালুমিনার তড়িৎ বিশ্লেষণ (ধাতু নিষ্কাশন)",
+   "book_page": 188,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনা",
+     "formula": "Al₂O₃",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Al₂O₃ ⇌ 2Al³⁺ + 3O²⁻ ; অ্যানোড: 3O²⁻ → 3/2 O₂ + 6e⁻ ; ক্যাথোড: 2Al³⁺ + 6e⁻ → 2Al",
+   "conditions": "গলিত অবস্থা",
+   "observations_bn": "ক্যাথোডে Al, অ্যানোডে O₂ (পৃ. ১৮৭-১৮৮)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e20",
+   "topic_title_bn": "তড়িৎ বিশ্লেষণ",
+   "title_bn": "ইলেকট্রোপ্লেটিং: চামচে সিলভার প্রলেপ",
+   "book_page": 189,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সিলভার নাইট্রেট দ্রবণ",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলভার পাত (অ্যানোড)",
+     "formula": "Ag",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার (চামচে জমা)",
+     "formula": "Ag",
+     "state": "solid"
+    }
+   ],
+   "equation": "AgNO₃ → Ag⁺ + NO₃⁻ ; অ্যানোড: Ag → Ag⁺ + e⁻ ; ক্যাথোড: Ag⁺ + e⁻ → Ag",
+   "conditions": "চামচ ক্যাথোড, সিলভার পাত অ্যানোড (চিত্র ৮.০৭)",
+   "observations_bn": "চামচের উপর সিলভারের প্রলেপ পড়ে (পৃ. ১৮৮-১৮৯)",
+   "materials_bn": [
+    "AgNO₃ দ্রবণ",
+    "সিলভার পাত",
+    "চামচ",
+    "ব্যাটারি",
+    "বিকার"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e21",
+   "topic_title_bn": "রাসায়নিক থেকে বৈদ্যুতিক শক্তি",
+   "title_bn": "গ্যালভানিক (ডেনিয়েল) কোষ: Zn ও Cu",
+   "book_page": 191,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "জিংক দণ্ড (অ্যানোড) ZnSO₄ দ্রবণে",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "কপার সালফেট দ্রবণ / কপার দণ্ড (ক্যাথোড)",
+     "formula": "CuSO₄",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক আয়ন",
+     "formula": "Zn²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "অ্যানোড: Zn → Zn²⁺ + 2e⁻ ; ক্যাথোড: Cu²⁺ + 2e⁻ → Cu ; কোষ বিক্রিয়া: Zn + Cu²⁺ → Zn²⁺ + Cu",
+   "conditions": "লবণ সেতু (KCl + আগার-আগার), বাল্ব (চিত্র ৮.০৮, ৮.০৯)",
+   "observations_bn": "বাল্ব জ্বলে ওঠে; রাসায়নিক শক্তি বিদ্যুৎ শক্তিতে রূপান্তরিত হয় (পৃ. ১৯১)",
+   "materials_bn": [
+    "ZnSO₄ দ্রবণ",
+    "CuSO₄ দ্রবণ",
+    "জিংক দণ্ড",
+    "কপার দণ্ড",
+    "লবণ সেতু",
+    "তার",
+    "বাল্ব"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e22",
+   "topic_title_bn": "রাসায়নিক থেকে বৈদ্যুতিক শক্তি",
+   "title_bn": "লবণ সেতু (KCl + আগার-আগার)",
+   "book_page": 194,
+   "type": "card",
+   "reactants": [],
+   "products": [],
+   "equation": "বইয়ে বিক্রিয়া নেই; K⁺ ক্যাথোডে, Cl⁻ অ্যানোডে যায়",
+   "conditions": "",
+   "observations_bn": "U-আকৃতির কাচের নলে আগার-আগারসহ KCl, জেলির মতো মিশ্রণ; উভয় দ্রবণ নিরপেক্ষ থাকে",
+   "materials_bn": [
+    "U-নল",
+    "KCl",
+    "আগার-আগার"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e23",
+   "topic_title_bn": "রাসায়নিক থেকে বৈদ্যুতিক শক্তি",
+   "title_bn": "Cu–Ag গ্যালভানিক কোষ",
+   "book_page": 193,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "সিলভার আয়ন",
+     "formula": "Ag⁺",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার আয়ন",
+     "formula": "Cu²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid"
+    }
+   ],
+   "equation": "অ্যানোড: Cu → Cu²⁺ + 2e⁻ ; ক্যাথোড: 2Ag⁺ + 2e⁻ → 2Ag ; কোষ: Cu + 2Ag⁺ → Cu²⁺ + 2Ag (পৃ. ১৯৩-১৯৪)",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e24",
+   "topic_title_bn": "রাসায়নিক থেকে বৈদ্যুতিক শক্তি",
+   "title_bn": "পরীক্ষণ-১: গ্যালভানিক কোষ তৈরি করে বিদ্যুৎ উৎপাদন",
+   "book_page": 200,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "জিংক দণ্ড",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "কপার সালফেট দ্রবণ",
+     "formula": "CuSO₄",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক আয়ন",
+     "formula": "Zn²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "Zn → Zn²⁺ + 2e⁻ (অ্যানোড) ; Cu²⁺ + 2e⁻ → Cu (ক্যাথোড) ; Zn + Cu²⁺ → Zn²⁺ + Cu",
+   "conditions": "",
+   "observations_bn": "LED জ্বলে ওঠে; জিংক দণ্ড ক্ষয়প্রাপ্ত হয়, কপার দণ্ডে কপার জমা হয় (পৃ. ২০১)",
+   "materials_bn": [
+    "দুটি বিকার",
+    "ZnSO₄ দ্রবণ",
+    "CuSO₄ দ্রবণ",
+    "জিংক দণ্ড",
+    "কপার দণ্ড",
+    "LED",
+    "ভেজা কাগজ বা লবণ সেতু",
+    "কপার তার"
+   ],
+   "procedure_bn": [
+    "8.16 চিত্রের মতো একটি বিকারে ZnSO₄ দ্রবণে জিংক দণ্ড ও অন্য বিকারে CuSO₄ দ্রবণে কপার দণ্ড আংশিক ডুবাও।",
+    "লবণ সেতু স্থাপন করো।",
+    "জিংক ও কপার দণ্ড তামার তার দিয়ে LED-এর সাথে যুক্ত করো (পজিটিভ প্রান্ত কপার দণ্ডের, নেগেটিভ প্রান্ত জিংক দণ্ডের তারের সাথে)।"
+   ],
+   "safety_bn": "সতর্কতা: দুই দ্রবণের উচ্চতা সমান রাখতে হবে; লবণ সেতু/ভেজা কাগজ ভালোমতো সংযুক্ত করতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e25",
+   "topic_title_bn": "কোষ, ব্যাটারি ও জ্বালানি",
+   "title_bn": "ড্রাই সেল (Zn, MnO₂, NH₄Cl)",
+   "book_page": 195,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাই-অক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক আয়ন",
+     "formula": "Zn²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ডাই ম্যাঙ্গানিজ ট্রাই-অক্সাইড",
+     "formula": "Mn₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "অ্যানোড: Zn → Zn²⁺ + 2e⁻ ; ক্যাথোড: 2NH₄⁺ + 2MnO₂ + 2e⁻ → 2NH₃ + Mn₂O₃ + H₂O ; কোষ: Zn + 2NH₄⁺ + 2MnO₂ → Zn²⁺ + 2NH₃ + Mn₂O₃ + H₂O (পৃ. ১৯৬)",
+   "conditions": "জিংক কৌটা, কার্বন (গ্রাফাইট) দণ্ড ক্যাথোড, MnO₂/NH₄Cl/ZnCl₂ পেস্ট (চিত্র ৮.১০)",
+   "observations_bn": "বিদ্যুৎ উৎপন্ন হয়",
+   "materials_bn": [
+    "জিংক কৌটা",
+    "কার্বন দণ্ড",
+    "MnO₂, NH₄Cl, ZnCl₂ ও পানি মিশ্রিত পেস্ট"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e26",
+   "topic_title_bn": "কোষ, ব্যাটারি ও জ্বালানি",
+   "title_bn": "হাইড্রোজেন ফুয়েল সেল (বর্ণনা)",
+   "book_page": 196,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "বইয়ে সমীকরণ নেই",
+   "conditions": "",
+   "observations_bn": "অ্যানোডে হাইড্রোজেন অণু জারিত, ক্যাথোডে অক্সিজেন বিজারিত হয়ে পানি তৈরি হয়; ইলেকট্রন অ্যানোড থেকে ক্যাথোডে যায় (পৃ. ১৯৬)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e27",
+   "topic_title_bn": "কোষ, ব্যাটারি ও জ্বালানি",
+   "title_bn": "নিউক্লিয়ার ফিশন বিক্রিয়া (²³⁵U + n)",
+   "book_page": 198,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইউরেনিয়াম-235",
+     "formula": "²³⁵₉₂U",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "নিউট্রন",
+     "formula": "¹₀n",
+     "state": "",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিয়াম-141",
+     "formula": "¹⁴¹₅₆Ba",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্রিপ্টন-92",
+     "formula": "⁹²₃₆Kr",
+     "state": "gas"
+    }
+   ],
+   "equation": "²³⁵₉₂U + ¹₀n → ¹⁴¹₅₆Ba + ⁹²₃₆Kr + 3 ¹₀n + প্রচুর শক্তি",
+   "conditions": "",
+   "observations_bn": "চিত্র ৮.১৩",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c8-e28",
+   "topic_title_bn": "কোষ, ব্যাটারি ও জ্বালানি",
+   "title_bn": "নিউক্লিয়ার ফিউশন বিক্রিয়া",
+   "book_page": 198,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন-2",
+     "formula": "²₁H",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "হাইড্রোজেন-3",
+     "formula": "³₁H",
+     "state": "gas",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হিলিয়াম-4",
+     "formula": "⁴₂He",
+     "state": "gas"
+    }
+   ],
+   "equation": "²₁H + ³₁H → ⁴₂He + ¹₀n + প্রচুর শক্তি",
+   "conditions": "",
+   "observations_bn": "হাইড্রোজেন বোমা তৈরিতে ব্যবহৃত (চিত্র ৮.১৪)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "chemicals_mentioned": [
+  {
+   "name_bn": "সোডিয়াম ক্লোরাইড",
+   "formula": "NaCl",
+   "state": "solid",
+   "colour_bn": "সাদা"
+  },
+  {
+   "name_bn": "ক্যালসিয়াম অক্সাইড (চুন)",
+   "formula": "CaO",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম হাইড্রোক্সাইড",
+   "formula": "Ca(OH)₂",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+   "formula": "NH₄Cl",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "জিংক সালফেট",
+   "formula": "ZnSO₄",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কপার সালফেট",
+   "formula": "CuSO₄",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সিলভার নাইট্রেট",
+   "formula": "AgNO₃",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "পটাশিয়াম ক্লোরাইড (লবণ সেতু)",
+   "formula": "KCl",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সালফিউরিক এসিড",
+   "formula": "H₂SO₄",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথানল",
+   "formula": "CH₃CH₂OH",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "মিথেন",
+   "formula": "CH₄",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ম্যাঙ্গানিজ ডাই-অক্সাইড",
+   "formula": "MnO₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "জিংক ক্লোরাইড",
+   "formula": "ZnCl₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যামোনিয়া",
+   "formula": "NH₃",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "পানি",
+   "formula": "H₂O",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "লিটমাস পেপার (নীল)",
+   "formula": "",
+   "state": "solid",
+   "colour_bn": "নীল (বইয়ে ক্লোরিন গ্যাসে লাল)"
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড (গলিত)",
+   "formula": "MgCl₂",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যালুমিনা",
+   "formula": "Al₂O₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "লেড (সিসা) ও লেড ডাই-অক্সাইড",
+   "formula": "Pb, PbO₂",
+   "state": "solid",
+   "colour_bn": ""
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "বই পৃষ্ঠা = pdf − 5। বইয়ে হাতে-কলমে পরীক্ষণ মাত্র ৩টি (পৃ. ২০০-২০৩): পরীক্ষণ-১ গ্যালভানিক কোষ, ২ NH₄Cl দ্রবীভূতকরণ, ৩ CaO + পানি। কোনো রঙ পরিবর্তন/অধঃক্ষেপ পরীক্ষা নেই। ফুয়েল সেলের কোনো সমীকরণ নেই। পৃ. ২০৩-২০৫ নমুনা প্রশ্ন (বিক্রিয়া: পেট্রোলিয়াম+O₂, Zn+CuCl₂ → ZnCl₂+Cu ইত্যাদি, এখানে অন্তর্ভুক্ত নয়)। বিষয় ৬ (কোষ, ব্যাটারি ও জ্বালানি)-এ নিউক্লিয়ার বিক্রিয়া বইয়ের ৮.৫ থেকে বরাদ্দ করা। পৃ. ১৭৫ বন্ধন শক্তি সারণি: C-H 414, C-Cl 326, C-C 344, C=C 615, N≡N 946, Br-Br 193, O-O 143, H-Cl 431, H-I 299, C=O 724, N-H 391, O-H 464, O=O 498, C≡C 812, Cl-Cl 244, I-I 151, H-H 436, H-Br 366, H-F 563, C-O 350 kJ/mol। ইলেকট্রোড সারণি পৃ. ১৯৩ (Li…Au)।"
+}

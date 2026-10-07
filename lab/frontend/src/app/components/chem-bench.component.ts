@@ -5,11 +5,13 @@ import { Router } from '@angular/router';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { CHEMICALS, PRESET_GROUPS, Chemical, getChem } from '../data/chemistry-lab-data';
 import {
-  Tool, Content, View, Explain, Phase, SimOpts, EMPTY_VIEW, evaluate, analyze, commitReaction, toMix, dispenseOf, toolsFor, findReactionAmong,
+  indicatorColorAtPH, Tool, Content, View, Explain, Phase, SimOpts, EMPTY_VIEW, evaluate, analyze, commitReaction, toMix, dispenseOf, toolsFor, findReactionAmong,
   SHELF_ORDER, Dispense, AMOUNT_SPEC, toNative, DROP_ML, unitOf, parseReactionText, defaultAmount,
 } from '../data/chem-bench-engine';
 import { HAZARD, MOLAR_MASS } from '../data/chem-bench-explain';
 import { bottleSvg, toolSvg, FLAME_SVG } from '../data/chem-bench-art';
+import { CHAPTERS, EXPERIMENTS, CARDS, BenchExperiment, InfoCard } from '../data/chem-curriculum-9-10';
+import { stepsFor, GStep } from '../data/chem-guide';
 import { SimulationService } from '../services/simulation.service';
 import { LabSessionService } from '../services/lab-session.service';
 import { I18nService } from '../services/i18n.service';
@@ -68,7 +70,7 @@ const TOOLS: { tool: Tool; bn: string; en: string; hintBn: string; hintEn: strin
       <!-- ============ Reagent shelves ============ -->
       <aside class="shelves">
         <div class="shelf-title">🧴 {{ i18n.isEn ? 'Reagent cabinet' : 'রাসায়নিক আলমারি' }}</div>
-        <div class="shelf-row" *ngFor="let cat of shelfOrder">
+        <div class="shelf-row" *ngFor="let cat of shelfCats()">
           <div class="shelf-label">{{ i18n.isEn ? cat.en : cat.bn }}</div>
           <div class="shelf-board">
             <button class="bottle" *ngFor="let c of byCat(cat.key)" [attr.data-chem]="c.id"
@@ -141,6 +143,7 @@ const TOOLS: { tool: Tool; bn: string; en: string; hintBn: string; hintEn: strin
                 ⚗️ {{ av.phase === 'reacting' ? (i18n.isEn ? 'Reacting…' : 'বিক্রিয়া চলছে…') : (i18n.isEn ? 'Start reaction' : 'বিক্রিয়া ঘটান') }}
               </button>
               <div class="temp-chip" *ngIf="av.contents.length">🌡️ {{ av.view.temp | number:'1.0-0' }}°C</div>
+              <div class="ph-chip" *ngIf="av.view.ph != null" [style.background]="phBg(av.view.ph)">pH {{ av.view.ph | number:'1.1-1' }}</div>
             </div>
             <div class="timebox" *ngIf="av.phase === 'reacting'">
               <div class="pbar"><div class="pfill" [style.width.%]="av.view.progress * 100"></div></div>
@@ -160,14 +163,69 @@ const TOOLS: { tool: Tool; bn: string; en: string; hintBn: string; hintEn: strin
           </ng-container>
         </div>
 
-        <div class="panel guided" *ngIf="mode === 'guided' && guidedSteps.length">
-          <h3>🧭 {{ i18n.t('step') }} {{ currentStep + 1 }} / {{ guidedSteps.length }}</h3>
-          <p>{{ i18n.isEn ? guidedSteps[currentStep].instruction_en : guidedSteps[currentStep].instruction_bn }}</p>
-          <p class="dim" *ngIf="guidedSteps[currentStep].hint_en">💡 {{ i18n.isEn ? guidedSteps[currentStep].hint_en : guidedSteps[currentStep].hint_bn }}</p>
-          <div class="nav">
-            <button class="ghost-btn" (click)="currentStep = currentStep - 1" [disabled]="currentStep === 0">‹</button>
-            <button class="ghost-btn" (click)="currentStep = currentStep + 1" [disabled]="currentStep === guidedSteps.length - 1">›</button>
-          </div>
+        <div class="panel course" *ngIf="mode === 'guided'">
+          <h3>🧭 {{ i18n.isEn ? 'Guided course — Class 9-10 textbook' : 'গাইডেড কোর্স — ৯ম-১০ম শ্রেণির বই' }}</h3>
+
+          <!-- choose chapter / topic -->
+          <ng-container *ngIf="!activeExp && !activeCard">
+            <label class="fld2">{{ i18n.isEn ? 'Chapter' : 'অধ্যায়' }}
+              <select [ngModel]="cChap" (ngModelChange)="setChap(+$event)">
+                <option [ngValue]="0">{{ i18n.isEn ? '— choose a chapter —' : '— অধ্যায় বেছে নিন —' }}</option>
+                <option *ngFor="let c of chapters" [ngValue]="c.no">{{ c.no }}. {{ c.bn }} ({{ chapCount(c.no) }})</option>
+              </select>
+            </label>
+            <div class="tchips" *ngIf="cChap">
+              <button class="chip" [class.on]="cTopic === 0" (click)="cTopic = 0">{{ i18n.isEn ? 'All' : 'সব' }}</button>
+              <button class="chip" *ngFor="let t of chapterTopics(); let i = index" [class.on]="cTopic === i + 1" (click)="cTopic = i + 1">{{ t }} <b>{{ topicCount(i + 1) }}</b></button>
+            </div>
+            <p class="dim" *ngIf="!cChap">{{ i18n.isEn ? 'Pick a chapter to see the experiments from the book, in order.' : 'বইয়ের পরীক্ষাগুলো ক্রমানুসারে দেখতে একটি অধ্যায় বেছে নিন।' }}</p>
+            <ul class="exps" *ngIf="cChap">
+              <li *ngFor="let e of expList()"><button (click)="startExperiment(e)">
+                <span class="ei">🧪</span><span class="et"><b>{{ e.titleBn }}</b><small>{{ i18n.isEn ? 'p.' : 'পৃ.' }} {{ e.page }} · {{ e.chapter }}.{{ e.topic }}{{ e.verified ? '' : (i18n.isEn ? ' · to verify' : ' · যাচাই বাকি') }}</small></span><span class="go">▶</span></button></li>
+              <li *ngFor="let c of cardList()"><button (click)="activeCard = c">
+                <span class="ei">📘</span><span class="et"><b>{{ c.titleBn }}</b><small>{{ i18n.isEn ? 'explanation card' : 'ব্যাখ্যা-কার্ড' }} · {{ i18n.isEn ? 'p.' : 'পৃ.' }} {{ c.page }}{{ c.verified ? '' : (i18n.isEn ? ' · to verify' : ' · যাচাই বাকি') }}</small></span><span class="go">›</span></button></li>
+            </ul>
+            <p class="dim" *ngIf="cChap && !expList().length && !cardList().length">{{ i18n.isEn ? 'The book has no experiment for this part.' : 'এই অংশে বইয়ে কোনো পরীক্ষা নেই।' }}</p>
+          </ng-container>
+
+          <!-- explanation card -->
+          <ng-container *ngIf="activeCard as c">
+            <h4 class="gt">📘 {{ c.titleBn }}</h4>
+            <div class="r-eq" *ngIf="c.equation">{{ c.equation }}</div>
+            <p *ngFor="let t of c.bodyBn">{{ t }}</p>
+            <p class="dim">{{ i18n.isEn ? 'Source: textbook p.' : 'সূত্র: পাঠ্যবই পৃ.' }} {{ c.page }}{{ c.verified ? '' : (i18n.isEn ? ' (not yet verified)' : ' (যাচাই বাকি)') }}</p>
+            <button class="ghost-btn" (click)="activeCard = null">← {{ i18n.isEn ? 'Back' : 'ফিরে যান' }}</button>
+          </ng-container>
+
+          <!-- running experiment -->
+          <ng-container *ngIf="activeExp as e">
+            <h4 class="gt">🧪 {{ e.titleBn }}</h4>
+            <p class="dim">{{ i18n.isEn ? 'Source: textbook p.' : 'সূত্র: পাঠ্যবই পৃ.' }} {{ e.page }}{{ e.verified ? '' : (i18n.isEn ? ' · not yet verified' : ' · যাচাই বাকি') }}</p>
+            <ol class="gsteps">
+              <li *ngFor="let st of gSteps; let i = index" [class.done]="i < gIdx || gDone" [class.cur]="i === gIdx && !gDone">
+                <span class="gdot">{{ (i < gIdx || gDone) ? '✓' : i + 1 }}</span>
+                <div class="gbody">
+                  <span>{{ st.bn }}</span>
+                  <ng-container *ngIf="i === gIdx && !gDone">
+                    <small class="ghint">💡 {{ st.hintBn }}</small>
+                    <div class="gbtns">
+                      <button class="mini" *ngIf="st.kind === 'info'" (click)="gAdvance()">▶ {{ i18n.isEn ? 'Start' : 'শুরু করি' }}</button>
+                      <button class="mini" *ngIf="st.kind === 'add' || st.kind === 'heat' || st.kind === 'filter'" (click)="gSetup()">✨ {{ i18n.isEn ? 'Set it up for me' : 'আমার জন্য সাজিয়ে দিন' }}</button>
+                      <button class="mini" *ngIf="st.kind === 'react'" [disabled]="busy" (click)="startReaction(vesselById(gVessel)!)">⚗️ {{ i18n.isEn ? 'React' : 'বিক্রিয়া ঘটান' }}</button>
+                      <button class="mini ok" *ngIf="st.kind === 'observe'" [disabled]="!observeReady()" (click)="gFinish()">✔ {{ observeReady() ? (i18n.isEn ? 'Understood' : 'বুঝেছি') : (e.needTemp ? (i18n.isEn ? 'keep heating…' : 'গরম করতে থাকুন… (এখন ' + (vesselById(gVessel)?.view?.temp | number:'1.0-0') + '°C)') : (i18n.isEn ? 'wait for it to finish…' : 'শেষ হওয়ার অপেক্ষা…')) }}</button>
+                    </div>
+                  </ng-container>
+                </div>
+              </li>
+            </ol>
+            <p class="gwarn" *ngIf="gMsg">⚠️ {{ gMsg }}</p>
+            <div class="gdone" *ngIf="gDone">
+              <b>🎉 {{ i18n.isEn ? 'Experiment complete!' : 'পরীক্ষা সম্পন্ন!' }}</b>
+              <p>{{ i18n.isEn ? 'Mistakes in this run' : 'এই পরীক্ষায় ভুল' }}: {{ gMistakes }}</p>
+              <button class="mini ok" *ngIf="nextExp()" (click)="startExperiment(nextExp()!)">▶ {{ i18n.isEn ? 'Next experiment' : 'পরের পরীক্ষা' }}</button>
+            </div>
+            <div class="gfoot"><button class="ghost-btn" (click)="startExperiment(e)">↺ {{ i18n.isEn ? 'Restart' : 'আবার শুরু' }}</button><button class="ghost-btn" (click)="exitExperiment()">✕ {{ i18n.isEn ? 'Exit' : 'বেরিয়ে আসুন' }}</button></div>
+          </ng-container>
         </div>
 
         <div class="panel presets" *ngIf="mode === 'guided'">
@@ -481,6 +539,29 @@ const TOOLS: { tool: Tool; bn: string; en: string; hintBn: string; hintEn: strin
     .v-empty:hover:not(:disabled) { background: #fdecea; }
     .v-empty:disabled { opacity: .5; }
     .tray-empty { float: right; background: #fff3f0; border-color: #e3b4ac; color: #a8321f; }
+    .course { border-color: #b8d9d1; }
+    .fld2 { display: flex; flex-direction: column; gap: 4px; font-size: .74rem; font-weight: 700; color: #6b7a84; text-transform: uppercase; }
+    .fld2 select { padding: 8px; border: 1px solid #cfd9dd; border-radius: 8px; font-size: .9rem; text-transform: none; color: #22323b; font-weight: 500; }
+    .tchips { display: flex; flex-wrap: wrap; gap: 5px; margin: 8px 0; }
+    .tchips .chip { font-size: .72rem; padding: 3px 9px; } .tchips .chip b { margin-left: 4px; opacity: .7; }
+    .exps { list-style: none; margin: 8px 0 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+    .exps button { width: 100%; display: flex; align-items: center; gap: 10px; text-align: left; background: #f7fbfa; border: 1px solid #dbe6e3; border-radius: 10px; padding: 8px 10px; cursor: pointer; font-family: inherit; }
+    .exps button:hover { border-color: #37c2b5; background: #eef9f7; }
+    .ei { font-size: 1.2rem; } .et { flex: 1; display: flex; flex-direction: column; } .et b { font-size: .84rem; } .et small { color: #6b7a84; font-size: .7rem; } .go { color: #1a6d5e; }
+    .gt { margin: 4px 0 2px; font-size: .95rem; color: #144f45; }
+    .gsteps { list-style: none; margin: 8px 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+    .gsteps li { display: flex; gap: 10px; padding: 7px 8px; border-radius: 10px; opacity: .55; font-size: .84rem; }
+    .gsteps li.cur { opacity: 1; background: #eef6f4; border: 1px solid #b8d9d1; } .gsteps li.done { opacity: .8; }
+    .gdot { flex: 0 0 24px; height: 24px; border-radius: 50%; background: #dbe8e4; display: grid; place-items: center; font-size: .74rem; font-weight: 800; color: #33454f; }
+    .done .gdot { background: #1a6d5e; color: #fff; } .cur .gdot { background: #37c2b5; color: #06231f; }
+    .gbody { display: flex; flex-direction: column; gap: 4px; flex: 1; }
+    .ghint { color: #55666f; font-size: .76rem; line-height: 1.4; }
+    .gbtns { display: flex; gap: 6px; flex-wrap: wrap; }
+    .mini { border: none; border-radius: 8px; padding: 5px 10px; font-size: .78rem; font-weight: 700; cursor: pointer; background: #1a6d5e; color: #fff; font-family: inherit; }
+    .mini.ok { background: #2e8b57; } .mini:disabled { opacity: .5; cursor: default; }
+    .gwarn { background: #fff6e6; border: 1px solid #f0c777; color: #7a4f00; padding: 6px 10px; border-radius: 8px; font-size: .8rem; margin: 6px 0; }
+    .gdone { background: #eaf8ef; border: 1px solid #a9dcb9; border-radius: 10px; padding: 10px 12px; margin: 8px 0; } .gdone p { margin: 4px 0 8px; }
+    .gfoot { display: flex; gap: 8px; margin-top: 8px; }
     .mode-btn.sec { border-color: #1a6d5e; color: #1a6d5e; font-weight: 600; }
     .mode-btn.sec.active { background: #1a6d5e; color: #fff; }
     .chip { background: #f2f6f5; border: 1px solid #d3dedb; border-radius: 999px; padding: 3px 10px; font-size: .75rem; cursor: pointer; color: #33454f; }
@@ -496,6 +577,7 @@ const TOOLS: { tool: Tool; bn: string; en: string; hintBn: string; hintEn: strin
     .react-btn { background: linear-gradient(#1f8a76, #1a6d5e); color: #fff; border: none; border-radius: 10px; padding: 10px 16px; font-size: .95rem; font-weight: 700; cursor: pointer; box-shadow: 0 3px 8px rgba(26,109,94,.3); }
     .react-btn.small { padding: 7px 12px; font-size: .85rem; }
     .react-btn:disabled { opacity: .5; cursor: default; box-shadow: none; }
+    .ph-chip { color: #fff; border-radius: 999px; padding: 3px 12px; font-size: .82rem; font-weight: 800; text-shadow: 0 1px 2px rgba(0,0,0,.35); }
     .temp-chip { background: #fff3dc; border: 1px solid #f0c777; color: #7a4f00; border-radius: 999px; padding: 3px 10px; font-size: .8rem; font-weight: 600; }
     .timebox { background: #f2f9f7; border: 1px solid #cfe3de; border-radius: 10px; padding: 8px 10px; margin-bottom: 8px; }
     .pbar { height: 8px; background: #dbe8e4; border-radius: 6px; overflow: hidden; }
@@ -596,6 +678,96 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
   private stepsLog: any[] = [];
   guidedSteps: { instruction_bn: string; instruction_en: string; hint_bn?: string; hint_en?: string }[] = [];
   currentStep = 0;
+
+  // ---- guided course (Class 9-10 textbook) ----
+  chapters = CHAPTERS;
+  cChap = 0; cTopic = 0;
+  activeExp: BenchExperiment | null = null;
+  activeCard: InfoCard | null = null;
+  gSteps: GStep[] = []; gIdx = 0; gDone = false; gSettled = false; gMistakes = 0; gMsg = '';
+  gVessel = 't1';
+  private gAdded: Record<string, number> = {};
+  chapterTopics(): string[] { return CHAPTERS.find(c => c.no === this.cChap)?.topics ?? []; }
+  setChap(n: number) { this.cChap = n; this.cTopic = 0; }
+  private inSel<T extends { chapter: number; topic: number }>(list: T[]): T[] {
+    return list.filter(x => x.chapter === this.cChap && (!this.cTopic || x.topic === this.cTopic)).sort((a, b) => a.topic - b.topic);
+  }
+  expList(): BenchExperiment[] { return this.inSel(EXPERIMENTS); }
+  cardList(): InfoCard[] { return this.inSel(CARDS); }
+  chapCount(no: number): string { const e = EXPERIMENTS.filter(x => x.chapter === no).length, c = CARDS.filter(x => x.chapter === no).length; return `${e}🧪 ${c}📘`; }
+  topicCount(t: number): number { return EXPERIMENTS.filter(x => x.chapter === this.cChap && x.topic === t).length + CARDS.filter(x => x.chapter === this.cChap && x.topic === t).length; }
+  vesselById(id: string): Vessel | undefined { return this.vessels.find(v => v.id === id); }
+  nextExp(): BenchExperiment | null {
+    if (!this.activeExp) return null;
+    const list = EXPERIMENTS.filter(x => x.chapter === this.activeExp!.chapter).sort((a, b) => a.topic - b.topic);
+    const i = list.findIndex(x => x.id === this.activeExp!.id);
+    return i >= 0 && i < list.length - 1 ? list[i + 1] : null;
+  }
+  async startExperiment(e: BenchExperiment) {
+    if (this.busy) return;
+    const vid = e.vessel || 't1';
+    const v = this.vesselById(vid)!;
+    if (v.contents.length || v.funnel || v.phase !== 'fresh' || v.heated || v.baseTemp > 26) { await this.wash(v); }
+    this.activeCard = null; this.activeExp = e; this.gVessel = vid; this.activeId = vid;
+    this.gSteps = stepsFor(e); this.gIdx = 0; this.gDone = false; this.gSettled = false; this.gMistakes = 0; this.gMsg = ''; this.gAdded = {};
+    this.log({ type: 'guide-start', exp: e.id }); this.cdr.detectChanges();
+  }
+  exitExperiment() { this.activeExp = null; this.gSteps = []; this.gMsg = ''; }
+  gAdvance() {
+    this.gMsg = ''; this.gIdx++;
+    // a later 'add' step may already be satisfied by what the student put in earlier
+    while (this.gSteps[this.gIdx]?.kind === 'add' && (this.gAdded[this.gSteps[this.gIdx].chem!] || 0) >= 0.8 * (this.gSteps[this.gIdx].need || 0)) this.gIdx++;
+    this.cdr.detectChanges();
+  }
+  gSetup() {
+    const st = this.gSteps[this.gIdx]; if (!st) return;
+    this.activeId = this.gVessel;
+    if (st.kind === 'add' && st.chem && st.tool) {
+      const c = getChem(st.chem)!; this.reagent = c; this.tool = st.tool;
+      const have = this.gAdded[st.chem] || 0;
+      const remain = Math.max(0.1, (st.need || 0) - have);
+      this.amtVal[st.tool] = st.tool === 'dropper' ? Math.max(1, Math.round(remain / 0.05)) : +remain.toFixed(1);
+    } else if (st.kind === 'heat') this.tool = 'burner';
+    else if (st.kind === 'filter') this.tool = 'funnel';
+    this.cdr.detectChanges();
+  }
+  private gWarn(msg: string) { this.gMsg = msg; this.gMistakes++; setTimeout(() => { if (this.gMsg === msg) { this.gMsg = ''; this.cdr.detectChanges(); } }, 6000); }
+  /** called by the bench actions; advances the guided step when the student did the right thing */
+  gEvent(kind: 'add' | 'heat' | 'react' | 'filter' | 'settled', d: { chem?: string; amount?: number; vessel?: string } = {}) {
+    if (!this.activeExp || this.gDone) return;
+    const st = this.gSteps[this.gIdx]; if (!st) return;
+    if (kind === 'settled') { this.gSettled = true; this.cdr.detectChanges(); return; }
+    if (kind === 'add') {
+      if (d.vessel !== this.gVessel) { this.gWarn(`এই পরীক্ষায় "${this.gVessel === 'b1' ? 'বীকার' : 'টেস্ট টিউব ১'}" ব্যবহার করুন — অন্য পাত্রে রাখলে ধাপ মিলবে না।`); return; }
+      this.gAdded[d.chem!] = (this.gAdded[d.chem!] || 0) + (d.amount || 0);
+      if (st.kind === 'add' && st.chem === d.chem) {
+        const need = st.need || 0, have = this.gAdded[d.chem!];
+        if (have >= 0.8 * need) { if (have > 1.6 * need) this.gWarn('প্রয়োজনের চেয়ে অনেক বেশি নিয়ে ফেলেছেন — পরিমাণ ঠিক রাখা জরুরি।'); this.gAdvance(); }
+        else this.gMsg = `আরও ${(need - have).toFixed(1)} ${getChem(d.chem!) ? unitOf(getChem(d.chem!)!) : ''} লাগবে।`;
+      } else if (!this.gSteps.some(x => x.kind === 'add' && x.chem === d.chem)) this.gWarn('এই রাসায়নিক এই পরীক্ষায় লাগে না।');
+      else if (st.kind === 'add') this.gWarn(`ক্রম মেনে চলুন — এখন "${getChem(st.chem!)?.nameBn}" নেওয়ার কথা।`);
+      return;
+    }
+    if (kind === 'react') {
+      if (st.kind === 'react') { this.gAdvance(); return; }
+      if (st.kind === 'add') this.gWarn('সব উপকরণ ঠিকমতো নেওয়ার আগেই বিক্রিয়া ঘটাতে গেছেন।');
+      return;
+    }
+    if (kind === 'heat' && st.kind === 'heat') this.gAdvance();
+    if (kind === 'filter' && st.kind === 'filter') this.gAdvance();
+  }
+  observeReady(): boolean {
+    const e = this.activeExp; if (!e) return false;
+    if (e.needTemp) return (this.vesselById(this.gVessel)?.view.temp ?? 0) >= e.needTemp - 2;
+    return e.noReact ? true : this.gSettled;
+  }
+  gFinish() {
+    if (!this.activeExp || !this.observeReady()) return;
+    this.gIdx = this.gSteps.length; this.gDone = true;
+    this.log({ type: 'guide-done', exp: this.activeExp.id, mistakes: this.gMistakes });
+    this.mistakes += this.gMistakes;
+    this.cdr.detectChanges();
+  }
   private htmlCache = new Map<string, SafeHtml>();
 
   private mk(id: string, kind: Vessel['kind'], nameBn: string, nameEn: string, cap: number): Vessel {
@@ -618,6 +790,7 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
   rowUnit(r: { chemId: string }): string { const c = getChem(r.chemId)!; return c.type === 'indicator' ? (this.i18n.isEn ? 'drops' : 'ফোঁটা') : unitOf(c); }
 
   // ---------- template helpers ----------
+  shelfCats() { return this.shelfOrder.filter(c => CHEMICALS.some(x => x.category === c.key)); }
   byCat(cat: string): Chemical[] { return CHEMICALS.filter(c => c.category === cat); }
   piece(n: number): number[] { return Array.from({ length: n }, (_, i) => i); }
   shortBn(c: Chemical): string { return c.nameBn.replace(/\(.*\)/, '').replace(' দ্রবণ', '').trim().split(' ').slice(0, 2).join(' '); }
@@ -643,6 +816,7 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
     });
     this.transferSrc = null; this.cdr.detectChanges();
   }
+  phBg(ph: number): string { return indicatorColorAtPH('UniversalIndicator', ph) || '#eee'; }
   disp(c: string): string { return this.nearClear(c) ? '#bfe6f7' : c; }
   toolHtml(t: Tool): SafeHtml { return this.cached('t' + t, () => toolSvg(t)); }
   private cached(key: string, f: () => string): SafeHtml {
@@ -718,7 +892,7 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
         if (v.kind === 'tube') { this.warn(en ? 'The funnel fits a beaker or conical flask.' : 'ফানেল বীকার বা কনিক্যাল ফ্লাস্কে বসে।'); return; }
         v.funnel = !v.funnel; if (!v.funnel) v.residue = null; this.cdr.detectChanges(); return;
       case 'burner':
-        v.heated = !v.heated; this.recompute(v); this.log({ type: v.heated ? 'heat-on' : 'heat-off', vessel: v.id }); return;
+        v.heated = !v.heated; this.recompute(v); this.log({ type: v.heated ? 'heat-on' : 'heat-off', vessel: v.id }); if (v.heated && v.id === this.gVessel) this.gEvent('heat'); return;
       case 'stir': return this.stir(v);
       case 'wash': return this.wash(v);
     }
@@ -742,6 +916,7 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
     if (v.phase === 'reacting' || this.busy) return;
     if (!v.contents.length) { this.warn(this.i18n.isEn ? 'The vessel is empty — add chemicals first.' : 'পাত্র খালি — আগে রাসায়নিক যোগ করুন।'); return; }
     this.activeId = v.id; v.phase = 'reacting'; v.t = 0; v.explain = null; v.lastLogged = '';
+    if (v.id === this.gVessel) { this.gSettled = false; this.gEvent('react', { vessel: v.id }); }
     this.log({ type: 'react-start', vessel: v.id, contents: v.contents.map(c => c.chemId ? { id: c.chemId, amount: c.amount } : { mix: true, amount: c.amount }) });
     this.recompute(v);
     if (v.view.done) this.settle(v);
@@ -755,6 +930,7 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
     v.baseTemp = Math.max(v.baseTemp, v.view.temp);
     v.phase = 'settled'; v.t = 0;
     this.recompute(v);
+    if (v.id === this.gVessel) this.gEvent('settled');
     if (ex && ex.kind !== 'reaction' && ex.kind !== 'indicator') this.mistakes++;
     if (ex) {
       const entry: NotebookEntry = { reactants: v.view.rows.length ? v.label : '', equation: ex.equation || ex.title, observation: `${ex.what.join(' ')} ${ex.why[0] ?? ''}`.trim(), time: new Date().toLocaleString('bn-BD') };
@@ -818,7 +994,7 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
     if (v.funnel) { this.warn(en ? 'Remove the funnel first — add reagents to the vessel directly, or use Transfer to filter.' : 'আগে ফানেল সরান — সরাসরি রাসায়নিক যোগ করুন, অথবা ছাঁকতে "এক পাত্র থেকে ঢালা" ব্যবহার করুন।'); return; }
     const liquid = d === 'bottle' || d === 'indicator';
     if (liquid && v.view.liquidAmount + amt > v.cap) { this.warn(en ? `This vessel would overflow! It holds ${v.cap} mL — ${v.view.liquidAmount.toFixed(1)} mL already inside.` : `পাত্রটি উপচে পড়বে! এর ধারণক্ষমতা ${v.cap} mL — ভেতরে আছে ${v.view.liquidAmount.toFixed(1)} mL।`); this.mistakes++; return; }
-    if (!liquid && v.contents.filter(c => c.chemId === chem.id).reduce((s, c) => s + c.amount, 0) + amt > 8) { this.warn(en ? 'That is already a lot of solid for this vessel.' : 'এই পাত্রে কঠিন পদার্থ ইতিমধ্যে অনেক হয়েছে।'); return; }
+    if (!liquid && v.contents.filter(c => c.chemId === chem.id).reduce((s, c) => s + c.amount, 0) + amt > 12) { this.warn(en ? 'That is already a lot of solid for this vessel.' : 'এই পাত্রে কঠিন পদার্থ ইতিমধ্যে অনেক হয়েছে।'); return; }
     if (v.phase === 'settled') v.phase = 'fresh';
 
     this.busy = true; this.liftedId = chem.id; this.cdr.detectChanges();
@@ -830,6 +1006,7 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
     const col = this.liquidColorOf(chem);
     const land = () => {
       this.addContent(v, { chemId: chem.id, amount: amt }); this.bump(v, 'splash');
+      this.gEvent('add', { chem: chem.id, amount: amt, vessel: v.id });
       const hz = HAZARD[chem.id];
       if (hz && hz.level >= 2 && !this.hazardSeen.has(chem.id)) { this.hazardSeen.add(chem.id); this.warn('☠️ ' + hz.bn); }
     };
@@ -950,6 +1127,7 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
       await this.move(se, [{ transform: up }, { transform: home }], 520);
       se.style.zIndex = ''; se.style.transform = ''; se.getAnimations().forEach(x => x.cancel());
       this.activeId = dst.id; this.log({ type: filtering ? 'filter' : 'transfer', from: src.id, to: dst.id });
+      if (filtering) this.gEvent('filter');
     } finally { this.busy = false; this.cdr.detectChanges(); }
   }
 

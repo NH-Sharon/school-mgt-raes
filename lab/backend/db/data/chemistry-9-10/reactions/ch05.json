@@ -1,0 +1,866 @@
+{
+ "chapter": 5,
+ "pdf_pages": [
+  87,
+  113
+ ],
+ "experiments": [
+  {
+   "id": "c5-e1",
+   "topic_title_bn": "যোজনী ও আয়ন গঠন",
+   "title_bn": "ক্লোরাইড আয়ন (Cl⁻) গঠন",
+   "book_page": 94,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন পরমাণু",
+     "formula": "Cl",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "ion"
+    }
+   ],
+   "equation": "Cl + e⁻ → Cl⁻",
+   "conditions": "পরমাণু-স্তরের ধারণা; বইয়ে কোনো পরীক্ষা নেই",
+   "observations_bn": "ক্লোরিন পরমাণু একটি ইলেকট্রন গ্রহণ করে আর্গনের ইলেকট্রন বিন্যাস লাভ করে (চিত্র ৫.০৫)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e2",
+   "topic_title_bn": "যোজনী ও আয়ন গঠন",
+   "title_bn": "সোডিয়াম পরমাণু থেকে Na⁺ গঠন",
+   "book_page": 93,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম পরমাণু",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্যাটায়ন",
+     "formula": "Na⁺",
+     "state": "ion"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": ""
+    }
+   ],
+   "equation": "Na → Na⁺ + e⁻",
+   "conditions": "পরমাণু-স্তরের ধারণা",
+   "observations_bn": "Na সর্বশেষ শক্তিস্তরের একটি ইলেকট্রন ত্যাগ করে নিষ্ক্রিয় গ্যাস Ne-এর মতো বিন্যাস পায় (চিত্র ৫.০৪; সমীকরণ পৃ.৯৫)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e3",
+   "topic_title_bn": "যোজনী ও আয়ন গঠন",
+   "title_bn": "Li⁺ গঠন (চিত্র ৫.০৩)",
+   "book_page": 93,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম পরমাণু",
+     "formula": "Li",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম ক্যাটায়ন",
+     "formula": "Li⁺",
+     "state": "ion"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": ""
+    }
+   ],
+   "equation": "Li → Li⁺ + e⁻",
+   "conditions": "পরমাণু-স্তরের ধারণা",
+   "observations_bn": "লিথিয়াম একটি ইলেকট্রন ছেড়ে হিলিয়ামের মতো বিন্যাস পায় (সমীকরণ বইয়ে শুধু চিত্রে; এখানে চিত্র থেকে লেখা)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "c5-e4",
+   "topic_title_bn": "আয়নিক বন্ধন",
+   "title_bn": "NaCl গঠন (আয়নিক বন্ধন)",
+   "book_page": 95,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "Na → Na⁺ + e⁻ ; Cl + e⁻ → Cl⁻ ; Na + Cl → Na⁺ + Cl⁻ = NaCl",
+   "conditions": "বইয়ে পরমাণু ভিত্তিক ব্যাখ্যা (চিত্র ৫.০৬); ল্যাবে সরাসরি সংযোজন (card)",
+   "observations_bn": "Na⁺ ও Cl⁻ স্থির তড়িৎ আকর্ষণে আবদ্ধ হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e5",
+   "topic_title_bn": "আয়নিক বন্ধন",
+   "title_bn": "MgO গঠন (আয়নিক বন্ধন)",
+   "book_page": 95,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+     "formula": "MgO",
+     "state": "solid"
+    }
+   ],
+   "equation": "Mg → Mg²⁺ + 2e⁻ ; O + 2e⁻ → O²⁻",
+   "conditions": "বইয়ে পরমাণু ভিত্তিক ব্যাখ্যা (চিত্র ৫.০৭); বাস্তবে বাতাসে দহন (card)",
+   "observations_bn": "Mg 2টি ইলেকট্রন ত্যাগ করে Mg²⁺, O ঐ 2টি গ্রহণ করে O²⁻; MgO আয়নিক যৌগ (পৃ.৯৫-৯৬)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e6",
+   "topic_title_bn": "আয়নিক বন্ধন",
+   "title_bn": "NaH গঠন",
+   "book_page": 96,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রাইড",
+     "formula": "NaH",
+     "state": "solid"
+    }
+   ],
+   "equation": "Na → Na⁺ + e⁻ ; H + e⁻ → H⁻",
+   "conditions": "পরমাণু-স্তরের ব্যাখ্যা",
+   "observations_bn": "Na⁺ ও H⁻ এর মধ্যে আয়নিক বন্ধন",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e7",
+   "topic_title_bn": "আয়নিক বন্ধন",
+   "title_bn": "CaO গঠন",
+   "book_page": 96,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ca → Ca²⁺ + 2e⁻ ; O + 2e⁻ → O²⁻",
+   "conditions": "পরমাণু-স্তরের ব্যাখ্যা",
+   "observations_bn": "Ca²⁺ ও O²⁻ এর মধ্যে আয়নিক বন্ধন",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e8",
+   "topic_title_bn": "সমযোজী বন্ধন",
+   "title_bn": "Cl₂ অণুতে সমযোজী বন্ধন",
+   "book_page": 97,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন পরমাণু",
+     "formula": "Cl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিন অণু",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Cl + Cl → Cl–Cl (Cl₂)",
+   "conditions": "বইয়ে সমীকরণ নেই; বর্ণনা (পৃ.৯৭)",
+   "observations_bn": "দুটি Cl একটি করে ইলেকট্রন শেয়ার করে, প্রত্যেকে অষ্টক পূর্ণ করে",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "c5-e9",
+   "topic_title_bn": "সমযোজী বন্ধন",
+   "title_bn": "H₂ অণুতে সমযোজী বন্ধন",
+   "book_page": 98,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন পরমাণু",
+     "formula": "H",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন অণু",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "H· + ·H → H··H",
+   "conditions": "পরমাণু-স্তর (চিত্র ৫.০৮)",
+   "observations_bn": "দুটি H একটি করে ইলেকট্রন শেয়ার করে 2টি ইলেকট্রনের বিন্যাস পায়; H–H বন্ধন",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e10",
+   "topic_title_bn": "সমযোজী বন্ধন",
+   "title_bn": "O₂ অণুতে সমযোজী বন্ধন",
+   "book_page": 99,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "অক্সিজেন পরমাণু",
+     "formula": "O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সিজেন অণু",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "O + O → O=O (O₂)",
+   "conditions": "পরমাণু-স্তর (চিত্র ৫.০৯)",
+   "observations_bn": "দুটি করে ইলেকট্রন শেয়ার; দ্বিবন্ধন O=O",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e11",
+   "topic_title_bn": "সমযোজী বন্ধন",
+   "title_bn": "পানির অণুতে (O–H) সমযোজী বন্ধন",
+   "book_page": 99,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2H + O → H₂O (H–O–H)",
+   "conditions": "চিত্র ৫.১০; সমীকরণ চিত্রে 2H + O",
+   "observations_bn": "দুটি O–H সমযোজী বন্ধন; O এর 2 জোড়া ইলেকট্রন বন্ধন গঠন করেনি",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e12",
+   "topic_title_bn": "আয়নিক ও সমযোজী যৌগের ধর্ম",
+   "title_bn": "গলনাঙ্ক ও স্ফুটনাঙ্কের তুলনা (আয়নিক বনাম সমযোজী)",
+   "book_page": 100,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পটাশিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "চিনি",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "বইয়ে তাপমাত্রা বা বিস্তারিত পদ্ধতি নেই; আয়নিক যৌগ গলাতে বেশি তাপ লাগে (অতএব জোরালো তাপ = card)",
+   "observations_bn": "সব পরীক্ষায় আয়নিক যৌগের গলনাঙ্ক ও স্ফুটনাঙ্ক সমযোজী যৌগের চেয়ে অনেক বেশি",
+   "materials_bn": [
+    "NaCl",
+    "CuSO₄",
+    "NaNO₃",
+    "KCl",
+    "CaCl₂",
+    "গ্লুকোজ",
+    "চিনি",
+    "পানি (সমযোজী যৌগ হিসেবে স্ফুটনাঙ্কের জন্য)"
+   ],
+   "procedure_bn": [
+    "আয়নিক ও সমযোজী যৌগ আলাদাভাবে তাপ দিয়ে গলনাঙ্ক/স্ফুটনাঙ্ক তুলনা করা (বইয়ের বর্ণনা, ধাপ উল্লেখ নেই)"
+   ],
+   "safety_bn": "জোরালো তাপ প্রয়োজন",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e13",
+   "topic_title_bn": "আয়নিক ও সমযোজী যৌগের ধর্ম",
+   "title_bn": "দ্রাব্যতা পরীক্ষা (আয়নিক ও সমযোজী যৌগ)",
+   "book_page": 101,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "খাদ্য লবণ",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কাপড় কাচা সোডা",
+     "formula": "Na₂CO₃·10H₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "তুঁতে",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ন্যাপথালিন",
+     "formula": "C₁₀H₈",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সরিষার তেল",
+     "formula": "",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "কেরোসিন",
+     "formula": "",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "কক্ষ তাপমাত্রা; নির্দিষ্ট পরিমাণ পানিতে নাড়ানো",
+   "observations_bn": "NaCl, Na₂CO₃·10H₂O, CuSO₄·5H₂O পানিতে দ্রবীভূত হয়; সিলভার ক্লোরাইড (আয়নিক) দ্রবীভূত হয় না; ন্যাপথালিন, সরিষার তেল, কেরোসিন দ্রবীভূত হয় না; গ্লুকোজ, চিনি, অ্যালকোহল দ্রবীভূত হয় (পৃ.১০১)",
+   "materials_bn": [
+    "বিকার/কাচের পাত্র",
+    "পানি",
+    "খাদ্য লবণ",
+    "কাপড় কাচা সোডা",
+    "তুঁতে",
+    "ন্যাপথালিন",
+    "সরিষার তেল",
+    "কেরোসিন"
+   ],
+   "procedure_bn": [
+    "বিকারে নির্দিষ্ট পরিমাণ পানি নাও",
+    "খাদ্য লবণ যোগ করে নাড়ো, দ্রবীভূত হয় কিনা দেখো",
+    "একইভাবে কাপড় কাচা সোডা, তুঁতে ও অন্যান্য আয়নিক যৌগ পরীক্ষা করো",
+    "ন্যাপথালিন, সরিষার তেল, কেরোসিন দিয়ে একইভাবে পরীক্ষা করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e14",
+   "topic_title_bn": "আয়নিক ও সমযোজী যৌগের ধর্ম",
+   "title_bn": "জলীয় দ্রবণের বিদ্যুৎ পরিবাহিতা (চিত্র ৫.১২)",
+   "book_page": 102,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "খাদ্য লবণ",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "চিনি",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "কক্ষ তাপমাত্রা; ব্যাটারি ও বাল্বসহ বর্তনী",
+   "observations_bn": "খাদ্য লবণের দ্রবণে বাল্ব জ্বলে; চিনির দ্রবণে বাল্ব জ্বলে না। আয়নিক যৌগের জলীয় দ্রবণ বিদ্যুৎ পরিবহন করে, সমযোজী যৌগের করে না (পৃ.১০২-১০৩)",
+   "materials_bn": [
+    "দুটি বিকার",
+    "খাদ্য লবণ",
+    "চিনি",
+    "পানি",
+    "দুটি গ্রাফাইট দণ্ড বা ধাতব দণ্ড",
+    "ব্যাটারি",
+    "বাল্ব",
+    "তার"
+   ],
+   "procedure_bn": [
+    "একটি বিকারে খাদ্য লবণের জলীয় দ্রবণ, অন্যটিতে চিনির জলীয় দ্রবণ নাও",
+    "উভয়ে ইলেকট্রোড হিসেবে দুটি গ্রাফাইট বা ধাতব দণ্ড ডুবাও",
+    "চিত্রের মতো ব্যাটারি ও বাল্ব যুক্ত করে বর্তনী পূর্ণ করো",
+    "পর্যবেক্ষণ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e15",
+   "topic_title_bn": "আয়নিক ও সমযোজী যৌগের ধর্ম",
+   "title_bn": "কেলাস গঠন (দলীয় কাজ)",
+   "book_page": 103,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "খাদ্য লবণ",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "চিনি",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লবণের কেলাস",
+     "formula": "NaCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "চিনির কেলাস",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "অল্প তাপ; কয়েক দিন রাখা",
+   "observations_bn": "সুতার গায়ে লবণ ও চিনির কেলাস জমা হয়। সাধারণত সকল আয়নিক যৌগ কেলাস আকারে থাকে; কিছু সমযোজী যৌগ (যেমন চিনি) কেলাস তৈরি করে, বেশিরভাগ করে না",
+   "materials_bn": [
+    "দুটি বিকার",
+    "খাদ্য লবণ",
+    "চিনি",
+    "পানি",
+    "সুতা"
+   ],
+   "procedure_bn": [
+    "প্রতি দল দুটি বিকার নাও; একটিতে খাদ্য লবণ, অন্যটিতে খানিকটা চিনি নাও",
+    "পানি যোগ করো; অল্প তাপ দিয়ে যতটুকু সম্ভব দ্রবীভূত করো",
+    "প্রতিটি দ্রবণের মাঝখানে একটা সুতা ঝুলিয়ে কয়েক দিন রেখে দাও",
+    "সুতা তুলে কেলাস দেখো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e16",
+   "topic_title_bn": "ধাতব বন্ধন",
+   "title_bn": "ধাতুর বিদ্যুৎ পরিবাহিতা (ধাতব বন্ধন, তাত্ত্বিক)",
+   "book_page": 105,
+   "type": "card",
+   "reactants": [],
+   "products": [],
+   "equation": "",
+   "conditions": "ধাতব খণ্ডের দুই প্রান্তে ব্যাটারি (চিত্র ৫.১৫); বইয়ে কোনো সাজানো পরীক্ষা নেই",
+   "observations_bn": "সঞ্চরণশীল ইলেকট্রন ঋণাত্মক থেকে ধনাত্মক প্রান্তে প্রবাহিত হয়ে বিদ্যুৎ পরিবহন করে",
+   "materials_bn": [
+    "ধাতব খণ্ড",
+    "ব্যাটারি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e17",
+   "topic_title_bn": "ধাতব বন্ধন",
+   "title_bn": "ধাতুর তাপ পরিবাহিতা (ধাতব বন্ধন)",
+   "book_page": 105,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ধাতব পাত",
+     "formula": "",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "পাতের এক প্রান্ত আগুনের উপর উত্তপ্ত করা",
+   "observations_bn": "অপর প্রান্ত দ্রুত গরম হয়, অর্থাৎ ধাতু তাপ পরিবাহী",
+   "materials_bn": [
+    "ধাতব পাত",
+    "আগুন"
+   ],
+   "procedure_bn": [
+    "এক খণ্ড ধাতব পাতের এক প্রান্ত আগুনের উপর রেখে উত্তপ্ত করো",
+    "অপর প্রান্ত লক্ষ করো"
+   ],
+   "safety_bn": "আগুনে তাপ দেওয়া হয়",
+   "confidence": "read"
+  },
+  {
+   "id": "c5-e18",
+   "topic_title_bn": "আয়নিক ও সমযোজী যৌগের ধর্ম",
+   "title_bn": "স্থানীয় দ্রব্যে আয়নিক ও সমযোজী যৌগ শনাক্তকরণ (একক কাজ)",
+   "book_page": 106,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "খাদ্য লবণ",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কর্পূর",
+     "formula": "",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ন্যাপথালিন",
+     "formula": "C₁₀H₈",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কাপড় কাচা সোডা",
+     "formula": "Na₂CO₃·10H₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "কক্ষ তাপমাত্রা; কাচ দণ্ড দিয়ে মেশানো",
+   "observations_bn": "যেগুলো পানিতে দ্রবীভূত হলো সেগুলো আয়নিক যৌগ, যেগুলো হলো না সেগুলো সমযোজী যৌগ (বইয়ের নির্দেশ)",
+   "materials_bn": [
+    "বিকার",
+    "পানি",
+    "কাচ দণ্ড",
+    "খাদ্য লবণ",
+    "কর্পূর",
+    "ন্যাপথালিন",
+    "কাপড় কাচা সোডা"
+   ],
+   "procedure_bn": [
+    "খাদ্য লবণ, কর্পূর, ন্যাপথালিন, কাপড় কাচা সোডা আলাদাভাবে ভিন্ন ভিন্ন বিকারে রক্ষিত পানিতে নাও",
+    "কাচ দণ্ড দিয়ে ভালোভাবে মেশাও",
+    "দ্রবণীয়তার ভিত্তিতে আয়নিক ও সমযোজী ভাগ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "chemicals_mentioned": [
+  {
+   "name_bn": "সোডিয়াম ক্লোরাইড (খাদ্য লবণ)",
+   "formula": "NaCl",
+   "state": "solid",
+   "colour_bn": "বইয়ে উল্লেখ নেই"
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+   "formula": "MgO",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম অক্সাইড",
+   "formula": "CaO",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম হাইড্রাইড",
+   "formula": "NaH",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কপার সালফেট (তুঁতে)",
+   "formula": "CuSO₄·5H₂O",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কাপড় কাচা সোডা",
+   "formula": "Na₂CO₃·10H₂O",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সিলভার ক্লোরাইড",
+   "formula": "AgCl",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম নাইট্রেট",
+   "formula": "NaNO₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "পটাশিয়াম ক্লোরাইড",
+   "formula": "KCl",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+   "formula": "CaCl₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "চিনি",
+   "formula": "C₁₂H₂₂O₁₁",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "গ্লুকোজ",
+   "formula": "C₆H₁₂O₆",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ন্যাপথালিন",
+   "formula": "C₁₀H₈",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কর্পূর",
+   "formula": "",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ইথানল",
+   "formula": "C₂H₅OH",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "মিথানল",
+   "formula": "CH₃OH",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "মিথেন",
+   "formula": "CH₄",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "পানি",
+   "formula": "H₂O",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সরিষার তেল",
+   "formula": "",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কেরোসিন",
+   "formula": "",
+   "state": "liquid",
+   "colour_bn": ""
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "PDF page = book page + 5 (verified). Chapter text is largely theory; reactions are atom/ion-level electron-transfer or electron-sharing equations (no hands-on prep). Hands-on activities: solubility (p101), conductivity (p102), crystal formation (p103), local-substance identification (p106). Melting/boiling-point comparison (p100) and metal conductivity (p105) have no detailed procedure; typed card. No colours stated in the book for compounds. Book's actual section numbering (5.1-5.13) differs from the 6 supplied topics; items mapped to nearest topic. Reaction equations for Li⁺ and Cl₂ are inferred from figure/text (marked)."
+}

@@ -1,0 +1,2135 @@
+{
+ "chapter": 9,
+ "pdf_pages": [
+  211,
+  237
+ ],
+ "experiments": [
+  {
+   "id": "c9-e1",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "শক্তিশালী এসিড HCl ও H₂SO₄ এর জলীয় দ্রবণে সম্পূর্ণ বিয়োজন (→ একমুখী তির)",
+   "book_page": 208,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "HCl(aq) → H⁺(aq) + Cl⁻(aq); H₂SO₄(aq) → 2H⁺(aq) + SO₄²⁻(aq)",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "একমুখী তির অর্থ পানিতে সম্পূর্ণ (100%) বিয়োজন; তাই তীব্র এসিড। নীল লিটমাস পেপার লাল হয় (তেঁতুল/এসিড দ্রবণ)।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e2",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "মৃদু এসিড H₂CO₃ ও CH₃COOH এর আংশিক বিয়োজন (⇌ উভমুখী তির)",
+   "book_page": 208,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বনেট আয়ন",
+     "formula": "CO₃²⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂CO₃(aq) ⇌ 2H⁺(aq) + CO₃²⁻(aq); CH₃COOH(aq) ⇌ H⁺(aq) + CH₃COO⁻(aq)",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "আংশিক বিয়োজন। বইয়ের উদাহরণ: 25°C এ 1000টি CH₃COOH অণুর মধ্যে মাত্র 4টি বিয়োজিত হয়, 996টি অবিয়োজিত থাকে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e3",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "ধাতব অক্সাইড (CaO) + HCl",
+   "book_page": 208,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CaO + 2HCl → CaCl₂ + H₂O",
+   "conditions": "",
+   "observations_bn": "এসিড ধাতব অক্সাইডের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e4",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "সক্রিয় ধাতু সোডিয়াম + HCl",
+   "book_page": 209,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন গ্যাস",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Na + 2HCl → 2NaCl + H₂↑",
+   "conditions": "",
+   "observations_bn": "বইয়ে শুধু সমীকরণ আছে (ধাতু + এসিড → লবণ + H₂)।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "সোডিয়াম অতি বিক্রিয়াশীল; ল্যাবে বিপজ্জনক (বইয়ে উল্লেখ নেই, শুধু কার্ড হিসেবে দেখানো উচিত)",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e5",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "লিটমাস পরীক্ষা: এসিড নীল লিটমাসকে লাল করে",
+   "book_page": 209,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "লঘু হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "নীল লিটমাস কাগজ",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "নীল লিটমাস কাগজ লাল বর্ণে পরিণত হয়। H₂SO₄, HNO₃ বা অন্য যেকোনো এসিডেও একই; তেঁতুল বা আচারের পানিতে ভেজা নীল লিটমাসও লাল হয়।",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "লঘু HCl 2-3 mL",
+    "নীল লিটমাস কাগজের টুকরা"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে 2-3 mL লঘু HCl নাও",
+    "এতে এক টুকরা নীল লিটমাস কাগজ যোগ করো",
+    "বর্ণের পরিবর্তন দেখো"
+   ],
+   "safety_bn": "ল্যাবে এসিডের স্বাদ নেওয়া যাবে না (জিহ্বায় ক্ষত হয়)।",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e6",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "Mg + লঘু H₂SO₄",
+   "book_page": 210,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম সালফেট",
+     "formula": "MgSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন গ্যাস",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mg + H₂SO₄ → MgSO₄ + H₂↑",
+   "conditions": "",
+   "observations_bn": "সক্রিয় ধাতু (K, Na, Mg ইত্যাদি) এসিডের সাথে লবণ ও H₂ গ্যাস উৎপন্ন করে। (লোহার পাত এসিডে রাখলে পৃষ্ঠ ক্ষয়ে ঝাঁজরা হয় - ক্ষয়কারী ধর্ম, p.209)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e7",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "CaCO₃ + লঘু HCl",
+   "book_page": 210,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑",
+   "conditions": "",
+   "observations_bn": "CO₂ গ্যাস বুদবুদ আকারে বেরিয়ে আসে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e8",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "চুনের পানিতে CO₂ চালনা (ঘোলা হওয়া)",
+   "book_page": 210,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "চুনের পানি",
+     "formula": "Ca(OH)₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O",
+   "conditions": "",
+   "observations_bn": "চুনের পানি প্রথমে ঘোলা হয় (অদ্রবণীয় CaCO₃)।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e9",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "অতিরিক্ত CO₂ চালনায় ঘোলা চুনের পানি আবার স্বচ্ছ",
+   "book_page": 210,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম বাইকার্বনেট",
+     "formula": "Ca(HCO₃)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CaCO₃ + CO₂ + H₂O → Ca(HCO₃)₂",
+   "conditions": "",
+   "observations_bn": "দ্রবণীয় Ca(HCO₃)₂ উৎপন্ন হওয়ায় ঘোলা চুনের পানি স্বচ্ছ হয়ে যায়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e10",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "কার্বনেট + লঘু H₂SO₄ / HNO₃",
+   "book_page": 210,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Na₂CO₃ + H₂SO₄ → Na₂SO₄ + H₂O + CO₂↑; CaCO₃ + 2HNO₃ → Ca(NO₃)₂ + H₂O + CO₂↑",
+   "conditions": "",
+   "observations_bn": "ধাতব কার্বনেট লঘু এসিডের সাথে একই ধরনের বিক্রিয়ায় লবণ, পানি ও CO₂ দেয়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e11",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "বাইকার্বনেট + লঘু এসিড",
+   "book_page": 211,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম বাইকার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaHCO₃ + H₂SO₄ → Na₂SO₄ + 2H₂O + 2CO₂↑; Ca(HCO₃)₂ + 2HCl → CaCl₂ + 2H₂O + 2CO₂↑; NaHCO₃ + HNO₃ → NaNO₃ + H₂O + CO₂↑",
+   "conditions": "",
+   "observations_bn": "লবণ, পানি ও CO₂ উৎপন্ন হয়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e12",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "ধাতব অক্সাইড + এসিড: CuO + H₂SO₄ / CaO + HNO₃",
+   "book_page": 211,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "কপার (II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂SO₄ + CuO → CuSO₄ + H₂O; 2HNO₃ + CaO → Ca(NO₃)₂ + H₂O",
+   "conditions": "",
+   "observations_bn": "লবণ ও পানি উৎপন্ন হয়; ধাতব অক্সাইড ক্ষারীয়, তাই প্রশমন প্রকৃতির বিক্রিয়া। (বইয়ে তাপ উল্লেখ নেই)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e13",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "সাইট্রিক এসিডের আংশিক বিয়োজন ও HCl এর সম্পূর্ণ আয়নন",
+   "book_page": 212,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সাইট্রিক এসিড",
+     "formula": "—",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সাইট্রেট আয়ন",
+     "formula": "—",
+     "state": "solution"
+    }
+   ],
+   "equation": "সাইট্রিক এসিড (aq) → H⁺(aq) + সাইট্রেট আয়ন; HCl(aq) → H⁺(aq) + Cl⁻(aq)",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "বইয়ে সাইট্রিক এসিডের সংকেত দেওয়া নেই। অনার্দ্র অক্সালিক এসিডের দানায় নীল লিটমাস রঙ বদলায় না (H⁺ নেই); পানিতে দ্রবীভূত করলে লাল হয়। বিশুদ্ধ H₂SO₄ ও HNO₃ (অণু অবস্থায়) এসিডধর্ম দেখায় না, বিদ্যুৎও পরিবহণ করে না; পানিতে দ্রবীভূত করলেই করে। (বইয়ে 'H₂SO₄(aq) → 2H⁻ + SO₄²⁻' ছাপা আছে, সম্ভবত মুদ্রণ ভুল H⁺)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "c9-e14",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "গাঢ় HCl: HCl গ্যাস পানিতে দ্রবীভূতকরণ",
+   "book_page": 213,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড গ্যাস",
+     "formula": "HCl",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গাঢ় হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "HCl(g) + H₂O(l) → HCl(aq)",
+   "conditions": "",
+   "observations_bn": "গাঢ় HCl এর বোতলের মুখ খুললে হালকা কুয়াশার মতো সৃষ্টি হয় ও তীব্র ঝাঁঝালো গন্ধ পাওয়া যায়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "গাঢ় HCl খোলার আগে নাকে-মুখে মাস্ক, চোখে নিরাপদ চশমা, হাতে গ্লাভস, শরীরে অ্যাপ্রোন পরতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e15",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "গাঢ় HNO₃ তৈরি: NO₂ + H₂O",
+   "book_page": 213,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "3NO₂ + H₂O → 2HNO₃ + NO",
+   "conditions": "",
+   "observations_bn": "গাঢ় HNO₃ এর বোতলের মুখ খুললে হালকা কুয়াশার মতো গ্যাস বের হয় ও তীব্র ঝাঁঝালো গন্ধ। আলোতে ভেঙে যায় বলে বাদামি বোতলে রাখা হয়; কাচের বোতলের বর্ণ বাদামি।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "NO₂ বিষাক্ত গ্যাস; গাঢ় HNO₃ ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e16",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "গাঢ় H₂SO₄ তৈরি: SO₃ + H₂O",
+   "book_page": 213,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₃ + H₂O → H₂SO₄",
+   "conditions": "",
+   "observations_bn": "কম পানিতে অধিক SO₃ দ্রবীভূত করে গাঢ় H₂SO₄ তৈরি হয়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "গাঢ় এসিড হাতে, মুখে, চোখে পড়লে ক্ষত হয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e17",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "ক্ষারক + এসিড: CaO + HCl, KOH + H₂SO₄, NH₄OH + HCl",
+   "book_page": 214,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CaO + 2HCl → CaCl₂ + H₂O; 2KOH + H₂SO₄ → K₂SO₄ + 2H₂O; NH₄OH + HCl → NH₄Cl + H₂O",
+   "conditions": "",
+   "observations_bn": "ক্ষারক এসিডের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে (এসিড-ক্ষারক প্রশমন)।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e18",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "লিটমাস পরীক্ষা: ক্ষার দ্রবণ শুধু লাল লিটমাসকে নীল করে",
+   "book_page": 215,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "লঘু সোডিয়াম হাইড্রোক্সাইড দ্রবণ",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লাল লিটমাস কাগজ",
+     "formula": "—",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নীল লিটমাস কাগজ",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "লাল লিটমাস কাগজ নীল হয়; নীল লিটমাস কাগজ নীলই থাকে। পিচ্ছিল অনুভূতি (ক্ষার দ্রবণ পিচ্ছিল)।",
+   "materials_bn": [
+    "দুটি টেস্টটিউব",
+    "লঘু NaOH দ্রবণ",
+    "লাল লিটমাস কাগজ",
+    "নীল লিটমাস কাগজ"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে সামান্য লঘু NaOH নাও; লাল লিটমাসের টুকরা যোগ করো",
+    "অন্য টেস্টটিউবে সামান্য লঘু NaOH নিয়ে নীল লিটমাস কাগজ প্রবেশ করাও"
+   ],
+   "safety_bn": "ক্ষার ত্বকের ক্ষতি করে; গাঢ় ক্ষার সাবধানে ব্যবহার করতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e19",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "Al(NO₃)₃ দ্রবণ + লঘু NaOH",
+   "book_page": 215,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম নাইট্রেট দ্রবণ",
+     "formula": "Al(NO₃)₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রোক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Al(NO₃)₃ + 3NaOH → Al(OH)₃↓ + 3NaNO₃",
+   "conditions": "",
+   "observations_bn": "সাদা বর্ণের অধঃক্ষেপ টেস্টটিউবের নিচে জমা হয়; NaNO₃ পানিতে দ্রবীভূত থাকে, কোনো বর্ণ প্রদান করে না।",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "Al(NO₃)₃ দ্রবণ",
+    "লঘু NaOH দ্রবণ"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে Al(NO₃)₃ এর দ্রবণ নাও",
+    "এতে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e20",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "Fe(NO₃)₂ দ্রবণ + লঘু NaOH",
+   "book_page": 215,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস নাইট্রেট দ্রবণ",
+     "formula": "Fe(NO₃)₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস হাইড্রোক্সাইড",
+     "formula": "Fe(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Fe(NO₃)₂ + 2NaOH → Fe(OH)₂↓ + 2NaNO₃",
+   "conditions": "",
+   "observations_bn": "সবুজ বর্ণের অধঃক্ষেপ উৎপন্ন হয়; NaNO₃ পানিতে দ্রবীভূত থাকে।",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "Fe(NO₃)₂ দ্রবণ",
+    "লঘু NaOH দ্রবণ"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে Fe(NO₃)₂ এর দ্রবণ নাও",
+    "এতে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e21",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "Fe(NO₃)₃ দ্রবণ + লঘু NaOH",
+   "book_page": 216,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক নাইট্রেট দ্রবণ",
+     "formula": "Fe(NO₃)₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক হাইড্রোক্সাইড",
+     "formula": "Fe(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Fe(NO₃)₃ + 3NaOH → Fe(OH)₃↓ + 3NaNO₃",
+   "conditions": "",
+   "observations_bn": "লালচে বাদামি বর্ণের অধঃক্ষেপ উৎপন্ন হয়; NaNO₃ পানিতে দ্রবীভূত থাকে।",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "Fe(NO₃)₃ দ্রবণ",
+    "লঘু NaOH দ্রবণ"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে Fe(NO₃)₃ এর দ্রবণ নাও",
+    "এতে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e22",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "Cu(NO₃)₂ দ্রবণ + লঘু NaOH",
+   "book_page": 216,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "কপার (II) নাইট্রেট দ্রবণ",
+     "formula": "Cu(NO₃)₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার হাইড্রোক্সাইড",
+     "formula": "Cu(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cu(NO₃)₂ + 2NaOH → Cu(OH)₂↓ + 2NaNO₃",
+   "conditions": "",
+   "observations_bn": "হালকা নীল বর্ণের অধঃক্ষেপ উৎপন্ন হয়; NaNO₃ পানিতে দ্রবীভূত থাকে।",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "Cu(NO₃)₂ দ্রবণ",
+    "লঘু NaOH দ্রবণ"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে Cu(NO₃)₂ এর দ্রবণ নাও",
+    "এতে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e23",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "Zn(NO₃)₂ দ্রবণ + লঘু NaOH",
+   "book_page": 216,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "জিংক নাইট্রেট দ্রবণ",
+     "formula": "Zn(NO₃)₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক হাইড্রোক্সাইড",
+     "formula": "Zn(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Zn(NO₃)₂ + 2NaOH → Zn(OH)₂↓ + 2NaNO₃",
+   "conditions": "",
+   "observations_bn": "সাদা বর্ণের অধঃক্ষেপ টেস্টটিউবের নিচে জমা হয়; NaNO₃ পানিতে দ্রবীভূত থাকে, কোনো বর্ণ প্রদান করে না।",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "Zn(NO₃)₂ দ্রবণ",
+    "লঘু NaOH দ্রবণ"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে Zn(NO₃)₂ এর দ্রবণ নাও",
+    "এতে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e24",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "অ্যামোনিয়াম লবণ + ক্ষার → NH₃",
+   "book_page": 216,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া গ্যাস",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NH₄Cl + NaOH → NH₃↑ + NaCl + H₂O; NH₄Cl + KOH → NH₃ + KCl + H₂O; 2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O; 2NH₄Cl + CaO → 2NH₃ + CaCl₂ + H₂O",
+   "conditions": "বইয়ে তাপের উল্লেখ নেই",
+   "observations_bn": "যেকোনো অ্যামোনিয়াম লবণ ক্ষারের সাথে বিক্রিয়া করে NH₃ গ্যাস উৎপন্ন করে (বৈশিষ্ট্যপূর্ণ বিক্রিয়া)। (pp.216-217)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e25",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "KOH ও NaOH এর পানিতে আয়নন",
+   "book_page": 217,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম আয়ন",
+     "formula": "Na⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "KOH(s) + পানি → K⁺(aq) + OH⁻(aq); NaOH(s) + পানি → Na⁺(aq) + OH⁻(aq)",
+   "conditions": "",
+   "observations_bn": "কঠিন অবস্থায় আয়ন মুক্ত থাকে না; পানিতে দ্রবীভূত হলে সম্পূর্ণ আয়নিত। দ্রবণে শুধু OH⁻ ঋণাত্মক আধান বহন করে। NH₃ পানিতে সামান্য দ্রবীভূত হয়ে অল্প OH⁻ দেয় (দুর্বল ক্ষার)।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e26",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "একক কাজ (ক): আয়রন গুঁড়া + লঘু H₂SO₄",
+   "book_page": 217,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "আয়রন গুঁড়া",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন গ্যাস",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Fe + H₂SO₄ → FeSO₄ + H₂↑",
+   "conditions": "",
+   "observations_bn": "বইয়ে পর্যবেক্ষণ ও সমীকরণ দেওয়া নেই; শিক্ষার্থীকে বর্ণনা ও আয়নিক সমীকরণ লিখতে বলা হয়েছে। সমীকরণটি অনুমিত।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "c9-e27",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "একক কাজ (খ): লঘু HCl + কঠিন Na₂CO₃",
+   "book_page": 217,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑",
+   "conditions": "",
+   "observations_bn": "বইয়ে ফলাফল দেওয়া নেই; শিক্ষার্থী বর্ণনা করবে। সমীকরণ অনুমিত।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "c9-e28",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "একক কাজ (গ): কপার (II) সালফেট দ্রবণ + অ্যামোনিয়া দ্রবণ",
+   "book_page": 217,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "কপার (II) সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া দ্রবণ",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "বইয়ে ফলাফল ও সমীকরণ দেওয়া নেই; শিক্ষার্থী বর্ণনা করবে। (বইয়ে অন্য কোথাও এই বিক্রিয়ার ফল নেই)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "c9-e29",
+   "topic_title_bn": "এসিড ও ক্ষারক",
+   "title_bn": "সবল ও দুর্বল এসিড পরীক্ষা (বাল্বের উজ্জ্বলতা / পরিবাহিতা)",
+   "book_page": 218,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "লঘু হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ইথানয়িক (অ্যাসিটিক) এসিড দ্রবণ",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "HCl দ্রবণে বাল্বের উজ্জ্বলতা বেশি; ইথানয়িক এসিডে কম। কারণ তীব্র এসিড বেশি H⁺ দেয়, মৃদু এসিড কম। একইভাবে NaOH (তীব্র ক্ষার) এ বাল্ব বেশি উজ্জ্বল, NH₄OH (মৃদু ক্ষার) এ কম।",
+   "materials_bn": [
+    "50 mL বিকার ×2",
+    "লঘু HCl",
+    "ইথানয়িক এসিড",
+    "গ্রাফাইট দণ্ড ×2 (প্রতি বিকারে)",
+    "তার",
+    "ব্যাটারি",
+    "বাল্ব"
+   ],
+   "procedure_bn": [
+    "বিকারে 50 mL লঘু HCl নাও",
+    "দুটি গ্রাফাইট দণ্ড এমনভাবে বসাও যেন স্পর্শ না করে",
+    "একটি দণ্ড তার দিয়ে ব্যাটারির এক প্রান্তে, অপর দণ্ড বাল্বের মধ্য দিয়ে ব্যাটারির অপর প্রান্তে যুক্ত করো",
+    "বাল্ব জ্বলে উঠবে; উজ্জ্বলতা লক্ষ করো",
+    "অন্য বিকারে ইথানয়িক এসিড নিয়ে একইভাবে পরীক্ষা করো ও উজ্জ্বলতা তুলনা করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e30",
+   "topic_title_bn": "pH স্কেল",
+   "title_bn": "pH গণনা: বিশুদ্ধ পানি, এসিড ও ক্ষার যোগে",
+   "book_page": 219,
+   "type": "bench",
+   "reactants": [],
+   "products": [],
+   "equation": "pH = −log[H⁺]",
+   "conditions": "",
+   "observations_bn": "বইয়ে: বিশুদ্ধ পানিতে [H⁺] = 10⁻⁷ mol/L তাই pH = 7; এসিড যোগে [H⁺] = 10⁻⁶ হলে pH = 6; ক্ষার যোগে [H⁺] = 10⁻¹⁰ হলে pH = 10 (p.220)। pH < 7 এসিডিক, pH > 7 ক্ষারীয়, pH = 7 নিরপেক্ষ। (গাণিতিক ধারণা, বেঞ্চ পরীক্ষা নয়; লঘু এসিড/ক্ষার যোগে pH পরিবর্তন সিমুলেশনে দেখানো যায়)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e31",
+   "topic_title_bn": "pH স্কেল",
+   "title_bn": "pH স্কেল ও ইউনিভার্সাল ইন্ডিকেটরের রঙ (চিত্র ৯.০১)",
+   "book_page": 220,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ইউনিভার্সাল ইন্ডিকেটর",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "চিত্র ৯.০১: pH 0 থেকে 14, 0-6 এসিড, 7 নিরপেক্ষ, 8-14 ক্ষার। বইয়ে রঙের নাম লেখা নেই; চিত্র থেকে দেখা রঙ (আনুমানিক): 0 লাল, 1 লালচে কমলা, 2 কমলা, 3 হলুদ-কমলা/হলুদ, 4 হলুদ, 5 হলুদ-সবুজ (লাইম), 6 হালকা সবুজ, 7 গাঢ় সবুজ, 8 সবুজাভ-নীল (টিল), 9 টিল/সায়ান, 10 হালকা নীল, 11 নীল, 12 গাঢ় নীল-বেগুনি, 13 বেগুনি, 14 গাঢ় বেগুনি। সবচেয়ে শক্তিশালী এসিডের pH 0, সবচেয়ে শক্তিশালী ক্ষারের pH 14।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "c9-e32",
+   "topic_title_bn": "নির্দেশক",
+   "title_bn": "ইউনিভার্সাল নির্দেশক দিয়ে pH পরিমাপ",
+   "book_page": 221,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ইউনিভার্সাল নির্দেশক",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "ইউনিভার্সাল নির্দেশক বিভিন্ন এসিড-ক্ষার নির্দেশকের মিশ্রণ; ভিন্ন pH এ ভিন্ন বর্ণ দেয়। কালার চার্টের সাথে মিলিয়ে pH জানা যায়।",
+   "materials_bn": [
+    "ইউনিভার্সাল নির্দেশক",
+    "অজানা pH এর দ্রবণ",
+    "কালার চার্ট"
+   ],
+   "procedure_bn": [
+    "দ্রবণে কয়েক ফোঁটা ইউনিভার্সাল নির্দেশক যোগ করো",
+    "দ্রবণের বর্ণ ইউনিভার্সাল নির্দেশক কালার চার্টের সাথে মিলিয়ে pH নির্ণয় করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e33",
+   "topic_title_bn": "নির্দেশক",
+   "title_bn": "pH পেপার ও pH মিটার দিয়ে pH পরিমাপ",
+   "book_page": 221,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "pH পেপার",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অজানা pH এর দ্রবণ",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "pH পেপার দ্রবণে ডুবালে বর্ণ পরিবর্তন হয়; স্ট্যান্ডার্ড কালার চার্টের সাথে মিলিয়ে pH জানা যায় (চিত্র ৯.০২)। pH মিটারের ইলেকট্রোড দ্রবণে ডুবালে ডিজিটাল ডিসপ্লেতে সরাসরি pH মান দেখা যায় (চিত্র ৯.০৩)।",
+   "materials_bn": [
+    "pH পেপার ও কালার চার্ট",
+    "pH মিটার (ইলেকট্রোড, ডিজিটাল ডিসপ্লে)"
+   ],
+   "procedure_bn": [
+    "pH পেপারের এক টুকরা দ্রবণে ডুবাও, বর্ণ চার্টের সাথে মেলাও",
+    "বা pH মিটারের ইলেকট্রোড দ্রবণে ডুবিয়ে ডিসপ্লে থেকে pH পড়ো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e34",
+   "topic_title_bn": "নির্দেশক",
+   "title_bn": "লিটমাস পেপারে এসিড/ক্ষার/নিরপেক্ষ নির্ণয়",
+   "book_page": 222,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "লাল লিটমাস পেপার",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "নীল লিটমাস পেপার",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "দ্রবণের pH 7 এর কম হলে লিটমাস পেপার লাল এবং 7 এর বেশি হলে নীল বর্ণ ধারণ করে (চিত্র ৯.০৩: লাল ও নীল লিটমাস পেপার)। নিরপেক্ষ প্রকৃতির দ্রবণ লিটমাসের বর্ণ বদলায় না (p.229)। মিথাইল অরেঞ্জ বা ফেনলফথ্যালিনের কোনো তথ্য এই অধ্যায়ে নেই।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e35",
+   "topic_title_bn": "নির্দেশক",
+   "title_bn": "পরীক্ষণ: লিটমাস পেপারের সাহায্যে আপেলের অম্লীয় বা ক্ষারীয় প্রকৃতি নির্ণয়",
+   "book_page": 229,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "আপেল কুচি",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "পাতিত পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নীল লিটমাস পেপার",
+     "formula": "—",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লাল লিটমাস পেপার",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "নীল লিটমাস পেপার লাল হয়েছে কিন্তু লাল লিটমাসের বর্ণ বদলায়নি, সিদ্ধান্ত: আপেল অম্লীয় প্রকৃতির (p.230 সারণি)। ফলাফল: আপেল অম্লীয় প্রকৃতির খাদ্য। (সারণির দ্বিতীয় সারি 'লাল লিটমাস নীল হলে ক্ষারীয়' শুধু সম্ভাব্য ক্ষেত্র)",
+   "materials_bn": [
+    "পেষণ যন্ত্র",
+    "টেস্টটিউব",
+    "কাচদণ্ড",
+    "ছাঁকন কাগজ",
+    "ফানেল",
+    "নীল লিটমাস পেপার",
+    "লাল লিটমাস পেপার",
+    "পাতিত পানি",
+    "আপেল কুচি"
+   ],
+   "procedure_bn": [
+    "পেষণ যন্ত্রে কয়েকটি আপেল কুচি ও সামান্য পানি নিয়ে ভালোভাবে পিষে আপেলের পেস্ট তৈরি করো",
+    "পেস্ট বিকারে নাও",
+    "বিকারে 10 mL পাতিত পানি নিয়ে কাচদণ্ড দিয়ে পেস্টের সাথে ভালোভাবে মেশাও",
+    "ছাঁকন কাগজ ও ফানেল দিয়ে মিশ্রণ ছেঁকে জলীয় অংশটুকু টেস্টটিউবে নাও",
+    "জলীয় অংশে একবার নীল লিটমাস পেপার, একবার লাল লিটমাস পেপার ডুবাও এবং বর্ণের পরিবর্তন লক্ষ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e36",
+   "topic_title_bn": "নির্দেশক",
+   "title_bn": "একক কাজ: ভাত ও শসার লিটমাস পরীক্ষা",
+   "book_page": 230,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ভাত",
+     "formula": "—",
+     "state": "solid"
+    },
+    {
+     "name_bn": "শসা",
+     "formula": "—",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লাল লিটমাস",
+     "formula": "—",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নীল লিটমাস",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "ভাত নিরপেক্ষ প্রকৃতির (লাল ও নীল লিটমাসের কোনো বর্ণ পরিবর্তন নেই)। শসা ক্ষারীয় প্রকৃতির (লাল লিটমাসকে নীল করে)।",
+   "materials_bn": [
+    "ভাত",
+    "শসা",
+    "লিটমাস পেপার"
+   ],
+   "procedure_bn": [
+    "আপেলের মতো একই পদ্ধতিতে ভাত ও শসার জলীয় নির্যাস দিয়ে লিটমাস পরীক্ষা করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e37",
+   "topic_title_bn": "নির্দেশক",
+   "title_bn": "একক কাজ: নিজের pH পেপার তৈরি (রঙিন শাকসবজি/ফুল)",
+   "book_page": 230,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "রঙিন শাকসবজি/ফুল (লালশাক, লাল বাঁধাকপি, বিট, রক্তজবা, লাল গোলাপ, ডালিয়া)",
+     "formula": "—",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফিল্টার পেপার",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "রঙিন নির্যাসে ডোবানো ফিল্টার পেপার শুকিয়ে কাটলে pH পেপার তৈরি হয়; জানা pH মানের দ্রবণে ডুবিয়ে pH পরিসরের কালার চার্ট তৈরি করতে বলা হয়েছে (রঙের মান বইয়ে নেই)।",
+   "materials_bn": [
+    "লালশাক/লাল বাঁধাকপি/বিট/রক্তজবা/গোলাপ/ডালিয়া",
+    "ফিল্টার পেপার",
+    "জানা pH এর দ্রবণ"
+   ],
+   "procedure_bn": [
+    "যেকোনো একটি রঙিন সবজি/ফুল ছোট ছোট করে কেটে হালকা আঁচে ভাপে সিদ্ধ করো",
+    "যে রঙিন নির্যাস পাওয়া যায় তাতে ফিল্টার পেপারের এক টুকরা ডুবাও",
+    "বাতাসে রেখে শুকিয়ে নাও; শুকানোর পর চিকন চিকন করে কেটে নাও",
+    "জানা pH মানের দ্রবণে ডুবিয়ে pH পরিসরের কালার চার্ট তৈরি করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e38",
+   "topic_title_bn": "প্রশমন বিক্রিয়া",
+   "title_bn": "প্রশমন: NaOH + HCl",
+   "book_page": 223,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)",
+   "conditions": "",
+   "observations_bn": "এসিডের H⁺ ও ক্ষারের OH⁻ বিক্রিয়া করে পানি; Cl⁻ ও Na⁺ লবণ (NaCl) দেয়। 1 mol HCl সম্পূর্ণ 1 mol NaOH কে প্রশমিত করে। (p.211: লঘু NaOH এ ধীরে ধীরে লঘু HCl যোগ করলে NaCl ও পানি; সমীকরণ NaOH + HCl → NaCl + H₂O)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e39",
+   "topic_title_bn": "প্রশমন বিক্রিয়া",
+   "title_bn": "প্রশমন: H₂SO₄ + NaOH",
+   "book_page": 223,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂SO₄(aq) + 2NaOH(aq) → Na₂SO₄(aq) + 2H₂O(l)",
+   "conditions": "",
+   "observations_bn": "1 mol H₂SO₄ 2 mol NaOH কে সম্পূর্ণ প্রশমিত করে; নির্দিষ্ট এসিডের নির্দিষ্ট পরিমাণ নির্দিষ্ট ক্ষারের নির্দিষ্ট পরিমাণকে প্রশমিত করে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e40",
+   "topic_title_bn": "প্রশমন বিক্রিয়া",
+   "title_bn": "অ্যান্টাসিড দিয়ে পাকস্থলীর অতিরিক্ত HCl প্রশমন",
+   "book_page": 223,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রোক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Al(OH)₃ + 3HCl → AlCl₃ + 3H₂O; Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O",
+   "conditions": "",
+   "observations_bn": "অ্যান্টাসিডে Al(OH)₃ ও Mg(OH)₂ থাকে; পেটের অতিরিক্ত HCl প্রশমিত করে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e41",
+   "topic_title_bn": "লবণ",
+   "title_bn": "লবণের জলীয় দ্রবণের প্রকৃতি",
+   "book_page": 224,
+   "type": "bench",
+   "reactants": [],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "তীব্র এসিড + তীব্র ক্ষার = নিরপেক্ষ লবণ (NaCl, Na₂SO₄)। তীব্র এসিড + মৃদু ক্ষার = অম্লীয় প্রকৃতি (FeCl₃, Zn(NO₃)₂)। তীব্র ক্ষার + মৃদু এসিড = ক্ষারীয় প্রকৃতি (Na₂CO₃, CH₃COONa)। ধনাত্মক আয়ন = ক্ষারীয় মূলক, ঋণাত্মক আয়ন = অম্লীয় মূলক। (ল্যাবে এগুলোর লিটমাস পরীক্ষা বইয়ে নির্দেশিত নেই)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e42",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "চুন (CaO) দিয়ে অম্লীয় মাটির প্রশমন",
+   "book_page": 224,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড (চুন)",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "গাছ মাটি থেকে Fe²⁺, Mg²⁺, Ca²⁺, K⁺ শোষণ করলে মাটি অম্লীয় হয়; চুন (CaO) অতিরিক্ত এসিড প্রশমিত করে মাটির উর্বরতা বাড়ায়। মাটির pH 6.0-8.0 ভালো; 3.0 এর কম বা 10 এর বেশি হলে অণুজীব মারা যায়; pH কমলে চুন (CaO), বাড়লে (NH₄)₂SO₄ বা (NH₄)₃PO₄ সার (p.222)। টুথপেস্টের ক্ষারজাতীয় পদার্থ মুখের এসিড প্রশমিত করে দাঁতের এনামেল রক্ষা করে (p.223-224)।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e43",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "এসিড বৃষ্টি: CO₂ ও NO₂ এর বৃষ্টির পানিতে দ্রবণ",
+   "book_page": 224,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "CO₂(g) + H₂O(l) → H₂CO₃(aq); 2NO₂(g) + H₂O(l) → HNO₂(aq) + HNO₃(aq)",
+   "conditions": "বজ্রপাতে বায়ুর তাপমাত্রা 3000°C; N₂ + O₂ → NO, NO জারিত হয়ে NO₂ (বইয়ে সমীকরণ নেই)",
+   "observations_bn": "স্বাভাবিক বৃষ্টির pH 5-6; pH 4 বা কম হলে এসিড বৃষ্টি। ফসল, জলাশয় ও মাছ, দালান-কোঠা, ধাতব স্থাপনা ও মার্বেল পাথরের ক্ষতি করে (p.225)।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "NO₂ বিষাক্ত; বজ্রপাতের শর্ত ল্যাবে অসম্ভব",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e44",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "খর পানি + সাবান (স্টিয়ারেট অধঃক্ষেপ)",
+   "book_page": 225,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম স্টিয়ারেট (সাবান)",
+     "formula": "C₁₇H₃₅COONa",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম স্টিয়ারেট",
+     "formula": "(C₁₇H₃₅COO)₂Ca",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "2C₁₇H₃₅COONa + CaCl₂ → (C₁₇H₃₅COO)₂Ca + 2NaCl",
+   "conditions": "",
+   "observations_bn": "ক্যালসিয়াম/ম্যাগনেসিয়ামের লবণযুক্ত খর পানিতে সাবান ফেনা দেয় না এবং ক্ষয়প্রাপ্ত হয়; অদ্রবণীয় ক্যালসিয়াম স্টিয়ারেট উৎপন্ন হয়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e45",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "অস্থায়ী খরতা দূরীকরণ: ফুটিয়ে",
+   "book_page": 226,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম বাইকার্বনেট",
+     "formula": "Ca(HCO₃)₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Ca(HCO₃)₂ →(Δ) CaCO₃↓ + CO₂↑ + H₂O",
+   "conditions": "উত্তপ্ত করা (ফুটানো)",
+   "observations_bn": "অদ্রবণীয় কার্বনেট নিচে তলানি জমে; ছেঁকে পৃথক করা যায়, ফলে অস্থায়ী খরতা দূর হয়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e46",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "স্থায়ী খরতা দূরীকরণ: সোডিয়াম কার্বনেট যোগ",
+   "book_page": 226,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "CaCl₂ + Na₂CO₃ → CaCO₃↓ + 2NaCl",
+   "conditions": "",
+   "observations_bn": "Ca²⁺, Mg²⁺ কার্বনেট হিসেবে অধঃক্ষিপ্ত হয়ে পানি থেকে অপসারিত হয়; স্থায়ী খরতা দূর হয়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e47",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "পানির বিশুদ্ধতা পরীক্ষা: বর্ণ, গন্ধ, তাপমাত্রা, pH, BOD, COD",
+   "book_page": 227,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "পানির নমুনা",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "বিশুদ্ধ পানি বর্ণহীন ও গন্ধহীন; ঘোলাটে/গন্ধ/ফিল্টারে তলানি থাকলে দূষিত (p.227)। গ্রীষ্মকালে পানির তাপমাত্রা 30-35°C; তাপমাত্রা কয়েক ডিগ্রি বেশি হলে তাপ দূষণ; থার্মোমিটার দিয়ে নির্ণয় (p.227-228)। pH 4.5 এর কম বা 9.5 এর বেশি হলে জীবের বসবাসের অযোগ্য; pH পেপার/মিটারে পরিমাপ। BOD ও COD এর মান যত বেশি তত বেশি দূষিত; COD > BOD (p.228)।",
+   "materials_bn": [
+    "থার্মোমিটার",
+    "pH পেপার/মিটার",
+    "ফিল্টার পেপার"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e48",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "পানি বিশুদ্ধকরণ: ক্লোরিনেশন (ব্লিচিং পাউডার)",
+   "book_page": 228,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ব্লিচিং পাউডার",
+     "formula": "—",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "ব্লিচিং পাউডার যোগ করলে ক্লোরিন জারিত হয়ে জীবাণু ধ্বংস করে (বইয়ে সংকেত/সমীকরণ নেই)।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "c9-e49",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "পানি বিশুদ্ধকরণ: ফুটানো",
+   "book_page": 228,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "পানি 15-20 মিনিট ফুটানো",
+   "observations_bn": "জীবাণুমুক্ত হয়; আর্সেনিকযুক্ত পানি ফুটালে আরও ক্ষতিকর।",
+   "materials_bn": [
+    "পাত্র",
+    "তাপ উৎস"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e50",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "পানি বিশুদ্ধকরণ: থিতানো (ফিটকিরি) ও ছাঁকন",
+   "book_page": 228,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ফিটকিরি",
+     "formula": "K₂SO₄·Al₂(SO₄)₃·24H₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ঘোলা পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "এক বালতি পানিতে 1 চামচ ফিটকিরি গুঁড়া মিশিয়ে আধা ঘণ্টা রাখলে অদ্রবণীয় দূষক তলায় জমা হয়; উপর থেকে পানি ঢেলে পৃথক করা হয়। ছাঁকনে (ফিল্টার) জীবাণু, আর্সেনিক ইত্যাদি অপসারিত হয় (p.229)।",
+   "materials_bn": [
+    "বালতি",
+    "ফিটকিরি",
+    "চামচ"
+   ],
+   "procedure_bn": [
+    "এক বালতি পানিতে 1 চামচ ফিটকিরি গুঁড়া যোগ করো",
+    "আধা ঘণ্টা রেখে দাও",
+    "উপর থেকে পানি ঢেলে তলানি থেকে পৃথক করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c9-e51",
+   "topic_title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+   "title_bn": "সৃজনশীল প্রশ্নের চিত্র: NH₄Cl + CaO উত্তপ্ত করে NH₃ সংগ্রহ",
+   "book_page": 232,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া গ্যাস",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NH₄Cl + CaO → 2NH₃↑ + CaCl₂ + H₂O",
+   "conditions": "চিত্রে বার্নার দিয়ে উত্তপ্ত করা হচ্ছে (টেস্টটিউব/নল ক্ল্যাম্পে), উল্টানো পাত্রে 'X' গ্যাস সংগ্রহ",
+   "observations_bn": "এটি প্রশ্নের চিত্র; সমীকরণ p.217 থেকে। 'X' = NH₃ (প্রশ্নে ইঙ্গিত); প্রশ্নে 'HCl গ্যাসের মধ্যে X চালনা' করলে কী ঘটবে জিজ্ঞাসা করা হয়েছে (উত্তর বইয়ে নেই)।",
+   "materials_bn": [
+    "NH₄Cl",
+    "CaO",
+    "বার্নার",
+    "স্ট্যান্ড",
+    "গ্যাস সংগ্রহ নল"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  }
+ ],
+ "chemicals_mentioned": [
+  {
+   "name_bn": "হাইড্রোক্লোরিক এসিড",
+   "formula": "HCl",
+   "state": "solution",
+   "colour_bn": "বর্ণহীন"
+  },
+  {
+   "name_bn": "সালফিউরিক এসিড",
+   "formula": "H₂SO₄",
+   "state": "liquid",
+   "colour_bn": "বর্ণহীন"
+  },
+  {
+   "name_bn": "নাইট্রিক এসিড",
+   "formula": "HNO₃",
+   "state": "liquid",
+   "colour_bn": "বর্ণহীন (বিশুদ্ধ)"
+  },
+  {
+   "name_bn": "ইথানয়িক (অ্যাসিটিক) এসিড",
+   "formula": "CH₃COOH",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কার্বনিক এসিড",
+   "formula": "H₂CO₃",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+   "formula": "NaOH",
+   "state": "solid/solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "পটাসিয়াম হাইড্রোক্সাইড",
+   "formula": "KOH",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যামোনিয়াম হাইড্রোক্সাইড",
+   "formula": "NH₄OH",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম হাইড্রোক্সাইড (চুনের পানি)",
+   "formula": "Ca(OH)₂",
+   "state": "solution",
+   "colour_bn": "বর্ণহীন; CO₂ এ ঘোলা"
+  },
+  {
+   "name_bn": "ক্যালসিয়াম অক্সাইড (চুন)",
+   "formula": "CaO",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম কার্বনেট",
+   "formula": "CaCO₃",
+   "state": "solid",
+   "colour_bn": "সাদা"
+  },
+  {
+   "name_bn": "সোডিয়াম কার্বনেট",
+   "formula": "Na₂CO₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম বাইকার্বনেট",
+   "formula": "NaHCO₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম",
+   "formula": "Mg",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম",
+   "formula": "Na",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কপার (II) অক্সাইড",
+   "formula": "CuO",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যালুমিনিয়াম হাইড্রোক্সাইড",
+   "formula": "Al(OH)₃",
+   "state": "solid",
+   "colour_bn": "সাদা"
+  },
+  {
+   "name_bn": "ফেরাস হাইড্রোক্সাইড",
+   "formula": "Fe(OH)₂",
+   "state": "solid",
+   "colour_bn": "সবুজ"
+  },
+  {
+   "name_bn": "ফেরিক হাইড্রোক্সাইড",
+   "formula": "Fe(OH)₃",
+   "state": "solid",
+   "colour_bn": "লালচে বাদামি"
+  },
+  {
+   "name_bn": "কপার হাইড্রোক্সাইড",
+   "formula": "Cu(OH)₂",
+   "state": "solid",
+   "colour_bn": "হালকা নীল"
+  },
+  {
+   "name_bn": "জিংক হাইড্রোক্সাইড",
+   "formula": "Zn(OH)₂",
+   "state": "solid",
+   "colour_bn": "সাদা"
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম হাইড্রোক্সাইড",
+   "formula": "Mg(OH)₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+   "formula": "NH₄Cl",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "অ্যামোনিয়া",
+   "formula": "NH₃",
+   "state": "gas",
+   "colour_bn": "ঝাঁঝালো গন্ধ (গন্ধ বইয়ে উল্লেখ নেই; কেবল গ্যাস)"
+  },
+  {
+   "name_bn": "লিটমাস কাগজ (লাল/নীল)",
+   "formula": "—",
+   "state": "solid",
+   "colour_bn": "লাল ও নীল"
+  },
+  {
+   "name_bn": "ইউনিভার্সাল ইন্ডিকেটর",
+   "formula": "—",
+   "state": "solution",
+   "colour_bn": "pH 0-14 এ লাল থেকে বেগুনি"
+  },
+  {
+   "name_bn": "pH পেপার",
+   "formula": "—",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ফিটকিরি",
+   "formula": "K₂SO₄·Al₂(SO₄)₃·24H₂O",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ব্লিচিং পাউডার",
+   "formula": "—",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম স্টিয়ারেট",
+   "formula": "C₁₇H₃₅COONa",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম বাইকার্বনেট",
+   "formula": "Ca(HCO₃)₂",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কপার (II) সালফেট",
+   "formula": "CuSO₄",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "আয়রন",
+   "formula": "Fe",
+   "state": "solid",
+   "colour_bn": ""
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "book_page = printed page (pdf-5). This chapter has no methyl orange / phenolphthalein / titration / indicator colour table in text; only litmus (red/blue), universal indicator pH chart (fig 9.01, colours read visually, no names in book), pH paper, pH meter. Organ pH table (Table 9.01, p.222): stomach 1, skin 4.8-5.5, urine 6, blood 7.43-7.45, pancreatic juice 8.1. Book p.212 prints 2H⁻ for H₂SO₄ ionisation (typo for 2H⁺). Items 'inferred' have no book-stated result/equation. Topic 5 (লবণ) and 6 mapping: book sections 9.5.2 salt; 9.5.1/9.6/9.7 grouped under daily life."
+}

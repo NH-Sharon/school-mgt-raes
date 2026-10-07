@@ -13,6 +13,7 @@ export type Phase = 'fresh' | 'reacting' | 'settled';
 export const DROP_ML = 0.05;
 
 export function dispenseOf(c: Chemical): Dispense {
+  if (c.dispense) return c.dispense;
   if (c.type === 'indicator') return 'indicator';
   if (c.type === 'metal') return 'metal';
   if (c.id === 'Na2CO3' || c.id === 'NH4Cl') return 'powder';
@@ -32,7 +33,7 @@ export const AMOUNT_SPEC: Partial<Record<Tool, AmountSpec>> = {
 /** native amount (mL or g) for a slider value */
 export function toNative(tool: Tool, value: number): number { return tool === 'dropper' ? +(value * DROP_ML).toFixed(3) : value; }
 
-export interface Mix { color: string; character: Character; precip: { color: string; name: string; amount: number } | null; }
+export interface Mix { color: string; character: Character; precip: { color: string; name: string; amount: number } | null; hydro?: { type: 'acid' | 'base'; K: number; n: number }; }
 /** chemId + amount (mL/g), or an inert mixture with amount in mL */
 export interface Content { chemId?: string; amount: number; mix?: Mix; }
 
@@ -51,11 +52,12 @@ export interface View {
   explain: Explain | null; reactionId: string | null;
   rows: Row[]; risks: Risk[];
   progress: number; done: boolean; tTotal: number; temp: number; gasMl: number; reacting: boolean; hasReaction: boolean;
+  ph: number | null;
   fumes: '' | 'steam' | 'pungent' | 'white'; foam: number; suspension: number; flakes: number;
 }
 export const EMPTY_VIEW: View = {
   color: '#eef6fb', liquidAmount: 0, precip: null, solids: [], bubbles: 0, gas: '', smell: '', warm: false, character: 'neutral',
-  explain: null, reactionId: null, rows: [], risks: [], progress: 0, done: false, tTotal: 0, temp: 25, gasMl: 0, reacting: false, hasReaction: false,
+  explain: null, reactionId: null, rows: [], risks: [], progress: 0, done: false, tTotal: 0, temp: 25, gasMl: 0, reacting: false, hasReaction: false, ph: null,
   fumes: '', foam: 0, suspension: 0, flakes: 0,
 };
 export interface SimOpts { isEn: boolean; phase: Phase; t: number; baseTemp: number; heated: boolean; cap: number; }
@@ -66,7 +68,7 @@ const charOf = (c: Chemical): Character => c.type === 'acid' ? 'acid' : c.type =
 const fmt = (n: number, d = 2) => { const v = +n.toFixed(d); return String(v); };
 const isSolidLike = (c: Chemical) => c.state === 'solid' || dispenseOf(c) === 'powder';
 export function molesOf(c: Chemical, amount: number): number {
-  return isSolidLike(c) ? amount / (MOLAR_MASS[c.id] || 100) : (amount / 1000) * CONC;
+  return isSolidLike(c) ? amount / (MOLAR_MASS[c.id] || c.molarMass || 100) : (amount / 1000) * (c.conc ?? CONC);
 }
 export function unitOf(c: Chemical): string { return isSolidLike(c) ? 'g' : 'mL'; }
 
@@ -119,10 +121,61 @@ interface Info {
 }
 
 function productColorOf(r: Reaction): string {
+  if (r.productColor) return r.productColor;
   const cc = r.effects.colorChange;
   if (cc === 'blue-to-pale-green' || cc === 'to-pale-green') return '#cfe8cf';
   if (cc === 'to-blue') return '#3f7fd1';
   return r.effects.precipitate ? '#f4f8fb' : CLEAR;
+}
+
+// ---------- acid / base / solubility data (teaching values at 25 °C) ----------
+const AB: Record<string, { h?: number; ka?: number; oh?: number; kb?: number }> = {
+  HCl: { h: 1 }, H2SO4: { h: 2 }, CH3COOH: { h: 1, ka: 1.8e-5 }, NaOH: { oh: 1 }, KOH: { oh: 1 }, CaOH2: { oh: 2 }, NH4OH: { oh: 1, kb: 1.8e-5 },
+};
+const SOL_DEFAULT: Record<string, ('water' | 'kerosene')[]> = { Na2CO3: ['water'], NH4Cl: ['water'], NaHCO3: ['water'] };
+const HYDRO: Record<string, { type: 'acid' | 'base'; K: number }> = { NH4Cl: { type: 'acid', K: 5.6e-10 }, Na2CO3: { type: 'base', K: 2.1e-4 } };
+const solubleOf = (c: Chemical) => c.solubleIn ?? SOL_DEFAULT[c.id];
+const isSolvent = (c: Chemical) => c.id === 'H2O' || c.id === 'Kerosene';
+const mediumOf = (c: Chemical): 'water' | 'kerosene' | null => c.id === 'Kerosene' ? 'kerosene' : c.id === 'H2O' ? 'water' : null;
+
+const dissCache = new Map<string, Reaction>();
+/** A physical dissolution "reaction" synthesised for solid + solvent when the solid is soluble in it. */
+function dissolutionFor(mains: { chem: Chemical; amount: number }[]): Reaction | null {
+  const solvent = mains.find(m => isSolvent(m.chem))?.chem;
+  if (!solvent) return null;
+  const solute = mains.find(m => isSolidLike(m.chem) && m.chem.type !== 'metal' && solubleOf(m.chem)?.includes(mediumOf(solvent)!))?.chem;
+  if (!solute) return null;
+  const key = `${solute.id}|${solvent.id}`;
+  let r = dissCache.get(key);
+  if (!r) {
+    r = {
+      id: `dis-${solute.id}-${solvent.id}`, reactants: [{ id: solute.id, part: 1 }, { id: solvent.id, part: 1 }], category: 'dissolution',
+      equation: `${solute.formula}(s) + ${solvent.id === 'H2O' ? 'পানি' : 'কেরোসিন'} → দ্রবণ`, nameBn: `${solute.nameBn} দ্রবীভূত হওয়া`,
+      effects: { colorChange: false, gas: false, precipitate: null, temp: 'none', smell: null },
+      productColor: solute.solColor ?? CLEAR,
+      observationBn: `${solute.nameBn} ${solvent.id === 'H2O' ? 'পানিতে' : 'কেরোসিনে'} দ্রবীভূত হয়ে দ্রবণ তৈরি করে (ভৌত পরিবর্তন)।`, useBn: '—', safetyBn: '',
+    };
+    dissCache.set(key, r);
+  }
+  return r;
+}
+
+function lerpStops(stops: [number, string][], x: number): string {
+  if (x <= stops[0][0]) return stops[0][1];
+  for (let i = 1; i < stops.length; i++) if (x <= stops[i][0]) {
+    const [x0, c0] = stops[i - 1], [x1, c1] = stops[i]; const t = (x - x0) / (x1 - x0);
+    return blend([{ color: c0, w: 1 - t }, { color: c1, w: t }]);
+  }
+  return stops[stops.length - 1][1];
+}
+// colours follow the textbook's universal-indicator figure 9.01 (names read from the picture; approximate)
+const UI_STOPS: [number, string][] = [[0, '#d7191c'], [1, '#ee4b2b'], [2, '#f37c20'], [3, '#f6a21e'], [4, '#f4d13a'], [5, '#c5d93b'], [6, '#8cc84b'], [7, '#2e9e4b'], [8, '#1a9f8b'], [9, '#1fa0c8'], [10, '#4aa4e8'], [11, '#3c6fd1'], [12, '#4a4fc4'], [13, '#7c4fc4'], [14, '#5a2d91']];
+/** colour of an indicator at a given pH (null = no pH-based rule) */
+export function indicatorColorAtPH(id: string, ph: number): string | null {
+  if (id === 'UniversalIndicator') return lerpStops(UI_STOPS, ph);
+  if (id === 'LitmusRed' || id === 'LitmusBlue') return lerpStops([[4.5, '#e05c5c'], [6.5, '#9a6bc0'], [8.3, '#4b6fd1']], ph);
+  if (id === 'Phenolphthalein') return lerpStops([[8.2, '#f5f2e9'], [10, '#e87fc4']], ph);
+  return null;
 }
 
 // ---------- main analysis ----------
@@ -151,7 +204,7 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
   if (precipPrev) rows.push({ id: '__ppt', name: (precipPrev as NonNullable<View['precip']>).name, formula: '↓', amount: '—', mol: `${fmt((precipPrev as NonNullable<View['precip']>).amount / 1000, 4)} mol` });
 
   // ---- which reaction applies ----
-  let reaction = findReactionAmong(mains.map(m => m.chem.id)) ?? null;
+  let reaction = findReactionAmong(mains.map(m => m.chem.id)) ?? dissolutionFor(mains) ?? null;
   const knownNoReact = !!reaction && (reaction.category === 'no-reaction' || SURE_NO_REACTION_ID.has(reaction.id));
   if (reaction && !knownNoReact) {
     reaction.reactants.forEach(r => info.part[r.id] = r.part);
@@ -216,6 +269,31 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
   info.productMl = productMl;
   info.productColor = real ? productColorOf(real) : CLEAR;
 
+  // ---- pH (only after the student has mixed/reacted, so it matches what is on screen) ----
+  let ph: number | null = null;
+  if (o.phase !== 'fresh' && baseLiquidMl >= 0.5 && liquidMains.some(m => m.chem.id !== 'Kerosene')) {
+    const V = baseLiquidMl / 1000;
+    let strongH = 0, strongOH = 0, wa = 0, ka = 0, wb = 0, kb = 0; let hyd: { type: 'acid' | 'base'; K: number; n: number } | null = null;
+    for (const m of mains) {
+      const rem = molesOf(m.chem, m.amount) * (1 - (real?.category === 'dissolution' ? 0 : (info.consumedFrac[m.chem.id] || 0)));
+      if (rem <= 1e-9) continue;
+      const a = m.chem.acid ?? (AB[m.chem.id]?.h ? { h: AB[m.chem.id].h!, ka: AB[m.chem.id].ka } : undefined);
+      const b = m.chem.base ?? (AB[m.chem.id]?.oh ? { oh: AB[m.chem.id].oh!, kb: AB[m.chem.id].kb } : undefined);
+      if (a) { if (a.ka) { wa += rem; ka = a.ka; } else strongH += a.h * rem; }
+      else if (b) { if (b.kb) { wb += rem; kb = b.kb; } else strongOH += b.oh * rem; }
+      else { const h = m.chem.hydrolysis ?? HYDRO[m.chem.id]; if (h) hyd = { ...h, n: rem }; }
+    }
+    mixes.forEach(mx => { if (mx.mix!.hydro) hyd = { ...mx.mix!.hydro }; });
+    const net = strongH - strongOH;
+    if (net > 1e-9) ph = -Math.log10(net / V);
+    else if (net < -1e-9) ph = 14 + Math.log10(-net / V);
+    else if (wa > 0 && wb === 0) ph = -Math.log10(Math.sqrt(ka * (wa / V)));
+    else if (wb > 0 && wa === 0) ph = 14 + Math.log10(Math.sqrt(kb * (wb / V)));
+    else if (hyd) ph = hyd.type === 'acid' ? -Math.log10(Math.sqrt(hyd.K * (hyd.n / V))) : 14 + Math.log10(Math.sqrt(hyd.K * (hyd.n / V)));
+    else ph = 7;
+    ph = Math.max(0, Math.min(14, Math.round(ph * 10) / 10));
+  }
+
   // ---- character (for indicators) ----
   let character: Character;
   if (real) character = excessChem ? charOf(excessChem) : 'neutral';
@@ -233,8 +311,8 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
   const ind = inds[0]?.chem;
   const indMl = inds.reduce((s, m) => s + m.amount, 0);
   if (ind) {
-    const indColor = INDICATOR_BEHAVIOR[ind.id][character].color;
-    const reactIndicatorApplies = !real || real.category === 'neutralization' || real.category.startsWith('gas-');
+    const indColor = (ph != null ? indicatorColorAtPH(ind.id, ph) : null) ?? INDICATOR_BEHAVIOR[ind.id][character].color;
+    const reactIndicatorApplies = !real || real.category === 'neutralization' || real.category.startsWith('gas-') || real.category === 'dissolution';
     if (o.phase === 'fresh') {
       color = blend([{ color, w: Math.max(baseLiquidMl - indMl, 0.01) }, { color: ind.color, w: indMl * 2 }]);
     } else if (reactIndicatorApplies && baseLiquidMl > 0) {
@@ -295,9 +373,15 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
       const txt = textFor(real);
       const nm = (c: Chemical) => `${c.nameBn} (${c.formula})`;
       const qty: string[] = [];
-      pairMains.forEach(m => qty.push(`${nm(m.chem)}: ${fmt(m.amount, 2)} ${unitOf(m.chem)} = ${fmt(molesOf(m.chem, m.amount), 4)} mol — সমীকরণে অনুপাত ${info.part[m.chem.id]}`));
-      qty.push(`সীমাবদ্ধ বিক্রিয়ক (limiting): ${limiting ? nm(limiting) : '—'} — এটি আগে শেষ হয়, তাই উৎপাদ এর পরিমাণের উপর নির্ভর করে।`);
-      if (excessChem) {
+      if (real.category === 'dissolution') {
+        const sol = pairMains.find(m => !isSolvent(m.chem))!;
+        qty.push(`${sol.chem.nameBn}: ${fmt(sol.amount, 2)} g = ${fmt(molesOf(sol.chem, sol.amount), 4)} mol`);
+        qty.push(`দ্রবণের আয়তন ≈ ${fmt(baseLiquidMl, 1)} mL → ঘনমাত্রা ≈ ${fmt((molesOf(sol.chem, sol.amount) / Math.max(baseLiquidMl, 0.1)) * 1000, 3)} mol/L (মোল ÷ লিটার)।`);
+      } else pairMains.forEach(m => qty.push(`${nm(m.chem)}: ${fmt(m.amount, 2)} ${unitOf(m.chem)} = ${fmt(molesOf(m.chem, m.amount), 4)} mol — সমীকরণে অনুপাত ${info.part[m.chem.id]}`));
+      const dis = real.category === 'dissolution';
+      if (!dis) qty.push(`সীমাবদ্ধ বিক্রিয়ক (limiting): ${limiting ? nm(limiting) : '—'} — এটি আগে শেষ হয়, তাই উৎপাদ এর পরিমাণের উপর নির্ভর করে।`);
+      if (dis) { /* no limiting/excess for a physical dissolution */ }
+      else if (excessChem) {
         const ex = pairMains.find(m => m.chem.id === (excessChem as Chemical).id)!;
         const left = molesOf(ex.chem, ex.amount) - info.xiMax * info.part[ex.chem.id];
         const leftAmt = ex.amount * (left / molesOf(ex.chem, ex.amount));
@@ -305,7 +389,9 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
       } else qty.push('দুটি বিক্রিয়ক প্রায় সঠিক অনুপাতে আছে — দুটোই প্রায় সম্পূর্ণ শেষ হবে।');
       if (eff?.gas) qty.push(`উৎপন্ন ${eff.gas}: সর্বোচ্চ ${fmt(info.xiMax * gasCoef, 4)} mol ≈ ${fmt(gasMlMax, 0)} mL (২৫°C-এ ২৪ L/mol ধরে)। এখন পর্যন্ত ≈ ${fmt(gasMl, 0)} mL।`);
       if (eff?.precipitate) qty.push(`অধঃক্ষেপ: সর্বোচ্চ ${fmt(info.xiMax * pCoef * 1000, 2)} mmol (${eff.precipitate.name})।`);
+      if (kin.dH < 0) qty.push(`আনুমানিক তাপমাত্রা হ্রাস: সর্বোচ্চ −${fmt(Math.abs(dTmax), 1)}°C (তাপহারী; আনুমানিক হিসাব)।`);
       if (kin.dH > 0) qty.push(`আনুমানিক তাপমাত্রা বৃদ্ধি: সর্বোচ্চ +${fmt(dTmax, 1)}°C (ΔH ≈ ${kin.dH} kJ/mol ধরে; এটি আনুমানিক হিসাব)।`);
+      if (ph != null) qty.push(`pH (গণনা করা মান) ≈ ${ph}।`);
       qty.push('ধরে নেওয়া হয়েছে: সব দ্রবণ ১ mol/L, ঘরের তাপমাত্রা ২৫°C।');
       if (gasMlMax < 2 && !eff?.precipitate && dTmax < 2) qty.push('⚠️ পরিমাণ খুব কম — বিক্রিয়া ঘটলেও পর্যবেক্ষণ করা কঠিন। আরও বেশি নিন।');
       const time: string[] = [`গতি: ${kin.note}।`, `সম্পূর্ণ হতে প্রায় ${fmt(tTotal, 0)} সেকেন্ড লাগবে (বর্তমান তাপমাত্রা ${fmt(o.baseTemp, 0)}°C-এ)।`];
@@ -325,7 +411,7 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
       const unm = !r2 && !rr.sure;
       explain = {
         kind: unm ? 'unmodelled' : 'no-reaction',
-        title: unm ? 'এই জোড়ার বিক্রিয়া ল্যাবের ডেটায় নেই' : 'কোনো বিক্রিয়া ঘটেনি',
+        title: rr.title ?? (unm ? 'এই জোড়ার বিক্রিয়া ল্যাবের ডেটায় নেই' : 'কোনো বিক্রিয়া ঘটেনি'),
         equation: r2 ? (r2.equation.includes('→') && r2.equation !== 'কোনো বিক্রিয়া নেই' ? r2.equation : `${names} → কোনো বিক্রিয়া নেই`) : `${names} → কোনো বিক্রিয়া নেই`,
         what: [r2 ? r2.observationBn : (unm ? 'এই ল্যাবে এই বিক্রিয়াটি মডেল করা হয়নি, তাই কোনো পরিবর্তন দেখানো হচ্ছে না।' : 'কোনো গ্যাস, অধঃক্ষেপ, রং বা তাপের পরিবর্তন দেখা যায়নি — শুধু মিশ্রণ হয়েছে।')],
         why: r2 && ['no-cu-hcl', 'no-nacl-na2so4'].includes(r2.id) ? noReactionReason(...((r2.reactants.map(x => x.id)) as [string, string])).why : rr.why,
@@ -339,7 +425,7 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
       const cn = character === 'acid' ? 'এসিড' : character === 'base' ? 'ক্ষার' : 'নিরপেক্ষ পদার্থ';
       explain = {
         kind: 'indicator', title: `${ind.nameBn} পরীক্ষা`, equation: `${m.nameBn} + ${ind.nameBn}`,
-        what: [`${ind.nameBn} ${b.label}।`, `এ থেকে প্রমাণ হয় ${m.nameBn} একটি ${cn}।`],
+        what: [`${ind.nameBn} ${b.label}।`, `এ থেকে প্রমাণ হয় ${m.nameBn} একটি ${cn}।`, ...(ph != null ? [`দ্রবণের pH ≈ ${ph} (গণনা), নির্দেশকের রং pH অনুযায়ী বদলায়।`] : [])],
         why: ['নির্দেশক এমন রঞ্জক পদার্থ যার অণুর গঠন H⁺ (এসিড) বা OH⁻ (ক্ষার)-এর উপস্থিতিতে বদলে যায়, ফলে রং বদলায়।', character === 'neutral' ? 'নিরপেক্ষ পদার্থে H⁺ ও OH⁻ সমান, তাই কোনো উল্লেখযোগ্য রং পরিবর্তন হয় না।' : `এখানে দ্রবণ ${cn} হওয়ায় নির্দেশকের রং ${b.label}।`],
         how: ['১) নির্দেশকের ফোঁটা দ্রবণে মেশে।', '২) দ্রবণের H⁺/OH⁻ নির্দেশক অণুর সাথে যুক্ত হয়ে তার গঠন বদলায়।', '৩) গঠন বদলালে আলো শোষণ বদলায় — তাই আমরা ভিন্ন রং দেখি।'],
         qty: [`${m.nameBn}: ${fmt(mains[0].amount, 2)} ${unitOf(m)} | নির্দেশক: ${fmt(indMl / DROP_ML, 0)} ফোঁটা (${fmt(indMl, 2)} mL)`, 'নির্দেশক কেবল শনাক্ত করে; এটি বিক্রিয়ায় উল্লেখযোগ্য পরিমাণে অংশ নেয় না — তাই অল্প ফোঁটাই যথেষ্ট।'],
@@ -361,10 +447,12 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
   const hasGas = (g: string) => !!real && real.effects.gas === g;
   const pred = real ?? null;
   const flame = o.heated;
-  if (pred && hasGas('H₂')) {
-    if (flame) risks.push({ level: 'danger', text: '🔥 বার্নার জ্বলছে অথচ হাইড্রোজেন (H₂) উৎপন্ন হবে/হচ্ছে — H₂ অত্যন্ত দাহ্য, বাতাসের সাথে মিশে বিস্ফোরণ ঘটাতে পারে! এখনই বার্নার নিভান।' });
-    else risks.push({ level: 'info', text: 'H₂ গ্যাস দাহ্য — বার্নার/খোলা আগুনের কাছে বিক্রিয়া করাবেন না।' });
-    if (pred.effects.vigor === 'high') risks.push({ level: 'warn', text: 'তীব্র বিক্রিয়া: প্রচুর তাপ ও দ্রুত গ্যাস — অল্প পরিমাণ নিন, মুখ সরিয়ে রাখুন।' });
+  const flam = pred && ['H₂', 'C₂H₂'].includes(String(pred.effects.gas)) ? String(pred.effects.gas) : '';
+  if (flam) {
+    const nm = flam === 'H₂' ? 'হাইড্রোজেন (H₂)' : 'ইথাইন/অ্যাসিটিলিন (C₂H₂)';
+    if (flame) risks.push({ level: 'danger', text: `🔥 বার্নার জ্বলছে অথচ ${nm} উৎপন্ন হবে/হচ্ছে — এটি অত্যন্ত দাহ্য, বাতাসের সাথে মিশে বিস্ফোরণ ঘটাতে পারে! এখনই বার্নার নিভান।` });
+    else risks.push({ level: 'info', text: `${flam} গ্যাস দাহ্য — বার্নার/খোলা আগুনের কাছে বিক্রিয়া করাবেন না।` });
+    if (pred?.effects.vigor === 'high') risks.push({ level: 'warn', text: 'তীব্র বিক্রিয়া: প্রচুর তাপ ও দ্রুত গ্যাস — অল্প পরিমাণ নিন, মুখ সরিয়ে রাখুন।' });
   }
   if (pred && hasGas('NH₃')) risks.push({ level: flame ? 'danger' : 'warn', text: flame ? '☣️ গরম অবস্থায় প্রচুর অ্যামোনিয়া (NH₃) নির্গত হবে — ঝাঁঝালো ও শ্বাসকষ্টকর; ফিউম হুডে কাজ করুন, মুখ দূরে রাখুন।' : '☣️ অ্যামোনিয়া (NH₃) ঝাঁঝালো ও চোখ-নাকে জ্বালাকর গ্যাস — সরাসরি শুঁকবেন না।' });
   if (pred && pred.category === 'gas-carbonate') {
@@ -372,8 +460,10 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
     if (fill > 0.8) risks.push({ level: 'danger', text: '🫧 পাত্র প্রায় ভর্তি — CO₂-এর ফেনা উপচে পড়বে! কম পরিমাণ নিন বা বড় পাত্র ব্যবহার করুন।' });
     else if (fill > 0.5) risks.push({ level: 'warn', text: '🫧 CO₂ ফেনা তৈরি করে — পাত্র অর্ধেকের বেশি ভরা থাকলে উপচে পড়তে পারে।' });
   }
+  if (pred && dTmax <= -3) risks.push({ level: 'info', text: `🧊 তাপহারী বিক্রিয়া — পাত্র ঠান্ডা হবে (প্রায় ${fmt(Math.abs(dTmax), 0)}°C কমবে)।` });
   if (pred && dTmax >= 35) risks.push({ level: 'danger', text: `🌡️ তাপমাত্রা প্রায় +${fmt(dTmax, 0)}°C বাড়বে — ফুটে ছিটকে পড়ার ও পোড়ার ঝুঁকি! কম পরিমাণ নিন।` });
   else if (pred && dTmax >= 15) risks.push({ level: 'warn', text: `🌡️ পাত্র বেশ গরম হবে (+${fmt(dTmax, 0)}°C) — হাত দিয়ে ধরবেন না, টেস্ট টিউব হোল্ডার ব্যবহার করুন।` });
+  if (o.heated && mains.some(m => m.chem.id === 'Kerosene')) risks.push({ level: 'danger', text: '🔥 কেরোসিন দাহ্য — বার্নারের শিখার কাছে আগুন ধরে যেতে পারে। বার্নার নিভান।' });
   if (o.baseTemp >= 90) risks.push({ level: 'danger', text: '♨️ তরল প্রায় ফুটছে — ছিটকে পড়তে পারে। মুখ পাত্রের দিকে/কারো দিকে রাখবেন না; বার্নার নিভান।' });
   if (o.heated && baseLiquidMl === 0 && contents.length) risks.push({ level: 'warn', text: '⚠️ খালি/শুকনো পাত্র গরম করলে কাচ ফেটে যেতে পারে — আগে তরল যোগ করুন।' });
   if (o.heated && o.cap <= 20 && baseLiquidMl / o.cap > 0.6) risks.push({ level: 'warn', text: '⚠️ গরম করার সময় টেস্ট টিউবে এক-তৃতীয়াংশের বেশি তরল নেবেন না — ফুটে ছিটকে পড়তে পারে।' });
@@ -388,7 +478,7 @@ export function analyze(contents: Content[], o: SimOpts): { view: View; info: In
 
   const view: View = {
     color, liquidAmount: baseLiquidMl, precip, solids, bubbles, gas, smell, warm, character, explain,
-    reactionId: real?.id ?? null, rows, risks, progress: p, done, tTotal, temp, gasMl, reacting: reactingNow && !done, hasReaction: !!real,
+    reactionId: real?.id ?? null, rows, risks, progress: p, done, tTotal, temp, gasMl, reacting: reactingNow && !done, hasReaction: !!real, ph,
     fumes, foam, suspension, flakes,
   };
   return { view, info };
@@ -415,7 +505,10 @@ export function commitReaction(contents: Content[], o: SimOpts): Content[] {
     const keep = isSolidLike(m.chem) ? left > 0.02 : (m.chem.type === 'indicator' ? true : left > 0.05);
     if (keep) out.push({ chemId: m.chem.id, amount: +left.toFixed(3) });
   });
-  out.push({ amount: +productMl.toFixed(3), mix: { color: blend(colorParts), character: 'neutral', precip: view.precip } });
+  let hydro: Mix['hydro'];
+  if (info.reaction.category === 'dissolution') merged.forEach(m => { const h = m.chem.hydrolysis ?? HYDRO[m.chem.id]; if (h && (info.consumedFrac[m.chem.id] || 0) > 0) hydro = { ...h, n: molesOf(m.chem, m.amount) * info.consumedFrac[m.chem.id] }; });
+  prevMix.forEach(m => { if (m.mix!.hydro && !hydro) hydro = m.mix!.hydro; });
+  out.push({ amount: +productMl.toFixed(3), mix: { color: blend(colorParts), character: 'neutral', precip: view.precip, ...(hydro ? { hydro } : {}) } });
   return out;
 }
 
@@ -443,6 +536,8 @@ export function defaultAmount(c: Chemical): number {
 export const SHELF_ORDER: { key: string; bn: string; en: string }[] = [
   { key: 'acid', bn: 'এসিড', en: 'Acids' }, { key: 'base', bn: 'ক্ষার', en: 'Bases' },
   { key: 'salt', bn: 'লবণ', en: 'Salts' }, { key: 'metal', bn: 'ধাতু', en: 'Metals' },
+  { key: 'nonmetal', bn: 'অধাতু', en: 'Non-metals' }, { key: 'oxide', bn: 'অক্সাইড', en: 'Oxides' },
+  { key: 'organic', bn: 'জৈব ও অন্যান্য', en: 'Organic & others' },
   { key: 'indicator', bn: 'নির্দেশক', en: 'Indicators' },
 ];
 export { CHEMICALS };

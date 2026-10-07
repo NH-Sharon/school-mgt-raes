@@ -1,0 +1,1672 @@
+{
+ "chapter": 7,
+ "pdf_pages": [
+  147,
+  172
+ ],
+ "experiments": [
+  {
+   "id": "c7-e1",
+   "topic_title_bn": "রাসায়নিক বিক্রিয়ার লক্ষণ",
+   "title_bn": "মিথেনের দহন (রাসায়নিক পরিবর্তনের উদাহরণ)",
+   "book_page": 144,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জলীয় বাষ্প/পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)",
+   "conditions": "পোড়ানো; তাপ শক্তি উৎপন্ন (পৃ.১৪৪); সমীকরণ পৃ.১৪৫-এ",
+   "observations_bn": "মিথেনকে অক্সিজেনে পোড়ালে কার্বন ডাই-অক্সাইড, জলীয় বাষ্প ও তাপ শক্তি উৎপন্ন হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e2",
+   "topic_title_bn": "রাসায়নিক বিক্রিয়ার লক্ষণ",
+   "title_bn": "ক্যালসিয়াম কার্বনেট ও হাইড্রোক্লোরিক এসিডের বিক্রিয়া",
+   "book_page": 145,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g)↑ + H₂O(l)",
+   "conditions": "",
+   "observations_bn": "ক্যালসিয়াম ক্লোরাইড, কার্বন ডাই-অক্সাইড ও পানি উৎপন্ন হয়",
+   "materials_bn": [
+    "ক্যালসিয়াম কার্বনেট",
+    "হাইড্রোক্লোরিক এসিড"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "পাঠ্যে শুধু বিবরণ, কাজ নয়। বইয়ে সমীকরণে ↑ নেই; (g) আছে",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e3",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "ক্যালসিয়াম কার্বনেটের তাপীয় বিয়োজন (একমুখী)",
+   "book_page": 145,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড (কঠিন চুন)",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃(s) → CaO(s) + CO₂(g)↑",
+   "conditions": "তাপ (খোলা পাত্রে)",
+   "observations_bn": "গ্যাসীয় CO₂ পাত্র থেকে অপসারিত হয়, কঠিন চুন আর CaCO₃ হয় না",
+   "materials_bn": [
+    "খোলা পাত্র",
+    "ক্যালসিয়াম কার্বনেট"
+   ],
+   "procedure_bn": [
+    "খোলা পাত্রে CaCO₃ তাপ দাও"
+   ],
+   "safety_bn": "তীব্র তাপ",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e4",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "ইথানল ও ইথানোয়িক এসিড থেকে ইথাইল ইথানোয়েট (উভমুখী)",
+   "book_page": 146,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট এস্টার",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OH + CH₃COOH ⇌ CH₃COOC₂H₅ + H₂O",
+   "conditions": "HCl-এর উপস্থিতিতে (বইয়ে তীরের উপর HCl)",
+   "observations_bn": "উভমুখী; বিপরীতে এস্টার ও পানি থেকে ইথানল ও ইথানয়িক এসিড",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e5",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "হাইড্রোজেন ও আয়োডিন থেকে হাইড্রোজেন আয়োডাইড (উভমুখী)",
+   "book_page": 146,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂ + I₂ ⇌ 2HI",
+   "conditions": "শর্ত বইয়ে নেই",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e6",
+   "topic_title_bn": "তাপোৎপাদী ও তাপহারী বিক্রিয়া",
+   "title_bn": "হেবার প্রণালীতে অ্যামোনিয়া উৎপাদন (তাপোৎপাদী)",
+   "book_page": 146,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92 kJ ; ΔH = −92 kJ (পৃ.১৪৭)",
+   "conditions": "প্রভাবক Fe চূর্ণ; 200-250 atm; 450°C-550°C",
+   "observations_bn": "1 মোল N₂ ও 3 মোল H₂ থেকে 2 মোল NH₃ উৎপাদনে 92 kJ তাপ উৎপন্ন",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e7",
+   "topic_title_bn": "তাপোৎপাদী ও তাপহারী বিক্রিয়া",
+   "title_bn": "নাইট্রোজেন ও অক্সিজেন থেকে নাইট্রিক অক্সাইড (তাপহারী)",
+   "book_page": 147,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + O₂(g) + 180 kJ ⇌ 2NO(g) ; ΔH = +180 kJ",
+   "conditions": "শর্ত বইয়ে নেই",
+   "observations_bn": "2 মোল NO উৎপন্ন হতে 180 kJ তাপ শোষিত হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e8",
+   "topic_title_bn": "জারণ-বিজারণ",
+   "title_bn": "সোডিয়াম ও ক্লোরিন থেকে সোডিয়াম ক্লোরাইড (জারণ-বিজারণ)",
+   "book_page": 148,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Na + Cl₂ → 2NaCl (বইয়ে Na + ½Cl₂ → NaCl)",
+   "conditions": "",
+   "observations_bn": "Na ইলেকট্রন ত্যাগ করে (বিজারক, Na⁰→Na⁺+e⁻); Cl ইলেকট্রন গ্রহণ করে (জারক, Cl⁰+e⁻→Cl⁻) (পৃ.১৫১)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e9",
+   "topic_title_bn": "জারণ-বিজারণ",
+   "title_bn": "ফেরাস ক্লোরাইডের সাথে ক্লোরিনের বিক্রিয়া (সংযোজন/জারণ)",
+   "book_page": 152,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2FeCl₂(aq) + Cl₂(g) → 2FeCl₃(aq)",
+   "conditions": "",
+   "observations_bn": "FeCl₂ জারিত, Cl₂ জারক (পৃ.১৬৬ MCQ-ও)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e10",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "নাইট্রোজেন ও হাইড্রোজেনের সংযোজন",
+   "book_page": 152,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂ + 3H₂ → 2NH₃",
+   "conditions": "শর্ত এই পাতায় নেই",
+   "observations_bn": "সংযোজন/সংশ্লেষণ বিক্রিয়ার উদাহরণ",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e11",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "ফসফরাস পেন্টাক্লোরাইডের বিয়োজন",
+   "book_page": 152,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "PCl₅ → PCl₃ + Cl₂↑",
+   "conditions": "তাপ",
+   "observations_bn": "বিয়োজন বিক্রিয়ার উদাহরণ",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "c7-e12",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পানির তড়িৎবিশ্লেষণ",
+   "book_page": 152,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2H₂O(l) → 2H₂(g)↑ + O₂(g)↑",
+   "conditions": "তড়িৎবিশ্লেষণ",
+   "observations_bn": "অ্যানোডে অক্সিজেন, ক্যাথোডে হাইড্রোজেন",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e13",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "জিংক ও সালফিউরিক এসিডের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 152,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Zn(s) + H₂SO₄(l) → ZnSO₄(aq) + H₂(g)↑",
+   "conditions": "",
+   "observations_bn": "জিংক এসিডের হাইড্রোজেনকে প্রতিস্থাপিত করে হাইড্রোজেন গ্যাস উৎপন্ন করে",
+   "materials_bn": [
+    "জিংক",
+    "সালফিউরিক এসিড"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "বইয়ে H₂SO₄ (l) লেখা; এসিড লঘু ব্যবহার করা বইয়ে বলা নেই",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e14",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "মিথেনের দহন বিক্রিয়া",
+   "book_page": 153,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g) + তাপ",
+   "conditions": "বাতাসে পোড়ানো",
+   "observations_bn": "দহনে সব সময় তাপ উৎপন্ন হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e15",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "সালফারের দহন",
+   "book_page": 153,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "S(s) + O₂(g) → SO₂(g) + তাপ",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e16",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "কার্বনের দহন",
+   "book_page": 153,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C(s) + O₂(g) → CO₂(g) + তাপ",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e17",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "ম্যাগনেসিয়ামের দহন",
+   "book_page": 153,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+     "formula": "MgO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Mg(s) + O₂(g) → 2MgO(g) + তাপ",
+   "conditions": "",
+   "observations_bn": "বইয়ে MgO-এর পাশে (g) ছাপা আছে (বইয়ের লেখা অনুযায়ী)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e18",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "হাইড্রোজেনের দহন",
+   "book_page": 153,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2H₂(g) + O₂(g) → 2H₂O(g) + তাপ",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e19",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "প্রশমন বিক্রিয়া HCl ও NaOH (পাঠ্য)",
+   "book_page": 153,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l) ; ΔH = −57.34 kJ; আয়নিক: H⁺ + OH⁻ → H₂O + 57.34 kJ",
+   "conditions": "",
+   "observations_bn": "প্রশমন সর্বদা তাপোৎপাদী; 1 মোল পানি উৎপন্নে 57.34 kJ (প্রশমন তাপ) (পৃ.১৫৪)",
+   "materials_bn": [
+    "HCl",
+    "NaOH"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e20",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পরীক্ষণ: প্রশমন বিক্রিয়া প্রদর্শন",
+   "book_page": 154,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)",
+   "conditions": "",
+   "observations_bn": "যে মুহূর্তে নীল লিটমাস পেপারের রং লাল হবে সেই মুহূর্তে NaOH দ্রবণ HCl দ্বারা প্রশমিত হয়েছে",
+   "materials_bn": [
+    "কাচপাত্র/বিকার",
+    "10 mL NaOH দ্রবণ",
+    "HCl দ্রবণ",
+    "নীল লিটমাস পেপার",
+    "ড্রপার",
+    "কাচদণ্ড"
+   ],
+   "procedure_bn": [
+    "একটি কাচপাত্র বা বিকারে 10 mL NaOH দ্রবণ নাও",
+    "অপর বিকারে HCl দ্রবণ নাও",
+    "NaOH দ্রবণে নীল লিটমাস পেপার নিমজ্জিত করো",
+    "ড্রপার দিয়ে বাম হাতে HCl ধীরে ধীরে NaOH দ্রবণে ঢালো",
+    "একই সময়ে ডান হাতে কাচদণ্ড দিয়ে নেড়ে মিশ্রিত করো",
+    "লিটমাস পেপার লাল হলে প্রশমন হয়েছে বোঝো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e21",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "অধঃক্ষেপণ: NaCl ও AgNO₃",
+   "book_page": 155,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaCl(aq) + AgNO₃(aq) → AgCl(s)↓ + NaNO₃(aq)",
+   "conditions": "",
+   "observations_bn": "AgCl পাত্রের তলায় অধঃক্ষেপ; NaNO₃ দ্রবীভূত থাকে; পৃ.১৬০-এ 1 সেকেন্ডের কম সময়ে সাদা AgCl অধঃক্ষেপ",
+   "materials_bn": [
+    "NaCl দ্রবণ",
+    "AgNO₃ দ্রবণ"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e22",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "অধঃক্ষেপণ: Na₂SO₄ ও BaCl₂",
+   "book_page": 155,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "বেরিয়াম ক্লোরাইড",
+     "formula": "BaCl₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিয়াম সালফেট",
+     "formula": "BaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s)↓ + 2NaCl(aq)",
+   "conditions": "",
+   "observations_bn": "BaSO₄ অধঃক্ষিপ্ত হয়",
+   "materials_bn": [
+    "Na₂SO₄ দ্রবণ",
+    "BaCl₂ দ্রবণ"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "বেরিয়াম লবণ বিষাক্ত (বইয়ে নেই; সাধারণ সতর্কতা)",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e23",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পরীক্ষণ: অধঃক্ষেপণ বিক্রিয়া প্রদর্শন (FeSO₄ + NaOH)",
+   "book_page": 155,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস হাইড্রক্সাইড",
+     "formula": "Fe(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeSO₄ + 2NaOH → Fe(OH)₂↓ + Na₂SO₄ (বইয়ে অসমতাকৃত: FeSO₄ + NaOH → Fe(OH)₂↓ + Na₂SO₄)",
+   "conditions": "",
+   "observations_bn": "দ্রবণে ধীরে ধীরে সবুজ বর্ণের অধঃক্ষেপ তৈরি হয়ে নিচে জমা পড়ে (চিত্র ৭.০২)",
+   "materials_bn": [
+    "পরীক্ষা নল",
+    "2-3 mL ফেরাস সালফেট দ্রবণ",
+    "NaOH দ্রবণ",
+    "ড্রপার"
+   ],
+   "procedure_bn": [
+    "একটি পরীক্ষা নলে 2-3 mL ফেরাস সালফেট দ্রবণ নাও",
+    "ফোঁটায় ফোঁটায় NaOH দ্রবণ যোগ করো",
+    "সবুজ অধঃক্ষেপ লক্ষ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e24",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "আর্দ্র বিশ্লেষণ: SiCl₄ ও পানি",
+   "book_page": 156,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সিলিকন টেট্রাক্লোরাইড",
+     "formula": "SiCl₄",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলিকন হাইড্রক্সাইড",
+     "formula": "Si(OH)₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "SiCl₄ + 4H₂O → Si(OH)₄ + 4HCl (বইয়ে অসমতাকৃত: SiCl₄ + H₂O → Si(OH)₄ + 4HCl)",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [
+    "SiCl₄"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "SiCl₄ ক্ষয়কারী, ধোঁয়া উৎপন্ন করে (বইয়ে নেই)",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e25",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "আর্দ্র বিশ্লেষণ: AlCl₃ ও পানি",
+   "book_page": 156,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "AlCl₃(s) + 3H₂O(l) → Al(OH)₃(s) + 3HCl(aq)",
+   "conditions": "",
+   "observations_bn": "Al(OH)₃ পানিতে অদ্রবণীয় (অধঃক্ষেপ হিসেবেও গণ্য)",
+   "materials_bn": [
+    "AlCl₃",
+    "পানি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e26",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পানিযোজন: CuSO₄ + 5H₂O",
+   "book_page": 156,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট (অনার্দ্র)",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পেন্টা হাইড্রেট কপার সালফেট",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "CuSO₄ + 5H₂O → CuSO₄·5H₂O",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [
+    "কপার সালফেট",
+    "পানি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e27",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পানিযোজন: ZnSO₄ + 7H₂O",
+   "book_page": 157,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেপ্টা হাইড্রেট জিংক সালফেট",
+     "formula": "ZnSO₄·7H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "ZnSO₄ + 7H₂O → ZnSO₄·7H₂O",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [
+    "জিংক সালফেট",
+    "পানি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "বইয়ে MgCl₂·7H₂O ও CaCl₂·6H₂O এভাবেই লেখা",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e28",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পানিযোজন: FeSO₄ + 7H₂O",
+   "book_page": 157,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেপ্টা হাইড্রেট ফেরাস সালফেট",
+     "formula": "FeSO₄·7H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "FeSO₄ + 7H₂O → FeSO₄·7H₂O",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [
+    "ফেরাস সালফেট",
+    "পানি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "বইয়ে MgCl₂·7H₂O ও CaCl₂·6H₂O এভাবেই লেখা",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e29",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পানিযোজন: CaCl₂ + 6H₂O",
+   "book_page": 157,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেক্সা হাইড্রেট ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂·6H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "CaCl₂ + 6H₂O → CaCl₂·6H₂O",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম ক্লোরাইড",
+    "পানি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "বইয়ে MgCl₂·7H₂O ও CaCl₂·6H₂O এভাবেই লেখা",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e30",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পানিযোজন: MgCl₂ + 7H₂O",
+   "book_page": 157,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেপ্টা হাইড্রেট ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂·7H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "MgCl₂ + 7H₂O → MgCl₂·7H₂O",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [
+    "ম্যাগনেসিয়াম ক্লোরাইড",
+    "পানি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "বইয়ে MgCl₂·7H₂O ও CaCl₂·6H₂O এভাবেই লেখা",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e31",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "সমানুকরণ: অ্যামোনিয়াম সায়ানেট থেকে ইউরিয়া",
+   "book_page": 157,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম সায়ানেট",
+     "formula": "NH₄CNO",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইউরিয়া",
+     "formula": "H₂N-CO-NH₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "NH₄CNO → H₂N-CO-NH₂",
+   "conditions": "তাপ",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e32",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পলিমারকরণ: ইথিলিন থেকে পলিথিন",
+   "book_page": 157,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ইথিলিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিথিন",
+     "formula": "(-CH₂-CH₂-)ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "n(CH₂=CH₂) → (-CH₂-CH₂-)ₙ",
+   "conditions": "O₂ প্রভাবক; 200°C; 1000 atm",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e33",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "লোহায় মরিচা পড়া",
+   "book_page": 158,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "লোহা",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আর্দ্র ফেরিক অক্সাইড (মরিচা)",
+     "formula": "Fe₂O₃·nH₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Fe + 1.5O₂ + 3H₂O → 2Fe(OH)₃ ; 2Fe(OH)₃ → Fe₂O₃·nH₂O",
+   "conditions": "বাতাসে মুক্ত অবস্থায় রাখা",
+   "observations_bn": "লোহার পৃষ্ঠে মরিচা পড়ে",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e34",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "Cu ও Al-এর ক্ষয়রোধ (CuO, Al₂O₃ আস্তরণ)",
+   "book_page": 158,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার অক্সাইড",
+     "formula": "CuO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যালুমিনিয়াম অক্সাইড",
+     "formula": "Al₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "বইয়ে সমীকরণ নেই",
+   "conditions": "",
+   "observations_bn": "উৎপন্ন আস্তরণ ধাতুকে রক্ষা করে",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e35",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "পিঁপড়া/মৌমাছির কামড়ে চুন প্রয়োগ",
+   "book_page": 158,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "চুন (ক্ষার)",
+     "formula": "Ca(OH)₂",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "পিঁপড়া/মৌমাছির এসিড",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লবণ ও পানি",
+     "formula": "—",
+     "state": "solution"
+    }
+   ],
+   "equation": "বইয়ে সমীকরণ নেই; এসিড ও ক্ষারের প্রশমন",
+   "conditions": "",
+   "observations_bn": "এসিড প্রশমিত হয়ে জ্বালা বন্ধ হয়",
+   "materials_bn": [
+    "চুন"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "বইয়ে এসিডের নাম ও চুনের সংকেত নেই; Ca(OH)₂ অনুমান",
+   "confidence": "inferred"
+  },
+  {
+   "id": "c7-e36",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "শ্বসনে গ্লুকোজের জারণ",
+   "book_page": 159,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + শক্তি",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e37",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "অ্যান্টাসিড: HCl ও Mg(OH)₂",
+   "book_page": 159,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সাইড",
+     "formula": "Mg(OH)₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2HCl + Mg(OH)₂ → MgCl₂ + 2H₂O",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [
+    "HCl",
+    "Mg(OH)₂"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e38",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "অ্যান্টাসিড: HCl ও Al(OH)₃",
+   "book_page": 159,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3HCl + Al(OH)₃ → AlCl₃ + 3H₂O",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [
+    "HCl",
+    "Al(OH)₃"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e39",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "প্রাকৃতিক গ্যাস (মিথেন) জ্বালানি হিসেবে",
+   "book_page": 159,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + 2O₂ → CO₂ + 2H₂O + শক্তি",
+   "conditions": "",
+   "observations_bn": "CNG, ডিজেল, পেট্রল, কেরোসিন, অক্টেন পোড়ালেও CO₂, জলীয় বাষ্প ও তাপশক্তি",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e40",
+   "topic_title_bn": "বিক্রিয়ার প্রকারভেদ",
+   "title_bn": "বালু (SiO₂) দিয়ে ছাদ/আঙিনার পিচ্ছিলতা দূর",
+   "book_page": 160,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "বালু (সিলিকন ডাই-অক্সাইড, অম্লধর্মী)",
+     "formula": "SiO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্ষার জাতীয় পদার্থ (শৈবাল)",
+     "formula": "—",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "products": [],
+   "equation": "বইয়ে সমীকরণ নেই",
+   "conditions": "",
+   "observations_bn": "অম্ল-ক্ষার প্রশমনে পিচ্ছিলতা দূর হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c7-e41",
+   "topic_title_bn": "বিক্রিয়ার হার ও প্রভাবক",
+   "title_bn": "অনুসন্ধান: বিক্রিয়ার হার পরীক্ষা (Na₂CO₃ + লেবুর রস/ভিনেগার)",
+   "book_page": 161,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট (কাপড় কাচা সোডা)",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "লেবুর রস (সাইট্রিক এসিড) বা ভিনেগার (4-10% অ্যাসিটিক এসিড)",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড (গ্যাসের বুদবুদ; বইয়ে নাম নেই)",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "বইয়ে সমীকরণ নেই",
+   "conditions": "1,2 নং টেস্টটিউবে স্বাভাবিক পানি; 3,4 নং-এ গরম পানি (চিত্র ৭.০৪)",
+   "observations_bn": "বইয়ের প্রশ্ন: কোনটিতে গ্যাসের বুদবুদ বেশি/কম; গরম পানিতে হার পরিবর্তন লক্ষ করা (উত্তর বইয়ে নেই)",
+   "materials_bn": [
+    "4টি টেস্টটিউব/কাচের গ্লাস (1-4 চিহ্নিত)",
+    "প্রতিটিতে আনুমানিক 0.5 গ্রাম Na₂CO₃",
+    "স্বাভাবিক পানি",
+    "গরম পানি",
+    "1 mL লেবুর রস/ভিনেগার"
+   ],
+   "procedure_bn": [
+    "চারটি টেস্টটিউব 1,2,3,4 চিহ্নিত করো",
+    "প্রতিটিতে আনুমানিক 0.5 গ্রাম Na₂CO₃ নাও",
+    "1 ও 2-এ স্বাভাবিক পানি, 3 ও 4-এ গরম পানি ঢালো",
+    "2 ও 4-এ 1 mL লেবুর রস বা ভিনেগার যোগ করো",
+    "গ্যাসের বুদবুদ লক্ষ করো"
+   ],
+   "safety_bn": "বইয়ে '0.5 মি.গ্রা.' ছাপা, সম্ভবত গ্রাম",
+   "confidence": "partly-legible"
+  }
+ ],
+ "chemicals_mentioned": [
+  {
+   "name_bn": "সোডিয়াম ক্লোরাইড",
+   "formula": "NaCl",
+   "state": "solution",
+   "colour_bn": "বর্ণহীন"
+  },
+  {
+   "name_bn": "সিলভার নাইট্রেট",
+   "formula": "AgNO₃",
+   "state": "solution",
+   "colour_bn": "বর্ণহীন"
+  },
+  {
+   "name_bn": "সিলভার ক্লোরাইড",
+   "formula": "AgCl",
+   "state": "solid",
+   "colour_bn": "সাদা"
+  },
+  {
+   "name_bn": "ফেরাস সালফেট",
+   "formula": "FeSO₄",
+   "state": "solution",
+   "colour_bn": "বইয়ে নেই"
+  },
+  {
+   "name_bn": "ফেরাস হাইড্রক্সাইড",
+   "formula": "Fe(OH)₂",
+   "state": "solid",
+   "colour_bn": "সবুজ"
+  },
+  {
+   "name_bn": "কপার সালফেট",
+   "formula": "CuSO₄",
+   "state": "solid",
+   "colour_bn": "বইয়ে নেই"
+  },
+  {
+   "name_bn": "নীল লিটমাস পেপার",
+   "formula": "—",
+   "state": "solid",
+   "colour_bn": "নীল (এসিডে লাল)"
+  },
+  {
+   "name_bn": "লেবুর রস/সাইট্রিক এসিড",
+   "formula": "—",
+   "state": "solution",
+   "colour_bn": "বইয়ে নেই"
+  },
+  {
+   "name_bn": "ভিনেগার/অ্যাসিটিক এসিড (4-10%)",
+   "formula": "CH₃COOH",
+   "state": "solution",
+   "colour_bn": "বইয়ে নেই"
+  },
+  {
+   "name_bn": "কাপড় কাচা সোডা",
+   "formula": "Na₂CO₃",
+   "state": "solid",
+   "colour_bn": "বইয়ে নেই"
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "বইয়ের অধ্যায় ৭-এর কাঠামো ৬টি নির্ধারিত topic-এর সাথে হুবহু মেলে না (৭.১ পদার্থের পরিবর্তন, ৭.২ শ্রেণিবিভাগ, ৭.৩ বিশেষ ধরন, ৭.৪ বাস্তব উদাহরণ, ৭.৫ হার/লা-শাতেলিয়ার); নিকটতম topic-এ ম্যাপ করা হয়েছে। 'সমীকরণ ও সমতাকরণ' নামে কোনো আলাদা অংশ নেই, তাই কোনো item নেই। জারণ সংখ্যা নির্ণয়ের একক কাজ (পৃ.১৫০) ও ৭.৫.১ লা-শাতেলিয়ার নীতির আলোচনায় নতুন বিক্রিয়া/পরীক্ষা নেই (N₂+H₂ ও N₂+O₂ পুনরাবৃত্ত)। অনুশীলনী (পৃ.১৬৫-১৬৭) বাদ। ডুপ্লিকেট: পৃ.১৪৪ মিথেন দহন ও পৃ.১৫৩ আলাদাভাবে রাখা। 'equation'-এ বইয়ে অসমতাকৃত থাকলে সমতাকৃত রূপ দিয়ে বন্ধনীতে বইয়েরটি উল্লেখ করা হয়েছে। book_page = বইয়ের পৃষ্ঠা।"
+}

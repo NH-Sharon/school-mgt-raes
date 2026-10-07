@@ -1,0 +1,1484 @@
+{
+ "chapter": 10,
+ "pdf_pages": [
+  238,
+  265
+ ],
+ "experiments": [
+  {
+   "id": "c10-e1",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "তেল ফেনা ভাসমান প্রণালির পরীক্ষা (ফেনা ভাসমান পদ্ধতি)",
+   "book_page": 239,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "বালি",
+     "formula": "SiO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কপার পাইরাইট/গ্যালেনা/হেমাটাইট গুঁড়া আকরিক",
+     "formula": "CuFeS₂ / PbS / Fe₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কেরোসিন",
+     "formula": "",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "তরল/গুঁড়া সাবান",
+     "formula": "",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "কক্ষ তাপমাত্রা; কেবল ঝাঁকানো, রাসায়নিক বিক্রিয়া নেই",
+   "observations_bn": "বালি তলানিতে পড়ে থাকে কিন্তু খনিজ টেস্টটিউবের উপরের অংশে ভাসমান থাকে; ফেনা স্প্যাচুলা দিয়ে ওয়াচ গ্লাসে নিয়ে পরীক্ষা করা হয়",
+   "materials_bn": [
+    "বালি",
+    "কেরোসিন",
+    "স্পেচুলা",
+    "তরল/গুঁড়া সাবান",
+    "ওয়াচ গ্লাস",
+    "ছিপিসহ বড় টেস্টটিউব",
+    "কপার পাইরাইট, গ্যালেনা বা হেমাটাইট আকরিক গুঁড়া"
+   ],
+   "procedure_bn": [
+    "বালি ও আকরিক গুঁড়া টেস্টটিউবে নিয়ে পানি দাও; ছিপি লাগিয়ে ঝাঁকাও; বালি ও খনিজ পৃথক হয়েছে কি না দেখো",
+    "একটু তরল/গুঁড়া সাবান ও কয়েক ফোঁটা কেরোসিন যোগ করো",
+    "ছিপি লাগিয়ে পুনরায় ভালো করে ঝাঁকাও",
+    "স্পেচুলা দিয়ে কিছুটা ফেনা ওয়াচ গ্লাসে নিয়ে খনিজ আছে কি না পরীক্ষা করো",
+    "বালি তলানিতে পড়ে থাকে, খনিজ উপরের অংশে ভাসমান থাকে"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "c10-e2",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "বক্সাইট ও NaOH-এর বিক্রিয়া (রাসায়নিক পদ্ধতি)",
+   "book_page": 240,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "বক্সাইট",
+     "formula": "Al₂O₃·2H₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যালুমিনেট",
+     "formula": "NaAlO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Al₂O₃·2H₂O + 2NaOH →(Δ) 2NaAlO₂ + 3H₂O",
+   "conditions": "উত্তপ্ত করা (Δ); তাপমাত্রা বইয়ে উল্লেখ নেই",
+   "observations_bn": "বক্সাইটের সাথে মিশ্রিত আয়রন অক্সাইড, টাইটেনিয়াম অক্সাইড, বালি ইত্যাদি অপদ্রব্য থাকে",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e3",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "সোডিয়াম অ্যালুমিনেটের পানির সাথে বিক্রিয়া",
+   "book_page": 240,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "গরম সোডিয়াম অ্যালুমিনেট",
+     "formula": "NaAlO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রোক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaAlO₂ + 2H₂O → Al(OH)₃↓ + NaOH",
+   "conditions": "গরম দ্রবণ",
+   "observations_bn": "NaOH পানিতে দ্রবীভূত থাকে এবং Al(OH)₃ পাত্রের নিচে তলানি আকারে অধঃক্ষিপ্ত হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e4",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "অ্যালুমিনিয়াম হাইড্রোক্সাইডের তাপীয় বিয়োজন",
+   "book_page": 241,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রোক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম অক্সাইড",
+     "formula": "Al₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Al(OH)₃ →(1100°C) Al₂O₃ + 3H₂O",
+   "conditions": "1100°C",
+   "observations_bn": "বিশুদ্ধ অ্যালুমিনিয়াম অক্সাইড ও পানি উৎপন্ন হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e5",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "আকরিকের ভস্মীকরণ: Fe₂O₃·3H₂O",
+   "book_page": 241,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রেটেড আয়রন অক্সাইড",
+     "formula": "Fe₂O₃·3H₂O",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) অক্সাইড",
+     "formula": "Fe₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "Fe₂O₃·3H₂O →(Δ) Fe₂O₃ + 3H₂O",
+   "conditions": "গলনাঙ্কের চেয়ে কম তাপমাত্রায়, বাতাসের অনুপস্থিতিতে উত্তপ্ত করা",
+   "observations_bn": "পানি ও CO₂ ইত্যাদি অপদ্রব্য বাষ্পীভূত হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e6",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "আকরিকের ভস্মীকরণ: ZnCO₃",
+   "book_page": 241,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "জিংক কার্বনেট",
+     "formula": "ZnCO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "ZnCO₃ →(Δ) ZnO + CO₂↑",
+   "conditions": "উত্তপ্ত করা",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e7",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "আকরিকের ভস্মীকরণ: CaCO₃",
+   "book_page": 241,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ →(Δ) CaO + CO₂↑",
+   "conditions": "উত্তপ্ত করা",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e8",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "সালফাইড আকরিকের তাপজারণ: PbS",
+   "book_page": 241,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "লেড সালফাইড (গ্যালেনা)",
+     "formula": "PbS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড(II) অক্সাইড",
+     "formula": "PbO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2PbS + 3O₂ →(Δ) 2PbO + 2SO₂↑",
+   "conditions": "গলনাঙ্কের চেয়ে কম তাপমাত্রায় বাতাসের উপস্থিতিতে উত্তপ্ত করা",
+   "observations_bn": "সালফার, ফসফরাস, আর্সেনিক ইত্যাদি উদ্বায়ী অপদ্রব্য অক্সাইড হিসেবে দূরীভূত হয়",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e9",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "সালফাইড আকরিকের তাপজারণ: ZnS",
+   "book_page": 241,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফাইড (জিংক ব্লেন্ড)",
+     "formula": "ZnS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2ZnS + 3O₂ →(Δ) 2ZnO + 2SO₂↑",
+   "conditions": "বাতাসের উপস্থিতিতে উত্তপ্ত করা",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e10",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "তড়িৎ বিশ্লেষণে অ্যালুমিনিয়াম নিষ্কাশন",
+   "book_page": 243,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "গলিত অ্যালুমিনিয়াম অক্সাইড + ক্রায়োলাইট (Na₃AlF₆)",
+     "formula": "Al₂O₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Al₂O₃ → 2Al³⁺ + 3O²⁻; অ্যানোড: 6O²⁻ → 3O₂↑ + 12e⁻; ক্যাথোড: 2Al³⁺ + 6e⁻ → 2Al",
+   "conditions": "Al₂O₃ গলনাঙ্ক 2050°C; ক্রায়োলাইট যোগে 800–1000°C তাপমাত্রায় গলে; গ্রাফাইট আস্তরণযুক্ত স্টিলের পাত্র, কার্বন অ্যানোড/ক্যাথোড",
+   "observations_bn": "O²⁻ অ্যানোডে ইলেকট্রন ত্যাগ করে O₂ গ্যাস তৈরি করে; Al³⁺ ক্যাথোড থেকে ইলেকট্রন গ্রহণ করে Al ধাতুতে পরিণত হয়",
+   "materials_bn": [
+    "গ্রাফাইট কার্বন আস্তরণযুক্ত স্টিলের পাত্র",
+    "কার্বন দণ্ড (অ্যানোড)",
+    "ব্যাটারি",
+    "ক্রায়োলাইট",
+    "অ্যালুমিনিয়াম অক্সাইড"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e11",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "কার্বন বিজারণ: ZnO থেকে Zn",
+   "book_page": 243,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "ZnO + C →(Δ) Zn + CO↑",
+   "conditions": "উত্তপ্ত করা (Δ)",
+   "observations_bn": "সক্রিয়তা সিরিজে মধ্যম মানের সক্রিয় ধাতুর ক্ষেত্রে এ পদ্ধতি",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e12",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "কার্বন বিজারণ: FeO থেকে Fe",
+   "book_page": 243,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(II) অক্সাইড",
+     "formula": "FeO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন",
+     "formula": "Fe",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "FeO + C →(Δ) Fe + CO↑",
+   "conditions": "উত্তপ্ত করা (Δ)",
+   "observations_bn": "সক্রিয়তা সিরিজে মধ্যম মানের সক্রিয় ধাতুর ক্ষেত্রে এ পদ্ধতি",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e13",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "কার্বন বিজারণ: PbO থেকে Pb",
+   "book_page": 243,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "লেড(II) অক্সাইড",
+     "formula": "PbO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড",
+     "formula": "Pb",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "PbO + C →(Δ) Pb + CO↑",
+   "conditions": "উত্তপ্ত করা (Δ)",
+   "observations_bn": "সক্রিয়তা সিরিজে মধ্যম মানের সক্রিয় ধাতুর ক্ষেত্রে এ পদ্ধতি",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e14",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "কার্বন বিজারণ: CuO থেকে Cu",
+   "book_page": 243,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কপার(II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "CuO + C →(Δ) Cu + CO↑",
+   "conditions": "উত্তপ্ত করা (Δ)",
+   "observations_bn": "সক্রিয়তা সিরিজে মধ্যম মানের সক্রিয় ধাতুর ক্ষেত্রে এ পদ্ধতি",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e15",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "একক কাজ: লেড অক্সাইড থেকে ধাতব লেড নিষ্কাশন",
+   "book_page": 244,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হলুদ বর্ণের লেড অক্সাইড",
+     "formula": "PbO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "দিয়াশলাইয়ের কাঠির কয়লা",
+     "formula": "C",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড",
+     "formula": "Pb",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "PbO + C →(Δ) Pb + CO↑",
+   "conditions": "বার্নার/স্পিরিট ল্যাম্পের শিখায় উত্তপ্ত করা (বইয়ে সমীকরণ দেওয়া নেই, কার্বন বিজারণ হিসেবে প্রশ্ন করা হয়েছে)",
+   "observations_bn": "উজ্জ্বল ধূসর বর্ণের গলিত লেডের ছোট্ট বিন্দু সৃষ্টি হয় কি না লক্ষ করা; ঠান্ডা হলে সাদা কাগজে লেড কণা খুঁজে দেখা",
+   "materials_bn": [
+    "হলুদ বর্ণের লেড অক্সাইড",
+    "এক টুকরা সাদা কাগজ",
+    "বুনসেন বার্নার/স্পিরিট ল্যাম্প",
+    "দিয়াশলাইয়ের কাঠি",
+    "আতসি কাচ (লেন্স)"
+   ],
+   "procedure_bn": [
+    "বার্নারের শিখাটি ছোট করে নাও",
+    "একটি দিয়াশলাইয়ের কাঠি এমনভাবে পোড়াও যেন বারুদের অবশেষ না থাকে",
+    "কাঠির কয়লা হওয়া অংশ পানিতে ভিজিয়ে একটু লেড অক্সাইড যুক্ত করো",
+    "লেড অক্সাইড যুক্ত মাথাটি বার্নারের আগুনে ধরো, গলিত লেডের বিন্দু লক্ষ করো",
+    "কাঠি ঠান্ডা হলে সাদা কাগজে রেখে লেড কণা খুঁজে বের করো (প্রয়োজনে লেন্স); না পেলে ii-v ধাপ পুনরায় করো"
+   ],
+   "safety_bn": "লেড, লেড অক্সাইড ও এর বাষ্প বিষাক্ত; খালি হাতে স্পর্শ করবে না; বাষ্প শ্বাস-প্রশ্বাসের সাথে নেবে না",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e16",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "স্ববিজারণ: মার্কারি আকরিক (HgS)",
+   "book_page": 245,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সিন্নাবার (মার্কারি সালফাইড)",
+     "formula": "HgS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মার্কারি",
+     "formula": "Hg",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "HgS + O₂ → Hg(l) + SO₂ (সমতাযুক্ত); বা 2HgS + 3O₂ → 2HgO(s) + 2SO₂(g), 2HgO(s) + HgS(s) → 3Hg(l) + SO₂(g)",
+   "conditions": "শুধু উত্তপ্ত করা, বিজারক যোগ ছাড়া",
+   "observations_bn": "Cu, Hg, Ag-এর সালফাইড স্ববিজারণে বিজারিত হয়",
+   "materials_bn": "read",
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e17",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "তড়িৎ বিশ্লেষণে কপারের বিশোধন",
+   "book_page": 246,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "অবিশুদ্ধ কপার (অ্যানোড)",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "কপার সালফেট দ্রবণ",
+     "formula": "CuSO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বিশুদ্ধ কপার (ক্যাথোড)",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "অ্যানোড: Cu(s) → Cu²⁺ + 2e⁻; ক্যাথোড: Cu²⁺ + 2e⁻ → Cu(s)",
+   "conditions": "ব্যাটারি দ্বারা তড়িৎ প্রবাহ; ঘন অবিশুদ্ধ দণ্ড অ্যানোড, পাতলা বিশুদ্ধ দণ্ড ক্যাথোড",
+   "observations_bn": "অ্যানোডের জারণ ও ক্যাথোডে বিজারণ; বিশুদ্ধ কপার ক্যাথোডে জমা হয় (98% থেকে 99.9% বিশুদ্ধ)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e18",
+   "topic_title_bn": "ধাতু নিষ্কাশন",
+   "title_bn": "বাত্যা চুল্লিতে আয়রন নিষ্কাশন",
+   "book_page": 246,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "হেমাটাইট",
+     "formula": "Fe₂O₃",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "কোক",
+     "formula": "C",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "চুনাপাথর",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন (গলিত)",
+     "formula": "Fe",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ধাতুমল (ক্যালসিয়াম সিলিকেট)",
+     "formula": "CaSiO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Fe₂O₃ + 3C → Fe + 3CO (বইয়ে ছাপা; সমতাযুক্ত রূপ: Fe₂O₃ + 3C → 2Fe + 3CO); 3Fe₂O₃ + CO → 2Fe₃O₄ + CO₂; Fe₃O₄ + CO → Fe + CO₂ (বইয়ে ছাপা, অসমতাযুক্ত); CaCO₃ → CaO + CO₂; CaO + SiO₂ → CaSiO₃",
+   "conditions": "বাত্যা চুল্লি, গরম বায়ু প্রবাহ; তিন ধাপ: গাঢ়ীকরণ, ভস্মীকরণ/তাপজারণ, বিগলন",
+   "observations_bn": "গলিত আয়রন ও ধাতুমল চুল্লির নিচে জমা হয়",
+   "materials_bn": [
+    "বাত্যা চুল্লি"
+   ],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "c10-e19",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "সালফার পোড়ানো: SO₂ উৎপাদন",
+   "book_page": 255,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + O₂ → SO₂↑",
+   "conditions": "বাতাসে পোড়ানো",
+   "observations_bn": "SO₂ অত্যন্ত বিষাক্ত গ্যাস; চোখ জ্বালাপোড়া করে",
+   "materials_bn": [],
+   "procedure_bn": "SO₂ বিষাক্ত; চোখে ও শ্বাসনালিতে ক্ষতি করে",
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e20",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "সালফার ডাই-অক্সাইডের পানির সাথে বিক্রিয়া (এসিড বৃষ্টি)",
+   "book_page": 255,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরাস এসিড",
+     "formula": "H₂SO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₂ + H₂O → H₂SO₃",
+   "conditions": "বৃষ্টির পানির সাথে বিক্রিয়ায় এসিড বৃষ্টি",
+   "observations_bn": "SO₂ বিষাক্ত বলে card (বইয়ে ল্যাব-পরীক্ষা হিসেবে দেওয়া নেই)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e21",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "স্পর্শ পদ্ধতি ধাপ ১: সালফার পোড়ানো",
+   "book_page": 256,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "শুষ্ক বায়ু (O₂)",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + O₂ → SO₂",
+   "conditions": "চুল্লি",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e22",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "স্পর্শ পদ্ধতি ধাপ ২: SO₃ উৎপাদন",
+   "book_page": 256,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂ + O₂ ⇌ 2SO₃ (বইয়ে একমুখী তীর)",
+   "conditions": "450°C–550°C; প্রভাবক ভ্যানাডিয়াম পেন্টা-অক্সাইড (V₂O₅)",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e23",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "স্পর্শ পদ্ধতি ধাপ ৩: SO₃ শোষণ → অলিয়াম",
+   "book_page": 256,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অলিয়াম (ধূমায়মান সালফিউরিক এসিড)",
+     "formula": "H₂S₂O₇",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂SO₄ + SO₃ → H₂S₂O₇",
+   "conditions": "",
+   "observations_bn": "SO₃ সরাসরি পানিতে মেশালে বাষ্পীয় H₂SO₄ কুয়াশা সৃষ্টি করে, তাই গাঢ় H₂SO₄-এ শোষণ",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e24",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "অলিয়ামের লঘুকরণ: H₂SO₄ উৎপাদন",
+   "book_page": 256,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "অলিয়াম",
+     "formula": "H₂S₂O₇",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂S₂O₇ + H₂O → 2H₂SO₄",
+   "conditions": "",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "অলিয়াম অত্যন্ত ক্ষয়কারক; স্কুল ল্যাবে সম্ভব নয়, তাই বাস্তবে card হিসেবে ব্যবহার করা ভালো (বই কোনো ল্যাব-পদ্ধতি দেয়নি)",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e25",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "সালফিউরিক এসিডের এসিড ধর্ম: Ca(OH)₂-এর সাথে বিক্রিয়া",
+   "book_page": 256,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "লঘু সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রোক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সালফেট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂SO₄ + Ca(OH)₂ → CaSO₄ + 2H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e26",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "গাঢ় H₂SO₄-এর জারণ ধর্ম: কপারের সাথে বিক্রিয়া",
+   "book_page": 257,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2H₂SO₄(গাঢ়) + Cu → CuSO₄ + SO₂↑ + 2H₂O",
+   "conditions": "বইয়ে তাপের উল্লেখ নেই; গাঢ় এসিড; SO₂ বিষাক্ত বলে card",
+   "observations_bn": "",
+   "materials_bn": [],
+   "procedure_bn": "গাঢ় H₂SO₄ ক্ষয়কারক ও SO₂ বিষাক্ত",
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e27",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "গাঢ় H₂SO₄-এর নিরুদন ধর্ম: চিনি",
+   "book_page": 257,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "চিনি",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন (কালো)",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রেটেড সালফিউরিক এসিড",
+     "formula": "H₂SO₄·11H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₁₂H₂₂O₁₁ + H₂SO₄ → 12C + H₂SO₄·11H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "পরিবর্তন পর্যবেক্ষণ করতে বলা হয়েছে (বইয়ে ফলাফল লেখা নেই); পরীক্ষাটি সাবধানে করতে হবে",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "এক চামচ চিনি",
+    "ঘন সালফিউরিক এসিড"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে এক চামচ চিনি নাও",
+    "কয়েক ফোঁটা ঘন সালফিউরিক এসিড যোগ করো",
+    "ভালোভাবে পর্যবেক্ষণ করো, পরিবর্তনের কারণ ব্যাখ্যা করো ও সম্ভাব্য বিক্রিয়াটি লেখো"
+   ],
+   "safety_bn": "পরীক্ষাটি সাবধানে করতে হবে; ঘন H₂SO₄ ক্ষয়কারক",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e28",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "একক কাজ: চুনের পানিতে লঘু সালফিউরিক এসিড",
+   "book_page": 257,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "চুনের পানি",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লঘু সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সালফেট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂SO₄ + Ca(OH)₂ → CaSO₄ + 2H₂O (বইয়ে শিক্ষার্থীকে লিখতে বলা; সমীকরণ p.256-এ এসিড ধর্মে আছে)",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বইয়ে ফলাফল লেখা নেই: 'ভালোভাবে পর্যবেক্ষণ করো'",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "চুনের পানি 2-3 mL",
+    "লঘু সালফিউরিক এসিড"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে 2-3 mL চুনের পানি নাও",
+    "কয়েক ফোঁটা লঘু সালফিউরিক এসিড যোগ করো",
+    "পর্যবেক্ষণ করো, কারণ ব্যাখ্যা ও সম্ভাব্য বিক্রিয়া লেখো"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "c10-e29",
+   "topic_title_bn": "ধাতু ও অধাতুর ধর্ম",
+   "title_bn": "একক কাজ: পটাশিয়াম আয়োডাইডে ঘন সালফিউরিক এসিড",
+   "book_page": 257,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "পটাশিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ঘন সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "বইয়ে সমীকরণ নেই; শিক্ষার্থীকে লিখতে বলা",
+   "observations_bn": "বইয়ে ফলাফল দেওয়া নেই: 'ভালোভাবে পর্যবেক্ষণ করো'",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "এক চিমটি KI",
+    "ঘন সালফিউরিক এসিড"
+   ],
+   "procedure_bn": [
+    "টেস্টটিউবে এক চিমটি KI নাও",
+    "কয়েক ফোঁটা ঘন H₂SO₄ যোগ করো",
+    "পর্যবেক্ষণ করো, কারণ ব্যাখ্যা ও সম্ভাব্য বিক্রিয়া লেখো"
+   ],
+   "safety_bn": "ঘন H₂SO₄ ক্ষয়কারক",
+   "confidence": "inferred"
+  },
+  {
+   "id": "c10-e30",
+   "topic_title_bn": "ক্ষয় ও প্রতিরোধ",
+   "title_bn": "মরিচা (জং) ধরার প্রক্রিয়ার রসায়ন",
+   "book_page": 251,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "আয়রন",
+     "formula": "Fe",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আর্দ্র ফেরিক অক্সাইড (মরিচা)",
+     "formula": "Fe₂O₃·3H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "H₂O → H⁺ + OH⁻; 2Fe → 2Fe²⁺ + 4e⁻; O₂ + 4H⁺ + 4e⁻ → 2H₂O; 4Fe²⁺ + 4H⁺ + O₂ → 4Fe³⁺ + 2H₂O; Fe³⁺ + 3OH⁻ → Fe(OH)₃; 2Fe(OH)₃ → Fe₂O₃·3H₂O",
+   "conditions": "বায়ুর অক্সিজেন ও পানি প্রয়োজন",
+   "observations_bn": "লালচে বাদামি বর্ণের মরিচা (আর্দ্র ফেরিক অক্সাইড Fe₂O₃·nH₂O); বইয়ে সমীকরণগুলো ধাপে ধাপে দেওয়া",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e31",
+   "topic_title_bn": "ক্ষয় ও প্রতিরোধ",
+   "title_bn": "অনুসন্ধান: লোহার মরিচা সৃষ্টির পরীক্ষা",
+   "book_page": 251,
+   "type": "bench",
+   "reactants": [
+    {
+     "name_bn": "লোহার পেরেক",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অনার্দ্র ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফুটানো পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ঠান্ডা পানি (দ্রবীভূত অক্সিজেনসহ)",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "রান্নার তেল/অলিভ অয়েল",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মরিচা",
+     "formula": "Fe₂O₃·nH₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "কক্ষ তাপমাত্রায় এক সপ্তাহ রেখে পর্যবেক্ষণ",
+   "observations_bn": "বইয়ে ফলাফল লেখা নেই; প্রশ্ন (p.258) ইঙ্গিত দেয় 4 নং টেস্টটিউবে (অক্সিজেন ও পানি) সবচেয়ে বেশি মরিচা ধরে — এটি বইয়ের লেখা ফলাফল নয়, প্রশ্নের প্রেক্ষাপট",
+   "materials_bn": [
+    "চারটি টেস্টটিউব (1-4 নম্বর)",
+    "ছিপি",
+    "লোহার পেরেক",
+    "অনার্দ্র CaCl₂",
+    "ফুটানো পানি",
+    "রান্নার তেল বা অলিভ অয়েল",
+    "ঠান্ডা পানি"
+   ],
+   "procedure_bn": [
+    "চারটি টেস্টটিউব নাও, 1 থেকে 4 নম্বর দাও",
+    "চিত্র অনুযায়ী সাজাও: 1) বায়ু + পেরেক + অনার্দ্র CaCl₂ (ছিপিসহ); 2) ফুটানো পানি + পেরেক (ছিপিসহ); 3) ফুটানো পানি + পেরেক, উপরে এক মিলি তেলের স্তর; 4) ঠান্ডা পানি + পেরেক, অক্সিজেনযুক্ত (ছিপিসহ)",
+    "3 নং টেস্টটিউবের পানি এক মিনিট ফুটিয়ে উপরে তেল যোগ করো (তেলের বাধায় বায়ু ঢুকতে পারে না)",
+    "এক সপ্তাহ রেখে পর্যবেক্ষণ করো"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "c10-e32",
+   "topic_title_bn": "ক্ষয় ও প্রতিরোধ",
+   "title_bn": "ইলেকট্রোপ্লেটিং: লোহার উপর কপারের প্রলেপ",
+   "book_page": 253,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট দ্রবণ",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কপার দণ্ড (অ্যানোড)",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "লোহার দণ্ড/চাবি (ক্যাথোড)",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার প্রলেপ",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "অ্যানোড: Cu → Cu²⁺ + 2e⁻; ক্যাথোড: Cu²⁺ + 2e⁻ → Cu",
+   "conditions": "ব্যাটারির তড়িৎ প্রবাহ",
+   "observations_bn": "লোহার চাবি/দণ্ডে কপারের প্রলেপ পড়ে (চিত্র 10.11)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "c10-e33",
+   "topic_title_bn": "ক্ষয় ও প্রতিরোধ",
+   "title_bn": "গ্যালভানাইজিং: লোহার উপর জিংকের প্রলেপ",
+   "book_page": 253,
+   "type": "card",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লোহা",
+     "formula": "Fe",
+     "state": "solid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "তড়িৎ বিশ্লেষণ প্রয়োজন নেই; যেকোনোভাবে জিংকের প্রলেপ",
+   "observations_bn": "কোনো সমীকরণ বইয়ে নেই",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "chemicals_mentioned": [
+  {
+   "name_bn": "লেড অক্সাইড",
+   "formula": "PbO",
+   "state": "solid",
+   "colour_bn": "হলুদ"
+  },
+  {
+   "name_bn": "গ্যালেনা (লেড সালফাইড)",
+   "formula": "PbS",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "বক্সাইট",
+   "formula": "Al₂O₃·2H₂O",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম হাইড্রোক্সাইড",
+   "formula": "NaOH",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্রায়োলাইট",
+   "formula": "Na₃AlF₆",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "হেমাটাইট",
+   "formula": "Fe₂O₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ম্যাগনেটাইট",
+   "formula": "Fe₃O₄",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "লিমোনাইট",
+   "formula": "Fe₂O₃·3H₂O",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কপার পাইরাইট",
+   "formula": "CuFeS₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "চালকোসাইট",
+   "formula": "Cu₂S",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সিন্নাবার",
+   "formula": "HgS",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "জিংক ব্লেন্ড",
+   "formula": "ZnS",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালামাইন",
+   "formula": "ZnCO₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "চুনাপাথর",
+   "formula": "CaCO₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "আয়রন পাইরাইটস",
+   "formula": "FeS₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্রোমাইট",
+   "formula": "FeO·Cr₂O₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "রুটাইল",
+   "formula": "TiO₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সালফার",
+   "formula": "S",
+   "state": "solid",
+   "colour_bn": "হলুদ"
+  },
+  {
+   "name_bn": "সালফিউরিক এসিড",
+   "formula": "H₂SO₄",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম হাইড্রোক্সাইড (চুনের পানি)",
+   "formula": "Ca(OH)₂",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "চিনি",
+   "formula": "C₁₂H₂₂O₁₁",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "পটাশিয়াম আয়োডাইড",
+   "formula": "KI",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কপার সালফেট",
+   "formula": "CuSO₄",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "মরিচা",
+   "formula": "Fe₂O₃·nH₂O",
+   "state": "solid",
+   "colour_bn": "লালচে বাদামি"
+  },
+  {
+   "name_bn": "কিউপ্রাস অক্সাইড",
+   "formula": "Cu₂O",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "তাম্রমল (কপারের)",
+   "formula": "",
+   "state": "solid",
+   "colour_bn": "কালো/বাদামি/সবুজ"
+  },
+  {
+   "name_bn": "অনার্দ্র ক্যালসিয়াম ক্লোরাইড",
+   "formula": "CaCl₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ভ্যানাডিয়াম পেন্টা-অক্সাইড",
+   "formula": "V₂O₅",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সিলিকা (অম্লীয় বিগালক)",
+   "formula": "SiO₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম অক্সাইড (ক্ষারীয় বিগালক)",
+   "formula": "CaO",
+   "state": "solid",
+   "colour_bn": ""
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "সক্রিয়তা সিরিজ (টেবিল 10.01, p.242): বেশি সক্রিয় (উপরে): K, Na, Ca, Mg, Al (তড়িৎ বিশ্লেষণে বিজারণ); মধ্যম: Zn, Fe, Pb (কার্বন বিজারণ); কম সক্রিয়: Cu, Hg, Ag (স্ববিজারণ); প্রায় অসক্রিয়: Pt, Au (বিশুদ্ধ অবস্থায় পাওয়া যায়). গুরুত্বপূর্ণ: এই অধ্যায়ে ধাতুর সাথে পানি/লঘু এসিড/লবণ দ্রবণ বিক্রিয়া বা স্থানচ্যুতি পরীক্ষা বইয়ে নেই; ধাতু ও অধাতুর ধর্ম বিভাগ (topic 4) আলাদাভাবে নেই, বইয়ে এর পরিবর্তে 'খনিজ অধাতু: সালফার ও এর যৌগ' (10.5, pp.254-257) আছে, তাই সেগুলো topic 4-এ রাখা হয়েছে। সংকর ধাতু (pp.248-250) কেবল সংযুক্তি ও ব্যবহার, কোনো বিক্রিয়া/পরীক্ষা নেই। দলীয় কাজ (pp.247-248) ও নমুনা প্রশ্ন (pp.258-260) বিক্রিয়া হিসেবে ধরা হয়নি। Fe₂O₃+3C→Fe+3CO ও Fe₃O₄+CO→Fe+CO₂ বইয়ে অসমতাযুক্ত ছাপা। Al₂O₃ গলনাঙ্ক 2050°C; ক্রায়োলাইটসহ 800-1000°C. ফ্রাশ পদ্ধতিতে সালফার নিষ্কাশন (p.254, 115°C সুপার হিটেড ওয়াটার) ভৌত প্রক্রিয়া, card হিসেবে বিক্রিয়ার তালিকায় নেই।"
+}

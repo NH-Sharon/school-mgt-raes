@@ -2,6 +2,7 @@
 // Sources: NCTB Class 9-10 Chemistry syllabus concepts; ΔH values are textbook-level APPROXIMATIONS (kJ per mole of reaction
 // as written) used only to estimate temperature rise — they are derived/teaching values, not measurements.
 import { Reaction, REACTIONS, getChem } from './chemistry-lab-data';
+import { CURRICULUM_REACTIONS, CURRICULUM_TEXT, CURRICULUM_KIN } from './chem-curriculum-9-10';
 
 export const MOLAR_MASS: Record<string, number> = { Na2CO3: 106, NH4Cl: 53.5, Zn: 65.4, Mg: 24.3, Fe: 55.8, Cu: 63.5, Al: 27 };
 export const CONC = 1.0; // mol/L — every solution on the shelf is treated as 1 M (dilute) in this lab
@@ -87,7 +88,7 @@ const EXTRA: Reaction[] = [
     effects: { colorChange: false, gas: false, precipitate: { color: '#f4f4ef', name: 'সাদা PbSO₄' }, temp: 'none', smell: null },
     observationBn: 'সাদা PbSO₄ অধঃক্ষেপ পড়ে।', useBn: 'সীসা (Pb²⁺) আয়ন শনাক্তকরণ।', safetyBn: 'সীসার যৌগ বিষাক্ত — গ্লাভস পরুন, বর্জ্য আলাদা রাখুন।' },
 ];
-export const ALL_REACTIONS: Reaction[] = [...REACTIONS, ...EXTRA];
+export const ALL_REACTIONS: Reaction[] = [...REACTIONS, ...EXTRA, ...CURRICULUM_REACTIONS.filter(c => !EXTRA.some(e => e.id === c.id) && !REACTIONS.some(r => r.id === c.id))];
 
 // ---------- kinetics (time constants τ in seconds at 25 °C, lag before start, ΔH in kJ per reaction as written) ----------
 interface Kin { tau: number; lag?: number; dH: number; note: string; }
@@ -105,6 +106,8 @@ const KIN_BY_ID: Record<string, Kin> = {
   'disp-cu-agno3': { tau: 120, dH: 146, note: 'ধীর' },
 };
 export function kineticsOf(r: Reaction): Kin {
+  if (CURRICULUM_KIN[r.id]) return CURRICULUM_KIN[r.id];
+  if (r.category === 'dissolution') return { tau: 20, dH: 0, note: 'ব্যাপন/দ্রবীভূত হওয়ার গতি — গরম করলে দ্রুততর হয়' };
   if (KIN_BY_ID[r.id]) return KIN_BY_ID[r.id];
   if (r.category === 'neutralization') {
     const water = r.equation.split('→')[1]?.match(/(\d*)H₂O/);
@@ -169,6 +172,7 @@ const TXT: Record<string, ReactionText> = {
 const NAME_BN: Record<string, string> = { Zn: 'জিংক', Mg: 'ম্যাগনেসিয়াম', Fe: 'লোহা', Al: 'অ্যালুমিনিয়াম', Cu: 'তামা', Ag: 'রূপা', Pb: 'সীসা' };
 
 export function textFor(r: Reaction): ReactionText {
+  if (CURRICULUM_TEXT[r.id]) return CURRICULUM_TEXT[r.id];
   if (TXT[r.id]) return TXT[r.id];
   const names = r.reactants.map(x => getChem(x.id)?.nameBn ?? x.id).join(' ও ');
   switch (r.category) {
@@ -190,6 +194,10 @@ export function textFor(r: Reaction): ReactionText {
       return { ionic: 'ক্যাটায়ন + অ্যানায়ন → অদ্রবণীয় লবণ↓',
         why: ['দুই দ্রবণের আয়ন মিলে যে নতুন লবণ গঠন করে তা পানিতে অদ্রবণীয়, তাই কঠিন কণা হিসেবে আলাদা হয়ে পড়ে।'],
         how: ['দুটি লবণ দ্রবণে আয়নে ভাঙা থাকে।', 'যে দুটি আয়ন অদ্রবণীয় যৌগ গঠন করতে পারে তারা মিলে কঠিন হয়।', 'বাকি আয়ন দ্রবণে থাকে।'] };
+    case 'dissolution':
+      return { ionic: 'দ্রব্য(s) + দ্রাবক → দ্রবণ',
+        why: ['দ্রাবকের অণু দ্রব্যের কণাগুলোকে ঘিরে ধরে আলাদা করে ফেলে — একে দ্রবীভূত হওয়া বলে। এটি ভৌত পরিবর্তন, নতুন পদার্থ তৈরি হয় না।', 'সাধারণত আয়নিক যৌগ পোলার দ্রাবক (পানি)-এ এবং অপোলার যৌগ অপোলার দ্রাবক (কেরোসিন)-এ দ্রবীভূত হয় — "সদৃশ সদৃশকে দ্রবীভূত করে"।'],
+        how: ['দ্রাবকের অণু কঠিনের পৃষ্ঠের কণাগুলোকে টেনে আলাদা করে।', 'আলাদা হওয়া কণা (বা আয়ন) ব্যাপনের মাধ্যমে সারা দ্রবণে ছড়িয়ে পড়ে।', 'তাপমাত্রা বাড়লে কণার গতি বাড়ে, তাই দ্রবীভূত হওয়া ও ব্যাপন দ্রুত হয়।'] };
     default:
       return { ionic: r.equation, why: [`${names} বিক্রিয়া করে নতুন পদার্থ তৈরি করে।`], how: ['বিস্তারিত ব্যাখ্যা এই বিক্রিয়ার জন্য এখনও যোগ করা হয়নি।'] };
   }
@@ -201,8 +209,16 @@ const SALT_METAL: Record<string, string> = { CuSO4: 'Cu', AgNO3: 'Ag', PbNO3: 'P
 export const SURE_NO_REACTION_ID = new Set(['no-cu-hcl', 'no-nacl-na2so4']);
 
 /** returns {sure, why[], how[]}; sure=false means "this lab has no data for this pair" (we must not claim there is no reaction in real life). */
-export function noReactionReason(aId: string, bId: string): { sure: boolean; why: string[]; how: string[] } {
+export function noReactionReason(aId: string, bId: string): { sure: boolean; why: string[]; how: string[]; title?: string } {
   const a = getChem(aId)!, b = getChem(bId)!;
+  const solv = [a, b].find(c => c.id === 'H2O' || c.id === 'Kerosene');
+  const other = solv ? [a, b].find(c => c !== solv)! : null;
+  if (solv && other && other.id === 'Ink') return { sure: true, title: 'ব্যাপন (ভৌত পরিবর্তন)',
+    why: ['কালি পানিতে মেশানো রাসায়নিক বিক্রিয়া নয় — রঙের কণা ব্যাপন প্রক্রিয়ায় পানির অণুর মধ্যে ছড়িয়ে পড়ে।'],
+    how: ['কণাগুলো সবসময় এলোমেলো গতিতে চলছে (কণার গতিতত্ত্ব)।', 'বেশি ঘনত্বের জায়গা থেকে কম ঘনত্বের জায়গায় ছড়িয়ে পড়ে — শেষে সব জায়গায় সমান রং।', 'গরম পানিতে কণার গতি বেশি, তাই ব্যাপন দ্রুত হয়।'] };
+  if (solv && other && other.solubleIn !== undefined && !other.solubleIn.includes(solv.id === 'H2O' ? 'water' : 'kerosene')) return { sure: true, title: 'দ্রবীভূত হয়নি (অদ্রবণীয়)',
+    why: [`${other.nameBn} ${solv.id === 'H2O' ? 'পানিতে' : 'কেরোসিনে'} দ্রবীভূত হয় না।`, other.solubleIn.length ? 'এটি অন্য দ্রাবকে (যেমন পানির পরিবর্তে কেরোসিনে বা কেরোসিনের পরিবর্তে পানিতে) দ্রবীভূত হতে পারে — দ্রাবক বদলে দেখুন।' : 'এটি পানিতে প্রায় অদ্রবণীয় লবণ — তাই নিচে কঠিন অবস্থায় থেকে যায়।'],
+    how: ['দ্রাবকের অণু কঠিনের কণাগুলোকে আলাদা করার মতো যথেষ্ট আকর্ষণ দিতে পারে না।', 'ফলে কঠিন কণা পাত্রের তলায় থেকে যায়, দ্রবণ তৈরি হয় না।'] };
   const [x, y] = [a, b].sort((p, q) => p.type.localeCompare(q.type));
   const pair = [a.type, b.type].sort().join('+');
   const key = [aId, bId].sort().join('|');
@@ -258,4 +274,11 @@ export const HAZARD: Record<string, Hazard> = {
   Na2CO3: { level: 1, bn: 'সোডিয়াম কার্বনেট চোখে/ত্বকে জ্বালা করতে পারে।' },
   Phenolphthalein: { level: 2, bn: 'ফেনলফথ্যালিন — ত্বকে লাগালে ধুয়ে ফেলুন; পরিমাণ অল্প নিন।' },
   Mg: { level: 1, bn: 'ম্যাগনেসিয়াম দাহ্য — আগুনের কাছে সতর্ক থাকুন।' },
+  KMnO4: { level: 2, bn: 'পটাশিয়াম পারম্যাঙ্গানেট শক্তিশালী জারক — ত্বকে বাদামি দাগ ফেলে, চোখে ক্ষতিকর।' },
+  Kerosene: { level: 2, bn: 'কেরোসিন দাহ্য — আগুন/বার্নার থেকে দূরে রাখুন।' },
+  CaO: { level: 3, bn: 'চুন (CaO) পানির সাথে প্রচণ্ড তাপ ছাড়ে — চোখ, ত্বকে ক্ষতিকর; অল্প নিন, মুখ সরিয়ে রাখুন।' },
+  CaC2: { level: 3, bn: 'ক্যালসিয়াম কার্বাইড পানিতে দাহ্য ইথাইন (অ্যাসিটিলিন) গ্যাস দেয় — আগুন/বার্নার থেকে সম্পূর্ণ দূরে রাখুন।' },
+  CuO: { level: 1, bn: 'কপার(II) অক্সাইড গুঁড়া শ্বাসের সাথে নেবেন না।' },
+  FeNO33: { level: 1, bn: 'ফেরিক নাইট্রেট ত্বকে জ্বালা করতে পারে।' },
+  CuNO32: { level: 2, bn: 'কপার নাইট্রেট ক্ষতিকর ও জারক — গ্লুভস পরুন।' },
 };

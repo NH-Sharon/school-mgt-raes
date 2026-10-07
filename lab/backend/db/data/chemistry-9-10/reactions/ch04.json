@@ -1,0 +1,893 @@
+{
+ "chapter": 4,
+ "pdf_pages": [
+  64,
+  86
+ ],
+ "experiments": [
+  {
+   "id": "c4-e1",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম পরমাণু",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম আয়ন",
+     "formula": "Na⁺",
+     "state": "ion"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": ""
+    }
+   ],
+   "equation": "Na (1s²2s²2p⁶3s¹) → Na⁺ (1s²2s²2p⁶) + e⁻",
+   "conditions": "",
+   "observations_bn": "বাইরের শক্তিস্তরে 1টি ইলেকট্রন থাকায় সোডিয়াম ইলেকট্রন ত্যাগ করে ধনাত্মক আয়নে পরিণত হয়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "topic_title_bn": "অবস্থান ও ইলেকট্রন বিন্যাস",
+   "title_bn": "সোডিয়াম পরমাণুর ইলেকট্রন ত্যাগ করে Na⁺ আয়নে পরিণত হওয়া",
+   "book_page": 69,
+   "type": "card"
+  },
+  {
+   "id": "c4-e2",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন পরমাণু",
+     "formula": "Cl",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "ion"
+    }
+   ],
+   "equation": "Cl (1s²2s²2p⁶3s²3p⁵) + e⁻ → Cl⁻ (1s²2s²2p⁶3s²3p⁶)",
+   "conditions": "",
+   "observations_bn": "বাইরের শক্তিস্তরে 7টি ইলেকট্রন থাকায় ক্লোরিন 1টি ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়নে পরিণত হয়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "topic_title_bn": "অবস্থান ও ইলেকট্রন বিন্যাস",
+   "title_bn": "ক্লোরিন পরমাণুর ইলেকট্রন গ্রহণ করে Cl⁻ আয়নে পরিণত হওয়া",
+   "book_page": 69,
+   "type": "card"
+  },
+  {
+   "id": "c4-e3",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম",
+     "formula": "Li",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম আয়ন",
+     "formula": "Li⁺",
+     "state": "ion"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": ""
+    }
+   ],
+   "equation": "Li → Li⁺ + e⁻",
+   "conditions": "",
+   "observations_bn": "Li একটি ইলেকট্রন ত্যাগ করে Li⁺ হয় তাই এটি ধাতু।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "topic_title_bn": "পর্যায়বৃত্ত ধর্ম",
+   "title_bn": "ধাতব ধর্ম: লিথিয়াম পরমাণু ইলেকট্রন ত্যাগ করে Li⁺ হয়",
+   "book_page": 70,
+   "type": "card"
+  },
+  {
+   "id": "c4-e4",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন পরমাণু",
+     "formula": "Cl",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "ion"
+    }
+   ],
+   "equation": "Cl + e⁻ → Cl⁻",
+   "conditions": "",
+   "observations_bn": "Cl একটি ইলেকট্রন গ্রহণ করে Cl⁻ হয় তাই ক্লোরিন অধাতু।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "topic_title_bn": "পর্যায়বৃত্ত ধর্ম",
+   "title_bn": "অধাতব ধর্ম: ক্লোরিন পরমাণু ইলেকট্রন গ্রহণ করে Cl⁻ হয়",
+   "book_page": 71,
+   "type": "card"
+  },
+  {
+   "id": "c4-e5",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + F₂(g) → 2HF(g)",
+   "conditions": "বইয়ে গ্যাসীয় অবস্থা (g) দেখানো হয়েছে; শর্ত উল্লেখ নেই",
+   "observations_bn": "গ্রুপ-17 এর মৌল হাইড্রোজেনের সাথে বিক্রিয়া করে যথাক্রমে HF(g), HCl(g), HBr(g), HI(g) উৎপন্ন করে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "হ্যালোজেন ও হাইড্রোজেন হ্যালাইড বিষাক্ত/ক্ষয়কারী; স্কুল ল্যাবে সরাসরি করা যায় না (card)।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "হাইড্রোজেন ও ফ্লোরিন এর বিক্রিয়া (১৭ নং গ্রুপের একই ধর্ম)",
+   "book_page": 76,
+   "type": "card"
+  },
+  {
+   "id": "c4-e6",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + Cl₂(g) → 2HCl(g)",
+   "conditions": "বইয়ে গ্যাসীয় অবস্থা (g) দেখানো হয়েছে; শর্ত উল্লেখ নেই",
+   "observations_bn": "গ্রুপ-17 এর মৌল হাইড্রোজেনের সাথে বিক্রিয়া করে যথাক্রমে HF(g), HCl(g), HBr(g), HI(g) উৎপন্ন করে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "হ্যালোজেন ও হাইড্রোজেন হ্যালাইড বিষাক্ত/ক্ষয়কারী; স্কুল ল্যাবে সরাসরি করা যায় না (card)।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "হাইড্রোজেন ও ক্লোরিন এর বিক্রিয়া (১৭ নং গ্রুপের একই ধর্ম)",
+   "book_page": 76,
+   "type": "card"
+  },
+  {
+   "id": "c4-e7",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + Br₂(g) → 2HBr(g)",
+   "conditions": "বইয়ে গ্যাসীয় অবস্থা (g) দেখানো হয়েছে; শর্ত উল্লেখ নেই",
+   "observations_bn": "গ্রুপ-17 এর মৌল হাইড্রোজেনের সাথে বিক্রিয়া করে যথাক্রমে HF(g), HCl(g), HBr(g), HI(g) উৎপন্ন করে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "হ্যালোজেন ও হাইড্রোজেন হ্যালাইড বিষাক্ত/ক্ষয়কারী; স্কুল ল্যাবে সরাসরি করা যায় না (card)।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "হাইড্রোজেন ও ব্রোমিন এর বিক্রিয়া (১৭ নং গ্রুপের একই ধর্ম)",
+   "book_page": 76,
+   "type": "card"
+  },
+  {
+   "id": "c4-e8",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + I₂(g) → 2HI(g)",
+   "conditions": "বইয়ে গ্যাসীয় অবস্থা (g) দেখানো হয়েছে; শর্ত উল্লেখ নেই",
+   "observations_bn": "গ্রুপ-17 এর মৌল হাইড্রোজেনের সাথে বিক্রিয়া করে যথাক্রমে HF(g), HCl(g), HBr(g), HI(g) উৎপন্ন করে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "হ্যালোজেন ও হাইড্রোজেন হ্যালাইড বিষাক্ত/ক্ষয়কারী; স্কুল ল্যাবে সরাসরি করা যায় না (card)।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "হাইড্রোজেন ও আয়োডিন এর বিক্রিয়া (১৭ নং গ্রুপের একই ধর্ম)",
+   "book_page": 76,
+   "type": "card"
+  },
+  {
+   "id": "c4-e9",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড গ্যাস",
+     "formula": "HF",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোফ্লোরিক এসিড",
+     "formula": "HF(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "HF(g) + H₂O(l) → HF(aq)",
+   "conditions": "",
+   "observations_bn": "গ্যাসগুলো পানিতে দ্রবীভূত হলে হাইড্রোহ্যালাইড এসিড পাওয়া যায়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "এসিড গ্যাসের ধোঁয়া ক্ষয়কারী; গ্যাস থেকে তৈরি করা স্কুল ল্যাবে করা হয় না (card)।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "HF গ্যাস পানিতে দ্রবীভূত করে হাইড্রোফ্লোরিক এসিড তৈরি",
+   "book_page": 76,
+   "type": "card"
+  },
+  {
+   "id": "c4-e10",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড গ্যাস",
+     "formula": "HCl",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "HCl(g) + H₂O(l) → HCl(aq)",
+   "conditions": "",
+   "observations_bn": "গ্যাসগুলো পানিতে দ্রবীভূত হলে হাইড্রোহ্যালাইড এসিড পাওয়া যায়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "এসিড গ্যাসের ধোঁয়া ক্ষয়কারী; গ্যাস থেকে তৈরি করা স্কুল ল্যাবে করা হয় না (card)।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "HCl গ্যাস পানিতে দ্রবীভূত করে হাইড্রোক্লোরিক এসিড তৈরি",
+   "book_page": 76,
+   "type": "card"
+  },
+  {
+   "id": "c4-e11",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড গ্যাস",
+     "formula": "HBr",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোব্রোমিক এসিড",
+     "formula": "HBr(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "HBr(g) + H₂O(l) → HBr(aq)",
+   "conditions": "",
+   "observations_bn": "গ্যাসগুলো পানিতে দ্রবীভূত হলে হাইড্রোহ্যালাইড এসিড পাওয়া যায়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "এসিড গ্যাসের ধোঁয়া ক্ষয়কারী; গ্যাস থেকে তৈরি করা স্কুল ল্যাবে করা হয় না (card)।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "HBr গ্যাস পানিতে দ্রবীভূত করে হাইড্রোব্রোমিক এসিড তৈরি",
+   "book_page": 76,
+   "type": "card"
+  },
+  {
+   "id": "c4-e12",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড গ্যাস",
+     "formula": "HI",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোআয়োডিক এসিড",
+     "formula": "HI(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "HI(g) + H₂O(l) → HI(aq)",
+   "conditions": "",
+   "observations_bn": "গ্যাসগুলো পানিতে দ্রবীভূত হলে হাইড্রোহ্যালাইড এসিড পাওয়া যায়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "এসিড গ্যাসের ধোঁয়া ক্ষয়কারী; গ্যাস থেকে তৈরি করা স্কুল ল্যাবে করা হয় না (card)।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "HI গ্যাস পানিতে দ্রবীভূত করে হাইড্রোআয়োডিক এসিড তৈরি",
+   "book_page": 76,
+   "type": "card"
+  },
+  {
+   "id": "c4-e13",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "হাইড্রোফ্লোরিক এসিড",
+     "formula": "HF(aq)",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ফ্লোরাইড",
+     "formula": "CaF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂↑",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ + 2HF(aq) → CaF₂ + H₂O + CO₂↑",
+   "conditions": "",
+   "observations_bn": "কার্বন ডাই-অক্সাইড গ্যাস উৎপন্ন হয় (বইয়ের বর্ণনা: CO₂ গ্যাস তৈরি হয়)।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "HF অত্যন্ত বিষাক্ত ও ক্ষয়কারী, স্কুল ল্যাবে ব্যবহার্য নয়; তাই card (বইয়ে পরীক্ষা হিসেবে নির্দেশিত নয়)।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "ক্যালসিয়াম কার্বনেট ও হাইড্রোফ্লোরিক এসিডের বিক্রিয়া",
+   "book_page": 77,
+   "type": "card"
+  },
+  {
+   "id": "c4-e14",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl(aq)",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂↑",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑",
+   "conditions": "",
+   "observations_bn": "কার্বন ডাই-অক্সাইড গ্যাস উৎপন্ন হয়।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "ক্যালসিয়াম কার্বনেট ও লঘু হাইড্রোক্লোরিক এসিডের বিক্রিয়া (সমীকরণ)",
+   "book_page": 77,
+   "type": "bench"
+  },
+  {
+   "id": "c4-e15",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম কার্বনেট",
+     "formula": "MgCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "লঘু হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl(aq)",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂↑",
+     "state": "gas"
+    }
+   ],
+   "equation": "MgCO₃ + 2HCl → MgCl₂ + H₂O + CO₂↑",
+   "conditions": "",
+   "observations_bn": "ম্যাগনেসিয়াম ক্লোরাইড, পানি ও কার্বন ডাই-অক্সাইড গ্যাস উৎপন্ন হয়; Mg ও Ca (গ্রুপ-2) একই রকম বিক্রিয়া করে।",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "ম্যাগনেসিয়াম কার্বনেট ও লঘু হাইড্রোক্লোরিক এসিডের বিক্রিয়া",
+   "book_page": 77,
+   "type": "bench"
+  },
+  {
+   "id": "c4-e16",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "লঘু হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl(aq)",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂↑",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ক্যালসিয়াম কার্বনেট ও হাইড্রোক্লোরিক এসিড বিক্রিয়া করে কার্বন ডাই-অক্সাইড গ্যাস বুদবুদ আকারে নির্গম নল দিয়ে বের হয়ে আসে। (বইয়ের বিকল্প: শামুক, ঝিনুক, ডিমের খোসা এবং হাইড্রোক্লোরিক এসিডের পরিবর্তে ভিনেগার ব্যবহার করা যায়।)",
+   "materials_bn": [
+    "গোলতলী ফ্লাস্ক",
+    "থিসল ফানেল",
+    "দুইবার সমকোণে বাঁকানো কাচের নির্গম নল",
+    "গ্যাসজার",
+    "ছিদ্রযুক্ত ছিপি",
+    "স্ট্যান্ড",
+    "ক্যালসিয়াম কার্বনেট",
+    "লঘু হাইড্রোক্লোরিক এসিড",
+    "পানি"
+   ],
+   "procedure_bn": [
+    "একটি গোলতলী ফ্লাস্কে ক্যালসিয়াম কার্বনেটের কিছু ছোট টুকরো নেওয়া হলো।",
+    "ছিপির সাহায্যে ফ্লাস্কের এক মুখ দিয়ে থিসল ফানেল এবং অপর মুখ দিয়ে দুইবার সমকোণে বাঁকানো নির্গম নলের এক প্রান্ত প্রবেশ করানো হলো।",
+    "থিসল ফানেলের মধ্য দিয়ে কিছু পরিমাণ পানি ফ্লাস্কে নেওয়া হলো যেন ক্যালসিয়াম কার্বনেট এবং থিসল ফানেলের নিম্নপ্রান্ত পানিতে ডুবে থাকে।",
+    "নির্গম নলের অন্য প্রান্ত একটি গ্যাসজারে প্রবেশ করানো হলো।",
+    "থিসল ফানেলের ভিতর দিয়ে ধীরে ধীরে হাইড্রোক্লোরিক এসিড যোগ করা হলো।",
+    "নির্গম নল দিয়ে বের হয়ে আসা গ্যাসকে গ্যাসজারে সংরক্ষণ করা হলো (CO₂ বাতাসের চেয়ে ভারী বলে সিলিন্ডারের নিচের দিকে জমা হয়)।"
+   ],
+   "safety_bn": "থিসল ফানেলের শেষ প্রান্ত পানির নিচে ডুবিয়ে রাখা হয় (গ্যাস যেন বেরিয়ে না যায়)।; গোলতলী ফ্লাস্ককে স্ট্যান্ডের সাথে আটকিয়ে রাখা হয়।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "পরীক্ষণ: CaCO₃ ও লঘু HCl এর বিক্রিয়ায় কার্বন ডাই-অক্সাইড গ্যাস প্রস্তুতি ও সংগ্রহ",
+   "book_page": 78,
+   "type": "bench"
+  },
+  {
+   "id": "c4-e17",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "কার্বন ডাই-অক্সাইডের কোনো বর্ণ দেখা গেল না।",
+   "materials_bn": [
+    "গ্যাসজারে সংগৃহীত CO₂"
+   ],
+   "procedure_bn": [
+    "উৎপন্ন কার্বন ডাই-অক্সাইড গ্যাসের বর্ণ লক্ষ করা হলো।"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "CO₂ ধর্ম পরীক্ষা ১: বর্ণ লক্ষ্য করা",
+   "book_page": 79,
+   "type": "bench"
+  },
+  {
+   "id": "c4-e18",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "",
+   "observations_bn": "কাঠিটির আগুন নিভে গেল। সিদ্ধান্ত: কার্বন ডাই-অক্সাইড গ্যাস আগুন নিভাতে সাহায্য করে।",
+   "materials_bn": [
+    "গ্যাসজারে সংগৃহীত CO₂",
+    "জ্বলন্ত কাঠি"
+   ],
+   "procedure_bn": [
+    "গ্যাসজারের মুখে একটি জ্বলন্ত কাঠি ধরা হলো।"
+   ],
+   "safety_bn": "জ্বলন্ত কাঠি ছোট শিখা; সতর্কতার সাথে ব্যবহার করুন।",
+   "confidence": "read",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "CO₂ ধর্ম পরীক্ষা ২: জ্বলন্ত কাঠি নিভে যায়",
+   "book_page": 79,
+   "type": "bench"
+  },
+  {
+   "id": "c4-e19",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "চুনের পানি (ক্যালসিয়াম হাইড্রোক্সাইড দ্রবণ)",
+     "formula": "Ca(OH)₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট (সাদা অধঃক্ষেপ)",
+     "formula": "CaCO₃↓",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা; ধাপ ২: অতিরিক্ত CO₂ প্রবাহিত করা",
+   "observations_bn": "সামান্য গ্যাস প্রবেশ করালে ক্যালসিয়াম কার্বনেটের সাদা অধঃক্ষেপ তৈরি হয়ে চুনের পানি ঘোলা হয়। আরও গ্যাস প্রবেশ করালে ক্যালসিয়াম কার্বনেট, পানি ও CO₂ বিক্রিয়া করে ক্যালসিয়াম বাইকার্বনেট তৈরি করে, ফলে ঘোলা চুনের পানি আবার পরিষ্কার হয়ে যায়। (বইয়ে শুধু নাম দেওয়া; সমীকরণ নেই, সূত্র অনুমিত)",
+   "materials_bn": [
+    "টেস্টটিউব/পরীক্ষানল",
+    "চুনের পানি বা ক্যালসিয়াম হাইড্রক্সাইড",
+    "উৎপন্ন CO₂ গ্যাস"
+   ],
+   "procedure_bn": [
+    "একটি টেস্টটিউবে চুনের পানি বা ক্যালসিয়াম হাইড্রক্সাইড নেওয়া হলো।",
+    "উৎপন্ন কার্বন ডাই-অক্সাইড গ্যাস তার মধ্যে প্রবেশ করানো হলো।",
+    "আরও অধিক গ্যাস ঘোলা পানির মধ্যে প্রবেশ করানো হলো।"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "CO₂ ধর্ম পরীক্ষা ৩: চুনের পানি ঘোলা হওয়া এবং আবার পরিষ্কার হওয়া",
+   "book_page": 79,
+   "type": "bench"
+  },
+  {
+   "id": "c4-e20",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম বাইকার্বনেট",
+     "formula": "Ca(HCO₃)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CaCO₃ + H₂O + CO₂ → Ca(HCO₃)₂",
+   "conditions": "",
+   "observations_bn": "ঘোলা চুনের পানি আবার পরিষ্কার হয়ে গেল। (সমীকরণ বইয়ে নেই; সূত্র অনুমিত)",
+   "materials_bn": [],
+   "procedure_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "topic_title_bn": "গ্রুপ ও পর্যায়",
+   "title_bn": "অতিরিক্ত CO₂ তে ক্যালসিয়াম কার্বনেট দ্রবীভূত হয়ে ক্যালসিয়াম বাইকার্বনেট (ঘোলা পানি পরিষ্কার)",
+   "book_page": 79,
+   "type": "bench"
+  }
+ ],
+ "chemicals_mentioned": [
+  {
+   "name_bn": "হাইড্রোজেন",
+   "formula": "H₂",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ফ্লোরিন",
+   "formula": "F₂",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্লোরিন",
+   "formula": "Cl₂",
+   "state": "gas",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ব্রোমিন",
+   "formula": "Br₂",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "আয়োডিন",
+   "formula": "I₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "হাইড্রোজেন ফ্লোরাইড/হাইড্রোফ্লোরিক এসিড",
+   "formula": "HF",
+   "state": "gas/solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "হাইড্রোজেন ক্লোরাইড/হাইড্রোক্লোরিক এসিড",
+   "formula": "HCl",
+   "state": "gas/solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "হাইড্রোব্রোমিক এসিড",
+   "formula": "HBr",
+   "state": "gas/solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "হাইড্রোআয়োডিক এসিড",
+   "formula": "HI",
+   "state": "gas/solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম কার্বনেট",
+   "formula": "CaCO₃",
+   "state": "solid",
+   "colour_bn": "সাদা (বইয়ে 'সাদা অধঃক্ষেপ' বলা হয়েছে)"
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম কার্বনেট",
+   "formula": "MgCO₃",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+   "formula": "CaCl₂",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+   "formula": "MgCl₂",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম ফ্লোরাইড",
+   "formula": "CaF₂",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "কার্বন ডাই-অক্সাইড",
+   "formula": "CO₂",
+   "state": "gas",
+   "colour_bn": "বর্ণহীন"
+  },
+  {
+   "name_bn": "চুনের পানি/ক্যালসিয়াম হাইড্রক্সাইড",
+   "formula": "Ca(OH)₂",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ক্যালসিয়াম বাইকার্বনেট",
+   "formula": "Ca(HCO₃)₂",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "পানি",
+   "formula": "H₂O",
+   "state": "liquid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "সোডিয়াম ক্লোরাইড (খাদ্যলবণ)",
+   "formula": "NaCl",
+   "state": "solid",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "ভিনেগার",
+   "formula": "",
+   "state": "solution",
+   "colour_bn": ""
+  },
+  {
+   "name_bn": "শামুক/ঝিনুক/ডিমের খোসা",
+   "formula": "",
+   "state": "solid",
+   "colour_bn": ""
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Page offset verified: pdf = book + 5 (pdf 64 = ch.4 opener, pdf 65 = book 60). Chapter is mostly theory. Only one hands-on activity (পরীক্ষণ, book pp.77-79: CO2 from CaCO3 + dil HCl, with 3 gas tests). Other items are equations in text (no lab activity): halogen+H2, HX+H2O, carbonates+acid, ion formation. Ionization/electron-gain equations are theory (card). Book does not show Ca(OH)2/CO2 or bicarbonate equations; formulas inferred from named substances. Book does not give colours of chemicals except CO2 (no colour). The 'একক কাজ' items (pp.73,75) and model questions (pp.80-81) are theory, not experiments. Periodic-table pages 62-63 show element names/symbols only (no reactions)."
+}
