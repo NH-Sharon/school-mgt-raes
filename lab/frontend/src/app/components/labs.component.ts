@@ -19,8 +19,18 @@ interface LabGroup { key: string; classLevel: number; subject: string; subjectKe
         <p class="ds-muted">{{ subtitle() }}</p>
       </header>
 
-      <!-- ===== choose what you need ===== -->
-      <section class="filter-card">
+      <!-- ===== subject cards ===== -->
+      <section class="subjects" *ngIf="subjects().length">
+        <button class="s-card" *ngFor="let s of subjects()" [class.on]="subjectFilter() === s.key" (click)="toggleSubject(s.key)"
+                [style.--c1]="s.c1" [style.--c2]="s.c2">
+          <span class="s-ico">{{ s.icon }}</span>
+          <span class="s-name">{{ s.name }}</span>
+          <span class="s-meta">{{ s.count }} {{ i18n.isEn ? 'labs' : 'টি ল্যাব' }}</span>
+        </button>
+      </section>
+
+      <!-- ===== narrow down ===== -->
+      <section class="filter-card" *ngIf="showFilters()">
         <div class="frow">
           <label class="fld" *ngIf="classes().length > 1 || !isRestricted()">
             <span>{{ i18n.isEn ? 'Class' : 'শ্রেণি' }}</span>
@@ -49,12 +59,6 @@ interface LabGroup { key: string; classLevel: number; subject: string; subjectKe
           </label>
         </div>
 
-        <div class="subj" *ngIf="subjects().length">
-          <span class="slabel">{{ i18n.isEn ? 'Subject' : 'বিষয়' }}</span>
-          <button class="schip" [class.on]="!subjectFilter()" (click)="setSubject('')">{{ i18n.isEn ? 'All' : 'সব' }} <b>{{ baseCount() }}</b></button>
-          <button class="schip" *ngFor="let s of subjects()" [class.on]="subjectFilter() === s.key" (click)="setSubject(s.key)">{{ s.icon }} {{ s.name }} <b>{{ s.count }}</b></button>
-        </div>
-
         <div class="fbar" *ngIf="hasQuery()">
           <span class="result-count">{{ totalLabs() }} {{ i18n.isEn ? 'labs' : 'টি ল্যাব' }} · {{ groups().length }} {{ i18n.isEn ? 'chapters' : 'টি অধ্যায়' }}</span>
           <span class="fspace"></span>
@@ -65,17 +69,11 @@ interface LabGroup { key: string; classLevel: number; subject: string; subjectKe
 
       <div class="ds-loading" *ngIf="loading()"><div class="ds-spinner"></div></div>
 
-      <!-- ===== nothing chosen yet: show a compact overview, not every lab ===== -->
-      <section class="overview" *ngIf="!loading() && !hasQuery()">
-        <p class="hint">👆 {{ i18n.isEn ? 'Pick a class (and subject) above — only the labs you need will open.' : 'উপরে শ্রেণি (ও বিষয়) বেছে নিন — শুধু আপনার প্রয়োজনীয় ল্যাবগুলোই দেখাবে।' }}</p>
-        <div class="tiles">
-          <button class="tile" *ngFor="let o of overview()" (click)="setClass(o.classLevel)">
-            <span class="tclass">{{ i18n.t('classLevel') }} {{ o.classLevel }}</span>
-            <span class="tcount">{{ o.labs }} {{ i18n.isEn ? 'labs' : 'ল্যাব' }}</span>
-            <span class="tsubs">{{ o.subjects }}</span>
-          </button>
-        </div>
-      </section>
+      <!-- ===== nothing chosen yet: nothing is opened automatically ===== -->
+      <div class="pick" *ngIf="!loading() && !hasQuery()">
+        <span>👆</span>
+        <p>{{ i18n.isEn ? 'Choose a subject above (or search) — only what you pick will open.' : 'উপরে একটি বিষয় বেছে নিন (বা খুঁজুন) — শুধু আপনার বাছাইটাই খুলবে।' }}</p>
+      </div>
 
       <div class="ds-empty" *ngIf="!loading() && hasQuery() && groups().length === 0">
         <span class="ds-emoji">🧫</span>
@@ -120,7 +118,17 @@ interface LabGroup { key: string; classLevel: number; subject: string; subjectKe
     .fld.grow { flex: 1 1 220px; }
     .fld > span, .slabel { font-size: .72rem; font-weight: 700; color: var(--text-muted, #6b7a84); text-transform: uppercase; letter-spacing: .03em; }
     .fld .ds-select, .fld .ds-input { width: 100%; }
-    .subj { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 12px; }
+    .subjects { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; margin: 16px 0; }
+    .s-card { position: relative; overflow: hidden; display: flex; flex-direction: column; align-items: flex-start; gap: 3px; text-align: left; padding: 15px 16px 13px; border-radius: 16px; border: 2px solid transparent; cursor: pointer; font-family: inherit; color: #fff;
+      background: linear-gradient(135deg, var(--c1), var(--c2)); box-shadow: 0 6px 16px rgba(20,40,40,.14); transition: .2s; opacity: .85; }
+    .s-card::after { content: ''; position: absolute; right: -30px; top: -30px; width: 110px; height: 110px; border-radius: 50%; background: rgba(255,255,255,.14); }
+    .s-card:hover { opacity: 1; transform: translateY(-3px); }
+    .s-card.on { opacity: 1; border-color: #fff; box-shadow: 0 0 0 3px var(--c1), 0 12px 26px rgba(20,40,40,.25); transform: translateY(-3px); }
+    .s-ico { font-size: 1.8rem; } .s-name { font-weight: 800; font-size: 1rem; } .s-meta { font-size: .78rem; opacity: .92; }
+    .pick { text-align: center; padding: 26px 10px; color: #55666f; background: #f2f9f7; border: 1px dashed #b8d9d1; border-radius: 14px; margin-bottom: 14px; }
+    .pick span { font-size: 1.8rem; } .pick p { margin: 6px 0 0; }
+    @media (max-width: 560px) { .subjects { grid-template-columns: repeat(2, 1fr); gap: 10px; } .s-card { padding: 12px; } }
+    .subj { display: none; }
     .schip { border: 1px solid var(--border-strong, #cfd9dd); background: #fff; border-radius: 999px; padding: 5px 12px; font-size: .84rem; cursor: pointer; color: var(--text, #22323b); }
     .schip b { background: var(--surface-2, #f2f6f5); border-radius: 99px; padding: 0 7px; margin-left: 4px; font-size: .74rem; color: var(--text-muted, #6b7a84); }
     .schip.on { background: var(--brand, #1a6d5e); color: #fff; border-color: var(--brand, #1a6d5e); }
@@ -194,13 +202,16 @@ export class LabsComponent implements OnInit {
   baseCount = computed(() => this.byClass().length);
 
   subjects = computed(() => {
-    const m = new Map<string, { key: string; name: string; icon: string; count: number }>();
+    const m = new Map<string, { key: string; name: string; icon: string; count: number; c1: string; c2: string }>();
     for (const l of this.byClass()) {
-      const e = m.get(l.subject_en) ?? { key: l.subject_en, name: this.name(l, 'subject'), icon: this.icon(l.subject_en), count: 0 };
+      const t = this.theme(l.subject_en);
+      const e = m.get(l.subject_en) ?? { key: l.subject_en, name: this.name(l, 'subject'), icon: t.icon, c1: t.c1, c2: t.c2, count: 0 };
       e.count++; m.set(l.subject_en, e);
     }
     return [...m.values()];
   });
+  /** the narrowing row (class / chapter / topic / search) only appears once something is chosen or typed */
+  showFilters = computed(() => true);
 
   private bySubject = computed(() => { const s = this.subjectFilter(); return s ? this.byClass().filter(l => l.subject_en === s) : this.byClass(); });
 
@@ -261,8 +272,14 @@ export class LabsComponent implements OnInit {
   setClass(c: number) { this.classFilter.set(c); this.subjectFilter.set(''); this.chapterFilter.set(0); this.topicFilter.set(''); this.openKeys.set(new Set()); }
   setSubject(s: string) { this.subjectFilter.set(s); this.chapterFilter.set(0); this.topicFilter.set(''); this.openKeys.set(new Set()); }
   setChapter(c: number) { this.chapterFilter.set(c); this.topicFilter.set(''); }
-  reset() { this.search.set(''); this.setClass(this.isRestricted() && this.classes().length === 1 ? this.classes()[0] : 0); }
+  reset() { this.search.set(''); this.setClass(0); }
 
+  private theme(subjectEn: string): { icon: string; c1: string; c2: string } {
+    const n = (subjectEn || '').toLowerCase();
+    return n.includes('chem') ? { icon: '⚗️', c1: '#1f8a76', c2: '#144f45' } : n.includes('phys') ? { icon: '⚡', c1: '#3b7ddd', c2: '#23459a' }
+      : n.includes('bio') ? { icon: '🧬', c1: '#43a56b', c2: '#216b43' } : n.includes('ict') || n.includes('info') ? { icon: '💻', c1: '#8a5cd6', c2: '#533299' } : { icon: '📘', c1: '#5b7f78', c2: '#3a5550' };
+  }
+  toggleSubject(key: string) { this.setSubject(this.subjectFilter() === key ? '' : key); }
   private icon(subjectEn: string): string {
     const n = (subjectEn || '').toLowerCase();
     return n.includes('chem') ? '⚗️' : n.includes('phys') ? '⚡' : n.includes('bio') ? '🧬' : n.includes('ict') || n.includes('info') ? '💻' : '📘';
@@ -272,8 +289,6 @@ export class LabsComponent implements OnInit {
     this.simSvc.getCatalog().subscribe({
       next: (rows) => {
         this.all.set(rows); this.loading.set(false);
-        // a student has exactly one class — pre-select it so only their labs (collapsed) show
-        if (this.isRestricted() && this.classes().length === 1) this.classFilter.set(this.classes()[0]);
       },
       error: () => this.loading.set(false),
     });
