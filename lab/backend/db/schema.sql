@@ -112,7 +112,7 @@ CREATE TABLE IF NOT EXISTS questions (
   question_type VARCHAR(20) NOT NULL DEFAULT 'single' CHECK (question_type IN ('single','multiple')),
   explanation_bn TEXT,
   explanation_en TEXT,
-  difficulty VARCHAR(10) NOT NULL DEFAULT 'medium' CHECK (difficulty IN ('easy','medium','hard')),
+  difficulty VARCHAR(10) NOT NULL DEFAULT 'medium' CHECK (difficulty IN ('basic','medium','advanced')),
   status VARCHAR(20) NOT NULL DEFAULT 'published' CHECK (status IN ('draft','review','published')),
   created_by INTEGER REFERENCES users(id),
   created_at TIMESTAMPTZ NOT NULL DEFAULT now()

@@ -1,0 +1,1088 @@
+[
+  {
+    "order": 11,
+    "title_bn": "খনিজ সম্পদ: জীবাশ্ম",
+    "title_en": "Mineral Resources: Fossils",
+    "topics": [
+      {
+        "title_bn": "জীবাশ্ম জ্বালানি",
+        "title_en": "Fossil Fuels",
+        "mcqs": [
+          {
+            "question_bn": "নিচের কোনটি জীবাশ্ম জ্বালানি নয়?",
+            "question_en": "Which of the following is not a fossil fuel?",
+            "options": [
+              {"id": "a", "bn": "কয়লা", "en": "Coal"},
+              {"id": "b", "bn": "প্রাকৃতিক গ্যাস", "en": "Natural gas"},
+              {"id": "c", "bn": "খনিজ তেল", "en": "Petroleum"},
+              {"id": "d", "bn": "বায়োগ্যাস", "en": "Biogas"}
+            ],
+            "correct": ["d"],
+            "explanation_bn": "কয়লা, প্রাকৃতিক গ্যাস ও খনিজ তেল ভূগর্ভে লক্ষ লক্ষ বছর ধরে সৃষ্ট জীবাশ্ম জ্বালানি। বায়োগ্যাস জৈব বর্জ্যের পচনে তাৎক্ষণিকভাবে উৎপন্ন হয়, তাই এটি জীবাশ্ম জ্বালানি নয়।",
+            "explanation_en": "Coal, natural gas and petroleum form underground over millions of years and are fossil fuels. Biogas is produced by immediate decomposition of organic waste, so it is not a fossil fuel.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "জীবাশ্ম জ্বালানির মূল উৎস কী?",
+            "question_en": "What is the main source of fossil fuels?",
+            "options": [
+              {"id": "a", "bn": "আগ্নেয় শিলা", "en": "Igneous rock"},
+              {"id": "b", "bn": "মৃত উদ্ভিদ ও প্রাণীর দেহাবশেষ", "en": "Remains of dead plants and animals"},
+              {"id": "c", "bn": "সমুদ্রের লবণ", "en": "Sea salt"},
+              {"id": "d", "bn": "জ্বালামুখের ছাই", "en": "Volcanic ash"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "লক্ষ লক্ষ বছর আগে মৃত উদ্ভিদ ও প্রাণীর দেহাবশেষ ভূগর্ভে উচ্চ চাপ ও তাপে রূপান্তরিত হয়ে জীবাশ্ম জ্বালানিতে পরিণত হয়।",
+            "explanation_en": "Millions of years ago the remains of dead plants and animals were transformed under high pressure and heat underground into fossil fuels.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "জীবাশ্ম জ্বালানি সম্পর্কে সঠিক তথ্য কোনটি?",
+            "question_en": "Which statement about fossil fuels is correct?",
+            "options": [
+              {"id": "a", "bn": "এগুলো নবায়নযোগ্য শক্তির উৎস", "en": "They are renewable energy sources"},
+              {"id": "b", "bn": "এগুলো অফুরন্ত", "en": "They are inexhaustible"},
+              {"id": "c", "bn": "এগুলো অনবায়নযোগ্য শক্তির উৎস", "en": "They are non-renewable energy sources"},
+              {"id": "d", "bn": "এগুলো পোড়ালে কোনো CO₂ উৎপন্ন হয় না", "en": "They produce no CO₂ when burned"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "জীবাশ্ম জ্বালানি সৃষ্টি হতে লক্ষ লক্ষ বছর লাগে এবং ব্যবহারের সাথে সাথে ফুরিয়ে যায়, তাই এগুলো অনবায়নযোগ্য শক্তির উৎস।",
+            "explanation_en": "Fossil fuels take millions of years to form and are consumed as they are used, so they are non-renewable energy sources.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "জীবাশ্ম জ্বালানি পোড়ানোর ফলে বায়ুমণ্ডলে প্রধানত কোন গ্যাস বৃদ্ধি পেয়ে বৈশ্বিক উষ্ণায়ন ঘটায়?",
+            "question_en": "Burning fossil fuels mainly increases which gas in the atmosphere causing global warming?",
+            "options": [
+              {"id": "a", "bn": "অক্সিজেন (O₂)", "en": "Oxygen (O₂)"},
+              {"id": "b", "bn": "কার্বন ডাই-অক্সাইড (CO₂)", "en": "Carbon dioxide (CO₂)"},
+              {"id": "c", "bn": "নাইট্রোজেন (N₂)", "en": "Nitrogen (N₂)"},
+              {"id": "d", "bn": "হিলিয়াম (He)", "en": "Helium (He)"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "জীবাশ্ম জ্বালানিতে প্রচুর কার্বন থাকে, পোড়ালে CO₂ উৎপন্ন হয় যা গ্রিনহাউস গ্যাস হিসেবে বৈশ্বিক উষ্ণায়ন ঘটায়।",
+            "explanation_en": "Fossil fuels contain much carbon; burning them produces CO₂, a greenhouse gas that causes global warming.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি জীবাশ্ম জ্বালানির প্রধান উপাদান কার্বন ও হাইড্রোজেন হলে সম্পূর্ণ দহনে কোন দুটি যৌগ উৎপন্ন হয়?",
+            "question_en": "If a fossil fuel mainly contains carbon and hydrogen, complete combustion produces which two compounds?",
+            "options": [
+              {"id": "a", "bn": "CO ও H₂", "en": "CO and H₂"},
+              {"id": "b", "bn": "CO₂ ও H₂O", "en": "CO₂ and H₂O"},
+              {"id": "c", "bn": "C ও O₂", "en": "C and O₂"},
+              {"id": "d", "bn": "SO₂ ও NO₂", "en": "SO₂ and NO₂"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "হাইড্রোকার্বনের সম্পূর্ণ দহনে কার্বন CO₂ এবং হাইড্রোজেন H₂O-তে রূপান্তরিত হয়। অপর্যাপ্ত অক্সিজেনে বিষাক্ত CO উৎপন্ন হয়।",
+            "explanation_en": "In complete combustion of a hydrocarbon, carbon converts to CO₂ and hydrogen to H₂O. With insufficient oxygen, toxic CO forms.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "কয়লা",
+        "title_en": "Coal",
+        "mcqs": [
+          {
+            "question_bn": "কয়লার প্রধান উপাদান কোনটি?",
+            "question_en": "What is the main constituent of coal?",
+            "options": [
+              {"id": "a", "bn": "কার্বন", "en": "Carbon"},
+              {"id": "b", "bn": "সিলিকন", "en": "Silicon"},
+              {"id": "c", "bn": "সালফার", "en": "Sulphur"},
+              {"id": "d", "bn": "ক্যালসিয়াম", "en": "Calcium"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "কয়লা প্রধানত কার্বন দিয়ে গঠিত; এছাড়া হাইড্রোজেন, অক্সিজেন, নাইট্রোজেন ও সালফারের সামান্য পরিমাণ থাকে।",
+            "explanation_en": "Coal consists mainly of carbon, with smaller amounts of hydrogen, oxygen, nitrogen and sulphur.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "কোন প্রকার কয়লায় কার্বনের পরিমাণ সর্বাধিক এবং তাপন মূল্য সবচেয়ে বেশি?",
+            "question_en": "Which type of coal has the highest carbon content and highest calorific value?",
+            "options": [
+              {"id": "a", "bn": "পিট", "en": "Peat"},
+              {"id": "b", "bn": "লিগনাইট", "en": "Lignite"},
+              {"id": "c", "bn": "বিটুমিনাস", "en": "Bituminous"},
+              {"id": "d", "bn": "অ্যানথ্রাসাইট", "en": "Anthracite"}
+            ],
+            "correct": ["d"],
+            "explanation_bn": "কয়লা গঠনের ক্রম পিট → লিগনাইট → বিটুমিনাস → অ্যানথ্রাসাইট। অ্যানথ্রাসাইটে কার্বনের পরিমাণ (৯০%-এর বেশি) ও তাপন মূল্য সর্বোচ্চ।",
+            "explanation_en": "The formation order is peat to lignite to bituminous to anthracite. Anthracite has the highest carbon content (over 90%) and calorific value.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "বায়ুর অনুপস্থিতিতে কয়লাকে উত্তপ্ত করলে যে দাহ্য কঠিন অবশেষ পাওয়া যায় তা কী?",
+            "question_en": "Heating coal in the absence of air gives which combustible solid residue?",
+            "options": [
+              {"id": "a", "bn": "কোক", "en": "Coke"},
+              {"id": "b", "bn": "গ্রাফাইট", "en": "Graphite"},
+              {"id": "c", "bn": "হীরা", "en": "Diamond"},
+              {"id": "d", "bn": "ছাই", "en": "Ash"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "বায়ুর অনুপস্থিতিতে কয়লার অন্তর্ধুম পাতনে (destructive distillation) উদ্বায়ী পদার্থ বেরিয়ে গিয়ে প্রায় বিশুদ্ধ কার্বনের কঠিন অবশেষ কোক পাওয়া যায়।",
+            "explanation_en": "Destructive distillation of coal in the absence of air drives off volatiles, leaving coke, an almost pure carbon solid residue.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "কয়লার অন্তর্ধুম পাতনে নিচের কোনটি উপজাত হিসেবে পাওয়া যায় না?",
+            "question_en": "Which is NOT obtained as a by-product of the destructive distillation of coal?",
+            "options": [
+              {"id": "a", "bn": "কয়লা গ্যাস", "en": "Coal gas"},
+              {"id": "b", "bn": "আলকাতরা (কোল টার)", "en": "Coal tar"},
+              {"id": "c", "bn": "অ্যামোনিয়া দ্রবণ", "en": "Ammoniacal liquor"},
+              {"id": "d", "bn": "পেট্রোল", "en": "Petrol"}
+            ],
+            "correct": ["d"],
+            "explanation_bn": "কয়লার অন্তর্ধুম পাতনে কোক, কয়লা গ্যাস, কোল টার ও অ্যামোনিয়া দ্রবণ পাওয়া যায়। পেট্রোল খনিজ তেলের পাতন থেকে পাওয়া যায়।",
+            "explanation_en": "Destructive distillation of coal gives coke, coal gas, coal tar and ammoniacal liquor. Petrol comes from the distillation of petroleum.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "বাংলাদেশের কোন অঞ্চলে উল্লেখযোগ্য কয়লার মজুদ রয়েছে?",
+            "question_en": "Which region of Bangladesh has significant coal reserves?",
+            "options": [
+              {"id": "a", "bn": "বরিশাল", "en": "Barisal"},
+              {"id": "b", "bn": "বড়পুকুরিয়া, দিনাজপুর", "en": "Barapukuria, Dinajpur"},
+              {"id": "c", "bn": "কক্সবাজার", "en": "Cox's Bazar"},
+              {"id": "d", "bn": "খুলনা", "en": "Khulna"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "বাংলাদেশের দিনাজপুর জেলার বড়পুকুরিয়ায় বৃহত্তম কয়লা খনি অবস্থিত, যেখান থেকে কয়লা উত্তোলন করে বিদ্যুৎ উৎপাদন করা হয়।",
+            "explanation_en": "The largest coal mine in Bangladesh is at Barapukuria in Dinajpur district, where coal is mined and used for power generation.",
+            "difficulty": "basic"
+          }
+        ]
+      },
+      {
+        "title_bn": "খনিজ তেল ও পরিশোধন",
+        "title_en": "Petroleum and Refining",
+        "mcqs": [
+          {
+            "question_bn": "খনিজ তেলকে বিভিন্ন উপাদানে পৃথক করার পদ্ধতিকে কী বলে?",
+            "question_en": "What is the process of separating petroleum into its components called?",
+            "options": [
+              {"id": "a", "bn": "পাতন বা রিফাইনিং (আংশিক পাতন)", "en": "Refining (fractional distillation)"},
+              {"id": "b", "bn": "পরিস্রাবণ", "en": "Filtration"},
+              {"id": "c", "bn": "ঊর্ধ্বপাতন", "en": "Sublimation"},
+              {"id": "d", "bn": "কেলাসন", "en": "Crystallisation"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "খনিজ তেল বিভিন্ন হাইড্রোকার্বনের মিশ্রণ, যাদের স্ফুটনাঙ্ক ভিন্ন। আংশিক পাতনের (fractional distillation) মাধ্যমে এদের পৃথক করাকে পরিশোধন বলে।",
+            "explanation_en": "Petroleum is a mixture of hydrocarbons with different boiling points. Separating them by fractional distillation is called refining.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "খনিজ তেলের পরিশোধন কোন নীতির উপর ভিত্তি করে করা হয়?",
+            "question_en": "Refining of petroleum is based on which principle?",
+            "options": [
+              {"id": "a", "bn": "উপাদানগুলোর ভিন্ন ঘনত্ব", "en": "Different densities of components"},
+              {"id": "b", "bn": "উপাদানগুলোর ভিন্ন স্ফুটনাঙ্ক", "en": "Different boiling points of components"},
+              {"id": "c", "bn": "উপাদানগুলোর ভিন্ন রং", "en": "Different colours of components"},
+              {"id": "d", "bn": "উপাদানগুলোর ভিন্ন চৌম্বক ধর্ম", "en": "Different magnetic properties"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "আংশিক পাতনে উপাদানগুলোর স্ফুটনাঙ্কের পার্থক্য কাজে লাগানো হয়; কম স্ফুটনাঙ্কের ভগ্নাংশ উপরে ও বেশি স্ফুটনাঙ্কের ভগ্নাংশ নিচে জমা হয়।",
+            "explanation_en": "Fractional distillation exploits the differences in boiling points; lower boiling fractions collect higher up and higher boiling fractions lower down the column.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "পাতন স্তম্ভে নিচের কোন ভগ্নাংশটি সবচেয়ে উপরে (সর্বনিম্ন স্ফুটনাঙ্ক) সংগ্রহ করা হয়?",
+            "question_en": "Which fraction is collected highest up the column (lowest boiling point)?",
+            "options": [
+              {"id": "a", "bn": "বিটুমিন", "en": "Bitumen"},
+              {"id": "b", "bn": "ডিজেল", "en": "Diesel"},
+              {"id": "c", "bn": "পেট্রোলিয়াম গ্যাস (LPG)", "en": "Petroleum gas (LPG)"},
+              {"id": "d", "bn": "লুব্রিকেটিং তেল", "en": "Lubricating oil"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "পাতন স্তম্ভে স্ফুটনাঙ্ক যত কম, ভগ্নাংশ তত উপরে ওঠে। পেট্রোলিয়াম গ্যাসের স্ফুটনাঙ্ক সবচেয়ে কম, তাই এটি একেবারে উপরে সংগ্রহ করা হয়।",
+            "explanation_en": "The lower the boiling point, the higher up the column a fraction rises. Petroleum gas has the lowest boiling point, so it is collected at the very top.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "খনিজ তেলের কোন ভগ্নাংশটি রাস্তা তৈরিতে ব্যবহৃত হয়?",
+            "question_en": "Which fraction of petroleum is used for making roads?",
+            "options": [
+              {"id": "a", "bn": "পেট্রোল", "en": "Petrol"},
+              {"id": "b", "bn": "কেরোসিন", "en": "Kerosene"},
+              {"id": "c", "bn": "বিটুমিন (আলকাতরা)", "en": "Bitumen (asphalt)"},
+              {"id": "d", "bn": "ন্যাফথা", "en": "Naphtha"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "পাতন স্তম্ভের একেবারে নিচে সর্বোচ্চ স্ফুটনাঙ্কের ভারী অবশেষ বিটুমিন জমা হয়, যা রাস্তা ও ছাদ নির্মাণে ব্যবহৃত হয়।",
+            "explanation_en": "The heavy, highest boiling residue bitumen collects at the very bottom of the column and is used to build roads and roofs.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ভারী ভগ্নাংশকে ভেঙে ছোট, অধিক মূল্যবান অণুতে (যেমন পেট্রোল) রূপান্তরের প্রক্রিয়াকে কী বলে?",
+            "question_en": "What is the process of breaking heavy fractions into smaller, more valuable molecules (like petrol) called?",
+            "options": [
+              {"id": "a", "bn": "ক্র্যাকিং", "en": "Cracking"},
+              {"id": "b", "bn": "পলিমারকরণ", "en": "Polymerisation"},
+              {"id": "c", "bn": "হাইড্রোজেনেশন", "en": "Hydrogenation"},
+              {"id": "d", "bn": "প্রশমন", "en": "Neutralisation"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ক্র্যাকিং প্রক্রিয়ায় তাপ ও প্রভাবকের সাহায্যে বড় হাইড্রোকার্বন অণুকে ভেঙে ছোট, বেশি চাহিদাসম্পন্ন অণু (যেমন পেট্রোল, ইথিলিন) তৈরি করা হয়।",
+            "explanation_en": "In cracking, large hydrocarbon molecules are broken with heat and catalysts into smaller, more in-demand molecules such as petrol and ethylene.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "প্রাকৃতিক গ্যাস",
+        "title_en": "Natural Gas",
+        "mcqs": [
+          {
+            "question_bn": "প্রাকৃতিক গ্যাসের প্রধান উপাদান কোনটি?",
+            "question_en": "What is the main constituent of natural gas?",
+            "options": [
+              {"id": "a", "bn": "মিথেন (CH₄)", "en": "Methane (CH₄)"},
+              {"id": "b", "bn": "ইথেন (C₂H₆)", "en": "Ethane (C₂H₆)"},
+              {"id": "c", "bn": "প্রোপেন (C₃H₈)", "en": "Propane (C₃H₈)"},
+              {"id": "d", "bn": "বিউটেন (C₄H₁₀)", "en": "Butane (C₄H₁₀)"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রাকৃতিক গ্যাসের প্রায় ৮০-৯০% হলো মিথেন (CH₄); এর সাথে অল্প পরিমাণে ইথেন, প্রোপেন ও বিউটেন থাকে।",
+            "explanation_en": "About 80-90% of natural gas is methane (CH₄), with small amounts of ethane, propane and butane.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "গ্যাস লিক শনাক্ত করার জন্য প্রাকৃতিক গ্যাসে সাধারণত কী মেশানো হয়?",
+            "question_en": "What is usually added to natural gas to detect leaks?",
+            "options": [
+              {"id": "a", "bn": "গন্ধযুক্ত মারক্যাপ্টান", "en": "Odorous mercaptan"},
+              {"id": "b", "bn": "কার্বন ডাই-অক্সাইড", "en": "Carbon dioxide"},
+              {"id": "c", "bn": "অক্সিজেন", "en": "Oxygen"},
+              {"id": "d", "bn": "জলীয় বাষ্প", "en": "Water vapour"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রাকৃতিক গ্যাস গন্ধহীন, তাই লিক টের পাওয়ার জন্য তীব্র গন্ধযুক্ত সালফারঘটিত যৌগ মারক্যাপ্টান (থায়োল) মেশানো হয়।",
+            "explanation_en": "Natural gas is odourless, so a strongly smelling sulphur compound, mercaptan (thiol), is added so leaks can be noticed.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "প্রাকৃতিক গ্যাসকে চাপ প্রয়োগে তরল করে গাড়িতে ব্যবহৃত জ্বালানিকে কী বলে?",
+            "question_en": "Natural gas compressed for use as vehicle fuel is called what?",
+            "options": [
+              {"id": "a", "bn": "LPG", "en": "LPG"},
+              {"id": "b", "bn": "CNG", "en": "CNG"},
+              {"id": "c", "bn": "পেট্রোল", "en": "Petrol"},
+              {"id": "d", "bn": "ডিজেল", "en": "Diesel"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "CNG (Compressed Natural Gas) হলো উচ্চ চাপে সংকুচিত প্রাকৃতিক গ্যাস, যা তুলনামূলক পরিবেশবান্ধব জ্বালানি হিসেবে যানবাহনে ব্যবহৃত হয়।",
+            "explanation_en": "CNG (Compressed Natural Gas) is natural gas compressed at high pressure, used in vehicles as a relatively environment-friendly fuel.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "প্রাকৃতিক গ্যাস থেকে উৎপাদিত ইউরিয়া সার তৈরিতে মিথেন থেকে প্রথমে কোন গ্যাস উৎপন্ন করা হয়?",
+            "question_en": "In producing urea fertiliser from natural gas, which gas is first produced from methane?",
+            "options": [
+              {"id": "a", "bn": "অক্সিজেন", "en": "Oxygen"},
+              {"id": "b", "bn": "ক্লোরিন", "en": "Chlorine"},
+              {"id": "c", "bn": "হাইড্রোজেন", "en": "Hydrogen"},
+              {"id": "d", "bn": "নিয়ন", "en": "Neon"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "মিথেনকে জলীয় বাষ্পের সাথে বিক্রিয়া করিয়ে (স্টিম রিফর্মিং) হাইড্রোজেন উৎপন্ন করা হয়, যা নাইট্রোজেনের সাথে বিক্রিয়ায় অ্যামোনিয়া এবং পরে ইউরিয়া তৈরিতে ব্যবহৃত হয়।",
+            "explanation_en": "Methane is reacted with steam (steam reforming) to produce hydrogen, which then reacts with nitrogen to make ammonia and subsequently urea.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "বাংলাদেশের বৃহত্তম প্রাকৃতিক গ্যাসক্ষেত্র কোনটি?",
+            "question_en": "Which is the largest natural gas field in Bangladesh?",
+            "options": [
+              {"id": "a", "bn": "তিতাস", "en": "Titas"},
+              {"id": "b", "bn": "বিবিয়ানা", "en": "Bibiyana"},
+              {"id": "c", "bn": "হবিগঞ্জ", "en": "Habiganj"},
+              {"id": "d", "bn": "সাঙ্গু", "en": "Sangu"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সিলেটের বিবিয়ানা বাংলাদেশের বৃহত্তম প্রাকৃতিক গ্যাসক্ষেত্র, যা দেশের গ্যাস উৎপাদনে বড় অবদান রাখে।",
+            "explanation_en": "Bibiyana in Sylhet is the largest natural gas field in Bangladesh and makes a major contribution to the country's gas production.",
+            "difficulty": "medium"
+          }
+        ]
+      },
+      {
+        "title_bn": "হাইড্রোকার্বন",
+        "title_en": "Hydrocarbons",
+        "mcqs": [
+          {
+            "question_bn": "হাইড্রোকার্বন কী দিয়ে গঠিত?",
+            "question_en": "Hydrocarbons are composed of which elements?",
+            "options": [
+              {"id": "a", "bn": "শুধু কার্বন ও হাইড্রোজেন", "en": "Only carbon and hydrogen"},
+              {"id": "b", "bn": "কার্বন ও অক্সিজেন", "en": "Carbon and oxygen"},
+              {"id": "c", "bn": "হাইড্রোজেন ও নাইট্রোজেন", "en": "Hydrogen and nitrogen"},
+              {"id": "d", "bn": "কার্বন ও সালফার", "en": "Carbon and sulphur"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "শুধুমাত্র কার্বন ও হাইড্রোজেন দ্বারা গঠিত জৈব যৌগকে হাইড্রোকার্বন বলে, যেমন মিথেন, ইথেন, ইথিন।",
+            "explanation_en": "Organic compounds made of only carbon and hydrogen are called hydrocarbons, e.g. methane, ethane, ethene.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "মিথেন (CH₄) কোন শ্রেণির হাইড্রোকার্বন?",
+            "question_en": "Methane (CH₄) belongs to which class of hydrocarbons?",
+            "options": [
+              {"id": "a", "bn": "অ্যালকিন", "en": "Alkene"},
+              {"id": "b", "bn": "অ্যালকাইন", "en": "Alkyne"},
+              {"id": "c", "bn": "অ্যালকেন (সম্পৃক্ত)", "en": "Alkane (saturated)"},
+              {"id": "d", "bn": "অ্যারোমেটিক", "en": "Aromatic"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "মিথেনে কার্বন-কার্বন একক বন্ধন নেই বরং শুধু একক বন্ধন আছে, তাই এটি সম্পৃক্ত হাইড্রোকার্বন অর্থাৎ অ্যালকেন (সাধারণ সংকেত CₙH₂ₙ₊₂)।",
+            "explanation_en": "Methane has only single bonds, so it is a saturated hydrocarbon, an alkane (general formula CₙH₂ₙ₊₂).",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি অসম্পৃক্ত হাইড্রোকার্বন (কার্বন-কার্বন দ্বিবন্ধনযুক্ত)?",
+            "question_en": "Which of the following is an unsaturated hydrocarbon (with a C=C double bond)?",
+            "options": [
+              {"id": "a", "bn": "মিথেন CH₄", "en": "Methane CH₄"},
+              {"id": "b", "bn": "ইথেন C₂H₆", "en": "Ethane C₂H₆"},
+              {"id": "c", "bn": "ইথিন C₂H₄", "en": "Ethene C₂H₄"},
+              {"id": "d", "bn": "প্রোপেন C₃H₈", "en": "Propane C₃H₈"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "ইথিন (C₂H₄) একটি অ্যালকিন, যাতে কার্বন-কার্বন দ্বিবন্ধন (C=C) থাকে, তাই এটি অসম্পৃক্ত হাইড্রোকার্বন।",
+            "explanation_en": "Ethene (C₂H₄) is an alkene containing a carbon-carbon double bond (C=C), so it is an unsaturated hydrocarbon.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "ব্রোমিন জলকে বিবর্ণ করে কোন ধরনের হাইড্রোকার্বন শনাক্ত করা যায়?",
+            "question_en": "Decolourising bromine water indicates which type of hydrocarbon?",
+            "options": [
+              {"id": "a", "bn": "সম্পৃক্ত (অ্যালকেন)", "en": "Saturated (alkane)"},
+              {"id": "b", "bn": "অসম্পৃক্ত (অ্যালকিন/অ্যালকাইন)", "en": "Unsaturated (alkene/alkyne)"},
+              {"id": "c", "bn": "কেবল অ্যারোমেটিক", "en": "Only aromatic"},
+              {"id": "d", "bn": "কোনোটিই নয়", "en": "None of these"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অসম্পৃক্ত হাইড্রোকার্বন দ্বিবন্ধন/ত্রিবন্ধনে যুত বিক্রিয়ার মাধ্যমে ব্রোমিন যুক্ত করে বাদামি ব্রোমিন জলকে বিবর্ণ করে; অ্যালকেন সাধারণ অবস্থায় তা করে না।",
+            "explanation_en": "Unsaturated hydrocarbons add bromine across the double/triple bond in an addition reaction, decolourising brown bromine water; alkanes do not do this readily.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+            "question_en": "What is the general formula of alkanes?",
+            "options": [
+              {"id": "a", "bn": "CₙH₂ₙ", "en": "CₙH₂ₙ"},
+              {"id": "b", "bn": "CₙH₂ₙ₊₂", "en": "CₙH₂ₙ₊₂"},
+              {"id": "c", "bn": "CₙH₂ₙ₋₂", "en": "CₙH₂ₙ₋₂"},
+              {"id": "d", "bn": "CₙHₙ", "en": "CₙHₙ"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সম্পৃক্ত হাইড্রোকার্বন অ্যালকেনের সাধারণ সংকেত CₙH₂ₙ₊₂; যেমন n=1 হলে CH₄, n=2 হলে C₂H₆।",
+            "explanation_en": "The general formula of saturated hydrocarbons (alkanes) is CₙH₂ₙ₊₂; e.g. n=1 gives CH₄, n=2 gives C₂H₆.",
+            "difficulty": "basic"
+          }
+        ]
+      },
+      {
+        "title_bn": "পলিমার",
+        "title_en": "Polymers",
+        "mcqs": [
+          {
+            "question_bn": "পলিমার তৈরির একক ছোট অণুগুলোকে কী বলে?",
+            "question_en": "The small unit molecules that make up a polymer are called what?",
+            "options": [
+              {"id": "a", "bn": "মনোমার", "en": "Monomer"},
+              {"id": "b", "bn": "আইসোমার", "en": "Isomer"},
+              {"id": "c", "bn": "ডাইমার", "en": "Dimer"},
+              {"id": "d", "bn": "পলিমার", "en": "Polymer"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "যে ক্ষুদ্র অণুগুলো বারবার যুক্ত হয়ে বৃহৎ পলিমার অণু গঠন করে তাদের মনোমার বলে; যেমন ইথিন হলো পলিথিনের মনোমার।",
+            "explanation_en": "The small molecules that repeatedly join to form a large polymer molecule are called monomers; e.g. ethene is the monomer of polythene.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "পলিথিন (পলিইথিলিন) কোন মনোমার থেকে তৈরি হয়?",
+            "question_en": "Polythene (polyethylene) is made from which monomer?",
+            "options": [
+              {"id": "a", "bn": "মিথেন", "en": "Methane"},
+              {"id": "b", "bn": "ইথিন (ইথিলিন)", "en": "Ethene (ethylene)"},
+              {"id": "c", "bn": "প্রোপেন", "en": "Propane"},
+              {"id": "d", "bn": "বেনজিন", "en": "Benzene"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "বহু সংখ্যক ইথিন (C₂H₄) অণু যুত পলিমারকরণে যুক্ত হয়ে পলিথিন গঠন করে, যা প্যাকেজিং ও ব্যাগ তৈরিতে ব্যবহৃত হয়।",
+            "explanation_en": "Many ethene (C₂H₄) molecules join by addition polymerisation to form polythene, used to make packaging and bags.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি প্রাকৃতিক পলিমার?",
+            "question_en": "Which of the following is a natural polymer?",
+            "options": [
+              {"id": "a", "bn": "পিভিসি (PVC)", "en": "PVC"},
+              {"id": "b", "bn": "নাইলন", "en": "Nylon"},
+              {"id": "c", "bn": "সেলুলোজ (স্টার্চ)", "en": "Cellulose (starch)"},
+              {"id": "d", "bn": "পলিস্টাইরিন", "en": "Polystyrene"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "সেলুলোজ, স্টার্চ, প্রোটিন প্রকৃতিতে পাওয়া প্রাকৃতিক পলিমার। PVC, নাইলন ও পলিস্টাইরিন কৃত্রিম পলিমার।",
+            "explanation_en": "Cellulose, starch and proteins are natural polymers found in nature. PVC, nylon and polystyrene are synthetic polymers.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "বহু মনোমার যুক্ত হয়ে পলিমার গঠনের প্রক্রিয়াকে কী বলে?",
+            "question_en": "The process by which many monomers join to form a polymer is called what?",
+            "options": [
+              {"id": "a", "bn": "পলিমারকরণ", "en": "Polymerisation"},
+              {"id": "b", "bn": "জারণ", "en": "Oxidation"},
+              {"id": "c", "bn": "আর্দ্র-বিশ্লেষণ", "en": "Hydrolysis"},
+              {"id": "d", "bn": "প্রশমন", "en": "Neutralisation"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "মনোমারগুলো পরস্পর যুক্ত হয়ে বৃহৎ অণু পলিমার গঠন করে যে প্রক্রিয়ায়, তাকে পলিমারকরণ (polymerisation) বলে।",
+            "explanation_en": "The process by which monomers join to form the large polymer molecule is called polymerisation.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "প্লাস্টিক দূষণের প্রধান কারণ কোনটি?",
+            "question_en": "What is the main reason plastics cause pollution?",
+            "options": [
+              {"id": "a", "bn": "এগুলো দ্রুত পচে যায়", "en": "They decompose quickly"},
+              {"id": "b", "bn": "এগুলো জৈব-অবিघটনযোগ্য (নন-বায়োডিগ্রেডেবল)", "en": "They are non-biodegradable"},
+              {"id": "c", "bn": "এগুলো পানিতে দ্রবীভূত হয়", "en": "They dissolve in water"},
+              {"id": "d", "bn": "এগুলো ধাতু দিয়ে তৈরি", "en": "They are made of metal"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অধিকাংশ কৃত্রিম পলিমার জীবাণু দ্বারা সহজে বিয়োজিত হয় না (নন-বায়োডিগ্রেডেবল), তাই পরিবেশে দীর্ঘকাল টিকে থেকে দূষণ ঘটায়।",
+            "explanation_en": "Most synthetic polymers are not easily broken down by microbes (non-biodegradable), so they persist in the environment for a long time and cause pollution.",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "একটি তেল শোধনাগারে খনিজ তেলকে পাতন স্তম্ভে উত্তপ্ত করা হয়। বিভিন্ন উচ্চতায় LPG, পেট্রোল, কেরোসিন, ডিজেল ও বিটুমিন সংগৃহীত হয়। প্রকৌশলী লক্ষ করেন ভারী ভগ্নাংশের চাহিদা কম, তাই তিনি ক্র্যাকিং ব্যবহার করেন।",
+        "stimulus_en": "In an oil refinery, petroleum is heated in a fractionating column. At different heights LPG, petrol, kerosene, diesel and bitumen are collected. The engineer notes that heavy fractions are in low demand, so he uses cracking.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "জীবাশ্ম জ্বালানি কাকে বলে?",
+            "question_en": "What are fossil fuels?",
+            "model_answer_bn": "লক্ষ লক্ষ বছর আগে ভূগর্ভে চাপা পড়া মৃত উদ্ভিদ ও প্রাণীর দেহাবশেষ থেকে উচ্চ চাপ ও তাপে সৃষ্ট জ্বালানিকে জীবাশ্ম জ্বালানি বলে। যেমন: কয়লা, খনিজ তেল, প্রাকৃতিক গ্যাস।",
+            "model_answer_en": "Fuels formed under high pressure and heat from the remains of dead plants and animals buried underground millions of years ago are called fossil fuels. Examples: coal, petroleum, natural gas."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "খনিজ তেলের পরিশোধনকে আংশিক পাতন বলা হয় কেন? ব্যাখ্যা করো।",
+            "question_en": "Why is petroleum refining called fractional distillation? Explain.",
+            "model_answer_bn": "খনিজ তেল বিভিন্ন হাইড্রোকার্বনের মিশ্রণ, যাদের স্ফুটনাঙ্ক ভিন্ন। উত্তপ্ত করলে বিভিন্ন স্ফুটনাঙ্কের ভগ্নাংশ (fraction) পৃথক উচ্চতায় ঘনীভূত হয়ে আলাদা হয়। স্ফুটনাঙ্কের পার্থক্যের ভিত্তিতে ভগ্নাংশে পৃথক করা হয় বলে একে আংশিক পাতন বলে।",
+            "model_answer_en": "Petroleum is a mixture of hydrocarbons with different boiling points. On heating, fractions with different boiling points condense and separate at different heights. Since it separates the mixture into fractions based on differences in boiling point, it is called fractional distillation."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "পাতন স্তম্ভে LPG ও বিটুমিন কোথায় সংগৃহীত হয় এবং কেন—কারণসহ ব্যাখ্যা করো।",
+            "question_en": "Where in the column are LPG and bitumen collected and why—explain with reason.",
+            "model_answer_bn": "পাতন স্তম্ভে নিচ থেকে উপরে তাপমাত্রা ক্রমশ কমে। LPG-এর স্ফুটনাঙ্ক খুব কম, তাই এটি বাষ্প অবস্থায় উপরে উঠে একেবারে চূড়ায় সংগৃহীত হয়। বিটুমিনের স্ফুটনাঙ্ক অত্যন্ত বেশি, তাই এটি সহজে বাষ্পীভূত না হয়ে ভারী অবশেষ হিসেবে স্তম্ভের একেবারে নিচে জমা হয়।",
+            "model_answer_en": "Temperature decreases from bottom to top of the column. LPG has a very low boiling point, so it rises as vapour and is collected at the very top. Bitumen has a very high boiling point, so it does not vaporise easily and settles as a heavy residue at the very bottom of the column."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "'ভারী ভগ্নাংশের চাহিদা কম হওয়া সত্ত্বেও শোধনাগার লাভজনক থাকতে পারে'—ক্র্যাকিং প্রক্রিয়ার আলোকে উক্তিটি বিশ্লেষণ করো।",
+            "question_en": "'Despite low demand for heavy fractions, the refinery can remain profitable'—analyse this statement in light of the cracking process.",
+            "model_answer_bn": "ভারী ভগ্নাংশ (যেমন ডিজেলের চেয়ে ভারী তেল) বড় হাইড্রোকার্বন অণু নিয়ে গঠিত এবং এদের চাহিদা কম। ক্র্যাকিং প্রক্রিয়ায় তাপ ও প্রভাবক ব্যবহার করে এসব বড় অণুকে ভেঙে ছোট, বেশি চাহিদাসম্পন্ন অণুতে রূপান্তর করা হয়—যেমন পেট্রোল ও ইথিন। পেট্রোলের চাহিদা বেশি এবং ইথিন পলিমার শিল্পে কাঁচামাল হিসেবে মূল্যবান। ফলে কম দামের ভারী ভগ্নাংশকে উচ্চমূল্যের পণ্যে রূপান্তর করে শোধনাগার অপচয় কমিয়ে লাভজনক থাকতে পারে। সুতরাং উক্তিটি যৌক্তিক।",
+            "model_answer_en": "Heavy fractions consist of large hydrocarbon molecules and are in low demand. In cracking, heat and catalysts break these large molecules into smaller, more in-demand molecules such as petrol and ethene. Petrol has high demand, and ethene is a valuable raw material for the polymer industry. Thus by converting low-value heavy fractions into high-value products, the refinery reduces waste and stays profitable. Therefore the statement is justified."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "রফিক সাহেবের রান্নাঘরে সিলিন্ডারে LPG এবং লাইনে প্রাকৃতিক গ্যাস (মূল উপাদান মিথেন) সরবরাহ হয়। তিনি একদিন গ্যাসের গন্ধ পেয়ে দ্রুত জানালা খুলে দেন। তার ছেলে জানতে চায় বিশুদ্ধ গ্যাস তো গন্ধহীন, তবে গন্ধ এলো কীভাবে।",
+        "stimulus_en": "Mr. Rafiq's kitchen is supplied with LPG in a cylinder and natural gas (mainly methane) through a line. One day he smells gas and quickly opens the windows. His son asks how there could be a smell since pure gas is odourless.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "প্রাকৃতিক গ্যাসের প্রধান উপাদানের সংকেত লেখো।",
+            "question_en": "Write the formula of the main constituent of natural gas.",
+            "model_answer_bn": "প্রাকৃতিক গ্যাসের প্রধান উপাদান মিথেন, যার সংকেত CH₄।",
+            "model_answer_en": "The main constituent of natural gas is methane, with the formula CH₄."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "মিথেনকে সম্পৃক্ত হাইড্রোকার্বন বলা হয় কেন?",
+            "question_en": "Why is methane called a saturated hydrocarbon?",
+            "model_answer_bn": "মিথেন (CH₄) অণুতে একটি কার্বন পরমাণু চারটি হাইড্রোজেন পরমাণুর সাথে চারটি একক সমযোজী বন্ধনে যুক্ত; কোনো দ্বি- বা ত্রিবন্ধন নেই। যেহেতু কার্বনের সব যোজনী একক বন্ধন দিয়ে পূর্ণ, তাই এটি সম্পৃক্ত হাইড্রোকার্বন।",
+            "model_answer_en": "In methane (CH₄) one carbon atom is bonded to four hydrogen atoms by four single covalent bonds; there are no double or triple bonds. Since all the carbon valencies are filled with single bonds, it is a saturated hydrocarbon."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "বিশুদ্ধ গ্যাস গন্ধহীন হওয়া সত্ত্বেও রফিক সাহেব গন্ধ পেলেন কীভাবে—কারণসহ ব্যাখ্যা করো।",
+            "question_en": "Although pure gas is odourless, how did Mr. Rafiq smell it—explain with reason.",
+            "model_answer_bn": "মিথেন ও LPG উভয়ই বিশুদ্ধ অবস্থায় গন্ধহীন। কিন্তু গ্যাস লিক সহজে শনাক্ত করার জন্য এতে ইচ্ছাকৃতভাবে তীব্র গন্ধযুক্ত সালফারঘটিত যৌগ মারক্যাপ্টান (থায়োল) মেশানো হয়। লিক হলে এই মেশানো যৌগের গন্ধ পাওয়া যায়, ফলে রফিক সাহেব গন্ধ পেয়ে সতর্ক হয়ে জানালা খুলে দেন। এটি একটি নিরাপত্তা ব্যবস্থা।",
+            "model_answer_en": "Both methane and LPG are odourless in pure form. But to detect leaks easily, a strongly smelling sulphur compound, mercaptan (thiol), is deliberately added. When there is a leak, this added compound gives off a smell, so Mr. Rafiq noticed it and opened the windows. This is a safety measure."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "গ্যাসের সম্পূর্ণ ও অসম্পূর্ণ দহনের পার্থক্য লিখে, বদ্ধ রান্নাঘরে কেন অসম্পূর্ণ দহন বিপজ্জনক তা বিশ্লেষণ করো।",
+            "question_en": "State the difference between complete and incomplete combustion of gas, and analyse why incomplete combustion is dangerous in a closed kitchen.",
+            "model_answer_bn": "পর্যাপ্ত অক্সিজেনে সম্পূর্ণ দহনে মিথেন CO₂ ও H₂O উৎপন্ন করে এবং নীল শিখা দেয়: CH₄ + 2O₂ → CO₂ + 2H₂O। অপর্যাপ্ত অক্সিজেনে অসম্পূর্ণ দহন ঘটে, যাতে বিষাক্ত কার্বন মনোক্সাইড (CO) ও কার্বন (কালো ধোঁয়া) উৎপন্ন হয় এবং হলুদ শিখা দেখা যায়। বদ্ধ রান্নাঘরে বায়ু চলাচল কম থাকায় অক্সিজেন কমে অসম্পূর্ণ দহন হয় ও CO জমে। CO রক্তের হিমোগ্লোবিনের সাথে দৃঢ়ভাবে যুক্ত হয়ে অক্সিজেন পরিবহন ব্যাহত করে, ফলে শ্বাসকষ্ট, অজ্ঞানতা এমনকি মৃত্যু ঘটতে পারে। তাই বদ্ধ রান্নাঘরে অসম্পূর্ণ দহন অত্যন্ত বিপজ্জনক এবং পর্যাপ্ত বায়ু চলাচল নিশ্চিত করা জরুরি।",
+            "model_answer_en": "With sufficient oxygen, complete combustion converts methane to CO₂ and H₂O with a blue flame: CH₄ + 2O₂ → CO₂ + 2H₂O. With insufficient oxygen, incomplete combustion occurs, producing toxic carbon monoxide (CO) and carbon (black smoke) with a yellow flame. In a closed kitchen poor ventilation lowers oxygen, causing incomplete combustion and CO build-up. CO binds strongly to the haemoglobin of blood and blocks oxygen transport, which can cause breathing difficulty, unconsciousness and even death. Hence incomplete combustion is very dangerous in a closed kitchen and adequate ventilation must be ensured."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 12,
+    "title_bn": "আমাদের জীবনে রসায়ন",
+    "title_en": "Chemistry in Our Life",
+    "topics": [
+      {
+        "title_bn": "সার",
+        "title_en": "Fertilizers",
+        "mcqs": [
+          {
+            "question_bn": "ইউরিয়া সারে কোন মৌলটি প্রধান পুষ্টি উপাদান হিসেবে থাকে?",
+            "question_en": "Which element is the main nutrient present in urea fertiliser?",
+            "options": [
+              {"id": "a", "bn": "নাইট্রোজেন", "en": "Nitrogen"},
+              {"id": "b", "bn": "ফসফরাস", "en": "Phosphorus"},
+              {"id": "c", "bn": "পটাশিয়াম", "en": "Potassium"},
+              {"id": "d", "bn": "ক্যালসিয়াম", "en": "Calcium"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ইউরিয়ার সংকেত CO(NH₂)₂; এতে প্রায় ৪৬% নাইট্রোজেন থাকে, যা গাছের বৃদ্ধির জন্য অপরিহার্য পুষ্টি উপাদান।",
+            "explanation_en": "Urea has the formula CO(NH₂)₂ and contains about 46% nitrogen, an essential nutrient for plant growth.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "উদ্ভিদের বৃদ্ধির জন্য প্রয়োজনীয় তিনটি প্রধান পুষ্টি উপাদান (NPK) কোনগুলো?",
+            "question_en": "What are the three main nutrients (NPK) needed for plant growth?",
+            "options": [
+              {"id": "a", "bn": "নাইট্রোজেন, ফসফরাস, পটাশিয়াম", "en": "Nitrogen, Phosphorus, Potassium"},
+              {"id": "b", "bn": "নাইট্রোজেন, প্ল্যাটিনাম, ক্যালসিয়াম", "en": "Nitrogen, Platinum, Calcium"},
+              {"id": "c", "bn": "নিকেল, ফসফরাস, পটাশিয়াম", "en": "Nickel, Phosphorus, Potassium"},
+              {"id": "d", "bn": "নাইট্রোজেন, ফসফরাস, প্ল্যাটিনাম", "en": "Nitrogen, Phosphorus, Platinum"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "NPK বলতে নাইট্রোজেন (N), ফসফরাস (P) ও পটাশিয়াম (K) বোঝায়—উদ্ভিদের বৃদ্ধির জন্য এই তিনটি প্রধান পুষ্টি উপাদান প্রয়োজন।",
+            "explanation_en": "NPK stands for Nitrogen (N), Phosphorus (P) and Potassium (K)—the three main nutrients required for plant growth.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ইউরিয়া সার শিল্পে অ্যামোনিয়া তৈরিতে হেবার প্রক্রিয়ায় কোন দুটি গ্যাস বিক্রিয়া করে?",
+            "question_en": "In the Haber process for making ammonia in the urea industry, which two gases react?",
+            "options": [
+              {"id": "a", "bn": "নাইট্রোজেন ও হাইড্রোজেন", "en": "Nitrogen and hydrogen"},
+              {"id": "b", "bn": "অক্সিজেন ও হাইড্রোজেন", "en": "Oxygen and hydrogen"},
+              {"id": "c", "bn": "নাইট্রোজেন ও অক্সিজেন", "en": "Nitrogen and oxygen"},
+              {"id": "d", "bn": "কার্বন ও হাইড্রোজেন", "en": "Carbon and hydrogen"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "হেবার প্রক্রিয়ায় নাইট্রোজেন ও হাইড্রোজেন উচ্চ চাপ, তাপ ও প্রভাবকের উপস্থিতিতে বিক্রিয়া করে অ্যামোনিয়া তৈরি করে: N₂ + 3H₂ ⇌ 2NH₃।",
+            "explanation_en": "In the Haber process nitrogen and hydrogen react under high pressure, heat and a catalyst to form ammonia: N₂ + 3H₂ ⇌ 2NH₃.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "TSP সার প্রধানত কোন পুষ্টি উপাদান সরবরাহ করে?",
+            "question_en": "TSP fertiliser mainly supplies which nutrient?",
+            "options": [
+              {"id": "a", "bn": "নাইট্রোজেন", "en": "Nitrogen"},
+              {"id": "b", "bn": "ফসফরাস", "en": "Phosphorus"},
+              {"id": "c", "bn": "পটাশিয়াম", "en": "Potassium"},
+              {"id": "d", "bn": "সালফার", "en": "Sulphur"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "TSP অর্থ ট্রিপল সুপার ফসফেট; এটি প্রধানত ফসফরাস সরবরাহ করে, যা উদ্ভিদের মূল বৃদ্ধি ও ফুল-ফল গঠনে সহায়তা করে।",
+            "explanation_en": "TSP stands for Triple Super Phosphate; it mainly supplies phosphorus, which helps root growth and flower/fruit formation in plants.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "অতিরিক্ত রাসায়নিক সার ব্যবহারের ফলে জলাশয়ে শৈবালের অস্বাভাবিক বৃদ্ধি ঘটে, একে কী বলে?",
+            "question_en": "Excessive use of chemical fertilisers causes abnormal algal growth in water bodies; what is this called?",
+            "options": [
+              {"id": "a", "bn": "ইউট্রোফিকেশন", "en": "Eutrophication"},
+              {"id": "b", "bn": "পলিমারকরণ", "en": "Polymerisation"},
+              {"id": "c", "bn": "প্রশমন", "en": "Neutralisation"},
+              {"id": "d", "bn": "ঊর্ধ্বপাতন", "en": "Sublimation"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সার থেকে নাইট্রেট ও ফসফেট জলাশয়ে মিশে শৈবালের অতিবৃদ্ধি ঘটায়; এতে পানিতে দ্রবীভূত অক্সিজেন কমে গিয়ে জলজ প্রাণী মারা যায়—এই প্রক্রিয়াকে ইউট্রোফিকেশন বলে।",
+            "explanation_en": "Nitrates and phosphates from fertilisers enter water bodies and cause excessive algal growth; this depletes dissolved oxygen and kills aquatic life—this process is called eutrophication.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "সাবান ও ডিটারজেন্ট",
+        "title_en": "Soap and Detergent",
+        "mcqs": [
+          {
+            "question_bn": "সাবান রাসায়নিকভাবে কী?",
+            "question_en": "Chemically, what is soap?",
+            "options": [
+              {"id": "a", "bn": "উচ্চতর ফ্যাটি অ্যাসিডের সোডিয়াম বা পটাশিয়াম লবণ", "en": "Sodium or potassium salt of higher fatty acids"},
+              {"id": "b", "bn": "একটি শক্তিশালী অ্যাসিড", "en": "A strong acid"},
+              {"id": "c", "bn": "একটি ধাতব অক্সাইড", "en": "A metal oxide"},
+              {"id": "d", "bn": "একটি সরল চিনি", "en": "A simple sugar"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সাবান হলো উচ্চতর ফ্যাটি অ্যাসিডের (যেমন স্টিয়ারিক অ্যাসিড) সোডিয়াম বা পটাশিয়াম লবণ, যা তেল-চর্বি ও ক্ষারের বিক্রিয়ায় তৈরি হয়।",
+            "explanation_en": "Soap is the sodium or potassium salt of higher fatty acids (such as stearic acid), formed by the reaction of oils/fats with an alkali.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "তেল বা চর্বিকে ক্ষারের সাথে জারিত/বিক্রিয়া করে সাবান তৈরির প্রক্রিয়াকে কী বলে?",
+            "question_en": "The process of making soap by reacting oil/fat with alkali is called what?",
+            "options": [
+              {"id": "a", "bn": "স্যাপনিফিকেশন (সাবানায়ন)", "en": "Saponification"},
+              {"id": "b", "bn": "পলিমারকরণ", "en": "Polymerisation"},
+              {"id": "c", "bn": "দহন", "en": "Combustion"},
+              {"id": "d", "bn": "ইলেকট্রোলাইসিস", "en": "Electrolysis"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তেল/চর্বি (এস্টার) কস্টিক ক্ষারের (NaOH) সাথে বিক্রিয়া করে সাবান ও গ্লিসারল উৎপন্ন করে; এই প্রক্রিয়াকে স্যাপনিফিকেশন বা সাবানায়ন বলে।",
+            "explanation_en": "Oils/fats (esters) react with caustic alkali (NaOH) to produce soap and glycerol; this process is called saponification.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "খর পানিতে সাবানের চেয়ে ডিটারজেন্ট ভালো কাজ করে কেন?",
+            "question_en": "Why do detergents work better than soap in hard water?",
+            "options": [
+              {"id": "a", "bn": "ডিটারজেন্ট খর পানির Ca²⁺/Mg²⁺ আয়নের সাথে অদ্রবণীয় দলা তৈরি করে না", "en": "Detergents do not form an insoluble scum with Ca²⁺/Mg²⁺ ions of hard water"},
+              {"id": "b", "bn": "ডিটারজেন্ট পানিতে দ্রবীভূত হয় না", "en": "Detergents do not dissolve in water"},
+              {"id": "c", "bn": "ডিটারজেন্ট একটি অ্যাসিড", "en": "Detergents are acids"},
+              {"id": "d", "bn": "ডিটারজেন্ট ফেনা তৈরি করে না", "en": "Detergents do not form foam"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "খর পানিতে সাবান Ca²⁺ ও Mg²⁺ আয়নের সাথে অদ্রবণীয় দলা (scum) তৈরি করে অপচয় হয়। ডিটারজেন্টের এই আয়নের সাথে দ্রবণীয় লবণ তৈরি হয় বলে দলা পড়ে না, তাই ভালো পরিষ্কার করে।",
+            "explanation_en": "In hard water soap forms an insoluble scum with Ca²⁺ and Mg²⁺ ions and is wasted. Detergents form soluble salts with these ions, so no scum forms and they clean well.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "সাবান অণুর যে অংশটি তেল/ময়লার সাথে যুক্ত হয় তাকে কী বলে?",
+            "question_en": "The part of a soap molecule that attaches to oil/grease is called what?",
+            "options": [
+              {"id": "a", "bn": "হাইড্রোফিলিক (পানিপ্রিয়) মাথা", "en": "Hydrophilic (water-loving) head"},
+              {"id": "b", "bn": "হাইড্রোফোবিক (পানিবিমুখ) লেজ", "en": "Hydrophobic (water-hating) tail"},
+              {"id": "c", "bn": "আয়নিক লবণ", "en": "Ionic salt"},
+              {"id": "d", "bn": "কার্বক্সিল আয়ন", "en": "Carboxylate ion"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সাবান অণুর দীর্ঘ হাইড্রোকার্বন লেজ পানিবিমুখ (হাইড্রোফোবিক) হওয়ায় তেল/ময়লার সাথে যুক্ত হয়, আর আয়নিক মাথা পানিপ্রিয় হওয়ায় পানিতে থাকে—ফলে ময়লা পানিতে ধুয়ে যায়।",
+            "explanation_en": "The long hydrocarbon tail of a soap molecule is hydrophobic and attaches to oil/grease, while the ionic head is hydrophilic and stays in water—so the dirt is washed away.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সাবান ও ডিটারজেন্টের মধ্যে জীবাণু দ্বারা বিয়োজনযোগ্যতা সম্পর্কে সঠিক তথ্য কোনটি?",
+            "question_en": "Which statement about biodegradability of soap and detergent is correct?",
+            "options": [
+              {"id": "a", "bn": "সাবান জৈব-বিয়োজনযোগ্য, কিছু ডিটারজেন্ট জৈব-অবিয়োজনযোগ্য", "en": "Soap is biodegradable; some detergents are non-biodegradable"},
+              {"id": "b", "bn": "সাবান জৈব-অবিয়োজনযোগ্য, সব ডিটারজেন্ট বিয়োজনযোগ্য", "en": "Soap is non-biodegradable; all detergents are biodegradable"},
+              {"id": "c", "bn": "উভয়ই সম্পূর্ণ অবিয়োজনযোগ্য", "en": "Both are completely non-biodegradable"},
+              {"id": "d", "bn": "উভয়ই ধাতু", "en": "Both are metals"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সাবান প্রাকৃতিক তেল-চর্বি থেকে তৈরি বলে সহজে জৈব-বিয়োজনযোগ্য। কিছু শাখাযুক্ত শৃঙ্খলবিশিষ্ট ডিটারজেন্ট জীবাণু দ্বারা সহজে ভাঙে না, তাই জলদূষণ ঘটায়।",
+            "explanation_en": "Soap is made from natural fats/oils and is easily biodegradable. Some branched-chain detergents are not readily broken down by microbes, so they cause water pollution.",
+            "difficulty": "basic"
+          }
+        ]
+      },
+      {
+        "title_bn": "কাচ, সিমেন্ট ও সিরামিক",
+        "title_en": "Glass, Cement and Ceramics",
+        "mcqs": [
+          {
+            "question_bn": "সাধারণ কাচ তৈরির প্রধান কাঁচামাল কোনটি?",
+            "question_en": "What is the main raw material for making ordinary glass?",
+            "options": [
+              {"id": "a", "bn": "বালি (সিলিকা, SiO₂)", "en": "Sand (silica, SiO₂)"},
+              {"id": "b", "bn": "চুনাপাথর (CaCO₃) মাত্র", "en": "Limestone (CaCO₃) only"},
+              {"id": "c", "bn": "লোহা", "en": "Iron"},
+              {"id": "d", "bn": "কাদামাটি", "en": "Clay"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সাধারণ কাচ তৈরিতে প্রধান কাঁচামাল বালি বা সিলিকা (SiO₂); এর সাথে সোডিয়াম কার্বনেট ও চুনাপাথর মিশিয়ে গলানো হয়।",
+            "explanation_en": "The main raw material for ordinary glass is sand or silica (SiO₂); it is melted together with sodium carbonate and limestone.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "পোর্টল্যান্ড সিমেন্টের প্রধান কাঁচামাল কোন জোড়া?",
+            "question_en": "Which pair are the main raw materials of Portland cement?",
+            "options": [
+              {"id": "a", "bn": "চুনাপাথর ও কাদামাটি (ক্লে)", "en": "Limestone and clay"},
+              {"id": "b", "bn": "বালি ও লবণ", "en": "Sand and salt"},
+              {"id": "c", "bn": "লোহা ও কয়লা", "en": "Iron and coal"},
+              {"id": "d", "bn": "চুন ও চিনি", "en": "Lime and sugar"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "পোর্টল্যান্ড সিমেন্ট প্রধানত চুনাপাথর (CaCO₃) ও কাদামাটি (সিলিকা-অ্যালুমিনা) উচ্চ তাপে পুড়িয়ে ক্লিংকার তৈরি করে, তাতে জিপসাম মিশিয়ে বানানো হয়।",
+            "explanation_en": "Portland cement is made mainly by heating limestone (CaCO₃) and clay (silica-alumina) at high temperature to form clinker, which is then ground with gypsum.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সিমেন্টে জিপসাম মেশানো হয় কেন?",
+            "question_en": "Why is gypsum added to cement?",
+            "options": [
+              {"id": "a", "bn": "জমাট বাঁধার সময় (সেটিং টাইম) বাড়াতে/নিয়ন্ত্রণ করতে", "en": "To control/slow the setting time"},
+              {"id": "b", "bn": "রং সাদা করতে", "en": "To make the colour white"},
+              {"id": "c", "bn": "ওজন বাড়াতে", "en": "To increase weight"},
+              {"id": "d", "bn": "গন্ধ দূর করতে", "en": "To remove odour"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "জিপসাম সিমেন্টের দ্রুত জমাট বাঁধা রোধ করে সেটিং টাইম নিয়ন্ত্রণ করে, যাতে ঢালাই ও কাজ করার পর্যাপ্ত সময় পাওয়া যায়।",
+            "explanation_en": "Gypsum slows the rapid setting of cement and controls the setting time, so that there is enough time to pour and work with it.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "সিরামিক (মৃৎশিল্প) তৈরির প্রধান কাঁচামাল কোনটি?",
+            "question_en": "What is the main raw material for making ceramics?",
+            "options": [
+              {"id": "a", "bn": "কাদামাটি (ক্লে)", "en": "Clay"},
+              {"id": "b", "bn": "লোহা", "en": "Iron"},
+              {"id": "c", "bn": "প্লাস্টিক", "en": "Plastic"},
+              {"id": "d", "bn": "কাচ", "en": "Glass"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সিরামিক দ্রব্য (হাঁড়ি, টাইলস, টেবিলওয়্যার) প্রধানত কাদামাটি দিয়ে গঠন করে উচ্চ তাপে পুড়িয়ে শক্ত করা হয়।",
+            "explanation_en": "Ceramic products (pots, tiles, tableware) are mainly shaped from clay and hardened by firing at high temperature.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "কাচকে কঠিন হলেও কেলাসহীন (amorphous) বলা হয় কেন?",
+            "question_en": "Why is glass said to be amorphous even though it is a solid?",
+            "options": [
+              {"id": "a", "bn": "এর কণাসমূহ নিয়মিত জালিকা গঠনে সুসজ্জিত নয়", "en": "Its particles are not arranged in a regular lattice"},
+              {"id": "b", "bn": "এটি তরল", "en": "It is a liquid"},
+              {"id": "c", "bn": "এতে ধাতু নেই", "en": "It contains no metal"},
+              {"id": "d", "bn": "এটি বিদ্যুৎ পরিবাহী", "en": "It conducts electricity"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "কেলাসিত কঠিন পদার্থের কণা নির্দিষ্ট জ্যামিতিক জালিকায় সুসজ্জিত থাকে, কিন্তু কাচের কণা এলোমেলোভাবে সাজানো (তরলের মতো) থাকে; তাই কাচকে কেলাসহীন বা অ্যামরফাস কঠিন বলে।",
+            "explanation_en": "In crystalline solids particles are arranged in a definite geometric lattice, but in glass the particles are arranged randomly (like a liquid); hence glass is called an amorphous solid.",
+            "difficulty": "medium"
+          }
+        ]
+      },
+      {
+        "title_bn": "খাদ্য সংরক্ষণ",
+        "title_en": "Food Preservation",
+        "mcqs": [
+          {
+            "question_bn": "খাদ্য সংরক্ষণের মূল উদ্দেশ্য কী?",
+            "question_en": "What is the main purpose of food preservation?",
+            "options": [
+              {"id": "a", "bn": "অণুজীবের বৃদ্ধি ও পচন রোধ করা", "en": "To prevent the growth of microbes and spoilage"},
+              {"id": "b", "bn": "খাদ্যের রং পরিবর্তন করা", "en": "To change the colour of food"},
+              {"id": "c", "bn": "খাদ্যের ওজন বাড়ানো", "en": "To increase the weight of food"},
+              {"id": "d", "bn": "খাদ্য দ্রুত পচানো", "en": "To make food rot quickly"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ব্যাকটেরিয়া, ছত্রাক ইত্যাদি অণুজীবের বৃদ্ধি ও জারণ রোধ করে খাদ্যকে দীর্ঘদিন নিরাপদ ও ব্যবহারযোগ্য রাখাই খাদ্য সংরক্ষণের মূল উদ্দেশ্য।",
+            "explanation_en": "The main purpose of food preservation is to keep food safe and usable for a long time by preventing the growth of microbes (bacteria, fungi) and oxidation.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "আচার সংরক্ষণে লবণ ও চিনি কীভাবে কাজ করে?",
+            "question_en": "How do salt and sugar work in preserving pickles?",
+            "options": [
+              {"id": "a", "bn": "অভিস্রবণে অণুজীব থেকে পানি টেনে নিয়ে তাদের বৃদ্ধি রোধ করে", "en": "By osmosis they draw water out of microbes and stop their growth"},
+              {"id": "b", "bn": "অণুজীবকে খাদ্য জোগায়", "en": "They feed the microbes"},
+              {"id": "c", "bn": "খাদ্যের তাপমাত্রা বাড়ায়", "en": "They raise the temperature of food"},
+              {"id": "d", "bn": "খাদ্যকে বিষাক্ত করে", "en": "They poison the food"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "উচ্চ ঘনত্বের লবণ বা চিনির দ্রবণ অভিস্রবণ প্রক্রিয়ায় অণুজীবের কোষ থেকে পানি বের করে দেয়, ফলে তারা বাঁচতে বা বংশবিস্তার করতে পারে না—তাই খাদ্য নষ্ট হয় না।",
+            "explanation_en": "A high concentration of salt or sugar draws water out of microbial cells by osmosis, so they cannot survive or multiply—hence the food does not spoil.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "নিচের কোনটি সাধারণ খাদ্য সংরক্ষক (প্রিজারভেটিভ) হিসেবে ব্যবহৃত হয়?",
+            "question_en": "Which of the following is used as a common food preservative?",
+            "options": [
+              {"id": "a", "bn": "সোডিয়াম বেনজোয়েট", "en": "Sodium benzoate"},
+              {"id": "b", "bn": "সোডিয়াম ক্লোরাইড মুক্ত পানি", "en": "Salt-free water"},
+              {"id": "c", "bn": "কার্বন ডাই-অক্সাইড শুধু", "en": "Carbon dioxide only"},
+              {"id": "d", "bn": "বালি", "en": "Sand"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সোডিয়াম বেনজোয়েট একটি প্রচলিত রাসায়নিক খাদ্য সংরক্ষক, যা অম্লীয় খাদ্যে অণুজীবের বৃদ্ধি রোধ করে (যেমন জুস, সস)।",
+            "explanation_en": "Sodium benzoate is a common chemical food preservative that inhibits microbial growth in acidic foods (such as juices, sauces).",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "খাদ্য হিমায়িত (ফ্রিজিং) করে সংরক্ষণ করা হয় কেন?",
+            "question_en": "Why does freezing preserve food?",
+            "options": [
+              {"id": "a", "bn": "নিম্ন তাপমাত্রায় অণুজীবের বৃদ্ধি ও এনজাইম কার্যকলাপ ধীর হয়", "en": "Low temperature slows the growth of microbes and enzyme activity"},
+              {"id": "b", "bn": "অণুজীব দ্রুত বৃদ্ধি পায়", "en": "Microbes grow faster"},
+              {"id": "c", "bn": "খাদ্যের সব পানি বেরিয়ে যায়", "en": "All water leaves the food"},
+              {"id": "d", "bn": "খাদ্য জীবাণুমুক্ত হয় স্থায়ীভাবে", "en": "Food becomes permanently sterile"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "নিম্ন তাপমাত্রায় অণুজীবের বিপাক ও বংশবৃদ্ধি এবং খাদ্যের এনজাইমঘটিত বিক্রিয়া অত্যন্ত ধীর হয়ে যায়, ফলে খাদ্য দীর্ঘদিন ভালো থাকে।",
+            "explanation_en": "At low temperature the metabolism and multiplication of microbes and the enzyme reactions in food slow greatly, so the food stays good for a long time.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "মাছ ও মাংস শুকিয়ে সংরক্ষণ করা যায় কারণ—",
+            "question_en": "Fish and meat can be preserved by drying because—",
+            "options": [
+              {"id": "a", "bn": "পানি অপসারণে অণুজীব বাঁচতে পারে না", "en": "Removing water means microbes cannot survive"},
+              {"id": "b", "bn": "শুকালে পুষ্টিমান বেড়ে যায়", "en": "Drying increases nutritional value"},
+              {"id": "c", "bn": "শুকালে অণুজীব বেড়ে যায়", "en": "Drying increases microbes"},
+              {"id": "d", "bn": "শুকালে খাদ্য ভারী হয়", "en": "Drying makes food heavier"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অণুজীবের বেঁচে থাকা ও বংশবিস্তারের জন্য পানি প্রয়োজন। শুকানোর ফলে খাদ্য থেকে পানি বের হয়ে যায়, তাই অণুজীব জন্মাতে পারে না এবং খাদ্য নষ্ট হয় না।",
+            "explanation_en": "Microbes need water to survive and multiply. Drying removes water from the food, so microbes cannot grow and the food does not spoil.",
+            "difficulty": "basic"
+          }
+        ]
+      },
+      {
+        "title_bn": "ওষুধ ও প্রসাধনী",
+        "title_en": "Medicines and Cosmetics",
+        "mcqs": [
+          {
+            "question_bn": "অ্যান্টাসিড ওষুধ পাকস্থলীর কোন সমস্যা দূর করে?",
+            "question_en": "Antacid medicines relieve which problem of the stomach?",
+            "options": [
+              {"id": "a", "bn": "অতিরিক্ত অম্লতা (অ্যাসিডিটি)", "en": "Excess acidity"},
+              {"id": "b", "bn": "অতিরিক্ত ক্ষারত্ব", "en": "Excess alkalinity"},
+              {"id": "c", "bn": "রক্তশূন্যতা", "en": "Anaemia"},
+              {"id": "d", "bn": "জ্বর", "en": "Fever"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "পাকস্থলীতে HCl-এর আধিক্যে অম্লতা হয়। অ্যান্টাসিড (যেমন Mg(OH)₂, NaHCO₃) দুর্বল ক্ষার হিসেবে অতিরিক্ত অ্যাসিডকে প্রশমিত করে স্বস্তি দেয়।",
+            "explanation_en": "Excess HCl in the stomach causes acidity. Antacids (such as Mg(OH)₂, NaHCO₃) are weak bases that neutralise the excess acid and give relief.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ব্যাকটেরিয়াজনিত সংক্রমণের চিকিৎসায় কোন ধরনের ওষুধ ব্যবহৃত হয়?",
+            "question_en": "Which type of medicine is used to treat bacterial infections?",
+            "options": [
+              {"id": "a", "bn": "অ্যান্টিবায়োটিক", "en": "Antibiotic"},
+              {"id": "b", "bn": "অ্যান্টাসিড", "en": "Antacid"},
+              {"id": "c", "bn": "ভিটামিন", "en": "Vitamin"},
+              {"id": "d", "bn": "প্রসাধনী", "en": "Cosmetic"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যান্টিবায়োটিক (যেমন পেনিসিলিন) ব্যাকটেরিয়াকে ধ্বংস করে বা তাদের বৃদ্ধি রোধ করে ব্যাকটেরিয়াজনিত সংক্রমণ নিরাময় করে। এটি ভাইরাসের বিরুদ্ধে কার্যকর নয়।",
+            "explanation_en": "Antibiotics (such as penicillin) kill bacteria or inhibit their growth to cure bacterial infections. They are not effective against viruses.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "প্যারাসিটামল সাধারণত কোন কাজে ব্যবহৃত হয়?",
+            "question_en": "Paracetamol is generally used for what?",
+            "options": [
+              {"id": "a", "bn": "ব্যথা ও জ্বর উপশমে", "en": "Relief of pain and fever"},
+              {"id": "b", "bn": "রক্তচাপ বাড়াতে", "en": "To raise blood pressure"},
+              {"id": "c", "bn": "চুল বৃদ্ধিতে", "en": "For hair growth"},
+              {"id": "d", "bn": "হজম বন্ধ করতে", "en": "To stop digestion"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্যারাসিটামল একটি বেদনানাশক (analgesic) ও জ্বরনাশক (antipyretic) ওষুধ, যা ব্যথা ও জ্বর কমাতে ব্যবহৃত হয়।",
+            "explanation_en": "Paracetamol is an analgesic and antipyretic medicine used to reduce pain and fever.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "অ্যান্টিবায়োটিকের অপব্যবহারের ফলে সৃষ্ট একটি বড় সমস্যা কোনটি?",
+            "question_en": "What is a major problem caused by the misuse of antibiotics?",
+            "options": [
+              {"id": "a", "bn": "অ্যান্টিবায়োটিক রেজিস্ট্যান্স (প্রতিরোধ ক্ষমতা)", "en": "Antibiotic resistance"},
+              {"id": "b", "bn": "খাদ্য সংরক্ষণ", "en": "Food preservation"},
+              {"id": "c", "bn": "বৈশ্বিক শীতলীকরণ", "en": "Global cooling"},
+              {"id": "d", "bn": "কাচ শক্ত হওয়া", "en": "Hardening of glass"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যান্টিবায়োটিকের অপ্রয়োজনীয় বা অসম্পূর্ণ ব্যবহারে ব্যাকটেরিয়া ওষুধের প্রতি প্রতিরোধ ক্ষমতা অর্জন করে (রেজিস্ট্যান্স), ফলে পরে সেই ওষুধ আর কার্যকর হয় না—এটি একটি গুরুতর জনস্বাস্থ্য সমস্যা।",
+            "explanation_en": "Unnecessary or incomplete use of antibiotics lets bacteria develop resistance to the drug, so the medicine no longer works later—a serious public health problem.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "নিচের কোনটি একটি প্রসাধনী (কসমেটিক) দ্রব্য?",
+            "question_en": "Which of the following is a cosmetic product?",
+            "options": [
+              {"id": "a", "bn": "লিপস্টিক", "en": "Lipstick"},
+              {"id": "b", "bn": "পেনিসিলিন", "en": "Penicillin"},
+              {"id": "c", "bn": "ইউরিয়া সার", "en": "Urea fertiliser"},
+              {"id": "d", "bn": "অ্যান্টাসিড", "en": "Antacid"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "লিপস্টিক, ক্রিম, পাউডার, পারফিউম ইত্যাদি সৌন্দর্যবর্ধক দ্রব্য প্রসাধনী। পেনিসিলিন ও অ্যান্টাসিড ওষুধ, ইউরিয়া সার।",
+            "explanation_en": "Lipstick, cream, powder and perfume are beauty-enhancing cosmetic products. Penicillin and antacid are medicines, and urea is a fertiliser.",
+            "difficulty": "medium"
+          }
+        ]
+      },
+      {
+        "title_bn": "রসায়ন ও পরিবেশ",
+        "title_en": "Chemistry and the Environment",
+        "mcqs": [
+          {
+            "question_bn": "অম্লবৃষ্টির জন্য প্রধানত দায়ী গ্যাস কোনগুলো?",
+            "question_en": "Which gases are mainly responsible for acid rain?",
+            "options": [
+              {"id": "a", "bn": "SO₂ ও NOₓ", "en": "SO₂ and NOₓ"},
+              {"id": "b", "bn": "O₂ ও N₂", "en": "O₂ and N₂"},
+              {"id": "c", "bn": "He ও Ne", "en": "He and Ne"},
+              {"id": "d", "bn": "H₂ ও CH₄", "en": "H₂ and CH₄"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "জীবাশ্ম জ্বালানি পোড়ালে উৎপন্ন সালফার ডাই-অক্সাইড (SO₂) ও নাইট্রোজেন অক্সাইডসমূহ (NOₓ) বায়ুর জলীয় বাষ্পের সাথে বিক্রিয়া করে সালফিউরিক ও নাইট্রিক অ্যাসিড তৈরি করে অম্লবৃষ্টি ঘটায়।",
+            "explanation_en": "Sulphur dioxide (SO₂) and nitrogen oxides (NOₓ) produced by burning fossil fuels react with water vapour in the air to form sulphuric and nitric acids, causing acid rain.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "ওজোন স্তর ক্ষয়ের জন্য প্রধানত দায়ী রাসায়নিক কোনটি?",
+            "question_en": "Which chemical is mainly responsible for depletion of the ozone layer?",
+            "options": [
+              {"id": "a", "bn": "ক্লোরোফ্লুরোকার্বন (CFC)", "en": "Chlorofluorocarbons (CFC)"},
+              {"id": "b", "bn": "কার্বন ডাই-অক্সাইড", "en": "Carbon dioxide"},
+              {"id": "c", "bn": "অক্সিজেন", "en": "Oxygen"},
+              {"id": "d", "bn": "নাইট্রোজেন", "en": "Nitrogen"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "CFC থেকে মুক্ত ক্লোরিন পরমাণু ঊর্ধ্ব বায়ুমণ্ডলে ওজোন (O₃) অণুকে ভেঙে ফেলে, ফলে ওজোন স্তর ক্ষয় হয়ে ক্ষতিকর অতিবেগুনি রশ্মি ভূপৃষ্ঠে পৌঁছায়।",
+            "explanation_en": "Chlorine atoms released from CFCs break down ozone (O₃) molecules in the upper atmosphere, depleting the ozone layer and letting harmful ultraviolet rays reach the earth.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "প্রধান গ্রিনহাউস গ্যাস কোনটি, যা বৈশ্বিক উষ্ণায়নে সবচেয়ে বেশি ভূমিকা রাখে?",
+            "question_en": "Which is the main greenhouse gas contributing most to global warming?",
+            "options": [
+              {"id": "a", "bn": "কার্বন ডাই-অক্সাইড (CO₂)", "en": "Carbon dioxide (CO₂)"},
+              {"id": "b", "bn": "অক্সিজেন (O₂)", "en": "Oxygen (O₂)"},
+              {"id": "c", "bn": "আর্গন (Ar)", "en": "Argon (Ar)"},
+              {"id": "d", "bn": "নিয়ন (Ne)", "en": "Neon (Ne)"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "কার্বন ডাই-অক্সাইড একটি প্রধান গ্রিনহাউস গ্যাস; জীবাশ্ম জ্বালানি দহনে এর পরিমাণ বেড়ে বায়ুমণ্ডলে তাপ আটকে রেখে বৈশ্বিক উষ্ণায়ন ঘটায়।",
+            "explanation_en": "Carbon dioxide is a major greenhouse gas; burning fossil fuels increases its amount, trapping heat in the atmosphere and causing global warming.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "বায়ুদূষণ কমানোর একটি কার্যকর উপায় কোনটি?",
+            "question_en": "Which is an effective way to reduce air pollution?",
+            "options": [
+              {"id": "a", "bn": "নবায়নযোগ্য শক্তি (সৌর, বায়ু) ব্যবহার বাড়ানো", "en": "Increasing use of renewable energy (solar, wind)"},
+              {"id": "b", "bn": "বেশি করে জীবাশ্ম জ্বালানি পোড়ানো", "en": "Burning more fossil fuels"},
+              {"id": "c", "bn": "বন উজাড় করা", "en": "Cutting down forests"},
+              {"id": "d", "bn": "যানবাহনে বেশি লেড-যুক্ত পেট্রোল ব্যবহার", "en": "Using more leaded petrol in vehicles"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সৌর ও বায়ুশক্তির মতো নবায়নযোগ্য শক্তি ব্যবহার করলে জীবাশ্ম জ্বালানি পোড়ানো কমে, ফলে CO₂, SO₂ ও অন্যান্য দূষক নির্গমন হ্রাস পেয়ে বায়ুদূষণ কমে।",
+            "explanation_en": "Using renewable energy such as solar and wind reduces the burning of fossil fuels, cutting emissions of CO₂, SO₂ and other pollutants, thus reducing air pollution.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "পানিতে আর্সেনিক দূষণ বাংলাদেশে একটি বড় সমস্যা; আর্সেনিকযুক্ত পানি দীর্ঘদিন পান করলে কী হয়?",
+            "question_en": "Arsenic contamination of water is a major problem in Bangladesh; what happens on long-term drinking of arsenic-laced water?",
+            "options": [
+              {"id": "a", "bn": "আর্সেনিকোসিস ও ত্বকের ক্যান্সারসহ গুরুতর স্বাস্থ্যঝুঁকি", "en": "Arsenicosis and serious health risks including skin cancer"},
+              {"id": "b", "bn": "শরীর শক্তিশালী হয়", "en": "The body becomes stronger"},
+              {"id": "c", "bn": "কোনো ক্ষতি হয় না", "en": "No harm occurs"},
+              {"id": "d", "bn": "রক্ত পরিশোধিত হয়", "en": "The blood is purified"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "আর্সেনিক একটি বিষাক্ত ভারী মৌল; দীর্ঘদিন আর্সেনিকযুক্ত ভূগর্ভস্থ পানি পান করলে আর্সেনিকোসিস, ত্বকের ক্ষত ও ক্যান্সারসহ নানা গুরুতর রোগ হয়।",
+            "explanation_en": "Arsenic is a toxic heavy element; long-term drinking of arsenic-contaminated groundwater causes arsenicosis, skin lesions and cancer, among other serious diseases.",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "একজন কৃষক তার জমিতে ভালো ফলনের জন্য প্রচুর পরিমাণে ইউরিয়া ও TSP সার প্রয়োগ করেন। কিছুদিন পর পাশের পুকুরে সবুজ শৈবালের পুরু আস্তরণ পড়ে এবং মাছ মরে ভেসে ওঠে। কৃষি কর্মকর্তা তাঁকে পরিমিত সার ব্যবহারের পরামর্শ দেন।",
+        "stimulus_en": "A farmer applies large amounts of urea and TSP fertiliser to his field for a good yield. After some days a thick layer of green algae forms in the nearby pond and fish die and float up. The agriculture officer advises him to use fertilisers in moderation.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "ইউরিয়া সারের রাসায়নিক সংকেত লেখো।",
+            "question_en": "Write the chemical formula of urea fertiliser.",
+            "model_answer_bn": "ইউরিয়া সারের রাসায়নিক সংকেত CO(NH₂)₂।",
+            "model_answer_en": "The chemical formula of urea fertiliser is CO(NH₂)₂."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "NPK সার বলতে কী বোঝায়? ব্যাখ্যা করো।",
+            "question_en": "What is meant by NPK fertiliser? Explain.",
+            "model_answer_bn": "NPK সার বলতে সেই সারকে বোঝায় যা উদ্ভিদের তিনটি প্রধান পুষ্টি উপাদান—নাইট্রোজেন (N), ফসফরাস (P) ও পটাশিয়াম (K) সরবরাহ করে। নাইট্রোজেন পাতা ও বৃদ্ধি, ফসফরাস মূল ও ফুল-ফল, এবং পটাশিয়াম সামগ্রিক সুস্থতা ও রোগ প্রতিরোধে সাহায্য করে।",
+            "model_answer_en": "NPK fertiliser refers to fertiliser that supplies the three main plant nutrients—Nitrogen (N), Phosphorus (P) and Potassium (K). Nitrogen helps leaves and growth, phosphorus helps roots and flower/fruit, and potassium helps overall health and disease resistance."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "কৃষকের জমিতে অতিরিক্ত সার প্রয়োগের ফলে পুকুরে শৈবাল জন্মে মাছ মরল কেন—রাসায়নিক প্রক্রিয়ার আলোকে ব্যাখ্যা করো।",
+            "question_en": "Why did excess fertiliser on the field cause algae to grow and fish to die in the pond—explain in terms of the chemical process.",
+            "model_answer_bn": "অতিরিক্ত ইউরিয়া ও TSP থেকে নাইট্রেট ও ফসফেট বৃষ্টির পানিতে ধুয়ে পুকুরে প্রবেশ করে। এই পুষ্টি উপাদান শৈবালের অস্বাভাবিক দ্রুত বৃদ্ধি ঘটায় (অ্যালগাল ব্লুম)। পুরু শৈবাল আস্তরণ সূর্যালোক আটকে দেয় এবং শৈবাল মরে পচতে থাকলে পচনকারী ব্যাকটেরিয়া পানির দ্রবীভূত অক্সিজেন ব্যবহার করে ফেলে। ফলে পানিতে অক্সিজেন কমে গিয়ে মাছ শ্বাস নিতে না পেরে মারা যায়। এই সম্পূর্ণ প্রক্রিয়াকে ইউট্রোফিকেশন বলে।",
+            "model_answer_en": "Nitrate and phosphate from the excess urea and TSP are washed by rainwater into the pond. These nutrients cause abnormally rapid algal growth (algal bloom). The thick algal layer blocks sunlight, and when the algae die and decay, decomposer bacteria use up the dissolved oxygen in the water. As oxygen falls, the fish cannot breathe and die. This whole process is called eutrophication."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "'রাসায়নিক সার ফসল বাড়ায় আবার পরিবেশও ক্ষতি করে'—উক্তিটির যথার্থতা মূল্যায়ন করে দূষণ কমানোর দুটি উপায় লেখো।",
+            "question_en": "'Chemical fertilisers increase crops but also harm the environment'—evaluate the validity of this statement and state two ways to reduce the pollution.",
+            "model_answer_bn": "উক্তিটি যথার্থ। ইতিবাচক দিক: রাসায়নিক সার মাটিতে দ্রুত N, P, K সরবরাহ করে ফসলের উৎপাদন উল্লেখযোগ্যভাবে বাড়ায়, খাদ্য নিরাপত্তা নিশ্চিত করে। নেতিবাচক দিক: অতিরিক্ত সার ইউট্রোফিকেশন ঘটিয়ে জলজ জীবন ধ্বংস করে, ভূগর্ভস্থ পানিতে নাইট্রেট মিশে পানি দূষিত করে এবং মাটির অম্লতা ও গঠন নষ্ট করে। তাই সুবিধা ও ক্ষতি দুটোই আছে, ফলে উক্তিটি সঠিক। দূষণ কমানোর উপায়: (১) মাটি পরীক্ষা করে প্রয়োজন অনুযায়ী পরিমিত সার ব্যবহার করা এবং জৈব সার/কম্পোস্টের ব্যবহার বাড়ানো; (২) জমির চারপাশে বাফার অঞ্চল রেখে ও সঠিক সময়ে সার প্রয়োগ করে জলাশয়ে সারের প্রবাহ (run-off) কমানো।",
+            "model_answer_en": "The statement is valid. Positive side: chemical fertilisers quickly supply N, P, K to the soil, significantly raising crop production and ensuring food security. Negative side: excess fertiliser causes eutrophication that destroys aquatic life, leaches nitrate into groundwater polluting it, and damages soil acidity and structure. Since there are both benefits and harms, the statement is correct. Ways to reduce pollution: (1) test the soil and use fertiliser in moderation as needed while increasing use of organic manure/compost; (2) keep buffer zones around fields and apply fertiliser at the right time to reduce run-off into water bodies."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "একটি শহরে বহু কল-কারখানা ও যানবাহন কয়লা ও ডিজেল পুড়িয়ে চলে। ফলে বাতাসে SO₂ ও NOₓ গ্যাসের পরিমাণ বেড়ে যায় এবং সেখানে প্রায়ই অম্লীয় বৃষ্টি হয়, যা ধাতব স্থাপনা ও মার্বেল পাথরের ভবন ক্ষয় করছে। একই সাথে CO₂-এর পরিমাণ বেড়ে তাপমাত্রাও বাড়ছে।",
+        "stimulus_en": "In a city many factories and vehicles run by burning coal and diesel. As a result the amounts of SO₂ and NOₓ gases in the air rise and acid rain often occurs there, corroding metal structures and marble stone buildings. At the same time rising CO₂ is increasing the temperature.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "গ্রিনহাউস গ্যাস কাকে বলে?",
+            "question_en": "What is a greenhouse gas?",
+            "model_answer_bn": "যেসব গ্যাস বায়ুমণ্ডলে সূর্য থেকে আসা তাপ শোষণ করে ও আটকে রেখে পৃথিবীর তাপমাত্রা বাড়ায় তাদের গ্রিনহাউস গ্যাস বলে। যেমন: CO₂, মিথেন (CH₄), জলীয় বাষ্প।",
+            "model_answer_en": "Gases that absorb and trap heat coming from the sun in the atmosphere and raise the earth's temperature are called greenhouse gases. Examples: CO₂, methane (CH₄), water vapour."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "অম্লবৃষ্টি কীভাবে সৃষ্টি হয়? ব্যাখ্যা করো।",
+            "question_en": "How is acid rain formed? Explain.",
+            "model_answer_bn": "জীবাশ্ম জ্বালানি (কয়লা, ডিজেল) পোড়ালে সালফার ডাই-অক্সাইড (SO₂) ও নাইট্রোজেন অক্সাইড (NOₓ) নির্গত হয়। এই গ্যাসগুলো বায়ুমণ্ডলের জলীয় বাষ্প ও অক্সিজেনের সাথে বিক্রিয়া করে সালফিউরিক অ্যাসিড (H₂SO₄) ও নাইট্রিক অ্যাসিড (HNO₃) তৈরি করে। এই অ্যাসিড বৃষ্টির পানির সাথে মিশে ভূপৃষ্ঠে পড়লে তাকে অম্লবৃষ্টি বলে।",
+            "model_answer_en": "Burning fossil fuels (coal, diesel) releases sulphur dioxide (SO₂) and nitrogen oxides (NOₓ). These gases react with water vapour and oxygen in the atmosphere to form sulphuric acid (H₂SO₄) and nitric acid (HNO₃). When these acids mix with rainwater and fall to the ground, it is called acid rain."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "অম্লবৃষ্টি মার্বেল (CaCO₃) ভবন ক্ষয় করে—সমীকরণসহ কারণ ব্যাখ্যা করো।",
+            "question_en": "Acid rain corrodes marble (CaCO₃) buildings—explain the reason with an equation.",
+            "model_answer_bn": "মার্বেল পাথর মূলত ক্যালসিয়াম কার্বনেট (CaCO₃) দিয়ে গঠিত, যা একটি ক্ষারকীয় লবণ এবং অ্যাসিডের সাথে বিক্রিয়া করে। অম্লবৃষ্টিতে থাকা সালফিউরিক অ্যাসিড মার্বেলের সাথে বিক্রিয়া করে দ্রবণীয় লবণ, পানি ও CO₂ গ্যাস তৈরি করে, ফলে পাথর ধীরে ধীরে ক্ষয় হয়। বিক্রিয়া: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂↑। এভাবে অ্যাসিড পাথরকে দ্রবীভূত করে ভবন ও ভাস্কর্য নষ্ট করে।",
+            "model_answer_en": "Marble is mainly calcium carbonate (CaCO₃), a basic salt that reacts with acids. The sulphuric acid in acid rain reacts with marble to form a soluble salt, water and CO₂ gas, so the stone gradually erodes. Reaction: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂↑. In this way the acid dissolves the stone and damages buildings and sculptures."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "শহরের বায়ুদূষণ ও বৈশ্বিক উষ্ণায়ন কমাতে রসায়নের জ্ঞান কাজে লাগিয়ে গ্রহণযোগ্য পদক্ষেপসমূহ বিশ্লেষণ করো।",
+            "question_en": "Analyse acceptable measures, using knowledge of chemistry, to reduce the city's air pollution and global warming.",
+            "model_answer_bn": "শহরের দূষণের মূল কারণ জীবাশ্ম জ্বালানির দহনে সৃষ্ট SO₂, NOₓ ও CO₂। রসায়নের জ্ঞান কাজে লাগিয়ে করণীয়: (১) জীবাশ্ম জ্বালানির বিকল্প হিসেবে সৌর, বায়ু ও জলবিদ্যুতের মতো নবায়নযোগ্য শক্তি এবং যানবাহনে তুলনামূলক পরিচ্ছন্ন CNG ব্যবহার বাড়ানো, যাতে দূষক নির্গমন কমে। (২) কারখানার চিমনিতে স্ক্রাবার বসিয়ে SO₂ শোষণ করা এবং যানবাহনে ক্যাটালিটিক কনভার্টার ব্যবহার করে NOₓ ও CO-কে নিরাপদ N₂ ও CO₂-তে রূপান্তর করা। (৩) জ্বালানিতে সালফারের পরিমাণ কমিয়ে (low-sulphur fuel) SO₂ নির্গমন হ্রাস করা। (৪) বেশি করে বৃক্ষরোপণ করা, কারণ গাছ সালোকসংশ্লেষণে CO₂ শোষণ করে ও O₂ ছাড়ে, ফলে গ্রিনহাউস প্রভাব কমে। এসব সমন্বিত পদক্ষেপ অম্লবৃষ্টি ও বৈশ্বিক উষ্ণায়ন উভয়ই হ্রাস করবে।",
+            "model_answer_en": "The city's pollution comes mainly from SO₂, NOₓ and CO₂ produced by burning fossil fuels. Using chemistry knowledge: (1) increase use of renewable energy such as solar, wind and hydro as alternatives to fossil fuels, and relatively clean CNG in vehicles, to cut pollutant emissions. (2) fit scrubbers on factory chimneys to absorb SO₂ and use catalytic converters in vehicles to convert NOₓ and CO into safe N₂ and CO₂. (3) reduce SO₂ emission by using low-sulphur fuel. (4) plant more trees, since through photosynthesis they absorb CO₂ and release O₂, lowering the greenhouse effect. These combined measures will reduce both acid rain and global warming."
+          }
+        ]
+      }
+    ]
+  }
+]

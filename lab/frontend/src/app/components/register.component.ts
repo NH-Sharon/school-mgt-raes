@@ -58,15 +58,16 @@ import { I18nService } from '../services/i18n.service';
   `,
   styles: [`
     .auth-wrap { display: flex; justify-content: center; padding: 40px 20px; }
-    .auth-card { background: #fff; border: 1px solid #e2e8ec; border-radius: 14px; padding: 28px; width: 100%; max-width: 420px; }
-    .auth-card h2 { margin: 0 0 18px; color: #1a6d5e; text-align: center; }
+    .auth-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg); box-shadow: var(--shadow); padding: 30px; width: 100%; max-width: 440px; }
+    .auth-card h2 { margin: 0 0 20px; color: var(--brand); text-align: center; }
     .form-group { margin-bottom: 14px; }
-    .form-group label { display: block; font-size: 0.85rem; color: #55666f; margin-bottom: 4px; }
-    .form-control { width: 100%; padding: 9px 12px; border: 1px solid #cfd9dd; border-radius: 8px; font-size: 0.9rem; }
-    .primary-btn { width: 100%; background: linear-gradient(135deg, #1a6d5e, #144f45); color: #fff; border: none; padding: 11px; border-radius: 8px; font-weight: 700; margin-top: 6px; }
+    .form-group label { display: block; font-size: 0.82rem; color: var(--text-muted); margin-bottom: 5px; font-weight: 600; }
+    .form-control { width: 100%; padding: 10px 12px; border: 1px solid var(--border-strong); border-radius: var(--radius-sm); font-size: 0.92rem; background: var(--surface); color: var(--text); }
+    .form-control:focus { outline: none; border-color: var(--brand); box-shadow: 0 0 0 3px var(--brand-soft); }
+    .primary-btn { width: 100%; background: linear-gradient(135deg, var(--brand), var(--brand-dark)); color: #fff; border: none; padding: 12px; border-radius: var(--radius-sm); font-weight: 700; margin-top: 6px; }
     .primary-btn:disabled { opacity: 0.5; }
-    .error { color: #c0392b; font-size: 0.85rem; }
-    .switch-link { text-align: center; font-size: 0.85rem; margin-top: 14px; color: #55666f; }
+    .error { color: var(--danger); font-size: 0.85rem; }
+    .switch-link { text-align: center; font-size: 0.85rem; margin-top: 16px; color: var(--text-muted); }
   `],
 })
 export class RegisterComponent {

@@ -13,6 +13,10 @@ import { I18nService } from '../services/i18n.service';
     <div class="page">
       <h2>{{ i18n.isEn ? 'Class' : 'শ্রেণি' }} {{ classLevel }} — {{ i18n.t('subjects') }}</h2>
 
+      <button class="practice-cta" (click)="goPractice()">
+        🎯 {{ i18n.isEn ? 'Build a custom MCQ practice (choose subject, chapters, topics & how many questions)' : 'কাস্টম এমসিকিউ অনুশীলন তৈরি করুন (বিষয়, অধ্যায়, টপিক ও প্রশ্নসংখ্যা বেছে নিন)' }}
+      </button>
+
       <div class="class-picker">
         <button *ngFor="let c of classLevels" class="chip" [class.active]="c === classLevel" (click)="selectClass(c)">{{ c }}</button>
       </div>
@@ -43,6 +47,8 @@ import { I18nService } from '../services/i18n.service';
   styles: [`
     .page { max-width: 900px; margin: 0 auto; padding: 24px 20px; }
     h2 { color: #1a6d5e; font-size: 1.2rem; }
+    .practice-cta { width: 100%; text-align: left; background: linear-gradient(135deg, var(--brand-soft), #fff); border: 1px solid var(--brand); color: var(--brand); border-radius: var(--radius); padding: 14px 16px; font-weight: 600; font-size: 0.9rem; margin-bottom: 18px; }
+    .practice-cta:hover { background: var(--brand-soft); }
     .class-picker { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px; }
     .chip { padding: 7px 14px; border-radius: 999px; border: 1px solid #cfd9dd; background: #fff; font-size: 0.85rem; }
     .chip.active { background: #1a6d5e; color: #fff; border-color: #1a6d5e; }
@@ -80,6 +86,10 @@ export class SubjectsComponent implements OnInit {
   ngOnInit() {
     const user = this.auth.currentUser();
     if (user?.classLevel) this.classLevel = user.classLevel;
+    // Students see only their own class's books/chapters (Study = their class).
+    if (user?.role === 'student' && user.classLevel) {
+      this.classLevels = [user.classLevel];
+    }
     this.subjectService.getSubjects().subscribe(s => this.subjects = s);
   }
 
@@ -105,6 +115,8 @@ export class SubjectsComponent implements OnInit {
   openChapter(ch: Chapter) {
     this.router.navigate(['/subjects', ch.subject_id, 'chapters', ch.id]);
   }
+
+  goPractice() { this.router.navigateByUrl('/practice'); }
 
   subjectIcon(code: string): string {
     return { CHE: '⚗️', PHY: '🔭', BIO: '🧬', ICT: '💻' }[code] || '📘';

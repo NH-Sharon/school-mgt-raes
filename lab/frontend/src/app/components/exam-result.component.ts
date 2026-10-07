@@ -15,6 +15,18 @@ import { I18nService } from '../services/i18n.service';
         <p class="pct">{{ scorePct() }}%</p>
       </div>
 
+      <!-- FR-4.5 level-wise breakdown -->
+      <div class="breakdown" *ngIf="breakdown().length">
+        <h3>{{ i18n.t('levelBreakdown') }}</h3>
+        <div class="levels">
+          <div class="level" *ngFor="let b of breakdown()">
+            <span class="ds-pill" [class]="b.level">{{ b.level }}</span>
+            <span class="lscore">{{ b.correct }} / {{ b.total }}</span>
+            <div class="lbar"><div class="lfill" [class]="b.level" [style.width.%]="b.pct"></div></div>
+          </div>
+        </div>
+      </div>
+
       <div class="review-list">
         <div class="review-item" *ngFor="let q of review; let i = index" [class.correct]="isCorrect(q)" [class.incorrect]="!isCorrect(q)">
           <p class="q-index">{{ i18n.isEn ? 'Question' : 'প্রশ্ন' }} {{ i + 1 }}</p>
@@ -54,6 +66,16 @@ import { I18nService } from '../services/i18n.service';
     .explanation { font-size: 0.85rem; color: #55666f; margin: 0; }
     .action-row { display: flex; gap: 10px; justify-content: center; margin-top: 20px; }
     .ghost-btn { background: transparent; border: 1px solid #cfd9dd; color: #33454f; padding: 9px 16px; border-radius: 8px; }
+    .breakdown { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px; margin-bottom: 20px; }
+    .breakdown h3 { margin: 0 0 12px; font-size: 1rem; color: var(--brand); }
+    .levels { display: flex; flex-direction: column; gap: 10px; }
+    .level { display: grid; grid-template-columns: 90px 60px 1fr; align-items: center; gap: 10px; }
+    .lscore { font-size: 0.85rem; font-weight: 700; }
+    .lbar { height: 8px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
+    .lfill { height: 100%; border-radius: 999px; }
+    .lfill.basic { background: var(--difficulty-basic); }
+    .lfill.medium { background: var(--difficulty-medium); }
+    .lfill.advanced { background: var(--difficulty-advanced); }
   `],
 })
 export class ExamResultComponent implements OnInit {
@@ -82,5 +104,17 @@ export class ExamResultComponent implements OnInit {
   scorePct(): number {
     if (!this.attempt?.max_score) return 0;
     return Math.round((this.attempt.score / this.attempt.max_score) * 100);
+  }
+
+  breakdown(): { level: string; correct: number; total: number; pct: number }[] {
+    const lb = this.attempt?.level_breakdown || {};
+    return ['basic', 'medium', 'advanced']
+      .filter(l => lb[l])
+      .map(l => ({
+        level: l,
+        correct: lb[l].correct,
+        total: lb[l].total,
+        pct: lb[l].total ? Math.round((lb[l].correct / lb[l].total) * 100) : 0,
+      }));
   }
 }

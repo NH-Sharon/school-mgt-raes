@@ -1,0 +1,1088 @@
+[
+  {
+    "order": 3,
+    "title_bn": "পদার্থের গঠন",
+    "title_en": "Structure of Matter",
+    "topics": [
+      {
+        "title_bn": "মৌল, যৌগ ও মিশ্রণ",
+        "title_en": "Elements, Compounds and Mixtures",
+        "mcqs": [
+          {
+            "question_bn": "নিচের কোনটি একটি মৌল?",
+            "question_en": "Which of the following is an element?",
+            "options": [
+              {"id": "a", "bn": "পানি", "en": "Water"},
+              {"id": "b", "bn": "অক্সিজেন", "en": "Oxygen"},
+              {"id": "c", "bn": "বায়ু", "en": "Air"},
+              {"id": "d", "bn": "চিনি", "en": "Sugar"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অক্সিজেন একটি মৌল কারণ এটি একই ধরনের পরমাণু দিয়ে গঠিত। পানি ও চিনি যৌগ এবং বায়ু একটি মিশ্রণ।",
+            "explanation_en": "Oxygen is an element because it is made of only one type of atom. Water and sugar are compounds, while air is a mixture.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "যৌগের ক্ষেত্রে নিচের কোন বৈশিষ্ট্যটি সঠিক?",
+            "question_en": "Which characteristic is correct for a compound?",
+            "options": [
+              {"id": "a", "bn": "উপাদানগুলো নির্দিষ্ট অনুপাতে যুক্ত থাকে", "en": "Components are combined in a fixed ratio"},
+              {"id": "b", "bn": "উপাদানগুলো যেকোনো অনুপাতে থাকতে পারে", "en": "Components can be in any ratio"},
+              {"id": "c", "bn": "ভৌত পদ্ধতিতে সহজে আলাদা করা যায়", "en": "Can be easily separated by physical methods"},
+              {"id": "d", "bn": "উপাদানগুলো নিজ নিজ ধর্ম বজায় রাখে", "en": "Components retain their own properties"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "যৌগে মৌলগুলো নির্দিষ্ট ভর অনুপাতে রাসায়নিকভাবে যুক্ত থাকে এবং নতুন ধর্মবিশিষ্ট পদার্থ তৈরি করে।",
+            "explanation_en": "In a compound elements are chemically combined in a fixed mass ratio and form a new substance with new properties.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "মিশ্রণের কোন বৈশিষ্ট্যটি সঠিক নয়?",
+            "question_en": "Which characteristic of a mixture is NOT correct?",
+            "options": [
+              {"id": "a", "bn": "ভৌত পদ্ধতিতে আলাদা করা যায়", "en": "Can be separated by physical methods"},
+              {"id": "b", "bn": "উপাদানগুলো নিজ ধর্ম বজায় রাখে", "en": "Components keep their own properties"},
+              {"id": "c", "bn": "উপাদানগুলো নির্দিষ্ট অনুপাতে থাকে", "en": "Components are in a fixed ratio"},
+              {"id": "d", "bn": "যেকোনো অনুপাতে উপাদান মিশ্রিত হতে পারে", "en": "Components can mix in any ratio"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "মিশ্রণে উপাদান কোনো নির্দিষ্ট অনুপাতে থাকে না; যেকোনো অনুপাতে মিশতে পারে। তাই (গ) সঠিক নয়।",
+            "explanation_en": "In a mixture the components are not in any fixed ratio; they can mix in any proportion. So (c) is not correct.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি সমসত্ত্ব (homogeneous) মিশ্রণ?",
+            "question_en": "Which of the following is a homogeneous mixture?",
+            "options": [
+              {"id": "a", "bn": "বালি ও লবণের মিশ্রণ", "en": "Mixture of sand and salt"},
+              {"id": "b", "bn": "তেল ও পানি", "en": "Oil and water"},
+              {"id": "c", "bn": "চিনির শরবত", "en": "Sugar solution (syrup)"},
+              {"id": "d", "bn": "লোহা ও গন্ধকের গুঁড়া", "en": "Iron and sulphur powder"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "চিনির শরবতে চিনি পানিতে সম্পূর্ণ দ্রবীভূত হয়ে সর্বত্র সমান গঠন তৈরি করে, তাই এটি সমসত্ত্ব মিশ্রণ।",
+            "explanation_en": "In a sugar solution sugar dissolves completely and the composition is uniform throughout, so it is a homogeneous mixture.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "লোহা ও গন্ধকের গুঁড়া উত্তপ্ত করলে যে ফেরাস সালফাইড উৎপন্ন হয়, তা কেন একটি যৌগ, মিশ্রণ নয়?",
+            "question_en": "When iron and sulphur powder are heated, ferrous sulphide forms. Why is it a compound and not a mixture?",
+            "options": [
+              {"id": "a", "bn": "চুম্বক দিয়ে লোহা আলাদা করা যায়", "en": "Iron can be separated by a magnet"},
+              {"id": "b", "bn": "উপাদানগুলো নির্দিষ্ট অনুপাতে রাসায়নিকভাবে যুক্ত হয়ে নতুন ধর্ম পায়", "en": "Components combine chemically in a fixed ratio and gain new properties"},
+              {"id": "c", "bn": "উপাদানগুলো নিজ নিজ রং বজায় রাখে", "en": "Components keep their own colours"},
+              {"id": "d", "bn": "যেকোনো অনুপাতে উপাদান মিশে থাকে", "en": "Components mix in any ratio"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "উত্তাপে Fe ও S রাসায়নিক বিক্রিয়ায় নির্দিষ্ট অনুপাতে (FeS) যুক্ত হয়ে নতুন ধর্মবিশিষ্ট পদার্থ তৈরি করে; চুম্বকে লোহা আর আলাদা হয় না, তাই এটি যৌগ।",
+            "explanation_en": "On heating, Fe and S react chemically in a fixed ratio (FeS) forming a new substance with new properties; iron can no longer be removed by a magnet, so it is a compound.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "পরমাণুর গঠন",
+        "title_en": "Structure of the Atom",
+        "mcqs": [
+          {
+            "question_bn": "পরমাণুর কেন্দ্রে অবস্থিত ক্ষুদ্র অংশটির নাম কী?",
+            "question_en": "What is the small central part of an atom called?",
+            "options": [
+              {"id": "a", "bn": "ইলেকট্রন", "en": "Electron"},
+              {"id": "b", "bn": "নিউক্লিয়াস", "en": "Nucleus"},
+              {"id": "c", "bn": "অণু", "en": "Molecule"},
+              {"id": "d", "bn": "শেল", "en": "Shell"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "পরমাণুর কেন্দ্রে প্রোটন ও নিউট্রন নিয়ে গঠিত ক্ষুদ্র অংশটিকে নিউক্লিয়াস বলে।",
+            "explanation_en": "The small central part of the atom containing protons and neutrons is called the nucleus.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোন কণাটি ঋণাত্মক আধানবিশিষ্ট?",
+            "question_en": "Which of the following particles carries a negative charge?",
+            "options": [
+              {"id": "a", "bn": "প্রোটন", "en": "Proton"},
+              {"id": "b", "bn": "নিউট্রন", "en": "Neutron"},
+              {"id": "c", "bn": "ইলেকট্রন", "en": "Electron"},
+              {"id": "d", "bn": "নিউক্লিয়াস", "en": "Nucleus"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "ইলেকট্রন ঋণাত্মক আধানবিশিষ্ট, প্রোটন ধনাত্মক এবং নিউট্রন আধানহীন।",
+            "explanation_en": "The electron carries a negative charge, the proton is positive and the neutron is neutral.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "একটি নিরপেক্ষ পরমাণুতে প্রোটন ও ইলেকট্রনের সংখ্যা সম্পর্কে কোনটি সঠিক?",
+            "question_en": "For a neutral atom, which statement about protons and electrons is correct?",
+            "options": [
+              {"id": "a", "bn": "প্রোটন > ইলেকট্রন", "en": "Protons > electrons"},
+              {"id": "b", "bn": "প্রোটন = ইলেকট্রন", "en": "Protons = electrons"},
+              {"id": "c", "bn": "প্রোটন < ইলেকট্রন", "en": "Protons < electrons"},
+              {"id": "d", "bn": "প্রোটন = নিউট্রন", "en": "Protons = neutrons"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "নিরপেক্ষ পরমাণুতে ধনাত্মক ও ঋণাত্মক আধান সমান হয়, তাই প্রোটন সংখ্যা ইলেকট্রন সংখ্যার সমান।",
+            "explanation_en": "In a neutral atom positive and negative charges balance, so the number of protons equals the number of electrons.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "রাদারফোর্ডের পরমাণু মডেল অনুসারে কোনটি সঠিক?",
+            "question_en": "According to Rutherford's atomic model, which is correct?",
+            "options": [
+              {"id": "a", "bn": "পরমাণুর প্রায় সমস্ত ভর নিউক্লিয়াসে কেন্দ্রীভূত", "en": "Almost all the mass of the atom is in the nucleus"},
+              {"id": "b", "bn": "ইলেকট্রন নিউক্লিয়াসের ভেতরে থাকে", "en": "Electrons are inside the nucleus"},
+              {"id": "c", "bn": "পরমাণু নিরেট ও অবিভাজ্য", "en": "The atom is solid and indivisible"},
+              {"id": "d", "bn": "নিউক্লিয়াস ঋণাত্মক আধানবিশিষ্ট", "en": "The nucleus is negatively charged"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রাদারফোর্ডের মডেলে ধনাত্মক নিউক্লিয়াসে পরমাণুর প্রায় সমস্ত ভর কেন্দ্রীভূত থাকে এবং ইলেকট্রন তার চারপাশে ঘোরে।",
+            "explanation_en": "In Rutherford's model almost all the mass is concentrated in the positive nucleus, and electrons revolve around it.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি পরমাণুর ভরসংখ্যা 23 এবং প্রোটন সংখ্যা 11 হলে নিউট্রন সংখ্যা কত?",
+            "question_en": "If an atom has mass number 23 and 11 protons, how many neutrons does it have?",
+            "options": [
+              {"id": "a", "bn": "11", "en": "11"},
+              {"id": "b", "bn": "12", "en": "12"},
+              {"id": "c", "bn": "23", "en": "23"},
+              {"id": "d", "bn": "34", "en": "34"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "নিউট্রন সংখ্যা = ভরসংখ্যা − প্রোটন সংখ্যা = 23 − 11 = 12।",
+            "explanation_en": "Number of neutrons = mass number − number of protons = 23 − 11 = 12.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "পারমাণবিক সংখ্যা ও ভরসংখ্যা",
+        "title_en": "Atomic Number and Mass Number",
+        "mcqs": [
+          {
+            "question_bn": "পারমাণবিক সংখ্যা বলতে কী বোঝায়?",
+            "question_en": "What does the atomic number represent?",
+            "options": [
+              {"id": "a", "bn": "প্রোটন সংখ্যা", "en": "Number of protons"},
+              {"id": "b", "bn": "নিউট্রন সংখ্যা", "en": "Number of neutrons"},
+              {"id": "c", "bn": "প্রোটন ও নিউট্রনের যোগফল", "en": "Sum of protons and neutrons"},
+              {"id": "d", "bn": "ইলেকট্রন ও নিউট্রনের যোগফল", "en": "Sum of electrons and neutrons"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "পারমাণবিক সংখ্যা (Z) হলো নিউক্লিয়াসে অবস্থিত প্রোটনের সংখ্যা।",
+            "explanation_en": "The atomic number (Z) is the number of protons in the nucleus.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ভরসংখ্যা নির্ণয়ের সঠিক সূত্র কোনটি?",
+            "question_en": "Which is the correct formula for mass number?",
+            "options": [
+              {"id": "a", "bn": "প্রোটন − নিউট্রন", "en": "Protons − neutrons"},
+              {"id": "b", "bn": "প্রোটন + নিউট্রন", "en": "Protons + neutrons"},
+              {"id": "c", "bn": "প্রোটন + ইলেকট্রন", "en": "Protons + electrons"},
+              {"id": "d", "bn": "নিউট্রন − প্রোটন", "en": "Neutrons − protons"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ভরসংখ্যা (A) = প্রোটন সংখ্যা + নিউট্রন সংখ্যা, কারণ পরমাণুর প্রায় সমস্ত ভর এই দুটি কণায় থাকে।",
+            "explanation_en": "Mass number (A) = number of protons + number of neutrons, since almost all the atomic mass comes from these two particles.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "একটি মৌলকে অনন্যভাবে চিহ্নিত করে নিচের কোনটি?",
+            "question_en": "Which of the following uniquely identifies an element?",
+            "options": [
+              {"id": "a", "bn": "ভরসংখ্যা", "en": "Mass number"},
+              {"id": "b", "bn": "নিউট্রন সংখ্যা", "en": "Number of neutrons"},
+              {"id": "c", "bn": "পারমাণবিক সংখ্যা", "en": "Atomic number"},
+              {"id": "d", "bn": "ইলেকট্রনের ভর", "en": "Mass of electron"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "একই পারমাণবিক সংখ্যাবিশিষ্ট সব পরমাণু একই মৌল; তাই পারমাণবিক সংখ্যা মৌলকে অনন্যভাবে চিহ্নিত করে।",
+            "explanation_en": "All atoms with the same atomic number belong to the same element, so the atomic number uniquely identifies an element.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "কোনো পরমাণুর প্রতীক ₁₇³⁵Cl হলে এর নিউট্রন সংখ্যা কত?",
+            "question_en": "If an atom is written as ₁₇³⁵Cl, how many neutrons does it have?",
+            "options": [
+              {"id": "a", "bn": "17", "en": "17"},
+              {"id": "b", "bn": "18", "en": "18"},
+              {"id": "c", "bn": "35", "en": "35"},
+              {"id": "d", "bn": "52", "en": "52"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "নিউট্রন = ভরসংখ্যা − পারমাণবিক সংখ্যা = 35 − 17 = 18।",
+            "explanation_en": "Neutrons = mass number − atomic number = 35 − 17 = 18.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি আয়নে 20টি প্রোটন, 20টি নিউট্রন ও 18টি ইলেকট্রন আছে। আয়নটি কোনটি?",
+            "question_en": "An ion has 20 protons, 20 neutrons and 18 electrons. Which ion is it?",
+            "options": [
+              {"id": "a", "bn": "Ca²⁺ (ভরসংখ্যা 40)", "en": "Ca²⁺ (mass number 40)"},
+              {"id": "b", "bn": "Ar (ভরসংখ্যা 40)", "en": "Ar (mass number 40)"},
+              {"id": "c", "bn": "Cl⁻ (ভরসংখ্যা 38)", "en": "Cl⁻ (mass number 38)"},
+              {"id": "d", "bn": "K⁺ (ভরসংখ্যা 40)", "en": "K⁺ (mass number 40)"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রোটন 20 মানে মৌল ক্যালসিয়াম; ভরসংখ্যা = 20 + 20 = 40; ইলেকট্রন 18 হওয়ায় 2টি ইলেকট্রন কম, তাই এটি Ca²⁺।",
+            "explanation_en": "20 protons means the element is calcium; mass number = 20 + 20 = 40; having 18 electrons means 2 fewer electrons, so it is Ca²⁺.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "আইসোটোপ",
+        "title_en": "Isotopes",
+        "mcqs": [
+          {
+            "question_bn": "আইসোটোপ কাকে বলে?",
+            "question_en": "What are isotopes?",
+            "options": [
+              {"id": "a", "bn": "একই মৌলের ভিন্ন ভরসংখ্যাবিশিষ্ট পরমাণু", "en": "Atoms of the same element with different mass numbers"},
+              {"id": "b", "bn": "ভিন্ন মৌলের একই ভরসংখ্যাবিশিষ্ট পরমাণু", "en": "Atoms of different elements with the same mass number"},
+              {"id": "c", "bn": "একই সংখ্যক নিউট্রনবিশিষ্ট পরমাণু", "en": "Atoms with the same number of neutrons"},
+              {"id": "d", "bn": "ভিন্ন প্রোটন সংখ্যাবিশিষ্ট পরমাণু", "en": "Atoms with different numbers of protons"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "একই মৌলের যেসব পরমাণুর প্রোটন সংখ্যা সমান কিন্তু নিউট্রন তথা ভরসংখ্যা ভিন্ন, তাদের আইসোটোপ বলে।",
+            "explanation_en": "Isotopes are atoms of the same element having the same number of protons but different numbers of neutrons, hence different mass numbers.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "আইসোটোপসমূহের মধ্যে নিচের কোনটি সমান থাকে?",
+            "question_en": "Which of the following is the same among isotopes?",
+            "options": [
+              {"id": "a", "bn": "নিউট্রন সংখ্যা", "en": "Number of neutrons"},
+              {"id": "b", "bn": "ভরসংখ্যা", "en": "Mass number"},
+              {"id": "c", "bn": "পারমাণবিক সংখ্যা", "en": "Atomic number"},
+              {"id": "d", "bn": "মোট নিউক্লিয়ন সংখ্যা", "en": "Total number of nucleons"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "আইসোটোপে প্রোটন সংখ্যা তথা পারমাণবিক সংখ্যা একই থাকে, শুধু নিউট্রন সংখ্যা ভিন্ন হয়।",
+            "explanation_en": "Isotopes have the same number of protons, i.e. the same atomic number; only the number of neutrons differs.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "হাইড্রোজেনের আইসোটোপ ডিউটেরিয়াম (₁²H) এ নিউট্রন সংখ্যা কত?",
+            "question_en": "How many neutrons are there in deuterium (₁²H), an isotope of hydrogen?",
+            "options": [
+              {"id": "a", "bn": "0", "en": "0"},
+              {"id": "b", "bn": "1", "en": "1"},
+              {"id": "c", "bn": "2", "en": "2"},
+              {"id": "d", "bn": "3", "en": "3"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ডিউটেরিয়ামের ভরসংখ্যা 2, পারমাণবিক সংখ্যা 1; নিউট্রন = 2 − 1 = 1।",
+            "explanation_en": "Deuterium has mass number 2 and atomic number 1; neutrons = 2 − 1 = 1.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "আইসোটোপসমূহের রাসায়নিক ধর্ম প্রায় একই হয় কেন?",
+            "question_en": "Why do isotopes have almost identical chemical properties?",
+            "options": [
+              {"id": "a", "bn": "তাদের নিউট্রন সংখ্যা একই", "en": "They have the same number of neutrons"},
+              {"id": "b", "bn": "তাদের ভরসংখ্যা একই", "en": "They have the same mass number"},
+              {"id": "c", "bn": "তাদের ইলেকট্রন বিন্যাস একই", "en": "They have the same electron configuration"},
+              {"id": "d", "bn": "তাদের ঘনত্ব একই", "en": "They have the same density"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "রাসায়নিক ধর্ম নির্ভর করে সর্ববহিঃস্থ ইলেকট্রন বিন্যাসের ওপর; আইসোটোপে প্রোটন তথা ইলেকট্রন সংখ্যা ও বিন্যাস একই থাকায় ধর্ম প্রায় একই হয়।",
+            "explanation_en": "Chemical properties depend on the outermost electron configuration; since isotopes have the same number and arrangement of electrons, their properties are nearly identical.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "ক্লোরিনের দুটি আইসোটোপ ³⁵Cl ও ³⁷Cl যথাক্রমে 75% ও 25% থাকলে গড় পারমাণবিক ভর কত?",
+            "question_en": "Chlorine has two isotopes ³⁵Cl and ³⁷Cl in 75% and 25% abundance. What is its average atomic mass?",
+            "options": [
+              {"id": "a", "bn": "35.0", "en": "35.0"},
+              {"id": "b", "bn": "35.5", "en": "35.5"},
+              {"id": "c", "bn": "36.0", "en": "36.0"},
+              {"id": "d", "bn": "37.0", "en": "37.0"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "গড় ভর = (35×75 + 37×25)/100 = (2625 + 925)/100 = 3550/100 = 35.5।",
+            "explanation_en": "Average mass = (35×75 + 37×25)/100 = (2625 + 925)/100 = 3550/100 = 35.5.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "ইলেকট্রন বিন্যাস",
+        "title_en": "Electron Configuration",
+        "mcqs": [
+          {
+            "question_bn": "K শেলে সর্বোচ্চ কতটি ইলেকট্রন থাকতে পারে?",
+            "question_en": "What is the maximum number of electrons in the K shell?",
+            "options": [
+              {"id": "a", "bn": "2", "en": "2"},
+              {"id": "b", "bn": "8", "en": "8"},
+              {"id": "c", "bn": "18", "en": "18"},
+              {"id": "d", "bn": "32", "en": "32"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "2n² সূত্রে n=1 এর জন্য K শেলে সর্বোচ্চ 2×1² = 2টি ইলেকট্রন থাকতে পারে।",
+            "explanation_en": "By the 2n² rule, for n=1 the K shell can hold a maximum of 2×1² = 2 electrons.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "সোডিয়ামের (Z=11) ইলেকট্রন বিন্যাস কোনটি?",
+            "question_en": "What is the electron configuration of sodium (Z=11)?",
+            "options": [
+              {"id": "a", "bn": "2, 8, 1", "en": "2, 8, 1"},
+              {"id": "b", "bn": "2, 8, 8", "en": "2, 8, 8"},
+              {"id": "c", "bn": "8, 2, 1", "en": "8, 2, 1"},
+              {"id": "d", "bn": "2, 9", "en": "2, 9"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "11টি ইলেকট্রন শেলে সাজালে K=2, L=8, M=1 অর্থাৎ 2, 8, 1 হয়।",
+            "explanation_en": "Arranging 11 electrons gives K=2, L=8, M=1, i.e. 2, 8, 1.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "n তম শেলে সর্বোচ্চ ইলেকট্রন সংখ্যা নির্ণয়ের সূত্র কোনটি?",
+            "question_en": "Which formula gives the maximum number of electrons in the nth shell?",
+            "options": [
+              {"id": "a", "bn": "n²", "en": "n²"},
+              {"id": "b", "bn": "2n", "en": "2n"},
+              {"id": "c", "bn": "2n²", "en": "2n²"},
+              {"id": "d", "bn": "n + 2", "en": "n + 2"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "কোনো শেলে সর্বোচ্চ ইলেকট্রন সংখ্যা = 2n², যেখানে n হলো শেল নম্বর।",
+            "explanation_en": "The maximum number of electrons in a shell = 2n², where n is the shell number.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "পটাশিয়ামের (Z=19) সঠিক ইলেকট্রন বিন্যাস কোনটি?",
+            "question_en": "What is the correct electron configuration of potassium (Z=19)?",
+            "options": [
+              {"id": "a", "bn": "2, 8, 9", "en": "2, 8, 9"},
+              {"id": "b", "bn": "2, 8, 8, 1", "en": "2, 8, 8, 1"},
+              {"id": "c", "bn": "2, 8, 18, 1", "en": "2, 8, 18, 1"},
+              {"id": "d", "bn": "2, 9, 8", "en": "2, 9, 8"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "M শেলে 8টি ইলেকট্রন হওয়ার পর 19তম ইলেকট্রন স্থিতিশীলতার জন্য N শেলে যায়, তাই বিন্যাস 2, 8, 8, 1।",
+            "explanation_en": "After the M shell holds 8 electrons, the 19th electron enters the N shell for stability, giving 2, 8, 8, 1.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "কোন মৌলের যোজ্যতা ইলেকট্রন সংখ্যা 7 হলে এর ইলেকট্রন গ্রহণ প্রবণতা কেমন?",
+            "question_en": "If an element has 7 valence electrons, what is its tendency regarding electrons?",
+            "options": [
+              {"id": "a", "bn": "1টি ইলেকট্রন গ্রহণ করে অষ্টক পূর্ণ করে", "en": "Gains 1 electron to complete the octet"},
+              {"id": "b", "bn": "7টি ইলেকট্রন ত্যাগ করে", "en": "Loses 7 electrons"},
+              {"id": "c", "bn": "কোনো ইলেকট্রন আদান-প্রদান করে না", "en": "Neither gains nor loses electrons"},
+              {"id": "d", "bn": "2টি ইলেকট্রন গ্রহণ করে", "en": "Gains 2 electrons"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সর্ববহিঃস্থ শেলে 7টি ইলেকট্রন থাকলে মাত্র 1টি ইলেকট্রন গ্রহণ করে অষ্টক পূর্ণ করা সহজ, তাই এরা 1টি ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়ন তৈরি করে।",
+            "explanation_en": "With 7 electrons in the outermost shell, it is easiest to gain just 1 electron to complete the octet, so it gains 1 electron forming a negative ion.",
+            "difficulty": "medium"
+          }
+        ]
+      },
+      {
+        "title_bn": "তেজস্ক্রিয়তা ও আইসোটোপের ব্যবহার",
+        "title_en": "Radioactivity and Uses of Isotopes",
+        "mcqs": [
+          {
+            "question_bn": "তেজস্ক্রিয়তা প্রথম কে আবিষ্কার করেন?",
+            "question_en": "Who first discovered radioactivity?",
+            "options": [
+              {"id": "a", "bn": "হেনরি বেকরেল", "en": "Henri Becquerel"},
+              {"id": "b", "bn": "জন ডাল্টন", "en": "John Dalton"},
+              {"id": "c", "bn": "নিলস বোর", "en": "Niels Bohr"},
+              {"id": "d", "bn": "জে জে থমসন", "en": "J. J. Thomson"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "১৮৯৬ সালে হেনরি বেকরেল ইউরেনিয়াম লবণে তেজস্ক্রিয়তা আবিষ্কার করেন।",
+            "explanation_en": "In 1896 Henri Becquerel discovered radioactivity in uranium salts.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "তেজস্ক্রিয় বিকিরণের মধ্যে কোনটি ঋণাত্মক আধানবিশিষ্ট?",
+            "question_en": "Which radioactive radiation carries a negative charge?",
+            "options": [
+              {"id": "a", "bn": "আলফা রশ্মি", "en": "Alpha rays"},
+              {"id": "b", "bn": "বিটা রশ্মি", "en": "Beta rays"},
+              {"id": "c", "bn": "গামা রশ্মি", "en": "Gamma rays"},
+              {"id": "d", "bn": "এক্স-রে", "en": "X-rays"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "বিটা রশ্মি হলো দ্রুতগতির ঋণাত্মক ইলেকট্রন; আলফা ধনাত্মক এবং গামা আধানহীন।",
+            "explanation_en": "Beta rays are fast-moving negative electrons; alpha is positive and gamma is neutral.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "কার্বন-14 আইসোটোপের প্রধান ব্যবহার কোনটি?",
+            "question_en": "What is the main use of the carbon-14 isotope?",
+            "options": [
+              {"id": "a", "bn": "ক্যান্সার চিকিৎসা", "en": "Cancer treatment"},
+              {"id": "b", "bn": "প্রত্নবস্তুর বয়স নির্ণয়", "en": "Determining the age of ancient objects"},
+              {"id": "c", "bn": "বিদ্যুৎ উৎপাদন", "en": "Generating electricity"},
+              {"id": "d", "bn": "সার তৈরি", "en": "Making fertilizer"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "কার্বন-14 তেজস্ক্রিয় ক্ষয়ের হার ব্যবহার করে জীবাশ্ম ও প্রত্নবস্তুর বয়স নির্ণয় (কার্বন ডেটিং) করা হয়।",
+            "explanation_en": "The rate of radioactive decay of carbon-14 is used to determine the age of fossils and ancient objects (carbon dating).",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "চিকিৎসাক্ষেত্রে থাইরয়েড গ্রন্থির সমস্যা নির্ণয়ে কোন আইসোটোপ ব্যবহৃত হয়?",
+            "question_en": "Which isotope is used in medicine to diagnose thyroid gland problems?",
+            "options": [
+              {"id": "a", "bn": "আয়োডিন-131", "en": "Iodine-131"},
+              {"id": "b", "bn": "কার্বন-12", "en": "Carbon-12"},
+              {"id": "c", "bn": "অক্সিজেন-16", "en": "Oxygen-16"},
+              {"id": "d", "bn": "হিলিয়াম-4", "en": "Helium-4"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "আয়োডিন-131 তেজস্ক্রিয় আইসোটোপ থাইরয়েড গ্রন্থির রোগ নির্ণয় ও চিকিৎসায় ব্যবহৃত হয়।",
+            "explanation_en": "The radioactive isotope iodine-131 is used to diagnose and treat thyroid gland diseases.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "তিন প্রকার তেজস্ক্রিয় রশ্মির মধ্যে ভেদন ক্ষমতা সবচেয়ে বেশি কোনটির?",
+            "question_en": "Among the three types of radioactive rays, which has the greatest penetrating power?",
+            "options": [
+              {"id": "a", "bn": "আলফা", "en": "Alpha"},
+              {"id": "b", "bn": "বিটা", "en": "Beta"},
+              {"id": "c", "bn": "গামা", "en": "Gamma"},
+              {"id": "d", "bn": "তিনটিরই সমান", "en": "All three are equal"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "গামা রশ্মির ভেদন ক্ষমতা সর্বাধিক; এটি মোটা সীসার পাত ভেদ করতে পারে, যেখানে আলফা কাগজেই আটকে যায়।",
+            "explanation_en": "Gamma rays have the greatest penetrating power and can pass through thick lead, whereas alpha is stopped even by paper.",
+            "difficulty": "basic"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "একটি মৌল X এর পারমাণবিক সংখ্যা 17 এবং ভরসংখ্যা 35। এর আরেকটি পরমাণু Y এর ভরসংখ্যা 37 কিন্তু পারমাণবিক সংখ্যা একই।",
+        "stimulus_en": "An element X has atomic number 17 and mass number 35. Another atom Y of the same element has mass number 37 but the same atomic number.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "আইসোটোপ কাকে বলে?",
+            "question_en": "What are isotopes?",
+            "model_answer_bn": "একই মৌলের যেসব পরমাণুর পারমাণবিক সংখ্যা সমান কিন্তু ভরসংখ্যা ভিন্ন, তাদের আইসোটোপ বলে।",
+            "model_answer_en": "Isotopes are atoms of the same element that have the same atomic number but different mass numbers."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "X ও Y কেন একে অপরের আইসোটোপ ব্যাখ্যা কর।",
+            "question_en": "Explain why X and Y are isotopes of each other.",
+            "model_answer_bn": "X ও Y উভয়েরই পারমাণবিক সংখ্যা 17, অর্থাৎ প্রোটন সংখ্যা সমান, তাই তারা একই মৌল (ক্লোরিন)। কিন্তু X এর ভরসংখ্যা 35 ও Y এর 37 হওয়ায় নিউট্রন সংখ্যা ভিন্ন (18 ও 20)। একই পারমাণবিক সংখ্যা কিন্তু ভিন্ন ভরসংখ্যা থাকায় তারা পরস্পরের আইসোটোপ।",
+            "model_answer_en": "Both X and Y have atomic number 17, i.e. the same number of protons, so they are the same element (chlorine). But X has mass number 35 and Y has 37, so their neutron numbers differ (18 and 20). Same atomic number with different mass numbers makes them isotopes of each other."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "X পরমাণুর ইলেকট্রন বিন্যাস দেখাও এবং এর যোজ্যতা ইলেকট্রন নির্ণয় কর।",
+            "question_en": "Show the electron configuration of atom X and determine its valence electrons.",
+            "model_answer_bn": "X এর পারমাণবিক সংখ্যা 17, তাই ইলেকট্রন সংখ্যা 17। শেলে সাজালে: K=2, L=8, M=7 অর্থাৎ বিন্যাস 2, 8, 7। সর্ববহিঃস্থ M শেলে 7টি ইলেকট্রন থাকায় যোজ্যতা ইলেকট্রন সংখ্যা 7।",
+            "model_answer_en": "X has atomic number 17, so it has 17 electrons. Arranging in shells: K=2, L=8, M=7, i.e. 2, 8, 7. The outermost M shell has 7 electrons, so the number of valence electrons is 7."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "যদি X এর আইসোটোপ ³⁵Cl ও ³⁷Cl প্রকৃতিতে যথাক্রমে 75% ও 25% থাকে, তবে ক্লোরিনের গড় পারমাণবিক ভর হিসাব করে ব্যাখ্যা কর কেন এটি পূর্ণ সংখ্যা নয়।",
+            "question_en": "If the isotopes ³⁵Cl and ³⁷Cl of X occur in nature as 75% and 25%, calculate the average atomic mass of chlorine and explain why it is not a whole number.",
+            "model_answer_bn": "গড় পারমাণবিক ভর = (35×75 + 37×25)/100 = (2625 + 925)/100 = 3550/100 = 35.5। প্রকৃতিতে ক্লোরিন দুটি আইসোটোপের মিশ্রণ হিসেবে বিদ্যমান এবং প্রতিটির প্রাচুর্য ভিন্ন। এই আপেক্ষিক প্রাচুর্যের ভারিত গড় নেওয়ায় ফলাফল 35.5 আসে, যা পূর্ণ সংখ্যা নয়। তাই পর্যায় সারণিতে ক্লোরিনের ভর 35.5 লেখা হয়।",
+            "model_answer_en": "Average atomic mass = (35×75 + 37×25)/100 = (2625 + 925)/100 = 3550/100 = 35.5. In nature chlorine exists as a mixture of two isotopes with different abundances. Taking the weighted average of these relative abundances gives 35.5, which is not a whole number. That is why chlorine's mass is written as 35.5 in the periodic table."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "চিকিৎসক একজন রোগীর ক্যান্সার চিকিৎসায় কোবাল্ট-60 এবং থাইরয়েড পরীক্ষায় আয়োডিন-131 ব্যবহার করলেন। এই দুটিই তেজস্ক্রিয় আইসোটোপ।",
+        "stimulus_en": "A doctor used cobalt-60 for a patient's cancer treatment and iodine-131 for a thyroid test. Both are radioactive isotopes.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "তেজস্ক্রিয়তা কাকে বলে?",
+            "question_en": "What is radioactivity?",
+            "model_answer_bn": "যে প্রক্রিয়ায় ভারী মৌলের অস্থিতিশীল নিউক্লিয়াস স্বতঃস্ফূর্তভাবে আলফা, বিটা বা গামা রশ্মি নিঃসরণ করে ভেঙে যায়, তাকে তেজস্ক্রিয়তা বলে।",
+            "model_answer_en": "Radioactivity is the process by which the unstable nucleus of a heavy element spontaneously disintegrates by emitting alpha, beta or gamma rays."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "গামা রশ্মি চিকিৎসায় বিশেষভাবে উপযোগী কেন ব্যাখ্যা কর।",
+            "question_en": "Explain why gamma rays are especially useful in medicine.",
+            "model_answer_bn": "গামা রশ্মির ভেদন ক্ষমতা অত্যন্ত বেশি এবং এটি আধানহীন উচ্চশক্তির তড়িৎচুম্বকীয় তরঙ্গ। এই উচ্চ ভেদন ক্ষমতার কারণে এটি শরীরের গভীরে থাকা টিউমার কোষ ধ্বংস করতে পারে, তাই ক্যান্সার চিকিৎসায় (রেডিওথেরাপি) এটি বিশেষভাবে উপযোগী।",
+            "model_answer_en": "Gamma rays have very high penetrating power and are neutral, high-energy electromagnetic waves. Because of this high penetration they can reach and destroy tumour cells deep inside the body, making them especially useful in cancer treatment (radiotherapy)."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "আয়োডিন-131 (₅₃¹³¹I) পরমাণুতে প্রোটন, নিউট্রন ও ইলেকট্রনের সংখ্যা নির্ণয় কর।",
+            "question_en": "Determine the number of protons, neutrons and electrons in an iodine-131 (₅₃¹³¹I) atom.",
+            "model_answer_bn": "পারমাণবিক সংখ্যা 53, তাই প্রোটন সংখ্যা = 53। নিরপেক্ষ পরমাণুতে ইলেকট্রন সংখ্যা = প্রোটন সংখ্যা = 53। নিউট্রন সংখ্যা = ভরসংখ্যা − পারমাণবিক সংখ্যা = 131 − 53 = 78।",
+            "model_answer_en": "The atomic number is 53, so the number of protons = 53. In a neutral atom the number of electrons = number of protons = 53. Number of neutrons = mass number − atomic number = 131 − 53 = 78."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "তেজস্ক্রিয় আইসোটোপ চিকিৎসায় উপকারী হলেও ঝুঁকিপূর্ণ—উদ্দীপকের আলোকে মূল্যায়ন কর।",
+            "question_en": "Radioactive isotopes are useful in medicine yet risky—evaluate this in light of the stem.",
+            "model_answer_bn": "কোবাল্ট-60 ও আয়োডিন-131 এর মতো তেজস্ক্রিয় আইসোটোপ রোগ নির্ণয় ও চিকিৎসায় অত্যন্ত উপকারী; এগুলো ক্যান্সার কোষ ধ্বংস ও থাইরয়েড রোগ শনাক্ত করতে পারে। তবে এদের বিকিরণ সুস্থ কোষেরও ক্ষতি করতে পারে, ডিএনএ পরিবর্তন ঘটিয়ে ক্যান্সার বা তেজস্ক্রিয় বিষক্রিয়া সৃষ্টি করতে পারে। তাই সঠিক মাত্রা, সীসার আবরণ ও দক্ষ তত্ত্বাবধানে ব্যবহার করলে উপকার মেলে, অন্যথায় ঝুঁকি বাড়ে। সুতরাং নিয়ন্ত্রিত ও সতর্ক ব্যবহারই এদের নিরাপদ প্রয়োগের চাবিকাঠি।",
+            "model_answer_en": "Radioactive isotopes like cobalt-60 and iodine-131 are very useful in diagnosis and treatment; they can destroy cancer cells and detect thyroid disease. However, their radiation can also damage healthy cells, alter DNA and cause cancer or radiation sickness. Therefore, benefits are obtained only with correct doses, lead shielding and skilled supervision; otherwise the risk rises. Hence controlled and careful use is the key to their safe application."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 4,
+    "title_bn": "পর্যায় সারণি",
+    "title_en": "Periodic Table",
+    "topics": [
+      {
+        "title_bn": "পর্যায় সারণির ইতিহাস",
+        "title_en": "History of the Periodic Table",
+        "mcqs": [
+          {
+            "question_bn": "আধুনিক পর্যায় সারণির জনক কে?",
+            "question_en": "Who is regarded as the father of the modern periodic table?",
+            "options": [
+              {"id": "a", "bn": "দিমিত্রি মেন্ডেলিফ", "en": "Dmitri Mendeleev"},
+              {"id": "b", "bn": "জন নিউল্যান্ডস", "en": "John Newlands"},
+              {"id": "c", "bn": "হেনরি মোজলি", "en": "Henry Moseley"},
+              {"id": "d", "bn": "লোথার মায়ার", "en": "Lothar Meyer"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "দিমিত্রি মেন্ডেলিফকে পর্যায় সারণির জনক বলা হয়, কারণ তিনি ১৮৬৯ সালে মৌলসমূহকে পারমাণবিক ভর অনুসারে সাজিয়ে পর্যায় সারণি তৈরি করেন।",
+            "explanation_en": "Dmitri Mendeleev is called the father of the periodic table because in 1869 he arranged the elements according to atomic mass and constructed the periodic table.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "মেন্ডেলিফ মৌলসমূহকে কীসের ভিত্তিতে সাজিয়েছিলেন?",
+            "question_en": "On what basis did Mendeleev arrange the elements?",
+            "options": [
+              {"id": "a", "bn": "পারমাণবিক সংখ্যা", "en": "Atomic number"},
+              {"id": "b", "bn": "পারমাণবিক ভর", "en": "Atomic mass"},
+              {"id": "c", "bn": "ঘনত্ব", "en": "Density"},
+              {"id": "d", "bn": "গলনাঙ্ক", "en": "Melting point"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মেন্ডেলিফ মৌলসমূহকে ক্রমবর্ধমান পারমাণবিক ভর অনুসারে সাজিয়েছিলেন।",
+            "explanation_en": "Mendeleev arranged the elements in order of increasing atomic mass.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিউল্যান্ডসের অষ্টক সূত্র অনুসারে প্রতি কততম মৌলের ধর্ম প্রথমটির সাথে মিল রাখে?",
+            "question_en": "According to Newlands' law of octaves, every how-manieth element resembles the first in properties?",
+            "options": [
+              {"id": "a", "bn": "তৃতীয়", "en": "Third"},
+              {"id": "b", "bn": "পঞ্চম", "en": "Fifth"},
+              {"id": "c", "bn": "অষ্টম", "en": "Eighth"},
+              {"id": "d", "bn": "দশম", "en": "Tenth"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "নিউল্যান্ডসের অষ্টক সূত্র অনুসারে মৌলসমূহকে ভর অনুসারে সাজালে প্রতি অষ্টম মৌলের ধর্ম প্রথম মৌলের অনুরূপ হয়, সংগীতের অষ্টকের মতো।",
+            "explanation_en": "By Newlands' law of octaves, when elements are arranged by mass, every eighth element has properties similar to the first, like the octave in music.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "মেন্ডেলিফের পর্যায় সারণির একটি বড় সাফল্য কোনটি?",
+            "question_en": "What was a major success of Mendeleev's periodic table?",
+            "options": [
+              {"id": "a", "bn": "সব মৌলের সঠিক পারমাণবিক সংখ্যা নির্ণয়", "en": "Determining the exact atomic number of all elements"},
+              {"id": "b", "bn": "অনাবিষ্কৃত মৌলের ধর্ম সম্পর্কে পূর্বাভাস", "en": "Predicting properties of undiscovered elements"},
+              {"id": "c", "bn": "আইসোটোপ আবিষ্কার", "en": "Discovering isotopes"},
+              {"id": "d", "bn": "নিষ্ক্রিয় গ্যাস আবিষ্কার", "en": "Discovering noble gases"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মেন্ডেলিফ তাঁর সারণিতে কিছু ফাঁকা ঘর রেখে সেসব অনাবিষ্কৃত মৌল (যেমন এক-অ্যালুমিনিয়াম/গ্যালিয়াম) এর ধর্ম আগেই পূর্বাভাস দেন, যা পরে সঠিক প্রমাণিত হয়।",
+            "explanation_en": "Mendeleev left gaps in his table and predicted the properties of undiscovered elements (e.g. eka-aluminium/gallium), which were later found to be correct.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "মেন্ডেলিফের সারণিতে প্রধান ত্রুটি ছিল—আর্গন (Ar, ভর 40) পটাশিয়ামের (K, ভর 39) আগে বসে না। এর সঠিক কারণ কী?",
+            "question_en": "A key flaw in Mendeleev's table was that argon (Ar, mass 40) did not fit before potassium (K, mass 39). What is the correct reason?",
+            "options": [
+              {"id": "a", "bn": "সাজানো হয়েছিল পারমাণবিক ভর অনুসারে, পারমাণবিক সংখ্যা অনুসারে নয়", "en": "Arrangement was by atomic mass, not atomic number"},
+              {"id": "b", "bn": "আর্গন একটি ধাতু", "en": "Argon is a metal"},
+              {"id": "c", "bn": "পটাশিয়ামের কোনো আইসোটোপ নেই", "en": "Potassium has no isotopes"},
+              {"id": "d", "bn": "আর্গনের যোজনী বেশি", "en": "Argon has a higher valency"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "মেন্ডেলিফ ভর অনুসারে সাজানোয় আর্গন (40) পটাশিয়ামের (39) পরে বসে ধর্ম-অসংগতি তৈরি করত। পারমাণবিক সংখ্যা (Ar=18, K=19) অনুসারে সাজালে এই সমস্যা দূর হয়, যা আধুনিক সারণির ভিত্তি।",
+            "explanation_en": "Because Mendeleev arranged by mass, argon (40) would come after potassium (39), causing a property mismatch. Arranging by atomic number (Ar=18, K=19) removes this problem, which is the basis of the modern table.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "আধুনিক পর্যায় সূত্র",
+        "title_en": "Modern Periodic Law",
+        "mcqs": [
+          {
+            "question_bn": "আধুনিক পর্যায় সূত্র অনুসারে মৌলের ধর্ম কীসের পর্যায়বৃত্ত ফাংশন?",
+            "question_en": "According to the modern periodic law, the properties of elements are a periodic function of what?",
+            "options": [
+              {"id": "a", "bn": "পারমাণবিক ভর", "en": "Atomic mass"},
+              {"id": "b", "bn": "পারমাণবিক সংখ্যা", "en": "Atomic number"},
+              {"id": "c", "bn": "নিউট্রন সংখ্যা", "en": "Number of neutrons"},
+              {"id": "d", "bn": "ঘনত্ব", "en": "Density"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "আধুনিক পর্যায় সূত্র অনুসারে মৌলসমূহের ভৌত ও রাসায়নিক ধর্ম তাদের পারমাণবিক সংখ্যার পর্যায়বৃত্ত ফাংশন।",
+            "explanation_en": "According to the modern periodic law, the physical and chemical properties of elements are a periodic function of their atomic numbers.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "আধুনিক পর্যায় সূত্রের ভিত্তি স্থাপন করেন কে?",
+            "question_en": "Who established the basis of the modern periodic law?",
+            "options": [
+              {"id": "a", "bn": "হেনরি মোজলি", "en": "Henry Moseley"},
+              {"id": "b", "bn": "মেন্ডেলিফ", "en": "Mendeleev"},
+              {"id": "c", "bn": "ডোবেরাইনার", "en": "Döbereiner"},
+              {"id": "d", "bn": "রাদারফোর্ড", "en": "Rutherford"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "হেনরি মোজলি এক্স-রে পরীক্ষার মাধ্যমে দেখান যে মৌলের মৌলিক ধর্ম পারমাণবিক সংখ্যার ওপর নির্ভরশীল, যা আধুনিক পর্যায় সূত্রের ভিত্তি।",
+            "explanation_en": "Henry Moseley, through X-ray experiments, showed that the fundamental property of an element depends on its atomic number, forming the basis of the modern periodic law.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "আধুনিক পর্যায় সারণিতে মোট কতটি পর্যায় (period) রয়েছে?",
+            "question_en": "How many periods are there in the modern periodic table?",
+            "options": [
+              {"id": "a", "bn": "7", "en": "7"},
+              {"id": "b", "bn": "8", "en": "8"},
+              {"id": "c", "bn": "18", "en": "18"},
+              {"id": "d", "bn": "9", "en": "9"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "আধুনিক পর্যায় সারণিতে অনুভূমিক সারি বা পর্যায় সংখ্যা 7টি।",
+            "explanation_en": "The modern periodic table has 7 horizontal rows or periods.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "আধুনিক পর্যায় সারণিতে মোট কতটি গ্রুপ (group) রয়েছে?",
+            "question_en": "How many groups are there in the modern periodic table?",
+            "options": [
+              {"id": "a", "bn": "7", "en": "7"},
+              {"id": "b", "bn": "8", "en": "8"},
+              {"id": "c", "bn": "16", "en": "16"},
+              {"id": "d", "bn": "18", "en": "18"}
+            ],
+            "correct": ["d"],
+            "explanation_bn": "আধুনিক পর্যায় সারণিতে উল্লম্ব সারি বা গ্রুপ সংখ্যা 18টি।",
+            "explanation_en": "The modern periodic table has 18 vertical columns or groups.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "পারমাণবিক সংখ্যাকে সাজানোর ভিত্তি করায় পর্যায় সারণিতে যে অসংগতি দূর হয়েছে তা কোনটি?",
+            "question_en": "Which anomaly was removed in the periodic table by using atomic number as the basis of arrangement?",
+            "options": [
+              {"id": "a", "bn": "আইসোটোপকে আলাদা ঘরে বসানো", "en": "Placing isotopes in separate boxes"},
+              {"id": "b", "bn": "Ar–K এর মতো জোড়ার সঠিক অবস্থান নিশ্চিত হওয়া", "en": "Correct positioning of pairs like Ar–K"},
+              {"id": "c", "bn": "সব মৌল ধাতুতে পরিণত হওয়া", "en": "All elements becoming metals"},
+              {"id": "d", "bn": "গ্রুপ সংখ্যা কমে যাওয়া", "en": "Decrease in the number of groups"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "পারমাণবিক ভরের বদলে পারমাণবিক সংখ্যা ভিত্তি করায় Ar (18) K (19) এর আগে বসে এবং একই ধর্মের মৌল একই গ্রুপে থাকে; ভর-ভিত্তিক অসংগতি দূর হয়।",
+            "explanation_en": "Using atomic number instead of atomic mass places Ar (18) before K (19), and elements with similar properties fall in the same group, removing the mass-based anomaly.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "গ্রুপ ও পর্যায়",
+        "title_en": "Groups and Periods",
+        "mcqs": [
+          {
+            "question_bn": "পর্যায় সারণিতে উল্লম্ব সারিকে কী বলে?",
+            "question_en": "What is a vertical column in the periodic table called?",
+            "options": [
+              {"id": "a", "bn": "পর্যায়", "en": "Period"},
+              {"id": "b", "bn": "গ্রুপ", "en": "Group"},
+              {"id": "c", "bn": "ব্লক", "en": "Block"},
+              {"id": "d", "bn": "শেল", "en": "Shell"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "পর্যায় সারণির উল্লম্ব সারিকে গ্রুপ এবং অনুভূমিক সারিকে পর্যায় বলে।",
+            "explanation_en": "A vertical column in the periodic table is called a group, and a horizontal row is called a period.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "একই গ্রুপের মৌলসমূহের কোন বৈশিষ্ট্যটি সমান থাকে?",
+            "question_en": "Which property is the same for elements of the same group?",
+            "options": [
+              {"id": "a", "bn": "শেল সংখ্যা", "en": "Number of shells"},
+              {"id": "b", "bn": "যোজ্যতা ইলেকট্রন সংখ্যা", "en": "Number of valence electrons"},
+              {"id": "c", "bn": "পারমাণবিক ভর", "en": "Atomic mass"},
+              {"id": "d", "bn": "নিউট্রন সংখ্যা", "en": "Number of neutrons"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "একই গ্রুপের মৌলসমূহের সর্ববহিঃস্থ শেলে যোজ্যতা ইলেকট্রন সংখ্যা সমান, তাই তাদের রাসায়নিক ধর্ম অনুরূপ হয়।",
+            "explanation_en": "Elements of the same group have the same number of valence electrons in their outermost shell, so they show similar chemical properties.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "কোনো মৌল কোন পর্যায়ে অবস্থিত তা কী দিয়ে নির্ধারিত হয়?",
+            "question_en": "What determines the period in which an element is located?",
+            "options": [
+              {"id": "a", "bn": "যোজ্যতা ইলেকট্রন সংখ্যা", "en": "Number of valence electrons"},
+              {"id": "b", "bn": "ইলেকট্রন শেল বা প্রধান কোয়ান্টাম স্তরের সংখ্যা", "en": "Number of electron shells (principal energy levels)"},
+              {"id": "c", "bn": "প্রোটন ও নিউট্রনের যোগফল", "en": "Sum of protons and neutrons"},
+              {"id": "d", "bn": "পারমাণবিক ভর", "en": "Atomic mass"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মৌলের ইলেকট্রন বিন্যাসে যতটি প্রধান শেল ব্যবহৃত হয়, সেই সংখ্যাই তার পর্যায় নির্দেশ করে।",
+            "explanation_en": "The number of principal shells used in an element's electron configuration indicates its period number.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "গ্রুপ-1 এর মৌলসমূহকে কী বলা হয়?",
+            "question_en": "What are the elements of group 1 called?",
+            "options": [
+              {"id": "a", "bn": "হ্যালোজেন", "en": "Halogens"},
+              {"id": "b", "bn": "নিষ্ক্রিয় গ্যাস", "en": "Noble gases"},
+              {"id": "c", "bn": "ক্ষার ধাতু", "en": "Alkali metals"},
+              {"id": "d", "bn": "মৃৎক্ষার ধাতু", "en": "Alkaline earth metals"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "গ্রুপ-1 এর মৌলসমূহ (হাইড্রোজেন ছাড়া) ক্ষার ধাতু নামে পরিচিত, যেমন Li, Na, K।",
+            "explanation_en": "The elements of group 1 (except hydrogen) are called alkali metals, e.g. Li, Na, K.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "যে মৌলের ইলেকট্রন বিন্যাস 2, 8, 7, তার গ্রুপ ও পর্যায় কোনটি?",
+            "question_en": "For an element with electron configuration 2, 8, 7, what are its group and period?",
+            "options": [
+              {"id": "a", "bn": "গ্রুপ 17, পর্যায় 3", "en": "Group 17, period 3"},
+              {"id": "b", "bn": "গ্রুপ 7, পর্যায় 2", "en": "Group 7, period 2"},
+              {"id": "c", "bn": "গ্রুপ 3, পর্যায় 7", "en": "Group 3, period 7"},
+              {"id": "d", "bn": "গ্রুপ 15, পর্যায় 3", "en": "Group 15, period 3"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "3টি শেল ব্যবহৃত হওয়ায় পর্যায় 3; সর্ববহিঃস্থ শেলে 7টি ইলেকট্রন থাকায় এটি গ্রুপ 17 (হ্যালোজেন)। মৌলটি ক্লোরিন।",
+            "explanation_en": "Three shells are used, so the period is 3; with 7 electrons in the outermost shell it belongs to group 17 (halogens). The element is chlorine.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "পর্যায়বৃত্ত ধর্ম",
+        "title_en": "Periodic Properties",
+        "mcqs": [
+          {
+            "question_bn": "একটি পর্যায়ে বাম থেকে ডানে গেলে পারমাণবিক ব্যাসার্ধ সাধারণত কী হয়?",
+            "question_en": "Across a period from left to right, the atomic radius generally does what?",
+            "options": [
+              {"id": "a", "bn": "বাড়ে", "en": "Increases"},
+              {"id": "b", "bn": "কমে", "en": "Decreases"},
+              {"id": "c", "bn": "অপরিবর্তিত থাকে", "en": "Remains unchanged"},
+              {"id": "d", "bn": "প্রথমে বাড়ে পরে কমে", "en": "First increases then decreases"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "পর্যায়ে বাম থেকে ডানে নিউক্লিয়ার আধান বাড়ে কিন্তু শেল সংখ্যা একই থাকে, ফলে ইলেকট্রন কেন্দ্রের দিকে বেশি আকৃষ্ট হয় এবং পারমাণবিক ব্যাসার্ধ কমে।",
+            "explanation_en": "Across a period the nuclear charge increases while the number of shells stays the same, so electrons are pulled closer to the nucleus and the atomic radius decreases.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি গ্রুপে ওপর থেকে নিচে গেলে পারমাণবিক ব্যাসার্ধ সাধারণত কী হয়?",
+            "question_en": "Down a group from top to bottom, the atomic radius generally does what?",
+            "options": [
+              {"id": "a", "bn": "বাড়ে", "en": "Increases"},
+              {"id": "b", "bn": "কমে", "en": "Decreases"},
+              {"id": "c", "bn": "অপরিবর্তিত থাকে", "en": "Remains unchanged"},
+              {"id": "d", "bn": "শূন্য হয়", "en": "Becomes zero"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "গ্রুপে নিচের দিকে নতুন ইলেকট্রন শেল যুক্ত হয়, ফলে নিউক্লিয়াস থেকে বহিঃস্থ ইলেকট্রনের দূরত্ব বাড়ে এবং পারমাণবিক ব্যাসার্ধ বাড়ে।",
+            "explanation_en": "Down a group new electron shells are added, so the distance of the outer electrons from the nucleus increases and the atomic radius increases.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "আয়নীকরণ শক্তি বলতে কী বোঝায়?",
+            "question_en": "What does ionization energy mean?",
+            "options": [
+              {"id": "a", "bn": "একটি ইলেকট্রন গ্রহণে নির্গত শক্তি", "en": "Energy released when an electron is gained"},
+              {"id": "b", "bn": "বিচ্ছিন্ন গ্যাসীয় পরমাণু থেকে একটি ইলেকট্রন অপসারণে প্রয়োজনীয় শক্তি", "en": "Energy needed to remove an electron from an isolated gaseous atom"},
+              {"id": "c", "bn": "পরমাণু ভাঙতে প্রয়োজনীয় শক্তি", "en": "Energy needed to split an atom"},
+              {"id": "d", "bn": "বন্ধন তৈরিতে নির্গত শক্তি", "en": "Energy released in forming a bond"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "গ্যাসীয় অবস্থায় একটি বিচ্ছিন্ন পরমাণুর সর্ববহিঃস্থ শেল থেকে একটি ইলেকট্রন সম্পূর্ণ অপসারণ করতে যে ন্যূনতম শক্তি লাগে তাকে আয়নীকরণ শক্তি বলে।",
+            "explanation_en": "Ionization energy is the minimum energy required to completely remove an electron from the outermost shell of an isolated gaseous atom.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "একই পর্যায়ে বাম থেকে ডানে গেলে ধাতব ধর্ম সাধারণত কী হয়?",
+            "question_en": "Across a period from left to right, the metallic character generally does what?",
+            "options": [
+              {"id": "a", "bn": "বাড়ে", "en": "Increases"},
+              {"id": "b", "bn": "কমে", "en": "Decreases"},
+              {"id": "c", "bn": "অপরিবর্তিত থাকে", "en": "Remains unchanged"},
+              {"id": "d", "bn": "শূন্য হয়ে যায়", "en": "Becomes zero"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "পর্যায়ে ডানদিকে গেলে ইলেকট্রন ত্যাগের প্রবণতা কমে ও গ্রহণের প্রবণতা বাড়ে, ফলে ধাতব ধর্ম কমে ও অধাতব ধর্ম বাড়ে।",
+            "explanation_en": "Moving right across a period the tendency to lose electrons decreases and to gain increases, so metallic character decreases and non-metallic character increases.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "Na, Mg, Al—এই তিনটি মৌলের মধ্যে আয়নীকরণ শক্তির সঠিক ক্রম কোনটি?",
+            "question_en": "Among Na, Mg and Al, which is the correct order of ionization energy?",
+            "options": [
+              {"id": "a", "bn": "Na < Mg < Al", "en": "Na < Mg < Al"},
+              {"id": "b", "bn": "Al < Mg < Na", "en": "Al < Mg < Na"},
+              {"id": "c", "bn": "Mg < Na < Al", "en": "Mg < Na < Al"},
+              {"id": "d", "bn": "Na = Mg = Al", "en": "Na = Mg = Al"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "একই পর্যায়ে (3য়) বাম থেকে ডানে নিউক্লিয়ার আধান বাড়ায় ইলেকট্রন অপসারণ কঠিন হয়, তাই সাধারণ প্রবণতা অনুসারে আয়নীকরণ শক্তি Na < Mg < Al।",
+            "explanation_en": "Across period 3 from left to right the nuclear charge increases making electron removal harder, so by the general trend the ionization energy is Na < Mg < Al.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "ধাতু, অধাতু ও অপধাতু",
+        "title_en": "Metals, Non-metals and Metalloids",
+        "mcqs": [
+          {
+            "question_bn": "নিচের কোনটি ধাতুর সাধারণ বৈশিষ্ট্য?",
+            "question_en": "Which of the following is a general property of metals?",
+            "options": [
+              {"id": "a", "bn": "তাপ ও বিদ্যুৎ পরিবাহী", "en": "Good conductor of heat and electricity"},
+              {"id": "b", "bn": "ভঙ্গুর ও অপরিবাহী", "en": "Brittle and non-conducting"},
+              {"id": "c", "bn": "সবসময় গ্যাসীয়", "en": "Always gaseous"},
+              {"id": "d", "bn": "ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়ন তৈরি করে", "en": "Gains electrons to form negative ions"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ধাতু সাধারণত তাপ ও বিদ্যুতের সুপরিবাহী, নমনীয়, প্রসারণশীল ও চকচকে হয় এবং ইলেকট্রন ত্যাগ করে ধনাত্মক আয়ন তৈরি করে।",
+            "explanation_en": "Metals are generally good conductors of heat and electricity, malleable, ductile and lustrous, and form positive ions by losing electrons.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোনটি অপধাতু (metalloid)?",
+            "question_en": "Which of the following is a metalloid?",
+            "options": [
+              {"id": "a", "bn": "সোডিয়াম", "en": "Sodium"},
+              {"id": "b", "bn": "সিলিকন", "en": "Silicon"},
+              {"id": "c", "bn": "অক্সিজেন", "en": "Oxygen"},
+              {"id": "d", "bn": "লোহা", "en": "Iron"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সিলিকন একটি অপধাতু, যার মধ্যে ধাতু ও অধাতু উভয়ের ধর্ম বিদ্যমান এবং এটি অর্ধপরিবাহী হিসেবে ব্যবহৃত হয়।",
+            "explanation_en": "Silicon is a metalloid that shows properties of both metals and non-metals and is used as a semiconductor.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "অধাতু সাধারণত রাসায়নিক বিক্রিয়ায় কী করে?",
+            "question_en": "In chemical reactions non-metals generally do what?",
+            "options": [
+              {"id": "a", "bn": "ইলেকট্রন ত্যাগ করে ধনাত্মক আয়ন তৈরি করে", "en": "Lose electrons to form positive ions"},
+              {"id": "b", "bn": "ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়ন তৈরি করে", "en": "Gain electrons to form negative ions"},
+              {"id": "c", "bn": "কোনো ইলেকট্রন আদান-প্রদান করে না", "en": "Neither gain nor lose electrons"},
+              {"id": "d", "bn": "প্রোটন ত্যাগ করে", "en": "Lose protons"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অধাতুর সর্ববহিঃস্থ শেলে বেশি ইলেকট্রন থাকায় এরা সাধারণত ইলেকট্রন গ্রহণ করে অষ্টক পূর্ণ করে ঋণাত্মক আয়ন গঠন করে।",
+            "explanation_en": "Non-metals have more electrons in their outer shell, so they generally gain electrons to complete the octet and form negative ions.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "পর্যায় সারণিতে ধাতুসমূহ প্রধানত কোন দিকে অবস্থিত?",
+            "question_en": "In the periodic table, metals are located mainly on which side?",
+            "options": [
+              {"id": "a", "bn": "বাম দিক ও মধ্যভাগে", "en": "Left side and middle"},
+              {"id": "b", "bn": "ডান দিকের ওপরে", "en": "Upper right side"},
+              {"id": "c", "bn": "শুধু নিচের সারিতে", "en": "Only the bottom row"},
+              {"id": "d", "bn": "শুধু গ্রুপ 18 এ", "en": "Only in group 18"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "পর্যায় সারণিতে ধাতুসমূহ বাম দিক ও মধ্যভাগে, অধাতুসমূহ ডান দিকের ওপরে এবং অপধাতুসমূহ এদের সীমারেখা বরাবর অবস্থিত।",
+            "explanation_en": "In the periodic table metals lie on the left and centre, non-metals on the upper right, and metalloids along the dividing line between them.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "সিলিকন ও জার্মেনিয়ামের মতো অপধাতুকে ইলেকট্রনিক্স শিল্পে অর্ধপরিবাহী হিসেবে ব্যবহার করা হয় কেন?",
+            "question_en": "Why are metalloids like silicon and germanium used as semiconductors in the electronics industry?",
+            "options": [
+              {"id": "a", "bn": "এদের পরিবাহিতা ধাতু ও অধাতুর মাঝামাঝি এবং নিয়ন্ত্রণযোগ্য", "en": "Their conductivity is intermediate and controllable"},
+              {"id": "b", "bn": "এরা সম্পূর্ণ অপরিবাহী", "en": "They are complete insulators"},
+              {"id": "c", "bn": "এরা ধাতুর মতো সম্পূর্ণ পরিবাহী", "en": "They conduct fully like metals"},
+              {"id": "d", "bn": "এরা গ্যাসীয় অবস্থায় থাকে", "en": "They exist as gases"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অপধাতুর বৈদ্যুতিক পরিবাহিতা ধাতু ও অধাতুর মাঝামাঝি এবং তাপমাত্রা বা ডোপিং দ্বারা নিয়ন্ত্রণ করা যায়, তাই এরা অর্ধপরিবাহী হিসেবে ট্রানজিস্টর, ডায়োড ইত্যাদিতে ব্যবহৃত হয়।",
+            "explanation_en": "The electrical conductivity of metalloids is intermediate between metals and non-metals and can be controlled by temperature or doping, so they are used as semiconductors in transistors, diodes, etc.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "অবস্থান ও ইলেকট্রন বিন্যাস",
+        "title_en": "Position and Electron Configuration",
+        "mcqs": [
+          {
+            "question_bn": "কোনো মৌলের গ্রুপ নম্বর (গ্রুপ 1-2 ও 13-18 এর জন্য) প্রধানত কীসের সাথে সম্পর্কিত?",
+            "question_en": "The group number of an element (for groups 1-2 and 13-18) is mainly related to what?",
+            "options": [
+              {"id": "a", "bn": "শেল সংখ্যা", "en": "Number of shells"},
+              {"id": "b", "bn": "যোজ্যতা ইলেকট্রন সংখ্যা", "en": "Number of valence electrons"},
+              {"id": "c", "bn": "নিউট্রন সংখ্যা", "en": "Number of neutrons"},
+              {"id": "d", "bn": "পারমাণবিক ভর", "en": "Atomic mass"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মৌলের সর্ববহিঃস্থ শেলের ইলেকট্রন সংখ্যাই তার গ্রুপ নির্ধারণ করে; যেমন 1টি যোজ্যতা ইলেকট্রন মানে গ্রুপ 1।",
+            "explanation_en": "The number of electrons in the outermost shell determines the group of the element; e.g. 1 valence electron means group 1.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "একটি মৌলের ইলেকট্রন বিন্যাস 2, 8, 2। এটি পর্যায় সারণিতে কোথায় অবস্থিত?",
+            "question_en": "An element has electron configuration 2, 8, 2. Where is it located in the periodic table?",
+            "options": [
+              {"id": "a", "bn": "গ্রুপ 2, পর্যায় 3", "en": "Group 2, period 3"},
+              {"id": "b", "bn": "গ্রুপ 3, পর্যায় 2", "en": "Group 3, period 2"},
+              {"id": "c", "bn": "গ্রুপ 12, পর্যায় 2", "en": "Group 12, period 2"},
+              {"id": "d", "bn": "গ্রুপ 8, পর্যায় 2", "en": "Group 8, period 2"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "3টি শেল ব্যবহৃত হওয়ায় পর্যায় 3; সর্ববহিঃস্থ শেলে 2টি ইলেকট্রন থাকায় গ্রুপ 2। মৌলটি ম্যাগনেসিয়াম।",
+            "explanation_en": "Three shells are used, so period 3; with 2 electrons in the outermost shell it belongs to group 2. The element is magnesium.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিষ্ক্রিয় গ্যাসসমূহের (হিলিয়াম ছাড়া) সর্ববহিঃস্থ শেলে ইলেকট্রন সংখ্যা কত?",
+            "question_en": "How many electrons are in the outermost shell of noble gases (except helium)?",
+            "options": [
+              {"id": "a", "bn": "2", "en": "2"},
+              {"id": "b", "bn": "4", "en": "4"},
+              {"id": "c", "bn": "8", "en": "8"},
+              {"id": "d", "bn": "18", "en": "18"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "নিষ্ক্রিয় গ্যাসের (Ne, Ar প্রভৃতি) সর্ববহিঃস্থ শেল 8টি ইলেকট্রন দিয়ে পূর্ণ থাকে, তাই এরা স্থিতিশীল ও রাসায়নিকভাবে নিষ্ক্রিয়।",
+            "explanation_en": "Noble gases (Ne, Ar, etc.) have 8 electrons filling their outermost shell, making them stable and chemically inert.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "যে মৌলের পারমাণবিক সংখ্যা 12, তার সঠিক অবস্থান কোনটি?",
+            "question_en": "For an element with atomic number 12, what is its correct position?",
+            "options": [
+              {"id": "a", "bn": "গ্রুপ 2, পর্যায় 3", "en": "Group 2, period 3"},
+              {"id": "b", "bn": "গ্রুপ 12, পর্যায় 3", "en": "Group 12, period 3"},
+              {"id": "c", "bn": "গ্রুপ 2, পর্যায় 2", "en": "Group 2, period 2"},
+              {"id": "d", "bn": "গ্রুপ 3, পর্যায় 12", "en": "Group 3, period 12"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "Z=12 এর ইলেকট্রন বিন্যাস 2, 8, 2; 3টি শেল তাই পর্যায় 3, সর্ববহিঃস্থ শেলে 2টি ইলেকট্রন তাই গ্রুপ 2 (ম্যাগনেসিয়াম)।",
+            "explanation_en": "For Z=12 the configuration is 2, 8, 2; three shells so period 3, and 2 electrons in the outermost shell so group 2 (magnesium).",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "দুটি মৌল A (Z=11) ও B (Z=17) এর মধ্যে রাসায়নিক বন্ধন গঠিত হলে সৃষ্ট যৌগ ও বন্ধনের ধরন কী?",
+            "question_en": "If elements A (Z=11) and B (Z=17) form a chemical bond, what compound and bond type result?",
+            "options": [
+              {"id": "a", "bn": "AB, আয়নিক বন্ধন", "en": "AB, ionic bond"},
+              {"id": "b", "bn": "A₂B, সমযোজী বন্ধন", "en": "A₂B, covalent bond"},
+              {"id": "c", "bn": "AB₂, সমযোজী বন্ধন", "en": "AB₂, covalent bond"},
+              {"id": "d", "bn": "AB, সমযোজী বন্ধন", "en": "AB, covalent bond"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "A (2,8,1) 1টি ইলেকট্রন ত্যাগ করে A⁺ এবং B (2,8,7) 1টি ইলেকট্রন গ্রহণ করে B⁻ হয়; বিপরীত আধানের আকর্ষণে AB (NaCl) আয়নিক যৌগ গঠিত হয়।",
+            "explanation_en": "A (2,8,1) loses 1 electron to form A⁺ and B (2,8,7) gains 1 electron to form B⁻; attraction of opposite charges forms the ionic compound AB (NaCl).",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "তিনটি মৌল P, Q ও R এর পারমাণবিক সংখ্যা যথাক্রমে 11, 12 ও 17। এরা সবাই আধুনিক পর্যায় সারণির তৃতীয় পর্যায়ে অবস্থিত।",
+        "stimulus_en": "Three elements P, Q and R have atomic numbers 11, 12 and 17 respectively. All of them lie in the third period of the modern periodic table.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "আধুনিক পর্যায় সূত্রটি বিবৃত কর।",
+            "question_en": "State the modern periodic law.",
+            "model_answer_bn": "আধুনিক পর্যায় সূত্র অনুসারে, মৌলসমূহের ভৌত ও রাসায়নিক ধর্ম তাদের পারমাণবিক সংখ্যার পর্যায়বৃত্ত ফাংশন।",
+            "model_answer_en": "According to the modern periodic law, the physical and chemical properties of elements are a periodic function of their atomic numbers."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "P, Q ও R মৌল তিনটি একই পর্যায়ে অবস্থিত—ব্যাখ্যা কর।",
+            "question_en": "Explain why the elements P, Q and R lie in the same period.",
+            "model_answer_bn": "P (2,8,1), Q (2,8,2) ও R (2,8,7) প্রত্যেকের ইলেকট্রন বিন্যাসে 3টি প্রধান শেল ব্যবহৃত হয়েছে। মৌলের পর্যায় নম্বর তার ব্যবহৃত সর্বোচ্চ প্রধান শেল সংখ্যার সমান। তিনটি মৌলেই শেল সংখ্যা 3 হওয়ায় এরা সবাই তৃতীয় পর্যায়ে অবস্থিত।",
+            "model_answer_en": "P (2,8,1), Q (2,8,2) and R (2,8,7) each use 3 principal shells in their electron configuration. The period number of an element equals the number of the highest principal shell it uses. Since all three have 3 shells, they all lie in the third period."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "P, Q ও R এর ইলেকট্রন বিন্যাস লিখে এদের গ্রুপ নম্বর নির্ণয় কর।",
+            "question_en": "Write the electron configurations of P, Q and R and determine their group numbers.",
+            "model_answer_bn": "P (Z=11): 2, 8, 1 — সর্ববহিঃস্থ শেলে 1টি ইলেকট্রন, তাই গ্রুপ 1। Q (Z=12): 2, 8, 2 — সর্ববহিঃস্থ শেলে 2টি ইলেকট্রন, তাই গ্রুপ 2। R (Z=17): 2, 8, 7 — সর্ববহিঃস্থ শেলে 7টি ইলেকট্রন, তাই গ্রুপ 17।",
+            "model_answer_en": "P (Z=11): 2, 8, 1 — 1 electron in the outermost shell, so group 1. Q (Z=12): 2, 8, 2 — 2 electrons in the outermost shell, so group 2. R (Z=17): 2, 8, 7 — 7 electrons in the outermost shell, so group 17."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "P ও R এর মধ্যে গঠিত যৌগের প্রকৃতি এবং P, Q, R এর মধ্যে পারমাণবিক ব্যাসার্ধের ক্রম বিশ্লেষণ কর।",
+            "question_en": "Analyse the nature of the compound formed between P and R, and the order of atomic radii among P, Q and R.",
+            "model_answer_bn": "P একটি ধাতু (গ্রুপ 1) যা 1টি ইলেকট্রন ত্যাগ করে P⁺ এবং R একটি অধাতু (গ্রুপ 17) যা 1টি ইলেকট্রন গ্রহণ করে R⁻ হয়; বিপরীত আধানের আকর্ষণে PR (NaCl-এর মতো) আয়নিক যৌগ গঠিত হয়। পারমাণবিক ব্যাসার্ধ: একই পর্যায়ে বাম থেকে ডানে নিউক্লিয়ার আধান বাড়ায় ব্যাসার্ধ কমে, তাই ক্রম P > Q > R। অর্থাৎ সোডিয়ামের ব্যাসার্ধ সবচেয়ে বড় এবং ক্লোরিনের সবচেয়ে ছোট।",
+            "model_answer_en": "P is a metal (group 1) that loses 1 electron to form P⁺, and R is a non-metal (group 17) that gains 1 electron to form R⁻; attraction of opposite charges forms the ionic compound PR (like NaCl). Atomic radius: across a period from left to right the nuclear charge increases so the radius decreases, giving the order P > Q > R. That is, sodium has the largest radius and chlorine the smallest."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "শিক্ষক শ্রেণিকক্ষে বললেন—পর্যায় সারণিতে মৌলসমূহকে ধাতু, অধাতু ও অপধাতু হিসেবে ভাগ করা যায়। তিনি উদাহরণ হিসেবে সোডিয়াম (Na), সালফার (S) ও সিলিকন (Si) এর কথা উল্লেখ করলেন।",
+        "stimulus_en": "In class the teacher said that the elements in the periodic table can be divided into metals, non-metals and metalloids. As examples he mentioned sodium (Na), sulphur (S) and silicon (Si).",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "অপধাতু কাকে বলে?",
+            "question_en": "What is a metalloid?",
+            "model_answer_bn": "যেসব মৌলের মধ্যে ধাতু ও অধাতু উভয়েরই কিছু কিছু ধর্ম বিদ্যমান, তাদের অপধাতু বলে; যেমন সিলিকন, জার্মেনিয়াম।",
+            "model_answer_en": "A metalloid is an element that possesses some properties of both metals and non-metals, e.g. silicon and germanium."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "সোডিয়াম একটি ধাতু কেন—ইলেকট্রন বিন্যাসের আলোকে ব্যাখ্যা কর।",
+            "question_en": "Why is sodium a metal—explain in terms of its electron configuration.",
+            "model_answer_bn": "সোডিয়ামের (Z=11) ইলেকট্রন বিন্যাস 2, 8, 1; সর্ববহিঃস্থ শেলে মাত্র 1টি ইলেকট্রন আছে। এই একটি ইলেকট্রন সহজেই ত্যাগ করে Na⁺ ধনাত্মক আয়ন গঠন করতে পারে। ইলেকট্রন ত্যাগ করে ধনাত্মক আয়ন গঠনের এই প্রবণতা ধাতুর বৈশিষ্ট্য, তাই সোডিয়াম একটি ধাতু।",
+            "model_answer_en": "Sodium (Z=11) has the electron configuration 2, 8, 1; there is only 1 electron in its outermost shell. It can easily lose this single electron to form the positive ion Na⁺. This tendency to lose electrons and form positive ions is a metallic property, so sodium is a metal."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "সালফার (Z=16) রাসায়নিক বিক্রিয়ায় কীভাবে আয়ন গঠন করে তা ইলেকট্রন বিন্যাসসহ দেখাও।",
+            "question_en": "Show, with electron configuration, how sulphur (Z=16) forms an ion in chemical reactions.",
+            "model_answer_bn": "সালফারের ইলেকট্রন বিন্যাস 2, 8, 6; সর্ববহিঃস্থ শেলে 6টি ইলেকট্রন আছে। অষ্টক পূর্ণ করতে এর 2টি ইলেকট্রন প্রয়োজন, তাই এটি 2টি ইলেকট্রন গ্রহণ করে S²⁻ ঋণাত্মক আয়ন গঠন করে (2, 8, 8)। এভাবে অধাতু হিসেবে সালফার ইলেকট্রন গ্রহণ করে স্থিতিশীল বিন্যাস অর্জন করে।",
+            "model_answer_en": "Sulphur has the electron configuration 2, 8, 6; there are 6 electrons in its outermost shell. To complete the octet it needs 2 electrons, so it gains 2 electrons to form the negative ion S²⁻ (2, 8, 8). Thus, as a non-metal, sulphur gains electrons to achieve a stable configuration."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "উদ্দীপকে উল্লিখিত তিনটি মৌলের ধর্মের ভিত্তিতে ধাতু, অধাতু ও অপধাতুর পার্থক্য বিশ্লেষণ কর।",
+            "question_en": "Based on the properties of the three elements in the stem, analyse the differences among metals, non-metals and metalloids.",
+            "model_answer_bn": "সোডিয়াম (ধাতু) তাপ ও বিদ্যুতের সুপরিবাহী, নমনীয় ও চকচকে এবং ইলেকট্রন ত্যাগ করে ধনাত্মক আয়ন গঠন করে। সালফার (অধাতু) তাপ-বিদ্যুৎ অপরিবাহী, ভঙ্গুর ও নিষ্প্রভ এবং ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়ন গঠন করে। সিলিকন (অপধাতু) ধাতু ও অধাতুর মধ্যবর্তী ধর্ম দেখায়—এর পরিবাহিতা আংশিক ও নিয়ন্ত্রণযোগ্য, তাই এটি অর্ধপরিবাহী হিসেবে ব্যবহৃত হয়। সুতরাং ইলেকট্রন আদান-প্রদানের প্রবণতা ও পরিবাহিতার ভিত্তিতে এই তিন শ্রেণির মৌলকে স্পষ্টভাবে পৃথক করা যায়।",
+            "model_answer_en": "Sodium (metal) is a good conductor of heat and electricity, malleable and lustrous, and forms positive ions by losing electrons. Sulphur (non-metal) is a poor conductor, brittle and dull, and forms negative ions by gaining electrons. Silicon (metalloid) shows properties intermediate between metals and non-metals—its conductivity is partial and controllable, so it is used as a semiconductor. Thus, on the basis of the tendency to exchange electrons and of conductivity, these three classes of elements can be clearly distinguished."
+          }
+        ]
+      }
+    ]
+  }
+]

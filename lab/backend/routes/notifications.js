@@ -40,7 +40,7 @@ router.put('/read-all', verifyToken, async (req, res) => {
 });
 
 // FR-7.2 — teacher broadcasts an announcement to their class
-router.post('/announcements', verifyToken, requireRole('teacher'), async (req, res) => {
+router.post('/announcements', verifyToken, requireRole('teacher', 'system_admin'), async (req, res) => {
   try {
     const { classLevel, subjectId, messageBn, messageEn } = req.body;
     const announcement = await pool.query(

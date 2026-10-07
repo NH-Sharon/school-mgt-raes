@@ -4,7 +4,9 @@ import { FormsModule } from '@angular/forms';
 import { Router } from '@angular/router';
 import { CHEMICALS, REACTIONS, PRESET_GROUPS, INDICATOR_BEHAVIOR, Chemical, Reaction, getChem } from '../data/chemistry-lab-data';
 import { SimulationService } from '../services/simulation.service';
+import { LabSessionService } from '../services/lab-session.service';
 import { I18nService } from '../services/i18n.service';
+import { ChemBeaker3dComponent } from './chem-beaker-3d.component';
 
 interface SlotData { chemId: string; amount: number; }
 interface NotebookEntry { reactants: string; equation: string; observation: string; time: string; }
@@ -12,14 +14,13 @@ interface ResultView {
   kind: 'warning' | 'indicator' | 'no-reaction' | 'reaction';
   title?: string; equation?: string; observation?: string; indicatorLine?: string; useNote?: string; safetyNote?: string; message?: string;
 }
-interface Bubble { left: number; delay: number; duration: number; }
 
 const NOTEBOOK_KEY = 'bdVirtualLab_chemNotebook';
 
 @Component({
   selector: 'app-simulation-chemistry',
   standalone: true,
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, ChemBeaker3dComponent],
   template: `
     <div class="lab-shell">
       <div class="lab-header">
@@ -45,6 +46,17 @@ const NOTEBOOK_KEY = 'bdVirtualLab_chemNotebook';
                 <span class="chem-formula">{{ chem.formula }} {{ chem.state === 'solid' ? (i18n.isEn ? '(solid)' : '(কঠিন)') : '' }}</span>
               </div>
               <button class="add-btn" (click)="quickAdd(chem.id)">+</button>
+            </div>
+          </div>
+
+          <!-- FR-2.2 guided step script -->
+          <div class="guided-steps" *ngIf="mode === 'guided' && guidedSteps.length">
+            <h3>🧭 {{ i18n.t('step') }} {{ currentStep + 1 }} / {{ guidedSteps.length }}</h3>
+            <p class="gstep-instruction">{{ i18n.isEn ? guidedSteps[currentStep].instruction_en : guidedSteps[currentStep].instruction_bn }}</p>
+            <p class="gstep-hint" *ngIf="guidedSteps[currentStep].hint_en">💡 {{ i18n.isEn ? guidedSteps[currentStep].hint_en : guidedSteps[currentStep].hint_bn }}</p>
+            <div class="gstep-nav">
+              <button class="ghost-btn" (click)="prevStep()" [disabled]="currentStep === 0">‹</button>
+              <button class="ghost-btn" (click)="nextStep()" [disabled]="currentStep === guidedSteps.length - 1">›</button>
             </div>
           </div>
 
@@ -105,16 +117,13 @@ const NOTEBOOK_KEY = 'bdVirtualLab_chemNotebook';
           </div>
 
           <div class="beaker-stage">
-            <div class="beaker">
-              <div class="beaker-neck"></div>
-              <div class="liquid" [style.background]="liquidColor" [style.height.%]="liquidHeight"></div>
-              <div class="bubbles">
-                <div class="bubble" *ngFor="let b of bubbles" [style.left.%]="b.left" [style.animation-delay.s]="b.delay" [style.animation-duration.s]="b.duration"></div>
-              </div>
-              <div class="precipitate" [style.background]="precipitateColor" [style.height.%]="precipitateHeight"></div>
-              <div class="gas-label" *ngIf="gasLabel">{{ gasLabel }}</div>
-              <div class="smell-label" *ngIf="smellLabel">{{ smellLabel }}</div>
-            </div>
+            <app-chem-beaker-3d
+              [liquidColor]="liquidColor" [liquidHeight]="liquidHeight"
+              [precipitateColor]="precipitateColor" [precipitateHeight]="precipitateHeight"
+              [bubbleCount]="bubbleCount" [gasLabel]="gasLabel" [smellLabel]="smellLabel"
+              [slotA]="vesselFor(0)" [slotB]="vesselFor(1)" [isEn]="i18n.isEn"
+              (amountAChange)="setAmount(0, $event)" (amountBChange)="setAmount(1, $event)">
+            </app-chem-beaker-3d>
           </div>
 
           <div class="result-panel">
@@ -202,6 +211,12 @@ const NOTEBOOK_KEY = 'bdVirtualLab_chemNotebook';
     .chem-name-bn { font-size: 0.85rem; font-weight: 600; color: var(--text); }
     .chem-formula { font-size: 0.75rem; color: var(--text-dim); }
     .add-btn { background: var(--accent); color: #06231f; border: none; border-radius: 6px; width: 26px; height: 26px; font-weight: 700; }
+    .guided-steps { margin-top: 16px; border: 1px solid var(--accent, #37c2b5); border-radius: 10px; padding: 12px; background: rgba(55,194,181,0.08); }
+    .guided-steps h3 { font-size: 0.82rem; margin: 0 0 8px; color: var(--accent, #37c2b5); }
+    .gstep-instruction { font-size: 0.86rem; margin: 0 0 8px; line-height: 1.5; }
+    .gstep-hint { font-size: 0.8rem; margin: 0 0 8px; color: var(--text-dim, #8aa); }
+    .gstep-nav { display: flex; gap: 8px; }
+    .gstep-nav .ghost-btn { flex: 1; text-align: center; }
     .presets { margin-top: 18px; border-top: 1px solid var(--border); padding-top: 14px; max-height: 480px; overflow-y: auto; }
     .presets h3 { font-size: 0.8rem; color: var(--text-dim); margin: 0 0 10px; }
     .preset-group { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
@@ -225,16 +240,7 @@ const NOTEBOOK_KEY = 'bdVirtualLab_chemNotebook';
     .action-row { display: flex; gap: 10px; flex-wrap: wrap; }
     .primary-btn { background: linear-gradient(135deg, var(--accent), var(--accent-dark)); color: #06231f; border: none; padding: 12px 20px; border-radius: 10px; font-weight: 700; font-size: 0.95rem; }
 
-    .beaker-stage { display: flex; justify-content: center; padding: 20px 0; position: relative; }
-    .beaker { position: relative; width: 160px; height: 200px; border: 4px solid #6b7d8c; border-top: none; border-radius: 0 0 18px 18px; background: rgba(255,255,255,0.02); }
-    .beaker-neck { position: absolute; top: -14px; left: -4px; right: -4px; height: 14px; border-left: 4px solid #6b7d8c; border-right: 4px solid #6b7d8c; }
-    .liquid { position: absolute; left: 0; right: 0; bottom: 0; background: #cfe8f5; transition: height 0.6s ease, background 1.2s ease; border-radius: 0 0 14px 14px; }
-    .precipitate { position: absolute; left: 2px; right: 2px; bottom: 2px; border-radius: 0 0 12px 12px; transition: height 1s ease 0.4s, background 1s ease 0.4s; opacity: 0.9; }
-    .bubbles { position: absolute; inset: 0; pointer-events: none; }
-    .bubble { position: absolute; bottom: 10%; width: 8px; height: 8px; background: rgba(255,255,255,0.55); border-radius: 50%; animation: rise 1.4s ease-in infinite; }
-    @keyframes rise { 0% { transform: translateY(0) scale(0.6); opacity: 0.9; } 80% { opacity: 0.5; } 100% { transform: translateY(-170px) scale(1.1); opacity: 0; } }
-    .gas-label { position: absolute; top: -34px; left: 50%; transform: translateX(-50%); font-size: 0.8rem; font-weight: 700; color: var(--warn); white-space: nowrap; }
-    .smell-label { position: absolute; top: -60px; left: 50%; transform: translateX(-50%); font-size: 0.75rem; color: var(--text-dim); white-space: nowrap; }
+    .beaker-stage { display: flex; justify-content: center; padding: 4px 0; position: relative; }
 
     .result-panel { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; min-height: 80px; }
     .placeholder-text { color: var(--text-dim); font-size: 0.9rem; margin: 0; text-align: center; }
@@ -278,7 +284,7 @@ export class SimulationChemistryComponent implements OnInit {
 
   liquidColor = '#cfe8f5'; liquidHeight = 10;
   precipitateColor = 'transparent'; precipitateHeight = 0;
-  bubbles: Bubble[] = [];
+  bubbleCount = 0;
   gasLabel = ''; smellLabel = '';
   result: ResultView | null = null;
 
@@ -292,13 +298,27 @@ export class SimulationChemistryComponent implements OnInit {
   hintsUsed = 0;
   private stepsLog: any[] = [];
 
+  // FR-2 — guided step script (from simulations.config.guidedSteps)
+  guidedSteps: { instruction_bn: string; instruction_en: string; hint_bn?: string; hint_en?: string }[] = [];
+  currentStep = 0;
+  private labSession = inject(LabSessionService);
+
   ngOnInit() {
     this.notebook = this.loadNotebook();
+    // Honour the mode chosen on the lab-launch screen (FR-2.1)
+    this.mode = this.labSession.getMode('chem-mixing');
+    this.simulationService.getSimulation('chem-mixing').subscribe({
+      next: (sim) => { this.guidedSteps = (sim?.config?.guidedSteps) || []; },
+      error: () => {},
+    });
     this.simulationService.startAttempt('chem-mixing', this.mode).subscribe({
       next: (a) => this.attemptId = a.id,
       error: () => {},
     });
   }
+
+  nextStep() { if (this.currentStep < this.guidedSteps.length - 1) this.currentStep++; }
+  prevStep() { if (this.currentStep > 0) this.currentStep--; }
 
   getChem(id: string): Chemical | undefined { return getChem(id); }
 
@@ -315,7 +335,18 @@ export class SimulationChemistryComponent implements OnInit {
   }
 
   removeSlot(e: Event, i: number) { e.stopPropagation(); this.slots[i] = null; }
-  setAmount(i: number, value: number) { if (this.slots[i]) this.slots[i]!.amount = Number(value); }
+  setAmount(i: number, value: number) {
+    if (!this.slots[i]) return;
+    this.slots[i]!.amount = Number(value);
+    if (i === 0) this.slotAmount0 = Number(value); else if (i === 1) this.slotAmount1 = Number(value);
+  }
+
+  vesselFor(i: 0 | 1): { color: string; amount: number; type: Chemical['type'] } | null {
+    const s = this.slots[i];
+    if (!s) return null;
+    const chem = getChem(s.chemId);
+    return { color: chem?.color || '#eef6fb', amount: s.amount, type: chem?.type || 'salt' };
+  }
 
   openPicker(i: number) { this.pickerTargetSlot = i; this.pickerOpen = true; }
   pickerOptions(): Chemical[] {
@@ -457,7 +488,7 @@ export class SimulationChemistryComponent implements OnInit {
   private animateBeaker(opts: { liquidFrom: string; liquidTo: string; gas: boolean | string | null; precipitate: { color: string; amount: number } | null; vigor: string; smell: string | null }) {
     this.liquidColor = opts.liquidFrom;
     this.liquidHeight = 55;
-    this.bubbles = [];
+    this.bubbleCount = 0;
     this.precipitateHeight = 0;
     this.gasLabel = '';
     this.smellLabel = '';
@@ -465,8 +496,7 @@ export class SimulationChemistryComponent implements OnInit {
     setTimeout(() => { this.liquidColor = opts.liquidTo; }, 150);
 
     const vigorCount: Record<string, number> = { none: 0, low: 4, medium: 9, high: 15 };
-    const count = vigorCount[opts.vigor] || 0;
-    this.bubbles = Array.from({ length: count }, () => ({ left: 10 + Math.random() * 80, delay: Math.random() * 1.2, duration: 1 + Math.random() * 0.8 }));
+    this.bubbleCount = vigorCount[opts.vigor] || 0;
 
     if (opts.gas) this.gasLabel = `${opts.gas} ${this.i18n.isEn ? 'gas released' : 'গ্যাস নির্গত হচ্ছে'} ↑`;
     if (opts.smell === 'pungent') this.smellLabel = this.i18n.isEn ? '👃 Pungent smell' : '👃 ঝাঁঝালো গন্ধ অনুভূত হচ্ছে';

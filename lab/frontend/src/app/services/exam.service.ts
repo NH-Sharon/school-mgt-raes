@@ -18,7 +18,11 @@ export class ExamService {
   private apiUrl = `${environment.apiUrl}/exams`;
   constructor(private http: HttpClient) {}
 
-  start(payload: { chapterIds: number[]; examMode: 'practice' | 'exam'; numQuestions?: number; timeLimitSec?: number; negativeMarking?: boolean; assignmentId?: number }): Observable<ExamStartResponse> {
+  start(payload: {
+    chapterIds: number[]; examMode: 'practice' | 'exam'; numQuestions?: number;
+    timeLimitSec?: number; negativeMarking?: boolean; assignmentId?: number;
+    topicIds?: number[]; difficulty?: 'basic' | 'medium' | 'advanced'; difficultyMix?: Record<string, number>;
+  }): Observable<ExamStartResponse> {
     return this.http.post<ExamStartResponse>(`${this.apiUrl}/start`, payload);
   }
 

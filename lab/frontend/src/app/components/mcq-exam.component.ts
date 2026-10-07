@@ -11,8 +11,9 @@ import { I18nService } from '../services/i18n.service';
   template: `
     <div class="exam-shell" *ngIf="questions.length">
       <div class="exam-header">
-        <h2>{{ i18n.t('exam') }}</h2>
-        <div class="timer" [class.low]="remainingSec < 60">⏱ {{ formatTime(remainingSec) }}</div>
+        <h2>{{ untimed ? i18n.t('practiceMode') : i18n.t('exam') }}</h2>
+        <div class="timer" *ngIf="!untimed" [class.low]="remainingSec < 60">⏱ {{ formatTime(remainingSec) }}</div>
+        <div class="timer" *ngIf="untimed">∞ {{ i18n.t('practiceMode') }}</div>
       </div>
 
       <div class="exam-body">
@@ -94,6 +95,7 @@ export class McqExamComponent implements OnInit, OnDestroy {
   answers: Record<number, string[]> = {};
   marked = new Set<number>();
   remainingSec = 0;
+  untimed = false; // practice mode (timeLimitSec = 0)
   private timerHandle: any;
   private questionStartedAt = Date.now();
 
@@ -104,9 +106,13 @@ export class McqExamComponent implements OnInit, OnDestroy {
     this.examService.getAttempt(this.attemptId).subscribe((res) => {
       if (res.attempt.status !== 'in_progress') { this.router.navigate(['/exam/result', this.attemptId]); return; }
       this.questions = res.questions;
-      this.remainingSec = res.remainingSec;
       this.answers = res.attempt.answers || {};
-      this.timerHandle = setInterval(() => this.tick(), 1000);
+      // Practice mode has no time limit — don't run the countdown/auto-submit.
+      this.untimed = !res.attempt.config?.timeLimitSec;
+      if (!this.untimed) {
+        this.remainingSec = res.remainingSec;
+        this.timerHandle = setInterval(() => this.tick(), 1000);
+      }
     });
   }
 

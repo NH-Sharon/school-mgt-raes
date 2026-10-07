@@ -1,0 +1,1088 @@
+[
+  {
+    "order": 7,
+    "title_bn": "রাসায়নিক বিক্রিয়া",
+    "title_en": "Chemical Reactions",
+    "topics": [
+      {
+        "title_bn": "রাসায়নিক বিক্রিয়ার লক্ষণ",
+        "title_en": "Signs of a Chemical Reaction",
+        "mcqs": [
+          {
+            "question_bn": "নিচের কোনটি রাসায়নিক বিক্রিয়া সংঘটিত হওয়ার লক্ষণ নয়?",
+            "question_en": "Which of the following is NOT a sign that a chemical reaction has occurred?",
+            "options": [
+              {"id": "a", "bn": "রঙের পরিবর্তন", "en": "Change of colour"},
+              {"id": "b", "bn": "গ্যাসের বুদবুদ সৃষ্টি", "en": "Formation of gas bubbles"},
+              {"id": "c", "bn": "অধঃক্ষেপ সৃষ্টি", "en": "Formation of a precipitate"},
+              {"id": "d", "bn": "পদার্থের অবস্থার সাময়িক পরিবর্তন", "en": "Temporary change of physical state"}
+            ],
+            "correct": ["d"],
+            "explanation_bn": "কেবল অবস্থার সাময়িক পরিবর্তন (যেমন বরফ গলা) একটি ভৌত পরিবর্তন, রাসায়নিক বিক্রিয়া নয়। রঙ পরিবর্তন, গ্যাস ও অধঃক্ষেপ সৃষ্টি রাসায়নিক বিক্রিয়ার লক্ষণ।",
+            "explanation_en": "A temporary state change (e.g., ice melting) is a physical change, not a chemical reaction. Colour change, gas evolution and precipitate formation are signs of a chemical reaction.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "লোহায় মরিচা ধরার সময় কোন লক্ষণটি দেখা যায়?",
+            "question_en": "Which sign is observed when iron rusts?",
+            "options": [
+              {"id": "a", "bn": "বাদামি-লালচে পদার্থ সৃষ্টি ও রঙ পরিবর্তন", "en": "Formation of a brownish-red substance and colour change"},
+              {"id": "b", "bn": "কোনো পরিবর্তন হয় না", "en": "No change occurs"},
+              {"id": "c", "bn": "লোহা গলে যায়", "en": "Iron melts"},
+              {"id": "d", "bn": "শুধু ঘনত্ব পরিবর্তন", "en": "Only density changes"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "মরিচা হলো হাইড্রেটেড আয়রন(III) অক্সাইড, যা বাদামি-লালচে রঙের। রঙ পরিবর্তন নতুন পদার্থ সৃষ্টির লক্ষণ, তাই এটি রাসায়নিক বিক্রিয়া।",
+            "explanation_en": "Rust is hydrated iron(III) oxide, brownish-red in colour. The colour change indicates formation of a new substance, so it is a chemical reaction.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "মার্বেল পাথরে (CaCO₃) লঘু হাইড্রোক্লোরিক অ্যাসিড যোগ করলে যে গ্যাস নির্গত হয় তা লাইম ওয়াটার ঘোলা করে। গ্যাসটি কী?",
+            "question_en": "When dilute hydrochloric acid is added to marble (CaCO₃), the gas released turns lime water milky. What is the gas?",
+            "options": [
+              {"id": "a", "bn": "হাইড্রোজেন (H₂)", "en": "Hydrogen (H₂)"},
+              {"id": "b", "bn": "কার্বন ডাই-অক্সাইড (CO₂)", "en": "Carbon dioxide (CO₂)"},
+              {"id": "c", "bn": "অক্সিজেন (O₂)", "en": "Oxygen (O₂)"},
+              {"id": "d", "bn": "ক্লোরিন (Cl₂)", "en": "Chlorine (Cl₂)"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂। নির্গত CO₂ লাইম ওয়াটারকে ঘোলা করে, যা গ্যাস নির্গমন—রাসায়নিক বিক্রিয়ার একটি লক্ষণ।",
+            "explanation_en": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. The CO₂ evolved turns lime water milky; gas evolution is a sign of a chemical reaction.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোন পরিবর্তনে তাপ শোষণ (তাপহারী) একটি লক্ষণ হিসেবে বিবেচিত হয়?",
+            "question_en": "In which of the following changes is absorption of heat (endothermic) considered as a sign?",
+            "options": [
+              {"id": "a", "bn": "অ্যামোনিয়াম ক্লোরাইড পানিতে দ্রবীভূত হয়ে দ্রবণ ঠান্ডা হওয়া", "en": "Ammonium chloride dissolving in water making the solution cold"},
+              {"id": "b", "bn": "চুনে পানি যোগ করলে তাপ উৎপন্ন", "en": "Adding water to quicklime producing heat"},
+              {"id": "c", "bn": "মোমবাতি জ্বলা", "en": "A candle burning"},
+              {"id": "d", "bn": "কয়লা পোড়া", "en": "Coal burning"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যামোনিয়াম ক্লোরাইড দ্রবীভূত হওয়ার সময় পরিবেশ থেকে তাপ শোষণ করে দ্রবণ ঠান্ডা করে—এটি তাপহারী পরিবর্তন। বাকি সবগুলো তাপ উৎপন্ন করে (তাপোৎপাদী)।",
+            "explanation_en": "Ammonium chloride absorbs heat from the surroundings as it dissolves, cooling the solution—an endothermic change. The others release heat (exothermic).",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সিলভার নাইট্রেট (AgNO₃) দ্রবণে সোডিয়াম ক্লোরাইড (NaCl) দ্রবণ যোগ করলে সাদা অধঃক্ষেপ পড়ে। অধঃক্ষেপটি কী এবং এটি কোন লক্ষণ নির্দেশ করে?",
+            "question_en": "Adding sodium chloride (NaCl) solution to silver nitrate (AgNO₃) solution gives a white precipitate. What is the precipitate and which sign does it indicate?",
+            "options": [
+              {"id": "a", "bn": "AgCl; অধঃক্ষেপ সৃষ্টি", "en": "AgCl; formation of a precipitate"},
+              {"id": "b", "bn": "NaNO₃; গ্যাস নির্গমন", "en": "NaNO₃; gas evolution"},
+              {"id": "c", "bn": "Ag₂O; রঙ পরিবর্তন", "en": "Ag₂O; colour change only"},
+              {"id": "d", "bn": "AgNO₃; কোনো পরিবর্তন নয়", "en": "AgNO₃; no change"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "AgNO₃ + NaCl → AgCl↓ + NaNO₃। সাদা অদ্রবণীয় AgCl অধঃক্ষেপ হিসেবে পড়ে; অধঃক্ষেপ সৃষ্টি রাসায়নিক বিক্রিয়ার একটি স্পষ্ট লক্ষণ।",
+            "explanation_en": "AgNO₃ + NaCl → AgCl↓ + NaNO₃. Insoluble white AgCl forms as a precipitate; precipitate formation is a clear sign of a chemical reaction.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "সমীকরণ ও সমতাকরণ",
+        "title_en": "Chemical Equations and Balancing",
+        "mcqs": [
+          {
+            "question_bn": "রাসায়নিক সমীকরণ সমতা করা হয় কোন সূত্রের ভিত্তিতে?",
+            "question_en": "On which law is the balancing of a chemical equation based?",
+            "options": [
+              {"id": "a", "bn": "ভরের নিত্যতা সূত্র", "en": "Law of conservation of mass"},
+              {"id": "b", "bn": "গ্যাসের চাপের সূত্র", "en": "Law of gas pressure"},
+              {"id": "c", "bn": "গতির সূত্র", "en": "Law of motion"},
+              {"id": "d", "bn": "মহাকর্ষ সূত্র", "en": "Law of gravitation"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ভরের নিত্যতা সূত্র অনুযায়ী বিক্রিয়ায় ভর সৃষ্টি বা বিনাশ হয় না, তাই উভয় পাশে প্রতিটি মৌলের পরমাণু সংখ্যা সমান হতে হয়।",
+            "explanation_en": "By the law of conservation of mass, mass is neither created nor destroyed, so the number of atoms of each element must be equal on both sides.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "H₂ + O₂ → H₂O সমীকরণটি সমতা করলে সঠিক রূপ কোনটি?",
+            "question_en": "What is the correctly balanced form of the equation H₂ + O₂ → H₂O?",
+            "options": [
+              {"id": "a", "bn": "2H₂ + O₂ → 2H₂O", "en": "2H₂ + O₂ → 2H₂O"},
+              {"id": "b", "bn": "H₂ + O₂ → H₂O", "en": "H₂ + O₂ → H₂O"},
+              {"id": "c", "bn": "H₂ + 2O₂ → 2H₂O", "en": "H₂ + 2O₂ → 2H₂O"},
+              {"id": "d", "bn": "2H₂ + 2O₂ → 2H₂O", "en": "2H₂ + 2O₂ → 2H₂O"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "2H₂ + O₂ → 2H₂O তে বাম পাশে 4টি H ও 2টি O এবং ডান পাশে 4টি H ও 2টি O—উভয় পাশে সমান, তাই সমীকরণটি সমতাকৃত।",
+            "explanation_en": "In 2H₂ + O₂ → 2H₂O there are 4 H and 2 O on the left and 4 H and 2 O on the right—equal on both sides, so it is balanced.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "সমীকরণে (s), (l), (g), (aq) প্রতীকগুলো কী নির্দেশ করে?",
+            "question_en": "What do the symbols (s), (l), (g), (aq) in an equation indicate?",
+            "options": [
+              {"id": "a", "bn": "পদার্থের ভৌত অবস্থা", "en": "Physical states of the substances"},
+              {"id": "b", "bn": "পদার্থের রঙ", "en": "Colours of the substances"},
+              {"id": "c", "bn": "বিক্রিয়ার হার", "en": "Rate of reaction"},
+              {"id": "d", "bn": "পরমাণুর ভর", "en": "Atomic masses"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "(s)=কঠিন, (l)=তরল, (g)=গ্যাসীয়, (aq)=জলীয় দ্রবণ—এগুলো বিক্রিয়ক ও উৎপাদের ভৌত অবস্থা নির্দেশ করে।",
+            "explanation_en": "(s)=solid, (l)=liquid, (g)=gas, (aq)=aqueous solution—these denote the physical states of reactants and products.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "Fe + Cl₂ → FeCl₃ সমীকরণটি সমতা করলে Fe ও Cl₂ এর সহগ যথাক্রমে কত হবে?",
+            "question_en": "When Fe + Cl₂ → FeCl₃ is balanced, what are the coefficients of Fe and Cl₂ respectively?",
+            "options": [
+              {"id": "a", "bn": "2 ও 3", "en": "2 and 3"},
+              {"id": "b", "bn": "1 ও 1", "en": "1 and 1"},
+              {"id": "c", "bn": "3 ও 2", "en": "3 and 2"},
+              {"id": "d", "bn": "2 ও 2", "en": "2 and 2"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "2Fe + 3Cl₂ → 2FeCl₃। বাম পাশে 2টি Fe ও 6টি Cl, ডান পাশে 2টি Fe ও 6টি Cl—সমতাকৃত। তাই Fe এর সহগ 2 ও Cl₂ এর 3।",
+            "explanation_en": "2Fe + 3Cl₂ → 2FeCl₃. Left: 2 Fe and 6 Cl; right: 2 Fe and 6 Cl—balanced. So Fe coefficient is 2 and Cl₂ is 3.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "C₃H₈ + O₂ → CO₂ + H₂O সমীকরণটি সমতা করলে O₂ এর সহগ কত হবে?",
+            "question_en": "When C₃H₈ + O₂ → CO₂ + H₂O is balanced, what is the coefficient of O₂?",
+            "options": [
+              {"id": "a", "bn": "3", "en": "3"},
+              {"id": "b", "bn": "4", "en": "4"},
+              {"id": "c", "bn": "5", "en": "5"},
+              {"id": "d", "bn": "7", "en": "7"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "C₃H₈ + 5O₂ → 3CO₂ + 4H₂O। ডান পাশে অক্সিজেন = (3×2)+(4×1)=10টি O পরমাণু = 5টি O₂ অণু, তাই O₂ এর সহগ 5।",
+            "explanation_en": "C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Oxygen on the right = (3×2)+(4×1)=10 O atoms = 5 O₂ molecules, so the coefficient of O₂ is 5.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "বিক্রিয়ার প্রকারভেদ",
+        "title_en": "Types of Reactions",
+        "mcqs": [
+          {
+            "question_bn": "A + B → AB ধরনের বিক্রিয়াকে কী বলে?",
+            "question_en": "A reaction of the type A + B → AB is called what?",
+            "options": [
+              {"id": "a", "bn": "সংযোজন বিক্রিয়া", "en": "Combination (synthesis) reaction"},
+              {"id": "b", "bn": "বিয়োজন বিক্রিয়া", "en": "Decomposition reaction"},
+              {"id": "c", "bn": "প্রতিস্থাপন বিক্রিয়া", "en": "Displacement reaction"},
+              {"id": "d", "bn": "দ্বি-প্রতিস্থাপন বিক্রিয়া", "en": "Double displacement reaction"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "দুই বা ততোধিক পদার্থ যুক্ত হয়ে একটি নতুন যৌগ গঠন করলে তাকে সংযোজন বা সংশ্লেষণ বিক্রিয়া বলে, যেমন 2H₂ + O₂ → 2H₂O।",
+            "explanation_en": "When two or more substances combine to form a single new compound it is a combination (synthesis) reaction, e.g., 2H₂ + O₂ → 2H₂O.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "CaCO₃ → CaO + CO₂ কোন প্রকার বিক্রিয়া?",
+            "question_en": "CaCO₃ → CaO + CO₂ is which type of reaction?",
+            "options": [
+              {"id": "a", "bn": "বিয়োজন বিক্রিয়া", "en": "Decomposition reaction"},
+              {"id": "b", "bn": "সংযোজন বিক্রিয়া", "en": "Combination reaction"},
+              {"id": "c", "bn": "প্রশমন বিক্রিয়া", "en": "Neutralisation reaction"},
+              {"id": "d", "bn": "প্রতিস্থাপন বিক্রিয়া", "en": "Displacement reaction"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "একটি যৌগ ভেঙে দুই বা ততোধিক সরল পদার্থ উৎপন্ন হলে তাকে বিয়োজন বিক্রিয়া বলে। তাপে CaCO₃ ভেঙে CaO ও CO₂ দেয়।",
+            "explanation_en": "When one compound breaks down into two or more simpler substances it is a decomposition reaction. On heating, CaCO₃ decomposes into CaO and CO₂.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "Zn + CuSO₄ → ZnSO₄ + Cu বিক্রিয়াটি কোন প্রকার এবং এতে জিংকের ভূমিকা কী?",
+            "question_en": "Zn + CuSO₄ → ZnSO₄ + Cu is which type of reaction, and what is the role of zinc?",
+            "options": [
+              {"id": "a", "bn": "প্রতিস্থাপন; জিংক তামাকে প্রতিস্থাপন করে", "en": "Displacement; zinc displaces copper"},
+              {"id": "b", "bn": "সংযোজন; জিংক যুক্ত হয়", "en": "Combination; zinc combines"},
+              {"id": "c", "bn": "বিয়োজন; জিংক ভেঙে যায়", "en": "Decomposition; zinc breaks down"},
+              {"id": "d", "bn": "প্রশমন; জিংক অ্যাসিড প্রশমিত করে", "en": "Neutralisation; zinc neutralises acid"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "জিংক তামার চেয়ে বেশি সক্রিয়, তাই এটি CuSO₄ থেকে তামাকে প্রতিস্থাপন করে ZnSO₄ ও মুক্ত Cu দেয়—এটি একক প্রতিস্থাপন বিক্রিয়া।",
+            "explanation_en": "Zinc is more reactive than copper, so it displaces copper from CuSO₄ giving ZnSO₄ and free Cu—a single displacement reaction.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "অ্যাসিড ও ক্ষারকের বিক্রিয়ায় লবণ ও পানি উৎপন্ন হওয়াকে কোন প্রকার বিক্রিয়া বলে?",
+            "question_en": "The reaction of an acid with a base producing salt and water is which type of reaction?",
+            "options": [
+              {"id": "a", "bn": "প্রশমন বিক্রিয়া", "en": "Neutralisation reaction"},
+              {"id": "b", "bn": "বিয়োজন বিক্রিয়া", "en": "Decomposition reaction"},
+              {"id": "c", "bn": "সংযোজন বিক্রিয়া", "en": "Combination reaction"},
+              {"id": "d", "bn": "প্রতিস্থাপন বিক্রিয়া", "en": "Displacement reaction"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যাসিড + ক্ষারক → লবণ + পানি; যেমন HCl + NaOH → NaCl + H₂O। এটি একটি প্রশমন বিক্রিয়া, যা দ্বি-প্রতিস্থাপনের একটি বিশেষ রূপ।",
+            "explanation_en": "Acid + base → salt + water; e.g., HCl + NaOH → NaCl + H₂O. This is a neutralisation reaction, a special case of double displacement.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq) বিক্রিয়াটি কোন প্রকার?",
+            "question_en": "BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq) is which type of reaction?",
+            "options": [
+              {"id": "a", "bn": "দ্বি-প্রতিস্থাপন (অধঃক্ষেপণ) বিক্রিয়া", "en": "Double displacement (precipitation) reaction"},
+              {"id": "b", "bn": "একক প্রতিস্থাপন বিক্রিয়া", "en": "Single displacement reaction"},
+              {"id": "c", "bn": "বিয়োজন বিক্রিয়া", "en": "Decomposition reaction"},
+              {"id": "d", "bn": "দহন বিক্রিয়া", "en": "Combustion reaction"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "দুই যৌগের আয়ন পারস্পরিক বিনিময় করে নতুন যৌগ গঠন করে; এখানে অদ্রবণীয় BaSO₄ অধঃক্ষেপ পড়ে, তাই এটি দ্বি-প্রতিস্থাপন তথা অধঃক্ষেপণ বিক্রিয়া।",
+            "explanation_en": "Ions of two compounds exchange to form new compounds; insoluble BaSO₄ precipitates out, making it a double displacement (precipitation) reaction.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "জারণ-বিজারণ",
+        "title_en": "Oxidation and Reduction",
+        "mcqs": [
+          {
+            "question_bn": "ইলেকট্রনীয় ধারণা অনুযায়ী জারণ হলো—",
+            "question_en": "According to the electronic concept, oxidation is—",
+            "options": [
+              {"id": "a", "bn": "ইলেকট্রন ত্যাগ", "en": "Loss of electrons"},
+              {"id": "b", "bn": "ইলেকট্রন গ্রহণ", "en": "Gain of electrons"},
+              {"id": "c", "bn": "প্রোটন গ্রহণ", "en": "Gain of protons"},
+              {"id": "d", "bn": "নিউট্রন ত্যাগ", "en": "Loss of neutrons"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "জারণ মানে ইলেকট্রন হারানো এবং জারণ সংখ্যা বৃদ্ধি; বিজারণ মানে ইলেকট্রন গ্রহণ। মনে রাখার সহজ উপায়: OIL RIG (Oxidation Is Loss)।",
+            "explanation_en": "Oxidation means loss of electrons and an increase in oxidation number; reduction means gain of electrons. Mnemonic: OIL RIG (Oxidation Is Loss).",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "2Mg + O₂ → 2MgO বিক্রিয়ায় ম্যাগনেসিয়ামের কী ঘটে?",
+            "question_en": "In 2Mg + O₂ → 2MgO, what happens to magnesium?",
+            "options": [
+              {"id": "a", "bn": "জারিত হয়", "en": "It is oxidised"},
+              {"id": "b", "bn": "বিজারিত হয়", "en": "It is reduced"},
+              {"id": "c", "bn": "অপরিবর্তিত থাকে", "en": "It remains unchanged"},
+              {"id": "d", "bn": "প্রোটন গ্রহণ করে", "en": "It gains protons"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "Mg ইলেকট্রন ত্যাগ করে Mg²⁺ হয় (জারণ সংখ্যা 0→+2), তাই এটি জারিত হয়; অক্সিজেন ইলেকট্রন গ্রহণ করে বিজারিত হয়।",
+            "explanation_en": "Mg loses electrons to become Mg²⁺ (oxidation number 0→+2), so it is oxidised; oxygen gains electrons and is reduced.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "জারক পদার্থ (oxidising agent) কী কাজ করে?",
+            "question_en": "What does an oxidising agent do?",
+            "options": [
+              {"id": "a", "bn": "নিজে বিজারিত হয়ে অন্যকে জারিত করে", "en": "Gets reduced itself while oxidising another"},
+              {"id": "b", "bn": "নিজে জারিত হয়ে অন্যকে বিজারিত করে", "en": "Gets oxidised itself while reducing another"},
+              {"id": "c", "bn": "কোনো ইলেকট্রন বিনিময় করে না", "en": "Does not exchange electrons"},
+              {"id": "d", "bn": "শুধু তাপ শোষণ করে", "en": "Only absorbs heat"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "জারক অন্য পদার্থ থেকে ইলেকট্রন গ্রহণ করে সেটিকে জারিত করে এবং নিজে বিজারিত হয়। যেমন O₂, Cl₂ শক্তিশালী জারক।",
+            "explanation_en": "An oxidising agent accepts electrons from another substance, oxidising it, while being reduced itself. E.g., O₂ and Cl₂ are strong oxidising agents.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "CuO + H₂ → Cu + H₂O বিক্রিয়ায় বিজারক পদার্থ কোনটি?",
+            "question_en": "In CuO + H₂ → Cu + H₂O, which is the reducing agent?",
+            "options": [
+              {"id": "a", "bn": "H₂", "en": "H₂"},
+              {"id": "b", "bn": "CuO", "en": "CuO"},
+              {"id": "c", "bn": "Cu", "en": "Cu"},
+              {"id": "d", "bn": "H₂O", "en": "H₂O"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "H₂ CuO থেকে অক্সিজেন সরিয়ে নিজে জারিত হয়ে H₂O হয় এবং CuO কে Cu তে বিজারিত করে, তাই H₂ হলো বিজারক।",
+            "explanation_en": "H₂ removes oxygen from CuO, being oxidised to H₂O itself, and reduces CuO to Cu; hence H₂ is the reducing agent.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "KMnO₄ তে ম্যাঙ্গানিজের জারণ সংখ্যা কত?",
+            "question_en": "What is the oxidation number of manganese in KMnO₄?",
+            "options": [
+              {"id": "a", "bn": "+7", "en": "+7"},
+              {"id": "b", "bn": "+2", "en": "+2"},
+              {"id": "c", "bn": "+4", "en": "+4"},
+              {"id": "d", "bn": "+6", "en": "+6"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "K = +1, O = −2 (×4 = −8)। যৌগ নিরপেক্ষ তাই +1 + Mn + (−8) = 0 ⟹ Mn = +7। এ কারণে KMnO₄ একটি শক্তিশালী জারক।",
+            "explanation_en": "K = +1, O = −2 (×4 = −8). The compound is neutral, so +1 + Mn + (−8) = 0 ⟹ Mn = +7. This makes KMnO₄ a strong oxidising agent.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "তাপোৎপাদী ও তাপহারী বিক্রিয়া",
+        "title_en": "Exothermic and Endothermic Reactions",
+        "mcqs": [
+          {
+            "question_bn": "তাপোৎপাদী বিক্রিয়ায় কী ঘটে?",
+            "question_en": "What happens in an exothermic reaction?",
+            "options": [
+              {"id": "a", "bn": "পরিবেশে তাপ নির্গত হয়", "en": "Heat is released to the surroundings"},
+              {"id": "b", "bn": "পরিবেশ থেকে তাপ শোষিত হয়", "en": "Heat is absorbed from the surroundings"},
+              {"id": "c", "bn": "কোনো তাপ পরিবর্তন হয় না", "en": "No heat change occurs"},
+              {"id": "d", "bn": "শুধু আলো শোষিত হয়", "en": "Only light is absorbed"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তাপোৎপাদী বিক্রিয়ায় বিক্রিয়কের তুলনায় উৎপাদের শক্তি কম হয়, অতিরিক্ত শক্তি তাপ হিসেবে পরিবেশে নির্গত হয় এবং ΔH ঋণাত্মক।",
+            "explanation_en": "In an exothermic reaction the products have less energy than the reactants; the excess is released as heat and ΔH is negative.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোনটি তাপহারী বিক্রিয়া?",
+            "question_en": "Which of the following is an endothermic reaction?",
+            "options": [
+              {"id": "a", "bn": "সালোকসংশ্লেষণ", "en": "Photosynthesis"},
+              {"id": "b", "bn": "কাঠ পোড়ানো", "en": "Burning of wood"},
+              {"id": "c", "bn": "শ্বসন", "en": "Respiration"},
+              {"id": "d", "bn": "চুনে পানি যোগ", "en": "Adding water to quicklime"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সালোকসংশ্লেষণে উদ্ভিদ সূর্যালোক থেকে শক্তি শোষণ করে, তাই এটি তাপহারী। দহন, শ্বসন ও চুনে পানি যোগ তাপোৎপাদী।",
+            "explanation_en": "In photosynthesis plants absorb energy from sunlight, so it is endothermic. Combustion, respiration and slaking of lime are exothermic.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "একটি বিক্রিয়ায় ΔH = +58 kJ/mol হলে বিক্রিয়াটি সম্পর্কে কী বলা যায়?",
+            "question_en": "If a reaction has ΔH = +58 kJ/mol, what can be said about it?",
+            "options": [
+              {"id": "a", "bn": "এটি তাপহারী, তাপ শোষণ করে", "en": "It is endothermic, absorbing heat"},
+              {"id": "b", "bn": "এটি তাপোৎপাদী, তাপ ছাড়ে", "en": "It is exothermic, releasing heat"},
+              {"id": "c", "bn": "এতে কোনো তাপ পরিবর্তন নেই", "en": "There is no heat change"},
+              {"id": "d", "bn": "এটি ভৌত পরিবর্তন", "en": "It is a physical change"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ΔH ধনাত্মক মানে উৎপাদের শক্তি বিক্রিয়কের চেয়ে বেশি, অর্থাৎ সিস্টেম পরিবেশ থেকে তাপ শোষণ করেছে—তাই বিক্রিয়াটি তাপহারী।",
+            "explanation_en": "A positive ΔH means products have more energy than reactants, i.e., the system absorbed heat from the surroundings—so the reaction is endothermic.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "শক্তি চিত্রে (energy profile) তাপোৎপাদী বিক্রিয়ায় উৎপাদের শক্তিস্তর কেমন হয়?",
+            "question_en": "On an energy profile, how is the energy level of products in an exothermic reaction?",
+            "options": [
+              {"id": "a", "bn": "বিক্রিয়ক অপেক্ষা নিচে", "en": "Lower than the reactants"},
+              {"id": "b", "bn": "বিক্রিয়ক অপেক্ষা উপরে", "en": "Higher than the reactants"},
+              {"id": "c", "bn": "বিক্রিয়কের সমান", "en": "Same as the reactants"},
+              {"id": "d", "bn": "শূন্য", "en": "Zero"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তাপোৎপাদী বিক্রিয়ায় শক্তি নির্গত হয় বলে উৎপাদের শক্তিস্তর বিক্রিয়কের চেয়ে নিচে থাকে, ফলে ΔH ঋণাত্মক।",
+            "explanation_en": "Because energy is released, the products lie at a lower energy level than the reactants in an exothermic reaction, giving a negative ΔH.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি বিক্রিয়ায় বিক্রিয়কের মোট বন্ধন শক্তি 800 kJ এবং উৎপাদের মোট বন্ধন শক্তি 950 kJ। বিক্রিয়াটি কী ধরনের?",
+            "question_en": "In a reaction, total bond energy of reactants is 800 kJ and that of products is 950 kJ. What type of reaction is it?",
+            "options": [
+              {"id": "a", "bn": "তাপোৎপাদী (ΔH = −150 kJ)", "en": "Exothermic (ΔH = −150 kJ)"},
+              {"id": "b", "bn": "তাপহারী (ΔH = +150 kJ)", "en": "Endothermic (ΔH = +150 kJ)"},
+              {"id": "c", "bn": "তাপ পরিবর্তন শূন্য", "en": "No heat change"},
+              {"id": "d", "bn": "নির্ণয় করা যায় না", "en": "Cannot be determined"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ΔH = বিক্রিয়ক ভাঙতে শোষিত শক্তি − উৎপাদ গঠনে নির্গত শক্তি = 800 − 950 = −150 kJ। ঋণাত্মক ΔH মানে তাপোৎপাদী বিক্রিয়া।",
+            "explanation_en": "ΔH = energy absorbed to break reactant bonds − energy released forming product bonds = 800 − 950 = −150 kJ. A negative ΔH means the reaction is exothermic.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "বিক্রিয়ার হার ও প্রভাবক",
+        "title_en": "Rate of Reaction and Catalysts",
+        "mcqs": [
+          {
+            "question_bn": "প্রভাবক (catalyst) কী কাজ করে?",
+            "question_en": "What does a catalyst do?",
+            "options": [
+              {"id": "a", "bn": "নিজে অপরিবর্তিত থেকে বিক্রিয়ার হার বাড়ায়", "en": "Increases the rate of reaction while remaining unchanged itself"},
+              {"id": "b", "bn": "বিক্রিয়ায় স্থায়ীভাবে খরচ হয়ে যায়", "en": "Is permanently consumed in the reaction"},
+              {"id": "c", "bn": "উৎপাদের পরিমাণ বাড়ায়", "en": "Increases the amount of product formed"},
+              {"id": "d", "bn": "বিক্রিয়াকে সবসময় থামিয়ে দেয়", "en": "Always stops the reaction"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রভাবক সক্রিয়ন শক্তি কমিয়ে বিক্রিয়ার হার পরিবর্তন করে কিন্তু নিজে রাসায়নিকভাবে অপরিবর্তিত থাকে ও শেষে পুনরুদ্ধার করা যায়।",
+            "explanation_en": "A catalyst changes the rate by lowering the activation energy but remains chemically unchanged and can be recovered at the end.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোনটি সাধারণত বিক্রিয়ার হার বাড়ায়?",
+            "question_en": "Which of the following generally increases the rate of a reaction?",
+            "options": [
+              {"id": "a", "bn": "তাপমাত্রা বৃদ্ধি", "en": "Increasing the temperature"},
+              {"id": "b", "bn": "বিক্রিয়কের ঘনত্ব হ্রাস", "en": "Decreasing reactant concentration"},
+              {"id": "c", "bn": "কঠিন পদার্থের টুকরো বড় করা", "en": "Using larger lumps of a solid"},
+              {"id": "d", "bn": "চাপ কমানো (গ্যাসের ক্ষেত্রে)", "en": "Reducing pressure (for gases)"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তাপমাত্রা বাড়ালে অণুর গতিশক্তি ও কার্যকর সংঘর্ষের হার বাড়ে, তাই বিক্রিয়ার হার বৃদ্ধি পায়। বাকি অপশনগুলো হার কমায়।",
+            "explanation_en": "Raising temperature increases the kinetic energy of molecules and the frequency of effective collisions, so the rate increases. The other options lower the rate.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "একই ভরের মার্বেল চিপসের বদলে মার্বেল গুঁড়ো ব্যবহার করলে অ্যাসিডের সাথে বিক্রিয়ার হার বাড়ে কেন?",
+            "question_en": "Why does powdered marble react faster with acid than the same mass of marble chips?",
+            "options": [
+              {"id": "a", "bn": "গুঁড়োর পৃষ্ঠতলের ক্ষেত্রফল বেশি", "en": "The powder has a larger surface area"},
+              {"id": "b", "bn": "গুঁড়ো ভিন্ন পদার্থ", "en": "The powder is a different substance"},
+              {"id": "c", "bn": "গুঁড়োতে বেশি অ্যাসিড থাকে", "en": "The powder contains more acid"},
+              {"id": "d", "bn": "গুঁড়ো তাপ শোষণ করে", "en": "The powder absorbs heat"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "গুঁড়ো করলে একই ভরের জন্য পৃষ্ঠতলের ক্ষেত্রফল বেড়ে যায়, ফলে অ্যাসিডের সাথে সংঘর্ষের সুযোগ বাড়ে এবং বিক্রিয়ার হার বৃদ্ধি পায়।",
+            "explanation_en": "Powdering increases the surface area for the same mass, so more particles are exposed to acid, raising the collision frequency and rate.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সংঘর্ষ তত্ত্ব অনুযায়ী বিক্রিয়া ঘটার জন্য অণুগুলোর সংঘর্ষে কোন শর্ত প্রয়োজন?",
+            "question_en": "According to collision theory, what condition must colliding molecules satisfy for a reaction to occur?",
+            "options": [
+              {"id": "a", "bn": "যথেষ্ট শক্তি (সক্রিয়ন শক্তি) ও সঠিক দিকে সংঘর্ষ", "en": "Sufficient energy (activation energy) and correct orientation"},
+              {"id": "b", "bn": "শুধু হালকা স্পর্শ যথেষ্ট", "en": "Only a gentle touch is enough"},
+              {"id": "c", "bn": "সংঘর্ষ ছাড়াই বিক্রিয়া হয়", "en": "Reaction occurs without any collision"},
+              {"id": "d", "bn": "অণুগুলোকে স্থির থাকতে হবে", "en": "The molecules must be stationary"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সংঘর্ষ তত্ত্ব অনুযায়ী কার্যকর সংঘর্ষের জন্য অণুগুলোর কমপক্ষে সক্রিয়ন শক্তির সমান শক্তি এবং সঠিক দিক-বিন্যাস থাকতে হয়।",
+            "explanation_en": "By collision theory, an effective collision requires the molecules to have at least the activation energy and to be correctly oriented.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি প্রভাবক সক্রিয়ন শক্তি কমায়—এর ফলে বিক্রিয়ার তাপ পরিবর্তন (ΔH) এর কী হয়?",
+            "question_en": "A catalyst lowers the activation energy—what happens to the enthalpy change (ΔH) of the reaction?",
+            "options": [
+              {"id": "a", "bn": "ΔH অপরিবর্তিত থাকে", "en": "ΔH remains unchanged"},
+              {"id": "b", "bn": "ΔH বৃদ্ধি পায়", "en": "ΔH increases"},
+              {"id": "c", "bn": "ΔH ঋণাত্মক থেকে ধনাত্মক হয়", "en": "ΔH changes from negative to positive"},
+              {"id": "d", "bn": "ΔH শূন্য হয়ে যায়", "en": "ΔH becomes zero"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রভাবক কেবল বিকল্প কম-শক্তির পথ দিয়ে সক্রিয়ন শক্তি কমায়; বিক্রিয়ক ও উৎপাদের শক্তিস্তর অপরিবর্তিত থাকে, তাই ΔH একই থাকে।",
+            "explanation_en": "A catalyst only provides an alternative lower-energy path, reducing activation energy; the energy levels of reactants and products are unchanged, so ΔH stays the same.",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "একজন শিক্ষার্থী পরীক্ষাগারে জিংক ধাতুর টুকরায় লঘু হাইড্রোক্লোরিক অ্যাসিড যোগ করে এবং বুদবুদসহ একটি গ্যাস নির্গত হতে দেখে। বিক্রিয়া: Zn + 2HCl → ZnCl₂ + H₂। পরে সে জিংককে গুঁড়ো করে একই পরীক্ষা করে।",
+        "stimulus_en": "A student adds dilute hydrochloric acid to a piece of zinc metal and observes a gas evolving with bubbles. Reaction: Zn + 2HCl → ZnCl₂ + H₂. Later the student repeats the experiment using powdered zinc.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "প্রতিস্থাপন বিক্রিয়া কাকে বলে?",
+            "question_en": "What is a displacement reaction?",
+            "model_answer_bn": "যে বিক্রিয়ায় অধিক সক্রিয় একটি মৌল কোনো যৌগ থেকে কম সক্রিয় মৌলকে সরিয়ে তার স্থান দখল করে, তাকে প্রতিস্থাপন বিক্রিয়া বলে।",
+            "model_answer_en": "A reaction in which a more reactive element displaces a less reactive element from its compound and takes its place is called a displacement reaction."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "নির্গত গ্যাসটি কী এবং কীভাবে তা শনাক্ত করবে ব্যাখ্যা করো।",
+            "question_en": "What is the evolved gas and how would you identify it? Explain.",
+            "model_answer_bn": "নির্গত গ্যাসটি হাইড্রোজেন (H₂)। জ্বলন্ত কাঠি গ্যাসের মুখে ধরলে এটি 'পপ' শব্দ করে জ্বলে ওঠে, যা হাইড্রোজেনের উপস্থিতি নিশ্চিত করে।",
+            "model_answer_en": "The evolved gas is hydrogen (H₂). When a lighted splint is brought near it, the gas burns with a squeaky 'pop' sound, confirming the presence of hydrogen."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "জিংক গুঁড়ো করে ব্যবহার করলে বিক্রিয়ার হারের কী পরিবর্তন হবে এবং কেন?",
+            "question_en": "How does the rate of reaction change when powdered zinc is used, and why?",
+            "model_answer_bn": "জিংক গুঁড়ো করলে একই ভরের জন্য পৃষ্ঠতলের ক্ষেত্রফল অনেক বেড়ে যায়। ফলে অ্যাসিডের সাথে সংস্পর্শে আসা কণার সংখ্যা ও কার্যকর সংঘর্ষের হার বৃদ্ধি পায়, তাই বিক্রিয়ার হার বেড়ে যায় এবং গ্যাস দ্রুত নির্গত হয়।",
+            "model_answer_en": "Powdering the zinc greatly increases the surface area for the same mass. More particles are exposed to the acid, so the frequency of effective collisions rises and the reaction rate increases, releasing the gas faster."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "কেবল তাপমাত্রা বাড়িয়ে বা প্রভাবক যোগ করে কি জিংক-অ্যাসিড বিক্রিয়ার উৎপাদের মোট পরিমাণ পরিবর্তন করা যায়? বিশ্লেষণ করে মতামত দাও।",
+            "question_en": "Can the total amount of product from the zinc-acid reaction be changed merely by raising the temperature or adding a catalyst? Analyse and give your opinion.",
+            "model_answer_bn": "না, উৎপাদের মোট পরিমাণ পরিবর্তন হবে না। তাপমাত্রা বৃদ্ধি ও প্রভাবক কেবল বিক্রিয়ার হার বাড়ায় অর্থাৎ বিক্রিয়া দ্রুত সম্পন্ন হয়, কিন্তু উৎপাদের পরিমাণ নির্ধারণ করে বিক্রিয়কের পরিমাণ (এখানে জিংক ও HCl)। যতক্ষণ জিংক ও অ্যাসিডের পরিমাণ একই থাকে, ততক্ষণ একই পরিমাণ H₂ ও ZnCl₂ উৎপন্ন হবে। তাই হার বাড়ানো গেলেও মোট ফলন সীমাবদ্ধ বিক্রিয়কের পরিমাণ দ্বারাই নিয়ন্ত্রিত।",
+            "model_answer_en": "No, the total amount of product will not change. Raising temperature or adding a catalyst only increases the rate, so the reaction finishes sooner, but the amount of product is fixed by the amounts of reactants (here zinc and HCl). As long as the amounts of zinc and acid are the same, the same amount of H₂ and ZnCl₂ is produced. Thus, although the rate can be increased, the total yield is controlled by the limiting reactant."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "একটি বিক্রিয়ায় কালো কপার(II) অক্সাইড (CuO) কে হাইড্রোজেন গ্যাসের প্রবাহে উত্তপ্ত করা হয় এবং লালচে বাদামি তামা পাওয়া যায়: CuO + H₂ → Cu + H₂O। বিক্রিয়াটি তাপোৎপাদী।",
+        "stimulus_en": "In a reaction, black copper(II) oxide (CuO) is heated in a stream of hydrogen gas and reddish-brown copper is obtained: CuO + H₂ → Cu + H₂O. The reaction is exothermic.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "জারণ সংখ্যার পরিবর্তনের দিক থেকে বিজারণ কাকে বলে?",
+            "question_en": "In terms of change in oxidation number, what is reduction?",
+            "model_answer_bn": "যে প্রক্রিয়ায় কোনো পরমাণু বা আয়নের জারণ সংখ্যা হ্রাস পায় (ইলেকট্রন গ্রহণ করে) তাকে বিজারণ বলে।",
+            "model_answer_en": "The process in which the oxidation number of an atom or ion decreases (by gaining electrons) is called reduction."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "উদ্দীপকের বিক্রিয়ায় জারক ও বিজারক পদার্থ শনাক্ত করো।",
+            "question_en": "Identify the oxidising and reducing agents in the given reaction.",
+            "model_answer_bn": "CuO হাইড্রোজেনকে জারিত করে (H₂ → H₂O) এবং নিজে বিজারিত হয়, তাই CuO জারক। H₂ CuO থেকে অক্সিজেন নিয়ে সেটিকে বিজারিত করে ও নিজে জারিত হয়, তাই H₂ বিজারক।",
+            "model_answer_en": "CuO oxidises hydrogen (H₂ → H₂O) and is itself reduced, so CuO is the oxidising agent. H₂ removes oxygen from CuO, reducing it, and is itself oxidised, so H₂ is the reducing agent."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "তামা ও হাইড্রোজেনের জারণ সংখ্যার পরিবর্তন দেখিয়ে ব্যাখ্যা করো কেন এটি একটি জারণ-বিজারণ বিক্রিয়া।",
+            "question_en": "Showing the change in oxidation numbers of copper and hydrogen, explain why this is a redox reaction.",
+            "model_answer_bn": "CuO তে Cu এর জারণ সংখ্যা +2, বিক্রিয়া শেষে ধাতব Cu তে তা 0—অর্থাৎ কমে গেছে, তাই Cu বিজারিত হয়েছে। H₂ তে H এর জারণ সংখ্যা 0, H₂O তে +1—অর্থাৎ বেড়েছে, তাই H জারিত হয়েছে। একই বিক্রিয়ায় জারণ ও বিজারণ একসাথে ঘটায় এটি একটি জারণ-বিজারণ (রিডক্স) বিক্রিয়া।",
+            "model_answer_en": "In CuO the oxidation number of Cu is +2, and in metallic Cu it becomes 0—a decrease, so Cu is reduced. In H₂ the oxidation number of H is 0, and in H₂O it is +1—an increase, so H is oxidised. Since oxidation and reduction occur together in the same reaction, it is a redox reaction."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "বিক্রিয়াটি তাপোৎপাদী হওয়া থেকে বন্ধন শক্তির দৃষ্টিকোণে কী সিদ্ধান্তে আসা যায়? শক্তি চিত্রসহ বিশ্লেষণ করো।",
+            "question_en": "Since the reaction is exothermic, what conclusion can be drawn from the viewpoint of bond energy? Analyse with an energy profile.",
+            "model_answer_bn": "বিক্রিয়াটি তাপোৎপাদী মানে ΔH ঋণাত্মক, অর্থাৎ উৎপাদের (Cu ও H₂O) মোট বন্ধন শক্তি বিক্রিয়কের (CuO ও H₂) মোট বন্ধন শক্তির চেয়ে বেশি। উৎপাদে নতুন বন্ধন (O–H) গঠনে যত শক্তি নির্গত হয় তা বিক্রিয়কের বন্ধন (Cu–O, H–H) ভাঙতে শোষিত শক্তির চেয়ে বেশি; এই অতিরিক্ত শক্তি তাপ হিসেবে বেরিয়ে আসে। শক্তি চিত্রে বিক্রিয়কের স্তর উঁচুতে, একটি সক্রিয়ন-শক্তির চূড়া পার হয়ে উৎপাদের স্তর নিচে থাকে; বিক্রিয়ক ও উৎপাদ স্তরের পার্থক্যই নির্গত তাপ (ΔH, ঋণাত্মক)।",
+            "model_answer_en": "An exothermic reaction means ΔH is negative, i.e., the total bond energy of the products (Cu and H₂O) is greater than that of the reactants (CuO and H₂). The energy released in forming new bonds (O–H) exceeds the energy absorbed in breaking the reactant bonds (Cu–O, H–H); this excess is given off as heat. On the energy profile the reactants start at a higher level, cross an activation-energy peak, and the products settle at a lower level; the gap between reactant and product levels is the heat released (ΔH, negative)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 8,
+    "title_bn": "রসায়ন ও শক্তি",
+    "title_en": "Chemistry and Energy",
+    "topics": [
+      {
+        "title_bn": "রাসায়নিক শক্তির উৎস",
+        "title_en": "Sources of Chemical Energy",
+        "mcqs": [
+          {
+            "question_bn": "রাসায়নিক শক্তি মূলত কোথায় সঞ্চিত থাকে?",
+            "question_en": "Where is chemical energy mainly stored?",
+            "options": [
+              {"id": "a", "bn": "অণুর রাসায়নিক বন্ধনে", "en": "In the chemical bonds of molecules"},
+              {"id": "b", "bn": "পরমাণুর নিউক্লিয়াসে", "en": "In the nucleus of atoms"},
+              {"id": "c", "bn": "ইলেকট্রনের ভরে", "en": "In the mass of electrons"},
+              {"id": "d", "bn": "পদার্থের রঙে", "en": "In the colour of substances"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রাসায়নিক শক্তি পরমাণুসমূহের মধ্যকার রাসায়নিক বন্ধনে সঞ্চিত থাকে; বন্ধন ভাঙা-গড়ার সময় এই শক্তি নির্গত বা শোষিত হয়।",
+            "explanation_en": "Chemical energy is stored in the chemical bonds between atoms; it is released or absorbed when bonds are broken and formed.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোনটি রাসায়নিক শক্তির প্রাকৃতিক উৎস?",
+            "question_en": "Which of the following is a natural source of chemical energy?",
+            "options": [
+              {"id": "a", "bn": "খাদ্য ও জীবাশ্ম জ্বালানি", "en": "Food and fossil fuels"},
+              {"id": "b", "bn": "সৌর প্যানেল", "en": "Solar panel"},
+              {"id": "c", "bn": "বায়ু টারবাইন", "en": "Wind turbine"},
+              {"id": "d", "bn": "জলবিদ্যুৎ বাঁধ", "en": "Hydroelectric dam"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "খাদ্য ও জীবাশ্ম জ্বালানিতে (কয়লা, তেল, গ্যাস) রাসায়নিক বন্ধনে শক্তি সঞ্চিত থাকে। সৌর, বায়ু ও জলবিদ্যুৎ যথাক্রমে আলো, বায়ু ও গতিশক্তি থেকে আসে।",
+            "explanation_en": "Food and fossil fuels (coal, oil, gas) store energy in chemical bonds. Solar, wind and hydro energy come from light, wind and mechanical energy respectively.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "খাদ্য থেকে দেহে শক্তি পাওয়া যায় কোন প্রক্রিয়ার মাধ্যমে?",
+            "question_en": "By which process does the body obtain energy from food?",
+            "options": [
+              {"id": "a", "bn": "শ্বসন", "en": "Respiration"},
+              {"id": "b", "bn": "সালোকসংশ্লেষণ", "en": "Photosynthesis"},
+              {"id": "c", "bn": "বাষ্পীভবন", "en": "Evaporation"},
+              {"id": "d", "bn": "ঊর্ধ্বপাতন", "en": "Sublimation"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "শ্বসনে গ্লুকোজ অক্সিজেনের সাথে বিক্রিয়া করে CO₂, পানি ও শক্তি উৎপন্ন করে: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + শক্তি। এটি তাপোৎপাদী প্রক্রিয়া।",
+            "explanation_en": "In respiration glucose reacts with oxygen to give CO₂, water and energy: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy. It is an exothermic process.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সালোকসংশ্লেষণে কোন শক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়?",
+            "question_en": "In photosynthesis, which form of energy is converted into chemical energy?",
+            "options": [
+              {"id": "a", "bn": "আলোক শক্তি", "en": "Light energy"},
+              {"id": "b", "bn": "তাপ শক্তি", "en": "Heat energy"},
+              {"id": "c", "bn": "শব্দ শক্তি", "en": "Sound energy"},
+              {"id": "d", "bn": "চৌম্বক শক্তি", "en": "Magnetic energy"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সালোকসংশ্লেষণে উদ্ভিদ সূর্যের আলোক শক্তি শোষণ করে CO₂ ও পানি থেকে গ্লুকোজ তৈরি করে, ফলে আলোক শক্তি গ্লুকোজের রাসায়নিক শক্তিতে রূপান্তরিত হয়।",
+            "explanation_en": "In photosynthesis plants absorb light energy from the Sun to make glucose from CO₂ and water, converting light energy into the chemical energy of glucose.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "1 mol গ্লুকোজ (C₆H₁₂O₆) সম্পূর্ণ শ্বসনে প্রায় 2870 kJ শক্তি দেয়। এই শক্তি রূপান্তর সম্পর্কে সঠিক উক্তি কোনটি?",
+            "question_en": "Complete respiration of 1 mol of glucose (C₆H₁₂O₆) releases about 2870 kJ. Which statement about this energy conversion is correct?",
+            "options": [
+              {"id": "a", "bn": "গ্লুকোজের রাসায়নিক শক্তি তাপ ও অন্যান্য কাজে রূপান্তরিত হয়", "en": "Chemical energy of glucose is converted into heat and useful work"},
+              {"id": "b", "bn": "শক্তি সৃষ্টি হয় শূন্য থেকে", "en": "Energy is created from nothing"},
+              {"id": "c", "bn": "শক্তি সম্পূর্ণ বিলুপ্ত হয়", "en": "Energy is completely destroyed"},
+              {"id": "d", "bn": "শুধু আলোক শক্তি নির্গত হয়", "en": "Only light energy is released"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "শক্তির নিত্যতা অনুযায়ী শক্তি সৃষ্টি বা বিনাশ হয় না, শুধু রূপান্তরিত হয়। শ্বসনে গ্লুকোজের সঞ্চিত রাসায়নিক শক্তি তাপ ও দেহের কাজের শক্তিতে রূপান্তরিত হয়।",
+            "explanation_en": "By conservation of energy, energy is neither created nor destroyed, only transformed. In respiration the stored chemical energy of glucose is converted into heat and energy for bodily work.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "তাপোৎপাদী ও তাপহারী পরিবর্তন",
+        "title_en": "Exothermic and Endothermic Changes",
+        "mcqs": [
+          {
+            "question_bn": "তাপহারী পরিবর্তনে পারিপার্শ্বিক অবস্থার তাপমাত্রার কী হয়?",
+            "question_en": "In an endothermic change, what happens to the temperature of the surroundings?",
+            "options": [
+              {"id": "a", "bn": "হ্রাস পায়", "en": "It decreases"},
+              {"id": "b", "bn": "বৃদ্ধি পায়", "en": "It increases"},
+              {"id": "c", "bn": "অপরিবর্তিত থাকে", "en": "It stays the same"},
+              {"id": "d", "bn": "শূন্য হয়ে যায়", "en": "It becomes zero"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তাপহারী পরিবর্তনে সিস্টেম পরিবেশ থেকে তাপ শোষণ করে, ফলে পারিপার্শ্বিক তাপমাত্রা হ্রাস পায় এবং পাত্র ঠান্ডা অনুভূত হয়।",
+            "explanation_en": "In an endothermic change the system absorbs heat from the surroundings, so the surrounding temperature falls and the container feels cold.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "চুন (CaO) এ পানি যোগ করলে পাত্র গরম হয়। এটি কোন ধরনের পরিবর্তন?",
+            "question_en": "Adding water to quicklime (CaO) makes the container hot. What type of change is this?",
+            "options": [
+              {"id": "a", "bn": "তাপোৎপাদী", "en": "Exothermic"},
+              {"id": "b", "bn": "তাপহারী", "en": "Endothermic"},
+              {"id": "c", "bn": "নিরপেক্ষ", "en": "Neutral"},
+              {"id": "d", "bn": "ভৌত পরিবর্তন নয়, শুধু গলন", "en": "Only melting, not a change"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "CaO + H₂O → Ca(OH)₂ বিক্রিয়ায় প্রচুর তাপ নির্গত হয় বলে পাত্র গরম হয়; তাই এটি একটি তাপোৎপাদী পরিবর্তন।",
+            "explanation_en": "The reaction CaO + H₂O → Ca(OH)₂ releases a lot of heat, making the container hot; hence it is an exothermic change.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "পানিতে অ্যামোনিয়াম নাইট্রেট দ্রবীভূত করলে দ্রবণ ঠান্ডা হয়। এই ধর্মটি ব্যবহার করে তৈরি হয়—",
+            "question_en": "Dissolving ammonium nitrate in water makes the solution cold. This property is used to make—",
+            "options": [
+              {"id": "a", "bn": "তাৎক্ষণিক শীতল প্যাক (cold pack)", "en": "Instant cold packs"},
+              {"id": "b", "bn": "হিটার", "en": "A heater"},
+              {"id": "c", "bn": "মোমবাতি", "en": "A candle"},
+              {"id": "d", "bn": "সৌর কোষ", "en": "A solar cell"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যামোনিয়াম নাইট্রেটের দ্রবীভবন তাপহারী, পরিবেশ থেকে তাপ শোষণ করে ঠান্ডা করে। এই ধর্ম কাজে লাগিয়ে খেলাধুলায় আঘাতে ব্যবহৃত তাৎক্ষণিক শীতল প্যাক তৈরি হয়।",
+            "explanation_en": "Dissolving ammonium nitrate is endothermic, absorbing heat from the surroundings and cooling them. This property is used to make instant cold packs for sports injuries.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি পরিবর্তনের ΔH ঋণাত্মক হলে শক্তি চিত্রে কী দেখা যাবে?",
+            "question_en": "If a change has a negative ΔH, what will the energy profile show?",
+            "options": [
+              {"id": "a", "bn": "উৎপাদ বিক্রিয়ক অপেক্ষা নিম্ন শক্তিস্তরে", "en": "Products at a lower energy level than reactants"},
+              {"id": "b", "bn": "উৎপাদ বিক্রিয়ক অপেক্ষা উচ্চ শক্তিস্তরে", "en": "Products at a higher energy level than reactants"},
+              {"id": "c", "bn": "বিক্রিয়ক ও উৎপাদ একই স্তরে", "en": "Reactants and products at the same level"},
+              {"id": "d", "bn": "কোনো সক্রিয়ন শক্তি নেই", "en": "No activation energy at all"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ঋণাত্মক ΔH মানে তাপোৎপাদী পরিবর্তন—শক্তি নির্গত হয় বলে উৎপাদ বিক্রিয়ক অপেক্ষা নিম্ন শক্তিস্তরে অবস্থান করে।",
+            "explanation_en": "A negative ΔH means an exothermic change—energy is released, so the products lie at a lower energy level than the reactants.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি দ্রবীভবনে দ্রব্যের জালি শক্তি (lattice energy) 780 kJ/mol এবং হাইড্রেশন শক্তি 800 kJ/mol নির্গত হয়। দ্রবীভবন প্রক্রিয়াটি কেমন?",
+            "question_en": "In a dissolution, the lattice energy of the solid is 780 kJ/mol and the hydration energy released is 800 kJ/mol. What is the nature of the dissolution?",
+            "options": [
+              {"id": "a", "bn": "সামান্য তাপোৎপাদী (নিট −20 kJ/mol)", "en": "Slightly exothermic (net −20 kJ/mol)"},
+              {"id": "b", "bn": "তাপহারী (নিট +20 kJ/mol)", "en": "Endothermic (net +20 kJ/mol)"},
+              {"id": "c", "bn": "কোনো তাপ পরিবর্তন নেই", "en": "No heat change"},
+              {"id": "d", "bn": "নির্ণয় করা অসম্ভব", "en": "Impossible to determine"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "জালি ভাঙতে শোষণ +780 kJ, হাইড্রেশনে নির্গত −800 kJ; নিট = +780 − 800 = −20 kJ/mol, অর্থাৎ সামান্য পরিমাণ তাপ নির্গত হয়—দ্রবীভবনটি সামান্য তাপোৎপাদী।",
+            "explanation_en": "Breaking the lattice absorbs +780 kJ, hydration releases −800 kJ; net = +780 − 800 = −20 kJ/mol, so a small amount of heat is released—the dissolution is slightly exothermic.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "বন্ধন শক্তি",
+        "title_en": "Bond Energy",
+        "mcqs": [
+          {
+            "question_bn": "বন্ধন শক্তি বলতে কী বোঝায়?",
+            "question_en": "What is meant by bond energy?",
+            "options": [
+              {"id": "a", "bn": "1 mol বন্ধন ভাঙতে প্রয়োজনীয় শক্তি", "en": "The energy required to break 1 mol of bonds"},
+              {"id": "b", "bn": "পরমাণুর ভর", "en": "The mass of an atom"},
+              {"id": "c", "bn": "ইলেকট্রনের সংখ্যা", "en": "The number of electrons"},
+              {"id": "d", "bn": "অণুর আয়তন", "en": "The volume of a molecule"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "বন্ধন শক্তি হলো গ্যাসীয় অবস্থায় 1 mol নির্দিষ্ট বন্ধন ভাঙতে প্রয়োজনীয় শক্তির পরিমাণ; এটি বন্ধনের দৃঢ়তার পরিমাপ।",
+            "explanation_en": "Bond energy is the amount of energy needed to break 1 mol of a particular bond in the gaseous state; it is a measure of bond strength.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "বন্ধন ভাঙা ও বন্ধন গঠন যথাক্রমে কোন ধরনের প্রক্রিয়া?",
+            "question_en": "Bond breaking and bond forming are respectively which types of processes?",
+            "options": [
+              {"id": "a", "bn": "তাপহারী ও তাপোৎপাদী", "en": "Endothermic and exothermic"},
+              {"id": "b", "bn": "তাপোৎপাদী ও তাপহারী", "en": "Exothermic and endothermic"},
+              {"id": "c", "bn": "উভয়ই তাপোৎপাদী", "en": "Both exothermic"},
+              {"id": "d", "bn": "উভয়ই তাপহারী", "en": "Both endothermic"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "বন্ধন ভাঙতে শক্তি লাগে (তাপহারী) এবং বন্ধন গঠনে শক্তি নির্গত হয় (তাপোৎপাদী)। এই দুইয়ের পার্থক্যই বিক্রিয়ার ΔH নির্ধারণ করে।",
+            "explanation_en": "Breaking bonds requires energy (endothermic) and forming bonds releases energy (exothermic). The difference between the two determines the ΔH of a reaction.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ΔH নির্ণয়ের সূত্র কোনটি সঠিক?",
+            "question_en": "Which formula for calculating ΔH is correct?",
+            "options": [
+              {"id": "a", "bn": "ΔH = (বিক্রিয়কের বন্ধন শক্তির যোগফল) − (উৎপাদের বন্ধন শক্তির যোগফল)", "en": "ΔH = (sum of bond energies of reactants) − (sum of bond energies of products)"},
+              {"id": "b", "bn": "ΔH = (উৎপাদের বন্ধন শক্তি) − (বিক্রিয়কের বন্ধন শক্তি)", "en": "ΔH = (bond energies of products) − (bond energies of reactants)"},
+              {"id": "c", "bn": "ΔH = বিক্রিয়ক × উৎপাদ", "en": "ΔH = reactants × products"},
+              {"id": "d", "bn": "ΔH = বিক্রিয়ক + উৎপাদ", "en": "ΔH = reactants + products"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ΔH = (বিক্রিয়কের বন্ধন ভাঙতে শোষিত মোট শক্তি) − (উৎপাদের বন্ধন গঠনে নির্গত মোট শক্তি)। ফল ঋণাত্মক হলে তাপোৎপাদী, ধনাত্মক হলে তাপহারী।",
+            "explanation_en": "ΔH = (total energy absorbed to break reactant bonds) − (total energy released forming product bonds). A negative result is exothermic, a positive one endothermic.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সাধারণভাবে ত্রি-বন্ধন (triple bond), দ্বি-বন্ধন ও একক বন্ধনের বন্ধন শক্তির ক্রম কেমন?",
+            "question_en": "In general, how do the bond energies of triple, double and single bonds compare?",
+            "options": [
+              {"id": "a", "bn": "ত্রি-বন্ধন > দ্বি-বন্ধন > একক বন্ধন", "en": "Triple > double > single"},
+              {"id": "b", "bn": "একক বন্ধন > দ্বি-বন্ধন > ত্রি-বন্ধন", "en": "Single > double > triple"},
+              {"id": "c", "bn": "সবগুলো সমান", "en": "All equal"},
+              {"id": "d", "bn": "দ্বি-বন্ধন > ত্রি-বন্ধন > একক বন্ধন", "en": "Double > triple > single"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "একই দুই পরমাণুর মধ্যে বন্ধন সংখ্যা বাড়লে বন্ধন দৃঢ়তর ও ছোট হয়, তাই বন্ধন শক্তি বাড়ে: ত্রি-বন্ধন > দ্বি-বন্ধন > একক বন্ধন (যেমন N≡N > O=O > H–H এর প্রকৃতির নিরিখে)।",
+            "explanation_en": "Between the same two atoms, more bonds make the bond stronger and shorter, so bond energy increases: triple > double > single (e.g., N≡N is very strong).",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "H₂ + Cl₂ → 2HCl বিক্রিয়ায় বন্ধন শক্তি: H–H = 436, Cl–Cl = 242, H–Cl = 431 kJ/mol। বিক্রিয়ার ΔH কত?",
+            "question_en": "For H₂ + Cl₂ → 2HCl, bond energies: H–H = 436, Cl–Cl = 242, H–Cl = 431 kJ/mol. What is ΔH?",
+            "options": [
+              {"id": "a", "bn": "−184 kJ/mol", "en": "−184 kJ/mol"},
+              {"id": "b", "bn": "+184 kJ/mol", "en": "+184 kJ/mol"},
+              {"id": "c", "bn": "−678 kJ/mol", "en": "−678 kJ/mol"},
+              {"id": "d", "bn": "+862 kJ/mol", "en": "+862 kJ/mol"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "বিক্রিয়ক ভাঙতে = 436 + 242 = 678 kJ শোষণ; উৎপাদ গঠনে = 2 × 431 = 862 kJ নির্গত। ΔH = 678 − 862 = −184 kJ/mol, অর্থাৎ তাপোৎপাদী।",
+            "explanation_en": "Breaking reactants = 436 + 242 = 678 kJ absorbed; forming products = 2 × 431 = 862 kJ released. ΔH = 678 − 862 = −184 kJ/mol, i.e., exothermic.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "রাসায়নিক থেকে বৈদ্যুতিক শক্তি",
+        "title_en": "Chemical to Electrical Energy",
+        "mcqs": [
+          {
+            "question_bn": "যে কোষে রাসায়নিক শক্তি বৈদ্যুতিক শক্তিতে রূপান্তরিত হয় তাকে কী বলে?",
+            "question_en": "A cell in which chemical energy is converted into electrical energy is called what?",
+            "options": [
+              {"id": "a", "bn": "গ্যালভানিক (তড়িৎ রাসায়নিক) কোষ", "en": "Galvanic (electrochemical) cell"},
+              {"id": "b", "bn": "তড়িৎ বিশ্লেষণ কোষ", "en": "Electrolytic cell"},
+              {"id": "c", "bn": "সৌর কোষ", "en": "Solar cell"},
+              {"id": "d", "bn": "জ্বালানি নয়, শুধু তার", "en": "Just a wire"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "গ্যালভানিক বা ভোল্টায়িক কোষে স্বতঃস্ফূর্ত জারণ-বিজারণ বিক্রিয়ার রাসায়নিক শক্তি বৈদ্যুতিক শক্তিতে রূপান্তরিত হয়। ব্যাটারি এর উদাহরণ।",
+            "explanation_en": "In a galvanic (voltaic) cell the chemical energy of a spontaneous redox reaction is converted into electrical energy. A battery is an example.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "গ্যালভানিক কোষে জারণ ঘটে কোন তড়িৎদ্বারে?",
+            "question_en": "In a galvanic cell, oxidation occurs at which electrode?",
+            "options": [
+              {"id": "a", "bn": "অ্যানোড", "en": "Anode"},
+              {"id": "b", "bn": "ক্যাথোড", "en": "Cathode"},
+              {"id": "c", "bn": "উভয় তড়িৎদ্বারে", "en": "Both electrodes"},
+              {"id": "d", "bn": "কোনোটিতেই নয়", "en": "Neither electrode"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "যেকোনো কোষে সংজ্ঞানুসারে অ্যানোডে জারণ এবং ক্যাথোডে বিজারণ ঘটে। গ্যালভানিক কোষে অ্যানোড ঋণাত্মক প্রান্ত।",
+            "explanation_en": "By definition oxidation occurs at the anode and reduction at the cathode in any cell. In a galvanic cell the anode is the negative terminal.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ড্যানিয়েল কোষে Zn ও Cu তড়িৎদ্বার ব্যবহৃত হয়। কোন ধাতুটি অ্যানোড হিসেবে কাজ করে?",
+            "question_en": "A Daniell cell uses Zn and Cu electrodes. Which metal acts as the anode?",
+            "options": [
+              {"id": "a", "bn": "জিংক (Zn)", "en": "Zinc (Zn)"},
+              {"id": "b", "bn": "তামা (Cu)", "en": "Copper (Cu)"},
+              {"id": "c", "bn": "উভয়ই সমানভাবে", "en": "Both equally"},
+              {"id": "d", "bn": "কোনোটিই নয়", "en": "Neither"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "জিংক তামার চেয়ে বেশি সক্রিয়, তাই এটি সহজে ইলেকট্রন ত্যাগ করে জারিত হয়: Zn → Zn²⁺ + 2e⁻। জারণ ঘটে বলে জিংকই অ্যানোড এবং তামা ক্যাথোড।",
+            "explanation_en": "Zinc is more reactive than copper, so it loses electrons and is oxidised: Zn → Zn²⁺ + 2e⁻. Since oxidation occurs there, zinc is the anode and copper the cathode.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "গ্যালভানিক কোষে লবণ-সেতু (salt bridge) এর প্রধান কাজ কী?",
+            "question_en": "What is the main function of the salt bridge in a galvanic cell?",
+            "options": [
+              {"id": "a", "bn": "বর্তনী পূর্ণ করা ও দ্রবণের বৈদ্যুতিক নিরপেক্ষতা রক্ষা করা", "en": "Completing the circuit and maintaining electrical neutrality of the solutions"},
+              {"id": "b", "bn": "তড়িৎদ্বার গরম করা", "en": "Heating the electrodes"},
+              {"id": "c", "bn": "কোষের রঙ পরিবর্তন করা", "en": "Changing the colour of the cell"},
+              {"id": "d", "bn": "বিক্রিয়া বন্ধ করা", "en": "Stopping the reaction"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "লবণ-সেতু আয়ন প্রবাহের মাধ্যমে অভ্যন্তরীণ বর্তনী পূর্ণ করে এবং দুই অর্ধকোষে আয়ন সরবরাহ করে দ্রবণের বৈদ্যুতিক নিরপেক্ষতা বজায় রাখে, ফলে তড়িৎ প্রবাহ চলমান থাকে।",
+            "explanation_en": "The salt bridge completes the internal circuit by allowing ion flow and supplies ions to both half-cells to keep the solutions electrically neutral, so the current keeps flowing.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "ড্যানিয়েল কোষে সামগ্রিক বিক্রিয়া Zn + Cu²⁺ → Zn²⁺ + Cu। কোষটি চালু থাকলে জিংক তড়িৎদ্বার ও তামার তড়িৎদ্বারের ভরের কী পরিবর্তন হয়?",
+            "question_en": "In a Daniell cell the overall reaction is Zn + Cu²⁺ → Zn²⁺ + Cu. As the cell operates, how do the masses of the zinc and copper electrodes change?",
+            "options": [
+              {"id": "a", "bn": "জিংকের ভর কমে, তামার ভর বাড়ে", "en": "Zinc electrode loses mass, copper electrode gains mass"},
+              {"id": "b", "bn": "জিংকের ভর বাড়ে, তামার ভর কমে", "en": "Zinc gains mass, copper loses mass"},
+              {"id": "c", "bn": "উভয়ের ভর বাড়ে", "en": "Both gain mass"},
+              {"id": "d", "bn": "কোনো পরিবর্তন হয় না", "en": "No change occurs"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যানোডে Zn জারিত হয়ে Zn²⁺ হিসেবে দ্রবণে যায়, তাই জিংক তড়িৎদ্বারের ভর কমে। ক্যাথোডে Cu²⁺ বিজারিত হয়ে Cu হিসেবে জমা হয়, তাই তামার তড়িৎদ্বারের ভর বাড়ে।",
+            "explanation_en": "At the anode Zn is oxidised and goes into solution as Zn²⁺, so the zinc electrode loses mass. At the cathode Cu²⁺ is reduced and deposits as Cu, so the copper electrode gains mass.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "তড়িৎ বিশ্লেষণ",
+        "title_en": "Electrolysis",
+        "mcqs": [
+          {
+            "question_bn": "তড়িৎ বিশ্লেষণে কোন শক্তি কোন শক্তিতে রূপান্তরিত হয়?",
+            "question_en": "In electrolysis, which form of energy is converted into which?",
+            "options": [
+              {"id": "a", "bn": "বৈদ্যুতিক শক্তি → রাসায়নিক শক্তি", "en": "Electrical energy → chemical energy"},
+              {"id": "b", "bn": "রাসায়নিক শক্তি → বৈদ্যুতিক শক্তি", "en": "Chemical energy → electrical energy"},
+              {"id": "c", "bn": "তাপ শক্তি → আলোক শক্তি", "en": "Heat energy → light energy"},
+              {"id": "d", "bn": "আলোক শক্তি → রাসায়নিক শক্তি", "en": "Light energy → chemical energy"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তড়িৎ বিশ্লেষণে বাহ্যিক উৎস থেকে সরবরাহকৃত বৈদ্যুতিক শক্তি একটি অস্বতঃস্ফূর্ত রাসায়নিক বিক্রিয়া ঘটায়, অর্থাৎ বৈদ্যুতিক শক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়।",
+            "explanation_en": "In electrolysis, electrical energy supplied by an external source drives a non-spontaneous chemical reaction, i.e., electrical energy is converted into chemical energy.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "তড়িৎ বিশ্লেষ্য পদার্থ (electrolyte) কী?",
+            "question_en": "What is an electrolyte?",
+            "options": [
+              {"id": "a", "bn": "গলিত বা দ্রবীভূত অবস্থায় বিদ্যুৎ পরিবাহী আয়নিক যৌগ", "en": "An ionic compound that conducts electricity when molten or dissolved"},
+              {"id": "b", "bn": "কঠিন অবস্থায় বিদ্যুৎ পরিবাহী ধাতু", "en": "A metal conducting electricity in solid state"},
+              {"id": "c", "bn": "কোনো অবস্থাতেই পরিবাহী নয় এমন পদার্থ", "en": "A substance that never conducts"},
+              {"id": "d", "bn": "একটি গ্যাসীয় মৌল", "en": "A gaseous element"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তড়িৎ বিশ্লেষ্য হলো এমন আয়নিক যৌগ যা গলিত বা জলীয় দ্রবণে মুক্ত আয়ন সৃষ্টি করে বিদ্যুৎ পরিবহন করে ও বিশ্লেষিত হয়, যেমন NaCl, CuSO₄।",
+            "explanation_en": "An electrolyte is an ionic compound that produces free ions when molten or in aqueous solution, conducting electricity and undergoing decomposition, e.g., NaCl, CuSO₄.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "গলিত সোডিয়াম ক্লোরাইড (NaCl) তড়িৎ বিশ্লেষণে ক্যাথোডে কী উৎপন্ন হয়?",
+            "question_en": "In the electrolysis of molten sodium chloride (NaCl), what is produced at the cathode?",
+            "options": [
+              {"id": "a", "bn": "সোডিয়াম ধাতু (Na)", "en": "Sodium metal (Na)"},
+              {"id": "b", "bn": "ক্লোরিন গ্যাস (Cl₂)", "en": "Chlorine gas (Cl₂)"},
+              {"id": "c", "bn": "হাইড্রোজেন গ্যাস (H₂)", "en": "Hydrogen gas (H₂)"},
+              {"id": "d", "bn": "অক্সিজেন গ্যাস (O₂)", "en": "Oxygen gas (O₂)"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ক্যাথোডে বিজারণ ঘটে: Na⁺ + e⁻ → Na, তাই সোডিয়াম ধাতু জমা হয়। অ্যানোডে ক্লোরিন গ্যাস (2Cl⁻ → Cl₂ + 2e⁻) উৎপন্ন হয়।",
+            "explanation_en": "Reduction occurs at the cathode: Na⁺ + e⁻ → Na, so sodium metal is deposited. Chlorine gas (2Cl⁻ → Cl₂ + 2e⁻) is produced at the anode.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "তড়িৎ বিশ্লেষণে ক্যাথোড ও অ্যানোডে যথাক্রমে কোন আয়ন আকৃষ্ট হয়?",
+            "question_en": "In electrolysis, which ions are attracted to the cathode and the anode respectively?",
+            "options": [
+              {"id": "a", "bn": "ধনাত্মক আয়ন (ক্যাটায়ন) ক্যাথোডে, ঋণাত্মক আয়ন (অ্যানায়ন) অ্যানোডে", "en": "Positive ions (cations) to the cathode, negative ions (anions) to the anode"},
+              {"id": "b", "bn": "ঋণাত্মক আয়ন ক্যাথোডে, ধনাত্মক আয়ন অ্যানোডে", "en": "Negative ions to the cathode, positive ions to the anode"},
+              {"id": "c", "bn": "উভয় আয়ন ক্যাথোডে", "en": "Both ions to the cathode"},
+              {"id": "d", "bn": "কোনো আয়ন চলাচল করে না", "en": "No ions move"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ক্যাথোড ঋণাত্মক তাই ধনাত্মক ক্যাটায়নকে আকর্ষণ করে (সেখানে বিজারণ), আর অ্যানোড ধনাত্মক তাই ঋণাত্মক অ্যানায়নকে আকর্ষণ করে (সেখানে জারণ)।",
+            "explanation_en": "The cathode is negative and attracts positive cations (reduction there), while the anode is positive and attracts negative anions (oxidation there).",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "কপার সালফেট দ্রবণের তড়িৎ বিশ্লেষণে বিশুদ্ধ কপার ক্যাথোড ও অবিশুদ্ধ কপার অ্যানোড ব্যবহার করা হয় (কপার পরিশোধন)। প্রক্রিয়াটির সঠিক বর্ণনা কোনটি?",
+            "question_en": "In the electrolysis of copper sulfate solution using a pure copper cathode and impure copper anode (copper refining), which describes the process correctly?",
+            "options": [
+              {"id": "a", "bn": "অ্যানোড থেকে Cu দ্রবীভূত হয়ে ক্যাথোডে বিশুদ্ধ Cu জমা হয়", "en": "Cu dissolves from the anode and pure Cu deposits on the cathode"},
+              {"id": "b", "bn": "ক্যাথোড থেকে Cu দ্রবীভূত হয়ে অ্যানোডে জমা হয়", "en": "Cu dissolves from the cathode and deposits on the anode"},
+              {"id": "c", "bn": "উভয় তড়িৎদ্বারে গ্যাস উৎপন্ন হয়", "en": "Gas is produced at both electrodes"},
+              {"id": "d", "bn": "কোনো পরিবর্তন হয় না", "en": "No change occurs"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যানোডে অবিশুদ্ধ Cu জারিত হয়ে Cu²⁺ রূপে দ্রবণে যায় (Cu → Cu²⁺ + 2e⁻) এবং ক্যাথোডে Cu²⁺ বিজারিত হয়ে বিশুদ্ধ কপার জমা হয় (Cu²⁺ + 2e⁻ → Cu); অপদ্রব্য অ্যানোড কাদা হিসেবে নিচে পড়ে।",
+            "explanation_en": "At the anode impure Cu is oxidised into the solution as Cu²⁺ (Cu → Cu²⁺ + 2e⁻), and at the cathode Cu²⁺ is reduced to deposit pure copper (Cu²⁺ + 2e⁻ → Cu); impurities settle as anode mud.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "কোষ, ব্যাটারি ও জ্বালানি",
+        "title_en": "Cells, Batteries and Fuels",
+        "mcqs": [
+          {
+            "question_bn": "ব্যাটারি বলতে সাধারণত কী বোঝায়?",
+            "question_en": "What is generally meant by a battery?",
+            "options": [
+              {"id": "a", "bn": "এক বা একাধিক তড়িৎ রাসায়নিক কোষের সমন্বয়", "en": "A combination of one or more electrochemical cells"},
+              {"id": "b", "bn": "একটি একক পরিবাহী তার", "en": "A single conducting wire"},
+              {"id": "c", "bn": "একটি চুম্বক", "en": "A magnet"},
+              {"id": "d", "bn": "একটি রোধক", "en": "A resistor"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ব্যাটারি হলো এক বা একাধিক তড়িৎ রাসায়নিক কোষের সমন্বয়, যা রাসায়নিক শক্তিকে বৈদ্যুতিক শক্তিতে রূপান্তর করে বিদ্যুৎ সরবরাহ করে।",
+            "explanation_en": "A battery is a combination of one or more electrochemical cells that supplies electricity by converting chemical energy into electrical energy.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোনটি একটি জীবাশ্ম জ্বালানি?",
+            "question_en": "Which of the following is a fossil fuel?",
+            "options": [
+              {"id": "a", "bn": "প্রাকৃতিক গ্যাস", "en": "Natural gas"},
+              {"id": "b", "bn": "হাইড্রোজেন গ্যাস (বিশুদ্ধ)", "en": "Pure hydrogen gas"},
+              {"id": "c", "bn": "সৌরশক্তি", "en": "Solar energy"},
+              {"id": "d", "bn": "বায়োগ্যাস", "en": "Biogas"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রাকৃতিক গ্যাস, কয়লা ও পেট্রোলিয়াম হলো জীবাশ্ম জ্বালানি, যা লক্ষ বছর আগে জীবদেহের অবশেষ থেকে তৈরি। বায়োগ্যাস ও হাইড্রোজেন জীবাশ্ম জ্বালানি নয়।",
+            "explanation_en": "Natural gas, coal and petroleum are fossil fuels, formed from remains of organisms millions of years ago. Biogas and hydrogen are not fossil fuels.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "রিচার্জেবল ব্যাটারি (যেমন লিড-অ্যাসিড) সম্পর্কে সঠিক উক্তি কোনটি?",
+            "question_en": "Which statement about rechargeable batteries (e.g., lead-acid) is correct?",
+            "options": [
+              {"id": "a", "bn": "চার্জ দেওয়ার সময় বিক্রিয়া উল্টো দিকে চলে (তড়িৎ বিশ্লেষণ)", "en": "During charging the reaction is reversed (electrolysis)"},
+              {"id": "b", "bn": "এগুলো কখনো পুনরায় চার্জ করা যায় না", "en": "They can never be recharged"},
+              {"id": "c", "bn": "এগুলো কোনো রাসায়নিক বিক্রিয়া ছাড়াই কাজ করে", "en": "They work without any chemical reaction"},
+              {"id": "d", "bn": "চার্জ ও ডিসচার্জ একই দিকে চলে", "en": "Charging and discharging occur in the same direction"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রিচার্জেবল ব্যাটারিতে ডিসচার্জের সময় স্বতঃস্ফূর্ত বিক্রিয়া বিদ্যুৎ দেয়; বাইরের উৎস দিয়ে চার্জ দিলে বিক্রিয়া উল্টো দিকে চলে (তড়িৎ বিশ্লেষণের মতো) এবং বিক্রিয়ক পুনর্গঠিত হয়।",
+            "explanation_en": "In a rechargeable battery the spontaneous reaction supplies current on discharge; charging from an external source reverses the reaction (like electrolysis) and regenerates the reactants.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "হাইড্রোজেন জ্বালানি কোষ (fuel cell) কে পরিবেশবান্ধব বলা হয় কেন?",
+            "question_en": "Why is a hydrogen fuel cell considered environmentally friendly?",
+            "options": [
+              {"id": "a", "bn": "এর প্রধান উৎপাদ পানি, কোনো দূষণকারী গ্যাস নয়", "en": "Its main product is water, not polluting gases"},
+              {"id": "b", "bn": "এটি প্রচুর CO₂ নির্গত করে", "en": "It emits a lot of CO₂"},
+              {"id": "c", "bn": "এটি সালফার ডাই-অক্সাইড দেয়", "en": "It gives off sulfur dioxide"},
+              {"id": "d", "bn": "এটি কোনো শক্তি দেয় না", "en": "It gives no energy"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "হাইড্রোজেন জ্বালানি কোষে H₂ ও O₂ বিক্রিয়া করে বিদ্যুৎ ও পানি (2H₂ + O₂ → 2H₂O) উৎপন্ন করে; কোনো CO₂ বা দূষণকারী গ্যাস নির্গত হয় না বলে এটি পরিবেশবান্ধব।",
+            "explanation_en": "In a hydrogen fuel cell H₂ and O₂ react to give electricity and water (2H₂ + O₂ → 2H₂O); no CO₂ or polluting gases are emitted, making it environmentally friendly.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "জ্বালানির তাপনমান (calorific value) বলতে কী বোঝায় এবং নিচের কোনটি এর একক?",
+            "question_en": "What is meant by the calorific value of a fuel and which of the following is its unit?",
+            "options": [
+              {"id": "a", "bn": "একক ভর জ্বালানি সম্পূর্ণ দহনে নির্গত তাপ; kJ/g বা kJ/kg", "en": "Heat released on complete combustion of unit mass of fuel; kJ/g or kJ/kg"},
+              {"id": "b", "bn": "জ্বালানির আয়তন; লিটার", "en": "Volume of fuel; litres"},
+              {"id": "c", "bn": "জ্বালানির রঙ; নেই কোনো একক", "en": "Colour of fuel; no unit"},
+              {"id": "d", "bn": "জ্বালানির দাম; টাকা", "en": "Price of fuel; taka"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তাপনমান হলো একক ভর (বা আয়তন) জ্বালানি অক্সিজেনে সম্পূর্ণ দহনে যে পরিমাণ তাপ নির্গত করে তার পরিমাপ; সাধারণ একক kJ/g বা kJ/kg। উচ্চ তাপনমানের জ্বালানি বেশি কার্যকর।",
+            "explanation_en": "Calorific value is the amount of heat released when unit mass (or volume) of a fuel is completely burned in oxygen; the usual unit is kJ/g or kJ/kg. A higher calorific value means a more efficient fuel.",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "একটি ড্যানিয়েল কোষে জিংক দণ্ড ZnSO₄ দ্রবণে এবং তামার দণ্ড CuSO₄ দ্রবণে নিমজ্জিত থাকে, দুটি অর্ধকোষ একটি লবণ-সেতু দিয়ে যুক্ত। সামগ্রিক বিক্রিয়া: Zn + Cu²⁺ → Zn²⁺ + Cu।",
+        "stimulus_en": "In a Daniell cell, a zinc rod is dipped in ZnSO₄ solution and a copper rod in CuSO₄ solution, the two half-cells joined by a salt bridge. Overall reaction: Zn + Cu²⁺ → Zn²⁺ + Cu.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "গ্যালভানিক কোষ কাকে বলে?",
+            "question_en": "What is a galvanic cell?",
+            "model_answer_bn": "যে তড়িৎ রাসায়নিক কোষে স্বতঃস্ফূর্ত জারণ-বিজারণ বিক্রিয়ার মাধ্যমে রাসায়নিক শক্তি বৈদ্যুতিক শক্তিতে রূপান্তরিত হয়, তাকে গ্যালভানিক কোষ বলে।",
+            "model_answer_en": "A galvanic cell is an electrochemical cell in which chemical energy is converted into electrical energy through a spontaneous redox reaction."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "কোষটির অ্যানোড ও ক্যাথোড শনাক্ত করে প্রতিটিতে ঘটিত অর্ধবিক্রিয়া লেখো।",
+            "question_en": "Identify the anode and cathode of the cell and write the half-reaction occurring at each.",
+            "model_answer_bn": "অ্যানোড: জিংক দণ্ড, এখানে জারণ ঘটে—Zn → Zn²⁺ + 2e⁻। ক্যাথোড: তামার দণ্ড, এখানে বিজারণ ঘটে—Cu²⁺ + 2e⁻ → Cu।",
+            "model_answer_en": "Anode: the zinc rod, where oxidation occurs—Zn → Zn²⁺ + 2e⁻. Cathode: the copper rod, where reduction occurs—Cu²⁺ + 2e⁻ → Cu."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "কোষে লবণ-সেতুর প্রয়োজনীয়তা ব্যাখ্যা করো।",
+            "question_en": "Explain the necessity of the salt bridge in the cell.",
+            "model_answer_bn": "অ্যানোডে Zn²⁺ জমা হয়ে দ্রবণ ধনাত্মক এবং ক্যাথোডে Cu²⁺ কমে দ্রবণ ঋণাত্মক হয়ে পড়ে, যা আয়নের ভারসাম্য নষ্ট করে বিদ্যুৎ প্রবাহ থামিয়ে দিত। লবণ-সেতু আয়ন সরবরাহ করে দুই দ্রবণের বৈদ্যুতিক নিরপেক্ষতা বজায় রাখে এবং অভ্যন্তরীণ বর্তনী পূর্ণ করে, ফলে তড়িৎ প্রবাহ অবিচ্ছিন্ন থাকে।",
+            "model_answer_en": "As Zn²⁺ builds up the anode solution becomes positive, and as Cu²⁺ is used up the cathode solution becomes negative, upsetting the ion balance and stopping the current. The salt bridge supplies ions to keep both solutions electrically neutral and completes the internal circuit, so the current flows continuously."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "যদি জিংক দণ্ডের পরিবর্তে তামার চেয়ে কম সক্রিয় একটি ধাতু (যেমন রুপা) ব্যবহার করা হতো, তবে কোষটি কি বিদ্যুৎ দিত? সক্রিয়তা সিরিজের ভিত্তিতে বিশ্লেষণ করো।",
+            "question_en": "If, instead of the zinc rod, a metal less reactive than copper (e.g., silver) were used, would the cell produce electricity? Analyse using the activity series.",
+            "model_answer_bn": "না, কোষটি স্বতঃস্ফূর্তভাবে বিদ্যুৎ দিত না। গ্যালভানিক কোষে বিদ্যুৎ পেতে হলে অ্যানোডের ধাতুকে ক্যাথোডের ধাতুর চেয়ে বেশি সক্রিয় হতে হয়, যাতে সে সহজে ইলেকট্রন ত্যাগ করে জারিত হয়। সক্রিয়তা সিরিজে রুপা তামার নিচে অর্থাৎ কম সক্রিয়; তাই রুপা তামাকে প্রতিস্থাপন করে জারিত হতে পারবে না, বরং বিপরীত বিক্রিয়া স্বতঃস্ফূর্ত হবে। ফলে এই বিন্যাসে স্বতঃস্ফূর্ত জারণ-বিজারণ ঘটবে না এবং কোষ থেকে বিদ্যুৎ পাওয়া যাবে না; বিদ্যুৎ পেতে হলে সক্রিয়তার ক্রম উল্টে তামাকে অ্যানোড ও রুপাকে ক্যাথোড করতে হতো।",
+            "model_answer_en": "No, the cell would not produce electricity spontaneously. In a galvanic cell the anode metal must be more reactive than the cathode metal so it readily loses electrons and is oxidised. In the activity series silver lies below copper, i.e., it is less reactive; so silver cannot displace copper and be oxidised—instead the reverse reaction would be spontaneous. With this arrangement no spontaneous redox occurs and no current is obtained; to get current the order would have to be reversed, with copper as anode and silver as cathode."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "মিথেন (CH₄) একটি গুরুত্বপূর্ণ জ্বালানি। এর দহন বিক্রিয়া: CH₄ + 2O₂ → CO₂ + 2H₂O; ΔH = −890 kJ/mol। বিপরীতে, তড়িৎ বিশ্লেষণে পানি ভেঙে হাইড্রোজেন ও অক্সিজেন পাওয়া যায়, যা জ্বালানি কোষে পুনরায় ব্যবহার করা যায়।",
+        "stimulus_en": "Methane (CH₄) is an important fuel. Its combustion: CH₄ + 2O₂ → CO₂ + 2H₂O; ΔH = −890 kJ/mol. Conversely, electrolysis splits water into hydrogen and oxygen, which can be reused in a fuel cell.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "জ্বালানির তাপনমান কাকে বলে?",
+            "question_en": "What is the calorific value of a fuel?",
+            "model_answer_bn": "একক ভরের কোনো জ্বালানি অক্সিজেনে সম্পূর্ণরূপে দহিত হলে যে পরিমাণ তাপ নির্গত হয়, তাকে ওই জ্বালানির তাপনমান বলে।",
+            "model_answer_en": "The calorific value of a fuel is the amount of heat released when unit mass of the fuel is completely burned in oxygen."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "মিথেনের দহন তাপোৎপাদী না তাপহারী—ΔH এর মান থেকে ব্যাখ্যা করো।",
+            "question_en": "Is the combustion of methane exothermic or endothermic—explain using the value of ΔH.",
+            "model_answer_bn": "মিথেনের দহনে ΔH = −890 kJ/mol, অর্থাৎ ΔH ঋণাত্মক। ঋণাত্মক ΔH নির্দেশ করে যে উৎপাদের শক্তি বিক্রিয়ক অপেক্ষা কম এবং প্রক্রিয়ায় তাপ পরিবেশে নির্গত হয়, তাই মিথেনের দহন একটি তাপোৎপাদী বিক্রিয়া।",
+            "model_answer_en": "For methane combustion ΔH = −890 kJ/mol, i.e., ΔH is negative. A negative ΔH means the products have less energy than the reactants and heat is released to the surroundings, so combustion of methane is an exothermic reaction."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "পানির তড়িৎ বিশ্লেষণে শক্তি রূপান্তর এবং জ্বালানি কোষে শক্তি রূপান্তর তুলনা করে ব্যাখ্যা করো।",
+            "question_en": "Compare and explain the energy conversions in the electrolysis of water and in a fuel cell.",
+            "model_answer_bn": "পানির তড়িৎ বিশ্লেষণে বাহ্যিক উৎস থেকে বৈদ্যুতিক শক্তি সরবরাহ করে অস্বতঃস্ফূর্ত বিক্রিয়া 2H₂O → 2H₂ + O₂ ঘটানো হয়; এখানে বৈদ্যুতিক শক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়। বিপরীতে জ্বালানি কোষে H₂ ও O₂ স্বতঃস্ফূর্তভাবে বিক্রিয়া করে (2H₂ + O₂ → 2H₂O) এবং রাসায়নিক শক্তি বৈদ্যুতিক শক্তিতে রূপান্তরিত হয়। অর্থাৎ দুটি প্রক্রিয়া পরস্পরের বিপরীত শক্তি রূপান্তর ঘটায়।",
+            "model_answer_en": "In the electrolysis of water, electrical energy from an external source drives the non-spontaneous reaction 2H₂O → 2H₂ + O₂; here electrical energy is converted into chemical energy. In a fuel cell, by contrast, H₂ and O₂ react spontaneously (2H₂ + O₂ → 2H₂O) and chemical energy is converted into electrical energy. Thus the two processes carry out opposite energy conversions."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "পরিবেশ ও নবায়নযোগ্যতার দৃষ্টিকোণ থেকে জ্বালানি হিসেবে মিথেন ও হাইড্রোজেনের মধ্যে কোনটি অধিক উপযোগী? যুক্তিসহ মতামত দাও।",
+            "question_en": "From the viewpoint of the environment and renewability, which is more suitable as a fuel—methane or hydrogen? Give a reasoned opinion.",
+            "model_answer_bn": "পরিবেশ ও নবায়নযোগ্যতার দৃষ্টিতে হাইড্রোজেন অধিক উপযোগী। মিথেন উচ্চ তাপনমানের জ্বালানি হলেও দহনে CO₂ উৎপন্ন করে, যা গ্রিনহাউস গ্যাস এবং বৈশ্বিক উষ্ণায়ন ঘটায়; এটি জীবাশ্ম উৎস থেকে আসে বলে অনবায়নযোগ্য ও সীমিত। অন্যদিকে হাইড্রোজেনের দহন বা জ্বালানি কোষে ব্যবহারে প্রধান উৎপাদ কেবল পানি, তাই এটি প্রায় দূষণমুক্ত। নবায়নযোগ্য বিদ্যুৎ (সৌর/বায়ু) দিয়ে পানি তড়িৎ বিশ্লেষণ করে হাইড্রোজেন উৎপাদন করা যায়, ফলে এটি নবায়নযোগ্য হতে পারে। তবে হাইড্রোজেন সংরক্ষণ, পরিবহন ও উৎপাদন ব্যয়বহুল এবং নিরাপত্তা ঝুঁকি আছে। সামগ্রিক বিচারে দীর্ঘমেয়াদে পরিবেশগত টেকসইতার জন্য হাইড্রোজেনই অধিক উপযোগী।",
+            "model_answer_en": "From the environmental and renewability viewpoint, hydrogen is more suitable. Although methane has a high calorific value, its combustion produces CO₂, a greenhouse gas that causes global warming, and being from fossil sources it is non-renewable and limited. Hydrogen, in combustion or in a fuel cell, gives mainly water as product, so it is almost pollution-free. Hydrogen can be produced by electrolysing water using renewable electricity (solar/wind), making it potentially renewable. However, hydrogen is costly to produce, store and transport and carries safety risks. On balance, for long-term environmental sustainability hydrogen is the more suitable fuel."
+          }
+        ]
+      }
+    ]
+  }
+]

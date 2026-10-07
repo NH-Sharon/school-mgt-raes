@@ -1,4 +1,5 @@
 const express = require('express');
+const crypto = require('crypto');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const pool = require('../config/database');
@@ -75,6 +76,52 @@ router.post('/login', async (req, res) => {
         streakDays: user.streak_days,
       }
     });
+  } catch (error) {
+    res.status(500).json({ message: 'Server error' });
+  }
+});
+
+// FR-1.2 — forgot password: issue a short-lived reset token.
+// No email/SMS integration exists, so in non-production the token is returned
+// directly in the response for the user to complete the reset flow.
+router.post('/forgot-password', async (req, res) => {
+  try {
+    const { username } = req.body;
+    if (!username) return res.status(400).json({ message: 'username is required' });
+    const result = await pool.query('SELECT id FROM users WHERE username = $1', [username]);
+    // Always respond 200 to avoid leaking which usernames exist.
+    if (!result.rows.length) {
+      return res.json({ message: 'If that account exists, a reset token has been issued.' });
+    }
+    const token = crypto.randomBytes(24).toString('hex');
+    const expiresAt = new Date(Date.now() + 30 * 60 * 1000); // 30 minutes
+    await pool.query(
+      `INSERT INTO password_resets (user_id, token, expires_at) VALUES ($1,$2,$3)`,
+      [result.rows[0].id, token, expiresAt]
+    );
+    const payload = { message: 'If that account exists, a reset token has been issued.' };
+    if (process.env.NODE_ENV !== 'production') payload.devToken = token; // dev convenience
+    res.json(payload);
+  } catch (error) {
+    res.status(500).json({ message: 'Server error' });
+  }
+});
+
+// FR-1.2 — reset password using a valid, unused, unexpired token.
+router.post('/reset-password', async (req, res) => {
+  try {
+    const { token, password } = req.body;
+    if (!token || !password) return res.status(400).json({ message: 'token and password are required' });
+    if (password.length < 6) return res.status(400).json({ message: 'Password must be at least 6 characters' });
+    const pr = await pool.query(
+      `SELECT id, user_id FROM password_resets WHERE token = $1 AND used = false AND expires_at > now()`,
+      [token]
+    );
+    if (!pr.rows.length) return res.status(400).json({ message: 'Invalid or expired reset token' });
+    const hashed = await bcrypt.hash(password, 10);
+    await pool.query('UPDATE users SET password = $1 WHERE id = $2', [hashed, pr.rows[0].user_id]);
+    await pool.query('UPDATE password_resets SET used = true WHERE id = $1', [pr.rows[0].id]);
+    res.json({ message: 'Password reset successful. You can now log in.' });
   } catch (error) {
     res.status(500).json({ message: 'Server error' });
   }

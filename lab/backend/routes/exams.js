@@ -31,27 +31,57 @@ router.post('/start', verifyToken, async (req, res) => {
   try {
     const {
       chapterIds, examMode = 'exam', numQuestions = 25,
-      timeLimitSec = 1500, negativeMarking = false, difficultyMix = null, assignmentId = null,
+      timeLimitSec = 1500, negativeMarking = false, difficultyMix = null,
+      topicIds = null, difficulty = null, assignmentId = null,
     } = req.body;
     if (!Array.isArray(chapterIds) || !chapterIds.length) {
       return res.status(400).json({ message: 'chapterIds is required' });
     }
 
-    const bank = await pool.query(
+    const bankResult = await pool.query(
       `SELECT * FROM questions WHERE chapter_id = ANY($1::int[]) AND status = 'published'`,
       [chapterIds]
     );
-    if (!bank.rows.length) return res.status(404).json({ message: 'No published questions for these chapters yet' });
+    let bankRows = bankResult.rows;
+    // Optional topic narrowing (FR-3: student picks specific topics)
+    if (Array.isArray(topicIds) && topicIds.length) {
+      const set = new Set(topicIds.map(Number));
+      bankRows = bankRows.filter(q => set.has(q.topic_id));
+    }
+    // Optional single-level filter (FR-4: Basic / Medium / Advanced)
+    if (difficulty && ['basic', 'medium', 'advanced'].includes(difficulty)) {
+      bankRows = bankRows.filter(q => q.difficulty === difficulty);
+    }
+    const bank = { rows: bankRows };
+    if (!bank.rows.length) return res.status(404).json({ message: 'No published questions match your selection yet' });
 
-    let pool_ = bank.rows;
+    // FR-4.4 anti-repeat: avoid re-serving questions from the user's most recent
+    // finished attempt on these chapters, unless the pool is too small.
+    const recent = await pool.query(
+      `SELECT questions_served FROM exam_attempts
+       WHERE user_id = $1 AND status != 'in_progress' AND chapter_ids @> $2::jsonb
+       ORDER BY started_at DESC LIMIT 1`,
+      [req.user.userId, JSON.stringify(chapterIds)]
+    );
+    const recentIds = new Set(recent.rows.length ? recent.rows[0].questions_served : []);
+
+    // Pick `count` from a candidate list, preferring questions not seen recently.
+    const pickPreferFresh = (candidates, count) => {
+      const fresh = shuffle(candidates.filter(q => !recentIds.has(q.id)));
+      const repeat = shuffle(candidates.filter(q => recentIds.has(q.id)));
+      return fresh.concat(repeat).slice(0, count);
+    };
+
+    let selected;
     if (difficultyMix && typeof difficultyMix === 'object') {
       const picked = [];
       for (const [level, count] of Object.entries(difficultyMix)) {
-        picked.push(...shuffle(bank.rows.filter(q => q.difficulty === level)).slice(0, count));
+        picked.push(...pickPreferFresh(bank.rows.filter(q => q.difficulty === level), count));
       }
-      pool_ = picked.length ? picked : bank.rows;
+      selected = picked.length ? picked : pickPreferFresh(bank.rows, numQuestions);
+    } else {
+      selected = pickPreferFresh(bank.rows, Math.min(numQuestions, bank.rows.length));
     }
-    const selected = shuffle(pool_).slice(0, Math.min(numQuestions, pool_.length));
     const questionsServed = selected.map(q => q.id);
 
     const result = await pool.query(
@@ -138,20 +168,29 @@ router.post('/:attemptId/submit', verifyToken, async (req, res) => {
     const negativeMarking = a.config.negativeMarking;
     let score = 0;
     const maxScore = a.questions_served.length;
+    // FR-4.5 — per-difficulty (Basic/Medium/Advanced) breakdown
+    const levelBreakdown = {};
+    const bump = (lvl, field, by = 1) => {
+      levelBreakdown[lvl] = levelBreakdown[lvl] || { total: 0, correct: 0, timeSec: 0 };
+      levelBreakdown[lvl][field] += by;
+    };
     for (const qid of a.questions_served) {
       const q = byId[qid];
       if (!q) continue;
+      const lvl = q.difficulty || 'medium';
+      bump(lvl, 'total');
+      bump(lvl, 'timeSec', a.time_per_question?.[qid] || 0);
       const chosen = (answers[qid] || []).slice().sort();
       const correct = (q.correct_answers || []).slice().sort();
       const isCorrect = chosen.length === correct.length && chosen.every((v, i) => v === correct[i]);
-      if (isCorrect) score += 1;
+      if (isCorrect) { score += 1; bump(lvl, 'correct'); }
       else if (chosen.length > 0 && negativeMarking) score -= 0.25;
     }
 
     const result = await pool.query(
       `UPDATE exam_attempts SET answers = $1, score = $2, max_score = $3, submitted_at = now(),
-         status = $4 WHERE id = $5 RETURNING *`,
-      [JSON.stringify(answers), score, maxScore, timedOut ? 'timed_out' : 'submitted', req.params.attemptId]
+         status = $4, level_breakdown = $5 WHERE id = $6 RETURNING *`,
+      [JSON.stringify(answers), score, maxScore, timedOut ? 'timed_out' : 'submitted', JSON.stringify(levelBreakdown), req.params.attemptId]
     );
 
     // FR-5.4 — award a badge for a strong score
@@ -215,7 +254,7 @@ router.get('/weak-chapters/mine', verifyToken, async (req, res) => {
 });
 
 // FR-4.9 — teacher creates & assigns a custom exam
-router.post('/assignments', verifyToken, requireRole('teacher'), async (req, res) => {
+router.post('/assignments', verifyToken, requireRole('teacher', 'system_admin'), async (req, res) => {
   try {
     const { titleBn, titleEn, classLevel, chapterIds, config, dueAt } = req.body;
     const result = await pool.query(

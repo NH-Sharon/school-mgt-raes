@@ -1,0 +1,1088 @@
+[
+  {
+    "order": 5,
+    "title_bn": "রাসায়নিক বন্ধন",
+    "title_en": "Chemical Bonding",
+    "topics": [
+      {
+        "title_bn": "নিষ্ক্রিয় গ্যাস ও স্থিতিশীলতা",
+        "title_en": "Inert Gases and Stability",
+        "mcqs": [
+          {
+            "question_bn": "নিষ্ক্রিয় গ্যাসসমূহ রাসায়নিকভাবে নিষ্ক্রিয় কেন?",
+            "question_en": "Why are inert gases chemically unreactive?",
+            "options": [
+              {"id": "a", "bn": "এদের ইলেকট্রন নেই", "en": "They have no electrons"},
+              {"id": "b", "bn": "এদের সর্ববহিঃস্থ শক্তিস্তর সম্পূর্ণ পূর্ণ", "en": "Their outermost energy level is completely filled"},
+              {"id": "c", "bn": "এরা ধাতু", "en": "They are metals"},
+              {"id": "d", "bn": "এরা তরল অবস্থায় থাকে", "en": "They exist as liquids"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "নিষ্ক্রিয় গ্যাসসমূহের সর্ববহিঃস্থ শক্তিস্তর সম্পূর্ণরূপে পূর্ণ (হিলিয়ামে ২টি, অন্যদের ৮টি) থাকায় এরা স্থিতিশীল এবং সাধারণত অন্য মৌলের সাথে বিক্রিয়া করে না।",
+            "explanation_en": "Inert gases have a completely filled outermost shell (2 for helium, 8 for others), making them stable and generally unreactive with other elements.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "হিলিয়ামের সর্ববহিঃস্থ স্তরে কয়টি ইলেকট্রন থাকে?",
+            "question_en": "How many electrons are present in the outermost shell of helium?",
+            "options": [
+              {"id": "a", "bn": "২", "en": "2"},
+              {"id": "b", "bn": "৮", "en": "8"},
+              {"id": "c", "bn": "১০", "en": "10"},
+              {"id": "d", "bn": "১৮", "en": "18"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "হিলিয়ামের পারমাণবিক সংখ্যা ২ এবং এর একমাত্র শক্তিস্তরে (K শেল) ২টি ইলেকট্রন থাকে, যা এই স্তরের জন্য পূর্ণ বিন্যাস (ডুপ্লেট)।",
+            "explanation_en": "Helium has atomic number 2, and its only shell (K shell) holds 2 electrons, which is the complete configuration (duplet) for that shell.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "অষ্টক নিয়ম (octet rule) অনুসারে একটি পরমাণু স্থিতিশীল হয় যখন এর সর্ববহিঃস্থ স্তরে থাকে-",
+            "question_en": "According to the octet rule, an atom becomes stable when its outermost shell contains-",
+            "options": [
+              {"id": "a", "bn": "২টি ইলেকট্রন", "en": "2 electrons"},
+              {"id": "b", "bn": "৪টি ইলেকট্রন", "en": "4 electrons"},
+              {"id": "c", "bn": "৮টি ইলেকট্রন", "en": "8 electrons"},
+              {"id": "d", "bn": "৬টি ইলেকট্রন", "en": "6 electrons"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "অষ্টক নিয়ম অনুসারে, হিলিয়াম ব্যতীত অধিকাংশ মৌল তাদের সর্ববহিঃস্থ স্তরে নিষ্ক্রিয় গ্যাসের মতো ৮টি ইলেকট্রন অর্জন করে স্থিতিশীলতা লাভ করে।",
+            "explanation_en": "According to the octet rule, most elements (except helium) attain stability by acquiring 8 electrons in their outermost shell, like an inert gas.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি নিষ্ক্রিয় গ্যাস নয়?",
+            "question_en": "Which of the following is NOT an inert gas?",
+            "options": [
+              {"id": "a", "bn": "নিয়ন (Ne)", "en": "Neon (Ne)"},
+              {"id": "b", "bn": "আর্গন (Ar)", "en": "Argon (Ar)"},
+              {"id": "c", "bn": "ক্লোরিন (Cl)", "en": "Chlorine (Cl)"},
+              {"id": "d", "bn": "ক্রিপ্টন (Kr)", "en": "Krypton (Kr)"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "ক্লোরিন একটি হ্যালোজেন এবং অত্যন্ত সক্রিয় মৌল; এর সর্ববহিঃস্থ স্তরে ৭টি ইলেকট্রন থাকে। নিয়ন, আর্গন ও ক্রিপ্টন নিষ্ক্রিয় গ্যাস।",
+            "explanation_en": "Chlorine is a halogen and a highly reactive element with 7 electrons in its outermost shell. Neon, argon, and krypton are inert gases.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "পরমাণুসমূহ রাসায়নিক বন্ধন গঠন করে মূলত কোন উদ্দেশ্যে?",
+            "question_en": "Atoms form chemical bonds mainly to achieve what?",
+            "options": [
+              {"id": "a", "bn": "ভর বৃদ্ধি করতে", "en": "To increase their mass"},
+              {"id": "b", "bn": "নিকটবর্তী নিষ্ক্রিয় গ্যাসের স্থিতিশীল ইলেকট্রন বিন্যাস অর্জন করতে", "en": "To attain the stable electron configuration of the nearest inert gas"},
+              {"id": "c", "bn": "প্রোটন সংখ্যা পরিবর্তন করতে", "en": "To change the number of protons"},
+              {"id": "d", "bn": "নিউট্রন হারাতে", "en": "To lose neutrons"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "পরমাণুসমূহ ইলেকট্রন ত্যাগ, গ্রহণ বা শেয়ারের মাধ্যমে নিকটবর্তী নিষ্ক্রিয় গ্যাসের স্থিতিশীল ইলেকট্রন বিন্যাস অর্জন করতে চায়, ফলে রাসায়নিক বন্ধন গঠিত হয়।",
+            "explanation_en": "Atoms tend to attain the stable electron configuration of the nearest inert gas by losing, gaining, or sharing electrons, resulting in the formation of chemical bonds.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "যোজনী ও আয়ন গঠন",
+        "title_en": "Valency and Ion Formation",
+        "mcqs": [
+          {
+            "question_bn": "সোডিয়াম (Na, পারমাণবিক সংখ্যা ১১) আয়নে পরিণত হলে কী গঠন করে?",
+            "question_en": "When sodium (Na, atomic number 11) becomes an ion, what does it form?",
+            "options": [
+              {"id": "a", "bn": "Na⁻ ঋণাত্মক আয়ন", "en": "Na⁻ anion"},
+              {"id": "b", "bn": "Na⁺ ধনাত্মক আয়ন", "en": "Na⁺ cation"},
+              {"id": "c", "bn": "Na²⁺ আয়ন", "en": "Na²⁺ ion"},
+              {"id": "d", "bn": "কোনো আয়ন গঠন করে না", "en": "It forms no ion"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সোডিয়ামের ইলেকট্রন বিন্যাস 2,8,1; এটি সর্ববহিঃস্থ ১টি ইলেকট্রন ত্যাগ করে Na⁺ ধনাত্মক আয়ন গঠন করে এবং নিয়নের স্থিতিশীল বিন্যাস অর্জন করে।",
+            "explanation_en": "Sodium has the configuration 2,8,1; it loses its single outermost electron to form the Na⁺ cation, attaining the stable configuration of neon.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ক্লোরিন পরমাণু (Cl, 2,8,7) স্থিতিশীল হতে কী করে?",
+            "question_en": "What does a chlorine atom (Cl, 2,8,7) do to become stable?",
+            "options": [
+              {"id": "a", "bn": "১টি ইলেকট্রন গ্রহণ করে Cl⁻ গঠন করে", "en": "Gains 1 electron to form Cl⁻"},
+              {"id": "b", "bn": "১টি ইলেকট্রন ত্যাগ করে Cl⁺ গঠন করে", "en": "Loses 1 electron to form Cl⁺"},
+              {"id": "c", "bn": "৭টি ইলেকট্রন ত্যাগ করে", "en": "Loses 7 electrons"},
+              {"id": "d", "bn": "কিছুই করে না", "en": "Does nothing"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ক্লোরিনের সর্ববহিঃস্থ স্তরে ৭টি ইলেকট্রন আছে; ১টি ইলেকট্রন গ্রহণ করে এটি Cl⁻ ঋণাত্মক আয়ন গঠন করে এবং আর্গনের স্থিতিশীল অষ্টক অর্জন করে।",
+            "explanation_en": "Chlorine has 7 electrons in its outermost shell; by gaining 1 electron it forms the Cl⁻ anion and attains the stable octet of argon.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ম্যাগনেসিয়ামের (Mg, 2,8,2) যোজনী কত?",
+            "question_en": "What is the valency of magnesium (Mg, 2,8,2)?",
+            "options": [
+              {"id": "a", "bn": "১", "en": "1"},
+              {"id": "b", "bn": "২", "en": "2"},
+              {"id": "c", "bn": "৩", "en": "3"},
+              {"id": "d", "bn": "৮", "en": "8"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ম্যাগনেসিয়ামের সর্ববহিঃস্থ স্তরে ২টি ইলেকট্রন আছে; এই ২টি ইলেকট্রন ত্যাগ করে এটি Mg²⁺ গঠন করে, তাই এর যোজনী ২।",
+            "explanation_en": "Magnesium has 2 electrons in its outermost shell; it loses these 2 electrons to form Mg²⁺, so its valency is 2.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি একটি যৌগমূলক (polyatomic) আয়ন?",
+            "question_en": "Which of the following is a polyatomic ion?",
+            "options": [
+              {"id": "a", "bn": "Na⁺", "en": "Na⁺"},
+              {"id": "b", "bn": "Cl⁻", "en": "Cl⁻"},
+              {"id": "c", "bn": "SO₄²⁻", "en": "SO₄²⁻"},
+              {"id": "d", "bn": "O²⁻", "en": "O²⁻"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "SO₄²⁻ (সালফেট) হলো একটি যৌগমূলক আয়ন, কারণ এটি একাধিক পরমাণু (১টি S ও ৪টি O) নিয়ে গঠিত এবং সামগ্রিকভাবে একটি চার্জ বহন করে। Na⁺, Cl⁻, O²⁻ একপারমাণবিক আয়ন।",
+            "explanation_en": "SO₄²⁻ (sulfate) is a polyatomic ion because it consists of more than one atom (1 S and 4 O) and carries an overall charge. Na⁺, Cl⁻, and O²⁻ are monatomic ions.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "অ্যালুমিনিয়াম (Al, 2,8,3) ও অক্সিজেন (O, 2,6) দ্বারা গঠিত যৌগের সংকেত কোনটি?",
+            "question_en": "What is the formula of the compound formed by aluminium (Al, 2,8,3) and oxygen (O, 2,6)?",
+            "options": [
+              {"id": "a", "bn": "AlO", "en": "AlO"},
+              {"id": "b", "bn": "Al₂O₃", "en": "Al₂O₃"},
+              {"id": "c", "bn": "AlO₂", "en": "AlO₂"},
+              {"id": "d", "bn": "Al₃O₂", "en": "Al₃O₂"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অ্যালুমিনিয়ামের যোজনী ৩ (Al³⁺) এবং অক্সিজেনের যোজনী ২ (O²⁻)। চার্জ সমতা রাখতে ২টি Al³⁺ ও ৩টি O²⁻ মিলে Al₂O₃ গঠন করে।",
+            "explanation_en": "Aluminium has valency 3 (Al³⁺) and oxygen has valency 2 (O²⁻). To balance the charges, 2 Al³⁺ combine with 3 O²⁻ to form Al₂O₃.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "আয়নিক বন্ধন",
+        "title_en": "Ionic Bond",
+        "mcqs": [
+          {
+            "question_bn": "আয়নিক বন্ধন কীভাবে গঠিত হয়?",
+            "question_en": "How is an ionic bond formed?",
+            "options": [
+              {"id": "a", "bn": "ইলেকট্রন শেয়ারের মাধ্যমে", "en": "By sharing of electrons"},
+              {"id": "b", "bn": "ইলেকট্রন স্থানান্তরের মাধ্যমে বিপরীত আয়নের স্থির-বৈদ্যুতিক আকর্ষণে", "en": "By transfer of electrons and electrostatic attraction between oppositely charged ions"},
+              {"id": "c", "bn": "প্রোটন স্থানান্তরের মাধ্যমে", "en": "By transfer of protons"},
+              {"id": "d", "bn": "নিউট্রন বিনিময়ের মাধ্যমে", "en": "By exchange of neutrons"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "একটি পরমাণু ইলেকট্রন ত্যাগ করে ধনাত্মক আয়ন এবং অপরটি ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়ন গঠন করে; এই বিপরীত আয়নসমূহের মধ্যে স্থির-বৈদ্যুতিক আকর্ষণই আয়নিক বন্ধন।",
+            "explanation_en": "One atom loses electrons to form a cation and another gains electrons to form an anion; the electrostatic attraction between these oppositely charged ions is the ionic bond.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "NaCl-এ কোন ধরনের বন্ধন বিদ্যমান?",
+            "question_en": "What type of bond is present in NaCl?",
+            "options": [
+              {"id": "a", "bn": "সমযোজী বন্ধন", "en": "Covalent bond"},
+              {"id": "b", "bn": "আয়নিক বন্ধন", "en": "Ionic bond"},
+              {"id": "c", "bn": "ধাতব বন্ধন", "en": "Metallic bond"},
+              {"id": "d", "bn": "সন্নিবেশ বন্ধন", "en": "Coordinate bond"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সোডিয়াম ১টি ইলেকট্রন ক্লোরিনকে দান করে Na⁺ ও Cl⁻ গঠন করে; এদের মধ্যে স্থির-বৈদ্যুতিক আকর্ষণের ফলে NaCl-এ আয়নিক বন্ধন গঠিত হয়।",
+            "explanation_en": "Sodium donates 1 electron to chlorine, forming Na⁺ and Cl⁻; the electrostatic attraction between them creates the ionic bond in NaCl.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "সাধারণত কোন মৌলগুলোর মধ্যে আয়নিক বন্ধন গঠিত হয়?",
+            "question_en": "Ionic bonds generally form between which types of elements?",
+            "options": [
+              {"id": "a", "bn": "দুটি অধাতুর মধ্যে", "en": "Between two non-metals"},
+              {"id": "b", "bn": "ধাতু ও অধাতুর মধ্যে", "en": "Between a metal and a non-metal"},
+              {"id": "c", "bn": "দুটি ধাতুর মধ্যে", "en": "Between two metals"},
+              {"id": "d", "bn": "দুটি নিষ্ক্রিয় গ্যাসের মধ্যে", "en": "Between two inert gases"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ধাতু সহজে ইলেকট্রন ত্যাগ করে ও অধাতু সহজে ইলেকট্রন গ্রহণ করে; তাই সাধারণত ধাতু ও অধাতুর মধ্যে বৈদ্যুতিক ঋণাত্মকতার বড় পার্থক্যের কারণে আয়নিক বন্ধন গঠিত হয়।",
+            "explanation_en": "Metals readily lose electrons and non-metals readily gain them; hence ionic bonds generally form between a metal and a non-metal due to their large electronegativity difference.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "MgO যৌগে ম্যাগনেসিয়াম ও অক্সিজেন কত ইলেকট্রন বিনিময় করে?",
+            "question_en": "In MgO, how many electrons are exchanged between magnesium and oxygen?",
+            "options": [
+              {"id": "a", "bn": "১টি", "en": "1"},
+              {"id": "b", "bn": "২টি", "en": "2"},
+              {"id": "c", "bn": "৩টি", "en": "3"},
+              {"id": "d", "bn": "৪টি", "en": "4"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ম্যাগনেসিয়াম (2,8,2) তার ২টি ইলেকট্রন অক্সিজেনকে (2,6) দান করে Mg²⁺ ও O²⁻ গঠন করে; ফলে ২টি ইলেকট্রন স্থানান্তরিত হয়ে আয়নিক বন্ধন গঠিত হয়।",
+            "explanation_en": "Magnesium (2,8,2) donates its 2 electrons to oxygen (2,6), forming Mg²⁺ and O²⁻; thus 2 electrons are transferred to form the ionic bond.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "CaCl₂ যৌগে ক্যালসিয়াম ও ক্লোরিনের অনুপাত ১:২ হওয়ার কারণ কী?",
+            "question_en": "Why is the ratio of calcium to chlorine 1:2 in CaCl₂?",
+            "options": [
+              {"id": "a", "bn": "ক্যালসিয়ামের যোজনী ১ ও ক্লোরিনের ২", "en": "Calcium has valency 1 and chlorine 2"},
+              {"id": "b", "bn": "ক্যালসিয়ামের যোজনী ২ এবং প্রতিটি ক্লোরিনের যোজনী ১, তাই ২টি Cl দরকার", "en": "Calcium has valency 2 and each chlorine has valency 1, so two Cl are needed"},
+              {"id": "c", "bn": "উভয়ের যোজনী ২", "en": "Both have valency 2"},
+              {"id": "d", "bn": "উভয়ের যোজনী ১", "en": "Both have valency 1"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ক্যালসিয়াম Ca²⁺ (২টি ইলেকট্রন ত্যাগ) গঠন করে এবং প্রতিটি ক্লোরিন ১টি ইলেকট্রন গ্রহণ করে Cl⁻ গঠন করে; চার্জ সমতা রাখতে ১টি Ca²⁺-এর জন্য ২টি Cl⁻ প্রয়োজন, তাই CaCl₂।",
+            "explanation_en": "Calcium forms Ca²⁺ (loses 2 electrons) and each chlorine gains 1 electron to form Cl⁻; to balance the charge, one Ca²⁺ needs two Cl⁻, giving CaCl₂.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "সমযোজী বন্ধন",
+        "title_en": "Covalent Bond",
+        "mcqs": [
+          {
+            "question_bn": "সমযোজী বন্ধন কীভাবে গঠিত হয়?",
+            "question_en": "How is a covalent bond formed?",
+            "options": [
+              {"id": "a", "bn": "ইলেকট্রন সম্পূর্ণ স্থানান্তরের মাধ্যমে", "en": "By complete transfer of electrons"},
+              {"id": "b", "bn": "ইলেকট্রন জোড় শেয়ারের মাধ্যমে", "en": "By sharing of electron pairs"},
+              {"id": "c", "bn": "প্রোটন বিনিময়ের মাধ্যমে", "en": "By exchange of protons"},
+              {"id": "d", "bn": "মুক্ত ইলেকট্রন সমুদ্রের মাধ্যমে", "en": "Through a sea of free electrons"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "দুটি অধাতব পরমাণু তাদের সর্ববহিঃস্থ ইলেকট্রন পরস্পর শেয়ার করে অষ্টক পূরণ করে; এই শেয়ারকৃত ইলেকট্রন জোড়ের মাধ্যমে সমযোজী বন্ধন গঠিত হয়।",
+            "explanation_en": "Two non-metal atoms share their outermost electrons to complete their octets; a covalent bond forms through these shared electron pairs.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "H₂ অণুতে কতটি ইলেকট্রন শেয়ার হয়?",
+            "question_en": "How many electrons are shared in an H₂ molecule?",
+            "options": [
+              {"id": "a", "bn": "১টি", "en": "1"},
+              {"id": "b", "bn": "২টি", "en": "2"},
+              {"id": "c", "bn": "৪টি", "en": "4"},
+              {"id": "d", "bn": "৮টি", "en": "8"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "প্রতিটি হাইড্রোজেন পরমাণু ১টি করে ইলেকট্রন দিয়ে মোট ২টি ইলেকট্রনের ১টি জোড় শেয়ার করে; ফলে উভয় পরমাণু হিলিয়ামের মতো ডুপ্লেট অর্জন করে এবং একটি একক সমযোজী বন্ধন গঠিত হয়।",
+            "explanation_en": "Each hydrogen atom contributes 1 electron, sharing one pair of 2 electrons; both atoms thus attain the duplet of helium, forming a single covalent bond.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "N₂ অণুতে দুটি নাইট্রোজেন পরমাণুর মধ্যে কোন ধরনের বন্ধন বিদ্যমান?",
+            "question_en": "What type of bond exists between the two nitrogen atoms in an N₂ molecule?",
+            "options": [
+              {"id": "a", "bn": "একক বন্ধন", "en": "Single bond"},
+              {"id": "b", "bn": "দ্বি-বন্ধন", "en": "Double bond"},
+              {"id": "c", "bn": "ত্রি-বন্ধন", "en": "Triple bond"},
+              {"id": "d", "bn": "আয়নিক বন্ধন", "en": "Ionic bond"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "নাইট্রোজেনের সর্ববহিঃস্থ স্তরে ৫টি ইলেকট্রন আছে; অষ্টক পূরণে প্রতিটি পরমাণু ৩টি করে ইলেকট্রন শেয়ার করে, ফলে N₂-তে ত্রি-বন্ধন (৩ জোড় ইলেকট্রন) গঠিত হয়।",
+            "explanation_en": "Nitrogen has 5 electrons in its outermost shell; to complete the octet each atom shares 3 electrons, so a triple bond (3 shared pairs) forms in N₂.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "CH₄ (মিথেন) অণুতে কার্বন কয়টি সমযোজী বন্ধন গঠন করে?",
+            "question_en": "How many covalent bonds does carbon form in a CH₄ (methane) molecule?",
+            "options": [
+              {"id": "a", "bn": "২টি", "en": "2"},
+              {"id": "b", "bn": "৩টি", "en": "3"},
+              {"id": "c", "bn": "৪টি", "en": "4"},
+              {"id": "d", "bn": "৬টি", "en": "6"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "কার্বনের সর্ববহিঃস্থ স্তরে ৪টি ইলেকট্রন আছে; ৪টি হাইড্রোজেন পরমাণুর সাথে ৪ জোড় ইলেকট্রন শেয়ার করে ৪টি একক সমযোজী বন্ধন গঠন করে এবং অষ্টক পূরণ করে।",
+            "explanation_en": "Carbon has 4 electrons in its outermost shell; it shares 4 electron pairs with 4 hydrogen atoms, forming 4 single covalent bonds and completing its octet.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "CO₂ অণুতে কার্বন ও প্রতিটি অক্সিজেনের মধ্যে কোন বন্ধন থাকে?",
+            "question_en": "What bond exists between carbon and each oxygen in a CO₂ molecule?",
+            "options": [
+              {"id": "a", "bn": "একক বন্ধন", "en": "Single bond"},
+              {"id": "b", "bn": "দ্বি-বন্ধন", "en": "Double bond"},
+              {"id": "c", "bn": "ত্রি-বন্ধন", "en": "Triple bond"},
+              {"id": "d", "bn": "আয়নিক বন্ধন", "en": "Ionic bond"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "CO₂-তে কার্বন প্রতিটি অক্সিজেনের সাথে ২ জোড় ইলেকট্রন শেয়ার করে দ্বি-বন্ধন (O=C=O) গঠন করে, ফলে কার্বন ও অক্সিজেন উভয়েই অষ্টক পূরণ করে।",
+            "explanation_en": "In CO₂, carbon shares 2 electron pairs with each oxygen forming double bonds (O=C=O), so both carbon and oxygen complete their octets.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "ধাতব বন্ধন",
+        "title_en": "Metallic Bond",
+        "mcqs": [
+          {
+            "question_bn": "ধাতব বন্ধন কী দ্বারা ব্যাখ্যা করা হয়?",
+            "question_en": "Metallic bonding is explained by what?",
+            "options": [
+              {"id": "a", "bn": "মুক্ত ইলেকট্রনের সমুদ্র ও ধনাত্মক ধাতব আয়নের আকর্ষণ", "en": "A sea of free electrons attracting positive metal ions"},
+              {"id": "b", "bn": "ইলেকট্রন জোড় শেয়ার", "en": "Sharing of electron pairs"},
+              {"id": "c", "bn": "ইলেকট্রন সম্পূর্ণ স্থানান্তর", "en": "Complete transfer of electrons"},
+              {"id": "d", "bn": "প্রোটনের আকর্ষণ", "en": "Attraction of protons"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ধাতুতে সর্ববহিঃস্থ ইলেকট্রনসমূহ মুক্তভাবে চলাচল করে একটি ইলেকট্রন সমুদ্র গঠন করে; এই মুক্ত ইলেকট্রন এবং ধনাত্মক ধাতব আয়নের মধ্যে আকর্ষণই ধাতব বন্ধন।",
+            "explanation_en": "In a metal the outermost electrons move freely, forming a sea of electrons; the attraction between these free electrons and the positive metal ions constitutes the metallic bond.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ধাতু বিদ্যুৎ পরিবহন করে কেন?",
+            "question_en": "Why do metals conduct electricity?",
+            "options": [
+              {"id": "a", "bn": "এতে মুক্ত চলমান ইলেকট্রন থাকে", "en": "They contain free mobile electrons"},
+              {"id": "b", "bn": "এতে মুক্ত প্রোটন থাকে", "en": "They contain free protons"},
+              {"id": "c", "bn": "এতে আয়ন থাকে না", "en": "They contain no ions"},
+              {"id": "d", "bn": "এরা সমযোজী", "en": "They are covalent"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ধাতুর মধ্যে বিদ্যমান মুক্ত চলমান ইলেকট্রনসমূহ বৈদ্যুতিক ক্ষেত্রের প্রভাবে চলাচল করতে পারে, ফলে ধাতু কঠিন ও গলিত উভয় অবস্থায় বিদ্যুৎ পরিবহন করে।",
+            "explanation_en": "The free mobile electrons in a metal can move under an electric field, so metals conduct electricity in both solid and molten states.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ধাতুর নমনীয়তা (malleability) ও প্রসার্যতা (ductility) কীসের কারণে হয়?",
+            "question_en": "What causes the malleability and ductility of metals?",
+            "options": [
+              {"id": "a", "bn": "শক্ত দিকনির্দেশিত বন্ধন", "en": "Rigid directional bonds"},
+              {"id": "b", "bn": "ইলেকট্রন সমুদ্রে ধাতব আয়নের স্তর সহজে পিছলে যেতে পারে", "en": "Layers of metal ions can slide over each other within the electron sea"},
+              {"id": "c", "bn": "আয়নিক জালিকা ভেঙে যায়", "en": "The ionic lattice breaks apart"},
+              {"id": "d", "bn": "সমযোজী অণু ভেঙে যায়", "en": "Covalent molecules break"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ধাতব বন্ধন দিকনির্দেশহীন হওয়ায় চাপ প্রয়োগ করলে ধাতব আয়নের স্তরসমূহ ইলেকট্রন সমুদ্রের মধ্যে একে অপরের উপর দিয়ে পিছলে যেতে পারে, তবু বন্ধন অক্ষুণ্ন থাকে; ফলে ধাতু নমনীয় ও প্রসার্য হয়।",
+            "explanation_en": "Because metallic bonding is non-directional, when force is applied the layers of metal ions can slide over one another within the electron sea while the bond remains intact, making metals malleable and ductile.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি ধাতব বন্ধনের বৈশিষ্ট্য নয়?",
+            "question_en": "Which of the following is NOT a characteristic of metallic bonding?",
+            "options": [
+              {"id": "a", "bn": "উচ্চ তাপ পরিবাহিতা", "en": "High thermal conductivity"},
+              {"id": "b", "bn": "ধাতব দ্যুতি", "en": "Metallic lustre"},
+              {"id": "c", "bn": "কঠিন অবস্থায় বিদ্যুৎ অপরিবাহী", "en": "Non-conductive in the solid state"},
+              {"id": "d", "bn": "উচ্চ গলনাঙ্ক", "en": "High melting point"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "ধাতু কঠিন অবস্থাতেও মুক্ত ইলেকট্রনের কারণে বিদ্যুৎ পরিবহন করে, তাই 'কঠিন অবস্থায় বিদ্যুৎ অপরিবাহী' ধাতব বন্ধনের বৈশিষ্ট্য নয়। উচ্চ তাপ পরিবাহিতা, দ্যুতি ও উচ্চ গলনাঙ্ক ধাতুর বৈশিষ্ট্য।",
+            "explanation_en": "Metals conduct electricity even in the solid state due to free electrons, so 'non-conductive in the solid state' is not a metallic property. High thermal conductivity, lustre, and high melting point are metallic characteristics.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "ধাতুর উচ্চ গলনাঙ্ক ও স্ফুটনাঙ্কের প্রধান কারণ কী?",
+            "question_en": "What is the main reason for the high melting and boiling points of metals?",
+            "options": [
+              {"id": "a", "bn": "দুর্বল আন্তঃআণবিক আকর্ষণ", "en": "Weak intermolecular forces"},
+              {"id": "b", "bn": "ধনাত্মক আয়ন ও মুক্ত ইলেকট্রনের মধ্যে শক্তিশালী আকর্ষণ", "en": "Strong attraction between positive ions and the free electrons"},
+              {"id": "c", "bn": "সমযোজী অণুর উপস্থিতি", "en": "Presence of covalent molecules"},
+              {"id": "d", "bn": "হাইড্রোজেন বন্ধন", "en": "Hydrogen bonding"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ধাতব জালিকায় ধনাত্মক ধাতব আয়ন ও মুক্ত ইলেকট্রন সমুদ্রের মধ্যে শক্তিশালী স্থির-বৈদ্যুতিক আকর্ষণ বিদ্যমান; এই আকর্ষণ ভাঙতে অধিক শক্তি লাগে বলে ধাতুর গলনাঙ্ক ও স্ফুটনাঙ্ক উচ্চ হয়।",
+            "explanation_en": "In the metallic lattice there is strong electrostatic attraction between the positive metal ions and the sea of free electrons; breaking this attraction requires much energy, so metals have high melting and boiling points.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "আয়নিক ও সমযোজী যৌগের ধর্ম",
+        "title_en": "Properties of Ionic and Covalent Compounds",
+        "mcqs": [
+          {
+            "question_bn": "সাধারণত আয়নিক যৌগের গলনাঙ্ক কেমন?",
+            "question_en": "What is the melting point of ionic compounds generally like?",
+            "options": [
+              {"id": "a", "bn": "খুব কম", "en": "Very low"},
+              {"id": "b", "bn": "উচ্চ", "en": "High"},
+              {"id": "c", "bn": "শূন্য", "en": "Zero"},
+              {"id": "d", "bn": "ঋণাত্মক", "en": "Negative"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "আয়নিক যৌগে বিপরীত আয়নের মধ্যে শক্তিশালী স্থির-বৈদ্যুতিক আকর্ষণ থাকায় জালিকা ভাঙতে অধিক তাপশক্তি লাগে, তাই এদের গলনাঙ্ক ও স্ফুটনাঙ্ক উচ্চ হয়।",
+            "explanation_en": "In ionic compounds the strong electrostatic attraction between oppositely charged ions requires much heat to break the lattice, so their melting and boiling points are high.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "সমযোজী যৌগসমূহ সাধারণত পানিতে কেমন আচরণ করে?",
+            "question_en": "How do covalent compounds generally behave in water?",
+            "options": [
+              {"id": "a", "bn": "সব সমযোজী যৌগ পানিতে অত্যন্ত দ্রবণীয়", "en": "All covalent compounds are highly soluble in water"},
+              {"id": "b", "bn": "অধিকাংশ সমযোজী যৌগ পানিতে অদ্রবণীয় বা কম দ্রবণীয়", "en": "Most covalent compounds are insoluble or poorly soluble in water"},
+              {"id": "c", "bn": "সব সমযোজী যৌগ পানিকে ধাতুতে পরিণত করে", "en": "All covalent compounds turn water into metal"},
+              {"id": "d", "bn": "এরা পানিতে বিস্ফোরিত হয়", "en": "They explode in water"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অধিকাংশ সমযোজী যৌগ অপোলার এবং পানিতে অদ্রবণীয় বা কম দ্রবণীয়, তবে জৈব দ্রাবকে দ্রবণীয়; যদিও কিছু পোলার সমযোজী যৌগ (যেমন চিনি) পানিতে দ্রবণীয়।",
+            "explanation_en": "Most covalent compounds are non-polar and insoluble or poorly soluble in water but soluble in organic solvents; although some polar covalent compounds (like sugar) do dissolve in water.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "আয়নিক যৌগ গলিত অবস্থায় বা জলীয় দ্রবণে বিদ্যুৎ পরিবহন করে কেন?",
+            "question_en": "Why do ionic compounds conduct electricity in the molten state or in aqueous solution?",
+            "options": [
+              {"id": "a", "bn": "তখন মুক্ত চলমান আয়ন পাওয়া যায়", "en": "Free mobile ions become available"},
+              {"id": "b", "bn": "তখন মুক্ত প্রোটন পাওয়া যায়", "en": "Free protons become available"},
+              {"id": "c", "bn": "তখন যৌগ ধাতুতে পরিণত হয়", "en": "The compound turns into a metal"},
+              {"id": "d", "bn": "তারা কখনো বিদ্যুৎ পরিবহন করে না", "en": "They never conduct electricity"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "কঠিন অবস্থায় আয়নসমূহ জালিকায় স্থির থাকে বলে বিদ্যুৎ পরিবহন করে না; কিন্তু গলিত বা দ্রবীভূত অবস্থায় আয়নসমূহ মুক্তভাবে চলাচল করতে পারে, ফলে বিদ্যুৎ পরিবহন করে।",
+            "explanation_en": "In the solid state the ions are fixed in the lattice and cannot conduct; but when molten or dissolved the ions become free to move, so they conduct electricity.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সমযোজী যৌগের গলনাঙ্ক ও স্ফুটনাঙ্ক সাধারণত আয়নিক যৌগের তুলনায় কেমন?",
+            "question_en": "How do the melting and boiling points of covalent compounds generally compare with those of ionic compounds?",
+            "options": [
+              {"id": "a", "bn": "অনেক বেশি", "en": "Much higher"},
+              {"id": "b", "bn": "সমান", "en": "Equal"},
+              {"id": "c", "bn": "কম", "en": "Lower"},
+              {"id": "d", "bn": "অসীম", "en": "Infinite"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "সমযোজী যৌগের অণুসমূহের মধ্যে দুর্বল আন্তঃআণবিক আকর্ষণ থাকে, যা ভাঙতে কম শক্তি লাগে; তাই এদের গলনাঙ্ক ও স্ফুটনাঙ্ক সাধারণত আয়নিক যৌগের তুলনায় কম হয়।",
+            "explanation_en": "Covalent compounds have weak intermolecular forces between their molecules, requiring less energy to break; hence their melting and boiling points are generally lower than those of ionic compounds.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি অজানা কঠিন পদার্থের গলনাঙ্ক উচ্চ, পানিতে দ্রবণীয় এবং জলীয় দ্রবণে বিদ্যুৎ পরিবহন করে। পদার্থটি সম্ভবত কোন প্রকৃতির?",
+            "question_en": "An unknown solid has a high melting point, is soluble in water, and conducts electricity in aqueous solution. The substance is most likely of what nature?",
+            "options": [
+              {"id": "a", "bn": "সমযোজী যৌগ", "en": "Covalent compound"},
+              {"id": "b", "bn": "আয়নিক যৌগ", "en": "Ionic compound"},
+              {"id": "c", "bn": "নিষ্ক্রিয় গ্যাস", "en": "Inert gas"},
+              {"id": "d", "bn": "জৈব দ্রাবক", "en": "Organic solvent"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "উচ্চ গলনাঙ্ক, পানিতে দ্রবণীয়তা এবং জলীয় দ্রবণে বিদ্যুৎ পরিবহন—এই তিনটি ধর্মই আয়নিক যৌগের বৈশিষ্ট্য, কারণ দ্রবণে মুক্ত আয়ন থাকে। তাই পদার্থটি আয়নিক যৌগ।",
+            "explanation_en": "A high melting point, solubility in water, and conductivity in aqueous solution are all characteristics of ionic compounds, because free ions exist in solution. Hence the substance is an ionic compound.",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "X এবং Y দুটি মৌল যাদের পারমাণবিক সংখ্যা যথাক্রমে ১১ এবং ১৭। এরা পরস্পর বিক্রিয়া করে XY যৌগ গঠন করে।",
+        "stimulus_en": "X and Y are two elements with atomic numbers 11 and 17 respectively. They react together to form the compound XY.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "আয়নিক বন্ধন কাকে বলে?",
+            "question_en": "What is an ionic bond?",
+            "model_answer_bn": "এক পরমাণু থেকে অন্য পরমাণুতে ইলেকট্রন স্থানান্তরের ফলে সৃষ্ট বিপরীত চার্জযুক্ত আয়নসমূহের মধ্যে যে স্থির-বৈদ্যুতিক আকর্ষণ বল কাজ করে তাকে আয়নিক বন্ধন বলে।",
+            "model_answer_en": "An ionic bond is the electrostatic force of attraction between oppositely charged ions formed by the transfer of electrons from one atom to another."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "X মৌলটি কী ধরনের আয়ন গঠন করে ব্যাখ্যা কর।",
+            "question_en": "Explain what type of ion element X forms.",
+            "model_answer_bn": "X-এর পারমাণবিক সংখ্যা ১১, ইলেকট্রন বিন্যাস 2,8,1। সর্ববহিঃস্থ স্তরে ১টি ইলেকট্রন থাকায় এটি সহজে ঐ ইলেকট্রন ত্যাগ করে X⁺ ধনাত্মক আয়ন (ক্যাটায়ন) গঠন করে এবং নিয়নের স্থিতিশীল বিন্যাস অর্জন করে।",
+            "model_answer_en": "X has atomic number 11 with configuration 2,8,1. As it has 1 electron in its outermost shell, it readily loses that electron to form the X⁺ cation and attains the stable configuration of neon."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "X ও Y কীভাবে XY যৌগ গঠন করে ইলেকট্রন স্থানান্তরের মাধ্যমে দেখাও।",
+            "question_en": "Show how X and Y form the compound XY through electron transfer.",
+            "model_answer_bn": "X (2,8,1) তার সর্ববহিঃস্থ ১টি ইলেকট্রন Y (2,8,7)-কে দান করে। ফলে X → X⁺ + e⁻ এবং Y + e⁻ → Y⁻ হয়। এখন X⁺ (2,8) এবং Y⁻ (2,8,8) উভয়েই অষ্টক পূরণ করে স্থিতিশীল হয়। বিপরীত আয়ন X⁺ ও Y⁻ স্থির-বৈদ্যুতিক আকর্ষণে যুক্ত হয়ে XY (যেমন NaCl) আয়নিক যৌগ গঠন করে।",
+            "model_answer_en": "X (2,8,1) donates its single outermost electron to Y (2,8,7). Thus X → X⁺ + e⁻ and Y + e⁻ → Y⁻. Now X⁺ (2,8) and Y⁻ (2,8,8) both complete their octets and become stable. The oppositely charged ions X⁺ and Y⁻ join through electrostatic attraction to form the ionic compound XY (such as NaCl)."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "XY যৌগটি কঠিন অবস্থায় বিদ্যুৎ পরিবহন করে না, কিন্তু গলিত অবস্থায় করে—বিশ্লেষণ কর।",
+            "question_en": "The compound XY does not conduct electricity in the solid state but does when molten—analyse this.",
+            "model_answer_bn": "XY একটি আয়নিক যৌগ (X⁺ ও Y⁻ আয়ন দ্বারা গঠিত)। কঠিন অবস্থায় আয়নসমূহ দৃঢ় জালিকায় নির্দিষ্ট স্থানে আবদ্ধ থাকে ও চলাচল করতে পারে না, তাই চার্জ পরিবহনের বাহক না থাকায় এটি বিদ্যুৎ পরিবহন করে না। কিন্তু গলিত অবস্থায় তাপশক্তিতে জালিকা ভেঙে যায় এবং X⁺ ও Y⁻ আয়নসমূহ মুক্তভাবে চলাচল করতে পারে; এই মুক্ত চলমান আয়নই চার্জ বহন করে বিদ্যুৎ পরিবহন করে। তাই XY কঠিন অবস্থায় অপরিবাহী কিন্তু গলিত অবস্থায় পরিবাহী।",
+            "model_answer_en": "XY is an ionic compound (made of X⁺ and Y⁻ ions). In the solid state the ions are locked in fixed positions within a rigid lattice and cannot move, so there are no charge carriers and it does not conduct electricity. When molten, heat energy breaks the lattice and the X⁺ and Y⁻ ions become free to move; these mobile ions carry charge and conduct electricity. Hence XY is non-conductive as a solid but conductive when molten."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "নিচে তিনটি পদার্থ দেওয়া হলো: P = NaCl, Q = CH₄, R = তামা (Cu)।",
+        "stimulus_en": "Three substances are given below: P = NaCl, Q = CH₄, R = copper (Cu).",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "সমযোজী বন্ধন কী?",
+            "question_en": "What is a covalent bond?",
+            "model_answer_bn": "দুই বা ততোধিক পরমাণুর মধ্যে ইলেকট্রন জোড় পরস্পর শেয়ারের মাধ্যমে সৃষ্ট বন্ধনকে সমযোজী বন্ধন বলে।",
+            "model_answer_en": "A covalent bond is the bond formed by the mutual sharing of one or more electron pairs between two or more atoms."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "R পদার্থে কোন ধরনের বন্ধন বিদ্যমান তা ব্যাখ্যা কর।",
+            "question_en": "Explain what type of bonding is present in substance R.",
+            "model_answer_bn": "R হলো তামা, একটি ধাতু, যাতে ধাতব বন্ধন বিদ্যমান। তামার পরমাণুসমূহ তাদের সর্ববহিঃস্থ ইলেকট্রন ত্যাগ করে ধনাত্মক আয়ন গঠন করে এবং মুক্ত ইলেকট্রনসমূহ একটি ইলেকট্রন সমুদ্র সৃষ্টি করে; এই মুক্ত ইলেকট্রন ও ধনাত্মক আয়নের আকর্ষণই ধাতব বন্ধন।",
+            "model_answer_en": "R is copper, a metal, in which metallic bonding is present. Copper atoms lose their outermost electrons to form positive ions, and the free electrons create a sea of electrons; the attraction between these free electrons and the positive ions is the metallic bond."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "Q (CH₄) অণুর গঠন ইলেকট্রন শেয়ারের মাধ্যমে ব্যাখ্যা কর।",
+            "question_en": "Explain the formation of the Q (CH₄) molecule through electron sharing.",
+            "model_answer_bn": "কার্বনের সর্ববহিঃস্থ স্তরে ৪টি ইলেকট্রন (2,4) এবং প্রতিটি হাইড্রোজেনে ১টি ইলেকট্রন থাকে। কার্বন ৪টি হাইড্রোজেন পরমাণুর প্রত্যেকের সাথে ১টি করে ইলেকট্রন জোড় শেয়ার করে ৪টি একক সমযোজী বন্ধন গঠন করে। ফলে কার্বন ৮টি ইলেকট্রন (অষ্টক) এবং প্রতিটি হাইড্রোজেন ২টি ইলেকট্রন (ডুপ্লেট) অর্জন করে স্থিতিশীল CH₄ অণু গঠন করে।",
+            "model_answer_en": "Carbon has 4 electrons in its outermost shell (2,4) and each hydrogen has 1 electron. Carbon shares one electron pair with each of the 4 hydrogen atoms, forming 4 single covalent bonds. Thus carbon attains 8 electrons (octet) and each hydrogen attains 2 electrons (duplet), forming the stable CH₄ molecule."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "P, Q ও R-এর গলনাঙ্ক ও বিদ্যুৎ পরিবাহিতার তুলনামূলক বিশ্লেষণ কর।",
+            "question_en": "Compare and analyse the melting points and electrical conductivity of P, Q and R.",
+            "model_answer_bn": "P (NaCl) একটি আয়নিক যৌগ—শক্তিশালী আয়নিক আকর্ষণের কারণে এর গলনাঙ্ক উচ্চ; কঠিন অবস্থায় অপরিবাহী কিন্তু গলিত/জলীয় দ্রবণে মুক্ত আয়নের কারণে পরিবাহী। Q (CH₄) একটি সমযোজী যৌগ—দুর্বল আন্তঃআণবিক আকর্ষণের কারণে গলনাঙ্ক খুব কম এবং মুক্ত আয়ন বা ইলেকট্রন না থাকায় বিদ্যুৎ অপরিবাহী। R (Cu) একটি ধাতু—ধাতব বন্ধনের শক্তিশালী আকর্ষণের কারণে উচ্চ গলনাঙ্ক এবং মুক্ত চলমান ইলেকট্রনের কারণে কঠিন ও গলিত উভয় অবস্থায় ভালো বিদ্যুৎ পরিবাহী। সুতরাং গলনাঙ্ক: P ও R উচ্চ, Q নিম্ন; পরিবাহিতা: R সর্বাবস্থায় পরিবাহী, P শুধু গলিত/দ্রবণে, Q অপরিবাহী।",
+            "model_answer_en": "P (NaCl) is an ionic compound—its melting point is high due to strong ionic attraction; it is non-conductive as a solid but conductive when molten/in aqueous solution because of free ions. Q (CH₄) is a covalent compound—its melting point is very low due to weak intermolecular forces, and it is non-conductive as it has no free ions or electrons. R (Cu) is a metal—it has a high melting point due to strong metallic bonding and is a good conductor in both solid and molten states because of free mobile electrons. Therefore, melting point: P and R are high, Q is low; conductivity: R conducts in all states, P only when molten/dissolved, and Q is non-conductive."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 6,
+    "title_bn": "মোলের ধারণা ও রাসায়নিক গণনা",
+    "title_en": "Concept of Mole and Chemical Calculations",
+    "topics": [
+      {
+        "title_bn": "মোল ধারণা",
+        "title_en": "Mole Concept",
+        "mcqs": [
+          {
+            "question_bn": "১ মোল বলতে কী বোঝায়?",
+            "question_en": "What does 1 mole represent?",
+            "options": [
+              {"id": "a", "bn": "৬.০২২ × ১০²³ সংখ্যক কণা", "en": "6.022 × 10²³ particles"},
+              {"id": "b", "bn": "১ গ্রাম যেকোনো পদার্থ", "en": "1 gram of any substance"},
+              {"id": "c", "bn": "১০০ সংখ্যক কণা", "en": "100 particles"},
+              {"id": "d", "bn": "১ লিটার গ্যাস", "en": "1 litre of gas"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "১ মোল হলো কোনো পদার্থের এমন পরিমাণ যাতে ৬.০২২ × ১০²³ (অ্যাভোগাড্রো সংখ্যা) সংখ্যক মৌলিক কণা (পরমাণু, অণু বা আয়ন) থাকে।",
+            "explanation_en": "1 mole is the amount of a substance containing 6.022 × 10²³ (Avogadro's number) elementary particles (atoms, molecules, or ions).",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "২ মোল পানিতে (H₂O) কতটি অণু থাকে?",
+            "question_en": "How many molecules are present in 2 moles of water (H₂O)?",
+            "options": [
+              {"id": "a", "bn": "৬.০২২ × ১০²³", "en": "6.022 × 10²³"},
+              {"id": "b", "bn": "১.২০৪৪ × ১০²⁴", "en": "1.2044 × 10²⁴"},
+              {"id": "c", "bn": "৩.০১১ × ১০²³", "en": "3.011 × 10²³"},
+              {"id": "d", "bn": "২ × ১০²³", "en": "2 × 10²³"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "১ মোলে ৬.০২২ × ১০²³ অণু থাকে; সুতরাং ২ মোলে = ২ × ৬.০২২ × ১০²³ = ১.২০৪৪ × ১০²⁴ অণু থাকে।",
+            "explanation_en": "1 mole contains 6.022 × 10²³ molecules; therefore 2 moles = 2 × 6.022 × 10²³ = 1.2044 × 10²⁴ molecules.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "মোল সংখ্যা নির্ণয়ের সঠিক সূত্র কোনটি?",
+            "question_en": "Which is the correct formula for calculating the number of moles?",
+            "options": [
+              {"id": "a", "bn": "মোল = ভর × মোলার ভর", "en": "moles = mass × molar mass"},
+              {"id": "b", "bn": "মোল = ভর ÷ মোলার ভর", "en": "moles = mass ÷ molar mass"},
+              {"id": "c", "bn": "মোল = মোলার ভর ÷ ভর", "en": "moles = molar mass ÷ mass"},
+              {"id": "d", "bn": "মোল = ভর + মোলার ভর", "en": "moles = mass + molar mass"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মোল সংখ্যা = পদার্থের ভর (গ্রাম) ÷ মোলার ভর (গ্রাম/মোল)। এই সূত্র ব্যবহার করে প্রদত্ত ভর থেকে মোল সংখ্যা নির্ণয় করা হয়।",
+            "explanation_en": "Number of moles = mass of substance (g) ÷ molar mass (g/mol). This formula is used to find the number of moles from a given mass.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "০.৫ মোল CO₂ গ্যাসে কতটি অণু থাকে?",
+            "question_en": "How many molecules are in 0.5 mole of CO₂ gas?",
+            "options": [
+              {"id": "a", "bn": "৬.০২২ × ১০²³", "en": "6.022 × 10²³"},
+              {"id": "b", "bn": "৩.০১১ × ১০²³", "en": "3.011 × 10²³"},
+              {"id": "c", "bn": "১.২০৪ × ১০²⁴", "en": "1.204 × 10²⁴"},
+              {"id": "d", "bn": "১২ × ১০²³", "en": "12 × 10²³"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অণুর সংখ্যা = মোল × অ্যাভোগাড্রো সংখ্যা = ০.৫ × ৬.০২২ × ১০²³ = ৩.০১১ × ১০²³ অণু।",
+            "explanation_en": "Number of molecules = moles × Avogadro's number = 0.5 × 6.022 × 10²³ = 3.011 × 10²³ molecules.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "৩.০১১ × ১০²³ সংখ্যক অক্সিজেন অণু (O₂) কত মোলের সমান?",
+            "question_en": "3.011 × 10²³ oxygen molecules (O₂) is equal to how many moles?",
+            "options": [
+              {"id": "a", "bn": "১ মোল", "en": "1 mole"},
+              {"id": "b", "bn": "০.৫ মোল", "en": "0.5 mole"},
+              {"id": "c", "bn": "২ মোল", "en": "2 moles"},
+              {"id": "d", "bn": "০.২৫ মোল", "en": "0.25 mole"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মোল সংখ্যা = কণার সংখ্যা ÷ অ্যাভোগাড্রো সংখ্যা = (৩.০১১ × ১০²³) ÷ (৬.০২২ × ১০²³) = ০.৫ মোল।",
+            "explanation_en": "Number of moles = number of particles ÷ Avogadro's number = (3.011 × 10²³) ÷ (6.022 × 10²³) = 0.5 mole.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "অ্যাভোগাড্রো সংখ্যা",
+        "title_en": "Avogadro's Number",
+        "mcqs": [
+          {
+            "question_bn": "অ্যাভোগাড্রো সংখ্যার মান কত?",
+            "question_en": "What is the value of Avogadro's number?",
+            "options": [
+              {"id": "a", "bn": "৬.০২২ × ১০²³", "en": "6.022 × 10²³"},
+              {"id": "b", "bn": "৩.০১১ × ১০²³", "en": "3.011 × 10²³"},
+              {"id": "c", "bn": "৬.০২২ × ১০²⁴", "en": "6.022 × 10²⁴"},
+              {"id": "d", "bn": "৯.১ × ১০³¹", "en": "9.1 × 10³¹"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যাভোগাড্রো সংখ্যার মান ৬.০২২ × ১০²³ প্রতি মোল; এটি ১ মোল পদার্থে বিদ্যমান কণার সংখ্যা নির্দেশ করে।",
+            "explanation_en": "The value of Avogadro's number is 6.022 × 10²³ per mole; it represents the number of particles present in 1 mole of a substance.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "অ্যাভোগাড্রো সংখ্যা প্রতীকে কী দ্বারা প্রকাশ করা হয়?",
+            "question_en": "What symbol is used to represent Avogadro's number?",
+            "options": [
+              {"id": "a", "bn": "Nₐ", "en": "Nₐ"},
+              {"id": "b", "bn": "R", "en": "R"},
+              {"id": "c", "bn": "k", "en": "k"},
+              {"id": "d", "bn": "Z", "en": "Z"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যাভোগাড্রো সংখ্যাকে Nₐ প্রতীক দ্বারা প্রকাশ করা হয়, যার মান ৬.০২২ × ১০²³ প্রতি মোল।",
+            "explanation_en": "Avogadro's number is represented by the symbol Nₐ, with a value of 6.022 × 10²³ per mole.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "১ মোল কার্বন পরমাণুতে কতটি পরমাণু থাকে?",
+            "question_en": "How many atoms are there in 1 mole of carbon atoms?",
+            "options": [
+              {"id": "a", "bn": "১২", "en": "12"},
+              {"id": "b", "bn": "৬.০২২ × ১০²³", "en": "6.022 × 10²³"},
+              {"id": "c", "bn": "১", "en": "1"},
+              {"id": "d", "bn": "২৪", "en": "24"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "যেকোনো পদার্থের ১ মোলে অ্যাভোগাড্রো সংখ্যক অর্থাৎ ৬.০২২ × ১০²³টি মৌলিক কণা থাকে; তাই ১ মোল কার্বনে ৬.০২২ × ১০²³টি কার্বন পরমাণু থাকে।",
+            "explanation_en": "1 mole of any substance contains Avogadro's number, i.e. 6.022 × 10²³ elementary particles; so 1 mole of carbon contains 6.022 × 10²³ carbon atoms.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "১ মোল H₂O-তে কতটি হাইড্রোজেন পরমাণু থাকে?",
+            "question_en": "How many hydrogen atoms are present in 1 mole of H₂O?",
+            "options": [
+              {"id": "a", "bn": "৬.০২২ × ১০²³", "en": "6.022 × 10²³"},
+              {"id": "b", "bn": "১.২০৪৪ × ১০²⁴", "en": "1.2044 × 10²⁴"},
+              {"id": "c", "bn": "৩.০১১ × ১০²³", "en": "3.011 × 10²³"},
+              {"id": "d", "bn": "২", "en": "2"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "১ মোল H₂O-তে ৬.০২২ × ১০²³টি অণু থাকে এবং প্রতিটি অণুতে ২টি হাইড্রোজেন পরমাণু থাকে; তাই মোট হাইড্রোজেন পরমাণু = ২ × ৬.০২২ × ১০²³ = ১.২০৪৪ × ১০²⁴টি।",
+            "explanation_en": "1 mole of H₂O contains 6.022 × 10²³ molecules, and each molecule has 2 hydrogen atoms; so total hydrogen atoms = 2 × 6.022 × 10²³ = 1.2044 × 10²⁴.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "১.৫০৫৫ × ১০²³ সংখ্যক পরমাণু কত মোল পদার্থের সমান?",
+            "question_en": "1.5055 × 10²³ atoms is equal to how many moles of a substance?",
+            "options": [
+              {"id": "a", "bn": "১ মোল", "en": "1 mole"},
+              {"id": "b", "bn": "০.৫ মোল", "en": "0.5 mole"},
+              {"id": "c", "bn": "০.২৫ মোল", "en": "0.25 mole"},
+              {"id": "d", "bn": "২ মোল", "en": "2 moles"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "মোল সংখ্যা = কণার সংখ্যা ÷ অ্যাভোগাড্রো সংখ্যা = (১.৫০৫৫ × ১০²³) ÷ (৬.০২২ × ১০²³) = ০.২৫ মোল।",
+            "explanation_en": "Number of moles = number of particles ÷ Avogadro's number = (1.5055 × 10²³) ÷ (6.022 × 10²³) = 0.25 mole.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "মোলার ভর",
+        "title_en": "Molar Mass",
+        "mcqs": [
+          {
+            "question_bn": "পানির (H₂O) মোলার ভর কত? (H=1, O=16)",
+            "question_en": "What is the molar mass of water (H₂O)? (H=1, O=16)",
+            "options": [
+              {"id": "a", "bn": "১৬ g/mol", "en": "16 g/mol"},
+              {"id": "b", "bn": "১৮ g/mol", "en": "18 g/mol"},
+              {"id": "c", "bn": "২০ g/mol", "en": "20 g/mol"},
+              {"id": "d", "bn": "৩৪ g/mol", "en": "34 g/mol"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "H₂O-এর মোলার ভর = (২ × ১) + (১ × ১৬) = ২ + ১৬ = ১৮ g/mol।",
+            "explanation_en": "Molar mass of H₂O = (2 × 1) + (1 × 16) = 2 + 16 = 18 g/mol.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "CO₂-এর মোলার ভর কত? (C=12, O=16)",
+            "question_en": "What is the molar mass of CO₂? (C=12, O=16)",
+            "options": [
+              {"id": "a", "bn": "২৮ g/mol", "en": "28 g/mol"},
+              {"id": "b", "bn": "৪০ g/mol", "en": "40 g/mol"},
+              {"id": "c", "bn": "৪৪ g/mol", "en": "44 g/mol"},
+              {"id": "d", "bn": "৩২ g/mol", "en": "32 g/mol"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "CO₂-এর মোলার ভর = (১ × ১২) + (২ × ১৬) = ১২ + ৩২ = ৪৪ g/mol।",
+            "explanation_en": "Molar mass of CO₂ = (1 × 12) + (2 × 16) = 12 + 32 = 44 g/mol.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "NaOH-এর মোলার ভর কত? (Na=23, O=16, H=1)",
+            "question_en": "What is the molar mass of NaOH? (Na=23, O=16, H=1)",
+            "options": [
+              {"id": "a", "bn": "৩৯ g/mol", "en": "39 g/mol"},
+              {"id": "b", "bn": "৪০ g/mol", "en": "40 g/mol"},
+              {"id": "c", "bn": "২৩ g/mol", "en": "23 g/mol"},
+              {"id": "d", "bn": "৫৬ g/mol", "en": "56 g/mol"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "NaOH-এর মোলার ভর = ২৩ (Na) + ১৬ (O) + ১ (H) = ৪০ g/mol।",
+            "explanation_en": "Molar mass of NaOH = 23 (Na) + 16 (O) + 1 (H) = 40 g/mol.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "CaCO₃-এর মোলার ভর কত? (Ca=40, C=12, O=16)",
+            "question_en": "What is the molar mass of CaCO₃? (Ca=40, C=12, O=16)",
+            "options": [
+              {"id": "a", "bn": "৮৪ g/mol", "en": "84 g/mol"},
+              {"id": "b", "bn": "১০০ g/mol", "en": "100 g/mol"},
+              {"id": "c", "bn": "১১৬ g/mol", "en": "116 g/mol"},
+              {"id": "d", "bn": "৬৮ g/mol", "en": "68 g/mol"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "CaCO₃-এর মোলার ভর = ৪০ (Ca) + ১২ (C) + (৩ × ১৬) (O) = ৪০ + ১২ + ৪৮ = ১০০ g/mol।",
+            "explanation_en": "Molar mass of CaCO₃ = 40 (Ca) + 12 (C) + (3 × 16) (O) = 40 + 12 + 48 = 100 g/mol.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "৩৬ গ্রাম পানিতে (H₂O) কত মোল পানি আছে? (মোলার ভর = ১৮ g/mol)",
+            "question_en": "How many moles of water are in 36 g of water (H₂O)? (molar mass = 18 g/mol)",
+            "options": [
+              {"id": "a", "bn": "১ মোল", "en": "1 mole"},
+              {"id": "b", "bn": "২ মোল", "en": "2 moles"},
+              {"id": "c", "bn": "০.৫ মোল", "en": "0.5 mole"},
+              {"id": "d", "bn": "৩৬ মোল", "en": "36 moles"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মোল সংখ্যা = ভর ÷ মোলার ভর = ৩৬ ÷ ১৮ = ২ মোল।",
+            "explanation_en": "Number of moles = mass ÷ molar mass = 36 ÷ 18 = 2 moles.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "শতকরা সংযুতি",
+        "title_en": "Percentage Composition",
+        "mcqs": [
+          {
+            "question_bn": "কোনো যৌগে একটি মৌলের শতকরা সংযুতি নির্ণয়ের সূত্র কোনটি?",
+            "question_en": "Which is the formula for finding the percentage composition of an element in a compound?",
+            "options": [
+              {"id": "a", "bn": "(মৌলের মোট ভর ÷ যৌগের মোলার ভর) × ১০০", "en": "(total mass of the element ÷ molar mass of compound) × 100"},
+              {"id": "b", "bn": "(যৌগের মোলার ভর ÷ মৌলের ভর) × ১০০", "en": "(molar mass of compound ÷ mass of element) × 100"},
+              {"id": "c", "bn": "মৌলের ভর × যৌগের ভর", "en": "mass of element × mass of compound"},
+              {"id": "d", "bn": "মৌলের ভর ÷ ১০০", "en": "mass of element ÷ 100"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "শতকরা সংযুতি = (যৌগে ঐ মৌলের মোট ভর ÷ যৌগের মোলার ভর) × ১০০; এটি প্রতি ১০০ ভাগ যৌগে মৌলটির ভরের পরিমাণ নির্দেশ করে।",
+            "explanation_en": "Percentage composition = (total mass of the element in the compound ÷ molar mass of the compound) × 100; it gives the mass of the element per 100 parts of the compound.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "পানিতে (H₂O) হাইড্রোজেনের শতকরা পরিমাণ কত? (H=1, O=16)",
+            "question_en": "What is the percentage of hydrogen in water (H₂O)? (H=1, O=16)",
+            "options": [
+              {"id": "a", "bn": "১১.১১%", "en": "11.11%"},
+              {"id": "b", "bn": "৮৮.৮৯%", "en": "88.89%"},
+              {"id": "c", "bn": "৫০%", "en": "50%"},
+              {"id": "d", "bn": "২৫%", "en": "25%"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "H₂O-তে H-এর মোট ভর = ২, মোলার ভর = ১৮; হাইড্রোজেনের শতকরা = (২ ÷ ১৮) × ১০০ = ১১.১১%।",
+            "explanation_en": "In H₂O the total mass of H = 2 and molar mass = 18; percentage of hydrogen = (2 ÷ 18) × 100 = 11.11%.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "CO₂-তে কার্বনের শতকরা পরিমাণ কত? (C=12, O=16)",
+            "question_en": "What is the percentage of carbon in CO₂? (C=12, O=16)",
+            "options": [
+              {"id": "a", "bn": "২৭.২৭%", "en": "27.27%"},
+              {"id": "b", "bn": "৭২.৭৩%", "en": "72.73%"},
+              {"id": "c", "bn": "৫০%", "en": "50%"},
+              {"id": "d", "bn": "৪৪%", "en": "44%"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "CO₂-এর মোলার ভর = ৪৪; কার্বনের ভর = ১২; কার্বনের শতকরা = (১২ ÷ ৪৪) × ১০০ = ২৭.২৭%।",
+            "explanation_en": "Molar mass of CO₂ = 44; mass of carbon = 12; percentage of carbon = (12 ÷ 44) × 100 = 27.27%.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "NaOH-এ সোডিয়ামের শতকরা পরিমাণ কত? (Na=23, মোলার ভর=40)",
+            "question_en": "What is the percentage of sodium in NaOH? (Na=23, molar mass=40)",
+            "options": [
+              {"id": "a", "bn": "৪০%", "en": "40%"},
+              {"id": "b", "bn": "৫৭.৫%", "en": "57.5%"},
+              {"id": "c", "bn": "২৩%", "en": "23%"},
+              {"id": "d", "bn": "৪৫%", "en": "45%"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "NaOH-এর মোলার ভর = ৪০; Na-এর ভর = ২৩; সোডিয়ামের শতকরা = (২৩ ÷ ৪০) × ১০০ = ৫৭.৫%।",
+            "explanation_en": "Molar mass of NaOH = 40; mass of Na = 23; percentage of sodium = (23 ÷ 40) × 100 = 57.5%.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "CaCO₃-তে অক্সিজেনের শতকরা পরিমাণ কত? (O=16, মোলার ভর=100)",
+            "question_en": "What is the percentage of oxygen in CaCO₃? (O=16, molar mass=100)",
+            "options": [
+              {"id": "a", "bn": "১৬%", "en": "16%"},
+              {"id": "b", "bn": "৩২%", "en": "32%"},
+              {"id": "c", "bn": "৪৮%", "en": "48%"},
+              {"id": "d", "bn": "৬০%", "en": "60%"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "CaCO₃-তে অক্সিজেনের মোট ভর = ৩ × ১৬ = ৪৮; মোলার ভর = ১০০; অক্সিজেনের শতকরা = (৪৮ ÷ ১০০) × ১০০ = ৪৮%।",
+            "explanation_en": "In CaCO₃ the total mass of oxygen = 3 × 16 = 48; molar mass = 100; percentage of oxygen = (48 ÷ 100) × 100 = 48%.",
+            "difficulty": "medium"
+          }
+        ]
+      },
+      {
+        "title_bn": "স্থূল ও আণবিক সংকেত",
+        "title_en": "Empirical and Molecular Formula",
+        "mcqs": [
+          {
+            "question_bn": "স্থূল সংকেত (empirical formula) কী নির্দেশ করে?",
+            "question_en": "What does an empirical formula indicate?",
+            "options": [
+              {"id": "a", "bn": "যৌগে পরমাণুসমূহের ক্ষুদ্রতম পূর্ণসংখ্যা অনুপাত", "en": "The simplest whole-number ratio of atoms in a compound"},
+              {"id": "b", "bn": "অণুতে পরমাণুর প্রকৃত সংখ্যা", "en": "The actual number of atoms in a molecule"},
+              {"id": "c", "bn": "যৌগের মোট ভর", "en": "The total mass of the compound"},
+              {"id": "d", "bn": "যৌগের রং", "en": "The colour of the compound"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "স্থূল সংকেত কোনো যৌগে বিদ্যমান বিভিন্ন মৌলের পরমাণুসমূহের ক্ষুদ্রতম পূর্ণসংখ্যার অনুপাত প্রকাশ করে, প্রকৃত সংখ্যা নয়।",
+            "explanation_en": "An empirical formula expresses the simplest whole-number ratio of the atoms of different elements in a compound, not their actual numbers.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "আণবিক সংকেত ও স্থূল সংকেতের মধ্যে সম্পর্ক কোনটি?",
+            "question_en": "What is the relationship between molecular formula and empirical formula?",
+            "options": [
+              {"id": "a", "bn": "আণবিক সংকেত = n × স্থূল সংকেত", "en": "Molecular formula = n × empirical formula"},
+              {"id": "b", "bn": "আণবিক সংকেত = স্থূল সংকেত ÷ n", "en": "Molecular formula = empirical formula ÷ n"},
+              {"id": "c", "bn": "উভয় সর্বদা সমান", "en": "Both are always equal"},
+              {"id": "d", "bn": "এদের কোনো সম্পর্ক নেই", "en": "They have no relationship"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "আণবিক সংকেত = n × স্থূল সংকেত, যেখানে n = আণবিক ভর ÷ স্থূল সংকেত ভর, একটি পূর্ণসংখ্যা।",
+            "explanation_en": "Molecular formula = n × empirical formula, where n = molecular mass ÷ empirical formula mass, a whole number.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "গ্লুকোজের আণবিক সংকেত C₆H₁₂O₆; এর স্থূল সংকেত কোনটি?",
+            "question_en": "The molecular formula of glucose is C₆H₁₂O₆; what is its empirical formula?",
+            "options": [
+              {"id": "a", "bn": "CHO", "en": "CHO"},
+              {"id": "b", "bn": "CH₂O", "en": "CH₂O"},
+              {"id": "c", "bn": "C₂H₄O₂", "en": "C₂H₄O₂"},
+              {"id": "d", "bn": "C₆H₁₂O₆", "en": "C₆H₁₂O₆"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "C₆H₁₂O₆-এ C:H:O = 6:12:6 = 1:2:1 (৬ দিয়ে ভাগ করে); সুতরাং স্থূল সংকেত CH₂O।",
+            "explanation_en": "In C₆H₁₂O₆, C:H:O = 6:12:6 = 1:2:1 (dividing by 6); hence the empirical formula is CH₂O.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি যৌগে ৪০% কার্বন, ৬.৭% হাইড্রোজেন ও ৫৩.৩% অক্সিজেন আছে (C=12, H=1, O=16)। এর স্থূল সংকেত কোনটি?",
+            "question_en": "A compound contains 40% carbon, 6.7% hydrogen and 53.3% oxygen (C=12, H=1, O=16). What is its empirical formula?",
+            "options": [
+              {"id": "a", "bn": "CHO", "en": "CHO"},
+              {"id": "b", "bn": "CH₂O", "en": "CH₂O"},
+              {"id": "c", "bn": "C₂H₄O", "en": "C₂H₄O"},
+              {"id": "d", "bn": "CH₄O", "en": "CH₄O"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মোল অনুপাত: C = ৪০/১২ = ৩.৩৩, H = ৬.৭/১ = ৬.৭, O = ৫৩.৩/১৬ = ৩.৩৩। ক্ষুদ্রতম (৩.৩৩) দিয়ে ভাগ করে C:H:O = ১:২:১; সুতরাং স্থূল সংকেত CH₂O।",
+            "explanation_en": "Mole ratio: C = 40/12 = 3.33, H = 6.7/1 = 6.7, O = 53.3/16 = 3.33. Dividing by the smallest (3.33) gives C:H:O = 1:2:1; hence the empirical formula is CH₂O.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "একটি যৌগের স্থূল সংকেত CH₂ এবং আণবিক ভর ২৮। এর আণবিক সংকেত কোনটি? (C=12, H=1)",
+            "question_en": "A compound has empirical formula CH₂ and molecular mass 28. What is its molecular formula? (C=12, H=1)",
+            "options": [
+              {"id": "a", "bn": "CH₂", "en": "CH₂"},
+              {"id": "b", "bn": "C₂H₄", "en": "C₂H₄"},
+              {"id": "c", "bn": "C₃H₆", "en": "C₃H₆"},
+              {"id": "d", "bn": "C₄H₈", "en": "C₄H₈"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "CH₂-এর স্থূল সংকেত ভর = ১২ + ২ = ১৪; n = আণবিক ভর ÷ স্থূল সংকেত ভর = ২৮ ÷ ১৪ = ২। সুতরাং আণবিক সংকেত = ২ × CH₂ = C₂H₄।",
+            "explanation_en": "Empirical formula mass of CH₂ = 12 + 2 = 14; n = molecular mass ÷ empirical formula mass = 28 ÷ 14 = 2. Hence molecular formula = 2 × CH₂ = C₂H₄.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "মোলার আয়তন ও গাণিতিক হিসাব",
+        "title_en": "Molar Volume and Stoichiometry",
+        "mcqs": [
+          {
+            "question_bn": "STP-তে ১ মোল যেকোনো গ্যাসের আয়তন কত?",
+            "question_en": "What is the volume of 1 mole of any gas at STP?",
+            "options": [
+              {"id": "a", "bn": "২২.৪ L", "en": "22.4 L"},
+              {"id": "b", "bn": "১ L", "en": "1 L"},
+              {"id": "c", "bn": "১১.২ L", "en": "11.2 L"},
+              {"id": "d", "bn": "৪৪.৮ L", "en": "44.8 L"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "আভোগাড্রোর সূত্র অনুসারে STP (প্রমাণ তাপমাত্রা ও চাপ)-তে যেকোনো গ্যাসের ১ মোলের আয়তন ২২.৪ লিটার, যাকে মোলার আয়তন বলে।",
+            "explanation_en": "According to Avogadro's law, at STP (standard temperature and pressure) 1 mole of any gas occupies 22.4 litres, called the molar volume.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "STP-তে ২ মোল O₂ গ্যাসের আয়তন কত?",
+            "question_en": "What is the volume of 2 moles of O₂ gas at STP?",
+            "options": [
+              {"id": "a", "bn": "২২.৪ L", "en": "22.4 L"},
+              {"id": "b", "bn": "৪৪.৮ L", "en": "44.8 L"},
+              {"id": "c", "bn": "১১.২ L", "en": "11.2 L"},
+              {"id": "d", "bn": "৩২ L", "en": "32 L"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "আয়তন = মোল × ২২.৪ L = ২ × ২২.৪ = ৪৪.৮ L।",
+            "explanation_en": "Volume = moles × 22.4 L = 2 × 22.4 = 44.8 L.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "STP-তে ১১.২ L কোনো গ্যাসে কত মোল গ্যাস থাকে?",
+            "question_en": "How many moles of gas are present in 11.2 L of a gas at STP?",
+            "options": [
+              {"id": "a", "bn": "১ মোল", "en": "1 mole"},
+              {"id": "b", "bn": "২ মোল", "en": "2 moles"},
+              {"id": "c", "bn": "০.৫ মোল", "en": "0.5 mole"},
+              {"id": "d", "bn": "১১.২ মোল", "en": "11.2 moles"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "মোল সংখ্যা = আয়তন ÷ ২২.৪ = ১১.২ ÷ ২২.৪ = ০.৫ মোল।",
+            "explanation_en": "Number of moles = volume ÷ 22.4 = 11.2 ÷ 22.4 = 0.5 mole.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "STP-তে ৮ গ্রাম O₂ গ্যাসের আয়তন কত? (O₂ মোলার ভর = ৩২ g/mol)",
+            "question_en": "What is the volume of 8 g of O₂ gas at STP? (molar mass of O₂ = 32 g/mol)",
+            "options": [
+              {"id": "a", "bn": "২২.৪ L", "en": "22.4 L"},
+              {"id": "b", "bn": "১১.২ L", "en": "11.2 L"},
+              {"id": "c", "bn": "৫.৬ L", "en": "5.6 L"},
+              {"id": "d", "bn": "৪৪.৮ L", "en": "44.8 L"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "মোল = ভর ÷ মোলার ভর = ৮ ÷ ৩২ = ০.২৫ মোল; আয়তন = ০.২৫ × ২২.৪ = ৫.৬ L।",
+            "explanation_en": "Moles = mass ÷ molar mass = 8 ÷ 32 = 0.25 mole; volume = 0.25 × 22.4 = 5.6 L.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "বিক্রিয়া C + O₂ → CO₂ অনুসারে ১ মোল কার্বন সম্পূর্ণ পুড়লে কত মোল CO₂ উৎপন্ন হয়?",
+            "question_en": "According to the reaction C + O₂ → CO₂, how many moles of CO₂ are produced when 1 mole of carbon burns completely?",
+            "options": [
+              {"id": "a", "bn": "০.৫ মোল", "en": "0.5 mole"},
+              {"id": "b", "bn": "১ মোল", "en": "1 mole"},
+              {"id": "c", "bn": "২ মোল", "en": "2 moles"},
+              {"id": "d", "bn": "৪ মোল", "en": "4 moles"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সুষম বিক্রিয়া C + O₂ → CO₂ অনুসারে ১ মোল কার্বন ১ মোল O₂-এর সাথে বিক্রিয়া করে ১ মোল CO₂ উৎপন্ন করে (মোল অনুপাত ১:১:১)।",
+            "explanation_en": "According to the balanced reaction C + O₂ → CO₂, 1 mole of carbon reacts with 1 mole of O₂ to produce 1 mole of CO₂ (mole ratio 1:1:1).",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "একটি পাত্রে ৪৪ গ্রাম CO₂ গ্যাস আছে। (C=12, O=16, অ্যাভোগাড্রো সংখ্যা = ৬.০২২ × ১০²³)",
+        "stimulus_en": "A container holds 44 g of CO₂ gas. (C=12, O=16, Avogadro's number = 6.022 × 10²³)",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "মোল কাকে বলে?",
+            "question_en": "What is a mole?",
+            "model_answer_bn": "কোনো পদার্থের যে পরিমাণে ৬.০২২ × ১০²³ সংখ্যক মৌলিক কণা (পরমাণু, অণু বা আয়ন) থাকে, সেই পরিমাণকে ১ মোল বলে।",
+            "model_answer_en": "A mole is the amount of a substance that contains 6.022 × 10²³ elementary particles (atoms, molecules, or ions)."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "CO₂-এর মোলার ভর নির্ণয় কর।",
+            "question_en": "Calculate the molar mass of CO₂.",
+            "model_answer_bn": "CO₂-এর মোলার ভর = (১ × C) + (২ × O) = (১ × ১২) + (২ × ১৬) = ১২ + ৩২ = ৪৪ g/mol।",
+            "model_answer_en": "Molar mass of CO₂ = (1 × C) + (2 × O) = (1 × 12) + (2 × 16) = 12 + 32 = 44 g/mol."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "পাত্রে কত মোল CO₂ আছে এবং STP-তে এর আয়তন কত তা নির্ণয় কর।",
+            "question_en": "Determine how many moles of CO₂ are in the container and its volume at STP.",
+            "model_answer_bn": "মোল সংখ্যা = ভর ÷ মোলার ভর = ৪৪ ÷ ৪৪ = ১ মোল। STP-তে ১ মোল গ্যাসের আয়তন ২২.৪ L; সুতরাং আয়তন = ১ × ২২.৪ = ২২.৪ L।",
+            "model_answer_en": "Number of moles = mass ÷ molar mass = 44 ÷ 44 = 1 mole. At STP 1 mole of gas occupies 22.4 L; hence volume = 1 × 22.4 = 22.4 L."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "পাত্রের CO₂-তে মোট কতটি অণু এবং কতটি অক্সিজেন পরমাণু আছে তা বিশ্লেষণ কর।",
+            "question_en": "Analyse how many total molecules and how many oxygen atoms are present in the CO₂ in the container.",
+            "model_answer_bn": "পাত্রে ১ মোল CO₂ আছে। অণুর সংখ্যা = মোল × অ্যাভোগাড্রো সংখ্যা = ১ × ৬.০২২ × ১০²³ = ৬.০২২ × ১০²³টি অণু। প্রতিটি CO₂ অণুতে ২টি অক্সিজেন পরমাণু থাকে; সুতরাং মোট অক্সিজেন পরমাণু = ২ × ৬.০২২ × ১০²³ = ১.২০৪৪ × ১০²⁴টি। অর্থাৎ ৪৪ গ্রাম CO₂-তে ৬.০২২ × ১০²³টি অণু এবং ১.২০৪৪ × ১০²⁴টি অক্সিজেন পরমাণু রয়েছে।",
+            "model_answer_en": "The container has 1 mole of CO₂. Number of molecules = moles × Avogadro's number = 1 × 6.022 × 10²³ = 6.022 × 10²³ molecules. Each CO₂ molecule contains 2 oxygen atoms; so total oxygen atoms = 2 × 6.022 × 10²³ = 1.2044 × 10²⁴. Thus 44 g of CO₂ contains 6.022 × 10²³ molecules and 1.2044 × 10²⁴ oxygen atoms."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "একটি জৈব যৌগে ভরের হিসাবে ৪০% কার্বন, ৬.৭% হাইড্রোজেন ও ৫৩.৩% অক্সিজেন আছে। যৌগটির আণবিক ভর ৬০। (C=12, H=1, O=16)",
+        "stimulus_en": "An organic compound contains, by mass, 40% carbon, 6.7% hydrogen and 53.3% oxygen. The molecular mass of the compound is 60. (C=12, H=1, O=16)",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "স্থূল সংকেত কাকে বলে?",
+            "question_en": "What is an empirical formula?",
+            "model_answer_bn": "কোনো যৌগে বিদ্যমান মৌলসমূহের পরমাণুর ক্ষুদ্রতম পূর্ণসংখ্যার অনুপাত প্রকাশকারী সংকেতকে স্থূল সংকেত বলে।",
+            "model_answer_en": "An empirical formula is the formula that expresses the simplest whole-number ratio of the atoms of the elements present in a compound."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "শতকরা সংযুতি বলতে কী বোঝ ব্যাখ্যা কর।",
+            "question_en": "Explain what is meant by percentage composition.",
+            "model_answer_bn": "কোনো যৌগের প্রতি ১০০ ভাগ ভরে বিভিন্ন মৌলের ভরের পরিমাণকে ঐ যৌগের শতকরা সংযুতি বলে। এটি = (মৌলের ভর ÷ যৌগের মোলার ভর) × ১০০ সূত্রে নির্ণয় করা হয় এবং যৌগে প্রতিটি মৌলের আপেক্ষিক পরিমাণ নির্দেশ করে।",
+            "model_answer_en": "Percentage composition of a compound is the mass of each element present per 100 parts by mass of the compound. It is found by (mass of element ÷ molar mass of compound) × 100 and indicates the relative amount of each element in the compound."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "যৌগটির স্থূল সংকেত নির্ণয় কর।",
+            "question_en": "Determine the empirical formula of the compound.",
+            "model_answer_bn": "প্রতিটি মৌলের মোল অনুপাত = শতকরা ÷ পারমাণবিক ভর। C = ৪০ ÷ ১২ = ৩.৩৩, H = ৬.৭ ÷ ১ = ৬.৭, O = ৫৩.৩ ÷ ১৬ = ৩.৩৩। ক্ষুদ্রতম মান (৩.৩৩) দিয়ে ভাগ করে: C = ১, H = ২, O = ১। সুতরাং স্থূল সংকেত = CH₂O।",
+            "model_answer_en": "Mole ratio of each element = percentage ÷ atomic mass. C = 40 ÷ 12 = 3.33, H = 6.7 ÷ 1 = 6.7, O = 53.3 ÷ 16 = 3.33. Dividing by the smallest value (3.33): C = 1, H = 2, O = 1. Hence the empirical formula = CH₂O."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "যৌগটির আণবিক সংকেত নির্ণয় করে এতে কার্বনের শতকরা পরিমাণ যাচাই কর।",
+            "question_en": "Determine the molecular formula of the compound and verify the percentage of carbon in it.",
+            "model_answer_bn": "স্থূল সংকেত CH₂O-এর ভর = ১২ + (২ × ১) + ১৬ = ৩০। n = আণবিক ভর ÷ স্থূল সংকেত ভর = ৬০ ÷ ৩০ = ২। সুতরাং আণবিক সংকেত = ২ × CH₂O = C₂H₄O₂। যাচাই: C₂H₄O₂-তে কার্বনের মোট ভর = ২ × ১২ = ২৪, মোলার ভর = ৬০; কার্বনের শতকরা = (২৪ ÷ ৬০) × ১০০ = ৪০%, যা প্রদত্ত মানের সাথে সঙ্গতিপূর্ণ। সুতরাং আণবিক সংকেত C₂H₄O₂ সঠিক।",
+            "model_answer_en": "Mass of empirical formula CH₂O = 12 + (2 × 1) + 16 = 30. n = molecular mass ÷ empirical formula mass = 60 ÷ 30 = 2. Hence the molecular formula = 2 × CH₂O = C₂H₄O₂. Verification: in C₂H₄O₂ the total mass of carbon = 2 × 12 = 24, molar mass = 60; percentage of carbon = (24 ÷ 60) × 100 = 40%, which matches the given value. Therefore the molecular formula C₂H₄O₂ is correct."
+          }
+        ]
+      }
+    ]
+  }
+]

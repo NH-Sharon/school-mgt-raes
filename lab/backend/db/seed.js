@@ -40,11 +40,17 @@ async function upsertSimulation(chapterId, key, titleBn, titleEn, config) {
   return r.rows[0].id;
 }
 
+// SRS tiers are basic/medium/advanced; remap legacy easy/hard authored in this file.
+const DIFFICULTY_MAP = { easy: 'basic', hard: 'advanced' };
+function normDifficulty(d) {
+  return DIFFICULTY_MAP[d] || d || 'medium';
+}
+
 async function addQuestion(chapterId, q) {
   await pool.query(
     `INSERT INTO questions (chapter_id, question_bn, question_en, options, correct_answers, question_type, explanation_bn, explanation_en, difficulty, status)
      VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,'published')`,
-    [chapterId, q.bn, q.en, JSON.stringify(q.options), JSON.stringify(q.correct), q.type || 'single', q.explBn, q.explEn, q.difficulty || 'medium']
+    [chapterId, q.bn, q.en, JSON.stringify(q.options), JSON.stringify(q.correct), q.type || 'single', q.explBn, q.explEn, normDifficulty(q.difficulty)]
   );
 }
 

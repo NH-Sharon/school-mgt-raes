@@ -88,4 +88,32 @@ router.get('/glossary/:subjectId', async (req, res) => {
   }
 });
 
+// FR-3.2 — Creative Questions (CQ) for a chapter (published, student-facing)
+router.get('/cq/chapter/:chapterId', verifyToken, async (req, res) => {
+  try {
+    const result = await pool.query(
+      `SELECT id, chapter_id, topic_id, stimulus_bn, stimulus_en, parts, difficulty
+       FROM cq_questions WHERE chapter_id = $1 AND status = 'published' ORDER BY id`,
+      [req.params.chapterId]
+    );
+    res.json(result.rows);
+  } catch (error) {
+    res.status(500).json({ message: 'Server error' });
+  }
+});
+
+// FR-6.1 — topics of a chapter (published)
+router.get('/topics/chapter/:chapterId', verifyToken, async (req, res) => {
+  try {
+    const result = await pool.query(
+      `SELECT id, chapter_id, title_bn, title_en, order_index
+       FROM topics WHERE chapter_id = $1 AND status = 'published' ORDER BY order_index`,
+      [req.params.chapterId]
+    );
+    res.json(result.rows);
+  } catch (error) {
+    res.status(500).json({ message: 'Server error' });
+  }
+});
+
 module.exports = router;

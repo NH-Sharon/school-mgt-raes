@@ -1,0 +1,1088 @@
+[
+  {
+    "order": 1,
+    "title_bn": "রসায়নের ধারণা",
+    "title_en": "The Concepts of Chemistry",
+    "topics": [
+      {
+        "title_bn": "রসায়ন পরিচিতি",
+        "title_en": "Introduction to Chemistry",
+        "mcqs": [
+          {
+            "question_bn": "রসায়ন কোন বিষয়ের বিজ্ঞান?",
+            "question_en": "Chemistry is the science of which subject?",
+            "options": [
+              {"id": "a", "bn": "শুধু জীবদেহের গঠন", "en": "Only the structure of living bodies"},
+              {"id": "b", "bn": "পদার্থ, এর গঠন, ধর্ম ও পরিবর্তন", "en": "Matter, its composition, properties and changes"},
+              {"id": "c", "bn": "শুধু গ্রহ-নক্ষত্রের গতি", "en": "Only the motion of planets and stars"},
+              {"id": "d", "bn": "শুধু জীবের আচরণ", "en": "Only the behaviour of organisms"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "রসায়ন হলো সেই বিজ্ঞান যা পদার্থের গঠন, ধর্ম, সংযুতি এবং তাদের পরিবর্তন নিয়ে আলোচনা করে।",
+            "explanation_en": "Chemistry is the science that deals with the composition, properties and changes of matter.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোনটি পদার্থের উদাহরণ?",
+            "question_en": "Which of the following is an example of matter?",
+            "options": [
+              {"id": "a", "bn": "আলো", "en": "Light"},
+              {"id": "b", "bn": "তাপ", "en": "Heat"},
+              {"id": "c", "bn": "পানি", "en": "Water"},
+              {"id": "d", "bn": "শব্দ", "en": "Sound"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "পদার্থের ভর ও আয়তন থাকে এবং জায়গা দখল করে; পানি এমন একটি পদার্থ। আলো, তাপ ও শব্দ শক্তির রূপ।",
+            "explanation_en": "Matter has mass and volume and occupies space; water is such a substance. Light, heat and sound are forms of energy.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "'রসায়ন' শব্দটির উৎপত্তি কোন আরবি শব্দ থেকে বলে ধারণা করা হয়?",
+            "question_en": "The word 'Chemistry' is thought to have originated from which Arabic word?",
+            "options": [
+              {"id": "a", "bn": "আল-কিমিয়া", "en": "Al-kimia"},
+              {"id": "b", "bn": "আল-জাবর", "en": "Al-jabr"},
+              {"id": "c", "bn": "আল-নূর", "en": "Al-nur"},
+              {"id": "d", "bn": "আল-ফালাক", "en": "Al-falak"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ইংরেজি 'Chemistry' শব্দটি আরবি 'আল-কিমিয়া' (alchemy) থেকে এসেছে বলে ধারণা করা হয়।",
+            "explanation_en": "The English word 'Chemistry' is believed to be derived from the Arabic word 'Al-kimia' (alchemy).",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "প্রাচীনকালে যারা ধাতুকে স্বর্ণে পরিণত করার চেষ্টা করত তাদের বলা হতো—",
+            "question_en": "Those who in ancient times tried to convert metals into gold were called—",
+            "options": [
+              {"id": "a", "bn": "পদার্থবিদ", "en": "Physicists"},
+              {"id": "b", "bn": "আলকেমিস্ট", "en": "Alchemists"},
+              {"id": "c", "bn": "জ্যোতির্বিদ", "en": "Astronomers"},
+              {"id": "d", "bn": "জীববিজ্ঞানী", "en": "Biologists"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "আলকেমিস্টরা সাধারণ ধাতুকে স্বর্ণে রূপান্তর ও জীবন-অমৃত তৈরির চেষ্টা করতেন; তাদের কাজ থেকেই আধুনিক রসায়নের সূচনা।",
+            "explanation_en": "Alchemists tried to turn base metals into gold and make an elixir of life; modern chemistry grew out of their work.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "পদার্থের যে ধর্ম পরিবর্তনে নতুন পদার্থ সৃষ্টি হয়, তাকে কী বলে?",
+            "question_en": "The property whose change produces a new substance is called—",
+            "options": [
+              {"id": "a", "bn": "ভৌত ধর্ম", "en": "Physical property"},
+              {"id": "b", "bn": "রাসায়নিক ধর্ম", "en": "Chemical property"},
+              {"id": "c", "bn": "যান্ত্রিক ধর্ম", "en": "Mechanical property"},
+              {"id": "d", "bn": "তাপীয় ধর্ম", "en": "Thermal property"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "রাসায়নিক ধর্মের পরিবর্তনে পদার্থের অভ্যন্তরীণ গঠন বদলে গিয়ে নতুন পদার্থ উৎপন্ন হয়, যা রসায়নের মূল আলোচ্য বিষয়।",
+            "explanation_en": "A change in chemical property alters the internal composition of a substance and forms a new substance, the core concern of chemistry.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "রসায়নের পরিধি",
+        "title_en": "Scope of Chemistry",
+        "mcqs": [
+          {
+            "question_bn": "রসায়নের পরিধি বলতে সাধারণত কী বোঝায়?",
+            "question_en": "What is generally meant by the scope of chemistry?",
+            "options": [
+              {"id": "a", "bn": "রসায়ন যে সকল ক্ষেত্রে ব্যবহৃত ও আলোচিত হয়", "en": "All the fields where chemistry is applied and discussed"},
+              {"id": "b", "bn": "শুধু পরীক্ষাগারের কাজ", "en": "Only laboratory work"},
+              {"id": "c", "bn": "শুধু ধাতু গলানো", "en": "Only melting metals"},
+              {"id": "d", "bn": "শুধু গ্যাস তৈরি", "en": "Only producing gases"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রসায়নের পরিধি বলতে সেই সকল বিষয় ও ক্ষেত্র বোঝায় যেখানে রসায়নের জ্ঞান প্রয়োগ ও ব্যাখ্যা করা হয়।",
+            "explanation_en": "The scope of chemistry refers to all the areas and fields where chemical knowledge is applied and explained.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোনটি রসায়নের পরিধির অন্তর্ভুক্ত?",
+            "question_en": "Which of the following falls within the scope of chemistry?",
+            "options": [
+              {"id": "a", "bn": "ঔষধ প্রস্তুতি", "en": "Preparation of medicines"},
+              {"id": "b", "bn": "সার উৎপাদন", "en": "Production of fertilizers"},
+              {"id": "c", "bn": "খাদ্য সংরক্ষণ", "en": "Preservation of food"},
+              {"id": "d", "bn": "উপরের সবগুলো", "en": "All of the above"}
+            ],
+            "correct": ["d"],
+            "explanation_bn": "ঔষধ, সার, খাদ্য সংরক্ষণসহ দৈনন্দিন জীবনের বহু ক্ষেত্রই রসায়নের পরিধিভুক্ত।",
+            "explanation_en": "Medicines, fertilizers, food preservation and many areas of daily life all fall within the scope of chemistry.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "কোন শাখায় জীবদেহে সংঘটিত রাসায়নিক বিক্রিয়া নিয়ে আলোচনা করা হয়?",
+            "question_en": "Which branch deals with chemical reactions occurring in living bodies?",
+            "options": [
+              {"id": "a", "bn": "জৈব রসায়ন সম্পর্কিত প্রাণরসায়ন", "en": "Biochemistry"},
+              {"id": "b", "bn": "নিউক্লিয়ার রসায়ন", "en": "Nuclear chemistry"},
+              {"id": "c", "bn": "ভৌত রসায়ন", "en": "Physical chemistry"},
+              {"id": "d", "bn": "বিশ্লেষণাত্মক রসায়ন", "en": "Analytical chemistry"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রাণরসায়ন (Biochemistry) জীবদেহে সংঘটিত রাসায়নিক বিক্রিয়া ও জৈব অণু নিয়ে আলোচনা করে।",
+            "explanation_en": "Biochemistry deals with chemical reactions and biomolecules occurring in living organisms.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "কৃষিক্ষেত্রে রসায়নের প্রধান অবদান কোনটি?",
+            "question_en": "What is the main contribution of chemistry to agriculture?",
+            "options": [
+              {"id": "a", "bn": "সার ও কীটনাশক প্রস্তুতি", "en": "Preparation of fertilizers and pesticides"},
+              {"id": "b", "bn": "বৃষ্টিপাত ঘটানো", "en": "Causing rainfall"},
+              {"id": "c", "bn": "জমি চাষ", "en": "Ploughing land"},
+              {"id": "d", "bn": "গরু পালন", "en": "Rearing cattle"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রসায়ন সার, কীটনাশক ও উদ্ভিদ বৃদ্ধি নিয়ন্ত্রক তৈরি করে ফসল উৎপাদন বাড়াতে সহায়তা করে।",
+            "explanation_en": "Chemistry helps increase crop production by making fertilizers, pesticides and plant growth regulators.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "'ন্যানো রসায়ন' রসায়নের পরিধি বৃদ্ধির কোন দিকটি নির্দেশ করে?",
+            "question_en": "'Nano-chemistry' indicates which aspect of the expanding scope of chemistry?",
+            "options": [
+              {"id": "a", "bn": "অতি ক্ষুদ্র স্কেলে পদার্থ নিয়ন্ত্রণ ও ব্যবহার", "en": "Controlling and using matter at an extremely small scale"},
+              {"id": "b", "bn": "বৃহৎ গ্রহের গঠন", "en": "Structure of large planets"},
+              {"id": "c", "bn": "কেবল প্রাচীন ধাতুবিদ্যা", "en": "Only ancient metallurgy"},
+              {"id": "d", "bn": "শুধু কৃষিকাজ", "en": "Only farming"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ন্যানো রসায়ন ন্যানোমিটার স্কেলে (অতি ক্ষুদ্র) পদার্থের ধর্ম ও প্রয়োগ নিয়ে কাজ করে, যা রসায়নের আধুনিক সম্প্রসারিত পরিধির উদাহরণ।",
+            "explanation_en": "Nano-chemistry works with properties and applications of matter at the nanometre (very small) scale, an example of chemistry's modern expanded scope.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "অন্যান্য বিজ্ঞানের সাথে সম্পর্ক",
+        "title_en": "Chemistry and Other Sciences",
+        "mcqs": [
+          {
+            "question_bn": "রসায়ন ও পদার্থবিজ্ঞানের মিলিত শাখাকে কী বলা হয়?",
+            "question_en": "What is the combined branch of chemistry and physics called?",
+            "options": [
+              {"id": "a", "bn": "ভৌত রসায়ন", "en": "Physical chemistry"},
+              {"id": "b", "bn": "ভূরসায়ন", "en": "Geochemistry"},
+              {"id": "c", "bn": "কৃষি রসায়ন", "en": "Agricultural chemistry"},
+              {"id": "d", "bn": "খাদ্য রসায়ন", "en": "Food chemistry"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ভৌত রসায়ন রসায়ন ও পদার্থবিজ্ঞানের নীতিসমূহ ব্যবহার করে পদার্থের ভৌত ও রাসায়নিক আচরণ ব্যাখ্যা করে।",
+            "explanation_en": "Physical chemistry uses principles of both chemistry and physics to explain physical and chemical behaviour of matter.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ভূতত্ত্বের সাথে রসায়নের সম্পর্ক থেকে উদ্ভূত শাখা কোনটি?",
+            "question_en": "Which branch arises from the relationship of chemistry with geology?",
+            "options": [
+              {"id": "a", "bn": "প্রাণরসায়ন", "en": "Biochemistry"},
+              {"id": "b", "bn": "ভূরসায়ন", "en": "Geochemistry"},
+              {"id": "c", "bn": "জ্যোতিঃরসায়ন", "en": "Astrochemistry"},
+              {"id": "d", "bn": "নিউক্লিয়ার রসায়ন", "en": "Nuclear chemistry"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ভূরসায়ন (Geochemistry) ভূত্বকের শিলা, খনিজ ও পদার্থের রাসায়নিক গঠন ও পরিবর্তন নিয়ে আলোচনা করে।",
+            "explanation_en": "Geochemistry deals with the chemical composition and changes of rocks, minerals and materials of the Earth's crust.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "চিকিৎসাবিজ্ঞানে রোগ নির্ণয়ে রক্ত ও মূত্র পরীক্ষায় কোন বিজ্ঞানের প্রয়োগ ঘটে?",
+            "question_en": "Which science is applied in blood and urine tests for diagnosing diseases in medical science?",
+            "options": [
+              {"id": "a", "bn": "রসায়ন", "en": "Chemistry"},
+              {"id": "b", "bn": "জ্যোতির্বিজ্ঞান", "en": "Astronomy"},
+              {"id": "c", "bn": "ভূগোল", "en": "Geography"},
+              {"id": "d", "bn": "ইতিহাস", "en": "History"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রক্ত ও মূত্রের রাসায়নিক উপাদান বিশ্লেষণ করে রোগ নির্ণয় করা হয়, যা রসায়নের প্রয়োগ।",
+            "explanation_en": "Diseases are diagnosed by chemically analysing the components of blood and urine, an application of chemistry.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "গণিতের সাথে রসায়নের সম্পর্ক প্রধানত কোথায় দেখা যায়?",
+            "question_en": "The relationship of chemistry with mathematics is mainly seen in—",
+            "options": [
+              {"id": "a", "bn": "রাসায়নিক হিসাব ও সমীকরণ সমতাকরণে", "en": "Chemical calculations and balancing equations"},
+              {"id": "b", "bn": "শিলা শনাক্তকরণে", "en": "Identifying rocks"},
+              {"id": "c", "bn": "উদ্ভিদের নামকরণে", "en": "Naming plants"},
+              {"id": "d", "bn": "ইতিহাস লেখায়", "en": "Writing history"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "মোল হিসাব, ঘনমাত্রা নির্ণয় ও সমীকরণ সমতাকরণে গাণিতিক দক্ষতা প্রয়োজন, তাই রসায়ন গণিতের ওপর নির্ভরশীল।",
+            "explanation_en": "Mole calculations, determining concentration and balancing equations require mathematical skill, so chemistry depends on mathematics.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "মহাকাশের নক্ষত্র ও গ্রহের রাসায়নিক উপাদান নির্ণয়ে যে আন্তঃশাখা গড়ে উঠেছে তা হলো—",
+            "question_en": "The interdisciplinary branch developed to determine the chemical composition of stars and planets is—",
+            "options": [
+              {"id": "a", "bn": "জ্যোতিঃরসায়ন", "en": "Astrochemistry"},
+              {"id": "b", "bn": "কৃষি রসায়ন", "en": "Agricultural chemistry"},
+              {"id": "c", "bn": "শিল্প রসায়ন", "en": "Industrial chemistry"},
+              {"id": "d", "bn": "পরিবেশ রসায়ন", "en": "Environmental chemistry"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "জ্যোতিঃরসায়ন রসায়ন ও জ্যোতির্বিজ্ঞানের সমন্বয়ে মহাজাগতিক বস্তুর রাসায়নিক গঠন বিশ্লেষণ করে।",
+            "explanation_en": "Astrochemistry combines chemistry and astronomy to analyse the chemical composition of celestial bodies.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "রসায়ন পাঠের গুরুত্ব",
+        "title_en": "Importance of Studying Chemistry",
+        "mcqs": [
+          {
+            "question_bn": "রসায়ন পাঠ করে আমরা প্রধানত কী জানতে পারি?",
+            "question_en": "By studying chemistry, what do we mainly learn?",
+            "options": [
+              {"id": "a", "bn": "পদার্থের গঠন ও পরিবর্তনের কারণ", "en": "The composition of matter and reasons for its changes"},
+              {"id": "b", "bn": "শুধু নদীর গতিপথ", "en": "Only the course of rivers"},
+              {"id": "c", "bn": "শুধু মানুষের ইতিহাস", "en": "Only human history"},
+              {"id": "d", "bn": "শুধু সংখ্যা গণনা", "en": "Only counting numbers"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রসায়ন পাঠে আমরা পদার্থের গঠন, ধর্ম এবং কেন ও কীভাবে পরিবর্তন ঘটে তা জানতে পারি।",
+            "explanation_en": "Studying chemistry lets us learn the composition and properties of matter and why and how changes occur.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "রসায়নের জ্ঞান দৈনন্দিন জীবনে কোন কাজে লাগে?",
+            "question_en": "Knowledge of chemistry is useful in daily life for—",
+            "options": [
+              {"id": "a", "bn": "নিরাপদ খাদ্য ও পানি নিশ্চিত করা", "en": "Ensuring safe food and water"},
+              {"id": "b", "bn": "সঠিকভাবে ঔষধ ব্যবহার", "en": "Using medicines correctly"},
+              {"id": "c", "bn": "পরিষ্কারক দ্রব্য সঠিকভাবে ব্যবহার", "en": "Using cleaning agents properly"},
+              {"id": "d", "bn": "উপরের সবগুলো", "en": "All of the above"}
+            ],
+            "correct": ["d"],
+            "explanation_bn": "নিরাপদ খাদ্য-পানি, ঔষধ ও পরিষ্কারক দ্রব্যের সঠিক ব্যবহার—সবই রসায়নের জ্ঞান কাজে লাগায়।",
+            "explanation_en": "Ensuring safe food and water, correct use of medicines and cleaning agents all draw on chemical knowledge.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "রসায়ন শিক্ষা পরিবেশ রক্ষায় কীভাবে সাহায্য করে?",
+            "question_en": "How does chemistry education help protect the environment?",
+            "options": [
+              {"id": "a", "bn": "দূষণের কারণ ও প্রতিকার বুঝতে সাহায্য করে", "en": "It helps understand causes and remedies of pollution"},
+              {"id": "b", "bn": "গাছ কাটতে উৎসাহ দেয়", "en": "It encourages cutting trees"},
+              {"id": "c", "bn": "বর্জ্য বাড়াতে সাহায্য করে", "en": "It helps increase waste"},
+              {"id": "d", "bn": "কোনো ভূমিকা নেই", "en": "It has no role"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রসায়ন দূষক পদার্থের প্রকৃতি, উৎস ও প্রতিকার বুঝতে সাহায্য করে, ফলে পরিবেশ সুরক্ষা সহজ হয়।",
+            "explanation_en": "Chemistry helps us understand the nature, sources and remedies of pollutants, making environmental protection easier.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "রান্নায় বেকিং সোডা ব্যবহার করলে খাবার ফুলে ওঠে কেন—এটি বুঝতে কোন বিষয় প্রয়োজন?",
+            "question_en": "Why does food rise when baking soda is used in cooking—understanding this requires which subject?",
+            "options": [
+              {"id": "a", "bn": "রসায়ন", "en": "Chemistry"},
+              {"id": "b", "bn": "ভূগোল", "en": "Geography"},
+              {"id": "c", "bn": "অর্থনীতি", "en": "Economics"},
+              {"id": "d", "bn": "সংগীত", "en": "Music"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "বেকিং সোডা তাপে বিয়োজিত হয়ে CO2 গ্যাস তৈরি করে, যা খাবার ফুলিয়ে তোলে—এটি রসায়নের বিষয়।",
+            "explanation_en": "Baking soda decomposes on heating to produce CO2 gas that makes food rise, which is a matter of chemistry.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "রসায়নের জ্ঞানকে দায়িত্বশীলভাবে ব্যবহার করা কেন গুরুত্বপূর্ণ?",
+            "question_en": "Why is it important to use chemical knowledge responsibly?",
+            "options": [
+              {"id": "a", "bn": "কারণ ভুল প্রয়োগ মানুষ ও পরিবেশের ক্ষতি করতে পারে", "en": "Because misuse can harm people and the environment"},
+              {"id": "b", "bn": "কারণ এতে কোনো ঝুঁকি নেই", "en": "Because there is no risk at all"},
+              {"id": "c", "bn": "কারণ রসায়ন শুধু বিনোদনের জন্য", "en": "Because chemistry is only for entertainment"},
+              {"id": "d", "bn": "কারণ এটি অপ্রয়োজনীয়", "en": "Because it is unnecessary"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রাসায়নিক দ্রব্যের অপব্যবহার (যেমন খাদ্যে ফরমালিন) মানুষ ও পরিবেশের মারাত্মক ক্ষতি করতে পারে, তাই দায়িত্বশীল ব্যবহার অপরিহার্য।",
+            "explanation_en": "Misuse of chemicals (e.g. formalin in food) can seriously harm people and the environment, so responsible use is essential.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "বৈজ্ঞানিক পদ্ধতি ও গবেষণা",
+        "title_en": "Scientific Method and Research",
+        "mcqs": [
+          {
+            "question_bn": "বৈজ্ঞানিক পদ্ধতির প্রথম ধাপ কোনটি?",
+            "question_en": "What is the first step of the scientific method?",
+            "options": [
+              {"id": "a", "bn": "পর্যবেক্ষণ ও সমস্যা চিহ্নিতকরণ", "en": "Observation and identifying the problem"},
+              {"id": "b", "bn": "সিদ্ধান্ত ঘোষণা", "en": "Announcing the conclusion"},
+              {"id": "c", "bn": "প্রতিবেদন প্রকাশ", "en": "Publishing the report"},
+              {"id": "d", "bn": "তত্ত্ব প্রণয়ন", "en": "Formulating a theory"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "বৈজ্ঞানিক পদ্ধতি শুরু হয় পর্যবেক্ষণ ও সমস্যা চিহ্নিত করার মধ্য দিয়ে।",
+            "explanation_en": "The scientific method begins with observation and identifying the problem.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "কোনো সমস্যার সম্ভাব্য ও পরীক্ষাযোগ্য ব্যাখ্যাকে কী বলে?",
+            "question_en": "A possible and testable explanation of a problem is called—",
+            "options": [
+              {"id": "a", "bn": "প্রকল্প (হাইপোথিসিস)", "en": "Hypothesis"},
+              {"id": "b", "bn": "উপসংহার", "en": "Conclusion"},
+              {"id": "c", "bn": "পর্যবেক্ষণ", "en": "Observation"},
+              {"id": "d", "bn": "তথ্য", "en": "Data"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রকল্প বা হাইপোথিসিস হলো সমস্যার একটি সম্ভাব্য ব্যাখ্যা, যা পরীক্ষার মাধ্যমে যাচাই করা হয়।",
+            "explanation_en": "A hypothesis is a possible explanation of a problem that is verified through experiment.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "বহুবার পরীক্ষায় সমর্থিত প্রকল্প যখন ব্যাপকভাবে গৃহীত হয়, তখন তাকে কী বলা হয়?",
+            "question_en": "When a hypothesis is supported by many experiments and widely accepted, it is called—",
+            "options": [
+              {"id": "a", "bn": "তত্ত্ব (থিওরি)", "en": "Theory"},
+              {"id": "b", "bn": "অনুমান", "en": "Guess"},
+              {"id": "c", "bn": "প্রশ্ন", "en": "Question"},
+              {"id": "d", "bn": "ভুল", "en": "Error"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "বহু পরীক্ষায় বারবার সমর্থিত ও গৃহীত প্রকল্পকে তত্ত্ব বলা হয়।",
+            "explanation_en": "A hypothesis repeatedly supported and accepted through many experiments is called a theory.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি ভালো পরীক্ষায় নির্ভরযোগ্য ফল পেতে কী করা উচিত?",
+            "question_en": "To obtain reliable results in a good experiment, what should be done?",
+            "options": [
+              {"id": "a", "bn": "পরীক্ষাটি একাধিকবার পুনরাবৃত্তি করা", "en": "Repeat the experiment several times"},
+              {"id": "b", "bn": "একবার করেই সিদ্ধান্ত নেওয়া", "en": "Decide after doing it only once"},
+              {"id": "c", "bn": "তথ্য গোপন রাখা", "en": "Keep the data secret"},
+              {"id": "d", "bn": "ফল কল্পনা করে লেখা", "en": "Write results by imagining them"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "একই পরীক্ষা একাধিকবার পুনরাবৃত্তি করলে ফলাফল নির্ভরযোগ্য ও পুনরুৎপাদনযোগ্য হয়।",
+            "explanation_en": "Repeating the same experiment several times makes the results reliable and reproducible.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি নিয়ন্ত্রিত পরীক্ষায় (controlled experiment) 'নিয়ন্ত্রণ চলক' রাখার উদ্দেশ্য কী?",
+            "question_en": "In a controlled experiment, what is the purpose of keeping 'control variables'?",
+            "options": [
+              {"id": "a", "bn": "কেবল একটি চলকের প্রভাব সঠিকভাবে যাচাই করা", "en": "To correctly test the effect of only one variable"},
+              {"id": "b", "bn": "সব চলক একসাথে বদলানো", "en": "To change all variables together"},
+              {"id": "c", "bn": "ফল দ্রুত পাওয়া", "en": "To get results faster"},
+              {"id": "d", "bn": "খরচ বাড়ানো", "en": "To increase cost"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অন্য চলকগুলো স্থির (নিয়ন্ত্রিত) রেখে কেবল একটি চলক পরিবর্তন করলে সেই চলকের প্রকৃত প্রভাব নির্ভুলভাবে নির্ণয় করা যায়।",
+            "explanation_en": "By keeping other variables constant (controlled) and changing only one, the true effect of that variable can be determined accurately.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "পরীক্ষাগার নিরাপত্তা ও বিপদ চিহ্ন",
+        "title_en": "Laboratory Safety and Hazard Symbols",
+        "mcqs": [
+          {
+            "question_bn": "পরীক্ষাগারে কাজ করার সময় চোখ রক্ষার জন্য কী ব্যবহার করা উচিত?",
+            "question_en": "What should be used to protect the eyes while working in a laboratory?",
+            "options": [
+              {"id": "a", "bn": "সেফটি গগলস", "en": "Safety goggles"},
+              {"id": "b", "bn": "রোদচশমা", "en": "Sunglasses"},
+              {"id": "c", "bn": "সাধারণ কাপড়", "en": "Ordinary cloth"},
+              {"id": "d", "bn": "কিছুই না", "en": "Nothing"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "রাসায়নিক ছিটকে পড়া থেকে চোখ রক্ষায় সেফটি গগলস ব্যবহার করা আবশ্যক।",
+            "explanation_en": "Safety goggles must be used to protect the eyes from chemical splashes.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "খুলি ও দুটি আড়াআড়ি হাড়ের চিহ্ন কোন ধরনের পদার্থ নির্দেশ করে?",
+            "question_en": "A skull-and-crossbones symbol indicates what kind of substance?",
+            "options": [
+              {"id": "a", "bn": "বিষাক্ত (toxic)", "en": "Toxic"},
+              {"id": "b", "bn": "খাদ্যযোগ্য", "en": "Edible"},
+              {"id": "c", "bn": "নিরাপদ", "en": "Safe"},
+              {"id": "d", "bn": "সুগন্ধি", "en": "Fragrant"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "খুলি ও আড়াআড়ি হাড়ের বিপদ চিহ্ন বিষাক্ত পদার্থ নির্দেশ করে, যা গ্রহণ বা স্পর্শে মারাত্মক ক্ষতি করে।",
+            "explanation_en": "The skull-and-crossbones hazard symbol indicates a toxic substance that causes serious harm if taken or touched.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "একটি শিখা (আগুন) সংবলিত বিপদ চিহ্ন কী নির্দেশ করে?",
+            "question_en": "A hazard symbol showing a flame indicates—",
+            "options": [
+              {"id": "a", "bn": "দাহ্য পদার্থ", "en": "Flammable substance"},
+              {"id": "b", "bn": "তেজস্ক্রিয় পদার্থ", "en": "Radioactive substance"},
+              {"id": "c", "bn": "নিষ্ক্রিয় গ্যাস", "en": "Inert gas"},
+              {"id": "d", "bn": "খাদ্য রং", "en": "Food colour"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "শিখার চিহ্ন দাহ্য (flammable) পদার্থ নির্দেশ করে, যা সহজে আগুন ধরে; আগুন থেকে দূরে রাখতে হয়।",
+            "explanation_en": "A flame symbol indicates a flammable substance that easily catches fire and must be kept away from flames.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "গাঢ় অ্যাসিড ত্বকে বা কাপড়ে পড়লে সাথে সাথে কী করা উচিত?",
+            "question_en": "If concentrated acid falls on skin or clothes, what should be done immediately?",
+            "options": [
+              {"id": "a", "bn": "প্রচুর পানি দিয়ে ধুয়ে ফেলা", "en": "Wash with plenty of water"},
+              {"id": "b", "bn": "শুকনো কাপড় দিয়ে ঢেকে রাখা", "en": "Cover with a dry cloth"},
+              {"id": "c", "bn": "উপেক্ষা করা", "en": "Ignore it"},
+              {"id": "d", "bn": "আরও অ্যাসিড দেওয়া", "en": "Add more acid"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অ্যাসিড পড়লে সাথে সাথে প্রচুর পানি দিয়ে ধুয়ে ফেলতে হয় যাতে ঘনমাত্রা কমে ও ক্ষতি হ্রাস পায়।",
+            "explanation_en": "If acid spills, immediately wash with plenty of water to dilute it and reduce injury.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একটি টেস্টটিউবে তরল উত্তপ্ত করার সময় নলের মুখ কোন দিকে রাখা উচিত এবং কেন?",
+            "question_en": "While heating liquid in a test tube, in which direction should the mouth be pointed and why?",
+            "options": [
+              {"id": "a", "bn": "নিজের ও অন্যের থেকে দূরে, যাতে ছিটকে পড়ে ক্ষতি না হয়", "en": "Away from oneself and others, so that splashing causes no harm"},
+              {"id": "b", "bn": "নিজের মুখের দিকে, ভালোভাবে দেখার জন্য", "en": "Towards one's own face, to see better"},
+              {"id": "c", "bn": "পাশের বন্ধুর দিকে", "en": "Towards the friend beside"},
+              {"id": "d", "bn": "যেকোনো দিকে, গুরুত্বপূর্ণ নয়", "en": "Any direction, it does not matter"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "উত্তপ্ত তরল হঠাৎ ছিটকে যেতে পারে; তাই টেস্টটিউবের মুখ সবসময় নিজের ও অন্যের থেকে দূরে রাখতে হয়, এটি নিরাপত্তার মূল নিয়ম।",
+            "explanation_en": "Heated liquid may suddenly spurt out; so the test tube mouth must always point away from oneself and others, a key safety rule.",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "রাহেলা তার বিজ্ঞান ক্লাসে জানতে পারে যে রসায়ন পদার্থের গঠন, ধর্ম ও পরিবর্তন নিয়ে আলোচনা করে এবং ঔষধ, সার, খাদ্য সংরক্ষণসহ বহু ক্ষেত্রে এর প্রয়োগ রয়েছে। তার শিক্ষক বলেন, রসায়নের জ্ঞান দায়িত্বশীলভাবে ব্যবহার না করলে তা পরিবেশ ও মানুষের ক্ষতি করতে পারে।",
+        "stimulus_en": "In her science class Rahela learns that chemistry deals with the composition, properties and changes of matter and is applied in many fields including medicine, fertilizers and food preservation. Her teacher says that if chemical knowledge is not used responsibly it can harm the environment and people.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "রসায়ন কাকে বলে?",
+            "question_en": "What is chemistry?",
+            "model_answer_bn": "যে বিজ্ঞান পদার্থের গঠন, ধর্ম, সংযুতি এবং পরিবর্তন নিয়ে আলোচনা করে তাকে রসায়ন বলে।",
+            "model_answer_en": "Chemistry is the science that deals with the composition, properties and changes of matter."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "রসায়নের জ্ঞান দৈনন্দিন জীবনে কীভাবে কাজে লাগে—ব্যাখ্যা করো।",
+            "question_en": "Explain how chemical knowledge is useful in daily life.",
+            "model_answer_bn": "রসায়নের জ্ঞান দিয়ে আমরা নিরাপদ খাদ্য ও পানি নিশ্চিত করতে পারি, ঔষধ সঠিকভাবে ব্যবহার করতে পারি এবং পরিষ্কারক দ্রব্য নিরাপদে ব্যবহার করতে পারি। রান্না, সংরক্ষণ ও পরিষ্কার-পরিচ্ছন্নতার পেছনের কারণ বুঝতে পারায় দৈনন্দিন জীবন সহজ ও নিরাপদ হয়।",
+            "model_answer_en": "With chemical knowledge we can ensure safe food and water, use medicines correctly and use cleaning agents safely. Understanding the reasons behind cooking, preservation and cleaning makes daily life easier and safer."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "রাহেলার শিক্ষক যে ক্ষেত্রগুলোর কথা বলেছেন (ঔষধ, সার, খাদ্য সংরক্ষণ) তা কীভাবে রসায়নের পরিধিকে নির্দেশ করে—উদাহরণসহ ব্যাখ্যা করো।",
+            "question_en": "How do the fields mentioned by Rahela's teacher (medicine, fertilizer, food preservation) indicate the scope of chemistry—explain with examples.",
+            "model_answer_bn": "রসায়নের পরিধি বলতে সেই সব ক্ষেত্র বোঝায় যেখানে রসায়ন প্রয়োগ হয়। ঔষধ প্রস্তুতিতে রাসায়নিক বিক্রিয়ার মাধ্যমে কার্যকর যৌগ তৈরি হয়; সার (যেমন ইউরিয়া) উৎপাদনে নাইট্রোজেনঘটিত রাসায়নিক প্রক্রিয়া ব্যবহৃত হয়; খাদ্য সংরক্ষণে সংরক্ষক রাসায়নিক ও প্যাকেজিং প্রযুক্তি কাজে লাগে। এই বিস্তৃত প্রয়োগই প্রমাণ করে যে রসায়নের পরিধি বিশাল ও বহুমুখী।",
+            "model_answer_en": "The scope of chemistry means all fields where chemistry is applied. In medicine, effective compounds are made through chemical reactions; in fertilizer production (e.g. urea) nitrogen-based chemical processes are used; in food preservation, preservative chemicals and packaging technology are used. This wide application proves that the scope of chemistry is vast and diverse."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "'রসায়নের জ্ঞান দায়িত্বশীলভাবে ব্যবহার না করলে ক্ষতি হতে পারে'—উক্তিটির যথার্থতা মূল্যায়ন করো।",
+            "question_en": "'Chemical knowledge, if not used responsibly, can cause harm'—evaluate the validity of this statement.",
+            "model_answer_bn": "উক্তিটি যথার্থ। রসায়ন যেমন কল্যাণকর তেমনি অপব্যবহারে ক্ষতিকর। উদাহরণস্বরূপ, খাদ্যে ফরমালিন বা ক্ষতিকর রং মেশালে তা মানবস্বাস্থ্যের মারাত্মক ক্ষতি করে; কারখানার অপরিশোধিত রাসায়নিক বর্জ্য নদী ও মাটি দূষিত করে জলজ প্রাণী ও ফসলের ক্ষতি করে; কীটনাশকের অতিরিক্ত ব্যবহার পরিবেশে বিষক্রিয়া ঘটায়। অন্যদিকে একই জ্ঞান দায়িত্বশীলভাবে ব্যবহার করলে নিরাপদ খাদ্য, ঔষধ ও পরিচ্ছন্ন পরিবেশ নিশ্চিত হয়। তাই রসায়নের জ্ঞানের সুফল নির্ভর করে এর নৈতিক ও দায়িত্বশীল প্রয়োগের ওপর—এ কারণে উক্তিটি সম্পূর্ণ যথার্থ।",
+            "model_answer_en": "The statement is valid. Chemistry is as beneficial as it is harmful when misused. For example, mixing formalin or harmful colours in food seriously damages human health; untreated chemical waste from factories pollutes rivers and soil, harming aquatic life and crops; overuse of pesticides causes toxicity in the environment. On the other hand, the same knowledge used responsibly ensures safe food, medicine and a clean environment. Therefore the benefit of chemical knowledge depends on its ethical and responsible use, making the statement entirely valid."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "একটি বিজ্ঞান মেলায় শিক্ষার্থী করিম লক্ষ করে যে গাছে সার প্রয়োগ করলে ফলন বাড়ে। সে প্রশ্ন করে—কোন সার সবচেয়ে ভালো কাজ করে? এরপর সে একই জাতের কয়েকটি চারায় ভিন্ন সার প্রয়োগ করে, বাকি সব শর্ত (পানি, আলো, মাটি) সমান রেখে ফল পর্যবেক্ষণ করে এবং কয়েকবার পরীক্ষা পুনরাবৃত্তি করে। পরীক্ষাগারে কাজ করার সময় সে সেফটি গগলস ও গ্লাভস ব্যবহার করে এবং রাসায়নিকের গায়ে থাকা বিপদ চিহ্ন মেনে চলে।",
+        "stimulus_en": "At a science fair, the student Karim observes that applying fertilizer to plants increases yield. He asks—which fertilizer works best? He then applies different fertilizers to several seedlings of the same variety, keeping all other conditions (water, light, soil) equal, observes the results and repeats the experiment several times. While working in the lab he uses safety goggles and gloves and follows the hazard symbols on the chemicals.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "প্রকল্প (হাইপোথিসিস) কী?",
+            "question_en": "What is a hypothesis?",
+            "model_answer_bn": "কোনো সমস্যার সম্ভাব্য ও পরীক্ষাযোগ্য ব্যাখ্যাকে প্রকল্প বা হাইপোথিসিস বলে।",
+            "model_answer_en": "A possible and testable explanation of a problem is called a hypothesis."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "করিম কেন বাকি সব শর্ত সমান রাখল—ব্যাখ্যা করো।",
+            "question_en": "Why did Karim keep all other conditions equal—explain.",
+            "model_answer_bn": "করিম কেবল সারের প্রভাব সঠিকভাবে যাচাই করতে চেয়েছিল। পানি, আলো ও মাটি সমান রাখলে (নিয়ন্ত্রণ চলক) ফলনের পার্থক্যের কারণ শুধু সারই হয়। এতে পরীক্ষাটি একটি নিয়ন্ত্রিত পরীক্ষা হয় এবং ফলাফল নির্ভরযোগ্য হয়।",
+            "model_answer_en": "Karim wanted to test only the effect of fertilizer accurately. By keeping water, light and soil equal (control variables), the only cause of any difference in yield is the fertilizer. This makes it a controlled experiment and the results reliable."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "করিমের কার্যক্রমে বৈজ্ঞানিক পদ্ধতির ধাপগুলো কীভাবে অনুসৃত হয়েছে—দেখাও।",
+            "question_en": "Show how the steps of the scientific method are followed in Karim's activity.",
+            "model_answer_bn": "করিম প্রথমে পর্যবেক্ষণ করে (সার দিলে ফলন বাড়ে) এবং সমস্যা চিহ্নিত করে (কোন সার সেরা?)। এরপর সে একটি প্রকল্প ধরে নেয় যে নির্দিষ্ট সার বেশি ফলন দেবে। তারপর নিয়ন্ত্রিত পরীক্ষা করে তথ্য সংগ্রহ করে এবং কয়েকবার পুনরাবৃত্তি করে। সংগৃহীত তথ্য বিশ্লেষণ করে সে সিদ্ধান্তে পৌঁছাবে কোন সার সবচেয়ে ভালো। এভাবে পর্যবেক্ষণ → প্রশ্ন → প্রকল্প → পরীক্ষা → তথ্য বিশ্লেষণ → সিদ্ধান্ত—বৈজ্ঞানিক পদ্ধতির ধাপগুলো অনুসৃত হয়েছে।",
+            "model_answer_en": "Karim first observes (fertilizer increases yield) and identifies the problem (which fertilizer is best?). He then forms a hypothesis that a particular fertilizer gives more yield. Next he conducts a controlled experiment to collect data and repeats it several times. By analysing the collected data he will conclude which fertilizer is best. Thus observation → question → hypothesis → experiment → data analysis → conclusion—the steps of the scientific method are followed."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "পরীক্ষাগারে নিরাপত্তা বিধি ও বিপদ চিহ্ন মেনে চলা কেন অপরিহার্য—করিমের আচরণের আলোকে বিশ্লেষণ করো।",
+            "question_en": "Why is following safety rules and hazard symbols in the lab essential—analyse in the light of Karim's behaviour.",
+            "model_answer_bn": "পরীক্ষাগারে নানা রাসায়নিক থাকে যেগুলো বিষাক্ত, দাহ্য বা ক্ষয়কারী হতে পারে। করিম সেফটি গগলস ব্যবহার করায় চোখ ছিটকে পড়া রাসায়নিক থেকে সুরক্ষিত থাকে এবং গ্লাভস ব্যবহার করায় ত্বক ক্ষয়কারী পদার্থ থেকে রক্ষা পায়। বিপদ চিহ্ন (যেমন খুলি-হাড় = বিষাক্ত, শিখা = দাহ্য) দেখে সে বুঝতে পারে কোন রাসায়নিক কীভাবে ব্যবহার ও সংরক্ষণ করতে হবে, ফলে দুর্ঘটনা এড়ানো যায়। এই বিধিগুলো না মানলে বিষক্রিয়া, পোড়া বা আগুনের মতো মারাত্মক দুর্ঘটনা ঘটতে পারে। তাই নিরাপত্তা বিধি ও বিপদ চিহ্ন মেনে চলা নিজের ও অন্যের জীবন রক্ষার জন্য অপরিহার্য—করিমের আচরণ এই সচেতনতার সঠিক উদাহরণ।",
+            "model_answer_en": "A laboratory contains many chemicals that may be toxic, flammable or corrosive. By using safety goggles Karim protects his eyes from splashing chemicals, and by using gloves he protects his skin from corrosive substances. By reading hazard symbols (e.g. skull-and-bones = toxic, flame = flammable) he understands how each chemical must be used and stored, thus avoiding accidents. Not following these rules could cause serious accidents such as poisoning, burns or fire. Therefore following safety rules and hazard symbols is essential to protect one's own and others' lives—Karim's behaviour is a good example of this awareness."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "title_bn": "পদার্থের অবস্থা",
+    "title_en": "States of Matter",
+    "topics": [
+      {
+        "title_bn": "কণার গতিতত্ত্ব",
+        "title_en": "Kinetic Theory of Particles",
+        "mcqs": [
+          {
+            "question_bn": "কণার গতিতত্ত্ব অনুসারে পদার্থের কণাগুলো কেমন অবস্থায় থাকে?",
+            "question_en": "According to the kinetic theory of particles, in what state are the particles of matter?",
+            "options": [
+              {"id": "a", "bn": "সর্বদা স্থির", "en": "Always at rest"},
+              {"id": "b", "bn": "সর্বদা গতিশীল", "en": "Always in motion"},
+              {"id": "c", "bn": "কখনো তৈরি হয় না", "en": "Never formed"},
+              {"id": "d", "bn": "কেবল কঠিনে গতিশীল", "en": "Move only in solids"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "কণার গতিতত্ত্ব অনুসারে পদার্থের সকল কণা অবিরাম গতিশীল থাকে এবং এদের গতিশক্তি থাকে।",
+            "explanation_en": "According to the kinetic theory, all particles of matter are in continuous motion and possess kinetic energy.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "তাপমাত্রা বাড়ালে পদার্থের কণার গতিশক্তির কী পরিবর্তন হয়?",
+            "question_en": "What happens to the kinetic energy of particles when temperature increases?",
+            "options": [
+              {"id": "a", "bn": "বৃদ্ধি পায়", "en": "Increases"},
+              {"id": "b", "bn": "হ্রাস পায়", "en": "Decreases"},
+              {"id": "c", "bn": "অপরিবর্তিত থাকে", "en": "Remains unchanged"},
+              {"id": "d", "bn": "শূন্য হয়ে যায়", "en": "Becomes zero"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তাপমাত্রা বাড়লে কণার গড় গতিশক্তি বৃদ্ধি পায়, ফলে কণাগুলো দ্রুত চলাচল করে।",
+            "explanation_en": "As temperature rises, the average kinetic energy of particles increases, so the particles move faster.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "কণাগুলোর মধ্যকার আকর্ষণ বল কোন অবস্থায় সবচেয়ে বেশি?",
+            "question_en": "In which state is the force of attraction between particles the greatest?",
+            "options": [
+              {"id": "a", "bn": "কঠিন", "en": "Solid"},
+              {"id": "b", "bn": "তরল", "en": "Liquid"},
+              {"id": "c", "bn": "গ্যাস", "en": "Gas"},
+              {"id": "d", "bn": "সব অবস্থায় সমান", "en": "Equal in all states"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "কঠিন অবস্থায় কণাগুলো খুব কাছাকাছি থাকে বলে তাদের মধ্যে আন্তঃকণা আকর্ষণ বল সবচেয়ে বেশি।",
+            "explanation_en": "In the solid state particles are very close together, so the interparticle force of attraction is the greatest.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "গ্যাসীয় অবস্থায় কণাগুলোর বৈশিষ্ট্য কোনটি?",
+            "question_en": "Which is a characteristic of particles in the gaseous state?",
+            "options": [
+              {"id": "a", "bn": "কণাগুলো দূরে দূরে থেকে দ্রুত ও এলোমেলোভাবে চলে", "en": "Particles are far apart and move fast and randomly"},
+              {"id": "b", "bn": "কণাগুলো নির্দিষ্ট স্থানে কম্পিত হয়", "en": "Particles vibrate at fixed positions"},
+              {"id": "c", "bn": "কণাগুলো একে অপরকে স্পর্শ করে থাকে", "en": "Particles remain touching each other"},
+              {"id": "d", "bn": "কণাগুলো স্থির থাকে", "en": "Particles remain stationary"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "গ্যাসে আন্তঃকণা আকর্ষণ খুব কম, কণাগুলো দূরে দূরে থেকে উচ্চ গতিতে এলোমেলোভাবে ছোটাছুটি করে।",
+            "explanation_en": "In a gas the interparticle attraction is very weak; particles are far apart and move rapidly and randomly.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "কণার গতিতত্ত্ব দিয়ে গ্যাসের চাপ সৃষ্টির ব্যাখ্যা কোনটি সঠিক?",
+            "question_en": "Which is the correct explanation of gas pressure using the kinetic theory?",
+            "options": [
+              {"id": "a", "bn": "গতিশীল কণাগুলো পাত্রের দেয়ালে সংঘর্ষ করে চাপ সৃষ্টি করে", "en": "Moving particles collide with the walls of the container to create pressure"},
+              {"id": "b", "bn": "কণাগুলো স্থির থাকায় চাপ সৃষ্টি হয়", "en": "Pressure is created because particles are stationary"},
+              {"id": "c", "bn": "কণা ধ্বংস হয়ে চাপ সৃষ্টি হয়", "en": "Pressure is created by destruction of particles"},
+              {"id": "d", "bn": "কণা জমাট বেঁধে চাপ সৃষ্টি হয়", "en": "Pressure is created by particles clumping"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "গ্যাসের অবিরাম গতিশীল কণাগুলো পাত্রের দেয়ালে বারবার ধাক্কা দেয়; এই সংঘর্ষজনিত বলই একক ক্ষেত্রফলে চাপ হিসেবে অনুভূত হয়।",
+            "explanation_en": "The continuously moving particles of a gas repeatedly strike the container walls; the force of these collisions per unit area is felt as pressure.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "পদার্থের তিন অবস্থা",
+        "title_en": "Three States of Matter",
+        "mcqs": [
+          {
+            "question_bn": "পদার্থের সাধারণ তিনটি অবস্থা কী কী?",
+            "question_en": "What are the three common states of matter?",
+            "options": [
+              {"id": "a", "bn": "কঠিন, তরল, গ্যাস", "en": "Solid, liquid, gas"},
+              {"id": "b", "bn": "গরম, ঠান্ডা, নরম", "en": "Hot, cold, soft"},
+              {"id": "c", "bn": "ভারী, হালকা, মাঝারি", "en": "Heavy, light, medium"},
+              {"id": "d", "bn": "শক্ত, নরম, তরল", "en": "Hard, soft, liquid"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "পদার্থের সাধারণ তিন অবস্থা হলো কঠিন, তরল ও গ্যাসীয়।",
+            "explanation_en": "The three common states of matter are solid, liquid and gas.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "কোন অবস্থার পদার্থের নির্দিষ্ট আকার ও নির্দিষ্ট আয়তন থাকে?",
+            "question_en": "Which state of matter has a definite shape and definite volume?",
+            "options": [
+              {"id": "a", "bn": "কঠিন", "en": "Solid"},
+              {"id": "b", "bn": "তরল", "en": "Liquid"},
+              {"id": "c", "bn": "গ্যাস", "en": "Gas"},
+              {"id": "d", "bn": "বাষ্প", "en": "Vapour"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "কঠিন পদার্থের কণাগুলো দৃঢ়ভাবে বাঁধা থাকায় এর নির্দিষ্ট আকার ও নির্দিষ্ট আয়তন থাকে।",
+            "explanation_en": "In a solid the particles are tightly bound, so it has a definite shape and definite volume.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "তরল পদার্থের আকার ও আয়তন সম্পর্কে সঠিক তথ্য কোনটি?",
+            "question_en": "Which is correct about the shape and volume of a liquid?",
+            "options": [
+              {"id": "a", "bn": "নির্দিষ্ট আয়তন আছে কিন্তু নির্দিষ্ট আকার নেই", "en": "Definite volume but no definite shape"},
+              {"id": "b", "bn": "নির্দিষ্ট আকার আছে কিন্তু আয়তন নেই", "en": "Definite shape but no definite volume"},
+              {"id": "c", "bn": "আকার ও আয়তন দুটোই নির্দিষ্ট", "en": "Both shape and volume definite"},
+              {"id": "d", "bn": "আকার ও আয়তন দুটোই অনির্দিষ্ট", "en": "Both shape and volume indefinite"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তরল যে পাত্রে রাখা হয় তার আকার নেয় (নির্দিষ্ট আকার নেই) কিন্তু এর আয়তন নির্দিষ্ট থাকে।",
+            "explanation_en": "A liquid takes the shape of its container (no definite shape) but its volume is definite.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "গ্যাসকে সহজে সংকুচিত করা যায় কেন?",
+            "question_en": "Why can a gas be compressed easily?",
+            "options": [
+              {"id": "a", "bn": "কণাগুলোর মধ্যে অনেক ফাঁকা স্থান থাকে", "en": "There is a lot of empty space between the particles"},
+              {"id": "b", "bn": "কণাগুলো একে অপরকে দৃঢ়ভাবে ধরে রাখে", "en": "Particles hold each other tightly"},
+              {"id": "c", "bn": "কণাগুলো স্থির থাকে", "en": "Particles remain stationary"},
+              {"id": "d", "bn": "কণাগুলো খুব ভারী", "en": "Particles are very heavy"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "গ্যাসের কণাগুলোর মধ্যে বিশাল ফাঁকা স্থান থাকায় চাপ দিলে কণাগুলো কাছাকাছি চলে আসে, তাই গ্যাস সহজে সংকোচনযোগ্য।",
+            "explanation_en": "Because there is large empty space between gas particles, applying pressure brings them closer, so gases are easily compressible.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "একই পদার্থের কঠিন, তরল ও গ্যাসীয় অবস্থায় সাধারণত ঘনত্বের ক্রম কোনটি?",
+            "question_en": "For the same substance, the usual order of density in solid, liquid and gaseous states is—",
+            "options": [
+              {"id": "a", "bn": "কঠিন > তরল > গ্যাস", "en": "Solid > liquid > gas"},
+              {"id": "b", "bn": "গ্যাস > তরল > কঠিন", "en": "Gas > liquid > solid"},
+              {"id": "c", "bn": "তরল > কঠিন > গ্যাস", "en": "Liquid > solid > gas"},
+              {"id": "d", "bn": "তিন অবস্থায় সমান", "en": "Equal in all three states"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "সাধারণত কঠিনে কণা সবচেয়ে ঘনসন্নিবিষ্ট বলে ঘনত্ব বেশি, গ্যাসে কণা দূরে দূরে বলে ঘনত্ব সবচেয়ে কম (পানি একটি ব্যতিক্রম)।",
+            "explanation_en": "Usually particles are most closely packed in solids giving highest density, and farthest apart in gases giving lowest density (water is an exception).",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "অবস্থার পরিবর্তন",
+        "title_en": "Changes of State",
+        "mcqs": [
+          {
+            "question_bn": "কঠিন পদার্থ তাপ পেয়ে তরলে পরিণত হওয়ার প্রক্রিয়াকে কী বলে?",
+            "question_en": "The process by which a solid changes into a liquid on heating is called—",
+            "options": [
+              {"id": "a", "bn": "গলন", "en": "Melting"},
+              {"id": "b", "bn": "কঠিনীভবন", "en": "Freezing"},
+              {"id": "c", "bn": "বাষ্পীভবন", "en": "Evaporation"},
+              {"id": "d", "bn": "ঘনীভবন", "en": "Condensation"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তাপ প্রয়োগে কঠিন গলে তরলে পরিণত হয়; এ প্রক্রিয়াকে গলন বলে।",
+            "explanation_en": "On heating, a solid melts into a liquid; this process is called melting.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "তরল থেকে গ্যাসে পরিণত হওয়াকে কী বলে?",
+            "question_en": "The change from liquid to gas is called—",
+            "options": [
+              {"id": "a", "bn": "বাষ্পীভবন", "en": "Vaporization"},
+              {"id": "b", "bn": "গলন", "en": "Melting"},
+              {"id": "c", "bn": "কঠিনীভবন", "en": "Solidification"},
+              {"id": "d", "bn": "শীতলীভবন", "en": "Cooling"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তরল তাপ পেয়ে গ্যাস বা বাষ্পে পরিণত হওয়াকে বাষ্পীভবন বলে।",
+            "explanation_en": "The change of a liquid into gas or vapour on gaining heat is called vaporization.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "গ্যাস শীতল হয়ে তরলে পরিণত হওয়ার প্রক্রিয়াকে কী বলে?",
+            "question_en": "The process of a gas cooling into a liquid is called—",
+            "options": [
+              {"id": "a", "bn": "ঘনীভবন", "en": "Condensation"},
+              {"id": "b", "bn": "গলন", "en": "Melting"},
+              {"id": "c", "bn": "ঊর্ধ্বপাতন", "en": "Sublimation"},
+              {"id": "d", "bn": "ব্যাপন", "en": "Diffusion"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "গ্যাস তাপ হারিয়ে তরলে পরিণত হওয়ার প্রক্রিয়াকে ঘনীভবন (condensation) বলে।",
+            "explanation_en": "The process by which a gas loses heat and turns into a liquid is called condensation.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "অবস্থার পরিবর্তন কোন ধরনের পরিবর্তন?",
+            "question_en": "A change of state is what kind of change?",
+            "options": [
+              {"id": "a", "bn": "ভৌত পরিবর্তন", "en": "Physical change"},
+              {"id": "b", "bn": "রাসায়নিক পরিবর্তন", "en": "Chemical change"},
+              {"id": "c", "bn": "নিউক্লিয় পরিবর্তন", "en": "Nuclear change"},
+              {"id": "d", "bn": "স্থায়ী রাসায়নিক পরিবর্তন", "en": "Permanent chemical change"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "অবস্থার পরিবর্তনে পদার্থের অভ্যন্তরীণ গঠন বদলায় না, শুধু কণার বিন্যাস ও দূরত্ব বদলায়; তাই এটি ভৌত পরিবর্তন।",
+            "explanation_en": "In a change of state the internal composition of the substance does not change, only the arrangement and spacing of particles; hence it is a physical change.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "বরফ গলার সময় তাপ দেওয়া হলেও তাপমাত্রা স্থির থাকে কেন?",
+            "question_en": "Why does the temperature stay constant while ice melts even though heat is supplied?",
+            "options": [
+              {"id": "a", "bn": "সরবরাহকৃত তাপ কণার আকর্ষণ বল ভাঙতে সুপ্ততাপ হিসেবে ব্যবহৃত হয়", "en": "The supplied heat is used as latent heat to break the attraction between particles"},
+              {"id": "b", "bn": "তাপ বাইরে চলে যায়", "en": "The heat escapes outside"},
+              {"id": "c", "bn": "বরফ তাপ শোষণ করে না", "en": "Ice does not absorb heat"},
+              {"id": "d", "bn": "তাপমাত্রা মাপা যায় না", "en": "Temperature cannot be measured"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "গলনের সময় সরবরাহকৃত তাপ কণাগুলোর মধ্যকার আকর্ষণ বল ভাঙতে সুপ্ততাপ হিসেবে ব্যয় হয়, তাই তাপমাত্রা না বেড়ে স্থির থাকে যতক্ষণ না সব বরফ গলে যায়।",
+            "explanation_en": "During melting the supplied heat is spent as latent heat to break the attraction between particles, so the temperature stays constant until all the ice has melted.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "গলনাঙ্ক ও স্ফুটনাঙ্ক",
+        "title_en": "Melting and Boiling Point",
+        "mcqs": [
+          {
+            "question_bn": "যে নির্দিষ্ট তাপমাত্রায় কঠিন গলে তরলে পরিণত হয়, তাকে কী বলে?",
+            "question_en": "The fixed temperature at which a solid melts into a liquid is called—",
+            "options": [
+              {"id": "a", "bn": "গলনাঙ্ক", "en": "Melting point"},
+              {"id": "b", "bn": "স্ফুটনাঙ্ক", "en": "Boiling point"},
+              {"id": "c", "bn": "হিমাঙ্ক নয়", "en": "Not the freezing point"},
+              {"id": "d", "bn": "শিশিরাঙ্ক", "en": "Dew point"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "নির্দিষ্ট চাপে যে তাপমাত্রায় কঠিন গলে তরলে পরিণত হয় তাকে গলনাঙ্ক বলে।",
+            "explanation_en": "The temperature at which a solid melts into a liquid at a fixed pressure is called its melting point.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "প্রমাণ চাপে (১ atm) বিশুদ্ধ পানির স্ফুটনাঙ্ক কত?",
+            "question_en": "At standard pressure (1 atm), what is the boiling point of pure water?",
+            "options": [
+              {"id": "a", "bn": "০°C", "en": "0°C"},
+              {"id": "b", "bn": "৫০°C", "en": "50°C"},
+              {"id": "c", "bn": "১০০°C", "en": "100°C"},
+              {"id": "d", "bn": "২০০°C", "en": "200°C"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "প্রমাণ চাপে বিশুদ্ধ পানির স্ফুটনাঙ্ক ১০০°C এবং গলনাঙ্ক ০°C।",
+            "explanation_en": "At standard pressure the boiling point of pure water is 100°C and its melting point is 0°C.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "পানিতে লবণ মেশালে এর স্ফুটনাঙ্কের কী পরিবর্তন হয়?",
+            "question_en": "What happens to the boiling point of water when salt is added?",
+            "options": [
+              {"id": "a", "bn": "বৃদ্ধি পায়", "en": "Increases"},
+              {"id": "b", "bn": "হ্রাস পায়", "en": "Decreases"},
+              {"id": "c", "bn": "অপরিবর্তিত থাকে", "en": "Remains unchanged"},
+              {"id": "d", "bn": "শূন্য হয়", "en": "Becomes zero"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "লবণ (অদ্রবণীয় নয় এমন দ্রব) মেশালে পানির স্ফুটনাঙ্ক বেড়ে যায়, একে স্ফুটনাঙ্ক বৃদ্ধি বলে।",
+            "explanation_en": "Adding salt (a non-volatile solute) raises the boiling point of water; this is called boiling point elevation.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "গলনাঙ্ক ও স্ফুটনাঙ্ক পদার্থের কোন ধরনের ধর্ম?",
+            "question_en": "Melting point and boiling point are what kind of properties of a substance?",
+            "options": [
+              {"id": "a", "bn": "বিশুদ্ধতা নির্ণায়ক ভৌত ধর্ম", "en": "Physical properties used to judge purity"},
+              {"id": "b", "bn": "রাসায়নিক বিক্রিয়ার হার", "en": "Rate of chemical reaction"},
+              {"id": "c", "bn": "শুধু বর্ণ নির্দেশক", "en": "Only colour indicators"},
+              {"id": "d", "bn": "ভরের একক", "en": "Units of mass"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রতিটি বিশুদ্ধ পদার্থের নির্দিষ্ট গলনাঙ্ক ও স্ফুটনাঙ্ক থাকে; এগুলো পরিমাপ করে পদার্থের বিশুদ্ধতা যাচাই করা যায়, তাই এগুলো গুরুত্বপূর্ণ ভৌত ধর্ম।",
+            "explanation_en": "Each pure substance has a fixed melting and boiling point; measuring these can verify a substance's purity, so they are important physical properties.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "উঁচু পাহাড়ে পানি ১০০°C-এর কম তাপমাত্রায় ফুটে কেন?",
+            "question_en": "Why does water boil below 100°C on high mountains?",
+            "options": [
+              {"id": "a", "bn": "উচ্চতায় বায়ুচাপ কম বলে স্ফুটনাঙ্ক কমে যায়", "en": "Atmospheric pressure is lower at altitude, so the boiling point falls"},
+              {"id": "b", "bn": "সেখানে পানি বেশি বিশুদ্ধ", "en": "Water there is more pure"},
+              {"id": "c", "bn": "সেখানে তাপ বেশি", "en": "There is more heat there"},
+              {"id": "d", "bn": "পানির ভর কমে যায়", "en": "The mass of water decreases"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "স্ফুটনাঙ্ক তখন হয় যখন তরলের বাষ্পচাপ বায়ুচাপের সমান হয়। উঁচু পাহাড়ে বায়ুচাপ কম বলে কম তাপমাত্রাতেই বাষ্পচাপ বায়ুচাপের সমান হয়, ফলে পানি ১০০°C-এর নিচেই ফোটে।",
+            "explanation_en": "Boiling occurs when the vapour pressure of the liquid equals the atmospheric pressure. On high mountains the atmospheric pressure is low, so vapour pressure equals it at a lower temperature, and water boils below 100°C.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "ঊর্ধ্বপাতন",
+        "title_en": "Sublimation",
+        "mcqs": [
+          {
+            "question_bn": "ঊর্ধ্বপাতন কাকে বলে?",
+            "question_en": "What is sublimation?",
+            "options": [
+              {"id": "a", "bn": "কঠিন সরাসরি গ্যাসে এবং গ্যাস সরাসরি কঠিনে পরিণত হওয়া", "en": "A solid changing directly to gas and gas directly to solid"},
+              {"id": "b", "bn": "তরল কঠিনে পরিণত হওয়া", "en": "A liquid changing to solid"},
+              {"id": "c", "bn": "গ্যাস তরলে পরিণত হওয়া", "en": "A gas changing to liquid"},
+              {"id": "d", "bn": "কঠিন তরলে পরিণত হওয়া", "en": "A solid changing to liquid"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "কঠিন পদার্থ তরলে পরিণত না হয়ে সরাসরি গ্যাসে এবং গ্যাস সরাসরি কঠিনে পরিণত হওয়ার প্রক্রিয়াকে ঊর্ধ্বপাতন বলে।",
+            "explanation_en": "The process in which a solid changes directly into gas (and gas directly into solid) without becoming a liquid is called sublimation.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোনটি ঊর্ধ্বপাতিত হয়?",
+            "question_en": "Which of the following sublimes?",
+            "options": [
+              {"id": "a", "bn": "নিশাদল (অ্যামোনিয়াম ক্লোরাইড)", "en": "Ammonium chloride"},
+              {"id": "b", "bn": "সাধারণ লবণ (NaCl)", "en": "Common salt (NaCl)"},
+              {"id": "c", "bn": "চিনি", "en": "Sugar"},
+              {"id": "d", "bn": "বালু", "en": "Sand"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "নিশাদল (NH4Cl), ন্যাপথলিন, কর্পূর ও আয়োডিন উত্তপ্ত করলে ঊর্ধ্বপাতিত হয়; NaCl, চিনি বা বালু ঊর্ধ্বপাতিত হয় না।",
+            "explanation_en": "Ammonium chloride (NH4Cl), naphthalene, camphor and iodine sublime on heating; NaCl, sugar and sand do not.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ঊর্ধ্বপাতনযোগ্য কঠিনের সাথে মেশানো সাধারণ লবণকে পৃথক করার উপযুক্ত পদ্ধতি কোনটি?",
+            "question_en": "Which method is suitable to separate common salt mixed with a sublimable solid?",
+            "options": [
+              {"id": "a", "bn": "ঊর্ধ্বপাতন", "en": "Sublimation"},
+              {"id": "b", "bn": "পরিস্রাবণ", "en": "Filtration"},
+              {"id": "c", "bn": "চুম্বকীকরণ", "en": "Magnetization"},
+              {"id": "d", "bn": "কেলাসন", "en": "Crystallization"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "মিশ্রণকে উত্তপ্ত করলে ঊর্ধ্বপাতনযোগ্য উপাদান (যেমন নিশাদল) বাষ্প হয়ে আলাদা হয়ে যায় এবং লবণ পড়ে থাকে; এভাবে ঊর্ধ্বপাতন পদ্ধতিতে পৃথকীকরণ করা যায়।",
+            "explanation_en": "On heating the mixture, the sublimable component (e.g. ammonium chloride) turns to vapour and separates while the salt remains; thus separation is done by sublimation.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "কঠিন কার্বন ডাই-অক্সাইড (শুষ্ক বরফ) কে 'শুষ্ক' বরফ বলা হয় কেন?",
+            "question_en": "Why is solid carbon dioxide (dry ice) called 'dry' ice?",
+            "options": [
+              {"id": "a", "bn": "এটি না গলে সরাসরি গ্যাসে পরিণত হয়, তরল ছাড়ে না", "en": "It changes directly to gas without melting, leaving no liquid"},
+              {"id": "b", "bn": "এটি পানি শোষণ করে", "en": "It absorbs water"},
+              {"id": "c", "bn": "এতে পানি থাকে না তাই ঠান্ডা নয়", "en": "It has no water so it is not cold"},
+              {"id": "d", "bn": "এটি সবসময় শুকনো তুলা", "en": "It is always dry cotton"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "শুষ্ক বরফ ঊর্ধ্বপাতিত হয়ে সরাসরি CO2 গ্যাসে পরিণত হয়, কোনো তরল অবস্থা তৈরি করে না বলে চারপাশ ভেজায় না—তাই একে শুষ্ক বরফ বলা হয়।",
+            "explanation_en": "Dry ice sublimes directly into CO2 gas and forms no liquid state, so it does not wet its surroundings—hence the name dry ice.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "শক্তির দিক থেকে ঊর্ধ্বপাতনে কণাগুলোর ক্ষেত্রে কী ঘটে?",
+            "question_en": "In terms of energy, what happens to the particles during sublimation?",
+            "options": [
+              {"id": "a", "bn": "কণাগুলো যথেষ্ট শক্তি পেয়ে আন্তঃকণা আকর্ষণ পুরোপুরি অতিক্রম করে সরাসরি গ্যাসে মুক্ত হয়", "en": "Particles gain enough energy to fully overcome interparticle attraction and escape directly as gas"},
+              {"id": "b", "bn": "কণাগুলো শক্তি হারিয়ে জমাট বাঁধে", "en": "Particles lose energy and clump together"},
+              {"id": "c", "bn": "কণা প্রথমে অবশ্যই তরল হয়", "en": "Particles must first become liquid"},
+              {"id": "d", "bn": "কণা ধ্বংস হয়ে যায়", "en": "Particles are destroyed"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ঊর্ধ্বপাতনে কঠিনের কণাগুলো পর্যাপ্ত তাপশক্তি পেয়ে আন্তঃকণা আকর্ষণ সম্পূর্ণ অতিক্রম করে তরল অবস্থা এড়িয়ে সরাসরি গ্যাসীয় অবস্থায় মুক্ত হয়।",
+            "explanation_en": "In sublimation the particles of the solid gain enough thermal energy to completely overcome interparticle attraction and escape directly into the gaseous state, bypassing the liquid state.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "ব্যাপন ও নিঃসরণ",
+        "title_en": "Diffusion and Effusion",
+        "mcqs": [
+          {
+            "question_bn": "ব্যাপন কাকে বলে?",
+            "question_en": "What is diffusion?",
+            "options": [
+              {"id": "a", "bn": "কণাগুলোর উচ্চ ঘনত্ব থেকে নিম্ন ঘনত্বের দিকে ছড়িয়ে পড়া", "en": "Spreading of particles from higher to lower concentration"},
+              {"id": "b", "bn": "কণাগুলোর জমাট বাঁধা", "en": "Clumping of particles"},
+              {"id": "c", "bn": "কণাগুলোর স্থির থাকা", "en": "Particles staying still"},
+              {"id": "d", "bn": "কণাগুলোর ধ্বংস হওয়া", "en": "Destruction of particles"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "নিজস্ব গতির কারণে কণাগুলো বেশি ঘনত্বের স্থান থেকে কম ঘনত্বের স্থানে ছড়িয়ে পড়ে সমভাবে মিশে যায়; একে ব্যাপন বলে।",
+            "explanation_en": "Owing to their own motion, particles spread from a region of higher concentration to lower concentration and mix uniformly; this is called diffusion.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ঘরের এক কোণে আতর খুললে সারা ঘরে গন্ধ ছড়ায় কোন প্রক্রিয়ায়?",
+            "question_en": "When perfume is opened in one corner of a room, by which process does the smell spread throughout?",
+            "options": [
+              {"id": "a", "bn": "ব্যাপন", "en": "Diffusion"},
+              {"id": "b", "bn": "কঠিনীভবন", "en": "Solidification"},
+              {"id": "c", "bn": "গলন", "en": "Melting"},
+              {"id": "d", "bn": "ঘনীভবন", "en": "Condensation"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "আতরের বাষ্পের কণা ব্যাপন প্রক্রিয়ায় বায়ুর কণার মধ্য দিয়ে ছড়িয়ে সারা ঘরে পৌঁছে যায়, তাই গন্ধ পাওয়া যায়।",
+            "explanation_en": "The vapour particles of perfume spread through the air particles by diffusion and reach all over the room, so the smell is perceived.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিঃসরণ (effusion) বলতে কী বোঝায়?",
+            "question_en": "What is meant by effusion?",
+            "options": [
+              {"id": "a", "bn": "ক্ষুদ্র ছিদ্রপথে গ্যাসের কণার বেরিয়ে যাওয়া", "en": "Escape of gas particles through a tiny hole"},
+              {"id": "b", "bn": "গ্যাসের কঠিনে পরিণত হওয়া", "en": "A gas turning into a solid"},
+              {"id": "c", "bn": "তরলের ফুটে ওঠা", "en": "Boiling of a liquid"},
+              {"id": "d", "bn": "কঠিনের গলা", "en": "Melting of a solid"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "কোনো গ্যাস অতি ক্ষুদ্র ছিদ্রপথে অপেক্ষাকৃত শূন্য স্থানে বেরিয়ে যাওয়ার প্রক্রিয়াকে নিঃসরণ বলে।",
+            "explanation_en": "The process by which a gas escapes through a very small hole into a region of lower pressure is called effusion.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "তাপমাত্রা বাড়লে ব্যাপনের হারের কী পরিবর্তন হয়?",
+            "question_en": "What happens to the rate of diffusion when temperature increases?",
+            "options": [
+              {"id": "a", "bn": "বৃদ্ধি পায়", "en": "Increases"},
+              {"id": "b", "bn": "হ্রাস পায়", "en": "Decreases"},
+              {"id": "c", "bn": "অপরিবর্তিত থাকে", "en": "Remains unchanged"},
+              {"id": "d", "bn": "থেমে যায়", "en": "Stops"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "তাপমাত্রা বাড়লে কণার গতিশক্তি ও বেগ বাড়ে, ফলে কণাগুলো দ্রুত ছড়ায় এবং ব্যাপনের হার বৃদ্ধি পায়।",
+            "explanation_en": "As temperature increases, the kinetic energy and speed of particles increase, so they spread faster and the rate of diffusion increases.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সমান তাপমাত্রায় হালকা গ্যাস ভারী গ্যাসের চেয়ে দ্রুত ব্যাপিত হয় কেন?",
+            "question_en": "At the same temperature, why does a lighter gas diffuse faster than a heavier gas?",
+            "options": [
+              {"id": "a", "bn": "সমান গতিশক্তিতে কম ভরের কণার বেগ বেশি হয়", "en": "At equal kinetic energy, particles of smaller mass have greater speed"},
+              {"id": "b", "bn": "হালকা গ্যাসের কণা বড় হয়", "en": "Particles of lighter gas are larger"},
+              {"id": "c", "bn": "ভারী গ্যাসের কণা স্থির থাকে", "en": "Particles of heavier gas stay still"},
+              {"id": "d", "bn": "হালকা গ্যাসের আকর্ষণ বল বেশি", "en": "Lighter gas has stronger attraction"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "একই তাপমাত্রায় সব গ্যাসের গড় গতিশক্তি সমান; গতিশক্তি = ½mv² হওয়ায় কম ভরের (হালকা) গ্যাসের কণার বেগ বেশি হয়, তাই তা দ্রুত ব্যাপিত হয় (গ্রাহামের সূত্রের ভিত্তি)।",
+            "explanation_en": "At the same temperature all gases have equal average kinetic energy; since KE = ½mv², particles of smaller (lighter) mass have greater speed, so they diffuse faster (the basis of Graham's law).",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "শিক্ষক শ্রেণিকক্ষে একটি বিকারে বরফ নিয়ে ধীরে ধীরে উত্তপ্ত করেন। বরফ প্রথমে গলে পানি হয়, তারপর আরও তাপ দিলে পানি ফুটতে থাকে ও বাষ্প বের হয়। তিনি একটি থার্মোমিটার দিয়ে দেখান যে বরফ গলার সময় এবং পানি ফোটার সময় তাপমাত্রা স্থির থাকে। এরপর তিনি বলেন, এই সম্পূর্ণ প্রক্রিয়াটি কণার গতিতত্ত্ব দিয়ে ব্যাখ্যা করা যায়।",
+        "stimulus_en": "In class the teacher takes ice in a beaker and heats it slowly. The ice first melts into water, and on further heating the water boils and vapour comes out. Using a thermometer he shows that the temperature stays constant while the ice melts and while the water boils. He then says that this whole process can be explained by the kinetic theory of particles.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "গলনাঙ্ক কাকে বলে?",
+            "question_en": "What is meant by melting point?",
+            "model_answer_bn": "নির্দিষ্ট চাপে যে তাপমাত্রায় কোনো কঠিন পদার্থ গলে তরলে পরিণত হয়, সেই তাপমাত্রাকে ওই পদার্থের গলনাঙ্ক বলে।",
+            "model_answer_en": "The temperature at which a solid melts into a liquid at a fixed pressure is called the melting point of that substance."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "অবস্থার পরিবর্তন কেন ভৌত পরিবর্তন—ব্যাখ্যা করো।",
+            "question_en": "Why is a change of state a physical change—explain.",
+            "model_answer_bn": "অবস্থার পরিবর্তনে (যেমন বরফ→পানি→বাষ্প) পদার্থের অভ্যন্তরীণ রাসায়নিক গঠন অপরিবর্তিত থাকে; শুধু কণার বিন্যাস ও তাদের মধ্যকার দূরত্ব বদলায়। কোনো নতুন পদার্থ তৈরি হয় না এবং প্রক্রিয়াটি সহজে উল্টানো যায়, তাই এটি ভৌত পরিবর্তন।",
+            "model_answer_en": "In a change of state (e.g. ice→water→vapour) the internal chemical composition of the substance stays the same; only the arrangement of particles and the distance between them change. No new substance is formed and the process is easily reversible, so it is a physical change."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "কণার গতিতত্ত্ব দিয়ে বরফ গলে পানি ও পানি ফুটে বাষ্প হওয়ার প্রক্রিয়া ব্যাখ্যা করো।",
+            "question_en": "Using the kinetic theory of particles, explain the process of ice melting into water and water boiling into vapour.",
+            "model_answer_bn": "বরফে কণাগুলো নির্দিষ্ট স্থানে দৃঢ়ভাবে আবদ্ধ থেকে কম্পিত হয়। তাপ দিলে কণার গতিশক্তি বাড়ে, আন্তঃকণা আকর্ষণ কিছুটা দুর্বল হয়ে কণাগুলো চলাচলের স্বাধীনতা পায়—বরফ গলে পানি হয়। আরও তাপ দিলে কণার গতিশক্তি আরও বাড়ে, উপরের কণাগুলো আকর্ষণ বল সম্পূর্ণ অতিক্রম করে গ্যাসীয় অবস্থায় মুক্ত হয়—পানি ফুটে বাষ্প হয়। প্রতিটি ধাপে তাপ কণার গতি ও দূরত্ব বাড়িয়ে অবস্থার পরিবর্তন ঘটায়।",
+            "model_answer_en": "In ice the particles are firmly held at fixed positions and vibrate. On heating, their kinetic energy increases, interparticle attraction weakens somewhat and particles gain freedom to move—ice melts into water. On further heating the kinetic energy increases more, and the surface particles completely overcome the attraction and escape as gas—water boils into vapour. At each step heat increases the motion and spacing of particles, causing the change of state."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "তাপ দেওয়া সত্ত্বেও গলন ও স্ফুটনের সময় তাপমাত্রা স্থির থাকে—উদ্দীপকের এই পর্যবেক্ষণটি সুপ্ততাপের ধারণা দিয়ে বিশ্লেষণ করো।",
+            "question_en": "Despite supplying heat, the temperature stays constant during melting and boiling—analyse this observation from the stimulus using the concept of latent heat.",
+            "model_answer_bn": "তাপমাত্রা কণার গড় গতিশক্তির পরিমাপ। সাধারণত তাপ দিলে গতিশক্তি ও তাপমাত্রা বাড়ে। কিন্তু গলন বা স্ফুটনের সময় সরবরাহকৃত তাপ কণার গতিশক্তি বাড়ানোর কাজে না লেগে কণাগুলোর মধ্যকার আকর্ষণ বল ভাঙার কাজে সুপ্ততাপ হিসেবে ব্যয় হয়। যেহেতু গড় গতিশক্তি বাড়ে না, তাপমাত্রাও স্থির থাকে যতক্ষণ না সম্পূর্ণ কঠিন গলে বা সম্পূর্ণ তরল বাষ্পে পরিণত হয়। এই স্থির তাপমাত্রায় শোষিত তাপকে যথাক্রমে গলনের সুপ্ততাপ ও বাষ্পীভবনের সুপ্ততাপ বলে। অবস্থার সম্পূর্ণ পরিবর্তন হলে অতিরিক্ত তাপ আবার গতিশক্তি ও তাপমাত্রা বাড়ায়। তাই উদ্দীপকের পর্যবেক্ষণটি সুপ্ততাপের ধারণা দিয়ে সম্পূর্ণভাবে ব্যাখ্যাযোগ্য।",
+            "model_answer_en": "Temperature is a measure of the average kinetic energy of particles. Normally, supplying heat raises kinetic energy and temperature. But during melting or boiling the supplied heat, instead of raising kinetic energy, is spent as latent heat to break the attractive forces between particles. Since the average kinetic energy does not rise, the temperature stays constant until all the solid has melted or all the liquid has vaporized. The heat absorbed at this constant temperature is called the latent heat of fusion and latent heat of vaporization respectively. Once the change of state is complete, further heat again raises the kinetic energy and temperature. Hence the observation in the stimulus is fully explained by the concept of latent heat."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "একটি বদ্ধ কাচের নলের এক প্রান্তে তুলায় ভেজানো ঘন হাইড্রোক্লোরিক অ্যাসিড (HCl) এবং অপর প্রান্তে তুলায় ভেজানো ঘন অ্যামোনিয়া (NH3) রাখা হলো। কিছুক্ষণ পর নলের ভেতরে অ্যামোনিয়া প্রান্তের অপেক্ষাকৃত কাছাকাছি একটি সাদা বলয় (NH4Cl) সৃষ্টি হলো। এছাড়া শিক্ষক দেখান যে একটি বিকারে রাখা নিশাদল উত্তপ্ত করলে তা গলে না গিয়ে সরাসরি বাষ্পে পরিণত হয় এবং ঠান্ডা স্থানে আবার কঠিন হিসেবে জমা হয়।",
+        "stimulus_en": "In a closed glass tube, cotton soaked in concentrated hydrochloric acid (HCl) is placed at one end and cotton soaked in concentrated ammonia (NH3) at the other. After a while a white ring (NH4Cl) forms inside the tube, relatively closer to the ammonia end. The teacher also shows that ammonium chloride heated in a beaker does not melt but turns directly into vapour and deposits again as a solid in a cooler place.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "ঊর্ধ্বপাতন কাকে বলে?",
+            "question_en": "What is sublimation?",
+            "model_answer_bn": "যে প্রক্রিয়ায় কোনো কঠিন পদার্থ তরলে পরিণত না হয়ে সরাসরি গ্যাসীয় অবস্থায় এবং গ্যাস সরাসরি কঠিনে পরিণত হয়, তাকে ঊর্ধ্বপাতন বলে।",
+            "model_answer_en": "The process in which a solid changes directly into the gaseous state (and gas directly into solid) without passing through the liquid state is called sublimation."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "ব্যাপন ও নিঃসরণের মধ্যে পার্থক্য লেখো।",
+            "question_en": "Write the difference between diffusion and effusion.",
+            "model_answer_bn": "ব্যাপন হলো কণাগুলোর নিজস্ব গতির কারণে উচ্চ ঘনত্ব থেকে নিম্ন ঘনত্বের দিকে ছড়িয়ে পড়ে সমভাবে মিশে যাওয়া, যা কোনো ছিদ্র ছাড়াই ঘটে। আর নিঃসরণ হলো গ্যাসের কণাগুলোর একটি অতি ক্ষুদ্র ছিদ্রপথে অপেক্ষাকৃত নিম্নচাপের স্থানে বেরিয়ে যাওয়া। ব্যাপনে মাধ্যমের মধ্যে মিশ্রণ ঘটে, নিঃসরণে ছিদ্র দিয়ে গ্যাস বের হয়।",
+            "model_answer_en": "Diffusion is the uniform spreading and mixing of particles from a region of higher concentration to lower concentration due to their own motion, occurring without any hole. Effusion is the escape of gas particles through a very small hole into a region of lower pressure. In diffusion particles mix within a medium, while in effusion gas passes out through a hole."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "সাদা বলয়টি অ্যামোনিয়া প্রান্তের কাছাকাছি তৈরি হলো কেন—ব্যাপনের ধারণা দিয়ে ব্যাখ্যা করো।",
+            "question_en": "Why did the white ring form closer to the ammonia end—explain using the concept of diffusion.",
+            "model_answer_bn": "HCl ও NH3 উভয়ের বাষ্প নলের ভেতর ব্যাপন প্রক্রিয়ায় ছড়িয়ে পরস্পরের দিকে অগ্রসর হয় এবং যেখানে মিলিত হয় সেখানে বিক্রিয়া করে সাদা NH4Cl বলয় তৈরি করে। একই তাপমাত্রায় হালকা গ্যাস দ্রুত ব্যাপিত হয়। NH3-এর আণবিক ভর (১৭) HCl-এর আণবিক ভরের (৩৬.৫) চেয়ে কম, তাই NH3 দ্রুত ও বেশি দূরত্ব অতিক্রম করে। ফলে মিলনস্থল ভারী HCl প্রান্তের কাছাকাছি এবং হালকা NH3 প্রান্ত থেকে অপেক্ষাকৃত দূরে হওয়ার কথা—অর্থাৎ বলয়টি HCl প্রান্তের দিকে সরে গিয়ে অ্যামোনিয়া প্রান্ত থেকে দূরে তৈরি হয়। এটি প্রমাণ করে হালকা গ্যাস দ্রুত ব্যাপিত হয়।",
+            "model_answer_en": "The vapours of both HCl and NH3 spread through the tube by diffusion and move towards each other, and where they meet they react to form the white NH4Cl ring. At the same temperature a lighter gas diffuses faster. The molecular mass of NH3 (17) is less than that of HCl (36.5), so NH3 travels faster and covers a greater distance. Therefore the meeting point is closer to the heavier HCl end and farther from the lighter NH3 end—that is, the ring forms shifted towards the HCl side, away from the ammonia end. This proves that a lighter gas diffuses faster."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "নিশাদলের ঊর্ধ্বপাতন ধর্মকে কাজে লাগিয়ে বালুমিশ্রিত নিশাদল থেকে বিশুদ্ধ নিশাদল পৃথক করার পদ্ধতি বিশ্লেষণ করো এবং এর যৌক্তিকতা মূল্যায়ন করো।",
+            "question_en": "Analyse and evaluate the method of separating pure ammonium chloride from ammonium chloride mixed with sand, using its sublimation property.",
+            "model_answer_bn": "বালু ও নিশাদলের মিশ্রণে নিশাদল ঊর্ধ্বপাতনযোগ্য কিন্তু বালু নয়—এই ভৌত ধর্মের পার্থক্যই পৃথকীকরণের ভিত্তি। মিশ্রণটি একটি চীনামাটির বাটিতে নিয়ে তার উপর একটি উল্টানো ফানেল বা ঠান্ডা কাচপাত্র রেখে ধীরে ধীরে উত্তপ্ত করা হয়। তাপে নিশাদলের কণাগুলো পর্যাপ্ত শক্তি পেয়ে আন্তঃকণা আকর্ষণ অতিক্রম করে সরাসরি বাষ্পে পরিণত হয় (ঊর্ধ্বপাতন), আর বালু অপরিবর্তিত থেকে বাটিতে পড়ে থাকে। বাষ্প ফানেল বা ঠান্ডা পৃষ্ঠে পৌঁছে তাপ হারিয়ে আবার সরাসরি বিশুদ্ধ কঠিন নিশাদল হিসেবে জমা হয়, যা সংগ্রহ করা যায়। পদ্ধতিটি যৌক্তিক কারণ এটি দুই উপাদানের ঊর্ধ্বপাতন-ধর্মের সুস্পষ্ট পার্থক্যকে কাজে লাগায়, কোনো দ্রাবক লাগে না এবং বিশুদ্ধ পণ্য পাওয়া যায়। তবে এটি কেবল তখনই প্রযোজ্য যখন মিশ্রণের একটি উপাদান ঊর্ধ্বপাতিত হয় ও অপরটি হয় না; সব মিশ্রণে এটি ব্যবহারযোগ্য নয়। তাই নির্দিষ্ট ক্ষেত্রে এটি একটি কার্যকর ও যুক্তিসংগত পৃথকীকরণ পদ্ধতি।",
+            "model_answer_en": "In a mixture of sand and ammonium chloride, ammonium chloride sublimes but sand does not—this difference in physical property is the basis of separation. The mixture is placed in a china dish, an inverted funnel or a cold glass vessel is placed over it, and it is heated slowly. On heating, the ammonium chloride particles gain enough energy to overcome interparticle attraction and turn directly into vapour (sublimation), while the sand remains unchanged in the dish. The vapour reaches the funnel or cold surface, loses heat and deposits again directly as pure solid ammonium chloride, which can be collected. The method is justified because it exploits the clear difference in the sublimation property of the two components, needs no solvent and yields a pure product. However, it applies only when one component of the mixture sublimes and the other does not; it is not usable for all mixtures. Therefore, in such specific cases it is an effective and rational method of separation."
+          }
+        ]
+      }
+    ]
+  }
+]

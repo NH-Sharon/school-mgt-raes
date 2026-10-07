@@ -2,6 +2,7 @@ import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Router } from '@angular/router';
 import { SimulationService } from '../services/simulation.service';
+import { LabSessionService } from '../services/lab-session.service';
 import { I18nService } from '../services/i18n.service';
 
 @Component({
@@ -93,9 +94,12 @@ export class SimulationTitrationComponent implements OnInit {
   recorded = false;
   recordedVolume = 0;
   attemptId: number | null = null;
+  private labSession = inject(LabSessionService);
+  mode: 'guided' | 'free' = 'guided';
 
   ngOnInit() {
-    this.simulationService.startAttempt('chem-titration', 'guided').subscribe({ next: (a) => this.attemptId = a.id, error: () => {} });
+    this.mode = this.labSession.getMode('chem-titration'); // FR-2.1
+    this.simulationService.startAttempt('chem-titration', this.mode).subscribe({ next: (a) => this.attemptId = a.id, error: () => {} });
   }
 
   remainingFraction(): number {

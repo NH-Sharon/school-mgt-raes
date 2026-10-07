@@ -45,7 +45,7 @@ router.get('/student', verifyToken, async (req, res) => {
 
     // activity calendar heatmap: attempts per day, last 90 days
     const heatmap = await pool.query(
-      `SELECT day::date, COUNT(*) AS count FROM (
+      `SELECT to_char(day::date, 'YYYY-MM-DD') AS day, COUNT(*) AS count FROM (
          SELECT started_at::date AS day FROM simulation_attempts WHERE user_id = $1
          UNION ALL
          SELECT started_at::date AS day FROM exam_attempts WHERE user_id = $1

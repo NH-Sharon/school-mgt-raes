@@ -1,0 +1,1088 @@
+[
+  {
+    "order": 9,
+    "title_bn": "এসিড-ক্ষারক সমতা",
+    "title_en": "Acid-Base Balance",
+    "topics": [
+      {
+        "title_bn": "এসিড ও ক্ষারক",
+        "title_en": "Acids and Bases",
+        "mcqs": [
+          {
+            "question_bn": "আরহেনিয়াস মতবাদ অনুযায়ী এসিড জলীয় দ্রবণে কোন আয়ন উৎপন্ন করে?",
+            "question_en": "According to the Arrhenius concept, which ion does an acid produce in aqueous solution?",
+            "options": [
+              {"id": "a", "bn": "OH⁻", "en": "OH⁻"},
+              {"id": "b", "bn": "H⁺", "en": "H⁺"},
+              {"id": "c", "bn": "Na⁺", "en": "Na⁺"},
+              {"id": "d", "bn": "Cl⁻", "en": "Cl⁻"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "আরহেনিয়াস এসিড জলীয় দ্রবণে হাইড্রোজেন আয়ন (H⁺) বা হাইড্রোনিয়াম আয়ন (H₃O⁺) প্রদান করে।",
+            "explanation_en": "An Arrhenius acid produces hydrogen ions (H⁺) or hydronium ions (H₃O⁺) in aqueous solution.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ব্রনস্টেড-লাউরি মতবাদ অনুযায়ী ক্ষারক হলো—",
+            "question_en": "According to the Brønsted-Lowry concept, a base is—",
+            "options": [
+              {"id": "a", "bn": "প্রোটন দাতা", "en": "a proton donor"},
+              {"id": "b", "bn": "ইলেকট্রন দাতা", "en": "an electron donor"},
+              {"id": "c", "bn": "প্রোটন গ্রহীতা", "en": "a proton acceptor"},
+              {"id": "d", "bn": "ইলেকট্রন গ্রহীতা", "en": "an electron acceptor"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "ব্রনস্টেড-লাউরি মতবাদে যে পদার্থ প্রোটন (H⁺) গ্রহণ করে তাকে ক্ষারক বলে।",
+            "explanation_en": "In the Brønsted-Lowry concept, a base is a substance that accepts a proton (H⁺).",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি একটি ক্ষার (alkali)?",
+            "question_en": "Which of the following is an alkali?",
+            "options": [
+              {"id": "a", "bn": "CuO", "en": "CuO"},
+              {"id": "b", "bn": "Fe(OH)₃", "en": "Fe(OH)₃"},
+              {"id": "c", "bn": "NaOH", "en": "NaOH"},
+              {"id": "d", "bn": "HCl", "en": "HCl"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "পানিতে দ্রবণীয় ক্ষারককে ক্ষার বলে। NaOH পানিতে দ্রবণীয়, তাই এটি ক্ষার। CuO ও Fe(OH)₃ পানিতে অদ্রবণীয় ক্ষারক।",
+            "explanation_en": "A base soluble in water is called an alkali. NaOH is water-soluble, so it is an alkali; CuO and Fe(OH)₃ are water-insoluble bases.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "একটি এসিডের ক্ষারকত্ব (basicity) নির্দেশ করে—",
+            "question_en": "The basicity of an acid indicates—",
+            "options": [
+              {"id": "a", "bn": "অণুতে মোট পরমাণুর সংখ্যা", "en": "the total number of atoms in the molecule"},
+              {"id": "b", "bn": "প্রতিস্থাপনযোগ্য হাইড্রোজেন আয়নের সংখ্যা", "en": "the number of replaceable hydrogen ions"},
+              {"id": "c", "bn": "OH⁻ আয়নের সংখ্যা", "en": "the number of OH⁻ ions"},
+              {"id": "d", "bn": "অক্সিজেন পরমাণুর সংখ্যা", "en": "the number of oxygen atoms"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "এসিডের ক্ষারকত্ব হলো প্রতি অণু এসিড দ্রবণে যত সংখ্যক প্রতিস্থাপনযোগ্য H⁺ আয়ন দেয়। যেমন H₂SO₄-এর ক্ষারকত্ব ২।",
+            "explanation_en": "The basicity of an acid is the number of replaceable H⁺ ions produced per molecule of the acid; e.g., H₂SO₄ has a basicity of 2.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি প্রশম অক্সাইড (neutral oxide)?",
+            "question_en": "Which of the following is a neutral oxide?",
+            "options": [
+              {"id": "a", "bn": "CO₂", "en": "CO₂"},
+              {"id": "b", "bn": "SO₂", "en": "SO₂"},
+              {"id": "c", "bn": "CO", "en": "CO"},
+              {"id": "d", "bn": "Na₂O", "en": "Na₂O"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "CO একটি প্রশম অক্সাইড, যা এসিড বা ক্ষার কোনোটির সাথেই বিক্রিয়া করে লবণ দেয় না। CO₂ ও SO₂ আম্লিক এবং Na₂O ক্ষারীয় অক্সাইড।",
+            "explanation_en": "CO is a neutral oxide that reacts with neither acids nor bases to form salts; CO₂ and SO₂ are acidic, and Na₂O is a basic oxide.",
+            "difficulty": "basic"
+          }
+        ]
+      },
+      {
+        "title_bn": "pH স্কেল",
+        "title_en": "The pH Scale",
+        "mcqs": [
+          {
+            "question_bn": "pH স্কেলের পরিসীমা সাধারণত কত?",
+            "question_en": "What is the usual range of the pH scale?",
+            "options": [
+              {"id": "a", "bn": "0 থেকে 7", "en": "0 to 7"},
+              {"id": "b", "bn": "0 থেকে 14", "en": "0 to 14"},
+              {"id": "c", "bn": "1 থেকে 10", "en": "1 to 10"},
+              {"id": "d", "bn": "7 থেকে 14", "en": "7 to 14"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "pH স্কেল সাধারণত ০ থেকে ১৪ পর্যন্ত বিস্তৃত; ৭ প্রশম, ৭-এর কম আম্লিক এবং ৭-এর বেশি ক্ষারীয়।",
+            "explanation_en": "The pH scale usually ranges from 0 to 14; 7 is neutral, below 7 is acidic and above 7 is basic.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "pH = 3 বিশিষ্ট একটি দ্রবণে H⁺ আয়নের ঘনমাত্রা কত mol/L?",
+            "question_en": "What is the H⁺ ion concentration (mol/L) in a solution of pH = 3?",
+            "options": [
+              {"id": "a", "bn": "10⁻³", "en": "10⁻³"},
+              {"id": "b", "bn": "10³", "en": "10³"},
+              {"id": "c", "bn": "10⁻¹¹", "en": "10⁻¹¹"},
+              {"id": "d", "bn": "3", "en": "3"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "pH = −log[H⁺], সুতরাং [H⁺] = 10⁻ᵖᴴ = 10⁻³ mol/L।",
+            "explanation_en": "pH = −log[H⁺], so [H⁺] = 10⁻ᵖᴴ = 10⁻³ mol/L.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "একটি দ্রবণের pH 7 থেকে বৃদ্ধি পেলে দ্রবণটি হয়—",
+            "question_en": "If the pH of a solution rises above 7, the solution becomes—",
+            "options": [
+              {"id": "a", "bn": "অধিক আম্লিক", "en": "more acidic"},
+              {"id": "b", "bn": "ক্ষারীয়", "en": "basic (alkaline)"},
+              {"id": "c", "bn": "প্রশম", "en": "neutral"},
+              {"id": "d", "bn": "অপরিবর্তিত", "en": "unchanged"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "pH ৭-এর বেশি হলে দ্রবণে OH⁻ আয়নের আধিক্য থাকে, ফলে দ্রবণটি ক্ষারীয় হয়।",
+            "explanation_en": "A pH greater than 7 means an excess of OH⁻ ions, so the solution is basic (alkaline).",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "pH প্রতি একক পরিবর্তনে H⁺ আয়নের ঘনমাত্রা কত গুণ পরিবর্তিত হয়?",
+            "question_en": "By what factor does the H⁺ ion concentration change for each unit change in pH?",
+            "options": [
+              {"id": "a", "bn": "২ গুণ", "en": "2 times"},
+              {"id": "b", "bn": "৭ গুণ", "en": "7 times"},
+              {"id": "c", "bn": "১০ গুণ", "en": "10 times"},
+              {"id": "d", "bn": "১০০ গুণ", "en": "100 times"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "pH একটি লগারিদমিক স্কেল; pH ১ একক কমলে H⁺ ঘনমাত্রা ১০ গুণ বৃদ্ধি পায়।",
+            "explanation_en": "pH is a logarithmic scale; a decrease of 1 pH unit means the H⁺ concentration increases 10-fold.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "মানবদেহের রক্তের স্বাভাবিক pH প্রায় কত?",
+            "question_en": "The normal pH of human blood is approximately—",
+            "options": [
+              {"id": "a", "bn": "১.৫", "en": "1.5"},
+              {"id": "b", "bn": "৭.৪", "en": "7.4"},
+              {"id": "c", "bn": "৯.৫", "en": "9.5"},
+              {"id": "d", "bn": "৫.০", "en": "5.0"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মানবদেহের রক্ত সামান্য ক্ষারীয়, যার pH প্রায় ৭.৪-এ বাফার দ্বারা নিয়ন্ত্রিত থাকে।",
+            "explanation_en": "Human blood is slightly alkaline, maintained by buffers at a pH of about 7.4.",
+            "difficulty": "medium"
+          }
+        ]
+      },
+      {
+        "title_bn": "নির্দেশক",
+        "title_en": "Indicators",
+        "mcqs": [
+          {
+            "question_bn": "নীল লিটমাস কাগজ এসিডে কোন রঙ ধারণ করে?",
+            "question_en": "What colour does blue litmus paper turn in an acid?",
+            "options": [
+              {"id": "a", "bn": "নীল", "en": "Blue"},
+              {"id": "b", "bn": "লাল", "en": "Red"},
+              {"id": "c", "bn": "সবুজ", "en": "Green"},
+              {"id": "d", "bn": "বর্ণহীন", "en": "Colourless"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "এসিড নীল লিটমাসকে লাল করে; এটি এসিড শনাক্তকরণের সহজ পরীক্ষা।",
+            "explanation_en": "Acids turn blue litmus red; this is a simple test for detecting an acid.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ফেনলফথ্যালিন নির্দেশক ক্ষারীয় দ্রবণে কোন রঙ ধারণ করে?",
+            "question_en": "What colour does the phenolphthalein indicator show in a basic solution?",
+            "options": [
+              {"id": "a", "bn": "গোলাপি/ম্যাজেন্টা", "en": "Pink/magenta"},
+              {"id": "b", "bn": "বর্ণহীন", "en": "Colourless"},
+              {"id": "c", "bn": "হলুদ", "en": "Yellow"},
+              {"id": "d", "bn": "নীল", "en": "Blue"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "ফেনলফথ্যালিন আম্লিক ও প্রশম দ্রবণে বর্ণহীন এবং ক্ষারীয় দ্রবণে গোলাপি/ম্যাজেন্টা রঙ ধারণ করে।",
+            "explanation_en": "Phenolphthalein is colourless in acidic and neutral solutions and turns pink/magenta in basic solutions.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "মিথাইল অরেঞ্জ নির্দেশক আম্লিক দ্রবণে কোন রঙ দেয়?",
+            "question_en": "What colour does methyl orange give in an acidic solution?",
+            "options": [
+              {"id": "a", "bn": "হলুদ", "en": "Yellow"},
+              {"id": "b", "bn": "সবুজ", "en": "Green"},
+              {"id": "c", "bn": "লাল/গোলাপি", "en": "Red/pink"},
+              {"id": "d", "bn": "বেগুনি", "en": "Violet"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "মিথাইল অরেঞ্জ আম্লিক দ্রবণে লাল/গোলাপি এবং ক্ষারীয় দ্রবণে হলুদ রঙ দেয়।",
+            "explanation_en": "Methyl orange is red/pink in acidic solutions and yellow in basic solutions.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি একটি প্রাকৃতিক নির্দেশক?",
+            "question_en": "Which of the following is a natural indicator?",
+            "options": [
+              {"id": "a", "bn": "মিথাইল অরেঞ্জ", "en": "Methyl orange"},
+              {"id": "b", "bn": "হলুদ (turmeric)", "en": "Turmeric"},
+              {"id": "c", "bn": "ফেনলফথ্যালিন", "en": "Phenolphthalein"},
+              {"id": "d", "bn": "ব্রোমোথাইমল নীল", "en": "Bromothymol blue"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "হলুদ একটি প্রাকৃতিক নির্দেশক; এটি ক্ষারীয় দ্রবণে লাল-বাদামি রঙ ধারণ করে। লাল বাঁধাকপির নির্যাসও প্রাকৃতিক নির্দেশক।",
+            "explanation_en": "Turmeric is a natural indicator; it turns reddish-brown in basic solutions. Red cabbage extract is another natural indicator.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "সার্বজনীন নির্দেশক (universal indicator) কেন লিটমাসের চেয়ে সুবিধাজনক?",
+            "question_en": "Why is a universal indicator more useful than litmus?",
+            "options": [
+              {"id": "a", "bn": "এটি সস্তা", "en": "It is cheaper"},
+              {"id": "b", "bn": "এটি শুধু এসিড শনাক্ত করে", "en": "It detects only acids"},
+              {"id": "c", "bn": "এটি বিভিন্ন রঙে pH-এর আনুমানিক মান নির্দেশ করে", "en": "It shows the approximate pH value through a range of colours"},
+              {"id": "d", "bn": "এটি রঙ পরিবর্তন করে না", "en": "It does not change colour"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "সার্বজনীন নির্দেশক বিভিন্ন pH-এ বিভিন্ন রঙ দেখায়, ফলে কেবল আম্লিক/ক্ষারীয় নয়, দ্রবণের আনুমানিক pH মানও নির্ণয় করা যায়।",
+            "explanation_en": "A universal indicator shows different colours at different pH values, so it gives the approximate pH, not just whether a solution is acidic or basic.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "প্রশমন বিক্রিয়া",
+        "title_en": "Neutralization",
+        "mcqs": [
+          {
+            "question_bn": "এসিড ও ক্ষারকের প্রশমন বিক্রিয়ায় লবণের সাথে আর কী উৎপন্ন হয়?",
+            "question_en": "In the neutralization of an acid and a base, what is produced along with a salt?",
+            "options": [
+              {"id": "a", "bn": "পানি", "en": "Water"},
+              {"id": "b", "bn": "হাইড্রোজেন গ্যাস", "en": "Hydrogen gas"},
+              {"id": "c", "bn": "অক্সিজেন গ্যাস", "en": "Oxygen gas"},
+              {"id": "d", "bn": "কার্বন ডাই-অক্সাইড", "en": "Carbon dioxide"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "প্রশমন বিক্রিয়ায় এসিড ও ক্ষারক বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে: এসিড + ক্ষারক → লবণ + পানি।",
+            "explanation_en": "In neutralization, an acid and a base react to form a salt and water: acid + base → salt + water.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "প্রশমন বিক্রিয়ার মূল আয়নিক সমীকরণ কোনটি?",
+            "question_en": "Which is the essential ionic equation for a neutralization reaction?",
+            "options": [
+              {"id": "a", "bn": "Na⁺ + Cl⁻ → NaCl", "en": "Na⁺ + Cl⁻ → NaCl"},
+              {"id": "b", "bn": "H⁺ + OH⁻ → H₂O", "en": "H⁺ + OH⁻ → H₂O"},
+              {"id": "c", "bn": "H₂ + O₂ → H₂O", "en": "H₂ + O₂ → H₂O"},
+              {"id": "d", "bn": "CO₂ + H₂O → H₂CO₃", "en": "CO₂ + H₂O → H₂CO₃"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "প্রশমন বিক্রিয়ার মূল ঘটনা হলো এসিডের H⁺ ও ক্ষারকের OH⁻ যুক্ত হয়ে পানি গঠন: H⁺ + OH⁻ → H₂O।",
+            "explanation_en": "The essence of neutralization is that H⁺ from the acid and OH⁻ from the base combine to form water: H⁺ + OH⁻ → H₂O.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "প্রশমন বিক্রিয়া তাপ উৎপন্ন করে বলে এটি একটি—",
+            "question_en": "Since a neutralization reaction releases heat, it is—",
+            "options": [
+              {"id": "a", "bn": "তাপহারী বিক্রিয়া", "en": "an endothermic reaction"},
+              {"id": "b", "bn": "তাপোৎপাদী বিক্রিয়া", "en": "an exothermic reaction"},
+              {"id": "c", "bn": "প্রশম বিক্রিয়া নয়", "en": "not a chemical reaction"},
+              {"id": "d", "bn": "আলোক বিক্রিয়া", "en": "a photochemical reaction"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "প্রশমন বিক্রিয়ায় তাপ নির্গত হয়, তাই এটি তাপোৎপাদী (exothermic) বিক্রিয়া।",
+            "explanation_en": "Heat is released during neutralization, so it is an exothermic reaction.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "১ মোল HCl সম্পূর্ণ প্রশমিত করতে কত মোল NaOH প্রয়োজন?",
+            "question_en": "How many moles of NaOH are needed to completely neutralize 1 mole of HCl?",
+            "options": [
+              {"id": "a", "bn": "০.৫ মোল", "en": "0.5 mole"},
+              {"id": "b", "bn": "১ মোল", "en": "1 mole"},
+              {"id": "c", "bn": "২ মোল", "en": "2 moles"},
+              {"id": "d", "bn": "৩ মোল", "en": "3 moles"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "HCl + NaOH → NaCl + H₂O সমীকরণ অনুযায়ী ১ মোল HCl-এর জন্য ১ মোল NaOH প্রয়োজন।",
+            "explanation_en": "According to HCl + NaOH → NaCl + H₂O, 1 mole of HCl requires 1 mole of NaOH.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "অম্লীয় মাটির অম্লত্ব কমাতে কৃষকেরা সাধারণত কী ব্যবহার করেন?",
+            "question_en": "To reduce the acidity of acidic soil, farmers usually use—",
+            "options": [
+              {"id": "a", "bn": "লেবুর রস", "en": "Lemon juice"},
+              {"id": "b", "bn": "চুন/কলিচুন (CaO/Ca(OH)₂)", "en": "Lime (CaO/Ca(OH)₂)"},
+              {"id": "c", "bn": "সালফিউরিক এসিড", "en": "Sulphuric acid"},
+              {"id": "d", "bn": "ভিনেগার", "en": "Vinegar"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "চুন বা কলিচুন ক্ষারীয়; এটি মাটির অতিরিক্ত এসিড প্রশমিত করে মাটির pH বৃদ্ধি করে।",
+            "explanation_en": "Lime is basic; it neutralizes the excess acid in soil and raises the soil pH.",
+            "difficulty": "basic"
+          }
+        ]
+      },
+      {
+        "title_bn": "লবণ",
+        "title_en": "Salts",
+        "mcqs": [
+          {
+            "question_bn": "খাবার লবণের (common salt) রাসায়নিক সংকেত কোনটি?",
+            "question_en": "What is the chemical formula of common table salt?",
+            "options": [
+              {"id": "a", "bn": "NaCl", "en": "NaCl"},
+              {"id": "b", "bn": "Na₂CO₃", "en": "Na₂CO₃"},
+              {"id": "c", "bn": "NaHCO₃", "en": "NaHCO₃"},
+              {"id": "d", "bn": "KCl", "en": "KCl"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "খাবার লবণ হলো সোডিয়াম ক্লোরাইড, যার সংকেত NaCl; এটি HCl ও NaOH-এর প্রশমনে উৎপন্ন হয়।",
+            "explanation_en": "Common salt is sodium chloride, NaCl, formed by the neutralization of HCl and NaOH.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "প্রবল এসিড ও প্রবল ক্ষারকের বিক্রিয়ায় উৎপন্ন লবণের দ্রবণের প্রকৃতি কেমন?",
+            "question_en": "What is the nature of the solution of a salt formed from a strong acid and a strong base?",
+            "options": [
+              {"id": "a", "bn": "আম্লিক", "en": "Acidic"},
+              {"id": "b", "bn": "ক্ষারীয়", "en": "Basic"},
+              {"id": "c", "bn": "প্রশম", "en": "Neutral"},
+              {"id": "d", "bn": "কোনো নির্দিষ্টতা নেই", "en": "Cannot be determined"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "প্রবল এসিড ও প্রবল ক্ষারকের লবণ (যেমন NaCl) আর্দ্রবিশ্লেষিত হয় না, তাই এর জলীয় দ্রবণ প্রশম (pH ≈ ৭)।",
+            "explanation_en": "A salt of a strong acid and a strong base (e.g., NaCl) does not hydrolyse, so its aqueous solution is neutral (pH ≈ 7).",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "খাবার সোডা (baking soda) হিসেবে ব্যবহৃত লবণ কোনটি?",
+            "question_en": "Which salt is used as baking soda?",
+            "options": [
+              {"id": "a", "bn": "Na₂CO₃", "en": "Na₂CO₃"},
+              {"id": "b", "bn": "NaHCO₃", "en": "NaHCO₃"},
+              {"id": "c", "bn": "CaCO₃", "en": "CaCO₃"},
+              {"id": "d", "bn": "NaCl", "en": "NaCl"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "খাবার সোডা হলো সোডিয়াম বাইকার্বনেট (NaHCO₃), যা রুটি ফোলাতে ও অম্বলে ব্যবহৃত হয়।",
+            "explanation_en": "Baking soda is sodium bicarbonate (NaHCO₃), used in baking and as an antacid.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "দুর্বল এসিড ও প্রবল ক্ষারকের লবণের জলীয় দ্রবণ সাধারণত—",
+            "question_en": "The aqueous solution of a salt of a weak acid and a strong base is usually—",
+            "options": [
+              {"id": "a", "bn": "আম্লিক", "en": "Acidic"},
+              {"id": "b", "bn": "ক্ষারীয়", "en": "Basic"},
+              {"id": "c", "bn": "প্রশম", "en": "Neutral"},
+              {"id": "d", "bn": "গ্যাসীয়", "en": "Gaseous"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "দুর্বল এসিড ও প্রবল ক্ষারকের লবণ (যেমন Na₂CO₃) আর্দ্রবিশ্লেষণে OH⁻ উৎপন্ন করে, তাই দ্রবণ ক্ষারীয় হয়।",
+            "explanation_en": "A salt of a weak acid and a strong base (e.g., Na₂CO₃) hydrolyses to give OH⁻, making the solution basic.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "নিচের কোনটি একটি এসিড লবণ (acid salt)?",
+            "question_en": "Which of the following is an acid salt?",
+            "options": [
+              {"id": "a", "bn": "NaCl", "en": "NaCl"},
+              {"id": "b", "bn": "Na₂SO₄", "en": "Na₂SO₄"},
+              {"id": "c", "bn": "NaHSO₄", "en": "NaHSO₄"},
+              {"id": "d", "bn": "KNO₃", "en": "KNO₃"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "NaHSO₄-এ প্রতিস্থাপনযোগ্য হাইড্রোজেন থেকে যায়, তাই এটি একটি এসিড লবণ। এটি বহু-ক্ষারকীয় এসিডের আংশিক প্রশমনে তৈরি হয়।",
+            "explanation_en": "NaHSO₄ still contains a replaceable hydrogen, so it is an acid salt, formed by partial neutralization of a polybasic acid.",
+            "difficulty": "medium"
+          }
+        ]
+      },
+      {
+        "title_bn": "দৈনন্দিন জীবনে এসিড-ক্ষার",
+        "title_en": "Acids and Bases in Daily Life",
+        "mcqs": [
+          {
+            "question_bn": "লেবু ও কমলালেবুতে কোন এসিড থাকে?",
+            "question_en": "Which acid is present in lemon and orange?",
+            "options": [
+              {"id": "a", "bn": "সাইট্রিক এসিড", "en": "Citric acid"},
+              {"id": "b", "bn": "ল্যাকটিক এসিড", "en": "Lactic acid"},
+              {"id": "c", "bn": "সালফিউরিক এসিড", "en": "Sulphuric acid"},
+              {"id": "d", "bn": "নাইট্রিক এসিড", "en": "Nitric acid"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "লেবু ও কমলালেবুতে সাইট্রিক এসিড থাকে, যা এদের টক স্বাদের কারণ।",
+            "explanation_en": "Lemon and orange contain citric acid, which gives them their sour taste.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "অম্বল বা বদহজমে ব্যবহৃত অ্যান্টাসিড মূলত কী প্রকৃতির?",
+            "question_en": "Antacids used for indigestion or heartburn are essentially—",
+            "options": [
+              {"id": "a", "bn": "প্রবল এসিড", "en": "strong acids"},
+              {"id": "b", "bn": "দুর্বল ক্ষারক", "en": "weak bases"},
+              {"id": "c", "bn": "প্রবল ক্ষারক", "en": "strong bases"},
+              {"id": "d", "bn": "প্রশম লবণ", "en": "neutral salts"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অ্যান্টাসিড (যেমন Mg(OH)₂, Al(OH)₃) দুর্বল ক্ষারক, যা পাকস্থলীর অতিরিক্ত HCl প্রশমিত করে।",
+            "explanation_en": "Antacids (e.g., Mg(OH)₂, Al(OH)₃) are weak bases that neutralize excess HCl in the stomach.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "মৌমাছির হুলের এসিড প্রশমিত করতে কোনটি ব্যবহার করা যায়?",
+            "question_en": "Which can be used to neutralize the acid of a bee sting?",
+            "options": [
+              {"id": "a", "bn": "ভিনেগার", "en": "Vinegar"},
+              {"id": "b", "bn": "লেবুর রস", "en": "Lemon juice"},
+              {"id": "c", "bn": "খাবার সোডা (NaHCO₃)", "en": "Baking soda (NaHCO₃)"},
+              {"id": "d", "bn": "টক দই", "en": "Sour yoghurt"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "মৌমাছির হুলে ফরমিক এসিড থাকে; খাবার সোডা ক্ষারীয় হওয়ায় এটি এসিড প্রশমিত করে জ্বালা কমায়।",
+            "explanation_en": "A bee sting contains formic acid; baking soda, being basic, neutralizes the acid and relieves the irritation.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "টক দই ও পনিরে কোন এসিড উপস্থিত থাকে?",
+            "question_en": "Which acid is present in sour curd and cheese?",
+            "options": [
+              {"id": "a", "bn": "অক্সালিক এসিড", "en": "Oxalic acid"},
+              {"id": "b", "bn": "ল্যাকটিক এসিড", "en": "Lactic acid"},
+              {"id": "c", "bn": "অ্যাসিটিক এসিড", "en": "Acetic acid"},
+              {"id": "d", "bn": "টারটারিক এসিড", "en": "Tartaric acid"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "দুধ থেকে দই তৈরির সময় ল্যাকটিক এসিড উৎপন্ন হয়, যা টক স্বাদের জন্য দায়ী।",
+            "explanation_en": "Lactic acid is produced when milk is fermented into curd, giving the sour taste.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "অ্যাসিড বৃষ্টির (acid rain) প্রধান কারণ কোন গ্যাসসমূহ?",
+            "question_en": "Acid rain is mainly caused by which gases?",
+            "options": [
+              {"id": "a", "bn": "O₂ ও N₂", "en": "O₂ and N₂"},
+              {"id": "b", "bn": "SO₂ ও NOₓ", "en": "SO₂ and NOₓ"},
+              {"id": "c", "bn": "CH₄ ও H₂", "en": "CH₄ and H₂"},
+              {"id": "d", "bn": "He ও Ar", "en": "He and Ar"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "SO₂ ও নাইট্রোজেন অক্সাইড (NOₓ) বায়ুমণ্ডলের পানির সাথে বিক্রিয়া করে সালফিউরিক ও নাইট্রিক এসিড তৈরি করে, যা অ্যাসিড বৃষ্টির কারণ।",
+            "explanation_en": "SO₂ and nitrogen oxides (NOₓ) react with atmospheric water to form sulphuric and nitric acids, causing acid rain.",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "একজন শিক্ষার্থী তিনটি বর্ণহীন দ্রবণ P, Q ও R নিয়ে পরীক্ষা করল। সার্বজনীন নির্দেশক দিয়ে দেখা গেল P-এর pH = 2, Q-এর pH = 7 এবং R-এর pH = 12। এরপর সে P ও R সমপরিমাণে মিশিয়ে একটি নতুন দ্রবণ পেল।",
+        "stimulus_en": "A student tested three colourless solutions P, Q and R. Using a universal indicator, the pH of P was found to be 2, Q was 7 and R was 12. She then mixed equal amounts of P and R to obtain a new solution.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "pH কাকে বলে?",
+            "question_en": "What is pH?",
+            "model_answer_bn": "কোনো দ্রবণের হাইড্রোজেন আয়নের ঘনমাত্রার ঋণাত্মক লগারিদমকে pH বলে; pH = −log[H⁺]।",
+            "model_answer_en": "pH is the negative logarithm of the hydrogen ion concentration of a solution; pH = −log[H⁺]."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "P ও R দ্রবণ দুটির প্রকৃতি ব্যাখ্যা কর।",
+            "question_en": "Explain the nature of solutions P and R.",
+            "model_answer_bn": "P-এর pH = 2, যা ৭-এর অনেক কম, তাই P একটি প্রবল আম্লিক দ্রবণ যেখানে H⁺ আয়নের আধিক্য আছে। R-এর pH = 12, যা ৭-এর অনেক বেশি, তাই R একটি প্রবল ক্ষারীয় দ্রবণ যেখানে OH⁻ আয়নের আধিক্য আছে।",
+            "model_answer_en": "P has pH = 2, well below 7, so it is a strongly acidic solution with an excess of H⁺ ions. R has pH = 12, well above 7, so it is a strongly basic solution with an excess of OH⁻ ions."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "P ও R মেশানোর ফলে কোন ধরনের বিক্রিয়া ঘটে এবং সমপরিমাণে মেশালে নতুন দ্রবণের সম্ভাব্য প্রকৃতি কী হতে পারে? বিশ্লেষণ কর।",
+            "question_en": "What type of reaction occurs when P and R are mixed, and what is the likely nature of the new solution if equal amounts are mixed? Analyse.",
+            "model_answer_bn": "P (এসিড) ও R (ক্ষার) মেশালে প্রশমন বিক্রিয়া ঘটে: H⁺ + OH⁻ → H₂O, লবণ ও পানি উৎপন্ন হয় এবং তাপ নির্গত হয়। যদি এসিডের H⁺ ও ক্ষারের OH⁻ সমান হয় তবে দ্রবণ প্রশম (pH ≈ ৭) হবে; কিন্তু কেবল সমআয়তন মেশালেই প্রশম হয় না—তা নির্ভর করে ঘনমাত্রা ও শক্তির উপর। H⁺-এর আধিক্য থাকলে দ্রবণ আম্লিক এবং OH⁻-এর আধিক্য থাকলে ক্ষারীয় থাকবে।",
+            "model_answer_en": "Mixing P (acid) and R (base) causes a neutralization reaction: H⁺ + OH⁻ → H₂O, forming salt and water and releasing heat. The solution becomes neutral (pH ≈ 7) only if the moles of H⁺ and OH⁻ are equal; mixing equal volumes alone does not guarantee this, as it depends on concentration and strength. If H⁺ is in excess the solution stays acidic, and if OH⁻ is in excess it stays basic."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "উদ্দীপকের তিনটি দ্রবণ শনাক্ত করতে ফেনলফথ্যালিন ও মিথাইল অরেঞ্জ নির্দেশকের ব্যবহার মূল্যায়ন কর।",
+            "question_en": "Evaluate the use of phenolphthalein and methyl orange indicators to identify the three solutions in the stem.",
+            "model_answer_bn": "ফেনলফথ্যালিন আম্লিক ও প্রশম দ্রবণে বর্ণহীন এবং ক্ষারীয় দ্রবণে গোলাপি হয়; তাই এটি দিয়ে R (ক্ষারীয়) গোলাপি রঙে সহজে শনাক্ত হবে, কিন্তু P ও Q উভয়েই বর্ণহীন থাকায় আলাদা করা যাবে না। মিথাইল অরেঞ্জ আম্লিক দ্রবণে লাল ও ক্ষারীয়/প্রশমে হলুদ হয়; তাই এটি দিয়ে P (লাল) শনাক্ত হবে, কিন্তু Q ও R উভয়েই হলুদ থাকবে। সুতরাং উভয় নির্দেশক একসাথে ব্যবহার করলে P (মিথাইল অরেঞ্জে লাল), R (ফেনলফথ্যালিনে গোলাপি) এবং বাদ পড়া Q প্রশম হিসেবে শনাক্ত করা যায়। তবে সার্বজনীন নির্দেশক ব্যবহার করলে একবারেই তিনটির pH ও প্রকৃতি নির্ণয় করা যেত, তাই তা অধিক কার্যকর।",
+            "model_answer_en": "Phenolphthalein is colourless in acidic and neutral solutions and pink in basic ones; so it clearly identifies R (basic, pink), but P and Q both remain colourless and cannot be distinguished. Methyl orange is red in acidic and yellow in neutral/basic solutions; it identifies P (red), but Q and R both stay yellow. Using both indicators together, P is red with methyl orange, R is pink with phenolphthalein, and the remaining Q is identified as neutral. However, a universal indicator would give the pH and nature of all three at once, so it is more effective."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "রহিমের পেটে গ্যাস্ট্রিকের সমস্যা হলে ডাক্তার তাকে একটি অ্যান্টাসিড ট্যাবলেট খেতে বললেন যাতে ম্যাগনেসিয়াম হাইড্রোক্সাইড আছে। অন্যদিকে তার মা রান্নাঘরে অম্লীয় দাগ পরিষ্কার করতে খাবার সোডা ব্যবহার করলেন।",
+        "stimulus_en": "When Rahim suffered from gastric acidity, the doctor advised him to take an antacid tablet containing magnesium hydroxide. Meanwhile, his mother used baking soda in the kitchen to clean an acidic stain.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "প্রশমন বিক্রিয়া কাকে বলে?",
+            "question_en": "What is a neutralization reaction?",
+            "model_answer_bn": "যে বিক্রিয়ায় এসিড ও ক্ষারক পরস্পর বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে, তাকে প্রশমন বিক্রিয়া বলে।",
+            "model_answer_en": "A reaction in which an acid and a base react together to produce a salt and water is called a neutralization reaction."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "পাকস্থলীতে গ্যাস্ট্রিকের সমস্যা কেন হয় তা ব্যাখ্যা কর।",
+            "question_en": "Explain why gastric acidity occurs in the stomach.",
+            "model_answer_bn": "পাকস্থলীতে খাদ্য পরিপাকের জন্য হাইড্রোক্লোরিক এসিড (HCl) নিঃসৃত হয়। কোনো কারণে এই এসিড অতিরিক্ত পরিমাণে নিঃসৃত হলে পাকস্থলীর pH অত্যধিক কমে যায় এবং জ্বালা-অস্বস্তি সৃষ্টি হয়, যাকে গ্যাস্ট্রিক বা অম্বল বলে।",
+            "model_answer_en": "The stomach secretes hydrochloric acid (HCl) to digest food. If this acid is secreted in excess, the pH of the stomach drops too low, causing a burning discomfort known as gastric acidity or heartburn."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "অ্যান্টাসিড কীভাবে গ্যাস্ট্রিকের সমস্যা দূর করে? সমীকরণসহ ব্যাখ্যা কর।",
+            "question_en": "How does an antacid relieve gastric acidity? Explain with an equation.",
+            "model_answer_bn": "অ্যান্টাসিডে থাকা ম্যাগনেসিয়াম হাইড্রোক্সাইড Mg(OH)₂ একটি দুর্বল ক্ষারক। এটি পাকস্থলীর অতিরিক্ত HCl-এর সাথে প্রশমন বিক্রিয়া করে: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O। ফলে অতিরিক্ত এসিড প্রশমিত হয়ে পাকস্থলীর pH বৃদ্ধি পায় এবং জ্বালা কমে যায়।",
+            "model_answer_en": "The magnesium hydroxide Mg(OH)₂ in the antacid is a weak base. It undergoes a neutralization reaction with the excess HCl in the stomach: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O. This neutralizes the excess acid, raising the stomach pH and relieving the burning."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "রহিমের মায়ের খাবার সোডা ব্যবহার এবং প্রবল ক্ষারক (যেমন NaOH) ব্যবহারের মধ্যে কোনটি নিরাপদ ও যুক্তিযুক্ত—মূল্যায়ন কর।",
+            "question_en": "Evaluate which is safer and more reasonable—Rahim's mother using baking soda or using a strong base (e.g., NaOH)—to clean the acidic stain.",
+            "model_answer_bn": "খাবার সোডা (NaHCO₃) একটি দুর্বল ক্ষারীয় লবণ; এটি অম্লীয় দাগের এসিডের সাথে বিক্রিয়া করে লবণ, পানি ও CO₂ উৎপন্ন করে দাগ পরিষ্কার করে, অথচ ত্বকে বা তলে কোনো ক্ষতি করে না। অন্যদিকে NaOH একটি প্রবল ক্ষারক ও তীব্র ক্ষয়কারী; এটি এসিড দ্রুত প্রশমিত করলেও ত্বক ও অনেক তল ক্ষতিগ্রস্ত করতে পারে এবং প্রশমনে প্রচুর তাপ উৎপন্ন করে বিপজ্জনক। তাই দৈনন্দিন কাজে খাবার সোডা ব্যবহারই অধিক নিরাপদ ও যুক্তিযুক্ত; প্রবল ক্ষারক কেবল নিয়ন্ত্রিত পরিবেশে ব্যবহার্য।",
+            "model_answer_en": "Baking soda (NaHCO₃) is a weak basic salt; it reacts with the acid of the stain to give a salt, water and CO₂, cleaning it without harming skin or surfaces. In contrast, NaOH is a strong, highly corrosive base; although it neutralizes acid quickly, it can damage skin and many surfaces and releases a lot of heat during neutralization, making it dangerous. Therefore, for everyday use, baking soda is safer and more reasonable, while a strong base should only be used under controlled conditions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 10,
+    "title_bn": "খনিজ সম্পদ: ধাতু-অধাতু",
+    "title_en": "Mineral Resources: Metals and Non-metals",
+    "topics": [
+      {
+        "title_bn": "খনিজ ও আকরিক",
+        "title_en": "Minerals and Ores",
+        "mcqs": [
+          {
+            "question_bn": "যে খনিজ থেকে লাভজনকভাবে ধাতু নিষ্কাশন করা যায় তাকে কী বলে?",
+            "question_en": "A mineral from which a metal can be extracted profitably is called—",
+            "options": [
+              {"id": "a", "bn": "আকরিক", "en": "an ore"},
+              {"id": "b", "bn": "সংকর ধাতু", "en": "an alloy"},
+              {"id": "c", "bn": "গ্যাংগ", "en": "gangue"},
+              {"id": "d", "bn": "ফ্লাক্স", "en": "flux"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "যে খনিজ থেকে সহজে ও লাভজনকভাবে ধাতু আহরণ করা যায় তাকে আকরিক বলে। সব আকরিকই খনিজ, কিন্তু সব খনিজ আকরিক নয়।",
+            "explanation_en": "A mineral from which a metal can be extracted easily and profitably is called an ore. All ores are minerals, but not all minerals are ores.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "আকরিকের সাথে মিশ্রিত অপ্রয়োজনীয় মাটি-পাথর জাতীয় অপদ্রব্যকে কী বলে?",
+            "question_en": "The unwanted earthy/rocky impurities mixed with an ore are called—",
+            "options": [
+              {"id": "a", "bn": "ফ্লাক্স", "en": "flux"},
+              {"id": "b", "bn": "গ্যাংগ (খনিজ মল)", "en": "gangue"},
+              {"id": "c", "bn": "স্ল্যাগ", "en": "slag"},
+              {"id": "d", "bn": "ম্যাট্রিক্স ধাতু", "en": "matrix metal"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "আকরিকের সাথে মিশ্রিত বালি, মাটি ও পাথরের মতো অপদ্রব্যকে গ্যাংগ বা খনিজ মল বলে।",
+            "explanation_en": "The impurities such as sand, soil and rock mixed with an ore are called gangue.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "হেমাটাইট (Fe₂O₃) কোন ধাতুর আকরিক?",
+            "question_en": "Haematite (Fe₂O₃) is an ore of which metal?",
+            "options": [
+              {"id": "a", "bn": "অ্যালুমিনিয়াম", "en": "Aluminium"},
+              {"id": "b", "bn": "তামা", "en": "Copper"},
+              {"id": "c", "bn": "লোহা", "en": "Iron"},
+              {"id": "d", "bn": "জিংক", "en": "Zinc"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "হেমাটাইট (Fe₂O₃) হলো লোহার একটি প্রধান অক্সাইড আকরিক।",
+            "explanation_en": "Haematite (Fe₂O₃) is a major oxide ore of iron.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "বক্সাইট (Al₂O₃·2H₂O) কোন ধাতু নিষ্কাশনে ব্যবহৃত হয়?",
+            "question_en": "Bauxite (Al₂O₃·2H₂O) is used to extract which metal?",
+            "options": [
+              {"id": "a", "bn": "অ্যালুমিনিয়াম", "en": "Aluminium"},
+              {"id": "b", "bn": "লোহা", "en": "Iron"},
+              {"id": "c", "bn": "সোনা", "en": "Gold"},
+              {"id": "d", "bn": "সীসা", "en": "Lead"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "বক্সাইট অ্যালুমিনিয়ামের প্রধান আকরিক; এটি থেকে তড়িৎ বিশ্লেষণ পদ্ধতিতে অ্যালুমিনিয়াম নিষ্কাশন করা হয়।",
+            "explanation_en": "Bauxite is the chief ore of aluminium, from which aluminium is extracted by electrolysis.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "গালনের সময় গ্যাংগ অপসারণে যে পদার্থ যোগ করা হয় তাকে কী বলে?",
+            "question_en": "The substance added during smelting to remove the gangue is called—",
+            "options": [
+              {"id": "a", "bn": "আকরিক", "en": "ore"},
+              {"id": "b", "bn": "ফ্লাক্স", "en": "flux"},
+              {"id": "c", "bn": "সংকর", "en": "alloy"},
+              {"id": "d", "bn": "নির্দেশক", "en": "indicator"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ফ্লাক্স গ্যাংগের সাথে বিক্রিয়া করে সহজে গলনীয় স্ল্যাগ তৈরি করে, ফলে গ্যাংগ অপসারণ সহজ হয়। যেমন লোহা নিষ্কাশনে CaCO₃ ফ্লাক্স হিসেবে ব্যবহৃত হয়।",
+            "explanation_en": "Flux reacts with the gangue to form an easily fusible slag, making gangue removal easier; e.g., CaCO₃ is used as flux in iron extraction.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "সক্রিয়তা সিরিজ",
+        "title_en": "Reactivity Series",
+        "mcqs": [
+          {
+            "question_bn": "সক্রিয়তা সিরিজের শীর্ষে থাকা ধাতুগুলো—",
+            "question_en": "Metals at the top of the reactivity series are—",
+            "options": [
+              {"id": "a", "bn": "সবচেয়ে কম সক্রিয়", "en": "the least reactive"},
+              {"id": "b", "bn": "সবচেয়ে বেশি সক্রিয়", "en": "the most reactive"},
+              {"id": "c", "bn": "অধাতু", "en": "non-metals"},
+              {"id": "d", "bn": "নিষ্ক্রিয়", "en": "inert"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সক্রিয়তা সিরিজে ধাতুগুলোকে সক্রিয়তার ক্রমানুসারে সাজানো হয়; শীর্ষের ধাতু (যেমন K, Na) সবচেয়ে বেশি সক্রিয়।",
+            "explanation_en": "In the reactivity series metals are arranged in order of reactivity; those at the top (e.g., K, Na) are the most reactive.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "নিচের কোন ধাতুটি সবচেয়ে বেশি সক্রিয়?",
+            "question_en": "Which of the following metals is the most reactive?",
+            "options": [
+              {"id": "a", "bn": "Cu", "en": "Cu"},
+              {"id": "b", "bn": "Fe", "en": "Fe"},
+              {"id": "c", "bn": "K", "en": "K"},
+              {"id": "d", "bn": "Au", "en": "Au"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "সক্রিয়তা সিরিজে পটাশিয়াম (K) সবচেয়ে ওপরে, তাই এটি সবচেয়ে বেশি সক্রিয়; সোনা (Au) সবচেয়ে কম সক্রিয়।",
+            "explanation_en": "Potassium (K) is at the very top of the reactivity series, so it is the most reactive; gold (Au) is the least reactive.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "সক্রিয়তা সিরিজ অনুযায়ী কোন ধাতু CuSO₄ দ্রবণ থেকে তামা প্রতিস্থাপন করতে পারে?",
+            "question_en": "According to the reactivity series, which metal can displace copper from CuSO₄ solution?",
+            "options": [
+              {"id": "a", "bn": "Ag", "en": "Ag"},
+              {"id": "b", "bn": "Fe", "en": "Fe"},
+              {"id": "c", "bn": "Au", "en": "Au"},
+              {"id": "d", "bn": "Pt", "en": "Pt"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "লোহা (Fe) তামার (Cu) চেয়ে বেশি সক্রিয়, তাই এটি CuSO₄ থেকে Cu প্রতিস্থাপন করে: Fe + CuSO₄ → FeSO₄ + Cu।",
+            "explanation_en": "Iron (Fe) is more reactive than copper (Cu), so it displaces Cu from CuSO₄: Fe + CuSO₄ → FeSO₄ + Cu.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "কোন ধাতুগুলো ঠান্ডা পানির সাথে বিক্রিয়া করে হাইড্রোজেন গ্যাস উৎপন্ন করে?",
+            "question_en": "Which metals react with cold water to produce hydrogen gas?",
+            "options": [
+              {"id": "a", "bn": "সোনা ও প্লাটিনাম", "en": "Gold and platinum"},
+              {"id": "b", "bn": "সোডিয়াম ও পটাশিয়াম", "en": "Sodium and potassium"},
+              {"id": "c", "bn": "তামা ও রূপা", "en": "Copper and silver"},
+              {"id": "d", "bn": "সীসা ও টিন", "en": "Lead and tin"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অতি সক্রিয় ধাতু সোডিয়াম ও পটাশিয়াম ঠান্ডা পানির সাথেই তীব্রভাবে বিক্রিয়া করে হাইড্রোজেন গ্যাস ও ক্ষার উৎপন্ন করে: 2Na + 2H₂O → 2NaOH + H₂↑।",
+            "explanation_en": "Highly reactive sodium and potassium react vigorously even with cold water to give hydrogen gas and an alkali: 2Na + 2H₂O → 2NaOH + H₂↑.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সক্রিয়তা সিরিজে হাইড্রোজেনের নিচে অবস্থিত ধাতু (যেমন Cu, Ag) লঘু এসিড থেকে হাইড্রোজেন প্রতিস্থাপন করতে পারে না কেন?",
+            "question_en": "Why can metals below hydrogen in the reactivity series (e.g., Cu, Ag) not displace hydrogen from dilute acids?",
+            "options": [
+              {"id": "a", "bn": "এরা হাইড্রোজেনের চেয়ে কম সক্রিয়", "en": "They are less reactive than hydrogen"},
+              {"id": "b", "bn": "এরা হাইড্রোজেনের চেয়ে বেশি সক্রিয়", "en": "They are more reactive than hydrogen"},
+              {"id": "c", "bn": "এরা অধাতু", "en": "They are non-metals"},
+              {"id": "d", "bn": "এসিড দুর্বল", "en": "The acid is weak"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "Cu ও Ag হাইড্রোজেনের চেয়ে কম সক্রিয়, তাই এরা লঘু এসিড থেকে H⁺ কে প্রতিস্থাপন করে হাইড্রোজেন গ্যাস মুক্ত করতে পারে না।",
+            "explanation_en": "Cu and Ag are less reactive than hydrogen, so they cannot displace H⁺ from dilute acids to release hydrogen gas.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "ধাতু নিষ্কাশন",
+        "title_en": "Extraction of Metals",
+        "mcqs": [
+          {
+            "question_bn": "অতি সক্রিয় ধাতু (যেমন Na, Al) সাধারণত কোন পদ্ধতিতে নিষ্কাশন করা হয়?",
+            "question_en": "Highly reactive metals (e.g., Na, Al) are generally extracted by which method?",
+            "options": [
+              {"id": "a", "bn": "কার্বন দ্বারা বিজারণ", "en": "Reduction with carbon"},
+              {"id": "b", "bn": "তড়িৎ বিশ্লেষণ", "en": "Electrolysis"},
+              {"id": "c", "bn": "সরাসরি উত্তাপন", "en": "Simple heating"},
+              {"id": "d", "bn": "পাতন", "en": "Distillation"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অতি সক্রিয় ধাতুকে কার্বন দিয়ে বিজারিত করা যায় না; এদের গলিত যৌগের তড়িৎ বিশ্লেষণের মাধ্যমে নিষ্কাশন করা হয়।",
+            "explanation_en": "Highly reactive metals cannot be reduced by carbon; they are extracted by the electrolysis of their molten compounds.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "মধ্যম সক্রিয় ধাতুর অক্সাইড আকরিককে কার্বন দিয়ে উত্তপ্ত করে ধাতু পাওয়ার প্রক্রিয়াকে কী বলে?",
+            "question_en": "The process of heating a moderately reactive metal's oxide ore with carbon to obtain the metal is called—",
+            "options": [
+              {"id": "a", "bn": "জারণ", "en": "oxidation"},
+              {"id": "b", "bn": "বিজারণ (গালন)", "en": "reduction (smelting)"},
+              {"id": "c", "bn": "প্রশমন", "en": "neutralization"},
+              {"id": "d", "bn": "তড়িৎ প্রলেপন", "en": "electroplating"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অক্সাইড আকরিককে কার্বন দিয়ে উত্তপ্ত করলে অক্সিজেন অপসারিত হয় (বিজারণ) এবং মুক্ত ধাতু পাওয়া যায়; একে গালন বলে।",
+            "explanation_en": "Heating an oxide ore with carbon removes oxygen (reduction) and yields the free metal; this is called smelting.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সোনা ও প্লাটিনামের মতো নিষ্ক্রিয় ধাতু প্রকৃতিতে কীভাবে পাওয়া যায়?",
+            "question_en": "How are unreactive metals like gold and platinum found in nature?",
+            "options": [
+              {"id": "a", "bn": "অক্সাইড রূপে", "en": "As oxides"},
+              {"id": "b", "bn": "সালফাইড রূপে", "en": "As sulphides"},
+              {"id": "c", "bn": "মুক্ত/স্বাধীন অবস্থায়", "en": "In free/native state"},
+              {"id": "d", "bn": "কার্বনেট রূপে", "en": "As carbonates"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "সোনা ও প্লাটিনাম অত্যন্ত নিষ্ক্রিয়, তাই এরা সহজে অন্য মৌলের সাথে বিক্রিয়া করে না এবং প্রকৃতিতে মুক্ত বা স্বাধীন অবস্থায় পাওয়া যায়।",
+            "explanation_en": "Gold and platinum are very unreactive, so they do not readily combine with other elements and occur in the free or native state in nature.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "উচ্চ চুল্লিতে (blast furnace) লোহা নিষ্কাশনে প্রধান বিজারক হিসেবে কাজ করে কোনটি?",
+            "question_en": "In the extraction of iron in a blast furnace, which acts as the main reducing agent?",
+            "options": [
+              {"id": "a", "bn": "কার্বন মনোক্সাইড (CO)", "en": "Carbon monoxide (CO)"},
+              {"id": "b", "bn": "অক্সিজেন (O₂)", "en": "Oxygen (O₂)"},
+              {"id": "c", "bn": "নাইট্রোজেন (N₂)", "en": "Nitrogen (N₂)"},
+              {"id": "d", "bn": "পানি (H₂O)", "en": "Water (H₂O)"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "উচ্চ চুল্লিতে কোক থেকে উৎপন্ন CO প্রধান বিজারক হিসেবে Fe₂O₃-কে বিজারিত করে: Fe₂O₃ + 3CO → 2Fe + 3CO₂।",
+            "explanation_en": "In the blast furnace, CO produced from coke is the main reducing agent that reduces Fe₂O₃: Fe₂O₃ + 3CO → 2Fe + 3CO₂.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "আকরিক থেকে ধাতু নিষ্কাশনের সাধারণ ধাপগুলোর সঠিক ক্রম কোনটি?",
+            "question_en": "Which is the correct sequence of the general steps in extracting a metal from its ore?",
+            "options": [
+              {"id": "a", "bn": "বিশোধন → বিজারণ → ঘনীকরণ", "en": "Refining → reduction → concentration"},
+              {"id": "b", "bn": "আকরিক ঘনীকরণ → বিজারণ → বিশোধন", "en": "Concentration of ore → reduction → refining"},
+              {"id": "c", "bn": "বিজারণ → ঘনীকরণ → বিশোধন", "en": "Reduction → concentration → refining"},
+              {"id": "d", "bn": "বিশোধন → ঘনীকরণ → বিজারণ", "en": "Refining → concentration → reduction"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ধাতু নিষ্কাশনের সাধারণ ধাপ হলো প্রথমে আকরিক ঘনীকরণ (গ্যাংগ অপসারণ), তারপর ধাতব যৌগের বিজারণ এবং সবশেষে অবিশুদ্ধ ধাতুর বিশোধন।",
+            "explanation_en": "The general steps are first concentration of the ore (removing gangue), then reduction of the metal compound, and finally refining of the impure metal.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "ধাতু ও অধাতুর ধর্ম",
+        "title_en": "Properties of Metals and Non-metals",
+        "mcqs": [
+          {
+            "question_bn": "নিচের কোনটি ধাতুর একটি সাধারণ ভৌত ধর্ম?",
+            "question_en": "Which of the following is a common physical property of metals?",
+            "options": [
+              {"id": "a", "bn": "তড়িৎ কুপরিবাহী", "en": "Poor conductor of electricity"},
+              {"id": "b", "bn": "নমনীয় ও প্রসারণশীল", "en": "Malleable and ductile"},
+              {"id": "c", "bn": "ভঙ্গুর", "en": "Brittle"},
+              {"id": "d", "bn": "দ্যুতিহীন", "en": "Non-lustrous"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ধাতু সাধারণত নমনীয় (পিটিয়ে পাত করা যায়) ও প্রসারণশীল (টেনে তার বানানো যায়), তড়িৎ ও তাপ সুপরিবাহী এবং দ্যুতিময়।",
+            "explanation_en": "Metals are generally malleable (can be hammered into sheets) and ductile (can be drawn into wires), good conductors of heat and electricity, and lustrous.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "সাধারণ তাপমাত্রায় তরল অবস্থায় থাকা একমাত্র ধাতু কোনটি?",
+            "question_en": "Which is the only metal that is liquid at ordinary temperature?",
+            "options": [
+              {"id": "a", "bn": "পারদ (Hg)", "en": "Mercury (Hg)"},
+              {"id": "b", "bn": "ব্রোমিন (Br)", "en": "Bromine (Br)"},
+              {"id": "c", "bn": "সোডিয়াম (Na)", "en": "Sodium (Na)"},
+              {"id": "d", "bn": "লোহা (Fe)", "en": "Iron (Fe)"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "পারদ (Hg) সাধারণ তাপমাত্রায় তরল অবস্থায় থাকা একমাত্র ধাতু; ব্রোমিন তরল হলেও এটি অধাতু।",
+            "explanation_en": "Mercury (Hg) is the only metal that is liquid at ordinary temperature; bromine is liquid too but is a non-metal.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "অধাতু সাধারণত রাসায়নিক বিক্রিয়ায় ইলেকট্রন—",
+            "question_en": "In chemical reactions, non-metals generally—",
+            "options": [
+              {"id": "a", "bn": "ত্যাগ করে ধনাত্মক আয়ন গঠন করে", "en": "lose electrons to form positive ions"},
+              {"id": "b", "bn": "গ্রহণ করে ঋণাত্মক আয়ন গঠন করে", "en": "gain electrons to form negative ions"},
+              {"id": "c", "bn": "কোনো পরিবর্তন করে না", "en": "do not change"},
+              {"id": "d", "bn": "সবসময় ধাতুতে পরিণত হয়", "en": "always turn into metals"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "অধাতুর সর্বশেষ কক্ষপথে ইলেকট্রন সংখ্যা বেশি থাকে; তাই এরা ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়ন (অ্যানায়ন) গঠন করে।",
+            "explanation_en": "Non-metals have more electrons in their outermost shell, so they tend to gain electrons and form negative ions (anions).",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোন অধাতুটি তড়িৎ পরিবাহী (ব্যতিক্রম)?",
+            "question_en": "Which non-metal is a conductor of electricity (an exception)?",
+            "options": [
+              {"id": "a", "bn": "সালফার", "en": "Sulphur"},
+              {"id": "b", "bn": "গ্রাফাইট (কার্বন)", "en": "Graphite (carbon)"},
+              {"id": "c", "bn": "ফসফরাস", "en": "Phosphorus"},
+              {"id": "d", "bn": "আয়োডিন", "en": "Iodine"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সাধারণত অধাতু তড়িৎ কুপরিবাহী, কিন্তু গ্রাফাইট (কার্বনের একটি রূপভেদ) মুক্ত ইলেকট্রনের জন্য তড়িৎ সুপরিবাহী—এটি একটি ব্যতিক্রম।",
+            "explanation_en": "Non-metals are usually poor conductors, but graphite (an allotrope of carbon) conducts electricity due to free electrons—an exception.",
+            "difficulty": "advanced"
+          },
+          {
+            "question_bn": "ধাতব অক্সাইড সাধারণত কেমন প্রকৃতির হয়?",
+            "question_en": "Metallic oxides are generally—",
+            "options": [
+              {"id": "a", "bn": "আম্লিক", "en": "acidic"},
+              {"id": "b", "bn": "ক্ষারীয়/ক্ষারকীয়", "en": "basic"},
+              {"id": "c", "bn": "প্রশম", "en": "neutral"},
+              {"id": "d", "bn": "গ্যাসীয়", "en": "gaseous"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ধাতব অক্সাইড সাধারণত ক্ষারকীয় প্রকৃতির; এরা এসিডের সাথে বিক্রিয়া করে লবণ ও পানি দেয়। অধাতব অক্সাইড সাধারণত আম্লিক।",
+            "explanation_en": "Metallic oxides are generally basic; they react with acids to give salts and water. Non-metallic oxides are usually acidic.",
+            "difficulty": "basic"
+          }
+        ]
+      },
+      {
+        "title_bn": "সংকর ধাতু",
+        "title_en": "Alloys",
+        "mcqs": [
+          {
+            "question_bn": "সংকর ধাতু কাকে বলে?",
+            "question_en": "What is an alloy?",
+            "options": [
+              {"id": "a", "bn": "একটি বিশুদ্ধ ধাতু", "en": "A pure metal"},
+              {"id": "b", "bn": "দুই বা ততোধিক ধাতু (বা ধাতু ও অধাতুর) সমসত্ত্ব মিশ্রণ", "en": "A homogeneous mixture of two or more metals (or metal and non-metal)"},
+              {"id": "c", "bn": "একটি অধাতু", "en": "A non-metal"},
+              {"id": "d", "bn": "একটি এসিড", "en": "An acid"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "দুই বা ততোধিক ধাতুর, অথবা ধাতু ও অধাতুর, সমসত্ত্ব মিশ্রণকে সংকর ধাতু বলে; এতে মূল ধাতুর ধর্ম উন্নত হয়।",
+            "explanation_en": "An alloy is a homogeneous mixture of two or more metals, or of a metal and a non-metal, made to improve the properties of the base metal.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "পিতল (brass) কোন দুটি ধাতুর সংকর?",
+            "question_en": "Brass is an alloy of which two metals?",
+            "options": [
+              {"id": "a", "bn": "তামা ও দস্তা (Cu + Zn)", "en": "Copper and zinc (Cu + Zn)"},
+              {"id": "b", "bn": "তামা ও টিন (Cu + Sn)", "en": "Copper and tin (Cu + Sn)"},
+              {"id": "c", "bn": "লোহা ও কার্বন (Fe + C)", "en": "Iron and carbon (Fe + C)"},
+              {"id": "d", "bn": "সীসা ও টিন (Pb + Sn)", "en": "Lead and tin (Pb + Sn)"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "পিতল হলো তামা ও দস্তার সংকর ধাতু। ব্রোঞ্জ হলো তামা ও টিনের সংকর।",
+            "explanation_en": "Brass is an alloy of copper and zinc, while bronze is an alloy of copper and tin.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "ইস্পাত (steel) মূলত কোন ধাতুর সাথে কোন অধাতুর সংকর?",
+            "question_en": "Steel is essentially an alloy of which metal with which non-metal?",
+            "options": [
+              {"id": "a", "bn": "তামা ও দস্তা", "en": "Copper and zinc"},
+              {"id": "b", "bn": "লোহা ও কার্বন", "en": "Iron and carbon"},
+              {"id": "c", "bn": "অ্যালুমিনিয়াম ও সিলিকন", "en": "Aluminium and silicon"},
+              {"id": "d", "bn": "সীসা ও সালফার", "en": "Lead and sulphur"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "ইস্পাত হলো লোহার সাথে অল্প পরিমাণ কার্বনের (সাধারণত ০.১–২%) সংকর; কার্বন লোহার দৃঢ়তা ও শক্তি বৃদ্ধি করে।",
+            "explanation_en": "Steel is an alloy of iron with a small amount of carbon (usually 0.1–2%); carbon increases the hardness and strength of iron.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "স্টেইনলেস স্টিলকে মরিচা প্রতিরোধী করতে এতে কোন ধাতু যোগ করা হয়?",
+            "question_en": "Which metal is added to make stainless steel rust-resistant?",
+            "options": [
+              {"id": "a", "bn": "সীসা", "en": "Lead"},
+              {"id": "b", "bn": "ক্রোমিয়াম", "en": "Chromium"},
+              {"id": "c", "bn": "সোনা", "en": "Gold"},
+              {"id": "d", "bn": "পারদ", "en": "Mercury"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "স্টেইনলেস স্টিলে ক্রোমিয়াম (ও নিকেল) যোগ করা হয়; ক্রোমিয়াম একটি অক্সাইড আবরণ তৈরি করে ইস্পাতকে মরিচা প্রতিরোধী করে।",
+            "explanation_en": "Chromium (and nickel) is added to stainless steel; chromium forms a protective oxide layer that makes the steel rust-resistant.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "সংকর ধাতু তৈরি করা হয় কেন?",
+            "question_en": "Why are alloys made?",
+            "options": [
+              {"id": "a", "bn": "ধাতুকে দুর্বল করতে", "en": "To make the metal weaker"},
+              {"id": "b", "bn": "কঠোরতা, দৃঢ়তা ও ক্ষয়প্রতিরোধ ক্ষমতা বাড়াতে", "en": "To increase hardness, strength and corrosion resistance"},
+              {"id": "c", "bn": "গলনাঙ্ক সবসময় বাড়াতে", "en": "To always raise the melting point"},
+              {"id": "d", "bn": "রঙ পরিবর্তন করতে", "en": "Only to change the colour"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "সংকর ধাতু তৈরি করে বিশুদ্ধ ধাতুর তুলনায় কঠোরতা, দৃঢ়তা, ক্ষয়প্রতিরোধ ক্ষমতা ইত্যাদি ধর্ম উন্নত করা হয়; অনেক ক্ষেত্রে সংকরের গলনাঙ্ক কমেও যেতে পারে।",
+            "explanation_en": "Alloys are made to improve properties such as hardness, strength and corrosion resistance compared to the pure metal; in many cases the melting point of the alloy is actually lowered.",
+            "difficulty": "advanced"
+          }
+        ]
+      },
+      {
+        "title_bn": "ক্ষয় ও প্রতিরোধ",
+        "title_en": "Corrosion and its Prevention",
+        "mcqs": [
+          {
+            "question_bn": "লোহার মরিচা (rust) প্রধানত কোন যৌগ?",
+            "question_en": "Rust on iron is mainly which compound?",
+            "options": [
+              {"id": "a", "bn": "FeO", "en": "FeO"},
+              {"id": "b", "bn": "Fe₂O₃·xH₂O (হাইড্রেটেড আয়রন অক্সাইড)", "en": "Fe₂O₃·xH₂O (hydrated iron oxide)"},
+              {"id": "c", "bn": "FeS", "en": "FeS"},
+              {"id": "d", "bn": "FeCl₃", "en": "FeCl₃"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "মরিচা হলো হাইড্রেটেড আয়রন(III) অক্সাইড, Fe₂O₃·xH₂O; এটি বাদামি-লাল রঙের খসখসে আবরণ।",
+            "explanation_en": "Rust is hydrated iron(III) oxide, Fe₂O₃·xH₂O, a reddish-brown flaky coating.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "লোহায় মরিচা ধরার জন্য কোন দুটি উপাদান অপরিহার্য?",
+            "question_en": "Which two factors are essential for iron to rust?",
+            "options": [
+              {"id": "a", "bn": "অক্সিজেন ও পানি/আর্দ্রতা", "en": "Oxygen and water/moisture"},
+              {"id": "b", "bn": "নাইট্রোজেন ও পানি", "en": "Nitrogen and water"},
+              {"id": "c", "bn": "কার্বন ডাই-অক্সাইড ও তাপ", "en": "Carbon dioxide and heat"},
+              {"id": "d", "bn": "কেবল শুষ্ক বাতাস", "en": "Only dry air"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "লোহায় মরিচা ধরতে অক্সিজেন (বায়ু) ও পানি/আর্দ্রতা উভয়ই প্রয়োজন; শুষ্ক বাতাসে বা অক্সিজেনবিহীন পানিতে মরিচা ধরে না।",
+            "explanation_en": "Both oxygen (air) and water/moisture are needed for iron to rust; it does not rust in dry air or in oxygen-free water.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "লোহার উপর দস্তার প্রলেপ দেওয়ার প্রক্রিয়াকে কী বলে?",
+            "question_en": "The process of coating iron with a layer of zinc is called—",
+            "options": [
+              {"id": "a", "bn": "গ্যালভানাইজিং", "en": "Galvanising"},
+              {"id": "b", "bn": "গালন", "en": "Smelting"},
+              {"id": "c", "bn": "প্রশমন", "en": "Neutralization"},
+              {"id": "d", "bn": "পাতন", "en": "Distillation"}
+            ],
+            "correct": ["a"],
+            "explanation_bn": "লোহার উপর দস্তার প্রলেপ দেওয়াকে গ্যালভানাইজিং বলে; দস্তা লোহার চেয়ে বেশি সক্রিয় হওয়ায় এটি লোহাকে মরিচা থেকে রক্ষা করে।",
+            "explanation_en": "Coating iron with zinc is called galvanising; since zinc is more reactive than iron, it protects the iron from rusting.",
+            "difficulty": "medium"
+          },
+          {
+            "question_bn": "নিচের কোনটি মরিচা প্রতিরোধের একটি সঠিক উপায় নয়?",
+            "question_en": "Which of the following is NOT a correct way to prevent rusting?",
+            "options": [
+              {"id": "a", "bn": "রং বা গ্রিজের প্রলেপ দেওয়া", "en": "Applying paint or grease"},
+              {"id": "b", "bn": "গ্যালভানাইজিং করা", "en": "Galvanising"},
+              {"id": "c", "bn": "লোহাকে আর্দ্র পরিবেশে খোলা রাখা", "en": "Keeping iron exposed in a moist environment"},
+              {"id": "d", "bn": "তেলের প্রলেপ দেওয়া", "en": "Applying oil"}
+            ],
+            "correct": ["c"],
+            "explanation_bn": "আর্দ্র পরিবেশে খোলা রাখলে অক্সিজেন ও পানি লোহার সংস্পর্শে আসে এবং মরিচা ত্বরান্বিত হয়; রং, গ্রিজ, তেল বা দস্তার প্রলেপ মরিচা প্রতিরোধ করে।",
+            "explanation_en": "Keeping iron exposed in a moist environment lets oxygen and water reach it and speeds up rusting; paint, grease, oil or a zinc coating prevent rusting.",
+            "difficulty": "basic"
+          },
+          {
+            "question_bn": "জাহাজের লোহার তলে দস্তা বা ম্যাগনেসিয়ামের ব্লক লাগানো হয় কেন?",
+            "question_en": "Why are blocks of zinc or magnesium attached to the iron hulls of ships?",
+            "options": [
+              {"id": "a", "bn": "জাহাজকে ভারী করতে", "en": "To make the ship heavier"},
+              {"id": "b", "bn": "স্যাক্রিফিশিয়াল প্রোটেকশন হিসেবে বেশি সক্রিয় ধাতু আগে ক্ষয় হয়ে লোহাকে রক্ষা করতে", "en": "As sacrificial protection, so the more reactive metal corrodes first and protects the iron"},
+              {"id": "c", "bn": "রঙ উজ্জ্বল করতে", "en": "To brighten the colour"},
+              {"id": "d", "bn": "গতি বাড়াতে", "en": "To increase speed"}
+            ],
+            "correct": ["b"],
+            "explanation_bn": "দস্তা ও ম্যাগনেসিয়াম লোহার চেয়ে বেশি সক্রিয়; স্যাক্রিফিশিয়াল প্রোটেকশনে এই ধাতু আগে ক্ষয়প্রাপ্ত হয় এবং লোহার তলকে মরিচা থেকে রক্ষা করে।",
+            "explanation_en": "Zinc and magnesium are more reactive than iron; in sacrificial protection these metals corrode first and protect the iron hull from rusting.",
+            "difficulty": "advanced"
+          }
+        ]
+      }
+    ],
+    "cq": [
+      {
+        "stimulus_bn": "একটি পরীক্ষায় চারটি ধাতু P, Q, R ও S-কে লঘু হাইড্রোক্লোরিক এসিডে রাখা হলো। দেখা গেল Q তীব্রভাবে বিক্রিয়া করে প্রচুর গ্যাস দেয়, P ধীরে বিক্রিয়া করে, R খুব ধীরে বিক্রিয়া করে এবং S কোনো বিক্রিয়াই করে না। এছাড়া Q কে CuSO₄ দ্রবণে রাখলে তামা জমা হয়।",
+        "stimulus_en": "In an experiment, four metals P, Q, R and S were placed in dilute hydrochloric acid. Q reacted vigorously giving off plenty of gas, P reacted slowly, R reacted very slowly, and S did not react at all. Also, when Q was placed in CuSO₄ solution, copper was deposited.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "সক্রিয়তা সিরিজ কাকে বলে?",
+            "question_en": "What is the reactivity series?",
+            "model_answer_bn": "ধাতুসমূহকে তাদের রাসায়নিক সক্রিয়তার ক্রমানুসারে (অধিক থেকে কম) সাজিয়ে যে তালিকা তৈরি করা হয়, তাকে সক্রিয়তা সিরিজ বলে।",
+            "model_answer_en": "The reactivity series is a list in which metals are arranged in order of their chemical reactivity, from the most reactive to the least reactive."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "এসিডের সাথে বিক্রিয়ায় নির্গত গ্যাসটি কী এবং তা কীভাবে শনাক্ত করবে?",
+            "question_en": "What is the gas released in the reaction with acid, and how would you identify it?",
+            "model_answer_bn": "সক্রিয় ধাতু লঘু HCl-এর সাথে বিক্রিয়া করে হাইড্রোজেন গ্যাস (H₂) উৎপন্ন করে (যেমন Zn + 2HCl → ZnCl₂ + H₂↑)। একটি জ্বলন্ত কাঠি গ্যাসের কাছে ধরলে এটি 'পপ' শব্দে জ্বলে ওঠে—এটিই হাইড্রোজেনের শনাক্তকরণ পরীক্ষা।",
+            "model_answer_en": "A reactive metal reacts with dilute HCl to give hydrogen gas (H₂) (e.g., Zn + 2HCl → ZnCl₂ + H₂↑). Bringing a lighted splint near the gas produces a 'pop' sound as it burns—this is the test that identifies hydrogen."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "উদ্দীপকের তথ্য বিশ্লেষণ করে P, Q, R ও S ধাতুগুলোকে সক্রিয়তার ক্রমানুসারে সাজাও এবং যুক্তি দাও।",
+            "question_en": "Analysing the information in the stem, arrange the metals P, Q, R and S in order of reactivity and justify.",
+            "model_answer_bn": "এসিডের সাথে বিক্রিয়ার তীব্রতা যত বেশি, ধাতু তত বেশি সক্রিয়। Q সবচেয়ে তীব্রভাবে বিক্রিয়া করে, তাই সবচেয়ে বেশি সক্রিয়; এরপর P ধীরে, R খুব ধীরে বিক্রিয়া করে এবং S কোনো বিক্রিয়াই করে না বলে সবচেয়ে কম সক্রিয়। সুতরাং সক্রিয়তার অধঃক্রম: Q > P > R > S। Q, CuSO₄ থেকে Cu প্রতিস্থাপন করায় নিশ্চিত হয় যে Q, তামার চেয়েও বেশি সক্রিয়।",
+            "model_answer_en": "The more vigorous the reaction with acid, the more reactive the metal. Q reacts most vigorously, so it is the most reactive; then P reacts slowly, R very slowly, and S does not react at all, so it is the least reactive. Hence the decreasing order of reactivity is Q > P > R > S. Since Q displaces Cu from CuSO₄, it is confirmed that Q is more reactive than copper as well."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "উপরের ধাতুগুলোর মধ্যে কোনটির নিষ্কাশন পদ্ধতি সহজ এবং কোনটির কঠিন হবে—সক্রিয়তার সাথে সম্পর্ক দেখিয়ে মূল্যায়ন কর।",
+            "question_en": "Among the above metals, whose extraction would be easy and whose difficult—evaluate by relating it to reactivity.",
+            "model_answer_bn": "ধাতুর সক্রিয়তা যত বেশি, তার যৌগ তত স্থিতিশীল ও বিজারণ তত কঠিন, তাই নিষ্কাশন তত জটিল ও ব্যয়বহুল। সবচেয়ে সক্রিয় Q-এর যৌগ সহজে বিজারিত হয় না, তাই একে সাধারণত তড়িৎ বিশ্লেষণের মতো জটিল পদ্ধতিতে নিষ্কাশন করতে হবে। কম সক্রিয় R-এর অক্সাইডকে কার্বন দিয়ে সহজে বিজারিত করা যায়। সবচেয়ে কম সক্রিয় S প্রকৃতিতে প্রায় মুক্ত অবস্থায় পাওয়া যেতে পারে, তাই এর নিষ্কাশন সবচেয়ে সহজ। সুতরাং সক্রিয়তা বাড়ার সাথে নিষ্কাশন কঠিন হয়: S সহজতম, Q কঠিনতম।",
+            "model_answer_en": "The more reactive a metal, the more stable its compound and the harder its reduction, so its extraction is more complex and costly. The most reactive Q forms compounds that are not easily reduced, so it must generally be extracted by a complex method such as electrolysis. The less reactive R's oxide can be reduced easily with carbon. The least reactive S may be found almost in the free state in nature, so its extraction is the easiest. Thus, as reactivity increases, extraction becomes harder: S is easiest and Q is hardest."
+          }
+        ]
+      },
+      {
+        "stimulus_bn": "রফিক সাহেব তার বাড়ির লোহার গেট কিছুদিন রং না করায় সেখানে বাদামি-লাল আবরণ পড়ে গেছে। তার প্রতিবেশী দস্তা-প্রলেপযুক্ত (গ্যালভানাইজড) টিন ব্যবহার করেছেন এবং তার ছাদের রেলিং স্টেইনলেস স্টিলের তৈরি, যা বছরের পর বছর অক্ষত আছে।",
+        "stimulus_en": "Mr. Rafiq did not paint his household iron gate for some time, and a reddish-brown coating formed on it. His neighbour used galvanised (zinc-coated) tin sheets, and his rooftop railing is made of stainless steel, which has remained intact for years.",
+        "difficulty": "medium",
+        "parts": [
+          {
+            "level": "knowledge",
+            "marks": 1,
+            "question_bn": "ধাতুর ক্ষয় (corrosion) কাকে বলে?",
+            "question_en": "What is corrosion of metals?",
+            "model_answer_bn": "বায়ু, আর্দ্রতা বা রাসায়নিক পদার্থের প্রভাবে ধাতুর উপরিভাগ ধীরে ধীরে ক্ষয়প্রাপ্ত হওয়ার প্রক্রিয়াকে ধাতুর ক্ষয় বলে।",
+            "model_answer_en": "Corrosion is the process by which the surface of a metal is gradually eaten away under the action of air, moisture or chemicals."
+          },
+          {
+            "level": "comprehension",
+            "marks": 2,
+            "question_bn": "লোহার গেটে বাদামি-লাল আবরণ পড়ার প্রক্রিয়াটি ব্যাখ্যা কর।",
+            "question_en": "Explain the process by which the reddish-brown coating formed on the iron gate.",
+            "model_answer_bn": "লোহা বায়ুর অক্সিজেন ও আর্দ্রতার (পানি) উপস্থিতিতে ধীরে ধীরে জারিত হয়ে হাইড্রেটেড আয়রন(III) অক্সাইড, Fe₂O₃·xH₂O উৎপন্ন করে, যা মরিচা নামে পরিচিত বাদামি-লাল খসখসে আবরণ। রং না থাকায় অক্সিজেন ও আর্দ্রতা সরাসরি লোহার সংস্পর্শে আসায় এই মরিচা পড়েছে।",
+            "model_answer_en": "In the presence of atmospheric oxygen and moisture (water), iron is slowly oxidised to hydrated iron(III) oxide, Fe₂O₃·xH₂O, the reddish-brown flaky coating known as rust. Without paint, oxygen and moisture reached the iron directly, so rust formed."
+          },
+          {
+            "level": "application",
+            "marks": 3,
+            "question_bn": "প্রতিবেশীর গ্যালভানাইজড টিন কেন সহজে মরিচা ধরে না—রাসায়নিকভাবে ব্যাখ্যা কর।",
+            "question_en": "Why does the neighbour's galvanised tin not rust easily—explain chemically.",
+            "model_answer_bn": "গ্যালভানাইজড টিনে লোহার উপর দস্তার প্রলেপ থাকে। দস্তা লোহার চেয়ে বেশি সক্রিয়, তাই এটি প্রথমত অক্সিজেন-আর্দ্রতার বাধা হিসেবে কাজ করে লোহাকে ঢেকে রাখে; আবরণে ফাটল ধরলেও দস্তা নিজে আগে জারিত (ক্ষয়) হয়ে লোহাকে রক্ষা করে (স্যাক্রিফিশিয়াল প্রোটেকশন)। ফলে লোহায় সহজে মরিচা ধরে না।",
+            "model_answer_en": "Galvanised tin has a coating of zinc over the iron. Zinc is more reactive than iron, so it first acts as a barrier covering the iron from oxygen and moisture; even if the coating cracks, the zinc itself is oxidised (corrodes) preferentially and protects the iron (sacrificial protection). As a result, the iron does not rust easily."
+          },
+          {
+            "level": "higher",
+            "marks": 4,
+            "question_bn": "রফিক সাহেবের গেটের জন্য সাধারণ লোহা, গ্যালভানাইজড লোহা ও স্টেইনলেস স্টিলের মধ্যে কোনটি সর্বোত্তম—কারণসহ মূল্যায়ন কর।",
+            "question_en": "For Mr. Rafiq's gate, which is the best choice among ordinary iron, galvanised iron and stainless steel—evaluate with reasons.",
+            "model_answer_bn": "সাধারণ লোহা সস্তা হলেও দ্রুত মরিচা ধরে ও নিয়মিত রং করতে হয়, তাই দীর্ঘমেয়াদে টেকসই নয়। গ্যালভানাইজড লোহা দস্তার প্রলেপের কারণে অনেকদিন মরিচা প্রতিরোধ করে ও তুলনামূলক সাশ্রয়ী, তবে প্রলেপ ক্ষয়ে গেলে সুরক্ষা কমে। স্টেইনলেস স্টিলে ক্রোমিয়াম ও নিকেল থাকায় এর উপর একটি স্থায়ী অক্সাইড আবরণ তৈরি হয়, ফলে বছরের পর বছর মরিচা ধরে না ও রক্ষণাবেক্ষণ প্রায় লাগে না, যদিও এটি ব্যয়বহুল। স্থায়িত্ব ও কম রক্ষণাবেক্ষণ বিবেচনায় স্টেইনলেস স্টিল সর্বোত্তম; তবে বাজেট সীমিত হলে গ্যালভানাইজড লোহা একটি যুক্তিযুক্ত সমাধান।",
+            "model_answer_en": "Ordinary iron is cheap but rusts quickly and needs regular painting, so it is not durable in the long run. Galvanised iron resists rust for a long time due to its zinc coating and is relatively economical, though protection weakens once the coating wears off. Stainless steel, containing chromium and nickel, forms a permanent oxide layer, so it does not rust for years and needs almost no maintenance, although it is expensive. Considering durability and low maintenance, stainless steel is the best; however, if the budget is limited, galvanised iron is a reasonable choice."
+          }
+        ]
+      }
+    ]
+  }
+]
