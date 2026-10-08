@@ -1,7 +1,7 @@
 import { Component, ElementRef, OnInit, OnDestroy, ViewChild, inject, ChangeDetectorRef } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { Router } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { CHEMICALS, PRESET_GROUPS, Chemical, getChem } from '../data/chemistry-lab-data';
 import {
@@ -10,7 +10,7 @@ import {
 } from '../data/chem-bench-engine';
 import { HAZARD, MOLAR_MASS } from '../data/chem-bench-explain';
 import { bottleSvg, toolSvg, FLAME_SVG } from '../data/chem-bench-art';
-import { CHAPTERS, EXPERIMENTS, CARDS, BenchExperiment, InfoCard } from '../data/chem-curriculum-9-10';
+import { CHAPTERS, EXPERIMENTS, CARDS, BOOKS, BenchExperiment, InfoCard } from '../data/chem-curriculum-9-10';
 import { stepsFor, GStep } from '../data/chem-guide';
 import { SimulationService } from '../services/simulation.service';
 import { LabSessionService } from '../services/lab-session.service';
@@ -164,14 +164,19 @@ const TOOLS: { tool: Tool; bn: string; en: string; hintBn: string; hintEn: strin
         </div>
 
         <div class="panel course" *ngIf="mode === 'guided'">
-          <h3>🧭 {{ i18n.isEn ? 'Guided course — Class 9-10 textbook' : 'গাইডেড কোর্স — ৯ম-১০ম শ্রেণির বই' }}</h3>
+          <h3>🧭 {{ i18n.isEn ? 'Guided course — textbook experiments' : 'গাইডেড কোর্স — পাঠ্যবইয়ের পরীক্ষা' }}</h3>
 
           <!-- choose chapter / topic -->
           <ng-container *ngIf="!activeExp && !activeCard">
+            <label class="fld2" *ngIf="books().length > 1">{{ i18n.isEn ? 'Class / book' : 'শ্রেণি / বই' }}
+              <select [ngModel]="cBook" (ngModelChange)="setBook($event)">
+                <option *ngFor="let b of books()" [ngValue]="b.id">{{ b.label }}</option>
+              </select>
+            </label>
             <label class="fld2">{{ i18n.isEn ? 'Chapter' : 'অধ্যায়' }}
               <select [ngModel]="cChap" (ngModelChange)="setChap(+$event)">
                 <option [ngValue]="0">{{ i18n.isEn ? '— choose a chapter —' : '— অধ্যায় বেছে নিন —' }}</option>
-                <option *ngFor="let c of chapters" [ngValue]="c.no">{{ c.no }}. {{ c.bn }} ({{ chapCount(c.no) }})</option>
+                <option *ngFor="let c of bookChapters()" [ngValue]="c.no">{{ c.no }}. {{ c.bn }} ({{ chapCount(c.no) }})</option>
               </select>
             </label>
             <div class="tchips" *ngIf="cChap">
@@ -621,6 +626,7 @@ const TOOLS: { tool: Tool; bn: string; en: string; hintBn: string; hintEn: strin
 export class ChemBenchComponent implements OnInit, OnDestroy {
   private sim = inject(SimulationService);
   private router = inject(Router);
+  private route = inject(ActivatedRoute);
   private labSession = inject(LabSessionService);
   private san = inject(DomSanitizer);
   private cdr = inject(ChangeDetectorRef);
@@ -681,25 +687,28 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
 
   // ---- guided course (Class 9-10 textbook) ----
   chapters = CHAPTERS;
-  cChap = 0; cTopic = 0;
+  cBook = '9-10'; cChap = 0; cTopic = 0;
+  books() { return BOOKS.filter(b => EXPERIMENTS.some(e => (e.book || '9-10') === b.id) || CARDS.some(c => (c.book || '9-10') === b.id)); }
+  bookChapters() { return CHAPTERS.filter(c => (c.book || '9-10') === this.cBook); }
+  setBook(b: string) { this.cBook = b; this.cChap = 0; this.cTopic = 0; }
   activeExp: BenchExperiment | null = null;
   activeCard: InfoCard | null = null;
   gSteps: GStep[] = []; gIdx = 0; gDone = false; gSettled = false; gMistakes = 0; gMsg = '';
   gVessel = 't1';
   private gAdded: Record<string, number> = {};
-  chapterTopics(): string[] { return CHAPTERS.find(c => c.no === this.cChap)?.topics ?? []; }
+  chapterTopics(): string[] { return this.bookChapters().find(c => c.no === this.cChap)?.topics ?? []; }
   setChap(n: number) { this.cChap = n; this.cTopic = 0; }
   private inSel<T extends { chapter: number; topic: number }>(list: T[]): T[] {
-    return list.filter(x => x.chapter === this.cChap && (!this.cTopic || x.topic === this.cTopic)).sort((a, b) => a.topic - b.topic);
+    return list.filter(x => ((x as any).book || '9-10') === this.cBook && x.chapter === this.cChap && (!this.cTopic || x.topic === this.cTopic)).sort((a, b) => a.topic - b.topic);
   }
   expList(): BenchExperiment[] { return this.inSel(EXPERIMENTS); }
   cardList(): InfoCard[] { return this.inSel(CARDS); }
-  chapCount(no: number): string { const e = EXPERIMENTS.filter(x => x.chapter === no).length, c = CARDS.filter(x => x.chapter === no).length; return `${e}🧪 ${c}📘`; }
-  topicCount(t: number): number { return EXPERIMENTS.filter(x => x.chapter === this.cChap && x.topic === t).length + CARDS.filter(x => x.chapter === this.cChap && x.topic === t).length; }
+  chapCount(no: number): string { const inB = (x: { book?: string }) => (x.book || '9-10') === this.cBook; const e = EXPERIMENTS.filter(x => inB(x) && x.chapter === no).length, c = CARDS.filter(x => inB(x) && x.chapter === no).length; return `${e}🧪 ${c}📘`; }
+  topicCount(t: number): number { const inB = (x: { book?: string }) => (x.book || '9-10') === this.cBook; return EXPERIMENTS.filter(x => inB(x) && x.chapter === this.cChap && x.topic === t).length + CARDS.filter(x => inB(x) && x.chapter === this.cChap && x.topic === t).length; }
   vesselById(id: string): Vessel | undefined { return this.vessels.find(v => v.id === id); }
   nextExp(): BenchExperiment | null {
     if (!this.activeExp) return null;
-    const list = EXPERIMENTS.filter(x => x.chapter === this.activeExp!.chapter).sort((a, b) => a.topic - b.topic);
+    const list = EXPERIMENTS.filter(x => (x.book || '9-10') === (this.activeExp!.book || '9-10') && x.chapter === this.activeExp!.chapter).sort((a, b) => a.topic - b.topic);
     const i = list.findIndex(x => x.id === this.activeExp!.id);
     return i >= 0 && i < list.length - 1 ? list[i + 1] : null;
   }
@@ -779,6 +788,11 @@ export class ChemBenchComponent implements OnInit, OnDestroy {
     this.mode = this.labSession.getMode('chem-mixing');
     this.sim.getSimulation('chem-mixing').subscribe({ next: s => { this.guidedSteps = s?.config?.guidedSteps || []; }, error: () => {} });
     this.sim.startAttempt('chem-mixing', this.mode).subscribe({ next: a => this.attemptId = a.id, error: () => {} });
+    const expId = this.route.snapshot.queryParamMap.get('exp');
+    if (expId && this.mode === 'guided') {
+      const e = EXPERIMENTS.find(x => x.id === expId);
+      if (e) { this.cBook = e.book || '9-10'; this.cChap = e.chapter; this.cTopic = 0; setTimeout(() => this.startExperiment(e), 300); }
+    }
     this.ticker = setInterval(() => this.tick(), 100);
   }
   ngOnDestroy() { clearInterval(this.ticker); clearTimeout(this.warnTimer); }

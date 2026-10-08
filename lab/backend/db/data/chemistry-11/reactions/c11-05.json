@@ -1,0 +1,467 @@
+{
+ "book": "Chemistry First Part Class 11 (NCTB)",
+ "chunk_pdf_pages": [
+  143,
+  177
+ ],
+ "page_offset_note": "printed page = pdf page - 0",
+ "pages_read": 35,
+ "items": [
+  {
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "id": "k11-05-01",
+   "book_page": 163,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "শিখা পরীক্ষার পদ্ধতি (Pt তার ও গাঢ় HCl)",
+   "reactants": [
+    {
+     "name_bn": "নমুনা লবণ",
+     "formula": "",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় হাইড্রোক্লোরিক অম্ল",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "বুনসেন শিখার অনুজ্জ্বল শিখায় উত্তপ্ত",
+   "observations_bn": "ধাতু লবণ বাষ্পীভূত হয়ে শিখাকে বৈশিষ্ট্যপূর্ণ রং দেয়; খালি চোখে বা কোবাল্ট (নীল) কাচের মধ্য দিয়ে দেখা হয়।",
+   "procedure_bn": [
+    "ঘড়ি-কাচে গাঢ় HCl নিয়ে Pt তার ডুবিয়ে শিখায় ধরে তারটি পরিষ্কার করা হয়।",
+    "পরিষ্কার তারের আগা HCl-এ ভিজিয়ে অল্প নমুনা লাগানো হয়।",
+    "তারটি শিখার বাইরের দীপ্তিহীন অংশে ধরে শিখার রং দেখা হয়।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বুনসেন বার্নার",
+    "প্লাটিনাম তার",
+    "গাঢ় HCl",
+    "ওয়াচ গ্লাস",
+    "কোবাল্ট কাচ"
+   ],
+   "safety_bn": "শিখার সঙ্গে কাজ; গাঢ় HCl ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "id": "k11-05-02",
+   "book_page": 164,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শিখা পরীক্ষা : K⁺ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "পটাশিয়াম লবণ (K⁺)",
+     "formula": "K⁺",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "বুনসেন শিখায় উত্তাপন",
+   "observations_bn": "খালি চোখে শিখা বেগুনি দেখা যায়। কোবাল্ট কাচের মধ্য দিয়ে: লালচে বেগুনি।",
+   "procedure_bn": [
+    "Pt তারে নমুনা নিয়ে শিখায় ধরা হয়।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বুনসেন বার্নার",
+    "Pt তার",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "id": "k11-05-03",
+   "book_page": 164,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শিখা পরীক্ষা : Na⁺ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম লবণ (Na⁺)",
+     "formula": "Na⁺",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "বুনসেন শিখায় উত্তাপন",
+   "observations_bn": "খালি চোখে শিখা উজ্জ্বল সোনালী হলুদ দেখা যায়। কোবাল্ট কাচের মধ্য দিয়ে: কোনো বৈশিষ্ট্যপূর্ণ বর্ণ নেই (নীল কাচ হলুদ আলো শোষণ করে)।",
+   "procedure_bn": [
+    "Pt তারে নমুনা নিয়ে শিখায় ধরা হয়।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বুনসেন বার্নার",
+    "Pt তার",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "id": "k11-05-04",
+   "book_page": 164,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শিখা পরীক্ষা : Ca²⁺ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম লবণ (Ca²⁺)",
+     "formula": "Ca²⁺",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "বুনসেন শিখায় উত্তাপন",
+   "observations_bn": "খালি চোখে শিখা ইটের মতো লাল দেখা যায়। কোবাল্ট কাচের মধ্য দিয়ে: ফিকে সবুজ।",
+   "procedure_bn": [
+    "Pt তারে নমুনা নিয়ে শিখায় ধরা হয়।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বুনসেন বার্নার",
+    "Pt তার",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "id": "k11-05-05",
+   "book_page": 164,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শিখা পরীক্ষা : Cu²⁺ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "কপার লবণ (Cu²⁺)",
+     "formula": "Cu²⁺",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "বুনসেন শিখায় উত্তাপন",
+   "observations_bn": "খালি চোখে শিখা উজ্জ্বল নীলাভ সবুজ দেখা যায়। কোবাল্ট কাচের মধ্য দিয়ে: কোনো বৈশিষ্ট্যপূর্ণ বর্ণ নেই।",
+   "procedure_bn": [
+    "Pt তারে নমুনা নিয়ে শিখায় ধরা হয়।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বুনসেন বার্নার",
+    "Pt তার",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "id": "k11-05-06",
+   "book_page": 164,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শিখা পরীক্ষা : Ba²⁺ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "বেরিয়াম লবণ (Ba²⁺)",
+     "formula": "Ba²⁺",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "বুনসেন শিখায় উত্তাপন",
+   "observations_bn": "খালি চোখে শিখা হলুদাভ সবুজ দেখা যায়। কোবাল্ট কাচের মধ্য দিয়ে: নীলাভ সবুজ।",
+   "procedure_bn": [
+    "Pt তারে নমুনা নিয়ে শিখায় ধরা হয়।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বুনসেন বার্নার",
+    "Pt তার",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "id": "k11-05-07",
+   "book_page": 165,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শিখা পরীক্ষা : Sr²⁺ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "স্ট্রনসিয়াম লবণ (Sr²⁺)",
+     "formula": "Sr²⁺",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "বুনসেন শিখায় উত্তাপন",
+   "observations_bn": "খালি চোখে শিখা টকটকে লাল দেখা যায়।",
+   "procedure_bn": [
+    "Pt তারে নমুনা নিয়ে শিখায় ধরা হয়।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বুনসেন বার্নার",
+    "Pt তার",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "id": "k11-05-08",
+   "book_page": 165,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "কপার কার্বনেট ও গাঢ় HCl (শিখা পরীক্ষার নমুনা প্রস্তুতি)",
+   "reactants": [
+    {
+     "name_bn": "কপার কার্বনেট",
+     "formula": "CuCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অম্ল",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার ক্লোরাইড",
+     "formula": "CuCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CuCO₃ + 2HCl → CuCl₂ + H₂O + CO₂↑",
+   "equation_printed": "CuCO₃ + 2HCl(aq) → CuCl₂",
+   "conditions": "room temp",
+   "observations_bn": "বইয়ে শুধু ক্লোরাইড লবণ গঠনের ধাপ দেখানো; CO₂ ও পানি বইয়ে ছাপা নেই, ভারসাম্যের জন্য যোগ করা।",
+   "procedure_bn": [
+    "কার্বনেট নমুনায় HCl যোগ করে ক্লোরাইড লবণ তৈরি করা হয়, যা পরে শিখায় পরীক্ষা হয়।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuCO₃",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "id": "k11-05-09",
+   "book_page": 165,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়াম কার্বনেট ও HCl (শিখা পরীক্ষার নমুনা প্রস্তুতি)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অম্ল",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑",
+   "equation_printed": "CaCO₃ + 2HCl(aq) → CaCl₂",
+   "conditions": "room temp",
+   "observations_bn": "বইয়ে শুধু CaCl₂ গঠন দেখানো; CO₂ ও পানি ভারসাম্যের জন্য যোগ করা।",
+   "procedure_bn": [
+    "কার্বনেট নমুনায় HCl দিয়ে ক্লোরাইড তৈরি করে শিখায় পরীক্ষা করা হয়।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CaCO₃",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "chapter_no": 2,
+   "section_no": "2.16.1",
+   "section_title_bn": "দ্রাব্যতা (Solubility)",
+   "id": "k11-05-10",
+   "book_page": 175,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "পানিতে খাদ্য লবণের দ্রাব্যতা নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম আয়ন",
+     "formula": "Na⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)",
+   "conditions": "20 °C, নাড়ানো",
+   "observations_bn": "প্রথম দিকে লবণ দ্রবীভূত হয়; পরিমাণ সীমা ছাড়ালে অদ্রবীভূত লবণ তলায় পড়ে থাকে ও সম্পৃক্ত দ্রবণ হয়।",
+   "procedure_bn": [
+    "বিকারে 100 mL পানি নিয়ে 40 g NaCl ওজন করা হয়।",
+    "কাচদণ্ডে নেড়ে নেড়ে অল্প অল্প লবণ মেশানো হয়।",
+    "সবটা দ্রবীভূত না হলে তলায় পড়ে থাকা লবণ দেখা হয়।"
+   ],
+   "quantities_bn": "100 mL পানি, 20 °C-এ 36.0 g NaCl দ্রবীভূত, 4.0 g অবশিষ্ট (দ্রাব্যতা 36.0 g/100 g পানি)",
+   "materials_bn": [
+    "250 mL বিকার",
+    "পানি",
+    "খাদ্য লবণ",
+    "কাচদণ্ড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 2,
+   "no": "2.10",
+   "title_bn": "পরমাণুর রেখা বর্ণালির বিশ্লেষণ",
+   "start_page": 146
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.11",
+   "title_bn": "বোর পরমাণু মডেল ও হাইড্রোজেন পরমাণু বর্ণালি",
+   "start_page": 148
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.12",
+   "title_bn": "জাল পাসপোর্ট বা জাল টাকা শনাক্তকরণে UV রশ্মির ব্যবহার",
+   "start_page": 157
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.13",
+   "title_bn": "চিকিৎসাবিজ্ঞানে IR রশ্মির ব্যবহার",
+   "start_page": 158
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.14",
+   "title_bn": "রোগ নির্ণয়ে MRI পরীক্ষার মূলনীতি",
+   "start_page": 161
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.15",
+   "title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "start_page": 163
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.16",
+   "title_bn": "দ্রাব্যতা, দ্রাব্যতার গুণফল ও দ্রাব্যতা নীতি",
+   "start_page": 175
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.16.1",
+   "title_bn": "দ্রাব্যতা (Solubility)",
+   "start_page": 175
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "All pages are chapter 2 (গুণগত রসায়ন); chunk is mostly spectroscopy theory, numericals, exercises (skipped). Ra flame (crimson, p165) not recorded separately. Chunk ends mid-2.16 (p177)."
+}

@@ -1,0 +1,1299 @@
+{
+ "book": "NCTB Chemistry First Part Class 11 (রসায়ন প্রথম পত্র)",
+ "chunk_pdf_pages": [
+  598,
+  632
+ ],
+ "page_offset_note": "printed page = pdf page + 2 (pdf 598 = printed 600)",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-18-01",
+   "chapter_no": 5,
+   "section_no": "5.2",
+   "section_title_bn": "খাদ্য প্রিজারভেটিভস (শিরোনাম চাঙ্কের আগে ছাপা; অনুমিত)",
+   "book_page": 600,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "চর্বির জারণ: চর্বির লিপিড ও অক্সিজেন থেকে মূলক সৃষ্টি",
+   "reactants": [
+    {
+     "name_bn": "লিপিড",
+     "formula": "L–H",
+     "state": "liquid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিপিড মূলক",
+     "formula": "L•",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোপারঅক্সিল মূলক",
+     "formula": "HOO•",
+     "state": "gas"
+    }
+   ],
+   "equation": "L–H + O₂ → L• + H–O–O•",
+   "conditions": "আলো ও অক্সিজেনের উপস্থিতি; মূলক চেইন বিক্রিয়া",
+   "observations_bn": "মূলক চেইনের একটি ধাপ; ফলে খাদ্যে দুর্গন্ধ ও কালচে দাগ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-02",
+   "chapter_no": 5,
+   "section_no": "5.2",
+   "section_title_bn": "খাদ্য প্রিজারভেটিভস (শিরোনাম চাঙ্কের আগে ছাপা; অনুমিত)",
+   "book_page": 600,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "চর্বির জারণ: পারঅক্সিলিপিড মূলক সৃষ্টি",
+   "reactants": [
+    {
+     "name_bn": "লিপিড মূলক",
+     "formula": "L•",
+     "state": "liquid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পারঅক্সিলিপিড মূলক",
+     "formula": "L–O–O•",
+     "state": "liquid"
+    }
+   ],
+   "equation": "L• + O₂ → L–O–O•",
+   "conditions": "আলো ও অক্সিজেনের উপস্থিতি; মূলক চেইন বিক্রিয়া",
+   "observations_bn": "মূলক চেইনের একটি ধাপ; ফলে খাদ্যে দুর্গন্ধ ও কালচে দাগ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-03",
+   "chapter_no": 5,
+   "section_no": "5.2",
+   "section_title_bn": "খাদ্য প্রিজারভেটিভস (শিরোনাম চাঙ্কের আগে ছাপা; অনুমিত)",
+   "book_page": 600,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "চর্বির জারণ: অস্থায়ী হাইড্রোপারঅক্সাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "পারঅক্সিলিপিড মূলক",
+     "formula": "L–O–O•",
+     "state": "liquid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "লিপিড",
+     "formula": "L–H",
+     "state": "liquid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিপিড হাইড্রোপারঅক্সাইড",
+     "formula": "L–O–O–H",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "লিপিড মূলক",
+     "formula": "L•",
+     "state": "liquid"
+    }
+   ],
+   "equation": "L–O–O• + L–H → L–O–O–H + L•",
+   "conditions": "আলো ও অক্সিজেনের উপস্থিতি; মূলক চেইন বিক্রিয়া",
+   "observations_bn": "মূলক চেইনের একটি ধাপ; ফলে খাদ্যে দুর্গন্ধ ও কালচে দাগ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-04",
+   "chapter_no": 5,
+   "section_no": "5.2",
+   "section_title_bn": "খাদ্য প্রিজারভেটিভস (শিরোনাম চাঙ্কের আগে ছাপা; অনুমিত)",
+   "book_page": 600,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "চর্বির জারণ: হাইড্রোপারঅক্সাইড ভেঙে অতি সক্রিয় মূলক",
+   "reactants": [
+    {
+     "name_bn": "লিপিড হাইড্রোপারঅক্সাইড",
+     "formula": "L–O–O–H",
+     "state": "liquid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিপিড মূলক",
+     "formula": "L•",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোপারঅক্সিল মূলক",
+     "formula": "HOO•",
+     "state": "gas"
+    }
+   ],
+   "equation": "L–O–O–H → L• + H–O–O•",
+   "conditions": "আলো ও অক্সিজেনের উপস্থিতি; মূলক চেইন বিক্রিয়া",
+   "observations_bn": "মূলক চেইনের একটি ধাপ; ফলে খাদ্যে দুর্গন্ধ ও কালচে দাগ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-05",
+   "chapter_no": 5,
+   "section_no": "5.2",
+   "section_title_bn": "খাদ্য প্রিজারভেটিভস (শিরোনাম চাঙ্কের আগে ছাপা; অনুমিত)",
+   "book_page": 600,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "চর্বির জারণ: অ্যান্টি-অক্সিডেন্টের মূলক বাধা",
+   "reactants": [
+    {
+     "name_bn": "অ্যান্টি-অক্সিডেন্ট",
+     "formula": "A–H",
+     "state": "liquid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "লিপিড মূলক",
+     "formula": "L•",
+     "state": "liquid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিপিড",
+     "formula": "L–H",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কম সক্রিয় অ্যান্টি-অক্সিডেন্ট মূলক",
+     "formula": "A•",
+     "state": "liquid"
+    }
+   ],
+   "equation": "A–H + L• → L–H + A•",
+   "conditions": "আলো ও অক্সিজেনের উপস্থিতি; মূলক চেইন বিক্রিয়া",
+   "observations_bn": "অ্যান্টি-অক্সিডেন্ট মূলককে ধরে চেইন থামায়, তাই পচন ঠেকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-06",
+   "chapter_no": 5,
+   "section_no": "5.2",
+   "section_title_bn": "খাদ্য প্রিজারভেটিভস (শিরোনাম চাঙ্কের আগে ছাপা; অনুমিত)",
+   "book_page": 601,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম সরবেটের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সরবেট",
+     "formula": "CH₃–CH=CH–CH=CH–COONa",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সরবিক অ্যাসিড",
+     "formula": "CH₃–CH=CH–CH=CH–COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃–CH=CH–CH=CH–COONa + H₂O → CH₃–CH=CH–CH=CH–COOH + NaOH",
+   "conditions": "পানিতে দ্রবীভূত; আর্দ্রবিশ্লেষণ",
+   "observations_bn": "সরবেট পানিতে ভেঙে সরবিক অ্যাসিড দেয়, যা প্রিজারভেটিভ হিসেবে কাজ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম সরবেট",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-07",
+   "chapter_no": 5,
+   "section_no": "5.2",
+   "section_title_bn": "খাদ্য প্রিজারভেটিভস (শিরোনাম চাঙ্কের আগে ছাপা; অনুমিত)",
+   "book_page": 604,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "মাছ থেকে ফরমালিন অপসারণ",
+   "reactants": [
+    {
+     "name_bn": "ফরমালিনযুক্ত মাছ",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ভিনেগার–পানির মিশ্রণ বা লবণ–পানি",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "ভিজিয়ে রাখলে ফরমালিনের বড় অংশ মাছ থেকে সরে যায়।",
+   "procedure_bn": [
+    "মাছ ভিনেগার ও পানির মিশ্রণে ১৫–২০ মিনিট ভিজিয়ে রাখো",
+    "বিকল্পে লবণ মেশানো পানিতে প্রায় ১ ঘণ্টা ভিজাও",
+    "চালধোয়া পানিতে ১৫–২০ মিনিট ভিজিয়ে পরে সাধারণ পানিতে কিছুক্ষণ রাখো"
+   ],
+   "quantities_bn": "অপসারণ: ভিনেগার–পানিতে ~৯৯%, লবণ–পানিতে ১ ঘণ্টায় ~৯০%, চালধোয়া পানিতে ~৭০% (বইয়ের তথ্য)",
+   "materials_bn": [
+    "মাছ",
+    "ভিনেগার",
+    "লবণ",
+    "চালধোয়া পানি"
+   ],
+   "safety_bn": "ফরমালিনযুক্ত খাবার কিডনির ক্ষতি করে; ফলের ক্ষেত্রে হালকা উষ্ণ লবণ-পানিতে ভেজানো যায়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-08",
+   "chapter_no": 5,
+   "section_no": "5.4.1",
+   "section_title_bn": "কয়েকটি দেশি ফলের কৌটাজাতকরণ (Canning of some local Fruits)",
+   "book_page": 610,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "পেয়ারা কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "পেয়ারা",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "চিনির দ্রবণ/ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "এগজস্টিং ও স্টেরিলাইজিং-এ তাপ",
+   "observations_bn": "স্টেরিলাইজিং-এ অণুজীব মরে, ফলে কৌটাজাত খাদ্য দীর্ঘদিন সংরক্ষিত থাকে।",
+   "procedure_bn": [
+    "ধোয়া, খোসা-বিচি ছাড়িয়ে টুকরা করো",
+    "কৌটায় টুকরা সাজিয়ে প্রিজারভেটিভসহ চিনির দ্রবণে ডুবাও",
+    "পানিতে ২/৩ ডুবিয়ে এগজস্টিং করে সিল করো",
+    "পানিতে ফুটিয়ে স্টেরিলাইজ, ঠান্ডা করে লেবেল লাগাও"
+   ],
+   "quantities_bn": "৩০–৪০% চিনির দ্রবণ, ১.২৫×১০⁻³% সোডিয়াম বেনজোয়েট ও ০.২৫% সাইট্রিক অ্যাসিড; এগজস্টিং: ৮৫–৯৫ °C, ৫–৭ মিনিট; স্টেরিলাইজিং: ৯০–১০০ °C, প্রায় ৩০ মিনিট; কৌটার ~৯০% ভর্তি",
+   "materials_bn": [
+    "পাকা পেয়ারা",
+    "সোডিয়াম বেনজোয়েট",
+    "সাইট্রিক অ্যাসিড",
+    "চিনি",
+    "কৌটা, স্টিম বাথ, বুনসেন বার্নার"
+   ],
+   "safety_bn": "সিলিং ও স্টেরিলাইজিং সতর্কভাবে করতে হবে; অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ দেওয়া যাবে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-09",
+   "chapter_no": 5,
+   "section_no": "5.4.1",
+   "section_title_bn": "কয়েকটি দেশি ফলের কৌটাজাতকরণ (Canning of some local Fruits)",
+   "book_page": 611,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "আম কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "আম",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "চিনির দ্রবণ/ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "এগজস্টিং ও স্টেরিলাইজিং-এ তাপ",
+   "observations_bn": "স্টেরিলাইজিং-এ অণুজীব মরে, ফলে কৌটাজাত খাদ্য দীর্ঘদিন সংরক্ষিত থাকে।",
+   "procedure_bn": [
+    "আম ধুয়ে খোসা-আঁটি ছাড়িয়ে টুকরা করো",
+    "কৌটায় সাজিয়ে প্রিজারভেটিভযুক্ত চিনির দ্রবণে ডুবাও",
+    "এগজস্টিং ও সিলিং করো",
+    "স্টেরিলাইজ করে ঠান্ডা করো ও লেবেল দাও"
+   ],
+   "quantities_bn": "৩০–৪০% চিনির দ্রবণ, ১.২৫×১০⁻³% সোডিয়াম বেনজোয়েট, ০.২৫% সাইট্রিক অ্যাসিড; এগজস্টিং: ৮৫–৯৫ °C, ৫–৭ মিনিট; স্টেরিলাইজিং: ৯০–১০০ °C, প্রায় ৩০ মিনিট; কৌটার ~৯০% ভর্তি",
+   "materials_bn": [
+    "খুঁতহীন পাকা আম",
+    "চিনির দ্রবণ",
+    "সাইট্রিক অ্যাসিড",
+    "সোডিয়াম বেনজোয়েট",
+    "এসকরবিক অ্যাসিড"
+   ],
+   "safety_bn": "সিলিং ও স্টেরিলাইজিং সতর্কভাবে করতে হবে; অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ দেওয়া যাবে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-10",
+   "chapter_no": 5,
+   "section_no": "5.4.1",
+   "section_title_bn": "কয়েকটি দেশি ফলের কৌটাজাতকরণ (Canning of some local Fruits)",
+   "book_page": 612,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কাঁঠাল কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "কাঁঠাল",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "চিনির দ্রবণ/ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "এগজস্টিং-এ পানির তাপমাত্রা ৮৫–৯০ °C; স্টেরিলাইজিং ৯০–১০০ °C",
+   "observations_bn": "স্টেরিলাইজিং-এ অণুজীব মরে, ফলে কৌটাজাত খাদ্য দীর্ঘদিন সংরক্ষিত থাকে।",
+   "procedure_bn": [
+    "কোয়া ছাড়িয়ে বিচি সরাও",
+    "কোয়া কৌটায় সাজিয়ে চিনির দ্রবণ ঢালো, উপরে ~১/২ ইঞ্চি ফাঁকা রাখো",
+    "এগজস্টিং ও সিলিং করো",
+    "স্টেরিলাইজ করে ঠান্ডা ও লেবেল"
+   ],
+   "quantities_bn": "৩৫–৪০% চিনির দ্রবণ, ১.২৫×১০⁻³% সোডিয়াম বেনজোয়েট, ০.২৫% সাইট্রিক অ্যাসিড; এগজস্টিং: ৮৫–৯০ °C পানির তাপমাত্রা, ৫–৭ মিনিট (বইয়ে ৮৫–৯০ °C); স্টেরিলাইজিং: ৯০–১০০ °C, ১০–১৫ মিনিট",
+   "materials_bn": [
+    "পাকা কাঁঠালের কোয়া",
+    "চিনির দ্রবণ",
+    "সাইট্রিক অ্যাসিড",
+    "সোডিয়াম বেনজোয়েট"
+   ],
+   "safety_bn": "সিলিং ও স্টেরিলাইজিং সতর্কভাবে করতে হবে; অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ দেওয়া যাবে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-11",
+   "chapter_no": 5,
+   "section_no": "5.4.1",
+   "section_title_bn": "কয়েকটি দেশি ফলের কৌটাজাতকরণ (Canning of some local Fruits)",
+   "book_page": 613,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "আনারস কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "আনারস",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "চিনির দ্রবণ/ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "এগজস্টিং ও স্টেরিলাইজিং-এ তাপ",
+   "observations_bn": "স্টেরিলাইজিং-এ অণুজীব মরে, ফলে কৌটাজাত খাদ্য দীর্ঘদিন সংরক্ষিত থাকে।",
+   "procedure_bn": [
+    "ধুয়ে খোসা ও বোঁটা ছাড়িয়ে টুকরা করো",
+    "কৌটায় সাজিয়ে প্রিজারভেটিভযুক্ত চিনির দ্রবণে ডুবাও",
+    "এগজস্টিং ও সিলিং",
+    "স্টেরিলাইজ, ঠান্ডা, লেবেল"
+   ],
+   "quantities_bn": "৩০–৪০% চিনির দ্রবণ, ১.২৫×১০⁻³% সোডিয়াম বেনজোয়েট, ০.২৫% সাইট্রিক অ্যাসিড; এগজস্টিং: ৮৫–৯৫ °C, ৫–৭ মিনিট; স্টেরিলাইজিং: ৯০–১০০ °C, প্রায় ৩০ মিনিট; কৌটার ~৯০% ভর্তি",
+   "materials_bn": [
+    "পাকা আনারস",
+    "চিনির দ্রবণ",
+    "সাইট্রিক অ্যাসিড",
+    "সোডিয়াম বেনজোয়েট"
+   ],
+   "safety_bn": "সিলিং ও স্টেরিলাইজিং সতর্কভাবে করতে হবে; অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ দেওয়া যাবে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-12",
+   "chapter_no": 5,
+   "section_no": "5.4.1",
+   "section_title_bn": "কয়েকটি দেশি ফলের কৌটাজাতকরণ (Canning of some local Fruits)",
+   "book_page": 615,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কচি ভুট্টা কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "কচি ভুট্টা",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "চিনির দ্রবণ/ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "এগজস্টিং ও স্টেরিলাইজিং-এ তাপ",
+   "observations_bn": "স্টেরিলাইজিং-এ অণুজীব মরে, ফলে কৌটাজাত খাদ্য দীর্ঘদিন সংরক্ষিত থাকে।",
+   "procedure_bn": [
+    "খোসা ছাড়িয়ে ৫–৭ মিনিট ব্লাঞ্চিং করো",
+    "সিদ্ধ ভুট্টা কৌটায় ভরে ক্যানিং তরলে ডুবাও",
+    "এগজস্টিং করে সিল করো",
+    "স্টেরিলাইজ করে ঠান্ডা করো"
+   ],
+   "quantities_bn": "ক্যানিং তরল: ২% লবণ, ৫% চিনি, ১.২৫×১০⁻³% সোডিয়াম বেনজোয়েট, ০.২৫% সাইট্রিক অ্যাসিড; এগজস্টিং: ৮৫–৯০ °C, ১০ মিনিট; স্টেরিলাইজিং: ৯০–১০০ °C, প্রায় ৩০ মিনিট; ব্লাঞ্চিং: প্রতি ৪ ভাগ ভুট্টায় ১ ভাগ গরম পানি",
+   "materials_bn": [
+    "কচি ভুট্টা",
+    "খাদ্য লবণ",
+    "চিনি",
+    "সোডিয়াম বেনজোয়েট",
+    "সাইট্রিক অ্যাসিড"
+   ],
+   "safety_bn": "সিলিং ও স্টেরিলাইজিং সতর্কভাবে করতে হবে; অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ দেওয়া যাবে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-13",
+   "chapter_no": 5,
+   "section_no": "5.4.1",
+   "section_title_bn": "কয়েকটি দেশি ফলের কৌটাজাতকরণ (Canning of some local Fruits)",
+   "book_page": 616,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কচি ভুট্টার হিমায়িতকরণ (ফ্রিজিং)",
+   "reactants": [
+    {
+     "name_bn": "কচি ভুট্টার মঞ্জুরি",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "ফুটন্ত পানি, পরে ঠান্ডা",
+   "observations_bn": "মঞ্জুরি ফুটিয়ে ঠান্ডা করে ফ্রিজে রাখলে ৩–৪ মাস পুষ্টি ঠিক থাকে।",
+   "procedure_bn": [
+    "খোসামুক্ত মঞ্জুরি ১ মিনিট ফুটন্ত পানিতে ডুবাও",
+    "২% লবণ-পানি বা ভিনেগারে ডুবিয়ে ঠান্ডা করো",
+    "শুকিয়ে প্লাস্টিক ব্যাগে ভরে মুখ বন্ধ করে ফ্রিজে রাখো"
+   ],
+   "quantities_bn": "লবণ-পানি ২%",
+   "materials_bn": [
+    "কচি ভুট্টা",
+    "লবণ",
+    "প্লাস্টিক ব্যাগ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-14",
+   "chapter_no": 5,
+   "section_no": "5.4.2",
+   "section_title_bn": "কয়েকটি সবজি কৌটাজাতকরণ (Canning of Some Vegetables)",
+   "book_page": 617,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "সবুজ মটরশুঁটি কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "সবুজ মটরশুঁটি",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "চিনির দ্রবণ/ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "এগজস্টিং ও স্টেরিলাইজিং-এ তাপ",
+   "observations_bn": "স্টেরিলাইজিং-এ অণুজীব মরে, ফলে কৌটাজাত খাদ্য দীর্ঘদিন সংরক্ষিত থাকে।",
+   "procedure_bn": [
+    "দানা ছাড়িয়ে এসকরবিক অ্যাসিডে শোধন করো ও ব্লাঞ্চ করো",
+    "কৌটায় দানা ভরে ক্যানিং তরল ঢালো",
+    "এগজস্টিং করে ঢাকনা আটকাও",
+    "স্টেরিলাইজ করে ঠান্ডা ও লেবেল"
+   ],
+   "quantities_bn": "ক্যানিং তরল: ২% লবণ, ২.৫% চিনি, ১.২৫×১০⁻³% সোডিয়াম বেনজোয়েট, ০.২৫% সাইট্রিক অ্যাসিড; এগজস্টিং: ৮৫–৯০ °C, ১০ মিনিট; স্টেরিলাইজিং: ৯০–১০০ °C, ১০–১৫ মিনিট; E-142 সবুজ রঙ ধরে রাখতে",
+   "materials_bn": [
+    "সবুজ মটরশুঁটি",
+    "লবণ",
+    "চিনি",
+    "সোডিয়াম বেনজোয়েট",
+    "সাইট্রিক অ্যাসিড",
+    "এসকরবিক অ্যাসিড"
+   ],
+   "safety_bn": "সিলিং ও স্টেরিলাইজিং সতর্কভাবে করতে হবে; অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ দেওয়া যাবে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-15",
+   "chapter_no": 5,
+   "section_no": "5.4.2",
+   "section_title_bn": "কয়েকটি সবজি কৌটাজাতকরণ (Canning of Some Vegetables)",
+   "book_page": 618,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "বাঁশ কোরল কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "বাঁশ কোরল",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "চিনির দ্রবণ/ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "এগজস্টিং ও স্টেরিলাইজিং-এ তাপ",
+   "observations_bn": "স্টেরিলাইজিং-এ অণুজীব মরে, ফলে কৌটাজাত খাদ্য দীর্ঘদিন সংরক্ষিত থাকে।",
+   "procedure_bn": [
+    "কোরল পরিষ্কার করে ২০–২৫ মিনিট রাখো, হলুদসহ ১০–১৫ মিনিট ব্লাঞ্চ",
+    "১০–১৫ মিনিট ভিনেগারে ডুবাও",
+    "কৌটায় ভরে ক্যানিং তরল দাও",
+    "এগজস্ট, সিল, স্টেরিলাইজ"
+   ],
+   "quantities_bn": "ক্যানিং তরল: ৭–৮% লবণ, ১.২৫×১০⁻²% সোডিয়াম বেনজোয়েট, ৫% চিনি, ০.২৫% সাইট্রিক অ্যাসিড; এগজস্টিং: ৮৫–৯০ °C, ১০ মিনিট; স্টেরিলাইজিং: ৯০–১০০ °C, প্রায় ৩০ মিনিট; ব্লাঞ্চিং-এ হলুদ গুঁড়া ও পানি; বইয়ে ১.২৫×১০⁻² ছাপা (সম্ভাব্য মুদ্রণ ত্রুটি)",
+   "materials_bn": [
+    "কচি বাঁশ কোরল",
+    "হলুদ গুঁড়া",
+    "লবণ",
+    "চিনি",
+    "ভিনেগার",
+    "সোডিয়াম বেনজোয়েট",
+    "সাইট্রিক অ্যাসিড"
+   ],
+   "safety_bn": "সিলিং ও স্টেরিলাইজিং সতর্কভাবে করতে হবে; অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ দেওয়া যাবে না।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-18-16",
+   "chapter_no": 5,
+   "section_no": "5.4.3",
+   "section_title_bn": "মাছ ও মাংস কৌটাজাতকরণ (Canning of fish and meat)",
+   "book_page": 620,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "কাঁচা মাছ কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "কাঁচা মাছ",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "চিনির দ্রবণ/ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "এগজস্টিং ও স্টেরিলাইজিং-এ তাপ",
+   "observations_bn": "স্টেরিলাইজিং-এ অণুজীব মরে, ফলে কৌটাজাত খাদ্য দীর্ঘদিন সংরক্ষিত থাকে।",
+   "procedure_bn": [
+    "মাছ ধুয়ে কেটে টুকরা করে লবণ-পানিতে ভিজাও",
+    "কৌটায় স্তরে সাজিয়ে লবণ-চিনির দ্রবণ দাও",
+    "ফুটন্ত পানিতে এগজস্টিং করে সিল করো",
+    "১১০–১১৫ °C-এ স্টেরিলাইজ করে ঠান্ডা ও লেবেল"
+   ],
+   "quantities_bn": "৭–৮% লবণ-পানিতে ১৫–২০ মিনিট ভিজানো; কৌটায় মাঝে মাঝে ২% লবণ ও ২% চিনির দ্রবণ; এগজস্টিং: কৌটার ২/৩ ডুবিয়ে ৮–১০ মিনিট; স্টেরিলাইজিং: ১১০–১১৫ °C, প্রায় ১ ঘণ্টা",
+   "materials_bn": [
+    "তাজা মাছ",
+    "খাদ্য লবণ",
+    "চিনি",
+    "কৌটা"
+   ],
+   "safety_bn": "সিলিং ও স্টেরিলাইজিং সতর্কভাবে করতে হবে; অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ দেওয়া যাবে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-17",
+   "chapter_no": 5,
+   "section_no": "5.4.3",
+   "section_title_bn": "মাছ ও মাংস কৌটাজাতকরণ (Canning of fish and meat)",
+   "book_page": 620,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "মুক্ত বায়ুতে মাছ শুটকীকরণ",
+   "reactants": [
+    {
+     "name_bn": "তাজা মাছ",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "রোদ ও বাতাস",
+   "observations_bn": "রোদে জলীয় অংশ বাষ্প হয়ে মাছ শুটকিতে পরিণত হয়।",
+   "procedure_bn": [
+    "মাছ ধুয়ে মাচায় ছড়াও বা বাঁশে ঝুলাও",
+    "মাঝে মাঝে উল্টেপাল্টে দাও",
+    "৬–৭ দিনে (বড় মাছ ফালি করে ৭–১০ দিনে) শুকিয়ে পলিথিনে ভরো"
+   ],
+   "quantities_bn": "মাচা ২.৫–৩ ফুট উঁচু; ছোট মাছ ৬–৭ দিন, ফালি ৭–১০ দিন",
+   "materials_bn": [
+    "মাছ",
+    "বাঁশের মাচা",
+    "পলিথিন"
+   ],
+   "safety_bn": "শুকানোর সময় DDT, গ্যামাক্সিন, মেনথল, সায়াড্রিন ব্যবহার নিষিদ্ধ—ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-18",
+   "chapter_no": 5,
+   "section_no": "5.4.3",
+   "section_title_bn": "মাছ ও মাংস কৌটাজাতকরণ (Canning of fish and meat)",
+   "book_page": 622,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "মাংস কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "মাংস",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "চিনির দ্রবণ/ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "এগজস্টিং ও স্টেরিলাইজিং-এ তাপ",
+   "observations_bn": "স্টেরিলাইজিং-এ অণুজীব মরে, ফলে কৌটাজাত খাদ্য দীর্ঘদিন সংরক্ষিত থাকে।",
+   "procedure_bn": [
+    "মাংস ধুয়ে টুকরা করে চালুনিতে পানি ঝরাও",
+    "ক্যানে সাজিয়ে লবণ-চিনির দ্রবণ দাও",
+    "গরম পানিতে এগজস্টিং করে সিল করো",
+    "১২১ °C-এ স্টেরিলাইজ করে ঠান্ডা ও লেবেল"
+   ],
+   "quantities_bn": "২% লবণ ও ২% চিনির দ্রবণ ক্যানে স্তরে স্তরে; এগজস্টিং: ক্যানের ২/৩ ডুবিয়ে ২–৩ মিনিট ফুটন্ত পানিতে; স্টেরিলাইজিং: ১২১ °C, ১–১.৫ ঘণ্টা",
+   "materials_bn": [
+    "সুস্থ পশুর মাংস",
+    "লবণ",
+    "চিনি",
+    "ক্যান"
+   ],
+   "safety_bn": "সিলিং ও স্টেরিলাইজিং সতর্কভাবে করতে হবে; অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ দেওয়া যাবে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-19",
+   "chapter_no": 5,
+   "section_no": "5.5",
+   "section_title_bn": "ব্যবহারিক : টমেটো কৌটাজাতকরণ (Practical: Canning of Tomatoes)",
+   "book_page": 623,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "টমেটো কৌটাজাতকরণ",
+   "reactants": [
+    {
+     "name_bn": "পাকা টমেটো",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ক্যানিং তরল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "১০০ °C পর্যন্ত গরম পানিতে",
+   "observations_bn": "ব্লাঞ্চিং-এ খোসা সহজে ওঠে; স্টেরিলাইজিং-এ জীবাণু মরে।",
+   "procedure_bn": [
+    "ধুয়ে টুকরা করে বীজ ফেলো; ২–৩ মিনিট ব্লাঞ্চ করে খোসা তোলো",
+    "কৌটায় ভরে ক্যানিং তরল দাও, ১/২ ইঞ্চি ফাঁকা রাখো",
+    "৮০–৮৫ °C-এ ১০ মিনিট এগজস্টিং ও সিলিং",
+    "১০০ °C-এ ~৩০ মিনিট স্টেরিলাইজ, ঠান্ডা ও লেবেল"
+   ],
+   "quantities_bn": "ক্যানিং তরল: ১০% NaCl, ৪–৫% চিনি, ০.১% সোডিয়াম বেনজোয়েট, ০.২৫% সাইট্রিক অ্যাসিড",
+   "materials_bn": [
+    "টমেটো",
+    "NaCl",
+    "চিনি",
+    "সোডিয়াম বেনজোয়েট",
+    "সাইট্রিক অ্যাসিড",
+    "কৌটা, বুনসেন বার্নার"
+   ],
+   "safety_bn": "স্টেরিলাইজিং সাবধানে করতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-20",
+   "chapter_no": 5,
+   "section_no": "5.6.2",
+   "section_title_bn": "কলয়েড দ্রবণ (Colloidal Solution)",
+   "book_page": 626,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ইমালশন শনাক্তকরণ: পানিতে তেল ও তেলে পানি",
+   "reactants": [
+    {
+     "name_bn": "দুধ/ভ্যানিশিং ক্রিম (O/W) বা মাখন/কোল্ড ক্রিম (W/O)",
+     "formula": "—",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "পানিতে তেলের ইমালশনে পানি মেশে, আলাদা স্তর হয় না; তেলে পানির ইমালশনে পানি মেশে না, আলাদা স্তর হয়।",
+   "procedure_bn": [
+    "ইমালশনে সামান্য পানি দিয়ে ঝাঁকাও",
+    "পানি মিশে গেলে পানিতে তেলের ইমালশন",
+    "আলাদা স্তর হলে তেলে পানির ইমালশন",
+    "রঞ্জক তেলে মেশালে তেলে পানি ইমালশনের সব অংশ রঙিন হয়"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইমালশন নমুনা",
+    "পানি",
+    "রঞ্জক পদার্থ",
+    "টেস্ট টিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-21",
+   "chapter_no": 5,
+   "section_no": "5.6.2",
+   "section_title_bn": "কলয়েড দ্রবণ (Colloidal Solution)",
+   "book_page": 628,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "টিন্ডাল প্রভাব পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "কলয়েড দ্রবণ",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "কলয়েড কণা আলো বিচ্ছুরিত করে, অণুবীক্ষণে উজ্জ্বল বিন্দু হিসেবে দেখা যায়; প্রকৃত দ্রবণে হয় না।",
+   "procedure_bn": [
+    "কাচের পাত্রে পরিষ্কার কলয়েড দ্রবণ নিয়ে কালো কাপড়ের উপর রাখো",
+    "উপরে অণুবীক্ষণ যন্ত্র ঝুলাও",
+    "উত্তল লেন্সে আলো কেন্দ্রীভূত করে পাশ থেকে দ্রবণে ফেলো",
+    "অণুবীক্ষণে বিচ্ছুরিত আলোর বিন্দু দেখো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কাচের পাত্র",
+    "কলয়েড দ্রবণ",
+    "আলোক উৎস",
+    "উত্তল লেন্স",
+    "অণুবীক্ষণ যন্ত্র",
+    "কালো কাপড়"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-22",
+   "chapter_no": 5,
+   "section_no": "5.6.3",
+   "section_title_bn": "কোয়াগুলেশন (Coagulation)",
+   "book_page": 628,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "বিপরীত আধানযুক্ত দুই সল মিশিয়ে কোয়াগুলেশন",
+   "reactants": [
+    {
+     "name_bn": "ধনাত্মক আধানযুক্ত সল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ঋণাত্মক আধানযুক্ত সল",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অধঃক্ষেপ (কোয়াগুলেট)",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "সমমোলার অনুপাতে মেশানো",
+   "observations_bn": "আধান প্রশমিত হয়ে সল জমাট বেঁধে থিতিয়ে পড়ে।",
+   "procedure_bn": [
+    "বিপরীত আধানের দুই সল সমমোলার অনুপাতে মেশাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বিপরীত আধানের দুটি সল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-23",
+   "chapter_no": 5,
+   "section_no": "5.6.3",
+   "section_title_bn": "কোয়াগুলেশন (Coagulation)",
+   "book_page": 628,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ফুটিয়ে কোয়াগুলেশন",
+   "reactants": [
+    {
+     "name_bn": "কলয়েড দ্রবণ",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কোয়াগুলেট",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "ফুটানো",
+   "observations_bn": "ফুটালে কলয়েড কণা অধঃক্ষিপ্ত হয়।",
+   "procedure_bn": [
+    "কলয়েড দ্রবণ ফুটাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কলয়েড দ্রবণ",
+    "বিকার, বার্নার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-24",
+   "chapter_no": 5,
+   "section_no": "5.6.3",
+   "section_title_bn": "কোয়াগুলেশন (Coagulation)",
+   "book_page": 628,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "তড়িচ্চালন ও ডায়ালাইসিস দ্বারা কোয়াগুলেশন",
+   "reactants": [
+    {
+     "name_bn": "কলয়েড দ্রবণ",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কোয়াগুলেট",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "তড়িৎ প্রবাহ / বারবার ডায়ালাইসিস",
+   "observations_bn": "তড়িৎ-বিশ্লেষ্য সরালে বা তড়িৎ চালনায় কণা জমাট বাঁধে (বই শুধু উল্লেখ করেছে)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "তড়িৎ কোষ",
+    "ডায়ালাইসিস যন্ত্র"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-25",
+   "chapter_no": 5,
+   "section_no": "5.6.3",
+   "section_title_bn": "কোয়াগুলেশন (Coagulation)",
+   "book_page": 629,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "As₂S₃ সল কোয়াগুলেশনে তড়িৎ-বিশ্লেষ্যের তুলনা",
+   "reactants": [
+    {
+     "name_bn": "ঋণাত্মক As₂S₃ সল",
+     "formula": "As₂S₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "NaCl / MgCl₂ / BaCl₂ / AlCl₃",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "ধনাত্মক আয়নের যোজ্যতা বাড়লে কম পরিমাণ ইলেক্ট্রোলাইটেই কোয়াগুলেশন হয়।",
+   "procedure_bn": [
+    "সলে বিভিন্ন লবণের দ্রবণ দিয়ে প্রয়োজনীয় ন্যূনতম পরিমাণ মাপো"
+   ],
+   "quantities_bn": "কোয়াগুলেশনে প্রয়োজনীয় (m mol): NaCl 52 (Na⁺); MgCl₂ 0.72 (Mg²⁺); BaCl₂ 0.69 (Ba²⁺); AlCl₃ 0.093 (Al³⁺)",
+   "materials_bn": [
+    "As₂S₃ সল",
+    "NaCl",
+    "MgCl₂",
+    "BaCl₂",
+    "AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-26",
+   "chapter_no": 5,
+   "section_no": "5.6.3",
+   "section_title_bn": "কোয়াগুলেশন (Coagulation)",
+   "book_page": 629,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe(OH)₃ সল কোয়াগুলেশনে ঋণাত্মক আয়নের তুলনা",
+   "reactants": [
+    {
+     "name_bn": "ধনাত্মক Fe(OH)₃ সল",
+     "formula": "Fe(OH)₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "KBr, K₂Cr₂O₇, K₂SO₄, K₂C₂O₄, K₃[Fe(CN)₆]",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "ঋণাত্মক আয়নের যোজ্যতা বেশি হলে কোয়াগুলেশন ক্ষমতা বেশি।",
+   "procedure_bn": [
+    "সলে বিভিন্ন লবণ দিয়ে ন্যূনতম পরিমাণ নির্ণয় করো"
+   ],
+   "quantities_bn": "কোয়াগুলেশনে প্রয়োজনীয় (m mol): KBr 138 (Br⁻); K₂Cr₂O₇ 0.19 (Cr₂O₇²⁻); K₂SO₄ 0.210 (SO₄²⁻); K₂C₂O₄ 0.238 (C₂O₄²⁻); K₃[Fe(CN)₆] 0.096 ([Fe(CN)₆]³⁻)",
+   "materials_bn": [
+    "Fe(OH)₃ সল",
+    "উপরের লবণসমূহ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-27",
+   "chapter_no": 5,
+   "section_no": "5.6.4",
+   "section_title_bn": "সাসপেনশন (Suspension)",
+   "book_page": 630,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "সাসপেনশন প্রস্তুত ও পর্যবেক্ষণ",
+   "reactants": [
+    {
+     "name_bn": "চক পাউডার",
+     "formula": "—",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "ঘোলাটে মিশ্রণ কিছুক্ষণ রাখলে কণা তলায় থিতায়; ময়দা, আটা, বার্লি, সাগুও একইভাবে অস্থির।",
+   "procedure_bn": [
+    "গ্লাসে ২/৩ অংশ পানি নাও",
+    "চক গুঁড়া মিশিয়ে ঝাঁকাও",
+    "রেখে দিয়ে থিতানো লক্ষ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কাচের গ্লাস",
+    "পানি",
+    "চকের গুঁড়া",
+    "ময়দা/আটা/বার্লি/সাগু"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-28",
+   "chapter_no": 5,
+   "section_no": "5.8",
+   "section_title_bn": "দুধ থেকে মাখন পৃথকীকরণ (Separation of Butter from Milk)",
+   "book_page": 634,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "মাখন উৎপাদনের ধাপ: pH নিয়ন্ত্রণ ও পাস্তুরায়ন",
+   "reactants": [
+    {
+     "name_bn": "কাঁচা দুধ",
+     "formula": "—",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "NaHCO₃ বা Na₂CO₃",
+     "formula": "NaHCO₃ / Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মাখন",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "pH ৬.৯–৭.১; ৭৪–৭৫ °C",
+   "observations_bn": "ল্যাকটিক অ্যাসিড কমাতে সামান্য সোডা মেশানো হয়; তাপে ইস্ট, মোল্ড, ব্যাক্টেরিয়া মরে।",
+   "procedure_bn": [
+    "দুধের pH ৬.৯–৭.১ রাখতে প্রয়োজনে সামান্য NaHCO₃ বা Na₂CO₃ দাও",
+    "৭৪–৭৫ °C-এ পাস্তুরায়ন করো",
+    "শীতল করো",
+    "মন্থন করে মাখন পৃথক করো"
+   ],
+   "quantities_bn": "pH ৫.০-এ নামলে মাখন প্রায় পাওয়া যায় না; বইয়ে পাস্তুরায়ন ৭৪–৭৫ °C-এ ১৫–১৬ সেকেন্ড",
+   "materials_bn": [
+    "দুধ",
+    "NaHCO₃",
+    "Na₂CO₃",
+    "থার্মোমিটার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-18-29",
+   "chapter_no": 5,
+   "section_no": "5.8",
+   "section_title_bn": "দুধ থেকে মাখন পৃথকীকরণ (Separation of Butter from Milk)",
+   "book_page": 634,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "অতি উচ্চ তাপমাত্রায় দুধ পাস্তুরায়ন (UHT)",
+   "reactants": [
+    {
+     "name_bn": "দুধ",
+     "formula": "—",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "১৩৮–১৪০ °C, ২ সেকেন্ড",
+   "observations_bn": "ইস্ট, মোল্ড ধ্বংস ও এনজাইম নিষ্ক্রিয়; ultra পাস্তুরিত লেখা থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "তাপমাত্রা ১৩৮–১৪০ °C, সময় ২ সেকেন্ড",
+   "materials_bn": [
+    "দুধ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 5,
+   "no": "5.3",
+   "title_bn": "খাদ্য কৌটাজাতকরণ প্রণালি (Process of Food Canning)",
+   "start_page": 607
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.4",
+   "title_bn": "খাদ্য কৌটাজাতকরণের মূলনীতি (Principles of food canning)",
+   "start_page": 609
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.4.1",
+   "title_bn": "কয়েকটি দেশি ফলের কৌটাজাতকরণ (Canning of some local Fruits)",
+   "start_page": 610
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.4.2",
+   "title_bn": "কয়েকটি সবজি কৌটাজাতকরণ (Canning of Some Vegetables)",
+   "start_page": 616
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.4.3",
+   "title_bn": "মাছ ও মাংস কৌটাজাতকরণ (Canning of fish and meat)",
+   "start_page": 619
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.5",
+   "title_bn": "ব্যবহারিক : টমেটো কৌটাজাতকরণ (Practical : Canning of Tomatoes)",
+   "start_page": 622
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.6",
+   "title_bn": "সাসপেনশন ও কোয়াগুলেশন (Suspension and Coagulation)",
+   "start_page": 624
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.6.1",
+   "title_bn": "প্রকৃত দ্রবণ (True Solution)",
+   "start_page": 624
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.6.2",
+   "title_bn": "কলয়েড দ্রবণ (Colloidal Solution)",
+   "start_page": 624
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.6.3",
+   "title_bn": "কোয়াগুলেশন (Coagulation)",
+   "start_page": 628
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.6.4",
+   "title_bn": "সাসপেনশন (Suspension)",
+   "start_page": 630
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.7",
+   "title_bn": "দুধের শতকরা সংযুক্তি (Percentage composition of Milk)",
+   "start_page": 632
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.8",
+   "title_bn": "দুধ থেকে মাখন পৃথকীকরণ (Separation of Butter from Milk)",
+   "start_page": 634
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Chunk is entirely chapter 5. Pages 600-606 belong to a section whose heading precedes the chunk (5.2 assumed). No balanced chemical equations printed except lipid-oxidation radical steps and sodium sorbate hydrolysis. Sections 5.3/5.4 etc. headings use the book's numbering."
+}

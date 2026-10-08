@@ -3,5 +3,7 @@
 import type { Chemical } from './chemistry-lab-data';
 
 import { GEN_CHEMICALS } from './chem-curriculum-9-10.generated';
+import { GEN_BOOKS } from './chem-curriculum-11-12.generated';
 
-export const EXTRA_CHEMICALS: Chemical[] = GEN_CHEMICALS;
+const seen = new Set<string>();
+export const EXTRA_CHEMICALS: Chemical[] = [...GEN_CHEMICALS, ...Object.values(GEN_BOOKS).flatMap(b => b.chemicals)].filter(c => !seen.has(c.id) && !!seen.add(c.id));

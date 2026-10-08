@@ -1,0 +1,1072 @@
+{
+ "book": "রসায়ন প্রথম পত্র, একাদশ শ্রেণি (NCTB)",
+ "chunk_pdf_pages": [
+  493,
+  527
+ ],
+ "page_offset_note": "printed page = pdf page + 2",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-15-1",
+   "chapter_no": 4,
+   "section_no": "",
+   "section_title_bn": "সার-সংক্ষেপ (অধ্যায় ৪)",
+   "book_page": 495,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ঋণাত্মক প্রভাবক: ক্লোরোফর্মের জারণ",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফর্ম",
+     "formula": "CHCl₃",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন (সক্রিয়)",
+     "formula": "[O]",
+     "state": "gas",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসজিন",
+     "formula": "COCl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CHCl₃ + [O] → COCl₂ + HCl",
+   "conditions": "বায়ুর অক্সিজেন; ইথানল ঋণাত্মক প্রভাবক",
+   "observations_bn": "ক্লোরোফর্ম বিষাক্ত ফসজিন গ্যাস তৈরি করে; ইথানল থাকলে এই বিক্রিয়া ধীর হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ফসজিন অত্যন্ত বিষাক্ত",
+   "confidence": "read",
+   "notes": "সার-সংক্ষেপে ঋণাত্মক প্রভাবকের উদাহরণ হিসেবে দেওয়া।"
+  },
+  {
+   "id": "k11-15-2",
+   "chapter_no": 4,
+   "section_no": "",
+   "section_title_bn": "সার-সংক্ষেপ (অধ্যায় ৪)",
+   "book_page": 495,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়া সংশ্লেষ (তাপউৎপাদী)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = −92 kJ",
+   "conditions": "উচ্চ চাপ ও তাপমাত্রা (হেবার প্রণালী)",
+   "observations_bn": "তাপ বাড়ালে সাম্য পশ্চাৎমুখী হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "ΔH = −92 kJ",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "তাপোৎপাদী সাম্য বিক্রিয়ার উদাহরণ।"
+  },
+  {
+   "id": "k11-15-3",
+   "chapter_no": 4,
+   "section_no": "",
+   "section_title_bn": "সার-সংক্ষেপ (অধ্যায় ৪)",
+   "book_page": 495,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₄ এর বিয়োজন (তাপহারী)",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন টেট্রক্সাইড",
+     "formula": "N₂O₄",
+     "state": "gas",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂O₄(g) ⇌ 2NO₂(g); ΔH = +57 kJ mol⁻¹",
+   "conditions": "তাপ প্রয়োগ",
+   "observations_bn": "তাপ বাড়ালে সাম্য সম্মুখে সরে NO₂ বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "ΔH = +57 kJ mol⁻¹",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "তাপহারী সাম্য বিক্রিয়ার উদাহরণ।"
+  },
+  {
+   "id": "k11-15-4",
+   "chapter_no": 4,
+   "section_no": "4.19.1",
+   "section_title_bn": "পানির আয়নিক গুণফল (Kw)",
+   "book_page": 502,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পানির স্ব-আয়নন",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂O ⇌ H⁺ + OH⁻  (2H₂O ⇌ H₃O⁺ + OH⁻)",
+   "conditions": "25 °C",
+   "observations_bn": "বিশুদ্ধ পানি অতি সামান্য বিয়োজিত হয়; 25 °C এ Kw = 1×10⁻¹⁴।",
+   "procedure_bn": [],
+   "quantities_bn": "Kw = [H⁺][OH⁻] = 1×10⁻¹⁴ (25 °C)",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "একটি পানি অণু এসিড, অন্যটি ক্ষার (ব্রনস্টেড)।"
+  },
+  {
+   "id": "k11-15-5",
+   "chapter_no": 4,
+   "section_no": "4.19.1",
+   "section_title_bn": "পানির আয়নিক গুণফল (Kw)",
+   "book_page": 504,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "পানিতে 0.01 M HCl যোগ",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "HCl → H⁺ + Cl⁻",
+   "conditions": "পানিতে সম্পূর্ণ বিয়োজন",
+   "observations_bn": "দ্রবণ অম্লীয় হয়: [H⁺] = 10⁻² ও [OH⁻] = 10⁻¹² g-ion/L।",
+   "procedure_bn": [],
+   "quantities_bn": "0.01 M HCl; [OH⁻] = 1.0×10⁻¹² g-ion L⁻¹",
+   "materials_bn": [
+    "বিশুদ্ধ পানি",
+    "HCl দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "হিসাবভিত্তিক উদাহরণ, ল্যাবে করার ধাপ দেওয়া নেই।"
+  },
+  {
+   "id": "k11-15-6",
+   "chapter_no": 4,
+   "section_no": "4.19.1",
+   "section_title_bn": "পানির আয়নিক গুণফল (Kw)",
+   "book_page": 505,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "পানিতে 0.01 M NaOH যোগ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম আয়ন",
+     "formula": "Na⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaOH → Na⁺ + OH⁻",
+   "conditions": "পানিতে সম্পূর্ণ বিয়োজন",
+   "observations_bn": "দ্রবণ ক্ষারীয় হয়: [OH⁻] = 10⁻² ও [H⁺] = 10⁻¹² g-ion/L।",
+   "procedure_bn": [],
+   "quantities_bn": "0.01 M NaOH; [H⁺] = 1.0×10⁻¹² g-ion L⁻¹",
+   "materials_bn": [
+    "বিশুদ্ধ পানি",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "হিসাবভিত্তিক উদাহরণ।"
+  },
+  {
+   "id": "k11-15-7",
+   "chapter_no": 4,
+   "section_no": "4.19.2",
+   "section_title_bn": "তড়িৎবিশ্লেষ্য পদার্থ (Electrolytes)",
+   "book_page": 506,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিডের আংশিক বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটেট আয়ন",
+     "formula": "CH₃COO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOH(aq) ⇌ CH₃COO⁻(aq) + H⁺(aq)",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "মৃদু তড়িৎবিশ্লেষ্য; কিছু অণু আয়নিত, বাকি অবিয়োজিত থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-8",
+   "chapter_no": 4,
+   "section_no": "4.19.2",
+   "section_title_bn": "তড়িৎবিশ্লেষ্য পদার্থ (Electrolytes)",
+   "book_page": 506,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₄OH এর আংশিক বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄OH(aq) ⇌ NH₄⁺(aq) + OH⁻(aq)",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "মৃদু ক্ষার হিসেবে আংশিক আয়নিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄OH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-9",
+   "chapter_no": 4,
+   "section_no": "4.19.2",
+   "section_title_bn": "তড়িৎবিশ্লেষ্য পদার্থ (Electrolytes)",
+   "book_page": 506,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "PbCl₂ এর আংশিক বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "লেড(II) ক্লোরাইড",
+     "formula": "PbCl₂",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড আয়ন",
+     "formula": "Pb²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "PbCl₂(s) ⇌ Pb²⁺(aq) + 2Cl⁻(aq)",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "অল্প দ্রবণীয় লবণ; দ্রবীভূত অংশ আয়নিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "PbCl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-10",
+   "chapter_no": 4,
+   "section_no": "4.20.1",
+   "section_title_bn": "এসিডের বিয়োজন ধ্রুবক, (Ka) [Dissociation Constant (Ka) of Acid]",
+   "book_page": 507,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "এসিডের পানিতে বিয়োজন (ব্রনস্টেড-লাউরি)",
+   "reactants": [
+    {
+     "name_bn": "এসিড",
+     "formula": "HA",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অনুবন্ধী ক্ষার",
+     "formula": "A⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "HA + H₂O ⇌ H₃O⁺ + A⁻",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "Ka = [H₃O⁺][A⁻]/[HA]; Ka যত বড় এসিড তত তীব্র।",
+   "procedure_bn": [],
+   "quantities_bn": "সাধারণ সমীকরণ",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ রূপে দেওয়া, নির্দিষ্ট পদার্থ নয়।"
+  },
+  {
+   "id": "k11-15-11",
+   "chapter_no": 4,
+   "section_no": "4.20.2",
+   "section_title_bn": "ক্ষারকের বিয়োজন ধ্রুবক (Kb) [Dissociation Constant (Kb) of Base]",
+   "book_page": 507,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্ষারকের পানিতে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ক্ষারক",
+     "formula": "A⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অনুবন্ধী এসিড",
+     "formula": "HA",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "A⁻ + H₂O ⇌ HA + OH⁻",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "Kb = [HA][OH⁻]/[A⁻]; Kb বেশি হলে ক্ষার তীব্র।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ সমীকরণ।"
+  },
+  {
+   "id": "k11-15-12",
+   "chapter_no": 4,
+   "section_no": "4.20.2",
+   "section_title_bn": "ক্ষারকের বিয়োজন ধ্রুবক (Kb) [Dissociation Constant (Kb) of Base]",
+   "book_page": 508,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "pH থেকে CH₃COOH এর Ka নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটেট আয়ন",
+     "formula": "CH₃COO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOH(aq) ⇌ CH₃COO⁻(aq) + H⁺(aq)",
+   "conditions": "25 °C",
+   "observations_bn": "pH 3.37 পাওয়া যায়; Ka = 1.82×10⁻⁵ এবং বিয়োজন প্রায় 4.27%।",
+   "procedure_bn": [
+    "0.6 g CH₃COOH দিয়ে 1 L দ্রবণ বানানো হয়",
+    "pH মিটারে pH মাপা হয়"
+   ],
+   "quantities_bn": "1.0×10⁻² M CH₃COOH; pH = 3.37; Ka = 1.82×10⁻⁵ mol L⁻¹; বিয়োজন 4.27%",
+   "materials_bn": [
+    "CH₃COOH",
+    "পানি",
+    "pH মিটার",
+    "1 L ফ্লাস্ক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-13",
+   "chapter_no": 4,
+   "section_no": "4.20.2",
+   "section_title_bn": "ক্ষারকের বিয়োজন ধ্রুবক (Kb) [Dissociation Constant (Kb) of Base]",
+   "book_page": 509,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "0.10 M CH₃COOH দ্রবণের H⁺ ও pH",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটেট আয়ন",
+     "formula": "CH₃COO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOH(aq) ⇌ CH₃COO⁻(aq) + H⁺(aq)",
+   "conditions": "25 °C",
+   "observations_bn": "Ka থেকে হিসাব করলে [H⁺] = 1.34×10⁻³ ও pH = 2.87 আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "0.10 M CH₃COOH; Ka = 1.8×10⁻⁵; [H⁺] = 1.34×10⁻³ g-ion L⁻¹; pH = 2.87",
+   "materials_bn": [
+    "CH₃COOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-14",
+   "chapter_no": 4,
+   "section_no": "4.20.2",
+   "section_title_bn": "ক্ষারকের বিয়োজন ধ্রুবক (Kb) [Dissociation Constant (Kb) of Base]",
+   "book_page": 510,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "0.15 M NH₃ দ্রবণের OH⁻ ও pH",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq)",
+   "conditions": "25 °C",
+   "observations_bn": "Kb থেকে হিসাব করলে [OH⁻] = 1.64×10⁻³ ও pH = 11.22 আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "0.15 M NH₃; Kb = 1.8×10⁻⁵; pOH = 2.78; pH = 11.22",
+   "materials_bn": [
+    "NH₃ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "বইয়ে সমীকরণে H₂O ওপরে লেখা; সমীকরণ সম্পূর্ণ করা হয়েছে।",
+   "equation_printed": "NH₃(aq) ⇌ NH₄⁺(aq) + OH⁻(aq)"
+  },
+  {
+   "id": "k11-15-15",
+   "chapter_no": 4,
+   "section_no": "4.20",
+   "section_title_bn": "এসিডের বিয়োজন ধ্রুবক (Ka) এবং ক্ষারের বিয়োজন ধ্রুবক (Kb)",
+   "book_page": 514,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₄OH এর বিয়োজন ধ্রুবক (30 °C, 3.5%)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄OH(aq) ⇌ NH₄⁺(aq) + OH⁻(aq)",
+   "conditions": "30 °C",
+   "observations_bn": "[NH₄⁺] = [OH⁻] = 5.25×10⁻⁴ থেকে Kb ≈ 1.9×10⁻⁵ আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "1.5×10⁻² M NH₄OH; α = 3.5%; Kb = 1.90414×10⁻⁵ mol L⁻¹",
+   "materials_bn": [
+    "NH₄OH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "পৃষ্ঠায় সেকশন শিরোনাম নেই; পূর্ববর্তী ৪.২০ ধরা হয়েছে।"
+  },
+  {
+   "id": "k11-15-16",
+   "chapter_no": 4,
+   "section_no": "4.21",
+   "section_title_bn": "মৃদু এসিড ও মৃদু ক্ষারের বিয়োজনের উপর সম-আয়ন প্রভাব",
+   "book_page": 515,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CH₃COOH দ্রবণে CH₃COONa যোগ",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটেট আয়ন",
+     "formula": "CH₃COO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়ন",
+     "formula": "Na⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOH ⇌ CH₃COO⁻ + H⁺ ; CH₃COONa → CH₃COO⁻ + Na⁺",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "সম-আয়ন CH₃COO⁻ বাড়ায় এসিডের বিয়োজন কমে ও [H₃O⁺] কমে।",
+   "procedure_bn": [
+    "CH₃COOH দ্রবণ নিয়ে CH₃COONa মেশানো হয়"
+   ],
+   "quantities_bn": "0.10 M CH₃COOH + 0.10 M CH₃COONa",
+   "materials_bn": [
+    "CH₃COOH",
+    "CH₃COONa"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-17",
+   "chapter_no": 4,
+   "section_no": "4.21",
+   "section_title_bn": "মৃদু এসিড ও মৃদু ক্ষারের বিয়োজনের উপর সম-আয়ন প্রভাব",
+   "book_page": 515,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CH₃COOH দ্রবণে HCl যোগ",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটেট আয়ন",
+     "formula": "CH₃COO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOH ⇌ CH₃COO⁻ + H⁺ ; HCl → H⁺ + Cl⁻",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "সম-আয়ন H⁺ বাড়ায় CH₃COOH এর বিয়োজন কমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COOH",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-18",
+   "chapter_no": 4,
+   "section_no": "4.21",
+   "section_title_bn": "মৃদু এসিড ও মৃদু ক্ষারের বিয়োজনের উপর সম-আয়ন প্রভাব",
+   "book_page": 516,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₄OH দ্রবণে NH₄Cl যোগ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄OH ⇌ NH₄⁺ + OH⁻ ; NH₄Cl → NH₄⁺ + Cl⁻",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "সম-আয়ন NH₄⁺ বাড়ায় NH₄OH এর বিয়োজন কমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄OH",
+    "NH₄Cl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-19",
+   "chapter_no": 4,
+   "section_no": "4.21",
+   "section_title_bn": "মৃদু এসিড ও মৃদু ক্ষারের বিয়োজনের উপর সম-আয়ন প্রভাব",
+   "book_page": 516,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₄OH দ্রবণে NaOH যোগ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়ন",
+     "formula": "Na⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄OH ⇌ NH₄⁺ + OH⁻ ; NaOH → Na⁺ + OH⁻",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "সম-আয়ন OH⁻ বাড়ায় NH₄OH এর বিয়োজন কমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄OH",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-20",
+   "chapter_no": 4,
+   "section_no": "4.22",
+   "section_title_bn": "বিয়োজন ধ্রুবক ও এসিড-ক্ষারের তীব্রতা (Ionisation Constant and Intensity of Acids & Bases)",
+   "book_page": 517,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "এসিডের তীব্রতা: HCl, HNO₃, CH₃COOH (0.1 M)",
+   "reactants": [
+    {
+     "name_bn": "এসিড (HCl/HNO₃/CH₃COOH)",
+     "formula": "HA",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যানায়ন",
+     "formula": "A⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "HCl + H₂O → H₃O⁺ + Cl⁻ ; HNO₃ + H₂O → H₃O⁺ + NO₃⁻ ; CH₃COOH + H₂O ⇌ H₃O⁺ + CH₃COO⁻",
+   "conditions": "0.1 M দ্রবণ",
+   "observations_bn": "HCl ও HNO₃ প্রায় 100% আয়নিত; CH₃COOH প্রায় 5%।",
+   "procedure_bn": [],
+   "quantities_bn": "0.1 M; CH₃COOH 5% আয়নিত",
+   "materials_bn": [
+    "HCl",
+    "HNO₃",
+    "CH₃COOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "তিনটি পৃথক সমীকরণ একসঙ্গে রাখা হয়েছে।"
+  },
+  {
+   "id": "k11-15-21",
+   "chapter_no": 4,
+   "section_no": "4.22",
+   "section_title_bn": "বিয়োজন ধ্রুবক ও এসিড-ক্ষারের তীব্রতা (Ionisation Constant and Intensity of Acids & Bases)",
+   "book_page": 519,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NaOH ও NH₄OH এর তুলনা (0.1 M)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaOH → Na⁺ + OH⁻ ; NH₄OH ⇌ NH₄⁺ + OH⁻",
+   "conditions": "0.1 M দ্রবণ",
+   "observations_bn": "NaOH প্রায় 100% আয়নিত (তীব্র ক্ষার); NH₄OH প্রায় 5% আয়নিত।",
+   "procedure_bn": [],
+   "quantities_bn": "0.1 M; NH₄OH 5% আয়নিত",
+   "materials_bn": [
+    "NaOH",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-15-22",
+   "chapter_no": 4,
+   "section_no": "4.22",
+   "section_title_bn": "বিয়োজন ধ্রুবক ও এসিড-ক্ষারের তীব্রতা (Ionisation Constant and Intensity of Acids & Bases)",
+   "book_page": 519,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "মিথানোয়িক এসিডের Ka (pH 2.90)",
+   "reactants": [
+    {
+     "name_bn": "মিথানোয়িক এসিড",
+     "formula": "HCOOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানোয়েট আয়ন",
+     "formula": "HCOO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "HCOOH ⇌ HCOO⁻ + H⁺",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "pH 2.90 থেকে Ka = 1.5848×10⁻⁴ mol L⁻¹ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "1.0×10⁻² M HCOOH; pH = 2.90; Ka = 1.5848×10⁻⁴",
+   "materials_bn": [
+    "HCOOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "equation_printed": "H–COOH ⇌ H–COO⁻ + H⁺"
+  },
+  {
+   "id": "k11-15-23",
+   "chapter_no": 4,
+   "section_no": "4.22",
+   "section_title_bn": "বিয়োজন ধ্রুবক ও এসিড-ক্ষারের তীব্রতা (Ionisation Constant and Intensity of Acids & Bases)",
+   "book_page": 519,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₄OH এর Kb নির্ণয় (3.5% আয়নিত)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄OH(aq) ⇌ NH₄⁺(aq) + OH⁻(aq)",
+   "conditions": "25 °C",
+   "observations_bn": "3.5% বিয়োজনের হিসাবে Kb ≈ 1.97×10⁻⁵ mol L⁻¹।",
+   "procedure_bn": [],
+   "quantities_bn": "1.55×10⁻² M NH₄OH; α = 0.035; Kb = 1.9676×10⁻⁵ mol L⁻¹",
+   "materials_bn": [
+    "NH₄OH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 4,
+   "no": "4.19",
+   "title_bn": "পানির আয়নিক গুণফল (Kw) | Ionic Product of water (Kw)",
+   "start_page": 502
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.19.1",
+   "title_bn": "পানির আয়নিক গুণফল (Kw)",
+   "start_page": 502
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.19.2",
+   "title_bn": "তড়িৎবিশ্লেষ্য পদার্থ (Electrolytes)",
+   "start_page": 506
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.20",
+   "title_bn": "এসিডের বিয়োজন ধ্রুবক (Ka) এবং ক্ষারের বিয়োজন ধ্রুবক (Kb)",
+   "start_page": 507
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.20.1",
+   "title_bn": "এসিডের বিয়োজন ধ্রুবক, (Ka) [Dissociation Constant (Ka) of Acid]",
+   "start_page": 507
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.20.2",
+   "title_bn": "ক্ষারকের বিয়োজন ধ্রুবক (Kb) [Dissociation Constant (Kb) of Base]",
+   "start_page": 507
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.21",
+   "title_bn": "মৃদু এসিড ও মৃদু ক্ষারের বিয়োজনের উপর সম-আয়ন প্রভাব",
+   "start_page": 515
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.22",
+   "title_bn": "বিয়োজন ধ্রুবক ও এসিড-ক্ষারের তীব্রতা",
+   "start_page": 516
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.23",
+   "title_bn": "বিয়োজন ধ্রুবক Ka ও Kb এর তাৎপর্য",
+   "start_page": 520
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.24",
+   "title_bn": "pH ও pH স্কেল (সংখ্যা '৪.২৪' ধরা হয়েছে; ছবিতে ৪.২৮ এর মতো দেখায়)",
+   "start_page": 523
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "অধ্যায় ৪ এর শেষ ও ৪.১৯-৪.২৪ কভার করে; পৃষ্ঠা ৪৯৬-৫০১ অনুশীলনী/MCQ (বাদ), ৫২২-৫২৯ প্রধানত সংখ্যাভিত্তিক হিসাব ও pH স্কেল (কোনো পরীক্ষণ/বিক্রিয়া নেই)। ৪.১৯.১ এর দুটি উদাহরণ আসলে সংখ্যাভিত্তিক, তাই 'বই থেকে' হিসাব হিসেবে রাখা। p523 শিরোনামের নম্বর অস্পষ্ট (৪.২৪ অনুমিত)। অধ্যায় ৫ এই রেঞ্জে নেই।"
+}

@@ -1,0 +1,826 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  195,
+  230
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "chapter_no": 3,
+   "section_no": "unknown (precedes 3.32)",
+   "section_title_bn": "জিংকের নিষ্কাশন (শিরোনাম এই চাঙ্কের আগে)",
+   "book_page": 180,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ZnO কার্বন দিয়ে বিজারিত হয়ে জিংক বাষ্প",
+   "reactants": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কোক/কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক (বাষ্প)",
+     "formula": "Zn",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "ZnO(s) + C(s) → Zn(vap) + CO(g)",
+   "conditions": "প্রায় 1350°C, রিটর্টে প্রায় 24 ঘণ্টা",
+   "observations_bn": "জিংক বাষ্প শীতক-প্রকোষ্ঠে জমে ঘনীভূত হয়; CO গ্যাস প্রোলঙ্গের মুখে নীল শিখায় জ্বলে।",
+   "notes": "শিল্প প্রক্রিয়া; অবিশুদ্ধ জিংক (স্পেল্টার) প্রায় 97-98% বিশুদ্ধ। বাষ্পের কিছু অংশ জারিত হয়ে জিংক ডাস্ট (ZnO+Zn) তৈরি করে।",
+   "materials_bn": [
+    "ZnO",
+    "কোক",
+    "রিটর্ট"
+   ],
+   "confidence": "read",
+   "id": "k12-06-01",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "unknown (precedes 3.32)",
+   "section_title_bn": "জিংকের নিষ্কাশন (শিরোনাম এই চাঙ্কের আগে)",
+   "book_page": 180,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্পেল্টারের তড়িৎ বিশ্লেষণে বিশুদ্ধ জিংক",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফেট দ্রবণ",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক (ক্যাথোডে)",
+     "formula": "Zn",
+     "state": "solid"
+    },
+    {
+     "name_bn": "জিংক আয়ন",
+     "formula": "Zn²⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "ZnSO₄(aq) → Zn²⁺(aq) + SO₄²⁻(aq); অ্যানোড: Zn(s) → Zn²⁺(aq) + 2e⁻; ক্যাথোড: Zn²⁺(aq) + 2e⁻ → Zn(s)",
+   "conditions": "তড়িৎ বিশ্লেষণ; 15% ZnSO₄ দ্রবণ; অ্যানোড অবিশুদ্ধ জিংক, ক্যাথোড বিশুদ্ধ জিংক পাত",
+   "observations_bn": "অ্যানোডের জিংক দ্রবণে যায় ও ক্যাথোডে জমে; অপদ্রব্য অ্যানোড-মাড হয়ে নিচে থিতায়।",
+   "notes": "ফলে প্রায় 99.95% বিশুদ্ধ জিংক পাওয়া যায়।",
+   "materials_bn": [
+    "15% ZnSO₄ দ্রবণ",
+    "স্পেল্টার দণ্ড",
+    "বিশুদ্ধ জিংক পাত"
+   ],
+   "confidence": "read",
+   "id": "k12-06-02",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.32",
+   "section_title_bn": "জিংকের বিক্রিয়াসমূহ",
+   "book_page": 180,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "জিংক ও লঘু অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন (লঘু অ্যাসিড)",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেক্সাঅ্যাকুয়া জিংক(II) আয়ন",
+     "formula": "[Zn(H₂O)₆]²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Zn(s) + 2H⁺(aq) + 6H₂O(l) → [Zn(H₂O)₆]²⁺(aq) + H₂(g)↑",
+   "conditions": "room temp",
+   "observations_bn": "জিংক গলে যায় ও হাইড্রোজেনের বুদবুদ ওঠে।",
+   "materials_bn": [
+    "জিংক",
+    "লঘু অ্যাসিড"
+   ],
+   "confidence": "read",
+   "id": "k12-06-03",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.32",
+   "section_title_bn": "জিংকের বিক্রিয়াসমূহ",
+   "book_page": 180,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "জিংক ও ক্ষার দ্রবণ",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন (ক্ষার)",
+     "formula": "OH⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাহাইড্রক্সো জিংকেট(II) আয়ন",
+     "formula": "[Zn(OH)₄]²⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Zn(s) + 2OH⁻(aq) + 2H₂O(l) → [Zn(OH)₄]²⁻(aq) + H₂(g)↑",
+   "conditions": "room temp",
+   "observations_bn": "জিংক ক্ষারে দ্রবীভূত হয় ও H₂ গ্যাস বের হয় (উভধর্মী আচরণ)।",
+   "materials_bn": [
+    "জিংক",
+    "NaOH দ্রবণ"
+   ],
+   "confidence": "read",
+   "id": "k12-06-04",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.33",
+   "section_title_bn": "জিংকের যৌগসমূহ ও তাদের পরিবর্তন",
+   "book_page": 181,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জিংক কার্বনেটের তাপ বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "জিংক কার্বনেট",
+     "formula": "ZnCO₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "ZnCO₃(s) → ZnO(s) + CO₂(g)↑",
+   "conditions": "heat",
+   "observations_bn": "উত্তপ্ত অবস্থায় ZnO হলুদ, ঠান্ডায় সাদা।",
+   "notes": "রূপান্তর-চিত্র (চিত্র ৩.১৮) থেকে; সমীকরণ চিত্রে ছাপা।",
+   "confidence": "read",
+   "id": "k12-06-05",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.33",
+   "section_title_bn": "জিংকের যৌগসমূহ ও তাদের পরিবর্তন",
+   "book_page": 181,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Zn²⁺ থেকে ZnS সাদা অধঃক্ষেপ",
+   "reactants": [
+    {
+     "name_bn": "জিংক আয়ন",
+     "formula": "Zn²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফাইড আয়ন",
+     "formula": "S²⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক সালফাইড",
+     "formula": "ZnS",
+     "state": "solid"
+    }
+   ],
+   "equation": "Zn²⁺(aq) + S²⁻(aq) → ZnS(s)↓",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে।",
+   "notes": "চিত্রে শুধু S²⁻(aq) → ZnS সাদা দেখানো; আয়নিক সমীকরণ নিজে লেখা।",
+   "confidence": "inferred",
+   "id": "k12-06-06",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.33",
+   "section_title_bn": "জিংকের যৌগসমূহ ও তাদের পরিবর্তন",
+   "book_page": 181,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Zn²⁺ ও সায়ানাইড: বর্ণহীন জটিল আয়ন",
+   "reactants": [
+    {
+     "name_bn": "জিংক আয়ন",
+     "formula": "Zn²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সায়ানাইড আয়ন",
+     "formula": "CN⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাসায়ানোজিংকেট(II) আয়ন",
+     "formula": "[Zn(CN)₄]²⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "Zn²⁺(aq) + 4CN⁻(aq) → [Zn(CN)₄]²⁻(aq)",
+   "conditions": "room temp",
+   "observations_bn": "বর্ণহীন জটিল আয়ন দ্রবণে থাকে।",
+   "notes": "চিত্রে শুধু রূপান্তরের তীর; সমীকরণ নিজে সম্পূর্ণ করা।",
+   "safety_bn": "সায়ানাইড অত্যন্ত বিষাক্ত।",
+   "confidence": "inferred",
+   "id": "k12-06-07",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": []
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.33",
+   "section_title_bn": "জিংকের যৌগসমূহ ও তাদের পরিবর্তন",
+   "book_page": 181,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Zn²⁺ ও অ্যামোনিয়া: টেট্রাঅ্যামিন জটিল",
+   "reactants": [
+    {
+     "name_bn": "জিংক আয়ন",
+     "formula": "Zn²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাঅ্যামিনজিংক(II) আয়ন",
+     "formula": "[Zn(NH₃)₄]²⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "Zn²⁺(aq) + 4NH₃(aq) → [Zn(NH₃)₄]²⁺(aq)",
+   "conditions": "room temp (অতিরিক্ত NH₃)",
+   "observations_bn": "বর্ণহীন জটিল আয়ন তৈরি হয়।",
+   "notes": "চিত্রে শুধু রূপান্তর; সমীকরণ নিজে সম্পূর্ণ করা।",
+   "confidence": "inferred",
+   "id": "k12-06-08",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.35",
+   "section_title_bn": "জিংকের শনাক্তকরণ পরীক্ষা",
+   "book_page": 181,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "জিংকের শুষ্ক পরীক্ষা: কোবাল্ট নাইট্রেট (রীনম্যান গ্রিন)",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কোবাল্ট নাইট্রেট দ্রবণ",
+     "formula": "Co(NO₃)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কোবাল্ট জিংকেট (রীনম্যান গ্রিন)",
+     "formula": "CoZnO₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "ZnSO₄ + Na₂CO₃ → ZnCO₃ + Na₂SO₄; ZnCO₃ →(Δ) ZnO + CO₂↑; 2Co(NO₃)₂ →(Δ) 2CoO + 4NO₂↑ + O₂↑; CoO + ZnO →(Δ) CoZnO₂",
+   "conditions": "কাঠকয়লার গর্তে বুনসেন শিখায় তীব্র উত্তপ্ত",
+   "observations_bn": "প্রথমে সাদা ZnO অবশেষ; কোবাল্ট নাইট্রেট দিয়ে আবার পোড়ালে সবুজ রং আসে।",
+   "procedure_bn": [
+    "লবণে দ্বিগুণ Na₂CO₃ মিশিয়ে কাঠকয়লার গর্তে ফুঁ-নলের শিখায় তাপ দাও",
+    "সাদা অবশেষে ২-১ ফোঁটা Co(NO₃)₂ দিয়ে আবার তাপ দাও"
+   ],
+   "materials_bn": [
+    "Zn লবণ",
+    "Na₂CO₃",
+    "Co(NO₃)₂ দ্রবণ",
+    "কাঠকয়লা",
+    "বুনসেন বার্নার"
+   ],
+   "confidence": "read",
+   "id": "k12-06-09",
+   "quantities_bn": "",
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.35",
+   "section_title_bn": "জিংকের শনাক্তকরণ পরীক্ষা",
+   "book_page": 182,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Zn²⁺ এ পটাসিয়াম ফেরোসায়ানাইড",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ফেরোসায়ানাইড",
+     "formula": "K₄[Fe(CN)₆]",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক ফেরোসায়ানাইড",
+     "formula": "Zn₂[Fe(CN)₆]",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2ZnSO₄(aq) + K₄[Fe(CN)₆](aq) → Zn₂[Fe(CN)₆](s)↓ + 2K₂SO₄(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে; এটি Zn²⁺ এর নিশ্চিতকরণ।",
+   "procedure_bn": [
+    "জিংক লবণের দ্রবণে কয়েক ফোঁটা পটাসিয়াম ফেরোসায়ানাইড দাও"
+   ],
+   "confidence": "read",
+   "id": "k12-06-10",
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.35",
+   "section_title_bn": "জিংকের শনাক্তকরণ পরীক্ষা",
+   "book_page": 182,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Zn²⁺ এ NaOH: সাদা অধঃক্ষেপ ও অতিরিক্তে দ্রবণ",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক হাইড্রক্সাইড",
+     "formula": "Zn(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম জিংকেট",
+     "formula": "Na₂ZnO₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "ZnSO₄(aq) + 2NaOH(aq) → Zn(OH)₂(s)↓ + Na₂SO₄(aq); Zn(OH)₂(s) + 2NaOH(aq) → Na₂ZnO₂(aq) + 2H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "প্রথমে সাদা Zn(OH)₂ পড়ে; বেশি NaOH এ অধঃক্ষেপ গলে স্বচ্ছ দ্রবণ হয়।",
+   "procedure_bn": [
+    "জিংক লবণের দ্রবণে NaOH ফোঁটায় ফোঁটায় দাও",
+    "অতিরিক্ত NaOH যোগ করে পর্যবেক্ষণ করো"
+   ],
+   "confidence": "read",
+   "id": "k12-06-11",
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 3,
+   "section_no": "3.35",
+   "section_title_bn": "জিংকের শনাক্তকরণ পরীক্ষা",
+   "book_page": 182,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "জিংকেট দ্রবণে H₂S: সাদা ZnS",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম জিংকেট",
+     "formula": "Na₂ZnO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক সালফাইড",
+     "formula": "ZnS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Na₂ZnO₂(aq) + 2H₂S(g) → ZnS(s)↓ + Na₂S(aq) + 2H₂O(l)",
+   "conditions": "room temp; H₂S গ্যাস চালনা",
+   "observations_bn": "সাদা ZnS অধঃক্ষেপ পড়ে, Zn²⁺ নিশ্চিত হয়।",
+   "safety_bn": "H₂S বিষাক্ত গ্যাস।",
+   "confidence": "read",
+   "id": "k12-06-12",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": []
+  },
+  {
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "ভূমিকা",
+   "book_page": 197,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "উলার: অ্যামোনিয়াম সায়ানেট প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড সায়ানেট",
+     "formula": "Pb(CNO)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম সায়ানেট",
+     "formula": "NH₄CNO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড ক্লোরাইড",
+     "formula": "PbCl₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2NH₄Cl(aq) + Pb(CNO)₂(aq) → 2NH₄CNO(aq) + PbCl₂(s)↓",
+   "conditions": "room temp",
+   "observations_bn": "PbCl₂ এর সাদা অধঃক্ষেপ পড়ে ও দ্রবণে অ্যামোনিয়াম সায়ানেট থাকে।",
+   "notes": "ঐতিহাসিক পটভূমিতে উলারের ইউরিয়া সংশ্লেষণের প্রথম ধাপ; Pb যৌগ বিষাক্ত।",
+   "safety_bn": "লেড যৌগ বিষাক্ত।",
+   "confidence": "read",
+   "id": "k12-06-13",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": []
+  },
+  {
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "ভূমিকা",
+   "book_page": 197,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়াম সায়ানেট থেকে ইউরিয়া (পুনর্বিন্যাস)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম সায়ানেট",
+     "formula": "NH₄CNO",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইউরিয়া",
+     "formula": "CO(NH₂)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "NH₄CNO →(Δ) CO(NH₂)₂",
+   "conditions": "heat (দ্রবণ বাষ্পীভবনে)",
+   "observations_bn": "উত্তপ্ত করলে আয়নিক সায়ানেট সমযোজী ইউরিয়ায় রূপান্তরিত হয়।",
+   "notes": "প্রাণশক্তি মতবাদ খণ্ডনকারী পরীক্ষা (1828)।",
+   "confidence": "read",
+   "id": "k12-06-14",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 4,
+   "section_no": "4.2",
+   "section_title_bn": "জৈব যৌগ গঠনে কার্বন মৌলের বিশিষ্টতা",
+   "book_page": 199,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিলিনের পলিমারকরণে পলিথিন",
+   "reactants": [
+    {
+     "name_bn": "ইথিলিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিথিন",
+     "formula": "(–CH₂–CH₂–)ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "n CH₂=CH₂ → (–CH₂–CH₂–)ₙ",
+   "conditions": "প্রায় 200°C, উচ্চ চাপ, O₂ প্রভাবক",
+   "observations_bn": "অসম্পৃক্ত ইথিলিন অণু যুক্ত হয়ে দীর্ঘ শিকলের পলিমার গঠন করে।",
+   "notes": "পলিমারকরণ উদাহরণ হিসেবে দেওয়া।",
+   "confidence": "read",
+   "id": "k12-06-15",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  },
+  {
+   "chapter_no": 4,
+   "section_no": "4.3",
+   "section_title_bn": "জৈব যৌগ ও অজৈব যৌগের পার্থক্যসূচক বৈশিষ্ট্য",
+   "book_page": 199,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেনের দহন",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₄ + 2O₂ → CO₂ + 2H₂O",
+   "conditions": "দহন (জ্বালানো)",
+   "observations_bn": "জৈব যৌগ জ্বলে গিয়ে কোনো অবশেষ রাখে না।",
+   "notes": "জৈব-অজৈব তুলনা সারণিতে উদাহরণ।",
+   "confidence": "read",
+   "id": "k12-06-16",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": ""
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 3,
+   "no": "3.32",
+   "title_bn": "জিংকের বিক্রিয়াসমূহ",
+   "start_page": 180
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.33",
+   "title_bn": "জিংকের যৌগসমূহ ও তাদের পরিবর্তন",
+   "start_page": 181
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.34",
+   "title_bn": "জিংকের ব্যবহার",
+   "start_page": 181
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.35",
+   "title_bn": "জিংকের শনাক্তকরণ পরীক্ষা",
+   "start_page": 181
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.1",
+   "title_bn": "ভূমিকা",
+   "start_page": 197
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.2",
+   "title_bn": "জৈব যৌগ গঠনে কার্বন মৌলের বিশিষ্টতা",
+   "start_page": 197
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.3",
+   "title_bn": "জৈব যৌগ ও অজৈব যৌগের পার্থক্যসূচক বৈশিষ্ট্য",
+   "start_page": 199
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.4",
+   "title_bn": "সমযোজী বন্ধনের ইলেকট্রনীয় তত্ত্ব",
+   "start_page": 200
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.5",
+   "title_bn": "সমযোজী বন্ধনের প্রকারভেদ ও আধুনিক অরবিটাল মতবাদ",
+   "start_page": 201
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.6",
+   "title_bn": "পারমাণবিক অরবিটাল সংকরণ ও কার্বনের চতুর্যোজ্যতা",
+   "start_page": 203
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.6.1",
+   "title_bn": "কার্বনের sp³ সংকরণ ও মিথেন অণু গঠন",
+   "start_page": 203
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.7",
+   "title_bn": "কার্বনের sp² সংকরণ ও ইথিন অণুর গঠন",
+   "start_page": 204
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.8",
+   "title_bn": "কার্বনের sp সংকরণ ও ইথাইন অণুর গঠনাকৃতি",
+   "start_page": 206
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.8.1",
+   "title_bn": "ইথেন, ইথিন ও ইথাইন অণুর গঠন, বন্ধন কোণ ও বন্ধন দূরত্ব",
+   "start_page": 207
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.9",
+   "title_bn": "জৈব যৌগের শ্রেণীবিভাগ",
+   "start_page": 207
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.10",
+   "title_bn": "কার্যকরী মূলক",
+   "start_page": 210
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.11",
+   "title_bn": "সমগোত্রীয় শ্রেণী",
+   "start_page": 212
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.12",
+   "title_bn": "জৈব যৌগের গুরুত্ব ও জৈব রসায়নের অবদান",
+   "start_page": 212
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.13",
+   "title_bn": "ভূমিকা (নামকরণ)",
+   "start_page": 213
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.13.1",
+   "title_bn": "অ্যালিফেটিক যৌগের নামকরণ",
+   "start_page": 213
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.13.2",
+   "title_bn": "জেনেভা বা IUPAC পদ্ধতি",
+   "start_page": 214
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "PDF 195-198 = end of ch.3 (printed 180-183); PDF 199-210 = ch.3 exercises/MCQ/creative (skipped, they contain exam equations only); PDF 211-230 = ch.4 up to IUPAC naming table (theory, little reaction content). Ch.3 items on printed p.180 precede any heading in this chunk. Section numbers keep the book's printed numbering."
+}

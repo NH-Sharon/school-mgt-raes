@@ -1,0 +1,5101 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  51,
+  86
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-02-001",
+   "chapter_no": 1,
+   "section_no": "1.40",
+   "section_title_bn": "অক্সিজেন ও সালফারের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 39,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উচ্চ তাপমাত্রায় নাইট্রোজেন ও অক্সিজেনের যোগে NO",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + O₂(g) → 2NO(g)  (ΔH = +181.4 kJ/mol)",
+   "conditions": "প্রায় 3000°C",
+   "observations_bn": "খুব উচ্চ তাপে O₂ এর দ্বিবন্ধন ভেঙে বিক্রিয়া ঘটে; কক্ষ তাপমাত্রায় ঘটে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "তাপশোষী বিক্রিয়া"
+  },
+  {
+   "id": "k12-02-002",
+   "chapter_no": 1,
+   "section_no": "1.40",
+   "section_title_bn": "অক্সিজেন ও সালফারের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 39,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উষ্ণ অবস্থায় পানি ও ক্লোরিনের বিক্রিয়ায় অক্সিজেন",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2H₂O + 2Cl₂ → 4HCl + O₂",
+   "conditions": "তাপ (Δ)",
+   "observations_bn": "পানি জারিত হয়ে অক্সিজেন দেয়, ক্লোরিন বিজারিত হয়ে HCl হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-003",
+   "chapter_no": 1,
+   "section_no": "1.40",
+   "section_title_bn": "অক্সিজেন ও সালফারের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 39,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S এর সাথে Cl₂ এর বিক্রিয়ায় সালফার",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    }
+   ],
+   "equation": "H₂S + Cl₂ → 2HCl + S↓",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "গ্যাস দুটি মিশলে হলুদ সালফার কণা পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-004",
+   "chapter_no": 1,
+   "section_no": "1.41",
+   "section_title_bn": "অক্সিজেন ও সালফারের মধ্যে তুলনা",
+   "book_page": 40,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম অক্সাইড ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম অক্সাইড",
+     "formula": "Na₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂O + H₂O → 2NaOH",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "জলীয় ক্ষার দ্রবণ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-005",
+   "chapter_no": 1,
+   "section_no": "1.41",
+   "section_title_bn": "অক্সিজেন ও সালফারের মধ্যে তুলনা",
+   "book_page": 40,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম সালফাইডের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফাইড",
+     "formula": "NaHS",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂S + H₂O → NaOH + NaHS",
+   "equation_printed": "Na₂S(aq) + 2H₂O(l) → 2Na⁺OH⁻(aq) + H⁺ + HS⁻(aq)  (আধান সমতা নেই)",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "দ্রবণ ক্ষারীয় হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-02-006",
+   "chapter_no": 1,
+   "section_no": "1.44",
+   "section_title_bn": "অক্সিজেন ও সালফার মৌলের বহুরূপতা",
+   "book_page": 42,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অক্সিজেন থেকে ওজোন",
+   "reactants": [
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "3O₂(g) ⇌ 2O₃(g)  (ΔH = +142 kJ/mol ওজোনের জন্য)",
+   "equation_printed": "3O₂(g) → 2O₃(g); ΔH = 142 kJ/mol",
+   "conditions": "শুষ্ক O₂ এ নিঃশব্দ বিদ্যুৎক্ষরণ বা UV রশ্মি",
+   "observations_bn": "শক্তি শোষণ করে অক্সিজেন ওজোনে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "ওজোন স্বতঃস্ফূর্তভাবে আবার O₂ হয়ে যায় (মনোট্রপিক)"
+  },
+  {
+   "id": "k12-02-007",
+   "chapter_no": 1,
+   "section_no": "1.44",
+   "section_title_bn": "অক্সিজেন ও সালফার মৌলের বহুরূপতা",
+   "book_page": 42,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রম্বিক ও মনোক্লিনিক সালফারের রূপান্তর",
+   "reactants": [
+    {
+     "name_bn": "রম্বিক সালফার",
+     "formula": "S₈",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মনোক্লিনিক সালফার",
+     "formula": "S₈",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "equation": "S₈(রম্বিক) ⇌ S₈(মনোক্লিনিক)",
+   "conditions": "95.6°C ট্রানজিশন তাপমাত্রা",
+   "observations_bn": "95.6°C এর উপরে মনোক্লিনিক, নিচে রম্বিক স্থায়ী (এনান্সিওট্রপিক)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-008",
+   "chapter_no": 1,
+   "section_no": "1.46",
+   "section_title_bn": "অক্সিজেন ও সালফারের বিভিন্ন যৌগসমূহ",
+   "book_page": 43,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফারের ঘন নাইট্রিক এসিডে জারণ",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ঘন নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "S + 6HNO₃(ঘন) → H₂SO₄ + 6NO₂↑ + 2H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "বাদামি NO₂ গ্যাস বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ঘন HNO₃ ও NO₂ ক্ষতিকর",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-009",
+   "chapter_no": 1,
+   "section_no": "1.46",
+   "section_title_bn": "অক্সিজেন ও সালফারের বিভিন্ন যৌগসমূহ",
+   "book_page": 43,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফারের ঘন সালফিউরিক এসিডে জারণ",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ঘন সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "S + 2H₂SO₄(ঘন) → 3SO₂↑ + 2H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "ঝাঁঝালো SO₂ গ্যাস নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-010",
+   "chapter_no": 1,
+   "section_no": "1.47",
+   "section_title_bn": "অক্সাইডসমূহ",
+   "book_page": 44,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কয়লা ও সালফারের দহন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C + O₂ → CO₂;  2C + O₂ → 2CO;  S + O₂ → SO₂",
+   "conditions": "বায়ুতে দহন",
+   "observations_bn": "দহনে CO₂, CO ও SO₂ বায়ু দূষণ ঘটায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-011",
+   "chapter_no": 1,
+   "section_no": "1.47(ক)",
+   "section_title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "book_page": 44,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অম্লীয় অক্সাইড CO₂/SO₂ ও পানি",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফিউরাস এসিড",
+     "formula": "H₂SO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "CO₂ + H₂O → H₂CO₃;  SO₂ + H₂O → H₂SO₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "দ্রবণ এসিডীয় হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-012",
+   "chapter_no": 1,
+   "section_no": "1.47(ক)",
+   "section_title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "book_page": 44,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অম্লীয় অক্সাইড ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaOH + CO₂ → Na₂CO₃ + H₂O;  2NaOH + SO₂ → Na₂SO₃ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ক্ষারের সাথে লবণ ও পানি পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-013",
+   "chapter_no": 1,
+   "section_no": "1.47(ক)",
+   "section_title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "book_page": 44,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₅ ও NO₂ এর পানির সাথে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টাঅক্সাইড",
+     "formula": "N₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "N₂O₅ + H₂O → 2HNO₃;  2NO₂ + H₂O → HNO₃ + HNO₂",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "N₂O₅ সরল এসিড অ্যানহাইড্রাইড, NO₂ মিশ্র অ্যানহাইড্রাইড।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-014",
+   "chapter_no": 1,
+   "section_no": "1.47(ক)",
+   "section_title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "book_page": 44,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্ষারীয় অক্সাইড ও এসিড",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম অক্সাইড",
+     "formula": "Na₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+     "formula": "MgO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "এসিড HCl/H₂SO₄",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লবণ",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম সালফেট",
+     "formula": "MgSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Na₂O + 2HCl → 2NaCl + H₂O;  MgO + H₂SO₄ → MgSO₄ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "এসিডে অক্সাইড গলে লবণ ও পানি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-015",
+   "chapter_no": 1,
+   "section_no": "1.47(ক)",
+   "section_title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "book_page": 45,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "উভধর্মী ZnO এর ক্ষারক ও এসিড আচরণ",
+   "reactants": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক ক্লোরাইড",
+     "formula": "ZnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম জিংকেট",
+     "formula": "Na₂ZnO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "ZnO + 2HCl → ZnCl₂ + H₂O;  ZnO + 2NaOH → Na₂ZnO₂ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা/মৃদু উষ্ণ",
+   "observations_bn": "ZnO এসিড ও ক্ষার উভয়েই দ্রবীভূত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ZnO",
+    "dil. HCl",
+    "conc. NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-016",
+   "chapter_no": 1,
+   "section_no": "1.47(ক)",
+   "section_title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "book_page": 45,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "উভধর্মী Al₂O₃ এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম অক্সাইড",
+     "formula": "Al₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম অ্যালুমিনেট",
+     "formula": "NaAlO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O;  Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O",
+   "conditions": "উষ্ণ করতে হতে পারে",
+   "observations_bn": "এসিড ও ক্ষার উভয়ে দ্রবীভূত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-017",
+   "chapter_no": 1,
+   "section_no": "1.47(ক)",
+   "section_title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "book_page": 45,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "পার অক্সাইডের লঘু এসিডে H₂O₂ উৎপাদন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম পার অক্সাইড",
+     "formula": "Na₂O₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "বেরিয়াম পার অক্সাইড",
+     "formula": "BaO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন পার অক্সাইড",
+     "formula": "H₂O₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বেরিয়াম সালফেট",
+     "formula": "BaSO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "Na₂O₂ + 2HCl → 2NaCl + H₂O₂;  BaO₂ + H₂SO₄ → BaSO₄↓ + H₂O₂",
+   "equation_printed": "Na₂O₂(aq) + 2HCl → 2NaCl + H₂O₂ (printed as aq)",
+   "conditions": "ঠান্ডা, লঘু এসিড",
+   "observations_bn": "লঘু এসিডে H₂O₂ পাওয়া যায়; BaO₂ হলে সাদা BaSO₄ অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-018",
+   "chapter_no": 1,
+   "section_no": "1.47(ক)",
+   "section_title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "book_page": 45,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পলি অক্সাইড MnO₂/PbO₂ ও ঘন এসিড",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লেড ডাইঅক্সাইড",
+     "formula": "PbO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ঘন HCl/H₂SO₄",
+     "formula": "HCl",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ ক্লোরাইড",
+     "formula": "MnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড সালফেট",
+     "formula": "PbSO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "MnO₂ + 4HCl(ঘন) → MnCl₂ + Cl₂↑ + 2H₂O;  2PbO₂ + 2H₂SO₄(ঘন) → 2PbSO₄ + O₂↑ + 2H₂O",
+   "conditions": "ঘন এসিড, তাপ",
+   "observations_bn": "MnO₂ থেকে Cl₂ আর PbO₂ থেকে O₂ গ্যাস মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-019",
+   "chapter_no": 1,
+   "section_no": "1.47(ক)",
+   "section_title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "book_page": 46,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "মিশ্র অক্সাইড Fe₃O₄ ও HCl",
+   "reactants": [
+    {
+     "name_bn": "Fe₃O₄",
+     "formula": "Fe₃O₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Fe₃O₄ + 8HCl → FeCl₂ + 2FeCl₃ + 4H₂O",
+   "conditions": "ঘন HCl, মৃদু তাপ",
+   "observations_bn": "দুটি লবণ (Fe²⁺ ও Fe³⁺) একসাথে পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-020",
+   "chapter_no": 1,
+   "section_no": "1.48",
+   "section_title_bn": "অক্সাইডসমূহের অর্থনৈতিক গুরুত্ব",
+   "book_page": 46,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আকরিক অক্সাইডের কার্বন বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "হেমাটাইট",
+     "formula": "Fe₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্রোমাইট",
+     "formula": "Cr₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পাইরোলুসাইট",
+     "formula": "MnO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লৌহ",
+     "formula": "Fe",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্রোমিয়াম",
+     "formula": "Cr",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ",
+     "formula": "Mn",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "Fe₂O₃ + 3C → 2Fe + 3CO;  Cr₂O₃ + 3C → 2Cr + 3CO;  MnO₂ + 2C → Mn + 2CO",
+   "conditions": "উচ্চ তাপ (Δ)",
+   "observations_bn": "কার্বন দিয়ে ধাতু নিষ্কাশন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-021",
+   "chapter_no": 1,
+   "section_no": "1.48",
+   "section_title_bn": "অক্সাইডসমূহের অর্থনৈতিক গুরুত্ব",
+   "book_page": 46,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "এসিড শিল্পে SO₃ ও NO₂ থেকে এসিড",
+   "reactants": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "SO₃ + H₂O → H₂SO₄;  3NO₂ + H₂O → 2HNO₃ + NO",
+   "conditions": "পানি যোগে",
+   "observations_bn": "SO₃ ও NO₂ থেকে শিল্পে এসিড তৈরি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-022",
+   "chapter_no": 1,
+   "section_no": "1.49",
+   "section_title_bn": "সালফাইডসমূহ",
+   "book_page": 48,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "KOH/NaOH এ H₂S চালনায় সালফাইড",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম সালফাইড",
+     "formula": "K₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2KOH + H₂S → K₂S + 2H₂O;  2NaOH + H₂S → Na₂S + 2H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "H₂S ক্ষারকে সম্পূর্ণ প্রশমিত করলে সালফাইড লবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-023",
+   "chapter_no": 1,
+   "section_no": "1.49",
+   "section_title_bn": "সালফাইডসমূহ",
+   "book_page": 48,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফেট লবণের কার্বন বিজারণ (সালফাইড উৎপাদন)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম সালফাইড",
+     "formula": "K₂S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "K₂SO₄ + 4C → K₂S + 4CO↑;  Na₂SO₄ + 4C → Na₂S + 4CO↑",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "সালফেট থেকে সালফাইড তৈরি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-024",
+   "chapter_no": 1,
+   "section_no": "1.49",
+   "section_title_bn": "সালফাইডসমূহ",
+   "book_page": 48,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ব্ল্যাক অ্যাস প্রস্তুতি (CaS ও Na₂CO₃)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম সালফাইড",
+     "formula": "CaS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "Na₂SO₄ + 4C + CaCO₃ → Na₂CO₃ + CaS + 4CO↑",
+   "equation_printed": "Na₂SO₄ + 4C + CaCO₃ → Na₂CO₃ + CaS + 4CO (CaCO₃ অংশ আংশিক অস্পষ্ট)",
+   "conditions": "প্রায় 1000°C",
+   "observations_bn": "উৎপন্ন মিশ্রণের নাম ব্ল্যাক অ্যাস; পানিতে Na₂CO₃ দ্রবীভূত হয়, CaS পড়ে থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-02-025",
+   "chapter_no": 1,
+   "section_no": "1.49",
+   "section_title_bn": "সালফাইডসমূহ",
+   "book_page": 48,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Na₂S ও CaCO₃ থেকে CaS",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম সালফাইড",
+     "formula": "CaS",
+     "state": "solid"
+    }
+   ],
+   "equation": "Na₂S + CaCO₃ → Na₂CO₃ + CaS",
+   "conditions": "প্রায় 1000°C",
+   "observations_bn": "বিসমাথ মিশ্রিত CaS অনুপ্রভ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-026",
+   "chapter_no": 1,
+   "section_no": "1.49",
+   "section_title_bn": "সালফাইডসমূহ",
+   "book_page": 49,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জিংক সালফেট দ্রবণে H₂S চালনা",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক সালফাইড",
+     "formula": "ZnS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "ZnSO₄ + H₂S ⇌ ZnS↓ + H₂SO₄",
+   "conditions": "নিরপেক্ষ/ক্ষারীয় দ্রবণ",
+   "observations_bn": "সাদা ZnS অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "এসিডীয় মাধ্যমে অধঃক্ষেপ পড়ে না"
+  },
+  {
+   "id": "k12-02-027",
+   "chapter_no": 1,
+   "section_no": "1.49",
+   "section_title_bn": "সালফাইডসমূহ",
+   "book_page": 49,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লোহা ও সালফার গুঁড়া উত্তপ্ত করে FeS",
+   "reactants": [
+    {
+     "name_bn": "আয়রন গুঁড়া",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস সালফাইড",
+     "formula": "FeS",
+     "state": "solid"
+    }
+   ],
+   "equation": "Fe + S → FeS",
+   "conditions": "তাপ; ওজন অনুপাত Fe:S = 56:32",
+   "observations_bn": "কালো FeS পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "Fe : S = 56 : 32 (ওজন অনুপাত)",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-028",
+   "chapter_no": 1,
+   "section_no": "1.50",
+   "section_title_bn": "সালফাইড আকরিকের অর্থনৈতিক গুরুত্ব",
+   "book_page": 49,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আয়রন পাইরাইটস ভর্জন ও লৌহ নিষ্কাশন, SO₂ থেকে H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "আয়রন পাইরাইটস",
+     "formula": "FeS₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক অক্সাইড",
+     "formula": "Fe₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂",
+   "conditions": "তাপ (ভর্জন)",
+   "observations_bn": "SO₂ থেকে পরে SO₃ ও H₂SO₄ তৈরি হয়; Fe₂O₃ কে CO দিয়ে লৌহে বিজারণ করা যায় (Fe₂O₃ + 3CO → 2Fe + 3CO₂)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-029",
+   "chapter_no": 1,
+   "section_no": "1.50",
+   "section_title_bn": "সালফাইড আকরিকের অর্থনৈতিক গুরুত্ব",
+   "book_page": 49,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ZnS, PbS ও HgS আকরিকের ভর্জন ও কার্বন বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফাইড",
+     "formula": "ZnS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লেড সালফাইড",
+     "formula": "PbS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সিনাবার",
+     "formula": "HgS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লেড",
+     "formula": "Pb",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পারদ",
+     "formula": "Hg",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "CO",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "2ZnS + 3O₂ → 2ZnO + 2SO₂;  ZnO + C → Zn + CO;  (PbS ও 2HgS+3O₂ → 2HgO+2SO₂; HgO + C → Hg + CO একই ধরনের)",
+   "conditions": "বায়ুতে ভর্জন, পরে কার্বন সহ তাপ",
+   "observations_bn": "সালফাইড আকরিক থেকে প্রথমে অক্সাইড, পরে ধাতু।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-030",
+   "chapter_no": 1,
+   "section_no": "1.50",
+   "section_title_bn": "সালফাইড আকরিকের অর্থনৈতিক গুরুত্ব",
+   "book_page": 49,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ কে কার্বন দিয়ে বিজারণ করে সালফার",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    }
+   ],
+   "equation": "SO₂ + C → CO₂ + S",
+   "conditions": "উত্তপ্ত কোক",
+   "observations_bn": "উপজাত SO₂ থেকে সালফার পুনরুদ্ধার।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-031",
+   "chapter_no": 1,
+   "section_no": "1.52",
+   "section_title_bn": "সালফার ডাইঅক্সাইড SO₂",
+   "book_page": 49,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফার পুড়িয়ে SO₂",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + O₂ → SO₂",
+   "conditions": "বাতাসে দহন",
+   "observations_bn": "নীল শিখায় ঝাঁঝালো গ্যাস।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-032",
+   "chapter_no": 1,
+   "section_no": "1.52",
+   "section_title_bn": "সালফার ডাইঅক্সাইড SO₂",
+   "book_page": 50,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কপার পাইরাইটস ভর্জন",
+   "reactants": [
+    {
+     "name_bn": "কপার পাইরাইটস",
+     "formula": "CuFeS₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউপ্রাস অক্সাইড",
+     "formula": "Cu₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফেরাস অক্সাইড",
+     "formula": "FeO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4CuFeS₂ + 11O₂ → 2Cu₂O + 4FeO + 8SO₂",
+   "conditions": "তাপ",
+   "observations_bn": "SO₂ উপজাত হিসেবে পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-033",
+   "chapter_no": 1,
+   "section_no": "1.52",
+   "section_title_bn": "সালফার ডাইঅক্সাইড SO₂",
+   "book_page": 50,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S এর পূর্ণ দহন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2H₂S + 3O₂ → 2SO₂ + 2H₂O",
+   "equation_printed": "H₂S + O₂ → SO₂ + H₂O",
+   "conditions": "দহন",
+   "observations_bn": "ক্রুড অয়েলের H₂S পুড়ে SO₂ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-02-034",
+   "chapter_no": 1,
+   "section_no": "1.52",
+   "section_title_bn": "সালফার ডাইঅক্সাইড SO₂",
+   "book_page": 50,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সিমেন্ট শিল্পে CaSO₄ থেকে SO₂",
+   "reactants": [
+    {
+     "name_bn": "অ্যানহাইড্রাইট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সিলিকা",
+     "formula": "SiO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কোক",
+     "formula": "C",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সিলিকেট",
+     "formula": "CaSiO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "CO",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaSO₄ + SiO₂ + C → CaSiO₃ + CO + SO₂",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "SO₂ উপজাত হিসেবে বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-035",
+   "chapter_no": 1,
+   "section_no": "1.52",
+   "section_title_bn": "সালফার ডাইঅক্সাইড SO₂",
+   "book_page": 50,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সালফাইট লবণে লঘু এসিড দিয়ে SO₂",
+   "reactants": [
+    {
+     "name_bn": "সালফাইট আয়ন (লবণ)",
+     "formula": "SO₃²⁻",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লঘু এসিড",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SO₃²⁻ + 2H⁺ → SO₂↑ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ঝাঁঝালো গন্ধের SO₂ গ্যাস বের হয়; বাতাসের চেয়ে ভারী বলে নিচের দিকে থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-036",
+   "chapter_no": 1,
+   "section_no": "1.52",
+   "section_title_bn": "সালফার ডাইঅক্সাইড SO₂",
+   "book_page": 50,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "কপার ও ঘন H₂SO₄ থেকে পরীক্ষাগারে SO₂ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "কপার কুচি",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ঘন সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cu + 2H₂SO₄(ঘন) → CuSO₄ + SO₂↑ + 2H₂O",
+   "conditions": "বুনসেন বার্নারে উত্তপ্ত",
+   "observations_bn": "বুদ্বুদ সহ SO₂ বের হয়।",
+   "procedure_bn": [
+    "গোলতলী ফ্লাস্কে কপার কুচি নিয়ে থিসল ফানেল ও নির্গম নল লাগান",
+    "ফানেল দিয়ে ঘন H₂SO₄ ঢেলে তাপ দিন",
+    "বায়ুর ঊর্ধ্বমুখী অপসারণে গ্যাসজারে সংগ্রহ করুন",
+    "H₂SO₄ ভর্তি ওয়াশ বোতল দিয়ে গ্যাস শুষ্ক করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গোলতলী ফ্লাস্ক",
+    "থিসল ফানেল",
+    "কপার কুচি",
+    "ঘন H₂SO₄",
+    "গ্যাসজার",
+    "বুনসেন বার্নার"
+   ],
+   "safety_bn": "SO₂ বিষাক্ত, ফিউম হুডে করুন",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-037",
+   "chapter_no": 1,
+   "section_no": "1.53",
+   "section_title_bn": "SO₂ গ্যাস, সালফিউরাস এসিড ও সালফাইটের বিক্রিয়া",
+   "book_page": 51,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ ও পানি",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরাস এসিড",
+     "formula": "H₂SO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₂ + H₂O ⇌ H₂SO₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "দ্রবণ নীল লিটমাসকে লাল করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-038",
+   "chapter_no": 1,
+   "section_no": "1.53",
+   "section_title_bn": "SO₂ গ্যাস, সালফিউরাস এসিড ও সালফাইটের বিক্রিয়া",
+   "book_page": 51,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ এর ক্ষারের সাথে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "Na₂SO₃",
+     "formula": "Na₂SO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NaHSO₃",
+     "formula": "NaHSO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2NaOH + SO₂ → Na₂SO₃ + H₂O;  Na₂SO₃ + H₂O + SO₂ → 2NaHSO₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "SO₂ কম হলে সালফাইট, বেশি হলে হাইড্রোজেন সালফাইট।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-039",
+   "chapter_no": 1,
+   "section_no": "1.53",
+   "section_title_bn": "SO₂ গ্যাস, সালফিউরাস এসিড ও সালফাইটের বিক্রিয়া",
+   "book_page": 51,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "অম্লীয় K₂Cr₂O₇ দ্বারা SO₂ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ডাইক্রোমেট",
+     "formula": "K₂Cr₂O₇",
+     "state": "solution"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "লঘু H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "K₂SO₄",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "Cr₂(SO₄)₃",
+     "formula": "Cr₂(SO₄)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3SO₂ + K₂Cr₂O₇ + H₂SO₄ → K₂SO₄ + Cr₂(SO₄)₃ + H₂O",
+   "conditions": "অম্লীয় মাধ্যম",
+   "observations_bn": "কমলা দ্রবণ সবুজ হয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-040",
+   "chapter_no": 1,
+   "section_no": "1.53",
+   "section_title_bn": "SO₂ গ্যাস, সালফিউরাস এসিড ও সালফাইটের বিক্রিয়া",
+   "book_page": 52,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "অম্লীয় KMnO₄ এর সাথে SO₂",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "K₂SO₄",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "MnSO₄",
+     "formula": "MnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "5SO₂ + 2KMnO₄ + 2H₂O → K₂SO₄ + 2MnSO₄ + 2H₂SO₄",
+   "conditions": "লঘু এসিড মাধ্যম",
+   "observations_bn": "বেগুনি রং বিবর্ণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-041",
+   "chapter_no": 1,
+   "section_no": "1.53",
+   "section_title_bn": "SO₂ গ্যাস, সালফিউরাস এসিড ও সালফাইটের বিক্রিয়া",
+   "book_page": 52,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হ্যালোজেন পানির সাথে SO₂",
+   "reactants": [
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন/ব্রোমিন/আয়োডিন পানি",
+     "formula": "Cl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "HCl/HBr/HI",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₂ + 2H₂O + Cl₂ → 2HCl + H₂SO₄;  SO₂ + 2H₂O + Br₂ → 2HBr + H₂SO₄;  SO₂ + 2H₂O + I₂ → 2HI + H₂SO₄",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "হ্যালোজেনের রং মিলিয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-042",
+   "chapter_no": 1,
+   "section_no": "1.53",
+   "section_title_bn": "SO₂ গ্যাস, সালফিউরাস এসিড ও সালফাইটের বিক্রিয়া",
+   "book_page": 52,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফেরিক ক্লোরাইডের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2FeCl₃ + SO₂ + 2H₂O → 2FeCl₂ + 2HCl + H₂SO₄",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "হলুদ দ্রবণ হালকা সবুজ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-043",
+   "chapter_no": 1,
+   "section_no": "1.53",
+   "section_title_bn": "SO₂ গ্যাস, সালফিউরাস এসিড ও সালফাইটের বিক্রিয়া",
+   "book_page": 52,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ এর বিরঞ্জন ক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "রঙিন বস্তু",
+     "formula": "রঞ্জক",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বর্ণহীন যৌগ",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "equation": "SO₂ + 2H₂O → H₂SO₄ + 2[H];  রঙিন বস্তু + 2[H] → বর্ণহীন যৌগ",
+   "conditions": "আর্দ্র অবস্থা",
+   "observations_bn": "জায়মান হাইড্রোজেন রং নষ্ট করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "শুষ্ক SO₂ বিরঞ্জন করে না"
+  },
+  {
+   "id": "k12-02-044",
+   "chapter_no": 1,
+   "section_no": "1.53",
+   "section_title_bn": "SO₂ গ্যাস, সালফিউরাস এসিড ও সালফাইটের বিক্রিয়া",
+   "book_page": 52,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "HI ও H₂S দ্বারা SO₂ এর জারণ ধর্ম",
+   "reactants": [
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোআয়োডিক এসিড",
+     "formula": "HI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SO₂ + 4HI → 2H₂O + 2I₂ + S;  SO₂ + 2H₂S → 2H₂O + 3S",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "দ্রবণ ঘোলাটে হয়ে হলুদ সালফার পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-045",
+   "chapter_no": 1,
+   "section_no": "1.54",
+   "section_title_bn": "সালফার ট্রাইঅক্সাইড বা সালফার (VI) অক্সাইড, SO₃",
+   "book_page": 52,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ থেকে SO₃",
+   "reactants": [
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "O₂",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "SO₃",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂ + O₂ ⇌ 2SO₃",
+   "conditions": "Pt, 450°C",
+   "observations_bn": "সাদা ধোঁয়া হিসেবে SO₃ পাওয়া যায়; হিমমিশ্রণে ঠান্ডা করলে কঠিন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-046",
+   "chapter_no": 1,
+   "section_no": "1.54",
+   "section_title_bn": "সালফার ট্রাইঅক্সাইড বা সালফার (VI) অক্সাইড, SO₃",
+   "book_page": 53,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₃ এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "SO₃",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "CaO",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "CaSO₄",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অলিয়াম",
+     "formula": "H₂S₂O₇",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SO₃ + H₂O → H₂SO₄;  SO₃ + CaO → CaSO₄;  SO₃ + H₂SO₄ → H₂S₂O₇",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "SO₃ পানি শোষণ করে ঘন সাদা ধোঁয়া; ঘন H₂SO₄ এ শোষিত হয়ে অলিয়াম হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-047",
+   "chapter_no": 1,
+   "section_no": "1.56",
+   "section_title_bn": "স্পর্শ পদ্ধতিতে সালফিউরিক এসিডের শিল্পোৎপাদন",
+   "book_page": 54,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "স্পর্শ পদ্ধতিতে H₂SO₄ এর শিল্পোৎপাদন",
+   "reactants": [
+    {
+     "name_bn": "সালফার/পাইরাইটস",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "বায়ু",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "SO₃",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অলিয়াম",
+     "formula": "H₂S₂O₇",
+     "state": "liquid"
+    }
+   ],
+   "equation": "S + O₂ → SO₂;  4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂;  2SO₂ + O₂ ⇌ 2SO₃ (V₂O₅, 450°C, 2 atm);  SO₃ + H₂SO₄ → H₂S₂O₇;  H₂S₂O₇ + H₂O → 2H₂SO₄",
+   "conditions": "V₂O₅ বা Pt প্রভাবক, 450–500°C, প্রায় 2 atm",
+   "observations_bn": "SO₂ কে বিশুদ্ধ করে প্রভাবকে SO₃ করা হয়; 98% H₂SO₄ এ শোষণ করে অলিয়াম হয়, পানি দিয়ে লঘু করা হয়।",
+   "procedure_bn": [
+    "পাইরাইটস বার্নারে SO₂ প্রস্তুত",
+    "ধূলি চেম্বার, শুষ্ক টাওয়ারে গ্যাস পরিশোধন",
+    "স্পর্শ চেম্বারে V₂O₅ প্রভাবকে SO₃",
+    "শোষক টাওয়ারে 98% H₂SO₄ এ শোষণ → অলিয়াম → লঘুকরণ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "শিল্প প্রক্রিয়া",
+   "confidence": "read",
+   "notes": "লা-শাটেলিয়ারের নীতি অনুসারে অনুকূল অবস্থা; SO₂ প্রায় 95% রূপান্তরিত হয়"
+  },
+  {
+   "id": "k12-02-048",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 57,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "H₂SO₄ ও নীল লিটমাস",
+   "reactants": [
+    {
+     "name_bn": "লঘু H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নীল লিটমাস",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লাল লিটমাস",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "equation": "H₂SO₄ + H₂O → HSO₄⁻ + H₃O⁺;  নীল লিটমাস + H₃O⁺ → লাল লিটমাস",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "নীল লিটমাস লাল হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লঘু H₂SO₄",
+    "নীল লিটমাস কাগজ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-049",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 57,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "লঘু H₂SO₄ এর ক্ষার ও কার্বনেটের সাথে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "লঘু H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ZnCO₃",
+     "formula": "ZnCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "CaO",
+     "formula": "CaO",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "Na₂SO₄",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ZnSO₄",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O;  ZnCO₃ + H₂SO₄ → ZnSO₄ + H₂O + CO₂↑;  CaO + H₂SO₄ → CaSO₄ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "কার্বনেটে CO₂ বুদ্বুদ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-050",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 57,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "জিংক ও আয়রনের সাথে লঘু H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "আয়রন",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "লঘু H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ZnSO₄",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "FeSO₄",
+     "formula": "FeSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Zn + H₂SO₄ → ZnSO₄ + H₂↑;  Fe + H₂SO₄ → FeSO₄ + H₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "H₂ গ্যাসের বুদ্বুদ ওঠে; Cu, Ag এতে বিক্রিয়া করে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-051",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 58,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ঘন H₂SO₄ দিয়ে কপারের জারণ",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "CuSO₄",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cu + 2H₂SO₄(ঘন) → CuSO₄ + SO₂↑ + 2H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "প্রথমে CuO, পরে CuSO₄ হয়; ঝাঁঝালো SO₂ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-052",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 58,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ঘন H₂SO₄ দিয়ে কার্বন ও সালফারের জারণ",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C + 2H₂SO₄(ঘন) → 2H₂O + 2SO₂ + CO₂;  S + 2H₂SO₄(ঘন) → 2H₂O + 3SO₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "জারক হিসেবে H₂SO₄ বিজারিত হয়ে SO₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-053",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 58,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S, HBr, HI কে ঘন H₂SO₄ দ্বারা জারণ",
+   "reactants": [
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    },
+    {
+     "name_bn": "HBr",
+     "formula": "HBr",
+     "state": "gas"
+    },
+    {
+     "name_bn": "HI",
+     "formula": "HI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3H₂S + H₂SO₄ → 4H₂O + 4S;  2HBr + H₂SO₄ → Br₂ + SO₂ + 2H₂O;  2HI + H₂SO₄ → I₂ + SO₂ + 2H₂O",
+   "conditions": "ঘন H₂SO₄ (H₂S এর ক্ষেত্রে তাপ)",
+   "observations_bn": "হলুদ সালফার, বাদামি Br₂ বা বেগুনি I₂ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-054",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 58,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "চিনির উপর ঘন H₂SO₄ এর নিরুদক ক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "চিনি (সুক্রোজ)",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রেটেড সালফিউরিক এসিড",
+     "formula": "H₂SO₄·11H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₁₂H₂₂O₁₁ + 11H₂SO₄ → 12C + 11H₂O·H₂SO₄",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "চিনি কালো কার্বনে পরিণত হয়, তাপ বের হয়।",
+   "procedure_bn": [
+    "বিকারে চিনি নিন",
+    "ঘন H₂SO₄ ঢালুন",
+    "কালো রং ও ফুলে ওঠা লক্ষ্য করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "চিনি",
+    "ঘন H₂SO₄",
+    "বিকার"
+   ],
+   "safety_bn": "ঘন এসিড পোড়ায়, তাপ নির্গত হয়",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-055",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 59,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানলের নিরুদন ও ইথিন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল অ্যালকোহল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OH → C₂H₄ + H₂O  (ঘন H₂SO₄ দ্বারা)",
+   "equation_printed": "C₂H₅OH + H₂SO₄(ঘন) → C₂H₄ + H₂O·H₂SO₄",
+   "conditions": "160°C",
+   "observations_bn": "ইথিন গ্যাস পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "H₂SO₄ নিরুদক ও অংশত ইথানলে পানি শোষণ করে"
+  },
+  {
+   "id": "k12-02-056",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 59,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বাষ্পীভবন-যোগ্য অম্ল প্রস্তুতি (ঘন H₂SO₄ ও লবণ)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ফ্লোরাইড",
+     "formula": "NaF",
+     "state": "solid"
+    },
+    {
+     "name_bn": "Na₃PO₄",
+     "formula": "Na₃PO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "HNO₃",
+     "formula": "HNO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "HF",
+     "formula": "HF",
+     "state": "gas"
+    },
+    {
+     "name_bn": "H₃PO₄",
+     "formula": "H₃PO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "NaHSO₄",
+     "formula": "NaHSO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaNO₃ + H₂SO₄ ⇌ NaHSO₄ + HNO₃;  NaCl + H₂SO₄ ⇌ NaHSO₄ + HCl;  NaF + H₂SO₄ ⇌ NaHSO₄ + HF;  Na₃PO₄ + 3H₂SO₄ ⇌ 3NaHSO₄ + H₃PO₄",
+   "conditions": "তাপ",
+   "observations_bn": "কম উদ্বায়ী ঘন H₂SO₄ উদ্বায়ী এসিডকে সরিয়ে দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-057",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 59,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "বেরিয়াম নাইট্রেট দিয়ে সালফেট শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফেট দ্রবণ",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বেরিয়াম নাইট্রেট",
+     "formula": "Ba(NO₃)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিয়াম সালফেট",
+     "formula": "BaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "জিংক নাইট্রেট",
+     "formula": "Zn(NO₃)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "ZnSO₄ + Ba(NO₃)₂ → BaSO₄↓ + Zn(NO₃)₂",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ভারী সাদা অধঃক্ষেপ পড়ে, লঘু HCl এ দ্রবীভূত হয় না।",
+   "procedure_bn": [
+    "পরীক্ষানলে সালফেট দ্রবণ নিন",
+    "কয়েক ফোঁটা Ba(NO₃)₂ দ্রবণ দিন",
+    "লঘু HCl যোগ করে অধঃক্ষেপ দেখুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সালফেট দ্রবণ",
+    "Ba(NO₃)₂",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "BaCl₂ এর বদলে Ba(NO₃)₂ নিরাপদ, কারণ PbSO₄ থাকলে PbCl₂ ভুল ফল দিতে পারে"
+  },
+  {
+   "id": "k12-02-058",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 59,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লেড অ্যাসিটেট দিয়ে সালফেট শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড অ্যাসিটেট",
+     "formula": "Pb(CH₃COO)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড সালফেট",
+     "formula": "PbSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₄ + Pb(CH₃COO)₂ → PbSO₄↓ + 2CH₃COONa",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "লেড সালফেটের সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-059",
+   "chapter_no": 1,
+   "section_no": "1.59",
+   "section_title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "book_page": 59,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "অদ্রবণীয় PbSO₄ কে Na₂CO₃ দিয়ে গলিয়ে সালফেট শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "লেড সালফেট",
+     "formula": "PbSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "বেরিয়াম নাইট্রেট",
+     "formula": "Ba(NO₃)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড কার্বনেট",
+     "formula": "PbCO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বেরিয়াম সালফেট",
+     "formula": "BaSO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "PbSO₄ + Na₂CO₃ → PbCO₃ + Na₂SO₄;  Na₂SO₄ + Ba(NO₃)₂ → BaSO₄↓ + 2NaNO₃",
+   "conditions": "গলন (উচ্চ তাপ), পরে ছেঁকে লঘু HCl দিয়ে অম্লীয় করা",
+   "observations_bn": "ছেঁকে পাওয়া দ্রবণে Ba(NO₃)₂ দিলে সাদা BaSO₄ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-060",
+   "chapter_no": 1,
+   "section_no": "1.60",
+   "section_title_bn": "পরীক্ষাগারে H₂S গ্যাসের ক্রমাগত সরবরাহ : কিপ যন্ত্রে H₂S প্রস্তুতি",
+   "book_page": 60,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কিপ যন্ত্রে H₂S প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফাইড",
+     "formula": "FeS",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "লঘু সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "equation": "FeS + H₂SO₄(লঘু) → FeSO₄ + H₂S↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "পচা ডিমের গন্ধযুক্ত বর্ণহীন H₂S গ্যাস পাওয়া যায়; স্টপ কক বন্ধ করলে বিক্রিয়া থেমে যায়।",
+   "procedure_bn": [
+    "কিপ যন্ত্রের মাঝের গোলকে FeS টুকরা রাখুন",
+    "উপরের ফানেল দিয়ে লঘু H₂SO₄ ঢালুন",
+    "স্টপ কক খুলে H₂S বের করে নিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কিপ যন্ত্র",
+    "FeS টুকরা",
+    "লঘু H₂SO₄"
+   ],
+   "safety_bn": "H₂S বিষাক্ত; ফিউম হুডে",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-061",
+   "chapter_no": 1,
+   "section_no": "1.60",
+   "section_title_bn": "পরীক্ষাগারে H₂S গ্যাসের ক্রমাগত সরবরাহ : কিপ যন্ত্রে H₂S প্রস্তুতি",
+   "book_page": 61,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "FeS এ ঘন H₂SO₄ ও লঘু HNO₃ ব্যবহার না করার কারণ",
+   "reactants": [
+    {
+     "name_bn": "FeS",
+     "formula": "FeS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "লঘু HNO₃",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "NO",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3H₂S + H₂SO₄ → 4H₂O + 4S;  3H₂S + 2HNO₃ → 4H₂O + 2NO + 3S",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "জারক এসিড H₂S কে জারিত করে সালফার করে ফেলে, তাই H₂S পাওয়া যায় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "প্রথমে FeS + 2HNO₃ → Fe(NO₃)₂ + H₂S"
+  },
+  {
+   "id": "k12-02-062",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 61,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "H₂S দ্রবণ ও লিটমাস",
+   "reactants": [
+    {
+     "name_bn": "H₂S দ্রবণ",
+     "formula": "H₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নীল লিটমাস",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লাল লিটমাস",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "equation": "H₂S + H₂O ⇌ H₃O⁺ + HS⁻;  HS⁻ + H₂O ⇌ H₃O⁺ + S²⁻",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "নীল লিটমাস সামান্য লাল হয় (মৃদু এসিড)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-063",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 61,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "Na₂S",
+     "formula": "Na₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NaHS",
+     "formula": "NaHS",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂S + 2NaOH → Na₂S + 2H₂O;  Na₂S + H₂S → 2NaHS",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "প্রশমনে Na₂S, অতিরিক্ত H₂S এ NaHS।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-064",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 61,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "HgCl₂ দ্রবণে H₂S",
+   "reactants": [
+    {
+     "name_bn": "মারকিউরিক ক্লোরাইড",
+     "formula": "HgCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    },
+    {
+     "name_bn": "লঘু HCl",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মারকিউরিক সালফাইড",
+     "formula": "HgS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "HgCl₂ + H₂S → 2HCl + HgS↓",
+   "conditions": "লঘু HCl অম্লীয় মাধ্যম",
+   "observations_bn": "প্রথমে হলুদ বর্ণ, পরে কালো অধঃক্ষেপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-02-065",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 61,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "লেড লবণের দ্রবণে H₂S",
+   "reactants": [
+    {
+     "name_bn": "লেড নাইট্রেট",
+     "formula": "Pb(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড অ্যাসিটেট",
+     "formula": "Pb(CH₃COO)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড সালফাইড",
+     "formula": "PbS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "HNO₃",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যাসিটিক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "Pb(NO₃)₂ + H₂S → 2HNO₃ + PbS↓;  Pb(CH₃COO)₂ + H₂S → 2CH₃COOH + PbS↓",
+   "conditions": "অম্লীয় বা নিরপেক্ষ",
+   "observations_bn": "কালো PbS অধঃক্ষেপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-066",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 62,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "কপার সালফেট দ্রবণে H₂S",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    },
+    {
+     "name_bn": "লঘু HCl",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউপ্রিক সালফাইড",
+     "formula": "CuS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "CuSO₄ + H₂S → H₂SO₄ + CuS↓",
+   "conditions": "লঘু HCl মিশ্রিত",
+   "observations_bn": "কালো CuS অধঃক্ষেপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-067",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 62,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "ক্ষারীয় মাধ্যমে জিংক লবণে H₂S (NaOH)",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক সালফাইড",
+     "formula": "ZnS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "Na₂SO₄",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "Na₂S",
+     "formula": "Na₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "ZnSO₄ + 2NaOH → Zn(OH)₂↓ + Na₂SO₄;  Zn(OH)₂ + 2NaOH → Na₂ZnO₂ + 2H₂O;  Na₂ZnO₂ + 2H₂S → ZnS↓ + Na₂S + 2H₂O",
+   "equation_printed": "যোগফল: ZnSO₄ + 4NaOH + 2H₂S → ZnS + Na₂SO₄ + Na₂S + 4H₂O",
+   "conditions": "ক্ষারীয় মাধ্যম",
+   "observations_bn": "প্রথমে সাদা অধঃক্ষেপ গলে যায়, H₂S দিলে সাদা ZnS পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-068",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 62,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "অ্যামোনিয়াযুক্ত মাধ্যমে ZnCl₂ এ H₂S",
+   "reactants": [
+    {
+     "name_bn": "জিংক ক্লোরাইড",
+     "formula": "ZnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NH₄OH",
+     "formula": "NH₄OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ZnS",
+     "formula": "ZnS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "NH₄HS",
+     "formula": "NH₄HS",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NH₄Cl",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "ZnCl₂ + 6NH₄OH + 5H₂S → ZnS↓ + 4NH₄HS + 2NH₄Cl + 6H₂O",
+   "conditions": "NH₄OH মাধ্যম",
+   "observations_bn": "সাদা ZnS অধঃক্ষেপ পড়ে (Zn(OH)₂ আগে গলে টেট্রা-অ্যামিন জটিল হয়)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-069",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 63,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "গ্রুপ II ও IIIB ক্যাটায়নের H₂S দ্বারা অধঃক্ষেপণ",
+   "reactants": [
+    {
+     "name_bn": "Cu²⁺ (গ্রুপ II)",
+     "formula": "Cu²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "Zn²⁺ (গ্রুপ IIIB)",
+     "formula": "Zn²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "CuS",
+     "formula": "CuS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ZnS",
+     "formula": "ZnS",
+     "state": "solid"
+    }
+   ],
+   "equation": "Cu²⁺ + S²⁻ → CuS↓ (লঘু HCl এ);  2NH₄OH + H₂S → 2NH₄⁺ + S²⁻ + 2H₂O;  Zn²⁺ + S²⁻ → ZnS↓ (NH₄OH এ)",
+   "conditions": "গ্রুপ II এর জন্য লঘু HCl, গ্রুপ IIIB এর জন্য NH₄OH",
+   "observations_bn": "এসিডে S²⁻ কম, তাই কেবল গ্রুপ II পড়ে; ক্ষারীয় মাধ্যমে S²⁻ বাড়ে, তখন গ্রুপ IIIB পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "H₂S দ্রবণ 0.3 M, লঘু HCl 0.3 M; Ka(H₂S) = 1.1×10⁻²²",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-070",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 64,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S দ্বারা অম্লীয় KMnO₄ ও K₂Cr₂O₇ এর বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ডাইক্রোমেট",
+     "formula": "K₂Cr₂O₇",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    },
+    {
+     "name_bn": "লঘু H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "MnSO₄",
+     "formula": "MnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "Cr₂(SO₄)₃",
+     "formula": "Cr₂(SO₄)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "K₂SO₄",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2KMnO₄ + 3H₂SO₄ + 5H₂S → K₂SO₄ + 2MnSO₄ + 8H₂O + 5S↓;  K₂Cr₂O₇ + 4H₂SO₄ + 3H₂S → K₂SO₄ + Cr₂(SO₄)₃ + 7H₂O + 3S↓",
+   "conditions": "অম্লীয় মাধ্যম",
+   "observations_bn": "বেগুনি রং বিবর্ণ; কমলা সবুজ হয়; দ্রবণে হালকা হলুদ সালফার ঘোলাটে ভাব আনে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-071",
+   "chapter_no": 1,
+   "section_no": "1.61",
+   "section_title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "book_page": 64,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S দ্বারা FeCl₃ ও হ্যালোজেনের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "FeCl₂",
+     "formula": "FeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HBr",
+     "formula": "HBr",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    }
+   ],
+   "equation": "2FeCl₃ + H₂S → 2FeCl₂ + 2HCl + S↓;  Cl₂ + H₂S → 2HCl + S↓;  Br₂ + H₂S → 2HBr + S↓",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "FeCl₃ এর হলুদ রং হালকা সবুজ হয়; সালফার জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-072",
+   "chapter_no": 1,
+   "section_no": "1.62",
+   "section_title_bn": "সালফাইড লবণের শনাক্তকরণ বা দ্রবণে সালফাইড আয়ন (S²⁻) এর শনাক্তকরণ",
+   "book_page": 64,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "শুষ্ক পরীক্ষা: সালফাইডে লঘু H₂SO₄ ও লেড অ্যাসিটেট কাগজ",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফাইড",
+     "formula": "ZnS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লঘু H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড অ্যাসিটেট কাগজ",
+     "formula": "Pb(CH₃COO)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "H₂S",
+     "formula": "H₂S",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জিংক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড সালফাইড",
+     "formula": "PbS",
+     "state": "solid"
+    }
+   ],
+   "equation": "ZnS + H₂SO₄ → ZnSO₄ + H₂S↑;  H₂S + Pb(CH₃COO)₂ → PbS↓ + 2CH₃COOH",
+   "conditions": "একটু উষ্ণ",
+   "observations_bn": "পচা ডিমের গন্ধ; লেড অ্যাসিটেটে ভেজা কাগজ কালো হয়।",
+   "procedure_bn": [
+    "পরীক্ষানলে সালফাইড লবণ নিন",
+    "লঘু H₂SO₄ দিয়ে মৃদু গরম করুন",
+    "মুখে লেড অ্যাসিটেট কাগজ ধরুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সালফাইড লবণ",
+    "লঘু H₂SO₄",
+    "লেড অ্যাসিটেট কাগজ"
+   ],
+   "safety_bn": "H₂S বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-073",
+   "chapter_no": 1,
+   "section_no": "1.62",
+   "section_title_bn": "সালফাইড লবণের শনাক্তকরণ বা দ্রবণে সালফাইড আয়ন (S²⁻) এর শনাক্তকরণ",
+   "book_page": 64,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "সোডিয়াম নাইট্রোপ্রুসাইড দিয়ে সালফাইড শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম সালফাইড",
+     "formula": "(NH₄)₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রোপ্রুসাইড",
+     "formula": "Na₂[Fe(NO)(CN)₅]",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "Na₂S",
+     "formula": "Na₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NH₃",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জটিল যৌগ",
+     "formula": "Na₄[Fe(NOS)(CN)₅]",
+     "state": "solution"
+    }
+   ],
+   "equation": "(NH₄)₂S + 2NaOH → Na₂S + 2NH₃↑ + 2H₂O;  Na₂S + Na₂[Fe(NO)(CN)₅] → Na₄[Fe(NOS)(CN)₅]",
+   "conditions": "ক্ষারীয় মাধ্যম",
+   "observations_bn": "গোলাপী বা বেগুনি রং, সালফাইডের নিশ্চিত পরীক্ষা।",
+   "procedure_bn": [
+    "সালফাইড দ্রবণে NaOH দিয়ে ক্ষারীয় করুন",
+    "কয়েক ফোঁটা সোডিয়াম নাইট্রোপ্রুসাইড দিন",
+    "বেগুনি রং দেখুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সালফাইড দ্রবণ",
+    "NaOH",
+    "সোডিয়াম নাইট্রোপ্রুসাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-074",
+   "chapter_no": 1,
+   "section_no": "1.63",
+   "section_title_bn": "পরিবেশের ওপর কতিপয় নাইট্রোজেন ও সালফার যৌগের প্রভাব",
+   "book_page": 64,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্ট্র্যাটোস্ফিয়ারে NO দ্বারা ওজোনের ক্ষয়",
+   "reactants": [
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "NO₂",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "NO₂",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "O₃ + NO → O₂ + NO₂;  NO₂ + O → NO + O₂",
+   "conditions": "স্ট্র্যাটোস্ফিয়ার",
+   "observations_bn": "জেট বিমানের নির্গত NO ওজোনস্তর হালকা করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-075",
+   "chapter_no": 1,
+   "section_no": "1.63",
+   "section_title_bn": "পরিবেশের ওপর কতিপয় নাইট্রোজেন ও সালফার যৌগের প্রভাব",
+   "book_page": 65,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "এসিড বৃষ্টির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "SO₃",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "H₂SO₃",
+     "formula": "H₂SO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HNO₃",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₂ + H₂O → H₂SO₃;  SO₃ + H₂O → H₂SO₄;  4NO₂ + O₂ + 2H₂O → 4HNO₃",
+   "equation_printed": "NO₂ + O₂ + H₂O → HNO₃",
+   "conditions": "বায়ুমণ্ডল",
+   "observations_bn": "বৃষ্টির pH কমে এসিড বৃষ্টি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-02-076",
+   "chapter_no": 1,
+   "section_no": "1.63",
+   "section_title_bn": "পরিবেশের ওপর কতিপয় নাইট্রোজেন ও সালফার যৌগের প্রভাব",
+   "book_page": 65,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্লু গ্যাস ডিসালফারাইজেশন (FGD)",
+   "reactants": [
+    {
+     "name_bn": "চুনাপাথর",
+     "formula": "CaCO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "চুন",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "O₂",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সালফাইট",
+     "formula": "CaSO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "জিপসাম",
+     "formula": "CaSO₄·2H₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ + SO₂ → CaSO₃ + CO₂;  CaO + SO₂ → CaSO₃;  2CaSO₃ + O₂ + 4H₂O → 2(CaSO₄·2H₂O)",
+   "conditions": "চুনাপাথর/চুনের পানি মিশ্রণ",
+   "observations_bn": "ক্ষতিকর SO₂ শোষিত হয়ে জিপসামে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-077",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 65,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রেট লবণে ঘন H₂SO₄ ও HNO₃ এর বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "NaHSO₄",
+     "formula": "NaHSO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "NO₂",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "O₂",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaNO₃ + H₂SO₄ → NaHSO₄ + HNO₃↑ (200°C);  4HNO₃ → 2H₂O + 4NO₂ + O₂ (400°C)",
+   "conditions": "200–400°C",
+   "observations_bn": "HNO₃ বাষ্প বের হয়; আরও গরমে বাদামি NO₂ ও O₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-078",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 66,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রেটের বিজারণ নাইট্রাইটে",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লেড",
+     "formula": "Pb",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "PbO",
+     "formula": "PbO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "CO",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaNO₃ + Pb → NaNO₂ + PbO;  NaNO₃ + C → NaNO₂ + CO",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "NaNO₂ অ্যাজো রঞ্জক তৈরিতে ব্যবহৃত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-079",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 66,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রেট লবণের তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "NaNO₃",
+     "formula": "NaNO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "Al(NO₃)₃",
+     "formula": "Al(NO₃)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "Zn(NO₃)₂",
+     "formula": "Zn(NO₃)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "Pb(NO₃)₂",
+     "formula": "Pb(NO₃)₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "NaNO₂",
+     "formula": "NaNO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "Al₂O₃",
+     "formula": "Al₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ZnO",
+     "formula": "ZnO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "PbO",
+     "formula": "PbO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "NO₂",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "O₂",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaNO₃ → 2NaNO₂ + O₂;  4Al(NO₃)₃ → 2Al₂O₃ + 12NO₂ + 3O₂;  2Zn(NO₃)₂ → 2ZnO + 4NO₂ + O₂;  2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
+   "conditions": "তাপ",
+   "observations_bn": "ক্ষার ধাতুর নাইট্রেট নাইট্রাইট ও O₂ দেয়; ভারী ধাতুর নাইট্রেট অক্সাইড, বাদামি NO₂ ও O₂ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-080",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 66,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সিলভার নাইট্রেট ও অ্যামোনিয়াম নাইট্রেটের তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম নাইট্রেট",
+     "formula": "NH₄NO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার নাইট্রাইট",
+     "formula": "AgNO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "NO",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "O₂",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "N₂O",
+     "formula": "N₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2AgNO₃ → 2AgNO₂ + O₂ (450°C);  2AgNO₂ → 2Ag + 2NO + O₂ (আরও উত্তপ্ত);  NH₄NO₃ → N₂O + 2H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "AgNO₃ ধাপে ধাপে ধাতব Ag দেয়; NH₄NO₃ N₂O ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "লেখায় AgNO₂ বিয়োজনের গ্যাস NO হিসেবে মুদ্রিত"
+  },
+  {
+   "id": "k12-02-081",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 66,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "নাইট্রেট শনাক্তকরণ: কপার ও ঘন H₂SO₄ সহ উত্তপ্ত করা",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কপার গুঁড়া",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "NO₂",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কপার নাইট্রেট",
+     "formula": "Cu(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NaHSO₄",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "4NaNO₃ + 4H₂SO₄ → 4NaHSO₄ + 4HNO₃;  4HNO₃ + Cu → Cu(NO₃)₂ + 2H₂O + 2NO₂↑",
+   "equation_printed": "4HNO₃(ঘন) + Cu → Cu(NO₃)₂ + 2H₂O + 2NO₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বাদামি NO₂ গ্যাস বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-082",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 66,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "বলয় পরীক্ষা (Brown ring test) — নাইট্রেট",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট দ্রবণ",
+     "formula": "NaNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেরাস সালফেট (সদ্য)",
+     "formula": "FeSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ঘন H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পেন্টা-অ্যাকুয়া নাইট্রোসো আয়রন(II) সালফেট",
+     "formula": "[Fe(NO)(H₂O)₅]SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2NaNO₃ + 2H₂SO₄ → 2NaHSO₄ + 2HNO₃;  2HNO₃ + 3H₂SO₄ + 6FeSO₄ → 3Fe₂(SO₄)₃ + 4H₂O + 2NO;  FeSO₄ + NO + 5H₂O → [Fe(NO)(H₂O)₅]SO₄",
+   "equation_printed": "2NaNO₃ + H₂SO₄ → 2NaHSO₄ + 2HNO₃ (ছাপা রূপ অনুযায়ী পূর্ণ মিলানো)",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "দুই তরলের সীমানায় বাদামি বলয় তৈরি হয়।",
+   "procedure_bn": [
+    "নাইট্রেট দ্রবণে সদ্য তৈরি FeSO₄ দ্রবণ মেশান",
+    "পরীক্ষানল কাত করে ঘন H₂SO₄ ধীরে গা বেয়ে ঢালুন",
+    "দুই স্তরের মাঝে বাদামি বলয় দেখুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নাইট্রেট দ্রবণ",
+    "FeSO₄ দ্রবণ",
+    "ঘন H₂SO₄",
+    "পরীক্ষানল"
+   ],
+   "safety_bn": "ঘন H₂SO₄ সাবধানে",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-083",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 66,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নাইট্রাইট শনাক্তকরণ: লঘু এসিড দিয়ে NO₂ বাদামি ধোঁয়া",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লঘু HCl",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NO",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "NO₂",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaNO₂ + HCl → HNO₂ + NaCl;  3HNO₂ → HNO₃ + H₂O + 2NO;  2NO + O₂ → 2NO₂",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বাদামি NO₂ ধোঁয়া দেখা যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-084",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 67,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নাইট্রাইট শনাক্তকরণ: FeSO₄ ও অ্যাসিটিক এসিড",
+   "reactants": [
+    {
+     "name_bn": "NaNO₂ দ্রবণ",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "FeSO₄",
+     "formula": "FeSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যাসিটিক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "HNO₂",
+     "formula": "HNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NO",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "বাদামি জটিল",
+     "formula": "[Fe(NO)(H₂O)₅]SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaNO₂ + CH₃COOH → CH₃COONa + HNO₂;  3HNO₂ → HNO₃ + H₂O + 2NO;  FeSO₄ + NO + 5H₂O → [Fe(NO)(H₂O)₅]SO₄",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "পুরো দ্রবণ বাদামি হয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-085",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 67,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "নাইট্রাইটের ব্রোমিন দ্বারা জারণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন পানি",
+     "formula": "Br₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HBr",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaNO₂ + Br₂ + H₂O → NaNO₃ + 2HBr",
+   "equation_printed": "NaNO₂ + Br₂ → NaNO₃ + 2HBr (পানি অনুপস্থিত)",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ব্রোমিনের বাদামি রং নষ্ট হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-02-086",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 67,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নাইট্রাইট ও অম্লীয় KMnO₄",
+   "reactants": [
+    {
+     "name_bn": "NaNO₂",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লঘু H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "NaHSO₄",
+     "formula": "NaHSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HNO₃",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "K₂SO₄",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "MnSO₄",
+     "formula": "MnSO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "5NaNO₂ + 5H₂SO₄ → 5NaHSO₄ + 5HNO₂;  2KMnO₄ + 3H₂SO₄ + 5HNO₂ → K₂SO₄ + 2MnSO₄ + 3H₂O + 5HNO₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "KMnO₄ এর বেগুনি রং বিবর্ণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-087",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 67,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নাইট্রাইট ও KI দিয়ে আয়োডিন",
+   "reactants": [
+    {
+     "name_bn": "NaNO₂",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "KI",
+     "formula": "KI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লঘু H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NO",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaNO₂ + 2H₂SO₄ → 2NaHSO₄ + 2HNO₂;  2KI + 2H₂SO₄ → 2KHSO₄ + 2HI;  2HI + 2HNO₂ → I₂ + 2H₂O + 2NO",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "আয়োডিন মুক্ত হয়ে দ্রবণ বাদামি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-088",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 67,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়ামসহ হাইড্রেটেড সালফেটের তাপীয় বিয়োজন: জিপসাম ও জিংক সালফেট",
+   "reactants": [
+    {
+     "name_bn": "জিপসাম",
+     "formula": "CaSO₄·2H₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সাদা ভিট্রিওল",
+     "formula": "ZnSO₄·7H₂O",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেমিহাইড্রেট",
+     "formula": "2CaSO₄·H₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "CaSO₄",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "CaO",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "SO₃",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ZnSO₄",
+     "formula": "ZnSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ZnO",
+     "formula": "ZnO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "O₂",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2CaSO₄·2H₂O → (CaSO₄)₂·H₂O + 3H₂O (120°C);  (CaSO₄)₂·H₂O → 2CaSO₄ + H₂O (200°C);  CaSO₄ → CaO + SO₃ (800°C);  ZnSO₄·7H₂O → ZnSO₄·H₂O + 6H₂O (70°C);  ZnSO₄·H₂O → ZnSO₄ + H₂O (280°C);  2ZnSO₄ → 2ZnO + 2SO₂ + O₂ (800°C)",
+   "equation_printed": "2CaSO₄·2H₂O → 2CaSO₄·H₂O (পানি যুক্ত হয়নি)",
+   "conditions": "ধাপে ধাপে উচ্চ তাপমাত্রা",
+   "observations_bn": "প্রথমে কেলাস পানি বের হয়, পরে সালফেট ভেঙে অক্সাইড ও SO₂/SO₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-02-089",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 68,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সবুজ ভিট্রিওলের তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "সবুজ ভিট্রিওল",
+     "formula": "FeSO₄·7H₂O",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "FeSO₄",
+     "formula": "FeSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ফেরিক অক্সাইড",
+     "formula": "Fe₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "SO₃",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "FeSO₄·7H₂O → FeSO₄ + 7H₂O;  2FeSO₄ → Fe₂O₃ + SO₂ + SO₃",
+   "conditions": "তাপ",
+   "observations_bn": "শেষে লাল Fe₂O₃ (জুয়েলারস রুজ) থেকে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-090",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 68,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফেটের কার্বন বিজারণে সালফাইড",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন গুঁড়া",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "Na₂SO₄ + 4C → Na₂S + 4CO",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "সালফেট বিজারিত হয়ে সালফাইডে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-091",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 68,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "সালফেটের Pb(CH₃COO)₂ দিয়ে শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড অ্যাসিটেট",
+     "formula": "Pb(CH₃COO)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড সালফেট",
+     "formula": "PbSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম অ্যাসিটেট",
+     "formula": "CH₃COOK",
+     "state": "solution"
+    }
+   ],
+   "equation": "K₂SO₄ + Pb(CH₃COO)₂ → PbSO₄↓ + 2CH₃COOK",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "সাদা PbSO₄ অধঃক্ষেপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-092",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 68,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফাইট লবণের তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃·7H₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম সালফাইট",
+     "formula": "CaSO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "CaO",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "Na₂SO₃·7H₂O → 2NaOH + 6H₂O + SO₂;  CaSO₃ → CaO + SO₂",
+   "equation_printed": "Na₂SO₃·7H₂O → 2NaOH + 6H₂O + SO₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "SO₂ গ্যাস নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-093",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 68,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "সালফাইটের ব্রোমিন পানি দিয়ে জারণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন পানি",
+     "formula": "Br₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HBr",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₃ + Br₂ + H₂O → Na₂SO₄ + 2HBr",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ব্রোমিন পানির বাদামি রং চলে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-094",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 68,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "সালফাইট শনাক্তকরণ: আয়োডেট-স্টার্চ পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লঘু HCl",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডেট",
+     "formula": "NaIO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "স্টার্চ দ্রবণ",
+     "formula": "স্টার্চ",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "NaHSO₄",
+     "formula": "NaHSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₃ + 2HCl → 2NaCl + H₂O + SO₂;  2NaIO₃ + 5SO₂ + 4H₂O → 2NaHSO₄ + 3H₂SO₄ + I₂;  I₂ + স্টার্চ → গাঢ় নীল",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "আয়োডিন মুক্ত হয়, স্টার্চ যোগে গাঢ় নীল রং আসে।",
+   "procedure_bn": [
+    "সালফাইট লবণে লঘু HCl দিয়ে SO₂ তৈরি করুন",
+    "NaIO₃ দ্রবণ যোগ করুন",
+    "স্টার্চ যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সালফাইট",
+    "লঘু HCl",
+    "NaIO₃",
+    "স্টার্চ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-095",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 68,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "সালফাইট ও লেড অ্যাসিটেট",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড অ্যাসিটেট",
+     "formula": "Pb(CH₃COO)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড সালফাইট",
+     "formula": "PbSO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₃ + Pb(CH₃COO)₂ → PbSO₃↓ + 2CH₃COONa",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "সাদা PbSO₃ অধঃক্ষেপ, ঠান্ডা লঘু HNO₃ এ দ্রবীভূত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-096",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 69,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "PbSO₃ এর HNO₃ এ দ্রবণ ও উত্তপ্ত করলে PbSO₄",
+   "reactants": [
+    {
+     "name_bn": "লেড সালফাইট",
+     "formula": "PbSO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লঘু HNO₃",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "Pb(NO₃)₂",
+     "formula": "Pb(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂SO₃",
+     "formula": "H₂SO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড সালফেট",
+     "formula": "PbSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "NO₂",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "PbSO₃ + 2HNO₃ → Pb(NO₃)₂ + H₂SO₃;  H₂SO₃ + 2HNO₃ → H₂SO₄ + 2NO₂ + H₂O;  H₂SO₄ + Pb(NO₃)₂ → PbSO₄↓ + 2HNO₃",
+   "equation_printed": "H₂SO₃ + 2HNO₃ → H₂SO₄ + 2NO₂ + H₂O (ছাপা রূপে পূর্ণ)",
+   "conditions": "ঠান্ডা লঘু HNO₃ এ দ্রবীভূত; গরম করলে সাদা PbSO₄",
+   "observations_bn": "গরমে সাদা লেড সালফেট পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-02-097",
+   "chapter_no": 1,
+   "section_no": "1.64",
+   "section_title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "book_page": 69,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "সালফাইট ও KMnO₄ (SO₂ চালনা)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লঘু HCl",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "KMnO₄",
+     "formula": "KMnO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "SO₂",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "K₂SO₄",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "MnSO₄",
+     "formula": "MnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₃ + 2HCl → H₂O + SO₂ + 2NaCl;  2KMnO₄ + 5SO₂ + 2H₂O → K₂SO₄ + 2MnSO₄ + 2H₂SO₄",
+   "equation_printed": "2KMnO₄ + 5SO₂ + 5H₂O → 2KHSO₄ + MnSO₄ + H₂SO₄ + 3H₂O (পরিপূর্ণ পড়া যায়নি, Mn ভারসাম্যহীন)",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "গোলাপী KMnO₄ বর্ণহীন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 1,
+   "no": "1.38",
+   "title_bn": "গ্রুপ-VIA মৌল : অক্সিজেন ও সালফার",
+   "start_page": 36
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.39",
+   "title_bn": "গ্রুপ-VIA মৌলসমূহের পর্যায়ভিত্তিক ধর্ম",
+   "start_page": 36
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.40",
+   "title_bn": "অক্সিজেন ও সালফারের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "start_page": 37
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.41",
+   "title_bn": "অক্সিজেন ও সালফারের মধ্যে তুলনা",
+   "start_page": 40
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.42",
+   "title_bn": "অক্সিজেনের অবস্থান, উৎপাদন ও ব্যবহার",
+   "start_page": 41
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.43",
+   "title_bn": "সালফারের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "start_page": 42
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.44",
+   "title_bn": "অক্সিজেন ও সালফার মৌলের বহুরূপতা",
+   "start_page": 42
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.45",
+   "title_bn": "পর্যায় সারণিতে O ও S এর অবস্থান ও বন্ধন গঠন",
+   "start_page": 43
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.46",
+   "title_bn": "অক্সিজেন ও সালফারের বিভিন্ন যৌগসমূহ",
+   "start_page": 43
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.47",
+   "title_bn": "অক্সাইডসমূহ",
+   "start_page": 43
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.47(ক)",
+   "title_bn": "অক্সাইডসমূহের শ্রেণীবিভাগ",
+   "start_page": 44
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.48",
+   "title_bn": "অক্সাইডসমূহের অর্থনৈতিক গুরুত্ব",
+   "start_page": 46
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.49",
+   "title_bn": "সালফাইডসমূহ",
+   "start_page": 48
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.50",
+   "title_bn": "সালফাইড আকরিকের অর্থনৈতিক গুরুত্ব",
+   "start_page": 49
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.51",
+   "title_bn": "সালফারের অক্সাইডসমূহ",
+   "start_page": 49
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.52",
+   "title_bn": "সালফার ডাইঅক্সাইড SO₂",
+   "start_page": 49
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.53",
+   "title_bn": "SO₂ গ্যাস, সালফিউরাস এসিড ও সালফাইটের বিক্রিয়া",
+   "start_page": 51
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.53.1",
+   "title_bn": "SO₂ এর ব্যবহার",
+   "start_page": 52
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.54",
+   "title_bn": "সালফার ট্রাইঅক্সাইড বা সালফার (VI) অক্সাইড, SO₃",
+   "start_page": 52
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.55",
+   "title_bn": "শিল্পক্ষেত্রে H₂SO₄ এর অবস্থান বা গুরুত্ব",
+   "start_page": 53
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.56",
+   "title_bn": "স্পর্শ পদ্ধতিতে সালফিউরিক এসিডের শিল্পোৎপাদন",
+   "start_page": 54
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.57",
+   "title_bn": "অলিয়াম ও বিশুদ্ধ সালফিউরিক এসিড",
+   "start_page": 57
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.58",
+   "title_bn": "H₂SO₄ এর ভৌত ধর্ম",
+   "start_page": 57
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.59",
+   "title_bn": "H₂SO₄ এর রাসায়নিক ধর্ম",
+   "start_page": 57
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.60",
+   "title_bn": "পরীক্ষাগারে H₂S গ্যাসের ক্রমাগত সরবরাহ : কিপ যন্ত্রে H₂S প্রস্তুতি",
+   "start_page": 60
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.61",
+   "title_bn": "H₂S এর রাসায়নিক ধর্ম",
+   "start_page": 61
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.62",
+   "title_bn": "সালফাইড লবণের শনাক্তকরণ বা দ্রবণে সালফাইড আয়ন (S²⁻) এর শনাক্তকরণ",
+   "start_page": 64
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.63",
+   "title_bn": "পরিবেশের ওপর কতিপয় নাইট্রোজেন ও সালফার যৌগের প্রভাব",
+   "start_page": 64
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.64",
+   "title_bn": "কয়েকটি ঋণাত্মক আয়নের গুরুত্বপূর্ণ বিক্রিয়া",
+   "start_page": 65
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "pdf 85-86 (printed 70-71) চ্যাপ্টার সারাংশ ও প্রশ্নব্যাংক; কোনো বিক্রিয়া নেওয়া হয়নি। অধ্যায় ১ এর মধ্যে ধারাবাহিক সেকশন নম্বর 1.38 থেকে। 1.53.1 ও 1.47(ক) উপ-শিরোনাম।"
+}

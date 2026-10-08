@@ -1,0 +1,3337 @@
+{
+ "book": "NCTB Class 11 Chemistry (First Paper) - Chapter 4 Chemical Changes",
+ "chunk_pdf_pages": [
+  423,
+  457
+ ],
+ "page_offset_note": "printed page = pdf page + 2 (pdf 423 = printed 425)",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-13-01",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 429,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়া ও NaOCl থেকে হাইড্রাজিন (এটম ইকোনমি উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইপোক্লোরাইট",
+     "formula": "NaOCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রাজিন",
+     "formula": "N₂H₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NH₃ + NaOCl → N₂H₄ + NaCl + H₂O",
+   "conditions": "শিল্প পদ্ধতি",
+   "observations_bn": "এটম ইকোনমি হিসাবের উদাহরণ; কাঙ্ক্ষিত উৎপাদ হাইড্রাজিন।",
+   "procedure_bn": [],
+   "quantities_bn": "এটম ইকোনমি = 32/(32+58.5+18)×100 = 29.49%",
+   "materials_bn": [
+    "NH₃",
+    "NaOCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-02",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 429,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ব্রোমোইথেন ও কস্টিক সোডা থেকে ইথানল (এটম ইকোনমি উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমোইথেন",
+     "formula": "CH₃CH₂Br",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CH₂Br + NaOH → CH₃CH₂OH + NaBr",
+   "conditions": "জলীয় ক্ষার, হালকা গরম (বইয়ে শর্ত উল্লেখ নেই)",
+   "observations_bn": "কাঙ্ক্ষিত উৎপাদ ইথানল; সঙ্গে NaBr বর্জ্য।",
+   "procedure_bn": [],
+   "quantities_bn": "এটম ইকোনমি = 46/(46+103)×100 = 30.87%",
+   "materials_bn": [
+    "CH₃CH₂Br",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-03",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 429,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্লুকোজ থেকে ইথানল (এটম ইকোনমি উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₁₂O₆ → 2CH₃CH₂OH + 2CO₂",
+   "conditions": "গাঁজন (বইয়ে এনজাইম উল্লেখ নেই)",
+   "observations_bn": "কাঙ্ক্ষিত উৎপাদ ইথানল।",
+   "procedure_bn": [],
+   "quantities_bn": "এটম ইকোনমি = 92/(92+88)×100 = 51.11%",
+   "materials_bn": [
+    "গ্লুকোজ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-04",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 433,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO₂ ও পানির বিক্রিয়ায় কার্বনিক অ্যাসিড (অ্যাসিড বৃষ্টি)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বনিক অ্যাসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "CO₂ + H₂O → H₂CO₃",
+   "conditions": "room temp",
+   "observations_bn": "বৃষ্টির পানিতে গ্যাস মিশে দুর্বল অ্যাসিড তৈরি করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CO₂",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-05",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 433,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ ও পানির বিক্রিয়ায় সালফিউরাস অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরাস অ্যাসিড",
+     "formula": "H₂SO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₂ + H₂O → H₂SO₃",
+   "conditions": "room temp",
+   "observations_bn": "অ্যাসিড বৃষ্টির একটি উৎস।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "পানি"
+   ],
+   "safety_bn": "SO₂ বিষাক্ত গ্যাস; ফিউম হুডে কাজ করতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-06",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 433,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO₂, পানি ও O₂ থেকে নাইট্রিক অ্যাসিড (অ্যাসিড বৃষ্টি)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "4NO₂ + 2H₂O + O₂ → 4HNO₃",
+   "conditions": "বায়ুমণ্ডলে",
+   "observations_bn": "বৃষ্টির সাথে মিশে শক্তিশালী অ্যাসিড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NO₂",
+    "পানি",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-07",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 434,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কাগজ ব্লিচিংয়ে Cl₂ ও SO₂ এর পুরনো ব্যবহার",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাসেন্ট অক্সিজেন",
+     "formula": "[O]",
+     "state": "gas"
+    }
+   ],
+   "equation": "Cl₂ + H₂O → 2HCl + [O]",
+   "conditions": "পুরনো শিল্প পদ্ধতি; এখন H₂O₂ ব্যবহার",
+   "observations_bn": "ব্লিচিং ক্রিয়ার উৎস অক্সিজেন; ক্ষতিকর বলে H₂O₂ দিয়ে প্রতিস্থাপিত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cl₂",
+    "H₂O"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "equation_printed": "Cl₂ + H₂O → 2HCl + (O)",
+   "notes": "SO₂ এর সমীকরণ পরের আইটেমে।"
+  },
+  {
+   "id": "k11-13-08",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 434,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ ও পানি থেকে H₂SO₄ ও [H] (ব্লিচিংয়ে পুরনো পদ্ধতি)",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাসেন্ট হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "equation": "SO₂ + 2H₂O → H₂SO₄ + 2[H]",
+   "conditions": "পুরনো শিল্প পদ্ধতি",
+   "observations_bn": "বিজারণ-ব্লিচিং ক্রিয়ার উৎস হাইড্রোজেন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "H₂O"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "equation_printed": "SO₂ + 2H₂O → H₂SO₄ + 2(H)"
+  },
+  {
+   "id": "k11-13-09",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 434,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিটাইল ক্লোরাইড ও H₂ থেকে অ্যাসিটালডিহাইড (পুরনো Pd/BaSO₄ পদ্ধতি)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটাইল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটালডিহাইড",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + H₂ → CH₃CHO + HCl",
+   "conditions": "Pd/BaSO₄ প্রভাবক",
+   "observations_bn": "BaSO₄ বিষাক্ত বলে এখন Cu²⁺ ও Pd²⁺ জলীয় দ্রবণ ব্যবহৃত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "H₂",
+    "Pd/BaSO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-10",
+   "chapter_no": 4,
+   "section_no": "4.1",
+   "section_title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "book_page": 434,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিলিন থেকে অ্যাসিটালডিহাইড (Pd²⁺, Cu²⁺ জলীয় দ্রবণ)",
+   "reactants": [
+    {
+     "name_bn": "ইথিলিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটালডিহাইড",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3CH₂=CH₂ + O₃ → 3CH₃CHO",
+   "conditions": "প্রভাবক Pd²⁺, Cu²⁺; জলীয় মাধ্যম",
+   "observations_bn": "আধুনিক পরিবেশবান্ধব পদ্ধতি হিসেবে বইয়ে দেখানো।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথিলিন",
+    "O₃",
+    "Pd²⁺",
+    "Cu²⁺"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "equation_printed": "3CH₂=CH₂ + O₃ → 3CH₃CHO (প্রিন্ট পড়া কঠিন, ছাপা রূপ রাখা হয়েছে)"
+  },
+  {
+   "id": "k11-13-11",
+   "chapter_no": 4,
+   "section_no": "4.2.1",
+   "section_title_bn": "একমুখী বিক্রিয়া",
+   "book_page": 435,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেনের দহন",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + 2O₂ → CO₂ + 2H₂O",
+   "conditions": "দহন (শিখা)",
+   "observations_bn": "একমুখী বিক্রিয়ার উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₄",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-12",
+   "chapter_no": 4,
+   "section_no": "4.2.1",
+   "section_title_bn": "একমুখী বিক্রিয়া",
+   "book_page": 435,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "তীব্র অ্যাসিড ও তীব্র ক্ষারের প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "লবণ ও পানি তৈরি হয়; তাপ নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaOH দ্রবণ",
+    "HCl দ্রবণ",
+    "ইন্ডিকেটর"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-13",
+   "chapter_no": 4,
+   "section_no": "4.2.1",
+   "section_title_bn": "একমুখী বিক্রিয়া",
+   "book_page": 435,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বনের দহন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C(s) + O₂(g) → CO₂(g)",
+   "conditions": "দহন",
+   "observations_bn": "একমুখী বিক্রিয়ার উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কার্বন",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-14",
+   "chapter_no": 4,
+   "section_no": "4.2.1",
+   "section_title_bn": "একমুখী বিক্রিয়া",
+   "book_page": 435,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "KClO₃ এর তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ক্লোরেট",
+     "formula": "KClO₃",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2KClO₃(s) → 2KCl(s) + 3O₂(g)",
+   "conditions": "heat (>100 °C)",
+   "observations_bn": "গরম করলে অক্সিজেন নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KClO₃"
+   ],
+   "safety_bn": "দাহ্য বস্তু থেকে দূরে রাখতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-15",
+   "chapter_no": 4,
+   "section_no": "4.2.1",
+   "section_title_bn": "একমুখী বিক্রিয়া",
+   "book_page": 435,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "CuSO₄ দ্রবণে লোহার গুঁড়া দিয়ে একমুখী বিক্রিয়া পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আয়রন",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(II) সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "CuSO₄(aq) + Fe(s) → FeSO₄(aq) + Cu(s)",
+   "conditions": "room temp",
+   "observations_bn": "নীল রং ফিকে হয় এবং লালচে বাদামি কপার জমে।",
+   "procedure_bn": [
+    "পরিষ্কার টেস্টটিউবে নীল CuSO₄ দ্রবণ নাও।",
+    "লোহার গুঁড়া মিশিয়ে কিছুক্ষণ রাখো।",
+    "দ্রবণের রং ও তলানি লক্ষ করো।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টেস্টটিউব",
+    "CuSO₄ দ্রবণ",
+    "লোহার গুঁড়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-16",
+   "chapter_no": 4,
+   "section_no": "4.2.2",
+   "section_title_bn": "উভমুখী বিক্রিয়া",
+   "book_page": 436,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CuSO₄·5H₂O এর উভমুখী বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট পেন্টাহাইড্রেট",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অনার্দ্র কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O",
+   "conditions": "260 °C তাপ; ঠান্ডা করলে বিপরীত",
+   "observations_bn": "গরমে নীল কেলাস সাদা হয়; ঠান্ডা করলে পানি মিলে আবার নীল হয়।",
+   "procedure_bn": [
+    "শক্ত টেস্টটিউবে নীল কেলাস নিয়ে মুখে কর্ক লাগাও।",
+    "গরম করে সাদা হওয়া দেখো।",
+    "ধীরে ঠান্ডা করে রং ফেরা দেখো।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নীল তুতে",
+    "টেস্টটিউব",
+    "কর্ক",
+    "বার্নার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-17",
+   "chapter_no": 4,
+   "section_no": "4.2.2",
+   "section_title_bn": "উভমুখী বিক্রিয়া",
+   "book_page": 436,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂ ও I₂ থেকে HI এর উভমুখী বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + I₂(g) ⇌ 2HI(g)",
+   "conditions": "450 °C, বদ্ধ পাত্র",
+   "observations_bn": "বেগুনি আয়োডিন বাষ্পের রং ফিকে হয়; বিপরীতে HI ভেঙে H₂ ও I₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "সাম্যে বিক্রিয়কের প্রায় 80% উৎপাদে রূপান্তরিত, প্রায় 20% অবশিষ্ট (পৃ. 457)",
+   "materials_bn": [
+    "H₂",
+    "I₂ বাষ্প"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-18",
+   "chapter_no": 4,
+   "section_no": "4.2.2",
+   "section_title_bn": "উভমুখী বিক্রিয়া",
+   "book_page": 437,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂ ও H₂ থেকে NH₃ (উভমুখী)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+   "conditions": "ΔH = -92.38 kJ; প্রভাবক Fe",
+   "observations_bn": "গঠনে তাপ ছাড়ে, বিয়োজনে সমপরিমাণ তাপ শোষণ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-19",
+   "chapter_no": 4,
+   "section_no": "4.2.2",
+   "section_title_bn": "উভমুখী বিক্রিয়া",
+   "book_page": 437,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "FeCl₃ এর আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(III) ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) হাইড্রক্সাইড",
+     "formula": "Fe(OH)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeCl₃ + 3H₂O ⇌ Fe(OH)₃ + 3HCl",
+   "conditions": "room temp",
+   "observations_bn": "উভমুখী বিক্রিয়ার উদাহরণ হিসেবে দেওয়া।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeCl₃ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইয়ে Fe(OH)₃ কে (aq) লেখা।"
+  },
+  {
+   "id": "k11-13-20",
+   "chapter_no": 4,
+   "section_no": "4.2.2",
+   "section_title_bn": "উভমুখী বিক্রিয়া",
+   "book_page": 437,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CaCO₃ এর তাপীয় বিয়োজন (আবদ্ধ ও খোলা পাত্র)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃(s) ⇌ CaO(s) + CO₂(g)",
+   "conditions": "800 °C",
+   "observations_bn": "আবদ্ধ পাত্রে উভমুখী, খোলা পাত্রে CO₂ বেরিয়ে গিয়ে একমুখী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CaCO₃",
+    "বার্নার"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "আবদ্ধ/খোলা পাত্রের পার্থক্য পৃ. ৪৩৮ এ।"
+  },
+  {
+   "id": "k11-13-21",
+   "chapter_no": 4,
+   "section_no": "4.2.2",
+   "section_title_bn": "উভমুখী বিক্রিয়া",
+   "book_page": 437,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিটিক অ্যাসিড ও ইথানল থেকে এস্টার (উভমুখী)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল অ্যাসিটেট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH(aq) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l)",
+   "conditions": "অ্যাসিড প্রভাবক (পৃ. ৪৩৮, ৪৫৬)",
+   "observations_bn": "উভমুখী বিক্রিয়া; এস্টার সরালে একমুখী হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COOH",
+    "C₂H₅OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-22",
+   "chapter_no": 4,
+   "section_no": "4.2.2",
+   "section_title_bn": "উভমুখী বিক্রিয়া",
+   "book_page": 438,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NaCl ও AgNO₃ দিয়ে উৎপাদ অধঃক্ষেপ করে বিক্রিয়া একমুখী করা",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaCl(aq) + AgNO₃(aq) → AgCl↓ + NaNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা AgCl অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaCl দ্রবণ",
+    "AgNO₃ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-23",
+   "chapter_no": 4,
+   "section_no": "4.2.2",
+   "section_title_bn": "উভমুখী বিক্রিয়া",
+   "book_page": 438,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথাইল অ্যাসিটেট ও NaOH (এস্টারের একমুখী বিক্রিয়া)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল অ্যাসিটেট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOC₂H₅ + NaOH → CH₃CH₂OH + CH₃COONa",
+   "conditions": "NaOH মিশিয়ে; বইয়ে তাপের উল্লেখ নেই",
+   "observations_bn": "সোডিয়াম অ্যাসিটেট তৈরি হয়ে বিপরীত বিক্রিয়া ঠেকায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথাইল অ্যাসিটেট",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-24",
+   "chapter_no": 4,
+   "section_no": "4.3",
+   "section_title_bn": "বিক্রিয়ার গতি বা হার",
+   "book_page": 439,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₅ এর বিয়োজন (গড় হার নির্ণয়ের উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+     "formula": "N₂O₅",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2N₂O₅(g) ⇌ 4NO₂(g) + O₂(g)",
+   "conditions": "",
+   "observations_bn": "NO₂ গড় হার হিসাবের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "6 s এ NO₂ এর ঘনমাত্রা 3.0×10⁻³ mol L⁻¹ বাড়ে; গড় হার = 1.25×10⁻⁴ mol L⁻¹ s⁻¹",
+   "materials_bn": [
+    "N₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-25",
+   "chapter_no": 4,
+   "section_no": "4.3",
+   "section_title_bn": "বিক্রিয়ার গতি বা হার",
+   "book_page": 440,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PCl₅ এর বিয়োজনে হারের রাশিমালা",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "PCl₅(g) → PCl₃(g) + Cl₂(g)",
+   "conditions": "",
+   "observations_bn": "হার = -Δ[PCl₅]/Δt = Δ[PCl₃]/Δt = Δ[Cl₂]/Δt।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "PCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-26",
+   "chapter_no": 4,
+   "section_no": "4.3",
+   "section_title_bn": "বিক্রিয়ার গতি বা হার",
+   "book_page": 440,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO₂ এর বিয়োজন (হারের উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NO₂(g) → 2NO(g) + O₂(g)",
+   "conditions": "",
+   "observations_bn": "হার = -Δ[NO₂]/2Δt = Δ[NO]/2Δt = Δ[O₂]/Δt।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NO₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-27",
+   "chapter_no": 4,
+   "section_no": "4.3",
+   "section_title_bn": "বিক্রিয়ার গতি বা হার",
+   "book_page": 440,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO₂ ও CO এর বিক্রিয়া (সমান সহগের উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "NO₂(g) + CO(g) → CO₂(g) + NO(g)",
+   "conditions": "",
+   "observations_bn": "NO₂ গাঢ় বাদামি, তাই এর রং ফিকে হওয়া দিয়ে হার মাপা সহজ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NO₂",
+    "CO"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-28",
+   "chapter_no": 4,
+   "section_no": "4.3",
+   "section_title_bn": "বিক্রিয়ার গতি বা হার",
+   "book_page": 441,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂ ও I₂ থেকে HI গঠনের হার",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + I₂(g) → 2HI(g)",
+   "conditions": "",
+   "observations_bn": "হার = -Δ[H₂]/Δt = -Δ[I₂]/Δt = ½Δ[HI]/Δt।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "H₂",
+    "I₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-29",
+   "chapter_no": 4,
+   "section_no": "4.4.2",
+   "section_title_bn": "বিক্রিয়ার ক্রম ও আণবিকত্ব",
+   "book_page": 443,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂ ও Cl₂ এর শূন্য ক্রম বিক্রিয়া (সূর্যালোকে)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + Cl₂(g) → 2HCl(g)",
+   "conditions": "সূর্যালোক",
+   "observations_bn": "অন্ধকারে ঘটে না; আলোয় শূন্য ক্রম।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "H₂",
+    "Cl₂"
+   ],
+   "safety_bn": "বিস্ফোরণ ঝুঁকি।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-30",
+   "chapter_no": 4,
+   "section_no": "4.4.2",
+   "section_title_bn": "বিক্রিয়ার ক্রম ও আণবিকত্ব",
+   "book_page": 443,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₅ এর প্রথম ক্রম বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+     "formula": "N₂O₅",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন টেট্রঅক্সাইড",
+     "formula": "N₂O₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂O₅(g) → N₂O₄(g) + ½O₂(g)",
+   "conditions": "",
+   "observations_bn": "প্রথম ক্রম বিক্রিয়ার উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-31",
+   "chapter_no": 4,
+   "section_no": "4.4.2",
+   "section_title_bn": "বিক্রিয়ার ক্রম ও আণবিকত্ব",
+   "book_page": 443,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিটালডিহাইডের তাপীয় বিয়োজন (দ্বিতীয় ক্রম)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটালডিহাইড",
+     "formula": "CH₃CHO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "2CH₃CHO → 2CH₄ + 2CO",
+   "conditions": "তাপ",
+   "observations_bn": "দ্বিতীয় ক্রমের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃CHO"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-32",
+   "chapter_no": 4,
+   "section_no": "4.4.2",
+   "section_title_bn": "বিক্রিয়ার ক্রম ও আণবিকত্ব",
+   "book_page": 443,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2NO + O₂ → 2NO₂ (তৃতীয় ক্রম)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NO(g) + O₂ → 2NO₂(g)",
+   "conditions": "",
+   "observations_bn": "তৃতীয় ক্রমের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NO",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-33",
+   "chapter_no": 4,
+   "section_no": "4.4.2",
+   "section_title_bn": "বিক্রিয়ার ক্রম ও আণবিকত্ব",
+   "book_page": 443,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2NO + Cl₂ → 2NOCl (তৃতীয় ক্রম)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোসিল ক্লোরাইড",
+     "formula": "NOCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NO(g) + Cl₂(g) → 2NOCl(g)",
+   "conditions": "",
+   "observations_bn": "তৃতীয় ক্রমের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NO",
+    "Cl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-34",
+   "chapter_no": 4,
+   "section_no": "4.4.2",
+   "section_title_bn": "বিক্রিয়ার ক্রম ও আণবিকত্ব",
+   "book_page": 443,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "FeCl₃ ও SnCl₂ এর বিক্রিয়া (তৃতীয় ক্রম)",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(III) ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "টিন(II) ক্লোরাইড",
+     "formula": "SnCl₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(II) ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "টিন(IV) ক্লোরাইড",
+     "formula": "SnCl₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2FeCl₃ + SnCl₂ → 2FeCl₂ + SnCl₄",
+   "conditions": "room temp",
+   "observations_bn": "তৃতীয় ক্রমের উদাহরণ হিসেবে দেওয়া।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeCl₃ দ্রবণ",
+    "SnCl₂ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-35",
+   "chapter_no": 4,
+   "section_no": "4.4.2",
+   "section_title_bn": "বিক্রিয়ার ক্রম ও আণবিকত্ব",
+   "book_page": 443,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ ও NO₂ এর বিক্রিয়া (দ্বি-আণবিক উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "SO₂(g) + NO₂(g) → SO₃(g) + NO(g)",
+   "conditions": "",
+   "observations_bn": "আণবিকত্বের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "NO₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-36",
+   "chapter_no": 4,
+   "section_no": "4.4.2",
+   "section_title_bn": "বিক্রিয়ার ক্রম ও আণবিকত্ব",
+   "book_page": 444,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "মিথাইল অ্যাসিটেটের অম্লীয় আর্দ্র বিশ্লেষণ (ছদ্ম এক-আণবিক)",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল অ্যাসিটেট",
+     "formula": "CH₃COOCH₃",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটিক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOCH₃ + H₂O → CH₃COOH + CH₃OH",
+   "conditions": "H⁺ প্রভাবক",
+   "observations_bn": "পানি অতিরিক্ত থাকায় হার এস্টারের ঘনমাত্রার ওপর নির্ভর করে; প্রথম ক্রম।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মিথাইল অ্যাসিটেট",
+    "লঘু অ্যাসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-37",
+   "chapter_no": 4,
+   "section_no": "4.5.1",
+   "section_title_bn": "বিক্রিয়ার গতির উপর তাপমাত্রার প্রভাব",
+   "book_page": 445,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₄ ⇌ 2NO₂ (তাপগ্রাহী)",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন টেট্রঅক্সাইড",
+     "formula": "N₂O₄",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂O₄(g) ⇌ 2NO₂(g)",
+   "conditions": "ΔH = +57 kJ mol⁻¹",
+   "observations_bn": "তাপ বাড়ালে সাম্য ডানে সরে NO₂ বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂O₄/NO₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-38",
+   "chapter_no": 4,
+   "section_no": "4.5.1",
+   "section_title_bn": "বিক্রিয়ার গতির উপর তাপমাত্রার প্রভাব",
+   "book_page": 445,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PCl₅ ⇌ PCl₃ + Cl₂ (তাপগ্রাহী)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+   "conditions": "ΔH = +90 kJ mol⁻¹",
+   "observations_bn": "তাপমাত্রা বাড়ালে উৎপাদের পরিমাণ বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "PCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-39",
+   "chapter_no": 4,
+   "section_no": "4.5.1",
+   "section_title_bn": "বিক্রিয়ার গতির উপর তাপমাত্রার প্রভাব",
+   "book_page": 447,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO + 2H₂ ⇌ CH₃OH এর সক্রিয়ণ শক্তি হিসাব",
+   "reactants": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "gas"
+    }
+   ],
+   "equation": "CO(g) + 2H₂(g) ⇌ CH₃OH(g)",
+   "conditions": "55 °C ও 65 °C",
+   "observations_bn": "তাপমাত্রা 10 °C বাড়ালে বেগ ধ্রুবক দ্বিগুণ।",
+   "procedure_bn": [],
+   "quantities_bn": "Ea = 63.131 kJ mol⁻¹ (আরহেনিয়াস সমীকরণ)",
+   "materials_bn": [
+    "CO",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-40",
+   "chapter_no": 4,
+   "section_no": "4.5.1",
+   "section_title_bn": "বিক্রিয়ার গতির উপর তাপমাত্রার প্রভাব",
+   "book_page": 448,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂ + I₂ ⇌ 2HI এর সক্রিয়ণ শক্তি হিসাব",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + I₂(g) ⇌ 2HI(g)",
+   "conditions": "227 °C ও 257 °C",
+   "observations_bn": "বেগ ধ্রুবক 1.95×10⁻⁴ ও 1.75×10⁻³ L mol⁻¹ s⁻¹।",
+   "procedure_bn": [],
+   "quantities_bn": "Ea = 161.18 kJ mol⁻¹",
+   "materials_bn": [
+    "H₂",
+    "I₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-41",
+   "chapter_no": 4,
+   "section_no": "4.5.2",
+   "section_title_bn": "বিক্রিয়ার গতির উপর চাপের প্রভাব",
+   "book_page": 449,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ ও O₂ থেকে SO₃ (চাপের প্রভাব)",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+   "conditions": "চাপ বাড়ালে ডানে, কমালে বামে সরে",
+   "observations_bn": "মোল সংখ্যা কমে বলে উচ্চ চাপে SO₃ বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-42",
+   "chapter_no": 4,
+   "section_no": "4.6",
+   "section_title_bn": "প্রভাবক ও এর প্রকারভেদ",
+   "book_page": 451,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Fe প্রভাবকে অ্যামোনিয়া সংশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) → 2NH₃(g)",
+   "conditions": "প্রভাবক Fe (চূর্ণ)",
+   "observations_bn": "সামান্য লোহা প্রচুর NH₃ উৎপাদনে যথেষ্ট।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂",
+    "H₂",
+    "Fe চূর্ণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-43",
+   "chapter_no": 4,
+   "section_no": "4.6",
+   "section_title_bn": "প্রভাবক ও এর প্রকারভেদ",
+   "book_page": 451,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Pt প্রভাবকে হাইড্রোজেন ও অক্সিজেন থেকে পানি",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2H₂(g) + O₂(g) → 2H₂O(g)",
+   "conditions": "প্রভাবক Pt",
+   "observations_bn": "খুব সামান্য প্ল্যাটিনামই যথেষ্ট।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "H₂",
+    "O₂",
+    "Pt"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-44",
+   "chapter_no": 4,
+   "section_no": "4.6",
+   "section_title_bn": "প্রভাবক ও এর প্রকারভেদ",
+   "book_page": 451,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO প্রভাবকে SO₂ এর জারণ",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂ + O₂ → 2SO₃",
+   "conditions": "প্রভাবক NO",
+   "observations_bn": "NO পুনরুদ্ধার হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "O₂",
+    "NO"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-45",
+   "chapter_no": 4,
+   "section_no": "4.6",
+   "section_title_bn": "প্রভাবক ও এর প্রকারভেদ",
+   "book_page": 451,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "খনিজ অ্যাসিড প্রভাবকে চিনির আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "সুক্রোজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফ্রুক্টোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ + C₆H₁₂O₆",
+   "conditions": "প্রভাবক HCl (বইয়ে ছাপা)",
+   "observations_bn": "অ্যাসিড উপস্থিতিতে বিক্রিয়া দ্রুত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "চিনির দ্রবণ",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "বইয়ে উৎপাদ দুটিকে শুধু C₆H₁₂O₆ লেখা।"
+  },
+  {
+   "id": "k11-13-46",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 452,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "MnO₂ প্রভাবকে KClO₃ এর বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ক্লোরেট",
+     "formula": "KClO₃",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2KClO₃ → 2KCl + 3O₂",
+   "conditions": "heat; প্রভাবক MnO₂",
+   "observations_bn": "প্রভাবকে বিক্রিয়া ত্বরান্বিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KClO₃",
+    "MnO₂"
+   ],
+   "safety_bn": "দাহ্য বস্তু কাছে রাখা যাবে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-47",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 452,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₂O₂ এর বিয়োজন (হালকা অ্যাসিডে ধীর)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন পার–অক্সাইড",
+     "formula": "H₂O₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2H₂O₂ → 2H₂O + O₂",
+   "conditions": "সূর্যালোকে খুব দ্রুত; H₂SO₄/H₃PO₄/গ্লিসারিন মিশালে ধীর",
+   "observations_bn": "সূর্যালোকে দ্রুত গ্যাস বের হয়; লঘু H₂SO₄ ও গ্লিসারিন ঋণাত্মক প্রভাবক।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "H₂O₂ দ্রবণ",
+    "লঘু H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "শর্তের লেবেল পড়া আংশিক স্পষ্ট।"
+  },
+  {
+   "id": "k11-13-48",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 452,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরোফর্মের জারণ (ঋণাত্মক প্রভাবক উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফর্ম",
+     "formula": "CHCl₃",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "[O]",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসজিন",
+     "formula": "COCl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CHCl₃ + [O] → COCl₂ + HCl",
+   "conditions": "বায়ুর অক্সিজেন; ইথানল ঋণাত্মক প্রভাবক",
+   "observations_bn": "ইথানল মিশিয়ে বিষাক্ত ফসজিন তৈরি রোধ করা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CHCl₃"
+   ],
+   "safety_bn": "ফসজিন অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-49",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 452,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Na₂SO₃ এর জারণ ও গ্লিসারিনের প্রভাব",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2Na₂SO₃ + O₂ → 2Na₂SO₄",
+   "conditions": "গ্লিসারিন ঋণাত্মক প্রভাবক",
+   "observations_bn": "গ্লিসারিন থাকলে জারণ ধীর হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na₂SO₃ দ্রবণ",
+    "গ্লিসারিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-50",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 453,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিডিক KMnO₄ ও অক্সালিক অ্যাসিড (অটো প্রভাবক Mn²⁺)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সালিক অ্যাসিড",
+     "formula": "(COOH)₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ(II) সালফেট",
+     "formula": "MnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2KMnO₄ + 3H₂SO₄ + 5(COOH)₂ → K₂SO₄ + 2MnSO₄ + 8H₂O + 10CO₂↑",
+   "conditions": "অম্লীয় মাধ্যম; হালকা গরম (বইয়ে স্পষ্ট নয়)",
+   "observations_bn": "বেগুনি রং প্রথমে ধীরে, পরে দ্রুত ফিকে হয় কারণ Mn²⁺ অটো প্রভাবক।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KMnO₄",
+    "লঘু H₂SO₄",
+    "অক্সালিক অ্যাসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "equation_printed": "2KMnO₄ + 3H₂SO₄ + 5HOOC–COOH → K₂SO₄ + 2MnSO₄ + 8H₂O + 10CO₂"
+  },
+  {
+   "id": "k11-13-51",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 453,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথাইল অ্যাসিটেটের অম্লীয় আর্দ্র বিশ্লেষণ (অটো প্রভাবক H⁺)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল অ্যাসিটেট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যাসিটিক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOC₂H₅ + H₂O → CH₃CH₂OH + CH₃COOH",
+   "conditions": "উৎপন্ন H⁺ প্রভাবক",
+   "observations_bn": "উৎপন্ন অ্যাসিড বিক্রিয়াকে ত্বরান্বিত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথাইল অ্যাসিটেট",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "equation_printed": "CH₃–COOCH₂–CH₃ + H₂O → CH₃CH₂OH + CH₃COOH"
+  },
+  {
+   "id": "k11-13-52",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 453,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "আবিষ্ট প্রভাবক: Na₂SO₃ ও Na₃AsO₃ এর যুগ্ম জারণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আর্সেনাইট",
+     "formula": "Na₃AsO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আর্সেনেট",
+     "formula": "Na₃AsO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₃ + Na₃AsO₃ + O₂ → Na₂SO₄ + Na₃AsO₄",
+   "conditions": "room temp",
+   "observations_bn": "আর্সেনাইট একা জারিত হয় না; সালফাইট থাকলে একসাথে জারিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na₂SO₃",
+    "Na₃AsO₃"
+   ],
+   "safety_bn": "আর্সেনিক যৌগ বিষাক্ত।",
+   "confidence": "read",
+   "notes": "বইয়ের সঙ্গী সমীকরণ: 2Na₂SO₃+O₂→2Na₂SO₄ (শুধু সালফাইট), Na₃AsO₃ একা জারিত হয় না।"
+  },
+  {
+   "id": "k11-13-53",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 453,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Fe/Mo প্রভাবক ও প্রভাবক উদ্দীপক (হেবার প্রণালী)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+   "conditions": "প্রভাবক Fe, উদ্দীপক Mo",
+   "observations_bn": "Mo মিশ্রিত করলে Fe এর কার্যকারিতা বহুগুণ বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Fe",
+    "Mo"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-54",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 453,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রভাবক বিষ As₂O₃ দ্বারা Pt এর কার্যকারিতা নষ্ট",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂(g) + O₂(g) → 2SO₃(g)",
+   "conditions": "প্রভাবক Pt; বিষ As₂O₃",
+   "observations_bn": "As₂O₃ থাকলে SO₃ উৎপাদন ধীর ও পরে বন্ধ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Pt",
+    "As₂O₃"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "equation_printed": "SO₂(g) + O₂(g) → SO₃(g)",
+   "notes": "বইয়ে সমীকরণ SO₂+O₂→SO₃ অসমতাযুক্ত লেখা; সমতাকৃত রূপ দেওয়া হয়েছে।"
+  },
+  {
+   "id": "k11-13-55",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 454,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO(g) সমসত্ত্ব প্রভাবকে SO₂ এর জারণ (সীসাকক্ষ প্রণালী)",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂(g) + O₂(g) → 2SO₃(g)",
+   "conditions": "প্রভাবক NO(g)",
+   "observations_bn": "মধ্যবর্তী NO₂ তৈরি করে সক্রিয়ণ শক্তি কমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "O₂",
+    "NO"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-56",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 454,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিড প্রভাবকে এস্টারের আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "এস্টার",
+     "formula": "R–COOR′",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বক্সিলিক অ্যাসিড",
+     "formula": "R–COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "R′OH",
+     "state": "solution"
+    }
+   ],
+   "equation": "R–COOR′ + H₂O → R–COOH + R′OH",
+   "conditions": "প্রভাবক H⁺",
+   "observations_bn": "সমসত্ত্ব প্রভাবকের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "এস্টার",
+    "লঘু অ্যাসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-57",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 454,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আয়োডিন বাষ্প প্রভাবকে অ্যাসিটালডিহাইডের বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটালডিহাইড",
+     "formula": "CH₃CHO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CHO → CH₄ + CO",
+   "conditions": "প্রভাবক I₂(g)",
+   "observations_bn": "সমসত্ত্ব প্রভাবকের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃CHO",
+    "I₂ বাষ্প"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-58",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 454,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cu প্রভাবকে ইথানলের ডিহাইড্রোজেনেশন",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটালডিহাইড",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂OH → CH₃CHO + H₂",
+   "conditions": "Cu, 300 °C",
+   "observations_bn": "অসমসত্ত্ব প্রভাবকের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানল",
+    "Cu"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-59",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 454,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্টার্চ থেকে সুক্রোজ (ডায়াস্টেজ এনজাইম)",
+   "reactants": [
+    {
+     "name_bn": "স্টার্চ",
+     "formula": "(C₆H₁₀O₅)ₙ",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সুক্রোজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solution"
+    }
+   ],
+   "equation": "2(C₆H₁₀O₅)ₙ + nH₂O → nC₁₂H₂₂O₁₁",
+   "conditions": "এনজাইম ডায়াস্টেজ",
+   "observations_bn": "বইয়ে উৎপাদ সুক্রোজ লেখা (ছাপা অনুযায়ী)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "স্টার্চ",
+    "ডায়াস্টেজ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-13-60",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 454,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সুক্রোজের আর্দ্র বিশ্লেষণ (এনজাইম)",
+   "reactants": [
+    {
+     "name_bn": "সুক্রোজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফ্রুক্টোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ + C₆H₁₂O₆",
+   "conditions": "এনজাইম (বইয়ে নাম স্পষ্ট নয়)",
+   "observations_bn": "গ্লুকোজ ও ফ্রুক্টোজ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সুক্রোজ দ্রবণ",
+    "এনজাইম"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-13-61",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 454,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জাইমেজ এনজাইমে গ্লুকোজ থেকে ইথানল",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₁₂O₆ → 2CH₃CH₂OH + 2CO₂",
+   "conditions": "জাইমেজ; 25–37 °C, pH≈7",
+   "observations_bn": "গাঁজনে CO₂ ও ইথানল তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গ্লুকোজ",
+    "জাইমেজ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-62",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 455,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়ার জারণে NO (অসওয়াল্ড পদ্ধতি)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "4NH₃ + 5O₂ → 4NO + 6H₂O",
+   "conditions": "প্রভাবক Pt ও Rh",
+   "observations_bn": "নাইট্রিক অ্যাসিড তৈরির প্রথম ধাপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₃",
+    "O₂",
+    "Pt/Rh"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-63",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 455,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেন ও বাষ্প থেকে CO₂ ও H₂ (Ni প্রভাবক)",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + 2H₂O → CO₂ + 4H₂",
+   "conditions": "প্রভাবক Ni",
+   "observations_bn": "বইয়ে সমীকরণ অসমতাযুক্ত; সমতাকৃত রূপ দেওয়া।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₄",
+    "বাষ্প",
+    "Ni"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "equation_printed": "H₂O + CH₄ → CO₂ + H₂"
+  },
+  {
+   "id": "k11-13-64",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 455,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO ও H₂ থেকে মিথানল",
+   "reactants": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CO + 2H₂ → CH₃OH",
+   "conditions": "প্রভাবক ZnO ও Cr₂O₃",
+   "observations_bn": "শিল্পে মিথানল উৎপাদন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CO",
+    "H₂",
+    "ZnO/Cr₂O₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-65",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 455,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিলিনের হাইড্রোজেনেশন",
+   "reactants": [
+    {
+     "name_bn": "ইথিলিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃–CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₂=CH₂ + H₂ → CH₃–CH₃",
+   "conditions": "প্রভাবক Ni, Pd বা Pt",
+   "observations_bn": "অসম্পৃক্ত তেল থেকে ফ্যাট তৈরির নীতি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথিলিন",
+    "H₂",
+    "Ni/Pd/Pt"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-66",
+   "chapter_no": 4,
+   "section_no": "4.7",
+   "section_title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "book_page": 455,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO ও H₂ থেকে অক্টেন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্টেন",
+     "formula": "C₈H₁₈",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "8CO + 17H₂ → C₈H₁₈ + 8H₂O",
+   "conditions": "প্রভাবক Co (ছাপা CO) বা Al₂O₃",
+   "observations_bn": "গ্যাসোলিন উৎপাদনে ব্যবহৃত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CO",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "প্রভাবক বইয়ে \"CO অথবা Al₂O₃\" ছাপা; Co হতে পারে।"
+  },
+  {
+   "id": "k11-13-67",
+   "chapter_no": 4,
+   "section_no": "4.8",
+   "section_title_bn": "রাসায়নিক বিক্রিয়ার সাম্যাবস্থা",
+   "book_page": 456,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বদ্ধ পাত্রে CaCO₃ এর বিয়োজনে সাম্যাবস্থা",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃(s) ⇌ CaO(s) + CO₂(g)",
+   "conditions": "800 °C, বায়ুশূন্য আবদ্ধ পাত্র",
+   "observations_bn": "CO₂ চাপ বাড়তে বাড়তে স্থির হয়; ম্যানোমিটারে মাপা হয়।",
+   "procedure_bn": [
+    "বায়ুশূন্য আবদ্ধ পাত্রে CaCO₃ নাও।",
+    "800 °C এ গরম করো।",
+    "ম্যানোমিটারে চাপ স্থির হওয়া দেখো।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CaCO₃",
+    "ফার্নেস",
+    "ম্যানোমিটার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-68",
+   "chapter_no": 4,
+   "section_no": "4.8",
+   "section_title_bn": "রাসায়নিক বিক্রিয়ার সাম্যাবস্থা",
+   "book_page": 457,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "C(s) + H₂O(g) সাম্যাবস্থা (অসমসত্ত্ব)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "জলীয় বাষ্প",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C(s) + H₂O(g) ⇌ CO(g) + H₂(g)",
+   "conditions": "",
+   "observations_bn": "অসমসত্ত্ব সাম্যের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C",
+    "জলীয় বাষ্প"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-69",
+   "chapter_no": 4,
+   "section_no": "4.8",
+   "section_title_bn": "রাসায়নিক বিক্রিয়ার সাম্যাবস্থা",
+   "book_page": 457,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Fe ও বাষ্প থেকে Fe₃O₄ (অসমসত্ত্ব সাম্য)",
+   "reactants": [
+    {
+     "name_bn": "আয়রন",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "জলীয় বাষ্প",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেটাইট",
+     "formula": "Fe₃O₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "3Fe(s) + 4H₂O(g) ⇌ Fe₃O₄(s) + 4H₂(g)",
+   "conditions": "",
+   "observations_bn": "অসমসত্ত্ব সাম্যের উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Fe",
+    "বাষ্প"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-70",
+   "chapter_no": 4,
+   "section_no": "4.9",
+   "section_title_bn": "সাম্যাবস্থার গতিশীলতা",
+   "book_page": 458,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "Ag⁺ + Fe²⁺ ⇌ Ag + Fe³⁺ সাম্যের গতিশীলতার প্রমাণ",
+   "reactants": [
+    {
+     "name_bn": "সিলভার আয়ন",
+     "formula": "Ag⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আয়রন(II) আয়ন",
+     "formula": "Fe²⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "আয়রন(III) আয়ন",
+     "formula": "Fe³⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "Ag⁺(aq) + Fe²⁺(aq) ⇌ Ag(s)↓ + Fe³⁺(aq)",
+   "conditions": "তেজস্ক্রিয় Ag (Ag*) ব্যবহার",
+   "observations_bn": "সাম্যের পরেও তেজস্ক্রিয় Ag যোগ করলে দ্রবণে তেজস্ক্রিয়তা পাওয়া যায়।",
+   "procedure_bn": [
+    "Ag⁺ ও Fe²⁺ দ্রবণ মিশিয়ে সাম্য আনো।",
+    "তেজস্ক্রিয় Ag যোগ করো।",
+    "দ্রবণে তেজস্ক্রিয় Ag⁺ আছে কিনা দেখো।"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Ag⁺ ও Fe²⁺ দ্রবণ",
+    "তেজস্ক্রিয় Ag"
+   ],
+   "safety_bn": "তেজস্ক্রিয় পদার্থ; স্কুল ল্যাবে নয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-71",
+   "chapter_no": 4,
+   "section_no": "4.9",
+   "section_title_bn": "সাম্যাবস্থার গতিশীলতা",
+   "book_page": 458,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PCl₅ ⇌ PCl₃ + Cl₂ এর মুক্তশক্তির হিসাব",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+   "conditions": "25 °C",
+   "observations_bn": "ΔG° ঋণাত্মক; সাম্য উৎপাদের দিকে সরে।",
+   "procedure_bn": [],
+   "quantities_bn": "Kp = 1.85×10⁶; ΔG° = -8.314×298×ln(1.85×10⁶) = -35.753 kJ mol⁻¹",
+   "materials_bn": [
+    "PCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-13-72",
+   "chapter_no": 4,
+   "section_no": "4.9",
+   "section_title_bn": "সাম্যাবস্থার গতিশীলতা",
+   "book_page": 458,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2SO₃ ⇌ 2SO₂ + O₂ এর সাম্যধ্রুবক",
+   "reactants": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₃(g) ⇌ 2SO₂(g) + O₂(g)",
+   "conditions": "25 °C",
+   "observations_bn": "ΔG° ধনাত্মক হওয়ায় সাম্য বিক্রিয়কের দিকে।",
+   "procedure_bn": [],
+   "quantities_bn": "ΔG° = 140.0 kJ mol⁻¹ হলে Kp = 2.909×10⁻²⁵",
+   "materials_bn": [
+    "SO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 4,
+   "no": "4.1",
+   "title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "start_page": 428
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.2",
+   "title_bn": "বিক্রিয়ার দিক - একমুখী ও উভমুখী বিক্রিয়া",
+   "start_page": 435
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.2.1",
+   "title_bn": "একমুখী বিক্রিয়া",
+   "start_page": 435
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.2.2",
+   "title_bn": "উভমুখী বিক্রিয়া",
+   "start_page": 436
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.3",
+   "title_bn": "বিক্রিয়ার গতি বা হার",
+   "start_page": 438
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.4",
+   "title_bn": "হার ধ্রুবকের বৈশিষ্ট্য",
+   "start_page": 442
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.4.1",
+   "title_bn": "বিক্রিয়ার হার ও হার ধ্রুবকের মধ্যে পার্থক্য",
+   "start_page": 442
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.4.2",
+   "title_bn": "বিক্রিয়ার ক্রম ও আণবিকত্ব",
+   "start_page": 442
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.5",
+   "title_bn": "বিক্রিয়ার গতির উপর তাপমাত্রা, চাপ ও ঘনত্বের প্রভাব",
+   "start_page": 444
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.5.1",
+   "title_bn": "বিক্রিয়ার গতির উপর তাপমাত্রার প্রভাব",
+   "start_page": 444
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.5.2",
+   "title_bn": "বিক্রিয়ার গতির উপর চাপের প্রভাব",
+   "start_page": 449
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.5.3",
+   "title_bn": "বিক্রিয়ার গতির উপর ঘনমাত্রার প্রভাব",
+   "start_page": 449
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.6",
+   "title_bn": "প্রভাবক ও এর প্রকারভেদ",
+   "start_page": 451
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.7",
+   "title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "start_page": 452
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.8",
+   "title_bn": "রাসায়নিক বিক্রিয়ার সাম্যাবস্থা",
+   "start_page": 455
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.9",
+   "title_bn": "সাম্যাবস্থার গতিশীলতা",
+   "start_page": 458
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.10",
+   "title_bn": "লা-শাতেলিয়ারের নীতি",
+   "start_page": 459
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Printed pp.425-426 (pdf 423-424) are the end of chapter 3 (MCQ/admission questions), skipped. Chapter 4 starts at printed p.427. Items 4.5.1 Ea worked examples listed at pp.447-448. Section 4.3 p.438 detail; 4.4 (rate constant) at p.442. Theory/numerical exercises skipped. Equation reads where marked partly-legible due to scan quality."
+}

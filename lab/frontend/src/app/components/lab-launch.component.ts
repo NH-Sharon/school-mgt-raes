@@ -143,7 +143,8 @@ export class LabLaunchComponent implements OnInit {
     if (!this.canStart()) return;
     this.labSession.set(this.key, this.mode(), this.selected());
     const route = KEY_TO_ROUTE[this.key];
-    if (route) this.router.navigateByUrl(route);
+    const exp = this.route.snapshot.queryParamMap.get('exp');
+    if (route) this.router.navigateByUrl(exp ? `${route}?exp=${encodeURIComponent(exp)}` : route);
     else this.router.navigateByUrl('/labs');
   }
 

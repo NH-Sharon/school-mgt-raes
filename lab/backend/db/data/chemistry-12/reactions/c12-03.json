@@ -1,0 +1,5431 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  87,
+  122
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-03-001",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লোহা ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "লোহা",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) ফ্লোরাইড",
+     "formula": "FeF₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Fe + 3F₂ → 2FeF₃",
+   "conditions": "কক্ষ তাপমাত্রায়, ফ্লোরিন অতি সক্রিয়",
+   "observations_bn": "ধাতু ফ্লোরিনে সর্বোচ্চ জারণ অবস্থার ফ্লোরাইড গঠন করে; বিক্রিয়া তাপউৎপাদী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-002",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টিন ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "টিন",
+     "formula": "Sn",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টিন(IV) ফ্লোরাইড",
+     "formula": "SnF₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "Sn + 2F₂ → SnF₄",
+   "conditions": "কক্ষ তাপমাত্রায়, ফ্লোরিন অতি সক্রিয়",
+   "observations_bn": "ধাতু ফ্লোরিনে সর্বোচ্চ জারণ অবস্থার ফ্লোরাইড গঠন করে; বিক্রিয়া তাপউৎপাদী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-003",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্লাটিনাম ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "প্লাটিনাম",
+     "formula": "Pt",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্লাটিনাম হেক্সাফ্লোরাইড",
+     "formula": "PtF₆",
+     "state": "solid"
+    }
+   ],
+   "equation": "Pt + 3F₂ → PtF₆",
+   "conditions": "কক্ষ তাপমাত্রায়, ফ্লোরিন অতি সক্রিয়",
+   "observations_bn": "ধাতু ফ্লোরিনে সর্বোচ্চ জারণ অবস্থার ফ্লোরাইড গঠন করে; বিক্রিয়া তাপউৎপাদী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-004",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রুপা ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "রুপা",
+     "formula": "Ag",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার(II) ফ্লোরাইড",
+     "formula": "AgF₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ag + F₂ → AgF₂",
+   "conditions": "কক্ষ তাপমাত্রায়, ফ্লোরিন অতি সক্রিয়",
+   "observations_bn": "ধাতু ফ্লোরিনে সর্বোচ্চ জারণ অবস্থার ফ্লোরাইড গঠন করে; বিক্রিয়া তাপউৎপাদী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-005",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোনা ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "সোনা",
+     "formula": "Au",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গোল্ড(III) ফ্লোরাইড",
+     "formula": "AuF₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Au + 3F₂ → 2AuF₃",
+   "conditions": "কক্ষ তাপমাত্রায়, ফ্লোরিন অতি সক্রিয়",
+   "observations_bn": "ধাতু ফ্লোরিনে সর্বোচ্চ জারণ অবস্থার ফ্লোরাইড গঠন করে; বিক্রিয়া তাপউৎপাদী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-006",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Na + Cl₂ → 2NaCl",
+   "conditions": "উত্তপ্ত অবস্থায়",
+   "observations_bn": "ধাতু উচ্চ জারণ অবস্থার ক্লোরাইড লবণ দেয়; সক্রিয় ধাতুর গুঁড়া গরমে জ্বলে ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-007",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়াম ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Mg + Cl₂ → MgCl₂",
+   "conditions": "উত্তপ্ত অবস্থায়",
+   "observations_bn": "ধাতু উচ্চ জারণ অবস্থার ক্লোরাইড লবণ দেয়; সক্রিয় ধাতুর গুঁড়া গরমে জ্বলে ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-008",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লোহা ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "লোহা",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Fe + 3Cl₂ → 2FeCl₃",
+   "conditions": "উত্তপ্ত অবস্থায়; 900°C পর্যন্ত গরম করে (বইয়ের চিহ্ন)",
+   "observations_bn": "ধাতু উচ্চ জারণ অবস্থার ক্লোরাইড লবণ দেয়; সক্রিয় ধাতুর গুঁড়া গরমে জ্বলে ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-009",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পারদ ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "পারদ",
+     "formula": "Hg",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মারকিউরিক ক্লোরাইড",
+     "formula": "HgCl₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Hg + Cl₂ → HgCl₂",
+   "conditions": "উত্তপ্ত অবস্থায়",
+   "observations_bn": "ধাতু উচ্চ জারণ অবস্থার ক্লোরাইড লবণ দেয়; সক্রিয় ধাতুর গুঁড়া গরমে জ্বলে ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-010",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রুপা ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "রুপা",
+     "formula": "Ag",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Ag + Cl₂ → 2AgCl",
+   "conditions": "উত্তপ্ত অবস্থায়",
+   "observations_bn": "ধাতু উচ্চ জারণ অবস্থার ক্লোরাইড লবণ দেয়; সক্রিয় ধাতুর গুঁড়া গরমে জ্বলে ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-011",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্লাটিনাম ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "প্লাটিনাম",
+     "formula": "Pt",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্লাটিনাম(IV) ক্লোরাইড",
+     "formula": "PtCl₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "Pt + 2Cl₂ → PtCl₄",
+   "conditions": "উত্তপ্ত অবস্থায়",
+   "observations_bn": "ধাতু উচ্চ জারণ অবস্থার ক্লোরাইড লবণ দেয়; সক্রিয় ধাতুর গুঁড়া গরমে জ্বলে ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-012",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোনা ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "সোনা",
+     "formula": "Au",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গোল্ড(III) ক্লোরাইড",
+     "formula": "AuCl₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Au + 3Cl₂ → 2AuCl₃",
+   "conditions": "উত্তপ্ত অবস্থায়; প্রায় 200°C",
+   "observations_bn": "ধাতু উচ্চ জারণ অবস্থার ক্লোরাইড লবণ দেয়; সক্রিয় ধাতুর গুঁড়া গরমে জ্বলে ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-013",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ও ব্রোমিন বাষ্প",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ব্রোমিন বাষ্প",
+     "formula": "Br₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Na + Br₂ → 2NaBr",
+   "conditions": "60°C এর বেশি",
+   "observations_bn": "উত্তপ্ত সোডিয়াম ব্রোমিন বাষ্পে বিক্রিয়া করে ব্রোমাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-014",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনিয়াম ও ব্রোমিন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ব্রোমিন বাষ্প",
+     "formula": "Br₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ব্রোমাইড",
+     "formula": "AlBr₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Al + 3Br₂ → 2AlBr₃",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "গরম অ্যালুমিনিয়াম ব্রোমিন বাষ্পে ব্রোমাইড গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-015",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পটাসিয়াম ও আয়োডিন বাষ্প",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম",
+     "formula": "K",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "আয়োডিন বাষ্প",
+     "formula": "I₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solid"
+    }
+   ],
+   "equation": "2K + I₂ → 2KI",
+   "conditions": "বিস্ফোরণসহ",
+   "observations_bn": "খুব সক্রিয় ধাতু আয়োডিনের সাথেও বিস্ফোরক বিক্রিয়া করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-016",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জিংক ও আয়োডিন বাষ্প",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "আয়োডিন বাষ্প",
+     "formula": "I₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক আয়োডাইড",
+     "formula": "ZnI₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Zn + I₂ → ZnI₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "মাঝারি সক্রিয় ধাতু উচ্চ তাপমাত্রায় আয়োডাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-017",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 93,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লোহা ও আয়োডিন বাষ্প",
+   "reactants": [
+    {
+     "name_bn": "লোহা",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "আয়োডিন বাষ্প",
+     "formula": "I₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(II) আয়োডাইড",
+     "formula": "FeI₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Fe + I₂ → FeI₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "আয়োডিন দুর্বল জারক বলে লোহা কেবল +2 অবস্থায় যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-018",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হাইড্রোজেন ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂ + F₂ → 2HF",
+   "conditions": "অন্ধকারেও, −200°C এও; বিস্ফোরণসহ",
+   "observations_bn": "অতি নিম্ন তাপমাত্রায় ও আলো ছাড়াই বিস্ফোরক বিক্রিয়া ঘটে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-019",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বন (হীরা) ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন টেট্রাফ্লোরাইড",
+     "formula": "CF₄",
+     "state": "gas"
+    }
+   ],
+   "equation": "C + 2F₂ → CF₄",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "উত্তপ্ত কার্বন ফ্লোরিনে জ্বলে CF₄ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-020",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অক্সিজেন ও ফ্লোরিন (OF₂)",
+   "reactants": [
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সিজেন ডাইফ্লোরাইড",
+     "formula": "OF₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "O₂ + 2F₂ → 2OF₂",
+   "equation_printed": "O₂ + 2F₂ → 2F₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "অক্সিজেন ফ্লোরিনের সাথে গরমে যুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-03-021",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফার ও ফ্লোরিন (SF₆)",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার হেক্সাফ্লোরাইড",
+     "formula": "SF₆",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + 3F₂ → SF₆",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ফ্লোরিন সালফারকে সর্বোচ্চ +6 অবস্থায় নেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-022",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফার ও ফ্লোরিন (SF₄)",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার টেট্রাফ্লোরাইড",
+     "formula": "SF₄",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + 2F₂ → SF₄",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বইয়ে SF₄ ও SF₆ দুটিই দেখানো হয়েছে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-023",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বোরন ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "বোরন",
+     "formula": "B",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বোরন ট্রাইফ্লোরাইড",
+     "formula": "BF₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2B + 3F₂ → 2BF₃",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বোরন ফ্লোরিনের সাথে গরমে বিক্রিয়া করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-024",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সিলিকন ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "সিলিকন",
+     "formula": "Si",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলিকন টেট্রাফ্লোরাইড",
+     "formula": "SiF₄",
+     "state": "gas"
+    }
+   ],
+   "equation": "Si + 2F₂ → SiF₄",
+   "equation_printed": "Si + 3F₂ → SiF₆",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বইয়ের মুদ্রিত সূত্র SiF₆ হিসেবে অস্পষ্ট বা ত্রুটিপূর্ণ; পরিচিত সিলিকন ফ্লোরাইড SiF₄ ধরে সমীকরণ দেওয়া হলো।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-03-025",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জেনন ও ফ্লোরিন (XeF₂)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেননের ডাইফ্লোরাইড",
+     "formula": "XeF₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + F₂ → XeF₂",
+   "conditions": "400°C, Ni প্রভাবক",
+   "observations_bn": "নিষ্ক্রিয় গ্যাসও ফ্লোরিনের সাথে চাপ ও তাপে যৌগ গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-026",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জেনন ও ফ্লোরিন (XeF₄)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেননের টেট্রাফ্লোরাইড",
+     "formula": "XeF₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + 2F₂ → XeF₄",
+   "conditions": "400°C, 6 atm, Ni",
+   "observations_bn": "নিষ্ক্রিয় গ্যাসও ফ্লোরিনের সাথে চাপ ও তাপে যৌগ গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-027",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জেনন ও ফ্লোরিন (XeF₆)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেননের হেক্সাফ্লোরাইড",
+     "formula": "XeF₆",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + 3F₂ → XeF₆",
+   "conditions": "300°C, 60 atm, Ni",
+   "observations_bn": "নিষ্ক্রিয় গ্যাসও ফ্লোরিনের সাথে চাপ ও তাপে যৌগ গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-028",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আন্তঃহ্যালোজেন : IF",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন মনোফ্লোরাইড",
+     "formula": "IF",
+     "state": "gas"
+    }
+   ],
+   "equation": "I₂ + F₂ → 2IF",
+   "conditions": "উত্তপ্ত; অস্থায়ী",
+   "observations_bn": "আয়োডিন ও ফ্লোরিনের তড়িৎ ঋণাত্মকতার পার্থক্য বেশি বলে উচ্চ জারণ অবস্থার আন্তঃহ্যালোজেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-029",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আন্তঃহ্যালোজেন : IF₃",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন ট্রাইফ্লোরাইড",
+     "formula": "IF₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "I₂ + 3F₂ → 2IF₃",
+   "conditions": "উত্তপ্ত; অস্থায়ী",
+   "observations_bn": "আয়োডিন ও ফ্লোরিনের তড়িৎ ঋণাত্মকতার পার্থক্য বেশি বলে উচ্চ জারণ অবস্থার আন্তঃহ্যালোজেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-030",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আন্তঃহ্যালোজেন : IF₅",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন পেন্টাফ্লোরাইড",
+     "formula": "IF₅",
+     "state": "gas"
+    }
+   ],
+   "equation": "I₂ + 5F₂ → 2IF₅",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "আয়োডিন ও ফ্লোরিনের তড়িৎ ঋণাত্মকতার পার্থক্য বেশি বলে উচ্চ জারণ অবস্থার আন্তঃহ্যালোজেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-031",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আন্তঃহ্যালোজেন : IF₇",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন হেপ্টাফ্লোরাইড",
+     "formula": "IF₇",
+     "state": "gas"
+    }
+   ],
+   "equation": "I₂ + 7F₂ → 2IF₇",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "আয়োডিন ও ফ্লোরিনের তড়িৎ ঋণাত্মকতার পার্থক্য বেশি বলে উচ্চ জারণ অবস্থার আন্তঃহ্যালোজেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-032",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আন্তঃহ্যালোজেন : BrF",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমিন মনোফ্লোরাইড",
+     "formula": "BrF",
+     "state": "gas"
+    }
+   ],
+   "equation": "Br₂ + F₂ → 2BrF",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ব্রোমিন ফ্লোরিনের সাথে বিভিন্ন অনুপাতে ফ্লোরাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-033",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আন্তঃহ্যালোজেন : BrF₃",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমিন ট্রাইফ্লোরাইড",
+     "formula": "BrF₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "Br₂ + 3F₂ → 2BrF₃",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ব্রোমিন ফ্লোরিনের সাথে বিভিন্ন অনুপাতে ফ্লোরাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-034",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আন্তঃহ্যালোজেন : BrF₅",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমিন পেন্টাফ্লোরাইড",
+     "formula": "BrF₅",
+     "state": "gas"
+    }
+   ],
+   "equation": "Br₂ + 5F₂ → 2BrF₅",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ব্রোমিন ফ্লোরিনের সাথে বিভিন্ন অনুপাতে ফ্লোরাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-035",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আন্তঃহ্যালোজেন : ClF",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিন মনোফ্লোরাইড",
+     "formula": "ClF",
+     "state": "gas"
+    }
+   ],
+   "equation": "Cl₂ + F₂ → 2ClF",
+   "conditions": "225°C",
+   "observations_bn": "ক্লোরিন ও ফ্লোরিন সরাসরি যুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-036",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 94,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আন্তঃহ্যালোজেন : ClF₃",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিন ট্রাইফ্লোরাইড",
+     "formula": "ClF₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "Cl₂ + 3F₂ → 2ClF₃",
+   "conditions": "300°C",
+   "observations_bn": "বেশি ফ্লোরিনে ট্রাইফ্লোরাইড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-037",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂ ও Cl₂ এর আলোক বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂ + Cl₂ → 2HCl",
+   "conditions": "সূর্যালোক বা উত্তপ্ত (hν)",
+   "observations_bn": "আলোতে বিস্ফোরণসহ দ্রুত বিক্রিয়া হয়, অন্ধকারে ধীর।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-038",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লাল ফসফরাস ও কম ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2P + 3Cl₂ → 2PCl₃",
+   "conditions": "কক্ষ তাপমাত্রায়, অল্প Cl₂",
+   "observations_bn": "ফসফরাস জ্বলে ওঠে ও তরল PCl₃ জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-039",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও বেশি ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "2P + 5Cl₂ → 2PCl₅",
+   "conditions": "বেশি Cl₂",
+   "observations_bn": "বেশি ক্লোরিনে কঠিন PCl₅ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-040",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আর্সেনিক ও ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "আর্সেনিক",
+     "formula": "As",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আর্সেনিক ট্রাইক্লোরাইড",
+     "formula": "AsCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2As + 3Cl₂ → 2AsCl₃",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "অনুরূপ বিক্রিয়ায় আর্সেনিক ট্রাইক্লোরাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-041",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গলিত সালফার ও ক্লোরিন (S₂Cl₂)",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "liquid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার মনোক্লোরাইড",
+     "formula": "S₂Cl₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2S + Cl₂ → S₂Cl₂",
+   "equation_printed": "S + Cl₂ → S₂Cl₂",
+   "conditions": "400°C",
+   "observations_bn": "হলুদ তৈলাক্ত তরল তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-03-042",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "S₂Cl₂ থেকে SCl₂",
+   "reactants": [
+    {
+     "name_bn": "সালফার মনোক্লোরাইড",
+     "formula": "S₂Cl₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইক্লোরাইড",
+     "formula": "SCl₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "S₂Cl₂ + Cl₂ → 2SCl₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বেশি ক্লোরিনে গাঢ় লাল তরল SCl₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-043",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SCl₂ থেকে SCl₄",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইক্লোরাইড",
+     "formula": "SCl₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার টেট্রাক্লোরাইড",
+     "formula": "SCl₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SCl₂ + Cl₂ → SCl₄",
+   "conditions": "বইয়ে >450°C ছাপা (ঠিক পড়া যায়নি)",
+   "observations_bn": "সালফারের সাথে ক্লোরিন সর্বোচ্চ SCl₄ দেয়, SF₆ এর মতো নয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-03-044",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আয়োডিন ও ক্লোরিন (ICl)",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন মনোক্লোরাইড",
+     "formula": "ICl",
+     "state": "liquid"
+    }
+   ],
+   "equation": "I₂ + Cl₂ → 2ICl",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "আন্তঃহ্যালোজেন যৌগ গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-045",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আয়োডিন ও বেশি ক্লোরিন (ICl₃)",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন ট্রাইক্লোরাইড",
+     "formula": "ICl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "I₂ + 3Cl₂ → 2ICl₃",
+   "conditions": "বেশি Cl₂",
+   "observations_bn": "ক্লোরিন বেশি হলে ICl₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-046",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ব্রোমিন ও ক্লোরিন (BrCl)",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমিন ক্লোরাইড",
+     "formula": "BrCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "Br₂ + Cl₂ → 2BrCl",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ব্রোমিন ক্লোরিনের সাথে আন্তঃহ্যালোজেন দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-047",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হাইড্রোজেন ও ব্রোমিন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন বাষ্প",
+     "formula": "Br₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂ + Br₂ → 2HBr",
+   "conditions": ">200°C",
+   "observations_bn": "ব্রোমিন কম সক্রিয় বলে উচ্চ তাপমাত্রা লাগে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-048",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হাইড্রোজেন ও আয়োডিন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন বাষ্প",
+     "formula": "I₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂ + I₂ ⇌ 2HI",
+   "equation_printed": "H₂ + I₂ → 2HI",
+   "conditions": ">200°C, Pt প্রভাবক",
+   "observations_bn": "বিক্রিয়া সাম্যাবস্থায় H₂, I₂, HI এর মিশ্রণ থাকে (বইয়ের সারণি অনুযায়ী)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-03-049",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও ব্রোমিন (PBr₅)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টাব্রোমাইড",
+     "formula": "PBr₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "2P + 5Br₂ → 2PBr₅",
+   "conditions": "উত্তপ্ত, ব্রোমিন বাষ্প",
+   "observations_bn": "বেশি ব্রোমিনে পেন্টাব্রোমাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-050",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও ব্রোমিন (PBr₃)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইব্রোমাইড",
+     "formula": "PBr₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2P + 3Br₂ → 2PBr₃",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "PBr₃ অস্থায়ী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-051",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 95,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "PBr₃ এর আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইব্রোমাইড",
+     "formula": "PBr₃",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস এসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "PBr₃ + 3H₂O → H₃PO₃ + 3HBr",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "পানির সংস্পর্শে HBr গ্যাস ও ফসফরাস এসিড পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HBr ক্ষয়কারী; কাজ ফিউম হুডে",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-052",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও আয়োডিন",
+   "reactants": [
+    {
+     "name_bn": "সাদা ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইআয়োডাইড",
+     "formula": "PI₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2P + 3I₂ → 2PI₃",
+   "equation_printed": "2P + I₂ → 2PI₃",
+   "conditions": "আয়োডিন ছোঁয়ালে ফসফরাস গলে পরে জ্বলে ওঠে",
+   "observations_bn": "আয়োডিন কম সক্রিয় হওয়ায় PI₅ কম হয়; PI₃ ⇌ PI₅ সাম্য আছে (PI₃ + I₂ ⇌ PI₅)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-03-053",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ এর জলীয় দ্রবণ ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন গ্যাস",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₂ + 2H₂O + Cl₂ → H₂SO₄ + 2HCl",
+   "conditions": "জলীয় মাধ্যম",
+   "observations_bn": "হ্যালোজেন SO₂ কে জারিত করে H₂SO₄ বানায়; হ্যালোজেনের রং নিঃশেষ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-054",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "SO₂ এর জলীয় দ্রবণ ও ব্রোমিন জল",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন জল",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₂ + 2H₂O + Br₂ → H₂SO₄ + 2HBr",
+   "conditions": "জলীয় মাধ্যম",
+   "observations_bn": "হ্যালোজেন SO₂ কে জারিত করে H₂SO₄ বানায়; হ্যালোজেনের রং নিঃশেষ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-055",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "SO₂ এর জলীয় দ্রবণ ও আয়োডিন জল",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন জল",
+     "formula": "I₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₂ + 2H₂O + I₂ → H₂SO₄ + 2HI",
+   "conditions": "জলীয় মাধ্যম",
+   "observations_bn": "হ্যালোজেন SO₂ কে জারিত করে H₂SO₄ বানায়; হ্যালোজেনের রং নিঃশেষ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-056",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম সালফাইট দ্রবণ ও ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₃ + H₂O + Cl₂ → Na₂SO₄ + 2HCl",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "সালফাইট সালফেটে জারিত হয়, হ্যালোজেন হ্যালাইডে বিজারিত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-057",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম সালফাইট দ্রবণ ও ব্রোমিন জল",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন জল",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₃ + H₂O + Br₂ → Na₂SO₄ + 2HBr",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "সালফাইট সালফেটে জারিত হয়, হ্যালোজেন হ্যালাইডে বিজারিত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-058",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম সালফাইট দ্রবণ ও আয়োডিন জল",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন জল",
+     "formula": "I₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂SO₃ + H₂O + I₂ → Na₂SO₄ + 2HI",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "সালফাইট সালফেটে জারিত হয়, হ্যালোজেন হ্যালাইডে বিজারিত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-059",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S দ্রবণ ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন গ্যাস",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂S + Cl₂ → S + 2HCl",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "দ্রবণ ঘোলা হয়ে সালফার অধঃক্ষিপ্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "H₂S বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-060",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₂S দ্রবণ ও ব্রোমিন জল",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন জল",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂S + Br₂ → S + 2HBr",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "দ্রবণ ঘোলা হয়ে সালফার অধঃক্ষিপ্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "H₂S বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-061",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₂S দ্রবণ ও আয়োডিন জল",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন জল",
+     "formula": "I₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂S + I₂ → S + 2HI",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "দ্রবণ ঘোলা হয়ে সালফার অধঃক্ষিপ্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "H₂S বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-062",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়া ও ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া (বেশি)",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NH₃ + 3Cl₂ → N₂ + 6HCl",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "অ্যামোনিয়া জারিত হয়ে N₂ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-063",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 96,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NH₃ ও HCl থেকে NH₄Cl",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid"
+    }
+   ],
+   "equation": "NH₃ + HCl → NH₄Cl",
+   "equation_printed": "6NH₃ + 6HCl → 6NH₄Cl",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বইয়ে 6NH₃ + 6HCl → 6NH₄Cl ছাপা; উৎপন্ন HCl অতিরিক্ত অ্যামোনিয়ার সাথে লবণ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-064",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 97,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "FeCl₂ এর Cl₂ দ্বারা জারণ",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(II) ক্লোরাইড দ্রবণ",
+     "formula": "FeCl₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2FeCl₂ + Cl₂ → 2FeCl₃",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "পরিবর্তনশীল জারণ অবস্থার ধাতুর নিম্ন লবণ উচ্চ অবস্থায় যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-065",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 97,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SnCl₂ এর Cl₂ দ্বারা জারণ",
+   "reactants": [
+    {
+     "name_bn": "টিন(II) ক্লোরাইড দ্রবণ",
+     "formula": "SnCl₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টিন(IV) ক্লোরাইড",
+     "formula": "SnCl₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "SnCl₂ + Cl₂ → SnCl₄",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "Sn²⁺ জারিত হয়ে Sn⁴⁺ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-066",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 97,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "থায়োসালফেট ও ক্লোরিন গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম থায়োসালফেট",
+     "formula": "Na₂S₂O₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন গ্যাস",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂S₂O₃ + H₂O + Cl₂ → Na₂SO₄ + S + 2HCl",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "দ্রবণে সালফারের ঘোলাটে অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-067",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 97,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "থায়োসালফেট ও ব্রোমিন জল",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম থায়োসালফেট",
+     "formula": "Na₂S₂O₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন জল",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোহ্যালিক এসিড",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂S₂O₃ + H₂O + Br₂ → Na₂SO₄ + S + 2HBr",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "দ্রবণে সালফারের ঘোলাটে অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-068",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 97,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "থায়োসালফেট ও আয়োডিন (আয়োডোমেট্রিক)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম থায়োসালফেট",
+     "formula": "Na₂S₂O₃",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন দ্রবণ",
+     "formula": "I₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম টেট্রাথায়োনেট",
+     "formula": "Na₂S₄O₆",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solution"
+    }
+   ],
+   "equation": "2Na₂S₂O₃ + I₂ → Na₂S₄O₆ + 2NaI",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "আয়োডিন বিজারিত হয়ে আয়োডাইড হয়; এই বিক্রিয়ায় Cu²⁺ এর পরিমাণ নির্ণয় করা যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-069",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 97,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেন ও ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোমিথেন",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + Cl₂ → CH₃Cl + HCl",
+   "conditions": "সূর্যালোক (hν)",
+   "observations_bn": "ক্লোরিন হাইড্রোজেনকে প্রতিস্থাপন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-070",
+   "chapter_no": 2,
+   "section_no": "2.3.1",
+   "section_title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "book_page": 97,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথেন ও ব্রোমিন",
+   "reactants": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "C₂H₆",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমোইথেন",
+     "formula": "C₂H₅Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₂H₆ + Br₂ → C₂H₅Br + HBr",
+   "equation_printed": "CH₃–CH₃ + Br₂ → CH₃–CH₂–Br + HBr",
+   "conditions": "আলো, 30°C",
+   "observations_bn": "আলোতে প্রতিস্থাপন বিক্রিয়া ঘটে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-071",
+   "chapter_no": 2,
+   "section_no": "2.5",
+   "section_title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "book_page": 98,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গলিত CaF₂ এর তড়িৎ বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফ্লোরাইড",
+     "formula": "CaF₂",
+     "state": "liquid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaF₂ → Ca + F₂",
+   "conditions": "গলিত অবস্থায় তড়িৎ বিশ্লেষণ",
+   "observations_bn": "ক্যাথোডে Ca(Ca²⁺ + 2e⁻ → Ca) ও অ্যানোডে F₂ (2F⁻ → F₂ + 2e⁻) পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-072",
+   "chapter_no": 2,
+   "section_no": "2.5",
+   "section_title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "book_page": 98,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন পানি প্রস্তুতি (ব্লিচিং পাউডার + HCl)",
+   "reactants": [
+    {
+     "name_bn": "ব্লিচিং পাউডার",
+     "formula": "Ca(OCl)Cl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "লঘু হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Ca(OCl)Cl + 2HCl → CaCl₂ + H₂O + Cl₂",
+   "equation_printed": "Ca(OCl)Cl(s) + 2HCl(aq) → Ca²⁺(aq) + 2Cl⁻(aq) + H₂O(l) + Cl₂(aq)",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ক্লোরিন গ্যাস বের হয় যা পানিতে ক্লোরিন পানি দেয়।",
+   "procedure_bn": [
+    "ব্লিচিং পাউডার পানিতে দ্রবীভূত করো",
+    "লঘু HCl যোগ করে ক্লোরিন পানি প্রস্তুত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ক্লোরিন বিষাক্ত; খোলা জায়গায়/হুডে",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-073",
+   "chapter_no": 2,
+   "section_no": "2.5",
+   "section_title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "book_page": 99,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "KBr থেকে ব্রোমিন নিষ্কাশন (Cl₂ দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "2KBr + Cl₂ → 2KCl + Br₂",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "ক্লোরিন ব্রোমাইড আয়নকে জারিত করে লালচে-বাদামি ব্রোমিন মুক্ত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-074",
+   "chapter_no": 2,
+   "section_no": "2.5",
+   "section_title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "book_page": 99,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "KI থেকে আয়োডিন নিষ্কাশন (ব্রোমিন দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2KI + Br₂ → 2KBr + I₂",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "ব্রোমিন আয়োডাইডকে জারিত করে আয়োডিন মুক্ত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ব্রোমিন ক্ষয়কারী ও বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-075",
+   "chapter_no": 2,
+   "section_no": "2.5",
+   "section_title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "book_page": 99,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "KI থেকে আয়োডিন (Cl₂ দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2KI + Cl₂ → 2KCl + I₂",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "ক্লোরিন গ্যাস চালনায় আয়োডিন নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-076",
+   "chapter_no": 2,
+   "section_no": "2.5",
+   "section_title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "book_page": 99,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "কেল্প (সামুদ্রিক শৈবাল) থেকে আয়োডিন",
+   "reactants": [
+    {
+     "name_bn": "কেল্পের মাতৃ দ্রবণ (I⁻, Br⁻)",
+     "formula": "I⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "2I⁻ + Cl₂ → I₂ + 2Cl⁻",
+   "conditions": "উত্তপ্ত রিটর্ট, অ্যালুডেলে ঘনীভবন",
+   "observations_bn": "শৈবাল পুড়িয়ে ছাই (কেল্প) থেকে লবণ আলাদা করে মাতৃ দ্রবণে Cl₂ চালনা করা হয়। আয়োডিন উর্ধ্বপাতিত হয়ে অ্যালুডেলে জমে।",
+   "procedure_bn": [
+    "শৈবাল পুড়িয়ে কেল্প নাও ও পানিতে দ্রবীভূত করে স্ফটিক আলাদা করো",
+    "মাতৃ দ্রবণ রিটর্টে নিয়ে Cl₂ চালনা করে উত্তপ্ত করো",
+    "I₂ বাষ্প অ্যালুডেলে জমিয়ে সংগ্রহ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "রিটর্ট",
+    "অ্যালুডেল",
+    "Cl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-077",
+   "chapter_no": 2,
+   "section_no": "2.5",
+   "section_title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "book_page": 99,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মাতৃ দ্রবণে Br⁻ এর জারণ",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমাইড আয়ন",
+     "formula": "Br⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "2Br⁻ + Cl₂ → Br₂ + 2Cl⁻",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ব্রোমিন বাষ্প আলাদা হয়ে পানিতে শোষিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-078",
+   "chapter_no": 2,
+   "section_no": "2.5",
+   "section_title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "book_page": 99,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "I⁻ এর ব্রোমিন দ্বারা জারণ",
+   "reactants": [
+    {
+     "name_bn": "আয়োডাইড আয়ন",
+     "formula": "I⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ব্রোমাইড আয়ন",
+     "formula": "Br⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "2I⁻ + Br₂ → I₂ + 2Br⁻",
+   "conditions": "দ্রবণে",
+   "observations_bn": "মাতৃ দ্রবণে তরল ব্রোমিন যোগ করলে শুধু আয়োডাইড জারিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ব্রোমিন ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-079",
+   "chapter_no": 2,
+   "section_no": "2.6",
+   "section_title_bn": "পানির সাথে হ্যালোজেনের বিক্রিয়া",
+   "book_page": 100,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্লোরিন ও পানি (O₂)",
+   "reactants": [
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2F₂ + 2H₂O → 4HF + O₂",
+   "conditions": "20°C",
+   "observations_bn": "ফ্লোরিন পানিকে জারিত করে অক্সিজেন মুক্ত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-080",
+   "chapter_no": 2,
+   "section_no": "2.6",
+   "section_title_bn": "পানির সাথে হ্যালোজেনের বিক্রিয়া",
+   "book_page": 100,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্লোরিন ও পানি (O₃)",
+   "reactants": [
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "3F₂ + 3H₂O → 6HF + O₃",
+   "conditions": ">20°C",
+   "observations_bn": "উচ্চ তাপমাত্রায় ওজোনও উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-081",
+   "chapter_no": 2,
+   "section_no": "2.6",
+   "section_title_bn": "পানির সাথে হ্যালোজেনের বিক্রিয়া",
+   "book_page": 100,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন ও পানি (O₂ নির্গমন)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Cl₂ + 2H₂O → 4HCl + O₂",
+   "conditions": ">20°C",
+   "observations_bn": "ক্লোরিন পানিকে কিছুটা জারিত করে O₂ দেয়; ব্রোমিন ও আয়োডিন পানিকে জারিত করে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-082",
+   "chapter_no": 2,
+   "section_no": "2.6",
+   "section_title_bn": "পানির সাথে হ্যালোজেনের বিক্রিয়া",
+   "book_page": 100,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিনের পানিতে অসামঞ্জস্যতা",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HClO",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl₂ + H₂O ⇌ HCl + HClO",
+   "equation_printed": "Cl₂ + H₂O → HCl + HClO",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ক্লোরিনের একই পরমাণু একসাথে জারিত ও বিজারিত হয়; দ্রবণ ক্লোরিন পানি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-083",
+   "chapter_no": 2,
+   "section_no": "2.6",
+   "section_title_bn": "পানির সাথে হ্যালোজেনের বিক্রিয়া",
+   "book_page": 101,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "HClO এর আলোতে বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HClO",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2HClO → 2H⁺ + 2Cl⁻ + O₂",
+   "conditions": "সূর্যালোক",
+   "observations_bn": "আলোতে HClO ধীরে ভেঙে O₂ গ্যাস দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-084",
+   "chapter_no": 2,
+   "section_no": "2.6.1",
+   "section_title_bn": "ক্ষারের সাথে হ্যালোজেনের বিক্রিয়া : অসামঞ্জস্যতা বিক্রিয়া",
+   "book_page": 101,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ঠান্ডা লঘু NaOH ও ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "লঘু সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইপোক্লোরাইট",
+     "formula": "NaClO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cl₂ + 2NaOH → NaCl + NaClO + H₂O",
+   "conditions": "25°C",
+   "observations_bn": "ক্লারীয় অসামঞ্জস্যতা; Cl 0 থেকে −1 ও +1 হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-085",
+   "chapter_no": 2,
+   "section_no": "2.6.1",
+   "section_title_bn": "ক্ষারের সাথে হ্যালোজেনের বিক্রিয়া : অসামঞ্জস্যতা বিক্রিয়া",
+   "book_page": 101,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "উত্তপ্ত NaOCl থেকে ক্লোরেট (V)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইপোক্লোরাইট",
+     "formula": "NaClO",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরেট",
+     "formula": "NaClO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "3NaClO → NaClO₃ + 2NaCl",
+   "conditions": "প্রায় 70°C",
+   "observations_bn": "হাইপোক্লোরাইট গরমে ক্লোরেট ও ক্লোরাইডে ভাগ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-086",
+   "chapter_no": 2,
+   "section_no": "2.6.1",
+   "section_title_bn": "ক্ষারের সাথে হ্যালোজেনের বিক্রিয়া : অসামঞ্জস্যতা বিক্রিয়া",
+   "book_page": 102,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Br₂ ও ক্ষার দ্রবণ",
+   "reactants": [
+    {
+     "name_bn": "ক্ষার (OH⁻)",
+     "formula": "OH⁻",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "Br₂",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হ্যালাইড আয়ন",
+     "formula": "X⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ব্রোমেট(V)",
+     "formula": "BrO₃⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3Br₂ + 6OH⁻ → 5Br⁻ + BrO₃⁻ + 3H₂O",
+   "conditions": "শীতল বা উত্তপ্ত",
+   "observations_bn": "লঘু ক্ষারে হ্যালোজেন অসামঞ্জস্যতায় হ্যালাইড ও হ্যালেট(V) দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-087",
+   "chapter_no": 2,
+   "section_no": "2.6.1",
+   "section_title_bn": "ক্ষারের সাথে হ্যালোজেনের বিক্রিয়া : অসামঞ্জস্যতা বিক্রিয়া",
+   "book_page": 102,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "I₂ ও ক্ষার দ্রবণ",
+   "reactants": [
+    {
+     "name_bn": "ক্ষার (OH⁻)",
+     "formula": "OH⁻",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "I₂",
+     "formula": "I₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হ্যালাইড আয়ন",
+     "formula": "X⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়োডেট(V)",
+     "formula": "IO₃⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3I₂ + 6OH⁻ → 5I⁻ + IO₃⁻ + 3H₂O",
+   "conditions": "শীতল বা উত্তপ্ত",
+   "observations_bn": "লঘু ক্ষারে হ্যালোজেন অসামঞ্জস্যতায় হ্যালাইড ও হ্যালেট(V) দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-088",
+   "chapter_no": 2,
+   "section_no": "2.6.1",
+   "section_title_bn": "ক্ষারের সাথে হ্যালোজেনের বিক্রিয়া : অসামঞ্জস্যতা বিক্রিয়া",
+   "book_page": 102,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "শীতল লঘু ক্ষার ও F₂ (OF₂)",
+   "reactants": [
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "লঘু ক্ষার",
+     "formula": "OH⁻",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সিজেন ডাইফ্লোরাইড",
+     "formula": "OF₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরাইড আয়ন",
+     "formula": "F⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2F₂ + 2OH⁻ → OF₂ + 2F⁻ + H₂O",
+   "conditions": "<20°C",
+   "observations_bn": "ফ্লোরিন অন্য হ্যালোজেনের মতো আচরণ করে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-089",
+   "chapter_no": 2,
+   "section_no": "2.6.1",
+   "section_title_bn": "ক্ষারের সাথে হ্যালোজেনের বিক্রিয়া : অসামঞ্জস্যতা বিক্রিয়া",
+   "book_page": 102,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উত্তপ্ত গাঢ় ক্ষার ও F₂ (O₂)",
+   "reactants": [
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "গাঢ় ক্ষার",
+     "formula": "OH⁻",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরাইড আয়ন",
+     "formula": "F⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2F₂ + 4OH⁻ → O₂ + 4F⁻ + 2H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "গাঢ় গরম ক্ষারে O₂ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-090",
+   "chapter_no": 2,
+   "section_no": "2.6.1",
+   "section_title_bn": "ক্ষারের সাথে হ্যালোজেনের বিক্রিয়া : অসামঞ্জস্যতা বিক্রিয়া",
+   "book_page": 102,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কলিচুন ও Cl₂ (ব্লিচিং পাউডার)",
+   "reactants": [
+    {
+     "name_bn": "শুষ্ক কলিচুন",
+     "formula": "Ca(OH)₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্লিচিং পাউডার",
+     "formula": "Ca(OCl)Cl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "Ca(OH)₂ + Cl₂ → Ca(OCl)Cl + H₂O",
+   "conditions": "40°C",
+   "observations_bn": "শুষ্ক কলিচুনের উপর Cl₂ চালনায় ব্লিচিং পাউডার হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-091",
+   "chapter_no": 2,
+   "section_no": "2.6.1",
+   "section_title_bn": "ক্ষারের সাথে হ্যালোজেনের বিক্রিয়া : অসামঞ্জস্যতা বিক্রিয়া",
+   "book_page": 102,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "চুনের পানি ও Cl₂",
+   "reactants": [
+    {
+     "name_bn": "চুনের পানি",
+     "formula": "Ca(OH)₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম হাইপোক্লোরাইট",
+     "formula": "Ca(ClO)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2Cl₂ + 2Ca(OH)₂ → Ca(ClO)₂ + CaCl₂ + 2H₂O",
+   "conditions": "25°C",
+   "observations_bn": "পরিষ্কার চুনের পানিতে Cl₂ চালনায় দুটি লবণ দ্রবণে থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-092",
+   "chapter_no": 2,
+   "section_no": "2.7",
+   "section_title_bn": "ক্লোরিনের বিরঞ্জন ক্রিয়া ও জীবাণুনাশক ক্রিয়া",
+   "book_page": 102,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ক্লোরিন পানির বিরঞ্জন ক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন পানি",
+     "formula": "Cl₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "রঙিন বস্তু",
+     "formula": "",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বর্ণহীন জারিত বস্তু",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "Cl₂ + H₂O → HCl + HOCl; HOCl → HCl + [O]; রঙিন বস্তু + [O] → বর্ণহীন জারিত বস্তু",
+   "conditions": "আর্দ্র অবস্থায়, কক্ষ তাপমাত্রা",
+   "observations_bn": "জায়মান অক্সিজেন রং নষ্ট করে; Cl₂ জারণ দ্বারা বিরঞ্জন করে।",
+   "procedure_bn": [
+    "রঙিন ফুল বা কাপড় ক্লোরিন পানিতে ডুবাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরিন পানি",
+    "রঙিন কাপড়/ফুল"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-03-093",
+   "chapter_no": 2,
+   "section_no": "2.7",
+   "section_title_bn": "ক্লোরিনের বিরঞ্জন ক্রিয়া ও জীবাণুনাশক ক্রিয়া",
+   "book_page": 103,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন পানির জীবাণুনাশক ক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন পানি",
+     "formula": "Cl₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HClO",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl₂ + H₂O → HCl + HClO; HClO → HCl + [O]",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "জায়মান অক্সিজেন জীবাণুকোষ ধ্বংস করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-094",
+   "chapter_no": 2,
+   "section_no": "2.7.1",
+   "section_title_bn": "Cl₂ ও SO₂ এর বিরঞ্জন ক্রিয়ার তুলনা",
+   "book_page": 103,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আর্দ্র অবস্থায় SO₂ এর বিরঞ্জন",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "জায়মান হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "equation": "SO₂ + 2H₂O → H₂SO₄ + 2[H]",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "SO₂ বিজারণ দ্বারা রং নষ্ট করে, কিন্তু প্রভাব অস্থায়ী; বাতাসে রং আংশিক ফিরে আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-095",
+   "chapter_no": 2,
+   "section_no": "2.8",
+   "section_title_bn": "ধাতব হ্যালাইডসমূহ",
+   "book_page": 103,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আয়রন ও HCl গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "লোহা",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(II) ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Fe + 2HCl → FeCl₂ + H₂",
+   "equation_printed": "Fe(s) + HCl(g) → FeCl₂(s) + H₂(g)",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বইয়ে সমীকরণ Fe + HCl → FeCl₂ + H₂ আকারে ছাপা; সুষম রূপ দেওয়া হলো।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-03-096",
+   "chapter_no": 2,
+   "section_no": "2.8",
+   "section_title_bn": "ধাতব হ্যালাইডসমূহ",
+   "book_page": 103,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আয়রন ও ক্লোরিন (FeCl₃)",
+   "reactants": [
+    {
+     "name_bn": "লোহা",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Fe + 3Cl₂ → 2FeCl₃",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ক্লোরিনে লোহা উচ্চ জারণ অবস্থায় যায়, HCl এ নিম্ন অবস্থায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-097",
+   "chapter_no": 2,
+   "section_no": "2.8",
+   "section_title_bn": "ধাতব হ্যালাইডসমূহ",
+   "book_page": 103,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "জিংক ও লঘু HCl",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক ক্লোরাইড",
+     "formula": "ZnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Zn + 2HCl → ZnCl₂ + H₂",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "জিংক গলে H₂ গ্যাসের বুদবুদ ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জিংক টুকরা",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-098",
+   "chapter_no": 2,
+   "section_no": "2.8",
+   "section_title_bn": "ধাতব হ্যালাইডসমূহ",
+   "book_page": 103,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CuO ও HCl",
+   "reactants": [
+    {
+     "name_bn": "কপার(II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) ক্লোরাইড",
+     "formula": "CuCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CuO + 2HCl → CuCl₂ + H₂O",
+   "conditions": "মৃদু গরম",
+   "observations_bn": "CuO দ্রবীভূত হয়ে কপার(II) ক্লোরাইড দ্রবণ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuO",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-099",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CaF₂ ও গাঢ় H₂SO₄ (HF প্রস্তুতি)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফ্লোরাইড",
+     "formula": "CaF₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সালফেট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaF₂ + H₂SO₄ → CaSO₄ + 2HF",
+   "conditions": "তাপ",
+   "observations_bn": "HF গ্যাস পানিতে দ্রবীভূত করে হাইড্রোফ্লুরিক এসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HF অত্যন্ত ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-100",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SiO₂ ও HF",
+   "reactants": [
+    {
+     "name_bn": "সিলিকা",
+     "formula": "SiO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলিকন টেট্রাফ্লোরাইড",
+     "formula": "SiF₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SiO₂ + 4HF → SiF₄ + 2H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "কাচ ক্ষয় হয়, তাই HF প্লাটিনাম পাত্রে রাখা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-101",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SiF₄ ও HF থেকে H₂SiF₆",
+   "reactants": [
+    {
+     "name_bn": "সিলিকন টেট্রাফ্লোরাইড",
+     "formula": "SiF₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোফ্লোরোসিলিসিক এসিড",
+     "formula": "H₂SiF₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "SiF₄ + 2HF → H₂SiF₆",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বেশি HF এ SiF₄ জটিল এসিড গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-102",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaCl ও গাঢ় H₂SO₄ (200°C)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaCl + H₂SO₄ → NaHSO₄ + HCl",
+   "conditions": "প্রায় 200°C",
+   "observations_bn": "ধোঁয়াটে HCl গ্যাস বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-103",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaCl ও NaHSO₄ (500°C)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaCl + NaHSO₄ → Na₂SO₄ + HCl",
+   "conditions": "500°C এর উপরে",
+   "observations_bn": "উচ্চ তাপমাত্রায় আরও HCl পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-104",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "NaBr ও গাঢ় H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaBr + H₂SO₄ → NaHSO₄ + HBr",
+   "equation_printed": "2NaBr + 2H₂SO₄ → 2NaHSO₄ + 2HBr",
+   "conditions": "গরম করে",
+   "observations_bn": "HBr উৎপন্ন হয়ে পরের ধাপে জারিত হয়ে লালচে-বাদামি Br₂ বাষ্প দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "SO₂ ও Br₂ বিষাক্ত; হুডে করো",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-105",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "HBr এর গাঢ় H₂SO₄ দ্বারা জারণ (Br₂ উৎপাদন)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2HBr + H₂SO₄ → 2H₂O + SO₂ + Br₂",
+   "conditions": "গরম করে",
+   "observations_bn": "লালচে-বাদামি ব্রোমিন বাষ্প ও SO₂ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "SO₂ ও Br₂ বিষাক্ত; হুডে করো",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-106",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "NaI ও গাঢ় H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaI + H₂SO₄ → NaHSO₄ + HI",
+   "equation_printed": "2NaI + 2H₂SO₄ → 2NaHSO₄ + 2HI",
+   "conditions": "গরম করে",
+   "observations_bn": "HI আরও জারিত হয়ে বেগুনি আয়োডিন বাষ্প দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "হুডে করো",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-107",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "HI এর গাঢ় H₂SO₄ দ্বারা জারণ (I₂ উৎপাদন)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2HI + H₂SO₄ → 2H₂O + SO₂ + I₂",
+   "conditions": "গরম করে",
+   "observations_bn": "বেগুনি আয়োডিন বাষ্প দেখা যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "SO₂ বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-108",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 104,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হ্যালোজেন প্রস্তুতি : NaX + গাঢ় H₂SO₄ + MnO₂",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হ্যালাইড (Cl, Br, I)",
+     "formula": "NaX",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ সালফেট",
+     "formula": "MnSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হ্যালোজেন",
+     "formula": "X₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaX + 3H₂SO₄ + MnO₂ → 2NaHSO₄ + MnSO₄ + X₂ + 2H₂O",
+   "conditions": "তাপ (X = Cl, Br, I)",
+   "observations_bn": "এ পদ্ধতিতে Cl₂, Br₂, I₂ পাওয়া যায়; ফ্লোরিন নয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-109",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 105,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "হ্যালাইড শনাক্তকরণ : গাঢ় H₂SO₄ ও MnO₂ সহ সারসংক্ষেপ",
+   "reactants": [
+    {
+     "name_bn": "NaCl / NaBr / NaI",
+     "formula": "NaX",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় H₂SO₄ (± MnO₂)",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হ্যালোজেন হাইড্রাইড বা হ্যালোজেন",
+     "formula": "HX / X₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaX + 3H₂SO₄ + MnO₂ → 2NaHSO₄ + MnSO₄ + X₂ + 2H₂O",
+   "conditions": "গরম করে",
+   "observations_bn": "শুধু গাঢ় H₂SO₄ এ NaCl ধোঁয়াটে HCl, NaBr লালচে-বাদামি Br₂ বাষ্প ও HBr, NaI বেগুনি I₂ বাষ্প দেয়; MnO₂ যোগে Cl₂ সবুজাভ-হলুদ, Br₂ লালচে-বাদামি, I₂ বেগুনি পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "হুডে করো",
+   "confidence": "read",
+   "notes": "সারণি ২.৫ অনুযায়ী; ফ্লোরাইডে HF গ্যাস দেখা যায়।"
+  },
+  {
+   "id": "k12-03-110",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 105,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "MgCl₂·6H₂O গরম করলে আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "আর্দ্র ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂·6H₂O",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সি ক্লোরাইড",
+     "formula": "MgCl(OH)",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "MgCl₂·6H₂O → MgCl(OH) + HCl + 5H₂O",
+   "conditions": "গরম করে",
+   "observations_bn": "সোদক লবণ গরমে আর্দ্র বিশ্লেষিত হয়ে ক্ষারকীয় লবণ ও HCl দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-111",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 105,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "AlCl₃·6H₂O গরম করলে আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "আর্দ্র অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃·6H₂O",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "AlCl₃·6H₂O → Al(OH)₃ + 3HCl + 3H₂O",
+   "conditions": "গরম করে",
+   "observations_bn": "অনার্দ্র লবণ এভাবে পাওয়া যায় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-112",
+   "chapter_no": 2,
+   "section_no": "2.8.1",
+   "section_title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "book_page": 105,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "MgCl₂·6H₂O থেকে অনার্দ্র MgCl₂ (HCl প্রবাহে)",
+   "reactants": [
+    {
+     "name_bn": "MgCl₂·6H₂O",
+     "formula": "MgCl₂·6H₂O",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অনার্দ্র ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "MgCl₂·6H₂O → MgCl₂ + 6H₂O",
+   "conditions": "HCl গ্যাস প্রবাহে গরম",
+   "observations_bn": "HCl প্রবাহ আর্দ্র বিশ্লেষণ রোধ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-113",
+   "chapter_no": 2,
+   "section_no": "2.9",
+   "section_title_bn": "অধাতব হ্যালাইডসমূহ",
+   "book_page": 105,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও ফ্লোরিন (PF₅)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টাফ্লোরাইড",
+     "formula": "PF₅",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2P + 5F₂ → 2PF₅",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ফ্লোরিনে ফসফরাস সর্বোচ্চ জারণ অবস্থায় যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-114",
+   "chapter_no": 2,
+   "section_no": "2.9",
+   "section_title_bn": "অধাতব হ্যালাইডসমূহ",
+   "book_page": 105,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "SiCl₄ এর আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "সিলিকন টেট্রাক্লোরাইড",
+     "formula": "SiCl₄",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থো সিলিসিক এসিড",
+     "formula": "H₄SiO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "SiCl₄ + 4H₂O → H₄SiO₄ + 4HCl",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ধোঁয়া বেরোয়; সিলিসিক এসিড ও HCl তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ধোঁয়া ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-115",
+   "chapter_no": 2,
+   "section_no": "2.9",
+   "section_title_bn": "অধাতব হ্যালাইডসমূহ",
+   "book_page": 105,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "PCl₃ এর আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস এসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "PCl₃ + 3H₂O → H₃PO₃ + 3HCl",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "তীব্র বিক্রিয়ায় ধোঁয়াটে HCl ও ফসফরাস এসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "তীব্র বিক্রিয়া; ক্ষয়কারী ধোঁয়া",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-116",
+   "chapter_no": 2,
+   "section_no": "2.9",
+   "section_title_bn": "অধাতব হ্যালাইডসমূহ",
+   "book_page": 105,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "S₂Cl₂ এর আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "সালফার মনোক্লোরাইড",
+     "formula": "S₂Cl₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    }
+   ],
+   "equation": "2S₂Cl₂ + 2H₂O → SO₂ + 4HCl + 3S",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "SO₂ গ্যাস বের হয় ও সালফার অধঃক্ষিপ্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "SO₂ ও HCl বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-117",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "book_page": 106,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂ ও Cl₂ থেকে HCl সংশ্লেষণ (বইয়ে শিরোনাম ফ্লোরিন বলা হলেও সমীকরণ ক্লোরিনের)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂ + Cl₂ → 2HCl",
+   "conditions": "জ্বালিয়ে/আলোয়",
+   "observations_bn": "বাণিজ্যিকভাবে হাইড্রোজেন ক্লোরিন প্রবাহে পুড়িয়ে HCl পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-118",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "book_page": 106,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaCl ও গাঢ় H₂SO₄ থেকে HCl প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "NaCl + H₂SO₄ → HCl + NaHSO₄",
+   "conditions": "গরম করে",
+   "observations_bn": "পরীক্ষাগারে HCl প্রস্তুতির পদ্ধতি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "HBr ও HI এ পদ্ধতিতে বিশুদ্ধ আকারে হয় না, কারণ H₂SO₄ জারণ করে।"
+  },
+  {
+   "id": "k12-03-119",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "book_page": 106,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaCl ও NaHSO₄ ধাপ (HCl)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaCl + NaHSO₄ → Na₂SO₄ + HCl",
+   "conditions": "500°C এর উপরে",
+   "observations_bn": "দ্বিতীয় ধাপে আরও HCl নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-120",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "book_page": 106,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NaBr ও গাঢ় H₂SO₄ (HBr ও Br₂)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaBr + 2H₂SO₄ → 2NaHSO₄ + 2HBr",
+   "conditions": "গরম করে",
+   "observations_bn": "পরের জারণে লালচে ব্রোমিন বাষ্প ও SO₂ আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "হুডে করো",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-121",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "book_page": 107,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NaI ও গাঢ় H₂SO₄ (I₂ ও SO₂)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaI + 3H₂SO₄ → 2NaHSO₄ + 2H₂O + SO₂ + I₂",
+   "conditions": "গরম করে",
+   "observations_bn": "HI আসলেই গাঢ় H₂SO₄ তাকে জারিত করে আয়োডিন বাষ্প দেয়; HI পাওয়া যায় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "হুডে করো",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-122",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "book_page": 107,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CaF₂ ও গাঢ় H₂SO₄ (HF)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফ্লোরাইড",
+     "formula": "CaF₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রোজেন সালফেট",
+     "formula": "Ca(HSO₄)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CaF₂ + 2H₂SO₄ → 2HF + Ca(HSO₄)₂",
+   "conditions": "গরম করে",
+   "observations_bn": "HF বিষাক্ত ও ক্ষয়কারী, তাই CaF₂ ও H₂SO₄ দিয়ে প্রস্তুত করা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HF মারাত্মক ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-123",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "book_page": 107,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "লোহিত P + Br₂ + পানি দ্বারা HBr",
+   "reactants": [
+    {
+     "name_bn": "লোহিত ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ফসফরাস এসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2P + 3Br₂ + 6H₂O → 2H₃PO₃ + 6HBr",
+   "equation_printed": "2P + 3Br₂ → 2PBr₃; PBr₃ + 3H₂O → 3HBr + H₃PO₃",
+   "conditions": "কক্ষ তাপমাত্রা, ফোঁটায় ফোঁটায় পানি",
+   "observations_bn": "প্রথমে PBr₃ তৈরি হয়, পরে পানিতে বিশ্লেষিত হয়ে HBr দেয় (সমীকরণ দুটি ধাপের সমষ্টি)।",
+   "procedure_bn": [
+    "লোহিত P ও Br₂ মিশাও",
+    "ফোঁটায় ফোঁটায় পানি যোগ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ব্রোমিন ও HBr ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-03-124",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "book_page": 107,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "লোহিত P + I₂ + পানি দ্বারা HI",
+   "reactants": [
+    {
+     "name_bn": "লোহিত ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ফসফরাস এসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2P + 3I₂ + 6H₂O → 2H₃PO₃ + 6HI",
+   "equation_printed": "2P + 3I₂ → 2PI₃; PI₃ + 3H₂O → 3HI + H₃PO₃",
+   "conditions": "কক্ষ তাপমাত্রা, ফোঁটায় ফোঁটায় পানি",
+   "observations_bn": "PI₃ গঠিত হয়ে পানিতে ভেঙে HI দেয়।",
+   "procedure_bn": [
+    "লোহিত P ও I₂ গুঁড়া মিশাও",
+    "ফোঁটায় ফোঁটায় পানি যোগ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 2,
+   "no": "2",
+   "title_bn": "গ্রুপ-VII মৌলসমূহের রসায়ন : হ্যালোজেন গ্রুপ (অধ্যায় শুরু; মুদ্রিত পৃষ্ঠা ৮৬)",
+   "start_page": 86
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.1",
+   "title_bn": "ভূমিকা",
+   "start_page": 87
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.2",
+   "title_bn": "হ্যালোজেন গ্রুপের মৌলসমূহের পর্যায়ভিত্তিক ধর্ম",
+   "start_page": 88
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.2.1",
+   "title_bn": "হ্যালোজেনসমূহের পর্যায়ভিত্তিক ভৌত ধর্ম",
+   "start_page": 88
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.3",
+   "title_bn": "হ্যালোজেনসমূহের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "start_page": 90
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.3.1",
+   "title_bn": "জারক হিসেবে হ্যালোজেনসমূহের বিক্রিয়া",
+   "start_page": 92
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.4",
+   "title_bn": "হ্যালোজেনসমূহের উৎস",
+   "start_page": 98
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.5",
+   "title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "start_page": 98
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.6",
+   "title_bn": "পানির সাথে হ্যালোজেনের বিক্রিয়া",
+   "start_page": 100
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.6.1",
+   "title_bn": "ক্ষারের সাথে হ্যালোজেনের বিক্রিয়া : অসামঞ্জস্যতা বিক্রিয়া",
+   "start_page": 101
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.7",
+   "title_bn": "ক্লোরিনের বিরঞ্জন ক্রিয়া ও জীবাণুনাশক ক্রিয়া",
+   "start_page": 102
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.7.1",
+   "title_bn": "Cl₂ ও SO₂ এর বিরঞ্জন ক্রিয়ার তুলনা",
+   "start_page": 103
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.8",
+   "title_bn": "ধাতব হ্যালাইডসমূহ",
+   "start_page": 103
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.8.1",
+   "title_bn": "ধাতব হ্যালাইডের রাসায়নিক ধর্ম",
+   "start_page": 104
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.9",
+   "title_bn": "অধাতব হ্যালাইডসমূহ",
+   "start_page": 105
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.10",
+   "title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "start_page": 106
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "PDF 87-100 (printed 72-85) are exam-question pages of chapter 1 (group V/VI) and were skipped; chapter 2 starts at printed p.86 (pdf 101). Printed p.107 (pdf 122) ends mid-section 2.10 (HX properties table continues beyond chunk). Observation text for several metal/nonmetal+halogen reactions is general (book gives equations/conditions only)."
+}

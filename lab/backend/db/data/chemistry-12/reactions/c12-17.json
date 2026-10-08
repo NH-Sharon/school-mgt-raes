@@ -1,0 +1,2148 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  591,
+  626
+ ],
+ "page_offset_note": "printed page = pdf page - 15 (pdf 591-597 are printed 576-582, Ch.10 exam pages; pdf 598 is the Ch.11 opener, printed 583)",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-17-01",
+   "chapter_no": 11,
+   "section_no": "11.1",
+   "section_title_bn": "ভূমিকা",
+   "book_page": 583,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পলিস্যাকারাইডের আর্দ্রবিশ্লেষণে গ্লুকোজ",
+   "reactants": [
+    {
+     "name_bn": "পলিস্যাকারাইড",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "(C₆H₁₀O₅)n + nH₂O → nC₆H₁₂O₆",
+   "conditions": "অম্ল মাধ্যম (H⁺), তাপ",
+   "observations_bn": "পলিস্যাকারাইড ভেঙে একক গ্লুকোজ অণু তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "পৃষ্ঠার সমীকরণের অংশ ঝাপসা; শর্ত অনুমিত পড়া হয়েছে।"
+  },
+  {
+   "id": "k12-17-02",
+   "chapter_no": 11,
+   "section_no": "11.1",
+   "section_title_bn": "ভূমিকা",
+   "book_page": 584,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোটিনের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "প্রোটিন",
+     "formula": "প্রোটিন",
+     "state": "solid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামাইনো এসিডসমূহ",
+     "formula": "H₂N-CHR-COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "প্রোটিন + nH₂O → অ্যামাইনো এসিডসমূহ",
+   "conditions": "মৃদু অম্ল (H⁺), তাপ",
+   "observations_bn": "মৃদু অম্লে ফুটিয়ে প্রোটিন ভেঙে বিভিন্ন অ্যামাইনো এসিড পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "ছাপা সমীকরণ শব্দ-আকারে; ভারসাম্য প্রযোজ্য নয়।"
+  },
+  {
+   "id": "k12-17-03",
+   "chapter_no": 11,
+   "section_no": "11.1",
+   "section_title_bn": "ভূমিকা",
+   "book_page": 584,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নিউক্লিয়োপ্রোটিনের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "নিউক্লিয়োপ্রোটিন",
+     "formula": "নিউক্লিয়োপ্রোটিন",
+     "state": "solid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিউক্লিক এসিড",
+     "formula": "নিউক্লিক এসিড",
+     "state": "solution"
+    },
+    {
+     "name_bn": "প্রোটিন",
+     "formula": "প্রোটিন",
+     "state": "solution"
+    }
+   ],
+   "equation": "নিউক্লিয়োপ্রোটিন + H₂O → নিউক্লিক এসিড + প্রোটিন",
+   "conditions": "মৃদু অম্ল (H⁺), তাপ",
+   "observations_bn": "যৌগটি প্রোটিন অংশ ও নিউক্লিক এসিড অংশে ভাগ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-04",
+   "chapter_no": 11,
+   "section_no": "11.1",
+   "section_title_bn": "ভূমিকা",
+   "book_page": 584,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নিউক্লিক এসিডের আর্দ্রবিশ্লেষণ (ক্ষারক, চিনি, ফসফরিক এসিড)",
+   "reactants": [
+    {
+     "name_bn": "নিউক্লিক এসিড",
+     "formula": "নিউক্লিক এসিড",
+     "state": "solid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্ষারক (পিউরিন/পিরিমিডিন)",
+     "formula": "ক্ষারক",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পেন্টোজ চিনি",
+     "formula": "পেন্টোজ",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "নিউক্লিক এসিড + H₂O → ক্ষারক + পেন্টোজ চিনি + H₃PO₄",
+   "conditions": "মৃদু অম্ল (H⁺), তাপ",
+   "observations_bn": "সম্পূর্ণ বিশ্লেষণে তিন ধরনের উপাদান পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-05",
+   "chapter_no": 11,
+   "section_no": "11.2",
+   "section_title_bn": "পলিস্যাকারাইড ও গ্লুকোজ",
+   "book_page": 585,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালোকসংশ্লেষণে গ্লুকোজ তৈরি",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+   "conditions": "ক্লোরোফিল, সূর্যালোক",
+   "observations_bn": "সবুজ পাতায় আলোর উপস্থিতিতে গ্লুকোজ ও অক্সিজেন উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-06",
+   "chapter_no": 11,
+   "section_no": "11.2",
+   "section_title_bn": "পলিস্যাকারাইড ও গ্লুকোজ",
+   "book_page": 585,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্লুকোজ থেকে স্টার্চ/সেলুলোজের ঘনীভবন",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "স্টার্চ বা সেলুলোজ",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "nC₆H₁₂O₆ → (C₆H₁₀O₅)n + nH₂O",
+   "conditions": "এনজাইম, ঘনীভবন",
+   "observations_bn": "পানি বেরিয়ে বহু গ্লুকোজ জুড়ে বৃহৎ পলিমার হয়; স্টার্চে n প্রায় 1200–6000, সেলুলোজে প্রায় 300–3000।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-07",
+   "chapter_no": 11,
+   "section_no": "11.2",
+   "section_title_bn": "পলিস্যাকারাইড ও গ্লুকোজ",
+   "book_page": 585,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্লুকোজ থেকে গ্লাইকোজেন গঠন",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লাইকোজেন",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "nC₆H₁₂O₆ → (C₆H₁₀O₅)n + nH₂O",
+   "conditions": "এনজাইম, ঘনীভবন",
+   "observations_bn": "যকৃতে গ্লুকোজ জমা হয়ে প্রাণিজ স্টার্চ তৈরি হয়; n প্রায় 6000–30000।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-08",
+   "chapter_no": 11,
+   "section_no": "11.3",
+   "section_title_bn": "কার্বহাইড্রেটের শ্রেণীবিভাগ",
+   "book_page": 586,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সুক্রোজের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "সুক্রোজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফ্রুক্টোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ + C₆H₁₂O₆",
+   "conditions": "লঘু অম্ল (H⁺), মৃদু উত্তপ্ত",
+   "observations_bn": "এক অণু সুক্রোজ থেকে গ্লুকোজ ও ফ্রুক্টোজ একটি করে অণু মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-09",
+   "chapter_no": 11,
+   "section_no": "11.3",
+   "section_title_bn": "কার্বহাইড্রেটের শ্রেণীবিভাগ",
+   "book_page": 586,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "মল্টোজের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "মল্টোজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    },
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₁₂H₂₂O₁₁ + H₂O → 2C₆H₁₂O₆",
+   "equation_printed": "C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ + C₆H₁₂O₆",
+   "conditions": "HCl",
+   "observations_bn": "মল্টোজ ভেঙে দুই অণু গ্লুকোজ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-10",
+   "chapter_no": 11,
+   "section_no": "11.3",
+   "section_title_bn": "কার্বহাইড্রেটের শ্রেণীবিভাগ",
+   "book_page": 586,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "স্টার্চের অম্লীয় আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "স্টার্চ",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "(C₆H₁₀O₅)n + nH₂O → nC₆H₁₂O₆",
+   "conditions": "HCl, ফুটন্ত",
+   "observations_bn": "স্টার্চ ধীরে ধীরে ভেঙে গ্লুকোজে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-11",
+   "chapter_no": 11,
+   "section_no": "11.5",
+   "section_title_bn": "গ্লুকোজ অণুর গঠন ও ফিশার সংকেত",
+   "book_page": 587,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "গ্লুকোজের অ্যালডিহাইড মূলকের প্রমাণ — ব্রোমিন পানি",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন পানি",
+     "formula": "Br₂/H₂O",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোনিক এসিড",
+     "formula": "C₆H₁₂O₇",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোব্রোমিক এসিড",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₁₂O₆ + Br₂ + H₂O → C₆H₁₂O₇ + 2HBr",
+   "conditions": "room temp",
+   "observations_bn": "বইয়ে শুধু বলা আছে মৃদু জারকে গ্লুকোজ গ্লুকোনিক এসিড হয়; পর্যবেক্ষণ ছাপা নেই।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "ব্রোমিন পানি দিয়ে জারণের ফল বইয়ে ছাপা, সমীকরণটি বই দেয়নি, নিজে সম্পূর্ণ করা।"
+  },
+  {
+   "id": "k12-17-12",
+   "chapter_no": 11,
+   "section_no": "11.5",
+   "section_title_bn": "গ্লুকোজ অণুর গঠন ও ফিশার সংকেত",
+   "book_page": 587,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্লুকোজের HI দ্বারা বিজারণ (শাখাহীন কাঠামোর প্রমাণ)",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোআয়োডিক এসিড",
+     "formula": "HI",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "n-হেক্সেন",
+     "formula": "C₆H₁₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₁₂O₆ + 14HI → C₆H₁₄ + 6H₂O + 7I₂",
+   "conditions": "গাঢ় HI, লোহিত ফসফরাস, তাপ",
+   "observations_bn": "গ্লুকোজ পুরোপুরি বিজারিত হয়ে সরল শিকলের n-হেক্সেন দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ে শুধু ফল (n-হেক্সেন) আছে, সমীকরণ নেই; নিজে ভারসাম্য করা।"
+  },
+  {
+   "id": "k12-17-13",
+   "chapter_no": 11,
+   "section_no": "11.7",
+   "section_title_bn": "D-গ্লুকোজের সাইক্লিক বা চাক্রিক গঠন",
+   "book_page": 589,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্লুকোজের মিউটারোটেশন (α ⇌ মুক্তশিকল ⇌ β)",
+   "reactants": [
+    {
+     "name_bn": "α-D-গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "β-D-গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "α-D-গ্লুকোজ (প্রায় 36%) ⇌ মুক্তশিকল গ্লুকোজ (প্রায় 0.02%) ⇌ β-D-গ্লুকোজ (প্রায় 64%)",
+   "conditions": "জলীয় দ্রবণ, সাম্যাবস্থা",
+   "observations_bn": "দ্রবণে আবর্তন ধীরে বদলে +53° হয় (α: +113°, β: +19°)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "মিউটারোটেশন পোলারিমিটারে দেখা যায় (588 পৃ.); 36/0.02/64% মান 589 পৃ.।"
+  },
+  {
+   "id": "k12-17-14",
+   "chapter_no": 11,
+   "section_no": "11.7",
+   "section_title_bn": "D-গ্লুকোজের সাইক্লিক বা চাক্রিক গঠন",
+   "book_page": 589,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হেমি-অ্যাসিট্যাল ও অ্যাসিট্যাল গঠন (কার্বনাইল + অ্যালকোহল)",
+   "reactants": [
+    {
+     "name_bn": "কার্বনাইল যৌগ",
+     "formula": "C=O",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "ROH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেমি-অ্যাসিট্যাল",
+     "formula": "C(OH)(OR)",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যাসিট্যাল",
+     "formula": "C(OR)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "C=O + ROH ⇌ C(OH)(OR);  C(OH)(OR) + ROH → C(OR)₂ + H₂O",
+   "conditions": "অম্ল প্রভাবক",
+   "observations_bn": "গ্লুকোজে একই অণুতে এই বিক্রিয়া হয়ে চক্রাকার হেমি-অ্যাসিট্যাল গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-15",
+   "chapter_no": 11,
+   "section_no": "11.8",
+   "section_title_bn": "চিনির বিজারণ ক্ষমতা",
+   "book_page": 590,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফেলিং দ্রবণ পরীক্ষা (বিজারক চিনি)",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফেলিং দ্রবণ",
+     "formula": "Cu(OH)₂ + NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউপ্রাস অক্সাইড",
+     "formula": "Cu₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম D-গ্লুকোনেট",
+     "formula": "CH₂OH(CHOH)₄COONa",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₂OH(CHOH)₄CHO + 2Cu(OH)₂ + NaOH → Cu₂O↓ + CH₂OH(CHOH)₄COONa + 3H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "গাঢ় নীল দ্রবণ থেকে লালচে Cu₂O অধঃক্ষেপ পড়ে। সুক্রোজ এই পরীক্ষা দেয় না।",
+   "procedure_bn": [
+    "গ্লুকোজ দ্রবণে কয়েক ফোঁটা ফেলিং দ্রবণ দিন",
+    "উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গ্লুকোজ দ্রবণ",
+    "ফেলিং দ্রবণ",
+    "টেস্ট টিউব",
+    "বার্নার/গরম পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সোডিয়াম সাইট্রেট ব্যবহার করলে একে বেনেডিক্ট পরীক্ষা বলে।"
+  },
+  {
+   "id": "k12-17-16",
+   "chapter_no": 11,
+   "section_no": "11.8",
+   "section_title_bn": "চিনির বিজারণ ক্ষমতা",
+   "book_page": 590,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "টলেন বিকারক পরীক্ষা (রুপার দর্পণ)",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "টলেন বিকারক",
+     "formula": "Ag(NH₃)₂OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম গ্লুকোনেট",
+     "formula": "CH₂OH(CHOH)₄COONH₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₂OH(CHOH)₄CHO + 2Ag(NH₃)₂OH → 2Ag↓ + CH₂OH(CHOH)₄COONH₄ + 3NH₃ + H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "টেস্ট টিউবের গায়ে উজ্জ্বল রুপালি আস্তর (সিলভার দর্পণ) জমে।",
+   "procedure_bn": [
+    "গ্লুকোজ দ্রবণে কয়েক ফোঁটা টলেন বিকারক দিন",
+    "উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গ্লুকোজ দ্রবণ",
+    "টলেন বিকারক",
+    "টেস্ট টিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-17",
+   "chapter_no": 11,
+   "section_no": "11.9",
+   "section_title_bn": "ডাইস্যাকারাইড",
+   "book_page": 591,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "α-গ্লাইকোসাইড বন্ধনে মল্টোজ গঠন",
+   "reactants": [
+    {
+     "name_bn": "α-D-গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "α-D-গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মল্টোজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₆H₁₂O₆ → C₁₂H₂₂O₁₁ + H₂O",
+   "conditions": "ঘনীভবন (C₁–C₄ বন্ধন)",
+   "observations_bn": "পানি অপসারিত হয়ে C–O–C α-গ্লাইকোসাইড বন্ধন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-18",
+   "chapter_no": 11,
+   "section_no": "11.9",
+   "section_title_bn": "ডাইস্যাকারাইড",
+   "book_page": 591,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "β-গ্লাইকোসাইড বন্ধন (সেলুলোজের একক)",
+   "reactants": [
+    {
+     "name_bn": "β-D-গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "β-D-গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "β-গ্লাইকোসাইড যুক্ত ডাইস্যাকারাইড",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₆H₁₂O₆ → C₁₂H₂₂O₁₁ + H₂O",
+   "conditions": "ঘনীভবন (C₁–C₄ বন্ধন)",
+   "observations_bn": "β-বন্ধনে যুক্ত শিকল দিয়ে সেলুলোজ গঠিত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-19",
+   "chapter_no": 11,
+   "section_no": "11.10",
+   "section_title_bn": "বিভিন্ন পলিস্যাকারাইডের গঠন",
+   "book_page": 593,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "স্টার্চ–আয়োডিন পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "স্টার্চ দ্রবণ",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন দ্রবণ",
+     "formula": "I₂/KI",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নীল আয়োডিন-অ্যামাইলোজ জটিল",
+     "formula": "অন্তর্ভুক্তি জটিল",
+     "state": "solution"
+    }
+   ],
+   "equation": "স্টার্চ (অ্যামাইলোজ) + I₂ → গাঢ় নীল অন্তর্ভুক্তি জটিল",
+   "conditions": "room temp",
+   "observations_bn": "অ্যামাইলোজের পেঁচানো শিকলে আয়োডিন আটকে গাঢ় নীল রং হয়। অ্যামাইলোপেকটিন নীল দেয় না; গাঢ় নীল তাপে চলে যায়।",
+   "procedure_bn": [
+    "স্টার্চ দ্রবণে ২–১ ফোঁটা লঘু আয়োডিন দ্রবণ দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "স্টার্চ দ্রবণ",
+    "আয়োডিন দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "পৃষ্ঠা 592–593; ছাপা সমীকরণ নেই, রাসায়নিক গঠনের ব্যাখ্যা বইয়ে আছে।"
+  },
+  {
+   "id": "k12-17-20",
+   "chapter_no": 11,
+   "section_no": "11.10",
+   "section_title_bn": "বিভিন্ন পলিস্যাকারাইডের গঠন",
+   "book_page": 593,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "স্টার্চের ধাপে ধাপে আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "স্টার্চ",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডেক্সট্রিন",
+     "formula": "(C₆H₁₀O₅)x",
+     "state": "solution"
+    },
+    {
+     "name_bn": "মল্টোজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solution"
+    },
+    {
+     "name_bn": "α-D-গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "স্টার্চ → ডেক্সট্রিন → মল্টোজ → α-D-গ্লুকোজ (প্রতি ধাপে H₂O, H⁺)",
+   "conditions": "লঘু HCl বা এনজাইম",
+   "observations_bn": "প্রথমে ডেক্সট্রিন, তারপর মল্টোজ, শেষে গ্লুকোজ মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "ছাপা স্কিম শব্দ-আকারে; ফলে গ্লুকোজ ফেলিং/টলেন বিক্রিয়া দেয়, স্টার্চ দেয় না।"
+  },
+  {
+   "id": "k12-17-21",
+   "chapter_no": 11,
+   "section_no": "11.10",
+   "section_title_bn": "বিভিন্ন পলিস্যাকারাইডের গঠন",
+   "book_page": 593,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "গ্লাইকোজেন ও আয়োডিন",
+   "reactants": [
+    {
+     "name_bn": "গ্লাইকোজেন",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন দ্রবণ",
+     "formula": "I₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লালচে বাদামি জটিল",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "গ্লাইকোজেন + I₂ → লালচে-বাদামি রং",
+   "conditions": "room temp",
+   "observations_bn": "আয়োডিনের সাথে লালচে বাদামি রং দেয়; পানিতে দ্রবণীয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-22",
+   "chapter_no": 11,
+   "section_no": "11.10",
+   "section_title_bn": "বিভিন্ন পলিস্যাকারাইডের গঠন",
+   "book_page": 593,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সেলুলোজের গাঢ় HCl-এ আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "সেলুলোজ",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সেলুবায়োজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solution"
+    },
+    {
+     "name_bn": "β-D-গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "সেলুলোজ → সেলুডেক্সট্রিন → সেলুবায়োজ → β-D-গ্লুকোজ (H₂O, গাঢ় HCl)",
+   "conditions": "গাঢ় HCl, উত্তপ্ত",
+   "observations_bn": "ধীরে ধীরে ছোট পলিমার, ডাইস্যাকারাইড ও শেষে গ্লুকোজ মিশ্রণ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-23",
+   "chapter_no": 11,
+   "section_no": "11.10",
+   "section_title_bn": "বিভিন্ন পলিস্যাকারাইডের গঠন",
+   "book_page": 593,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "সেলুলোজ দ্রবীভূত করার দ্রাবক",
+   "reactants": [
+    {
+     "name_bn": "সেলুলোজ",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কলয়ডীয় দ্রবণ",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "সেলুলোজ + বিশেষ বিকারক → দ্রবণ (ছাপা সমীকরণ নেই)",
+   "conditions": "room temp",
+   "observations_bn": "পানিতে অদ্রবণীয় সেলুলোজ কিউপ্রিক হাইড্রক্সাইড/অ্যামোনিয়া, ZnCl₂/HCl বা NaOH+CS₂-এ গলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cu(OH)₂ + NH₃",
+    "ZnCl₂ + HCl",
+    "NaOH + CS₂"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "কোনো সমীকরণ বা পরিমাণ ছাপা নেই; এটি তালিকা-ভিত্তিক।"
+  },
+  {
+   "id": "k12-17-24",
+   "chapter_no": 11,
+   "section_no": "11.13",
+   "section_title_bn": "α-অ্যামাইনো এসিড সংশ্লেষণ",
+   "book_page": 598,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "α-হ্যালো এসিড থেকে গ্লাইসিন সংশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "মনোক্লোরো অ্যাসিটিক এসিড",
+     "formula": "ClCH₂COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লাইসিন",
+     "formula": "H₂N-CH₂-COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "ClCH₂COOH + 3NH₃ → H₂NCH₂COONH₄ + NH₄Cl;  H₂NCH₂COONH₄ + HCl → H₂NCH₂COOH + NH₄Cl",
+   "conditions": "50°C, অতিরিক্ত NH₃; পরে লঘু HCl",
+   "observations_bn": "অতিরিক্ত অ্যামোনিয়ায় অ্যামোনিয়াম লবণ হয়, অম্ল দিলে গ্লাইসিন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-25",
+   "chapter_no": 11,
+   "section_no": "11.13",
+   "section_title_bn": "α-অ্যামাইনো এসিড সংশ্লেষণ",
+   "book_page": 598,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "α-ব্রোমো প্রোপিয়নিক এসিড থেকে অ্যালানিন",
+   "reactants": [
+    {
+     "name_bn": "α-ব্রোমো প্রোপিয়নিক এসিড",
+     "formula": "CH₃CHBrCOOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালানিন",
+     "formula": "CH₃CH(NH₂)COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CHBrCOOH + 3NH₃ → CH₃CH(NH₂)COONH₄ + NH₄Br;  CH₃CH(NH₂)COONH₄ + H₂O →(H⁺) CH₃CH(NH₂)COOH + NH₄⁺",
+   "conditions": "50°C; পরে H⁺/H₂O",
+   "observations_bn": "অ্যামোনিয়াম লবণ হয়ে অম্লে বিশ্লেষিত হয়ে অ্যালানিন দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "ধাপ-২ এর ফেরত পাওয়া অংশ বইয়ে সংক্ষেপে; ভারসাম্য নিজে সম্পূর্ণ।"
+  },
+  {
+   "id": "k12-17-26",
+   "chapter_no": 11,
+   "section_no": "11.13",
+   "section_title_bn": "α-অ্যামাইনো এসিড সংশ্লেষণ",
+   "book_page": 598,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "α-হ্যালো এসিড প্রস্তুতি (হ্যালোজেনেশন)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরো অ্যাসিটিক এসিড",
+     "formula": "ClCH₂COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COOH + Cl₂ → ClCH₂COOH + HCl",
+   "conditions": "লোহিত ফসফরাস (P)",
+   "observations_bn": "কার্বক্সিলিক এসিডের α-H হ্যালোজেন দ্বারা প্রতিস্থাপিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "প্রোপিয়নিক এসিড + Br₂ (PBr₃) → CH₃CHBrCOOH + HBr একইভাবে ছাপা।"
+  },
+  {
+   "id": "k12-17-27",
+   "chapter_no": 11,
+   "section_no": "11.13",
+   "section_title_bn": "α-অ্যামাইনো এসিড সংশ্লেষণ",
+   "book_page": 599,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্ট্রেকার সংশ্লেষণে গ্লাইসিন",
+   "reactants": [
+    {
+     "name_bn": "ফরম্যালডিহাইড",
+     "formula": "HCHO",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "HCN",
+     "formula": "HCN",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লাইসিন",
+     "formula": "H₂NCH₂COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "HCHO + HCN → HOCH₂CN;  HOCH₂CN + NH₃ → H₂NCH₂CN + H₂O;  H₂NCH₂CN + 2H₂O → H₂NCH₂COOH + NH₃",
+   "conditions": "H⁺/H₂O",
+   "observations_bn": "সায়ানোহাইড্রিন → α-অ্যামাইনো নাইট্রাইল → আর্দ্রবিশ্লেষণে গ্লাইসিন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HCN অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-28",
+   "chapter_no": 11,
+   "section_no": "11.13",
+   "section_title_bn": "α-অ্যামাইনো এসিড সংশ্লেষণ",
+   "book_page": 599,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্ট্রেকার সংশ্লেষণে অ্যালানিন",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটালডিহাইড",
+     "formula": "CH₃CHO",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "HCN",
+     "formula": "HCN",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালানিন",
+     "formula": "CH₃CH(NH₂)COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CHO + HCN → CH₃CH(OH)CN;  CH₃CH(OH)CN + NH₃ → CH₃CH(NH₂)CN + H₂O;  CH₃CH(NH₂)CN + 2H₂O → CH₃CH(NH₂)COOH + NH₃",
+   "conditions": "H⁺/H₂O",
+   "observations_bn": "গ্লাইসিনের একই পথে অ্যালানিন পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HCN অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-29",
+   "chapter_no": 11,
+   "section_no": "11.13",
+   "section_title_bn": "α-অ্যামাইনো এসিড সংশ্লেষণ",
+   "book_page": 599,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথিয়োনিন সংশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "প্রোপেনাল (অ্যাক্রোলিন)",
+     "formula": "CH₂=CHCHO",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "মিথাইল থায়োঅ্যালকোহল",
+     "formula": "CH₃SH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "HCN",
+     "formula": "HCN",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "NH₃",
+     "formula": "NH₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথিয়োনিন",
+     "formula": "CH₃SCH₂CH₂CH(NH₂)COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₂=CHCHO + CH₃SH → CH₃SCH₂CH₂CHO;  CH₃SCH₂CH₂CHO + HCN + NH₃ → CH₃SCH₂CH₂CH(NH₂)CN + H₂O;  CH₃SCH₂CH₂CH(NH₂)CN + 2H₂O → CH₃SCH₂CH₂CH(NH₂)COOH + NH₃",
+   "conditions": "H⁺/H₂O",
+   "observations_bn": "বাণিজ্যিক পদ্ধতিতে মিথিয়োনিন এভাবে পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HCN অত্যন্ত বিষাক্ত।",
+   "confidence": "partly-legible",
+   "notes": "HCN/NH₃ ধাপের লেখা সামান্য অস্পষ্ট; ভারসাম্য নিজে সম্পূর্ণ।"
+  },
+  {
+   "id": "k12-17-30",
+   "chapter_no": 11,
+   "section_no": "11.14",
+   "section_title_bn": "α-অ্যামাইনো এসিডের ধর্ম",
+   "book_page": 599,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যামাইনো এসিডের জুইটার আয়ন ও pH পরিবর্তন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামাইনো এসিড (জুইটার আয়ন)",
+     "formula": "R-CH(NH₃⁺)COO⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অম্ল/ক্ষার",
+     "formula": "H⁺ / OH⁻",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যাটায়ন / অ্যানায়ন",
+     "formula": "R-CH(NH₃⁺)COOH / R-CH(NH₂)COO⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "R-CH(NH₃⁺)COO⁻ + H⁺ → R-CH(NH₃⁺)COOH;   R-CH(NH₃⁺)COO⁻ + OH⁻ → R-CH(NH₂)COO⁻ + H₂O",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "অম্লে ধনাত্মক ও ক্ষারে ঋণাত্মক আয়ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-31",
+   "chapter_no": 11,
+   "section_no": "11.14",
+   "section_title_bn": "α-অ্যামাইনো এসিডের ধর্ম",
+   "book_page": 600,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "অ্যামাইনো এসিডের ইলেকট্রোফোরেসিস",
+   "reactants": [
+    {
+     "name_bn": "অ্যামাইনো এসিড দ্রবণ",
+     "formula": "",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "স্থানান্তরিত আয়ন",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "অম্লে: R-CH(NH₃⁺)COOH → ক্যাথোডে;  ক্ষারে: R-CH(NH₂)COO⁻ → অ্যানোডে",
+   "conditions": "বিদ্যুৎ প্রবাহ",
+   "observations_bn": "অম্লীয় দ্রবণে ক্যাথোডের দিকে ও ক্ষারীয় দ্রবণে অ্যানোডের দিকে সরে। pI: লাইসিন 9.7, অ্যালানিন 6.1, গ্লাইসিন 6.0, সিরিন 5.7, অ্যাসপারটিক এসিড 2.8।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-32",
+   "chapter_no": 11,
+   "section_no": "11.14",
+   "section_title_bn": "α-অ্যামাইনো এসিডের ধর্ম",
+   "book_page": 600,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "গ্লাইসিন + NaOH (অম্ল ধর্ম)",
+   "reactants": [
+    {
+     "name_bn": "গ্লাইসিন",
+     "formula": "H₂NCH₂COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যামাইনো অ্যাসিটেট",
+     "formula": "H₂NCH₂COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂NCH₂COOH + NaOH → H₂NCH₂COONa + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "কার্বক্সিল মূলক ক্ষারের সাথে লবণ গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-33",
+   "chapter_no": 11,
+   "section_no": "11.14",
+   "section_title_bn": "α-অ্যামাইনো এসিডের ধর্ম",
+   "book_page": 600,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্লাইসিনের এস্টারিকরণ",
+   "reactants": [
+    {
+     "name_bn": "গ্লাইসিন",
+     "formula": "H₂NCH₂COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল α-অ্যামাইনো অ্যাসিটেট",
+     "formula": "H₂NCH₂COOC₂H₅",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂NCH₂COOH + C₂H₅OH → H₂NCH₂COOC₂H₅ + H₂O",
+   "conditions": "শুষ্ক HCl গ্যাস",
+   "observations_bn": "অ্যালকোহলের সাথে এস্টার গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-34",
+   "chapter_no": 11,
+   "section_no": "11.14",
+   "section_title_bn": "α-অ্যামাইনো এসিডের ধর্ম",
+   "book_page": 600,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যালানিনের অ্যাসাইলেশন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালানিন",
+     "formula": "CH₃CH(NH₂)COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যাসিটাইল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N-অ্যাসিটাইল অ্যালানিন",
+     "formula": "CH₃CH(NHCOCH₃)COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CH(NH₂)COOH + CH₃COCl → CH₃CH(NHCOCH₃)COOH + HCl",
+   "conditions": "ক্ষারীয় দ্রবণ",
+   "observations_bn": "অ্যামাইনো মূলকের H ও অ্যাসিটাইল বদলে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-35",
+   "chapter_no": 11,
+   "section_no": "11.14",
+   "section_title_bn": "α-অ্যামাইনো এসিডের ধর্ম",
+   "book_page": 600,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্লাইসিনের মিথাইলেশন",
+   "reactants": [
+    {
+     "name_bn": "গ্লাইসিন",
+     "formula": "H₂NCH₂COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "মিথাইল আয়োডাইড",
+     "formula": "CH₃I",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N,N-ডাইমিথাইল গ্লাইসিন",
+     "formula": "(CH₃)₂NCH₂COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HI",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂NCH₂COOH + 2CH₃I → (CH₃)₂NCH₂COOH + 2HI",
+   "conditions": "ক্ষারীয় দ্রবণ, তাপ",
+   "observations_bn": "অ্যামাইনো মূলকের দুটি H মিথাইলে প্রতিস্থাপিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-36",
+   "chapter_no": 11,
+   "section_no": "11.14",
+   "section_title_bn": "α-অ্যামাইনো এসিডের ধর্ম",
+   "book_page": 601,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যামাইনো এসিডের সাথে নাইট্রাস এসিড (N₂ নির্গমন)",
+   "reactants": [
+    {
+     "name_bn": "α-অ্যামাইনো এসিড",
+     "formula": "R-CH(NH₂)COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "NaNO₂ + HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "α-হাইড্রক্সি এসিড",
+     "formula": "R-CH(OH)COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R-CH(NH₂)COOH + HNO₂ → R-CH(OH)COOH + N₂↑ + H₂O",
+   "conditions": "NaNO₂, HCl",
+   "observations_bn": "নাইট্রোজেন গ্যাস বুদবুদ আকারে বের হয়, যার আয়তনে অ্যামাইনো মূলক মাপা যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-37",
+   "chapter_no": 11,
+   "section_no": "11.15",
+   "section_title_bn": "পেপটাইড বন্ধন ও প্রোটিন",
+   "book_page": 601,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পেপটাইড বন্ধন গঠন (গ্লাইসিন + অ্যালানিন)",
+   "reactants": [
+    {
+     "name_bn": "গ্লাইসিন",
+     "formula": "H₂NCH₂COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যালানিন",
+     "formula": "CH₃CH(NH₂)COOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইপেপটাইড",
+     "formula": "H₂NCH₂CONHCH(CH₃)COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂NCH₂COOH + CH₃CH(NH₂)COOH → H₂NCH₂CONHCH(CH₃)COOH + H₂O",
+   "conditions": "ঘনীভবন (এনজাইম/শরীরে)",
+   "observations_bn": "কার্বক্সিল ও অ্যামাইনো মূলক মিলে –CONH– বন্ধন ও পানি পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-38",
+   "chapter_no": 11,
+   "section_no": "11.16",
+   "section_title_bn": "প্রোটিন ও অ্যামাইনো এসিড শনাক্তকরণ",
+   "book_page": 602,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নিনহাইড্রিন পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "নিনহাইড্রিন",
+     "formula": "C₉H₆O₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "α-অ্যামাইনো এসিড",
+     "formula": "R-CH(NH₂)COOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রিনডেনটিন",
+     "formula": "C₉H₆O₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যালডিহাইড",
+     "formula": "RCHO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "NH₃",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₉H₆O₄ + R-CH(NH₂)COOH → C₉H₆O₃ + RCHO + CO₂↑ + NH₃",
+   "conditions": "উত্তপ্ত (Δ)",
+   "observations_bn": "গাঢ় নীল-বেগুনি (রুহেম্যানের পার্পল) রং হয়।",
+   "procedure_bn": [
+    "অ্যামাইনো এসিড/প্রোটিনে নিনহাইড্রিনের লঘু জলীয় দ্রবণ মেশান",
+    "উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নিনহাইড্রিন দ্রবণ",
+    "অ্যামাইনো এসিড বা প্রোটিন দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "দ্বিতীয় ধাপে হাইড্রিনডেনটিন + নিনহাইড্রিন + NH₃ → বেগুনি জটিল + 3H₂O ছাপা; অণুর গঠন চিত্রভিত্তিক বলে শুধু প্রথম ধাপ লেখা।"
+  },
+  {
+   "id": "k12-17-39",
+   "chapter_no": 11,
+   "section_no": "11.16",
+   "section_title_bn": "প্রোটিন ও অ্যামাইনো এসিড শনাক্তকরণ",
+   "book_page": 602,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "বাই-ইউরেট পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "প্রোটিন/ট্রাইপেপটাইড",
+     "formula": "পেপটাইড",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেগুনি Cu(II) জটিল",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "পেপটাইড + CuSO₄ + NaOH → বেগুনি Cu(II)-পেপটাইড জটিল",
+   "conditions": "ক্ষারীয় মাধ্যম, মৃদু তাপ",
+   "observations_bn": "পেপটাইড বন্ধন থাকলে বেগুনি রং হয়।",
+   "procedure_bn": [
+    "ক্ষারীয় দ্রবণে প্রোটিন নিন",
+    "কপার সালফেট দ্রবণ যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "প্রোটিন দ্রবণ",
+    "NaOH",
+    "CuSO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "দুইয়ের কম পেপটাইড বন্ধন থাকলে (ডাইপেপটাইড) এই পরীক্ষা দেয় না; ছাপা সমীকরণ অণুচিত্র।"
+  },
+  {
+   "id": "k12-17-40",
+   "chapter_no": 11,
+   "section_no": "11.17",
+   "section_title_bn": "প্রোটিনের গঠন",
+   "book_page": 603,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ডিমের অ্যালবুমিনের তাপীয় স্বভাবচ্যুতি",
+   "reactants": [
+    {
+     "name_bn": "ডিমের সাদা অংশ (অ্যালবুমিন)",
+     "formula": "প্রোটিন",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জমাট স্বভাবচ্যুত প্রোটিন",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "অ্যালবুমিন (দ্রবণীয়, টারসিয়ারি গঠন) → জমাট, কঠিন, অদ্রবণীয় প্রোটিন",
+   "conditions": "তাপ",
+   "observations_bn": "গরম করলে সাদা অংশ জমে শক্ত ও অদ্রবণীয় হয়ে যায়।",
+   "procedure_bn": [
+    "ডিমের সাদা অংশ গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ডিমের সাদা অংশ",
+    "বার্নার/গরম পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "অম্ল বা ক্ষারেও স্বভাবচ্যুতি ঘটে (পৃ. 603)।"
+  },
+  {
+   "id": "k12-17-41",
+   "chapter_no": 11,
+   "section_no": "11.17.1",
+   "section_title_bn": "এনজাইম",
+   "book_page": 604,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "এনজাইমের ক্রিয়া: স্টার্চ → মল্টোজ → গ্লুকোজ → ইথানল",
+   "reactants": [
+    {
+     "name_bn": "স্টার্চ",
+     "formula": "(C₆H₁₀O₅)n",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2(C₆H₁₀O₅)n + nH₂O → nC₁₂H₂₂O₁₁ (ডায়াস্টেজ);  C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ (জাইমেজ)",
+   "conditions": "ডায়াস্টেজ, জাইমেজ, 37°C ও pH≈7",
+   "observations_bn": "এনজাইম নির্দিষ্ট ধাপে কাজ করে; তাপ বাড়লে এনজাইম স্বভাবচ্যুত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-42",
+   "chapter_no": 11,
+   "section_no": "11.17.1",
+   "section_title_bn": "এনজাইম",
+   "book_page": 604,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "কার্বনিক অ্যানহাইড্রেজ এনজাইমে H₂CO₃ বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂CO₃ ⇌ H₂O + CO₂",
+   "conditions": "কার্বনিক অ্যানহাইড্রেজ, 37°C",
+   "observations_bn": "বিক্রিয়ার হার বহুগুণ বাড়ে; এক অণু এনজাইম মিনিটে 360 লক্ষ অণু ভাঙে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-43",
+   "chapter_no": 11,
+   "section_no": "11.18",
+   "section_title_bn": "নিউক্লিয়োপ্রোটিন ও নিউক্লিক এসিড",
+   "book_page": 605,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নিউক্লিয়োপ্রোটিনের HCl-এ আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "নিউক্লিয়োপ্রোটিন",
+     "formula": "নিউক্লিয়োপ্রোটিন",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিউক্লিক এসিড",
+     "formula": "নিউক্লিক এসিড",
+     "state": "solution"
+    },
+    {
+     "name_bn": "প্রোটিন",
+     "formula": "প্রোটিন",
+     "state": "solution"
+    }
+   ],
+   "equation": "নিউক্লিয়োপ্রোটিন + H₂O → নিউক্লিক এসিড + প্রোটিন",
+   "conditions": "লঘু HCl",
+   "observations_bn": "প্রোটিন ভাগে প্রোটামিন ও হিস্টোন থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "584 পৃষ্ঠার একই বিক্রিয়ার আরেকটি রূপ।"
+  },
+  {
+   "id": "k12-17-44",
+   "chapter_no": 11,
+   "section_no": "11.18",
+   "section_title_bn": "নিউক্লিয়োপ্রোটিন ও নিউক্লিক এসিড",
+   "book_page": 606,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নিউক্লিক এসিড → নিউক্লিয়োটাইড (এনজাইম/মৃদু ক্ষার)",
+   "reactants": [
+    {
+     "name_bn": "নিউক্লিক এসিড",
+     "formula": "নিউক্লিক এসিড",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিউক্লিয়োটাইডসমূহ",
+     "formula": "নিউক্লিয়োটাইড",
+     "state": "solution"
+    }
+   ],
+   "equation": "নিউক্লিক এসিড + H₂O → নিউক্লিয়োটাইডসমূহ",
+   "conditions": "নিউক্লিয়েজ এনজাইম বা মৃদু ক্ষার",
+   "observations_bn": "এক এক করে একক নিউক্লিয়োটাইড মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-17-45",
+   "chapter_no": 11,
+   "section_no": "11.18",
+   "section_title_bn": "নিউক্লিয়োপ্রোটিন ও নিউক্লিক এসিড",
+   "book_page": 606,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নিউক্লিক এসিডের সম্পূর্ণ আর্দ্রবিশ্লেষণ (লঘু HCl, তাপ)",
+   "reactants": [
+    {
+     "name_bn": "নিউক্লিক এসিড",
+     "formula": "নিউক্লিক এসিড",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্ষারক",
+     "formula": "পিউরিন/পিরিমিডিন",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পেন্টোজ চিনি",
+     "formula": "পেন্টোজ",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "নিউক্লিক এসিড + H₂O → ক্ষারক + পেন্টোজ চিনি + H₃PO₄",
+   "conditions": "লঘু HCl, তাপ",
+   "observations_bn": "তিন ধরনের উপাদান — ক্ষারক, চিনি ও ফসফরিক এসিড — পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 11,
+   "no": "11.1",
+   "title_bn": "ভূমিকা",
+   "start_page": 583
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.2",
+   "title_bn": "পলিস্যাকারাইড ও গ্লুকোজ",
+   "start_page": 585
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.3",
+   "title_bn": "কার্বহাইড্রেটের শ্রেণীবিভাগ",
+   "start_page": 586
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.4",
+   "title_bn": "মনোস্যাকারাইড",
+   "start_page": 587
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.5",
+   "title_bn": "গ্লুকোজ অণুর গঠন ও ফিশার সংকেত",
+   "start_page": 587
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.6",
+   "title_bn": "D ও L-শ্রেণীর গ্লুকোজ",
+   "start_page": 588
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.7",
+   "title_bn": "D-গ্লুকোজের সাইক্লিক বা চাক্রিক গঠন",
+   "start_page": 588
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.8",
+   "title_bn": "চিনির বিজারণ ক্ষমতা",
+   "start_page": 590
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.9",
+   "title_bn": "ডাইস্যাকারাইড",
+   "start_page": 591
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.10",
+   "title_bn": "বিভিন্ন পলিস্যাকারাইডের গঠন",
+   "start_page": 591
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.11",
+   "title_bn": "প্রোটিন ও প্রোটিনের গুরুত্ব",
+   "start_page": 595
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.12",
+   "title_bn": "অ্যামাইনো এসিড বা সরল প্রোটিনের একক",
+   "start_page": 595
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.13",
+   "title_bn": "α-অ্যামাইনো এসিড সংশ্লেষণ",
+   "start_page": 598
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.14",
+   "title_bn": "α-অ্যামাইনো এসিডের ধর্ম",
+   "start_page": 599
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.15",
+   "title_bn": "পেপটাইড বন্ধন ও প্রোটিন",
+   "start_page": 601
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.16",
+   "title_bn": "প্রোটিন ও অ্যামাইনো এসিড শনাক্তকরণ",
+   "start_page": 602
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.17",
+   "title_bn": "প্রোটিনের গঠন",
+   "start_page": 602
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.17.1",
+   "title_bn": "এনজাইম",
+   "start_page": 604
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.18",
+   "title_bn": "নিউক্লিয়োপ্রোটিন ও নিউক্লিক এসিড",
+   "start_page": 605
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.19",
+   "title_bn": "নিউক্লিক এসিডের পেন্টোজ চিনি",
+   "start_page": 606
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.20",
+   "title_bn": "পিরিমিডিন ক্ষারক ও পিউরিন ক্ষারক",
+   "start_page": 606
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.21",
+   "title_bn": "নিউক্লিয়োসাইড",
+   "start_page": 607
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.22",
+   "title_bn": "নিউক্লিয়োটাইড",
+   "start_page": 608
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.23",
+   "title_bn": "পলিনিউক্লিয়োটাইড শিকল: DNA ও RNA",
+   "start_page": 609
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.25",
+   "title_bn": "DNA-এর সেকেন্ডারি গঠনচিত্র",
+   "start_page": 610
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.26",
+   "title_bn": "DNA-এর জৈবিক ভূমিকা",
+   "start_page": 611
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Printed pp.576-582 (pdf 591-597) are Ch.10 (amines) exercises/MCQ only, skipped. Ch.11 pages are theory with few equations; sections 11.4-11.6, 11.11-11.12, 11.19-11.26 are structural/definition only. Enzyme table (p.605) and section numbering 11.24 (no heading seen) not recorded."
+}

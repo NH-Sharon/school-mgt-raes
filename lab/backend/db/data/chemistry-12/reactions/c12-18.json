@@ -1,0 +1,2175 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  627,
+  662
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-18-1",
+   "chapter_no": 11,
+   "section_no": "11.28",
+   "section_title_bn": "DNA এবং RNA এর মধ্যে পার্থক্য",
+   "book_page": 615,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শিফ বিকারক তৈরি ও অ্যালডিহাইড শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "ম্যাজেন্টা/রোজঅ্যানিলিন হাইড্রোক্লোরাইডের জলীয় দ্রবণ",
+     "formula": "",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বর্ণহীন শিফ বিকারক",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "দ্রবণে SO₂ চালনা করলে রঙ চলে যায়; অ্যালডিহাইড যোগ করলে আগের বেগুনি রঙ ফিরে আসে।",
+   "procedure_bn": [
+    "রঙিন দ্রবণে SO₂ চালনা করে বর্ণহীন করা",
+    "অ্যালডিহাইড যোগ করে রঙ ফেরা লক্ষ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যাজেন্টা দ্রবণ",
+    "SO₂ গ্যাস"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-2",
+   "chapter_no": 12,
+   "section_no": "12.3",
+   "section_title_bn": "কেলাসন",
+   "book_page": 625,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কেলাসন দ্বারা কঠিন জৈব যৌগের বিশোধন",
+   "reactants": [
+    {
+     "name_bn": "ভেজালযুক্ত কঠিন জৈব যৌগ",
+     "formula": "",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "উপযুক্ত দ্রাবক (ইথানল/অ্যাসিটিক এসিড ইত্যাদি)",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বিশুদ্ধ কেলাস",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "warm; সম্পৃক্ত দ্রবণ ঠান্ডা করা",
+   "observations_bn": "গরম সম্পৃক্ত দ্রবণ ছেঁকে ধীরে ঠান্ডা করলে বড় দানার কেলাস পড়ে; ভেজাল ছাঁকনিতে থাকে বা দ্রবণে থেকে যায়।",
+   "procedure_bn": [
+    "অল্প দ্রাবকে অশুদ্ধ যৌগ গরমে গুলিয়ে সম্পৃক্ত দ্রবণ করা",
+    "গরম অবস্থায় উষ্ণ ফানেলে পরিস্রাবণ",
+    "ঠান্ডা করে কেলাস জমতে দেওয়া ও বুকনার ফানেলে ছেঁকে শুকানো",
+    "পরপর দুবার কেলাসনের গলনাঙ্ক একই হলে বিশুদ্ধ ধরা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বিকার",
+    "উষ্ণ ফানেল",
+    "বুকনার ফানেল ও শোষণ পাম্প",
+    "ফিল্টার কাগজ"
+   ],
+   "safety_bn": "দাহ্য দ্রাবকে (ইথার) সরাসরি শিখা নয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-3",
+   "chapter_no": 12,
+   "section_no": "12.4",
+   "section_title_bn": "আংশিক কেলাসন",
+   "book_page": 626,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "আংশিক কেলাসন দ্বারা দুই কঠিন যৌগ পৃথকীকরণ",
+   "reactants": [
+    {
+     "name_bn": "কঠিন যৌগের মিশ্রণ A ও B (দ্রাব্যতা ভিন্ন)",
+     "formula": "",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "উপযুক্ত দ্রাবক",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কম দ্রবণীয় A এর কেলাস",
+     "formula": "",
+     "state": "solid"
+    },
+    {
+     "name_bn": "বেশি দ্রবণীয় B এর কেলাস",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "warm, পর্যায়ক্রমে ঠান্ডা",
+   "observations_bn": "কম দ্রবণীয় যৌগ আগে কেলাসিত হয়, পরিস্রুতকে আরও ঘন করে ঠান্ডা করলে অন্যটি পাওয়া যায়।",
+   "procedure_bn": [
+    "মিশ্রণ কম দ্রাবকে গরমে গুলিয়ে সম্পৃক্ত করা",
+    "ঠান্ডা করে প্রথম কেলাস ছেঁকে নেওয়া",
+    "পরিস্রুত ঘন করে ঠান্ডা করে দ্বিতীয় কেলাস সংগ্রহ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বিকার",
+    "ফানেল",
+    "দ্রাবক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-4",
+   "chapter_no": 12,
+   "section_no": "12.5",
+   "section_title_bn": "ঊর্ধ্বপাতন",
+   "book_page": 626,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "ঊর্ধ্বপাতন",
+   "reactants": [
+    {
+     "name_bn": "ঊর্ধ্বপাতনযোগ্য কঠিন (কর্পূর, ন্যাফথালিন, বেনজোয়িক এসিড) + অশুদ্ধি",
+     "formula": "",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "উৎক্ষেপ (বিশুদ্ধ কঠিন)",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "heat; নিম্নচাপেও করা যায়",
+   "observations_bn": "উত্তপ্ত করলে কঠিন সরাসরি বাষ্প হয়ে ঠান্ডা পৃষ্ঠে আবার কঠিন হয়ে জমে।",
+   "procedure_bn": [
+    "মিশ্রণ গোলতলী ফ্লাস্কে নিয়ে মুখে পানিশীতক লাগানো",
+    "শীতকে ঠান্ডা পানি চালিয়ে ফ্লাস্ক গরম করা",
+    "শীতকের গায়ের উৎক্ষেপ চেঁছে সংগ্রহ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গোলতলী ফ্লাস্ক",
+    "পানিশীতক",
+    "বুনসেন বার্নার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-5",
+   "chapter_no": 12,
+   "section_no": "12.6",
+   "section_title_bn": "পাতন",
+   "book_page": 627,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "সাধারণ পাতন (লিবিগ শীতকসহ)",
+   "reactants": [
+    {
+     "name_bn": "উদ্বায়ী তরল ও অনুদ্বায়ী কঠিন/ভিন্ন স্ফুটনাঙ্কের তরল (পার্থক্য >40°C)",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বিশুদ্ধ পাতিত তরল",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "heat",
+   "observations_bn": "থার্মোমিটারের তাপমাত্রা বেড়ে স্থির হলে তরলটি বাষ্পীভূত হয়ে ঘনীভূত হয়ে গ্রাহক পাত্রে জমে।",
+   "procedure_bn": [
+    "পাতন ফ্লাস্কে তরল নিয়ে থার্মোমিটার বসানো",
+    "তারজালির ওপর গরম করা ও লিবিগ শীতকে পানি চালানো",
+    "স্থির তাপমাত্রায় পাতিত তরল গ্রাহকে সংগ্রহ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পাতন ফ্লাস্ক",
+    "লিবিগ শীতক",
+    "থার্মোমিটার",
+    "গ্রাহক পাত্র"
+   ],
+   "safety_bn": "স্ফুটনাঙ্ক ১০০-১২০°C এর বেশি হলে বায়ুশীতক ব্যবহার্য।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-6",
+   "chapter_no": 12,
+   "section_no": "12.7",
+   "section_title_bn": "আংশিক পাতন",
+   "book_page": 628,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "আংশিক পাতন (অংশ কলাম সহ)",
+   "reactants": [
+    {
+     "name_bn": "তরল মিশ্রণ A (স্ফুটনাঙ্ক 85°C) ও B (স্ফুটনাঙ্ক 100°C)",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "A ও B পৃথক পাতিত তরল",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "heat",
+   "observations_bn": "অংশ কলামে কম উদ্বায়ী উপাদান ঘনীভূত হয়ে নেমে আসে এবং বেশি উদ্বায়ী উপাদান ওপরে উঠে পাতিত হয়।",
+   "procedure_bn": [
+    "মিশ্রণ ফ্লাস্কে নিয়ে অংশ কলাম ও শীতক সংযোগ",
+    "ধীরে গরম করে প্রথমে বেশি উদ্বায়ী তরল সংগ্রহ",
+    "পরে দ্বিতীয় তরল আলাদা করে সংগ্রহ"
+   ],
+   "quantities_bn": "A: 85°C, B: 100°C (বইয়ের উদাহরণ)",
+   "materials_bn": [
+    "অংশ কলাম",
+    "পাতন ফ্লাস্ক",
+    "লিবিগ শীতক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-7",
+   "chapter_no": 12,
+   "section_no": "12.8",
+   "section_title_bn": "বাষ্প পাতন বা স্টিম পাতন",
+   "book_page": 629,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "বাষ্প পাতন (স্টিম পাতন)",
+   "reactants": [
+    {
+     "name_bn": "পানিতে অদ্রবণীয় ভেজাল মিশ্রিত জৈব যৌগ (যেমন অ্যানিলিন)",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "স্টিম",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জৈব যৌগ ও পানির পাতিত মিশ্রণ",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "steam; যৌগ স্ফুটনাঙ্কের নিচে ফোটে",
+   "observations_bn": "স্টিম চালালে যৌগ পানির সাথে নিম্ন তাপমাত্রায় ফুটে পাতিত হয়; গ্রাহকে পানি ও যৌগ দুই স্তরে জমে।",
+   "procedure_bn": [
+    "গোলতলী ফ্লাস্কে মিশ্রণ ও অল্প পানি নিয়ে স্টিম জেনারেটরের সাথে যুক্ত করা",
+    "স্টিম চালিয়ে পাতন; গ্রাহকে সংগ্রহ",
+    "পৃথকীকরণ ফানেলে পানি ও জৈব স্তর আলাদা করা"
+   ],
+   "quantities_bn": "শর্ত: P = P₁ + P₂",
+   "materials_bn": [
+    "স্টিম জেনারেটর",
+    "গোলতলী ফ্লাস্ক",
+    "লিবিগ শীতক",
+    "পৃথকীকরণ ফানেল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-8",
+   "chapter_no": 12,
+   "section_no": "12.9",
+   "section_title_bn": "নিম্নচাপ পাতন বা অনুপ্রেষ পাতন",
+   "book_page": 630,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "নিম্নচাপ পাতন (অনুপ্রেষ পাতন)",
+   "reactants": [
+    {
+     "name_bn": "উচ্চ স্ফুটনাঙ্কে বিয়োজিত হওয়া তরল (যেমন গ্লিসারিন)",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিম্ন তাপমাত্রায় পাতিত বিশুদ্ধ তরল",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "reduced pressure, কম তাপমাত্রা",
+   "observations_bn": "চাপ কমালে তরল কম তাপমাত্রায় বিয়োজন ছাড়াই ফুটে পাতিত হয়।",
+   "procedure_bn": [
+    "ক্লেজেন ফ্লাস্কে তরল নিয়ে যন্ত্র বায়ুরোধী করা",
+    "পাম্পে চাপ কমানো",
+    "নির্দিষ্ট চাপ ও তাপমাত্রায় গরম করে পাতিত তরল সংগ্রহ"
+   ],
+   "quantities_bn": "গ্লিসারিন: 760 mm Hg এ 290°C; 12 mm Hg এ 180°C",
+   "materials_bn": [
+    "ক্লেজেন ফ্লাস্ক",
+    "ম্যানোমিটার",
+    "পানি পাম্প/ভ্যাকুয়াম পাম্প"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-9",
+   "chapter_no": 12,
+   "section_no": "12.10",
+   "section_title_bn": "দ্রাবক নিষ্কাশন",
+   "book_page": 631,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ইথার দিয়ে জলীয় দ্রবণ থেকে জৈব যৌগ নিষ্কাশন",
+   "reactants": [
+    {
+     "name_bn": "জৈব যৌগের জলীয় দ্রবণ",
+     "formula": "",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "ইথার",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জৈব যৌগসহ ইথার স্তর",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "ঝাঁকিয়ে রেখে দিলে ইথার (হালকা) ওপরে ও জলীয় স্তর নিচে দুই স্তর হয়।",
+   "procedure_bn": [
+    "পৃথকীকরণ ফানেলে দ্রবণ ও ইথার নিয়ে ঝাঁকানো",
+    "স্থির রেখে নিচের জলীয় স্তর বের করা",
+    "জলীয় স্তরে আবার ইথার মিশিয়ে একইভাবে নিষ্কাশন",
+    "ইথার স্তর CaCl₂ দিয়ে শুকিয়ে আংশিক পাতন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পৃথকীকরণ ফানেল",
+    "ইথার",
+    "নিরুদক CaCl₂"
+   ],
+   "safety_bn": "ইথার অতিদাহ্য; শিখা দূরে রাখতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-10",
+   "chapter_no": 12,
+   "section_no": "12.10",
+   "section_title_bn": "দ্রাবক নিষ্কাশন",
+   "book_page": 631,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "সক্সলেট যন্ত্রে কঠিন থেকে নিষ্কাশন",
+   "reactants": [
+    {
+     "name_bn": "চূর্ণ উদ্ভিদ উপাদান (পাতা, বাকল, বীজ)",
+     "formula": "",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পেট্রোল বা উপযুক্ত দ্রাবক",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিষ্কাশিত জৈব যৌগের দ্রবণ",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "heat, water bath",
+   "observations_bn": "দ্রাবকের বাষ্প ঘনীভূত হয়ে ফিল্টার কাগজের থিম্বলে পড়ে ও যৌগ গুলে সাইফনে নিচে ফিরে আসে; এ চক্র বারবার চলে।",
+   "procedure_bn": [
+    "থিম্বলে চূর্ণ ভরে সক্সলেট যন্ত্রের নলে বসানো",
+    "ফ্লাস্কে দ্রাবক নিয়ে পানিগাহে গরম করা",
+    "চক্রের পর দ্রবণ থেকে দ্রাবক আংশিক পাতনে সরানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সক্সলেট যন্ত্র",
+    "থিম্বল",
+    "শীতক",
+    "পানিগাহ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-11",
+   "chapter_no": 12,
+   "section_no": "12.11",
+   "section_title_bn": "ক্রোমাটোগ্রাফী",
+   "book_page": 633,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কলাম ক্রোমাটোগ্রাফী",
+   "reactants": [
+    {
+     "name_bn": "রঙিন জৈব মিশ্রণ",
+     "formula": "",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "অ্যালুমিনা (স্থির মাধ্যম)",
+     "formula": "Al₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ইথানল (চলমান মাধ্যম)",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পৃথক রঙিন ব্যান্ড",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "মিশ্রণ কলামে নামতে নামতে অধিশোষণের পার্থক্যে ভিন্ন রঙের ব্যান্ডে ভাগ হয়; কম অধিশোষিত উপাদান আগে ধৌত হয়ে বের হয়।",
+   "procedure_bn": [
+    "বুরেট আকৃতির নলে গ্লাস উলের ওপর অ্যালুমিনা ভরা",
+    "ওপর থেকে মিশ্রণ ঢেলে ব্যান্ড তৈরি করা",
+    "দ্রাবক (ইলিউয়েন্ট) ঢেলে ব্যান্ড ধুয়ে আলাদা সংগ্রহ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কাচের কলাম",
+    "অ্যালুমিনা",
+    "ইথানল",
+    "গ্লাস উল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-12",
+   "chapter_no": 12,
+   "section_no": "12.11",
+   "section_title_bn": "ক্রোমাটোগ্রাফী",
+   "book_page": 633,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "পাতলা স্তর ক্রোমাটোগ্রাফী (TLC)",
+   "reactants": [
+    {
+     "name_bn": "নমুনা মিশ্রণের দ্রবণ",
+     "formula": "",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "সিলিকা জেল/অ্যালুমিনা স্তরযুক্ত প্লেট",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "বেনজিন বা ক্লোরোফর্ম বা ইথানল (বাহক দ্রাবক)",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পৃথক দাগ",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "বাহক দ্রাবক ওপরে উঠার সময় উপাদানগুলো ভিন্ন উচ্চতায় আলাদা দাগ তৈরি করে।",
+   "procedure_bn": [
+    "প্লেটের নিচ থেকে প্রায় 2.5 cm ওপরে নমুনার ফোঁটা দেওয়া",
+    "ট্যাংকে দ্রাবক রেখে প্লেটটি খাড়া করে ডোবানো",
+    "দ্রাবক-ফ্রন্ট ওপরে পৌঁছালে প্লেট তুলে দাগ শনাক্ত করা"
+   ],
+   "quantities_bn": "স্তরের পুরুত্ব প্রায় 0.25 mm",
+   "materials_bn": [
+    "TLC প্লেট",
+    "ঢাকনাযুক্ত ট্যাংক",
+    "বাহক দ্রাবক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-13",
+   "chapter_no": 12,
+   "section_no": "12.11",
+   "section_title_bn": "ক্রোমাটোগ্রাফী",
+   "book_page": 634,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "পেপার ক্রোমাটোগ্রাফী ও Rf নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "নমুনা মিশ্রণ (X, Y)",
+     "formula": "",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "হোয়াটম্যান ফিল্টার কাগজ",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "প্রোপানল বা অ্যাসিটোন (বাহক দ্রাবক)",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পৃথক দাগ",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "Rf = উপাদানের অতিক্রান্ত দূরত্ব ÷ দ্রাবকের অতিক্রান্ত দূরত্ব (Rf X = a/c, Rf Y = b/c)",
+   "conditions": "room temp",
+   "observations_bn": "দ্রাবক কাগজ বেয়ে উঠলে উপাদানগুলো বণ্টন সহগ অনুযায়ী ভিন্ন দূরত্বে আলাদা হয়; Rf সর্বদা 1 এর কম।",
+   "procedure_bn": [
+    "কাগজের প্রান্তে নমুনার ফোঁটা দিয়ে শুকানো",
+    "দ্রাবকে কাগজের প্রান্ত ডুবিয়ে ঢাকনা দেওয়া",
+    "শেষ প্রান্তে দ্রাবক পৌঁছালে কাগজ তুলে দাগ চিহ্নিত করা",
+    "দূরত্ব মেপে Rf হিসাব"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফিল্টার কাগজ",
+    "জার",
+    "বাহক দ্রাবক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-14",
+   "chapter_no": 12,
+   "section_no": "12.12",
+   "section_title_bn": "জৈব যৌগের বিশুদ্ধতার পরীক্ষা",
+   "book_page": 635,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "গলনাঙ্ক নির্ণয় (গাঢ় H₂SO₄ ছাঁচে)",
+   "reactants": [
+    {
+     "name_bn": "শুকনো মিহিচূর্ণ কঠিন জৈব যৌগ (যেমন বেনজোয়িক এসিড)",
+     "formula": "",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড (ছাঁচ)",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গলিত যৌগ",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "ধীরে heat",
+   "observations_bn": "তাপমাত্রা বাড়লে যৌগটি হঠাৎ গলে যায়; বিশুদ্ধ বেনজোয়িক এসিডের গলনাঙ্ক 121°C, অশুদ্ধ হলে 2-3°C ব্যবধানে গলে।",
+   "procedure_bn": [
+    "কৈশিক নলে অর্ধেক যৌগ ভরে থার্মোমিটারের বালবে বাঁধা",
+    "গাঢ় H₂SO₄ ভরা ফ্লাস্কে ডোবানো ও ধীরে গরম করা",
+    "গলে যাওয়ার তাপমাত্রা লেখা"
+   ],
+   "quantities_bn": "বেনজোয়িক এসিডের গলনাঙ্ক 121°C; H₂SO₄ স্ফুটনাঙ্ক 338°C; গ্লিসারল 290°C",
+   "materials_bn": [
+    "কৈশিক নল",
+    "থার্মোমিটার",
+    "গাঢ় H₂SO₄",
+    "পাতন ফ্লাস্ক"
+   ],
+   "safety_bn": "গাঢ় অ্যাসিড গরমে সতর্কতা।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-15",
+   "chapter_no": 12,
+   "section_no": "12.12",
+   "section_title_bn": "জৈব যৌগের বিশুদ্ধতার পরীক্ষা",
+   "book_page": 636,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "স্ফুটনাঙ্ক নির্ণয়: সাধারণ পাতন পদ্ধতি",
+   "reactants": [
+    {
+     "name_bn": "বিশুদ্ধ তরল জৈব যৌগ (যেমন মিথানল)",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বাষ্প",
+     "formula": "",
+     "state": "gas"
+    }
+   ],
+   "equation": "",
+   "conditions": "heat",
+   "observations_bn": "তাপমাত্রা বেড়ে এক নির্দিষ্ট মানে স্থির হলে সেটিই স্ফুটনাঙ্ক; মিথানলের 65.5°C।",
+   "procedure_bn": [
+    "ফ্লাস্কে তরল ও কয়েক টুকরো কাচ নিয়ে থার্মোমিটার বসানো",
+    "ধীরে গরম করে স্থির তাপমাত্রা পড়া"
+   ],
+   "quantities_bn": "মিথানলের স্ফুটনাঙ্ক 65.5°C",
+   "materials_bn": [
+    "পাতন ফ্লাস্ক",
+    "থার্মোমিটার",
+    "কাচের টুকরো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-16",
+   "chapter_no": 12,
+   "section_no": "12.12",
+   "section_title_bn": "জৈব যৌগের বিশুদ্ধতার পরীক্ষা",
+   "book_page": 636,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "স্ফুটনাঙ্ক নির্ণয়: সিবোলোওফ পদ্ধতি (অল্প তরল)",
+   "reactants": [
+    {
+     "name_bn": "অল্প পরিমাণ তরল জৈব যৌগ",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "গ্লিসারল (তাপ-ছাঁচ)",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "heat",
+   "observations_bn": "কৈশিক নল থেকে অবিরাম বুদবুদ বের হয়; তাপ বন্ধ করলে বুদবুদ থামার তাপমাত্রা ও আবার শুরুর তাপমাত্রার গড়ই স্ফুটনাঙ্ক।",
+   "procedure_bn": [
+    "গলন নলে তরল নিয়ে উল্টানো কৈশিক নল ডোবানো",
+    "গ্লিসারল বাথে ধীরে গরম করা",
+    "বুদবুদ শুরু ও শেষের তাপমাত্রার গড় নেওয়া"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গলন নল",
+    "কৈশিক নল",
+    "গ্লিসারল",
+    "বিকার",
+    "থার্মোমিটার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-17",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 637,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "জৈব যৌগে C ও H শনাক্তকরণ (CuO জারণ)",
+   "reactants": [
+    {
+     "name_bn": "জৈব যৌগ",
+     "formula": "C, H",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "কিউপ্রিক অক্সাইড",
+     "formula": "CuO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "[C, 2H] + 3CuO → CO₂ + H₂O + 3Cu",
+   "equation_printed": "[জৈব যৌগস্থ C, H] + 3CuO → CO₂ + H₂O + 3Cu",
+   "conditions": "heat",
+   "observations_bn": "গ্যাস মিশ্রণ চুনের পানিকে ঘোলা করে এবং নলের শীতল অংশে বিন্দু বিন্দু পানি জমে।",
+   "procedure_bn": [
+    "শুকনো জৈব যৌগ ও CuO মিশিয়ে শক্ত কাচনলে উত্তপ্ত করা",
+    "নির্গত গ্যাস চুনের পানিতে চালনা",
+    "ঠান্ডা অংশে জমা তরল অনার্দ্র CuSO₄ দিয়ে পরীক্ষা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কাচনল",
+    "CuO",
+    "চুনের পানি",
+    "অনার্দ্র CuSO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-18-18",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 637,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অনার্দ্র কপার সালফেট দিয়ে পানি শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "অনার্দ্র কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার সালফেট পেন্টাহাইড্রেট",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "5H₂O + CuSO₄ → CuSO₄·5H₂O",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অনার্দ্র লবণ নীল হয়ে যায়।",
+   "procedure_bn": [
+    "তরল বিন্দু অনার্দ্র CuSO₄ এ ফেলা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অনার্দ্র CuSO₄",
+    "নমুনা তরল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-19",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 637,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "চুনের পানিতে CO₂ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "চুনের পানি",
+     "formula": "Ca(OH)₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "চুনের পানি সাদা ঘোলা হয়।",
+   "procedure_bn": [
+    "গ্যাস চুনের পানিতে চালনা করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "চুনের পানি",
+    "গ্যাস নির্গম নল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-20",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 637,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "লেসাইন পদ্ধতিতে সোডিয়াম গলন (N, S, X এর রূপান্তর)",
+   "reactants": [
+    {
+     "name_bn": "জৈব যৌগ (C, N, S, X যুক্ত)",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সায়ানাইড",
+     "formula": "NaCN",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হ্যালাইড",
+     "formula": "NaX",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম থায়োসায়ানেট",
+     "formula": "NaCNS",
+     "state": "solid"
+    }
+   ],
+   "equation": "C + N + Na → NaCN; S + 2Na → Na₂S; X + Na → NaX; C + N + S + Na → NaCNS",
+   "conditions": "fusion (strong heat)",
+   "observations_bn": "গলনের পর উত্তপ্ত নল মর্টারের পানিতে ভেঙে ছেঁকে মূল দ্রবণ নেওয়া হয়।",
+   "procedure_bn": [
+    "Na ও জৈব যৌগ গলানো",
+    "উত্তপ্ত নল পানিতে ডুবিয়ে ভাঙা",
+    "ছেঁকে মূল দ্রবণ নেওয়া"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na ধাতু",
+    "শক্ত কাচনল",
+    "মর্টার"
+   ],
+   "safety_bn": "Na ধাতু বিপজ্জনক; গরম নল পানিতে ভাঙলে বিস্ফোরণ ঝুঁকি।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-21",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 638,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "মূল দ্রবণে N শনাক্তকরণ (প্রুশীয়ান ব্লু)",
+   "reactants": [
+    {
+     "name_bn": "মূল দ্রবণ (NaCN)",
+     "formula": "NaCN",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রুশীয়ান ব্লু",
+     "formula": "Fe₄[Fe(CN)₆]₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Na + 2H₂O → 2NaOH + H₂; FeSO₄ + 2NaOH → Fe(OH)₂ + Na₂SO₄; 6NaCN + Fe(OH)₂ → Na₄[Fe(CN)₆] + 2NaOH; 3Na₄[Fe(CN)₆] + 4FeCl₃ → Fe₄[Fe(CN)₆]₃↓ + 12NaCl",
+   "conditions": "boil, তারপর acidify",
+   "observations_bn": "গাঢ় নীল দ্রবণ বা সবুজাভ নীল অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "মূল দ্রবণে সদ্য তৈরি FeSO₄ মিশিয়ে ফোটানো",
+    "গাঢ় HCl দিয়ে অম্লীয় করা",
+    "2-1 ফোঁটা FeCl₃ দেওয়া"
+   ],
+   "quantities_bn": "মূল দ্রবণ 2-3 mL, FeSO₄ 2-3 mL, FeCl₃ 1-2 ফোঁটা",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "FeSO₄",
+    "গাঢ় HCl",
+    "FeCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-22",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 638,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "মূল দ্রবণে N ও S একত্রে শনাক্তকরণ (থায়োসায়ানেট)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম থায়োসায়ানেট",
+     "formula": "NaCNS",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) থায়োসায়ানেটো ক্লোরাইড",
+     "formula": "[Fe(CNS)]Cl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaCNS + FeCl₃ → [Fe(CNS)]Cl₂ + NaCl",
+   "conditions": "acidic medium (লঘু HCl)",
+   "observations_bn": "রক্ত লাল দ্রবণ তৈরি হয়।",
+   "procedure_bn": [
+    "মূল দ্রবণ লঘু HCl দিয়ে অম্লীয় করা",
+    "FeCl₃ দ্রবণ যোগ করা"
+   ],
+   "quantities_bn": "মূল দ্রবণ 2-3 mL, FeCl₃ 1-2 ফোঁটা",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "লঘু HCl",
+    "FeCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-23",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 638,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "মূল দ্রবণে S শনাক্তকরণ (লেড অ্যাসিটেট)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "লেড অ্যাসিটেট",
+     "formula": "(CH₃COO)₂Pb",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড সালফাইড",
+     "formula": "PbS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂S + (CH₃COO)₂Pb → PbS↓ + 2CH₃COONa",
+   "conditions": "acetic acid acidic",
+   "observations_bn": "কালো অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "মূল দ্রবণ অ্যাসিটিক এসিডে অম্লীয় করা",
+    "লেড অ্যাসিটেট ফোঁটা যোগ করা"
+   ],
+   "quantities_bn": "মূল দ্রবণ 2-3 mL, লেড অ্যাসিটেট 2-3 ফোঁটা",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "অ্যাসিটিক এসিড",
+    "লেড অ্যাসিটেট"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-24",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 638,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "মূল দ্রবণে S শনাক্তকরণ (সোডিয়াম নাইট্রোপ্রুসাইড)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রোপ্রুসাইড",
+     "formula": "Na₂[Fe(CN)₅NO]",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম থায়ো-নাইট্রোপ্রুসাইড (বেগুনি)",
+     "formula": "Na₄[Fe(CN)₅NOS]",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂S + Na₂[Fe(CN)₅NO] → Na₄[Fe(CN)₅NOS]",
+   "conditions": "room temp",
+   "observations_bn": "গাঢ় বেগুনি বর্ণ হয়।",
+   "procedure_bn": [
+    "মূল দ্রবণে সদ্য তৈরি নাইট্রোপ্রুসাইড দ্রবণ মেশানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "সোডিয়াম নাইট্রোপ্রুসাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-25",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 638,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "মূল দ্রবণে হ্যালোজেন শনাক্তকরণ: Cl",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার হ্যালাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "NaCl + AgNO₃ → AgCl↓ + NaNO₃; AgCl + 2NH₃ → [Ag(NH₃)₂]Cl",
+   "conditions": "acidic medium (লঘু HNO₃)",
+   "observations_bn": "সাদা অধঃক্ষেপ লঘু HNO₃ এ অদ্রবণীয় কিন্তু NH₄OH এ সহজে দ্রবীভূত হয়।",
+   "procedure_bn": [
+    "মূল দ্রবণ লঘু HNO₃ দিয়ে অম্লীয় করে ফোটানো (CN⁻, S²⁻ সরাতে)",
+    "AgNO₃ দ্রবণ ফোঁটা যোগ করা",
+    "অধঃক্ষেপ লঘু NH₄OH এ দ্রবীভূত হয় কিনা দেখা"
+   ],
+   "quantities_bn": "মূল দ্রবণ 2-3 mL, লঘু HNO₃ 2-3 ফোঁটা, AgNO₃ 2-3 ফোঁটা",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "লঘু HNO₃",
+    "AgNO₃",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-26",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 639,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "মূল দ্রবণে হ্যালোজেন শনাক্তকরণ: Br",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার হ্যালাইড",
+     "formula": "AgBr",
+     "state": "solid"
+    }
+   ],
+   "equation": "NaBr + AgNO₃ → AgBr↓ + NaNO₃; AgBr + 2NH₃ → [Ag(NH₃)₂]Br",
+   "conditions": "acidic medium (লঘু HNO₃)",
+   "observations_bn": "ফ্যাকাশে হলুদ অধঃক্ষেপ লঘু HNO₃ এ অদ্রবণীয়, NH₄OH এ আংশিক দ্রবণীয়।",
+   "procedure_bn": [
+    "মূল দ্রবণ লঘু HNO₃ দিয়ে অম্লীয় করে ফোটানো (CN⁻, S²⁻ সরাতে)",
+    "AgNO₃ দ্রবণ ফোঁটা যোগ করা"
+   ],
+   "quantities_bn": "মূল দ্রবণ 2-3 mL, লঘু HNO₃ 2-3 ফোঁটা, AgNO₃ 2-3 ফোঁটা",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "লঘু HNO₃",
+    "AgNO₃",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-27",
+   "chapter_no": 12,
+   "section_no": "12.13",
+   "section_title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "book_page": 639,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "মূল দ্রবণে হ্যালোজেন শনাক্তকরণ: I",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার হ্যালাইড",
+     "formula": "AgI",
+     "state": "solid"
+    }
+   ],
+   "equation": "NaI + AgNO₃ → AgI↓ + NaNO₃",
+   "conditions": "acidic medium (লঘু HNO₃)",
+   "observations_bn": "হলুদ অধঃক্ষেপ লঘু HNO₃ ও NH₄OH উভয়েই অদ্রবণীয়।",
+   "procedure_bn": [
+    "মূল দ্রবণ লঘু HNO₃ দিয়ে অম্লীয় করে ফোটানো (CN⁻, S²⁻ সরাতে)",
+    "AgNO₃ দ্রবণ ফোঁটা যোগ করা"
+   ],
+   "quantities_bn": "মূল দ্রবণ 2-3 mL, লঘু HNO₃ 2-3 ফোঁটা, AgNO₃ 2-3 ফোঁটা",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "লঘু HNO₃",
+    "AgNO₃",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-28",
+   "chapter_no": 12,
+   "section_no": "12.15",
+   "section_title_bn": "জৈব যৌগে C ও H এর পরিমাণ নির্ণয়",
+   "book_page": 639,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের CuO জারণ (C ও H পরিমাপ)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "কিউপ্রিক অক্সাইড",
+     "formula": "CuO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₆ + 15CuO → 6CO₂ + 3H₂O + 15Cu",
+   "conditions": "heat ~600°C, O₂ প্রবাহ",
+   "observations_bn": "উৎপন্ন CO₂ ও H₂O গ্যাসকে CaCl₂ ও KOH এর U-নলে শোষণ করে ওজন মাপা হয়।",
+   "procedure_bn": [
+    "জৈব যৌগ বোটে নিয়ে দহন নলে প্রায় 600°C এ O₂ প্রবাহে দহন",
+    "H₂O কে CaCl₂ U-নলে, CO₂ কে KOH U-নলে শোষণ",
+    "ওজনবৃদ্ধি থেকে %C ও %H নির্ণয়"
+   ],
+   "quantities_bn": "বইয়ের উদাহরণ: 0.2346 g যৌগ, CO₂ 0.4488 g, H₂O 0.2754 g → %C = 52.17, %H = 13.04 (বই 640 পৃ.)",
+   "materials_bn": [
+    "দহন নল",
+    "CuO",
+    "CaCl₂ U-নল",
+    "KOH U-নল",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-29",
+   "chapter_no": 12,
+   "section_no": "12.16",
+   "section_title_bn": "জৈব যৌগে N এর পরিমাণ নির্ণয়",
+   "book_page": 641,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "ডুমা পদ্ধতিতে N নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেনযুক্ত জৈব যৌগ",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "কিউপ্রিক অক্সাইড",
+     "formula": "CuO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কপার জালি",
+     "formula": "Cu",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন গ্যাস",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "",
+   "conditions": "heat; CO₂ প্রবাহ",
+   "observations_bn": "N₂ গ্যাস KOH দ্রবণের ওপর নাইট্রোমিটারে সংগৃহীত হয় (CO₂ শোষিত)।",
+   "procedure_bn": [
+    "CO₂ প্রবাহে নল থেকে বায়ু বের করা",
+    "যৌগ দহন; Cu জালি দিয়ে নাইট্রোজেন অক্সাইড বিজারিত করা",
+    "নাইট্রোমিটারে N₂ আয়তন মাপা"
+   ],
+   "quantities_bn": "বইয়ের উদাহরণ: 0.1877 g যৌগ, 31.7 mL N₂, 14°C, 758 mm Hg, জলীয় বাষ্প চাপ 12 mm → STP তে 29.6 mL → N = 19.72% (বই 642 পৃ.)",
+   "materials_bn": [
+    "দহন নল",
+    "CuO",
+    "Cu জালি",
+    "নাইট্রোমিটার",
+    "KOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-30",
+   "chapter_no": 12,
+   "section_no": "12.16",
+   "section_title_bn": "জৈব যৌগে N এর পরিমাণ নির্ণয়",
+   "book_page": 642,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "জেলডাল পদ্ধতিতে N নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেনযুক্ত জৈব যৌগ",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "(NH₄)₂SO₄ + 2NaOH → Na₂SO₄ + 2NH₃↑ + 2H₂O; 2NH₃ + H₂SO₄ → (NH₄)₂SO₄",
+   "equation_printed": "N-যৌগ + H₂SO₄ → (NH₄)₂SO₄ —2NaOH→ 2NH₃; H₂SO₄ + 2NH₃ → (NH₄)₂SO₄",
+   "conditions": "heat",
+   "observations_bn": "N অ্যামোনিয়াম সালফেটে পরিণত হয়; অতিরিক্ত ক্ষার দিয়ে গরমে NH₃ মুক্ত হয়ে প্রমাণ অ্যাসিডে শোষিত হয়।",
+   "procedure_bn": [
+    "জৈব যৌগ গাঢ় H₂SO₄ সহ জেলডাল ফ্লাস্কে ফুটিয়ে অ্যামোনিয়াম সালফেট তৈরি",
+    "অতিরিক্ত NaOH দিয়ে NH₃ তাড়ানো",
+    "NH₃ কে মানা H₂SO₄/HCl এ শোষণ করে টাইট্রেশন"
+   ],
+   "quantities_bn": "%N = (1.4 × V × 100) / (w × 1000) (V mL 0.05M H₂SO₄ ব্যবহৃত হলে)",
+   "materials_bn": [
+    "জেলডাল ফ্লাস্ক",
+    "জেলডাল ট্র্যাপ",
+    "শীতক",
+    "প্রমাণ H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-18-31",
+   "chapter_no": 12,
+   "section_no": "12.16",
+   "section_title_bn": "জৈব যৌগে N এর পরিমাণ নির্ণয়",
+   "book_page": 643,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "জেলডাল পদ্ধতির ব্যাক টাইট্রেশন (অতিরিক্ত HCl বনাম NaOH)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₃ + HCl → NH₄Cl; NaOH + HCl → NaCl + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "অবশিষ্ট HCl কে NaOH দিয়ে টাইট্রেশন করে NH₃ প্রশমিত HCl এর পরিমাণ পাওয়া যায়।",
+   "procedure_bn": [
+    "NH₃ কে 50 mL 0.1M HCl এ শোষণ",
+    "অবশিষ্ট HCl কে 0.1M NaOH দিয়ে টাইট্রেশন",
+    "NH₃ ভিত্তিতে %N হিসাব"
+   ],
+   "quantities_bn": "0.257 g যৌগ; 50 mL 0.1M HCl; 23.2 mL 0.1M NaOH; HCl প্রশমিত = 26.8 mL; %N = 14.6 (বই 643 পৃ. উদাহরণ ৩)",
+   "materials_bn": [
+    "0.1M HCl",
+    "0.1M NaOH",
+    "সূচক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-32",
+   "chapter_no": 12,
+   "section_no": "12.17",
+   "section_title_bn": "জৈব যৌগে হ্যালোজেনের পরিমাণ নির্ণয়",
+   "book_page": 644,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "ক্যারিয়াস পদ্ধতিতে হ্যালোজেন নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "হ্যালোজেনযুক্ত জৈব যৌগ",
+     "formula": "R–X",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "ধূমায়মান নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার হ্যালাইড",
+     "formula": "AgX",
+     "state": "solid"
+    }
+   ],
+   "equation": "X⁻ + Ag⁺ → AgX↓",
+   "equation_printed": "হ্যালোজেনযুক্ত যৌগ + HNO₃ + AgNO₃ → AgX + অন্যান্য পদার্থ",
+   "conditions": "sealed tube heat",
+   "observations_bn": "সব হ্যালোজেন AgX অধঃক্ষেপে পরিণত হয়, যা ধুয়ে শুকিয়ে ওজন নিয়ে %X নির্ণয় হয়।",
+   "procedure_bn": [
+    "জৈব যৌগ, ধূমায়মান HNO₃ ও AgNO₃ সিলড নলে উত্তপ্ত করা",
+    "AgX ধোয়া, শুকানো ও ওজন নেওয়া"
+   ],
+   "quantities_bn": "উদাহরণ: 0.186 g যৌগ, 0.475 g AgCl → %Cl = 63.1 (বই) [পুনর্গণনা ≈63.18] (বই 644 পৃ.)",
+   "materials_bn": [
+    "সিলড কারিয়াস নল",
+    "ধূমায়মান HNO₃",
+    "AgNO₃"
+   ],
+   "safety_bn": "ধূমায়মান HNO₃ ও সিলড নল বিপজ্জনক।",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-18-33",
+   "chapter_no": 12,
+   "section_no": "12.18",
+   "section_title_bn": "জৈব যৌগে সালফার-এর পরিমাণ নির্ণয়",
+   "book_page": 644,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পরিবর্তিত ক্যারিয়াস পদ্ধতিতে সালফার নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "সালফার যুক্ত জৈব যৌগ",
+     "formula": "S",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "ধূমায়মান নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "বেরিয়াম ক্লোরাইড",
+     "formula": "BaCl₂",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বেরিয়াম সালফেট",
+     "formula": "BaSO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "S + 6HNO₃ → H₂SO₄ + 6NO₂ + 2H₂O; H₂SO₄ + BaCl₂ → BaSO₄↓ + 2HCl",
+   "conditions": "sealed tube heat",
+   "observations_bn": "S জারিত হয়ে H₂SO₄ হয় ও BaCl₂ দিয়ে সাদা BaSO₄ অধঃক্ষেপ পাওয়া যায়।",
+   "procedure_bn": [
+    "ধূমায়মান HNO₃ সহ উত্তপ্ত করা",
+    "BaCl₂ দিয়ে BaSO₄ অধঃক্ষেপ করা",
+    "ছেঁকে ধুয়ে শুকিয়ে ওজন নেওয়া"
+   ],
+   "quantities_bn": "0.2175 g যৌগ → 0.5825 g BaSO₄ → %S = 36.77 (বই 645 পৃ. উদাহরণ ৫)",
+   "materials_bn": [
+    "সিলড নল",
+    "ধূমায়মান HNO₃",
+    "BaCl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-34",
+   "chapter_no": 12,
+   "section_no": "12.19",
+   "section_title_bn": "জৈব যৌগে অক্সিজেনের পরিমাণ নির্ণয়",
+   "book_page": 645,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "অক্সিজেন নির্ণয় (CO → CO₂, I₂O₅ বিজারণ)",
+   "reactants": [
+    {
+     "name_bn": "অক্সিজেনযুক্ত জৈব যৌগ",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "কার্বন চূর্ণ",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "আয়োডিন পেন্টাঅক্সাইড",
+     "formula": "I₂O₅",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2C + O₂ → 2CO; 5CO + I₂O₅ → 5CO₂ + I₂",
+   "conditions": "1100°C; পরে 175°C",
+   "observations_bn": "জৈব যৌগের O কার্বনে CO হয়, পরে CO I₂O₅ কে বিজারিত করে CO₂ দেয়, যার ওজন থেকে %O নির্ণয় হয়।",
+   "procedure_bn": [
+    "N₂ প্রবাহে যৌগ বিযোজিত করা",
+    "1100°C এ কার্বনের ওপর দিয়ে CO তৈরি",
+    "175°C এ I₂O₅ এর ওপর দিয়ে CO₂ উৎপন্ন"
+   ],
+   "quantities_bn": "%O = 16 × w₁ × 100 / (44 × w)",
+   "materials_bn": [
+    "উত্তপ্ত কার্বন নল",
+    "I₂O₅ নল",
+    "N₂ গ্যাস"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-35",
+   "chapter_no": 12,
+   "section_no": "12.21",
+   "section_title_bn": "জৈব যৌগে অসম্পৃক্ততার (C=C, C≡C) পরীক্ষা",
+   "book_page": 646,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "ব্রোমিন দ্রবণ দিয়ে অসম্পৃক্ততা পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ইথিলিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন (CCl₄ এ)",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিলিন ডাইব্রোমাইড",
+     "formula": "CH₂Br–CH₂Br",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br; CH≡CH + 2Br₂ → CHBr₂–CHBr₂",
+   "conditions": "CCl₄ মাধ্যম, room temp",
+   "observations_bn": "ব্রোমিনের লাল বর্ণ দূর হয়ে বর্ণহীন যৌগ তৈরি হয়।",
+   "procedure_bn": [
+    "অসম্পৃক্ত যৌগে ব্রোমিন-CCl₄ দ্রবণ যোগ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Br₂ in CCl₄",
+    "অসম্পৃক্ত যৌগ"
+   ],
+   "safety_bn": "ব্রোমিন ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-36",
+   "chapter_no": 12,
+   "section_no": "12.21",
+   "section_title_bn": "জৈব যৌগে অসম্পৃক্ততার (C=C, C≡C) পরীক্ষা",
+   "book_page": 647,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "বেয়ার পরীক্ষা (ক্ষারীয় KMnO₄)",
+   "reactants": [
+    {
+     "name_bn": "ইথিলিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্ষারীয় পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিলিন গ্লাইকল",
+     "formula": "HOCH₂–CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অক্সালিক এসিড",
+     "formula": "HOOC–COOH",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + [O] + H₂O → HOCH₂–CH₂OH; CH≡CH + 4[O] → HOOC–COOH",
+   "conditions": "alkaline KMnO₄",
+   "observations_bn": "পারম্যাঙ্গানেটের গোলাপী বর্ণ দূর হয়।",
+   "procedure_bn": [
+    "অসম্পৃক্ত যৌগে ক্ষারীয় KMnO₄ ফোঁটা যোগ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্ষারীয় KMnO₄",
+    "অসম্পৃক্ত যৌগ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-37",
+   "chapter_no": 12,
+   "section_no": "12.22",
+   "section_title_bn": "নাইট্রোজেনবিহীন কার্যকরী মূলকসমূহের পরীক্ষা",
+   "book_page": 647,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যালকোহলিক –OH: লিটমাস পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "তরল জৈব যৌগের জলীয় দ্রবণ",
+     "formula": "",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "নীল ও লাল লিটমাস",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "যৌগটি নিরপেক্ষ; লিটমাসের রঙ অপরিবর্তিত থাকে।",
+   "procedure_bn": [
+    "জলীয় দ্রবণে লিটমাস কাগজ ডুবানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লিটমাস কাগজ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-38",
+   "chapter_no": 12,
+   "section_no": "12.22",
+   "section_title_bn": "নাইট্রোজেনবিহীন কার্যকরী মূলকসমূহের পরীক্ষা",
+   "book_page": 647,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যালকোহলিক –OH: সোডিয়াম পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "অনার্দ্র অ্যালকোহল",
+     "formula": "R–OH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যালকক্সাইড",
+     "formula": "R–ONa",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2R–OH + 2Na → 2R–ONa + H₂↑",
+   "conditions": "room temp",
+   "observations_bn": "বুদবুদ সহ H₂ নির্গত হয়, জ্বলন্ত কাঠি নিলে সশব্দে নীল শিখায় জ্বলে।",
+   "procedure_bn": [
+    "শুকনো নলে 8-10 ফোঁটা অনার্দ্র তরল নেওয়া",
+    "ছোট সোডিয়াম টুকরা ফেলা",
+    "গ্যাসে জ্বলন্ত কাঠি ধরা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অনার্দ্র যৌগ",
+    "Na টুকরা",
+    "জ্বলন্ত কাঠি"
+   ],
+   "safety_bn": "Na ধাতু সতর্কতার সাথে সামলাতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-39",
+   "chapter_no": 12,
+   "section_no": "12.22",
+   "section_title_bn": "নাইট্রোজেনবিহীন কার্যকরী মূলকসমূহের পরীক্ষা",
+   "book_page": 647,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যালকোহলিক –OH: এস্টার পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "গ্লেসিয়াল অ্যাসিটিক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল অ্যাসিটেট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OH + CH₃COOH → CH₃COOC₂H₅ + H₂O",
+   "conditions": "warm; গাঢ় H₂SO₄ অনুঘটক",
+   "observations_bn": "ফলের মতো সুগন্ধ বের হয়।",
+   "procedure_bn": [
+    "4-5 ফোঁটা তরলে সমপরিমাণ অ্যাসিটিক এসিড ও গাঢ় H₂SO₄ মেশানো",
+    "মিশ্রণ গরম করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গ্লেসিয়াল অ্যাসিটিক এসিড",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "গাঢ় অ্যাসিড সতর্কতা।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-18-40",
+   "chapter_no": 12,
+   "section_no": "12.22",
+   "section_title_bn": "নাইট্রোজেনবিহীন কার্যকরী মূলকসমূহের পরীক্ষা",
+   "book_page": 647,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লুকাস পরীক্ষা (1°, 2°, 3° অ্যালকোহল)",
+   "reactants": [
+    {
+     "name_bn": "টার্শিয়ারি বিউটানল",
+     "formula": "(CH₃)₃COH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "আইসোপ্রোপানল",
+     "formula": "(CH₃)₂CHOH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "লুকাস বিকারক (ZnCl₂ ও গাঢ় HCl)",
+     "formula": "HCl/ZnCl₂",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টার্শিয়ারি বিউটাইল ক্লোরাইড",
+     "formula": "(CH₃)₃CCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আইসোপ্রোপাইল ক্লোরাইড",
+     "formula": "(CH₃)₂CHCl",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃)₃COH + HCl → (CH₃)₃CCl + H₂O; (CH₃)₂CHOH + HCl → (CH₃)₂CHCl + H₂O; CH₃CH₂OH + HCl → কোনো বিক্রিয়া নেই",
+   "conditions": "ZnCl₂ উপস্থিতি, room temp",
+   "observations_bn": "3° তে সাথে সাথে ঘোলা; 2° তে 5-10 মিনিট পর ঘোলা; 1° তে পরিবর্তন নেই।",
+   "procedure_bn": [
+    "8-10 ফোঁটা তরল নেওয়া",
+    "সমপরিমাণ লুকাস বিকারক যোগ করে ঝাঁকানো",
+    "ঘোলাটে হওয়ার সময় লক্ষ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লুকাস বিকারক",
+    "পরীক্ষানল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 11,
+   "no": "11.27",
+   "title_bn": "প্রোটিন সংশ্লেষণে নিউক্লিক এসিডের ভূমিকা",
+   "start_page": 613
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.28",
+   "title_bn": "DNA এবং RNA এর মধ্যে পার্থক্য",
+   "start_page": 615
+  },
+  {
+   "chapter_no": 11,
+   "no": "11.29",
+   "title_bn": "প্রোটিন ও নিউক্লিক এসিডের মধ্যে পার্থক্য",
+   "start_page": 616
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.1",
+   "title_bn": "ভূমিকা",
+   "start_page": 624
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.2",
+   "title_bn": "জৈব যৌগের বিশোধন",
+   "start_page": 625
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.3",
+   "title_bn": "কেলাসন",
+   "start_page": 625
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.4",
+   "title_bn": "আংশিক কেলাসন",
+   "start_page": 626
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.5",
+   "title_bn": "ঊর্ধ্বপাতন",
+   "start_page": 626
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.6",
+   "title_bn": "পাতন",
+   "start_page": 627
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.7",
+   "title_bn": "আংশিক পাতন",
+   "start_page": 628
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.8",
+   "title_bn": "বাষ্প পাতন বা স্টিম পাতন",
+   "start_page": 629
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.9",
+   "title_bn": "নিম্নচাপ পাতন বা অনুপ্রেষ পাতন",
+   "start_page": 630
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.10",
+   "title_bn": "দ্রাবক নিষ্কাশন",
+   "start_page": 631
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.11",
+   "title_bn": "ক্রোমাটোগ্রাফী",
+   "start_page": 632
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.12",
+   "title_bn": "জৈব যৌগের বিশুদ্ধতার পরীক্ষা",
+   "start_page": 634
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.13",
+   "title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "start_page": 637
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.14",
+   "title_bn": "জৈব যৌগে মৌলসমূহের মাত্রিক বিশ্লেষণ",
+   "start_page": 639
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.15",
+   "title_bn": "জৈব যৌগে C ও H এর পরিমাণ নির্ণয়",
+   "start_page": 639
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.16",
+   "title_bn": "জৈব যৌগে N এর পরিমাণ নির্ণয়",
+   "start_page": 641
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.17",
+   "title_bn": "জৈব যৌগে হ্যালোজেনের পরিমাণ নির্ণয়",
+   "start_page": 644
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.18",
+   "title_bn": "জৈব যৌগে সালফার-এর পরিমাণ নির্ণয়",
+   "start_page": 644
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.19",
+   "title_bn": "জৈব যৌগে অক্সিজেনের পরিমাণ নির্ণয়",
+   "start_page": 645
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.20",
+   "title_bn": "স্থূল সংকেত ও আণবিক সংকেত নির্ণয়",
+   "start_page": 646
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.21",
+   "title_bn": "জৈব যৌগে অসম্পৃক্ততার (C=C, C≡C) পরীক্ষা",
+   "start_page": 646
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.22",
+   "title_bn": "নাইট্রোজেনবিহীন কার্যকরী মূলকসমূহের পরীক্ষা",
+   "start_page": 647
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "চ্যাপ্টার ১১ শেষ অংশ (pdf 627-634) ও প্রশ্নব্যাংক পাতা বাদ; চ্যাপ্টার ১২ শুরু printed p624 (pdf 639); chunk 12.22 এর মাঝখানে শেষ (p647), বাকি অংশ পরের chunk এ। Schiff বিকারক নোট ch11 এর DNA/RNA টেবিলের নিচের দ্রষ্টব্য থেকে।"
+}

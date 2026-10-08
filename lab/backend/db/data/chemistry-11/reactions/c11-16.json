@@ -1,0 +1,2305 @@
+{
+ "book": "NCTB Class 11 Chemistry First Paper",
+ "chunk_pdf_pages": [
+  528,
+  562
+ ],
+ "page_offset_note": "printed page = pdf page + 2 (pdf 528 = printed 530)",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-16-01",
+   "chapter_no": 4,
+   "section_no": "4.25.3",
+   "section_title_bn": "বাফার দ্রবণের pH গণনা (Calculation of pH of a Buffer Solution)",
+   "book_page": 537,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রক্তের কার্বনেট বাফার সাম্যাবস্থা",
+   "reactants": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বাইকার্বনেট আয়ন",
+     "formula": "HCO₃⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂CO₃(aq) + H₂O(l) ⇌ H₃O⁺(aq) + HCO₃⁻(aq)",
+   "conditions": "শরীরে, রক্তের pH ≈ 7.35–7.45",
+   "observations_bn": "রক্তের pH বাঁধা রাখে এমন একটি বাফার জোড়া।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-02",
+   "chapter_no": 4,
+   "section_no": "4.25.3",
+   "section_title_bn": "বাফার দ্রবণের pH গণনা (Calculation of pH of a Buffer Solution)",
+   "book_page": 537,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রক্তের ফসফেট বাফার সাম্যাবস্থা",
+   "reactants": [
+    {
+     "name_bn": "ডাইহাইড্রোজেন ফসফেট আয়ন",
+     "formula": "H₂PO₄⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফসফেট আয়ন",
+     "formula": "HPO₄²⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂PO₄⁻(aq) + H₂O(l) ⇌ H₃O⁺(aq) + HPO₄²⁻(aq)",
+   "conditions": "শরীরে",
+   "observations_bn": "রক্তের তিন বাফার ব্যবস্থার একটি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-03",
+   "chapter_no": 4,
+   "section_no": "4.25.3",
+   "section_title_bn": "বাফার দ্রবণের pH গণনা (Calculation of pH of a Buffer Solution)",
+   "book_page": 537,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রক্তে অতিরিক্ত এসিড প্রশমন ও CO₂ নিঃসরণ",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বাইকার্বনেট আয়ন",
+     "formula": "HCO₃⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₃O⁺(aq) + HCO₃⁻(aq) → H₂CO₃(aq) + H₂O(l)",
+   "conditions": "শরীরে; এরপর H₂CO₃ → H₂O + CO₂↑ (ফুসফুসে)",
+   "observations_bn": "উৎপন্ন H₂CO₃ ভেঙে পানি ও CO₂ হয়, CO₂ নিঃশ্বাসে বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-04",
+   "chapter_no": 4,
+   "section_no": "4.25.3",
+   "section_title_bn": "বাফার দ্রবণের pH গণনা (Calculation of pH of a Buffer Solution)",
+   "book_page": 537,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রক্তে অতিরিক্ত ক্ষার (OH⁻) প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বাইকার্বনেট আয়ন",
+     "formula": "HCO₃⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂CO₃(aq) + OH⁻(aq) ⇌ HCO₃⁻(aq) + H₂O(l)",
+   "conditions": "শরীরে",
+   "observations_bn": "ক্ষার ঢুকলে H₂CO₃ তা শোষণ করে pH স্থির রাখে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-05",
+   "chapter_no": 4,
+   "section_no": "4.26",
+   "section_title_bn": "বাফার দ্রবণের ক্রিয়া কৌশল",
+   "book_page": 539,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অম্লীয় বাফারে অল্প এসিড যোগ (CH₃COOH/CH₃COONa)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটেট আয়ন",
+     "formula": "CH₃COO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COO⁻(aq) + H⁺(aq) → CH₃COOH(aq)",
+   "conditions": "room temp",
+   "observations_bn": "যোগ করা H⁺ কে অ্যাসিটেট আয়ন ধরে ফেলে, তাই pH প্রায় অপরিবর্তিত থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানোয়িক এসিড দ্রবণ",
+    "সোডিয়াম ইথানোয়েট দ্রবণ",
+    "লঘু এসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-06",
+   "chapter_no": 4,
+   "section_no": "4.26",
+   "section_title_bn": "বাফার দ্রবণের ক্রিয়া কৌশল",
+   "book_page": 539,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অম্লীয় বাফারে অল্প ক্ষার যোগ",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "OH⁻(aq) + H⁺(aq) → H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "OH⁻ কে H⁺ প্রশমিত করে; CH₃COOH ⇌ CH₃COO⁻ + H⁺ সাম্য ক্ষতি পূরণ করে, pH স্থির থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানোয়িক এসিড দ্রবণ",
+    "সোডিয়াম ইথানোয়েট দ্রবণ",
+    "লঘু ক্ষার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-07",
+   "chapter_no": 4,
+   "section_no": "4.26",
+   "section_title_bn": "বাফার দ্রবণের ক্রিয়া কৌশল",
+   "book_page": 540,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্ষারীয় বাফারে অল্প এসিড যোগ (NH₄OH/NH₄Cl)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H⁺(aq) + OH⁻(aq) → H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "NH₄OH ভেঙে OH⁻ যোগান দেয়, তাই pH প্রায় স্থির থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যামোনিয়াম হাইড্রক্সাইড দ্রবণ",
+    "অ্যামোনিয়াম ক্লোরাইড দ্রবণ",
+    "লঘু এসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-08",
+   "chapter_no": 4,
+   "section_no": "4.26",
+   "section_title_bn": "বাফার দ্রবণের ক্রিয়া কৌশল",
+   "book_page": 540,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্ষারীয় বাফারে অল্প ক্ষার যোগ",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "equation": "OH⁻(aq) + NH₄⁺(aq) ⇌ NH₄OH(aq)",
+   "conditions": "room temp",
+   "observations_bn": "বাড়তি OH⁻ কে NH₄⁺ ধরে অবিয়োজিত NH₄OH বানায়; pH বদলায় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যামোনিয়াম হাইড্রক্সাইড দ্রবণ",
+    "অ্যামোনিয়াম ক্লোরাইড দ্রবণ",
+    "লঘু ক্ষার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-09",
+   "chapter_no": 4,
+   "section_no": "4.26",
+   "section_title_bn": "বাফার দ্রবণের ক্রিয়া কৌশল",
+   "book_page": 542,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কার্বনেট বাফার দ্রবণ প্রস্তুতি ও কার্যকারিতা পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম বাইকার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "H₂CO₃ ⇌ H⁺ + HCO₃⁻; HCO₃⁻ + H⁺ ⇌ H₂CO₃; H⁺ + OH⁻ → H₂O",
+   "conditions": "room temp",
+   "observations_bn": "বাফারে ১-২ mL লঘু HCl বা NaOH দিলেও pH প্রায় বদলায় না; বদলালে বাফার ভালো হয়নি।",
+   "procedure_bn": [
+    "০.০৮৪ g NaHCO₃ দিয়ে ১০০ mL ০.০১ M দ্রবণ বানাও, H₂CO₃ ও HCl/NaOH ও একইভাবে",
+    "২৫ mL NaHCO₃ ও ২৫ mL H₂CO₃ মিশিয়ে বাফার করো",
+    "pH মিটার/পেপারে pH মাপো",
+    "১-২ mL ০.০১ M HCl বা NaOH দিয়ে pH আবার মাপো"
+   ],
+   "quantities_bn": "NaHCO₃ আ.ভর 84; ১০০ mL ০.০১ M এর জন্য ০.০৮৪ g; বাফারে প্রতিটি ২৫ mL; লক্ষ্য pH ৬.৪ হলে প্রতিটি ১০ mL ০.০১ M (pKₐ=6.1)",
+   "materials_bn": [
+    "NaHCO₃",
+    "H₂CO₃ ০.০১ M",
+    "০.০১ M HCl",
+    "০.০১ M NaOH",
+    "১০০ mL ফ্লাস্ক",
+    "pH মিটার বা pH পেপার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-10",
+   "chapter_no": 4,
+   "section_no": "4.27",
+   "section_title_bn": "মানুষের রক্তে pH",
+   "book_page": 543,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অম্লীয় খাবারের H⁺ রক্তের HCO₃⁻ দ্বারা প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বাইকার্বনেট আয়ন",
+     "formula": "HCO₃⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "H⁺(aq) + HCO₃⁻(aq) → H₂CO₃(aq)",
+   "conditions": "শরীরে",
+   "observations_bn": "পরে H₂CO₃ ভেঙে CO₂ হয়ে নিঃশ্বাসে বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-11",
+   "chapter_no": 4,
+   "section_no": "4.27",
+   "section_title_bn": "মানুষের রক্তে pH",
+   "book_page": 544,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বনিক এসিডের বিয়োজন ও CO₂ নিঃসরণ",
+   "reactants": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂CO₃(aq) → H₂O(l) + CO₂(g)↑",
+   "conditions": "শরীরে (ফুসফুস)",
+   "observations_bn": "CO₂ শ্বাসের সাথে বের হয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-12",
+   "chapter_no": 4,
+   "section_no": "4.27",
+   "section_title_bn": "মানুষের রক্তে pH",
+   "book_page": 544,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রক্তের অতিরিক্ত OH⁻ প্রশমন (H₂CO₃ দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বাইকার্বনেট আয়ন",
+     "formula": "HCO₃⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "OH⁻(aq) + H₂CO₃(aq) → HCO₃⁻(aq) + H₂O(l)",
+   "conditions": "শরীরে",
+   "observations_bn": "ক্ষার ঢুকলে pH ৭.৪ এর মধ্যেই থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-13",
+   "chapter_no": 4,
+   "section_no": "4.27",
+   "section_title_bn": "মানুষের রক্তে pH",
+   "book_page": 544,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বনেট আয়ন ও H₂CO₃ থেকে বাইকার্বনেট গঠন",
+   "reactants": [
+    {
+     "name_bn": "কার্বনেট আয়ন",
+     "formula": "CO₃²⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বাইকার্বনেট আয়ন",
+     "formula": "HCO₃⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "CO₃²⁻(aq) + H₂CO₃(aq) ⇌ 2HCO₃⁻(aq)",
+   "conditions": "শরীরে",
+   "observations_bn": "HCO₃⁻ প্রোটন দিয়ে CO₃²⁻ হলে তা H₂CO₃ এর সাথে আবার HCO₃⁻ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-14",
+   "chapter_no": 4,
+   "section_no": "4.27",
+   "section_title_bn": "মানুষের রক্তে pH",
+   "book_page": 545,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামিনো এসিডের pH অনুযায়ী রূপ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামিনো এসিড",
+     "formula": "H₂N–CHR–COOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যাটায়ন রূপ",
+     "formula": "H₃N⁺–CHR–COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂N–CHR–COOH + H⁺ → H₃N⁺–CHR–COOH",
+   "equation_printed": "H₂N–CHR–COOH –(pH<7, H⁺)→ H₃N⁺–CHR–COOH (অম্লীয়); –(pH>7, OH⁻)→ H₂N–CHR–COO⁻ + H₂O; –(pH=7)→ H₃N⁺–CHR–COO⁻",
+   "conditions": "অম্লীয় মাধ্যম (pH < 7); ক্ষারীয়: → H₂N–CHR–COO⁻ + H₂O; নিরপেক্ষ: জুইটার আয়ন H₃N⁺–CHR–COO⁻",
+   "observations_bn": "pH অনুযায়ী অ্যামিনো এসিড এসিড বা ক্ষার হিসেবে কাজ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-16-15",
+   "chapter_no": 4,
+   "section_no": "4.27",
+   "section_title_bn": "মানুষের রক্তে pH",
+   "book_page": 545,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কলাকোষে CO₂ দ্রবণ ও কার্বনিক এসিড সাম্য",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বাইকার্বনেট আয়ন",
+     "formula": "HCO₃⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "CO₂(g) + H₂O(l) ⇌ H₂CO₃(aq) ⇌ H⁺(aq) + HCO₃⁻(aq)",
+   "conditions": "শরীরে",
+   "observations_bn": "CO₂ রক্তে দ্রবীভূত হয়ে ফুসফুসে ফিরে ছাড়া পায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-16",
+   "chapter_no": 4,
+   "section_no": "4.27",
+   "section_title_bn": "মানুষের রক্তে pH",
+   "book_page": 545,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হিমোগ্লোবিনের অক্সিজেন পরিবহন সাম্য",
+   "reactants": [
+    {
+     "name_bn": "হিমোগ্লোবিন",
+     "formula": "Hb",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সিহিমোগ্লোবিন",
+     "formula": "HbO₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "Hb + O₂ ⇌ HbO₂",
+   "equation_printed": "Hb(s) + O₂(g) ⇌ HbO₂(s) ⇌ HbO₂(g)",
+   "conditions": "শরীরে",
+   "observations_bn": "ফুসফুসে O₂ বেশি বলে HbO₂ হয়, কলায় O₂ কম বলে O₂ ছাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-16-17",
+   "chapter_no": 4,
+   "section_no": "4.25.3",
+   "section_title_bn": "বাফার দ্রবণের pH গণনা (Calculation of pH of a Buffer Solution)",
+   "book_page": 547,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিড/সোডিয়াম ইথানোয়েট বাফার প্রস্তুতি (উদাহরণ-৪)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [],
+   "equation": "CH₃COOH(aq) ⇌ CH₃COO⁻(aq) + H⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "০.২৫ M CH₃COOH ২০০ mL এ ৪.৯১৯৯ g CH₃COONa মিশিয়ে [H₃O⁺]=১.৫×১০⁻⁵ হয় (Kₐ=১.৮×১০⁻⁵)।",
+   "materials_bn": [
+    "ইথানোয়িক এসিড",
+    "সোডিয়াম ইথানোয়েট"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k11-16-18",
+   "chapter_no": 4,
+   "section_no": "4.25.3",
+   "section_title_bn": "বাফার দ্রবণের pH গণনা (Calculation of pH of a Buffer Solution)",
+   "book_page": 548,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₄OH + NH₄Cl ক্ষারীয় বাফার (উদাহরণ-৬)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄OH(aq) ⇌ NH₄⁺(aq) + OH⁻(aq)",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "১ L ০.১ M NH₄OH এ ১০.৭ g NH₄Cl (০.২ mol) যোগ; pKb=৪.৭৪; pH ≈ ৮.৯৬।",
+   "materials_bn": [
+    "NH₄OH ০.১ M",
+    "NH₄Cl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-19",
+   "chapter_no": 4,
+   "section_no": "4.25.3",
+   "section_title_bn": "বাফার দ্রবণের pH গণনা (Calculation of pH of a Buffer Solution)",
+   "book_page": 548,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₃ + (NH₄)₂SO₄ বাফার (উদাহরণ-৭)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফেট আয়ন",
+     "formula": "SO₄²⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "(NH₄)₂SO₄(s) → 2NH₄⁺(aq) + SO₄²⁻(aq)",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "১ L এ ০.০১৫ mol (NH₄)₂SO₄ ও ০.০৩ mol NH₃; pH = ৯.২৬।",
+   "materials_bn": [
+    "(NH₄)₂SO₄",
+    "NH₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-20",
+   "chapter_no": 4,
+   "section_no": "4.25.3",
+   "section_title_bn": "বাফার দ্রবণের pH গণনা (Calculation of pH of a Buffer Solution)",
+   "book_page": 548,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিটেট বাফারে HCl যোগ (উদাহরণ-৮)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন (HCl থেকে)",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যাসিটেট আয়ন",
+     "formula": "CH₃COO⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₃O⁺(aq) + CH₃COO⁻(aq) → CH₃COOH(aq) + H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "০.০২ mol HCl দিলে pH ৫.০ থেকে ৪.৯৭৬৯ এ নামে।",
+   "procedure_bn": [],
+   "quantities_bn": "প্রতি লিটারে ০.৫৬ mol CH₃COOH ও ১.০১ mol CH₃COONa (pH ৫.০); ০.০২ mol HCl যোগ।",
+   "materials_bn": [
+    "বাফার দ্রবণ",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-21",
+   "chapter_no": 4,
+   "section_no": "4.25.3",
+   "section_title_bn": "বাফার দ্রবণের pH গণনা (Calculation of pH of a Buffer Solution)",
+   "book_page": 549,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিটেট বাফারে NaOH যোগ (উদাহরণ-৮)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন (NaOH থেকে)",
+     "formula": "OH⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটেট আয়ন",
+     "formula": "CH₃COO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "OH⁻(aq) + CH₃COOH(aq) → CH₃COO⁻(aq) + H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "০.২ mol NaOH দিলে pH ৫.০ থেকে ৫.২৭১২ এ ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "একই বাফারে প্রতি লিটারে ০.২ mol NaOH যোগ।",
+   "materials_bn": [
+    "বাফার দ্রবণ",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-22",
+   "chapter_no": 4,
+   "section_no": "4.28.4",
+   "section_title_bn": "ঔষধ সেবনে pH এর গুরুত্ব",
+   "book_page": 555,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যান্টাসিড হিসেবে MgO থেকে Mg(OH)₂",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+     "formula": "MgO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সাইড",
+     "formula": "Mg(OH)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "MgO + H₂O → Mg(OH)₂",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "MgO",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-23",
+   "chapter_no": 4,
+   "section_no": "4.28.4",
+   "section_title_bn": "ঔষধ সেবনে pH এর গুরুত্ব",
+   "book_page": 555,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Mg(OH)₂ দ্বারা পাকস্থলীর এসিড প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সাইড",
+     "formula": "Mg(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম আয়ন",
+     "formula": "Mg²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Mg(OH)₂ + 2H₃O⁺ → Mg²⁺ + 4H₂O",
+   "conditions": "room temp",
+   "observations_bn": "অ্যান্টাসিড অতিরিক্ত এসিড প্রশমন করে pH বাড়ায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Mg(OH)₂",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-24",
+   "chapter_no": 4,
+   "section_no": "4.28.4",
+   "section_title_bn": "ঔষধ সেবনে pH এর গুরুত্ব",
+   "book_page": 555,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Al(OH)₃ দ্বারা পাকস্থলীর এসিড প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম আয়ন",
+     "formula": "Al³⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Al(OH)₃ + 3H₃O⁺ → Al³⁺ + 6H₂O",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Al(OH)₃",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-25",
+   "chapter_no": 4,
+   "section_no": "4.28.4",
+   "section_title_bn": "ঔষধ সেবনে pH এর গুরুত্ব",
+   "book_page": 555,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্যারাসিটামলের (অ্যাসিটামিনোফেন) বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "প্যারাসিটামল",
+     "formula": "C₈H₉NO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্যারাসিটামল আয়ন",
+     "formula": "C₈H₈NO₂⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₈H₉NO₂ + H₂O → C₈H₈NO₂⁻ + H₃O⁺",
+   "conditions": "পানিতে",
+   "observations_bn": "পাকস্থলীতে H₃O⁺ বাড়ায়, pH কমায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-26",
+   "chapter_no": 4,
+   "section_no": "4.28.4",
+   "section_title_bn": "ঔষধ সেবনে pH এর গুরুত্ব",
+   "book_page": 555,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যাসপিরিনের (অ্যাসিটাইলস্যালিসিলিক এসিড) বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসপিরিন",
+     "formula": "C₉H₈O₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসপিরিন আয়ন",
+     "formula": "C₉H₇O₄⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₉H₈O₄ + H₂O → C₉H₇O₄⁻ + H₃O⁺",
+   "conditions": "পানিতে; pKₐ ৩.৫ (Kₐ = ৩.১৬×১০⁻⁴)",
+   "observations_bn": "পাকস্থলীতে H₃O⁺ বাড়ে, pH কমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-27",
+   "chapter_no": 4,
+   "section_no": "4.28.4",
+   "section_title_bn": "ঔষধ সেবনে pH এর গুরুত্ব",
+   "book_page": 556,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "প্রসাধনী/দৈনন্দিন নমুনার pH নির্ণয় (pH কাগজ ও pH মিটার)",
+   "reactants": [],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "pH কাগজের রঙ স্কেলের সাথে মিলিয়ে বা মিটারের ডিজিটাল মানে pH পাওয়া যায়।",
+   "procedure_bn": [
+    "pH কাগজ বাক্সের রঙ চার্টের সাথে নমুনা-ভেজা কাগজ মেলাও",
+    "অথবা বিকারে নমুনা নিয়ে pH মিটারের ইলেকট্রড ডুবিয়ে মান পড়ো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "প্রসাধনী/তরল নমুনা",
+    "pH কাগজ (০-১৪)",
+    "pH মিটার",
+    "বিকার"
+   ],
+   "safety_bn": "চোখে ড্রপ দেওয়া ও pH নিয়ে সাবধান থাকা",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-28",
+   "chapter_no": 4,
+   "section_no": "4.29.1",
+   "section_title_bn": "ভরের নিত্যতা সূত্র",
+   "book_page": 557,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ল্যান্ডোল্টের পরীক্ষা: FeSO₄ ও Ag₂SO₄ বিক্রিয়ায় ভর অপরিবর্তিত",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সিলভার সালফেট",
+     "formula": "Ag₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফেরিক সালফেট",
+     "formula": "Fe₂(SO₄)₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2FeSO₄(aq) + Ag₂SO₄(aq) → 2Ag(s)↓ + Fe₂(SO₄)₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সিলভার ধাতু অধঃক্ষিপ্ত হয়; নল ওজন করে ভর একই পাওয়া যায়।",
+   "procedure_bn": [
+    "H-আকৃতি নলের দুই বাহুতে আলাদা দুই দ্রবণ নাও, নল সিল করে ভর মাপো",
+    "নল উল্টে মিশিয়ে বিক্রিয়া ঘটাও",
+    "আবার ভর মাপো এবং আগের সাথে মেলাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "H-আকৃতি কাচনল",
+    "FeSO₄ দ্রবণ",
+    "Ag₂SO₄ দ্রবণ",
+    "সূক্ষ্ম নিক্তি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-29",
+   "chapter_no": 4,
+   "section_no": "4.29.1",
+   "section_title_bn": "ভরের নিত্যতা সূত্র",
+   "book_page": 558,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NaCl ও AgNO₃ দ্রবণ মিশিয়ে ভর পরীক্ষা (H-নলে)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaCl(aq) + AgNO₃(aq) → AgCl(s)↓ + NaNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "H-নলের দুই বাহুতে দ্রবণ দুটি নাও",
+    "মিশিয়ে ভর আগে-পরে তুলনা করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaCl",
+    "AgNO₃",
+    "H-নল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-30",
+   "chapter_no": 4,
+   "section_no": "4.29.1",
+   "section_title_bn": "ভরের নিত্যতা সূত্র",
+   "book_page": 558,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "KI ও Pb(NO₃)₂ দ্রবণ মিশিয়ে ভর পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড নাইট্রেট",
+     "formula": "Pb(NO₃)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড আয়োডাইড",
+     "formula": "PbI₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম নাইট্রেট",
+     "formula": "KNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2KI(aq) + Pb(NO₃)₂(aq) → PbI₂(s)↓ + 2KNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "হলুদ অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "H-নলের এক বাহুতে KI, অন্যটিতে Pb(NO₃)₂ নাও",
+    "মিশিয়ে ভর আগে-পরে তুলনা করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KI",
+    "Pb(NO₃)₂",
+    "H-নল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-31",
+   "chapter_no": 4,
+   "section_no": "4.30",
+   "section_title_bn": "তাপ রাসায়নিক সমীকরণ লেখার পদ্ধতি",
+   "book_page": 558,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CaCO₃ এর তাপীয় বিয়োজন (সমীকরণ-লেখার উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃(s) → CaO(s) + CO₂(g)↑",
+   "conditions": "উচ্চ তাপমাত্রায় (বইয়ে তাপমাত্রা নেই)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-32",
+   "chapter_no": 4,
+   "section_no": "4.30",
+   "section_title_bn": "তাপ রাসায়নিক সমীকরণ লেখার পদ্ধতি",
+   "book_page": 558,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CuSO₄ ও NaOH দ্রবণের বিক্রিয়া (সমীকরণ-লেখার উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার হাইড্রক্সাইড",
+     "formula": "Cu(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "CuSO₄(aq) + 2NaOH(aq) → Cu(OH)₂(s)↓ + Na₂SO₄(aq)",
+   "equation_printed": "CuSO₄(aq) + 2NaOH(aq) → Cu(OH)₂(s) + Na₂SO₄(aq)",
+   "conditions": "room temp",
+   "observations_bn": "বইয়ে পর্যবেক্ষণ উল্লেখ নেই।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuSO₄ দ্রবণ",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-16-33",
+   "chapter_no": 4,
+   "section_no": "4.30",
+   "section_title_bn": "তাপ রাসায়নিক সমীকরণ লেখার পদ্ধতি",
+   "book_page": 558,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NaOH ও HCl দ্রবণের প্রশমন (সমীকরণ-লেখার উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaOH",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-34",
+   "chapter_no": 4,
+   "section_no": "4.30",
+   "section_title_bn": "তাপ রাসায়নিক সমীকরণ লেখার পদ্ধতি",
+   "book_page": 558,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বনের দহন (তাপ-সমীকরণের উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C(s) + O₂(g) → CO₂(g)",
+   "conditions": "দহন; ΔH = −393.5 kJ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-35",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 559,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂ ও O₂ থেকে NO (তাপগ্রাহী)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + O₂(g) → 2NO(g)",
+   "conditions": "ΔH = +180.75 kJ",
+   "observations_bn": "তাপগ্রাহী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-36",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 559,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ এর জারণে SO₃",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂(g) + O₂(g) → 2SO₃(g)",
+   "conditions": "ΔH = −694.5 kJ (বইয়ে যেমন ছাপা)",
+   "observations_bn": "তাপমোচী; বইয়ের মান সন্দেহজনক হতে পারে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-16-37",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 559,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হেবার পদ্ধতিতে অ্যামোনিয়া",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) → 2NH₃(g)",
+   "conditions": "ΔH = −92.38 kJ",
+   "observations_bn": "তাপমোচী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-38",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 559,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বন ও সালফার থেকে CS₂ (তাপগ্রাহী)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইসালফাইড",
+     "formula": "CS₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C(s) + 2S(s) → CS₂(l)",
+   "conditions": "ΔH = +92.05 kJ (৫৫৯); ৫৬০ পৃষ্ঠায় +89.9 ও −89.7 ছাপা আছে",
+   "observations_bn": "বইয়ে একাধিক ভিন্ন মান ছাপা।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-16-39",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 559,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂ ও I₂ থেকে HI (তাপগ্রাহী)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + I₂(g) ⇌ 2HI(g)",
+   "conditions": "ΔH = +52.9 kJ (৫৫৯); +53 kJ (৫৬১)",
+   "observations_bn": "তাপগ্রাহী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-40",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 560,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হাইড্রোজেনের দহন (তাপোৎপাদী)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2H₂(g) + O₂(g) → 2H₂O(l)",
+   "conditions": "দহন; ΔH = −572 kJ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-41",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 560,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেনের দহন",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)",
+   "equation_printed": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O; ΔH = −890.30 kJ mol⁻¹",
+   "conditions": "দহন; ΔH = −890.30 kJ mol⁻¹",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-42",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 560,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফারের দহন (SO₂)",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "S(s) + O₂(g) → SO₂(g)",
+   "conditions": "দহন; ΔH = −293.72 kJ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-43",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 560,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CS₂ এর দহন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাইসালফাইড",
+     "formula": "CS₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CS₂(l) + 3O₂(g) → CO₂(g) + 2SO₂(g)",
+   "conditions": "দহন; ΔH = −1108.76 kJ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-44",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 561,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বন ও জলীয় বাষ্প থেকে CO ও H₂ (তাপগ্রাহী)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি (বাষ্প)",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C(s) + H₂O(g) → CO(g) + H₂(g)",
+   "equation_printed": "C(s) + H₂O(g) → CO(g) + H₂(g) − 131.25 kJ",
+   "conditions": "উচ্চ তাপমাত্রা; ΔH = +131.25 kJ",
+   "observations_bn": "তাপগ্রাহী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-45",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 561,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বন্ধন শক্তি দিয়ে H₂ দহনের ΔH (উদাহরণ-১)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি (বাষ্প)",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2H₂(g) + O₂(g) → 2H₂O(g)",
+   "conditions": "ΔH = ১৩৬৮ − ১৮৫২ = −৪৮৪ kJ mol⁻¹ (বন্ধন শক্তি থেকে)",
+   "observations_bn": "বন্ধন ভাঙতে শক্তি লাগে, গঠনে ছাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "H–H ৪৩৬, O=O ৪৯৬, O–H ৪৬৩ kJ mol⁻¹",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-46",
+   "chapter_no": 4,
+   "section_no": "4.31.1",
+   "section_title_bn": "বিক্রিয়া তাপ",
+   "book_page": 561,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বন্ধন শক্তি দিয়ে CH₄ দহনের ΔH (উদাহরণ-২)",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি (বাষ্প)",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)",
+   "conditions": "ΔH = ২৬৪৪ − ৩৩৩৮ = −৬৯৪ kJ mol⁻¹ (বন্ধন শক্তি থেকে)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "C–H ৪১৩, O=O ৪৯৬, C=O ৭৪৩, O–H ৪৬৩ kJ mol⁻¹",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-47",
+   "chapter_no": 4,
+   "section_no": "4.31.2",
+   "section_title_bn": "অবস্থা পরিবর্তনের তাপ",
+   "book_page": 563,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "বরফ গলন (গলন তাপ)",
+   "reactants": [
+    {
+     "name_bn": "বরফ",
+     "formula": "H₂O",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂O(s) → H₂O(l)",
+   "conditions": "০ °C; ΔH = +6.0 kJ mol⁻¹",
+   "observations_bn": "বরফ গলতে তাপ শোষণ করে (তাপগ্রাহী)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-48",
+   "chapter_no": 4,
+   "section_no": "4.31.2",
+   "section_title_bn": "অবস্থা পরিবর্তনের তাপ",
+   "book_page": 563,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaCl এর গলন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গলিত NaCl",
+     "formula": "NaCl",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NaCl(s) → NaCl(l)",
+   "conditions": "৮০১ °C; ΔH = +24.0 kJ mol⁻¹",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-49",
+   "chapter_no": 4,
+   "section_no": "4.31.2",
+   "section_title_bn": "অবস্থা পরিবর্তনের তাপ",
+   "book_page": 563,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "MgCl₂ এর গলন",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গলিত MgCl₂",
+     "formula": "MgCl₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "MgCl₂(s) → MgCl₂(l)",
+   "conditions": "৯৮৭ °C; ΔH = +43.0 kJ mol⁻¹",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-50",
+   "chapter_no": 4,
+   "section_no": "4.31.2",
+   "section_title_bn": "অবস্থা পরিবর্তনের তাপ",
+   "book_page": 563,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পানির বাষ্পীভবন",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জলীয় বাষ্প",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂O(l) → H₂O(g)",
+   "conditions": "১০০ °C; ΔH = +40.79 kJ mol⁻¹",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-51",
+   "chapter_no": 4,
+   "section_no": "4.31.2",
+   "section_title_bn": "অবস্থা পরিবর্তনের তাপ",
+   "book_page": 563,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আয়োডিনের ঊর্ধ্বপাতন",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন বাষ্প",
+     "formula": "I₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "I₂(s) → I₂(g)",
+   "conditions": "ΔH = +62.0 kJ mol⁻¹",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-52",
+   "chapter_no": 4,
+   "section_no": "4.31.3",
+   "section_title_bn": "পরমাণুকরণ তাপ",
+   "book_page": 564,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মৌলের পরমাণুকরণ তাপ (সারণি)",
+   "reactants": [
+    {
+     "name_bn": "দ্বিপরমাণুক গ্যাস (H₂, O₂, F₂, Cl₂, Br₂, I₂)",
+     "formula": "X₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্যাসীয় পরমাণু",
+     "formula": "X",
+     "state": "gas"
+    }
+   ],
+   "equation": "½H₂(g) → H(g); ½O₂(g) → O(g); ½F₂(g) → F(g); ½Cl₂(g) → Cl(g); ½Br₂(g) → Br(g); ½I₂(g) → I(g)",
+   "conditions": "ΔH°(298 K) যথাক্রমে +218.0, +249.2, +79.1, +121.1, +112.0, +106.0 kJ/mol",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-53",
+   "chapter_no": 4,
+   "section_no": "4.31.4",
+   "section_title_bn": "দ্রবণ তাপ",
+   "book_page": 564,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অনার্দ্র CuSO₄ এর হাইড্রেট গঠন",
+   "reactants": [
+    {
+     "name_bn": "অনার্দ্র কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার সালফেট পেন্টাহাইড্রেট",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "equation": "CuSO₄(s) + 5H₂O(l) → CuSO₄·5H₂O(s)",
+   "equation_printed": "CuSO₄(s) + 5H₂O → CuSO₄·5H₂O; ΔH = −66.04 kJ",
+   "conditions": "room temp",
+   "observations_bn": "তাপ ছাড়ে; ১ mol থেকে ৬৬.০৪ kJ (ΔH = −66.04 kJ)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অনার্দ্র CuSO₄",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-16-54",
+   "chapter_no": 4,
+   "section_no": "4.31.4",
+   "section_title_bn": "দ্রবণ তাপ",
+   "book_page": 564,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "দ্রবণ তাপ অনুভব: চুন, KNO₃ ও গ্লুকোজ পানিতে",
+   "reactants": [
+    {
+     "name_bn": "চুন (লাইম)",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CaO(s) + H₂O(l) → Ca(OH)₂(aq)",
+   "conditions": "room temp",
+   "observations_bn": "চুন পানিতে দিলে দ্রবণ গরম ও ফুটন্ত হয়; গ্লুকোজ বা KNO₃ দিলে দ্রবণ ঠান্ডা হয়।",
+   "procedure_bn": [
+    "পানিতে চুন দিয়ে তাপমাত্রার পরিবর্তন লক্ষ করো",
+    "আলাদা পানিতে গ্লুকোজ ও KNO₃ দিয়ে ঠান্ডা হওয়া দেখো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "চুন",
+    "গ্লুকোজ",
+    "KNO₃",
+    "পানি",
+    "বিকার/পরীক্ষানল"
+   ],
+   "safety_bn": "চুন দিলে দ্রবণ খুব গরম হতে পারে",
+   "confidence": "inferred"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 4,
+   "no": "4.25",
+   "title_bn": "বাফার দ্রবণ ও বাফার দ্রবণ প্রস্তুতি",
+   "start_page": 533
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.25.1",
+   "title_bn": "বাফার দ্রবণ",
+   "start_page": 533
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.25.2",
+   "title_bn": "বাফার দ্রবণ প্রস্তুতি",
+   "start_page": 534
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.25.3",
+   "title_bn": "বাফার দ্রবণের pH গণনা",
+   "start_page": 535
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.26",
+   "title_bn": "বাফার দ্রবণের ক্রিয়া কৌশল",
+   "start_page": 539
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.27",
+   "title_bn": "মানুষের রক্তে pH",
+   "start_page": 543
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.28",
+   "title_bn": "কৃষি, রসায়ন শিল্প, টয়লেট্রিজ, ঔষধ সেবনে pH এর গুরুত্ব",
+   "start_page": 552
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.28.1",
+   "title_bn": "কৃষিক্ষেত্রে pH এর গুরুত্ব",
+   "start_page": 552
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.28.2",
+   "title_bn": "রসায়ন শিল্পে pH এর গুরুত্ব",
+   "start_page": 553
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.28.3",
+   "title_bn": "টয়লেট্রিজ ক্ষেত্রে pH এর গুরুত্ব",
+   "start_page": 553
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.28.4",
+   "title_bn": "ঔষধ সেবনে pH এর গুরুত্ব",
+   "start_page": 555
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.29",
+   "title_bn": "ভর ও শক্তির নিত্যতা সূত্র",
+   "start_page": 557
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.29.1",
+   "title_bn": "ভরের নিত্যতা সূত্র",
+   "start_page": 557
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.29.2",
+   "title_bn": "শক্তির নিত্যতা সূত্র",
+   "start_page": 558
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.30",
+   "title_bn": "তাপ রাসায়নিক সমীকরণ লেখার পদ্ধতি",
+   "start_page": 558
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.31",
+   "title_bn": "তাপীয় পরিবর্তন",
+   "start_page": 559
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.31.1",
+   "title_bn": "বিক্রিয়া তাপ",
+   "start_page": 559
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.31.2",
+   "title_bn": "অবস্থা পরিবর্তনের তাপ",
+   "start_page": 563
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.31.3",
+   "title_bn": "পরমাণুকরণ তাপ",
+   "start_page": 564
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.31.4",
+   "title_bn": "দ্রবণ তাপ",
+   "start_page": 564
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Chunk is within chapter 4 (রাসায়নিক পরিবর্তন), continuing from earlier section; pages 530-532 (pH/buffer exercises), 536-538,546-547,550-551 (derivations, numerical problems) skipped. Some printed thermochemical values look unusual (SO2->SO3, CS2) and are recorded as printed."
+}

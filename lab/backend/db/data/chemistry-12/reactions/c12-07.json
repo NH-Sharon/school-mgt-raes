@@ -1,0 +1,531 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  231,
+  266
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-07-01",
+   "chapter_no": 4,
+   "section_no": "4.14",
+   "section_title_bn": "জৈব বিক্রিয়া ও প্রকারভেদ",
+   "book_page": 220,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রতিস্থাপন: ক্লোরো ইথেন থেকে ইথানল",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরো ইথেন",
+     "formula": "C₂H₅Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন (জলীয় ক্ষার)",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₂H₅Cl + OH⁻ → C₂H₅OH + Cl⁻",
+   "conditions": "জলীয় ক্ষার দ্রবণ",
+   "observations_bn": "Cl পরমাণুর জায়গায় –OH বসে; প্রতিস্থাপন বিক্রিয়ার উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরো ইথেন",
+    "জলীয় ক্ষার দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-02",
+   "chapter_no": 4,
+   "section_no": "4.14",
+   "section_title_bn": "জৈব বিক্রিয়া ও প্রকারভেদ",
+   "book_page": 220,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সংযোজন: ইথিন + ব্রোমিন",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,2-ডাইব্রোমো ইথেন",
+     "formula": "C₂H₄Br₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₄ + Br₂ → C₂H₄Br₂",
+   "conditions": "সাধারণ",
+   "observations_bn": "π বন্ধন ভেঙে দুটি σ বন্ধন তৈরি হয়; বইয়ে পর্যবেক্ষণ দেওয়া নেই।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথিন",
+    "ব্রোমিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-03",
+   "chapter_no": 4,
+   "section_no": "4.14",
+   "section_title_bn": "জৈব বিক্রিয়া ও প্রকারভেদ",
+   "book_page": 220,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অপসারণ: ইথানল থেকে ইথিন",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক অ্যাসিড (নিরুদক)",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OH → C₂H₄ + H₂O",
+   "conditions": "গাঢ় H₂SO₄, 160°C",
+   "observations_bn": "এক অণু পানি সরে গিয়ে অসম্পৃক্ত যৌগ ইথিন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানল",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-04",
+   "chapter_no": 4,
+   "section_no": "4.14",
+   "section_title_bn": "জৈব বিক্রিয়া ও প্রকারভেদ",
+   "book_page": 220,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পারমাণবিক পুনর্বিন্যাস: বিউটেন থেকে 2-মিথাইল প্রোপেন",
+   "reactants": [
+    {
+     "name_bn": "বিউটেন",
+     "formula": "CH₃CH₂CH₂CH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2-মিথাইল প্রোপেন",
+     "formula": "(CH₃)₂CHCH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂CH₂CH₃ → (CH₃)₂CHCH₃",
+   "conditions": "অনার্দ্র AlCl₃ ও HCl গ্যাস, 300°C",
+   "observations_bn": "অণুর আণবিক সংকেত একই থাকে, শুধু কাঠামো বদলায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বিউটেন",
+    "অনার্দ্র AlCl₃",
+    "HCl গ্যাস"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-05",
+   "chapter_no": 4,
+   "section_no": "4.14",
+   "section_title_bn": "জৈব বিক্রিয়া ও প্রকারভেদ",
+   "book_page": 221,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়াম সায়ানেট থেকে ইউরিয়া",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম সায়ানেট",
+     "formula": "NH₄CNO",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইউরিয়া",
+     "formula": "(NH₂)₂CO",
+     "state": "solid"
+    }
+   ],
+   "equation": "NH₄CNO → (NH₂)₂CO",
+   "conditions": "তাপ (উত্তপ্ত করলে)",
+   "observations_bn": "উত্তপ্ত করলে পুনর্বিন্যাস ঘটে ও ইউরিয়া তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যামোনিয়াম সায়ানেট"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-06",
+   "chapter_no": 4,
+   "section_no": "4.15",
+   "section_title_bn": "জৈব বিক্রিয়ার কৌশল ও বিক্রিয়া সংশ্লিষ্ট কয়েকটি পদ",
+   "book_page": 221,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "KOH দ্রবণের সাথে ক্লোরো মিথেনের বিক্রিয়া (মেকানিজম উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "পটাশিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরো মিথেন",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাশিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "KOH + CH₃Cl → CH₃OH + KCl",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "OH⁻ আক্রমণকারী বিকারক, CH₃Cl সাবস্ট্রেট; C–Cl বন্ধন ভেঙে মিথানল হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জলীয় KOH",
+    "ক্লোরো মিথেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-07",
+   "chapter_no": 4,
+   "section_no": "4.16",
+   "section_title_bn": "কার্বন-কার্বন বন্ধন ভাঙন বা বিভাজন",
+   "book_page": 222,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মুক্তমূলক প্রতিস্থাপন: আলোতে মিথেন + ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরো মিথেন",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + Cl₂ → CH₃Cl + HCl",
+   "conditions": "সূর্যালোক/আলো (hν)",
+   "observations_bn": "Cl₂ আলোতে ভেঙে Cl· মুক্তমূলক দেয়, তা শৃঙ্খল বিক্রিয়ায় বিক্রিয়াটি চালিয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মিথেন",
+    "ক্লোরিন",
+    "আলো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-08",
+   "chapter_no": 4,
+   "section_no": "4.21",
+   "section_title_bn": "জ্যামিতিক সমাণুতা বা সিস্-ট্রান্স সমাণুতা",
+   "book_page": 229,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টটোমারিজম: প্রোপানোন ⇌ প্রোপিন-2-অল",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানোন",
+     "formula": "CH₃COCH₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপিন-2-অল (ইনল রূপ)",
+     "formula": "CH₃C(OH)=CH₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COCH₃ ⇌ CH₃C(OH)=CH₂",
+   "conditions": "সাম্যাবস্থা",
+   "observations_bn": "কিটো ও ইনল রূপ সাম্যে থাকে; ইনল রূপ খুব কম পরিমাণে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "প্রোপানোন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-09",
+   "chapter_no": 4,
+   "section_no": "4.21",
+   "section_title_bn": "জ্যামিতিক সমাণুতা বা সিস্-ট্রান্স সমাণুতা",
+   "book_page": 229,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টটোমারিজম: অ্যাসিটো অ্যাসিটিক এস্টারের কিটো ⇌ ইনল",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটো অ্যাসিটিক এস্টার (কিটো)",
+     "formula": "CH₃COCH₂COOC₂H₅",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটো অ্যাসিটিক এস্টার (ইনল)",
+     "formula": "CH₃C(OH)=CHCOOC₂H₅",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COCH₂COOC₂H₅ ⇌ CH₃C(OH)=CHCOOC₂H₅",
+   "conditions": "সাম্যাবস্থা",
+   "observations_bn": "একই যৌগের দুটি গঠন সাম্যে থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যাসিটো অ্যাসিটিক এস্টার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-10",
+   "chapter_no": 4,
+   "section_no": "4.21",
+   "section_title_bn": "জ্যামিতিক সমাণুতা বা সিস্-ট্রান্স সমাণুতা",
+   "book_page": 231,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যালেয়িক অ্যাসিড উত্তপ্ত করলে অ্যানহাইড্রাইড",
+   "reactants": [
+    {
+     "name_bn": "ম্যালেয়িক অ্যাসিড (সিস্-বিউটিন ডাইঅয়িক অ্যাসিড)",
+     "formula": "C₄H₄O₄",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যালেয়িক অ্যানহাইড্রাইড",
+     "formula": "C₄H₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₄H₄O₄ → C₄H₂O₃ + H₂O",
+   "conditions": "তাপ, 160°C",
+   "observations_bn": "সিস্ সমাণু পানি ত্যাগ করে অ্যানহাইড্রাইড গড়ে; ট্রান্স (ফিউমারিক) সমাণু তা করে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যালেয়িক অ্যাসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-07-11",
+   "chapter_no": 4,
+   "section_no": "4.23",
+   "section_title_bn": "আলোক সমাণুতা",
+   "book_page": 234,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পোলারিমিটারে আলোক সক্রিয়তা ও আপেক্ষিক আবর্তন পরিমাপ (চিনির দ্রবণ)",
+   "reactants": [
+    {
+     "name_bn": "চিনির (সুক্রোজ) জলীয় দ্রবণ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "20°C, সোডিয়াম D-আলো",
+   "observations_bn": "দ্রবণ থাকলে অ্যানালাইজার ডানে ঘুরিয়ে আলো আগের মতো উজ্জ্বল করতে হয়; সুক্রোজ ডানাবর্তী।",
+   "procedure_bn": [
+    "নলে দ্রবণ রেখে সোডিয়াম আলোর পথে বসাও",
+    "অ্যানালাইজার ঘুরিয়ে আগের উজ্জ্বলতা ফেরাও ও কোণ পড়ো"
+   ],
+   "quantities_bn": "বইয়ের উদাহরণে সুক্রোজের আপেক্ষিক আবর্তন [α]²⁰_D = +66.5° (জলীয় দ্রবণ); সূত্র [α] = a/(l×c)",
+   "materials_bn": [
+    "সোডিয়াম ল্যাম্প",
+    "পোলারাইজার ও অ্যানালাইজার (নিকল প্রিজম)",
+    "পোলারিমিটার নল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 4,
+   "no": "4.14",
+   "title_bn": "জৈব বিক্রিয়া ও প্রকারভেদ",
+   "start_page": 219
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.15",
+   "title_bn": "জৈব বিক্রিয়ার কৌশল ও বিক্রিয়া সংশ্লিষ্ট কয়েকটি পদ",
+   "start_page": 221
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.16",
+   "title_bn": "কার্বন-কার্বন বন্ধন ভাঙন বা বিভাজন",
+   "start_page": 222
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.17",
+   "title_bn": "কার্বোনিয়াম আয়ন বা কার্বোক্যাটায়ন",
+   "start_page": 223
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.18",
+   "title_bn": "কার্বানায়ন",
+   "start_page": 224
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.19",
+   "title_bn": "আক্রমণকারী বিকারক ও তাদের ভূমিকা",
+   "start_page": 224
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.20",
+   "title_bn": "সমাণুতার সংজ্ঞা ও শ্রেণীবিভাগ",
+   "start_page": 227
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.21",
+   "title_bn": "জ্যামিতিক সমাণুতা বা সিস্-ট্রান্স সমাণুতা",
+   "start_page": 229
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.22",
+   "title_bn": "জ্যামিতিক সমাণুতার ব্যাখ্যা",
+   "start_page": 231
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.23",
+   "title_bn": "আলোক সমাণুতা",
+   "start_page": 232
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.24",
+   "title_bn": "আলোক সক্রিয়তার ব্যাখ্যা",
+   "start_page": 235
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.25",
+   "title_bn": "একক অপ্রতিসম কার্বনবিশিষ্ট জৈব যৌগের আলোক সক্রিয়তা",
+   "start_page": 236
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.26",
+   "title_bn": "এনানসিওমারিজম",
+   "start_page": 236
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.27",
+   "title_bn": "রেসিমিক মিশ্রণ",
+   "start_page": 237
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Nomenclature theory (pp216-218), exercises/MCQ (pp238-250) skipped; pdf p266 = chapter 5 opening page (printed 251), no content. Printed section number for pp216-218 not seen (4.13 assumed not recorded). Items 1-5 section 4.14 spans pp219-221; chapter 4 content is mechanism/isomerism theory, no bench items."
+}

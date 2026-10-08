@@ -1,0 +1,7081 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  15,
+  50
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-01-001",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়ামের সাথে নাইট্রোজেনের বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম নাইট্রাইড",
+     "formula": "Ca₃N₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "3Ca + N₂ → Ca₃N₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "সক্রিয় ধাতু উত্তপ্ত অবস্থায় N₂-এর সাথে আয়নিক নাইট্রাইড গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-002",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়ামের সাথে নাইট্রোজেনের বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম নাইট্রাইড",
+     "formula": "Mg₃N₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "3Mg + N₂ → Mg₃N₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "উত্তপ্ত Mg নাইট্রোজেনের সাথে যুক্ত হয়ে নাইট্রাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-003",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়ামের সাথে ফসফরাসের বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ফসফাইড",
+     "formula": "Ca₃P₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "3Ca + 2P → Ca₃P₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ধাতুর সাথে ফসফরাস উত্তপ্ত অবস্থায় ফসফাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-004",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়ামের সাথে ফসফরাসের বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম ফসফাইড",
+     "formula": "Mg₃P₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "3Mg + 2P → Mg₃P₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ধাতুর সাথে ফসফরাস উত্তপ্ত অবস্থায় ফসফাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-005",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাসের অক্সিজেনে দহন (P₂O₃ ও P₂O₅ মিশ্রণ)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "4P + 4O₂ → P₂O₃ + P₂O₅",
+   "equation_printed": "4P + (সহগ অস্পষ্ট)O₂ → P₂O₃ + P₂O₅",
+   "conditions": "সাদা P প্রায় 35°C, লাল P প্রায় 260°C",
+   "observations_bn": "দুই অক্সাইডের মিশ্রণ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "সাদা ফসফরাস বিষাক্ত ও স্বতঃদাহ্য।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-01-006",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাসের সাথে সালফারের বিক্রিয়া (P₄S₃)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাফসফরাস ট্রাইসালফাইড",
+     "formula": "P₄S₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "P₄ + 3S → P₄S₃",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "অনুপাত বদলালে একাধিক সালফাইডের মিশ্রণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-007",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাসের সাথে সালফারের বিক্রিয়া (P₄S₅)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাফসফরাস পেন্টাসালফাইড",
+     "formula": "P₄S₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "P₄ + 5S → P₄S₅",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "অনুপাত বদলালে একাধিক সালফাইডের মিশ্রণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-008",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাসের সাথে হ্যালোজেনের বিক্রিয়া (সাধারণ রূপ)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হ্যালোজেন",
+     "formula": "X₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইহ্যালাইড",
+     "formula": "PX₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাহ্যালাইড",
+     "formula": "PX₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "2P + 4X₂ → PX₃ + PX₅",
+   "conditions": "হ্যালোজেনের পরিমাণ অনুসারে",
+   "observations_bn": "কম হ্যালোজেনে ট্রাইহ্যালাইড, বেশিতে পেন্টাহ্যালাইড হয়; N₂ কক্ষ তাপমাত্রায় বিক্রিয়া করে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-009",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সাদা ফসফরাস ও কস্টিক সোডা থেকে ফসফিন",
+   "reactants": [
+    {
+     "name_bn": "সাদা ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইপোফসফাইট",
+     "formula": "NaH₂PO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফিন",
+     "formula": "PH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "P₄ + 3NaOH + 3H₂O → 3NaH₂PO₂ + PH₃↑",
+   "equation_printed": "4P + 3NaOH + 3H₂O → 3NaH₂PO₂ + PH₃",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ফসফিন গ্যাস নির্গত হয়; শুধু সাদা ফসফরাস এ বিক্রিয়া করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "PH₃ অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-010",
+   "chapter_no": 1,
+   "section_no": "1.6",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাসের সাথে গাঢ় নাইট্রিক এসিড",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "P + 5HNO₃ → H₃PO₄ + H₂O + 5NO₂↑",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বাদামি NO₂ গ্যাস ওঠে ও ফসফরিক এসিড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "NO₂ বিষাক্ত; গাঢ় এসিড ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-011",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 7,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাসের ক্ষারীয় দ্রবণে ফসফিন উৎপাদন (আয়ন সমীকরণ)",
+   "reactants": [
+    {
+     "name_bn": "সাদা ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফিন",
+     "formula": "PH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইপোফসফাইট আয়ন",
+     "formula": "H₂PO₂⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "P₄ + 3OH⁻ + 3H₂O → PH₃↑ + 3H₂PO₂⁻",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ক্ষারের সাথে সাদা ফসফরাস গরম করলে ফসফিন বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "PH₃ অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-012",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 7,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়া ও ফসফিনের প্রোটন গ্রহণ (ক্ষারধর্ম)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₃ + H⁺ → NH₄⁺",
+   "conditions": "এসিডীয় মাধ্যম",
+   "observations_bn": "নিঃসঙ্গ ইলেকট্রন জোড়ে প্রোটন গ্রহণ; PH₃ থেকে PH₄⁺ একইভাবে হয়, তবে NH₃ বেশি ক্ষারীয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-013",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 8,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রোজেন ও ক্লোরিন থেকে NCl₃",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ট্রাইক্লোরাইড",
+     "formula": "NCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "N₂ + 3Cl₂ → 2NCl₃",
+   "equation_printed": "N₂ + 3Cl₂ → 2NCl₃",
+   "conditions": "বিশেষ অবস্থা",
+   "observations_bn": "NCl₃ বিস্ফোরণপ্রবণ তরল।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "বিস্ফোরক।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-014",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 8,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও ক্লোরিন থেকে PCl₃",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₄ + 6Cl₂ → 4PCl₃",
+   "conditions": "ক্লোরিন সীমিত",
+   "observations_bn": "সীমিত Cl₂-এ ট্রাইক্লোরাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-015",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 8,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও অতিরিক্ত ক্লোরিন থেকে PCl₅",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "P₄ + 10Cl₂ → 4PCl₅",
+   "conditions": "অতিরিক্ত Cl₂",
+   "observations_bn": "অধিক Cl₂ থাকলে পেন্টাক্লোরাইড হয়; N-এর NCl₅ হয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-016",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 8,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NCl₃-এর আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ট্রাইক্লোরাইড",
+     "formula": "NCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HOCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "NCl₃ + 3H₂O → NH₃ + 3HOCl",
+   "conditions": "পানি",
+   "observations_bn": "N-এ খালি d অরবিটাল নেই, তাই ধাপে ধাপে ধীর বিশ্লেষণ; NH₃ ও HOCl হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-017",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 8,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "PCl₃-এর আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস এসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "PCl₃ + 3H₂O → H₃PO₃ + 3HCl",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "দ্রুত বিক্রিয়া করে ধোঁয়া ও HCl দেয়; NCl₃-এর চেয়ে দ্রুত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "PCl₃ ক্ষয়কারী, ধোঁয়া উৎপন্ন করে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-018",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 8,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "PCl₅-এর আর্দ্র বিশ্লেষণ (প্রথম ধাপ)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "PCl₅ + H₂O → POCl₃ + 2HCl",
+   "conditions": "অল্প পানি",
+   "observations_bn": "প্রথমে POCl₃ ও HCl উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "কড়া ধোঁয়া; ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-019",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "book_page": 8,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "POCl₃-এর আর্দ্র বিশ্লেষণ (দ্বিতীয় ধাপ)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "POCl₃ + 3H₂O → H₃PO₄ + 3HCl",
+   "conditions": "অতিরিক্ত পানি",
+   "observations_bn": "চূড়ান্তভাবে H₃PO₄ ও HCl পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-020",
+   "chapter_no": 1,
+   "section_no": "1.4",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের মধ্যে তুলনা",
+   "book_page": 9,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂ ও O₂ থেকে NO (উচ্চ তাপে)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂ + O₂ → 2NO",
+   "conditions": "3000°C",
+   "observations_bn": "শুধু অতি উচ্চ তাপমাত্রায় ঘটে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-021",
+   "chapter_no": 1,
+   "section_no": "1.4",
+   "section_title_bn": "নাইট্রোজেন ও ফসফরাসের মধ্যে তুলনা",
+   "book_page": 9,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সাদা ফসফরাসের দহন (P₂O₃)",
+   "reactants": [
+    {
+     "name_bn": "সাদা ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "P₄ + 3O₂ → 2P₂O₃",
+   "equation_printed": "P₄ + 3O₂ → 2P₂O₃ (25°C)",
+   "conditions": "25°C",
+   "observations_bn": "সাধারণ তাপমাত্রায়ও বিক্রিয়া ঘটে (N₂-এর সাথে নয়)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "স্বতঃদাহ্য।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-022",
+   "chapter_no": 1,
+   "section_no": "1.8",
+   "section_title_bn": "ফসফরাসের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "book_page": 13,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাইট থেকে P₂O₅ উৎপাদন (সিলিকা সহ)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফসফেট",
+     "formula": "Ca₃(PO₄)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সিলিকা",
+     "formula": "SiO₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সিলিকেট",
+     "formula": "CaSiO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Ca₃(PO₄)₂ + 6SiO₂ → 6CaSiO₃ + 2P₂O₅",
+   "conditions": "1200°C, বৈদ্যুতিক চুল্লি",
+   "observations_bn": "শিল্প নিষ্কাশনের প্রথম ধাপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-023",
+   "chapter_no": 1,
+   "section_no": "1.8",
+   "section_title_bn": "ফসফরাসের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "book_page": 13,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ কোক দিয়ে বিজারণ করে ফসফরাস",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কোক",
+     "formula": "C",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস বাষ্প",
+     "formula": "P₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "2P₂O₅ + 10C → P₄ + 10CO",
+   "conditions": "1400°C",
+   "observations_bn": "বাষ্প ঠান্ডা করলে সাদা ফসফরাস জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-024",
+   "chapter_no": 1,
+   "section_no": "1.8",
+   "section_title_bn": "ফসফরাসের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "book_page": 13,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সাদা ফসফরাস থেকে লাল ফসফরাস",
+   "reactants": [
+    {
+     "name_bn": "সাদা ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লাল ফসফরাস",
+     "formula": "Pₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nP₄ → 4Pₙ",
+   "equation_printed": "P₄ (সাদা) → Pₙ (লোহিত)",
+   "conditions": "250°C, I₂ প্রভাবক, নিষ্ক্রিয় পরিবেশ",
+   "observations_bn": "সাদা ফসফরাস থেকে স্থায়ী লাল রূপ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-01-025",
+   "chapter_no": 1,
+   "section_no": "1.8",
+   "section_title_bn": "ফসফরাসের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "book_page": 13,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লাল ফসফরাস থেকে সাদা ফসফরাস",
+   "reactants": [
+    {
+     "name_bn": "লাল ফসফরাস",
+     "formula": "Pₙ",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সাদা ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "4Pₙ → nP₄",
+   "equation_printed": "Pₙ (লোহিত) → P₄ (সাদা)",
+   "conditions": "550°C, নিষ্ক্রিয় পরিবেশ; বাষ্প দ্রুত শীতল",
+   "observations_bn": "বাষ্প দ্রুত ঠান্ডা করলে সাদা ফসফরাস পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-01-026",
+   "chapter_no": 1,
+   "section_no": "1.7",
+   "section_title_bn": "নাইট্রোজেনের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "book_page": 11,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বজ্রপাতে নাইট্রোজেন ও অক্সিজেন থেকে NO",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂ + O₂ → 2NO",
+   "conditions": "বিদ্যুৎ ক্ষরণ (প্রায় 3000°C)",
+   "observations_bn": "নাইট্রোজেন চক্রের প্রথম ধাপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-027",
+   "chapter_no": 1,
+   "section_no": "1.7",
+   "section_title_bn": "নাইট্রোজেনের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "book_page": 12,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO থেকে NO₂",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NO + O₂ → 2NO₂",
+   "conditions": "50°C",
+   "observations_bn": "বাদামি NO₂ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-028",
+   "chapter_no": 1,
+   "section_no": "1.7",
+   "section_title_bn": "নাইট্রোজেনের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "book_page": 12,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO₂ থেকে বৃষ্টির পানিতে HNO₃",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "4NO₂ + O₂ + 2H₂O → 4HNO₃",
+   "conditions": "বৃষ্টির পানি",
+   "observations_bn": "HNO₃ মাটিতে পড়ে ক্ষারীয় পদার্থের সাথে নাইট্রেট লবণ গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-029",
+   "chapter_no": 1,
+   "section_no": "1.7",
+   "section_title_bn": "নাইট্রোজেনের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "book_page": 12,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "চুনের সাথে নাইট্রিক এসিডের বিক্রিয়া (মাটিতে নাইট্রেট)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম নাইট্রেট",
+     "formula": "Ca(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CaO + 2HNO₃ → Ca(NO₃)₂ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "দ্রবণীয় নাইট্রেট তৈরি হয়; তাপ নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-030",
+   "chapter_no": 1,
+   "section_no": "1.10",
+   "section_title_bn": "অ্যামোনিয়ার শিল্পোৎপাদন",
+   "book_page": 14,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হেবার পদ্ধতিতে অ্যামোনিয়া সংশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂ + 3H₂ ⇌ 2NH₃    ΔH = −92 kJ mol⁻¹",
+   "conditions": "450–550°C, 200 atm, Fe প্রভাবক (Al₂O₃ সহায়ক)",
+   "observations_bn": "প্রায় 15–20% অ্যামোনিয়া হয়; তরল করে আলাদা করা হয়, অবশিষ্ট গ্যাস পুনর্ব্যবহৃত হয়।",
+   "procedure_bn": [
+    "N₂ ও H₂ 1:3 অনুপাতে মিশ্রিত করে 200 atm-এ বিক্রিয়া কক্ষে পাঠানো",
+    "Fe প্রভাবকে 500°C-এ বিক্রিয়া",
+    "মিশ্রণ ঠান্ডা করে NH₃ তরল আকারে সংগ্রহ",
+    "বাকি N₂-H₂ ফেরত পাঠানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂",
+    "H₂",
+    "Fe গুঁড়া",
+    "Al₂O₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-031",
+   "chapter_no": 1,
+   "section_no": "1.10",
+   "section_title_bn": "অ্যামোনিয়ার শিল্পোৎপাদন",
+   "book_page": 14,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেন ও স্টিম থেকে হাইড্রোজেন (সংশ্লেষণ গ্যাস)",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "স্টিম",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + H₂O → CO + 3H₂",
+   "conditions": "450°C, Ni প্রভাবক",
+   "observations_bn": "CO+H₂ মিশ্রণকে সংশ্লেষণ গ্যাস বলা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-032",
+   "chapter_no": 1,
+   "section_no": "1.10",
+   "section_title_bn": "অ্যামোনিয়ার শিল্পোৎপাদন",
+   "book_page": 14,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জল-গ্যাস স্থানান্তর (CO থেকে অতিরিক্ত H₂)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "স্টিম",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CO + H₂O → CO₂ + H₂",
+   "equation_printed": "(CO + 3H₂) + H₂O → CO₂ + 4H₂",
+   "conditions": "500°C, Fe₂O₃–Cr₂O₃ প্রভাবক",
+   "observations_bn": "আরও হাইড্রোজেন পাওয়া যায়; CO₂ পরে সরানো হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-033",
+   "chapter_no": 1,
+   "section_no": "1.10",
+   "section_title_bn": "অ্যামোনিয়ার শিল্পোৎপাদন",
+   "book_page": 15,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রডিউসার গ্যাস উৎপাদন",
+   "reactants": [
+    {
+     "name_bn": "কোক",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C + O₂ + N₂ → 2CO + N₂",
+   "equation_printed": "2C + N₂ + O₂ → (2CO + N₂)",
+   "conditions": "উত্তপ্ত কোক ও বায়ু",
+   "observations_bn": "CO ও N₂-এর মিশ্রণ গ্যাস পাওয়া যায় (N₂ উৎস হিসেবে)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-034",
+   "chapter_no": 1,
+   "section_no": "1.10",
+   "section_title_bn": "অ্যামোনিয়ার শিল্পোৎপাদন",
+   "book_page": 15,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ওয়াটার গ্যাস উৎপাদন",
+   "reactants": [
+    {
+     "name_bn": "কোক",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "স্টিম",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C + H₂O → CO + H₂",
+   "conditions": "উত্তপ্ত কোক",
+   "observations_bn": "CO ও H₂-এর মিশ্রণ (ওয়াটার গ্যাস) তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-035",
+   "chapter_no": 1,
+   "section_no": "1.11",
+   "section_title_bn": "পরীক্ষাগারে অ্যামোনিয়া প্রস্তুতি",
+   "book_page": 15,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পরীক্ষাগারে NH₃ প্রস্তুতি (NH₄Cl ও CaO)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NH₄Cl + CaO → 2NH₃↑ + CaCl₂ + H₂O",
+   "conditions": "উত্তপ্ত (বুনসেন বার্নার)",
+   "observations_bn": "আর্দ্র NH₃ গ্যাস বের হয়; CaO-এর টাওয়ার দিয়ে শুকিয়ে বাতাসের নিম্নমুখী অপসারণে সংগ্রহ করা হয়।",
+   "procedure_bn": [
+    "শক্ত টেস্টটিউবে NH₄Cl ও CaO মিশিয়ে নেওয়া",
+    "ধীরে ধীরে গরম করা",
+    "গ্যাস CaO-ভরা টাওয়ারে শুকিয়ে ওপরে মুখ করা জারে সংগ্রহ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄Cl",
+    "CaO",
+    "বার্নার",
+    "CaO টাওয়ার",
+    "গ্যাসজার"
+   ],
+   "safety_bn": "NH₃ ঝাঁঝালো ও ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-036",
+   "chapter_no": 1,
+   "section_no": "1.11",
+   "section_title_bn": "পরীক্ষাগারে অ্যামোনিয়া প্রস্তুতি",
+   "book_page": 15,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পরীক্ষাগারে NH₃ প্রস্তুতি (NH₄Cl ও Ca(OH)₂)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NH₄Cl + Ca(OH)₂ → 2NH₃↑ + CaCl₂ + 2H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বিকল্প পদ্ধতিতে একই NH₃ গ্যাস পাওয়া যায় (দ্বিগুণ কলিচুন ব্যবহার)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄Cl",
+    "Ca(OH)₂"
+   ],
+   "safety_bn": "NH₃ ঝাঁঝালো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-037",
+   "chapter_no": 1,
+   "section_no": "1.11",
+   "section_title_bn": "পরীক্ষাগারে অ্যামোনিয়া প্রস্তুতি",
+   "book_page": 16,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₃ ও গাঢ় H₂SO₄ (শুকানো যায় না কেন)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "2NH₃ + H₂SO₄ → (NH₄)₂SO₄",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "NH₃ এসিডে শোষিত হয়ে লবণ দেয়, তাই এসিড শুষ্ককারক হিসেবে অচল।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-038",
+   "chapter_no": 1,
+   "section_no": "1.11",
+   "section_title_bn": "পরীক্ষাগারে অ্যামোনিয়া প্রস্তুতি",
+   "book_page": 16,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NH₃ ও P₂O₅ (শুকানো যায় না কেন)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম ফসফেট",
+     "formula": "(NH₄)₃PO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "6NH₃ + P₂O₅ + 3H₂O → 2(NH₄)₃PO₄",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "অম্লধর্মী P₂O₅ ক্ষারীয় NH₃ শোষণ করে, তাই শুষ্ককারক হয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-039",
+   "chapter_no": 1,
+   "section_no": "1.11",
+   "section_title_bn": "পরীক্ষাগারে অ্যামোনিয়া প্রস্তুতি",
+   "book_page": 16,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NH₃ ও CaCl₂ (শুকানো যায় না কেন)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড–অ্যামোনিয়া যৌগ",
+     "formula": "CaCl₂·8NH₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "8NH₃ + CaCl₂ → CaCl₂·8NH₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "অ্যামোনিয়া জটিল যৌগ গঠন করে, তাই সঠিক শুষ্ককারক চুন (CaO)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-040",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 16,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "NH₃ ও HCl-এর সাদা ধোঁয়া",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid"
+    }
+   ],
+   "equation": "NH₃ + HCl → NH₄Cl",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "সাদা ধোঁয়া/কণা তৈরি হয়; এটি NH₃ শনাক্তকরণে ব্যবহৃত হয়।",
+   "procedure_bn": [
+    "গাঢ় HCl-এ ডোবানো কাচদণ্ড নির্গত NH₃ গ্যাসের কাছে ধরা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গাঢ় HCl",
+    "কাচদণ্ড"
+   ],
+   "safety_bn": "দুই গ্যাসই ক্ষতিকর, ফিউম হুডে করা উচিত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-041",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 16,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়ার পানিতে দ্রবণ ও আয়নন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₃ + H₂O ⇌ NH₄OH ⇌ NH₄⁺ + OH⁻",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "খুব দ্রবণীয়; দুর্বল ক্ষার।",
+   "procedure_bn": [],
+   "quantities_bn": "K_b = 1.8×10⁻⁵; 1 mol/L দ্রবণে প্রায় 0.4% আয়নিত; সম্পৃক্ত দ্রবণে 35–40% NH₃ (ঘনত্ব প্রায় 0.88 kg/L)",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-042",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 16,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NH₃-এর CuO বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "কপার(II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NH₃ + 3CuO → N₂ + 3Cu + 3H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "NH₃ বিজারক হিসেবে CuO-কে কপারে নামায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-043",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 16,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NH₃ ও ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid"
+    }
+   ],
+   "equation": "8NH₃ + 3Cl₂ → N₂ + 6NH₄Cl",
+   "equation_printed": "2NH₃ + 3Cl₂ → N₂ + 6HCl; 6NH₃ + 6HCl → 6NH₄Cl (যোগফল)",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "অতিরিক্ত NH₃-তে সাদা ধোঁয়া (NH₄Cl) তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-044",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 16,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NH₃-এর দহন (অনুঘটক ছাড়া)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "4NH₃ + 3O₂ → 2N₂ + 6H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বিশুদ্ধ O₂-এ জ্বলে N₂ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-045",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 16,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NH₃-এর অনুঘটকীয় জারণ (HNO₃-এর ধাপ)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "4NH₃ + 5O₂ → 4NO + 6H₂O",
+   "conditions": "Pt অনুঘটক, উত্তপ্ত",
+   "observations_bn": "এখান থেকে নাইট্রিক এসিড উৎপাদনের পথ শুরু হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-046",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "অ্যামোনিয়াম কার্বনেটের তাপ বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম কার্বনেট",
+     "formula": "(NH₄)₂CO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "(NH₄)₂CO₃ ⇌ 2NH₃ + CO₂ + H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ঝাঁঝালো NH₃ নির্গত হয়, যা অ্যামোনিয়াম লবণের শুষ্ক শনাক্তকরণ পরীক্ষা।",
+   "procedure_bn": [
+    "শুষ্ক লবণ টেস্টটিউবে গরম করা",
+    "HCl-মাখা কাচদণ্ডে সাদা ধোঁয়া দেখা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যামোনিয়াম লবণ",
+    "HCl-দণ্ড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-047",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "অ্যামোনিয়াম ক্লোরাইডের তাপ বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "NH₄Cl ⇌ NH₃ + HCl",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "গ্যাস ঠান্ডা অংশে আবার সাদা NH₄Cl জমায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-048",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়াম নাইট্রাইটের বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম নাইট্রাইট",
+     "formula": "NH₄NO₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "NH₄NO₂ → N₂ + 2H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "N₂ গ্যাস উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-049",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়াম নাইট্রেটের বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম নাইট্রেট",
+     "formula": "NH₄NO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "NH₄NO₃ → N₂O + 2H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "N₂O গ্যাস পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-050",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়াম ডাইক্রোমেটের বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ডাইক্রোমেট",
+     "formula": "(NH₄)₂Cr₂O₇",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্রোমিক অক্সাইড",
+     "formula": "Cr₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "(NH₄)₂Cr₂O₇ → N₂ + Cr₂O₃ + 4H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "সবুজ Cr₂O₃ অবশিষ্ট থাকে ও N₂ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ক্রোমিয়াম যৌগ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-051",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "FeCl₃-এ NH₄OH যোগ",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক হাইড্রক্সাইড",
+     "formula": "Fe(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeCl₃ + 3NH₄OH → Fe(OH)₃↓ + 3NH₄Cl",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "লালচে-বাদামি অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "FeCl₃ দ্রবণে NH₄OH ফোঁটা ফোঁটা যোগ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeCl₃ দ্রবণ",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-052",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "AlCl₃-এ NH₄OH যোগ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    }
+   ],
+   "equation": "AlCl₃ + 3NH₄OH → Al(OH)₃↓ + 3NH₄Cl",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "সাদা আঠালো অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AlCl₃ দ্রবণ",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-053",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CuSO₄-এ NH₄OH (প্রথম ধাপ: ক্ষারীয় সালফেট)",
+   "reactants": [
+    {
+     "name_bn": "কপার(II) সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্ষারীয় কপার সালফেট",
+     "formula": "CuSO₄·Cu(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2CuSO₄ + 2NH₄OH → (NH₄)₂SO₄ + CuSO₄·Cu(OH)₂↓",
+   "conditions": "কক্ষ তাপমাত্রা, অল্প NH₄OH",
+   "observations_bn": "হালকা নীল অধঃক্ষেপ তৈরি হয়।",
+   "procedure_bn": [
+    "CuSO₄ দ্রবণে ধীরে ধীরে NH₄OH যোগ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuSO₄ দ্রবণ",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-054",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CuSO₄-এ অতিরিক্ত NH₄OH (টেট্রাঅ্যামিন কপার(II))",
+   "reactants": [
+    {
+     "name_bn": "ক্ষারীয় কপার সালফেট",
+     "formula": "CuSO₄·Cu(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাঅ্যামিন কপার(II) সালফেট",
+     "formula": "[Cu(NH₃)₄]SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(NH₄)₂SO₄ + CuSO₄·Cu(OH)₂ + 6NH₄OH → 2[Cu(NH₃)₄]SO₄ + 8H₂O",
+   "conditions": "অতিরিক্ত NH₄OH",
+   "observations_bn": "অধঃক্ষেপ গলে গাঢ় নীল দ্রবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পূর্ববর্তী অধঃক্ষেপ",
+    "অতিরিক্ত NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-055",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ZnSO₄-এ NH₄OH (প্রথম ধাপ)",
+   "reactants": [
+    {
+     "name_bn": "জিঙ্ক সালফেট",
+     "formula": "ZnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিঙ্ক হাইড্রক্সাইড",
+     "formula": "Zn(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "ZnSO₄ + 2NH₄OH → (NH₄)₂SO₄ + Zn(OH)₂↓",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ZnSO₄ দ্রবণ",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-056",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 17,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ZnSO₄-এ অতিরিক্ত NH₄OH",
+   "reactants": [
+    {
+     "name_bn": "জিঙ্ক হাইড্রক্সাইড",
+     "formula": "Zn(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাঅ্যামিন জিঙ্ক(II) সালফেট",
+     "formula": "[Zn(NH₃)₄]SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Zn(OH)₂ + (NH₄)₂SO₄ + 2NH₄OH → [Zn(NH₃)₄]SO₄ + 4H₂O",
+   "conditions": "অতিরিক্ত NH₄OH",
+   "observations_bn": "অধঃক্ষেপ গলে বর্ণহীন দ্রবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পূর্ববর্তী অধঃক্ষেপ",
+    "অতিরিক্ত NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-057",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 18,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "AgCl-এ NH₄OH (দ্রবীভূত হওয়া)",
+   "reactants": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইঅ্যামিন সিলভার(I) ক্লোরাইড",
+     "formula": "[Ag(NH₃)₂]Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "AgCl + 2NH₄OH → [Ag(NH₃)₂]Cl + 2H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "সাদা AgCl অতিরিক্ত NH₄OH-এ গলে বর্ণহীন দ্রবণ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgCl অধঃক্ষেপ",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-058",
+   "chapter_no": 1,
+   "section_no": "1.12",
+   "section_title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "book_page": 18,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নেসলার দ্রবণ দিয়ে NH₄⁺ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নেসলার দ্রবণ",
+     "formula": "K₂[HgI₄]",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামিনো মারকিউরিক আয়োডাইড",
+     "formula": "NH₂Hg₂I₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "NH₄Cl + NaOH → NaCl + H₂O + NH₃;   2K₂[HgI₄] + 2NH₃ → NH₄I + NH₂Hg₂I₃↓ + 4KI",
+   "equation_printed": "2NH₄Cl + 2NaOH → 2NaCl + 2H₂O + 2NH₃; 2K₂[HgI₄] + 2NH₃ → NH₄I + NH₂Hg₂I₃ + 4KI",
+   "conditions": "ক্ষারীয়",
+   "observations_bn": "বাদামি অধঃক্ষেপ (আয়োডাইড অব মিলনস বেস) তৈরি হয়।",
+   "procedure_bn": [
+    "অ্যামোনিয়াম লবণের দ্রবণে নেসলার দ্রবণ ও ক্ষার যোগ করা",
+    "বাদামি অধঃক্ষেপ লক্ষ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যামোনিয়াম লবণ দ্রবণ",
+    "নেসলার দ্রবণ"
+   ],
+   "safety_bn": "পারদ যৌগ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-059",
+   "chapter_no": 1,
+   "section_no": "1.13",
+   "section_title_bn": "নেসলার দ্রবণ",
+   "book_page": 18,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "নেসলার দ্রবণ প্রস্তুতি (HgI₂ লাল অধঃক্ষেপ ধাপ)",
+   "reactants": [
+    {
+     "name_bn": "মারকিউরিক ক্লোরাইড",
+     "formula": "HgCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মারকিউরিক আয়োডাইড",
+     "formula": "HgI₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "HgCl₂ + 2KI → 2KCl + HgI₂↓",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "লাল HgI₂ অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "বর্ণহীন HgCl₂ দ্রবণে ধীরে ধীরে KI যোগ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HgCl₂ দ্রবণ",
+    "KI দ্রবণ"
+   ],
+   "safety_bn": "পারদ যৌগ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-060",
+   "chapter_no": 1,
+   "section_no": "1.13",
+   "section_title_bn": "নেসলার দ্রবণ",
+   "book_page": 18,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "নেসলার দ্রবণ প্রস্তুতি (K₂[HgI₄] গঠন)",
+   "reactants": [
+    {
+     "name_bn": "মারকিউরিক আয়োডাইড",
+     "formula": "HgI₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম টেট্রাআয়োডোমারকিউরেট(II)",
+     "formula": "K₂[HgI₄]",
+     "state": "solution"
+    }
+   ],
+   "equation": "HgI₂ + 2KI → K₂[HgI₄]",
+   "conditions": "অতিরিক্ত KI",
+   "observations_bn": "লাল অধঃক্ষেপ গলে বর্ণহীন দ্রবণ হয়; পরে KOH/NaOH দিয়ে ক্ষারীয় করলে নেসলার দ্রবণ হয়।",
+   "procedure_bn": [
+    "লাল অধঃক্ষেপে আরও KI যোগ করা",
+    "বর্ণহীন দ্রবণে গাঢ় KOH বা NaOH মেশানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HgI₂",
+    "KI",
+    "KOH বা NaOH"
+   ],
+   "safety_bn": "পারদ যৌগ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-061",
+   "chapter_no": 1,
+   "section_no": "1.15",
+   "section_title_bn": "নাইট্রাস অক্সাইড বা ডাইনাইট্রোজেন অক্সাইড",
+   "book_page": 19,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NH₄NO₃ থেকে N₂O প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম নাইট্রেট",
+     "formula": "NH₄NO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "NH₄NO₃ → N₂O + 2H₂O",
+   "conditions": "প্রায় 250°C (সতর্ক তাপ)",
+   "observations_bn": "বর্ণহীন মৃদু-মিষ্টি গন্ধের গ্যাস (হাসির গ্যাস) পাওয়া যায়।",
+   "procedure_bn": [
+    "NH₄Cl ও NaNO₃ মিশ্রণ গরম করে NH₄NO₃ তৈরি",
+    "এরপর প্রায় 250°C-এ বিয়োজন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄NO₃"
+   ],
+   "safety_bn": "বিস্ফোরণের ঝুঁকি।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-062",
+   "chapter_no": 1,
+   "section_no": "1.15",
+   "section_title_bn": "নাইট্রাস অক্সাইড বা ডাইনাইট্রোজেন অক্সাইড",
+   "book_page": 19,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O-এ কার্বনের দহন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C + 2N₂O → CO₂ + 2N₂",
+   "conditions": "জ্বলন্ত",
+   "observations_bn": "উজ্জ্বলভাবে জ্বলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-063",
+   "chapter_no": 1,
+   "section_no": "1.15",
+   "section_title_bn": "নাইট্রাস অক্সাইড বা ডাইনাইট্রোজেন অক্সাইড",
+   "book_page": 19,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O-এ ফসফরাসের দহন",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2P + 5N₂O → P₂O₅ + 5N₂",
+   "conditions": "জ্বলন্ত",
+   "observations_bn": "উজ্জ্বলভাবে জ্বলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-064",
+   "chapter_no": 1,
+   "section_no": "1.15",
+   "section_title_bn": "নাইট্রাস অক্সাইড বা ডাইনাইট্রোজেন অক্সাইড",
+   "book_page": 19,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O-এ সালফারের দহন",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + 2N₂O → SO₂ + 2N₂",
+   "conditions": "জ্বলন্ত",
+   "observations_bn": "জ্বলে SO₂ ও N₂ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-065",
+   "chapter_no": 1,
+   "section_no": "1.15",
+   "section_title_bn": "নাইট্রাস অক্সাইড বা ডাইনাইট্রোজেন অক্সাইড",
+   "book_page": 19,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O-এ সোডিয়ামের দহন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অক্সাইড",
+     "formula": "Na₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Na + N₂O → Na₂O + N₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "উজ্জ্বলভাবে জ্বলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-066",
+   "chapter_no": 1,
+   "section_no": "1.15",
+   "section_title_bn": "নাইট্রাস অক্সাইড বা ডাইনাইট্রোজেন অক্সাইড",
+   "book_page": 19,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O-এ ম্যাগনেসিয়ামের দহন",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+     "formula": "MgO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mg + N₂O → MgO + N₂",
+   "conditions": "জ্বলন্ত",
+   "observations_bn": "উজ্জ্বল শিখায় জ্বলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-067",
+   "chapter_no": 1,
+   "section_no": "1.15",
+   "section_title_bn": "নাইট্রাস অক্সাইড বা ডাইনাইট্রোজেন অক্সাইড",
+   "book_page": 19,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O-এ কপারের বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "wire"
+    },
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Cu + N₂O → CuO + N₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "কপার জারিত হয়ে কালো CuO হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-068",
+   "chapter_no": 1,
+   "section_no": "1.16",
+   "section_title_bn": "নাইট্রিক অক্সাইড বা নাইট্রোজেন মনোক্সাইড",
+   "book_page": 19,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কপার ও মাঝারি গাঢ় HNO₃ থেকে NO প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড (প্রায় 50%)",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) নাইট্রেট",
+     "formula": "Cu(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO↑ + 4H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বোতলে বর্ণহীন NO ওঠে, বাতাসের O₂-এর সাথে বাদামি NO₂ ধোঁয়া হয়; বাদামি ধোঁয়া সরলে গ্যাস বর্ণহীন দেখায়।",
+   "procedure_bn": [
+    "বোতলে কয়েকটি কপারের টুকরো রাখা",
+    "থিসল ফানেল দিয়ে প্রায় 50% HNO₃ ঢালা",
+    "গ্যাস পানি অপসারণে সংগ্রহ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cu কুচি",
+    "HNO₃",
+    "গ্যাসের বোতল",
+    "থিসল ফানেল"
+   ],
+   "safety_bn": "NO ও NO₂ বিষাক্ত; ফিউম হুডে করা।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-069",
+   "chapter_no": 1,
+   "section_no": "1.16",
+   "section_title_bn": "নাইট্রিক অক্সাইড বা নাইট্রোজেন মনোক্সাইড",
+   "book_page": 20,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জ্বলন্ত ফসফরাসের NO-তে দহন",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4P + 10NO → 2P₂O₅ + 5N₂",
+   "conditions": "জ্বলন্ত",
+   "observations_bn": "NO জ্বলন সহায়তা করে ও উজ্জ্বল শিখা দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-070",
+   "chapter_no": 1,
+   "section_no": "1.16",
+   "section_title_bn": "নাইট্রিক অক্সাইড বা নাইট্রোজেন মনোক্সাইড",
+   "book_page": 20,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উত্তপ্ত কার্বনের NO-তে দহন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C + 2NO → CO₂ + N₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "কোক উজ্জ্বলভাবে জ্বলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-071",
+   "chapter_no": 1,
+   "section_no": "1.16",
+   "section_title_bn": "নাইট্রিক অক্সাইড বা নাইট্রোজেন মনোক্সাইড",
+   "book_page": 20,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উত্তপ্ত ম্যাগনেসিয়াম ও NO",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+     "formula": "MgO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Mg + 2NO → 2MgO + N₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "সাদা MgO তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-072",
+   "chapter_no": 1,
+   "section_no": "1.16",
+   "section_title_bn": "নাইট্রিক অক্সাইড বা নাইট্রোজেন মনোক্সাইড",
+   "book_page": 20,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উত্তপ্ত কপার ও NO",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "wire"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Cu + 2NO → 2CuO + N₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "কালো CuO গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-073",
+   "chapter_no": 1,
+   "section_no": "1.16",
+   "section_title_bn": "নাইট্রিক অক্সাইড বা নাইট্রোজেন মনোক্সাইড",
+   "book_page": 20,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NO ও আয়োডিনের জলীয় বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোআয়োডিক এসিড",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "equation": "3I₂ + 4H₂O + 2NO → 2HNO₃ + 6HI",
+   "conditions": "লঘু জলীয় আয়োডিন",
+   "observations_bn": "NO আয়োডিনকে জারিত করে ও আয়োডিন বিজারিত হয়ে HI হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-074",
+   "chapter_no": 1,
+   "section_no": "1.16",
+   "section_title_bn": "নাইট্রিক অক্সাইড বা নাইট্রোজেন মনোক্সাইড",
+   "book_page": 20,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্ষারে NO চালনা (সামগ্রিক)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "4NO + 2NaOH → 2NaNO₂ + N₂O + H₂O",
+   "equation_printed": "4NO + 4NaOH → 4NaNO₂ + N₂O + H₂O (সহগ স্পষ্ট নয়)",
+   "conditions": "গাঢ় ক্ষার",
+   "observations_bn": "প্রথমে N₂O ও N₂O₃ হয়, শেষে নাইট্রাইট লবণ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-01-075",
+   "chapter_no": 1,
+   "section_no": "1.17",
+   "section_title_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+   "book_page": 20,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "As₂O₃ ও গাঢ় HNO₃ থেকে N₂O₃",
+   "reactants": [
+    {
+     "name_bn": "আর্সেনিয়াস অক্সাইড",
+     "formula": "As₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড (প্রায় 50%)",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+     "formula": "N₂O₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "আর্সেনিক এসিড",
+     "formula": "H₃AsO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2HNO₃ + As₂O₃ + 2H₂O → N₂O₃ + 2H₃AsO₄",
+   "equation_printed": "2HNO₃ + As₂O₃ + 2H₂O → N₂O₃ + 2H₃AsO₄",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "গ্যাসকে CaCl₂-এ শুকিয়ে হিমমিশ্রে ঠান্ডা করলে গাঢ় নীল তরল জমে।",
+   "procedure_bn": [
+    "As₂O₃-এ HNO₃ নিয়ে গরম করা",
+    "গ্যাস শুকিয়ে U-নলে হিমমিশ্রে ঠান্ডা করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "As₂O₃",
+    "HNO₃",
+    "CaCl₂",
+    "U-নল",
+    "হিমমিশ্র"
+   ],
+   "safety_bn": "আর্সেনিক যৌগ ও নাইট্রোজেন অক্সাইড অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-076",
+   "chapter_no": 1,
+   "section_no": "1.17",
+   "section_title_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+   "book_page": 20,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₃ ও পানি (নাইট্রাস এসিড)",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+     "formula": "N₂O₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "N₂O₃ + H₂O → 2HNO₂",
+   "conditions": "শীতল পানি",
+   "observations_bn": "অস্থায়ী নাইট্রাস এসিড হয়; তাই N₂O₃ নাইট্রাস এসিডের অ্যানহাইড্রাইড।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-077",
+   "chapter_no": 1,
+   "section_no": "1.17",
+   "section_title_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+   "book_page": 20,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₃ ও ক্ষার",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+     "formula": "N₂O₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম নাইট্রাইট",
+     "formula": "KNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2KOH + N₂O₃ → 2KNO₂ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "স্থায়ী নাইট্রাইট লবণ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-078",
+   "chapter_no": 1,
+   "section_no": "1.17",
+   "section_title_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+   "book_page": 20,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "নাইট্রাস এসিড দিয়ে KI-এর জারণ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম নাইট্রাইট",
+     "formula": "KNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2KI + 4HNO₂ → 2KNO₂ + 2H₂O + 2NO + I₂",
+   "conditions": "এসিডীয় মাধ্যম",
+   "observations_bn": "আয়োডিন মুক্ত হয়ে দ্রবণ বাদামি হয়; নাইট্রাস এসিড জারক হিসেবে কাজ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KI দ্রবণ",
+    "নাইট্রাস এসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-079",
+   "chapter_no": 1,
+   "section_no": "1.17",
+   "section_title_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+   "book_page": 20,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "নাইট্রাস এসিড দিয়ে KMnO₄-এর বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানাস সালফেট",
+     "formula": "MnSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2KMnO₄ + 3H₂SO₄ + 5HNO₂ → K₂SO₄ + 2MnSO₄ + 3H₂O + 5HNO₃",
+   "conditions": "লঘু H₂SO₄ মাধ্যম",
+   "observations_bn": "বেগুনি রং বর্ণহীন হয়; নাইট্রাস এসিড বিজারক হিসেবে কাজ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KMnO₄",
+    "লঘু H₂SO₄",
+    "HNO₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-080",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO₂ ⇌ N₂O₄ সাম্যাবস্থা",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন টেট্রোক্সাইড",
+     "formula": "N₂O₄",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂O₄ ⇌ 2NO₂",
+   "conditions": "উত্তপ্ত করলে NO₂; শীতল করলে N₂O₄",
+   "observations_bn": "বাদামি NO₂ ঠান্ডা করলে বর্ণহীন N₂O₄-তে পরিণত হয়; গরম করলে আবার বাদামি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-081",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লেড নাইট্রেটের তাপ বিয়োজন (NO₂ প্রস্তুতি)",
+   "reactants": [
+    {
+     "name_bn": "লেড নাইট্রেট",
+     "formula": "Pb(NO₃)₂",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড(II) অক্সাইড",
+     "formula": "PbO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বাদামি NO₂ ও O₂ বের হয়; কেলাস-পানি না থাকায় সুবিধা।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "NO₂ ও সিসা যৌগ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-082",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কপার ও গাঢ় HNO₃ থেকে NO₂",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) নাইট্রেট",
+     "formula": "Cu(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cu + 4HNO₃ → Cu(NO₃)₂ + 2NO₂↑ + 2H₂O",
+   "equation_printed": "Cu + 4HNO₃ (গাঢ়) → Cu(NO₃)₂ + 2NO₂ + 2H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বাদামি NO₂ গ্যাস ওঠে ও দ্রবণ নীল হয়।",
+   "procedure_bn": [
+    "কপারে গাঢ় HNO₃ যোগ করা",
+    "বাদামি গ্যাস সংগ্রহ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cu",
+    "গাঢ় HNO₃"
+   ],
+   "safety_bn": "NO₂ বিষাক্ত; ফিউম হুডে করা।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-083",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম নাইট্রাইটে গাঢ় HNO₃",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaNO₂ + 2HNO₃ → NaNO₃ + H₂O + 2NO₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বাদামি NO₂ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "NO₂ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-084",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO₂ ও পানি (মিশ্র অ্যানহাইড্রাইড)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2NO₂ + H₂O → HNO₂ + HNO₃",
+   "conditions": "শীতল পানি",
+   "observations_bn": "দুই এসিডের মিশ্রণ দেয়, তাই NO₂ মিশ্র অ্যানহাইড্রাইড।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-085",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO₂ ও কস্টিক সোডা",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NO₂ + 2NaOH → NaNO₂ + NaNO₃ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "অম্লধর্মী NO₂ ক্ষারে শোষিত হয়ে নাইট্রাইট ও নাইট্রেট দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-086",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উত্তপ্ত কপার ও NO₂",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "wire"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4Cu + 2NO₂ → 4CuO + N₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "NO₂ জারক হিসেবে ধাতুকে অক্সাইডে পরিণত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-087",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উত্তপ্ত সীসা ও NO₂",
+   "reactants": [
+    {
+     "name_bn": "সীসা",
+     "formula": "Pb",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড(II) অক্সাইড",
+     "formula": "PbO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "Pb + NO₂ → PbO + NO",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "NO₂ বিজারিত হয়ে NO দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-088",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S ও NO₂",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂S + NO₂ → S + NO + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "সালফারের হলুদ গুঁড়া জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-089",
+   "chapter_no": 1,
+   "section_no": "1.18",
+   "section_title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "book_page": 21,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "KI দ্রবণ ও NO₂",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂O + 2KI + NO₂ → I₂ + NO + 2KOH",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "আয়োডিন মুক্ত হয়ে দ্রবণ বাদামি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-090",
+   "chapter_no": 1,
+   "section_no": "1.19",
+   "section_title_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+   "book_page": 22,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "গাঢ় HNO₃ ও P₂O₅ থেকে N₂O₅ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+     "formula": "N₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "মেটা ফসফরিক এসিড",
+     "formula": "HPO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2HNO₃ + P₂O₅ → N₂O₅ + 2HPO₃",
+   "conditions": "প্রায় 30°C, বক যন্ত্রে গরম",
+   "observations_bn": "P₂O₅ নিরুদক হিসেবে পানি সরায়; N₂O₅ বাষ্প ঠান্ডা পাত্রে কঠিন বর্ণহীন কেলাস হয়।",
+   "procedure_bn": [
+    "বক যন্ত্রে গাঢ় HNO₃ ও P₂O₅ নিয়ে পানিগাহে গরম করা",
+    "N₂O₅ বাষ্প শীতল গ্রাহকে জমানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গাঢ় HNO₃",
+    "P₂O₅",
+    "বক যন্ত্র"
+   ],
+   "safety_bn": "ক্ষয়কারী ও বিস্ফোরণপ্রবণ।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-091",
+   "chapter_no": 1,
+   "section_no": "1.19",
+   "section_title_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+   "book_page": 22,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₅-এর তাপ বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+     "formula": "N₂O₅",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন টেট্রোক্সাইড",
+     "formula": "N₂O₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2N₂O₅ → 2N₂O₄ + O₂",
+   "conditions": "29°C-এ গলে ধীরে বিয়োজন; 50°C-এ বিস্ফোরণ",
+   "observations_bn": "তরল অবস্থায় ধীরে ধীরে ভাঙে; 50°C-এ বিস্ফোরক হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-092",
+   "chapter_no": 1,
+   "section_no": "1.19",
+   "section_title_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+   "book_page": 22,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₅ ও পানি",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+     "formula": "N₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "N₂O₅ + H₂O → 2HNO₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "পানিগ্রাহী; HNO₃-এর অ্যানহাইড্রাইড।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-093",
+   "chapter_no": 1,
+   "section_no": "1.19",
+   "section_title_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+   "book_page": 22,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₅ দ্বারা ফসফরাসের জারণ",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+     "formula": "N₂O₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P₄",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2N₂O₅ + P₄ → 2P₂O₅ + 2N₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ফসফরাস জ্বলে ওঠে (শক্তিশালী জারক)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-094",
+   "chapter_no": 1,
+   "section_no": "1.19",
+   "section_title_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+   "book_page": 22,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₅ দ্বারা আয়োডিনের জারণ",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+     "formula": "N₂O₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন পেন্টঅক্সাইড",
+     "formula": "I₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂O₅ + I₂ → I₂O₅ + N₂",
+   "conditions": "শর্ত উল্লেখ নেই",
+   "observations_bn": "আয়োডিন জারিত হয়ে I₂O₅ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-095",
+   "chapter_no": 1,
+   "section_no": "1.21",
+   "section_title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "book_page": 22,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NaNO₂ ও HCl থেকে নাইট্রাস এসিড প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaNO₂ + HCl ⇌ HNO₂ + NaCl",
+   "conditions": "0–5°C (হিমশীতল, লঘু)",
+   "observations_bn": "অস্থায়ী HNO₂ দ্রবণে তৈরি হয়; 5°C-এর নিচে তুলনামূলক স্থির থাকে।",
+   "procedure_bn": [
+    "লঘু NaNO₂ দ্রবণ ঠান্ডা করা",
+    "লঘু খনিজ এসিড ধীরে ধীরে যোগ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaNO₂",
+    "লঘু HCl",
+    "বরফ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-096",
+   "chapter_no": 1,
+   "section_no": "1.21",
+   "section_title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "book_page": 22,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যানিলিনের ডায়াজোটাইজেশন (বেনজিন ডায়াজোনিয়াম ক্লোরাইড)",
+   "reactants": [
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "গাঢ় হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+     "formula": "C₆H₅N₂Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅NH₂ + NaNO₂ + 2HCl → C₆H₅N₂Cl + NaCl + 2H₂O",
+   "equation_printed": "C₆H₅NH₂ + NaNO₂ + 2HCl → C₆H₅N₂Cl + NaCl + H₂O",
+   "conditions": "0–5°C",
+   "observations_bn": "ডায়াজোনিয়াম লবণের দ্রবণ পাওয়া যায়।",
+   "procedure_bn": [
+    "অ্যানিলিনে NaNO₂ দ্রবণ ও গাঢ় HCl মেশানো",
+    "মিশ্রণ 0–5°C রাখা (বরফ-স্নান)"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যানিলিন",
+    "NaNO₂",
+    "গাঢ় HCl",
+    "বরফ"
+   ],
+   "safety_bn": "অ্যানিলিন ও ডায়াজোনিয়াম লবণ বিষাক্ত ও অস্থায়ী।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-01-097",
+   "chapter_no": 1,
+   "section_no": "1.21",
+   "section_title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "book_page": 23,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaNO₃-এর তাপ বিয়োজন (নাইট্রাইট প্রস্তুতি)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaNO₃ → 2NaNO₂ + O₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ক্ষার ধাতুর নাইট্রেট থেকে নাইট্রাইট পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-098",
+   "chapter_no": 1,
+   "section_no": "1.21",
+   "section_title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "book_page": 23,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "HNO₂-এর অসামঞ্জস্য বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3HNO₂ → HNO₃ + 2NO + H₂O",
+   "conditions": "20°C-এর ওপরে",
+   "observations_bn": "NO গ্যাস বের হয়; একই এসিড একসাথে জারিত ও বিজারিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-099",
+   "chapter_no": 1,
+   "section_no": "1.21",
+   "section_title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "book_page": 23,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S ও নাইট্রাস এসিড",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂S + 2HNO₂ → S + 2NO + 2H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "হলুদ সালফার জমে ও NO গ্যাস বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "H₂S ও NO বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-100",
+   "chapter_no": 1,
+   "section_no": "1.21",
+   "section_title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "book_page": 23,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "KI ও নাইট্রাস এসিড (5°C)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "2KI + 2HNO₂ → I₂ + 2KOH + 2NO",
+   "conditions": "5°C",
+   "observations_bn": "আয়োডিন মুক্ত হয়ে দ্রবণ বাদামি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-101",
+   "chapter_no": 1,
+   "section_no": "1.21",
+   "section_title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "book_page": 23,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন পানি ও নাইট্রাস এসিড",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন পানি",
+     "formula": "Cl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl₂ + HNO₂ + H₂O → 2HCl + HNO₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "হ্যালোজেন বিজারিত হয়, HNO₂ জারিত হয়ে নাইট্রিক এসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-102",
+   "chapter_no": 1,
+   "section_no": "1.21",
+   "section_title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "book_page": 23,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ব্রোমিন পানি ও নাইট্রাস এসিড",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমিন পানি",
+     "formula": "Br₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোব্রোমিক এসিড",
+     "formula": "HBr",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Br₂ + HNO₂ + H₂O → 2HBr + HNO₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ব্রোমিনের রং ম্লান হয়; HNO₂ বিজারকরূপে কাজ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-103",
+   "chapter_no": 1,
+   "section_no": "1.22",
+   "section_title_bn": "নাইট্রিক এসিড",
+   "book_page": 24,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পরীক্ষাগারে নাইট্রিক এসিড প্রস্তুতি (NaNO₃ ও H₂SO₄)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম বাইসালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NaNO₃ + H₂SO₄ → NaHSO₄ + HNO₃",
+   "conditions": "200–300°C, পাতন",
+   "observations_bn": "কম উদ্বায়ী H₂SO₄ উদ্বায়ী HNO₃-কে বের করে দেয়; বাষ্প ঘনীভূত করে HNO₃ পাওয়া যায়।",
+   "procedure_bn": [
+    "NaNO₃-এ গাঢ় H₂SO₄ মেশানো",
+    "200–300°C-এ পাতন করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaNO₃",
+    "গাঢ় H₂SO₄",
+    "পাতন যন্ত্র"
+   ],
+   "safety_bn": "ক্ষয়কারী বাষ্প; কাচের পাতন যন্ত্র।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-104",
+   "chapter_no": 1,
+   "section_no": "1.22",
+   "section_title_bn": "নাইট্রিক এসিড",
+   "book_page": 24,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উচ্চ তাপে NaNO₃ ও NaHSO₄ থেকে আরও HNO₃",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম বাইসালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NaNO₃ + NaHSO₄ → Na₂SO₄ + HNO₃",
+   "conditions": "প্রায় 800°C",
+   "observations_bn": "উচ্চ তাপে দ্বিতীয় ধাপে অতিরিক্ত HNO₃ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-105",
+   "chapter_no": 1,
+   "section_no": "1.23",
+   "section_title_bn": "নাইট্রিক এসিডের শিল্পোৎপাদন",
+   "book_page": 24,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অসওয়াল্ড পদ্ধতি: NH₃-এর জারণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "4NH₃ + 5O₂ → 4NO + 6H₂O    ΔH° = −909 kJ mol⁻¹",
+   "conditions": "Pt–Rh (90% Pt, 10% Rh) প্রভাবক, প্রায় 900°C, 4–10 বায়ুচাপ",
+   "observations_bn": "প্রভাবকের তারজালিতে 96%-এর বেশি NH₃ জারিত হয়।",
+   "procedure_bn": [
+    "বিশুদ্ধ NH₃ ও পরিশোধিত বায়ু 1:8 আয়তনে মেশানো",
+    "উত্তপ্ত Pt–Rh তারজালির ওপর চালনা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₃",
+    "বায়ু",
+    "Pt–Rh জাল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-106",
+   "chapter_no": 1,
+   "section_no": "1.23",
+   "section_title_bn": "নাইট্রিক এসিডের শিল্পোৎপাদন",
+   "book_page": 24,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অসওয়াল্ড পদ্ধতি: NO থেকে NO₂",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4NO + 2O₂ → 4NO₂    ΔH° = −115 kJ mol⁻¹",
+   "conditions": "প্রায় 50°C-এ শীতল জারণ স্তম্ভে",
+   "observations_bn": "গ্যাস ঠান্ডা করা মিশ্রণ জারণ স্তম্ভে NO₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-107",
+   "chapter_no": 1,
+   "section_no": "1.23",
+   "section_title_bn": "নাইট্রিক এসিডের শিল্পোৎপাদন",
+   "book_page": 24,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অসওয়াল্ড পদ্ধতি: শোষণ স্তম্ভে HNO₃",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "4NO₂ + O₂ + 2H₂O → 4HNO₃",
+   "conditions": "শোষণ স্তম্ভ, উষ্ণ পানির ধারা",
+   "observations_bn": "লঘু HNO₃ পাতন করে প্রায় 68% HNO₃ (সমস্ফুটন মিশ্রণ) পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-108",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 25,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নীল লিটমাসে HNO₃",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক এসিড (লঘু)",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নীল লিটমাস",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লাল লিটমাস",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "HNO₃ ⇌ H⁺ + NO₃⁻",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "নীল লিটমাস লাল হয়; লঘু দ্রবণে প্রায় 93% আয়নিত।",
+   "procedure_bn": [
+    "নীল লিটমাস কাগজ HNO₃ দ্রবণে ডোবানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লঘু HNO₃",
+    "নীল লিটমাস কাগজ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-109",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 25,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NaOH ও HNO₃ প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NaOH + HNO₃ → NaNO₃ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "দ্রবণীয় নাইট্রেট লবণ ও পানি হয়; তাপ নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaOH দ্রবণ",
+    "HNO₃",
+    "ইন্ডিকেটর"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-110",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 25,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "লঘু HNO₃ ও ম্যাগনেসিয়াম",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "লঘু নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম নাইট্রেট",
+     "formula": "Mg(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mg + 2HNO₃ → Mg(NO₃)₂ + H₂↑",
+   "conditions": "কক্ষ তাপমাত্রা, অতি লঘু",
+   "observations_bn": "H₂ গ্যাস বুদবুদ আকারে ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Mg ফিতা",
+    "লঘু HNO₃"
+   ],
+   "safety_bn": "H₂ দাহ্য।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-111",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 27,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উত্তপ্ত Cu ও গাঢ় HNO₃ বাষ্প",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড বাষ্প",
+     "formula": "HNO₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "5Cu + 2HNO₃ → 5CuO + N₂ + H₂O",
+   "conditions": "উত্তপ্ত কপার গুঁড়া",
+   "observations_bn": "কালো CuO হয় ও N₂ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-112",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 27,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গাঢ় HNO₃ দ্বারা সালফারের জারণ",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "S + 6HNO₃ → H₂SO₄ + 6NO₂↑ + 2H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বাদামি NO₂ গ্যাস নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "NO₂ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-113",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 27,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গাঢ় HNO₃ দ্বারা আয়োডিনের জারণ",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিক এসিড",
+     "formula": "HIO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "I₂ + 10HNO₃ → 2HIO₃ + 10NO₂↑ + 4H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "বাদামি NO₂ গ্যাস নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "NO₂ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-114",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 27,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "FeSO₄ দ্রবণকে গাঢ় HNO₃ দিয়ে জারণ",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক সালফেট",
+     "formula": "Fe₂(SO₄)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেরিক নাইট্রেট",
+     "formula": "Fe(NO₃)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "6FeSO₄ + 8HNO₃ → 2Fe₂(SO₄)₃ + 2Fe(NO₃)₃ + 4H₂O + 2NO",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "হালকা সবুজ দ্রবণ হালকা বাদামি হয়; NO বাতাসে বাদামি NO₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeSO₄",
+    "গাঢ় HNO₃"
+   ],
+   "safety_bn": "NO ও NO₂ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-115",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 28,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "রাজাম্ল দিয়ে সোনার দ্রবণ (Au)",
+   "reactants": [
+    {
+     "name_bn": "সোনা",
+     "formula": "Au",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "গাঢ় হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরো অরিক এসিড",
+     "formula": "HAuCl₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোসিল ক্লোরাইড",
+     "formula": "NOCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3HNO₃ + 11HCl + 2Au → 2HAuCl₄ + 6H₂O + 3NOCl",
+   "conditions": "1 mol গাঢ় HNO₃ : 3 mol গাঢ় HCl মিশ্রণ",
+   "observations_bn": "শুধু একটি এসিডে নয়, মিশ্রণে সোনা গলে হলুদ দ্রবণ হয়।",
+   "procedure_bn": [
+    "1:3 মোলে গাঢ় HNO₃ ও HCl মেশানো",
+    "সোনা মিশ্রণে ডোবানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Au",
+    "গাঢ় HNO₃",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "NOCl বিষাক্ত; ফিউম হুডে করা।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-116",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 28,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "রাজাম্ল দিয়ে প্ল্যাটিনামের দ্রবণ (Pt)",
+   "reactants": [
+    {
+     "name_bn": "প্ল্যাটিনাম",
+     "formula": "Pt",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "গাঢ় হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরো প্ল্যাটিনিক এসিড",
+     "formula": "H₂PtCl₆",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোসিল ক্লোরাইড",
+     "formula": "NOCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2HNO₃ + 8HCl + Pt → H₂PtCl₆ + 4H₂O + 2NOCl",
+   "conditions": "গাঢ় মিশ্রণ",
+   "observations_bn": "জায়মান ক্লোরিন Pt-কে দ্রবণীয় ক্লোরাইডে রূপান্তর করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Pt",
+    "গাঢ় HNO₃",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "NOCl বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-117",
+   "chapter_no": 1,
+   "section_no": "1.25",
+   "section_title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "book_page": 28,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ডেভারডা সংকর দিয়ে নাইট্রেট শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রেট আয়ন",
+     "formula": "NO₃⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "জিঙ্ক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাহাইড্রক্সোজিঙ্কেট(II) আয়ন",
+     "formula": "[Zn(OH)₄]²⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "4Zn + NO₃⁻ + 7OH⁻ + 6H₂O → 4[Zn(OH)₄]²⁻ + NH₃↑",
+   "conditions": "ক্ষারীয় মাধ্যম",
+   "observations_bn": "নাইট্রেট বিজারিত হয়ে NH₃ গ্যাস দেয়; আগে দ্রবণে থাকা অ্যামোনিয়াম দূর করতে হয়।",
+   "procedure_bn": [
+    "নাইট্রেট দ্রবণে ক্ষার যোগ করে আগের NH₃ বের করা",
+    "Devarda সংকর বা Zn গুঁড়া ও NaOH মেশানো",
+    "নির্গত NH₃ শনাক্ত করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Devarda সংকর",
+    "NaOH দ্রবণ",
+    "নমুনা দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-118",
+   "chapter_no": 1,
+   "section_no": "1.27",
+   "section_title_bn": "নাইট্রেট লবণ",
+   "book_page": 29,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "MgCO₃ ও নাইট্রিক এসিড",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম কার্বনেট",
+     "formula": "MgCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম নাইট্রেট",
+     "formula": "Mg(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "MgCO₃ + 2HNO₃ → Mg(NO₃)₂ + H₂O + CO₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "CO₂ বুদবুদ হয়ে কঠিন গলে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-119",
+   "chapter_no": 1,
+   "section_no": "1.27",
+   "section_title_bn": "নাইট্রেট লবণ",
+   "book_page": 29,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "AgNO₃-এর তাপ বিয়োজন (450°C)",
+   "reactants": [
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার নাইট্রাইট",
+     "formula": "AgNO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2AgNO₃ → 2AgNO₂ + O₂",
+   "conditions": "প্রায় 450°C",
+   "observations_bn": "কম তাপে নাইট্রাইট পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-120",
+   "chapter_no": 1,
+   "section_no": "1.27",
+   "section_title_bn": "নাইট্রেট লবণ",
+   "book_page": 29,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সিলভার নাইট্রাইটের বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "সিলভার নাইট্রাইট",
+     "formula": "AgNO₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2AgNO₂ → 2Ag + 2NO + O₂",
+   "conditions": "আরও বেশি তাপে",
+   "observations_bn": "ধাতব সিলভার অবশিষ্ট থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-121",
+   "chapter_no": 1,
+   "section_no": "1.27",
+   "section_title_bn": "নাইট্রেট লবণ",
+   "book_page": 29,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cu(NO₃)₂-এর তাপ বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "কপার(II) নাইট্রেট",
+     "formula": "Cu(NO₃)₂",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Cu(NO₃)₂ → 2CuO + 4NO₂ + O₂",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "কালো CuO অবশিষ্ট ও বাদামি NO₂ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "NO₂ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-122",
+   "chapter_no": 1,
+   "section_no": "1.27",
+   "section_title_bn": "নাইট্রেট লবণ",
+   "book_page": 29,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম নাইট্রেট ও সীসা থেকে নাইট্রাইট",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সীসা",
+     "formula": "Pb",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "লেড(II) অক্সাইড",
+     "formula": "PbO",
+     "state": "solid"
+    }
+   ],
+   "equation": "NaNO₃ + Pb → NaNO₂ + PbO",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "সীসার গুঁড়া নাইট্রেটকে নাইট্রাইটে বিজারিত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-123",
+   "chapter_no": 1,
+   "section_no": "1.28",
+   "section_title_bn": "নাইট্রেট মূলকের পরীক্ষা",
+   "book_page": 30,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নাইট্রেটের শুষ্ক পরীক্ষা (Cu ও H₂SO₄)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম বাইসালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কপার(II) নাইট্রেট",
+     "formula": "Cu(NO₃)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "4NaNO₃ + 4H₂SO₄ + Cu → 4NaHSO₄ + Cu(NO₃)₂ + 2NO₂↑ + 2H₂O",
+   "equation_printed": "NaNO₃ + H₂SO₄ + Cu → NaHSO₄ + Cu(NO₃)₂ + NO₂ + H₂O (অসমতাপূর্ণ)",
+   "conditions": "মৃদু উত্তপ্ত",
+   "observations_bn": "বাদামি NO₂ গ্যাস বের হয়, যা নাইট্রেটের ইঙ্গিত দেয়।",
+   "procedure_bn": [
+    "টেস্টটিউবে নমুনা, Cu কুচি ও গাঢ় H₂SO₄ নেওয়া",
+    "মৃদু গরম করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নমুনা লবণ",
+    "Cu কুচি",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "বাদামি গ্যাস বিষাক্ত; গাঢ় এসিড ক্ষয়কারী।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-01-124",
+   "chapter_no": 1,
+   "section_no": "1.28",
+   "section_title_bn": "নাইট্রেট মূলকের পরীক্ষা",
+   "book_page": 30,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নাইট্রেটের বলয় পরীক্ষা: HNO₃ গঠন ও Fe²⁺-এর জারণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম বাইসালফেট",
+     "formula": "NaHSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেরিক সালফেট",
+     "formula": "Fe₂(SO₄)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaNO₃ + 2H₂SO₄ → 2NaHSO₄ + 2HNO₃;   2HNO₃ + 3H₂SO₄ + 6FeSO₄ → 3Fe₂(SO₄)₃ + 4H₂O + 2NO",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "প্রথমে HNO₃ হয়, তারপর Fe²⁺ জারিত হয়ে NO উৎপন্ন করে।",
+   "procedure_bn": [
+    "নাইট্রেট দ্রবণে প্রায় দ্বিগুণ আয়তন সদ্য তৈরি FeSO₄ যোগ করা",
+    "পরীক্ষানলের গা বেয়ে সাবধানে গাঢ় H₂SO₄ ঢালা",
+    "দুই স্তরের সংযোগস্থলে বলয় দেখা"
+   ],
+   "quantities_bn": "নমুনা 2–3 mL, FeSO₄ প্রায় দ্বিগুণ, গাঢ় H₂SO₄ 2–3 mL",
+   "materials_bn": [
+    "নমুনা",
+    "সদ্য তৈরি FeSO₄",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "গাঢ় H₂SO₄ ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-125",
+   "chapter_no": 1,
+   "section_no": "1.28",
+   "section_title_bn": "নাইট্রেট মূলকের পরীক্ষা",
+   "book_page": 30,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নাইট্রেটের বাদামি বলয় (পেন্টা অ্যাকুয়া নাইট্রোসিল আয়রন(II) সালফেট)",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পেন্টা অ্যাকুয়া নাইট্রোসিল আয়রন(II) সালফেট",
+     "formula": "[Fe(NO)(H₂O)₅]SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeSO₄ + NO + 5H₂O → [Fe(NO)(H₂O)₅]SO₄",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "দুই তরলের সংযোগে গাঢ় বাদামি বলয় নাইট্রেটের নিশ্চিত প্রমাণ।",
+   "procedure_bn": [
+    "উপরের ধাপের NO দ্রবণের অবশিষ্ট FeSO₄-এর সাথে যুক্ত হয়",
+    "সংযোগস্থলে বলয় লক্ষ করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সদ্য তৈরি FeSO₄"
+   ],
+   "safety_bn": "পুরোনো FeSO₄ দ্রবণ বাতাসে জারিত হয়, তাই সদ্য প্রস্তুত ব্যবহার করুন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-126",
+   "chapter_no": 1,
+   "section_no": "1.31",
+   "section_title_bn": "ফসফরাস ট্রাইঅক্সাইড",
+   "book_page": 31,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সাদা ফসফরাসের সীমিত বায়ুতে দহন (P₂O₃)",
+   "reactants": [
+    {
+     "name_bn": "সাদা ফসফরাস",
+     "formula": "P",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন (সীমিত বায়ু)",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "4P + 3O₂ → 2P₂O₃",
+   "equation_printed": "4P + 3O₂ → 2P₂O₃",
+   "conditions": "উত্তপ্ত, সীমিত বায়ুপ্রবাহ",
+   "observations_bn": "মোমের মতো সাদা দানাদার কঠিন পাওয়া যায়; সামান্য P₂O₅ থাকে।",
+   "procedure_bn": [
+    "সাদা ফসফরাস ধীরে ধীরে উত্তপ্ত করা",
+    "সীমিত বায়ু চালনা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সাদা ফসফরাস",
+    "সীমিত বায়ু"
+   ],
+   "safety_bn": "সাদা ফসফরাস বিষাক্ত ও স্বতঃদাহ্য।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-127",
+   "chapter_no": 1,
+   "section_no": "1.31",
+   "section_title_bn": "ফসফরাস ট্রাইঅক্সাইড",
+   "book_page": 31,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₃ ও শীতল পানি",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "শীতল পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস এসিড",
+     "formula": "H₃PO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₃ + 3H₂O → 2H₃PO₃",
+   "conditions": "শীতল পানি",
+   "observations_bn": "দ্রবীভূত হয়ে ফসফরাস এসিড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-128",
+   "chapter_no": 1,
+   "section_no": "1.31",
+   "section_title_bn": "ফসফরাস ট্রাইঅক্সাইড",
+   "book_page": 31,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₃ ও উত্তপ্ত পানি",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "উত্তপ্ত পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফিন",
+     "formula": "PH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2P₂O₃ + 6H₂O → PH₃↑ + 3H₃PO₄",
+   "conditions": "উত্তপ্ত পানি",
+   "observations_bn": "বিক্রিয়ায় ফসফিন গ্যাস ও ফসফরিক এসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "PH₃ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-129",
+   "chapter_no": 1,
+   "section_no": "1.31",
+   "section_title_bn": "ফসফরাস ট্রাইঅক্সাইড",
+   "book_page": 31,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₃ ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফসফেট",
+     "formula": "Na₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফিন",
+     "formula": "PH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2P₂O₃ + 9NaOH → 3Na₃PO₄ + PH₃↑ + 3H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "সোডিয়াম ফসফেট, ফসফিন ও পানি পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "PH₃ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-130",
+   "chapter_no": 1,
+   "section_no": "1.32",
+   "section_title_bn": "ফসফরাস পেন্টঅক্সাইড",
+   "book_page": 32,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাসের প্রচুর বায়ুতে দহন (P₂O₅)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "4P + 5O₂ → 2P₂O₅",
+   "conditions": "অতিরিক্ত বায়ু বা O₂",
+   "observations_bn": "সাদা ধোঁয়ার মতো P₂O₅ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "সাদা ফসফরাস বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-131",
+   "chapter_no": 1,
+   "section_no": "1.32",
+   "section_title_bn": "ফসফরাস পেন্টঅক্সাইড",
+   "book_page": 32,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ ও শীতল পানি (মেটা ফসফরিক এসিড)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "শীতল পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মেটা ফসফরিক এসিড",
+     "formula": "HPO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₅ + H₂O → 2HPO₃",
+   "conditions": "শীতল পানি",
+   "observations_bn": "হিস হিস শব্দে তাপ ছেড়ে বিক্রিয়া হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "অত্যন্ত ক্ষয়কারী ও তাপোৎপাদী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-132",
+   "chapter_no": 1,
+   "section_no": "1.32",
+   "section_title_bn": "ফসফরাস পেন্টঅক্সাইড",
+   "book_page": 32,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "মেটা ফসফরিক এসিড থেকে অর্থো ফসফরিক এসিড",
+   "reactants": [
+    {
+     "name_bn": "মেটা ফসফরিক এসিড",
+     "formula": "HPO₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থো ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "HPO₃ + H₂O → H₃PO₄",
+   "conditions": "ফুটন্ত পানি",
+   "observations_bn": "পানি যোগে HPO₃ থেকে H₃PO₄ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-133",
+   "chapter_no": 1,
+   "section_no": "1.32",
+   "section_title_bn": "ফসফরাস পেন্টঅক্সাইড",
+   "book_page": 32,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ ও উত্তপ্ত পানি",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "উত্তপ্ত পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থো ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "P₂O₅ + 3H₂O → 2H₃PO₄",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "P₂O₅ ফসফরিক এসিডের অ্যানহাইড্রাইড।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "তাপোৎপাদী বিক্রিয়া।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-134",
+   "chapter_no": 1,
+   "section_no": "1.32",
+   "section_title_bn": "ফসফরাস পেন্টঅক্সাইড",
+   "book_page": 32,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ ও ঠান্ডা NaOH",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম মেটাফসফেট",
+     "formula": "NaPO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₅ + 2NaOH → 2NaPO₃ + H₂O",
+   "conditions": "শীতল অবস্থা",
+   "observations_bn": "ঠান্ডায় মেটাফসফেট হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-135",
+   "chapter_no": 1,
+   "section_no": "1.32",
+   "section_title_bn": "ফসফরাস পেন্টঅক্সাইড",
+   "book_page": 32,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ ও উত্তপ্ত NaOH",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফসফেট",
+     "formula": "Na₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₅ + 6NaOH → 2Na₃PO₄ + 3H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "গরম অবস্থায় সম্পূর্ণ ফসফেট হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-136",
+   "chapter_no": 1,
+   "section_no": "1.32",
+   "section_title_bn": "ফসফরাস পেন্টঅক্সাইড",
+   "book_page": 32,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ দ্বারা গাঢ় H₂SO₄-এর নিরুদন",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "মেটা ফসফরিক এসিড",
+     "formula": "HPO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₅ + H₂SO₄ → SO₃ + 2HPO₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "নিরুদক হিসেবে P₂O₅ এসিড থেকে পানি সরিয়ে অ্যানহাইড্রাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ক্ষয়কারী ও বিষাক্ত বাষ্প।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-137",
+   "chapter_no": 1,
+   "section_no": "1.34",
+   "section_title_bn": "ফসফোনিক এসিড বা অর্থো ফসফরাস এসিড",
+   "book_page": 33,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₃PO₃ দ্বারা Cu²⁺-এর বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "কপার(II) সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফোনিক এসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "CuSO₄ + H₃PO₃ + H₂O → Cu + H₃PO₄ + H₂SO₄",
+   "conditions": "কক্ষ তাপমাত্রা বা মৃদু উষ্ণ",
+   "observations_bn": "লালচে কপার জমে; H₃PO₃ বিজারক।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuSO₄ দ্রবণ",
+    "H₃PO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-138",
+   "chapter_no": 1,
+   "section_no": "1.34",
+   "section_title_bn": "ফসফোনিক এসিড বা অর্থো ফসফরাস এসিড",
+   "book_page": 33,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₃PO₃ দ্বারা Ag⁺-এর বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফোনিক এসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2AgNO₃ + H₃PO₃ + H₂O → 2Ag + H₃PO₄ + 2HNO₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "ধূসর/কালো সিলভার জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgNO₃ দ্রবণ",
+    "H₃PO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-139",
+   "chapter_no": 1,
+   "section_no": "1.35",
+   "section_title_bn": "ফসফরিক (V) এসিড বা অর্থো ফসফরিক এসিড",
+   "book_page": 33,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাইট থেকে অর্থো ফসফরিক এসিড",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফসফেট",
+     "formula": "Ca₃(PO₄)₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম সালফেট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ca₃(PO₄)₂ + 3H₂SO₄ → 2H₃PO₄ + 3CaSO₄",
+   "equation_printed": "Ca₃(PO₄)₂ + 3H₂SO₄ → 2H₃PO₄ + 3CaSO₄",
+   "conditions": "শিল্পে গরম",
+   "observations_bn": "CaSO₄ ছেঁকে ফেলে প্রায় 85% ফসফরিক এসিড বাষ্পীভবনে পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-140",
+   "chapter_no": 1,
+   "section_no": "1.35",
+   "section_title_bn": "ফসফরিক (V) এসিড বা অর্থো ফসফরিক এসিড",
+   "book_page": 33,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "H₃PO₄ ও NaOH: প্রাইমারি লবণ",
+   "reactants": [
+    {
+     "name_bn": "অর্থো ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ডাইহাইড্রোজেন ফসফেট",
+     "formula": "NaH₂PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₃PO₄ + NaOH → NaH₂PO₄ + H₂O",
+   "conditions": "1:1 মোল অনুপাত",
+   "observations_bn": "অম্লীয় লবণ গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-141",
+   "chapter_no": 1,
+   "section_no": "1.35",
+   "section_title_bn": "ফসফরিক (V) এসিড বা অর্থো ফসফরিক এসিড",
+   "book_page": 33,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "H₃PO₄ ও NaOH: সেকেন্ডারি লবণ",
+   "reactants": [
+    {
+     "name_bn": "অর্থো ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইসোডিয়াম হাইড্রোজেন ফসফেট",
+     "formula": "Na₂HPO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₃PO₄ + 2NaOH → Na₂HPO₄ + 2H₂O",
+   "conditions": "1:2 মোল অনুপাত",
+   "observations_bn": "প্রশম লবণ গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-142",
+   "chapter_no": 1,
+   "section_no": "1.35",
+   "section_title_bn": "ফসফরিক (V) এসিড বা অর্থো ফসফরিক এসিড",
+   "book_page": 33,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "H₃PO₄ ও NaOH: টারসিয়ারি লবণ",
+   "reactants": [
+    {
+     "name_bn": "অর্থো ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ট্রাইসোডিয়াম ফসফেট",
+     "formula": "Na₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₃PO₄ + 3NaOH → Na₃PO₄ + 3H₂O",
+   "conditions": "1:3 মোল অনুপাত",
+   "observations_bn": "ক্ষারীয় লবণ গঠিত হয়; ত্রিক্ষারীয় এসিডের তিন ধাপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-143",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 34,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সুপার ফসফেটের উৎপাদন ধাপ ১: ফসফরাইট ও H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফসফেট",
+     "formula": "Ca₃(PO₄)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সালফেট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Ca₃(PO₄)₂ + 3H₂SO₄ → 3CaSO₄ + 2H₃PO₄",
+   "conditions": "70% H₂SO₄",
+   "observations_bn": "খনিজ ফসফেটে H₂SO₄ মিশিয়ে সার তৈরির প্রাথমিক বিক্রিয়া।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-144",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 34,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সুপার ফসফেট: অবশিষ্ট ফসফেটের ফসফরিক এসিডে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফসফেট",
+     "formula": "Ca₃(PO₄)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ডাইহাইড্রোজেন ফসফেট",
+     "formula": "Ca(H₂PO₄)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ca₃(PO₄)₂ + 4H₃PO₄ → 3Ca(H₂PO₄)₂",
+   "conditions": "সুপার ফসফেট/TSP উৎপাদন",
+   "observations_bn": "অদ্রবণীয় ফসফেট দ্রবণীয় মনোক্যালসিয়াম ফসফেটে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-145",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 34,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফসফেট খনিজে CaCO₃ ও H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সালফেট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "CO₂ বের হয়; জিপসাম গঠনে ভূমিকা রাখে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-146",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 34,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফেট খনিজে CaF₂ ও H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফ্লোরাইড",
+     "formula": "CaF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সালফেট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaF₂ + H₂SO₄ → CaSO₄ + 2HF",
+   "conditions": "শিল্প",
+   "observations_bn": "HF গ্যাস নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HF অত্যন্ত বিষাক্ত ও ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-147",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 34,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সুপার ফসফেটের গঠন ও জমাট বাঁধা",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ডাইহাইড্রোজেন ফসফেট",
+     "formula": "Ca(H₂PO₄)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম সালফেট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সুপার ফসফেট",
+     "formula": "Ca(H₂PO₄)₂·H₂O + 2(CaSO₄·2H₂O)",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ca(H₂PO₄)₂ + 2CaSO₄ + 5H₂O → Ca(H₂PO₄)₂·H₂O + 2(CaSO₄·2H₂O)",
+   "conditions": "শিল্প",
+   "observations_bn": "জিপসামসহ শক্ত মিশ্রণ তৈরি হয়, যা গুঁড়া করে সার হিসেবে বিক্রি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-148",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 34,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "TSP: CaF₂ ও H₃PO₄",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফ্লোরাইড",
+     "formula": "CaF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ডাইহাইড্রোজেন ফসফেট",
+     "formula": "Ca(H₂PO₄)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaF₂ + 2H₃PO₄ → Ca(H₂PO₄)₂ + 2HF",
+   "conditions": "TSP উৎপাদন",
+   "observations_bn": "ফসফরাইটের CaF₂ অংশ প্রাইমারি ফসফেটে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HF বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-149",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 34,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "TSP: CaCO₃ ও H₃PO₄",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ডাইহাইড্রোজেন ফসফেট",
+     "formula": "Ca(H₂PO₄)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ + 2H₃PO₄ → Ca(H₂PO₄)₂ + H₂O + CO₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "CO₂ বুদবুদ ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-150",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 34,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়াম সুপার ফসফেট নাইট্রেট",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফসফেট",
+     "formula": "Ca₃(PO₄)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ডাইহাইড্রোজেন ফসফেট",
+     "formula": "Ca(H₂PO₄)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম নাইট্রেট",
+     "formula": "Ca(NO₃)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ca₃(PO₄)₂ + 4HNO₃ → Ca(H₂PO₄)₂ + 2Ca(NO₃)₂",
+   "conditions": "শিল্প",
+   "observations_bn": "ফসফেট ও নাইট্রেটের মিশ্র সার তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-151",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 35,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "DAP উৎপাদন ধাপ ১: ফসফেট খনিজ ও H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "ফ্লোরাপ্যাটাইট",
+     "formula": "3Ca₃(PO₄)₂·CaF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিপসাম",
+     "formula": "CaSO₄·2H₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "equation": "3Ca₃(PO₄)₂·CaF₂ + 10H₂SO₄ + 20H₂O → 10CaSO₄·2H₂O + 6H₃PO₄ + 2HF",
+   "conditions": "প্রায় 8 ঘণ্টা মেশানো, পরে ফিল্টার",
+   "observations_bn": "জিপসাম ছেঁকে বাদ দিয়ে গাঢ় ফসফরিক এসিড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HF বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-152",
+   "chapter_no": 1,
+   "section_no": "1.36",
+   "section_title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "book_page": 35,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "DAP উৎপাদন ধাপ ২: H₃PO₄ ও NH₃",
+   "reactants": [
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইঅ্যামোনিয়াম ফসফেট",
+     "formula": "(NH₄)₂HPO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "6H₃PO₄ + 12NH₃ → 6(NH₄)₂HPO₄",
+   "conditions": "শিল্প",
+   "observations_bn": "DAP সারে প্রায় 20–30% P ও 16–18% N থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-01-153",
+   "chapter_no": 1,
+   "section_no": "1.37",
+   "section_title_bn": "কৃষি বিজ্ঞানে নাইট্রোজেন ও ফসফরাস যৌগের গুরুত্ব",
+   "book_page": 35,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইউরিয়া উৎপাদন (অ্যামোনিয়া ও CO₂)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম কার্বামেট",
+     "formula": "H₂N·COO·NH₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইউরিয়া",
+     "formula": "H₂N·CO·NH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NH₃ + CO₂ ⇌ H₂N·COO·NH₄ ⇌ H₂N·CO·NH₂ + H₂O",
+   "conditions": "170–200°C, 100–300 atm",
+   "observations_bn": "প্রথমে কার্বামেট, পরে পানি বিমুক্ত হয়ে ইউরিয়া পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 1,
+   "no": "1.1",
+   "title_bn": "ভূমিকা",
+   "start_page": 4
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.2",
+   "title_bn": "গ্রুপ-VA মৌলসমূহের পর্যায়ভিত্তিক ধর্ম",
+   "start_page": 4
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.3",
+   "title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "start_page": 5
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.4",
+   "title_bn": "নাইট্রোজেন ও ফসফরাসের মধ্যে তুলনা",
+   "start_page": 9
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.5",
+   "title_bn": "পর্যায় সারণিতে অবস্থান ও বন্ধন গঠনে N ও P",
+   "start_page": 10
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.6",
+   "title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "start_page": 11
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.7",
+   "title_bn": "নাইট্রোজেনের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "start_page": 11
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.8",
+   "title_bn": "ফসফরাসের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "start_page": 13
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.9",
+   "title_bn": "নাইট্রোজেনের হাইড্রাইডসমূহ",
+   "start_page": 14
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.10",
+   "title_bn": "অ্যামোনিয়ার শিল্পোৎপাদন",
+   "start_page": 14
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.11",
+   "title_bn": "পরীক্ষাগারে অ্যামোনিয়া প্রস্তুতি",
+   "start_page": 15
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.12",
+   "title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "start_page": 16
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.13",
+   "title_bn": "নেসলার দ্রবণ",
+   "start_page": 18
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.13.1",
+   "title_bn": "অ্যামোনিয়ার ব্যবহার",
+   "start_page": 18
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.14",
+   "title_bn": "নাইট্রোজেনের অক্সাইডসমূহ",
+   "start_page": 18
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.15",
+   "title_bn": "নাইট্রাস অক্সাইড বা ডাইনাইট্রোজেন অক্সাইড",
+   "start_page": 19
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.16",
+   "title_bn": "নাইট্রিক অক্সাইড বা নাইট্রোজেন মনোক্সাইড",
+   "start_page": 19
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.17",
+   "title_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+   "start_page": 20
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.18",
+   "title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "start_page": 21
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.19",
+   "title_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+   "start_page": 22
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.20",
+   "title_bn": "নাইট্রোজেনের অক্সো এসিডসমূহ",
+   "start_page": 22
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.21",
+   "title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "start_page": 22
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.22",
+   "title_bn": "নাইট্রিক এসিড",
+   "start_page": 24
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.23",
+   "title_bn": "নাইট্রিক এসিডের শিল্পোৎপাদন",
+   "start_page": 24
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.24",
+   "title_bn": "বাণিজ্যিক নাইট্রিক এসিডের শ্রেণীবিভাগ",
+   "start_page": 25
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.25",
+   "title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "start_page": 25
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.26",
+   "title_bn": "নাইট্রিক এসিডের ব্যবহার",
+   "start_page": 29
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.27",
+   "title_bn": "নাইট্রেট লবণ",
+   "start_page": 29
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.28",
+   "title_bn": "নাইট্রেট মূলকের পরীক্ষা",
+   "start_page": 30
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.29",
+   "title_bn": "সার হিসেবে নাইট্রেট লবণের গুরুত্ব",
+   "start_page": 30
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.30",
+   "title_bn": "ফসফরাসের অক্সাইড",
+   "start_page": 31
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.31",
+   "title_bn": "ফসফরাস ট্রাইঅক্সাইড",
+   "start_page": 31
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.32",
+   "title_bn": "ফসফরাস পেন্টঅক্সাইড",
+   "start_page": 32
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.33",
+   "title_bn": "ফসফরাসের অক্সো এসিডসমূহ",
+   "start_page": 32
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.34",
+   "title_bn": "ফসফোনিক এসিড বা অর্থো ফসফরাস এসিড",
+   "start_page": 33
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.35",
+   "title_bn": "ফসফরিক (V) এসিড বা অর্থো ফসফরিক এসিড",
+   "start_page": 33
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.36",
+   "title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "start_page": 34
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.37",
+   "title_bn": "কৃষি বিজ্ঞানে নাইট্রোজেন ও ফসফরাস যৌগের গুরুত্ব",
+   "start_page": 35
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "PDF 15-16 = contents, 17 = title, 18 = chapter-1 opener (printed 3). Equations atom-balanced by hand; unbalanced printed forms noted in equation_printed. Passivation of Fe/Cr/Al by conc. HNO3 and half-equation/mechanism blocks (nascent-oxygen theory) not recorded as items."
+}

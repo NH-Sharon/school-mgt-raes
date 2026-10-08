@@ -1,0 +1,360 @@
+{
+ "book": "NCTB রসায়ন প্রথম পত্র, একাদশ-দ্বাদশ শ্রেণি (Chemistry First Part Class 11)",
+ "chunk_pdf_pages": [
+  38,
+  72
+ ],
+ "page_offset_note": "printed page = pdf page - 0",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-02-01",
+   "chapter_no": 1,
+   "section_no": "1.8.1",
+   "section_title_bn": "ল্যাবরেটরিতে বিভিন্ন রিয়েজেন্ট প্রস্তুতি",
+   "book_page": 44,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "০.১ M আদর্শ রিয়েজেন্ট দ্রবণ প্রস্তুতি (১০০ mL)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp; দ্রবণ প্রস্তুতি (বিক্রিয়া নয়)",
+   "observations_bn": "বিক্রিয়া নেই; নির্দিষ্ট ভর দ্রবীভূত করে ১০০ mL-এ ০.১ M দ্রবণ হয়।",
+   "procedure_bn": [
+    "সারণিতে দেওয়া ভর মেপে নাও",
+    "পাতিত পানিতে দ্রবীভূত করে ১০০ mL আয়তনে আনো",
+    "রিয়েজেন্ট বোতলে লেবেলসহ রাখো"
+   ],
+   "quantities_bn": "প্রতি ১০০ mL ০.১ M দ্রবণে: Na₂CO₃ 1.06 g; NaOH 0.4 g; HCl 0.365 g; HNO₃ 0.63 g; H₂SO₄ 0.98 g; অক্সালিক এসিড 1.26 g; K₂Cr₂O₇ 2.94 g; KMnO₄ 0.316 g; AgNO₃ 1.70 g; Ba(NO₃)₂ 2.61 g; K₄[Fe(CN)₆] 3.6825 g; K₃[Fe(CN)₆] 3.2915 g; (NH₄)₂C₂O₄ 1.24 g; NH₄CNS 0.6 g; K₂H₂Sb₂O₇ 4.3573 g",
+   "materials_bn": [
+    "মাপক ফ্লাস্ক/বিকার",
+    "পাতিত পানি",
+    "রিয়েজেন্ট বোতল"
+   ],
+   "safety_bn": "এসিড-ক্ষার সতর্কতার সাথে নাড়াচাড়া করো",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-02-02",
+   "chapter_no": 1,
+   "section_no": "1.8.1",
+   "section_title_bn": "ল্যাবরেটরিতে বিভিন্ন রিয়েজেন্ট প্রস্তুতি",
+   "book_page": 44,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "মিথাইল অরেঞ্জ নির্দেশক প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল অরেঞ্জ",
+     "formula": "C₁₄H₁₄N₃SO₃Na",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "warm (গরম পানিতে দ্রবীভূত)",
+   "observations_bn": "ক্ষারীয় মাধ্যমে হলুদ, এসিডীয় মাধ্যমে গোলাপি-লাল বর্ণ দেয়।",
+   "procedure_bn": [
+    "১৫০ mL পানি ফুটন্ত অবস্থায় আনো",
+    "০.১ g মিথাইল অরেঞ্জ গুঁড়া মেশাও",
+    "ঠান্ডা করে বোতলে কক বন্ধ করে রাখো"
+   ],
+   "quantities_bn": "১৫০ mL পানিতে ০.১ g মিথাইল অরেঞ্জ",
+   "materials_bn": [
+    "মিথাইল অরেঞ্জ",
+    "পাতিত পানি",
+    "বিকার",
+    "রিয়েজেন্ট বোতল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-02-03",
+   "chapter_no": 1,
+   "section_no": "1.8.1",
+   "section_title_bn": "ল্যাবরেটরিতে বিভিন্ন রিয়েজেন্ট প্রস্তুতি",
+   "book_page": 44,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ফেনলফথ্যালিন নির্দেশক প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ফেনলফথ্যালিন",
+     "formula": "C₂₀H₁₄O₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "মিথিলেটেড স্পিরিট",
+     "formula": "",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "warm",
+   "observations_bn": "pH ৮.২-এর উপরে গোলাপি; অম্লীয় মাধ্যমে বর্ণহীন।",
+   "procedure_bn": [
+    "৫০ mL মিথিলেটেড স্পিরিটে ০.৫ g ফেনলফথ্যালিন মেশাও",
+    "ধীরে গরম করে দ্রবীভূত করো",
+    "ঠান্ডা করে পাতিত পানি যোগ করে ২৫০ mL করো",
+    "বোতলে সংরক্ষণ করো"
+   ],
+   "quantities_bn": "৫০ mL মিথিলেটেড স্পিরিট, ০.৫ g ফেনলফথ্যালিন, মোট ২৫০ mL",
+   "materials_bn": [
+    "ফেনলফথ্যালিন",
+    "মিথিলেটেড স্পিরিট",
+    "পাতিত পানি",
+    "পরিমাপক বিকার"
+   ],
+   "safety_bn": "স্পিরিট দাহ্য, আগুন থেকে দূরে রাখো",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-02-04",
+   "chapter_no": 1,
+   "section_no": "1.11.2",
+   "section_title_bn": "রাসায়নিক দ্রব্যের পরিমিত ব্যবহারের গুরুত্ব",
+   "book_page": 57,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "থায়োঅ্যাসিটামাইডের আর্দ্রবিশ্লেষণে H₂S উৎপাদন",
+   "reactants": [
+    {
+     "name_bn": "থায়োঅ্যাসিটামাইড",
+     "formula": "CH₃CSNH₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CSNH₂ + H₂O → CH₃CONH₂ + H₂S↑",
+   "conditions": "warm (পানিগাহে উত্তপ্ত করলে বিক্রিয়া দ্রুত হয়)",
+   "observations_bn": "H₂S গ্যাস নির্গত হয়, প্রায় সবটাই দ্রবণে থেকে বিক্রিয়ায় অংশ নেয়।",
+   "procedure_bn": [
+    "থায়োঅ্যাসিটামাইড দ্রবণ নাও",
+    "উত্তপ্ত পানিগাহে গরম করে বিক্রিয়া ত্বরান্বিত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "থায়োঅ্যাসিটামাইড",
+    "পানি",
+    "পানিগাহ"
+   ],
+   "safety_bn": "H₂S বিষাক্ত, ফিউম হুডে কাজ করা ভালো",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 1,
+   "no": "1.7.2",
+   "title_bn": "বুনসেন বার্নার দ্বারা টেস্টটিউবে তাপ দেওয়ার কৌশল",
+   "start_page": 38
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.7.3",
+   "title_bn": "বিকারে তাপ দেওয়ার কৌশল",
+   "start_page": 39
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.7.4",
+   "title_bn": "গোলতলি ফ্লাস্কে তাপ দেওয়ার কৌশল",
+   "start_page": 40
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.7.5",
+   "title_bn": "কনিক্যাল ফ্লাস্কে তাপ দেওয়ার কৌশল",
+   "start_page": 40
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.7.6",
+   "title_bn": "পোর্সেলিন বাটি এবং ওয়াটার বাথে তাপ দেওয়ার কৌশল",
+   "start_page": 41
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.8",
+   "title_bn": "রিয়েজেন্ট বোতলের ব্যবহার কৌশল",
+   "start_page": 42
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.8.1",
+   "title_bn": "ল্যাবরেটরিতে বিভিন্ন রিয়েজেন্ট প্রস্তুতি",
+   "start_page": 43
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.9",
+   "title_bn": "রাসায়নিক দ্রব্য সংরক্ষণ ও ব্যবহার সতর্কতা",
+   "start_page": 45
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.10",
+   "title_bn": "ব্যবহৃত রাসায়নিক দ্রব্যের নিরাপদ সংরক্ষণ, ব্যবহার ও পরিত্যাগ",
+   "start_page": 50
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.10.1",
+   "title_bn": "রাসায়নিক দ্রব্যের নিরাপদ সংরক্ষণ",
+   "start_page": 50
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.10.2",
+   "title_bn": "রাসায়নিক দ্রব্যের ব্যবহার ও ব্যবহারে সতর্কতা",
+   "start_page": 51
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.10.3",
+   "title_bn": "ব্যবহৃত রাসায়নিক দ্রব্যের পরিত্যাগ",
+   "start_page": 52
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.11",
+   "title_bn": "পরিবেশের উপর ল্যাবরেটরিতে ব্যবহৃত রাসায়নিক দ্রব্যের প্রভাব ও পরিমিত ব্যবহারের গুরুত্ব",
+   "start_page": 53
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.11.1",
+   "title_bn": "পরিবেশের উপর ল্যাবরেটরিতে ব্যবহৃত রাসায়নিক দ্রব্যের প্রভাব",
+   "start_page": 53
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.11.2",
+   "title_bn": "রাসায়নিক দ্রব্যের পরিমিত ব্যবহারের গুরুত্ব",
+   "start_page": 57
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.12",
+   "title_bn": "সেমি-মাইক্রো এবং অ্যানালিটিক্যাল পদ্ধতি",
+   "start_page": 58
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.12.1",
+   "title_bn": "ম্যাক্রো বিশ্লেষণ পদ্ধতি",
+   "start_page": 58
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.12.2",
+   "title_bn": "সেমি-মাইক্রো বিশ্লেষণ পদ্ধতি",
+   "start_page": 58
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.12.3",
+   "title_bn": "মাইক্রো অ্যানালিসিস পদ্ধতি",
+   "start_page": 59
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.13",
+   "title_bn": "ল্যাবরেটরি নিরাপত্তা সামগ্রী ও ব্যবহার বিধি",
+   "start_page": 61
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.14",
+   "title_bn": "প্রাথমিক চিকিৎসা ও ফার্স্ট এইড বক্স ব্যবহার বিধি",
+   "start_page": 64
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.14.1",
+   "title_bn": "ফার্স্ট এইড বক্সের উপাদান",
+   "start_page": 64
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.14.2",
+   "title_bn": "প্রাথমিক চিকিৎসা ও ফার্স্ট এইড বক্স ব্যবহার বিধি",
+   "start_page": 65
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.14.3",
+   "title_bn": "প্রাথমিক চিকিৎসার লক্ষ্য",
+   "start_page": 66
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Entire chunk is Chapter 1 (lab safety); almost no reactions. Section numbers given in Latin digits (book prints Bangla digits). Pages 68-72 are exercises (skipped). Skipped items with no printed equation: acid-waste neutralisation with Na2CO3 (p52-53), NaHCO3/H3BO3 first-aid neutralisation (p66), Al passivation by HNO3 (p51). Item 03 conditions/procedure partly legible (highlighted text)."
+}

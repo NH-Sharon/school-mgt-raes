@@ -1,0 +1,485 @@
+{
+ "book": "NCTB Chemistry First Paper Class 11",
+ "chunk_pdf_pages": [
+  388,
+  422
+ ],
+ "page_offset_note": "printed page = pdf page + 2",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-12-1",
+   "chapter_no": 3,
+   "section_no": "3.25.2",
+   "section_title_bn": "পানির ডাইপোলের উপস্থিতি প্রমাণ",
+   "book_page": 395,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "চার্জিত দণ্ড দিয়ে পানির ডাইপোল পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "চার্জিত এবোনাইট দণ্ড কাছে আনলে পানির ধারা দণ্ডের দিকে বেঁকে যায়; এতে পানির অণুর দুই প্রান্তে বিপরীত আংশিক চার্জ প্রমাণিত হয়।",
+   "procedure_bn": [
+    "ব্যুরেটে ৫০ mL পানি ভরে স্টপকক খুলে ধীরে ধারা ফেলা",
+    "ধারার কাছে চার্জিত দণ্ড নেওয়া",
+    "ধারা কোন দিকে বেঁকে যায় লক্ষ করা"
+   ],
+   "quantities_bn": "ব্যুরেটে ৫০ mL পানি; পানির ডাইপোল মোমেন্ট 1.85 D",
+   "materials_bn": [
+    "ব্যুরেট ও স্ট্যান্ড",
+    "পানি",
+    "বিকার",
+    "চার্জিত এবোনাইট দণ্ড"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইয়ে রাসায়নিক সমীকরণ নেই; এটি ভৌত পরীক্ষা।"
+  },
+  {
+   "id": "k11-12-2",
+   "chapter_no": 3,
+   "section_no": "3.27",
+   "section_title_bn": "হাইড্রোজেন বন্ধন",
+   "book_page": 399,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "HF-এর KOH-এর সাথে বিক্রিয়ায় KHF₂ গঠন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন ফ্লুরাইড (ডাইমার)",
+     "formula": "H₂F₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম বাইফ্লুরাইড",
+     "formula": "KHF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂F₂ + KOH → KHF₂ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "H-বন্ধনের কারণে HF ডাইমার H₂F₂ দেয়; তা ক্ষারের সাথে অম্ল লবণ KHF₂ গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-12-3",
+   "chapter_no": 3,
+   "section_no": "3.27",
+   "section_title_bn": "হাইড্রোজেন বন্ধন",
+   "book_page": 399,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "HF ডাইমারের আয়নন ও HF₂⁻ গঠন",
+   "reactants": [
+    {
+     "name_bn": "ডাইমার হাইড্রোজেন ফ্লুরাইড",
+     "formula": "H₂F₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বাইফ্লুরাইড আয়ন",
+     "formula": "HF₂⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂F₂ ⇌ H⁺ + HF₂⁻",
+   "equation_printed": "H₂F₂ ⇌ H⁺ + [F····H—F]⁻ ⇌ H⁺ + HF₂⁻",
+   "conditions": "room temp (জলীয় দ্রবণ)",
+   "observations_bn": "H-বন্ধনযুক্ত F⁻···HF আয়ন স্থিতিশীল হওয়ায় সামান্য আয়নন ঘটে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-12-4",
+   "chapter_no": 3,
+   "section_no": "3.27",
+   "section_title_bn": "হাইড্রোজেন বন্ধন",
+   "book_page": 402,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "KF থেকে KHF₂ গঠনের ধাপ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ফ্লুরাইড",
+     "formula": "KF",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লুরাইড",
+     "formula": "HF",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম বাইফ্লুরাইড",
+     "formula": "KHF₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "KF → K⁺ + F⁻; F⁻ + HF → HF₂⁻; K⁺ + HF₂⁻ → KHF₂ (মোট: KF + HF → KHF₂)",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "F⁻ আয়ন HF-এর সাথে H-বন্ধনে HF₂⁻ গঠন করে এবং K⁺-এর সাথে KHF₂ হয়; Cl-এর ক্ষেত্রে এমন হয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "ধাপগুলো বইয়ে ছাপা; মোট সমীকরণটি যোগ করে লেখা।"
+  },
+  {
+   "id": "k11-12-5",
+   "chapter_no": 3,
+   "section_no": "3.28",
+   "section_title_bn": "H₂O ও H₂S-এর বন্ধন, হাইড্রোজেন বন্ধন এবং ভ্যান্ডার ওয়ালস বলের তুলনা",
+   "book_page": 409,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CuSO₄·5H₂O-এর কেলাস পানি অপসারণ",
+   "reactants": [
+    {
+     "name_bn": "কপার(II) সালফেট পেন্টাহাইড্রেট",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিরুদ কপার(II) সালফেট",
+     "formula": "CuSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CuSO₄·5H₂O → CuSO₄ + 5H₂O↑",
+   "conditions": "heat (4 H₂O 150-200 °C-এ, শেষ H₂O 260 °C-এ)",
+   "observations_bn": "বইয়ে শুধু বলা আছে ৪টি পানি ১৫০-২০০ °C-এ ও শেষটি ২৬০ °C-এ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "সমীকরণ বইয়ে ছাপা নেই; তাপমাত্রা বইয়ের তথ্য।"
+  },
+  {
+   "id": "k11-12-6",
+   "chapter_no": 3,
+   "section_no": "3.30",
+   "section_title_bn": "অজৈব যৌগের নামকরণ",
+   "book_page": 414,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ + পানি থেকে অর্থো-ফসফরিক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থো-ফসফরিক অ্যাসিড",
+     "formula": "H₃PO₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₅ + 3H₂O → 2H₃PO₄",
+   "conditions": "room temp",
+   "observations_bn": "বেশি পানি যুক্ত হলে অর্থো অ্যাসিড তৈরি হয় (নামকরণের উদাহরণ)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-12-7",
+   "chapter_no": 3,
+   "section_no": "3.30",
+   "section_title_bn": "অজৈব যৌগের নামকরণ",
+   "book_page": 414,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ + পানি থেকে পাইরো-ফসফরিক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পাইরো-ফসফরিক অ্যাসিড",
+     "formula": "H₄P₂O₇",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₅ + 2H₂O → H₄P₂O₇",
+   "conditions": "room temp",
+   "observations_bn": "মাঝারি পরিমাণ পানিতে পাইরো অ্যাসিড পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-12-8",
+   "chapter_no": 3,
+   "section_no": "3.30",
+   "section_title_bn": "অজৈব যৌগের নামকরণ",
+   "book_page": 414,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ + পানি থেকে মেটা-ফসফরিক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মেটা-ফসফরিক অ্যাসিড",
+     "formula": "HPO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₅ + H₂O → 2HPO₃",
+   "conditions": "room temp",
+   "observations_bn": "কম পানিতে মেটা অ্যাসিড গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-12-9",
+   "chapter_no": 3,
+   "section_no": "3.30",
+   "section_title_bn": "অজৈব যৌগের নামকরণ",
+   "book_page": 414,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফিউরিক অ্যাসিডের পানি অপসারণে পাইরো-সালফিউরিক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পাইরো-সালফিউরিক অ্যাসিড",
+     "formula": "H₂S₂O₇",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2H₂SO₄ → H₂S₂O₇ + H₂O",
+   "equation_printed": "(H₂SO₄)×2 = H₄S₂O₈ —(–H₂O)→ H₂S₂O₇",
+   "conditions": "পানি অপসারণ (–H₂O)",
+   "observations_bn": "দুই অণু অ্যাসিড থেকে এক অণু পানি বাদ গেলে পাইরো অ্যাসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-12-10",
+   "chapter_no": 3,
+   "section_no": "3.30",
+   "section_title_bn": "অজৈব যৌগের নামকরণ",
+   "book_page": 414,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরিক অ্যাসিডের পানি অপসারণে পাইরো-ফসফরিক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "ফসফরিক অ্যাসিড",
+     "formula": "H₃PO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পাইরো-ফসফরিক অ্যাসিড",
+     "formula": "H₄P₂O₇",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2H₃PO₄ → H₄P₂O₇ + H₂O",
+   "equation_printed": "(H₃PO₄)×2 = H₆P₂O₈ —(–H₂O)→ H₄P₂O₇",
+   "conditions": "পানি অপসারণ (–H₂O)",
+   "observations_bn": "দুই অণু থেকে এক অণু পানি বাদ গিয়ে পাইরো অ্যাসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-12-11",
+   "chapter_no": 3,
+   "section_no": "3.30",
+   "section_title_bn": "অজৈব যৌগের নামকরণ",
+   "book_page": 414,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরিক অ্যাসিড থেকে মেটা-ফসফরিক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "ফসফরিক অ্যাসিড",
+     "formula": "H₃PO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মেটা-ফসফরিক অ্যাসিড",
+     "formula": "HPO₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₃PO₄ → HPO₃ + H₂O",
+   "conditions": "পানি অপসারণ (–H₂O)",
+   "observations_bn": "এক অণু অ্যাসিড থেকে এক অণু পানি বাদ গেলে মেটা অ্যাসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 3,
+   "no": "3.25",
+   "title_bn": "শিক্ষার্থীর কাজ : পরীক্ষার মাধ্যমে পানির ডাইপোলের উপস্থিতি প্রমাণ",
+   "start_page": 391
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.25.1",
+   "title_bn": "ডাইপোল ও ডাইপোল মোমেন্ট",
+   "start_page": 391
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.25.2",
+   "title_bn": "পানির ডাইপোলের উপস্থিতি প্রমাণ",
+   "start_page": 395
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.26",
+   "title_bn": "ভ্যান্ডার ওয়ালস বল",
+   "start_page": 396
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.27",
+   "title_bn": "হাইড্রোজেন বন্ধন",
+   "start_page": 398
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.28",
+   "title_bn": "শিক্ষার্থীর কাজ : H₂O এবং H₂S এর বন্ধন, হাইড্রোজেন বন্ধন এবং ভ্যান্ডার ওয়ালস বলের তুলনা",
+   "start_page": 409
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.29",
+   "title_bn": "হাইড্রোজেন বন্ধনের গুরুত্ব",
+   "start_page": 410
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.30",
+   "title_bn": "অজৈব যৌগের নামকরণ",
+   "start_page": 411
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Chunk is entirely chapter 3 (pages 390-424): tail of 3.24 table, dipole/vdW/H-bond theory, nomenclature, summary and exercises (skipped). Worked numeric dipole/ionic-character examples skipped as pure numerical problems."
+}

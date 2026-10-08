@@ -1,0 +1,1180 @@
+{
+ "book": "NCTB Chemistry First Part Class 11 (রসায়ন প্রথম পত্র, একাদশ-দ্বাদশ)",
+ "chunk_pdf_pages": [
+  3,
+  37
+ ],
+ "page_offset_note": "printed page = pdf page - 2 for pdf 3-9 (pdf 3 = printed 1, chapter opener); printed pages 8-9 are absent from the PDF (pdf 9 = printed 7, pdf 10 = printed 10); printed page = pdf page for pdf 10-37",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-01-01",
+   "chapter_no": 1,
+   "section_no": "1.3",
+   "section_title_bn": "ল্যাবরেটরি যন্ত্রপাতি ও গ্লাস সামগ্রী পরিষ্কার করার কৌশল",
+   "book_page": 12,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ক্রোমিক অ্যাসিড দ্রবণ তৈরি (কাচের যন্ত্র পরিষ্কারের জন্য)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ডাইক্রোমেট",
+     "formula": "K₂Cr₂O₇",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্রোমিয়াম(III) সালফেট",
+     "formula": "Cr₂(SO₄)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নবজাত অক্সিজেন",
+     "formula": "[O]",
+     "state": "gas"
+    }
+   ],
+   "equation": "K₂Cr₂O₇ + 4H₂SO₄ → K₂SO₄ + Cr₂(SO₄)₃ + 4H₂O + 3[O]",
+   "conditions": "room temp; exothermic, ice-bath cooling",
+   "observations_bn": "মিশ্রণে প্রচুর তাপ উৎপন্ন হয়; বরফ-শীতল পানিতে বসিয়ে ঠান্ডা রাখতে হয়। দ্রবণ ব্যবহারে ক্রমে সবুজ হলে Cr₂(SO₄)₃ জমে গেছে, আর ব্যবহার করা উচিত নয়।",
+   "procedure_bn": [
+    "250 mL বিকারে 40 mL পাতিত পানিতে 4.0 g K₂Cr₂O₇ গুলে নাও",
+    "বিকারটি বরফ-শীতল পানির বড় পাত্রে বসাও",
+    "কাচদণ্ডে নেড়ে 40 mL 2.0 M H₂SO₄ ধীরে ধীরে মেশাও",
+    "ঠান্ডা দ্রবণ লেবেল দিয়ে রিএজেন্ট বোতলে রাখো"
+   ],
+   "quantities_bn": "K₂Cr₂O₇ 4.0 g; পাতিত পানি 40 mL; 2.0 M H₂SO₄ 40 mL",
+   "materials_bn": [
+    "পটাসিয়াম ডাইক্রোমেট",
+    "2.0 M H₂SO₄",
+    "পাতিত পানি",
+    "250 mL বিকার",
+    "বরফ",
+    "কাচদণ্ড",
+    "ডিজিটাল ব্যালেন্স"
+   ],
+   "safety_bn": "প্রস্তুতিতে প্রচুর তাপ উৎপন্ন হয়; ধীরে মেশাও, কাচদণ্ড ব্যবহার করো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-02",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 25,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "0.1 M-এর কাছাকাছি Na₂CO₃ মোলার দ্রবণ (100 mL) প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "অনার্দ্র সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পাতিত পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট দ্রবণ",
+     "formula": "Na₂CO₃(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂CO₃ → 2Na⁺ + CO₃²⁻",
+   "conditions": "room temp (dissolution)",
+   "observations_bn": "কঠিন Na₂CO₃ পানিতে গুলে স্বচ্ছ দ্রবণ হয়; ফ্লাস্কের দাগ পর্যন্ত পানি দিয়ে আয়তন পূর্ণ করা হয়।",
+   "procedure_bn": [
+    "100 mL আয়তনমিতিক ফ্লাস্ক পাতিত পানিতে ধুয়ে নাও",
+    "ডিজিটাল ব্যালেন্সে 1.06 g Na₂CO₃ মেপে ফানেল দিয়ে ফ্লাস্কে দাও",
+    "ওয়াশ বোতলের পানিতে ফানেল ধুয়ে নিয়ে দ্রবণ করো, দাগ পর্যন্ত পানি দাও",
+    "ছিপি এঁটে ঝাঁকিয়ে লেবেল লাগাও"
+   ],
+   "quantities_bn": "Na₂CO₃ 1.06 g, মোট আয়তন 100 mL; গণনা: 10x/106 M (x = গৃহীত ভর g)",
+   "materials_bn": [
+    "অনার্দ্র Na₂CO₃",
+    "পাতিত পানি",
+    "100 mL আয়তনমিতিক ফ্লাস্ক",
+    "কাচের ফানেল",
+    "ওয়াশ বোতল",
+    "4-ডিজিট ডিজিটাল ব্যালেন্স"
+   ],
+   "safety_bn": "অনার্দ্র Na₂CO₃ সঠিকভাবে মাপো; ফানেল থেকে বাইরে পড়তে দিও না।",
+   "confidence": "inferred",
+   "notes": "Equation is the dissolution step added by extractor; book prints no equation. Section: nearest numbered heading (1.6.3); pages 24-33 carry unnumbered sub-headings in this scan."
+  },
+  {
+   "id": "k11-01-03",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 26,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "মোলাল দ্রবণ প্রস্তুতি (Na₂CO₃)",
+   "reactants": [
+    {
+     "name_bn": "অনার্দ্র সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পাতিত পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট দ্রবণ",
+     "formula": "Na₂CO₃(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂CO₃ → 2Na⁺ + CO₃²⁻",
+   "conditions": "room temp (dissolution)",
+   "observations_bn": "পানিতে Na₂CO₃ গুলে দ্রবণ হয়; মোট আয়তন 100 mL-এর বেশি হতে পারে।",
+   "procedure_bn": [
+    "100 mL আয়তনমিতিক ফ্লাস্কে 100 mL পানি নাও",
+    "10.6 g Na₂CO₃ ঐ পানিতে গুলে নাও"
+   ],
+   "quantities_bn": "100 mL পানি + 10.6 g Na₂CO₃",
+   "materials_bn": [
+    "অনার্দ্র Na₂CO₃",
+    "পাতিত পানি",
+    "আয়তনমিতিক ফ্লাস্ক"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "Equation is the dissolution step added by extractor."
+  },
+  {
+   "id": "k11-01-04",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 32,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "দ্রবণ লঘুকরণ: 0.2 M Na₂CO₃ থেকে 0.05 M (100 mL)",
+   "reactants": [
+    {
+     "name_bn": "0.2 M Na₂CO₃ দ্রবণ",
+     "formula": "Na₂CO₃(aq)",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পাতিত পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "0.05 M Na₂CO₃ দ্রবণ",
+     "formula": "Na₂CO₃(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "V₁M₁ = V₂M₂",
+   "conditions": "room temp",
+   "observations_bn": "রং/অধঃক্ষেপ পরিবর্তন নেই; শুধু ঘনমাত্রা কমে যায়।",
+   "procedure_bn": [
+    "100 mL আয়তনমিতিক ফ্লাস্কে 25 mL 0.2 M Na₂CO₃ নাও",
+    "পাতিত পানি যোগ করে 100 mL দাগ পর্যন্ত পূর্ণ করো"
+   ],
+   "quantities_bn": "V₁ = 100×0.05/0.2 = 25 mL; অন্য উদাহরণ: 10 mL 0.2 M → 40 mL (0.05 M), অতিরিক্ত পানি 30 mL",
+   "materials_bn": [
+    "0.2 M Na₂CO₃",
+    "পাতিত পানি",
+    "100 mL আয়তনমিতিক ফ্লাস্ক",
+    "পিপেট/ব্যুরেট"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-05",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 30,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "HCl ও NaOH-এর প্রশমন (এক-ক্ষারীয় অ্যাসিড)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCl + NaOH → NaCl + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "স্বচ্ছ দ্রবণে প্রশমন বিক্রিয়া হয়; সূচক ব্যবহার করলে প্রশমন বিন্দুতে রং বদলায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-06",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 30,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CH₃COOH ও NaOH-এর প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH + NaOH → CH₃COONa + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "স্বচ্ছ দ্রবণে প্রশমন বিক্রিয়া হয়; সূচক ব্যবহার করলে প্রশমন বিন্দুতে রং বদলায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-07",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 30,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₂SO₄ ও NaOH-এর প্রশমন (দ্বি-ক্ষারীয় অ্যাসিড)",
+   "reactants": [
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O",
+   "conditions": "room temp",
+   "observations_bn": "স্বচ্ছ দ্রবণে প্রশমন বিক্রিয়া হয়; সূচক ব্যবহার করলে প্রশমন বিন্দুতে রং বদলায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-08",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 30,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₃PO₃ ও NaOH-এর প্রশমন (দ্বি-ক্ষারীয়)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস অ্যাসিড",
+     "formula": "H₃PO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইসোডিয়াম হাইড্রোজেন ফসফাইট",
+     "formula": "Na₂HPO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₃PO₃ + 2NaOH → Na₂HPO₃ + 2H₂O",
+   "conditions": "room temp",
+   "observations_bn": "স্বচ্ছ দ্রবণে প্রশমন বিক্রিয়া হয়; সূচক ব্যবহার করলে প্রশমন বিন্দুতে রং বদলায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-09",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 31,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₃PO₄ ও NaOH-এর প্রশমন (ত্রি-ক্ষারীয়)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরিক অ্যাসিড",
+     "formula": "H₃PO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ট্রাইসোডিয়াম ফসফেট",
+     "formula": "Na₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₃PO₄ + 3NaOH → Na₃PO₄ + 3H₂O",
+   "conditions": "room temp",
+   "observations_bn": "স্বচ্ছ দ্রবণে প্রশমন বিক্রিয়া হয়; সূচক ব্যবহার করলে প্রশমন বিন্দুতে রং বদলায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-10",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 31,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₄OH ও HCl-এর প্রশমন (এক-অম্লীয় ক্ষার)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NH₄OH + HCl → NH₄Cl + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "স্বচ্ছ দ্রবণে প্রশমন বিক্রিয়া হয়; সূচক ব্যবহার করলে প্রশমন বিন্দুতে রং বদলায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-11",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 31,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Na₂CO₃ ও HCl-এর বিক্রিয়া (দ্বি-অম্লীয় ক্ষার)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑",
+   "conditions": "room temp",
+   "observations_bn": "CO₂ গ্যাসের বুদবুদ বের হয়; সূচক ব্যবহার করলে প্রশমনে রং বদলায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-12",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 31,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₂SO₄ ও Na₂CO₃-এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂SO₄ + Na₂CO₃ → Na₂SO₄ + H₂O + CO₂↑",
+   "conditions": "room temp",
+   "observations_bn": "CO₂ গ্যাসের বুদবুদ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-13",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 31,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CaO ও HCl-এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CaO + 2HCl → CaCl₂ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "অক্সাইড অম্লে দ্রবীভূত হয়ে লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-14",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 31,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ZnO ও HCl-এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক ক্লোরাইড",
+     "formula": "ZnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "ZnO + 2HCl → ZnCl₂ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "অক্সাইড অম্লে দ্রবীভূত হয়ে লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-15",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 31,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Al₂O₃ ও HCl-এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম অক্সাইড",
+     "formula": "Al₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O",
+   "conditions": "room temp (book gives no conditions; Al₂O₃ may need warming)",
+   "observations_bn": "অক্সাইড অম্লে দ্রবীভূত হয়ে লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-16",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 31,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Fe₂O₃ ও HCl-এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(III) অক্সাইড",
+     "formula": "Fe₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Fe₂O₃ + 6HCl → 2FeCl₃ + 3H₂O",
+   "conditions": "room temp (book gives no conditions; may need warming)",
+   "observations_bn": "অক্সাইড অম্লে দ্রবীভূত হয়ে লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-01-17",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 23,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "ব্যুরেট ব্যবহার করে টাইট্রেশনের কৌশল",
+   "reactants": [
+    {
+     "name_bn": "টাইট্রান্ট (প্রমাণ দ্রবণ)",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "টাইট্রেট দ্রবণ + নির্দেশক",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রশমিত দ্রবণ",
+     "formula": "—",
+     "state": "solution"
+    }
+   ],
+   "equation": "V_A·M_A / x = V_B·M_B / y",
+   "conditions": "room temp",
+   "observations_bn": "প্রশমন বিন্দুতে নির্দেশকের রং হঠাৎ বদলায় (ছবিতে ফ্লাস্কের দ্রবণ গোলাপি হয়ে যায়)।",
+   "procedure_bn": [
+    "ব্যুরেট পানি, তারপর টাইট্রান্ট দিয়ে ধুয়ে স্ট্যান্ডে খাড়া করে আটকাও ও শূন্য দাগে পূর্ণ করো",
+    "ফ্লাস্কে পিপেটে মাপা টাইট্রেট ও 1-2 ফোঁটা নির্দেশক নাও",
+    "বাম হাতে স্টপকক ঘুরিয়ে ফোঁটায় ফোঁটায় টাইট্রান্ট দাও, ডান হাতে ফ্লাস্ক ঘোরাও",
+    "রং বদলালে বন্ধ করে নিম্নতল থেকে পাঠ নাও"
+   ],
+   "quantities_bn": "নিচের তল (lower meniscus) থেকে পাঠ; ব্যুরেটের ক্ষুদ্রতম ভাগ 0.1 mL",
+   "materials_bn": [
+    "ব্যুরেট",
+    "স্ট্যান্ড ও ক্ল্যাম্প",
+    "কনিক্যাল ফ্লাস্ক",
+    "পিপেট",
+    "নির্দেশক",
+    "ফানেল"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "Generic technique, no specific reaction/equation printed here; equation field gives the general titration relation (printed p31)."
+  },
+  {
+   "id": "k11-01-18",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 32,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "টাইট্রেশন: NaOH দ্রবণের ঘনমাত্রা নির্ণয় (HCl দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCl + NaOH → NaCl + H₂O",
+   "conditions": "room temp; indicator",
+   "observations_bn": "প্রশমন বিন্দুতে নির্দেশক রং বদলায়; গণনায় NaOH 0.14375 M পাওয়া যায়।",
+   "procedure_bn": [
+    "10 mL NaOH দ্রবণ ফ্লাস্কে নাও",
+    "ব্যুরেট থেকে 0.115 M HCl যোগ করে প্রশমন করো",
+    "V_A·M_A = V_B·M_B সূত্রে গণনা করো"
+   ],
+   "quantities_bn": "NaOH 10 mL; 0.115 M HCl 12.5 mL লেগেছে; M_B = 12.5×0.115/10 = 0.14375 M",
+   "materials_bn": [
+    "0.115 M HCl",
+    "NaOH দ্রবণ",
+    "ব্যুরেট",
+    "কনিক্যাল ফ্লাস্ক",
+    "নির্দেশক"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "Worked example 1 (p32); indicator not named for this example."
+  },
+  {
+   "id": "k11-01-19",
+   "chapter_no": 1,
+   "section_no": "1.6.3",
+   "section_title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "book_page": 33,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "টাইট্রেশন: Na₂CO₃ দ্রবণের ঘনমাত্রা নির্ণয় (HCl দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2HCl + Na₂CO₃ → 2NaCl + H₂O + CO₂↑",
+   "conditions": "room temp; indicator",
+   "observations_bn": "প্রশমন বিন্দুতে নির্দেশকের রং বদলায়; গণনায় Na₂CO₃ 0.12375 M পাওয়া যায়।",
+   "procedure_bn": [
+    "10 mL Na₂CO₃ ফ্লাস্কে নাও",
+    "ব্যুরেট থেকে 0.15 M HCl যোগ করে প্রশমন করো",
+    "V_A·M_A/2 = V_B·M_B সূত্রে গণনা করো"
+   ],
+   "quantities_bn": "Na₂CO₃ 10 mL; 0.15 M HCl 16.5 mL; M_B = 0.12375 M। উদাহরণ-৩: 1.15 g/mL ঘনত্বের 15% (W/W) HCl-এর 5 mL → 100 mL (0.2363 M); 10 mL Na₂CO₃-এর জন্য 8.5 mL লাগে → 0.1004 M",
+   "materials_bn": [
+    "HCl দ্রবণ",
+    "Na₂CO₃ দ্রবণ",
+    "ব্যুরেট",
+    "কনিক্যাল ফ্লাস্ক",
+    "নির্দেশক"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "Worked examples 2 and 3 (p33); same reaction recorded once."
+  },
+  {
+   "id": "k11-01-20",
+   "chapter_no": 1,
+   "section_no": "1.6.4",
+   "section_title_bn": "পিপেট (Pipette) ব্যবহারের কৌশল",
+   "book_page": 34,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "পিপেট দিয়ে নির্দিষ্ট আয়তনের দ্রবণ স্থানান্তর",
+   "reactants": [
+    {
+     "name_bn": "পরীক্ষাধীন দ্রবণ",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "স্থানান্তরিত দ্রবণ",
+     "formula": "—",
+     "state": "solution"
+    }
+   ],
+   "equation": "—",
+   "conditions": "room temp",
+   "observations_bn": "রাসায়নিক পরিবর্তন নেই; শুধু নির্দিষ্ট আয়তন মেপে স্থানান্তর।",
+   "procedure_bn": [
+    "পিপেট ক্রোমিক অ্যাসিড, পরে পাতিত পানিতে ধুয়ে পরীক্ষাধীন দ্রবণে রিনস করো",
+    "দ্রবণ দাগের ওপরে টেনে তর্জনীতে মুখ বন্ধ করে আঙুল আলগা করে দাগে নামাও",
+    "পিপেটের মুখ কনিক্যাল ফ্লাস্কের দেয়ালে ঠেকিয়ে দ্রবণ ছাড়ো"
+   ],
+   "quantities_bn": "সাধারণত 10 mL ও 20 mL পিপেট; ফিলার (Tri-volve) ব্যবহারে মুখে টানা নিষেধ",
+   "materials_bn": [
+    "পিপেট",
+    "পিপেট ফিলার",
+    "কনিক্যাল ফ্লাস্ক",
+    "ক্রোমিক অ্যাসিড দ্রবণ"
+   ],
+   "safety_bn": "মুখ দিয়ে দ্রবণ টানা যাবে না; ফিলার ব্যবহার করো।",
+   "confidence": "read",
+   "notes": "Technique; no reaction. Filler procedure continues on p35."
+  },
+  {
+   "id": "k11-01-21",
+   "chapter_no": 1,
+   "section_no": "1.7.1",
+   "section_title_bn": "বুনসেন বার্নার ও বার্নারের শিখা (Bunsen Burner and its Flame)",
+   "book_page": 36,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বুনসেন বার্নারের উজ্জ্বল শিখা (অসম্পূর্ণ দহন)",
+   "reactants": [
+    {
+     "name_bn": "জ্বালানি গ্যাস (হাইড্রোকার্বন)",
+     "formula": "CₓHᵧ",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "বায়ুর অক্সিজেন (সীমিত)",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন কণা",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি/অন্যান্য",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "হাইড্রোকার্বন + সীমিত O₂ → C (কার্বন কণা) + H₂O  [গ্যাসের সুনির্দিষ্ট সংকেত বইয়ে নেই]",
+   "conditions": "বায়ু-ছিদ্র বন্ধ; দহন",
+   "observations_bn": "শিখা হলুদ ও উজ্জ্বল; ভাসমান গরম কার্বন কণা আলো দেয়। শিখায় অদহন, অসম্পূর্ণ দহন, ক্ষুদ্র সম্পূর্ণ দহন ও সম্পূর্ণ দহন মণ্ডল থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "Book describes incomplete combustion without a formula; generic form given by extractor. Zones: non-combustion, incomplete, small complete (CO burns, blue), complete."
+  },
+  {
+   "id": "k11-01-22",
+   "chapter_no": 1,
+   "section_no": "1.7.1",
+   "section_title_bn": "বুনসেন বার্নার ও বার্নারের শিখা (Bunsen Burner and its Flame)",
+   "book_page": 37,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বুনসেন বার্নারের অনুজ্জ্বল শিখা (সম্পূর্ণ দহন)",
+   "reactants": [
+    {
+     "name_bn": "জ্বালানি গ্যাস (হাইড্রোকার্বন)",
+     "formula": "CₓHᵧ",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "বায়ুর অক্সিজেন (পর্যাপ্ত)",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CₓHᵧ + O₂ → CO₂ + H₂O  [গ্যাসের সুনির্দিষ্ট সংকেত বইয়ে নেই]",
+   "conditions": "বায়ু-ছিদ্র খোলা; দহন",
+   "observations_bn": "নীলাভ, অনুজ্জ্বল ও খাটো শিখা; ভেতর থেকে বাইরে অন্ধকার, নীলাভ আংশিক দহন ও সম্পূর্ণ দহন মণ্ডল। সম্পূর্ণ দহন মণ্ডল সবচেয়ে গরম, ধাতু শনাক্তকরণে ব্যবহৃত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "Reaction form added by extractor (unbalanced generic scheme; book gives no formula). Cooler dark zone cannot ignite match powder."
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 1,
+   "no": "1.1",
+   "title_bn": "ল্যাবরেটরি ব্যবহার বিধি : পোশাক, নিরাপদ গ্লাস, মাস্ক ও হ্যান্ড গ্লাভস",
+   "start_page": 2
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.1.1",
+   "title_bn": "ল্যাবরেটরিতে শিক্ষার্থীকে অবশ্যই মেনে চলতে হবে এমন বিষয়",
+   "start_page": 4
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.2",
+   "title_bn": "গ্লাস সামগ্রী ব্যবহারের নিরাপদ কৌশল",
+   "start_page": 6
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.3",
+   "title_bn": "ল্যাবরেটরি যন্ত্রপাতি ও গ্লাস সামগ্রী পরিষ্কার করার কৌশল",
+   "start_page": 11
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.4",
+   "title_bn": "পল-বুঙ্গি ব্যালেন্স, ডিজিটাল ব্যালেন্স (২-ডিজিট ও ৪-ডিজিট) ব্যবহারের ক্ষেত্র এবং ব্যবহার বিধি",
+   "start_page": 13
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.4.1",
+   "title_bn": "পল-বুঙ্গি ব্যালেন্স (Paul-Bunge Balance)",
+   "start_page": 13
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.4.2",
+   "title_bn": "ডিজিটাল ব্যালেন্স (2-ডিজিট ও 4-ডিজিট)",
+   "start_page": 16
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.5",
+   "title_bn": "মেজারিং সিলিন্ডার, ব্যুরেট, আয়তনমিতিক ফ্লাস্ক ও পিপেট ব্যবহারের ক্ষেত্র এবং ব্যবহার বিধি",
+   "start_page": 18
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.5.1",
+   "title_bn": "মেজারিং সিলিন্ডার (Measuring Cylinder)",
+   "start_page": 18
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.5.2",
+   "title_bn": "ব্যুরেট (Burette)",
+   "start_page": 19
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.5.3",
+   "title_bn": "আয়তনমিতিক ফ্লাস্ক (Volumetric Flask)",
+   "start_page": 19
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.5.4",
+   "title_bn": "পিপেট (Pipette)",
+   "start_page": 20
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.6",
+   "title_bn": "কনিক্যাল ফ্লাস্ক, ওয়াশ বোতল, ব্যুরেট ও পিপেট ব্যবহারের কৌশল",
+   "start_page": 21
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.6.1",
+   "title_bn": "কনিক্যাল ফ্লাস্ক (Conical Flask) ব্যবহারের কৌশল",
+   "start_page": 21
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.6.2",
+   "title_bn": "ওয়াশ বোতল (Wash bottle) ব্যবহারের কৌশল",
+   "start_page": 22
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.6.3",
+   "title_bn": "ব্যুরেট (Burette) ব্যবহারের কৌশল",
+   "start_page": 23
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.6.4",
+   "title_bn": "পিপেট (Pipette) ব্যবহারের কৌশল",
+   "start_page": 34
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.7",
+   "title_bn": "বুনসেন বার্নার দ্বারা বিভিন্ন যন্ত্রপাতিতে তাপ দেওয়ার কৌশল",
+   "start_page": 35
+  },
+  {
+   "chapter_no": 1,
+   "no": "1.7.1",
+   "title_bn": "বুনসেন বার্নার ও বার্নারের শিখা (Bunsen Burner and its Flame)",
+   "start_page": 35
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Chapter 1 is mostly safety/apparatus/solution-preparation; few true reactions. Pages 24-33 (concentration units, standard substances, acid-base titration theory) show no new numbered heading after 1.6.3 in this scan, so items there carry 1.6.3. Printed pages 8-9 missing from PDF. Worked numerical examples for balances and dilution/ppm skipped except titration/dilution/solution-prep built on lab reactions. Equations marked inferred were added by the extractor (dissolution steps; generic hydrocarbon combustion)."
+}

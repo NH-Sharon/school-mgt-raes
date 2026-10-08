@@ -1,0 +1,5066 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  159,
+  194
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-05-01",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌলের ধর্ম",
+   "book_page": 149,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ভ্যানাডিয়ামের জারণ অবস্থা অনুযায়ী দ্রবণের রঙ বদল",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম মেটাভ্যানাডেট",
+     "formula": "NH₄VO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "জিংক গুঁড়া",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানাডিল আয়ন (V⁴⁺ জাতীয়)",
+     "formula": "VO²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ভ্যানাডাস আয়ন",
+     "formula": "V³⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইপো-ভ্যানাডাস আয়ন",
+     "formula": "V²⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄VO₃ + 3OH⁻ → VO₄³⁻ + 2H₂O + NH₃↑ ; VO₄³⁻ + 4H⁺ → VO₂⁺ + 2H₂O ; VO₂⁺ + 2H⁺ + e⁻ → VO²⁺ + H₂O ; VO²⁺ + 2H⁺ + e⁻ → V³⁺ + H₂O ; V³⁺ + e⁻ → V²⁺",
+   "conditions": "ঘরের তাপমাত্রা, অম্লীয় মাধ্যমে জিংক বিজারক",
+   "observations_bn": "বর্ণহীন ভ্যানাডেট অম্ল করলে হলুদ হয়; জিংক দিয়ে বিজারণে ক্রমে নীল, সবুজ ও শেষে বেগুনি দ্রবণ পাওয়া যায়।",
+   "procedure_bn": [
+    "মেটাভ্যানাডেট গুঁড়া গাঢ় NaOH-এ গলাও",
+    "লঘু H₂SO₄ মিশিয়ে অম্ল করো",
+    "জিংক গুঁড়া দিয়ে নাড়তে থাকো ও রঙের পরিবর্তন দেখো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄VO₃",
+    "NaOH",
+    "লঘু H₂SO₄",
+    "Zn গুঁড়া",
+    "টেস্টটিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "পাতা ১৪৯-১৫০; ধাপে ধাপে অর্ধ-সমীকরণগুলি বইয়ে ছাপা। আয়নের রঙ: VO₂⁺ হলুদ, VO²⁺ নীল, V³⁺ সবুজ, V²⁺ বেগুনি।"
+  },
+  {
+   "id": "k12-05-02",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌলের ধর্ম",
+   "book_page": 150,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অবস্থান্তর ধাতু আয়নের হাইড্রক্সাইড অধঃক্ষেপ (NaOH / NH₄OH)",
+   "reactants": [
+    {
+     "name_bn": "অবস্থান্তর ধাতু লবণের দ্রবণ (Cr³⁺, Mn²⁺, Fe²⁺, Fe³⁺, Co²⁺, Ni²⁺, Cu²⁺, Zn²⁺)",
+     "formula": "Mⁿ⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্ষার দ্রবণ",
+     "formula": "OH⁻",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ধাতব হাইড্রক্সাইড",
+     "formula": "M(OH)ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "Mⁿ⁺(aq) + nOH⁻(aq) → M(OH)ₙ↓",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "রঙ: Cr(OH)₃ সবুজ, Mn(OH)₂ ধূসর, Fe(OH)₂ সবুজ, Fe(OH)₃ বাদামি, Co(OH)₂ গোলাপি, Ni(OH)₂ সবুজ, Cu(OH)₂ হালকা নীল, Zn(OH)₂ সাদা। বেশি NaOH-এ Cr, Co, Zn অধঃক্ষেপ গলে যায় (ক্রোমাইট/কোবাল্টেট/জিংকেট); বেশি NH₃-এ Co, Ni, Cu গলে জটিল আয়ন হয়।",
+   "procedure_bn": [
+    "লবণ দ্রবণে ফোঁটা ফোঁটা NaOH দাও, অধঃক্ষেপের রঙ লেখো",
+    "অতিরিক্ত NaOH দিয়ে অধঃক্ষেপ গলে কি না দেখো",
+    "আলাদা নমুনায় NH₄OH দিয়ে একই পরীক্ষা করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতব লবণ দ্রবণ",
+    "NaOH",
+    "NH₄OH",
+    "টেস্টটিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সারণি ৩.৭; অতিরিক্ত NaOH-এ: Cr→CrO₃³⁻ (বইয়ে ছাপা), Co→Co(OH)₄²⁻, Zn→Zn(OH)₄²⁻। অতিরিক্ত NH₃-এ: [Co(NH₃)₆]²⁺, [Ni(NH₃)₆]²⁺, [Cu(NH₃)₄]²⁺।"
+  },
+  {
+   "id": "k12-05-03",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌলের ধর্ম",
+   "book_page": 150,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফেরিক ক্লোরাইড + NaOH",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক হাইড্রক্সাইড",
+     "formula": "Fe(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeCl₃(aq) + 3NaOH(aq) → Fe(OH)₃↓ + 3NaCl(aq)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "বাদামি অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "FeCl₃ দ্রবণে NaOH দ্রবণ মেশাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeCl₃",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-04",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌলের ধর্ম",
+   "book_page": 150,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্রোমিক ক্লোরাইড + NaOH (অধঃক্ষেপ ও দ্রবণ)",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমিক ক্লোরাইড",
+     "formula": "CrCl₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমিক হাইড্রক্সাইড",
+     "formula": "Cr(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্রোমাইট (বইয়ের সংকেত)",
+     "formula": "Na₃CrO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "CrCl₃(aq) + 3NaOH(aq) → Cr(OH)₃↓ + 3NaCl(aq) ; Cr(OH)₃(s) + 3NaOH(aq) → Na₃CrO₃(aq) + 3H₂O(l)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "সবুজ অধঃক্ষেপ পড়ে; বেশি NaOH দিলে অধঃক্ষেপ গলে যায়।",
+   "procedure_bn": [
+    "CrCl₃ দ্রবণে অল্প NaOH দাও",
+    "অধঃক্ষেপ জমলে আরও NaOH দিয়ে গোলাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CrCl₃",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইয়ে দ্রবীভূত পণ্যের সংকেত Na₃CrO₃ ছাপা; সাধারণ প্রচলিত রূপ [Cr(OH)₄]⁻/[Cr(OH)₆]³⁻ — বইয়ের ছাপা অনুযায়ী রাখা হলো।"
+  },
+  {
+   "id": "k12-05-05",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌলের ধর্ম",
+   "book_page": 151,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "কপার সালফেট + NH₄OH (অধঃক্ষেপ ও জটিল আয়ন)",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউপ্রিক হাইড্রক্সাইড",
+     "formula": "Cu(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "টেট্রাঅ্যামিন কপার (II) সালফেট",
+     "formula": "[Cu(NH₃)₄]SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "CuSO₄(aq) + 2NH₄OH(aq) → Cu(OH)₂↓ + (NH₄)₂SO₄(aq) ; Cu(OH)₂ + (NH₄)₂SO₄ + 2NH₄OH → [Cu(NH₃)₄]SO₄(aq) + 4H₂O",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "প্রথমে হালকা নীল অধঃক্ষেপ, বেশি অ্যামোনিয়ায় গাঢ় নীল দ্রবণ হয়।",
+   "procedure_bn": [
+    "CuSO₄ দ্রবণে অল্প NH₄OH দাও",
+    "আরও NH₄OH দিয়ে অধঃক্ষেপ গলাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuSO₄",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-06",
+   "chapter_no": 3,
+   "section_no": "3.3",
+   "section_title_bn": "অবস্থান্তর ধাতু নিষ্কাশন পদ্ধতি",
+   "book_page": 151,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Fe₂O₃-এর কার্বন-মনোক্সাইড বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "আয়রন (III) অক্সাইড",
+     "formula": "Fe₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লৌহ",
+     "formula": "Fe",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Fe₂O₃(s) + 3CO(g) → 2Fe(l) + 3CO₂(g)",
+   "conditions": "উচ্চ তাপ, কার্বন বিজারণ",
+   "observations_bn": "লৌহ অক্সাইড বিজারিত হয়ে গলিত লৌহ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "শিল্প প্রক্রিয়া; স্কুল ল্যাবে সম্ভব নয়।"
+  },
+  {
+   "id": "k12-05-07",
+   "chapter_no": 3,
+   "section_no": "3.3",
+   "section_title_bn": "অবস্থান্তর ধাতু নিষ্কাশন পদ্ধতি",
+   "book_page": 151,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ZnS থেকে জিংক (তাপজারণ ও কার্বন বিজারণ)",
+   "reactants": [
+    {
+     "name_bn": "জিংক সালফাইড",
+     "formula": "ZnS",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2ZnS(s) + 3O₂(g) → 2ZnO(s) + 2SO₂(g) ; ZnO(s) + C(s) → Zn(l) + CO(g)",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "সালফাইড অক্সাইডে পরিণত হয়, পরে কার্বনে বিজারিত হয়ে জিংক পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-08",
+   "chapter_no": 3,
+   "section_no": "3.3",
+   "section_title_bn": "অবস্থান্তর ধাতু নিষ্কাশন পদ্ধতি",
+   "book_page": 151,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CuFeS₂ থেকে কপার (বইয়ের তিন ধাপ)",
+   "reactants": [
+    {
+     "name_bn": "কপার পাইরাইটস",
+     "formula": "CuFeS₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউপ্রাস সালফাইড",
+     "formula": "Cu₂S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফেরাস অক্সাইড",
+     "formula": "FeO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2CuFeS₂ + 4O₂ → Cu₂S + 2FeO + 3SO₂ ; 2Cu₂S + 3O₂ → 2Cu₂O + 2SO₂ ; 2Cu₂O + Cu₂S → 6Cu + SO₂",
+   "conditions": "উচ্চ তাপ, স্ববিজারণ",
+   "observations_bn": "তাপজারণে SO₂ বের হয়; শেষ ধাপে কিউপ্রাস অক্সাইড ও সালফাইডের মধ্যে স্ববিজারণে গলিত কপার জন্মে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-09",
+   "chapter_no": 3,
+   "section_no": "3.3",
+   "section_title_bn": "অবস্থান্তর ধাতু নিষ্কাশন পদ্ধতি",
+   "book_page": 152,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "TiO₂ থেকে Ti (ক্লোরাইড গঠন ও Mg বিজারণ)",
+   "reactants": [
+    {
+     "name_bn": "টাইটেনিয়াম ডাইঅক্সাইড",
+     "formula": "TiO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টাইটেনিয়াম টেট্রাক্লোরাইড",
+     "formula": "TiCl₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "TiO₂ + C + 2Cl₂ → TiCl₄ + CO₂ ; TiCl₄ + 2Mg → Ti + 2MgCl₂",
+   "equation_printed": "TiO₂ + 2C + 2Cl₂ → TiCl₄ + 2CO₂",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "প্রথমে ক্লোরাইড তৈরি, পরে ম্যাগনেসিয়াম দিয়ে ধাতু বিজারণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "ছাপা সমীকরণে O পরমাণু মেলে না; পাতা ১৫২-র রুটাইল সমীকরণ (TiO₂ + C + 2Cl₂) অনুযায়ী সংশোধিত।"
+  },
+  {
+   "id": "k12-05-10",
+   "chapter_no": 3,
+   "section_no": "3.3",
+   "section_title_bn": "অবস্থান্তর ধাতু নিষ্কাশন পদ্ধতি",
+   "book_page": 152,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "থার্মিট বিজারণ: V₂O₃ + Al",
+   "reactants": [
+    {
+     "name_bn": "ভ্যানাডিয়াম (III) অক্সাইড",
+     "formula": "V₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানাডিয়াম",
+     "formula": "V",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালুমিনা",
+     "formula": "Al₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "V₂O₃(s) + 2Al(s) → 2V(l) + Al₂O₃",
+   "conditions": "উচ্চ তাপ (থার্মিট)",
+   "observations_bn": "Al অক্সাইডকে বিজারিত করে গলিত ধাতু দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-11",
+   "chapter_no": 3,
+   "section_no": "3.5",
+   "section_title_bn": "আকরিক থেকে টাইটেনিয়াম ধাতু নিষ্কাশন",
+   "book_page": 152,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইলমেনাইট থেকে TiCl₄ (ক্লোরিন পদ্ধতি)",
+   "reactants": [
+    {
+     "name_bn": "ইলমেনাইট",
+     "formula": "FeTiO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "টাইটেনিয়াম টেট্রাক্লোরাইড",
+     "formula": "TiCl₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2FeTiO₃ + 3C + 7Cl₂ → 2FeCl₃ + 2TiCl₄ + 3CO₂",
+   "conditions": "360°C",
+   "observations_bn": "TiCl₄ বাষ্প হিসেবে বের হয়ে ঠান্ডা করলে তরল জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইয়ে স্থানাঙ্ক গুণফল ছাপা সমীকরণে স্পষ্ট; ভাগ্ডারে মিলিয়ে নেওয়া হয়েছে।"
+  },
+  {
+   "id": "k12-05-12",
+   "chapter_no": 3,
+   "section_no": "3.5",
+   "section_title_bn": "আকরিক থেকে টাইটেনিয়াম ধাতু নিষ্কাশন",
+   "book_page": 152,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রুটাইল থেকে TiCl₄",
+   "reactants": [
+    {
+     "name_bn": "টাইটেনিয়াম ডাইঅক্সাইড (রুটাইল)",
+     "formula": "TiO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টাইটেনিয়াম টেট্রাক্লোরাইড",
+     "formula": "TiCl₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "TiO₂ + C + 2Cl₂ → TiCl₄ + CO₂",
+   "conditions": "360°C",
+   "observations_bn": "TiCl₄ আংশিক পাতনে আলাদা করা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-13",
+   "chapter_no": 3,
+   "section_no": "3.5",
+   "section_title_bn": "আকরিক থেকে টাইটেনিয়াম ধাতু নিষ্কাশন",
+   "book_page": 153,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্রল পদ্ধতি: TiCl₄ + Mg",
+   "reactants": [
+    {
+     "name_bn": "টাইটেনিয়াম টেট্রাক্লোরাইড",
+     "formula": "TiCl₄",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "গলিত ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টাইটেনিয়াম স্পঞ্জ",
+     "formula": "Ti",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "TiCl₄(l) + 2Mg(l) → Ti(l) + 2MgCl₂(l)",
+   "conditions": "আর্গন পরিবেশ, ~712–1025°C",
+   "observations_bn": "অতিরিক্ত Mg ও MgCl₂ লঘু HCl দিয়ে সরিয়ে টাইটেনিয়াম স্পঞ্জ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-14",
+   "chapter_no": 3,
+   "section_no": "3.5",
+   "section_title_bn": "আকরিক থেকে টাইটেনিয়াম ধাতু নিষ্কাশন",
+   "book_page": 153,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "TiCl₄ + Na বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "টাইটেনিয়াম টেট্রাক্লোরাইড",
+     "formula": "TiCl₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টাইটেনিয়াম",
+     "formula": "Ti",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "TiCl₄ + 4Na → Ti + 4NaCl",
+   "conditions": "আবদ্ধ পাত্রে উত্তপ্ত",
+   "observations_bn": "সোডিয়াম দিয়ে প্রায় বিশুদ্ধ Ti পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-15",
+   "chapter_no": 3,
+   "section_no": "3.7",
+   "section_title_bn": "আকরিক থেকে ভ্যানাডিয়াম ধাতু নিষ্কাশন",
+   "book_page": 154,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ভ্যানাডিনাইটে গাঢ় HCl",
+   "reactants": [
+    {
+     "name_bn": "ভ্যানাডিনাইট",
+     "formula": "3Pb₃(VO₄)₂·PbCl₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড ক্লোরাইড",
+     "formula": "PbCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ভ্যানাডিল ক্লোরাইড (ডাইঅক্সো ভ্যানাডিয়াম ক্লোরাইড)",
+     "formula": "VO₂Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3Pb₃(VO₄)₂·PbCl₂ + 24HCl → 10PbCl₂ + 6VO₂Cl + 12H₂O",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "PbCl₂ অদ্রবীভূত থাকে, ভ্যানাডিয়াম দ্রবণে চলে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-16",
+   "chapter_no": 3,
+   "section_no": "3.7",
+   "section_title_bn": "আকরিক থেকে ভ্যানাডিয়াম ধাতু নিষ্কাশন",
+   "book_page": 154,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "VO₂Cl থেকে V₂O₅ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "VO₂Cl",
+     "formula": "VO₂Cl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম মেটাভ্যানাডেট",
+     "formula": "NH₄VO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "VO₂Cl + NH₄Cl + H₂O → NH₄VO₃↓ + 2HCl ; 2NH₄VO₃ → V₂O₅ + 2NH₃↑ + H₂O↑",
+   "conditions": "দ্বিতীয় ধাপে তাপ",
+   "observations_bn": "NH₄VO₃ অধঃক্ষিপ্ত হয়, তাপে ভেঙে V₂O₅ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-17",
+   "chapter_no": 3,
+   "section_no": "3.7",
+   "section_title_bn": "আকরিক থেকে ভ্যানাডিয়াম ধাতু নিষ্কাশন",
+   "book_page": 154,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "V₂O₅-এর ক্যালসিয়াম বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ভ্যানাডিয়াম পেন্টক্সাইড",
+     "formula": "V₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানাডিয়াম",
+     "formula": "V",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    }
+   ],
+   "equation": "V₂O₅ + 5Ca → 2V + 5CaO",
+   "conditions": "~900–950°C, CaCl₂ বিগালক",
+   "observations_bn": "মোটামুটি বিশুদ্ধ ভ্যানাডিয়াম ধাতু পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-18",
+   "chapter_no": 3,
+   "section_no": "3.7",
+   "section_title_bn": "আকরিক থেকে ভ্যানাডিয়াম ধাতু নিষ্কাশন",
+   "book_page": 154,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কারনোটাইট থেকে সোডিয়াম অর্থোভ্যানাডেট",
+   "reactants": [
+    {
+     "name_bn": "কারনোটাইট",
+     "formula": "K₂O·2UO₃·V₂O₅·3H₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অর্থোভ্যানাডেট",
+     "formula": "Na₃VO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ইউরেনিল কার্বনেট",
+     "formula": "Na₄UO₂(CO₃)₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "K₂O·2UO₃·V₂O₅·3H₂O + Na₂CO₃ → Na₂O·2UO₃·V₂O₅ + K₂CO₃ + 3H₂O ; Na₂O·2UO₃·V₂O₅ + 6Na₂CO₃ → 2Na₄UO₂(CO₃)₃ + 2Na₃VO₄",
+   "conditions": "গলন (তাপ)",
+   "observations_bn": "গলিয়ে পানিতে মিশিয়ে ফেরিক হাইড্রক্সাইড সরিয়ে ইউরেনিল কার্বনেট কেলাসিত করা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-19",
+   "chapter_no": 3,
+   "section_no": "3.7",
+   "section_title_bn": "আকরিক থেকে ভ্যানাডিয়াম ধাতু নিষ্কাশন",
+   "book_page": 154,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Na₃VO₄ + NH₄Cl থেকে NH₄VO₃ অধঃক্ষেপ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম অর্থোভ্যানাডেট",
+     "formula": "Na₃VO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম মেটাভ্যানাডেট",
+     "formula": "NH₄VO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Na₃VO₄(aq) + 3NH₄Cl(aq) → NH₄VO₃↓ + 2NH₃↑ + 3NaCl(aq) + H₂O",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "মেটাভ্যানাডেট অধঃক্ষেপ পড়ে ও অ্যামোনিয়া গ্যাস বের হয়।",
+   "procedure_bn": [
+    "Na₃VO₄ দ্রবণে NH₄Cl দ্রবণ মেশাও",
+    "অধঃক্ষেপ ছেঁকে নাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na₃VO₄",
+    "NH₄Cl"
+   ],
+   "safety_bn": "অ্যামোনিয়ার ঝাঁঝালো গন্ধ; খোলা বাতাসে করো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-20",
+   "chapter_no": 3,
+   "section_no": "3.7",
+   "section_title_bn": "আকরিক থেকে ভ্যানাডিয়াম ধাতু নিষ্কাশন",
+   "book_page": 155,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনোথার্মিক পদ্ধতিতে বিশুদ্ধ ভ্যানাডিয়াম",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম মেটাভ্যানাডেট",
+     "formula": "NH₄VO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানাডিয়াম",
+     "formula": "V",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালুমিনা",
+     "formula": "Al₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2NH₄VO₃ → V₂O₅ + 2NH₃ + H₂O ; V₂O₅ + 2H₂ → V₂O₃ + 2H₂O ; V₂O₃ + 2Al → Al₂O₃ + 2V",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "V₂O₃ থেকে থার্মিট বিজারণে ~99% বিশুদ্ধ ভ্যানাডিয়াম পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-21",
+   "chapter_no": 3,
+   "section_no": "3.9",
+   "section_title_bn": "ফেরোক্রোম উৎপাদন",
+   "book_page": 155,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফেরোক্রোম উৎপাদন",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমাইট",
+     "formula": "FeO·Cr₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরোক্রোম",
+     "formula": "Fe·2Cr",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "FeO·Cr₂O₃(s) + 4C(s) → Fe·2Cr(l) + 4CO(g)",
+   "conditions": "বৈদ্যুতিক চুল্লি, উচ্চ তাপ",
+   "observations_bn": "প্রায় 65% Cr ও 35% Fe-এর সংকর পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-22",
+   "chapter_no": 3,
+   "section_no": "3.10",
+   "section_title_bn": "আকরিক থেকে ক্রোমিয়াম ধাতু নিষ্কাশন",
+   "book_page": 155,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্রোমাইটের তাপজারণ (সোডিয়াম ক্রোমেট)",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমাইট",
+     "formula": "FeO·Cr₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্রোমেট",
+     "formula": "Na₂CrO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফেরিক অক্সাইড",
+     "formula": "Fe₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4FeO·Cr₂O₃ + 8Na₂CO₃ + 7O₂ → 8Na₂CrO₄ + 2Fe₂O₃ + 8CO₂",
+   "conditions": "পরাবর্তী চুল্লি, উচ্চ তাপ",
+   "observations_bn": "Fe(II) জারিত হয়ে Fe₂O₃ হয়, ক্রোমাইট সোডিয়াম ক্রোমেটে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-23",
+   "chapter_no": 3,
+   "section_no": "3.10",
+   "section_title_bn": "আকরিক থেকে ক্রোমিয়াম ধাতু নিষ্কাশন",
+   "book_page": 155,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ক্রোমেট থেকে ডাইক্রোমেট",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্রোমেট",
+     "formula": "Na₂CrO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ডাইক্রোমেট",
+     "formula": "Na₂Cr₂O₇",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2Na₂CrO₄(aq) + H₂SO₄(aq) → Na₂Cr₂O₇(aq) + Na₂SO₄(aq) + H₂O(l)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "হলুদ ক্রোমেট দ্রবণ অম্ল করলে কমলা ডাইক্রোমেট দ্রবণ হয়।",
+   "procedure_bn": [
+    "ক্রোমেট দ্রবণে লঘু H₂SO₄ ফোঁটা ফোঁটা দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na₂CrO₄",
+    "লঘু H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "রঙের তথ্য বইয়ের সারণি ৩.৮ থেকে (ক্রোমেট হলুদ, ডাইক্রোমেট কমলা)।"
+  },
+  {
+   "id": "k12-05-24",
+   "chapter_no": 3,
+   "section_no": "3.10",
+   "section_title_bn": "আকরিক থেকে ক্রোমিয়াম ধাতু নিষ্কাশন",
+   "book_page": 156,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Na₂Cr₂O₇ + NH₄Cl থেকে Cr₂O₃",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ডাইক্রোমেট",
+     "formula": "Na₂Cr₂O₇",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম ডাইক্রোমেট",
+     "formula": "(NH₄)₂Cr₂O₇",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্রোমিক অক্সাইড",
+     "formula": "Cr₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Na₂Cr₂O₇ + 2NH₄Cl → (NH₄)₂Cr₂O₇ + 2NaCl ; (NH₄)₂Cr₂O₇ → Cr₂O₃ + N₂ + 4H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "উত্তপ্ত অ্যামোনিয়াম ডাইক্রোমেট ভেঙে সবুজ Cr₂O₃ ও N₂ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-25",
+   "chapter_no": 3,
+   "section_no": "3.10",
+   "section_title_bn": "আকরিক থেকে ক্রোমিয়াম ধাতু নিষ্কাশন",
+   "book_page": 156,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Na₂Cr₂O₇ + কার্বন থেকে Cr₂O₃",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ডাইক্রোমেট",
+     "formula": "Na₂Cr₂O₇",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্রোমাইট",
+     "formula": "NaCrO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্রোমিক অক্সাইড",
+     "formula": "Cr₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "Na₂Cr₂O₇ + 3C → 2NaCrO₂ + 3CO ; 2NaCrO₂ + H₂O → Cr₂O₃ + 2NaOH",
+   "conditions": "উত্তপ্ত, পরে পানিতে আর্দ্রবিশ্লেষণ",
+   "observations_bn": "চারকোলে বিজারিত হয়ে NaCrO₂, পানিতে Cr₂O₃ অধঃক্ষিপ্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-26",
+   "chapter_no": 3,
+   "section_no": "3.10",
+   "section_title_bn": "আকরিক থেকে ক্রোমিয়াম ধাতু নিষ্কাশন",
+   "book_page": 156,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "থার্মিট পদ্ধতিতে Cr₂O₃ থেকে Cr",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমিক অক্সাইড",
+     "formula": "Cr₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যালুমিনিয়াম গুঁড়া",
+     "formula": "Al",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমিয়াম",
+     "formula": "Cr",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালুমিনা",
+     "formula": "Al₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "Cr₂O₃(s) + 2Al(s) → 2Cr(l) + Al₂O₃(s)",
+   "conditions": "থার্মিট মিশ্রণ, KClO₃/BaO₂/Mg দিয়ে প্রজ্বলন",
+   "observations_bn": "অতি উচ্চ তাপে গলিত ~99.5% বিশুদ্ধ Cr পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "অত্যন্ত বিপজ্জনক; ল্যাবে নয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-27",
+   "chapter_no": 3,
+   "section_no": "3.12",
+   "section_title_bn": "আকরিক থেকে ম্যাঙ্গানিজ নিষ্কাশন",
+   "book_page": 156,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "MnO₂ তাপে Mn₃O₄",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ টেট্রক্সাইড",
+     "formula": "Mn₃O₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "3MnO₂(s) → Mn₃O₄(s) + O₂(g)",
+   "conditions": "প্রবল তাপ",
+   "observations_bn": "পাইরোলুসাইট বিয়োজিত হয়ে Mn₃O₄ ও O₂ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-28",
+   "chapter_no": 3,
+   "section_no": "3.12",
+   "section_title_bn": "আকরিক থেকে ম্যাঙ্গানিজ নিষ্কাশন",
+   "book_page": 157,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "থার্মিট পদ্ধতিতে Mn₃O₄ থেকে Mn",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ টেট্রক্সাইড",
+     "formula": "Mn₃O₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ",
+     "formula": "Mn",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালুমিনা",
+     "formula": "Al₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "3Mn₃O₄(s) + 8Al(s) → 9Mn(l) + 4Al₂O₃(s)",
+   "conditions": "থার্মিট (BaO₂ ও Mg দিয়ে প্রজ্বলন)",
+   "observations_bn": "গলিত ম্যাঙ্গানিজ ক্রুসিবলের তলায় জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-29",
+   "chapter_no": 3,
+   "section_no": "3.12",
+   "section_title_bn": "আকরিক থেকে ম্যাঙ্গানিজ নিষ্কাশন",
+   "book_page": 157,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "তড়িৎ বিশ্লেষণ পদ্ধতির প্রস্তুতধাপ: MnO₂ + HCl",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় HCl",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানাস ক্লোরাইড",
+     "formula": "MnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "MnO₂ + 4HCl → MnCl₂ + Cl₂↑ + 2H₂O",
+   "conditions": "গাঢ় HCl",
+   "observations_bn": "এই MnCl₂ দ্রবণকে পারদ ক্যাথোডে তড়িৎ বিশ্লেষণ করে Mn পাওয়ার কথা বলা আছে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "পাতা ১৫৭-এ শুধু MnO₂ গাঢ় HCl-এ দ্রবীভূত হয় বলা আছে, সমীকরণ নেই (পরে পাতা ১৫৯-এ একই বিক্রিয়ার সমীকরণ আছে)।"
+  },
+  {
+   "id": "k12-05-30",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 158,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ম্যাঙ্গানিজ + HCl (Mn²⁺ গঠন)",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ গুঁড়া",
+     "formula": "Mn",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানাস ক্লোরাইড",
+     "formula": "MnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mn(s) + 2HCl(aq) → MnCl₂(aq) + H₂(g)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "H₂ বের হয়; Mn²⁺ জলীয় দ্রবণে হালকা গোলাপি [Mn(H₂O)₆]²⁺ আকারে থাকে।",
+   "procedure_bn": [
+    "Mn গুঁড়ায় লঘু HCl দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Mn গুঁড়া",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-31",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 158,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Mn ধাতু + Cl₂ / O₂",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ",
+     "formula": "Mn",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানাস ক্লোরাইড",
+     "formula": "MnCl₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Mn(s) + Cl₂(g) → MnCl₂(s) ; 2Mn(s) + O₂(g) → 2MnO(s)",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "Cl₂ ও বায়ুর O₂-এ উত্তপ্ত করলে যথাক্রমে MnCl₂ ও MnO হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-32",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 158,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "MnO বায়ুতে উত্তপ্ত করে Mn₂O₃",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানাস অক্সাইড",
+     "formula": "MnO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানিক অক্সাইড",
+     "formula": "Mn₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "4MnO(s) + O₂(g) → 2Mn₂O₃(s)",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "কালো MnO থেকে সবুজ Mn₂O₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-33",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 158,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Mn²⁺ ক্ষারীয় মাধ্যমে জারিত হয়ে Mn₂O₃",
+   "reactants": [
+    {
+     "name_bn": "হেক্সা-অ্যাকুয়া ম্যাঙ্গানিজ (II)",
+     "formula": "[Mn(H₂O)₆]²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্ষার",
+     "formula": "OH⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানিক অক্সাইড",
+     "formula": "Mn₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2[Mn(H₂O)₆]²⁺ + 4OH⁻ + ½O₂ → Mn₂O₃↓ + 14H₂O",
+   "conditions": "ক্ষারীয়, O₂ প্রবাহ",
+   "observations_bn": "হালকা গোলাপি দ্রবণ থেকে সবুজ Mn₂O₃ অধঃক্ষিপ্ত হয়।",
+   "procedure_bn": [
+    "Mn²⁺ দ্রবণে ক্ষার দাও ও অক্সিজেন চালাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Mn²⁺ দ্রবণ",
+    "ক্ষার",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-34",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 159,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Mn₂O₃ + HCl (অসামঞ্জস্যতা)",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিক অক্সাইড",
+     "formula": "Mn₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানাস ক্লোরাইড",
+     "formula": "MnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ টেট্রাক্লোরাইড",
+     "formula": "MnCl₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Mn₂O₃ + 6HCl → MnCl₂ + MnCl₄ + 3H₂O",
+   "equation_printed": "Mn₂O₃(s) + 6HCl(aq) → MnCl₂(aq) + MnCl₄(aq)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "Mn³⁺ অস্থিতিশীল, তাই Mn(II) ও Mn(IV) যৌগে ভেঙে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Mn₂O₃",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "ছাপা সমীকরণে পানি বাদ ছিল; O ও H মিলিয়ে 3H₂O যোগ করা হয়েছে।"
+  },
+  {
+   "id": "k12-05-35",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 159,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "MnO₂ + গাঢ় HCl (ক্লোরিন গ্যাস)",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় HCl",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানাস ক্লোরাইড",
+     "formula": "MnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "MnO₂(s) + 4HCl(conc) → MnCl₂(aq) + Cl₂(g) + 2H₂O(l)",
+   "conditions": "গাঢ় HCl, মৃদু তাপ",
+   "observations_bn": "বাদামি-কালো MnO₂ গলে যায়, হলদে-সবুজ Cl₂ বের হয়।",
+   "procedure_bn": [
+    "MnO₂-এ গাঢ় HCl দাও, মৃদু উত্তপ্ত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "MnO₂",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "বিষাক্ত Cl₂; ফিউম হুডে করো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-36",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 159,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "MnO₂ গলিয়ে সবুজ পটাসিয়াম ম্যাঙ্গানেট",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পটাসিয়াম ক্লোরেট",
+     "formula": "KClO₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ম্যাঙ্গানেট (VI)",
+     "formula": "K₂MnO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "KClO₃ → KCl + 3[O] ; MnO₂ + 2KOH + [O] → K₂MnO₄ + H₂O",
+   "conditions": "গলন (উচ্চ তাপ)",
+   "observations_bn": "কালো MnO₂ সবুজ ম্যাঙ্গানেটে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-37",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 159,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ম্যাঙ্গানেট অম্লীকরণে অসামঞ্জস্যতা",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানেট আয়ন (সবুজ)",
+     "formula": "MnO₄²⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন (অম্ল/CO₂)",
+     "formula": "H⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পারম্যাঙ্গানেট আয়ন (গাঢ় বেগুনি)",
+     "formula": "MnO₄⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3MnO₄²⁻(aq) + 4H⁺(aq) → 2MnO₄⁻(aq) + MnO₂(s) + 2H₂O(l)",
+   "conditions": "অম্লীয় মাধ্যম (CO₂ চালালেও হয়)",
+   "observations_bn": "সবুজ দ্রবণ বেগুনি হয় ও কালো MnO₂ জমে।",
+   "procedure_bn": [
+    "সবুজ K₂MnO₄ দ্রবণে অম্ল বা CO₂ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "K₂MnO₄ দ্রবণ",
+    "লঘু অম্ল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-38",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 159,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "KMnO₄ + KOH → K₂MnO₄",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ম্যাঙ্গানেট",
+     "formula": "K₂MnO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4KMnO₄(aq) + 4KOH(aq) → 4K₂MnO₄(aq) + 2H₂O(l) + O₂(g)",
+   "conditions": "ক্ষারীয় মাধ্যম",
+   "observations_bn": "গাঢ় বেগুনি দ্রবণ সবুজ হয়ে যায়।",
+   "procedure_bn": [
+    "KMnO₄ দ্রবণে গাঢ় KOH মেশাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KMnO₄",
+    "KOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-39",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 159,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "KMnO₄ + KOH + KI",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ম্যাঙ্গানেট",
+     "formula": "K₂MnO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডেট",
+     "formula": "KIO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "6KMnO₄(aq) + 6KOH(aq) + KI(aq) → 6K₂MnO₄(aq) + KIO₃(aq) + 3H₂O(l)",
+   "conditions": "ক্ষারীয় মাধ্যম",
+   "observations_bn": "বেগুনি দ্রবণ সবুজ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-40",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 159,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "অম্লীয় KMnO₄ দিয়ে Fe²⁺ জারণ",
+   "reactants": [
+    {
+     "name_bn": "পারম্যাঙ্গানেট আয়ন",
+     "formula": "MnO₄⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফেরাস আয়ন",
+     "formula": "Fe²⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানাস আয়ন",
+     "formula": "Mn²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফেরিক আয়ন",
+     "formula": "Fe³⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "MnO₄⁻(aq) + 8H⁺(aq) + 5Fe²⁺(aq) → Mn²⁺(aq) + 4H₂O(l) + 5Fe³⁺(aq)",
+   "conditions": "লঘু H₂SO₄ মাধ্যম",
+   "observations_bn": "বেগুনি রঙ ফেকাসে গোলাপি/বর্ণহীন হয়ে যায় (প্রান্তবিন্দু নির্দেশ)।",
+   "procedure_bn": [
+    "ফেরাস দ্রবণে লঘু H₂SO₄ দাও",
+    "বুরেট থেকে KMnO₄ দিয়ে টাইট্রেট করো",
+    "স্থায়ী হালকা গোলাপি রঙে থামো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KMnO₄",
+    "FeSO₄",
+    "লঘু H₂SO₄",
+    "বুরেট"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইয়ে বলা: টাইট্রেশনে পরিমাণ নির্ধারণে ব্যবহৃত। শেষ বিন্দুর রঙের বর্ণনা বই থেকে সরাসরি নয় (বুঝিয়ে লেখা)।"
+  },
+  {
+   "id": "k12-05-41",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 159,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "অম্লীয় KMnO₄ দিয়ে অক্সালেট জারণ",
+   "reactants": [
+    {
+     "name_bn": "পারম্যাঙ্গানেট আয়ন",
+     "formula": "MnO₄⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সালেট আয়ন",
+     "formula": "C₂O₄²⁻",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানাস আয়ন",
+     "formula": "Mn²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2MnO₄⁻(aq) + 16H⁺(aq) + 5C₂O₄²⁻(aq) → 2Mn²⁺(aq) + 8H₂O(l) + 10CO₂(g)",
+   "conditions": "অম্লীয় মাধ্যম",
+   "observations_bn": "বেগুনি রঙ ক্রমে বর্ণহীন হয় ও CO₂ বের হয়।",
+   "procedure_bn": [
+    "অক্সালিক এসিড/অক্সালেট দ্রবণ অম্লীকরণ করে উত্তপ্ত করো",
+    "KMnO₄ দিয়ে টাইট্রেট করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KMnO₄",
+    "অক্সালেট দ্রবণ",
+    "H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-42",
+   "chapter_no": 3,
+   "section_no": "3.13.1",
+   "section_title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 160,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "KMnO₄ + KI (প্রশম মাধ্যম)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডেট",
+     "formula": "KIO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2KMnO₄ + H₂O + KI → 2MnO₂↓ + 2KOH + KIO₃",
+   "conditions": "প্রশম মাধ্যম",
+   "observations_bn": "বেগুনি রঙ কেটে কালো MnO₂ অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "KMnO₄ দ্রবণে KI দ্রবণ মেশাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KMnO₄",
+    "KI"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-43",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 160,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CrO (ক্ষারধর্মী) + H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমাস অক্সাইড",
+     "formula": "CrO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "লঘু সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমাস সালফেট",
+     "formula": "CrSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CrO(s) + H₂SO₄(aq) → CrSO₄(aq) + H₂O(l)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "ক্ষারধর্মী অক্সাইড অম্লের সঙ্গে লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-44",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 161,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Cr₂O₃ উভধর্মী: অম্ল ও ক্ষার",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমিক অক্সাইড",
+     "formula": "Cr₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "লঘু সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমিয়াম সালফেট",
+     "formula": "Cr₂(SO₄)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cr₂O₃(s) + 3H₂SO₄(aq) → Cr₂(SO₄)₃(aq) + 3H₂O(l) ; Cr₂O₃(s) + 2KOH(aq) → 2KCrO₂(aq) + H₂O(l)",
+   "conditions": "অম্লের সঙ্গে ঘরের তাপমাত্রা; KOH-এর সঙ্গে তাপ",
+   "observations_bn": "অম্লের সঙ্গে ক্ষারের মতো, গাঢ় KOH-এর সঙ্গে অম্লের মতো বিক্রিয়া করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-45",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 161,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CrO₃ (অম্লধর্মী) + NaOH",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমিয়াম ট্রাইঅক্সাইড",
+     "formula": "CrO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্রোমেট",
+     "formula": "Na₂CrO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CrO₃(s) + 2NaOH(aq) → Na₂CrO₄(aq) + H₂O(l)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "ক্ষারের সঙ্গে ক্রোমেট লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-46",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 161,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্রোমিয়াম অ্যামালগাম + লঘু HNO₃",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমিয়াম অ্যামালগাম",
+     "formula": "Cr·Hg",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমাস অক্সাইড",
+     "formula": "CrO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পারদ",
+     "formula": "Hg",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3Cr·Hg(l) + 2HNO₃(aq) → 3CrO(s) + H₂O(l) + 2NO(g) + 3Hg(l)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "CrO অধঃক্ষিপ্ত হয়, NO গ্যাস বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "পারদ বিষাক্ত; ল্যাবে নয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-47",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 161,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cr + HCl গ্যাস / O₂ / Cl₂",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমিয়াম",
+     "formula": "Cr",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড গ্যাস",
+     "formula": "HCl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমাস ক্লোরাইড",
+     "formula": "CrCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Cr(s) + 2HCl(g) → CrCl₂(s) + H₂(g) ; 4Cr(s) + 3O₂(g) → 2Cr₂O₃(s) ; 2Cr(s) + 3Cl₂(g) → 2CrCl₃(s)",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "প্রতিটি ক্ষেত্রে উত্তপ্ত ধাতু বিভিন্ন জারণ অবস্থার যৌগ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-48",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 161,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CrO + HCl (Cr²⁺ → Cr³⁺)",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমাস অক্সাইড",
+     "formula": "CrO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমিক ক্লোরাইড",
+     "formula": "CrCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2CrO(s) + 6HCl(aq) → 2CrCl₃(aq) + 2H₂O(l) + H₂(g)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "Cr(II) বিজারক হিসেবে H⁺-কে বিজারিত করে H₂ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CrO",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-49",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 161,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CrO বায়ুতে উত্তপ্ত → Cr₂O₃",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমাস অক্সাইড",
+     "formula": "CrO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমিক অক্সাইড",
+     "formula": "Cr₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "4CrO(s) + O₂(g) → 2Cr₂O₃(s)",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "Cr(II) জারিত হয়ে Cr(III) অক্সাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-50",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 162,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CrCl₃ + H₂ → CrCl₂",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমিক ক্লোরাইড",
+     "formula": "CrCl₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমাস ক্লোরাইড",
+     "formula": "CrCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2CrCl₃(s) + H₂(g) → 2CrCl₂(s) + 2HCl(g)",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "H₂ দিয়ে Cr³⁺ → Cr²⁺ বিজারণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-51",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 162,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Cr³⁺ জিংক/HCl-এ Cr²⁺",
+   "reactants": [
+    {
+     "name_bn": "হেক্সা-অ্যাকুয়া ক্রোমিয়াম (III)",
+     "formula": "[Cr(H₂O)₆]³⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "জায়মান হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেক্সা-অ্যাকুয়া ক্রোমিয়াম (II)",
+     "formula": "[Cr(H₂O)₆]²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "[Cr(H₂O)₆]³⁺(aq) + [H] → [Cr(H₂O)₆]²⁺(aq) + H⁺(aq)",
+   "conditions": "Zn + HCl",
+   "observations_bn": "নীল-বেগুনি দ্রবণ হালকা সবুজ বা আসমানি হয়।",
+   "procedure_bn": [
+    "Cr³⁺ দ্রবণে জিংক ও HCl দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cr³⁺ দ্রবণ",
+    "Zn",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-52",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 162,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cr₂O₃ + K₂CO₃ (গলন, ক্রোমেট)",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমিক অক্সাইড",
+     "formula": "Cr₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পটাসিয়াম কার্বনেট",
+     "formula": "K₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ক্রোমেট",
+     "formula": "K₂CrO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Cr₂O₃(s) + 4K₂CO₃(s) + 3O₂(g) → 4K₂CrO₄(s) + 4CO₂(g)",
+   "conditions": "গলন, উচ্চ তাপ",
+   "observations_bn": "সবুজ Cr₂O₃ হলুদ ক্রোমেটে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-53",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 162,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Cr³⁺ ক্ষার ও পারঅক্সাইডে ক্রোমেট",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমিয়াম (III) আয়ন",
+     "formula": "Cr³⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্ষার",
+     "formula": "OH⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পারঅক্সাইড",
+     "formula": "O₂²⁻",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমেট আয়ন",
+     "formula": "CrO₄²⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2Cr³⁺(aq) + 4OH⁻(aq) + 3O₂²⁻(aq) → 2CrO₄²⁻(aq) + 2H₂O(l)",
+   "conditions": "ক্ষারীয় মাধ্যম, উত্তপ্ত",
+   "observations_bn": "নীলাভ-বেগুনি দ্রবণ হলুদ ক্রোমেট দ্রবণে যায়।",
+   "procedure_bn": [
+    "Cr³⁺ দ্রবণে KOH ও পারঅক্সাইড মিশিয়ে ফুটাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cr³⁺ লবণ",
+    "KOH",
+    "পারঅক্সাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-54",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 162,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্রোমেট ⇌ ডাইক্রোমেট",
+   "reactants": [
+    {
+     "name_bn": "ক্রোমেট আয়ন",
+     "formula": "CrO₄²⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইক্রোমেট আয়ন",
+     "formula": "Cr₂O₇²⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2CrO₄²⁻(aq) + 2H⁺(aq) ⇌ Cr₂O₇²⁻(aq) + H₂O(l)",
+   "conditions": "অম্ল যোগ করলে সামনের দিকে, ক্ষার দিলে বিপরীতে",
+   "observations_bn": "হলুদ দ্রবণ অম্ল দিলে কমলা, ক্ষার দিলে আবার হলুদ হয়।",
+   "procedure_bn": [
+    "ক্রোমেট দ্রবণে লঘু H₂SO₄ দাও",
+    "পরে NaOH দিয়ে রঙ ফেরাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "K₂CrO₄",
+    "লঘু H₂SO₄",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-55",
+   "chapter_no": 3,
+   "section_no": "3.13.2",
+   "section_title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 162,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "অম্লীয় ডাইক্রোমেট (জারক, Fe²⁺ নির্ণয়)",
+   "reactants": [
+    {
+     "name_bn": "ডাইক্রোমেট আয়ন",
+     "formula": "Cr₂O₇²⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্রোমিয়াম (III) আয়ন",
+     "formula": "Cr³⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cr₂O₇²⁻(aq) + 14H⁺(aq) + 6e⁻ → 2Cr³⁺(aq) + 7H₂O(l)",
+   "conditions": "অম্লীয় মাধ্যম",
+   "observations_bn": "কমলা দ্রবণ নীলাভ-বেগুনি/সবুজাভ Cr³⁺ হয়ে যায়; আয়রন (II) লবণের টাইট্রেশনে ব্যবহৃত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "অর্ধ-বিক্রিয়া; বইয়ে প্রাথমিক আদর্শ পদার্থ হিসেবে উল্লেখ।"
+  },
+  {
+   "id": "k12-05-56",
+   "chapter_no": 3,
+   "section_no": "3.13.3",
+   "section_title_bn": "ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 163,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ভ্যানাডিয়াম + F₂ / O₂",
+   "reactants": [
+    {
+     "name_bn": "ভ্যানাডিয়াম",
+     "formula": "V",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানাডিয়াম পেন্টাফ্লোরাইড",
+     "formula": "VF₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "2V(s) + 5F₂(g) → 2VF₅(s) ; 4V(s) + 5O₂(g) → 2V₂O₅(s)",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "সবচেয়ে তড়িৎ ঋণাত্মক ধাতব অবস্থা +5 গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-57",
+   "chapter_no": 3,
+   "section_no": "3.13.3",
+   "section_title_bn": "ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 164,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "V₂O₅ বিজারণ (SO₂, H₂, V)",
+   "reactants": [
+    {
+     "name_bn": "ভ্যানাডিয়াম পেন্টক্সাইড",
+     "formula": "V₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানাডিয়াম ডাইঅক্সাইড",
+     "formula": "VO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "V₂O₅(s) + SO₂(g) → 2VO₂(s) + SO₃(g) ; V₂O₅(s) + 2H₂(g) → V₂O₃(s) + 2H₂O(g) ; V₂O₃(s) + V(s) → 3VO(s)",
+   "conditions": "উত্তপ্ত; শেষ ধাপে নিম্নচাপ",
+   "observations_bn": "জারণ অবস্থা +5 → +4 → +3 → +2 ক্রমে কমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-58",
+   "chapter_no": 3,
+   "section_no": "3.13.3",
+   "section_title_bn": "ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 164,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "V₂O₅ জারকরূপে: গাঢ় HCl",
+   "reactants": [
+    {
+     "name_bn": "ভ্যানাডিয়াম পেন্টক্সাইড",
+     "formula": "V₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় HCl",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানাডিল ক্লোরাইড",
+     "formula": "VOCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "V₂O₅(s) + 6HCl(conc) → 2VOCl₂(aq) + 3H₂O(l) + Cl₂(g)",
+   "conditions": "গাঢ় HCl",
+   "observations_bn": "Cl₂ গ্যাস বের হয়; ভ্যানাডিল (VO²⁺) নীল দ্রবণ পাওয়া যায়।",
+   "procedure_bn": [
+    "V₂O₅-তে গাঢ় HCl দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "V₂O₅",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "Cl₂ বিষাক্ত; ফিউম হুডে করো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-59",
+   "chapter_no": 3,
+   "section_no": "3.13.3",
+   "section_title_bn": "ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 164,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "V₂O₅ অম্লধর্মী: Na₂CO₃-এর সঙ্গে গলন",
+   "reactants": [
+    {
+     "name_bn": "ভ্যানাডিয়াম পেন্টক্সাইড",
+     "formula": "V₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অর্থোভ্যানাডেট",
+     "formula": "Na₃VO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "V₂O₅(s) + 3Na₂CO₃(s) → 2Na₃VO₄(s) + 3CO₂(g)",
+   "conditions": "গলন",
+   "observations_bn": "অম্লীয় অক্সাইড ক্ষারের সঙ্গে ভ্যানাডেট লবণ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-60",
+   "chapter_no": 3,
+   "section_no": "3.13.3",
+   "section_title_bn": "ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 164,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Na₃VO₄ অম্লীকরণে VO₂⁺ (হলুদ)",
+   "reactants": [
+    {
+     "name_bn": "অর্থোভ্যানাডেট আয়ন",
+     "formula": "VO₄³⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইঅক্সো ভ্যানাডিয়াম আয়ন",
+     "formula": "VO₂⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "VO₄³⁻(aq) + 4H⁺(aq) → VO₂⁺(aq) + 2H₂O(l)",
+   "conditions": "লঘু HCl দ্বারা অম্লীয়",
+   "observations_bn": "বর্ণহীন দ্রবণ হলুদ হয়ে যায়।",
+   "procedure_bn": [
+    "Na₃VO₄ দ্রবণে লঘু HCl দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na₃VO₄",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-61",
+   "chapter_no": 3,
+   "section_no": "3.13.3",
+   "section_title_bn": "ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 165,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "V²⁺ → V³⁺ (পানির বিজারণ, H₂ গ্যাস)",
+   "reactants": [
+    {
+     "name_bn": "ভ্যানাডিয়াম (II) আয়ন",
+     "formula": "V²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানাডিয়াম (III) আয়ন",
+     "formula": "V³⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2V²⁺(aq) + 2H⁺(aq) → 2V³⁺(aq) + H₂(g)",
+   "conditions": "জলীয় দ্রবণ, ধীরে",
+   "observations_bn": "বেগুনি দ্রবণ ধীরে সবুজ হয় ও H₂ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-62",
+   "chapter_no": 3,
+   "section_no": "3.13.3",
+   "section_title_bn": "ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "book_page": 165,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "V³⁺ অক্সিজেনে জারিত হয়ে VO²⁺",
+   "reactants": [
+    {
+     "name_bn": "ভ্যানাডিয়াম (III) আয়ন",
+     "formula": "V³⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানাডিল আয়ন",
+     "formula": "VO²⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "4V³⁺(aq) + O₂(g) + 2H₂O(l) → 4VO²⁺(aq) + 4H⁺(aq)",
+   "equation_printed": "2V³⁺(aq) + O₂(g) → 2VO²⁺(aq)",
+   "conditions": "O₂ প্রবাহ",
+   "observations_bn": "সবুজ দ্রবণ নীল ভ্যানাডিল দ্রবণে পরিণত হয়।",
+   "procedure_bn": [
+    "সবুজ V³⁺ দ্রবণে O₂ চালাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "V³⁺ দ্রবণ",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "ছাপা সমীকরণে চার্জ ও পরমাণু মেলে না; জারণ-বিজারণ হিসাবে মিলিয়ে সংশোধিত (হাইড্রোজেন আয়ন ও পানি যোগ)।"
+  },
+  {
+   "id": "k12-05-63",
+   "chapter_no": 3,
+   "section_no": "3.15",
+   "section_title_bn": "আকরিক থেকে লৌহ নিষ্কাশন: ঢালাই লৌহ উৎপাদন",
+   "book_page": 166,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লৌহ আকরিক ভস্মীকরণ (FeCO₃ → Fe₂O₃)",
+   "reactants": [
+    {
+     "name_bn": "সাইডেরাইট",
+     "formula": "FeCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস অক্সাইড",
+     "formula": "FeO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ফেরিক অক্সাইড",
+     "formula": "Fe₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "FeCO₃(s) → FeO(s) + CO₂(g) ; 4FeO(s) + O₂(g) → 2Fe₂O₃(s)",
+   "conditions": "ভস্মীকরণ (উচ্চ তাপ)",
+   "observations_bn": "কার্বনেট বিয়োজিত হয়ে FeO, পরে Fe₂O₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-64",
+   "chapter_no": 3,
+   "section_no": "3.15",
+   "section_title_bn": "আকরিক থেকে লৌহ নিষ্কাশন: ঢালাই লৌহ উৎপাদন",
+   "book_page": 167,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "বাত্যাচুল্লিতে লৌহ নিষ্কাশন",
+   "reactants": [
+    {
+     "name_bn": "আয়রন (III) অক্সাইড",
+     "formula": "Fe₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লৌহ",
+     "formula": "Fe",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Fe₂O₃ + 3CO → 2Fe + 3CO₂ ; Fe₃O₄ + 4CO → 3Fe + 4CO₂ ; CaCO₃ → CaO + CO₂ ; CaO + SiO₂ → CaSiO₃ ; C + O₂ → CO₂ ; CO₂ + C → 2CO",
+   "conditions": "চুল্লির উপরে ~400–900°C থেকে নিচে ~1500°C",
+   "observations_bn": "ওপরের অংশে লৌহ অক্সাইড স্পঞ্জ লোহা হয়, মাঝে চুনাপাথর ধাতুমলে (CaSiO₃) রূপান্তরিত হয়, নিচে গলিত লৌহ জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "কোক:আকরিক:চুনাপাথর = 4:4:1 (ওজন অনুপাত, বইয়ে ছাপা)",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "∆H: C + O₂ → CO₂ = –395 kJ; CO₂ + C → 2CO = +172 kJ।"
+  },
+  {
+   "id": "k12-05-65",
+   "chapter_no": 3,
+   "section_no": "3.15",
+   "section_title_bn": "আকরিক থেকে লৌহ নিষ্কাশন: ঢালাই লৌহ উৎপাদন",
+   "book_page": 167,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বাত্যাচুল্লিতে অপদ্রব্য অপসারণ (P, Si, Mn)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফসফেট",
+     "formula": "Ca₃(PO₄)₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "Ca₃(PO₄)₂ → 3CaO + P₂O₅ ; P₂O₅ + 5C → 2P + 5CO ; SiO₂ + 2C → Si + 2CO ; MnO₂ + 2C → Mn + 2CO",
+   "conditions": "~1300–1400°C",
+   "observations_bn": "এই অপদ্রব্য গলিত লৌহে মিশে ঢালাই লৌহের সংযুক্তি গঠন করে (2–4.5% C, 1–1.5% Si, 0.4% Mn, 0.1% P)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-66",
+   "chapter_no": 3,
+   "section_no": "3.16",
+   "section_title_bn": "লৌহের যৌগসমূহ",
+   "book_page": 168,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Fe²⁺-এর জারণ (বইয়ের তিনটি উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক সালফেট",
+     "formula": "Fe₂(SO₄)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "6FeSO₄ + 3H₂SO₄ + 2HNO₃ → 3Fe₂(SO₄)₃ + 2NO↑ + 4H₂O ; 10FeSO₄ + 8H₂SO₄ + 2KMnO₄ → 5Fe₂(SO₄)₃ + K₂SO₄ + 2MnSO₄ + 8H₂O",
+   "conditions": "অম্লীয়",
+   "observations_bn": "হালকা সবুজ ফেরাস দ্রবণ হলদেটে ফেরিক দ্রবণ হয়; KMnO₄ ব্যবহারে বেগুনি রঙ কেটে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeSO₄",
+    "H₂SO₄",
+    "HNO₃/KMnO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "একই পাতায় 2FeSO₄ + H₂SO₄ + O₃ → Fe₂(SO₄)₃ + H₂O + O₂ ও আছে (ওজোন জারণ)।"
+  },
+  {
+   "id": "k12-05-67",
+   "chapter_no": 3,
+   "section_no": "3.16",
+   "section_title_bn": "লৌহের যৌগসমূহ",
+   "book_page": 168,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফেরিক ক্লোরাইডের আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক হাইড্রক্সাইড",
+     "formula": "Fe(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeCl₃(aq) + 3H₂O(l) ⇌ Fe(OH)₃(s) + 3HCl(aq)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "জলীয় দ্রবণ অম্লীয় হয়; অম্ল যোগ করলে দ্রবণ স্থিতিশীল থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeCl₃",
+    "পানি",
+    "নীল লিটমাস (বইয়ে নেই)"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-68",
+   "chapter_no": 3,
+   "section_no": "3.16",
+   "section_title_bn": "লৌহের যৌগসমূহ",
+   "book_page": 168,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফেরিক লবণের জারকধর্ম: SnCl₂ ও SO₂",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "স্ট্যানাস ক্লোরাইড",
+     "formula": "SnCl₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "স্ট্যানিক ক্লোরাইড",
+     "formula": "SnCl₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2FeCl₃(aq) + SnCl₂(aq) → 2FeCl₂(aq) + SnCl₄(aq) ; Fe₂(SO₄)₃(aq) + SO₂(g) + 2H₂O(l) → 2FeSO₄(aq) + 2H₂SO₄(aq)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "ফেরিক হলুদ দ্রবণ ফেরাস দ্রবণে বিজারিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-69",
+   "chapter_no": 3,
+   "section_no": "3.16",
+   "section_title_bn": "লৌহের যৌগসমূহ",
+   "book_page": 168,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অনার্দ্র FeCl₂ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "লৌহ",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড গ্যাস",
+     "formula": "HCl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Fe(s) + 2HCl(g) → FeCl₂(s) + H₂(g) ; 2FeCl₃(s) → 2FeCl₂(s) + Cl₂(g) ; 2FeCl₃(s) + H₂(g) → 2FeCl₂(s) + 2HCl(g)",
+   "conditions": "উত্তপ্ত; FeCl₃ বিয়োজনে >750°C",
+   "observations_bn": "তিনটি ভিন্ন পদ্ধতিতে বর্ণহীন FeCl₂ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বাতাসে উত্তপ্ত FeCl₂ থেকে 12FeCl₂ + 3O₂ → 8FeCl₃ + 2Fe₂O₃ হয়।"
+  },
+  {
+   "id": "k12-05-70",
+   "chapter_no": 3,
+   "section_no": "3.16",
+   "section_title_bn": "লৌহের যৌগসমূহ",
+   "book_page": 169,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অনার্দ্র FeCl₃ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "লৌহ গুঁড়া",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "শুষ্ক ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Fe(s) + 3Cl₂(g) → 2FeCl₃(s)",
+   "conditions": "900°C",
+   "observations_bn": "কালো FeCl₃ ঊর্ধ্বপাতিত হয়ে গ্রাহক পাত্রে জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-71",
+   "chapter_no": 3,
+   "section_no": "3.17",
+   "section_title_bn": "লৌহের শনাক্তকরণ পরীক্ষা",
+   "book_page": 169,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "লৌহের শুষ্ক পরীক্ষা (কাঠ কয়লা)",
+   "reactants": [
+    {
+     "name_bn": "লৌহ লবণ (যেমন FeSO₄)",
+     "formula": "FeSO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কাঠ কয়লা",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লৌহ",
+     "formula": "Fe",
+     "state": "solid"
+    }
+   ],
+   "equation": "FeSO₄ + Na₂CO₃ → FeCO₃ + Na₂SO₄ ; FeCO₃ → FeO + CO₂↑ ; FeO + C → Fe + CO↑",
+   "conditions": "বুনসেন শিখার ফুঁৎনলে উত্তপ্ত (গর্তে)",
+   "observations_bn": "ধূসর, চুম্বকে আকৃষ্ট অবশেষ থাকে — লৌহ আছে।",
+   "procedure_bn": [
+    "লবণের সঙ্গে দ্বিগুণ Na₂CO₃ মেশাও",
+    "কাঠ কয়লার গর্তে ফুঁৎনলে উত্তপ্ত করো",
+    "অবশেষে চুম্বক ধরো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কাঠ কয়লা ব্লক",
+    "ফুঁৎনল",
+    "বুনসেন বার্নার",
+    "চুম্বক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-72",
+   "chapter_no": 3,
+   "section_no": "3.17",
+   "section_title_bn": "লৌহের শনাক্তকরণ পরীক্ষা",
+   "book_page": 169,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe²⁺ ও Fe³⁺ — NH₄OH পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস লবণ",
+     "formula": "FeSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস হাইড্রক্সাইড",
+     "formula": "Fe(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeSO₄(aq) + 2NH₄OH(aq) → Fe(OH)₂↓ + (NH₄)₂SO₄(aq) ; FeCl₃(aq) + 3NH₄OH(aq) → Fe(OH)₃↓ + 3NH₄Cl(aq)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "সবুজ অধঃক্ষেপ হলে Fe²⁺; বাদামি হলে Fe³⁺।",
+   "procedure_bn": [
+    "লবণ দ্রবণে NH₄OH দাও",
+    "অধঃক্ষেপের রঙ দেখো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লৌহ লবণ দ্রবণ",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-73",
+   "chapter_no": 3,
+   "section_no": "3.17",
+   "section_title_bn": "লৌহের শনাক্তকরণ পরীক্ষা",
+   "book_page": 170,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe³⁺ — KSCN পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম থায়োসায়ানেট",
+     "formula": "KSCN",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পেন্টাঅ্যাকুয়া থায়োসায়ানেটো আয়রন (III) ক্লোরাইড",
+     "formula": "[FeSCN(H₂O)₅]Cl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeCl₃(aq) + KSCN(aq) + 5H₂O(l) → [FeSCN(H₂O)₅]Cl₂ + KCl(aq)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "রক্ত-লাল দ্রবণ হলে Fe³⁺; ফেরাসে রঙ হয় না।",
+   "procedure_bn": [
+    "লবণ দ্রবণে কয়েক ফোঁটা KSCN দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লৌহ লবণ",
+    "KSCN"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-74",
+   "chapter_no": 3,
+   "section_no": "3.17",
+   "section_title_bn": "লৌহের শনাক্তকরণ পরীক্ষা",
+   "book_page": 170,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe²⁺ ও Fe³⁺ — K₃[Fe(CN)₆] পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ফেরিসায়ানাইড",
+     "formula": "K₃[Fe(CN)₆]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রুসিয়ান নীল",
+     "formula": "KFe[Fe(CN)₆]",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeSO₄(aq) + K₃[Fe(CN)₆](aq) → KFe[Fe(CN)₆]↓ + K₂SO₄(aq) ; FeCl₃(aq) + K₃[Fe(CN)₆](aq) → Fe[Fe(CN)₆] + 3KCl(aq)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "ফেরাসে গাঢ় নীল (প্রুসিয়ান নীল) অধঃক্ষেপ; ফেরিকে শুধু হালকা সবুজ/বাদামি রঙ।",
+   "procedure_bn": [
+    "লবণ দ্রবণে কয়েক ফোঁটা ফেরিসায়ানাইড দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লৌহ লবণ",
+    "K₃[Fe(CN)₆]"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-75",
+   "chapter_no": 3,
+   "section_no": "3.18",
+   "section_title_bn": "ফেরাস লবণ ও ফেরিক লবণের পারস্পরিক পরিবর্তন",
+   "book_page": 170,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Fe²⁺ → Fe³⁺ গাঢ় HNO₃ ও Cl₂",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক সালফেট",
+     "formula": "Fe₂(SO₄)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "6FeSO₄(aq) + 3H₂SO₄(aq) + 2HNO₃(aq) → 3Fe₂(SO₄)₃(aq) + 4H₂O(l) + 2NO(g) ; 2FeCl₂(aq) + Cl₂(g) → 2FeCl₃(aq)",
+   "conditions": "লঘু H₂SO₄ মিশ্রিত",
+   "observations_bn": "ফেরাস সবুজ দ্রবণ হলুদ ফেরিক হয়, NO গ্যাস বেরোয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "Cl₂ দ্বারা জারণ আলাদা সমীকরণ (গ্যাসীয় বিকারক)।"
+  },
+  {
+   "id": "k12-05-76",
+   "chapter_no": 3,
+   "section_no": "3.18",
+   "section_title_bn": "ফেরাস লবণ ও ফেরিক লবণের পারস্পরিক পরিবর্তন",
+   "book_page": 170,
+   "type": "bench",
+   "kind": "titration",
+   "title_bn": "FeSO₄ + অম্লীয় KMnO₄",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক সালফেট",
+     "formula": "Fe₂(SO₄)₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানাস সালফেট",
+     "formula": "MnSO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "10FeSO₄ + 2KMnO₄ + 8H₂SO₄ → 5Fe₂(SO₄)₃ + K₂SO₄ + 2MnSO₄ + 8H₂O",
+   "conditions": "লঘু H₂SO₄",
+   "observations_bn": "KMnO₄-এর বেগুনি রঙ কেটে যায়।",
+   "procedure_bn": [
+    "FeSO₄ দ্রবণ লঘু H₂SO₄-এ অম্লীকরণ করো",
+    "KMnO₄ ফোঁটা ফোঁটা দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeSO₄",
+    "KMnO₄",
+    "H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-77",
+   "chapter_no": 3,
+   "section_no": "3.18",
+   "section_title_bn": "ফেরাস লবণ ও ফেরিক লবণের পারস্পরিক পরিবর্তন",
+   "book_page": 171,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Fe³⁺ → Fe²⁺: জিংক/HCl ও H₂S, SO₂",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "জায়মান হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "FeCl₃(aq) + [H] → FeCl₂(aq) + HCl(aq)",
+   "conditions": "Zn + HCl",
+   "observations_bn": "হলুদ দ্রবণ ফেকাসে সবুজ হয়।",
+   "procedure_bn": [
+    "FeCl₃ দ্রবণে জিংক ও HCl দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeCl₃",
+    "Zn",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "একই পাতায় 2FeCl₃ + H₂S → 2FeCl₂ + 2HCl + S↓ (সালফার সাদা গুঁড়া) এবং 2FeCl₃ + 2H₂O + SO₂ → 2FeCl₂ + 2HCl + H₂SO₄ ছাপা।"
+  },
+  {
+   "id": "k12-05-78",
+   "chapter_no": 3,
+   "section_no": "3.18",
+   "section_title_bn": "ফেরাস লবণ ও ফেরিক লবণের পারস্পরিক পরিবর্তন",
+   "book_page": 171,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "FeCl₃ + H₂S ও SO₂ বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid"
+    }
+   ],
+   "equation": "2FeCl₃(aq) + H₂S(g) → 2FeCl₂(aq) + 2HCl(aq) + S↓ ; 2FeCl₃(aq) + 2H₂O(l) + SO₂(g) → 2FeCl₂(aq) + 2HCl(aq) + H₂SO₄(aq)",
+   "conditions": "গ্যাসীয় বিকারক",
+   "observations_bn": "হলুদ দ্রবণ ফেকাসে হয়; H₂S-এ সালফার ঘোলাটে জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "H₂S ও SO₂ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-79",
+   "chapter_no": 3,
+   "section_no": "3.20",
+   "section_title_bn": "আকরিক থেকে কোবাল্ট নিষ্কাশন",
+   "book_page": 172,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কোবাল্ট সালফাইড আকরিক তাপজারণ ও বিগলন",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + O₂ → SO₂ ; 4As + 3O₂ → 2As₂O₃ ; 2FeS + 3O₂ → 2FeO + 2SO₂ ; CaO + SiO₂ → CaSiO₃ ; FeO + SiO₂ → FeSiO₃",
+   "conditions": "তাপজারণ ও বাত্যাচুল্লিতে বিগলন",
+   "observations_bn": "S, As অপসারিত; ধাতুমল ভেসে ওঠে, নিচে কোবাল্ট-নিকেল-কপার সালফাইড 'স্পাইস' জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-80",
+   "chapter_no": 3,
+   "section_no": "3.20",
+   "section_title_bn": "আকরিক থেকে কোবাল্ট নিষ্কাশন",
+   "book_page": 172,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Co²⁺ → Co³⁺ ব্লিচিং পাউডারে",
+   "reactants": [
+    {
+     "name_bn": "কোবাল্ট ক্লোরাইড",
+     "formula": "CoCl₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ব্লিচিং পাউডার",
+     "formula": "Ca(OCl)Cl",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কোবাল্টাস হাইড্রক্সাইড",
+     "formula": "Co(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কোবাল্টিক হাইড্রক্সাইড",
+     "formula": "Co(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CoCl₂(aq) + Ca(OH)₂ → Co(OH)₂ + CaCl₂(aq) ; 2Co(OH)₂ + H₂O + Ca(OCl)Cl → 2Co(OH)₃ + CaCl₂",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "Co(OH)₂ ব্লিচিং পাউডারে জারিত হয়ে Co(OH)₃ অধঃক্ষিপ্ত হয়; Ni²⁺ দ্রবণে থেকে যায় (Ni-Co পৃথকীকরণ)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CoCl₂",
+    "Ca(OH)₂",
+    "ব্লিচিং পাউডার"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "প্রথম সমীকরণ বইয়ে CoCl₂ + Ca(OH)₂ → Co(OH)₂ + CaCl₂ ছাপা।"
+  },
+  {
+   "id": "k12-05-81",
+   "chapter_no": 3,
+   "section_no": "3.20",
+   "section_title_bn": "আকরিক থেকে কোবাল্ট নিষ্কাশন",
+   "book_page": 172,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Co(OH)₃ → Co₃O₄ → Co",
+   "reactants": [
+    {
+     "name_bn": "কোবাল্টিক হাইড্রক্সাইড",
+     "formula": "Co(OH)₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কোবাল্টো-কোবাল্টিক অক্সাইড",
+     "formula": "Co₃O₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "12Co(OH)₃ → 4Co₃O₄ + 18H₂O + O₂ ; Co₃O₄ + 4C → 3Co + 4CO",
+   "conditions": "শুকিয়ে উত্তপ্ত; কোকের সঙ্গে চুল্লিতে",
+   "observations_bn": "শেষে কোবাল্ট ধাতু পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-82",
+   "chapter_no": 3,
+   "section_no": "3.21",
+   "section_title_bn": "কোবাল্ট শনাক্তকরণ পরীক্ষা",
+   "book_page": 172,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "কোবাল্ট বোরাক্স বিড (শুষ্ক) পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "বোরাক্স",
+     "formula": "Na₂B₄O₇·10H₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কোবাল্ট লবণ",
+     "formula": "Co(NO₃)₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম মেটাবোরেট",
+     "formula": "NaBO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "বোরিক অ্যানহাইড্রাইড",
+     "formula": "B₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কোবাল্ট (II) মেটাবোরেট",
+     "formula": "Co(BO₂)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Na₂B₄O₇·10H₂O → 2NaBO₂ + B₂O₃ + 10H₂O ; 2Co(NO₃)₂ → 2CoO + 4NO₂ + O₂ ; CoO + NaBO₂ → NaCoBO₃ ; CoO + B₂O₃ → Co(BO₂)₂",
+   "conditions": "প্লাটিনাম তারের লুপে শিখায় উত্তপ্ত",
+   "observations_bn": "উত্তপ্ত ও ঠান্ডা দুই অবস্থাতেই নীল বিড হয়।",
+   "procedure_bn": [
+    "প্লাটিনাম লুপে বোরাক্স বিড তৈরি করো",
+    "বিডে লবণ লাগিয়ে আবার উত্তপ্ত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "প্লাটিনাম তার",
+    "বোরাক্স",
+    "বুনসেন বার্নার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-83",
+   "chapter_no": 3,
+   "section_no": "3.21",
+   "section_title_bn": "কোবাল্ট শনাক্তকরণ পরীক্ষা",
+   "book_page": 173,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "কোবাল্টের নিশ্চিতকরণ (NaHCO₃ ও ব্রোমিন)",
+   "reactants": [
+    {
+     "name_bn": "কোবাল্ট ক্লোরাইড",
+     "formula": "CoCl₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন কার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেটো কোবাল্টেট (III)",
+     "formula": "Na₃[Co(CO₃)₃]",
+     "state": "solid"
+    }
+   ],
+   "equation": "CoCl₂(aq) + 2NaHCO₃(aq) → Co(HCO₃)₂(aq) + 2NaCl(aq) ; Co(HCO₃)₂ + 4NaHCO₃ → Na₄[Co(CO₃)₃] + 3CO₂ + 3H₂O ; 2Na₄[Co(CO₃)₃] + H₂O + [O] → 2Na₃[Co(CO₃)₃]↓ + 2NaOH",
+   "conditions": "ব্রোমিন যোগের পর উত্তপ্ত",
+   "observations_bn": "শেষে সবুজ জটিল লবণ পাওয়া যায় — কোবাল্টের নিশ্চিতকরণ।",
+   "procedure_bn": [
+    "CoCl₂ দ্রবণে NaHCO₃ ও অল্প ব্রোমিন জল মেশাও",
+    "২-৩ মিনিট নাড়িয়ে উত্তপ্ত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CoCl₂",
+    "NaHCO₃",
+    "ব্রোমিন জল"
+   ],
+   "safety_bn": "ব্রোমিন বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-84",
+   "chapter_no": 3,
+   "section_no": "3.23",
+   "section_title_bn": "আকরিক থেকে নিকেল নিষ্কাশন",
+   "book_page": 173,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নিকেল আকরিকের তাপজারণ ও বিগলন",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + O₂ → SO₂ ; 2FeS + 3O₂ → 2FeO + 2SO₂ ; FeO + SiO₂ → FeSiO₃ ; CaO + SiO₂ → CaSiO₃",
+   "conditions": "তাপজারণ ও বাত্যাচুল্লি",
+   "observations_bn": "সালফাইডের একাংশ জারিত হয়, ধাতুমল আলাদা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-85",
+   "chapter_no": 3,
+   "section_no": "3.23",
+   "section_title_bn": "আকরিক থেকে নিকেল নিষ্কাশন",
+   "book_page": 174,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নিকেল ম্যাট তাপজারণ, মন্ড প্রক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "নিকেল সালফাইড",
+     "formula": "NiS",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিকেল অক্সাইড",
+     "formula": "NiO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NiS + 3O₂ → 2NiO + 2SO₂ ; 2CuS + 3O₂ → 2CuO + 2SO₂ ; 4FeS + 7O₂ → 2Fe₂O₃ + 4SO₂ ; CuO + H₂SO₄ → CuSO₄ + H₂O ; NiO + H₂ → Ni + H₂O ; Ni + 4CO → Ni(CO)₄ ; Ni(CO)₄ → Ni + 4CO",
+   "conditions": "80°C (CuO ধোয়া); 300–350°C (বিজারণ); 50–80°C (Ni(CO)₄ গঠন); 180°C (বিয়োজন)",
+   "observations_bn": "মন্ড প্রক্রিয়ায় উদ্বায়ী Ni(CO)₄ আলাদা হয়ে পরে 180°C-এ ভেঙে প্রায় 98% বিশুদ্ধ নিকেল দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "Ni(CO)₄ ও CO অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-86",
+   "chapter_no": 3,
+   "section_no": "3.23",
+   "section_title_bn": "আকরিক থেকে নিকেল নিষ্কাশন",
+   "book_page": 174,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "অবিশুদ্ধ নিকেলের তড়িৎ বিশোধন",
+   "reactants": [
+    {
+     "name_bn": "অবিশুদ্ধ নিকেল (অ্যানোড)",
+     "formula": "Ni",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "নিকেল অ্যামোনিয়াম সালফেট দ্রবণ",
+     "formula": "NiSO₄·(NH₄)₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বিশুদ্ধ নিকেল (ক্যাথোড)",
+     "formula": "Ni",
+     "state": "solid"
+    }
+   ],
+   "equation": "অ্যানোড: Ni(s) → Ni²⁺(aq) + 2e⁻ ; ক্যাথোড: Ni²⁺(aq) + 2e⁻ → Ni(s)",
+   "conditions": "25°C, তড়িৎ বিশ্লেষণ",
+   "observations_bn": "অ্যানোড ক্ষয় হয়, ক্যাথোডে 100% বিশুদ্ধ নিকেল জমে; Ag, Au, Pt অ্যানোড কাদা হয়ে নিচে জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-87",
+   "chapter_no": 3,
+   "section_no": "3.24",
+   "section_title_bn": "নিকেল শনাক্তকরণ পরীক্ষা",
+   "book_page": 175,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "নিকেল বোরাক্স বিড পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "বোরাক্স",
+     "formula": "Na₂B₄O₇·10H₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "নিকেল সালফেট",
+     "formula": "NiSO₄",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিকেল মেটাবোরেট",
+     "formula": "Ni(BO₂)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নিকেল অর্থোবোরেট",
+     "formula": "NaNiBO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2NiSO₄ → 2NiO + 2SO₂ + O₂ ; NiO + B₂O₃ → Ni(BO₂)₂ ; NiO + NaBO₂ → NaNiBO₃",
+   "conditions": "প্লাটিনাম লুপ, শিখায় উত্তপ্ত",
+   "observations_bn": "উত্তপ্ত ও ঠান্ডা — দুই অবস্থায় লালচে বাদামি বিড হয়।",
+   "procedure_bn": [
+    "বোরাক্স বিডে লবণ লাগিয়ে উত্তপ্ত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "প্লাটিনাম তার",
+    "বোরাক্স"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-88",
+   "chapter_no": 3,
+   "section_no": "3.24",
+   "section_title_bn": "নিকেল শনাক্তকরণ পরীক্ষা",
+   "book_page": 175,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নিকেলের ডাইমিথাইল গ্লাইঅক্সিম পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "নিকেল ক্লোরাইড",
+     "formula": "NiCl₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ডাইমিথাইল গ্লাইঅক্সিম",
+     "formula": "C₄H₈N₂O₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিকেল ডাইমিথাইল গ্লাইঅক্সিমেট (লাল অধঃক্ষেপ)",
+     "formula": "Ni(C₄H₇N₂O₂)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NiCl₂(aq) + 2C₄H₈N₂O₂ + 2NH₄OH → Ni(C₄H₇N₂O₂)₂↓ + 2NH₄Cl + 2H₂O",
+   "equation_printed": "DMG + NiCl₂ + 2NH₄OH → Ni(DMG)₂ + 2NH₄Cl + 2H₂O",
+   "conditions": "ক্ষারীয় (NH₄OH)",
+   "observations_bn": "উজ্জ্বল লাল অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "নিকেল দ্রবণকে NH₄OH-এ ক্ষারীয় করো",
+    "ডাইমিথাইল গ্লাইঅক্সিম দ্রবণ মেশাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NiCl₂ দ্রবণ",
+    "NH₄OH",
+    "ডাইমিথাইল গ্লাইঅক্সিম"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "ছাপায় বামদিকে একটিই DMG, কিন্তু কমপ্লেক্সে দুটি; পরমাণু মিলিয়ে 2DMG লেখা হয়েছে।"
+  },
+  {
+   "id": "k12-05-89",
+   "chapter_no": 3,
+   "section_no": "3.26",
+   "section_title_bn": "আকরিক থেকে কপার নিষ্কাশন",
+   "book_page": 176,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কপার পাইরাইটসের তাপজারণ ও বেসিমার রূপান্তর",
+   "reactants": [
+    {
+     "name_bn": "কপার পাইরাইটস",
+     "formula": "CuFeS₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউপ্রাস সালফাইড",
+     "formula": "Cu₂S",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফেরাস সালফাইড",
+     "formula": "FeS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2CuFeS₂ + O₂ → Cu₂S + 2FeS + SO₂ ; 2FeS + 3O₂ → 2FeO + 2SO₂ ; FeO + SiO₂ → FeSiO₃ ; 2Cu₂S + 3O₂ → 2Cu₂O + 2SO₂ ; 2Cu₂O + Cu₂S → 6Cu + SO₂",
+   "conditions": "বহুতাক্ক চুল্লি, বাত্যাচুল্লি, বেসিমার কনভার্টার",
+   "observations_bn": "ম্যাটে ~50% Cu থাকে; শেষে স্ববিজারণে ~98% Cu 'ব্লিস্টার কপার' পাওয়া যায়, ঠান্ডা হওয়ার সময় SO₂ বুদবুদ ফোসকা তোলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-90",
+   "chapter_no": 3,
+   "section_no": "3.26",
+   "section_title_bn": "আকরিক থেকে কপার নিষ্কাশন",
+   "book_page": 177,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "ব্লিস্টার কপারের তড়িৎ বিশোধন",
+   "reactants": [
+    {
+     "name_bn": "অবিশুদ্ধ কপার (অ্যানোড)",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কপার সালফেট দ্রবণ",
+     "formula": "CuSO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "99.98% বিশুদ্ধ কপার (ক্যাথোড)",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "CuSO₄ → Cu²⁺ + SO₄²⁻ ; অ্যানোড: Cu(s) → Cu²⁺(aq) + 2e⁻ ; ক্যাথোড: Cu²⁺(aq) + 2e⁻ → Cu(s)",
+   "conditions": "15% CuSO₄ দ্রবণ, তড়িৎ বিশ্লেষণ",
+   "observations_bn": "অ্যানোড ক্ষয় হয়, ক্যাথোডে বিশুদ্ধ কপার জমে; Ag ও Au অ্যানোড কাদা হিসেবে নিচে জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "স্কুল ল্যাবে তড়িৎ বিশ্লেষণ গড়া বেঞ্চের আওতায় ধরা হয়নি।"
+  },
+  {
+   "id": "k12-05-91",
+   "chapter_no": 3,
+   "section_no": "3.27",
+   "section_title_bn": "কপারের বিক্রিয়াসমূহ",
+   "book_page": 177,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "কপার + গাঢ় HNO₃",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার (II) নাইট্রেট",
+     "formula": "Cu(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cu(s) + 4HNO₃(aq) → Cu(NO₃)₂(aq) + 2NO₂(g) + 2H₂O(l)",
+   "conditions": "গাঢ় HNO₃",
+   "observations_bn": "বাদামি NO₂ গ্যাস বেরোয় ও নীল দ্রবণ পাওয়া যায়।",
+   "procedure_bn": [
+    "কপার টুকরায় গাঢ় HNO₃ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কপার",
+    "গাঢ় HNO₃"
+   ],
+   "safety_bn": "NO₂ বিষাক্ত; ফিউম হুডে করো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-92",
+   "chapter_no": 3,
+   "section_no": "3.27",
+   "section_title_bn": "কপারের বিক্রিয়াসমূহ",
+   "book_page": 177,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কপার + গাঢ় H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার (II) সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cu(s) + 2H₂SO₄(aq) → CuSO₄(aq) + SO₂(g) + 2H₂O(l)",
+   "conditions": "গাঢ় H₂SO₄, উত্তপ্ত",
+   "observations_bn": "SO₂ বেরোয়, নীল দ্রবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "SO₂ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-93",
+   "chapter_no": 3,
+   "section_no": "3.27",
+   "section_title_bn": "কপারের বিক্রিয়াসমূহ",
+   "book_page": 177,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Cu(NO₃)₂ পানিতে দ্রবণ",
+   "reactants": [
+    {
+     "name_bn": "কপার (II) নাইট্রেট",
+     "formula": "Cu(NO₃)₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাঅ্যাকুয়া কপার (II) আয়ন",
+     "formula": "[Cu(H₂O)₄]²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রেট আয়ন",
+     "formula": "NO₃⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cu(NO₃)₂(s) + 4H₂O(l) → [Cu(H₂O)₄]²⁺(aq) + 2NO₃⁻(aq)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "নীল দ্রবণ গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-94",
+   "chapter_no": 3,
+   "section_no": "3.27",
+   "section_title_bn": "কপারের বিক্রিয়াসমূহ",
+   "book_page": 178,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "কপার (II) দ্রবণে Cl⁻ যোগ",
+   "reactants": [
+    {
+     "name_bn": "টেট্রাঅ্যাকুয়া কপার (II)",
+     "formula": "[Cu(H₂O)₄]²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাক্লোরো কিউপ্রেট (II)",
+     "formula": "[CuCl₄]²⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "[Cu(H₂O)₄]²⁺(aq) + 4Cl⁻(aq) ⇌ [CuCl₄]²⁻(aq) + 4H₂O(l)",
+   "conditions": "গাঢ় Cl⁻",
+   "observations_bn": "নীল দ্রবণ সবুজ হয়ে যায়।",
+   "procedure_bn": [
+    "নীল CuSO₄ দ্রবণে গাঢ় HCl দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuSO₄ দ্রবণ",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "চিত্র ৩.১৫-এ শুধু তীর দেখানো; সমীকরণ ছাপা নেই — চিত্রের রঙ ও আয়ন থেকে লেখা।"
+  },
+  {
+   "id": "k12-05-95",
+   "chapter_no": 3,
+   "section_no": "3.27",
+   "section_title_bn": "কপারের বিক্রিয়াসমূহ",
+   "book_page": 178,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "কপারের বিভিন্ন যৌগ (চিত্র ৩.১৫-এর বিক্রিয়া)",
+   "reactants": [
+    {
+     "name_bn": "কপার (II) আয়ন",
+     "formula": "Cu²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "বিকারক (S²⁻/OH⁻/I⁻/CO₃²⁻/NH₃)",
+     "formula": "X",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার যৌগ",
+     "formula": "Cu-যৌগ",
+     "state": "solid"
+    }
+   ],
+   "equation": "Cu²⁺ + S²⁻ → CuS↓ (কালো)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "S²⁻: কালো CuS; OH⁻: নীল Cu(OH)₂; CO₃²⁻: সবুজ ক্ষারীয় কার্বনেট; I⁻: সাদা CuI; NH₃: গাঢ় নীল জটিল আয়ন; Cu(OH)₂ উত্তপ্ত করলে কালো CuO, আরও গরমে লাল Cu₂O।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "চিত্র থেকে নেওয়া রঙ ও যৌগ; সমীকরণ বইয়ে নেই, তাই শুধু কালো CuS-এর সরল সমীকরণ নিজে লেখা।"
+  },
+  {
+   "id": "k12-05-96",
+   "chapter_no": 3,
+   "section_no": "3.28",
+   "section_title_bn": "কপারের ব্যবহার",
+   "book_page": 178,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "সোয়েটজারের বিকারক (Cu²⁺ + NH₄OH)",
+   "reactants": [
+    {
+     "name_bn": "কপার (II) আয়ন",
+     "formula": "Cu²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাঅ্যামিন কপার (II)",
+     "formula": "[Cu(NH₃)₄]²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cu²⁺(aq) + 4NH₄OH(aq) → [Cu(NH₃)₄]²⁺(aq) + 4H₂O(l)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "প্রথমে হালকা নীল Cu(OH)₂, বেশি NH₄OH-এ গাঢ় নীল দ্রবণ (সেলুলোজ দ্রবণ করে — রেয়ন তৈরিতে)।",
+   "procedure_bn": [
+    "CuSO₄ দ্রবণে ধীরে NH₄OH দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuSO₄",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-97",
+   "chapter_no": 3,
+   "section_no": "3.29",
+   "section_title_bn": "কপারের শনাক্তকরণ পরীক্ষা",
+   "book_page": 178,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "কপারের শুষ্ক পরীক্ষা (কাঠ কয়লা)",
+   "reactants": [
+    {
+     "name_bn": "কপার লবণ",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কাঠ কয়লা",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "CuSO₄ + Na₂CO₃ → CuCO₃ + Na₂SO₄ ; CuCO₃ → CuO + CO₂ ; CuO + C → Cu + CO",
+   "conditions": "ফুঁৎনলে কাঠ কয়লার গর্তে উত্তপ্ত",
+   "observations_bn": "লালচে কপার গুঁড়া/দানা পাওয়া যায়।",
+   "procedure_bn": [
+    "লবণ ও দ্বিগুণ Na₂CO₃ মিশিয়ে কাঠ কয়লার গর্তে উত্তপ্ত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কাঠ কয়লা",
+    "ফুঁৎনল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-98",
+   "chapter_no": 3,
+   "section_no": "3.29",
+   "section_title_bn": "কপারের শনাক্তকরণ পরীক্ষা",
+   "book_page": 179,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Cu²⁺ — পটাসিয়াম ফেরোসায়ানাইড",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ফেরোসায়ানাইড",
+     "formula": "K₄[Fe(CN)₆]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার ফেরোসায়ানাইড",
+     "formula": "Cu₂[Fe(CN)₆]",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2CuSO₄(aq) + K₄[Fe(CN)₆](aq) → Cu₂[Fe(CN)₆]↓ + 2K₂SO₄(aq)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "লালচে বাদামি অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "লবণ দ্রবণে কয়েক ফোঁটা ফেরোসায়ানাইড দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuSO₄",
+    "K₄[Fe(CN)₆]"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-05-99",
+   "chapter_no": 3,
+   "section_no": "3.31",
+   "section_title_bn": "আকরিক থেকে জিংক নিষ্কাশন",
+   "book_page": 179,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জিংক আকরিক তাপজারণ",
+   "reactants": [
+    {
+     "name_bn": "ক্যালামাইন",
+     "formula": "ZnCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "জিংক ব্লেন্ড",
+     "formula": "ZnS",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "ZnCO₃(s) → ZnO(s) + CO₂(g) ; 2ZnS(s) + 3O₂(g) → 2ZnO(s) + 2SO₂(g)",
+   "conditions": "~900°C",
+   "observations_bn": "ZnO পাওয়া যায়; SO₂ দিয়ে সালফিউরিক এসিড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "ZnO-কে কোক-সহ চীনামাটির রিটর্টে বিগলনের বর্ণনা আছে, নতুন সমীকরণ নেই (পূর্বে পাতা ১৫১-এর ZnO + C → Zn + CO)।"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 3,
+   "no": "3.3",
+   "title_bn": "অবস্থান্তর ধাতু নিষ্কাশন পদ্ধতি",
+   "start_page": 151
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.4",
+   "title_bn": "টাইটেনিয়ামের অবস্থান",
+   "start_page": 152
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.5",
+   "title_bn": "আকরিক থেকে টাইটেনিয়াম ধাতু নিষ্কাশন",
+   "start_page": 152
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.6",
+   "title_bn": "ভ্যানাডিয়ামের অবস্থান বা উৎস",
+   "start_page": 153
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.7",
+   "title_bn": "আকরিক থেকে ভ্যানাডিয়াম ধাতু নিষ্কাশন",
+   "start_page": 154
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.8",
+   "title_bn": "ক্রোমিয়ামের অবস্থান বা উৎস",
+   "start_page": 155
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.9",
+   "title_bn": "ফেরোক্রোম উৎপাদন",
+   "start_page": 155
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.10",
+   "title_bn": "আকরিক থেকে ক্রোমিয়াম ধাতু নিষ্কাশন",
+   "start_page": 155
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.11",
+   "title_bn": "ম্যাঙ্গানিজের অবস্থান বা উৎস",
+   "start_page": 156
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.12",
+   "title_bn": "আকরিক থেকে ম্যাঙ্গানিজ নিষ্কাশন",
+   "start_page": 156
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.13",
+   "title_bn": "ম্যাঙ্গানিজ, ক্রোমিয়াম ও ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর পদ্ধতি",
+   "start_page": 157
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.13.1",
+   "title_bn": "ম্যাঙ্গানিজের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "start_page": 158
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.13.2",
+   "title_bn": "ক্রোমিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "start_page": 160
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.13.3",
+   "title_bn": "ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর",
+   "start_page": 163
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.14",
+   "title_bn": "লৌহের অবস্থান বা উৎস",
+   "start_page": 166
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.15",
+   "title_bn": "আকরিক থেকে লৌহ নিষ্কাশন: ঢালাই লৌহ উৎপাদন",
+   "start_page": 166
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.16",
+   "title_bn": "লৌহের যৌগসমূহ",
+   "start_page": 167
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.17",
+   "title_bn": "লৌহের শনাক্তকরণ পরীক্ষা",
+   "start_page": 169
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.18",
+   "title_bn": "ফেরাস লবণ ও ফেরিক লবণের পারস্পরিক পরিবর্তন",
+   "start_page": 170
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.19",
+   "title_bn": "কোবাল্টের অবস্থান বা উৎস",
+   "start_page": 171
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.20",
+   "title_bn": "আকরিক থেকে কোবাল্ট নিষ্কাশন",
+   "start_page": 171
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.21",
+   "title_bn": "কোবাল্ট শনাক্তকরণ পরীক্ষা",
+   "start_page": 172
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.22",
+   "title_bn": "নিকেলের অবস্থান বা উৎস",
+   "start_page": 173
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.23",
+   "title_bn": "আকরিক থেকে নিকেল নিষ্কাশন",
+   "start_page": 173
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.24",
+   "title_bn": "নিকেল শনাক্তকরণ পরীক্ষা",
+   "start_page": 175
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.25",
+   "title_bn": "কপারের অবস্থান বা উৎস",
+   "start_page": 175
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.26",
+   "title_bn": "আকরিক থেকে কপার নিষ্কাশন",
+   "start_page": 176
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.27",
+   "title_bn": "কপারের বিক্রিয়াসমূহ",
+   "start_page": 177
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.28",
+   "title_bn": "কপারের ব্যবহার",
+   "start_page": 178
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.29",
+   "title_bn": "কপারের শনাক্তকরণ পরীক্ষা",
+   "start_page": 178
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.30",
+   "title_bn": "জিংকের অবস্থান বা উৎস",
+   "start_page": 179
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.31",
+   "title_bn": "আকরিক থেকে জিংক নিষ্কাশন",
+   "start_page": 179
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Chunk is chapter 3 (d-block) printed pp.144-179, not chapter 5. Pages 144-150 precede section 3.3; their items are tagged section 3.2 with a descriptive title (section number inferred from the printed cross-reference 'অনুচ্ছেদ ৩.২'). Section 3.5 sits under the Titanium sub-head; section titles in 3.6-3.12 are as printed English/Bangla pairs. Metal conversions between oxidation states (Mn/Cr/V) include some half-equations."
+}

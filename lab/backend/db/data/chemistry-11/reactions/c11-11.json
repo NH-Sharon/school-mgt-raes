@@ -1,0 +1,396 @@
+{
+ "book": "NCTB Class 11 Chemistry First Paper",
+ "chunk_pdf_pages": [
+  353,
+  387
+ ],
+ "page_offset_note": "printed page = pdf page + 2 (pdf 353 = printed 355)",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-11-1",
+   "chapter_no": 3,
+   "section_no": "3.18.1",
+   "section_title_bn": "সন্নিবেশ সমযোজী বন্ধন",
+   "book_page": 370,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়া ও H⁺ থেকে অ্যামোনিয়াম আয়ন গঠন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₃ + H⁺ → NH₄⁺",
+   "conditions": "আয়ন গঠন (সন্নিবেশ বন্ধন)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₃",
+    "H⁺"
+   ],
+   "safety_bn": "",
+   "notes": "N-এর নিঃসঙ্গ জোড় H⁺-কে দিয়ে সন্নিবেশ বন্ধন গড়ে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-11-2",
+   "chapter_no": 3,
+   "section_no": "3.18.1",
+   "section_title_bn": "সন্নিবেশ সমযোজী বন্ধন",
+   "book_page": 371,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পানি ও H⁺ থেকে হাইড্রোনিয়াম আয়ন গঠন",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂O + H⁺ → H₃O⁺",
+   "conditions": "আয়ন গঠন (সন্নিবেশ বন্ধন)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "H₂O",
+    "H⁺"
+   ],
+   "safety_bn": "",
+   "notes": "O-এর নিঃসঙ্গ জোড় H⁺-কে দিয়ে বন্ধন গড়ে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-11-3",
+   "chapter_no": 3,
+   "section_no": "3.18.1",
+   "section_title_bn": "সন্নিবেশ সমযোজী বন্ধন",
+   "book_page": 371,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NH₃ ও BF₃ থেকে অ্যাডাক্ট গঠন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "বোরন ট্রাইফ্লুরাইড",
+     "formula": "BF₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া-বোরন ট্রাইফ্লুরাইড অ্যাডাক্ট",
+     "formula": "H₃N→BF₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "NH₃ + BF₃ → H₃N→BF₃",
+   "conditions": "গ্যাসীয় বিক্রিয়ক; সন্নিবেশ বন্ধন",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₃",
+    "BF₃"
+   ],
+   "safety_bn": "",
+   "notes": "N জোড় দেয়, B (অষ্টক অপূর্ণ) গ্রহণ করে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-11-4",
+   "chapter_no": 3,
+   "section_no": "3.18.1",
+   "section_title_bn": "সন্নিবেশ সমযোজী বন্ধন",
+   "book_page": 373,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Fe²⁺ ও CN⁻ থেকে হেক্সাসায়ানোফেরেট(II) জটিল আয়ন গঠন",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(II) আয়ন",
+     "formula": "Fe²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সায়ানাইড আয়ন",
+     "formula": "CN⁻",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেক্সাসায়ানোফেরেট(II) আয়ন",
+     "formula": "[Fe(CN)₆]⁴⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "Fe²⁺ + 6CN⁻ → [Fe(CN)₆]⁴⁻",
+   "conditions": "জটিল আয়ন গঠন; d²sp³ সংকরায়ন",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Fe²⁺",
+    "CN⁻"
+   ],
+   "safety_bn": "",
+   "notes": "ছয় CN⁻ সন্নিবেশ বন্ধনে Fe²⁺-এর সাথে যুক্ত হয়। K⁺ যুক্ত হলে K₄[Fe(CN)₆] হয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-11-5",
+   "chapter_no": 3,
+   "section_no": "3.18.2",
+   "section_title_bn": "একই যৌগের অণুতে বিভিন্ন প্রকৃতির বন্ধন",
+   "book_page": 376,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "BF₃ ও F⁻ থেকে ফ্লুরোবোরেট আয়ন গঠন",
+   "reactants": [
+    {
+     "name_bn": "বোরন ট্রাইফ্লুরাইড",
+     "formula": "BF₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লুরাইড আয়ন",
+     "formula": "F⁻",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফ্লুরোবোরেট আয়ন",
+     "formula": "BF₄⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "BF₃ + F⁻ → BF₄⁻",
+   "conditions": "আয়ন গঠন (সন্নিবেশ বন্ধন)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "BF₃",
+    "F⁻"
+   ],
+   "safety_bn": "",
+   "notes": "F⁻-এর নিঃসঙ্গ জোড়ে B-এর অষ্টক পূর্ণ হয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-11-6",
+   "chapter_no": 3,
+   "section_no": "3.23",
+   "section_title_bn": "ফাজানের নীতি",
+   "book_page": 387,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PbI₄-এর বিয়োজন (I⁻ দ্বারা Pb⁴⁺ বিজারণ)",
+   "reactants": [
+    {
+     "name_bn": "লেড(IV) আয়োডাইড",
+     "formula": "PbI₄",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড(II) আয়োডাইড",
+     "formula": "PbI₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "PbI₄ → PbI₂ + I₂",
+   "conditions": "পোলারায়ন বেশি হওয়ায় নিজে থেকে ঘটে",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "PbI₄"
+   ],
+   "safety_bn": "",
+   "notes": "2I⁻ − 2e⁻ → I₂ এবং Pb⁴⁺ + 2e⁻ → Pb²⁺; তাই PbI₄ টেকে না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-11-7",
+   "chapter_no": 3,
+   "section_no": "3.24",
+   "section_title_bn": "লবণের বিভিন্ন ধর্মের উপর পোলারায়নের প্রভাব",
+   "book_page": 389,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ধাতব কার্বনেটের তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "ধাতব কার্বনেট",
+     "formula": "MCO₃",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ধাতব অক্সাইড",
+     "formula": "MO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "MCO₃ → MO + CO₂↑",
+   "conditions": "তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতব কার্বনেট (M = দ্বিতীয় গ্রুপের ধাতু)"
+   ],
+   "safety_bn": "",
+   "notes": "বিয়োজন তাপমাত্রা: BeCO₃ 100, MgCO₃ 350, CaCO₃ 547, SrCO₃ 778, BaCO₃ 998 °C।",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 3,
+   "no": "3.12",
+   "title_bn": "কেন্দ্রীয় পরমাণুর সংকর অবস্থা নির্ণয়",
+   "start_page": 355
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.13",
+   "title_bn": "সংকর অরবিটালে উপস্থিত নিঃসঙ্গ ইলেকট্রন জোড় সংখ্যা নির্ণয়",
+   "start_page": 358
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.14",
+   "title_bn": "সংকর অরবিটালের সাথে সমযোজী যৌগের আকৃতির সম্পর্ক",
+   "start_page": 360
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.15",
+   "title_bn": "অণুর আকৃতি ও বন্ধন কোণের উপর মুক্তজোড় ইলেকট্রনের প্রভাব",
+   "start_page": 361
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.16",
+   "title_bn": "শিক্ষার্থীর কাজ : সহজ উপকরণ ব্যবহার করে যৌগের মডেল তৈরি",
+   "start_page": 366
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.17",
+   "title_bn": "নিঃসঙ্গ ইলেকট্রন জোড় ও লিগ্যান্ড",
+   "start_page": 367
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.18",
+   "title_bn": "সন্নিবেশ সমযোজী বন্ধন",
+   "start_page": 369
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.18.2",
+   "title_bn": "একই যৌগের অণুতে বিভিন্ন প্রকৃতির বন্ধন",
+   "start_page": 374
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.19",
+   "title_bn": "সমযোজী বন্ধন ও সন্নিবেশ সমযোজী বন্ধনের তুলনা",
+   "start_page": 377
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.20",
+   "title_bn": "পোলারিটি ও পোলারায়ন",
+   "start_page": 379
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.21",
+   "title_bn": "সমযোজী যৌগের আয়নিক বৈশিষ্ট্য",
+   "start_page": 381
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.22",
+   "title_bn": "আয়নিক যৌগে সমযোজী বৈশিষ্ট্য",
+   "start_page": 382
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.23",
+   "title_bn": "ফাজানের নীতি",
+   "start_page": 384
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.24",
+   "title_bn": "লবণের বিভিন্ন ধর্মের উপর পোলারায়নের প্রভাব",
+   "start_page": 388
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Chunk is almost entirely theory (hybridisation, VSEPR, ligands, coordinate bonds, polarisation, Fajans). No lab activities or tests. Only explicit ion/complex/decomposition equations recorded, all as card. Section 3.18.1 printed at p369."
+}

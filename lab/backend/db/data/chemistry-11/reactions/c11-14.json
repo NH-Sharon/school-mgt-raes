@@ -1,0 +1,1016 @@
+{
+ "book": "NCTB Class 11 Chemistry First Paper (Chemistry_First_part_Class_11.pdf)",
+ "chunk_pdf_pages": [
+  458,
+  492
+ ],
+ "page_offset_note": "printed page = pdf page + 2",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-14-01",
+   "chapter_no": 4,
+   "section_no": "4.11.1",
+   "section_title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর তাপমাত্রার প্রভাব",
+   "book_page": 460,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়া উৎপাদন: তাপমাত্রার প্রভাব",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = −92 kJ",
+   "conditions": "উভমুখী, তাপোৎপাদী; ΔH = −92 kJ (পৃষ্ঠা ৪৬২-তে −92.38 kJ)",
+   "observations_bn": "তাপ বাড়ালে সাম্য বামে সরে NH₃ কমে ও Kc কমে; তাপ কমালে NH₃ বাড়ে। বইয়ে Kc-এর সারণি আছে (300 K-এ 2.6×10⁸ থেকে 1000 K-এ 2.3×10⁻³)।",
+   "procedure_bn": [],
+   "quantities_bn": "Kc: 300 K→2.6×10⁸, 500 K→1.7×10², 1000 K→2.3×10⁻³ (বইয়ের সারণি)",
+   "materials_bn": [
+    "N₂",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-02",
+   "chapter_no": 4,
+   "section_no": "4.11.1",
+   "section_title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর তাপমাত্রার প্রভাব",
+   "book_page": 461,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফার ডাই-অক্সাইডের জারণ (তাপোৎপাদী সাম্য)",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g); ΔH = −192.46 kJ",
+   "conditions": "তাপোৎপাদী সাম্য; তাপমাত্রার প্রভাব NH₃-এর মতোই",
+   "observations_bn": "তাপ বাড়ালে সাম্য পশ্চাতে সরে SO₃ কমে; কমালে SO₃ বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-03",
+   "chapter_no": 4,
+   "section_no": "4.11.1",
+   "section_title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর তাপমাত্রার প্রভাব",
+   "book_page": 461,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₄ এর বিয়োজন (তাপহারী সাম্য)",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন টেট্রাক্সাইড",
+     "formula": "N₂O₄",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাই-অক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂O₄(g) ⇌ 2NO₂(g); ΔH = +57 kJ mol⁻¹",
+   "equation_printed": "N₂O₄(s) ⇌ 2NO₂(g) (পৃষ্ঠা ৪৬২-তে অবস্থা (s) ছাপা)",
+   "conditions": "তাপহারী; তাপ প্রয়োগে সাম্য ডানে",
+   "observations_bn": "তাপ বাড়ালে NO₂ বেশি তৈরি হয় ও Kc বাড়ে; তাপ কমালে উল্টো হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂O₄"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-14-04",
+   "chapter_no": 4,
+   "section_no": "4.11.1",
+   "section_title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর তাপমাত্রার প্রভাব",
+   "book_page": 461,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রিক অক্সাইড গঠন (তাপহারী সাম্য)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + O₂(g) ⇌ 2NO(g); ΔH = +180.75 kJ mol⁻¹",
+   "conditions": "তাপহারী; উচ্চ তাপে NO বেশি",
+   "observations_bn": "তাপমাত্রা বাড়ালে NO-এর পরিমাণ ও Kc বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-05",
+   "chapter_no": 4,
+   "section_no": "4.11.2",
+   "section_title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর চাপের প্রভাব",
+   "book_page": 463,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PCl₅ এর বিয়োজন: চাপের প্রভাব",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+   "conditions": "বন্ধ পাত্র, গ্যাসীয় সাম্য",
+   "observations_bn": "গ্যাসের মোল সংখ্যা বাড়ে, তাই চাপ বাড়ালে সাম্য বামে সরে ও বিয়োজন কমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "PCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-06",
+   "chapter_no": 4,
+   "section_no": "4.11.2",
+   "section_title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর চাপের প্রভাব",
+   "book_page": 463,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₅ এর বিয়োজন: চাপের প্রভাব",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টক্সাইড",
+     "formula": "N₂O₅",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাই-অক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2N₂O₅(g) ⇌ 4NO₂(g) + O₂(g)",
+   "conditions": "বন্ধ পাত্র, গ্যাসীয় সাম্য",
+   "observations_bn": "উৎপাদের মোল সংখ্যা বেশি; চাপ বাড়ালে সাম্য বামে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-07",
+   "chapter_no": 4,
+   "section_no": "4.11.2",
+   "section_title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর চাপের প্রভাব",
+   "book_page": 463,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ ও O₂ থেকে SO₃: চাপের প্রভাব",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+   "conditions": "বন্ধ পাত্র, গ্যাসীয় সাম্য",
+   "observations_bn": "মোল সংখ্যা কমে, তাই চাপ বাড়ালে SO₃ বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-08",
+   "chapter_no": 4,
+   "section_no": "4.11.3",
+   "section_title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর ঘনমাত্রার প্রভাব",
+   "book_page": 463,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PCl₅ সাম্যে ঘনমাত্রার প্রভাব",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g); Kp = P(PCl₃)·P(Cl₂)/P(PCl₅)",
+   "conditions": "স্থির তাপমাত্রা, বন্ধ পাত্র",
+   "observations_bn": "বাইরে থেকে Cl₂ যোগ করলে কিছু PCl₅ তৈরি হয়ে সাম্য বামে সরে; Kp স্থির থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "PCl₅",
+    "Cl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-09",
+   "chapter_no": 4,
+   "section_no": "4.12",
+   "section_title_bn": "শিল্প উৎপাদনে লা-শাতেলিয়ারের নীতির প্রয়োগ",
+   "book_page": 464,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হেবার পদ্ধতিতে অ্যামোনিয়া উৎপাদন",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = −92.38 kJ",
+   "conditions": "450-500 °C, প্রায় 200 atm, প্রভাবক Fe, সহায়ক প্রভাবক Mo; উৎপন্ন NH₃ সরিয়ে নেওয়া হয়",
+   "observations_bn": "তাপোৎপাদী ও আয়তন-সংকোচী সাম্য; উচ্চ চাপ ও NH₃ অপসারণে ফলন বাড়ে, নিম্ন তাপে হার কম বলে মাঝামাঝি তাপ রাখা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "প্রায় 200 atm, 450-500 °C",
+   "materials_bn": [
+    "N₂",
+    "H₂",
+    "Fe",
+    "Mo"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-10",
+   "chapter_no": 4,
+   "section_no": "4.12",
+   "section_title_bn": "শিল্প উৎপাদনে লা-শাতেলিয়ারের নীতির প্রয়োগ",
+   "book_page": 465,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্পর্শ পদ্ধতিতে সালফিউরিক অ্যাসিড: SO₃ উৎপাদন",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g); ΔH = −192.46 kJ",
+   "conditions": "400-500 °C, প্রায় 1.7 atm, প্রভাবক V₂O₅ বা Pt",
+   "observations_bn": "উচ্চ চাপ ও SO₃ অপসারণে ফলন বাড়ে; SO₃ প্রথমে 98% H₂SO₄-এ শোষিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "প্রায় 1.7 atm, 400-500 °C",
+   "materials_bn": [
+    "SO₂",
+    "O₂",
+    "V₂O₅",
+    "98% H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-11",
+   "chapter_no": 4,
+   "section_no": "4.12",
+   "section_title_bn": "শিল্প উৎপাদনে লা-শাতেলিয়ারের নীতির প্রয়োগ",
+   "book_page": 466,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₃ থেকে অলিয়াম গঠন",
+   "reactants": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অলিয়াম",
+     "formula": "H₂S₂O₇",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SO₃ + H₂SO₄ → H₂S₂O₇",
+   "conditions": "SO₃ কে 98% H₂SO₄-এ চালনা করে 100% H₂SO₄ বানানো হয়, পরে অলিয়াম",
+   "observations_bn": "SO₃ শোষিত হয়ে অলিয়াম তৈরি হয় (বইয়ে সমীকরণ ছাপা নেই)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₃",
+    "H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k11-14-12",
+   "chapter_no": 4,
+   "section_no": "4.17",
+   "section_title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "book_page": 474,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PCl₅ এর বিয়োজন সাম্য (Kp, Kc নির্ণয়)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+   "conditions": "তাপ প্রয়োগ, বন্ধ পাত্র",
+   "observations_bn": "Kp = α²P/(1−α²) ও Kc = α²/((1−α)V) নির্ণয় করা হয়েছে।",
+   "procedure_bn": [],
+   "quantities_bn": "উদাহরণ: 70 °C, মোট চাপ 1.75 atm, 25% বিয়োজিত → Kp = 0.1167 atm, Kc = 4.148×10⁻³ mol L⁻¹",
+   "materials_bn": [
+    "PCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-13",
+   "chapter_no": 4,
+   "section_no": "4.17",
+   "section_title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "book_page": 476,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "COCl₂ এর তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "কার্বনিল ক্লোরাইড",
+     "formula": "COCl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "COCl₂(g) ⇌ CO(g) + Cl₂(g)",
+   "conditions": "তাপ প্রয়োগ",
+   "observations_bn": "PCl₅-এর মতো একই পদ্ধতিতে Kc ও Kp নির্ণয় হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "Kc = [CO][Cl₂]/[COCl₂]",
+   "materials_bn": [
+    "COCl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-14",
+   "chapter_no": 4,
+   "section_no": "4.17",
+   "section_title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "book_page": 477,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₄ এর বিয়োজন সাম্য",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন টেট্রাক্সাইড",
+     "formula": "N₂O₄",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাই-অক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂O₄(g) ⇌ 2NO₂(g)",
+   "conditions": "তাপ প্রয়োগ, বন্ধ পাত্র",
+   "observations_bn": "Kp = 4α²P/(1−α²), Kc = 4α²/((a−α)V) নির্ণয়; উদাহরণে 25 °C ও 1 atm-এ 20% বিয়োজনে Kp = 0.1667 atm।",
+   "procedure_bn": [],
+   "quantities_bn": "25 °C, 1 atm, 20% বিয়োজন → Kp = 0.1667 atm",
+   "materials_bn": [
+    "N₂O₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-15",
+   "chapter_no": 4,
+   "section_no": "4.17",
+   "section_title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "book_page": 478,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₅ এর বিয়োজন সাম্য",
+   "reactants": [
+    {
+     "name_bn": "ডাইনাইট্রোজেন পেন্টক্সাইড",
+     "formula": "N₂O₅",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাই-অক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2N₂O₅(g) ⇌ 4NO₂(g) + O₂(g)",
+   "conditions": "তাপ প্রয়োগ, বন্ধ পাত্র",
+   "observations_bn": "α দিয়ে Kp ও Kc-এর রাশিমালা বের করা হয়েছে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-16",
+   "chapter_no": 4,
+   "section_no": "4.17",
+   "section_title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "book_page": 479,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানল ও ইথানয়িক অ্যাসিডের এস্টারীকরণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOCH₂CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH(l) + CH₃CH₂OH(l) ⇌ CH₃COOCH₂CH₃(l) + H₂O(l)",
+   "conditions": "উভমুখী সাম্য",
+   "observations_bn": "অ্যাসিড ও অ্যালকোহল বিক্রিয়ায় এস্টার ও পানি হয়; Kc = x²/((a−x)(b−x)) (বইয়ের তত্ত্বীয় ব্যাখ্যা)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানয়িক অ্যাসিড",
+    "ইথানল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-17",
+   "chapter_no": 4,
+   "section_no": "4.17",
+   "section_title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "book_page": 480,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂ ও I₂ থেকে HI গঠন এবং HI এর বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + I₂(g) ⇌ 2HI(g)",
+   "conditions": "450 °C (উদাহরণে), বন্ধ পাত্র",
+   "observations_bn": "Δn = 0, তাই Kp = Kc। উদাহরণ: 25 g H₂ ও 1143 g I₂ থেকে 1024 g HI → Kc = 15.058; 2.5 mol HI-এর 25% বিয়োজনে Kc = 2.778×10⁻² (বিপরীত বিক্রিয়ার জন্য)।",
+   "procedure_bn": [],
+   "quantities_bn": "450 °C: 25 g H₂ + 1143 g I₂ → 1024 g HI, Kc = 15.058 (পৃষ্ঠা ৪৮২); HI-এর বিয়োজনে Kc = 2.778×10⁻² (পৃষ্ঠা ৪৮৩)",
+   "materials_bn": [
+    "H₂",
+    "I₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-18",
+   "chapter_no": 4,
+   "section_no": "4.17",
+   "section_title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "book_page": 481,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রোজেন ও হাইড্রোজেন থেকে NH₃ সংশ্লেষণ (Kc, Kp নির্ণয়)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+   "conditions": "550 °C, 200 atm, Fe/Al₂O₃/K₂O বা Mo প্রভাবক (বইয়ের বর্ণনা)",
+   "observations_bn": "আয়তন ও আংশিক চাপের সাহায্যে Kc ও Kp-এর সাধারণ রাশিমালা বের করা হয়েছে।",
+   "procedure_bn": [],
+   "quantities_bn": "উদাহরণ (পৃষ্ঠা ৪৮৪): 500 °C-এ [NH₃]=0.205, [N₂]=1.25, [H₂]=3.65 mol L⁻¹ → Kc = 6.9138×10⁻⁴, Kp = 1.7166×10⁻⁷ atm⁻²",
+   "materials_bn": [
+    "N₂",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-19",
+   "chapter_no": 4,
+   "section_no": "4.17",
+   "section_title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "book_page": 485,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ ও O₂ থেকে SO₃ (Pt প্রভাবক) এর Kp",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+   "conditions": "550 °C, চাপ 6.5 atm, Pt প্রভাবক",
+   "observations_bn": "2:1 অনুপাতে SO₂:O₂ নিয়ে 75% রূপান্তরে Kp = 6.23077 atm⁻¹।",
+   "procedure_bn": [],
+   "quantities_bn": "550 °C, 6.5 atm, 75% রূপান্তর → Kp = 6.23077 atm⁻¹",
+   "materials_bn": [
+    "SO₂",
+    "O₂",
+    "Pt"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-20",
+   "chapter_no": 4,
+   "section_no": "4.18.1",
+   "section_title_bn": "Kp ও Kc এর মধ্যে সম্পর্ক",
+   "book_page": 490,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CaCO₃ এর বিয়োজন সাম্য",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃(s) ⇌ CaO(s) + CO₂(g)",
+   "conditions": "তাপ প্রয়োগ",
+   "observations_bn": "কঠিন পদার্থের সক্রিয় ভর 1 ধরা হয়; Kc = [CO₂], Δn = 1, Kp = Kc·RT।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CaCO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-21",
+   "chapter_no": 4,
+   "section_no": "4.18.1",
+   "section_title_bn": "Kp ও Kc এর মধ্যে সম্পর্ক",
+   "book_page": 490,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লোহা ও স্টিমের সাম্য",
+   "reactants": [
+    {
+     "name_bn": "আয়রন",
+     "formula": "Fe",
+     "state": "solid"
+    },
+    {
+     "name_bn": "স্টিম",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেটাইট",
+     "formula": "Fe₃O₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "3Fe(s) + 4H₂O(g) ⇌ Fe₃O₄(s) + 4H₂(g)",
+   "conditions": "স্টিম, তাপ",
+   "observations_bn": "Δn = 0, তাই Kp = Kc (বইয়ের Kp-Kc সম্পর্কের উদাহরণ)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Fe",
+    "স্টিম"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-22",
+   "chapter_no": 4,
+   "section_no": "4.18.1",
+   "section_title_bn": "Kp ও Kc এর মধ্যে সম্পর্ক",
+   "book_page": 490,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CS₂ ও H₂ থেকে CH₄ ও H₂S",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাইসালফাইড",
+     "formula": "CS₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "equation": "CS₂(g) + 4H₂(g) ⇌ CH₄(g) + 2H₂S(g)",
+   "conditions": "900 °C",
+   "observations_bn": "Δn = −2; উদাহরণে Kc = 0.28 হলে Kp = 3.019×10⁻⁵।",
+   "procedure_bn": [],
+   "quantities_bn": "900 °C, Kc = 0.28 → Kp = 3.019×10⁻⁵",
+   "materials_bn": [
+    "CS₂",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-14-23",
+   "chapter_no": 4,
+   "section_no": "4.14",
+   "section_title_bn": "বিক্রিয়ার সাম্যধ্রুবক, Kc ও Kp",
+   "book_page": 468,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বন ও CO₂ থেকে CO (সাম্য)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "C(s) + CO₂(g) ⇌ 2CO(g)",
+   "conditions": "তাপ",
+   "observations_bn": "সাম্য ধ্রুবকের রাশিমালার উদাহরণ; Kc = [CO]²/[CO₂] (কঠিন C বাদ)।",
+   "procedure_bn": [],
+   "quantities_bn": "(পৃষ্ঠা ৪৬৮ ও ৪৯৪ এ Kc রাশিমালা)",
+   "materials_bn": [
+    "C",
+    "CO₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 4,
+   "no": "4.11",
+   "title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর তাপমাত্রা, চাপ ও ঘনমাত্রার প্রভাব",
+   "start_page": 460
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.11.1",
+   "title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর তাপমাত্রার প্রভাব",
+   "start_page": 460
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.11.2",
+   "title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর চাপের প্রভাব",
+   "start_page": 463
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.11.3",
+   "title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর ঘনমাত্রার প্রভাব",
+   "start_page": 463
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.12",
+   "title_bn": "শিল্প উৎপাদনে লা-শাতেলিয়ারের নীতির প্রয়োগ",
+   "start_page": 464
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.13",
+   "title_bn": "ভর-ক্রিয়া সূত্র",
+   "start_page": 466
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.14",
+   "title_bn": "বিক্রিয়ার সাম্যধ্রুবক, Kc ও Kp",
+   "start_page": 467
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.15",
+   "title_bn": "সাম্যধ্রুবকের বৈশিষ্ট্য",
+   "start_page": 470
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.16",
+   "title_bn": "সাম্যধ্রুবকের গুরুত্ব",
+   "start_page": 471
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.17",
+   "title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "start_page": 474
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.18",
+   "title_bn": "Kp ও Kc এর মধ্যে সম্পর্ক ও তাৎপর্য",
+   "start_page": 489
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.18.1",
+   "title_bn": "Kp ও Kc এর মধ্যে সম্পর্ক",
+   "start_page": 489
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.18.2",
+   "title_bn": "সাম্যধ্রুবক Kc ও Kp এর তাৎপর্য",
+   "start_page": 493
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Theory chapter on chemical equilibrium (Class 11 ch.4 part); no lab activities or bench tests in this range. All items are gas-phase equilibria or industrial processes (card). Skipped numerical-only problems, exercises and think-questions. SO3→oleum item has no printed equation (inferred)."
+}

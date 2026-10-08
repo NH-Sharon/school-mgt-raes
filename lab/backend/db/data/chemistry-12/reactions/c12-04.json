@@ -1,0 +1,2783 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  123,
+  158
+ ],
+ "page_offset_note": "printed page = pdf page - 15 (pdf 123 = printed 108; pdf 150 = printed 135). Printed chapter numbers here are 2 (হ্যালোজেন গ্রুপ, to p.134) and 3 (d-ব্লক, from p.135), not the 4 in the task hint.",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-04-01",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইড (HX) সংক্রান্ত আলোচনা",
+   "book_page": 108,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "HX এর জলীয় দ্রবণ অম্লীয়, নীল লিটমাস লাল করে",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড",
+     "formula": "HX",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হ্যালাইড আয়ন",
+     "formula": "X⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "HX(aq) + H₂O(l) ⇌ H₃O⁺(aq) + X⁻(aq)",
+   "conditions": "room temp",
+   "observations_bn": "HX দ্রবণ পানিতে আয়নিত হয়ে H₃O⁺ দেয়, ফলে নীল লিটমাস লাল হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HX দ্রবণ",
+    "নীল লিটমাস কাগজ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইয়ে লিটমাসের পাশাপাশি ক্ষার ও ধাতুর সাথে বিক্রিয়ার কথাও আছে।"
+  },
+  {
+   "id": "k12-04-02",
+   "chapter_no": 2,
+   "section_no": "2.10",
+   "section_title_bn": "হাইড্রোজেন হ্যালাইড (HX) সংক্রান্ত আলোচনা",
+   "book_page": 110,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উত্তপ্ত HI এর বায়ুর অক্সিজেন দ্বারা জারণ",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোআয়োডিক এসিড",
+     "formula": "HI",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4HI(g) + O₂(g) → 2H₂O(l) + 2I₂(g)",
+   "conditions": "heat",
+   "observations_bn": "গরম অবস্থায় HI বায়ুর O₂ দ্বারা জারিত হয়ে আয়োডিন মুক্ত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HI গ্যাস",
+    "বায়ু/O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-03",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 110,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "HF এর সাথে জিংকের বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোফ্লোরিক এসিড",
+     "formula": "HF",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক ফ্লোরাইড",
+     "formula": "ZnF₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2HF(aq) + Zn(s) → ZnF₂(aq) + H₂(g)",
+   "conditions": "room temp",
+   "observations_bn": "সক্রিয় ধাতু HF থেকে H₂ গ্যাস বের করে ও ফ্লোরাইড লবণ গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Zn",
+    "HF দ্রবণ"
+   ],
+   "safety_bn": "HF অত্যন্ত ক্ষতিকর; স্কুল ল্যাবে এড়ানো ভালো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-04",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 110,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "HF এর সাথে সোডিয়ামের বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোফ্লোরিক এসিড",
+     "formula": "HF",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফ্লোরাইড",
+     "formula": "NaF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2HF(aq) + 2Na(s) → 2NaF(aq) + H₂(g)",
+   "conditions": "room temp",
+   "observations_bn": "Na এর মতো সক্রিয় ধাতু HF থেকে হাইড্রোজেন প্রতিস্থাপন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na",
+    "HF দ্রবণ"
+   ],
+   "safety_bn": "Na ও HF উভয়ই বিপজ্জনক।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-05",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 110,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সিলিকা ও HF — কাচে নকশা (ধাপ ১)",
+   "reactants": [
+    {
+     "name_bn": "সিলিকা",
+     "formula": "SiO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোফ্লোরিক এসিড",
+     "formula": "HF",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলিকন টেট্রাফ্লোরাইড",
+     "formula": "SiF₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SiO₂(s) + 4HF(aq) → SiF₄(l) + 2H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "HF সিলিকা/কাচকে ক্ষয় করে প্রথমে SiF₄ তৈরি করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বালি/কাচ",
+    "HF"
+   ],
+   "safety_bn": "HF কাচ ও ত্বক ক্ষয় করে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-06",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 110,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SiF₄ এর HF এর সাথে আরও বিক্রিয়া — H₂SiF₆ গঠন",
+   "reactants": [
+    {
+     "name_bn": "সিলিকন টেট্রাফ্লোরাইড",
+     "formula": "SiF₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোফ্লোরিক এসিড",
+     "formula": "HF",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোফ্লোরোসিলিসিক এসিড",
+     "formula": "H₂SiF₆",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SiF₄(l) + 2HF(aq) → H₂SiF₆(l)",
+   "conditions": "room temp",
+   "observations_bn": "অতিরিক্ত HF এর সাথে SiF₄ দ্রবণীয় H₂SiF₆ দেয়; এ কারণে কাচে নকশা করতে HF লাগে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SiF₄",
+    "HF"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-07",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 110,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফ্লোরাইড শনাক্তকরণ — লেড নাইট্রেট দিয়ে",
+   "reactants": [
+    {
+     "name_bn": "লেড নাইট্রেট",
+     "formula": "Pb(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোফ্লোরিক এসিড",
+     "formula": "HF",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড ফ্লোরাইড",
+     "formula": "PbF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Pb(NO₃)₂(aq) + 2HF(aq) → PbF₂(s) + 2HNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "ফ্লোরাইড দ্রবণে Pb(NO₃)₂ দ্রবণ যোগ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Pb(NO₃)₂ দ্রবণ",
+    "HF/ফ্লোরাইড দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-08",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 110,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফ্লোরাইড শনাক্তকরণ — BaCl₂ দিয়ে",
+   "reactants": [
+    {
+     "name_bn": "বেরিয়াম ক্লোরাইড",
+     "formula": "BaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোফ্লোরিক এসিড",
+     "formula": "HF",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিয়াম ফ্লোরাইড",
+     "formula": "BaF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "BaCl₂(aq) + 2HF(aq) → BaF₂(s) + 2HCl(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ; এটি গাঢ় HCl এ দ্রবীভূত হয় কিন্তু লঘু HCl/HNO₃ এ হয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "BaCl₂ দ্রবণ",
+    "ফ্লোরাইড দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-09",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 111,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গাঢ় HCl এর সাথে MnO₂ — Cl₂ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানাস ক্লোরাইড",
+     "formula": "MnCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "MnO₂(s) + 4HCl(conc) → MnCl₂(s) + 2H₂O(l) + Cl₂(g)",
+   "conditions": "heat",
+   "observations_bn": "HCl জারিত হয়ে সবুজাভ হলুদ Cl₂ গ্যাস বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "MnO₂",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "Cl₂ বিষাক্ত — ফিউম হুডে করতে হবে।",
+   "confidence": "read",
+   "notes": "বইয়ে একই অনুচ্ছেদে KMnO₄, K₂Cr₂O₇ ইত্যাদি জারকের কথাও আছে, কিন্তু সমীকরণ দেওয়া নেই।"
+  },
+  {
+   "id": "k12-04-10",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 111,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "জিংক ও লঘু HCl — হাইড্রোজেন",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক ক্লোরাইড",
+     "formula": "ZnCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)",
+   "conditions": "room temp",
+   "observations_bn": "বুদবুদ আকারে H₂ গ্যাস বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Zn",
+    "HCl দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বই বলে H এর নিচের ধাতু Cu, HCl থেকে হাইড্রোজেন সরাতে পারে না।"
+  },
+  {
+   "id": "k12-04-11",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 111,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ক্লোরাইড শনাক্তকরণ — সিলভার নাইট্রেট দ্রবণে HCl",
+   "reactants": [
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "AgNO₃(aq) + HCl(aq) → AgCl(s) + HNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা (দইয়ের মতো) অধঃক্ষেপ।",
+   "procedure_bn": [
+    "ক্লোরাইড দ্রবণে কয়েক ফোঁটা AgNO₃ দ্রবণ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgNO₃ দ্রবণ",
+    "লঘু HCl বা NaCl দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-12",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 111,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "লেড নাইট্রেটে লঘু HCl — PbCl₂ অধঃক্ষেপ",
+   "reactants": [
+    {
+     "name_bn": "লেড নাইট্রেট",
+     "formula": "Pb(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড ক্লোরাইড",
+     "formula": "PbCl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Pb(NO₃)₂(aq) + 2HCl(aq) → PbCl₂(s) + 2HNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Pb(NO₃)₂ দ্রবণ",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-13",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 111,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "মারকিউরাস নাইট্রেটে লঘু HCl — Hg₂Cl₂ অধঃক্ষেপ",
+   "reactants": [
+    {
+     "name_bn": "মারকিউরাস নাইট্রেট",
+     "formula": "Hg₂(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মারকিউরাস ক্লোরাইড",
+     "formula": "Hg₂Cl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Hg₂(NO₃)₂(aq) + 2HCl(aq) → Hg₂Cl₂(s) + 2HNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Hg₂(NO₃)₂ দ্রবণ",
+    "লঘু HCl"
+   ],
+   "safety_bn": "পারদের লবণ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-14",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 111,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "খাদ্য লবণ থেকে বিশুদ্ধ NaCl — গাঢ় HCl/HCl গ্যাসের ভূমিকা",
+   "reactants": [
+    {
+     "name_bn": "সংপৃক্ত খাদ্য লবণ দ্রবণ",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বিশুদ্ধ NaCl কেলাস",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "NaCl(aq) ⇌ Na⁺(aq) + Cl⁻(aq)",
+   "conditions": "room temp",
+   "observations_bn": "Cl⁻ এর ঘনমাত্রা বাড়ালে (সমআয়ন প্রভাবে) NaCl কেলাস আকারে নিচে জমে; অন্য লবণ দ্রবণে থাকে।",
+   "procedure_bn": [
+    "অশুদ্ধ লবণের গাঢ় দ্রবণে HCl গ্যাস/গাঢ় HCl দাও",
+    "কেলাস আলাদা করে গাঢ় HCl দিয়ে ধুয়ে নাও",
+    "উত্তপ্ত করে লেগে থাকা HCl উড়িয়ে দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সংপৃক্ত লবণ দ্রবণ",
+    "গাঢ় HCl/HCl গ্যাস"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "বইয়ে সুনির্দিষ্ট সমীকরণ নেই; আয়ন সাম্যের সমীকরণ নিজে লেখা।"
+  },
+  {
+   "id": "k12-04-15",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 112,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "সিলভার নাইট্রেট পরীক্ষায় NaCl/HCl",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaCl(aq) + AgNO₃(aq) → AgCl(s) + NaNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ; লঘু HNO₃ এ অদ্রবণীয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaCl দ্রবণ",
+    "AgNO₃ দ্রবণ",
+    "লঘু HNO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-16",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 112,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "AgCl এর অধঃক্ষেপ NH₄OH এ দ্রবীভূত",
+   "reactants": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইঅ্যামিন সিলভার(I) ক্লোরাইড",
+     "formula": "[Ag(NH₃)₂]Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "AgCl(s) + 2NH₄OH(aq) → [Ag(NH₃)₂]Cl(aq) + 2H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "অধঃক্ষেপ গলে বর্ণহীন দ্রবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgCl অধঃক্ষেপ",
+    "NH₄OH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-17",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 112,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গাঢ় HBr ও MnO₂ উত্তপ্ত করে Br₂",
+   "reactants": [
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় হাইড্রোব্রোমিক এসিড",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাঙ্গানাস ব্রোমাইড",
+     "formula": "MnBr₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "MnO₂(s) + 4HBr(conc) → MnBr₂(s) + 2H₂O(l) + Br₂(g)",
+   "conditions": "heat",
+   "observations_bn": "HBr জারিত হয়ে ব্রোমিন বাষ্প দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "MnO₂",
+    "গাঢ় HBr"
+   ],
+   "safety_bn": "Br₂ বাষ্প ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-18",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 112,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ব্রোমাইড শনাক্তকরণ — AgNO₃",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ব্রোমাইড",
+     "formula": "AgBr",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaBr(aq) + AgNO₃(aq) → AgBr(s) + NaNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "হালকা হলদে-সাদা অধঃক্ষেপ; লঘু HNO₃ এ অদ্রবণীয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaBr বা HBr দ্রবণ",
+    "AgNO₃ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-19",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 112,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "AgBr এর অধঃক্ষেপ NH₄OH এ ধীরে দ্রবীভূত",
+   "reactants": [
+    {
+     "name_bn": "সিলভার ব্রোমাইড",
+     "formula": "AgBr",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইঅ্যামিন সিলভার(I) ব্রোমাইড",
+     "formula": "[Ag(NH₃)₂]Br",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "AgBr(s) + 2NH₄OH(aq) → [Ag(NH₃)₂]Br(aq) + 2H₂O(l)",
+   "conditions": "room temp",
+   "observations_bn": "ধীরে ধীরে বর্ণহীন দ্রবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgBr",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-20",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 113,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "HI দ্বারা গাঢ় HNO₃ এর বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোআয়োডিক এসিড",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2HNO₃(conc) + 2HI(aq) → 2H₂O(l) + 2NO₂(g) + I₂(s)",
+   "conditions": "room temp",
+   "observations_bn": "বাদামি NO₂ গ্যাস ও আয়োডিন মুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গাঢ় HNO₃",
+    "HI দ্রবণ"
+   ],
+   "safety_bn": "NO₂ বিষাক্ত, ফিউম হুডে করো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-21",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 113,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "HI দ্বারা FeCl₃ এর বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোআয়োডিক এসিড",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরাস ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2FeCl₃(aq) + 2HI(aq) → 2FeCl₂(aq) + 2HCl(aq) + I₂(s)",
+   "conditions": "room temp",
+   "observations_bn": "Fe³⁺ বিজারিত হয়ে Fe²⁺ হয় এবং আয়োডিন মুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeCl₃ দ্রবণ",
+    "HI দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-22",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 113,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "HI দ্বারা CuSO₄ এর বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোআয়োডিক এসিড",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউপ্রাস আয়োডাইড",
+     "formula": "Cu₂I₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2CuSO₄(aq) + 4HI(aq) → Cu₂I₂(s) + 2H₂SO₄(aq) + I₂(s)",
+   "conditions": "room temp",
+   "observations_bn": "Cu₂I₂ এর সাদা অধঃক্ষেপ পড়ে ও আয়োডিন মুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuSO₄ দ্রবণ",
+    "HI/KI দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-23",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 113,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "আয়োডাইড শনাক্তকরণ — AgNO₃",
+   "reactants": [
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার আয়োডাইড",
+     "formula": "AgI",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "AgNO₃(aq) + NaI(aq) → AgI(s) + NaNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "হলুদ অধঃক্ষেপ; লঘু HNO₃ ও NH₃ দ্রবণে অদ্রবণীয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgNO₃ দ্রবণ",
+    "NaI/HI দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-24",
+   "chapter_no": 2,
+   "section_no": "2.10.1",
+   "section_title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "book_page": 113,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "আয়োডাইড শনাক্তকরণ — লেড নাইট্রেট (PbI₂)",
+   "reactants": [
+    {
+     "name_bn": "লেড নাইট্রেট",
+     "formula": "Pb(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোআয়োডিক এসিড",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড আয়োডাইড",
+     "formula": "PbI₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Pb(NO₃)₂(aq) + 2HI(aq) → PbI₂(s) + 2HNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সোনালি হলুদ অধঃক্ষেপ; ফুটন্ত পানিতে গলে, ঠান্ডা করলে আবার সোনালি কেলাস।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Pb(NO₃)₂ দ্রবণ",
+    "HI/KI দ্রবণ",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "লেড অ্যাসিটেট ও KI দিয়েও একই অধঃক্ষেপ: Pb(CH₃COO)₂ + 2KI → PbI₂ + 2CH₃COOK।"
+  },
+  {
+   "id": "k12-04-25",
+   "chapter_no": 2,
+   "section_no": "2.11.1",
+   "section_title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "book_page": 115,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শুষ্ক পরীক্ষা — CaF₂ এ গাঢ় H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফ্লোরাইড",
+     "formula": "CaF₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম সালফেট",
+     "formula": "CaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaF₂(s) + H₂SO₄(conc) → CaSO₄ + 2HF(g)",
+   "equation_printed": "CaF₂(s) + H₂SO₄(conc) → CaSO₄(aq) + 2HF(g)",
+   "conditions": "heat",
+   "observations_bn": "সাদা ধোঁয়া বের হয়; গ্যাস পানি-ভেজা কাচে দাগ ফেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CaF₂",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "HF অত্যন্ত ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-26",
+   "chapter_no": 2,
+   "section_no": "2.11.1",
+   "section_title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "book_page": 115,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শুষ্ক পরীক্ষা — NaCl এ গাঢ় H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "NaCl(s) + H₂SO₄(conc) → NaHSO₄ + HCl(g)",
+   "equation_printed": "NaCl(s) + H₂SO₄(conc) → NaHSO₄(aq) + HCl(g)",
+   "conditions": "heat",
+   "observations_bn": "বর্ণহীন ঝাঁঝালো ধোঁয়া; কাচ ক্ষয় করে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaCl",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-27",
+   "chapter_no": 2,
+   "section_no": "2.11.1",
+   "section_title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "book_page": 115,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শুষ্ক পরীক্ষা — KBr এ গাঢ় H₂SO₄ (Br₂ মুক্ত)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রোজেন সালফেট",
+     "formula": "KHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2KBr(s) + 2H₂SO₄(conc) → 2KHSO₄ + 2HBr(g); 2HBr(g) + H₂SO₄(conc) → Br₂(g) + 2H₂O(l) + SO₂(g)",
+   "conditions": "heat",
+   "observations_bn": "লালচে বাদামি Br₂ বাষ্প বের হয়; HBr টি H₂SO₄ কে বিজারিত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KBr",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "Br₂ ও SO₂ ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-28",
+   "chapter_no": 2,
+   "section_no": "2.11.1",
+   "section_title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "book_page": 115,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "শুষ্ক পরীক্ষা — KI এ গাঢ় H₂SO₄ (I₂ মুক্ত)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রোজেন সালফেট",
+     "formula": "KHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2KI(s) + 2H₂SO₄(conc) → 2KHSO₄ + 2HI(g); 2HI(g) + H₂SO₄(conc) → I₂(g) + 2H₂O(l) + SO₂(g)",
+   "conditions": "heat",
+   "observations_bn": "বেগুনি আয়োডিন বাষ্প বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KI",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "I₂ ও SO₂ ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-29",
+   "chapter_no": 2,
+   "section_no": "2.11.1",
+   "section_title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "book_page": 115,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফ্লোরাইডে AgNO₃ — অধঃক্ষেপ পড়ে না",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফ্লোরাইড",
+     "formula": "NaF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ফ্লোরাইড",
+     "formula": "AgF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaF(aq) + AgNO₃(aq) → AgF(aq) + NaNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "AgF পানিতে দ্রবণীয় বলে কোনো অধঃক্ষেপ হয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaF দ্রবণ",
+    "AgNO₃ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "একই পৃষ্ঠায় ক্লোরাইড (সাদা AgCl), ব্রোমাইড (হলুদাভ সাদা AgBr), আয়োডাইড (হলুদ AgI) এর AgNO₃ পরীক্ষাও আছে — আগের আইটেমগুলোয় ধরা।"
+  },
+  {
+   "id": "k12-04-30",
+   "chapter_no": 2,
+   "section_no": "2.11.1",
+   "section_title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "book_page": 116,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফ্লোরাইডে BaCl₂ পরীক্ষা (পৃষ্ঠা ১১৬)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফ্লোরাইড",
+     "formula": "NaF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "বেরিয়াম ক্লোরাইড",
+     "formula": "BaCl₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিয়াম ফ্লোরাইড",
+     "formula": "BaF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "2NaF(aq) + BaCl₂(aq) → BaF₂(s) + 2NaCl(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ, লঘু HCl/HNO₃ এ অদ্রবণীয় কিন্তু গাঢ় HCl এ দ্রবণীয়। Cl⁻, Br⁻, I⁻ এ কোনো অধঃক্ষেপ হয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaF দ্রবণ",
+    "BaCl₂ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-31",
+   "chapter_no": 2,
+   "section_no": "2.11.1",
+   "section_title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "book_page": 116,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ক্লোরিন পানি ও স্টার্চ দিয়ে ব্রোমাইড শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন পানি",
+     "formula": "Cl₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "2KBr(aq) + Cl₂(aq) → 2KCl(aq) + Br₂(aq)",
+   "conditions": "room temp",
+   "observations_bn": "দ্রবণ লালচে-হলুদ বর্ণ ধারণ করে; স্টার্চ যোগ করলে লালচে হলুদ রঙই থাকে।",
+   "procedure_bn": [
+    "ব্রোমাইড দ্রবণে ক্লোরিন পানি দাও",
+    "স্টার্চ দ্রবণ যোগ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KBr দ্রবণ",
+    "ক্লোরিন পানি",
+    "স্টার্চ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "ফ্লোরাইড ও ক্লোরাইডে কোনো পরিবর্তন হয় না।"
+  },
+  {
+   "id": "k12-04-32",
+   "chapter_no": 2,
+   "section_no": "2.11.1",
+   "section_title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "book_page": 116,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ক্লোরিন পানি ও স্টার্চ দিয়ে আয়োডাইড শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন পানি",
+     "formula": "Cl₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "2KI(aq) + Cl₂(aq) → 2KCl(aq) + I₂(aq)",
+   "conditions": "room temp",
+   "observations_bn": "মুক্ত আয়োডিন স্টার্চের সাথে গাঢ় নীল রং দেয়।",
+   "procedure_bn": [
+    "আয়োডাইড দ্রবণে ক্লোরিন পানি দাও",
+    "স্টার্চ দ্রবণ যোগ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KI দ্রবণ",
+    "ক্লোরিন পানি",
+    "স্টার্চ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-33",
+   "chapter_no": 2,
+   "section_no": "2.11.1",
+   "section_title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "book_page": 116,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "FeCl₃ ও স্টার্চ দিয়ে আয়োডাইড শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেরাস ক্লোরাইড",
+     "formula": "FeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "2KI(aq) + 2FeCl₃(aq) → I₂(aq) + 2FeCl₂(aq) + 2KCl(aq)",
+   "conditions": "room temp",
+   "observations_bn": "আয়োডিন মুক্ত হয়ে স্টার্চে নীল রং দেয়; F⁻, Cl⁻, Br⁻ এ পরিবর্তন নেই।",
+   "procedure_bn": [
+    "দ্রবণে ফেরিক ক্লোরাইড দাও",
+    "স্টার্চ যোগ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KI দ্রবণ",
+    "FeCl₃ দ্রবণ",
+    "স্টার্চ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-34",
+   "chapter_no": 2,
+   "section_no": "2.11.2",
+   "section_title_bn": "পরীক্ষাগারে হ্যালাইডসমূহের শনাক্তকরণ পরীক্ষার সারসংক্ষেপ",
+   "book_page": 116,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লেড নাইট্রেট দিয়ে হ্যালাইড শনাক্তকরণ (সারণি)",
+   "reactants": [
+    {
+     "name_bn": "লেড নাইট্রেট",
+     "formula": "Pb(NO₃)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড ব্রোমাইড",
+     "formula": "PbBr₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম নাইট্রেট",
+     "formula": "KNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "Pb(NO₃)₂(aq) + 2KBr(aq) → PbBr₂(s) + 2KNO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সারণি অনুযায়ী PbF₂ ও PbCl₂ সাদা, PbBr₂ হলদে এবং PbI₂ হলুদ অধঃক্ষেপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Pb(NO₃)₂ দ্রবণ",
+    "হ্যালাইড দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বই শুধু সারণিতে অধঃক্ষেপের নাম ও রং দিয়েছে, সমীকরণ দেয়নি; PbBr₂ এর সমীকরণ নিজে লেখা।"
+  },
+  {
+   "id": "k12-04-35",
+   "chapter_no": 2,
+   "section_no": "2.11.2",
+   "section_title_bn": "পরীক্ষাগারে হ্যালাইডসমূহের শনাক্তকরণ পরীক্ষার সারসংক্ষেপ",
+   "book_page": 116,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "MnO₂ + গাঢ় H₂SO₄ + তাপ দিয়ে ক্লোরাইড শনাক্তকরণ (সারণি)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড",
+     "formula": "MnO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ম্যাঙ্গানিজ সালফেট",
+     "formula": "MnSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaCl + MnO₂ + 3H₂SO₄ → 2NaHSO₄ + MnSO₄ + 2H₂O + Cl₂↑",
+   "conditions": "heat",
+   "observations_bn": "ক্লোরাইডে সবুজাভ হলুদ গ্যাস, ব্রোমাইডে লালচে বাদামি Br₂, আয়োডাইডে বেগুনি I₂ বাষ্প।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "হ্যালাইড লবণ",
+    "MnO₂",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "Cl₂/Br₂/I₂ বাষ্প ক্ষতিকর।",
+   "confidence": "inferred",
+   "notes": "বই সারণিতে শুধু ফলাফল দিয়েছে; সমীকরণ নিজে সম্পূর্ণ করা।"
+  },
+  {
+   "id": "k12-04-36",
+   "chapter_no": 2,
+   "section_no": "2.12.1",
+   "section_title_bn": "ক্লোরিনের অক্সো-এসিডসমূহে জারণ অবস্থা ও অম্ল ধর্মের সম্পর্ক",
+   "book_page": 118,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaBrO₃ থেকে I₂ দ্বারা Br₂ প্রতিস্থাপন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ব্রোমেট",
+     "formula": "NaBrO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম আয়োডেট",
+     "formula": "NaIO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaBrO₃(aq) + I₂(s) → 2NaIO₃(aq) + Br₂(l)",
+   "conditions": "room temp",
+   "observations_bn": "ব্রোমিন মুক্ত হয়ে দ্রবণ লালচে হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaBrO₃",
+    "I₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-37",
+   "chapter_no": 2,
+   "section_no": "2.13",
+   "section_title_bn": "অন্যান্য হ্যালোজেনের সাথে ফ্লোরিনের পার্থক্য বা অসামঞ্জস্যতা",
+   "book_page": 119,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্লোরিন পানিকে জারিত করে",
+   "reactants": [
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোফ্লোরিক এসিড",
+     "formula": "HF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4F₂(g) + 2H₂O(l) → 4HF(aq) + O₂(g)",
+   "conditions": "20°C",
+   "observations_bn": "কক্ষ তাপমাত্রায় F₂ পানি থেকে O₂ বের করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "F₂ গ্যাস",
+    "পানি"
+   ],
+   "safety_bn": "F₂ অত্যন্ত বিক্রিয়াশীল ও বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-38",
+   "chapter_no": 2,
+   "section_no": "2.13",
+   "section_title_bn": "অন্যান্য হ্যালোজেনের সাথে ফ্লোরিনের পার্থক্য বা অসামঞ্জস্যতা",
+   "book_page": 119,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন ও পানির বিক্রিয়া (তুলনা)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HOCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl₂(g) + H₂O(l) → HCl(aq) + HOCl(aq)",
+   "equation_printed": "Cl₂(g) + H₂O(l) → HCl(aq) + HOCl(aq)",
+   "conditions": "room temp",
+   "observations_bn": "Cl₂ পানি থেকে অক্সিজেন বের করে না; এসিড মিশ্রণ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cl₂ গ্যাস",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-39",
+   "chapter_no": 2,
+   "section_no": "2.13",
+   "section_title_bn": "অন্যান্য হ্যালোজেনের সাথে ফ্লোরিনের পার্থক্য বা অসামঞ্জস্যতা",
+   "book_page": 120,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্ল্যাটিনামের সাথে F₂",
+   "reactants": [
+    {
+     "name_bn": "প্ল্যাটিনাম",
+     "formula": "Pt",
+     "state": "solid",
+     "form": "wire"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্ল্যাটিনাম হেক্সাফ্লোরাইড",
+     "formula": "PtF₆",
+     "state": "solid"
+    }
+   ],
+   "equation": "Pt + 3F₂ → PtF₆",
+   "conditions": "heat (printed 20°C, partly legible)",
+   "observations_bn": "F₂ ধাতুকে সর্বোচ্চ জারণ অবস্থায় নেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Pt",
+    "F₂"
+   ],
+   "safety_bn": "F₂ বিপজ্জনক।",
+   "confidence": "partly-legible",
+   "notes": "তীরের ওপরের তাপমাত্রা ঝাপসা।"
+  },
+  {
+   "id": "k12-04-40",
+   "chapter_no": 2,
+   "section_no": "2.13",
+   "section_title_bn": "অন্যান্য হ্যালোজেনের সাথে ফ্লোরিনের পার্থক্য বা অসামঞ্জস্যতা",
+   "book_page": 120,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্বর্ণের সাথে F₂",
+   "reactants": [
+    {
+     "name_bn": "স্বর্ণ",
+     "formula": "Au",
+     "state": "solid",
+     "form": "wire"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অরাম ফ্লোরাইড",
+     "formula": "AuF₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Au + 3F₂ → 2AuF₃",
+   "conditions": "heat",
+   "observations_bn": "F₂ স্বর্ণকেও +3 জারণ অবস্থায় নেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Au",
+    "F₂"
+   ],
+   "safety_bn": "F₂ বিপজ্জনক।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-41",
+   "chapter_no": 2,
+   "section_no": "2.14",
+   "section_title_bn": "হ্যালোজেনসমূহের ব্যবহার",
+   "book_page": 121,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CCl₄ থেকে CCl₃F প্রস্তুতি (ফ্রিয়ন-১১)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন টেট্রাক্লোরাইড",
+     "formula": "CCl₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ট্রাইক্লোরো মনোফ্লোরো মিথেন",
+     "formula": "CCl₃F",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CCl₄(l) + HF(g) → CCl₃F(l) + HCl(g)",
+   "conditions": "catalyst SbCl₅",
+   "observations_bn": "হ্যালোজেন বিনিময়ে ফ্রিয়ন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CCl₄",
+    "HF",
+    "SbCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-42",
+   "chapter_no": 2,
+   "section_no": "2.14",
+   "section_title_bn": "হ্যালোজেনসমূহের ব্যবহার",
+   "book_page": 121,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CCl₄ থেকে CCl₂F₂ প্রস্তুতি (ফ্রিয়ন-১২)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন টেট্রাক্লোরাইড",
+     "formula": "CCl₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইক্লোরো ডাইফ্লোরো মিথেন",
+     "formula": "CCl₂F₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CCl₄(l) + 2HF(g) → CCl₂F₂(g) + 2HCl(g)",
+   "conditions": "catalyst SbCl₅",
+   "observations_bn": "দুটি Cl, দুটি F দ্বারা প্রতিস্থাপিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CCl₄",
+    "HF",
+    "SbCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-43",
+   "chapter_no": 2,
+   "section_no": "2.14",
+   "section_title_bn": "হ্যালোজেনসমূহের ব্যবহার",
+   "book_page": 121,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CHCl₃ থেকে CHClF₂ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইফ্লোরো মনোক্লোরো মিথেন",
+     "formula": "CHClF₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CHCl₃(g) + 2HF(g) → CHClF₂(l) + 2HCl(g)",
+   "conditions": "catalyst SbCl₅",
+   "observations_bn": "CHCl₃ এর দুটি Cl, F দ্বারা প্রতিস্থাপিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CHCl₃",
+    "HF",
+    "SbCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-44",
+   "chapter_no": 2,
+   "section_no": "2.14",
+   "section_title_bn": "হ্যালোজেনসমূহের ব্যবহার",
+   "book_page": 121,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ব্লিচিং পাউডার প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "শুষ্ক কলিচুন",
+     "formula": "Ca(OH)₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্লিচিং পাউডার",
+     "formula": "Ca(OCl)Cl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Ca(OH)₂(s) + Cl₂(g) → Ca(OCl)Cl(s) + H₂O(l)",
+   "conditions": "about 40°C",
+   "observations_bn": "উত্তপ্ত শুষ্ক চুনের ওপর Cl₂ চালনা করলে ব্লিচিং পাউডার হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "শুষ্ক Ca(OH)₂",
+    "Cl₂"
+   ],
+   "safety_bn": "Cl₂ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-45",
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ক্ষার শিল্পে ক্লোরিনের যৌগসমূহের গুরুত্ব",
+   "book_page": 122,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaCl এর তড়িৎ বিশ্লেষণ — Na ও Cl₂",
+   "reactants": [
+    {
+     "name_bn": "গলিত সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaCl(l) → 2Na(s) + Cl₂(g)",
+   "conditions": "electrolysis",
+   "observations_bn": "ক্যাথোডে Na, অ্যানোডে Cl₂ গ্যাস পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গলিত NaCl",
+    "তড়িৎদ্বার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-46",
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ক্ষার শিল্পে ক্লোরিনের যৌগসমূহের গুরুত্ব",
+   "book_page": 122,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ও পানি — NaOH উৎপাদন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Na(s) + 2H₂O(l) → 2NaOH(aq) + H₂(g)",
+   "conditions": "room temp",
+   "observations_bn": "তীব্র বিক্রিয়ায় NaOH ও H₂ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na",
+    "পানি"
+   ],
+   "safety_bn": "Na পানির সাথে তীব্র বিক্রিয়া করে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-47",
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ক্ষার শিল্পে ক্লোরিনের যৌগসমূহের গুরুত্ব",
+   "book_page": 123,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সলভে পদ্ধতি — ধাপ ১: NH₄HCO₃ গঠন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রোজেন কার্বনেট",
+     "formula": "NH₄HCO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "NH₃(g) + CO₂(g) + H₂O(l) → NH₄HCO₃(aq)",
+   "conditions": "room temp",
+   "observations_bn": "NaCl দ্রবণে NH₃ ও CO₂ চালানো হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₃",
+    "CO₂",
+    "NaCl দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-48",
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ক্ষার শিল্পে ক্লোরিনের যৌগসমূহের গুরুত্ব",
+   "book_page": 123,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সলভে পদ্ধতি — ধাপ ২: NaHCO₃ অধঃক্ষেপ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রোজেন কার্বনেট",
+     "formula": "NH₄HCO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন কার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄HCO₃(s) + NaCl(aq) → NaHCO₃(s) + NH₄Cl(aq)",
+   "conditions": "room temp",
+   "observations_bn": "NaHCO₃ কম দ্রবণীয় বলে কেলাস হিসেবে আলাদা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄HCO₃",
+    "NaCl দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-49",
+   "chapter_no": 2,
+   "section_no": "2.15",
+   "section_title_bn": "ক্ষার শিল্পে ক্লোরিনের যৌগসমূহের গুরুত্ব",
+   "book_page": 123,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সলভে পদ্ধতি — ধাপ ৩: NaHCO₃ উত্তপ্ত করে Na₂CO₃",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন কার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaHCO₃(s) → Na₂CO₃(s) + H₂O(l) + CO₂(g)",
+   "conditions": "heat",
+   "observations_bn": "তাপে বিয়োজিত হয়ে সোডা অ্যাশ, পানি ও CO₂ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaHCO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-50",
+   "chapter_no": 2,
+   "section_no": "2.17(ক)",
+   "section_title_bn": "CFC বা ফ্রিয়নস ও ওজোন স্তর",
+   "book_page": 124,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CCl₂F₂ এর UV বিয়োজন — Cl মুক্তমূলক",
+   "reactants": [
+    {
+     "name_bn": "ডাইক্লোরো ডাইফ্লোরো মিথেন",
+     "formula": "CCl₂F₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরো ডাইফ্লোরো মিথাইল মূলক",
+     "formula": "•CClF₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন মুক্তমূলক",
+     "formula": "Cl•",
+     "state": "gas"
+    }
+   ],
+   "equation": "CCl₂F₂ → •CClF₂ + Cl•",
+   "equation_printed": "বইয়ের চিত্রে ডানদিকে C-মূলক + 2Cl• লেখা (ঝাপসা)",
+   "conditions": "UV light (396 kJ/mol C–Cl)",
+   "observations_bn": "UV রশ্মিতে C–Cl বন্ধন ভেঙে Cl• তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CFC",
+    "UV আলো"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "চিত্র ঝাপসা; সমীকরণ একটি Cl মুক্ত হওয়ার ধরনে সাজানো।"
+  },
+  {
+   "id": "k12-04-51",
+   "chapter_no": 2,
+   "section_no": "2.17(ক)",
+   "section_title_bn": "CFC বা ফ্রিয়নস ও ওজোন স্তর",
+   "book_page": 124,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cl• দ্বারা ওজোন ধ্বংসের শিকল বিক্রিয়া (ধাপ ১)",
+   "reactants": [
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন মুক্তমূলক",
+     "formula": "Cl•",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন মনোঅক্সাইড মূলক",
+     "formula": "ClO•",
+     "state": "gas"
+    }
+   ],
+   "equation": "O₃ + Cl• → O₂ + ClO•",
+   "conditions": "stratosphere",
+   "observations_bn": "ওজোন ভেঙে O₂ হয়, ClO• তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "O₃",
+    "Cl•"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-52",
+   "chapter_no": 2,
+   "section_no": "2.17(ক)",
+   "section_title_bn": "CFC বা ফ্রিয়নস ও ওজোন স্তর",
+   "book_page": 124,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ClO• দ্বারা ওজোন ধ্বংসের শিকল বিক্রিয়া (ধাপ ২)",
+   "reactants": [
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন মনোঅক্সাইড মূলক",
+     "formula": "ClO•",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন ডাইঅক্সাইড মূলক",
+     "formula": "ClO₂•",
+     "state": "gas"
+    }
+   ],
+   "equation": "O₃ + ClO• → O₂ + ClO₂•",
+   "conditions": "stratosphere",
+   "observations_bn": "শিকল বিক্রিয়া চালু থাকে ও ওজোন কমতে থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "O₃",
+    "ClO•"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "একই চিত্রে O₂ + Cl• → O• + ClO• ও ছাপা আছে।"
+  },
+  {
+   "id": "k12-04-53",
+   "chapter_no": 3,
+   "section_no": "3.1.2",
+   "section_title_bn": "অবস্থান্তর মৌল",
+   "book_page": 138,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Fe²⁺ থেকে Fe³⁺ — রং পরিবর্তন",
+   "reactants": [
+    {
+     "name_bn": "ফেরাস আয়ন",
+     "formula": "Fe²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক আয়ন",
+     "formula": "Fe³⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "2Fe²⁺(aq) + Cl₂(g) → 2Fe³⁺(aq) + 2Cl⁻(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সবুজ Fe²⁺ দ্রবণ হলুদ Fe³⁺ দ্রবণে রূপান্তরিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "FeSO₄ দ্রবণ",
+    "ক্লোরিন পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইয়ে এটি উদাহরণ; Cl₂ গ্যাস হলেও ক্লোরিন পানিতে বেঞ্চে করা সম্ভব।"
+  },
+  {
+   "id": "k12-04-54",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "প্রথম অবস্থান্তর মৌলসমূহের রাসায়নিক ধর্ম",
+   "book_page": 143,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হেবার পদ্ধতি — আয়রন প্রভাবক",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+   "equation_printed": "N₂(g) + 3H₂(g) → 2NH₃(g)",
+   "conditions": "Fe catalyst, 550°C",
+   "observations_bn": "Fe গুঁড়ার পৃষ্ঠে অধিশোষণে বন্ধন শিথিল হয়ে বিক্রিয়া সহজ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂",
+    "H₂",
+    "Fe গুঁড়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-55",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "প্রথম অবস্থান্তর মৌলসমূহের রাসায়নিক ধর্ম",
+   "book_page": 143,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অসওয়াল্ড পদ্ধতি — প্ল্যাটিনাম প্রভাবক",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "4NH₃(g) + 5O₂(g) → 4NO(g) + 6H₂O(g)",
+   "conditions": "Pt catalyst, 750°C",
+   "observations_bn": "Pt পৃষ্ঠে প্রথমে অধিশোষণ, পরে বিক্রিয়া ঘটে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₃",
+    "O₂",
+    "Pt"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-04-56",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "প্রথম অবস্থান্তর মৌলসমূহের রাসায়নিক ধর্ম",
+   "book_page": 143,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্পর্শ পদ্ধতি — V₂O₅ প্রভাবক",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+   "equation_printed": "2SO₂(g) + O₂(g) → 2SO₃(g)",
+   "conditions": "V₂O₅ catalyst, 450°C",
+   "observations_bn": "V₂O₅ মধ্যবর্তী V₂O₄ গঠনের মাধ্যমে কাজ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "O₂",
+    "V₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "মধ্যবর্তী ধাপ: SO₂ + V₂O₅ → SO₃ + V₂O₄ এবং 2V₂O₄ + O₂ → 2V₂O₅।"
+  },
+  {
+   "id": "k12-04-57",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "প্রথম অবস্থান্তর মৌলসমূহের রাসায়নিক ধর্ম",
+   "book_page": 143,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "পারসালফেট–আয়োডাইড বিক্রিয়ায় Fe²⁺/Fe³⁺ সমসত্ত্বীয় প্রভাবন",
+   "reactants": [
+    {
+     "name_bn": "পারঅক্সোডাইসালফেট আয়ন",
+     "formula": "S₂O₈²⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়োডাইড আয়ন",
+     "formula": "I⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেরাস আয়ন (প্রভাবক)",
+     "formula": "Fe²⁺",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফেট আয়ন",
+     "formula": "SO₄²⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "S₂O₈²⁻(aq) + 2I⁻(aq) → 2SO₄²⁻(aq) + I₂(aq)",
+   "conditions": "Fe²⁺/Fe³⁺ catalyst",
+   "observations_bn": "Fe²⁺ মধ্যবর্তী Fe³⁺ গঠন করে বিক্রিয়া দুটি ধাপে ভাগ করে ও দ্রুত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পারসালফেট দ্রবণ",
+    "আয়োডাইড দ্রবণ",
+    "Fe²⁺ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "ধাপ: 2Fe²⁺ + S₂O₈²⁻ → 2Fe³⁺ + 2SO₄²⁻; 2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I₂ (বইয়ে অর্ধ-সহগে লেখা)।"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 2,
+   "no": "2.10.1",
+   "title_bn": "HF, HCl, HBr, HI এর বিশেষ রাসায়নিক ধর্ম",
+   "start_page": 110
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.11",
+   "title_bn": "HF, HCl, HBr, HI এর ধর্মাবলির তুলনামূলক আলোচনা",
+   "start_page": 114
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.11.1",
+   "title_bn": "বিভিন্ন হ্যালোজেন যৌগের ধর্মের পার্থক্য ও শনাক্তকরণ",
+   "start_page": 115
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.11.2",
+   "title_bn": "পরীক্ষাগারে হ্যালাইডসমূহের শনাক্তকরণ পরীক্ষার সারসংক্ষেপ",
+   "start_page": 116
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.12",
+   "title_bn": "ক্লোরিনের বিভিন্ন জারণ অবস্থা ও যৌগের ধর্ম",
+   "start_page": 117
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.12.1",
+   "title_bn": "ক্লোরিনের অক্সো-এসিডসমূহে জারণ অবস্থা ও অম্ল ধর্মের সম্পর্ক",
+   "start_page": 118
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.13",
+   "title_bn": "অন্যান্য হ্যালোজেনের সাথে ফ্লোরিনের পার্থক্য বা অসামঞ্জস্যতা",
+   "start_page": 118
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.14",
+   "title_bn": "হ্যালোজেনসমূহের ব্যবহার",
+   "start_page": 120
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.15",
+   "title_bn": "ক্ষার শিল্পে ক্লোরিনের যৌগসমূহের গুরুত্ব",
+   "start_page": 122
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.16",
+   "title_bn": "কৃষিবিজ্ঞানে ক্লোরিন ও ক্লোরিনের যৌগসমূহের প্রভাব",
+   "start_page": 123
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17",
+   "title_bn": "C-Cl বন্ধনযুক্ত যৌগের গুরুত্ব ও পরিবেশের ওপর ভূমিকি",
+   "start_page": 123
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17(ক)",
+   "title_bn": "CFC বা ফ্রিয়নস ও ওজোন স্তর",
+   "start_page": 124
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.1",
+   "title_bn": "ভূমিকা",
+   "start_page": 136
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.1.1",
+   "title_bn": "d-ব্লক মৌল",
+   "start_page": 136
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.1.2",
+   "title_bn": "অবস্থান্তর মৌল",
+   "start_page": 137
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.2",
+   "title_bn": "প্রথম অবস্থান্তর মৌলসমূহের ভৌত ধর্ম",
+   "start_page": 139
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.2.1",
+   "title_bn": "প্রথম অবস্থান্তর মৌলসমূহের রাসায়নিক ধর্ম",
+   "start_page": 141
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Pages 108-109 are inside section 2.10 (heading not in chunk; title in items for 2.10 is descriptive). In this chunk the item section 2.10 pre-110 items are tagged with 2.10. Printed pp.125-134 (chapter summary, অনুশীলনী, MCQ, সৃজনশীল) skipped; chapter 3 intro pp.135-143 mostly theory."
+}

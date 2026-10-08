@@ -1,0 +1,1593 @@
+{
+ "book": "NCTB রসায়ন প্রথম পত্র, একাদশ-দ্বাদশ শ্রেণি (অধ্যায় ৩: মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন)",
+ "chunk_pdf_pages": [
+  318,
+  352
+ ],
+ "page_offset_note": "printed page = pdf page for pdf 318-321; the book's numbering jumps (322,323 absent), so printed = pdf page + 2 for pdf 322-352",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-10-01",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 320,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "লিথিয়াম ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম",
+     "formula": "Li",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম হাইড্রক্সাইড",
+     "formula": "LiOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Li + 2H₂O → 2LiOH + H₂↑",
+   "conditions": "room temp",
+   "observations_bn": "পানির সাথে Li ক্রিয়া করে মৃদু ক্ষার LiOH ও H₂ গ্যাস দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ক্ষার ধাতু; অল্প পরিমাণ নিন, শুকনো হাতে ধরবেন না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-02",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 320,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লিথিয়াম দহনে Li₂O গঠন",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম",
+     "formula": "Li",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম অক্সাইড",
+     "formula": "Li₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "4Li + O₂ → 2Li₂O",
+   "conditions": "বাতাসে/অক্সিজেনে জারণ",
+   "observations_bn": "Li বায়ুর অক্সিজেনে জারিত হয়ে ক্ষারধর্মী Li₂O দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-03",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 320,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Li₂O ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম অক্সাইড",
+     "formula": "Li₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম হাইড্রক্সাইড",
+     "formula": "LiOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "Li₂O + H₂O → 2LiOH",
+   "conditions": "room temp",
+   "observations_bn": "পানিতে মিশে মৃদু ক্ষার LiOH দ্রবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-04",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 320,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Li₂O ও HCl এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম অক্সাইড",
+     "formula": "Li₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম ক্লোরাইড",
+     "formula": "LiCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Li₂O + 2HCl → 2LiCl + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "ক্ষারীয় অক্সাইড এসিডকে নিঃশেষ করে লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-05",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 320,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেরিলিয়ামের দহন",
+   "reactants": [
+    {
+     "name_bn": "বেরিলিয়াম",
+     "formula": "Be",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিলিয়াম অক্সাইড",
+     "formula": "BeO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Be + O₂ → 2BeO",
+   "conditions": "উচ্চ তাপমাত্রা",
+   "observations_bn": "উচ্চ তাপে Be অক্সিজেনের সাথে মিলে BeO দেয়; ক্রিয়া Li এর চেয়ে মন্থর।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-06",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 320,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "BeO ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "বেরিলিয়াম অক্সাইড",
+     "formula": "BeO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিলিয়াম হাইড্রক্সাইড",
+     "formula": "Be(OH)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "BeO + H₂O → Be(OH)₂",
+   "conditions": "—",
+   "observations_bn": "বইয়ে লেখা আছে বিক্রিয়া হয়, তবে BeO প্রায় অদ্রবণীয় (পৃ. ৩২১ এর টীকা)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "BeO পানিতে প্রায় অদ্রবণীয় ও বিষাক্ত, তাই কার্ড।"
+  },
+  {
+   "id": "k11-10-07",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 320,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "BeO ও NaOH এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "বেরিলিয়াম অক্সাইড",
+     "formula": "BeO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম বেরিলেট",
+     "formula": "Na₂BeO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "BeO + 2NaOH → Na₂BeO₂ + H₂O",
+   "conditions": "—",
+   "observations_bn": "ক্ষারের সাথে BeO লবণ গঠন করে (উভধর্মী ধর্মের প্রমাণ)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "বেরিলিয়াম যৌগ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-08",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 320,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "BeO ও HCl এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "বেরিলিয়াম অক্সাইড",
+     "formula": "BeO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিলিয়াম ক্লোরাইড",
+     "formula": "BeCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "BeO + 2HCl → BeCl₂ + H₂O",
+   "conditions": "—",
+   "observations_bn": "তীব্র এসিডের সাথে লবণ ও পানি দেয়; তাই BeO উভধর্মী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "বেরিলিয়াম যৌগ বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-09",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বোরনের দহন",
+   "reactants": [
+    {
+     "name_bn": "বোরন",
+     "formula": "B",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বোরন ট্রাইঅক্সাইড",
+     "formula": "B₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2B + 3O₂ → 2B₂O₃",
+   "conditions": "উত্তপ্ত অবস্থায়",
+   "observations_bn": "কক্ষ তাপে অক্রিয়, উত্তপ্ত অবস্থায় অক্সিজেনের সাথে B₂O₃ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-10",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "B₂O₃ ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "বোরন ট্রাইঅক্সাইড",
+     "formula": "B₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থোবোরিক এসিড",
+     "formula": "H₃BO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "B₂O₃ + 3H₂O → 2H₃BO₃",
+   "conditions": "room temp",
+   "observations_bn": "পানির সাথে মিলে দুর্বল অর্থোবোরিক এসিড গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-11",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "B₂O₃ ও HF এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "বোরন ট্রাইঅক্সাইড",
+     "formula": "B₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোফ্লুরিক এসিড",
+     "formula": "HF",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বোরন ট্রাইফ্লোরাইড",
+     "formula": "BF₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "B₂O₃ + 6HF → 2BF₃ + 3H₂O",
+   "conditions": "—",
+   "observations_bn": "এসিডের সাথে বিক্রিয়ায় লবণ ও পানি পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HF অত্যন্ত ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-12",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "B₂O₃ ও NaOH এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "বোরন ট্রাইঅক্সাইড",
+     "formula": "B₂O₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম বোরেট",
+     "formula": "Na₃BO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "B₂O₃ + 6NaOH → 2Na₃BO₃ + 3H₂O",
+   "conditions": "—",
+   "observations_bn": "ক্ষারের সাথে লবণ ও পানি দেয়; B₂O₃ উভধর্মী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-13",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বনের দহনে CO₂",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C + O₂ → CO₂",
+   "conditions": "দহন",
+   "observations_bn": "কার্বন পুড়িয়ে CO₂ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-14",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO₂ ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂O + CO₂ → H₂CO₃",
+   "conditions": "room temp",
+   "observations_bn": "CO₂ পানিতে দ্রবীভূত হয়ে দুর্বল অম্ল H₂CO₃ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-15",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO₂ ও NaOH এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaOH + CO₂ → Na₂CO₃ + H₂O",
+   "conditions": "—",
+   "observations_bn": "CO₂ তীব্র ক্ষারের ক্ষারকত্ব নষ্ট করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-16",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO এর NaOH এর সাথে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড (গাঢ়)",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস অক্সাইড",
+     "formula": "N₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "4NO + 2NaOH → 2NaNO₂ + N₂O + H₂O",
+   "conditions": "গাঢ় ক্ষার দ্রবণ",
+   "observations_bn": "NO প্রথমে N₂O₃ ও N₂O এ বিক্রিয়া করে, পরে N₂O₃ থেকে নাইট্রাইট লবণ পায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "ধাপ: 4NO→N₂O₃+N₂O; H₂O+N₂O₃→2HNO₂; 2NaOH+2HNO₂→2NaNO₂+2H₂O; সমষ্টি এখানে।"
+  },
+  {
+   "id": "k11-10-17",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₃ ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ডাই নাইট্রোজেন ট্রাইঅক্সাইড",
+     "formula": "N₂O₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "বরফ-শীতল পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂O + N₂O₃ → 2HNO₂",
+   "conditions": "বরফ-শীতল পানি",
+   "observations_bn": "শীতল পানিতে এসিড HNO₂ গঠিত হয়, তাই N₂O₃ কে নাইট্রাস অ্যানহাইড্রাইড বলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-18",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 321,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂O₃ ও NaOH এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ডাই নাইট্রোজেন ট্রাইঅক্সাইড",
+     "formula": "N₂O₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaOH + N₂O₃ → 2NaNO₂ + H₂O",
+   "conditions": "—",
+   "observations_bn": "ক্ষারের ক্ষারকত্ব নষ্ট করে লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-19",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 324,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₄O₆ ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₄O₆",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস এসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "P₄O₆ + 6H₂O → 4H₃PO₃",
+   "conditions": "—",
+   "observations_bn": "পানিতে অম্লধর্মী অক্সাইড ফসফরাস এসিড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ফসফরাস অক্সাইড ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-20",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 324,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₄O₆ ও NaOH এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₄O₆",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফসফেট",
+     "formula": "Na₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফিন",
+     "formula": "PH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₄O₆ + 9NaOH → 3Na₃PO₄ + PH₃↑ + 3H₂O",
+   "conditions": "heat (Δ)",
+   "observations_bn": "উত্তপ্ত ক্ষারের সাথে লবণ, পানি ও ফসফিন গ্যাস পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "PH₃ বিষাক্ত গ্যাস।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-21",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 324,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₃ ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₃ + H₂O → H₂SO₄",
+   "conditions": "—",
+   "observations_bn": "পানির সাথে শক্তিশালী অম্ল H₂SO₄ গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-22",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 324,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₃ ও NaOH এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SO₃ + 2NaOH → Na₂SO₄ + H₂O",
+   "conditions": "—",
+   "observations_bn": "ক্ষারের সাথে সালফেট লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-23",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 324,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরাস এসিড",
+     "formula": "H₂SO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₂ + H₂O → H₂SO₃",
+   "conditions": "—",
+   "observations_bn": "পানিতে দ্রবীভূত হয়ে সালফিউরাস এসিড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-24",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 324,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SO₂ ও NaOH এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফাইট",
+     "formula": "Na₂SO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SO₂ + 2NaOH → Na₂SO₃ + H₂O",
+   "conditions": "—",
+   "observations_bn": "ক্ষারের সাথে সালফাইট লবণ ও পানি পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-25",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 324,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cl₂O₇ ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ডাইক্লোরিন হেপ্টাক্সাইড",
+     "formula": "Cl₂O₇",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পারক্লোরিক এসিড",
+     "formula": "HClO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl₂O₇ + H₂O → 2HClO₄",
+   "conditions": "—",
+   "observations_bn": "পানিতে শক্তিশালী পারক্লোরিক এসিড পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-26",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 324,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cl₂O₇ ও NaOH এর বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ডাইক্লোরিন হেপ্টাক্সাইড",
+     "formula": "Cl₂O₇",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম পারক্লোরেট",
+     "formula": "NaClO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cl₂O₇ + 2NaOH → 2NaClO₄ + H₂O",
+   "conditions": "—",
+   "observations_bn": "ক্ষারের সাথে পারক্লোরেট লবণ ও পানি দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-27",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 325,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "OF₂ ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "অক্সিজেন ডাইফ্লোরাইড",
+     "formula": "OF₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "OF₂ + H₂O → 2HF + O₂↑",
+   "conditions": "ধীরে",
+   "observations_bn": "খুব ধীরগতিতে HF ও O₂ উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-28",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 325,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ClO ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন মনোক্সাইড",
+     "formula": "ClO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HOCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2ClO + H₂O → HCl + HOCl + O₂↑",
+   "conditions": "—",
+   "observations_bn": "পানির সাথে HCl, HOCl ও O₂ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-29",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 325,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cl₂O ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ডাইক্লোরিন মনোক্সাইড",
+     "formula": "Cl₂O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HOCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl₂O + H₂O ⇌ 2HOCl",
+   "conditions": "—",
+   "observations_bn": "পানিতে সাম্যাবস্থায় HOCl গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-30",
+   "chapter_no": 3,
+   "section_no": "3.5.1",
+   "section_title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "book_page": 325,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cl₂O₆ ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ডাইক্লোরিন হেক্সাক্সাইড",
+     "formula": "Cl₂O₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিক এসিড",
+     "formula": "HClO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পারক্লোরিক এসিড",
+     "formula": "HClO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl₂O₆ + H₂O → HClO₃ + HClO₄",
+   "conditions": "—",
+   "observations_bn": "পানিতে দুটি এসিডের মিশ্রণ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-31",
+   "chapter_no": 3,
+   "section_no": "3.6",
+   "section_title_bn": "ব্যবহারিক : মৌলের দ্রবণীয় অক্সাইডের অম্ল-ক্ষার প্রকৃতি নির্ণয়",
+   "book_page": 325,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "Na₂O দ্রবণের pH নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম অক্সাইড",
+     "formula": "Na₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂O + H₂O → 2NaOH",
+   "conditions": "room temp",
+   "observations_bn": "দ্রবণ ক্ষারীয়; pH মিটারে ৭ এর বেশি পাওয়া যাবে।",
+   "procedure_bn": [
+    "3.1 g Na₂O ওজন করে 96.9 mL পাতিত পানিতে দ্রবীভূত করুন।",
+    "দ্রবণ পরিষ্কার বিকারে নিয়ে pH মিটারের সেল ডুবিয়ে pH পড়ুন।"
+   ],
+   "quantities_bn": "3.1 g Na₂O (62 g/mol) + 96.9 mL পানি → 1 M NaOH, 100 mL (বইয়ের গণনা: 0.05 mol Na₂O থেকে 0.1 mol NaOH)",
+   "materials_bn": [
+    "Na₂O",
+    "পাতিত পানি",
+    "বিকার",
+    "pH মিটার",
+    "ক্রোমিক এসিড"
+   ],
+   "safety_bn": "Na₂O ক্ষারধর্মী ও ক্ষয়কারী; সাবধানে নিন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-32",
+   "chapter_no": 3,
+   "section_no": "3.6",
+   "section_title_bn": "ব্যবহারিক : মৌলের দ্রবণীয় অক্সাইডের অম্ল-ক্ষার প্রকৃতি নির্ণয়",
+   "book_page": 326,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "CaO দ্রবণের প্রকৃতি নির্ণয় (লিটমাস ও pH)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CaO + H₂O → Ca(OH)₂",
+   "conditions": "room temp",
+   "observations_bn": "লাল লিটমাস নীল হয়; pH মিটারে প্রায় 13.3 (বইয়ের মান)।",
+   "procedure_bn": [
+    "5.6 g CaO ধীরে ধীরে 100 mL পাতিত পানিতে যোগ করে দ্রবণ করুন।",
+    "2 mL দ্রবণ টেস্টটিউবে নিয়ে লাল লিটমাস কাগজ ভেজান।",
+    "5 mL দ্রবণ 50 mL এ লঘু করে pH মাপুন।"
+   ],
+   "quantities_bn": "5.6 g CaO (56 g/mol), 100 mL পানি; 5 mL → 50 mL লঘুকরণ; pH ≈ 13.3",
+   "materials_bn": [
+    "CaO",
+    "পাতিত পানি",
+    "বিকার",
+    "টেস্টটিউব",
+    "লাল লিটমাস",
+    "pH মিটার"
+   ],
+   "safety_bn": "CaO পানিতে বিক্রিয়ায় তাপ ছাড়ে; ধীরে যোগ করুন, ক্ষারীয় দ্রবণ।",
+   "confidence": "read",
+   "notes": "সিদ্ধান্ত: CaO ক্ষারীয় অক্সাইড।"
+  },
+  {
+   "id": "k11-10-33",
+   "chapter_no": 3,
+   "section_no": "3.6",
+   "section_title_bn": "ব্যবহারিক : মৌলের দ্রবণীয় অক্সাইডের অম্ল-ক্ষার প্রকৃতি নির্ণয়",
+   "book_page": 326,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CaCO₃ ও HCl থেকে CO₂ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট (চুনাপাথর)",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑",
+   "conditions": "room temp",
+   "observations_bn": "বুদবুদসহ CO₂ গ্যাস বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-34",
+   "chapter_no": 3,
+   "section_no": "3.6",
+   "section_title_bn": "ব্যবহারিক : মৌলের দ্রবণীয় অক্সাইডের অম্ল-ক্ষার প্রকৃতি নির্ণয়",
+   "book_page": 326,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "CO₂ দ্রবণের প্রকৃতি নির্ণয় (লিটমাস ও pH)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বনিক এসিড",
+     "formula": "H₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻",
+   "conditions": "room temp",
+   "observations_bn": "নীল লিটমাস লাল হয়; pH ৭ এর কম, বই অনুযায়ী 4–5 এর মধ্যে।",
+   "procedure_bn": [
+    "টেস্টটিউবে চুনাপাথর নিয়ে HCl দিয়ে দ্রুত কর্কযুক্ত নল লাগান।",
+    "উৎপন্ন CO₂ রাবার নল দিয়ে বিকারের 50 mL পাতিত পানিতে চালনা করুন।",
+    "নীল লিটমাস ডুবিয়ে রং দেখুন, pH মিটারে pH মাপুন।"
+   ],
+   "quantities_bn": "বিকারে প্রায় 50 mL পাতিত পানি (100 mL আয়তনের বিকার)",
+   "materials_bn": [
+    "CaCO₃",
+    "HCl",
+    "বিকার",
+    "ড্রপার",
+    "টেস্টটিউব",
+    "কর্ক",
+    "রাবার নল",
+    "নীল লিটমাস",
+    "pH মিটার"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সিদ্ধান্ত: CO₂ অম্লধর্মী অক্সাইড।"
+  },
+  {
+   "id": "k11-10-35",
+   "chapter_no": 3,
+   "section_no": "3.6",
+   "section_title_bn": "ব্যবহারিক : মৌলের দ্রবণীয় অক্সাইডের অম্ল-ক্ষার প্রকৃতি নির্ণয়",
+   "book_page": 326,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Li₂O দ্রবণীয়তার উদাহরণ (3.6 তালিকা)",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম অক্সাইড",
+     "formula": "Li₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম হাইড্রক্সাইড",
+     "formula": "LiOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "Li₂O + H₂O → 2LiOH",
+   "conditions": "room temp",
+   "observations_bn": "ক্ষারীয় দ্রবণ; 1 M দ্রবণে pH মাপা যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-36",
+   "chapter_no": 3,
+   "section_no": "3.6",
+   "section_title_bn": "ব্যবহারিক : মৌলের দ্রবণীয় অক্সাইডের অম্ল-ক্ষার প্রকৃতি নির্ণয়",
+   "book_page": 326,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₄O₁₀ ও পানির বিক্রিয়া (তালিকা)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্সাইড",
+     "formula": "P₄O₁₀",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরিক এসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "P₄O₁₀ + 6H₂O → 4H₃PO₄",
+   "conditions": "—",
+   "observations_bn": "পানিতে অম্লীয় দ্রবণ ফসফরিক এসিড গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-10-37",
+   "chapter_no": 3,
+   "section_no": "3.6",
+   "section_title_bn": "ব্যবহারিক : মৌলের দ্রবণীয় অক্সাইডের অম্ল-ক্ষার প্রকৃতি নির্ণয়",
+   "book_page": 326,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO₂ ও পানির বিক্রিয়া (তালিকা)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ডাই-অক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2NO₂ + H₂O → HNO₂ + HNO₃",
+   "equation_printed": "NO₂ + H₂O → HNO₂ + HNO₃",
+   "conditions": "—",
+   "observations_bn": "পানিতে দুটি এসিড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 3,
+   "no": "3.4.3",
+   "title_bn": "তড়িৎ ঋণাত্মকতার উপর বিভিন্ন নিয়ামকের প্রভাব",
+   "start_page": 319
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.5",
+   "title_bn": "মৌলের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "start_page": 320
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.5.1",
+   "title_bn": "দ্বিতীয় পর্যায়ের মৌলসমূহের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "start_page": 320
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.6",
+   "title_bn": "ব্যবহারিক : মৌলের দ্রবণীয় অক্সাইডের অম্ল-ক্ষার প্রকৃতি নির্ণয়",
+   "start_page": 325
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.7",
+   "title_bn": "শিক্ষার্থীর কাজ : মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধনের সম্পর্ক",
+   "start_page": 335
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.8",
+   "title_bn": "অরবিটালের অধিক্রমণ",
+   "start_page": 340
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.9",
+   "title_bn": "সমযোজী বন্ধনের শ্রেণিবিভাগ",
+   "start_page": 340
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.10",
+   "title_bn": "অরবিটালের সংকরায়ন",
+   "start_page": 344
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.11",
+   "title_bn": "সংকর অরবিটালের প্রকারভেদ",
+   "start_page": 346
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "পৃ. ৩২৪-৩২৫ এর তৃতীয় পর্যায়ের অক্সাইড অংশে আলাদা শিরোনাম নেই; নিকটতম শিরোনাম 3.5.1 ধরা হয়েছে। পৃ. ৩২৮-৩৩৭ (অনুশীলনী, MCQ) এবং 3.7-3.11 (বন্ধন তত্ত্ব, সংকরায়ন, H₂/F₂/O₂/N₂ অণু গঠনের ইলেকট্রন-চিত্র) তত্ত্ব হওয়ায় বাদ।"
+}

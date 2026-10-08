@@ -8,7 +8,7 @@ export interface CurKin { tau: number; lag?: number; dH: number; note: string; }
 
 export interface ExpMaterial { chem: string; amount: number; unit: 'mL' | 'g' | 'drops'; tool?: Tool; note?: string; }
 export interface BenchExperiment {
-  id: string; chapter: number; topic: number; titleBn: string; page: number;
+  id: string; book?: string; chapter: number; topic: number; titleBn: string; page: number;
   reactionIds?: string[];
   materials: ExpMaterial[];
   heat?: boolean; filter?: boolean;
@@ -21,16 +21,21 @@ export interface BenchExperiment {
   verified: boolean;            // false = could not be matched exactly to the book yet
 }
 export interface InfoCard {
-  id: string; chapter: number; topic: number; titleBn: string; page: number;
+  id: string; book?: string; chapter: number; topic: number; titleBn: string; page: number;
   equation?: string; bodyBn: string[]; verified: boolean;
 }
 
 import { GEN_REACTIONS, GEN_KIN, GEN_EXPERIMENTS, GEN_CARDS, GEN_SECTIONS } from './chem-curriculum-9-10.generated';
+import { GEN_BOOKS } from './chem-curriculum-11-12.generated';
 
-export const CURRICULUM_REACTIONS: Reaction[] = GEN_REACTIONS;
-export const CURRICULUM_KIN: Record<string, CurKin> = GEN_KIN;
-export const EXPERIMENTS: BenchExperiment[] = GEN_EXPERIMENTS;
-export const CARDS: InfoCard[] = GEN_CARDS;
+const B11_12 = ['11', '12'].map(id => ({ id, ...GEN_BOOKS[id] }));
+
+export const CURRICULUM_REACTIONS: Reaction[] = [...GEN_REACTIONS, ...B11_12.flatMap(b => b.reactions)];
+export const CURRICULUM_KIN: Record<string, CurKin> = Object.assign({}, GEN_KIN, ...B11_12.map(b => b.kin));
+export const BOOK_CLASSES: Record<string, number[]> = { '9-10': [9, 10], '11': [11], '12': [12] };
+export const BOOKS: { id: string; label: string }[] = [{ id: '9-10', label: 'নবম-দশম শ্রেণি' }, { id: '11', label: 'একাদশ শ্রেণি' }, { id: '12', label: 'দ্বাদশ শ্রেণি' }];
+export const EXPERIMENTS: BenchExperiment[] = [...(GEN_EXPERIMENTS as BenchExperiment[]).map(e => ({ book: '9-10', ...e })), ...B11_12.flatMap(b => b.experiments as BenchExperiment[])];
+export const CARDS: InfoCard[] = [...(GEN_CARDS as InfoCard[]).map(c => ({ book: '9-10', ...c })), ...B11_12.flatMap(b => b.cards as InfoCard[])];
 
 // Hand-written explanations for the reactions whose category has no ready-made template.
 export const CURRICULUM_TEXT: Record<string, CurText> = {
@@ -74,8 +79,16 @@ const CHAPTERS_BASE: { no: number; bn: string; page: number; topics: string[] }[
 ];
 
 /** Real section headings from the book (printed start page); falls back to the generic topic list if a chapter has none. */
-export interface ChapterInfo { no: number; bn: string; page: number; topics: string[]; sections: { no: string; titleBn: string; page: number }[]; }
+export interface ChapterInfo { book?: string; no: number; bn: string; page: number; topics: string[]; sections: { no: string; titleBn: string; page: number }[]; }
 export const CHAPTERS: ChapterInfo[] = CHAPTERS_BASE.map(c => {
   const sec: { no: string; titleBn: string; page: number }[] = (GEN_SECTIONS as any)[c.no] || [];
-  return { ...c, sections: sec, topics: sec.length ? sec.map(x => `${x.no} ${x.titleBn}`) : c.topics };
+  return { ...c, book: '9-10', sections: sec, topics: sec.length ? sec.map(x => `${x.no} ${x.titleBn}`) : c.topics };
 });
+
+// Class 11 / 12 chapters (names + real section headings from the extraction; chapters without data are simply not listed).
+for (const b of B11_12) {
+  for (const c of b.chapters) {
+    const sec: { no: string; titleBn: string; page: number }[] = (b.sections as any)[c.no] || [];
+    CHAPTERS.push({ book: b.id, no: c.no, bn: c.bn, page: c.page, sections: sec, topics: sec.length ? sec.map(x => `${x.no} ${x.titleBn}`) : ['সব বিষয়'] });
+  }
+}

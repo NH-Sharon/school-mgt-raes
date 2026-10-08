@@ -1,0 +1,708 @@
+{
+ "book": "NCTB Chemistry First Paper Class 11",
+ "chunk_pdf_pages": [
+  283,
+  317
+ ],
+ "page_offset_note": "printed page = pdf page - 0",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-09-01",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌল (শিরোনাম চাংকের আগের পাতায়; সঠিক নম্বর অনিশ্চিত)",
+   "book_page": 283,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রভাবক V₂O₅/Pt দিয়ে SO₂ থেকে SO₃",
+   "reactants": [
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ট্রাই-অক্সাইড",
+     "formula": "SO₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "2SO₂ + O₂ → 2SO₃",
+   "conditions": "প্রভাবক Pt বা V₂O₅; শিল্প (H₂SO₄ উৎপাদন)",
+   "observations_bn": "অবস্থান্তর মৌল প্রভাবক হিসেবে SO₂-কে SO₃-তে পরিণত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "SO₂",
+    "O₂",
+    "Pt/V₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k11-09-02",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌল (শিরোনাম চাংকের আগের পাতায়; সঠিক নম্বর অনিশ্চিত)",
+   "book_page": 283,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হেবার প্রক্রিয়ায় NH₃ উৎপাদন (Fe প্রভাবক)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂ + 3H₂ ⇌ 2NH₃",
+   "conditions": "Fe প্রভাবক; উচ্চ চাপ/তাপমাত্রা (শিল্প)",
+   "observations_bn": "বইয়ে শুধু নাম ও বিক্রিয়কের উল্লেখ; সমীকরণ নিজে সম্পূর্ণ করা।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "N₂",
+    "H₂",
+    "Fe"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k11-09-03",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌল (শিরোনাম চাংকের আগের পাতায়; সঠিক নম্বর অনিশ্চিত)",
+   "book_page": 286,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "K₂Cr₂O₇ থেকে K₂CrO₄ (KOH যোগে)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ডাইক্রোমেট (কমলা)",
+     "formula": "K₂Cr₂O₇",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ক্রোমেট (হলুদ)",
+     "formula": "K₂CrO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "K₂Cr₂O₇ + 2KOH → 2K₂CrO₄ + H₂O",
+   "conditions": "উত্তপ্ত করা",
+   "observations_bn": "কমলা দ্রবণ হলুদ হয়ে যায়।",
+   "procedure_bn": [
+    "K₂Cr₂O₇ দ্রবণে KOH দিন",
+    "মৃদু গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "K₂Cr₂O₇",
+    "KOH",
+    "পরীক্ষানল",
+    "বার্নার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-04",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌল (শিরোনাম চাংকের আগের পাতায়; সঠিক নম্বর অনিশ্চিত)",
+   "book_page": 286,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "K₂CrO₄ থেকে K₂Cr₂O₇ (H₂SO₄ যোগে)",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ক্রোমেট (হলুদ)",
+     "formula": "K₂CrO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম সালফেট",
+     "formula": "K₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ডাইক্রোমেট (কমলা)",
+     "formula": "K₂Cr₂O₇",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2K₂CrO₄ + H₂SO₄ → K₂SO₄ + K₂Cr₂O₇ + H₂O",
+   "conditions": "উত্তপ্ত করা",
+   "observations_bn": "হলুদ দ্রবণ কমলা হয়ে যায়।",
+   "procedure_bn": [
+    "K₂CrO₄ দ্রবণে H₂SO₄ দিন",
+    "গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "K₂CrO₄",
+    "H₂SO₄",
+    "পরীক্ষানল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-05",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌল (শিরোনাম চাংকের আগের পাতায়; সঠিক নম্বর অনিশ্চিত)",
+   "book_page": 286,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "K₂Cr₂O₇ ও গাঢ় HCl বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ডাইক্রোমেট",
+     "formula": "K₂Cr₂O₇",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "গাঢ় হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্রোমিয়াম(III) ক্লোরাইড (বেগুনি)",
+     "formula": "CrCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "K₂Cr₂O₇ + 14HCl → 2KCl + 2CrCl₃ + 7H₂O + 3Cl₂↑",
+   "conditions": "উত্তপ্ত করা",
+   "observations_bn": "বেগুনি রঙের CrCl₃ তৈরি হয় এবং ক্লোরিন গ্যাস ছাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "K₂Cr₂O₇",
+    "গাঢ় HCl"
+   ],
+   "safety_bn": "বিষাক্ত Cl₂ গ্যাস নির্গত হয়; ফিউম হুডে করতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-06",
+   "chapter_no": 3,
+   "section_no": "3.3.1",
+   "section_title_bn": "আয়নিকরণ বিভব (Ionisation Potential)",
+   "book_page": 293,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লিথিয়াম-এর ১ম আয়নিকরণ",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম পরমাণু",
+     "formula": "Li",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম আয়ন",
+     "formula": "Li⁺",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "gas"
+    }
+   ],
+   "equation": "Li(g) → Li⁺(g) + e⁻; ΔH = +520 kJ mol⁻¹",
+   "conditions": "গ্যাসীয় অবস্থা; তাপহারী",
+   "observations_bn": "এক মোল পরমাণু থেকে এক মোল ইলেকট্রন অপসারণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-07",
+   "chapter_no": 3,
+   "section_no": "3.3.1",
+   "section_title_bn": "আয়নিকরণ বিভব (Ionisation Potential)",
+   "book_page": 293,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম-এর ১ম আয়নিকরণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম পরমাণু",
+     "formula": "Na",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম আয়ন",
+     "formula": "Na⁺",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "gas"
+    }
+   ],
+   "equation": "Na(g) → Na⁺(g) + e⁻; ΔH = +496 kJ mol⁻¹",
+   "conditions": "গ্যাসীয় অবস্থা; তাপহারী",
+   "observations_bn": "এক মোল পরমাণু থেকে এক মোল ইলেকট্রন অপসারণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-08",
+   "chapter_no": 3,
+   "section_no": "3.3.1",
+   "section_title_bn": "আয়নিকরণ বিভব (Ionisation Potential)",
+   "book_page": 293,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পটাসিয়াম-এর ১ম আয়নিকরণ",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম পরমাণু",
+     "formula": "K",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম আয়ন",
+     "formula": "K⁺",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "gas"
+    }
+   ],
+   "equation": "K(g) → K⁺(g) + e⁻; ΔH = +419 kJ mol⁻¹",
+   "conditions": "গ্যাসীয় অবস্থা; তাপহারী",
+   "observations_bn": "এক মোল পরমাণু থেকে এক মোল ইলেকট্রন অপসারণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-09",
+   "chapter_no": 3,
+   "section_no": "3.3.1",
+   "section_title_bn": "আয়নিকরণ বিভব (Ionisation Potential)",
+   "book_page": 293,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়াম-এর ১ম আয়নিকরণ",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম পরমাণু",
+     "formula": "Mg",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম আয়ন",
+     "formula": "Mg⁺",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mg(g) → Mg⁺(g) + e⁻; ΔH = +738 kJ mol⁻¹",
+   "conditions": "গ্যাসীয় অবস্থা; তাপহারী",
+   "observations_bn": "এক মোল পরমাণু থেকে এক মোল ইলেকট্রন অপসারণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-10",
+   "chapter_no": 3,
+   "section_no": "3.3.1",
+   "section_title_bn": "আয়নিকরণ বিভব (Ionisation Potential)",
+   "book_page": 293,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Mg⁺-এর ২য় আয়নিকরণ",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম আয়ন",
+     "formula": "Mg⁺",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম আয়ন",
+     "formula": "Mg²⁺",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mg⁺(g) → Mg²⁺(g) + e⁻; ΔH = +1450 kJ mol⁻¹",
+   "conditions": "গ্যাসীয় অবস্থা; তাপহারী",
+   "observations_bn": "দ্বিতীয় আয়নিকরণ বিভব প্রথমটির চেয়ে বেশি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-11",
+   "chapter_no": 3,
+   "section_no": "3.3.2",
+   "section_title_bn": "ইলেকট্রন আসক্তি (Electron Affinity)",
+   "book_page": 298,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্লোরিন-এর ইলেকট্রন আসক্তি",
+   "reactants": [
+    {
+     "name_bn": "ফ্লোরিন পরমাণু",
+     "formula": "F",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফ্লোরিন আয়ন",
+     "formula": "F⁻",
+     "state": "gas"
+    }
+   ],
+   "equation": "F(g) + e⁻ → F⁻(g); ΔH = −328.8 kJ mol⁻¹",
+   "conditions": "গ্যাসীয় অবস্থা; তাপমোচী",
+   "observations_bn": "শক্তি নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-12",
+   "chapter_no": 3,
+   "section_no": "3.3.2",
+   "section_title_bn": "ইলেকট্রন আসক্তি (Electron Affinity)",
+   "book_page": 298,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন-এর ইলেকট্রন আসক্তি",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন পরমাণু",
+     "formula": "Cl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিন আয়ন",
+     "formula": "Cl⁻",
+     "state": "gas"
+    }
+   ],
+   "equation": "Cl(g) + e⁻ → Cl⁻(g); ΔH = −348.8 kJ mol⁻¹",
+   "conditions": "গ্যাসীয় অবস্থা; তাপমোচী",
+   "observations_bn": "শক্তি নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-13",
+   "chapter_no": 3,
+   "section_no": "3.3.2",
+   "section_title_bn": "ইলেকট্রন আসক্তি (Electron Affinity)",
+   "book_page": 299,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অক্সিজেনের ১ম ও ২য় ইলেকট্রন আসক্তি",
+   "reactants": [
+    {
+     "name_bn": "অক্সিজেন পরমাণু",
+     "formula": "O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সাইড আয়ন",
+     "formula": "O²⁻",
+     "state": "gas"
+    }
+   ],
+   "equation": "O(g) + 2e⁻ → O²⁻(g); ΔH = +702 kJ mol⁻¹",
+   "conditions": "গ্যাসীয় অবস্থা",
+   "observations_bn": "১ম ধাপে শক্তি নির্গত (−142), ২য় ধাপে শোষিত (+844); মোট ধনাত্মক।",
+   "procedure_bn": [],
+   "quantities_bn": "O + e⁻ → O⁻: ΔH = −142 kJ mol⁻¹; O⁻ + e⁻ → O²⁻: ΔH = +844 kJ mol⁻¹",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-14",
+   "chapter_no": 3,
+   "section_no": "3.3.3",
+   "section_title_bn": "তড়িৎ ঋণাত্মকতা (Electronegativity)",
+   "book_page": 306,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Na ও Cl-এর মধ্যে ইলেকট্রন স্থানান্তর (NaCl)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম পরমাণু",
+     "formula": "Na",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন পরমাণু",
+     "formula": "Cl",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "Na⁺Cl⁻",
+     "state": "solid"
+    }
+   ],
+   "equation": "Na + Cl → Na⁺ + Cl⁻",
+   "conditions": "আয়নিক বন্ধন গঠন (রেখাচিত্র)",
+   "observations_bn": "আয়নিক বন্ধন গঠনের চিত্রণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-09-15",
+   "chapter_no": 3,
+   "section_no": "3.2",
+   "section_title_bn": "অবস্থান্তর মৌল (শিরোনাম চাংকের আগের পাতায়; সঠিক নম্বর অনিশ্চিত)",
+   "book_page": 291,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "জটিল যৌগের দ্রবণে AgNO₃ দিয়ে মুক্ত Cl⁻ নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "[Co(H₂O)₅Cl]Cl₂·H₂O",
+     "formula": "[Co(H₂O)₅Cl]Cl₂·H₂O",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট (অতিরিক্ত)",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Ag⁺ + 2Cl⁻ → 2AgCl↓",
+   "conditions": "room temp",
+   "observations_bn": "মুক্ত Cl⁻ আয়ন AgCl সাদা অধঃক্ষেপ দেয়; জটিলে যুক্ত Cl⁻ দেয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "100 mL 0.1 M CoCl₃·6H₂O দ্রবণে 1.2×10²² আয়ন অধঃক্ষিপ্ত ⇒ ০.০২ mol Cl⁻ মুক্ত, ২টি Cl⁻ বাইরে; (উদাহরণ ২: 100 mL 0.05 M Pt ClBr·3NH₃, 3.0115×10²¹ আয়ন ⇒ [Pt(NH₃)₃Cl]Br)",
+   "materials_bn": [
+    "জটিল যৌগের দ্রবণ",
+    "AgNO₃ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "equation_printed": "[Co(H₂O)₅Cl]Cl₂·H₂O (সংকেত নির্ণয়; সমীকরণ ছাপা নেই)"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 3,
+   "no": "3.3",
+   "title_bn": "পর্যায়বৃত্ত ধর্ম (Periodic Properties)",
+   "start_page": 292
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.3.1",
+   "title_bn": "আয়নিকরণ বিভব (Ionisation Potential)",
+   "start_page": 293
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.3.2",
+   "title_bn": "ইলেকট্রন আসক্তি (Electron Affinity)",
+   "start_page": 298
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.3.3",
+   "title_bn": "তড়িৎ ঋণাত্মকতা (Electronegativity)",
+   "start_page": 302
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.3.4",
+   "title_bn": "গলনাঙ্ক ও স্ফুটনাঙ্ক (Melting & Boiling Point)",
+   "start_page": 307
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.3.5",
+   "title_bn": "পরমাণুর আকার ও পারমাণবিক ব্যাসার্ধ",
+   "start_page": 309
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.3.6",
+   "title_bn": "ধাতব ধর্ম (Metallic Properties)",
+   "start_page": 314
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.3.7",
+   "title_bn": "যোজ্যতা (Valency)",
+   "start_page": 315
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.4",
+   "title_bn": "আয়নিকরণ শক্তি, ইলেকট্রন আসক্তি, তড়িৎ ঋণাত্মকতার উপর বিভিন্ন নিয়ামকের প্রভাব",
+   "start_page": 316
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.4.1",
+   "title_bn": "আয়নিকরণ শক্তির উপর বিভিন্ন নিয়ামকের প্রভাব",
+   "start_page": 316
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.4.2",
+   "title_bn": "ইলেকট্রন আসক্তির উপর বিভিন্ন নিয়ামকের প্রভাব",
+   "start_page": 317
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Chunk is mostly theory (d-block properties, periodic trends). Pages 283-285 start mid-section before the chunk; section no. '3.2' is a guess from context, not printed on these pages. Atomic-level ionisation/EA/electron-transfer equations recorded as cards (not lab-doable). Complex-ion formation (p289-290) has orbital diagrams only, no equations, so skipped. SO2->SO3 and Haber equations completed by me (book names reagents only)."
+}

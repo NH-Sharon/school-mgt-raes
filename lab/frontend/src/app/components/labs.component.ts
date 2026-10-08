@@ -5,8 +5,11 @@ import { Router } from '@angular/router';
 import { SimulationService, LabCatalogItem } from '../services/simulation.service';
 import { AuthService } from '../services/auth.service';
 import { I18nService } from '../services/i18n.service';
+import { EXPERIMENTS, CHAPTERS, BOOK_CLASSES } from '../data/chem-curriculum-9-10';
 
-interface LabGroup { key: string; classLevel: number; subject: string; subjectKey: string; chapterId: number; chapterName: string; chapterOrder: number; labs: LabCatalogItem[]; }
+type CatalogRow = LabCatalogItem & { class_levels?: number[]; class_label?: string; exp?: string };
+
+interface LabGroup { key: string; classLevel: number; classLabel: string; subject: string; subjectKey: string; chapterId: number; chapterName: string; chapterOrder: number; labs: CatalogRow[]; }
 
 @Component({
   selector: 'app-labs',
@@ -86,7 +89,7 @@ interface LabGroup { key: string; classLevel: number; subject: string; subjectKe
         <button class="acc-head" (click)="toggle(g)" [attr.aria-expanded]="isOpen(g)">
           <span class="chip">{{ g.chapterOrder }}</span>
           <span class="acc-title">
-            <span class="crumb">{{ i18n.t('classLevel') }} {{ g.classLevel }} · {{ g.subject }}</span>
+            <span class="crumb">{{ i18n.t('classLevel') }} {{ g.classLabel }} · {{ g.subject }}</span>
             <b>{{ g.chapterName }}</b>
           </span>
           <span class="badge">{{ g.labs.length }} {{ i18n.isEn ? 'labs' : 'ল্যাব' }}</span>
@@ -174,7 +177,27 @@ export class LabsComponent implements OnInit {
   private router = inject(Router);
   i18n = inject(I18nService);
 
-  all = signal<LabCatalogItem[]>([]);
+  private apiRows = signal<LabCatalogItem[]>([]);
+  /** API labs + every guided chemistry experiment of the textbooks, listed by its name */
+  all = computed<CatalogRow[]>(() => {
+    const api = this.apiRows();
+    const allowed = new Set(api.map(l => l.class_level));
+    const extra: CatalogRow[] = [];
+    EXPERIMENTS.forEach((e, i) => {
+      const book = e.book || '9-10';
+      const classes = (BOOK_CLASSES[book] || []).filter(c => allowed.has(c));
+      if (!classes.length) return;
+      const ch = CHAPTERS.find(c => c.no === e.chapter && (c.book || '9-10') === book);
+      const sec = ch?.sections?.[e.topic - 1];
+      extra.push({
+        id: 100000 + i, key: 'exp:' + e.id, exp: e.id, title_bn: e.titleBn, title_en: e.titleBn, supports_guided: true, supports_free: false, order_index: i,
+        chapter_id: (book === '9-10' ? 9000 : book === '11' ? 11000 : 12000) + e.chapter, chapter_bn: `অধ্যায় ${e.chapter}: ${ch?.bn ?? ''}`, chapter_en: `Chapter ${e.chapter}: ${ch?.bn ?? ''}`,
+        chapter_order: e.chapter, subject_id: 1, class_level: classes[0], class_levels: classes, class_label: classes.length > 1 ? `${classes[0]}–${classes[classes.length - 1]}` : String(classes[0]),
+        topic_bn: sec ? `${sec.no} ${sec.titleBn}` : null, topic_en: sec ? `${sec.no} ${sec.titleBn}` : null, subject_bn: 'রসায়ন', subject_en: 'Chemistry',
+      });
+    });
+    return [...api, ...extra];
+  });
   loading = signal(true);
   search = signal('');
   classFilter = signal(0);
@@ -196,9 +219,9 @@ export class LabsComponent implements OnInit {
   private name = (l: LabCatalogItem, f: 'subject' | 'chapter' | 'topic') =>
     this.i18n.isEn ? (l as any)[f + '_en'] : (l as any)[f + '_bn'];
 
-  classes = computed(() => [...new Set(this.all().map(l => l.class_level))].sort((a, b) => a - b));
+  classes = computed(() => [...new Set(this.all().flatMap(l => l.class_levels ?? [l.class_level]))].sort((a, b) => a - b));
 
-  private byClass = computed(() => { const c = this.classFilter(); return c ? this.all().filter(l => l.class_level === c) : this.all(); });
+  private byClass = computed(() => { const c = this.classFilter(); return c ? this.all().filter(l => (l.class_levels ?? [l.class_level]).includes(c)) : this.all(); });
   baseCount = computed(() => this.byClass().length);
 
   subjects = computed(() => {
@@ -251,8 +274,8 @@ export class LabsComponent implements OnInit {
     if (!this.hasQuery()) return [];
     const map = new Map<string, LabGroup>();
     for (const l of this.filtered()) {
-      const key = `${l.class_level}::${l.subject_en}::${l.chapter_id}`;
-      if (!map.has(key)) map.set(key, { key, classLevel: l.class_level, subject: this.name(l, 'subject'), subjectKey: l.subject_en, chapterId: l.chapter_id, chapterName: this.name(l, 'chapter'), chapterOrder: l.chapter_order, labs: [] });
+      const key = `${l.class_label ?? l.class_level}::${l.subject_en}::${l.chapter_id}`;
+      if (!map.has(key)) map.set(key, { key, classLevel: l.class_level, classLabel: l.class_label ?? String(l.class_level), subject: this.name(l, 'subject'), subjectKey: l.subject_en, chapterId: l.chapter_id, chapterName: this.name(l, 'chapter'), chapterOrder: l.chapter_order, labs: [] });
       map.get(key)!.labs.push(l);
     }
     return [...map.values()];
@@ -288,11 +311,14 @@ export class LabsComponent implements OnInit {
   ngOnInit() {
     this.simSvc.getCatalog().subscribe({
       next: (rows) => {
-        this.all.set(rows); this.loading.set(false);
+        this.apiRows.set(rows); this.loading.set(false);
       },
       error: () => this.loading.set(false),
     });
   }
 
-  launch(lab: LabCatalogItem) { this.router.navigate(['/lab-launch', lab.key]); }
+  launch(lab: CatalogRow) {
+    if (lab.exp) this.router.navigate(['/lab-launch', 'chem-mixing'], { queryParams: { exp: lab.exp } });
+    else this.router.navigate(['/lab-launch', lab.key]);
+  }
 }

@@ -1,0 +1,4565 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  267,
+  302
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-08-01",
+   "chapter_no": 5,
+   "section_no": "5.2",
+   "section_title_bn": "অ্যালিফেটিক হাইড্রোকার্বনের উৎস",
+   "book_page": 255,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্র্যাকিংয়ে হেপ্টাডেকেন ভেঙে ছোট হাইড্রোকার্বন",
+   "reactants": [
+    {
+     "name_bn": "হেপ্টাডেকেন",
+     "formula": "C₁₇H₃₆",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডেকেন",
+     "formula": "C₁₀H₂₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হেপ্টিন",
+     "formula": "C₇H₁₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₁₇H₃₆ → C₁₀H₂₂ + C₇H₁₄",
+   "conditions": "তাপীয় বিয়োজন (পাইরোলাইসিস/ক্র্যাকিং)",
+   "observations_bn": "বড় অণুর অ্যালকেন ভেঙে ছোট অ্যালকেন ও অ্যালকিন তৈরি হয়; এতে পেট্রোল-সীমার হাইড্রোকার্বন বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ডিজেল-পরিসরের অ্যালকেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-02",
+   "chapter_no": 5,
+   "section_no": "5.3",
+   "section_title_bn": "জ্বালানি তেলের অক্টেন নাম্বার",
+   "book_page": 256,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অক্টাডেকেনের ক্র্যাকিংয়ে অক্টেন ও ইথিন",
+   "reactants": [
+    {
+     "name_bn": "অক্টাডেকেন",
+     "formula": "C₁₈H₃₈",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্টেন",
+     "formula": "C₈H₁₈",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₁₈H₃₈ → C₈H₁₈ + 5C₂H₄",
+   "conditions": "Al₂O₃ প্রভাবক, বইয়ে ছাপা তাপমাত্রা 100°C",
+   "observations_bn": "ভারী অ্যালকেন ভেঙে পেট্রোলের উপাদান অক্টেন ও ইথিন গ্যাস পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-03",
+   "chapter_no": 5,
+   "section_no": "5.3",
+   "section_title_bn": "জ্বালানি তেলের অক্টেন নাম্বার",
+   "book_page": 256,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অক্টেনের ক্র্যাকিং",
+   "reactants": [
+    {
+     "name_bn": "অক্টেন",
+     "formula": "C₈H₁₈",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেক্সেন",
+     "formula": "C₆H₁₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₈H₁₈ → C₆H₁₄ + C₂H₄",
+   "conditions": "SiO₂ প্রভাবক, তাপ, 480°C",
+   "observations_bn": "অক্টেন ভেঙে তুলনামূলক ছোট অ্যালকেন ও ইথিন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-04",
+   "chapter_no": 5,
+   "section_no": "5.3",
+   "section_title_bn": "জ্বালানি তেলের অক্টেন নাম্বার",
+   "book_page": 256,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2-মিথাইল পেন্টেনের সমাণুকরণ",
+   "reactants": [
+    {
+     "name_bn": "2-মিথাইল পেন্টেন",
+     "formula": "C₆H₁₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2,3-ডাইমিথাইল বিউটেন",
+     "formula": "C₆H₁₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH(CH₃)CH₂CH₂CH₃ → CH₃CH(CH₃)CH(CH₃)CH₃",
+   "conditions": "AlCl₃ ও HCl, 300°C",
+   "observations_bn": "শাখা বেড়ে জ্বালানির অক্টেন মান বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-05",
+   "chapter_no": 5,
+   "section_no": "5.3",
+   "section_title_bn": "জ্বালানি তেলের অক্টেন নাম্বার",
+   "book_page": 257,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকাইলেশনে অধিক শাখাযুক্ত অ্যালকেন",
+   "reactants": [
+    {
+     "name_bn": "আইসোবিউটেন (2-মিথাইল প্রোপেন)",
+     "formula": "C₄H₁₀",
+     "state": "gas"
+    },
+    {
+     "name_bn": "2-পেন্টিন",
+     "formula": "C₅H₁₀",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "3-ইথাইল-2,2-ডাইমিথাইল পেন্টেন",
+     "formula": "C₉H₂₀",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃)₃CH + CH₃CH=CHCH₂CH₃ → (CH₃)₃C–CH(C₂H₅)–CH₂CH₃",
+   "conditions": "গাঢ় H₂SO₄ প্রভাবক, 20°C",
+   "observations_bn": "অ্যালকিন ও অ্যালকেন যুক্ত হয়ে বেশি শাখাযুক্ত অ্যালকেন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-06",
+   "chapter_no": 5,
+   "section_no": "5.3",
+   "section_title_bn": "জ্বালানি তেলের অক্টেন নাম্বার",
+   "book_page": 257,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হেক্সেন থেকে বেনজিন (রিফর্মিং)",
+   "reactants": [
+    {
+     "name_bn": "হেক্সেন",
+     "formula": "C₆H₁₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₁₄ → C₆H₆ + 4H₂",
+   "conditions": "500°C, 40 atm, Al₂O₃ বা Pt প্রভাবক",
+   "observations_bn": "শাখাহীন অ্যালকেন থেকে অ্যারোমেটিক যৌগ তৈরি হয়ে জ্বালানির মান বাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-07",
+   "chapter_no": 5,
+   "section_no": "5.5",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকেন প্রস্তুতি",
+   "book_page": 258,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "সোডিয়াম অ্যাসিটেট ও সোডালাইম থেকে মিথেন প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট (অনার্দ্র)",
+     "formula": "CH₃COONa",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডালাইম (NaOH + CaO)",
+     "formula": "NaOH·CaO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃COONa + NaOH → CH₄↑ + Na₂CO₃",
+   "conditions": "সোডালাইমসহ তীব্র তাপ",
+   "observations_bn": "মিথেন গ্যাস বের হয়; ফ্লাস্কের বাতাস সরে গেলে পানির নিচে জারে সংগ্রহ করা যায়।",
+   "procedure_bn": [
+    "গোলতলী ফ্লাস্কে অ্যাসিটেট ও সোডালাইম 1:3 ওজনে মেশান",
+    "নির্গম নলসহ ফ্লাস্ক স্ট্যান্ডে লাগিয়ে গরম করুন",
+    "প্রথমের বাতাস বাদ দিয়ে গ্যাস পানির নিম্নমুখী অপসারণে জারে ধরুন"
+   ],
+   "quantities_bn": "সোডিয়াম লবণ : সোডালাইম = 1 : 3 (ওজনে)",
+   "materials_bn": [
+    "গোলতলী ফ্লাস্ক",
+    "নির্গম নল",
+    "গ্যাসজার",
+    "পানির ট্রো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-08",
+   "chapter_no": 5,
+   "section_no": "5.5",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকেন প্রস্তুতি",
+   "book_page": 258,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম প্রোপিয়নেট থেকে ইথেন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম প্রোপিয়নেট",
+     "formula": "CH₃CH₂COONa",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডালাইম",
+     "formula": "NaOH·CaO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "C₂H₆",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CH₂COONa + NaOH → C₂H₆↑ + Na₂CO₃",
+   "conditions": "সোডালাইমসহ তাপ",
+   "observations_bn": "ইথেন গ্যাস পাওয়া যায়, সংগ্রহ পদ্ধতি মিথেনের মতো।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-09",
+   "chapter_no": 5,
+   "section_no": "5.6",
+   "section_title_bn": "অ্যালকেনের শিল্পোৎপাদন",
+   "book_page": 258,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO ও H₂ থেকে মিথেন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CO + 3H₂ → CH₄ + H₂O",
+   "conditions": "Ni চূর্ণ, 300°C",
+   "observations_bn": "শিল্পে মিথেন তৈরির পদ্ধতি; মিশ্র গ্যাস নিকেলের ওপর দিয়ে চালানো হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-10",
+   "chapter_no": 5,
+   "section_no": "5.6",
+   "section_title_bn": "অ্যালকেনের শিল্পোৎপাদন",
+   "book_page": 258,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO ও স্টিম থেকে মিথেন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "স্টিম",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4CO + 2H₂O → CH₄ + 3CO₂",
+   "conditions": "NiCO₃ প্রভাবক, 250–270°C",
+   "observations_bn": "শিল্পে মিথেন উৎপাদনের আরেক বিক্রিয়া।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-11",
+   "chapter_no": 5,
+   "section_no": "5.6",
+   "section_title_bn": "অ্যালকেনের শিল্পোৎপাদন",
+   "book_page": 258,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কৃত্রিম পেট্রোল সংশ্লেষণ (CO + H₂)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "তরল অ্যালকেন মিশ্রণ",
+     "formula": "CₙH₂ₙ₊₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "nCO + (2n+1)H₂ → CₙH₂ₙ₊₂ + nH₂O",
+   "equation_printed": "nCO₂ + (2n+1)H₂ → CₙH₂ₙ₊₂ + nH₂O",
+   "conditions": "Co প্রভাবক, 200°C, 5–10 atm",
+   "observations_bn": "তরল হাইড্রোকার্বনের মিশ্রণ পাওয়া যায়, যা আংশিক পাতনে পেট্রোল ইত্যাদিতে ভাগ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-12",
+   "chapter_no": 5,
+   "section_no": "5.7",
+   "section_title_bn": "অ্যালকেন সংশ্লেষণ",
+   "book_page": 259,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপিনে H₂ যোগে প্রোপেন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপেন",
+     "formula": "CH₃CH₂CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH=CH₂ + H₂ → CH₃CH₂CH₃",
+   "conditions": "Ni, 150°C (Pt/Pd হলে কক্ষ তাপমাত্রা)",
+   "observations_bn": "দ্বিবন্ধন ভেঙে সম্পৃক্ত অ্যালকেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-13",
+   "chapter_no": 5,
+   "section_no": "5.7",
+   "section_title_bn": "অ্যালকেন সংশ্লেষণ",
+   "book_page": 259,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপাইনে 2H₂ যোগে প্রোপেন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপাইন",
+     "formula": "CH₃C≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপেন",
+     "formula": "CH₃CH₂CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃C≡CH + 2H₂ → CH₃CH₂CH₃",
+   "conditions": "Ni, 150°C",
+   "observations_bn": "ত্রিবন্ধন পুরোপুরি সম্পৃক্ত হয়ে অ্যালকেন তৈরি করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-14",
+   "chapter_no": 5,
+   "section_no": "5.7",
+   "section_title_bn": "অ্যালকেন সংশ্লেষণ",
+   "book_page": 260,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Zn/HCl দ্বারা ইথাইল আয়োডাইডের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল আয়োডাইড",
+     "formula": "CH₃CH₂I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জায়মান হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "C₂H₆",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂I + 2[H] → C₂H₆ + HI",
+   "conditions": "Zn ও HCl থেকে জায়মান H",
+   "observations_bn": "হ্যালোজেনের জায়গায় হাইড্রোজেন বসে অ্যালকেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জিংক",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-15",
+   "chapter_no": 5,
+   "section_no": "5.7",
+   "section_title_bn": "অ্যালকেন সংশ্লেষণ",
+   "book_page": 260,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উর্জ বিক্রিয়ায় ইথেন প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল আয়োডাইড",
+     "formula": "CH₃I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "C₂H₆",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solid"
+    }
+   ],
+   "equation": "2CH₃I + 2Na → C₂H₆ + 2NaI",
+   "conditions": "শুষ্ক ইথারে, তাপ",
+   "observations_bn": "দুটি অ্যালকাইল মূলক জুড়ে উচ্চতর অ্যালকেন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "সোডিয়াম পানিতে বিক্রিয়াশীল, তাই শুষ্ক ইথার দরকার।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-16",
+   "chapter_no": 5,
+   "section_no": "5.9.1",
+   "section_title_bn": "অ্যালকেনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 261,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেনের ধাপে ধাপে ক্লোরিনেশন",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + Cl₂ → CH₃Cl + HCl; CH₃Cl + Cl₂ → CH₂Cl₂ + HCl; CH₂Cl₂ + Cl₂ → CHCl₃ + HCl; CHCl₃ + Cl₂ → CCl₄ + HCl",
+   "conditions": "আলোক (সূর্যালোক/UV)",
+   "observations_bn": "একে একে চারটি H সরে CH₃Cl, CH₂Cl₂, CHCl₃, CCl₄ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-17",
+   "chapter_no": 5,
+   "section_no": "5.9.1",
+   "section_title_bn": "অ্যালকেনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 261,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপেনের ক্লোরিনেশন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপেন",
+     "formula": "C₃H₈",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "n-প্রোপাইল ক্লোরাইড (45%)",
+     "formula": "CH₃CH₂CH₂Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "iso-প্রোপাইল ক্লোরাইড (55%)",
+     "formula": "CH₃CHClCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₃H₈ + Cl₂ → C₃H₇Cl + HCl",
+   "equation_printed": "C₃H₈ + Cl₂ → n-প্রোপাইল ক্লোরাইড + iso-প্রোপাইল ক্লোরাইড (HCl ছাড়া)",
+   "conditions": "আলোক, 25°C",
+   "observations_bn": "2° কার্বনের H বেশি প্রতিস্থাপিত হওয়ায় iso-যৌগ কিছু বেশি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-18",
+   "chapter_no": 5,
+   "section_no": "5.9.1",
+   "section_title_bn": "অ্যালকেনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 262,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপেনের ব্রোমিনেশন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপেন",
+     "formula": "C₃H₈",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "n-প্রোপাইল ব্রোমাইড (5%)",
+     "formula": "CH₃CH₂CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "iso-প্রোপাইল ব্রোমাইড (95%)",
+     "formula": "CH₃CHBrCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₃H₈ + Br₂ → C₃H₇Br + HBr",
+   "equation_printed": "C₃H₈ + Br₂ → n-প্রোপাইল ব্রোমাইড + iso-প্রোপাইল ব্রোমাইড (HBr ছাড়া)",
+   "conditions": "আলোক, 30°C",
+   "observations_bn": "ব্রোমিন 2° H-কে অনেক বেশি পছন্দ করে, তাই iso-যৌগ প্রধান।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-19",
+   "chapter_no": 5,
+   "section_no": "5.9.1",
+   "section_title_bn": "অ্যালকেনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 262,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "n-বিউটেনের ক্লোরিনেশন",
+   "reactants": [
+    {
+     "name_bn": "n-বিউটেন",
+     "formula": "C₄H₁₀",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "n-বিউটাইল ক্লোরাইড (32%)",
+     "formula": "CH₃CH₂CH₂CH₂Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "sec-বিউটাইল ক্লোরাইড (68%)",
+     "formula": "CH₃CH₂CHClCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₄H₁₀ + Cl₂ → C₄H₉Cl + HCl",
+   "equation_printed": "HCl ছাড়া ছাপা",
+   "conditions": "400°C",
+   "observations_bn": "2° কার্বনের H প্রতিস্থাপন বেশি ঘটে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-20",
+   "chapter_no": 5,
+   "section_no": "5.9.1",
+   "section_title_bn": "অ্যালকেনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 262,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আইসোবিউটেনের ব্রোমিনেশন",
+   "reactants": [
+    {
+     "name_bn": "iso-বিউটেন",
+     "formula": "(CH₃)₃CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "t-বিউটাইল ব্রোমাইড (99%)",
+     "formula": "(CH₃)₃CBr",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "iso-বিউটাইল ব্রোমাইড (1%)",
+     "formula": "(CH₃)₂CHCH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "(CH₃)₃CH + Br₂ → (CH₃)₃CBr + HBr",
+   "equation_printed": "HBr ছাড়া ছাপা",
+   "conditions": "300°C",
+   "observations_bn": "3° H সবচেয়ে সক্রিয়, তাই t-বিউটাইল ব্রোমাইড প্রায় একমাত্র।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-21",
+   "chapter_no": 5,
+   "section_no": "5.9.1",
+   "section_title_bn": "অ্যালকেনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 262,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিনেশনের ফ্রি-র‍্যাডিকেল চেইন ধাপ",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "সূচনা: Cl₂ → 2Cl•; বিস্তার: Cl• + CH₄ → HCl + •CH₃, •CH₃ + Cl₂ → CH₃Cl + Cl•; সমাপ্তি: Cl• + Cl• → Cl₂, Cl• + •CH₃ → CH₃Cl, •CH₃ + •CH₃ → C₂H₆",
+   "conditions": "আলোক বা তাপ",
+   "observations_bn": "তিন স্তরে বিক্রিয়া চলে; বিস্তার স্তর বারবার ঘটে বলে একে চেইন বিক্রিয়া বলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-22",
+   "chapter_no": 5,
+   "section_no": "5.9.1",
+   "section_title_bn": "অ্যালকেনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 263,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেনের নাইট্রেশন",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "নাইট্রিক অ্যাসিড (গাঢ়) বাষ্প",
+     "formula": "HNO₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রো মিথেন",
+     "formula": "CH₃NO₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + HNO₃ → CH₃NO₂ + H₂O",
+   "conditions": "প্রায় 400°C, বাষ্প অবস্থা",
+   "observations_bn": "একটি H সরে –NO₂ মূলক বসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-23",
+   "chapter_no": 5,
+   "section_no": "5.9.2",
+   "section_title_bn": "অ্যালকেনের তাপীয় বিয়োজন (Pyrolysis or cracking)",
+   "book_page": 263,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথেনের পাইরোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "C₂H₆",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "3C₂H₆ → 2C₂H₄ + 2CH₄ + H₂",
+   "conditions": "500°C উপর, অক্সিজেন ছাড়া",
+   "observations_bn": "ফ্রি-র‍্যাডিকেল পথে কার্বন-কার্বন ও C–H বন্ধন ভেঙে ছোট অণু তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-24",
+   "chapter_no": 5,
+   "section_no": "5.9.2",
+   "section_title_bn": "অ্যালকেনের তাপীয় বিয়োজন (Pyrolysis or cracking)",
+   "book_page": 263,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপেনের পাইরোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "প্রোপেন",
+     "formula": "C₃H₈",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "C₃H₆",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₃H₈ → C₃H₆ + C₂H₄ + CH₄ + H₂",
+   "conditions": "600°C",
+   "observations_bn": "একাধিক পণ্যের মিশ্রণ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-25",
+   "chapter_no": 5,
+   "section_no": "5.9.3",
+   "section_title_bn": "অ্যালকেনের সমাণুকরণ (Isomerism)",
+   "book_page": 263,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "n-বিউটেন থেকে আইসোবিউটেন",
+   "reactants": [
+    {
+     "name_bn": "n-বিউটেন",
+     "formula": "CH₃CH₂CH₂CH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "iso-বিউটেন",
+     "formula": "(CH₃)₂CHCH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂CH₂CH₃ → (CH₃)₂CHCH₃",
+   "conditions": "অনার্দ্র AlCl₃ ও HCl, 250–300°C",
+   "observations_bn": "শাখাহীন অ্যালকেন শাখাযুক্ত হয়; এটি পেট্রোলের মান বাড়াতে কাজে লাগে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-26",
+   "chapter_no": 5,
+   "section_no": "5.9.3",
+   "section_title_bn": "অ্যালকেনের সমাণুকরণ (Isomerism)",
+   "book_page": 263,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2-মিথাইল পেন্টেনের সমাণুকরণ",
+   "reactants": [
+    {
+     "name_bn": "2-মিথাইল পেন্টেন",
+     "formula": "C₆H₁₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2,3-ডাইমিথাইল বিউটেন",
+     "formula": "C₆H₁₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH(CH₃)CH₂CH₂CH₃ → CH₃CH(CH₃)CH(CH₃)CH₃",
+   "conditions": "AlCl₃, HCl, 300°C",
+   "observations_bn": "আরও বেশি শাখাযুক্ত সমাণু তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-27",
+   "chapter_no": 5,
+   "section_no": "5.11",
+   "section_title_bn": "অসম্পৃক্ত হাইড্রোজেন : অ্যালকিন ও অ্যালকাইন",
+   "book_page": 265,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনে ক্লোরিন যুক্ত হয়ে ইথিলিন ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,2-ডাইক্লোরো ইথেন",
+     "formula": "CH₂Cl–CH₂Cl",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + Cl₂ → CH₂Cl–CH₂Cl",
+   "conditions": "সাধারণ অবস্থা",
+   "observations_bn": "তৈলাক্ত তরল তৈরি হয়; এ কারণে অ্যালকিনকে অলেফিন বলা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-28",
+   "chapter_no": 5,
+   "section_no": "5.12",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকিন প্রস্তুতি",
+   "book_page": 265,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানল ও H₂SO₄ থেকে ইথাইল হাইড্রোজেন সালফেট (ধাপ-১)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল হাইড্রোজেন সালফেট",
+     "formula": "CH₃CH₂OSO₃H",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OH + H₂SO₄ → CH₃CH₂OSO₃H + H₂O",
+   "conditions": "প্রায় 100°C",
+   "observations_bn": "প্রথম ধাপে মধ্যবর্তী সালফেট এস্টার ও পানি তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-29",
+   "chapter_no": 5,
+   "section_no": "5.12",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকিন প্রস্তুতি",
+   "book_page": 265,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল হাইড্রোজেন সালফেট থেকে ইথিন (ধাপ-২)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল হাইড্রোজেন সালফেট",
+     "formula": "CH₃CH₂OSO₃H",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OSO₃H → CH₂=CH₂↑ + H₂SO₄",
+   "conditions": "165°C (160–170°C)",
+   "observations_bn": "বেশি তাপে সালফেট ভেঙে ইথিন গ্যাস বের হয় এবং অ্যাসিড ফিরে আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-30",
+   "chapter_no": 5,
+   "section_no": "5.12",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকিন প্রস্তুতি",
+   "book_page": 266,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পরীক্ষাগারে ইথিন প্রস্তুতি ও বিশুদ্ধকরণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OH → CH₂=CH₂↑ + H₂O (গাঢ় H₂SO₄ দিয়ে, দুই ধাপের যোগফল)",
+   "conditions": "160–170°C, বালির স্নান",
+   "observations_bn": "ইথিন গ্যাস NaOH ওয়াশ বোতল হয়ে বিশুদ্ধ হয়ে পানির নিচে সংগ্রহ হয়।",
+   "procedure_bn": [
+    "ইথানলে দ্বিগুণ আয়তন গাঢ় H₂SO₄ মিশিয়ে ফেনা রোধে কাচের টুকরা, বালি ও অনার্দ্র Al₂(SO₄)₃ দিন",
+    "থার্মোমিটারসহ ফ্লাস্ক বালির স্নানে 160–170°C-এ গরম করুন",
+    "গ্যাসকে NaOH ধোয়ার বোতলে পাঠিয়ে CO₂ ও SO₂ আটকান",
+    "পানির নিম্নমুখী অপসারণে ইথিন ধরুন"
+   ],
+   "quantities_bn": "ইথানল 1 আয়তন : গাঢ় H₂SO₄ 2 আয়তন; ইথানল 60 cm³ হলে বালি প্রায় 60 g ও Al₂(SO₄)₃ 8 g",
+   "materials_bn": [
+    "গোলতলী ফ্লাস্ক",
+    "থার্মোমিটার",
+    "ওয়াশ বোতল",
+    "NaOH দ্রবণ",
+    "বালি স্নান",
+    "গ্যাসজার"
+   ],
+   "safety_bn": "শেষে ওয়াশ বোতলের সংযোগ আগে খুলতে হবে, নইলে NaOH ফ্লাস্কে ঢুকে পড়ে; H₂SO₄ কম হলে ডাইইথাইল ইথার তৈরি হয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-31",
+   "chapter_no": 5,
+   "section_no": "5.12",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকিন প্রস্তুতি",
+   "book_page": 266,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গাঢ় H₂SO₄ ও ইথানলের জারণে অপদ্রব্য গ্যাস",
+   "reactants": [
+    {
+     "name_bn": "গাঢ় সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "6H₂SO₄ → 6H₂O + 6SO₂ + 6[O]; C₂H₅OH + 6[O] → 2CO₂ + 3H₂O",
+   "conditions": "গরম অবস্থায়",
+   "observations_bn": "পাশাপাশি জারণে CO₂ ও SO₂ মিশে ইথিনকে অপবিত্র করে; এগুলো NaOH-এ শোষিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-32",
+   "chapter_no": 5,
+   "section_no": "5.13",
+   "section_title_bn": "অ্যালকিনের শিল্পোৎপাদন",
+   "book_page": 266,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপানলের নিরুদন থেকে প্রোপিন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানল",
+     "formula": "CH₃CH₂CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂CH₂OH → CH₃CH=CH₂ + H₂O",
+   "conditions": "Al₂O₃, 350–400°C",
+   "observations_bn": "অ্যালকোহল থেকে এক অণু পানি সরে অ্যালকিন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-33",
+   "chapter_no": 5,
+   "section_no": "5.13",
+   "section_title_bn": "অ্যালকিনের শিল্পোৎপাদন",
+   "book_page": 266,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানলের নিরুদন থেকে ইথিন",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂OH → CH₂=CH₂ + H₂O",
+   "conditions": "Al₂O₃, 350–400°C",
+   "observations_bn": "বাষ্প Al₂O₃-এর ওপর দিয়ে চালালে ইথিন পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-34",
+   "chapter_no": 5,
+   "section_no": "5.13",
+   "section_title_bn": "অ্যালকিনের শিল্পোৎপাদন",
+   "book_page": 267,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বিউটেনের তাপবিয়োজন থেকে প্রোপিন",
+   "reactants": [
+    {
+     "name_bn": "বিউটেন",
+     "formula": "CH₃CH₂CH₂CH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂CH₂CH₃ → CH₃CH=CH₂ + CH₄",
+   "conditions": "Cr₂O₃ প্রভাবক, তাপ",
+   "observations_bn": "অ্যালকেন ভেঙে অ্যালকিন ও ছোট অ্যালকেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-35",
+   "chapter_no": 5,
+   "section_no": "5.13",
+   "section_title_bn": "অ্যালকিনের শিল্পোৎপাদন",
+   "book_page": 267,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ভিসিন্যাল ডাইব্রোমাইড থেকে Zn দ্বারা ইথিন",
+   "reactants": [
+    {
+     "name_bn": "ইথিলিন ব্রোমাইড",
+     "formula": "BrCH₂CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জিংক ব্রোমাইড",
+     "formula": "ZnBr₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "BrCH₂CH₂Br + Zn → CH₂=CH₂ + ZnBr₂",
+   "conditions": "মিথানল দ্রাবক, তাপ",
+   "observations_bn": "জিংক দুই ব্রোমিন সরিয়ে দ্বিবন্ধন তৈরি করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-36",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 268,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনে H₂ যোগে ইথেন",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₂=CH₂ + H₂ → CH₃CH₃",
+   "conditions": "Ni চূর্ণ, প্রায় 150°C (Pt হলে 30°C)",
+   "observations_bn": "অসম্পৃক্ত অ্যালকিন H₂ যোগ করে সম্পৃক্ত হয়; এভাবে তেল থেকে বনস্পতি ঘি তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-37",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 268,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপিনে H₂ যোগে প্রোপেন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপেন",
+     "formula": "CH₃CH₂CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH=CH₂ + H₂ → CH₃CH₂CH₃",
+   "conditions": "Ni, 150°C",
+   "observations_bn": "একই পদ্ধতিতে প্রোপিন সম্পৃক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-38",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 268,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনে HCl যুক্ত হয়ে ইথাইল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড (জলীয়)",
+     "formula": "HCl",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ক্লোরাইড",
+     "formula": "CH₃CH₂Cl",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + HCl → CH₃CH₂Cl",
+   "conditions": "জলীয় HCl দ্রবণ",
+   "observations_bn": "H⁺ আগে π বন্ধনে আক্রমণ করে কার্বোক্যাটায়ন গঠন করে, তারপর Cl⁻ যুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-39",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনে ব্রোমিন যুক্ত হয়ে 1,2-ডাইব্রোমো ইথেন",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন (CCl₄-তে)",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,2-ডাইব্রোমো ইথেন",
+     "formula": "BrCH₂CH₂Br",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + Br₂ → BrCH₂–CH₂Br",
+   "conditions": "CCl₄ দ্রাবক, কক্ষ তাপমাত্রা",
+   "observations_bn": "লাল ব্রোমিন-দ্রবণ বর্ণহীন হয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-40",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনের সাথে ব্রোমিন-পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন পানি",
+     "formula": "Br₂/H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2-ব্রোমো ইথানল",
+     "formula": "BrCH₂CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "1,2-ডাইব্রোমো ইথেন",
+     "formula": "BrCH₂CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2CH₂=CH₂ + 2Br₂ + H₂O → BrCH₂CH₂OH + BrCH₂CH₂Br + HBr",
+   "equation_printed": "CH₂=CH₂ + 2Br₂ + H₂O → BrCH₂CH₂OH + BrCH₂CH₂Br + HBr (সমন্বয়হীন)",
+   "conditions": "জলীয় ব্রোমিন",
+   "observations_bn": "পানি অংশ নেওয়ায় ব্রোমো-অ্যালকোহলসহ মিশ্র পণ্য হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-41",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 269,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ব্রোমিন দ্রবণ দিয়ে জৈব যৌগের অসম্পৃক্ততা পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "অসম্পৃক্ত জৈব যৌগ (যেমন ইথিন)",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিনের 5% দ্রবণ (CCl₄-তে)",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,2-ডাইব্রোমো ইথেন",
+     "formula": "BrCH₂CH₂Br",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br",
+   "conditions": "CCl₄ দ্রাবকে, কক্ষ তাপমাত্রা",
+   "observations_bn": "লাল ব্রোমিন দ্রবণের রং সাথে সাথে চলে গেলে C=C বা C≡C আছে বোঝা যায়।",
+   "procedure_bn": [
+    "CCl₄-তে ব্রোমিনের হালকা লাল দ্রবণ নিন",
+    "পরীক্ষাধীন যৌগ মেশান",
+    "রং বিলীন হলো কিনা দেখুন"
+   ],
+   "quantities_bn": "ব্রোমিনের 5% দ্রবণ",
+   "materials_bn": [
+    "ব্রোমিন",
+    "CCl₄",
+    "টেস্টটিউব"
+   ],
+   "safety_bn": "ব্রোমিন ও CCl₄ বিষাক্ত; ফিউম হুডে কাজ করুন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-42",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 270,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনে HBr যুক্ত হয়ে ইথাইল ব্রোমাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ব্রোমাইড",
+     "formula": "CH₃CH₂Br",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + HBr → CH₃CH₂Br",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "প্রতিসম অ্যালকিনে একটি মাত্র পণ্য হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-43",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 270,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2-বিউটিনে HBr যোগ",
+   "reactants": [
+    {
+     "name_bn": "2-বিউটিন",
+     "formula": "CH₃CH=CHCH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2-ব্রোমো বিউটেন",
+     "formula": "CH₃CH₂CHBrCH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH=CHCH₃ + HBr → CH₃CH₂CHBrCH₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "প্রতিসম অ্যালকিন, তাই একটি মাত্র যৌগ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-44",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 271,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপিনে HBr যোগ (মারকনিকভের নিয়ম)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "iso-প্রোপাইল ব্রোমাইড (90%)",
+     "formula": "CH₃CHBrCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "n-প্রোপাইল ব্রোমাইড (10%)",
+     "formula": "CH₃CH₂CH₂Br",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH=CH₂ + HBr → CH₃CHBrCH₃ (প্রধান) + CH₃CH₂CH₂Br (গৌণ)",
+   "conditions": "পারক্সাইড ছাড়া",
+   "observations_bn": "অপ্রতিসম অ্যালকিনে H বেশি-H-যুক্ত কার্বনে যায়, ফলে 2-ব্রোমো প্রোপেন প্রধান।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-45",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 271,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পারক্সাইড প্রভাবে প্রোপিনে HBr (বিপরীত মারকনিকভ)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "n-প্রোপাইল ব্রোমাইড (99.1%)",
+     "formula": "CH₃CH₂CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "iso-প্রোপাইল ব্রোমাইড (0.9%)",
+     "formula": "CH₃CHBrCH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH=CH₂ + HBr → CH₃CH₂CH₂Br (প্রধান) + CH₃CHBrCH₃ (গৌণ)",
+   "conditions": "অ্যাসিটাইল বা বেনজয়িল পারক্সাইড সামান্য",
+   "observations_bn": "ফ্রি-র‍্যাডিকেল পথে ব্রোমিন কম-H-যুক্ত কার্বনে যুক্ত হয়ে n-যৌগ প্রধান হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-46",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনে HOCl যুক্ত হয়ে ইথিলিন ক্লোরোহাইড্রিন",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস অ্যাসিড",
+     "formula": "HOCl",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিলিন ক্লোরোহাইড্রিন",
+     "formula": "ClCH₂CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + HOCl → ClCH₂CH₂OH",
+   "conditions": "জলীয় দ্রবণ (Cl₂ পানিতেও একই ফল)",
+   "observations_bn": "একটি কার্বনে Cl ও অন্যটিতে OH যুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-47",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপিনে HOBr যুক্ত হয়ে ব্রোমোহাইড্রিন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইপোব্রোমাস অ্যাসিড",
+     "formula": "HOBr",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1-ব্রোমো-2-প্রোপানল",
+     "formula": "CH₃CH(OH)CH₂Br",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH=CH₂ + HOBr → CH₃CH(OH)CH₂Br",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "মারকনিকভের নিয়মে Br⁺ প্রান্তের কার্বনে ও OH মাঝের কার্বনে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-48",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনে গাঢ় H₂SO₄ যোগ ও আর্দ্র বিশ্লেষণে ইথানল",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল হাইড্রোজেন সালফেট",
+     "formula": "CH₃CH₂OSO₃H",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + H₂SO₄ → CH₃CH₂OSO₃H; CH₃CH₂OSO₃H + H₂O → CH₃CH₂OH + H₂SO₄",
+   "conditions": "কক্ষ তাপমাত্রা, পরে পানিসহ গরম",
+   "observations_bn": "অ্যালকিন থেকে অ্যালকোহল বানানোর পরোক্ষ পথ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-49",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপিনে গাঢ় H₂SO₄ যোগ ও আর্দ্র বিশ্লেষণে প্রোপানল-2",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "iso-প্রোপাইল হাইড্রোজেন সালফেট",
+     "formula": "CH₃CH(OSO₃H)CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "প্রোপানল-2",
+     "formula": "CH₃CH(OH)CH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH=CH₂ + H₂SO₄ → CH₃CH(OSO₃H)CH₃; CH₃CH(OSO₃H)CH₃ + H₂O → CH₃CH(OH)CH₃ + H₂SO₄",
+   "conditions": "কক্ষ তাপমাত্রা, পরে পানিসহ গরম",
+   "observations_bn": "মারকনিকভের নিয়মে 2° অ্যালকোহল তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-50",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 273,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বিউটিন-1 এর ওজোনোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "বিউটিন-1",
+     "formula": "CH₃CH₂CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপানাল",
+     "formula": "CH₃CH₂CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফরমালডিহাইড",
+     "formula": "HCHO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CH₂CH=CH₂ + O₃ → ওজোনাইড (C₄H₈O₃); ওজোনাইড + Zn → CH₃CH₂CHO + HCHO + ZnO",
+   "conditions": "O₃ ও CHCl₃/CCl₄ দ্রাবক, তারপর Zn সহ পানি ও তাপ",
+   "observations_bn": "প্রোপানাল ও ফরমালডিহাইড মিশ্রণ পেলে অ্যালকিনটি বিউটিন-1 বোঝা যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরোফর্ম",
+    "জিংক গুঁড়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-51",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 273,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বিউটিন-2 এর ওজোনোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "বিউটিন-2",
+     "formula": "CH₃CH=CHCH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিট্যালডিহাইড",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CH=CHCH₃ + O₃ → ওজোনাইড (C₄H₈O₃); ওজোনাইড + Zn → 2CH₃CHO + ZnO",
+   "conditions": "O₃ ও CHCl₃/CCl₄ দ্রাবক, তারপর Zn সহ পানি ও তাপ",
+   "observations_bn": "শুধু অ্যাসিট্যালডিহাইড পেলে অ্যালকিনটি বিউটিন-2।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-52",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 273,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2-মিথাইল বিউটিন-2 এর ওজোনোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "2-মিথাইল বিউটিন-2",
+     "formula": "(CH₃)₂C=CHCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিট্যালডিহাইড",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যাসিটোন",
+     "formula": "CH₃COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "(CH₃)₂C=CHCH₃ + O₃ → ওজোনাইড (C₅H₁₀O₃); ওজোনাইড + Zn → CH₃CHO + CH₃COCH₃ + ZnO",
+   "conditions": "O₃ ও CHCl₃/CCl₄ দ্রাবক, তারপর Zn সহ পানি ও তাপ",
+   "observations_bn": "অ্যালডিহাইড ও কিটোন মিশ্রণ পেলে ডাল দুই কার্বনের বিন্যাস চেনা যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-53",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 273,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2,3-ডাইমিথাইল বিউটিন-2 এর ওজোনোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "2,3-ডাইমিথাইল বিউটিন-2",
+     "formula": "(CH₃)₂C=C(CH₃)₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটোন",
+     "formula": "CH₃COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "(CH₃)₂C=C(CH₃)₂ + O₃ → ওজোনাইড (C₆H₁₂O₃); ওজোনাইড + Zn → 2CH₃COCH₃ + ZnO",
+   "conditions": "O₃ ও CHCl₃/CCl₄ দ্রাবক, তারপর Zn সহ পানি ও তাপ",
+   "observations_bn": "শুধু অ্যাসিটোন পেলে অ্যালকিনটি 2,3-ডাইমিথাইল বিউটিন-2।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-54",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনের ওজোনোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানাল (ফরমালডিহাইড)",
+     "formula": "HCHO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + O₃ → ওজোনাইড (C₂H₄O₃); ওজোনাইড + Zn → 2HCHO + ZnO",
+   "conditions": "O₃ ও CHCl₃/CCl₄ দ্রাবক, তারপর Zn সহ পানি ও তাপ",
+   "observations_bn": "শুধু মিথানাল পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-55",
+   "chapter_no": 5,
+   "section_no": "5.15.1",
+   "section_title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপিনের ওজোনোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথানাল",
+     "formula": "HCHO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CH=CH₂ + O₃ → ওজোনাইড (C₃H₆O₃); ওজোনাইড + Zn → CH₃CHO + HCHO + ZnO",
+   "conditions": "O₃ ও CHCl₃/CCl₄ দ্রাবক, তারপর Zn সহ পানি ও তাপ",
+   "observations_bn": "ইথানাল ও মিথানাল একসাথে পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-56",
+   "chapter_no": 5,
+   "section_no": "5.15.2",
+   "section_title_bn": "অ্যালকিনের জারণ (Oxidation reaction of alkene)",
+   "book_page": 274,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "বেয়ারের পরীক্ষা (লঘু ক্ষারীয় KMnO₄ দিয়ে C=C শনাক্ত)",
+   "reactants": [
+    {
+     "name_bn": "ইথিন (বা অন্য অসম্পৃক্ত যৌগ)",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "শীতল লঘু ক্ষারীয় পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিলিন গ্লাইকল (ইথেন-1,2-ডাইঅল)",
+     "formula": "HOCH₂CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + H₂O + [O] → HOCH₂–CH₂OH; জায়মান [O]: 2KMnO₄ + 2KOH → 2K₂MnO₄ + H₂O + [O] (ক্ষারীয়), 2KMnO₄ + H₂O → 2KOH + 2MnO₂ + 3[O] (জলীয়)",
+   "conditions": "শীতল, লঘু, ক্ষারীয় দ্রবণ",
+   "observations_bn": "গোলাপী পারম্যাঙ্গানেটের রং চলে যায়; দ্বিবন্ধন বা ত্রিবন্ধন থাকার প্রমাণ।",
+   "procedure_bn": [
+    "লঘু ক্ষারীয় KMnO₄ দ্রবণ নিন",
+    "পরীক্ষাধীন যৌগ মেশান",
+    "গোলাপী রং বিলীন হলো কিনা লক্ষ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "KMnO₄ দ্রবণ",
+    "KOH বা Na₂CO₃",
+    "টেস্টটিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-57",
+   "chapter_no": 5,
+   "section_no": "5.15.2",
+   "section_title_bn": "অ্যালকিনের জারণ (Oxidation reaction of alkene)",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গরম অম্লীয় KMnO₄ দ্বারা প্রোপিনের প্রবল জারণ",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "গাঢ় গরম অম্লীয় পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄/H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH=CH₂ + 5[O] → CH₃COOH + CO₂ + H₂O",
+   "conditions": "গরম, H₂SO₄ মিশ্রিত KMnO₄",
+   "observations_bn": "দ্বিবন্ধনের স্থানে ছিঁড়ে কার্বক্সিলিক অ্যাসিড ও CO₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-58",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিটিলিনের বেনজিনে পলিমারকরণ",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3C₂H₂ → C₆H₆",
+   "conditions": "450°C",
+   "observations_bn": "তিন অণু ইথাইন যুক্ত হয়ে বেনজিন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-59",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথানালের পলিমারকরণ",
+   "reactants": [
+    {
+     "name_bn": "মিথানাল (জলীয়)",
+     "formula": "H₂C=O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিমিথানাল",
+     "formula": "(–CH₂–O–)ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nH₂C=O → (–CH₂–O–)ₙ",
+   "conditions": "বাষ্পীকরণ",
+   "observations_bn": "ফরমালডিহাইড থেকে প্লাস্টিক পলিমার হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-60",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিলিন থেকে পলিইথিলিন",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিইথিলিন",
+     "formula": "(–CH₂–CH₂–)ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCH₂=CH₂ → (–CH₂–CH₂–)ₙ",
+   "conditions": "উচ্চ চাপ (1000–1200 atm), 200°C, সামান্য O₂ প্রভাবক; বিকল্পে Cr₂O₃, 70°C, 5–10 atm",
+   "observations_bn": "সাদা অস্বচ্ছ নমনীয় প্লাস্টিক পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-61",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপিন থেকে পলিপ্রোপিলিন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিপ্রোপিলিন",
+     "formula": "[–CH₂–CH(CH₃)–]ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCH₃CH=CH₂ → [–CH₂–CH(CH₃)–]ₙ",
+   "conditions": "TiCl₃ প্রভাবক, 120°C, 140 atm, হেপ্টেন দ্রাবক",
+   "observations_bn": "সবচেয়ে হালকা প্লাস্টিক পলিমার।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-62",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিটিলিন থেকে ভিনাইল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভিনাইল ক্লোরাইড",
+     "formula": "CH₂=CHCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "HC≡CH + HCl → CH₂=CHCl",
+   "conditions": "HgCl₂ প্রভাবক, 250°C",
+   "observations_bn": "PVC-র মনোমার তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-63",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ভিনাইল ক্লোরাইড থেকে PVC",
+   "reactants": [
+    {
+     "name_bn": "ভিনাইল ক্লোরাইড",
+     "formula": "CH₂=CHCl",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিভিনাইল ক্লোরাইড (PVC)",
+     "formula": "[–CH₂–CHCl–]ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCH₂=CHCl → [–CH₂–CHCl–]ₙ",
+   "conditions": "পারক্সাইড প্রভাবক, উচ্চ চাপ ও তাপ, হেপ্টেনে 52°C ও 9 atm",
+   "observations_bn": "শক্ত প্লাস্টিক তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-64",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিন ও ইথিন থেকে ইথাইল বেনজিন",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল বেনজিন",
+     "formula": "C₆H₅CH₂CH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₆ + CH₂=CH₂ → C₆H₅CH₂CH₃",
+   "conditions": "শুষ্ক AlCl₃ প্রভাবক, তাপ",
+   "observations_bn": "স্টাইরিন তৈরির প্রথম ধাপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-65",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল বেনজিন থেকে স্টাইরিন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল বেনজিন",
+     "formula": "C₆H₅CH₂CH₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "স্টাইরিন",
+     "formula": "C₆H₅CH=CH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅CH₂CH₃ → C₆H₅CH=CH₂ + H₂",
+   "conditions": "Fe₂O₃/Cr₂O₃, 650°C",
+   "observations_bn": "হাইড্রোজেন সরে গিয়ে ভিনাইল-বেনজিন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-66",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্টাইরিন থেকে পলিস্টাইরিন",
+   "reactants": [
+    {
+     "name_bn": "স্টাইরিন",
+     "formula": "C₆H₅CH=CH₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিস্টাইরিন",
+     "formula": "[–CH(C₆H₅)–CH₂–]ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nC₆H₅CH=CH₂ → [–CH(C₆H₅)–CH₂–]ₙ",
+   "conditions": "উচ্চ চাপ ও তাপ",
+   "observations_bn": "স্বচ্ছ শক্ত প্লাস্টিক তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-67",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CHClF₂ থেকে টেট্রাফ্লোরো ইথিলিন",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরো ডাইফ্লোরো মিথেন",
+     "formula": "CHClF₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাফ্লোরো ইথিলিন",
+     "formula": "CF₂=CF₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2CHClF₂ → CF₂=CF₂ + 2HCl",
+   "conditions": "প্রায় 900°C",
+   "observations_bn": "টেফলনের মনোমার তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-68",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টেট্রাফ্লোরো ইথিলিন থেকে টেফলন",
+   "reactants": [
+    {
+     "name_bn": "টেট্রাফ্লোরো ইথিলিন",
+     "formula": "CF₂=CF₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেফলন (PTFE)",
+     "formula": "(–CF₂–CF₂–)ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCF₂=CF₂ → (–CF₂–CF₂–)ₙ",
+   "conditions": "FeSO₄ ও H₂O₂ প্রভাবক",
+   "observations_bn": "রাসায়নিকভাবে নিষ্ক্রিয় অদাহ্য প্লাস্টিক পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-69",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ভিনাইল অ্যাসিটেট থেকে PVA",
+   "reactants": [
+    {
+     "name_bn": "ভিনাইল অ্যাসিটেট",
+     "formula": "CH₃COOCH=CH₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পলিভিনাইল অ্যাসিটেট (PVA)",
+     "formula": "[–CH(OCOCH₃)–CH₂–]ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCH₂=CHOCOCH₃ → [–CH₂–CH(OCOCH₃)–]ₙ",
+   "conditions": "পলিমারকরণ",
+   "observations_bn": "PVC-র চেয়ে নমনীয় পলিমার।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-70",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথাইল 2-মিথাইল প্রোপিনোয়েট থেকে পারস্পেক্স",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল 2-মিথাইল প্রোপিনোয়েট",
+     "formula": "CH₂=C(CH₃)CO₂CH₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্লেক্সিগ্লাস (পারস্পেক্স)",
+     "formula": "[–CH₂–C(CH₃)(CO₂CH₃)–]ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCH₂=C(CH₃)CO₂CH₃ → [–CH₂–C(CH₃)(CO₂CH₃)–]ₙ",
+   "conditions": "80–90°C, H₂O₂, লঘু সাবান পানি",
+   "observations_bn": "স্বচ্ছ পলিমার, কাচের বিকল্প।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-71",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপিন নাইট্রাইল থেকে অরলন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন নাইট্রাইল (অ্যাক্রাইলোনাইট্রাইল)",
+     "formula": "CH₂=CHCN",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অরলন (অ্যাক্রিলান)",
+     "formula": "[–CH₂–CH(CN)–]ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "nCH₂=CHCN → [–CH₂–CH(CN)–]ₙ",
+   "conditions": "পলিমারকরণ",
+   "observations_bn": "এ থেকে এক্রাইলিক সুতা তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-72",
+   "chapter_no": 5,
+   "section_no": "5.15.3",
+   "section_title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জৈব পারক্সাইড-সূচিত মুক্তমূলক পলিমারকরণের ধাপ",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "জৈব পারক্সাইড",
+     "formula": "RCOO–OCOR",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "দীর্ঘশিকল পলিইথিলিন",
+     "formula": "R–(CH₂CH₂)ₙ–R",
+     "state": "solid"
+    }
+   ],
+   "equation": "সূচনা: RCOO–OCOR → 2RCOO• → 2R• + 2CO₂; বৃদ্ধি: R• + CH₂=CH₂ → R–CH₂–CH₂•, R–CH₂CH₂• + CH₂=CH₂ → R–(CH₂CH₂)₂•; সমাপ্তি: দুটি মূলক যুক্ত হয়ে শিকল শেষ",
+   "conditions": "গরম",
+   "observations_bn": "তিন ধাপে চেইন বাড়ে এবং দুই মূলকের মিলনে থামে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-73",
+   "chapter_no": 5,
+   "section_no": "5.19",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকাইন প্রস্তুতি",
+   "book_page": 279,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ক্যালসিয়াম কার্বাইড থেকে ইথাইন (অ্যাসিটিলিন) প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বাইড",
+     "formula": "CaC₂",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইন (অ্যাসিটিলিন)",
+     "formula": "C₂H₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "CaC₂ + 2H₂O → HC≡CH↑ + Ca(OH)₂",
+   "conditions": "কক্ষ তাপমাত্রা, শীতল পানি ফোঁটায় ফোঁটায়",
+   "observations_bn": "গ্যাস বের হয়; প্রথম গ্যাসে বাতাস থাকে, নিঃশব্দে জ্বললে তবেই সংগ্রহ করা হয়।",
+   "procedure_bn": [
+    "ফ্লাস্কে সামান্য বালির ওপর কার্বাইডের টুকরা রাখুন",
+    "বিন্দুপাতী ফানেল দিয়ে পানি ফোঁটায় ফোঁটায় দিন",
+    "গ্যাস CuSO₄ ও H₂SO₄ মিশ্র ওয়াশ বোতলে পরিশুদ্ধ করুন",
+    "পানির নিম্নমুখী অপসারণে জারে সংগ্রহ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গোলতলী ফ্লাস্ক",
+    "বিন্দুপাতী ফানেল",
+    "বালি",
+    "CaC₂",
+    "ওয়াশ বোতল (H₂SO₄ মিশ্রিত CuSO₄)",
+    "গ্যাসজার"
+   ],
+   "safety_bn": "ইথাইন দাহ্য; আগুনের ঝুঁকি।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-74",
+   "chapter_no": 5,
+   "section_no": "5.19",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকাইন প্রস্তুতি",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়া অপসারণ (H₂SO₄ দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "2NH₃ + H₂SO₄ → (NH₄)₂SO₄",
+   "conditions": "ওয়াশ বোতলে, কক্ষ তাপমাত্রা",
+   "observations_bn": "ক্ষারধর্মী অ্যামোনিয়া অ্যাসিডে শোষিত হয়ে লবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-75",
+   "chapter_no": 5,
+   "section_no": "5.19",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকাইন প্রস্তুতি",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "H₂S অপসারণ (CuSO₄ দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কপার সালফাইড",
+     "formula": "CuS",
+     "state": "solid"
+    }
+   ],
+   "equation": "CuSO₄ + H₂S → H₂SO₄ + CuS↓",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "অদ্রবণীয় CuS জমে যায় বলে H₂S আটকে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-76",
+   "chapter_no": 5,
+   "section_no": "5.19",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকাইন প্রস্তুতি",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফিন অপসারণ (CuSO₄ দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফসফিন",
+     "formula": "PH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কপার ফসফাইড",
+     "formula": "Cu₃P₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "3CuSO₄ + 2PH₃ → 3H₂SO₄ + Cu₃P₂↓",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "অদ্রবণীয় Cu₃P₂ থিতিয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-77",
+   "chapter_no": 5,
+   "section_no": "5.19",
+   "section_title_bn": "পরীক্ষাগারে অ্যালকাইন প্রস্তুতি",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আরসাইন অপসারণ (CuSO₄ দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আরসাইন",
+     "formula": "AsH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আর্সেনাস অ্যাসিড",
+     "formula": "H₃AsO₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    }
+   ],
+   "equation": "3CuSO₄ + AsH₃ + 3H₂O → 3H₂SO₄ + H₃AsO₃ + 3Cu↓",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "কপার ধাতু অধঃক্ষিপ্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-78",
+   "chapter_no": 5,
+   "section_no": "5.20",
+   "section_title_bn": "অ্যালকাইনের শিল্পোৎপাদন (Manufacture of alkyne)",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ভিসিন্যাল ডাইহ্যালাইড থেকে অ্যালকাইন (ইথাইন)",
+   "reactants": [
+    {
+     "name_bn": "1,2-ডাইব্রোমো ইথেন",
+     "formula": "BrCH₂CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালকোহলীয় KOH",
+     "formula": "KOH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "BrCH₂CH₂Br + 2KOH → HC≡CH + 2KBr + 2H₂O",
+   "conditions": "অ্যালকোহলীয় KOH, তাপ",
+   "observations_bn": "দুই অণু HBr সরে ত্রিবন্ধন তৈরি হয়; ইথিন থেকে Br₂ যোগ ও পরে এ ধাপে ইথাইন পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-79",
+   "chapter_no": 5,
+   "section_no": "5.20",
+   "section_title_bn": "অ্যালকাইনের শিল্পোৎপাদন (Manufacture of alkyne)",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জেমিনাল ডাইহ্যালাইড থেকে অ্যালকাইন",
+   "reactants": [
+    {
+     "name_bn": "জেমিনাল ডাইহ্যালাইড",
+     "formula": "R–CX₂–CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালকোহলীয় KOH",
+     "formula": "KOH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকাইন-1",
+     "formula": "R–C≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম হ্যালাইড",
+     "formula": "KX",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R–CX₂–CH₃ + 2KOH → R–C≡CH + 2KX + 2H₂O",
+   "conditions": "অ্যালকোহলীয় KOH, তাপ",
+   "observations_bn": "একই কার্বনে দুই হ্যালোজেন থাকলেও দুই HX সরে অ্যালকাইন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-80",
+   "chapter_no": 5,
+   "section_no": "5.20",
+   "section_title_bn": "অ্যালকাইনের শিল্পোৎপাদন (Manufacture of alkyne)",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিনে ব্রোমিন যুক্ত হয়ে 1,2-ডাইব্রোমো ইথেন (ইথাইনের প্রথম ধাপ)",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,2-ডাইব্রোমো ইথেন",
+     "formula": "BrCH₂CH₂Br",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + Br₂ → BrCH₂CH₂Br",
+   "conditions": "CCl₄",
+   "observations_bn": "ইথিন থেকে ইথাইন বানানোর প্রথম ধাপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-81",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 282,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনে H₂ যোগে ইথিন, পরে ইথেন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "HC≡CH + H₂ → CH₂=CH₂; CH₂=CH₂ + H₂ → CH₃CH₃",
+   "conditions": "Ni, প্রায় 150°C",
+   "observations_bn": "বেশি H₂ হলে ধাপে ধাপে সম্পৃক্ত অ্যালকেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-82",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 282,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Pd/BaSO₄ প্রভাবকে ইথাইন থেকে শুধু ইথিন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "HC≡CH + H₂ → CH₂=CH₂",
+   "conditions": "Pd ও BaSO₄ প্রভাবক, 25°C",
+   "observations_bn": "BaSO₄ প্যালাডিয়ামের শক্তি কমিয়ে বিক্রিয়া ইথিনে থামায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-83",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 282,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপাইনে H₂ যোগে প্রোপিন ও প্রোপেন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপাইন",
+     "formula": "CH₃C≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "প্রোপেন",
+     "formula": "CH₃CH₂CH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃C≡CH + H₂ → CH₃CH=CH₂; CH₃CH=CH₂ + H₂ → CH₃CH₂CH₃",
+   "conditions": "Pt প্রভাবক",
+   "observations_bn": "দুই ধাপে সম্পৃক্তকরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-84",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 283,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনে ব্রোমিন যোগে 1,1,2,2-টেট্রাব্রোমো ইথেন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,2-ডাইব্রোমো ইথিন",
+     "formula": "CHBr=CHBr",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "1,1,2,2-টেট্রাব্রোমো ইথেন",
+     "formula": "CHBr₂CHBr₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HC≡CH + Br₂ → CHBr=CHBr; CHBr=CHBr + Br₂ → CHBr₂–CHBr₂",
+   "conditions": "CCl₄ দ্রাবক",
+   "observations_bn": "লাল ব্রোমিন দ্রবণ বর্ণহীন হয়; এটি অসম্পৃক্ততার পরীক্ষা।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-85",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 283,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনে HCl যোগে ভিনাইল ক্লোরাইড, পরে ইথিলিডিন ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভিনাইল ক্লোরাইড",
+     "formula": "CH₂=CHCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "1,1-ডাইক্লোরো ইথেন",
+     "formula": "CH₃CHCl₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HC≡CH + HCl → CH₂=CHCl; CH₂=CHCl + HCl → CH₃CHCl₂",
+   "conditions": "HgCl₂ প্রভাবক, 250°C",
+   "observations_bn": "দ্বিতীয় ধাপে মারকনিকভের নিয়মে জেমিনাল ডাইক্লোরাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-86",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 283,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনে HBr যোগে ভিনাইল ব্রোমাইড ও ইথিলিডিন ব্রোমাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "শুষ্ক হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভিনাইল ব্রোমাইড",
+     "formula": "CH₂=CHBr",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "1,1-ডাইব্রোমো ইথেন",
+     "formula": "CH₃CHBr₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HC≡CH + HBr → CH₂=CHBr; CH₂=CHBr + HBr → CH₃CHBr₂",
+   "conditions": "HgCl₂, 250°C",
+   "observations_bn": "একই নিয়মে দুই ধাপে যুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-87",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 283,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনে HOCl যোগে ডাইক্লোরো অ্যাসিট্যালডিহাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস অ্যাসিড",
+     "formula": "HOCl",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইক্লোরো অ্যাসিট্যালডিহাইড",
+     "formula": "CHCl₂CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HC≡CH + 2HOCl → CHCl₂CHO + H₂O",
+   "conditions": "জলীয় দ্রবণ",
+   "observations_bn": "অস্থায়ী ডাইহাইড্রক্সি যৌগ থেকে পানি সরে অ্যালডিহাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-88",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 284,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনের হাইড্রেশনে অ্যাসিট্যালডিহাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানাল (অ্যাসিট্যালডিহাইড)",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HC≡CH + H₂O → CH₃CHO",
+   "conditions": "2% Hg²⁺ (HgSO₄), 20% H₂SO₄, 60–75°C",
+   "observations_bn": "ভিনাইল অ্যালকোহল মধ্যবর্তী ধাপে হয়ে পুনর্বিন্যাসে অ্যালডিহাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-89",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 284,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপাইনের হাইড্রেশনে অ্যাসিটোন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপাইন",
+     "formula": "CH₃C≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটোন (প্রোপানোন)",
+     "formula": "CH₃COCH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃C≡CH + H₂O → CH₃COCH₃",
+   "conditions": "2% Hg²⁺, 20% H₂SO₄, 60–75°C",
+   "observations_bn": "মারকনিকভ নিয়মে কিটোন পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-90",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 284,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানালের জারণে ইথানোয়িক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "ইথানাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2CH₃CHO + O₂ → 2CH₃COOH",
+   "conditions": "ম্যাঙ্গানাস অ্যাসিটেট (CH₃COO)₂Mn প্রভাবক, 60°C",
+   "observations_bn": "অ্যালডিহাইড থেকে অ্যাসিটিক অ্যাসিড তৈরির শিল্প-পথ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-91",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 284,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইন ও অ্যালকোহল থেকে অ্যালকাইল ভিনাইল ইথার",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "ROH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকাইল ভিনাইল ইথার",
+     "formula": "CH₂=CH–OR",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HC≡CH + ROH → CH₂=CH–OR",
+   "conditions": "KOH, 180°C",
+   "observations_bn": "অ্যালকোহলের O–H ত্রিবন্ধনে যুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-92",
+   "chapter_no": 5,
+   "section_no": "5.22.1",
+   "section_title_bn": "অ্যালকাইনের যুত বিক্রিয়া (Addition reactions of alkyne)",
+   "book_page": 284,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইন ও অ্যাসিটিক অ্যাসিড থেকে ভিনাইল অ্যাসিটেট",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইথানোয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভিনাইল অ্যাসিটেট",
+     "formula": "CH₂=CHOCOCH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HC≡CH + CH₃COOH → CH₂=CH–O–CO–CH₃",
+   "conditions": "Hg²⁺ প্রভাবক, 80°C",
+   "observations_bn": "এ ধরনের বিক্রিয়াকে ভাইনাইলেশন বলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-93",
+   "chapter_no": 5,
+   "section_no": "5.22.2",
+   "section_title_bn": "অ্যালকাইনের জারণ বিক্রিয়া (Oxidation reaction of alkyne)",
+   "book_page": 285,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকাইন-1 এর KMnO₄ জারণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকাইন-1",
+     "formula": "R–C≡CH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্ষারীয় পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বক্সিলিক অ্যাসিড",
+     "formula": "R–COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "R–C≡CH + 4[O] → R–COOH + CO₂",
+   "conditions": "ক্ষারীয় KMnO₄, উত্তপ্ত",
+   "observations_bn": "প্রবল জারণে ত্রিবন্ধন ভেঙে অ্যাসিড ও CO₂ হয়; অ্যাসিড শনাক্ত করে ত্রিবন্ধনের অবস্থান জানা যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-94",
+   "chapter_no": 5,
+   "section_no": "5.22.2",
+   "section_title_bn": "অ্যালকাইনের জারণ বিক্রিয়া (Oxidation reaction of alkyne)",
+   "book_page": 285,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনের KMnO₄ জারণে অক্সালিক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্ষারীয় KMnO₄",
+     "formula": "KMnO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সালিক অ্যাসিড",
+     "formula": "HOOC–COOH",
+     "state": "solid"
+    }
+   ],
+   "equation": "HC≡CH + 4[O] → HOOC–COOH",
+   "conditions": "ক্ষারীয় KMnO₄, উত্তপ্ত",
+   "observations_bn": "ইথাইন থেকে ডাইকার্বক্সিলিক অ্যাসিড পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-95",
+   "chapter_no": 5,
+   "section_no": "5.22.2",
+   "section_title_bn": "অ্যালকাইনের জারণ বিক্রিয়া (Oxidation reaction of alkyne)",
+   "book_page": 285,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকাইন-2 এর KMnO₄ জারণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকাইন-2",
+     "formula": "R–C≡C–CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্ষারীয় KMnO₄",
+     "formula": "KMnO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বক্সিলিক অ্যাসিড",
+     "formula": "R–COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যাসিটিক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R–C≡C–CH₃ + 3[O] + H₂O → R–COOH + CH₃COOH",
+   "equation_printed": "R–C≡C–CH₃ + 2[O] → R–CO–CO–CH₃; পরে 2[O], H₂O",
+   "conditions": "ক্ষারীয় KMnO₄, উত্তপ্ত",
+   "observations_bn": "দুটি অ্যাসিড পাওয়া গেলে ত্রিবন্ধন ২ নম্বর অবস্থানে বোঝা যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-96",
+   "chapter_no": 5,
+   "section_no": "5.22.2",
+   "section_title_bn": "অ্যালকাইনের জারণ বিক্রিয়া (Oxidation reaction of alkyne)",
+   "book_page": 285,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকাইন-3 এর KMnO₄ জারণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকাইন-3",
+     "formula": "R–C≡C–C₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্ষারীয় KMnO₄",
+     "formula": "KMnO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বক্সিলিক অ্যাসিড",
+     "formula": "R–COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "প্রোপিয়নিক অ্যাসিড",
+     "formula": "C₂H₅COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R–C≡C–C₂H₅ + 3[O] + H₂O → R–COOH + C₂H₅COOH",
+   "equation_printed": "R–C≡C–C₂H₅ + 2[O] → R–CO–CO–C₂H₅; পরে 2[O], H₂O",
+   "conditions": "ক্ষারীয় KMnO₄, উত্তপ্ত",
+   "observations_bn": "প্রোপিয়নিক অ্যাসিড পেলে ত্রিবন্ধন ৩ নম্বরে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-08-97",
+   "chapter_no": 5,
+   "section_no": "5.22.2",
+   "section_title_bn": "অ্যালকাইনের জারণ বিক্রিয়া (Oxidation reaction of alkyne)",
+   "book_page": 285,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বিউটাইন-1 এর ওজোনোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "বিউটাইন-1",
+     "formula": "CH₃CH₂C≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2-অক্সো বিউটানাল",
+     "formula": "CH₃CH₂COCHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "প্রোপানোয়িক অ্যাসিড",
+     "formula": "CH₃CH₂COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফরমিক অ্যাসিড",
+     "formula": "HCOOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂C≡CH + O₃ → ওজোনাইড; ওজোনাইড + H₂O → CH₃CH₂COCHO + H₂O₂; CH₃CH₂COCHO + H₂O₂ → CH₃CH₂COOH + HCOOH",
+   "conditions": "ক্ষারীয় KMnO₄, উত্তপ্ত",
+   "observations_bn": "প্রোপানোয়িক ও ফরমিক অ্যাসিড পেলে অ্যালকাইনটি বিউটাইন-1।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-98",
+   "chapter_no": 5,
+   "section_no": "5.22.2",
+   "section_title_bn": "অ্যালকাইনের জারণ বিক্রিয়া (Oxidation reaction of alkyne)",
+   "book_page": 286,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বিউটাইন-2 এর ওজোনোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "বিউটাইন-2",
+     "formula": "CH₃C≡CCH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2,3-বিউটানডাইওন",
+     "formula": "CH₃COCOCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃C≡CCH₃ + O₃ → ওজোনাইড; ওজোনাইড + H₂O → CH₃COCOCH₃ + H₂O₂; CH₃COCOCH₃ + H₂O₂ → 2CH₃COOH",
+   "conditions": "ক্ষারীয় KMnO₄, উত্তপ্ত",
+   "observations_bn": "শুধু ইথানোয়িক অ্যাসিড পেলে অ্যালকাইনটি বিউটাইন-2।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-99",
+   "chapter_no": 5,
+   "section_no": "5.22.2",
+   "section_title_bn": "অ্যালকাইনের জারণ বিক্রিয়া (Oxidation reaction of alkyne)",
+   "book_page": 286,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনের ওজোনোলাইসিসে গ্লাইঅক্সাল (Zn সহ)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লাইঅক্সাল",
+     "formula": "OHC–CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "HC≡CH + O₃ → ওজোনাইড; ওজোনাইড + H₂O → OHC–CHO + H₂O₂; Zn + H₂O₂ → ZnO + H₂O",
+   "conditions": "ক্ষারীয় KMnO₄, উত্তপ্ত",
+   "observations_bn": "Zn থাকলে H₂O₂ নষ্ট হয়, তাই গ্লাইঅক্সাল টিকে থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-100",
+   "chapter_no": 5,
+   "section_no": "5.22.2",
+   "section_title_bn": "অ্যালকাইনের জারণ বিক্রিয়া (Oxidation reaction of alkyne)",
+   "book_page": 286,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনের ওজোনোলাইসিস (Zn ছাড়া) থেকে মিথানোয়িক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "গ্লাইঅক্সাল",
+     "formula": "OHC–CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন পার-অক্সাইড",
+     "formula": "H₂O₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানোয়িক অ্যাসিড",
+     "formula": "HCOOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "OHC–CHO + H₂O₂ → 2HCOOH",
+   "conditions": "ক্ষারীয় KMnO₄, উত্তপ্ত",
+   "observations_bn": "জিংক ছাড়া, তাপ দিলে H₂O₂ গ্লাইঅক্সালকে জারিত করে দুই অণু ফরমিক অ্যাসিড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-101",
+   "chapter_no": 5,
+   "section_no": "5.22.3",
+   "section_title_bn": "অ্যালকাইনের পলিমারকরণ (Polymerisation of alkyne)",
+   "book_page": 286,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "দুই অণু ইথাইন থেকে ভিনাইল অ্যাসিটিলিন, পরে ডাইভিনাইল অ্যাসিটিলিন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভিনাইল অ্যাসিটিলিন",
+     "formula": "CH₂=CH–C≡CH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ডাইভিনাইল অ্যাসিটিলিন",
+     "formula": "CH₂=CH–C≡C–CH=CH₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2HC≡CH → CH₂=CH–C≡CH; CH₂=CH–C≡CH + HC≡CH → CH₂=CH–C≡C–CH=CH₂",
+   "conditions": "Cu₂Cl₂ ও NH₄Cl দ্রবণ",
+   "observations_bn": "অ্যালিফেটিক পলিমারের ছোট অংশ তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-102",
+   "chapter_no": 5,
+   "section_no": "5.22.3",
+   "section_title_bn": "অ্যালকাইনের পলিমারকরণ (Polymerisation of alkyne)",
+   "book_page": 287,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ভিনাইল অ্যাসিটিলিন থেকে ক্লোরোপ্রিন ও নিউপ্রিন রাবার",
+   "reactants": [
+    {
+     "name_bn": "ভিনাইল অ্যাসিটিলিন",
+     "formula": "CH₂=CH–C≡CH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোপ্রিন",
+     "formula": "CH₂=CH–CCl=CH₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH–C≡CH + HCl → CH₂=CH–CCl=CH₂; nCH₂=CH–CCl=CH₂ → [–CH₂–CH=CCl–CH₂–]ₙ (নিউপ্রিন)",
+   "conditions": "পলিমারকরণে NH₄Cl উল্লিখিত",
+   "observations_bn": "ক্লোরোপ্রিন পলিমারকরণে নিউপ্রিন রাবার পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-103",
+   "chapter_no": 5,
+   "section_no": "5.22.3",
+   "section_title_bn": "অ্যালকাইনের পলিমারকরণ (Polymerisation of alkyne)",
+   "book_page": 287,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনের আরোমেটিক পলিমারকরণে বেনজিন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3HC≡CH → C₆H₆",
+   "conditions": "400–500°C, গরম লোহার নল",
+   "observations_bn": "তিন অণু ইথাইন যুক্ত হয়ে বেনজিন তৈরি করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-104",
+   "chapter_no": 5,
+   "section_no": "5.23",
+   "section_title_bn": "অ্যালকাইন-1 যেমন, ইথাইন এর অম্লধর্মিতা",
+   "book_page": 287,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইনের সাথে সোডিয়াম (তরল NH₃-এ)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটিলাইড",
+     "formula": "NaC≡CNa",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "HC≡CH + 2Na → NaC≡CNa + H₂↑",
+   "conditions": "তরল NH₃ দ্রাবক",
+   "observations_bn": "অম্লধর্মী H প্রতিস্থাপিত হয়ে H₂ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-105",
+   "chapter_no": 5,
+   "section_no": "5.23",
+   "section_title_bn": "অ্যালকাইন-1 যেমন, ইথাইন এর অম্লধর্মিতা",
+   "book_page": 287,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকাইন-1 এর সাথে সোডিয়াম",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকাইন-1",
+     "formula": "R–C≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যালকাইনাইড",
+     "formula": "R–C≡CNa",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2R–C≡CH + 2Na → 2R–C≡CNa + H₂↑",
+   "conditions": "তরল NH₃",
+   "observations_bn": "শুধু টার্মিনাল অ্যালকাইনে এ বিক্রিয়া হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-106",
+   "chapter_no": 5,
+   "section_no": "5.23",
+   "section_title_bn": "অ্যালকাইন-1 যেমন, ইথাইন এর অম্লধর্মিতা",
+   "book_page": 287,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যামোনিয়াযুক্ত সিলভার নাইট্রেট দিয়ে অ্যালকাইন-1 শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকাইন-1",
+     "formula": "R–C≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ডাইঅ্যামিন সিলভার (I) নাইট্রেট",
+     "formula": "[Ag(NH₃)₂]NO₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার অ্যালকাইনাইড (সাদা)",
+     "formula": "R–C≡CAg",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম নাইট্রেট",
+     "formula": "NH₄NO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "R–C≡CH + [Ag(NH₃)₂]NO₃ → R–C≡CAg↓ + NH₄NO₃ + NH₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়লে টার্মিনাল ত্রিবন্ধন আছে।",
+   "procedure_bn": [
+    "অ্যামোনিয়াযুক্ত AgNO₃ দ্রবণ নিন",
+    "ইথাইন বা অ্যালকাইন-1 যুক্ত করুন",
+    "সাদা অধঃক্ষেপ দেখুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgNO₃",
+    "NH₃ দ্রবণ",
+    "টেস্টটিউব"
+   ],
+   "safety_bn": "শুষ্ক অ্যাসিটিলাইড বিস্ফোরক হতে পারে; ভিজা অবস্থায় রাখুন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-08-107",
+   "chapter_no": 5,
+   "section_no": "5.23",
+   "section_title_bn": "অ্যালকাইন-1 যেমন, ইথাইন এর অম্লধর্মিতা",
+   "book_page": 287,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যামোনিয়াযুক্ত কিউপ্রাস ক্লোরাইড দিয়ে অ্যালকাইন-1 শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকাইন-1",
+     "formula": "R–C≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ডাইঅ্যামিন কপার (I) ক্লোরাইড",
+     "formula": "[Cu(NH₃)₂]Cl",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার অ্যালকাইনাইড (লাল)",
+     "formula": "R–C≡CCu",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "R–C≡CH + [Cu(NH₃)₂]Cl → R–C≡CCu↓ + NH₄Cl + NH₃",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "লাল অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "অ্যামোনিয়াযুক্ত Cu₂Cl₂ দ্রবণ নিন",
+    "অ্যালকাইন-1 যুক্ত করুন",
+    "লাল অধঃক্ষেপ দেখুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cu₂Cl₂",
+    "NH₃ দ্রবণ",
+    "টেস্টটিউব"
+   ],
+   "safety_bn": "শুষ্ক অ্যাসিটিলাইড বিস্ফোরক হতে পারে।",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 5,
+   "no": "5.1",
+   "title_bn": "ভূমিকা : হাইড্রোকার্বন",
+   "start_page": 252
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.2",
+   "title_bn": "অ্যালিফেটিক হাইড্রোকার্বনের উৎস",
+   "start_page": 254
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.3",
+   "title_bn": "জ্বালানি তেলের অক্টেন নাম্বার",
+   "start_page": 256
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.4",
+   "title_bn": "সম্পৃক্ত হাইড্রোকার্বন বা অ্যালকেন বা প্যারাফিন",
+   "start_page": 257
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.5",
+   "title_bn": "পরীক্ষাগারে অ্যালকেন প্রস্তুতি",
+   "start_page": 257
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.6",
+   "title_bn": "অ্যালকেনের শিল্পোৎপাদন",
+   "start_page": 258
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.7",
+   "title_bn": "অ্যালকেন সংশ্লেষণ",
+   "start_page": 259
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.8",
+   "title_bn": "অ্যালকেনের ভৌত ধর্ম",
+   "start_page": 260
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.9",
+   "title_bn": "অ্যালকেনের রাসায়নিক ধর্ম",
+   "start_page": 260
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.9.1",
+   "title_bn": "অ্যালকেনের প্রতিস্থাপন বিক্রিয়া",
+   "start_page": 261
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.9.2",
+   "title_bn": "অ্যালকেনের তাপীয় বিয়োজন (Pyrolysis or cracking)",
+   "start_page": 263
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.9.3",
+   "title_bn": "অ্যালকেনের সমাণুকরণ (Isomerism)",
+   "start_page": 263
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.9.4",
+   "title_bn": "অ্যালকাইল মূলক",
+   "start_page": 264
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.10",
+   "title_bn": "অ্যালকেনের ব্যবহার",
+   "start_page": 264
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.11",
+   "title_bn": "অসম্পৃক্ত হাইড্রোজেন : অ্যালকিন ও অ্যালকাইন",
+   "start_page": 265
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.12",
+   "title_bn": "পরীক্ষাগারে অ্যালকিন প্রস্তুতি",
+   "start_page": 265
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.13",
+   "title_bn": "অ্যালকিনের শিল্পোৎপাদন",
+   "start_page": 266
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.14",
+   "title_bn": "অ্যালকিনের ভৌত ধর্ম",
+   "start_page": 267
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.15",
+   "title_bn": "অ্যালকিনের রাসায়নিক ধর্ম",
+   "start_page": 267
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.15.1",
+   "title_bn": "অ্যালকিনের যুত বিক্রিয়া",
+   "start_page": 268
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.15.2",
+   "title_bn": "অ্যালকিনের জারণ (Oxidation reaction of alkene)",
+   "start_page": 274
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.15.3",
+   "title_bn": "অ্যালকিনের যুত পলিমারকরণ",
+   "start_page": 275
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.16",
+   "title_bn": "অ্যালকিনের ব্যবহার",
+   "start_page": 278
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.17",
+   "title_bn": "অ্যালকিনাইল (Alkenyl Radical)",
+   "start_page": 278
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.18",
+   "title_bn": "ভূমিকা : অ্যালকাইন",
+   "start_page": 279
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.19",
+   "title_bn": "পরীক্ষাগারে অ্যালকাইন প্রস্তুতি",
+   "start_page": 279
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.20",
+   "title_bn": "অ্যালকাইনের শিল্পোৎপাদন",
+   "start_page": 280
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.21",
+   "title_bn": "অ্যালকাইনের ভৌত ধর্ম",
+   "start_page": 281
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.22",
+   "title_bn": "অ্যালকাইনের রাসায়নিক ধর্ম",
+   "start_page": 281
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.22.1",
+   "title_bn": "অ্যালকাইনের যুত বিক্রিয়া",
+   "start_page": 282
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.22.2",
+   "title_bn": "অ্যালকাইনের জারণ বিক্রিয়া",
+   "start_page": 285
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.22.3",
+   "title_bn": "অ্যালকাইনের পলিমারকরণ",
+   "start_page": 286
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.23",
+   "title_bn": "অ্যালকাইন-1 যেমন, ইথাইন এর অম্লধর্মিতা",
+   "start_page": 287
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "অধ্যায় ৫ (হাইড্রোকার্বন) এর মুদ্রিত পৃষ্ঠা 252–287। চাঙ্ক 5.23-এর শুরুতে শেষ; ইথাইনের অম্লধর্মিতার কিছু অংশ পরবর্তী চাঙ্কে। অ্যালকাইন-1 শনাক্তকরণ (Ag/Cu) ও ব্রোমিন/বেয়ার পরীক্ষা সাধারণ যৌগ ধরে 'bench' চিহ্নিত। 5.3-এ হেক্সেন→বেনজিন চিত্রে রিং-কাঠামো নামের সাথে অমিল ছিল; নামানুযায়ী C₆H₁₄ নেওয়া। ওজোনোলাইসিস ও Zn/H₂O₂ সমীকরণ মোট বিক্রিয়া হিসেবে সমন্বিত।"
+}

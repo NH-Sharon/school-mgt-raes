@@ -1,0 +1,2757 @@
+{
+ "book": "Chemistry First Part Class 11 (NCTB)",
+ "chunk_pdf_pages": [
+  213,
+  247
+ ],
+ "page_offset_note": "printed page = pdf page - 0",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-07-01",
+   "chapter_no": 2,
+   "section_no": "2.17",
+   "section_title_bn": "ব্যবহারিক : দ্রবণে আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 216,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "নমুনা লবণ থেকে মূল দ্রবণ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "নমুনা লবণ",
+     "formula": "—",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মূল দ্রবণ",
+     "formula": "—",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp, প্রয়োজনে warm",
+   "observations_bn": "লবণ গলে গেলে দ্রাবক উপযুক্ত; না গললে পরের দ্রাবক চেষ্টা করতে হয়।",
+   "procedure_bn": [
+    "অল্প লবণে 5–7 mL পাতিত পানি নাও ও ঝাঁকাও",
+    "না গললে পাতিত পানি গরম করো",
+    "তাও না গললে লঘু HCl, তারপর লঘু HCl + তাপ",
+    "গললে বেশি লবণ দিয়ে মূল দ্রবণ বানাও"
+   ],
+   "quantities_bn": "5–7 mL পাতিত পানি",
+   "materials_bn": [
+    "নমুনা লবণ",
+    "পাতিত পানি",
+    "লঘু HCl",
+    "টেস্টটিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-02",
+   "chapter_no": 2,
+   "section_no": "2.17.1",
+   "section_title_bn": "Cu²⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 217,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Cu²⁺ শনাক্তকরণ (পটাসিয়াম ফেরোসায়ানাইড)",
+   "reactants": [
+    {
+     "name_bn": "কপার(II) আয়ন",
+     "formula": "Cu²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ফেরোসায়ানাইড",
+     "formula": "K₄[Fe(CN)₆]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) ফেরোসায়ানাইড",
+     "formula": "Cu₂[Fe(CN)₆]",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়ন",
+     "formula": "K⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "2Cu²⁺(aq) + K₄[Fe(CN)₆](aq) → Cu₂[Fe(CN)₆]↓ + 4K⁺(aq)",
+   "equation_printed": "Cu²⁺(aq) + K₄[Fe(CN)₆](l) → Cu₂[Fe(CN)₆]↓ + 4K⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "লালচে বাদামি অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "1–2 ফোঁটা K₄[Fe(CN)₆] দ্রবণ দাও"
+   ],
+   "quantities_bn": "1–2 mL মূল দ্রবণ, 1–2 ফোঁটা রিএজেন্ট",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "K₄[Fe(CN)₆] দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-07-03",
+   "chapter_no": 2,
+   "section_no": "2.17.1",
+   "section_title_bn": "Cu²⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 217,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "K₄[Fe(CN)₆] রিএজেন্ট দ্রবণ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ফেরোসায়ানাইড",
+     "formula": "K₄[Fe(CN)₆]",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "K₄[Fe(CN)₆] দ্রবণ",
+     "formula": "K₄[Fe(CN)₆]",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "লবণ পানিতে গুলে নির্দিষ্ট আয়তনের দ্রবণ হয়।",
+   "procedure_bn": [
+    "20–25 mL পাতিত পানি 100 mL আয়তনমিতিক ফ্লাস্কে নাও",
+    "ওজন করা লবণ ফানেল দিয়ে দাও",
+    "ধুয়ে পুরো লবণ ফ্লাস্কে নামাও, 100 mL দাগে পূর্ণ করো"
+   ],
+   "quantities_bn": "আণবিক ভর 368.25 g/mol; 0.1–0.15 M; 3.6825 g বা কাছাকাছি, 100 mL",
+   "materials_bn": [
+    "K₄[Fe(CN)₆]",
+    "আয়তনমিতিক ফ্লাস্ক",
+    "বিকার",
+    "ওয়াশ বোতল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-04",
+   "chapter_no": 2,
+   "section_no": "2.17.2",
+   "section_title_bn": "Al³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 217,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Al³⁺ শনাক্তকরণ — NaOH যোগে সাদা জেলির মতো অধঃক্ষেপ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম আয়ন",
+     "formula": "Al³⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়ন",
+     "formula": "Na⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "Al³⁺(aq) + 3NaOH(aq) → Al(OH)₃↓ + 3Na⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা আঠালো জেলির মতো অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "1–2 ফোঁটা NaOH দ্রবণ দাও"
+   ],
+   "quantities_bn": "1–2 mL মূল দ্রবণ, 1–2 ফোঁটা NaOH",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-05",
+   "chapter_no": 2,
+   "section_no": "2.17.2",
+   "section_title_bn": "Al³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 217,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "Al(OH)₃ অতিরিক্ত NaOH-এ দ্রবীভূত",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid",
+     "form": "precipitate"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম টেট্রাহাইড্রক্সোঅ্যালুমিনেট",
+     "formula": "NaAl(OH)₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "Al(OH)₃ + NaOH → NaAl(OH)₄",
+   "conditions": "room temp, অতিরিক্ত NaOH",
+   "observations_bn": "অধঃক্ষেপ গুলে স্বচ্ছ দ্রবণ হয়।",
+   "procedure_bn": [
+    "অধঃক্ষেপে আরও NaOH দ্রবণ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Al(OH)₃ অধঃক্ষেপ",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-06",
+   "chapter_no": 2,
+   "section_no": "2.17.2",
+   "section_title_bn": "Al³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 217,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "NH₄Cl ও তাপে Al(OH)₃ পুনরায় অধঃক্ষিপ্ত",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম টেট্রাহাইড্রক্সোঅ্যালুমিনেট",
+     "formula": "NaAl(OH)₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NaAl(OH)₄ + NH₄Cl → Al(OH)₃↓ + NaCl + NH₃↑ + H₂O",
+   "conditions": "warm/heat (তাপ)",
+   "observations_bn": "উত্তপ্ত করলে সাদা জেলির মতো অধঃক্ষেপ ফিরে আসে।",
+   "procedure_bn": [
+    "দ্রবণে কিছু কঠিন NH₄Cl দাও",
+    "উত্তপ্ত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄Cl",
+    "টেস্টটিউব",
+    "তাপ উৎস"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-07",
+   "chapter_no": 2,
+   "section_no": "2.17.2",
+   "section_title_bn": "Al³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 217,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "NaOH রিএজেন্ট দ্রবণ প্রস্তুতি (0.1 M)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "NaOH দ্রবণ",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp (দ্রবীভবনে তাপ ছাড়তে পারে — বইয়ে নেই)",
+   "observations_bn": "পানিতে NaOH গুলিয়ে 0.1 M দ্রবণ হয়।",
+   "procedure_bn": [
+    "20–25 mL পাতিত পানি 100 mL ফ্লাস্কে নাও",
+    "NaOH ওজন করে ফ্লাস্কে দাও ও ঘুরিয়ে গোলাও",
+    "পূর্ণ করে 100 mL দাগে আনো"
+   ],
+   "quantities_bn": "আণবিক ভর 40 g/mol; 0.1 M; 0.4 g বা কাছাকাছি, 100 mL",
+   "materials_bn": [
+    "NaOH",
+    "আয়তনমিতিক ফ্লাস্ক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-08",
+   "chapter_no": 2,
+   "section_no": "2.17.3",
+   "section_title_bn": "Fe²⁺ ও Fe³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 217,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe²⁺ শনাক্তকরণ — K₄[Fe(CN)₆] দিয়ে (পরীক্ষা-১)",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(II) আয়ন",
+     "formula": "Fe²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ফেরোসায়ানাইড",
+     "formula": "K₄[Fe(CN)₆]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম আয়রন(II) ফেরোসায়ানাইড",
+     "formula": "K₂Fe[Fe(CN)₆]",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়ন",
+     "formula": "K⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "Fe²⁺(aq) + K₄[Fe(CN)₆](aq) → K₂Fe[Fe(CN)₆]↓ + 2K⁺(aq)",
+   "equation_printed": "Fe²⁺(aq) + K₄[Fe(CN)₆](l) → K₂Fe[Fe(CN)₆]↓ + 2K⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "হালকা নীল অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "1–2 ফোঁটা K₄[Fe(CN)₆] দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "K₄[Fe(CN)₆]"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-09",
+   "chapter_no": 2,
+   "section_no": "2.17.3",
+   "section_title_bn": "Fe²⁺ ও Fe³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 218,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe³⁺ শনাক্তকরণ — K₄[Fe(CN)₆] দিয়ে (পরীক্ষা-১)",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(III) আয়ন",
+     "formula": "Fe³⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ফেরোসায়ানাইড",
+     "formula": "K₄[Fe(CN)₆]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) ফেরোসায়ানাইড (প্রুশিয়ান ব্লু)",
+     "formula": "Fe₄[Fe(CN)₆]₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়ন",
+     "formula": "K⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "4Fe³⁺(aq) + 3K₄[Fe(CN)₆](aq) → Fe₄[Fe(CN)₆]₃↓ + 12K⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "গাঢ় নীল অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "1–2 ফোঁটা K₄[Fe(CN)₆] দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "K₄[Fe(CN)₆]"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-10",
+   "chapter_no": 2,
+   "section_no": "2.17.3",
+   "section_title_bn": "Fe²⁺ ও Fe³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 218,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe²⁺ শনাক্তকরণ — K₃[Fe(CN)₆] দিয়ে (পরীক্ষা-২)",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(II) আয়ন",
+     "formula": "Fe²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ফেরিসায়ানাইড",
+     "formula": "K₃[Fe(CN)₆]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম আয়রন(II) ফেরিসায়ানাইড",
+     "formula": "KFe[Fe(CN)₆]",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়ন",
+     "formula": "K⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "Fe²⁺(aq) + K₃[Fe(CN)₆](aq) → KFe[Fe(CN)₆]↓ + 2K⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "গাঢ় নীল অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "1–2 ফোঁটা K₃[Fe(CN)₆] দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "K₃[Fe(CN)₆]"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-11",
+   "chapter_no": 2,
+   "section_no": "2.17.3",
+   "section_title_bn": "Fe²⁺ ও Fe³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 218,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe³⁺-এর সাথে K₃[Fe(CN)₆] (পরীক্ষা-২)",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(III) আয়ন",
+     "formula": "Fe³⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ফেরিসায়ানাইড",
+     "formula": "K₃[Fe(CN)₆]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(III) ফেরিসায়ানাইড",
+     "formula": "Fe[Fe(CN)₆]",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়ন",
+     "formula": "K⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "Fe³⁺(aq) + K₃[Fe(CN)₆](aq) → Fe[Fe(CN)₆] + 3K⁺(aq)",
+   "equation_printed": "Fe³⁺(aq) + K₃[Fe(CN)₆](l) → Fe[Fe(CN)₆]↓ + 3K⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "হালকা নীল দ্রবণ তৈরি হয় (অধঃক্ষেপ নয়, বইয়ে ↓ আছে)।",
+   "procedure_bn": [
+    "মূল দ্রবণে K₃[Fe(CN)₆] যোগ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "K₃[Fe(CN)₆]"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-07-12",
+   "chapter_no": 2,
+   "section_no": "2.17.3",
+   "section_title_bn": "Fe²⁺ ও Fe³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 218,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe²⁺-এর সাথে KSCN (পরীক্ষা-৩)",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(II) আয়ন",
+     "formula": "Fe²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম থায়োসায়ানেট",
+     "formula": "KSCN",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "হালকা লাল রঙের দ্রবণ হয়।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "1–2 ফোঁটা KSCN বা NH₄SCN দ্রবণ দাও"
+   ],
+   "quantities_bn": "বইয়ে এই ক্ষেত্রে সমীকরণ নেই (ফলাফল শুধু পর্যবেক্ষণ)",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "KSCN বা NH₄SCN"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-13",
+   "chapter_no": 2,
+   "section_no": "2.17.3",
+   "section_title_bn": "Fe²⁺ ও Fe³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 218,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Fe³⁺ শনাক্তকরণ — KSCN দিয়ে (পরীক্ষা-৩)",
+   "reactants": [
+    {
+     "name_bn": "আয়রন(III) আয়ন",
+     "formula": "Fe³⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম থায়োসায়ানেট",
+     "formula": "KSCN",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পেন্টাঅ্যাকুয়াথায়োসায়ানেটো আয়রন(III) আয়ন",
+     "formula": "[Fe(SCN)(H₂O)₅]²⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়ন",
+     "formula": "K⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "Fe³⁺(aq) + KSCN(aq) + 5H₂O(l) → [Fe(SCN)(H₂O)₅]²⁺(aq) + K⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "রক্তের মতো গাঢ় লাল দ্রবণ হয়।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "1–2 ফোঁটা KSCN দ্রবণ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "KSCN"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-14",
+   "chapter_no": 2,
+   "section_no": "2.17.3",
+   "section_title_bn": "Fe²⁺ ও Fe³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 218,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "K₃[Fe(CN)₆] রিএজেন্ট দ্রবণ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম ফেরিসায়ানাইড",
+     "formula": "K₃[Fe(CN)₆]",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "K₃[Fe(CN)₆] দ্রবণ",
+     "formula": "K₃[Fe(CN)₆]",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "লবণ গুলে 0.1–0.15 M দ্রবণ হয়।",
+   "procedure_bn": [
+    "20–20 mL পাতিত পানি ফ্লাস্কে নাও",
+    "ওজন করা লবণ মেশাও",
+    "ধুয়ে 100 mL দাগে পূর্ণ করো"
+   ],
+   "quantities_bn": "আণবিক ভর 329.15 g/mol; 0.1–0.15 M; 3.2915 g বা কাছাকাছি, 100 mL",
+   "materials_bn": [
+    "K₃[Fe(CN)₆]",
+    "আয়তনমিতিক ফ্লাস্ক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-15",
+   "chapter_no": 2,
+   "section_no": "2.17.4",
+   "section_title_bn": "Zn²⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 218,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Zn²⁺ শনাক্তকরণ (K₄[Fe(CN)₆])",
+   "reactants": [
+    {
+     "name_bn": "জিংক আয়ন",
+     "formula": "Zn²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ফেরোসায়ানাইড",
+     "formula": "K₄[Fe(CN)₆]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক ফেরোসায়ানাইড",
+     "formula": "Zn₂[Fe(CN)₆]",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়ন",
+     "formula": "K⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "2Zn²⁺(aq) + K₄[Fe(CN)₆](aq) → Zn₂[Fe(CN)₆]↓ + 4K⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "1–2 ফোঁটা K₄[Fe(CN)₆] দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "K₄[Fe(CN)₆]"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-16",
+   "chapter_no": 2,
+   "section_no": "2.17.5",
+   "section_title_bn": "Ca²⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 219,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Ca²⁺ শনাক্তকরণ (অ্যামোনিয়াম অক্সালেট)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম আয়ন",
+     "formula": "Ca²⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম অক্সালেট",
+     "formula": "(NH₄)₂C₂O₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সালেট",
+     "formula": "CaC₂O₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "Ca²⁺(aq) + (NH₄)₂C₂O₄(aq) → CaC₂O₄↓ + 2NH₄⁺(aq)",
+   "equation_printed": "কাঠামো সংকেতে লেখা: Ca²⁺(aq) + (COONH₄)₂ → Ca(COO)₂↓ + 2NH₄⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে, যা লঘু HCl-এ গলে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "2–3 ফোঁটা অ্যামোনিয়াম অক্সালেট দ্রবণ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "(NH₄)₂C₂O₄ দ্রবণ",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-17",
+   "chapter_no": 2,
+   "section_no": "2.17.6",
+   "section_title_bn": "Na⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 219,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Na⁺ শনাক্তকরণ (পটাসিয়াম পাইরোঅ্যান্টিমোনেট)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম আয়ন",
+     "formula": "Na⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম পাইরোঅ্যান্টিমোনেট",
+     "formula": "K₂H₂Sb₂O₇",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম পাইরোঅ্যান্টিমোনেট",
+     "formula": "Na₂H₂Sb₂O₇",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়ন",
+     "formula": "K⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "2Na⁺(aq) + K₂H₂Sb₂O₇ → Na₂H₂Sb₂O₇↓ + 2K⁺(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা মিহি দানাদার অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "2–4 ফোঁটা K₂H₂Sb₂O₇ দ্রবণ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "K₂H₂Sb₂O₇ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-18",
+   "chapter_no": 2,
+   "section_no": "2.17.6",
+   "section_title_bn": "Na⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 219,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "K₂H₂Sb₂O₇ রিএজেন্ট দ্রবণ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম পাইরোঅ্যান্টিমোনেট",
+     "formula": "K₂H₂Sb₂O₇",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "K₂H₂Sb₂O₇ দ্রবণ",
+     "formula": "K₂H₂Sb₂O₇",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "লবণ গুলে 0.2 M দ্রবণ হয়।",
+   "procedure_bn": [
+    "20–25 mL পাতিত পানি ফ্লাস্কে নাও",
+    "ওজন করা লবণ মেশাও",
+    "ধুয়ে 100 mL দাগে পূর্ণ করো"
+   ],
+   "quantities_bn": "আণবিক ভর 313.96 g/mol; 0.2 M; 6.2702 g বা কাছাকাছি, 100 mL",
+   "materials_bn": [
+    "K₂H₂Sb₂O₇",
+    "আয়তনমিতিক ফ্লাস্ক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-19",
+   "chapter_no": 2,
+   "section_no": "2.17.7",
+   "section_title_bn": "NH₄⁺ মূলকের উপস্থিতি শনাক্তকরণ",
+   "book_page": 219,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "NH₄⁺ শনাক্তকরণ (নেসলার দ্রবণ)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম আয়ন",
+     "formula": "NH₄⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "নেসলার দ্রবণ",
+     "formula": "K₂[HgI₄]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামিনো মারকিউরিক আয়োডাইড",
+     "formula": "NH₂[Hg₂I₃]",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    }
+   ],
+   "equation": "2NH₄⁺(aq) + 2KOH → 2NH₃ + 2K⁺(aq) + 2H₂O; 2K₂[HgI₄] → 4KI + 2HgI₂; 2HgI₂ ⇌ Hg₂I₄; Hg₂I₄ + 2NH₃ → NH₂[Hg₂I₃]↓ + NH₄I",
+   "conditions": "room temp",
+   "observations_bn": "লালচে বাদামি অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "2–4 ফোঁটা নেসলার দ্রবণ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "নেসলার দ্রবণ"
+   ],
+   "safety_bn": "নেসলার দ্রবণে পারদ (Hg) যৌগ আছে — বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-20",
+   "chapter_no": 2,
+   "section_no": "2.17.7",
+   "section_title_bn": "NH₄⁺ মূলকের উপস্থিতি শনাক্তকরণ",
+   "book_page": 220,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "নেসলার দ্রবণ প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "মারকিউরিক ক্লোরাইড",
+     "formula": "HgCl₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম টেট্রাআয়োডোমারকিউরেট(II)",
+     "formula": "K₂[HgI₄]",
+     "state": "solution"
+    }
+   ],
+   "equation": "HgCl₂ + 2KI → 2KCl + HgI₂; HgI₂ + 2KI → K₂[HgI₄]",
+   "conditions": "50–60 °C ওয়ার্ম (দ্রবণ পরিষ্কার না হলে)",
+   "observations_bn": "প্রথমে হলুদ-লাল HgI₂ পড়ে, অতিরিক্ত KI-তে গুলে বর্ণহীন দ্রবণ হয়।",
+   "procedure_bn": [
+    "পানিতে HgCl₂ গুলে নাও",
+    "আলাদা পানিতে KI গুলে মেশাও",
+    "অধঃক্ষেপ গুলে না গেলে অতিরিক্ত KI দাও ও 50–60 °C-এ উত্তপ্ত করো",
+    "KOH/NaOH দ্রবণ দিয়ে ক্ষারীয় করে সংরক্ষণ করো"
+   ],
+   "quantities_bn": "30–40 mL পানি; 2.71 g HgCl₂, 1.66 g KI, পরে 3.322 g বা বেশি KI; 100 mL; 0.1 M NaOH/KOH",
+   "materials_bn": [
+    "HgCl₂",
+    "KI",
+    "NaOH বা KOH",
+    "আয়তনমিতিক ফ্লাস্ক"
+   ],
+   "safety_bn": "HgCl₂ অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-21",
+   "chapter_no": 2,
+   "section_no": "2.17.8",
+   "section_title_bn": "Cl⁻ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 220,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "Cl⁻ শনাক্তকরণ (AgNO₃)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রেট আয়ন",
+     "formula": "NO₃⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl⁻(aq) + AgNO₃(aq) → AgCl↓ + NO₃⁻(aq)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে; লঘু HNO₃-এ গুলে না, অ্যামোনিয়ায় গুলে যায়।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "2–3 ফোঁটা AgNO₃ দাও",
+    "অধঃক্ষেপে NH₄OH দিয়ে দ্রাব্যতা দেখো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "AgNO₃",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-22",
+   "chapter_no": 2,
+   "section_no": "2.17.8",
+   "section_title_bn": "Cl⁻ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 220,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "AgCl অ্যামোনিয়ায় দ্রবীভূত (ডাই-অ্যামিন সিলভার ক্লোরাইড)",
+   "reactants": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid",
+     "form": "precipitate"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইঅ্যামিনসিলভার(I) ক্লোরাইড",
+     "formula": "[Ag(NH₃)₂]Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "AgCl + 2NH₄OH → [Ag(NH₃)₂]Cl + 2H₂O",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ গুলে স্বচ্ছ দ্রবণ হয়।",
+   "procedure_bn": [
+    "AgCl অধঃক্ষেপে NH₄OH দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgCl",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-23",
+   "chapter_no": 2,
+   "section_no": "2.17.8",
+   "section_title_bn": "Cl⁻ আয়নের উপস্থিতি শনাক্তকরণ",
+   "book_page": 220,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "AgNO₃ রিএজেন্ট দ্রবণ প্রস্তুতি (0.05 M)",
+   "reactants": [
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "AgNO₃ দ্রবণ",
+     "formula": "AgNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "লবণ গুলে 0.05 M দ্রবণ হয়।",
+   "procedure_bn": [
+    "20–15 mL অতি বিশুদ্ধ পাতিত পানি ফ্লাস্কে নাও",
+    "ওজন করা AgNO₃ মেশাও",
+    "100 mL দাগে পূর্ণ করে কালো কাগজে মোড়া বোতলে রাখো"
+   ],
+   "quantities_bn": "আণবিক ভর 169.86 g/mol; 0.05 M; 0.8493 g বা কাছাকাছি, 100 mL",
+   "materials_bn": [
+    "AgNO₃",
+    "আয়তনমিতিক ফ্লাস্ক",
+    "কার্বন পেপার/কালো কাগজ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-07-24",
+   "chapter_no": 2,
+   "section_no": "2.17.9",
+   "section_title_bn": "SO₄²⁻ মূলকের উপস্থিতি শনাক্তকরণ",
+   "book_page": 220,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "SO₄²⁻ শনাক্তকরণ (Ba(NO₃)₂)",
+   "reactants": [
+    {
+     "name_bn": "সালফেট আয়ন",
+     "formula": "SO₄²⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "বেরিয়াম নাইট্রেট",
+     "formula": "Ba(NO₃)₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিয়াম সালফেট",
+     "formula": "BaSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রেট আয়ন",
+     "formula": "NO₃⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "SO₄²⁻(aq) + Ba(NO₃)₂(aq) → BaSO₄↓ + 2NO₃⁻(aq)",
+   "conditions": "room temp, অম্লীয় (লঘু HNO₃)",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "1–2 mL মূল দ্রবণ নাও",
+    "1–2 ফোঁটা লঘু HNO₃ দাও",
+    "2–3 ফোঁটা Ba(NO₃)₂ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "লঘু HNO₃",
+    "Ba(NO₃)₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-25",
+   "chapter_no": 2,
+   "section_no": "2.17.10",
+   "section_title_bn": "CO₃²⁻ মূলকের উপস্থিতি শনাক্তকরণ",
+   "book_page": 221,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "CO₃²⁻ শনাক্তকরণ — AgNO₃ দিয়ে (পরীক্ষা-১)",
+   "reactants": [
+    {
+     "name_bn": "কার্বনেট আয়ন",
+     "formula": "CO₃²⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার কার্বনেট",
+     "formula": "Ag₂CO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রেট আয়ন",
+     "formula": "NO₃⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "CO₃²⁻(aq) + 2AgNO₃(aq) → Ag₂CO₃↓ + 2NO₃⁻(aq); Ag₂CO₃ + 2HNO₃ → 2AgNO₃ + H₂O + CO₂↑",
+   "conditions": "room temp",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে, HNO₃-এ পুরোপুরি গলে।",
+   "procedure_bn": [
+    "2–3 ফোঁটা AgNO₃ মূল দ্রবণে দাও",
+    "অধঃক্ষেপে HNO₃ দিয়ে গলা দেখো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "AgNO₃",
+    "HNO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-26",
+   "chapter_no": 2,
+   "section_no": "2.17.10",
+   "section_title_bn": "CO₃²⁻ মূলকের উপস্থিতি শনাক্তকরণ",
+   "book_page": 221,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "CO₃²⁻ শনাক্তকরণ — লঘু HCl ও চুনের পানি (পরীক্ষা-২)",
+   "reactants": [
+    {
+     "name_bn": "কার্বনেট লবণ",
+     "formula": "CO₃²⁻",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "লঘু হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "চুনের পানি",
+     "formula": "Ca(OH)₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "CO₃²⁻ + 2HCl → H₂O + 2Cl⁻ + CO₂↑; Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O",
+   "equation_printed": "CO₃²⁻ + 2HCl → H₂O + 2Cl⁻ + CO₂ (ফর্ম একই)",
+   "conditions": "room temp, প্রয়োজনে মৃদু তাপ",
+   "observations_bn": "বুদবুদসহ বর্ণহীন গন্ধহীন গ্যাস ওঠে; চুনের পানি ঘোলা হয়।",
+   "procedure_bn": [
+    "অল্প লবণে 5–7 ফোঁটা লঘু HCl দাও",
+    "প্রয়োজনে তাপ দাও",
+    "গ্যাস চুনের পানিতে চালাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নমুনা লবণ",
+    "লঘু HCl",
+    "চুনের পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-27",
+   "chapter_no": 2,
+   "section_no": "2.18",
+   "section_title_bn": "কেলাসন | Crystallization",
+   "book_page": 222,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ব্লু ও গ্রিন ভিট্রিওলের কেলাস প্রস্তুতি (দলগত কাজ 2.39)",
+   "reactants": [
+    {
+     "name_bn": "কপার(II) সালফেট পেন্টাহাইড্রেট",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ফেরাস সালফেট হেপ্টাহাইড্রেট",
+     "formula": "FeSO₄·7H₂O",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কেলাস",
+     "formula": "CuSO₄·5H₂O / FeSO₄·7H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "গরম দ্রবণ ধীরে ঠান্ডা",
+   "observations_bn": "বইয়ে শুধু কেলাস বানিয়ে শিক্ষককে দেখানোর নির্দেশ আছে।",
+   "procedure_bn": [
+    "পদ্ধতি বইয়ে এখানে নেই (সাধারণ কেলাসন নীতি আগের অনুচ্ছেদে)"
+   ],
+   "quantities_bn": "কোনো পরিমাণ দেওয়া নেই",
+   "materials_bn": [
+    "CuSO₄",
+    "FeSO₄",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-28",
+   "chapter_no": 2,
+   "section_no": "2.19",
+   "section_title_bn": "ব্যবহারিক : কেলাসন পদ্ধতিতে অবিশুদ্ধ খাদ্য লবণ থেকে বিশুদ্ধ লবণের কেলাস তৈরি",
+   "book_page": 223,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "খাদ্য লবণ থেকে বিশুদ্ধ NaCl কেলাস (সল্টিং আউট)",
+   "reactants": [
+    {
+     "name_bn": "খাদ্য লবণ (অবিশুদ্ধ NaCl)",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "গাঢ় হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বিশুদ্ধ NaCl কেলাস",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "NaCl(aq) ⇌ NaCl(s)",
+   "conditions": "গরম পানিতে দ্রবীভূত, ধীরে শীতল; গাঢ় HCl 5–6 ফোঁটা",
+   "observations_bn": "সাদা ঘনকাকার কেলাস বিকারের তলায় জমে; HCl-এ Cl⁻ বাড়ায় NaCl বেশি অধঃক্ষিপ্ত হয়।",
+   "procedure_bn": [
+    "25 g লবণ 100 mL পাতিত পানিতে মিশিয়ে সম্পৃক্ত দ্রবণ করো",
+    "ফিল্টার করে উত্তপ্ত করে ঘন করো",
+    "ঠান্ডা করে 5–6 ফোঁটা গাঢ় HCl দাও",
+    "কেলাস ছেঁকে ধুয়ে শুকাও"
+   ],
+   "quantities_bn": "25 g লবণ, 100 mL পানি; উদাহরণে প্রাপ্ত 15 g (ধরা) → ফলন (15÷25)×100 = 60%",
+   "materials_bn": [
+    "খাদ্য লবণ",
+    "গাঢ় HCl",
+    "বিকার",
+    "ফানেল",
+    "কাচদণ্ড",
+    "বুনসেন বার্নার",
+    "ত্রিপদী স্ট্যান্ড"
+   ],
+   "safety_bn": "গাঢ় HCl ও গরম বিকার সাবধানে ধরো।",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k11-07-29",
+   "chapter_no": 2,
+   "section_no": "2.20.1",
+   "section_title_bn": "পাতন (Distillation)",
+   "book_page": 224,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পাতন (সাধারণ) — বেনজিন অশুদ্ধি থেকে পৃথকীকরণ",
+   "reactants": [
+    {
+     "name_bn": "অবিশুদ্ধ উদ্বায়ী তরল (বেনজিন)",
+     "formula": "C₆H₆",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বিশুদ্ধ বেনজিন (পাতিত)",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₆(l) ⇌ C₆H₆(g)",
+   "conditions": "heat; ফুটনাঙ্ক 80.4 °C; লিবিগ শীতক",
+   "observations_bn": "থার্মোমিটারের তাপমাত্রা স্থির হলে বাষ্প শীতকে ঘনীভূত হয়ে গ্রাহক পাত্রে জমে।",
+   "procedure_bn": [
+    "মিশ্রণ পাতন ফ্লাস্কে নাও, থার্মোমিটার বাল্ব পার্শ্বনলের মুখে",
+    "বুনসেন বার্নারে ধীরে গরম করো, শীতকে পানি চালাও",
+    "স্থির তাপমাত্রায় পাতিত তরল গ্রাহক পাত্রে সংগ্রহ করো"
+   ],
+   "quantities_bn": "ফুটনাঙ্ক পার্থক্য > 40 °C হলে সাধারণ পাতন",
+   "materials_bn": [
+    "পাতন ফ্লাস্ক",
+    "লিবিগ শীতক",
+    "থার্মোমিটার",
+    "গ্রাহক পাত্র",
+    "কাচের টুকরা"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k11-07-30",
+   "chapter_no": 2,
+   "section_no": "2.20.2",
+   "section_title_bn": "আংশিক পাতন (Fractional Distillation)",
+   "book_page": 225,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "আংশিক পাতন — মিথানল, বেনজিন, টলুইন",
+   "reactants": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানল (64 °C)",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "বেনজিন (80.4 °C)",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "টলুইন (111 °C)",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "heat; অংশ কলাম ব্যবহার",
+   "observations_bn": "প্রথমে 64 °C-এ মিথানল, তাপমাত্রা বেড়ে 80.4 °C-এ বেনজিন, শেষে 111 °C-এ টলুইন পাতিত হয়।",
+   "procedure_bn": [
+    "মিশ্রণ ফ্লাস্কে অংশ কলাম যুক্ত করে গরম করো",
+    "প্রতিটি ফুটনাঙ্কে নতুন গ্রাহক পাত্র লাগাও"
+   ],
+   "quantities_bn": "ফুটনাঙ্ক পার্থক্য 40 °C-এর কম হলে",
+   "materials_bn": [
+    "পাতন ফ্লাস্ক",
+    "অংশ কলাম",
+    "শীতক",
+    "থার্মোমিটার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-31",
+   "chapter_no": 2,
+   "section_no": "2.20.3",
+   "section_title_bn": "বাষ্পপাতন (Steam distillation)",
+   "book_page": 226,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "বাষ্পপাতন (স্টিম ডিস্টিলেশন)",
+   "reactants": [
+    {
+     "name_bn": "পানিতে অদ্রবণীয় উদ্বায়ী জৈব তরল",
+     "formula": "—",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "স্টিম (জলীয় বাষ্প)",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জৈব তরল + পানির মিশ্র পাতিত",
+     "formula": "—",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "heat; স্টিম জেনারেটর",
+   "observations_bn": "স্বাভাবিক ফুটনাঙ্কের কম তাপমাত্রায় জৈব যৌগ বাষ্পের সাথে বেরিয়ে আসে; পৃথকীকরণ ফানেলে জৈব স্তর আলাদা হয়।",
+   "procedure_bn": [
+    "আলাদা পাত্রে পানি ফুটিয়ে স্টিম বানাও",
+    "স্টিম পাতন ফ্লাস্কের মিশ্রণে চালাও",
+    "শীতকে ঘনীভূত মিশ্রণ গ্রাহক পাত্রে নাও, পৃথকীকরণ ফানেলে আলাদা করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "স্টিম জেনারেটর",
+    "পাতন ফ্লাস্ক",
+    "শীতক",
+    "পৃথকীকরণ ফানেল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-32",
+   "chapter_no": 2,
+   "section_no": "2.20.4",
+   "section_title_bn": "ঊর্ধ্বপাতন (Sublimation)",
+   "book_page": 228,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "ঊর্ধ্বপাতন — নিশাদল (NH₄Cl)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড (নিশাদল)",
+     "formula": "NH₄Cl",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড বাষ্প → কঠিন",
+     "formula": "NH₄Cl",
+     "state": "solid"
+    }
+   ],
+   "equation": "NH₄Cl(s) ⇌ NH₄Cl(g)",
+   "conditions": "heat (বুনসেন বার্নার, চায়না ডিস)",
+   "observations_bn": "কঠিন সরাসরি বাষ্প হয়ে ফানেলের গায়ে উৎক্ষেপ হিসেবে জমে।",
+   "procedure_bn": [
+    "চায়না ডিসে মিশ্রণ নিয়ে উল্টানো ফানেল চাপা দাও, মুখে তুলার ছিপি",
+    "ধীরে গরম করো",
+    "ফানেলের গায়ে জমা উৎক্ষেপ সংগ্রহ করো"
+   ],
+   "quantities_bn": "বেনজোয়িক অ্যাসিড: গলনাঙ্ক 121 °C, 100 °C-এ ঊর্ধ্বপাতিত",
+   "materials_bn": [
+    "NH₄Cl",
+    "চায়না ডিস",
+    "ইনভার্টেড ফানেল",
+    "বুনসেন বার্নার"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k11-07-33",
+   "chapter_no": 2,
+   "section_no": "2.21.1",
+   "section_title_bn": "জলীয় দ্রবণ হতে নিষ্কাশন (Extraction from liquid Solution)",
+   "book_page": 228,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ইথার দিয়ে জলীয় দ্রবণ থেকে জৈব যৌগের দ্রাবক নিষ্কাশন",
+   "reactants": [
+    {
+     "name_bn": "জৈব যৌগের জলীয় দ্রবণ",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ইথার",
+     "formula": "(C₂H₅)₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথার স্তর (জৈব যৌগসহ)",
+     "formula": "—",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জলীয় স্তর",
+     "formula": "—",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp, পৃথকীকরণ ফানেল",
+   "observations_bn": "ইথার উপরে, পানি নিচে দুই স্তর হয়; নিচ স্তর আগে ছাড়া হয়।",
+   "procedure_bn": [
+    "দ্রবণ ও ইথার পৃথকীকরণ ফানেলে ঝাঁকাও",
+    "স্থির রেখে দুই স্তর আলাদা করো",
+    "জলীয় স্তরে আবার ইথার দিয়ে ২–৩ বার পুনরাবৃত্তি করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পৃথকীকরণ ফানেল",
+    "ইথার",
+    "গলিত CaCl₂ বা MgSO₄/Na₂SO₄ (শুকানোর জন্য)"
+   ],
+   "safety_bn": "ইথার অত্যন্ত দাহ্য।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-34",
+   "chapter_no": 2,
+   "section_no": "2.21.1",
+   "section_title_bn": "জলীয় দ্রবণ হতে নিষ্কাশন (Extraction from liquid Solution)",
+   "book_page": 229,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ক্লোরোফর্ম–অ্যালকোহল মিশ্রণ আলাদা করা (পানি দিয়ে)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফর্ম",
+     "formula": "CHCl₃",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোফর্ম (নিচের স্তর)",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালকোহল-পানি দ্রবণ (উপরের স্তর)",
+     "formula": "C₂H₅OH/H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp, পৃথকীকরণ ফানেল",
+   "observations_bn": "অ্যালকোহল জলীয় স্তরে চলে যায়, ক্লোরোফর্ম নিচে থাকে।",
+   "procedure_bn": [
+    "মিশ্রণ ফানেলে পানি দিয়ে ঝাঁকাও",
+    "নিচের ক্লোরোফর্ম আলাদা করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পৃথকীকরণ ফানেল",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-35",
+   "chapter_no": 2,
+   "section_no": "2.21.2",
+   "section_title_bn": "কঠিন পদার্থ হতে নিষ্কাশন (Extraction from Solid)",
+   "book_page": 229,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "সক্সলেট নিষ্কাশক দিয়ে কঠিন থেকে নিষ্কাশন",
+   "reactants": [
+    {
+     "name_bn": "মিহিচূর্ণ কঠিন নমুনা",
+     "formula": "—",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ইথার (দ্রাবক)",
+     "formula": "(C₂H₅)₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নিষ্কাশিত জৈব উপাদানের দ্রবণ",
+     "formula": "—",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "heat (পানি/বালি গাহে), পুনঃপুন সাইফন",
+   "observations_bn": "দ্রাবক বাষ্প হয়ে ঘনীভূত হয়ে থিমবলে জমে, সাইফনে ফিরে আসে।",
+   "procedure_bn": [
+    "থিম্বলে নমুনা নিয়ে সক্সলেট নলে বসাও",
+    "নিচের ফ্লাস্কে দ্রাবক গরম করো",
+    "অবিরাম কয়েক ঘণ্টা চালাও, পরে দ্রাবক পাতন করে নিষ্কাশিত উপাদান পাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সক্সলেট যন্ত্র",
+    "ফিল্টার কাগজ থিম্বল",
+    "ফ্লাস্ক",
+    "শীতক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-36",
+   "chapter_no": 2,
+   "section_no": "2.22.1",
+   "section_title_bn": "কলাম বা অধিশোষণ ক্রোমাটোগ্রাফি (Column or Adsorption Chromatography)",
+   "book_page": 231,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "কলাম ক্রোমাটোগ্রাফি — মিশ্রণ A, B, C পৃথকীকরণ",
+   "reactants": [
+    {
+     "name_bn": "পোলার ক্রমে মিশ্রণ (A>B>C)",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলিকা জেল/অ্যালুমিনা (স্থির দশা)",
+     "formula": "SiO₂ / Al₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পেট্রোলিয়াম ইথার (সচল দশা)",
+     "formula": "—",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আলাদা ব্যান্ডে পৃথক উপাদান C, B, A",
+     "formula": "—",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp, কলাম",
+   "observations_bn": "কম পোলার C আগে নামে, বেশি পোলার A উপরে আটকে থাকে।",
+   "procedure_bn": [
+    "কাচের নলে স্লারি দিয়ে কলাম ভরো",
+    "উপরে মিশ্রণ বসাও",
+    "দ্রাবক ধীরে চালিয়ে ব্যান্ড আলাদা করে গ্রাহক পাত্রে ধরো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কাচনল",
+    "সিলিকা জেল/অ্যালুমিনা",
+    "পেট্রোলিয়াম ইথার",
+    "বুরেট"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-37",
+   "chapter_no": 2,
+   "section_no": "2.22.2",
+   "section_title_bn": "পাতলা স্তর ক্রোমাটোগ্রাফি (Thin layer chromatography, TLC)",
+   "book_page": 232,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পাতলা স্তর ক্রোমাটোগ্রাফি (TLC) ও Rf",
+   "reactants": [
+    {
+     "name_bn": "নমুনা মিশ্রণের দ্রবণ",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "TLC প্লেট (অধিশোষক স্তর)",
+     "formula": "—",
+     "state": "solid",
+     "form": "plate"
+    },
+    {
+     "name_bn": "সচল দ্রাবক",
+     "formula": "—",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পৃথক দাগ (স্পট)",
+     "formula": "—",
+     "state": "solution"
+    }
+   ],
+   "equation": "Rf = উপাদানের অতিক্রান্ত দূরত্ব ÷ দ্রাবকের অতিক্রান্ত দূরত্ব",
+   "conditions": "room temp; আয়োডিন বা গাঢ় H₂SO₄ দাগ শনাক্তে",
+   "observations_bn": "দ্রাবক ওঠার সাথে উপাদানগুলো ভিন্ন উচ্চতায় আলাদা হয়; আয়োডিনে দাগ রঙিন হয়।",
+   "procedure_bn": [
+    "প্লেটের নিচে নমুনা ফোঁটা দাও",
+    "দ্রাবকের ট্যাংকে প্লেট খাড়া বসাও",
+    "দ্রাবক ফ্রন্ট দাগ দিয়ে প্লেট তুলে আয়োডিনে দাগ শনাক্ত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "TLC প্লেট",
+    "দ্রাবক",
+    "ট্যাংক",
+    "আয়োডিন"
+   ],
+   "safety_bn": "গাঢ় H₂SO₄ ব্যবহারে সতর্ক থাকো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-38",
+   "chapter_no": 2,
+   "section_no": "2.23",
+   "section_title_bn": "পেপার ক্রোমাটোগ্রাফির সাহায্যে মিশ্রণ থেকে যৌগ পৃথকীকরণ",
+   "book_page": 234,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "পেপার ক্রোমাটোগ্রাফি — দুই নমুনা X, Y ও Rf নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "নমুনা মিশ্রণ (X, Y)",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "প্রোপানল বা অ্যাসিটোন (দ্রাবক)",
+     "formula": "—",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "ফিল্টার কাগজ",
+     "formula": "—",
+     "state": "solid",
+     "form": "paper"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পৃথক দাগ",
+     "formula": "—",
+     "state": "solution"
+    }
+   ],
+   "equation": "Rf = a/c (X), b/c (Y)",
+   "conditions": "room temp",
+   "observations_bn": "দ্রাবক উপরে উঠলে নমুনার দুই উপাদান ভিন্ন উচ্চতায় আলাদা দাগ তৈরি করে।",
+   "procedure_bn": [
+    "15–30 cm ফিল্টার কাগজে নিচ থেকে ১–২ cm উপরে নমুনার ফোঁটা দাও",
+    "বিকারে দ্রাবক নিয়ে কাগজ ঝুলাও",
+    "দ্রাবক শেষ প্রান্তে গেলে বের করে দ্রাবক ফ্রন্ট দাগ দাও ও শুকাও",
+    "Rf হিসাব করো"
+   ],
+   "quantities_bn": "কাগজ 15–30 cm × 1–5 cm; Rf সর্বদা ≤ 1",
+   "materials_bn": [
+    "ফিল্টার কাগজ",
+    "প্রোপানল/অ্যাসিটোন",
+    "বিকার",
+    "স্ট্যান্ড",
+    "ক্ল্যাম্প",
+    "হেয়ার ড্রায়ার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-39",
+   "chapter_no": 2,
+   "section_no": "2.23",
+   "section_title_bn": "পেপার ক্রোমাটোগ্রাফির সাহায্যে মিশ্রণ থেকে যৌগ পৃথকীকরণ",
+   "book_page": 235,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "পেপার ক্রোমাটোগ্রাফিতে অ্যামিনো অ্যাসিড মিশ্রণের পৃথকীকরণ",
+   "reactants": [
+    {
+     "name_bn": "গ্লাইসিন",
+     "formula": "H₂N–CH₂–COOH",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যালানিন",
+     "formula": "CH₃–CH(NH₂)–COOH",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "নরলিউসিন",
+     "formula": "CH₃–(CH₂)₃–CH(NH₂)–COOH",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "নিনহাইড্রিন দ্রবণ",
+     "formula": "—",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পৃথক অ্যামিনো অ্যাসিডের দাগ (গাঢ় হলুদ)",
+     "formula": "—",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp; শেষে 100–105 °C-এ 5–6 মিনিট শুকানো",
+   "observations_bn": "নিনহাইড্রিন স্প্রে ও গরম করলে অ্যামিনো অ্যাসিডগুলো গাঢ় হলুদ দাগ হিসেবে দেখা যায়।",
+   "procedure_bn": [
+    "পেপারে পেন্সিলে বেসলাইনে নমুনার ফোঁটা দাও",
+    "সিলিন্ডার বানিয়ে দ্রাবকে বসাও, প্রায় ১ ঘণ্টা রাখো",
+    "দ্রাবক ফ্রন্ট দাগ দিয়ে শুকাও",
+    "নিনহাইড্রিনে ডুবিয়ে 100–105 °C-এ গরম করে দাগ চিহ্নিত করে Rf বের করো"
+   ],
+   "quantities_bn": "নমুনা 1 mg/mL; দ্রাবক 50 mL (প্রোপানল:পানি 7:3), 0.5 M HCl অ্যালকোহলীয়",
+   "materials_bn": [
+    "অ্যামিনো অ্যাসিড",
+    "প্রোপানল:পানি (7:3)",
+    "0.5 M অ্যালকোহলীয় HCl",
+    "শনাক্তকরণ বিকারক: 3% অ্যাসিটিক অ্যাসিডসহ প্রোপানল/বিউটানলে নিনহাইড্রিন",
+    "250 mL বিকার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-40",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 238,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "জৈব যৌগে C ও H শনাক্তকরণ (CuO দিয়ে)",
+   "reactants": [
+    {
+     "name_bn": "জৈব নমুনা",
+     "formula": "C, H",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কিউপ্রিক অক্সাইড",
+     "formula": "CuO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "3CuO + C + H₂ →(Δ) 3Cu + CO₂↑ + H₂O",
+   "equation_printed": "3CuO + (জৈব নমুনার C ও H₂) →(Δ) 3Cu + CO₂ + H₂O",
+   "conditions": "heat (শক্ত কাচনলে বার্নার)",
+   "observations_bn": "পানির বিন্দু ঠান্ডা অংশে জমে ও CuSO₄ নীল করে; গ্যাস চুনের পানি ঘোলা করে।",
+   "procedure_bn": [
+    "শুষ্ক কাচনলে নমুনা ও CuO মিশিয়ে নাও",
+    "গরম করে গ্যাস চুনের পানিতে ও বিন্দু অনার্দ্র CuSO₄-এ পরীক্ষা করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জৈব নমুনা",
+    "CuO",
+    "শক্ত কাচনল",
+    "চুনের পানি",
+    "অনার্দ্র CuSO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-07-41",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 238,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অনার্দ্র CuSO₄ দিয়ে পানির শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "অনার্দ্র কপার সালফেট (সাদা)",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নীল কপার সালফেট পেন্টাহাইড্রেট",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "CuSO₄(s) + 5H₂O(l) → CuSO₄·5H₂O",
+   "equation_printed": "দুই ধাপে লেখা: ১. CuSO₄(s) + 5H₂O(l) → CuSO₄·5H₂O; ২. Ca(OH)₂ + CO₂ → CaCO₃ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "সাদা চূর্ণ পানির সংস্পর্শে নীল হয়।",
+   "procedure_bn": [
+    "অনার্দ্র CuSO₄-তে পানির বিন্দু ফেলো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অনার্দ্র CuSO₄",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-42",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 239,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "চুনের পানিতে CO₂ শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "চুনের পানি",
+     "formula": "Ca(OH)₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বনেট",
+     "formula": "CaCO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Ca(OH)₂(aq) + CO₂(g) → CaCO₃↓ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "সাদা ঘোলা হয়।",
+   "procedure_bn": [
+    "গ্যাস চুনের পানিতে চালাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "চুনের পানি",
+    "গ্যাস নির্গমন নল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-43",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 238,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লেসাইন পরীক্ষা — Na গলনে NaX, Na₂S, NaCN, NaSCN",
+   "reactants": [
+    {
+     "name_bn": "জৈব নমুনা (N, S, X সহ)",
+     "formula": "—",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ধাতু",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হ্যালাইড",
+     "formula": "NaX",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম সায়ানাইড",
+     "formula": "NaCN",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম থায়োসায়ানেট",
+     "formula": "NaSCN",
+     "state": "solution"
+    }
+   ],
+   "equation": "2Na + S → Na₂S; Na + C + N → NaCN; Na + C + N + S → NaSCN; Na + X → NaX",
+   "equation_printed": "Na + জৈব নমুনা →(Δ) (i) NaX; (ii) Na₂S→S; (iii) NaCN→N; (iv) NaCNS→N+S",
+   "conditions": "strong heat (গলন নলে লাল তপ্ত করা, ঠান্ডা পানিতে ফেলা)",
+   "observations_bn": "গলিত সোডিয়াম নমুনার N, S, X-কে পানিতে দ্রবণীয় সোডিয়াম লবণে পরিণত করে; পরিস্রুত দ্রবণ মূল দ্রবণ।",
+   "procedure_bn": [
+    "গলন নলে Na ও নমুনা গলাও, লাল তপ্ত করো",
+    "ঠান্ডা পানিতে ফেলে চূর্ণ করো, ফুটিয়ে পরিস্রুত করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na",
+    "গলন নল",
+    "পাতিত পানি",
+    "ফানেল",
+    "ফিল্টার কাগজ"
+   ],
+   "safety_bn": "সোডিয়াম পানির সাথে তীব্র বিক্রিয়া করে; সাবধান।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-07-44",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 238,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লেসাইন পরীক্ষা — হ্যালোজেন শনাক্তকরণ (পরীক্ষা-১, Cl)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড (মূল দ্রবণে)",
+     "formula": "NaCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaCl + AgNO₃ → AgCl↓ + NaNO₃; AgCl + 2NH₄OH → [Ag(NH₃)₂]Cl + 2H₂O",
+   "equation_printed": "NaCl + AgNO₃ = AgCl↓ + AgNO₃",
+   "conditions": "room temp, HNO₃-এ অম্লীকরণ পরে AgNO₃",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে, অ্যামোনিয়ায় সম্পূর্ণ গুলে যায় → Cl আছে।",
+   "procedure_bn": [
+    "মূল দ্রবণে 2–3 ফোঁটা HNO₃ দিয়ে ফুটিয়ে নাও",
+    "2–3 ফোঁটা AgNO₃ দাও",
+    "অধঃক্ষেপে NH₄OH দিয়ে দেখো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "HNO₃",
+    "AgNO₃",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-07-45",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 239,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লেসাইন — Br শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ব্রোমাইড",
+     "formula": "AgBr",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaBr + AgNO₃ → AgBr↓ + NaNO₃; AgBr + 2NH₄OH → [Ag(NH₃)₂]Br + 2H₂O",
+   "conditions": "room temp",
+   "observations_bn": "হালকা হলুদ অধঃক্ষেপ, অ্যামোনিয়ায় আংশিক দ্রবণীয়।",
+   "procedure_bn": [
+    "মূল দ্রবণে AgNO₃ দাও",
+    "অধঃক্ষেপ NH₄OH-এ পরীক্ষা করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "AgNO₃",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-46",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 239,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লেসাইন — I শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার আয়োডাইড",
+     "formula": "AgI",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaI + AgNO₃ → AgI↓ + NaNO₃",
+   "conditions": "room temp",
+   "observations_bn": "গাঢ় হলুদ অধঃক্ষেপ, অ্যামোনিয়ায় অদ্রবণীয়।",
+   "procedure_bn": [
+    "মূল দ্রবণে AgNO₃ দাও",
+    "অধঃক্ষেপ NH₄OH-এ পরীক্ষা করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "AgNO₃",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-47",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 239,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লেসাইন — N শনাক্তকরণ (প্রুশিয়ান ব্লু, পরীক্ষা-২)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সায়ানাইড (মূল দ্রবণে)",
+     "formula": "NaCN",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফেরাস সালফেট",
+     "formula": "FeSO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফেরোসায়ানাইড",
+     "formula": "Na₄[Fe(CN)₆]",
+     "state": "solution"
+    },
+    {
+     "name_bn": "আয়রন(III) ফেরোসায়ানাইড (প্রুশিয়ান ব্লু)",
+     "formula": "Fe₄[Fe(CN)₆]₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Na + 2H₂O → 2NaOH + H₂↑; FeSO₄ + 2NaOH → Fe(OH)₂ + Na₂SO₄; 6NaCN + Fe(OH)₂ → Na₄[Fe(CN)₆] + 2NaOH; 4FeSO₄ + 2H₂SO₄ + O₂ → 2Fe₂(SO₄)₃ + 2H₂O; 3Na₄[Fe(CN)₆] + 2Fe₂(SO₄)₃ → Fe₄[Fe(CN)₆]₃↓ + 6Na₂SO₄",
+   "equation_printed": "FeSO₄ + 4H₂SO₄ + O₂ → 4Fe₂(SO₄)₃ + 4H₂O (অন্যগুলো মিলেছে)",
+   "conditions": "warm (1–2 মিনিট ফুটানো); H₂SO₄ গাঢ়",
+   "observations_bn": "গাঢ় নীল বা প্রুশিয়ান ব্লু অধঃক্ষেপ/বর্ণ পাওয়া যায়।",
+   "procedure_bn": [
+    "অল্প মূল দ্রবণে 2–1 mL সদ্য প্রস্তুত FeSO₄ দ্রবণ দাও",
+    "1–2 মিনিট গরম করো",
+    "2–3 ফোঁটা গাঢ় H₂SO₄ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "FeSO₄",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "গাঢ় H₂SO₄ সতর্কতার সাথে।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-07-48",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 239,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লেসাইন — S শনাক্তকরণ (লেড অ্যাসিটেট, পরীক্ষা-৩ ক)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইড (মূল দ্রবণে)",
+     "formula": "Na₂S",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লেড অ্যাসিটেট",
+     "formula": "(CH₃COO)₂Pb",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড সালফাইড",
+     "formula": "PbS",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    }
+   ],
+   "equation": "(CH₃COO)₂Pb + Na₂S → PbS↓ + 2CH₃COONa",
+   "equation_printed": "(CH₃COO)₂Pb + Na₂S → PbS↓ + CH₃COONa",
+   "conditions": "room temp, অ্যাসিটিক অ্যাসিডে অম্লীকরণ",
+   "observations_bn": "কালো PbS অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "মূল দ্রবণে অ্যাসিটিক অ্যাসিড দাও",
+    "কয়েক ফোঁটা লেড অ্যাসিটেট দ্রবণ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "CH₃COOH",
+    "লেড অ্যাসিটেট"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-07-49",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 239,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লেসাইন — S শনাক্তকরণ (সোডিয়াম নাইট্রোপ্রুসাইড, পরীক্ষা-৩ খ)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রোপ্রুসাইড",
+     "formula": "Na₂[Fe(CN)₅NO]",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেগুনি জটিল",
+     "formula": "Na₄[Fe(CN)₅NOS]",
+     "state": "solid"
+    }
+   ],
+   "equation": "Na₂S + Na₂[Fe(CN)₅NO] → Na₄[Fe(CN)₅NOS]",
+   "conditions": "room temp",
+   "observations_bn": "দ্রবণ গাঢ় বেগুনি বর্ণ ধারণ করে।",
+   "procedure_bn": [
+    "মূল দ্রবণে সোডিয়াম নাইট্রোপ্রুসাইড দ্রবণ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "Na₂[Fe(CN)₅NO]"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-50",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 240,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লেসাইন — N ও S একত্রে (থায়োসায়ানেট, পরীক্ষা-৪)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম থায়োসায়ানেট",
+     "formula": "NaSCN",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন থায়োসায়ানেট জটিল",
+     "formula": "[Fe(SCN)]Cl₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaSCN + FeCl₃ → [Fe(SCN)]Cl₂ + NaCl",
+   "conditions": "room temp",
+   "observations_bn": "রক্তের মতো গাঢ় লাল দ্রবণ।",
+   "procedure_bn": [
+    "মূল দ্রবণে ফেরিক ক্লোরাইড দ্রবণ দাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মূল দ্রবণ",
+    "FeCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-07-51",
+   "chapter_no": 2,
+   "section_no": "2.24",
+   "section_title_bn": "গুণগত বিশ্লেষণের গুরুত্ব | Importence of Qualitative Analysis",
+   "book_page": 240,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অতিরিক্ত Na-এর সাথে NaSCN বিক্রিয়া (লেসাইনে)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ধাতু",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "জৈব নমুনা (S ও N)",
+     "formula": "—",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম থায়োসায়ানেট",
+     "formula": "NaSCN",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম সায়ানাইড",
+     "formula": "NaCN",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na + (S + N জৈব নমুনা) →(Δ) NaSCN; NaSCN + 2Na → Na₂S + NaCN",
+   "conditions": "strong heat",
+   "observations_bn": "অতিরিক্ত Na থাকলে NaSCN ভেঙে Na₂S ও NaCN হয়, তাই N-এর পরীক্ষা ঠিকভাবে হয়।",
+   "procedure_bn": [
+    "বেশি Na নিয়ে গলাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na",
+    "জৈব নমুনা"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 2,
+   "no": "2.17",
+   "title_bn": "ব্যবহারিক : দ্রবণে আয়নের উপস্থিতি শনাক্তকরণ",
+   "start_page": 216
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.1",
+   "title_bn": "Cu²⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "start_page": 217
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.2",
+   "title_bn": "Al³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "start_page": 217
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.3",
+   "title_bn": "Fe²⁺ ও Fe³⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "start_page": 217
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.4",
+   "title_bn": "Zn²⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "start_page": 218
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.5",
+   "title_bn": "Ca²⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "start_page": 219
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.6",
+   "title_bn": "Na⁺ আয়নের উপস্থিতি শনাক্তকরণ",
+   "start_page": 219
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.7",
+   "title_bn": "NH₄⁺ মূলকের উপস্থিতি শনাক্তকরণ",
+   "start_page": 219
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.8",
+   "title_bn": "Cl⁻ আয়নের উপস্থিতি শনাক্তকরণ",
+   "start_page": 220
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.9",
+   "title_bn": "SO₄²⁻ মূলকের উপস্থিতি শনাক্তকরণ",
+   "start_page": 220
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.17.10",
+   "title_bn": "CO₃²⁻ মূলকের উপস্থিতি শনাক্তকরণ",
+   "start_page": 221
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.18",
+   "title_bn": "কেলাসন | Crystallization",
+   "start_page": 222
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.19",
+   "title_bn": "ব্যবহারিক : কেলাসন পদ্ধতিতে অবিশুদ্ধ খাদ্য লবণ থেকে বিশুদ্ধ লবণের কেলাস তৈরি",
+   "start_page": 223
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.20",
+   "title_bn": "পাতন, আংশিক পাতন, বাষ্প পাতন ও ঊর্ধ্বপাতন",
+   "start_page": 224
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.20.1",
+   "title_bn": "পাতন (Distillation)",
+   "start_page": 224
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.20.2",
+   "title_bn": "আংশিক পাতন (Fractional Distillation)",
+   "start_page": 225
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.20.3",
+   "title_bn": "বাষ্পপাতন (Steam distillation)",
+   "start_page": 226
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.20.4",
+   "title_bn": "ঊর্ধ্বপাতন (Sublimation)",
+   "start_page": 227
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.21",
+   "title_bn": "দ্রাবক নিষ্কাশন | Solvent Extraction",
+   "start_page": 228
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.21.1",
+   "title_bn": "জলীয় দ্রবণ হতে নিষ্কাশন",
+   "start_page": 228
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.21.2",
+   "title_bn": "কঠিন পদার্থ হতে নিষ্কাশন",
+   "start_page": 229
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.22",
+   "title_bn": "ক্রোমাটোগ্রাফি | Chromatography",
+   "start_page": 230
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.22.1",
+   "title_bn": "কলাম বা অধিশোষণ ক্রোমাটোগ্রাফি",
+   "start_page": 231
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.22.2",
+   "title_bn": "পাতলা স্তর ক্রোমাটোগ্রাফি (TLC)",
+   "start_page": 232
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.23",
+   "title_bn": "পেপার ক্রোমাটোগ্রাফির সাহায্যে মিশ্রণ থেকে যৌগ পৃথকীকরণ",
+   "start_page": 233
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.24",
+   "title_bn": "গুণগত বিশ্লেষণের গুরুত্ব",
+   "start_page": 236
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Pages 241-247 are exam questions (skipped). Page 215 solubility table and 213-214 lattice/hydration theory skipped. Some items with confidence 'inferred' have no printed equation. Page 239 CO2/limewater and C/H sub-tests are listed in 2.24."
+}

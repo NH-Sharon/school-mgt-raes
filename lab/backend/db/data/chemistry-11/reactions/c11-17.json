@@ -1,0 +1,1280 @@
+{
+ "book": "NCTB Chemistry First Paper Class 11 (রসায়ন প্রথম পত্র)",
+ "chunk_pdf_pages": [
+  563,
+  597
+ ],
+ "page_offset_note": "printed page = pdf page + 2",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-17-01",
+   "chapter_no": 4,
+   "section_no": "4.31.5",
+   "section_title_bn": "প্রশমন তাপ",
+   "book_page": 565,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "HCl ও NaOH এর প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)",
+   "conditions": "room temp; ΔH = −57.24 kJ mol⁻¹",
+   "observations_bn": "প্রশমনে তাপ ছাড়ে, তাই দ্রবণ কিছুটা গরম হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "প্রতি মোল পানি গঠনে −57.24 kJ। উদাহরণ (পৃ. ৫৭০): 0.5 mol NaOH + 0.5 mol HCl এ −28.62 kJ।",
+   "materials_bn": [
+    "HCl দ্রবণ",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-02",
+   "chapter_no": 4,
+   "section_no": "4.31.5",
+   "section_title_bn": "প্রশমন তাপ",
+   "book_page": 565,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "HNO₃ ও NaOH এর প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NaOH(aq) + HNO₃(aq) → NaNO₃(aq) + H₂O(l)",
+   "conditions": "room temp; ΔH = −57.28 kJ mol⁻¹",
+   "observations_bn": "তাপ ছাড়ে; প্রশমন তাপ প্রায় HCl এর মতোই।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HNO₃ দ্রবণ",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "নাইট্রিক এসিড ক্ষয়কারী, সতর্কভাবে ব্যবহার করতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-03",
+   "chapter_no": 4,
+   "section_no": "4.31.5",
+   "section_title_bn": "প্রশমন তাপ",
+   "book_page": 565,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CH₃COOH ও NaOH এর প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH(aq) + NaOH(aq) → CH₃COONa(aq) + H₂O(l)",
+   "conditions": "room temp; ΔH = −55.2 kJ mol⁻¹",
+   "observations_bn": "দুর্বল এসিড হওয়ায় তাপ ছাড়ার পরিমাণ তীব্র এসিডের চেয়ে কম।",
+   "procedure_bn": [],
+   "quantities_bn": "পৃ. ৫৬৯ এ একই বিক্রিয়ার মান −55.14 kJ mol⁻¹ দেওয়া আছে।",
+   "materials_bn": [
+    "CH₃COOH দ্রবণ",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-04",
+   "chapter_no": 4,
+   "section_no": "4.31.5",
+   "section_title_bn": "প্রশমন তাপ",
+   "book_page": 565,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CH₃COOH ও NH₄OH এর প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONH₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH(aq) + NH₄OH(aq) → CH₃COONH₄(aq) + H₂O(l)",
+   "conditions": "room temp; ΔH = −50.4 kJ mol⁻¹",
+   "observations_bn": "দুর্বল এসিড ও দুর্বল ক্ষার, তাই মুক্ত তাপ সবচেয়ে কম।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COOH দ্রবণ",
+    "NH₄OH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-05",
+   "chapter_no": 4,
+   "section_no": "4.31.6",
+   "section_title_bn": "প্রমাণ সংগঠন তাপ",
+   "book_page": 565,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বন ও অক্সিজেন থেকে CO₂ এর প্রমাণ সংগঠন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C(s) + O₂(g) → CO₂(g)",
+   "conditions": "298.15 K, 1 atm; ΔHf° = −393.5 kJ mol⁻¹",
+   "observations_bn": "কার্বন পুড়িয়ে CO₂ তৈরিতে তাপ ছাড়ে; এটিই CO₂ এর সংগঠন তাপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-06",
+   "chapter_no": 4,
+   "section_no": "4.31.6",
+   "section_title_bn": "প্রমাণ সংগঠন তাপ",
+   "book_page": 565,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "N₂ ও H₂ থেকে NH₃ গঠন (সংগঠন তাপের উদাহরণ)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+   "conditions": "উদাহরণ হিসেবে দেওয়া; ΔH মান এখানে দেওয়া নেই",
+   "observations_bn": "সংগঠন তাপের সংজ্ঞা বোঝাতে ব্যবহৃত উদাহরণ; 1 mol NH₃ গঠনের তাপ বিবেচ্য।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-07",
+   "chapter_no": 4,
+   "section_no": "4.31.6",
+   "section_title_bn": "প্রমাণ সংগঠন তাপ",
+   "book_page": 566,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মনোক্লিনিক সালফার থেকে রম্বিক সালফারে রূপান্তর (এনথালপি)",
+   "reactants": [
+    {
+     "name_bn": "মনোক্লিনিক সালফার",
+     "formula": "S (monoclinic)",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "রম্বিক সালফার",
+     "formula": "S (rhombic)",
+     "state": "solid",
+     "form": "solid"
+    }
+   ],
+   "equation": "S(monoclinic) → S(rhombic)",
+   "conditions": "ΔH = −0.6 kcal (প্রতি গ্রাম-অণু)",
+   "observations_bn": "রূপান্তরে সামান্য এনথালপি হ্রাস পায়।",
+   "procedure_bn": [],
+   "quantities_bn": "S(mono)+O₂→SO₂ ΔH=−71.7 kcal এবং S(rhombic)+O₂→SO₂ ΔH=−71.1 kcal; বিয়োগ করে −0.6 kcal।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-08",
+   "chapter_no": 4,
+   "section_no": "4.31.6",
+   "section_title_bn": "প্রমাণ সংগঠন তাপ",
+   "book_page": 566,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বন ও হাইড্রোজেন থেকে অ্যাসিটিলিন (C₂H₂) গঠন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন (গ্রাফাইট)",
+     "formula": "C",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটিলিন",
+     "formula": "C₂H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C(s) + H₂(g) → C₂H₂(g)",
+   "conditions": "ΔHf = +54.2 kcal mol⁻¹ (তাপগ্রাহী)",
+   "observations_bn": "দহন তাপ থেকে হিসাব করা; ধনাত্মক মান মানে তাপগ্রাহী বিক্রিয়া।",
+   "procedure_bn": [],
+   "quantities_bn": "দহন তাপ: C₂H₂ −310.62, C −94.05, H₂ −68.32 kcal; ΔH = [2×(−94.05)+(−68.32)] − (−310.62) = 54.2 kcal।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-09",
+   "chapter_no": 4,
+   "section_no": "4.31.6",
+   "section_title_bn": "প্রমাণ সংগঠন তাপ",
+   "book_page": 567,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক (অ্যাসিটিক) এসিডের প্রমাণ সংগঠন তাপ",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C(s) + 2H₂(g) + O₂(g) → CH₃COOH(l)",
+   "conditions": "ΔHf° = −491.7 kJ mol⁻¹ (হেসের সূত্রে নির্ণীত)",
+   "observations_bn": "সংগঠন তাপ দহন তাপ ও CO₂, H₂O এর সংগঠন তাপ থেকে বের করা হয়েছে।",
+   "procedure_bn": [],
+   "quantities_bn": "দহন তাপ −867 kJ; CO₂ −393.5 kJ; H₂O −285.85 kJ।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-10",
+   "chapter_no": 4,
+   "section_no": "4.31.6",
+   "section_title_bn": "প্রমাণ সংগঠন তাপ",
+   "book_page": 567,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "চিনির (সুক্রোজ) প্রমাণ সংগঠন তাপ",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সুক্রোজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solid"
+    }
+   ],
+   "equation": "12C(s) + 11H₂(g) + 11/2 O₂(g) → C₁₂H₂₂O₁₁(s)",
+   "conditions": "ΔHf° = −2223.35 kJ mol⁻¹",
+   "observations_bn": "চিনির দহন তাপ −5643 kJ ও CO₂, H₂O এর সংগঠন তাপ থেকে নির্ণীত।",
+   "procedure_bn": [],
+   "quantities_bn": "12×(−393.5) + 11×(−285.85) − (−5643) = −2223.35 kJ (পৃ. ৫৬৭–৫৬৮)।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-11",
+   "chapter_no": 4,
+   "section_no": "4.32",
+   "section_title_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ",
+   "book_page": 569,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন (আয়নিক রূপ)",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সিল আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H⁺(aq) + OH⁻(aq) → H₂O(l)",
+   "conditions": "25 °C; ΔH = −57.34 kJ mol⁻¹",
+   "observations_bn": "সব তীব্র এসিড-ক্ষার জোড়ায় একই মানের তাপ ছাড়ে, কারণ নিট বিক্রিয়া একই।",
+   "procedure_bn": [],
+   "quantities_bn": "প্রমাণ মান: HCl+NaOH −57.34; H₂SO₄+NaOH −57.44; HNO₃+NaOH −57.35; HCl+KOH −57.43 kJ mol⁻¹।",
+   "materials_bn": [
+    "তীব্র এসিড দ্রবণ",
+    "তীব্র ক্ষার দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-12",
+   "chapter_no": 4,
+   "section_no": "4.32",
+   "section_title_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ",
+   "book_page": 569,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "CH₃COOH ও NaOH প্রশমন (দুর্বল এসিড, কম তাপ)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH(aq) + NaOH(aq) → CH₃COONa(aq) + H₂O(l)",
+   "conditions": "25 °C; ΔH = −55.14 kJ mol⁻¹",
+   "observations_bn": "দুর্বল এসিড আংশিক আয়নিত বলে আয়নন শক্তি লাগে, তাই তাপ প্রায় 2.2 kJ কম ছাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COOH দ্রবণ",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-13",
+   "chapter_no": 4,
+   "section_no": "4.32",
+   "section_title_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ",
+   "book_page": 569,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "HF ও NaOH প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোফ্লুরিক এসিড",
+     "formula": "HF",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফ্লুরাইড",
+     "formula": "NaF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HF(aq) + NaOH(aq) → NaF(aq) + H₂O(l)",
+   "conditions": "25 °C; ΔH = −68.6 kJ mol⁻¹ (বইয়ের টেবিলে −68.60)",
+   "observations_bn": "F⁻ আয়নের হাইড্রেশনের বাড়তি তাপ যুক্ত হওয়ায় প্রশমন তাপ স্বাভাবিকের চেয়ে বেশি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HF দ্রবণ",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "HF অত্যন্ত বিপজ্জনক ও ক্ষয়কারী; স্কুল ল্যাবে ব্যবহার সমীচীন নয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-14",
+   "chapter_no": 4,
+   "section_no": "4.32",
+   "section_title_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ",
+   "book_page": 570,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "দুর্বল এসিড (CH₃COOH) ও NaOH মিশ্রণে সীমিত বিকারক",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH + NaOH → CH₃COONa + H₂O",
+   "conditions": "ΔH = −55.2 kJ mol⁻¹",
+   "observations_bn": "NaOH সীমিত বিকারক; 0.2 mol CH₃COOH অবিক্রিয়াত থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "0.6 mol CH₃COOH + 0.4 mol NaOH; তাপ = −55.2 × 0.4 = −22.08 kJ।",
+   "materials_bn": [
+    "CH₃COOH দ্রবণ",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-15",
+   "chapter_no": 4,
+   "section_no": "4.32",
+   "section_title_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ",
+   "book_page": 570,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₂SO₄ ও NaOH দ্রবণ মিশ্রণে নির্গত তাপ",
+   "reactants": [
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O",
+   "conditions": "ΔH = −57.24 kJ প্রতি mol NaOH",
+   "observations_bn": "NaOH সীমিত বিকারক; তাপ ছাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "100 mL 0.25 M H₂SO₄ (0.025 mol) + 100 mL 0.4 M NaOH (0.04 mol); তাপ = −57.24 × 0.04 = −2.2896 kJ।",
+   "materials_bn": [
+    "0.25 M H₂SO₄",
+    "0.4 M NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-16",
+   "chapter_no": 4,
+   "section_no": "4.33.2",
+   "section_title_bn": "বন্ধন শক্তি",
+   "book_page": 571,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CH₄ এর C–H বন্ধন ভাঙন (ধাপে ধাপে)",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন পরমাণু",
+     "formula": "C",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন পরমাণু",
+     "formula": "H",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄(g) → C(g) + 4H(g)",
+   "conditions": "গ্যাসীয় অবস্থা; ΔH = 1665.23 kJ mol⁻¹ (চার বন্ধনের মোট)",
+   "observations_bn": "ধাপে ধাপে প্রতিটি C–H ভাঙতে ভিন্ন শক্তি লাগে; গড় ≈ 416.31 kJ mol⁻¹।",
+   "procedure_bn": [],
+   "quantities_bn": "ধাপ: 426.768, 439.32, 451.87, 347.27 kJ mol⁻¹।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-17",
+   "chapter_no": 4,
+   "section_no": "4.33.2",
+   "section_title_bn": "বন্ধন শক্তি",
+   "book_page": 573,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বন্ধন শক্তি দিয়ে CH₄ + Cl₂ বিক্রিয়ার তাপ",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোমিথেন",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄(g) + Cl₂(g) → CH₃Cl + HCl",
+   "conditions": "গ্যাসীয় ক্লোরিন, আলো/তাপ লাগে (বইয়ে উল্লেখ নেই)",
+   "observations_bn": "বন্ধন শক্তির হিসাবে ΔH = −105.1 kJ mol⁻¹ (তাপমোচী)।",
+   "procedure_bn": [],
+   "quantities_bn": "ভাঙা: 4(C–H)=1652 + Cl–Cl 242.90 = 1894.90; গঠিত: 1239+328+433 = 2000; ΔH = 1894.90 − 2000 = −105.1 kJ।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-18",
+   "chapter_no": 4,
+   "section_no": "4.33.2",
+   "section_title_bn": "বন্ধন শক্তি",
+   "book_page": 573,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথেন থেকে C–C বন্ধন শক্তি নির্ণয় (পরমাণুকরণ)",
+   "reactants": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "C₂H₆",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন পরমাণু",
+     "formula": "C",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন পরমাণু",
+     "formula": "H",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₂H₆(g) → 2C(g) + 6H(g)",
+   "conditions": "গ্যাসীয়; ΔH = +2823 kJ",
+   "observations_bn": "হেসের হিসাবে ইথেনে C–C বন্ধন শক্তি প্রায় 343.92 kJ mol⁻¹ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "ΔHf (C₂H₆) = −85; H পরমাণুকরণ 218×6; C পরমাণুকরণ 715×2 kJ; C–H = 413.18 kJ।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-19",
+   "chapter_no": 4,
+   "section_no": "4.33.2",
+   "section_title_bn": "বন্ধন শক্তি",
+   "book_page": 574,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিন থেকে C–H বন্ধন শক্তি নির্ণয় (পরমাণুকরণ)",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন পরমাণু",
+     "formula": "C",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন পরমাণু",
+     "formula": "H",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₂H₄(g) → 2C(g) + 4H(g)",
+   "conditions": "গ্যাসীয়; ΔH = +2249.7 kJ",
+   "observations_bn": "C=C এর 615 kJ বাদ দিয়ে চার C–H এর মান 1634.7 kJ, অর্থাৎ প্রতিটি 408.675 kJ mol⁻¹।",
+   "procedure_bn": [],
+   "quantities_bn": "ΔHf (C₂H₄) = +52.3 kJ; H: 218×4; C: 715×2; ΔH = 4×218 + 2×715 − 52.3 = 2249.7 kJ।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-20",
+   "chapter_no": 4,
+   "section_no": "4.34.1",
+   "section_title_bn": "ল্যাভয়সিয়ের সূত্র",
+   "book_page": 575,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cu ও O₂ থেকে CuO গঠন ও বিপরীত বিয়োজন (ল্যাভয়সিয়ের সূত্র)",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউপ্রিক অক্সাইড",
+     "formula": "CuO",
+     "state": "solid"
+    }
+   ],
+   "equation": "Cu(s) + ½O₂(g) → CuO(s)",
+   "conditions": "ΔH = −157 kJ mol⁻¹; বিপরীত CuO → Cu + ½O₂ এ ΔH = +157 kJ (তাপ দিয়ে)",
+   "observations_bn": "গঠনের তাপ ও বিয়োজনের তাপ সমান মানের কিন্তু বিপরীত চিহ্নের।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-21",
+   "chapter_no": 4,
+   "section_no": "4.34.2",
+   "section_title_bn": "হেসের সূত্র",
+   "book_page": 576,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বন থেকে CO₂ এক ধাপে ও দুই ধাপে (হেসের সূত্র)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C(s) + O₂(g) → CO₂(g)",
+   "conditions": "অতিরিক্ত O₂ তে দহন; ΔH = −393.5 kJ mol⁻¹",
+   "observations_bn": "এক ধাপে বা CO হয়ে দুই ধাপে গেলেও মোট ΔH একই।",
+   "procedure_bn": [],
+   "quantities_bn": "ধাপ ১: C + ½O₂ → CO ΔH = −110.5; ধাপ ২: CO + ½O₂ → CO₂ ΔH = −283.0; যোগফল −393.5 kJ mol⁻¹।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-22",
+   "chapter_no": 4,
+   "section_no": "4.35",
+   "section_title_bn": "ল্যাভয়সিয়ে ও হেসের সূত্র প্রয়োগ করে বিক্রিয়া তাপ নির্ণয়",
+   "book_page": 577,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বন্ধন শক্তি দিয়ে H₂O(g) গঠনের বিক্রিয়া তাপ",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পানীয় বাষ্প",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂(g) + ½O₂(g) → H₂O(g)",
+   "conditions": "গ্যাসীয়; ΔH = −240.30 kJ mol⁻¹ (বন্ধন শক্তি থেকে)",
+   "observations_bn": "H–H ও O=O ভাঙার শক্তি থেকে দুটি O–H গঠনের শক্তি বিয়োগ করে হিসাব।",
+   "procedure_bn": [],
+   "quantities_bn": "435.50 + ½×498.40 − 2×462.50 = −240.30 kJ।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-23",
+   "chapter_no": 4,
+   "section_no": "4.35",
+   "section_title_bn": "ল্যাভয়সিয়ে ও হেসের সূত্র প্রয়োগ করে বিক্রিয়া তাপ নির্ণয়",
+   "book_page": 577,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CH₄ + Cl₂ → CH₃Cl + HCl (বিকল্প পদ্ধতিতে বিক্রিয়া তাপ)",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোমিথেন",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄(g) + Cl₂(g) → CH₃Cl(g) + HCl(g)",
+   "conditions": "গ্যাসীয়; ΔH = −110 kJ mol⁻¹ (বইয়ের মান)",
+   "observations_bn": "বইয়ের হিসাবে ভাঙা বন্ধন 1895 ও গঠিত 2005 kJ ধরে তাপমোচী মান পাওয়া গেছে।",
+   "procedure_bn": [],
+   "quantities_bn": "ভাঙা: 4×413 + 243 = 1895; গঠিত: 3×413 + 339 + 427 = 2005; ΔH = −110 kJ। বইয়ের ধাপে '1985' ছাপা আছে, যা অসঙ্গত।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-17-24",
+   "chapter_no": 4,
+   "section_no": "4.35",
+   "section_title_bn": "ল্যাভয়সিয়ে ও হেসের সূত্র প্রয়োগ করে বিক্রিয়া তাপ নির্ণয়",
+   "book_page": 578,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইন থেকে ইথেনে হাইড্রোজেনেশন (বন্ধন শক্তিতে তাপ)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "C₂H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "C₂H₆",
+     "state": "gas"
+    }
+   ],
+   "equation": "HC≡CH(g) + 2H₂(g) → CH₃–CH₃(g)",
+   "conditions": "গ্যাসীয়; ΔH = −728 kJ mol⁻¹ (বইয়ের হিসাব)",
+   "observations_bn": "ভাঙা বন্ধন 2097 kJ, গঠিত বন্ধন 2825 kJ; ফলে তাপমোচী।",
+   "procedure_bn": [],
+   "quantities_bn": "বইয়ের হিসাবে ভাঙা: 826 + 839 + 432 = 2097; গঠিত: 6×413 + 347 = 2825; ΔH = −728। দুই H–H ধরলে ভাঙা 2529 ও ΔH = −296 হতো; বইয়ের ছাপা মান −728 রাখা হয়েছে।",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-17-25",
+   "chapter_no": 4,
+   "section_no": "4.36",
+   "section_title_bn": "ব্যবহারিক : ক্যালরিমিতি পদ্ধতিতে অক্সালিক এসিডের দ্রবণ তাপ নির্ণয়",
+   "book_page": 579,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ক্যালরিমিতিতে অক্সালিক এসিডের দ্রবণ তাপ নির্ণয়",
+   "reactants": [
+    {
+     "name_bn": "অক্সালিক এসিড ডাইহাইড্রেট",
+     "formula": "(COOH)₂·2H₂O",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সালিক এসিড দ্রবণ",
+     "formula": "(COOH)₂(aq)",
+     "state": "solution"
+    }
+   ],
+   "equation": "(COOH)₂·2H₂O(s) + aq → (COOH)₂(aq) + 2H₂O",
+   "conditions": "room temp; ΔH ধনাত্মক (তাপগ্রাহী); ΔH = 4.184 × Δt kJ mol⁻¹ (সূত্র বইয়ে)",
+   "observations_bn": "দ্রবীভূত হতে তাপ শোষিত হয়, তাই তাপমাত্রা নামে; সর্বনিম্ন তাপমাত্রা লিখে Δt বের করা হয়।",
+   "procedure_bn": [
+    "ক্যালরিমিটারে 87.4 mL পানি নিয়ে প্রাথমিক তাপমাত্রা t₁ মাপো",
+    "12.6 g অক্সালিক এসিড দ্রুত মিশিয়ে কাচদণ্ডে নাড়ো",
+    "দ্রবণের সর্বনিম্ন তাপমাত্রা t₂ নোট করো",
+    "Δt = t₁ − t₂ নিয়ে ΔH = 4.184 × Δt ধরে গণনা করো"
+   ],
+   "quantities_bn": "12.6 g (0.1 mol) এসিড + 87.4 mL (87.4 g) পানি; ফলে 100 g দ্রবণ; 1 mol এর জন্য 1 M ধরা হয়েছে।",
+   "materials_bn": [
+    "ক্যালরিমিটার",
+    "বিকার",
+    "কাচদণ্ড",
+    "থার্মোমিটার",
+    "স্ট্যান্ড ও ক্ল্যাম্প",
+    "অক্সালিক এসিড",
+    "পানি"
+   ],
+   "safety_bn": "থার্মোমিটার যেন কাচদণ্ডের আঘাতে না ভাঙে; এসিড দ্রুত গুঁড়ো করে দ্রবীভূত করতে হবে।",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k11-17-26",
+   "chapter_no": 5,
+   "section_no": "5.1.2",
+   "section_title_bn": "খাদ্য নিরাপত্তার ভিত্তি",
+   "book_page": 591,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালোকসংশ্লেষণে গ্লুকোজ তৈরি",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+   "conditions": "সূর্যালোক, ক্লোরোফিল",
+   "observations_bn": "উদ্ভিদ আলোর উপস্থিতিতে শর্করা তৈরি করে ও অক্সিজেন ছাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-17-27",
+   "chapter_no": 5,
+   "section_no": "5.2.1",
+   "section_title_bn": "প্রাকৃতিক ফুড প্রিজারভেটিভস",
+   "book_page": 595,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "লবণ দিয়ে ইলিশ মাছের কিউরিং (সংরক্ষণ)",
+   "reactants": [
+    {
+     "name_bn": "ইলিশ মাছ",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লবণ-সংরক্ষিত মাছ",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "equation": "রাসায়নিক সমীকরণ নেই (ভৌত সংরক্ষণ)",
+   "conditions": "room temp; মাছ পরিষ্কার করে শুকানো",
+   "observations_bn": "লবণ মাছের পানি শুষে নেয়, ফলে অণুজীবের বৃদ্ধি আটকে থাকে।",
+   "procedure_bn": [
+    "মাছ কেটে ধুয়ে পানি ঝরানো",
+    "7–8% NaCl দ্রবণে প্রায় 10 মিনিট ডুবিয়ে তোলা",
+    "পাত্রে স্তরে স্তরে লবণ ছিটিয়ে মাছ সাজানো ও ঢাকনা দেওয়া"
+   ],
+   "quantities_bn": "4 কেজি মাছে 1 কেজি লবণ; 7–8% NaCl দ্রবণ; ঝরানো 10–15 মিনিট।",
+   "materials_bn": [
+    "ইলিশ মাছ",
+    "NaCl",
+    "মাটির পাত্র",
+    "চালুনি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 4,
+   "no": "4.31.5",
+   "title_bn": "প্রশমন তাপ",
+   "start_page": 565
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.31.6",
+   "title_bn": "প্রমাণ সংগঠন তাপ",
+   "start_page": 565
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.32",
+   "title_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ",
+   "start_page": 568
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.33",
+   "title_bn": "বিক্রিয়া তাপ ও বন্ধন শক্তি",
+   "start_page": 571
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.33.1",
+   "title_bn": "বিক্রিয়া তাপ",
+   "start_page": 571
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.33.2",
+   "title_bn": "বন্ধন শক্তি",
+   "start_page": 571
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.34",
+   "title_bn": "ল্যাভয়সিয়ে ও হেসের সূত্র",
+   "start_page": 574
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.34.1",
+   "title_bn": "ল্যাভয়সিয়ের সূত্র",
+   "start_page": 574
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.34.2",
+   "title_bn": "হেসের সূত্র",
+   "start_page": 575
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.35",
+   "title_bn": "ল্যাভয়সিয়ে ও হেসের সূত্র প্রয়োগ করে বিক্রিয়া তাপ নির্ণয়",
+   "start_page": 576
+  },
+  {
+   "chapter_no": 4,
+   "no": "4.36",
+   "title_bn": "ব্যবহারিক : ক্যালরিমিতি পদ্ধতিতে অক্সালিক এসিডের দ্রবণ তাপ নির্ণয়",
+   "start_page": 578
+  },
+  {
+   "chapter_no": 5,
+   "no": "5",
+   "title_bn": "কর্মমুখী রসায়ন (অধ্যায় ৫)",
+   "start_page": 589
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.1",
+   "title_bn": "খাদ্য নিরাপত্তা ও রসায়ন",
+   "start_page": 590
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.1.1",
+   "title_bn": "খাদ্য নিরাপত্তা",
+   "start_page": 590
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.1.2",
+   "title_bn": "খাদ্য নিরাপত্তার ভিত্তি",
+   "start_page": 591
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.2",
+   "title_bn": "অনুমোদিত প্রিজারভেটিভস-এর খাদ্য সংরক্ষণ কৌশল",
+   "start_page": 595
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.2.1",
+   "title_bn": "প্রাকৃতিক ফুড প্রিজারভেটিভস",
+   "start_page": 595
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.2.2",
+   "title_bn": "কৃত্রিম বা রাসায়নিক ফুড প্রিজারভেটিভস",
+   "start_page": 597
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "পৃ. ৫৬৫–৫৭৯ অধ্যায় ৪ (তাপ রসায়ন); ৫৮০–৫৮৮ সার-সংক্ষেপ ও প্রশ্ন (বাদ); অধ্যায় ৫ শুরু ৫৮৯। ছাপা শিরোনাম '৪.৩১.৫' ইত্যাদি এখানে 4.31.5 রূপে ধরা। অধ্যায় ৫ এ প্রিজারভেটিভের (সরবিক এসিড, SO₂ ইত্যাদি) কোনো সমীকরণ ছাপা নেই। ৫৯২ পৃষ্ঠার লবণাক্ত জমি ও pH আলোচনা বিক্রিয়াহীন, বাদ।"
+}

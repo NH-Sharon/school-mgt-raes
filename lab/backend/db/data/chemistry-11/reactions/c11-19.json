@@ -1,0 +1,1936 @@
+{
+ "book": "NCTB Class 11 Chemistry (First Part), chapter 5 কর্মমুখী রসায়ন",
+ "chunk_pdf_pages": [
+  633,
+  664
+ ],
+ "page_offset_note": "printed page = pdf page + 2",
+ "pages_read": 32,
+ "items": [
+  {
+   "id": "k11-19-01",
+   "chapter_no": 5,
+   "section_no": "",
+   "section_title_bn": "(পূর্ববর্তী অনুচ্ছেদের শিরোনাম এই পাতায় নেই)",
+   "book_page": 635,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ঘরে বসে দুধ থেকে মাখন আলাদা করা",
+   "reactants": [
+    {
+     "name_bn": "দুধ",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মাখন",
+     "formula": "",
+     "state": "solid"
+    },
+    {
+     "name_bn": "বাটার মিল্ক",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp; হাতে/বাঁশের ফালিতে মন্থন",
+   "observations_bn": "মন্থনে মাখন ভেসে ওঠে ও ঘোল আলাদা হয়।",
+   "procedure_bn": [
+    "পাত্রে দুধ নিয়ে বাঁশের টুকরা ঢুকাও",
+    "রশি/হাতে ঘুরিয়ে মন্থন করো",
+    "উপরের মাখন তুলে নাও"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "দুধ",
+    "ফাঁপা বাঁশের টুকরা",
+    "রশি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-02",
+   "chapter_no": 5,
+   "section_no": "৫.১০",
+   "section_title_bn": "মাখন থেকে ঘি উৎপাদন",
+   "book_page": 636,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "মাখন থেকে ঘি প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "মাখন",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ঘি",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "মৃদু তাপ; ~94 °C এ পানি বাষ্প, 110–120 °C এ কণা জমে",
+   "observations_bn": "গলে ঘন হয়, বুদবুদ ওঠে, শেষে অবশিষ্ট কণা তলায় জমে সোনালি ঘি পাওয়া যায়।",
+   "procedure_bn": [
+    "মাখন কড়াইয়ে মৃদু তাপে গলাও",
+    "তাপ বাড়িয়ে পানি বাষ্পীভূত করো",
+    "দানা জমলে নামিয়ে ছেঁকে নাও"
+   ],
+   "quantities_bn": "গলা শুরু ~30 °C, সম্পূর্ণ ~64 °C; 110 °C ও 120 °C উল্লেখিত",
+   "materials_bn": [
+    "মাখন",
+    "লোহা/অ্যালুমিনিয়ামের কড়াই"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-03",
+   "chapter_no": 5,
+   "section_no": "৫.১১.১",
+   "section_title_bn": "গোলাপ জল (Rose Water)",
+   "book_page": 638,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "বাষ্পপাতনে গোলাপ জল প্রস্তুতি (ল্যাব)",
+   "reactants": [
+    {
+     "name_bn": "গোলাপ পাপড়ি",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গোলাপ জল (পাতিত)",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "স্টিম জেনারেটরসহ বাষ্পপাতন, লিবিগ শীতক",
+   "observations_bn": "বাষ্পের সাথে সুগন্ধি পাতিত হয়ে গ্রাহক পাত্রে জমে।",
+   "procedure_bn": [
+    "পাতন ফ্লাস্কে তাজা পাপড়ি নাও",
+    "স্টিম নল ও লিবিগ শীতক যুক্ত করো",
+    "বাষ্প ও নির্গত বাষ্পের পরিমাণ সমান রাখো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পাতন ফ্লাস্ক",
+    "স্টিম উৎস",
+    "লিবিগ শীতক",
+    "গ্রাহক ফ্লাস্ক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-04",
+   "chapter_no": 5,
+   "section_no": "৫.১১.১",
+   "section_title_bn": "গোলাপ জল (Rose Water)",
+   "book_page": 639,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কৃত্রিম গোলাপ জল প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ফিনাইল ইথানল",
+     "formula": "C₆H₅CH₂CH₂OH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "রোডিনাল",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "সিট্রোনিলল",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "লিনালল",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "জার্মাইল ফরমেট",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "প্যাচুলী তেল",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কৃত্রিম গোলাপ জল",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp, ঝাঁকানো",
+   "observations_bn": "সুগন্ধি উপাদানের মিশ্রণ তৈরি হয়।",
+   "procedure_bn": [
+    "উপাদানগুলো প্লাস্টিক পাত্রে নাও",
+    "ভালোভাবে ঝাঁকাও",
+    "কর্ক এঁটে রাখো"
+   ],
+   "quantities_bn": "ফিনাইল ইথানল 100 mL, রোডিনাল 500 mL, সিট্রোনিলল 200 mL, লিনালল 150 mL, জার্মাইল ফরমেট 30 mL, প্যাচুলী তেল 20 mL (এক লিটারের জন্য)",
+   "materials_bn": [
+    "উপাদান"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-05",
+   "chapter_no": 5,
+   "section_no": "৫.১১.২",
+   "section_title_bn": "হেয়ার অয়েল (Hair Oil)",
+   "book_page": 640,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "নারকেল দুধ থেকে হেয়ার অয়েল",
+   "reactants": [
+    {
+     "name_bn": "নারকেল দুধ",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "ব্রাহ্মি পাউডার",
+     "formula": "",
+     "state": "powder",
+     "form": ""
+    },
+    {
+     "name_bn": "অ্যালোভেরা পেস্ট",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "তুলসী পাতার পেস্ট",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেয়ার অয়েল",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "মৃদু তাপ, কড়াইয়ে",
+   "observations_bn": "নিচে বাদামি অবশেষ জমে, উপরে তেল ভাসে।",
+   "procedure_bn": [
+    "মিক্ক নারকেল তেলে ভেষজ পেস্ট মেশাও",
+    "কড়াইয়ে ধীরে জ্বাল দাও",
+    "ছেঁকে তেল সংগ্রহ করো"
+   ],
+   "quantities_bn": "2 L মিল্কে ব্রাহ্মি 5 চামচ, অ্যালোভেরা 2 চামচ, তুলসী পেস্ট 1 চামচ",
+   "materials_bn": [
+    "নারকেল মিল্ক",
+    "ব্রাহ্মি",
+    "অ্যালোভেরা",
+    "তুলসী"
+   ],
+   "safety_bn": "তেল পুড়ে না যায় লক্ষ রাখো",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-06",
+   "chapter_no": 5,
+   "section_no": "৫.১১.৩",
+   "section_title_bn": "টেলকম পাউডার (Talcum Powder)",
+   "book_page": 641,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "টেলকম পাউডার প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ট্যালক 3MgO·4SiO₂·H₂O",
+     "formula": "3MgO·4SiO₂·H₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "জিংক/ম্যাগনেসিয়াম স্টিয়ারেট",
+     "formula": "",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম/ম্যাগনেসিয়াম কার্বোনেট",
+     "formula": "CaCO₃/MgCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "বোরিক এসিড",
+     "formula": "H₃BO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "মেনথল",
+     "formula": "C₁₀H₂₀O",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেলকম পাউডার",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp, মিশ্রণ ও ঝাঁকানো",
+   "observations_bn": "সাদা মিহি পাউডার তৈরি হয়।",
+   "procedure_bn": [
+    "উপাদানগুলো মিহি চূর্ণ করো",
+    "ঝাঁকিয়ে মিশিয়ে 24 ঘণ্টা রাখো",
+    "বক্সে 0.5% মেনথল স্প্রে করে মেশাও"
+   ],
+   "quantities_bn": "ট্যালক 86 g, স্টিয়ারেট 5 g, কার্বোনেট 5 g, বোরিক এসিড 2 g, অন্যান্য 1.5 g, মেনথল 0.5 g (100 g)",
+   "materials_bn": [
+    "উপাদান",
+    "ছাঁকনি/কৌটা"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-07",
+   "chapter_no": 5,
+   "section_no": "৫.১১.৪",
+   "section_title_bn": "স্নো (Snow)",
+   "book_page": 642,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "স্নো (ভ্যানিশিং ধরনের ক্রিম) প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "সয়াবিন তেল",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "গ্লিসারিন",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম মিথাইল সালফেট",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "স্নো",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "উভয় গ্রুপ 75–85 °C এ গরম; 35 °C এ সুগন্ধি",
+   "observations_bn": "মিশ্রণ ঠান্ডায় ঘন ক্রিম হয়।",
+   "procedure_bn": [
+    "ক ও খ গ্রুপ আলাদা পাত্রে 75–85 °C এ গরম করো",
+    "ক-এ খ ধীরে মিশিয়ে নাড়ো",
+    "35 °C এ প্রিজারভেটিভ ও সুগন্ধি দাও"
+   ],
+   "quantities_bn": "ক: তেল 7.5 g, এসিটাইল অ্যালকোহল 2 g, আইসো প্রোপাইল লিমোনেট 1 g, PEG 12.5 g, গ্লিসারিল মনোস্টিয়ারেট 7.5 g; খ: SMS 1.2 g, গ্লিসারিন 8.0 g, পানি 60.3 g",
+   "materials_bn": [
+    "সয়াবিন তেল",
+    "এসিটাইল অ্যালকোহল",
+    "পলিইথাইলিন গ্লাইকল",
+    "গ্লিসারিল মনোস্টিয়ারেট",
+    "গ্লিসারিন",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-08",
+   "chapter_no": 5,
+   "section_no": "৫.১১.৫",
+   "section_title_bn": "কোল্ড ক্রিম (Cold Cream)",
+   "book_page": 643,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "কোল্ড ক্রিম প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "তরল প্যারাফিন",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "শক্ত প্যারাফিন",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "মোম",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "গ্লিসারিন",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "প্রোপাইল প্যারাবিন",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কোল্ড ক্রিম",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "গরম পানির উপর উত্তপ্ত, অনবরত নাড়া",
+   "observations_bn": "মিশ্রণ ঠান্ডা হয়ে ক্রিম হয়।",
+   "procedure_bn": [
+    "মোম ও প্যারাফিন গলাও",
+    "গ্লিসারিন-পানি-প্রিজারভেটিভ আলাদা গরম করো",
+    "দুটি মিশিয়ে নাড়তে নাড়তে ঠান্ডা করো"
+   ],
+   "quantities_bn": "তরল প্যারাফিন 40 g, শক্ত প্যারাফিন 9 g, মোম 7 g, গ্লিসারিন 9 g, পানি 35 g, প্রোপাইল প্যারাবিন 0.2 g",
+   "materials_bn": [
+    "উপাদানগুলো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-09",
+   "chapter_no": 5,
+   "section_no": "৫.১১.৬",
+   "section_title_bn": "লিপস্টিক (Lipstick)",
+   "book_page": 644,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "লিপস্টিক প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "মোম, তেল, ল্যানোলিন, রঞ্জক",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিপস্টিক",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "উত্তপ্ত গলিত মিশ্রণ, ~54 °C এ রাখা, ছাঁচে ঢালা",
+   "observations_bn": "গলিত মিশ্রণ রঙ ও মোমসহ ছাঁচে জমে।",
+   "procedure_bn": [
+    "মোম-তেল আলাদা গলাও",
+    "মিশিয়ে রঙ মেশাও",
+    "রোলারে মসৃণ করে ছাঁচে ঢালো"
+   ],
+   "quantities_bn": "প্রথম ফর্মুলা: ওলেইল অ্যালকোহল 30, লোরামাইন 20, ল্যানোলিন 10, কোকো বাটার 5.5, মৌচাকের মোম 4, ওজোকেরাইট 18, কমোবা মোম 4, খনিজ তেল 29, ইয়োসিন লবণ 2 (শতকরা g)",
+   "materials_bn": [
+    "মোম",
+    "তেল",
+    "রঞ্জক",
+    "সুগন্ধি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-10",
+   "chapter_no": 5,
+   "section_no": "৫.১১.৭",
+   "section_title_bn": "আফটার শেভ লোশন (After shave Lotion)",
+   "book_page": 645,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "আফটার শেভ লোশন প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ক্যামোমিল টিংচার",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "পাতিত পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "হ্যামামেলিস নির্যাস",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "ল্যাকটিক এসিড",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আফটার শেভ লোশন",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "উপাদান মিশে স্বচ্ছ লোশন হয়।",
+   "procedure_bn": [
+    "ক্যামোমিল ফুল অ্যালকোহলে 2 দিন ভিজিয়ে টিংচার করো",
+    "সব উপাদান অ্যালকোহলে দ্রবীভূত করো",
+    "পানি মিশিয়ে ঝাঁকাও"
+   ],
+   "quantities_bn": "গ্লিসারিন/অলিভ তেল 2 mL, অ্যালকোহল 60 mL, পাতিত পানি 15 mL, হ্যামামেলিস 12 mL, ল্যাকটিক এসিড 0.5 mL, ক্যামোমিল টিংচার 5 mL (100 mL)",
+   "materials_bn": [
+    "উপাদান"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-11",
+   "chapter_no": 5,
+   "section_no": "৫.১১.৮",
+   "section_title_bn": "মেহেদি (Henna)",
+   "book_page": 646,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "মেহেদি পেস্ট প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "হেনা পাউডার",
+     "formula": "",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "লেবুর রস",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "চিনি",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "কফি/চা",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মেহেদির পেস্ট",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp, 6–10 ঘণ্টা গরম স্থানে রাখা",
+   "observations_bn": "পেস্ট থেকে লাসোন রঞ্জক মুক্ত হয়ে ত্বকে লালচে রঙ ধরায়।",
+   "procedure_bn": [
+    "হেনা, লেবুর রস, চিনি ও কফি মেশাও",
+    "ঢেকে 6–10 ঘণ্টা রাখো",
+    "এসেনশিয়াল তেল দিয়ে টিউবে ভরো"
+   ],
+   "quantities_bn": "হেনা 20 g, লেবুর রস 1/4 কাপ, চিনি 1 চামচ, মেথি 1/2 চামচ",
+   "materials_bn": [
+    "হেনা",
+    "লেবু",
+    "চিনি",
+    "মেথিগুঁড়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-12",
+   "chapter_no": 5,
+   "section_no": "৫.১২",
+   "section_title_bn": "ব্যবহারিক : টুথপেস্ট প্রস্তুতির প্রণালি",
+   "book_page": 647,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "টুথপেস্ট প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ডাই ক্যালসিয়াম ফসফেট",
+     "formula": "CaHPO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "চক পাউডার",
+     "formula": "CaCO₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গ্লিসারিন",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "গাম ট্রাগাকান্থ",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টুথপেস্ট",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "~100 °C পর্যন্ত গরম, তারপর ঠান্ডা",
+   "observations_bn": "মিশ্রণ ঘন পেস্টে পরিণত হয়।",
+   "procedure_bn": [
+    "গ্লিসারিন-পানি গরম করে স্যাকারিন, গাম মেশাও",
+    "চক ও ডাই ক্যালসিয়াম ফসফেট আলাদা মেশাও",
+    "দুটো মিশিয়ে ঠান্ডা করে মেনথল ও পিপারমেন্ট তেল দাও"
+   ],
+   "quantities_bn": "DCP 10 g, চক 30 g, গ্লিসারিন 15 g, গাম মিউসিলেজ 5.5 g, SLS 2 g, তরল প্যারাফিন 1 g, পিপারমেন্ট 1 g, স্যাকারিন 0.1 g, সোডিয়াম বেনজোয়েট 0.2 g, মেনথল 0.2 g, পানি 35 g",
+   "materials_bn": [
+    "উপাদানগুলো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-13",
+   "chapter_no": 5,
+   "section_no": "৫.১৩",
+   "section_title_bn": "শিক্ষার্থীর কাজ : যেকোনো দুইটি টয়লেট্রিজ উৎপাদন",
+   "book_page": 648,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ভ্যানিশিং ক্রিম প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "পাতিত পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "স্টিয়ারিক এসিড",
+     "formula": "C₁₇H₃₅COOH",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "গ্লিসারিন",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "কস্টিক পটাশ",
+     "formula": "KOH",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভ্যানিশিং ক্রিম",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "গরম করে নাড়া, পরে ঠান্ডা",
+   "observations_bn": "স্টিয়ারিক এসিড কস্টিক পটাশে মিশে ক্রিম গঠন করে।",
+   "procedure_bn": [
+    "গ্লিসারিন-পানি গরম করো",
+    "অল্প অল্প স্টিয়ারিক এসিড ও KOH মেশাও",
+    "ঠান্ডা হলে সুগন্ধি ও প্রিজারভেটিভ দাও"
+   ],
+   "quantities_bn": "পানি 74.6 g, স্টিয়ারিক এসিড 20 g, গ্লিসারিন 4 g, KOH 1.4 g",
+   "materials_bn": [
+    "পানি",
+    "স্টিয়ারিক এসিড",
+    "গ্লিসারিন",
+    "KOH"
+   ],
+   "safety_bn": "কস্টিক পটাশ ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-14",
+   "chapter_no": 5,
+   "section_no": "৫.১৩",
+   "section_title_bn": "শিক্ষার্থীর কাজ : যেকোনো দুইটি টয়লেট্রিজ উৎপাদন",
+   "book_page": 648,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "লোমনাশক ক্রিম প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "চিনি",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "মধু",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "লেবুর রস",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লোমনাশক ক্রিম",
+     "formula": "",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "অল্প আঁচে গরম, ঘন হলে নামানো",
+   "observations_bn": "মিশ্রণ ঘন হয়ে ক্রিম তৈরি হয়।",
+   "procedure_bn": [
+    "পানিসহ চিনি-মধু গরম করো",
+    "ঘন হলে লেবুর রস মেশাও",
+    "ঠান্ডা করে কৌটায় রাখো"
+   ],
+   "quantities_bn": "চিনি 1 কাপ, মধু 1 কাপ, লেবুর রস আধা কাপ",
+   "materials_bn": [
+    "চিনি",
+    "মধু",
+    "লেবু"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-15",
+   "chapter_no": 5,
+   "section_no": "৫.১৩",
+   "section_title_bn": "শিক্ষার্থীর কাজ : যেকোনো দুইটি টয়লেট্রিজ উৎপাদন",
+   "book_page": 649,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "আফটার শেভ লোশন (ল্যাব পদ্ধতি)",
+   "reactants": [
+    {
+     "name_bn": "রেক্টিফাইড স্পিরিট",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "পাতিত পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "গ্লিসারিন",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "বোরিক এসিড",
+     "formula": "H₃BO₃",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "মেনথল",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আফটার শেভ লোশন",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "উপাদান মিশে লোশন হয়, ছেঁকে রাখা হয়।",
+   "procedure_bn": [
+    "উপাদান বিকারে ওজন করো",
+    "নেড়ে দ্রবীভূত করো",
+    "পানি মেশিয়ে ফিল্টার করে রাখো"
+   ],
+   "quantities_bn": "স্পিরিট 60 mL, পানি 32 mL, গ্লিসারিন ও সরবিটল 5 g, বোরিক এসিড 2 g, পারফিউম 1 g, মেনথল 0.1 g, অ্যালানটোন 0.2 g, বেনজোসাইয়ান 0.02 g (250 mL এর জন্য মাপ ভিন্ন হতে পারে)",
+   "materials_bn": [
+    "বিকার",
+    "মেজারিং সিলিন্ডার",
+    "ফিল্টার পেপার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-16",
+   "chapter_no": 5,
+   "section_no": "৫.১৩",
+   "section_title_bn": "শিক্ষার্থীর কাজ : যেকোনো দুইটি টয়লেট্রিজ উৎপাদন",
+   "book_page": 650,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "শ্যাম্পু প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ডিটারজেন্ট",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম অ্যালুমিনেট",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "প্রোটিন",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "শ্যাম্পু",
+     "formula": "",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "মৃদু গরম, নাড়া",
+   "observations_bn": "মিশ্রণ গরমে সমজাতীয় হয়।",
+   "procedure_bn": [
+    "পানি ও ডিটারজেন্ট, অ্যালুমিনেট, প্রোটিন মেশাও",
+    "গরম করে নাড়ো",
+    "ইথানল, সুগন্ধি ও রঞ্জক দিয়ে ঠান্ডা করো"
+   ],
+   "quantities_bn": "ডিটারজেন্ট 15 g, সোডিয়াম অ্যালুমিনেট 5 g, ইথানল 8 mL, পানি 70 mL, প্রোটিন 2 g (100 mL)",
+   "materials_bn": [
+    "বিকার",
+    "বুনসেন বার্নার",
+    "ব্যালেন্স"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-17",
+   "chapter_no": 5,
+   "section_no": "৫.১৪",
+   "section_title_bn": "গ্লাস ক্লিনার প্রস্তুতি (Preparation of Glass Cleaner)",
+   "book_page": 651,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "গ্লাস ক্লিনার প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "লিকার অ্যামোনিয়া",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "রাবিং অ্যালকোহল",
+     "formula": "(CH₃)₂CHOH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম লরাইল সালফেট",
+     "formula": "C₁₂H₂₅OSO₃Na",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "ইথিলিন গ্লাইকল",
+     "formula": "(CH₂OH)₂",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লাস ক্লিনার",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "মিশ্রণ স্বচ্ছ পরিষ্কারক হয়, অ্যামোনিয়ার তীব্র গন্ধ থাকে।",
+   "procedure_bn": [
+    "বোতলে লিকার অ্যামোনিয়া নাও",
+    "রাবিং অ্যালকোহল ও সারফেক্ট্যান্ট মেশাও",
+    "ইথিলিন গ্লাইকল ও পানি মিশিয়ে নাড়ো"
+   ],
+   "quantities_bn": "100 mL এর জন্য: NH₄OH 2.0 mL, রাবিং অ্যালকোহল 18 mL, SLS 2 mL, ইথিলিন গ্লাইকল 2 mL, পানি 76 mL",
+   "materials_bn": [
+    "200–250 mL বোতল",
+    "মেজারিং সিলিন্ডার"
+   ],
+   "safety_bn": "আগুন থেকে দূরে রাখো; চোখে লাগলে প্রচুর পানি দাও",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-18",
+   "chapter_no": 5,
+   "section_no": "৫.১৪",
+   "section_title_bn": "গ্লাস ক্লিনার প্রস্তুতি (Preparation of Glass Cleaner)",
+   "book_page": 651,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কস্টিক সোডা ও কাচ (সিলিকা) বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "সিলিকন ডাইঅক্সাইড",
+     "formula": "SiO₂",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সিলিকেট",
+     "formula": "Na₂SiO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaOH + SiO₂ → Na₂SiO₃ + H₂O",
+   "conditions": "room temp (কাচ ক্ষয় করে)",
+   "observations_bn": "কাচ ক্ষয় হয়ে মসৃণতা নষ্ট হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaOH",
+    "কাচ"
+   ],
+   "safety_bn": "কাচে কস্টিক সোডা ব্যবহার করা যাবে না",
+   "confidence": "read",
+   "equation_printed": "2NaOH + SiO₂ → Na₂SiO₃ + H₂O (p651); NaOH(aq)+SiO₂(s)→Na₂SiO₃(s)+H₂O(l) (p655, অসমতা)"
+  },
+  {
+   "id": "k11-19-19",
+   "chapter_no": 5,
+   "section_no": "৫.১৫",
+   "section_title_bn": "টয়লেট ক্লিনার প্রস্তুতি",
+   "book_page": 652,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "টয়লেট ক্লিনার প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "কস্টিক সোডা",
+     "formula": "NaOH",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "তরল সাবান",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "খাদ্য লবণ",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "ভিনেগার",
+     "formula": "",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "বোরাক্স",
+     "formula": "Na₂B₄O₇",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টয়লেট ক্লিনার",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp, পানিতে ঝাঁকানো",
+   "observations_bn": "মিশ্রণ ক্লিনার হয়।",
+   "procedure_bn": [
+    "কস্টিক সোডা, সাবান, লবণ, ভিনেগার ও পানি মেশাও",
+    "বোরাক্স যোগ করো",
+    "জারে ঝাঁকিয়ে রাখো"
+   ],
+   "quantities_bn": "কস্টিক সোডা 2 কাপ, তরল সাবান আধা কাপ, লবণ 1 টেবিল চামচ, ভিনেগার 2 টেবিল চামচ, বোরাক্স আধা কাপ",
+   "materials_bn": [
+    "প্লাস্টিক জার",
+    "রাবার গ্লাভস"
+   ],
+   "safety_bn": "কস্টিক সোডা ক্ষয়কারী; হাতে না ধরা, চোখে লাগলে পানি দিয়ে ধোয়া",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-20",
+   "chapter_no": 5,
+   "section_no": "৫.১৬.১",
+   "section_title_bn": "টয়লেট ক্লিনারের পরিষ্কারকরণ কৌশল",
+   "book_page": 652,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "চর্বি/তেলের সাবানীকরণ (কস্টিক সোডা)",
+   "reactants": [
+    {
+     "name_bn": "চর্বি (ট্রাইগ্লিসারাইড)",
+     "formula": "CH₂(COOR)CH(COOR)CH₂(COOR)",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লিসারিন",
+     "formula": "C₃H₅(OH)₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সাবান",
+     "formula": "RCOONa",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₃H₅(COOR)₃ + 3NaOH → C₃H₅(OH)₃ + 3RCOONa",
+   "conditions": "room temp, ক্ষারীয় মাধ্যম",
+   "observations_bn": "চর্বি সাবানে পরিণত হয়ে পানিতে ধোয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "চর্বি",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-21",
+   "chapter_no": 5,
+   "section_no": "৫.১৬.১",
+   "section_title_bn": "টয়লেট ক্লিনারের পরিষ্কারকরণ কৌশল",
+   "book_page": 653,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ব্লিচিং পাউডার থেকে ক্লোরিন মুক্তি",
+   "reactants": [
+    {
+     "name_bn": "ব্লিচিং পাউডার",
+     "formula": "Ca(OCl)Cl",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Ca(OCl)Cl + H₂O → Ca(OH)₂ + Cl₂↑",
+   "conditions": "পানিতে",
+   "observations_bn": "ক্লোরিন গ্যাস ও ক্ষার তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ব্লিচিং পাউডার",
+    "পানি"
+   ],
+   "safety_bn": "ক্লোরিন বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-22",
+   "chapter_no": 5,
+   "section_no": "৫.১৬.১",
+   "section_title_bn": "টয়লেট ক্লিনারের পরিষ্কারকরণ কৌশল",
+   "book_page": 653,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন ও পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HOCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "Cl₂ + H₂O → HCl + HOCl",
+   "conditions": "জলীয় মাধ্যম",
+   "observations_bn": "হাইপোক্লোরাস এসিড উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cl₂",
+    "H₂O"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-23",
+   "chapter_no": 5,
+   "section_no": "৫.১৬.১",
+   "section_title_bn": "টয়লেট ক্লিনারের পরিষ্কারকরণ কৌশল",
+   "book_page": 653,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "HOCl থেকে নতুন অক্সিজেন ও ব্লিচিং",
+   "reactants": [
+    {
+     "name_bn": "হাইপোক্লোরাস এসিড",
+     "formula": "HOCl",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নবজাত অক্সিজেন",
+     "formula": "[O]",
+     "state": "gas"
+    }
+   ],
+   "equation": "HOCl → HCl + [O]",
+   "conditions": "জলীয় মাধ্যম",
+   "observations_bn": "নবজাত অক্সিজেন জীবাণু ও রঙিন দাগ নষ্ট করে বিবর্ণ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HOCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-24",
+   "chapter_no": 5,
+   "section_no": "৫.১৬.১",
+   "section_title_bn": "টয়লেট ক্লিনারের পরিষ্কারকরণ কৌশল",
+   "book_page": 654,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পোর্সেলিন গ্লেজিং: NaCl ও স্টিম",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "স্টিম",
+     "formula": "H₂O",
+     "state": "gas",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অক্সাইড",
+     "formula": "Na₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaCl + H₂O → Na₂O + 2HCl↑",
+   "conditions": "1600 °C",
+   "observations_bn": "Na₂O উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaCl",
+    "স্টিম"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "equation_printed": "NaCl(s) + H₂O(স্টিম) → Na₂O(s) + 2HCl(g)"
+  },
+  {
+   "id": "k11-19-25",
+   "chapter_no": 5,
+   "section_no": "৫.১৬.১",
+   "section_title_bn": "টয়লেট ক্লিনারের পরিষ্কারকরণ কৌশল",
+   "book_page": 654,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Na₂O ও SiO₂ থেকে সোডিয়াম সিলিকেট গ্লেজ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম অক্সাইড",
+     "formula": "Na₂O",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "সিলিকন ডাইঅক্সাইড",
+     "formula": "SiO₂",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সিলিকেট",
+     "formula": "Na₂SiO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Na₂O + SiO₂ → Na₂SiO₃",
+   "conditions": "1600 °C",
+   "observations_bn": "মসৃণ গ্লেজ গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na₂O",
+    "SiO₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-26",
+   "chapter_no": 5,
+   "section_no": "৫.১৮",
+   "section_title_bn": "ইথানয়িক এসিড থেকে ভিনেগার প্রস্তুতি",
+   "book_page": 656,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানল থেকে অ্যাসিটিক এসিড (মাইকোডার্মা অ্যাসিটি)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OH + O₂ → CH₃COOH + H₂O",
+   "conditions": "35 °C, মাইকোডার্মা অ্যাসিটি ব্যাকটেরিয়া",
+   "observations_bn": "ব্যাকটেরিয়া ইথানলকে এসিডে জারিত করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "10% ইথানল",
+    "বাতাস",
+    "কাঠের গুঁড়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-27",
+   "chapter_no": 5,
+   "section_no": "৫.১৮",
+   "section_title_bn": "ইথানয়িক এসিড থেকে ভিনেগার প্রস্তুতি",
+   "book_page": 656,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "কুইক পদ্ধতিতে ভিনেগার প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "10% ইথানল দ্রবণ",
+     "formula": "",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "কাঠের গুঁড়া",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ফসফেট/সালফেট",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভিনেগার (6–10% CH₃COOH)",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "35 °C বায়ু প্রবাহ; ~1 ঘণ্টা প্রক্রিয়া; পরে 3 মাস এজিং",
+   "observations_bn": "দ্রবণ নিচ দিয়ে এসিড হয়ে বের হয়।",
+   "procedure_bn": [
+    "বাক্সে ভেজা কাঠের গুঁড়া ও লবণ দাও",
+    "উপর থেকে ইথানল ঢালো, নিচে বায়ু দাও",
+    "সংগ্রহ করে 3 মাস অন্ধকারে রাখো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কাঠের বাক্স",
+    "ইথানল",
+    "গুঁড়া"
+   ],
+   "safety_bn": "24 °C এর নিচে নয়, ধাতব পাত্র নয়",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-28",
+   "chapter_no": 5,
+   "section_no": "৫.১৯",
+   "section_title_bn": "প্রজেক্ট : আখের রস হতে মল্ট ভিনেগার প্রস্তুতি",
+   "book_page": 657,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইনভারটেজ দ্বারা সুক্রোজ বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "সুক্রোজ",
+     "formula": "C₁₂H₂₂O₁₁",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লুকোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফ্রুক্টোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ + C₆H₁₂O₆",
+   "conditions": "30 °C, ইনভারটেজ এনজাইম",
+   "observations_bn": "আখের চিনি দুই সরল শর্করায় ভাঙে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "আখের রস",
+    "ইস্ট"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-29",
+   "chapter_no": 5,
+   "section_no": "৫.১৯",
+   "section_title_bn": "প্রজেক্ট : আখের রস হতে মল্ট ভিনেগার প্রস্তুতি",
+   "book_page": 657,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জাইমেজ দ্বারা গ্লুকোজ গাঁজন",
+   "reactants": [
+    {
+     "name_bn": "গ্লুকোজ/ফ্রুক্টোজ",
+     "formula": "C₆H₁₂O₆",
+     "state": "solution",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₁₂O₆ → 2CH₃CH₂OH + 2CO₂↑",
+   "conditions": "30 °C, জাইমেজ এনজাইম",
+   "observations_bn": "CO₂ ও ফেনা তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "আখের রস",
+    "ইস্ট"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "equation_printed": "2C₆H₁₂O₆ → 4CH₃CH₂OH + 4CO₂"
+  },
+  {
+   "id": "k11-19-30",
+   "chapter_no": 5,
+   "section_no": "৫.১৯",
+   "section_title_bn": "প্রজেক্ট : আখের রস হতে মল্ট ভিনেগার প্রস্তুতি",
+   "book_page": 657,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "আখের রস থেকে মল্ট ভিনেগার",
+   "reactants": [
+    {
+     "name_bn": "আখের রস",
+     "formula": "",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "ইস্ট",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "(NH₄)₂SO₄, (NH₄)₃PO₄",
+     "formula": "",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মল্ট ভিনেগার",
+     "formula": "",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "25–30 °C; 3 দিন গাঁজন, পরে 30–35 °C এ জারণ ও এজিং",
+   "observations_bn": "রস গাঁজনে ইথানল, পরে ভিনেগারে পরিণত হয়।",
+   "procedure_bn": [
+    "রস ফুটিয়ে 1/3 করো, 2–2.5 mL লঘু H₂SO₄ দাও",
+    "সার ও ইস্ট দিয়ে 3 দিন গাঁজাও",
+    "ইথানল দ্রবণ কাঠের গুঁড়ায় ছিটিয়ে ভিনেগার করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "আখের রস",
+    "ইস্ট",
+    "H₂SO₄ লঘু"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-31",
+   "chapter_no": 5,
+   "section_no": "৫.১৯.১",
+   "section_title_bn": "পরীক্ষাগারে ভিনেগার প্রস্তুতি",
+   "book_page": 658,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "গ্লেসিয়াল অ্যাসিটিক এসিড থেকে ল্যাবে ভিনেগার",
+   "reactants": [
+    {
+     "name_bn": "গ্লেসিয়াল অ্যাসিটিক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": ""
+    },
+    {
+     "name_bn": "পাতিত পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ভিনেগার (6–10% CH₃COOH)",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "",
+   "conditions": "room temp",
+   "observations_bn": "পরিমাপক ফ্লাস্কে 6–10% দ্রবণ তৈরি, pH 2–3।",
+   "procedure_bn": [
+    "20–25 mL পানি ফ্লাস্কে নাও",
+    "8 g এসিড ফানেল দিয়ে দাও",
+    "পানি যোগে 100 mL দাগ পূর্ণ করো"
+   ],
+   "quantities_bn": "8 g এসিড, মোট 100 mL",
+   "materials_bn": [
+    "100 mL আয়তনমিতিক ফ্লাস্ক",
+    "ব্যালেন্স",
+    "ওয়াশ বোতল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-19-32",
+   "chapter_no": 5,
+   "section_no": "৫.১৯.১",
+   "section_title_bn": "পরীক্ষাগারে ভিনেগার প্রস্তুতি",
+   "book_page": 658,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ভিনেগার সনাক্তকরণ (NaHCO₃ পরীক্ষা)",
+   "reactants": [
+    {
+     "name_bn": "ইথানয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution",
+     "form": ""
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন কার্বোনেট",
+     "formula": "NaHCO₃",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂↑",
+   "conditions": "room temp / সামান্য গরম",
+   "observations_bn": "বুদবুদ আকারে বর্ণহীন গ্যাস বের হয়।",
+   "procedure_bn": [
+    "NaHCO₃ নলে নাও",
+    "2–3 mL ভিনেগার দাও",
+    "বুদবুদ লক্ষ করো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaHCO₃",
+    "ভিনেগার",
+    "টেস্ট টিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "equation_printed": "CH₃COOH(aq) + NaHCO₃(s) → CH₃COONa(aq) + H₂O(l) + CO₂(g)"
+  },
+  {
+   "id": "k11-19-33",
+   "chapter_no": 5,
+   "section_no": "৫.১৯.১",
+   "section_title_bn": "পরীক্ষাগারে ভিনেগার প্রস্তুতি",
+   "book_page": 658,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "ক্যাকোডিল অক্সাইড পরীক্ষা (অ্যাসিটেট সনাক্তকরণ)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solid",
+     "form": ""
+    },
+    {
+     "name_bn": "আর্সেনিক ট্রাইঅক্সাইড",
+     "formula": "As₂O₃",
+     "state": "solid",
+     "form": ""
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যাকোডিল অক্সাইড",
+     "formula": "[(CH₃)₂As]₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বোনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4CH₃COONa + As₂O₃ → [(CH₃)₂As]₂O + 2Na₂CO₃ + 2CO₂↑",
+   "conditions": "শুকনো মিশ্রণ উত্তপ্ত",
+   "observations_bn": "উৎকট গন্ধ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COONa",
+    "As₂O₃"
+   ],
+   "safety_bn": "As₂O₃ ও ক্যাকোডিল অক্সাইড অত্যন্ত বিষাক্ত",
+   "confidence": "partly-legible",
+   "equation_printed": "4CH₃COONa + As₂O₃ → [(CH₃)₂As]₂O + 2Na₂CO₃"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 5,
+   "no": "৫.৯",
+   "title_bn": "মাখন পানি মুক্তকরণ",
+   "start_page": 636
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১০",
+   "title_bn": "মাখন থেকে ঘি উৎপাদন",
+   "start_page": 636
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১১",
+   "title_bn": "টয়লেট্রিজ ও পারফিউমারি",
+   "start_page": 637
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১১.১",
+   "title_bn": "গোলাপ জল",
+   "start_page": 638
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১১.২",
+   "title_bn": "হেয়ার অয়েল",
+   "start_page": 639
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১১.৩",
+   "title_bn": "টেলকম পাউডার",
+   "start_page": 640
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১১.৪",
+   "title_bn": "স্নো",
+   "start_page": 642
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১১.৫",
+   "title_bn": "কোল্ড ক্রিম",
+   "start_page": 643
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১১.৬",
+   "title_bn": "লিপস্টিক",
+   "start_page": 643
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১১.৭",
+   "title_bn": "আফটার শেভ লোশন",
+   "start_page": 645
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১১.৮",
+   "title_bn": "মেহেদি",
+   "start_page": 645
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১২",
+   "title_bn": "ব্যবহারিক : টুথপেস্ট প্রস্তুতির প্রণালি",
+   "start_page": 646
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৩",
+   "title_bn": "শিক্ষার্থীর কাজ : যেকোনো দুইটি টয়লেট্রিজ উৎপাদন",
+   "start_page": 647
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৪",
+   "title_bn": "গ্লাস ক্লিনার প্রস্তুতি",
+   "start_page": 650
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৫",
+   "title_bn": "টয়লেট ক্লিনার প্রস্তুতি",
+   "start_page": 651
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৬",
+   "title_bn": "গ্লাস ক্লিনার ও টয়লেট ক্লিনারের পরিষ্কারকরণ কৌশল",
+   "start_page": 652
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৬.১",
+   "title_bn": "টয়লেট ক্লিনারের পরিষ্কারকরণ কৌশল",
+   "start_page": 652
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৬.২",
+   "title_bn": "গ্লাস ক্লিনারের পরিষ্কারকরণ কৌশল",
+   "start_page": 654
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৭",
+   "title_bn": "গ্লাস ক্লিনারে কস্টিক সোডা ব্যবহার না করে অ্যামোনিয়া ব্যবহারের কারণ",
+   "start_page": 655
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৮",
+   "title_bn": "ইথানয়িক এসিড থেকে ভিনেগার প্রস্তুতি",
+   "start_page": 655
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৯",
+   "title_bn": "প্রজেক্ট : আখের রস হতে মল্ট ভিনেগার প্রস্তুতি",
+   "start_page": 657
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.১৯.১",
+   "title_bn": "পরীক্ষাগারে ভিনেগার প্রস্তুতি",
+   "start_page": 658
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.২০",
+   "title_bn": "ভিনেগারের খাদ্যদ্রব্য সংরক্ষণ কৌশল",
+   "start_page": 659
+  },
+  {
+   "chapter_no": 5,
+   "no": "৫.২১",
+   "title_bn": "খাদ্যদ্রব্য সংরক্ষণে ভিনেগারের গুরুত্ব",
+   "start_page": 659
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Pages 661-664 (printed 663-666) are exercises, skipped. p635 item (butter at home) has no heading visible in chunk, section_no empty. Chapter-5 section numbers are Bengali numerals. Item 5.17's NaOH+SiO2 recorded once (p651; p655 printed unbalanced). Item for after-shave in 5.13: quantities as printed in table partly unclear."
+}

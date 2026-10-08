@@ -1,0 +1,3475 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  411,
+  446
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-12-001",
+   "chapter_no": 7,
+   "section_no": "7.14.5",
+   "section_title_bn": "অ্যালকোহলে পানির উপস্থিতি শনাক্তকরণ: নিরুদিত কপার সালফেটসহ পরীক্ষা",
+   "book_page": 396,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নিরুদিত CuSO₄ দিয়ে অ্যালকোহলে পানি শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "নিরুদিত কপার সালফেট",
+     "formula": "CuSO₄",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার সালফেট পেন্টাহাইড্রেট",
+     "formula": "CuSO₄·5H₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "CuSO₄(s) + 5H₂O(l) → CuSO₄·5H₂O(s)",
+   "conditions": "room temp",
+   "observations_bn": "সাদা গুঁড়া পানি পেলে নীল হয়ে যায়; অ্যালকোহলে পানি থাকলে তাই রং বদলায়।",
+   "procedure_bn": [
+    "পরীক্ষাধীন অ্যালকোহলে কয়েক ফোঁটা নিরুদিত CuSO₄-এর সাদা গুঁড়ার ওপর দিন",
+    "সাদা থেকে নীল হলে পানি আছে"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নিরুদিত CuSO₄",
+    "অ্যালকোহল নমুনা"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-002",
+   "chapter_no": 7,
+   "section_no": "7.15",
+   "section_title_bn": "আরোহ পদ্ধতি ও অবরোহ পদ্ধতি",
+   "book_page": 396,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আরোহ পদ্ধতি: মিথানল থেকে ইথানল",
+   "reactants": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃OH →(PCl₅) CH₃Cl →(KCN) CH₃CN →(LiAlH₄, 4[H]) CH₃CH₂NH₂ →(HNO₂) CH₃CH₂OH + N₂ + H₂O",
+   "conditions": "বহুধাপ; বিভিন্ন বিকারক",
+   "observations_bn": "কার্বন শিকল এক ধাপ লম্বা করার উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "PCl₅",
+    "KCN",
+    "LiAlH₄",
+    "HNO₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-003",
+   "chapter_no": 7,
+   "section_no": "7.15",
+   "section_title_bn": "আরোহ পদ্ধতি ও অবরোহ পদ্ধতি",
+   "book_page": 396,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অবরোহ পদ্ধতি: ইথানল থেকে মিথানল",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OH →([O], K₂Cr₂O₇) CH₃COOH →(NH₃, Δ) CH₃CONH₂ →(NaOH, Br₂, Δ) CH₃NH₂ →(HNO₂) CH₃OH + N₂ + H₂O",
+   "conditions": "বহুধাপ; বিভিন্ন বিকারক",
+   "observations_bn": "কার্বন শিকল এক ধাপ ছোট করার উদাহরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "K₂Cr₂O₇",
+    "NH₃",
+    "NaOH",
+    "Br₂",
+    "HNO₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-004",
+   "chapter_no": 7,
+   "section_no": "7.18",
+   "section_title_bn": "পরীক্ষাগারে ফেনল প্রস্তুতি",
+   "book_page": 398,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইডের আর্দ্র বিশ্লেষণে ফেনল",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+     "formula": "C₆H₅N₂⁺Cl⁻",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরাইড আয়ন",
+     "formula": "Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅N₂⁺Cl⁻ + H₂O → C₆H₅OH + N₂↑ + H⁺ + Cl⁻",
+   "conditions": "ফুটন্ত লঘু H₂SO₄, তাপ",
+   "observations_bn": "N₂ বুদবুদ বের হয়; ফেনল উড়ে আসে বলে বাষ্প ঘনীভূত করে সংগ্রহ করা হয়।",
+   "procedure_bn": [
+    "ফুটন্ত লঘু H₂SO₄-তে ডায়াজোনিয়াম লবণ ফোঁটায় ফোঁটায় দিন",
+    "উৎপন্ন ফেনল বাষ্প ঘনীভূত করে নিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+    "লঘু H₂SO₄"
+   ],
+   "safety_bn": "অধিক লবণ বা কম অ্যাসিড হলে ফেনল ডায়াজোনিয়াম লবণের সঙ্গে যুগল বিক্রিয়া করে অ্যাজো যৌগ দেয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-005",
+   "chapter_no": 7,
+   "section_no": "7.19",
+   "section_title_bn": "ফেনলের শিল্পোৎপাদন",
+   "book_page": 398,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কিউমিন প্রস্তুতি (বেনজিন + প্রোপিন)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃CH=CH₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউমিন",
+     "formula": "C₆H₅CH(CH₃)₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₆ + CH₃CH=CH₂ → C₆H₅CH(CH₃)₂",
+   "conditions": "250°C, 30 atm, H₃PO₄ প্রভাবক",
+   "observations_bn": "শিল্প-ধাপ; ফ্রিডেল-ক্র্যাফট পদ্ধতিতে কিউমিন তৈরি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-006",
+   "chapter_no": 7,
+   "section_no": "7.19",
+   "section_title_bn": "ফেনলের শিল্পোৎপাদন",
+   "book_page": 398,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কিউমিন থেকে কিউমিন হাইড্রোপারঅক্সাইড",
+   "reactants": [
+    {
+     "name_bn": "কিউমিন",
+     "formula": "C₆H₅CH(CH₃)₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউমিন হাইড্রোপারঅক্সাইড",
+     "formula": "C₆H₅C(CH₃)₂OOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CH(CH₃)₂ + O₂ → C₆H₅C(CH₃)₂OOH",
+   "conditions": "130°C, Co বা Mn লবণ প্রভাবক",
+   "observations_bn": "বায়ুর অক্সিজেনে জারণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-007",
+   "chapter_no": 7,
+   "section_no": "7.19",
+   "section_title_bn": "ফেনলের শিল্পোৎপাদন",
+   "book_page": 398,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কিউমিন হাইড্রোপারঅক্সাইড থেকে ফেনল ও অ্যাসিটোন",
+   "reactants": [
+    {
+     "name_bn": "কিউমিন হাইড্রোপারঅক্সাইড",
+     "formula": "C₆H₅C(CH₃)₂OOH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যাসিটোন",
+     "formula": "(CH₃)₂CO",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅C(CH₃)₂OOH → C₆H₅OH + (CH₃)₂CO",
+   "conditions": "লঘু H₂SO₄, তাপ",
+   "observations_bn": "একসঙ্গে ফেনল ও অ্যাসিটোন পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-008",
+   "chapter_no": 7,
+   "section_no": "7.19",
+   "section_title_bn": "ফেনলের শিল্পোৎপাদন",
+   "book_page": 398,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডাউ পদ্ধতি ধাপ ১: বেনজিনের ক্লোরিনেশন",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোবেনজিন",
+     "formula": "C₆H₅Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + Cl₂ → C₆H₅Cl + HCl",
+   "conditions": "Fe প্রভাবক",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-009",
+   "chapter_no": 7,
+   "section_no": "7.19",
+   "section_title_bn": "ফেনলের শিল্পোৎপাদন",
+   "book_page": 398,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডাউ পদ্ধতি ধাপ ২: ক্লোরোবেনজিন থেকে সোডিয়াম ফিনক্সাইড",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোবেনজিন",
+     "formula": "C₆H₅Cl",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅Cl + 2NaOH → C₆H₅ONa + NaCl + H₂O",
+   "equation_printed": "C₆H₅Cl + 2NaOH → C₆H₅ONa (পাশের উৎপাদ ছাপায় অস্পষ্ট)",
+   "conditions": "10% NaOH, 400°C, 150 atm",
+   "observations_bn": "উচ্চ তাপ ও চাপে বিক্রিয়া।",
+   "procedure_bn": [],
+   "quantities_bn": "10% NaOH",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-12-010",
+   "chapter_no": 7,
+   "section_no": "7.19",
+   "section_title_bn": "ফেনলের শিল্পোৎপাদন",
+   "book_page": 399,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডাউ পদ্ধতি ধাপ ৩: সোডিয়াম ফিনক্সাইড থেকে ফেনল",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅ONa + HCl → C₆H₅OH + NaCl",
+   "conditions": "HCl, 182°C (পাতন)",
+   "observations_bn": "পরে ফেনল পাতনে আলাদা করা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-011",
+   "chapter_no": 7,
+   "section_no": "7.19",
+   "section_title_bn": "ফেনলের শিল্পোৎপাদন",
+   "book_page": 399,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মধ্যম তেলের ফেনল: সোডিয়াম ফিনেট তৈরি",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফিনেট",
+     "formula": "C₆H₅ONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH(l) + NaOH(aq) → C₆H₅ONa(aq) + H₂O(l)",
+   "conditions": "10% NaOH জলীয় দ্রবণ",
+   "observations_bn": "ফেনল জলীয় স্তরে সোডিয়াম ফিনেট রূপে চলে আসে; অন্য জৈব যৌগ তেল স্তরে থাকে।",
+   "procedure_bn": [
+    "মধ্যম তেল শীতল করে ন্যাফথালিন কেলাস ছেঁকে নিন",
+    "দ্রবণকে 10% NaOH দিয়ে ঝাঁকান",
+    "জলীয় স্তর আলাদা করুন"
+   ],
+   "quantities_bn": "10% NaOH",
+   "materials_bn": [
+    "কয়লা-আলকাতরার মধ্যম তেল",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-012",
+   "chapter_no": 7,
+   "section_no": "7.19",
+   "section_title_bn": "ফেনলের শিল্পোৎপাদন",
+   "book_page": 399,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ফিনেটকে H₂SO₄ দিয়ে ফেনলে ফিরিয়ে আনা",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনেট",
+     "formula": "C₆H₅ONa",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম সালফেট",
+     "formula": "Na₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2C₆H₅ONa + H₂SO₄ → 2C₆H₅OH + Na₂SO₄",
+   "conditions": "লঘু H₂SO₄",
+   "observations_bn": "ফেনল তেল-স্তররূপে আলাদা হয়ে আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-013",
+   "chapter_no": 7,
+   "section_no": "7.19",
+   "section_title_bn": "ফেনলের শিল্পোৎপাদন",
+   "book_page": 399,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ফিনেট + CO₂ + পানি → ফেনল",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনেট",
+     "formula": "C₆H₅ONa",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "2C₆H₅ONa + H₂O + CO₂ → 2C₆H₅OH + Na₂CO₃",
+   "conditions": "উচ্চ চাপে CO₂",
+   "observations_bn": "H₂SO₄-এর বিকল্প; ফেনল আলাদা হয়, পরে আংশিক পাতন (180–182°C)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-014",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 401,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফেনল ও নীল লিটমাস",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "নীল লিটমাস",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফিনক্সাইড আয়ন",
+     "formula": "C₆H₅O⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোনিয়াম আয়ন",
+     "formula": "H₃O⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅OH + H₂O ⇌ C₆H₅O⁻ + H₃O⁺",
+   "conditions": "room temp",
+   "observations_bn": "ফেনলের জলীয় দ্রবণ দুর্বল অম্লীয়; নীল লিটমাস লাল হয় (pKa = 10.0)।",
+   "procedure_bn": [
+    "ফেনলের জলীয় দ্রবণে নীল লিটমাস ডুবান"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "নীল লিটমাস"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-015",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 401,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফেনল NaHCO₃ থেকে CO₂ দেয় না",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "সোডিয়াম বাইকার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [],
+   "equation": "C₆H₅OH + NaHCO₃ → কোনো বিক্রিয়া নেই",
+   "conditions": "room temp",
+   "observations_bn": "কার্বক্সিলিক এসিডে CO₂ বুদবুদ ওঠে, ফেনলে ওঠে না; তাই ফেনল H₂CO₃-এর চেয়ে দুর্বল অ্যাসিড।",
+   "procedure_bn": [
+    "ফেনল ও কার্বক্সিলিক এসিডের আলাদা নমুনায় NaHCO₃ দ্রবণ দিন",
+    "বুদবুদ আছে কিনা তুলনা করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "কার্বক্সিলিক এসিড",
+    "NaHCO₃ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-016",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 401,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফেনল + NaOH → সোডিয়াম ফিনক্সাইড",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + NaOH → C₆H₅ONa + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "ফেনল কষ্টিক সোডায় দ্রবীভূত হয়ে লবণ দেয়।",
+   "procedure_bn": [
+    "ফেনলে NaOH দ্রবণ মেশান"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-017",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 401,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ফিনেট + CO₂ + পানি → ফেনল",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম বাইকার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅ONa + H₂O + CO₂ → C₆H₅OH + NaHCO₃",
+   "conditions": "CO₂ চালনা",
+   "observations_bn": "CO₂ ফেনলকে মুক্ত করে; তাই ফেনল কার্বনিক এসিডের চেয়ে দুর্বল।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-018",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 402,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জিংক চূর্ণ দিয়ে ফেনলের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅OH + Zn → C₆H₆ + ZnO",
+   "conditions": "তাপ (পাতন)",
+   "observations_bn": "ফেনল বাষ্প জিংক চূর্ণের ওপর দিয়ে গেলে বেনজিন পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-019",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 402,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Ni প্রভাবকে ফেনলের হাইড্রোজেনেশন",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সাইক্লোহেক্সানল",
+     "formula": "C₆H₁₁OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + 3H₂ → C₆H₁₁OH",
+   "conditions": "Ni চূর্ণ, 150–176°C",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-020",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 402,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফেনল + ফসফরাস পেন্টাক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোবেনজিন",
+     "formula": "C₆H₅Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅OH + PCl₅ → C₆H₅Cl + POCl₃ + HCl",
+   "equation_printed": "C₆H₅OH + PCl₃ → C₆H₅Cl + POCl₃ + HCl (চিত্রে PCl₃ ছাপা; লেখায় ও সারণি ৭.৩-এ PCl₅)",
+   "conditions": "room temp (ধীর বিক্রিয়া)",
+   "observations_bn": "অ্যালকোহলের চেয়ে ধীরে বিক্রিয়া করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-12-021",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 403,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফেনল থেকে অ্যানিলিন",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + NH₃ → C₆H₅NH₂ + H₂O",
+   "conditions": "ZnCl₂, 300°C",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-022",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 403,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ফিনক্সাইড + ইথানোয়িল ক্লোরাইড → ফিনাইল ইথানোয়েট",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফিনাইল ইথানোয়েট",
+     "formula": "CH₃COOC₆H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅ONa + CH₃COCl → CH₃COOC₆H₅ + NaCl",
+   "conditions": "room temp",
+   "observations_bn": "ফেনলের এস্টারকরণ সরাসরি ধীর, তাই আগে ফিনক্সাইড করে নেওয়া হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "ইথানোয়িল ক্লোরাইড ক্ষয়কারী ও ধূমায়মান।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-023",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 403,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ফিনক্সাইড + ইথানোয়িক অ্যানহাইড্রাইড",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফিনাইল ইথানোয়েট",
+     "formula": "CH₃COOC₆H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅ONa + (CH₃CO)₂O → CH₃COOC₆H₅ + CH₃COONa",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-024",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 403,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "শিল্পে সোডিয়াম স্যালিসাইলেট ও স্যালিসাইলিক এসিড তৈরি",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম স্যালিসাইলেট",
+     "formula": "HOC₆H₄COONa",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅ONa + CO₂ → HOC₆H₄COONa",
+   "conditions": "125°C, 4–7 atm",
+   "observations_bn": "পরে HCl দিয়ে স্যালিসাইলিক এসিড মুক্ত করা হয় (বিস্তারিত 7.21.3-এ)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-025",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 404,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "অ্যাসপিরিন প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "স্যালিসাইলিক এসিড",
+     "formula": "HOC₆H₄COOH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসপিরিন",
+     "formula": "CH₃COOC₆H₄COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HOC₆H₄COOH + (CH₃CO)₂O → CH₃COOC₆H₄COOH + CH₃COOH",
+   "conditions": "উষ্ণ, প্রায় 90°C",
+   "observations_bn": "স্যালিসাইলিক এসিডের -OH এস্টারে রূপান্তরিত হয়; অ্যাসপিরিন কেলাস হিসেবে আলাদা হয়।",
+   "procedure_bn": [
+    "স্যালিসাইলিক এসিড ও ইথানোয়িক অ্যানহাইড্রাইড মেশান",
+    "প্রায় 90°C-এ উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "স্যালিসাইলিক এসিড",
+    "ইথানোয়িক অ্যানহাইড্রাইড",
+    "পানিগাহ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-026",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 404,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "প্যারাসিটামল প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "4-অ্যামিনোফেনল",
+     "formula": "HOC₆H₄NH₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্যারাসিটামল",
+     "formula": "HOC₆H₄NHCOCH₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HOC₆H₄NH₂ + (CH₃CO)₂O → HOC₆H₄NHCOCH₃ + CH₃COOH",
+   "conditions": "অ্যাসিটাইলেশন; শর্ত উল্লেখ নেই",
+   "observations_bn": "-NH₂ মূলক অ্যাসিটাইলেটেড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-027",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 404,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিজ পুনর্বিন্যাস (ফিনাইল ইথানোয়েট)",
+   "reactants": [
+    {
+     "name_bn": "ফিনাইল ইথানোয়েট",
+     "formula": "CH₃COOC₆H₅",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থো-হাইড্রক্সি অ্যাসিটোফেনোন",
+     "formula": "o-HOC₆H₄COCH₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "প্যারা-হাইড্রক্সি অ্যাসিটোফেনোন",
+     "formula": "p-HOC₆H₄COCH₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2CH₃COOC₆H₅ → o-HOC₆H₄COCH₃ + p-HOC₆H₄COCH₃",
+   "conditions": "অনার্দ্র AlCl₃, তাপ",
+   "observations_bn": "উচ্চ তাপমাত্রায় (160°C) অর্থো সমাণু বেশি, কম তাপে প্যারা।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-028",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 404,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উইলিয়ামসন বিক্রিয়ায় অ্যানিসল (CH₃Br দিয়ে)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "মিথাইল ব্রোমাইড",
+     "formula": "CH₃Br",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যানিসল",
+     "formula": "C₆H₅OCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅ONa + CH₃Br → C₆H₅OCH₃ + NaBr",
+   "equation_printed": "C₆H₅ONa + CH₃Br → ... (বইয়ে নাম 'আয়োডোমিথেন' ছাপা, সংকেত CH₃Br)",
+   "conditions": "room temp",
+   "observations_bn": "ফেনক্সাইড নিউক্লিওফাইল রূপে হ্যালাইড প্রতিস্থাপন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-12-029",
+   "chapter_no": 7,
+   "section_no": "7.21.1",
+   "section_title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "book_page": 404,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফেনল + NaOH → সোডিয়াম ফিনক্সাইড (উইলিয়ামসন ধাপ ১)",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + NaOH → C₆H₅ONa + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-030",
+   "chapter_no": 7,
+   "section_no": "7.21.2",
+   "section_title_bn": "বেনজিন বলয়ে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 405,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফেনলের লঘু নাইট্রিক এসিডে নাইট্রেশন",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "লঘু নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থো-নাইট্রোফেনল",
+     "formula": "o-O₂NC₆H₄OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "প্যারা-নাইট্রোফেনল",
+     "formula": "p-O₂NC₆H₄OH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₆H₅OH + 2HNO₃ → o-O₂NC₆H₄OH + p-O₂NC₆H₄OH + 2H₂O",
+   "conditions": "20°C (ঠান্ডা)",
+   "observations_bn": "অর্থো ও প্যারা নাইট্রোফেনলের মিশ্রণ তৈরি হয়।",
+   "procedure_bn": [
+    "ফেনলে ঠান্ডা লঘু HNO₃ যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "লঘু HNO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-031",
+   "chapter_no": 7,
+   "section_no": "7.21.2",
+   "section_title_bn": "বেনজিন বলয়ে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 405,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফেনলের নাইট্রেশনে পিকরিক এসিড",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পিকরিক এসিড",
+     "formula": "(O₂N)₃C₆H₂OH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + 3HNO₃ → (O₂N)₃C₆H₂OH + 3H₂O",
+   "conditions": "গাঢ় H₂SO₄, তাপ",
+   "observations_bn": "2,4,6-ট্রাইনাইট্রোফেনল তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "গাঢ় অ্যাসিড ও বিস্ফোরক উৎপাদ; সতর্কতা দরকার।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-032",
+   "chapter_no": 7,
+   "section_no": "7.21.2",
+   "section_title_bn": "বেনজিন বলয়ে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 405,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "নাইট্রাস এসিড প্রস্তুতি (NaNO₂ + H₂SO₄)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন সালফেট",
+     "formula": "NaHSO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "NaNO₂ + H₂SO₄ → HNO₂ + NaHSO₄",
+   "conditions": "ঠান্ডা",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-033",
+   "chapter_no": 7,
+   "section_no": "7.21.2",
+   "section_title_bn": "বেনজিন বলয়ে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 405,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফেনল + নাইট্রাস এসিড → p-নাইট্রোসোফেনল",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড",
+     "formula": "HNO₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্যারা-নাইট্রোসোফেনল",
+     "formula": "p-HOC₆H₄NO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + HNO₂ → p-HOC₆H₄NO + H₂O",
+   "conditions": "7–8°C",
+   "observations_bn": "",
+   "procedure_bn": [
+    "ফেনলে NaNO₂ ও লঘু H₂SO₄ ঠান্ডায় যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-034",
+   "chapter_no": 7,
+   "section_no": "7.21.2",
+   "section_title_bn": "বেনজিন বলয়ে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 405,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফেনলের সালফোনেশন (20°C)",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থো-ফেনল সালফোনিক এসিড",
+     "formula": "o-HOC₆H₄SO₃H",
+     "state": "solid"
+    },
+    {
+     "name_bn": "প্যারা-ফেনল সালফোনিক এসিড",
+     "formula": "p-HOC₆H₄SO₃H",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₆H₅OH + 2H₂SO₄ → o-HOC₆H₄SO₃H + p-HOC₆H₄SO₃H + 2H₂O",
+   "equation_printed": "প্রধান উৎপাদ অর্থো (20°C); প্যারা অপ্রধান",
+   "conditions": "গাঢ় H₂SO₄, 20–25°C",
+   "observations_bn": "20–25°C-এ অর্থো প্রধান, 100°C-এ প্যারা প্রধান; অর্থোকে উত্তপ্ত করলে প্যারা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-035",
+   "chapter_no": 7,
+   "section_no": "7.21.2",
+   "section_title_bn": "বেনজিন বলয়ে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 406,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ফেনল + ব্রোমিন পানি",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ব্রোমিন পানি",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2,4,6-ট্রাইব্রোমোফেনল",
+     "formula": "C₆H₂Br₃OH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅OH + 3Br₂(aq) → C₆H₂Br₃OH↓ + 3HBr",
+   "conditions": "room temp",
+   "observations_bn": "লাল ব্রোমিন পানির রং কেটে যায় এবং সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "ফেনলের দ্রবণে ব্রোমিন পানি দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "ব্রোমিন পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-036",
+   "chapter_no": 7,
+   "section_no": "7.21.2",
+   "section_title_bn": "বেনজিন বলয়ে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 406,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফেনলের ফ্রিডেল-ক্র্যাফট অ্যালকাইলেশন",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থো-ক্রিসল",
+     "formula": "o-CH₃C₆H₄OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "প্যারা-ক্রিসল",
+     "formula": "p-CH₃C₆H₄OH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₆H₅OH + 2CH₃Cl → o-CH₃C₆H₄OH + p-CH₃C₆H₄OH + 2HCl",
+   "conditions": "শুষ্ক AlCl₃",
+   "observations_bn": "প্যারা সমাণু সাধারণত বেশি পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-037",
+   "chapter_no": 7,
+   "section_no": "7.21.2",
+   "section_title_bn": "বেনজিন বলয়ে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 406,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফেনলের ফ্রিডেল-ক্র্যাফট অ্যাসাইলেশন",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "অ্যাসিটাইল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থো-অ্যাসিটাইল ফেনল",
+     "formula": "o-HOC₆H₄COCH₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "প্যারা-অ্যাসিটাইল ফেনল",
+     "formula": "p-HOC₆H₄COCH₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₆H₅OH + 2CH₃COCl → o-HOC₆H₄COCH₃ + p-HOC₆H₄COCH₃ + 2HCl",
+   "conditions": "শুষ্ক AlCl₃",
+   "observations_bn": "প্যারা সমাণু বেশি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-038",
+   "chapter_no": 7,
+   "section_no": "7.21.3",
+   "section_title_bn": "ফেনলের বিশেষ বিক্রিয়া",
+   "book_page": 406,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কোলবে বিক্রিয়া (স্যালিসাইলিক এসিড)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম স্যালিসাইলেট",
+     "formula": "HOC₆H₄COONa",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅ONa + CO₂ → HOC₆H₄COONa",
+   "conditions": "125°C, 4–7 atm",
+   "observations_bn": "পরে লঘু HCl দিয়ে স্যালিসাইলিক এসিড মুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-039",
+   "chapter_no": 7,
+   "section_no": "7.21.3",
+   "section_title_bn": "ফেনলের বিশেষ বিক্রিয়া",
+   "book_page": 406,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম স্যালিসাইলেট থেকে স্যালিসাইলিক এসিড",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম স্যালিসাইলেট",
+     "formula": "HOC₆H₄COONa",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "স্যালিসাইলিক এসিড",
+     "formula": "HOC₆H₄COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "HOC₆H₄COONa + HCl → HOC₆H₄COOH↓ + NaCl",
+   "conditions": "লঘু HCl",
+   "observations_bn": "এসিডিক করলে স্যালিসাইলিক এসিড আলাদা হয়ে আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-040",
+   "chapter_no": 7,
+   "section_no": "7.21.3",
+   "section_title_bn": "ফেনলের বিশেষ বিক্রিয়া",
+   "book_page": 407,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "রাইমার-টাইম্যান বিক্রিয়া (স্যালিসাইল অ্যালডিহাইড)",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ক্লোরোফর্ম",
+     "formula": "CHCl₃",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "স্যালিসাইল অ্যালডিহাইড",
+     "formula": "o-HOC₆H₄CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + CHCl₃ + 3NaOH → o-HOC₆H₄CHO + 3NaCl + 2H₂O",
+   "equation_printed": "C₆H₅ONa + CHCl₃ + 2NaOH → o-HOC₆H₄CHO + 3NaCl + 2H₂O (ছাপা সমীকরণ অসম)",
+   "conditions": "জলীয় ক্ষার, প্রায় 60°C",
+   "observations_bn": "ফেনল, ক্লোরোফর্ম ও কষ্টিক সোডা গরম করলে অর্থো-অ্যালডিহাইড মেলে।",
+   "procedure_bn": [
+    "ফেনলের সঙ্গে CHCl₃ ও NaOH দ্রবণ মেশান",
+    "প্রায় 60°C-এ উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "CHCl₃",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "ক্লোরোফর্ম বিষাক্ত।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-12-041",
+   "chapter_no": 7,
+   "section_no": "7.21.3",
+   "section_title_bn": "ফেনলের বিশেষ বিক্রিয়া",
+   "book_page": 407,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "কাপলিং বিক্রিয়া (অ্যাজো রঞ্জক)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+     "formula": "C₆H₅N₂Cl",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্যারা-হাইড্রক্সি অ্যাজোবেনজিন",
+     "formula": "C₆H₅N=NC₆H₄OH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅N₂Cl + C₆H₅OH → C₆H₅N=NC₆H₄OH + HCl",
+   "conditions": "লঘু NaOH, ঠান্ডা",
+   "observations_bn": "হলুদ বর্ণের অ্যাজো যৌগ তৈরি হয়; সাধারণত প্যারা অবস্থানে।",
+   "procedure_bn": [
+    "ঠান্ডা লঘু ক্ষারীয় ফেনল দ্রবণে ডায়াজোনিয়াম লবণ দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-12-042",
+   "chapter_no": 7,
+   "section_no": "7.22",
+   "section_title_bn": "ফেনলের শনাক্তকরণ পরীক্ষা",
+   "book_page": 407,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফেরিক ক্লোরাইড পরীক্ষা (ফেনল)",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেরিক ফিনক্সাইড জটিল",
+     "formula": "(C₆H₅O)₆Fe₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "6C₆H₅OH + 2FeCl₃ → (C₆H₅O)₆Fe₂ + 6HCl",
+   "conditions": "room temp, নিরপেক্ষ দ্রবণ",
+   "observations_bn": "বেগুনি রঙের দ্রবণ তৈরি হয়।",
+   "procedure_bn": [
+    "ফেনলের জলীয় দ্রবণে নিরপেক্ষ FeCl₃-এর কয়েক ফোঁটা দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "নিরপেক্ষ FeCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-043",
+   "chapter_no": 7,
+   "section_no": "7.22",
+   "section_title_bn": "ফেনলের শনাক্তকরণ পরীক্ষা",
+   "book_page": 407,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ব্রোমিন পানি পরীক্ষা (ফেনল)",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ব্রোমিন পানি",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2,4,6-ট্রাইব্রোমোফেনল",
+     "formula": "C₆H₂Br₃OH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅OH + 3Br₂(aq) → C₆H₂Br₃OH↓ + 3HBr",
+   "conditions": "room temp",
+   "observations_bn": "সঙ্গে সঙ্গে সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "ফেনল দ্রবণে ব্রোমিন পানি যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-044",
+   "chapter_no": 7,
+   "section_no": "7.22",
+   "section_title_bn": "ফেনলের শনাক্তকরণ পরীক্ষা",
+   "book_page": 408,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লিবারম্যান পরীক্ষা (ধাপ ১: নাইট্রোসোফেনল)",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্যারা-নাইট্রোসোফেনল",
+     "formula": "p-HOC₆H₄NO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + HNO₂ → p-HOC₆H₄NO + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "NaNO₂ ও গাঢ় H₂SO₄ দিলে সবুজ বা নীল দ্রবণ হয়।",
+   "procedure_bn": [
+    "ফেনলের সঙ্গে NaNO₂ ও কয়েক ফোঁটা গাঢ় H₂SO₄ মেশান"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "NaNO₂",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-045",
+   "chapter_no": 7,
+   "section_no": "7.22",
+   "section_title_bn": "ফেনলের শনাক্তকরণ পরীক্ষা",
+   "book_page": 408,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লিবারম্যান পরীক্ষা (ধাপ ২: ইন্ডোফেনল, লাল)",
+   "reactants": [
+    {
+     "name_bn": "প্যারা-নাইট্রোসোফেনল",
+     "formula": "p-HOC₆H₄NO",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইন্ডোফেনল",
+     "formula": "HOC₆H₄N=C₆H₄=O",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HOC₆H₄NO + C₆H₅OH → HOC₆H₄N=C₆H₄=O + H₂O",
+   "conditions": "H₂SO₄ মাধ্যম",
+   "observations_bn": "পানি মেশালে দ্রবণ হালকা লাল দেখায়।",
+   "procedure_bn": [
+    "ধাপ ১-এর দ্রবণে পানি দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-046",
+   "chapter_no": 7,
+   "section_no": "7.22",
+   "section_title_bn": "ফেনলের শনাক্তকরণ পরীক্ষা",
+   "book_page": 408,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লিবারম্যান পরীক্ষা (ধাপ ৩: NaOH যোগে নীল)",
+   "reactants": [
+    {
+     "name_bn": "ইন্ডোফেনল",
+     "formula": "HOC₆H₄N=C₆H₄=O",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইন্ডোফেনেট",
+     "formula": "Na⁺[⁻OC₆H₄N=C₆H₄=O]",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HOC₆H₄N=C₆H₄=O + NaOH → Na⁺[⁻OC₆H₄N=C₆H₄=O] + H₂O",
+   "conditions": "ক্ষারীয়",
+   "observations_bn": "বাড়তি NaOH দিলে সবুজ বা নীল রং ফিরে আসে।",
+   "procedure_bn": [
+    "লাল দ্রবণে অতিরিক্ত NaOH দ্রবণ দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-047",
+   "chapter_no": 7,
+   "section_no": "7.24",
+   "section_title_bn": "পিকরিক এসিড বা 2,4,6-ট্রাইনাইট্রোফেনল",
+   "book_page": 408,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পিকরিক এসিড প্রস্তুতি ধাপ ১: ক্লোরোবেনজিনের ডাইনাইট্রেশন",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোবেনজিন",
+     "formula": "C₆H₅Cl",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2,4-ডাইনাইট্রোক্লোরোবেনজিন",
+     "formula": "C₆H₃Cl(NO₂)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅Cl + 2HNO₃ → C₆H₃Cl(NO₂)₂ + 2H₂O",
+   "equation_printed": "চিত্রে শুধু বিকারক তীর দেখানো; ধাপের সমতা বইয়ে নেই, গুণাঙ্ক নিজে সমতা করা",
+   "conditions": "গাঢ় HNO₃ + গাঢ় H₂SO₄",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-12-048",
+   "chapter_no": 7,
+   "section_no": "7.24",
+   "section_title_bn": "পিকরিক এসিড বা 2,4,6-ট্রাইনাইট্রোফেনল",
+   "book_page": 409,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পিকরিক এসিড প্রস্তুতি ধাপ ২: ডাইনাইট্রোফেনল",
+   "reactants": [
+    {
+     "name_bn": "2,4-ডাইনাইট্রোক্লোরোবেনজিন",
+     "formula": "C₆H₃Cl(NO₂)₂",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2,4-ডাইনাইট্রোফেনল",
+     "formula": "C₆H₃(OH)(NO₂)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₃Cl(NO₂)₂ →(Na₂CO₃(aq), H₂O) C₆H₃(OH)(NO₂)₂",
+   "conditions": "Na₂CO₃ দ্রবণ দিয়ে আর্দ্র বিশ্লেষণ",
+   "observations_bn": "Cl-এর জায়গায় -OH বসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-12-049",
+   "chapter_no": 7,
+   "section_no": "7.24",
+   "section_title_bn": "পিকরিক এসিড বা 2,4,6-ট্রাইনাইট্রোফেনল",
+   "book_page": 409,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পিকরিক এসিড প্রস্তুতি ধাপ ৩: চূড়ান্ত নাইট্রেশন",
+   "reactants": [
+    {
+     "name_bn": "2,4-ডাইনাইট্রোফেনল",
+     "formula": "C₆H₃(OH)(NO₂)₂",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পিকরিক এসিড",
+     "formula": "(O₂N)₃C₆H₂OH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₃(OH)(NO₂)₂ + HNO₃ → (O₂N)₃C₆H₂OH + H₂O",
+   "equation_printed": "চিত্রে শুধু বিকারক তীর",
+   "conditions": "গাঢ় HNO₃ + গাঢ় H₂SO₄",
+   "observations_bn": "হলুদ কেলাস।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-12-050",
+   "chapter_no": 7,
+   "section_no": "7.24",
+   "section_title_bn": "পিকরিক এসিড বা 2,4,6-ট্রাইনাইট্রোফেনল",
+   "book_page": 409,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "পিকরিক এসিড ও NaHCO₃",
+   "reactants": [
+    {
+     "name_bn": "পিকরিক এসিড",
+     "formula": "(O₂N)₃C₆H₂OH",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "সোডিয়াম বাইকার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম পিকরেট",
+     "formula": "(O₂N)₃C₆H₂ONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(O₂N)₃C₆H₂OH + NaHCO₃ → (O₂N)₃C₆H₂ONa + CO₂↑ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "পিকরিক এসিডে CO₂ বুদবুদ ওঠে, ফেনলে ওঠে না; পিকরিক এসিড প্রায় ১২ গুণ বেশি অম্লীয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-12-051",
+   "chapter_no": 7,
+   "section_no": "7.24",
+   "section_title_bn": "পিকরিক এসিড বা 2,4,6-ট্রাইনাইট্রোফেনল",
+   "book_page": 409,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পিকরিক এসিড → পিকরাইল ক্লোরাইড → পিকরামাইড",
+   "reactants": [
+    {
+     "name_bn": "পিকরিক এসিড",
+     "formula": "(O₂N)₃C₆H₂OH",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পিকরাইল ক্লোরাইড",
+     "formula": "(O₂N)₃C₆H₂Cl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পিকরামাইড",
+     "formula": "(O₂N)₃C₆H₂NH₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "(O₂N)₃C₆H₂OH →(PCl₅) (O₂N)₃C₆H₂Cl →(NH₃) (O₂N)₃C₆H₂NH₂",
+   "conditions": "PCl₅; পরে অ্যামোনিয়া",
+   "observations_bn": "পিকরাইল ক্লোরাইড পানিসহ গরম করলে পিকরিক এসিড ফিরে আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-052",
+   "chapter_no": 7,
+   "section_no": "7.25",
+   "section_title_bn": "ফেনল ও অ্যালকোহলের মধ্যে সাদৃশ্য ও বৈসাদৃশ্য",
+   "book_page": 410,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লুকাস পরীক্ষা (ইথানল)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লুকাস বিকারক (ZnCl₂ + গাঢ় HCl)",
+     "formula": "ZnCl₂/HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ক্লোরাইড",
+     "formula": "C₂H₅Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OH + HCl → C₂H₅Cl + H₂O",
+   "conditions": "ZnCl₂, উত্তপ্ত",
+   "observations_bn": "অ্যালকোহল উত্তপ্ত অবস্থায় সাদা অধঃক্ষেপ/ঘোলাটে ভাব দেয়; ফেনল কোনো বিক্রিয়া দেখায় না।",
+   "procedure_bn": [
+    "অ্যালকোহল ও ফেনলের আলাদা নমুনায় লুকাস বিকারক দিন",
+    "উত্তপ্ত করে তুলনা করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানল",
+    "ফেনল",
+    "লুকাস বিকারক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-053",
+   "chapter_no": 7,
+   "section_no": "7.25",
+   "section_title_bn": "ফেনল ও অ্যালকোহলের মধ্যে সাদৃশ্য ও বৈসাদৃশ্য",
+   "book_page": 410,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানল + Na → সোডিয়াম ইথোক্সাইড + H₂",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথোক্সাইড",
+     "formula": "C₂H₅ONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑",
+   "equation_printed": "CH₃OH + Na → CH₃ONa + ½H₂ (সারণির মিথানল উদাহরণ; ইথানলে সমতা করা)",
+   "conditions": "room temp",
+   "observations_bn": "ছোট বুদবুদে H₂ গ্যাস বের হয়।",
+   "procedure_bn": [
+    "শুষ্ক ইথানলে ছোট Na টুকরো দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানল",
+    "সোডিয়াম"
+   ],
+   "safety_bn": "সোডিয়াম পানির সংস্পর্শে বিপজ্জনক।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-054",
+   "chapter_no": 7,
+   "section_no": "7.25",
+   "section_title_bn": "ফেনল ও অ্যালকোহলের মধ্যে সাদৃশ্য ও বৈসাদৃশ্য",
+   "book_page": 410,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানল + গাঢ় H₂SO₄ → ইথিন",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "C₂H₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OH → C₂H₄↑ + H₂O",
+   "conditions": "গাঢ় H₂SO₄, 160°C",
+   "observations_bn": "নিরুদন; ফেনল এর বদলে সালফোনেশন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-055",
+   "chapter_no": 7,
+   "section_no": "7.25",
+   "section_title_bn": "ফেনল ও অ্যালকোহলের মধ্যে সাদৃশ্য ও বৈসাদৃশ্য",
+   "book_page": 410,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ফিনক্সাইড + CH₃I → অ্যানিসল",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "মিথাইল আয়োডাইড",
+     "formula": "CH₃I",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যানিসল",
+     "formula": "C₆H₅OCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅ONa + CH₃I → C₆H₅OCH₃ + NaI",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-056",
+   "chapter_no": 7,
+   "section_no": "7.25",
+   "section_title_bn": "ফেনল ও অ্যালকোহলের মধ্যে সাদৃশ্য ও বৈসাদৃশ্য",
+   "book_page": 410,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথানল-সোডিয়াম পথে ডাইমিথাইল ইথার",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম মিথোক্সাইড",
+     "formula": "CH₃ONa",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "মিথাইল আয়োডাইড",
+     "formula": "CH₃I",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইমিথাইল ইথার",
+     "formula": "CH₃OCH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃ONa + CH₃I → CH₃OCH₃ + NaI",
+   "conditions": "room temp",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-057",
+   "chapter_no": 7,
+   "section_no": "7.30",
+   "section_title_bn": "ইথারের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 413,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "ইথানল থেকে ডাইইথাইল ইথার প্রস্তুতি (পরীক্ষাগার)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথোক্সি ইথেন",
+     "formula": "C₂H₅OC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₂H₅OH → C₂H₅OC₂H₅ + H₂O",
+   "conditions": "গাঢ় H₂SO₄, 140°C",
+   "observations_bn": "ইথারের স্ফুটনাঙ্ক 35°C, তাই বাষ্প ঘনীভূত হয়ে গ্রাহক ফ্লাস্কে জমে; ফানেল দিয়ে নতুন ইথানল যোগ হয়।",
+   "procedure_bn": [
+    "ফ্লাস্কে 2 আয়তন ইথানল ও 1 আয়তন গাঢ় H₂SO₄ নিন",
+    "140°C-এ উত্তপ্ত করুন ও লিবিগ শীতকে বাষ্প ঘনীভূত করুন",
+    "একই হারে ফানেল থেকে ইথানল যোগ করুন"
+   ],
+   "quantities_bn": "ইথানল : H₂SO₄ = 2 : 1 আয়তন",
+   "materials_bn": [
+    "ইথানল",
+    "গাঢ় H₂SO₄",
+    "লিবিগ শীতক",
+    "বৈদ্যুতিক চুল্লি"
+   ],
+   "safety_bn": "ইথার অতি দাহ্য; তাপমাত্রা 140°C-এর ওপরে উঠলে ইথিন হয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-058",
+   "chapter_no": 7,
+   "section_no": "7.30",
+   "section_title_bn": "ইথারের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 414,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উইলিয়ামসন ইথার সংশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ইথোক্সাইড",
+     "formula": "C₂H₅ONa",
+     "state": "solid",
+     "form": "solid"
+    },
+    {
+     "name_bn": "মিথাইল আয়োডাইড",
+     "formula": "CH₃I",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথোক্সি ইথেন",
+     "formula": "C₂H₅OCH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₂H₅ONa + CH₃I → C₂H₅OCH₃ + NaI↓",
+   "conditions": "অ্যালকোহলে দ্রবণ, তাপ",
+   "observations_bn": "NaI অধঃক্ষেপ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-059",
+   "chapter_no": 7,
+   "section_no": "7.30",
+   "section_title_bn": "ইথারের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 414,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রিগনার্ড বিকারক দিয়ে উচ্চতর ইথার",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ম্যাগনেসিয়াম ব্রোমাইড",
+     "formula": "C₂H₅MgBr",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরোমিথাইল মিথাইল ইথার",
+     "formula": "ClCH₂OCH₃",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথোক্সি প্রোপেন",
+     "formula": "C₂H₅CH₂OCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম ক্লোরো-ব্রোমাইড",
+     "formula": "MgBrCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₂H₅MgBr + ClCH₂OCH₃ → C₂H₅CH₂OCH₃ + MgBrCl",
+   "conditions": "শুষ্ক ইথার মাধ্যম",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-060",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 415,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথার + PCl₅",
+   "reactants": [
+    {
+     "name_bn": "ডাইইথাইল ইথার",
+     "formula": "C₂H₅OC₂H₅",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ক্লোরাইড",
+     "formula": "C₂H₅Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OC₂H₅ + PCl₅ → 2C₂H₅Cl + POCl₃",
+   "conditions": "উত্তপ্ত (শীতলে বিক্রিয়া নেই)",
+   "observations_bn": "HCl গ্যাস উৎপন্ন হয় না; অ্যালকোহল ও ইথারের পার্থক্য এখানেই।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-061",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 415,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানল + PCl₅ (তুলনা)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ক্লোরাইড",
+     "formula": "C₂H₅Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OH + PCl₅ → C₂H₅Cl + HCl↑ + POCl₃",
+   "conditions": "room temp",
+   "observations_bn": "HCl ধোঁয়া ওঠে; NH₄OH-ভেজা কাচদণ্ডে সাদা ধোঁয়া হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-062",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 415,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথার + গরম গাঢ় H₂SO₄",
+   "reactants": [
+    {
+     "name_bn": "ইথার",
+     "formula": "R–O–R",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকাইল হাইড্রোজেন সালফেট",
+     "formula": "R–O–SO₃H",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R–O–R + 2H₂SO₄ → 2R–O–SO₃H + H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-063",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 416,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথারের আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ইথার",
+     "formula": "R–O–R",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "R–OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R–O–R + H₂O → 2R–OH",
+   "conditions": "লঘু অ্যাসিড (H⁺), উচ্চ চাপ, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-064",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 416,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথার + HI (ঠান্ডায় এক অণু)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল মিথাইল ইথার",
+     "formula": "CH₃OC₂H₅",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল আয়োডাইড",
+     "formula": "CH₃I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃OC₂H₅ + HI → CH₃I + C₂H₅OH",
+   "conditions": "ঠান্ডা, ঘন HI",
+   "observations_bn": "ক্ষুদ্রতর অ্যালকাইল মূলকে হ্যালোজেন যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-065",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 416,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথার + অতিরিক্ত HI",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল মিথাইল ইথার",
+     "formula": "CH₃OC₂H₅",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল আয়োডাইড",
+     "formula": "CH₃I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথাইল আয়োডাইড",
+     "formula": "C₂H₅I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃OC₂H₅ + 2HI → CH₃I + C₂H₅I + H₂O",
+   "conditions": "অতিরিক্ত HI, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-066",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 416,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথার + অ্যাসাইল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথার",
+     "formula": "R–O–R",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যাসাইল ক্লোরাইড",
+     "formula": "R–COCl",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকাইল ক্লোরাইড",
+     "formula": "R–Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "এস্টার",
+     "formula": "R–COOR",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R–O–R + R–COCl → R–Cl + R–COOR",
+   "conditions": "বিগলিত শুষ্ক ZnCl₂ বা AlCl₃, তাপ",
+   "observations_bn": "অ্যানহাইড্রাইড হলে শুধু এস্টার পাওয়া যায়: R–O–R + (RCO)₂O → 2R–COOR।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-067",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 416,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অন্ধকারে ডাইইথাইল ইথারের ক্লোরিনেশন",
+   "reactants": [
+    {
+     "name_bn": "ডাইইথাইল ইথার",
+     "formula": "C₂H₅OC₂H₅",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "α,α′-ডাইক্লোরো ডাইইথাইল ইথার",
+     "formula": "CH₃CHClOCHClCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₂H₅OC₂H₅ + 2Cl₂ → CH₃CHClOCHClCH₃ + 2HCl",
+   "conditions": "অন্ধকার",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-068",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 417,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আলোতে ইথারের পারক্লোরিনেশন",
+   "reactants": [
+    {
+     "name_bn": "ডাইইথাইল ইথার",
+     "formula": "C₂H₅OC₂H₅",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পারক্লোরো ডাইইথাইল ইথার",
+     "formula": "C₂Cl₅OC₂Cl₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₂H₅OC₂H₅ + 10Cl₂ → C₂Cl₅OC₂Cl₅ + 10HCl",
+   "conditions": "আলো, অতিরিক্ত Cl₂",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-069",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 417,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথারে অক্সোনিয়াম লবণ গঠন",
+   "reactants": [
+    {
+     "name_bn": "ডাইইথাইল ইথার",
+     "formula": "(C₂H₅)₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইইথাইল অক্সোনিয়াম হাইড্রোজেন সালফেট",
+     "formula": "[(C₂H₅)₂OH]⁺HSO₄⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "(C₂H₅)₂O + H₂SO₄ → [(C₂H₅)₂OH]⁺HSO₄⁻",
+   "conditions": "বরফ-শীতল",
+   "observations_bn": "পানি যোগ করলে ভেঙে ইথার ও অ্যাসিড ফিরে আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-070",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 417,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বায়ুতে ইথারের পারঅক্সাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "ডাইইথাইল ইথার",
+     "formula": "C₂H₅OC₂H₅",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইইথাইল পারঅক্সাইড",
+     "formula": "C₂H₅OOC₂H₅",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₂H₅OC₂H₅ + O₂ → 2C₂H₅OOC₂H₅",
+   "equation_printed": "C₂H₅–O–C₂H₅ + ½O₂ → C₂H₅–O–O–C₂H₅",
+   "conditions": "বায়ু ও আলো, দীর্ঘ সময়",
+   "observations_bn": "পুরোনো ইথার পাতনে বিস্ফোরণের ঝুঁকি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "পারঅক্সাইডযুক্ত ইথার পাতন করা বিপজ্জনক।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-071",
+   "chapter_no": 7,
+   "section_no": "7.32",
+   "section_title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "book_page": 417,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ইথারে পারঅক্সাইড শনাক্তকরণ (KI পরীক্ষা)",
+   "reactants": [
+    {
+     "name_bn": "পুরোনো ইথার",
+     "formula": "C₂H₅OC₂H₅",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাশিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "পারঅক্সাইড + KI → I₂ (সমীকরণ বইয়ে নেই)",
+   "conditions": "room temp",
+   "observations_bn": "KI দ্রবণ যোগে হলুদ-বাদামি আয়োডিন রং দেখা দিলে পারঅক্সাইড আছে।",
+   "procedure_bn": [
+    "ইথারে KI দ্রবণ ঝাঁকিয়ে মেশান",
+    "রং পরিবর্তন লক্ষ্য করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথার",
+    "KI দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-12-072",
+   "chapter_no": 7,
+   "section_no": "7.33",
+   "section_title_bn": "ইথার ও অ্যালকোহলের মধ্যে পার্থক্য",
+   "book_page": 418,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যালকোহলের জারণ (K₂Cr₂O₇ দিয়ে)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অম্লীয় পটাশিয়াম ডাইক্রোমেট",
+     "formula": "K₂Cr₂O₇/H⁺",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OH →[O] CH₃CHO →[O] CH₃COOH",
+   "equation_printed": "C₂H₅OH →[O] CH₃CHO →[O] CH₃COOH (অম্লীয় K₂Cr₂O₇ সারণিতে; চেইন-আকারে ছাপা)",
+   "conditions": "অম্লীয় K₂Cr₂O₇, উষ্ণ",
+   "observations_bn": "অ্যালকোহল জারিত হয়, ইথার হয় না।",
+   "procedure_bn": [
+    "ইথানল ও অম্লীয় K₂Cr₂O₇ উষ্ণ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানল",
+    "K₂Cr₂O₇",
+    "লঘু H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 7,
+   "no": "7.14.5",
+   "title_bn": "অ্যালকোহলে পানির উপস্থিতি শনাক্তকরণ: নিরুদিত কপার সালফেটসহ পরীক্ষা",
+   "start_page": 396
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.15",
+   "title_bn": "আরোহ পদ্ধতি ও অবরোহ পদ্ধতি",
+   "start_page": 396
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.16",
+   "title_bn": "অ্যারোমেটিক হাইড্রক্সি যৌগ: ফেনল",
+   "start_page": 396
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.17",
+   "title_bn": "ফেনলের নামকরণ ও শ্রেণীবিভাগ",
+   "start_page": 397
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.18",
+   "title_bn": "পরীক্ষাগারে ফেনল প্রস্তুতি",
+   "start_page": 398
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.19",
+   "title_bn": "ফেনলের শিল্পোৎপাদন",
+   "start_page": 398
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.20",
+   "title_bn": "ফেনলের ভৌত ধর্ম",
+   "start_page": 400
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.21",
+   "title_bn": "ফেনলের রাসায়নিক ধর্ম",
+   "start_page": 400
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.21.1",
+   "title_bn": "ফেনলের -OH মূলকের বিক্রিয়া",
+   "start_page": 401
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.21.2",
+   "title_bn": "বেনজিন বলয়ে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "start_page": 405
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.21.3",
+   "title_bn": "ফেনলের বিশেষ বিক্রিয়া",
+   "start_page": 406
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.22",
+   "title_bn": "ফেনলের শনাক্তকরণ পরীক্ষা",
+   "start_page": 407
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.23",
+   "title_bn": "ফেনলের ব্যবহার",
+   "start_page": 408
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.24",
+   "title_bn": "পিকরিক এসিড বা 2,4,6-ট্রাইনাইট্রোফেনল",
+   "start_page": 408
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.25",
+   "title_bn": "ফেনল ও অ্যালকোহলের মধ্যে সাদৃশ্য ও বৈসাদৃশ্য",
+   "start_page": 409
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.26",
+   "title_bn": "ইথার: ভূমিকা",
+   "start_page": 411
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.27",
+   "title_bn": "ইথারের শ্রেণীবিভাগ",
+   "start_page": 411
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.28",
+   "title_bn": "ইথারের নামকরণ",
+   "start_page": 412
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.29",
+   "title_bn": "ইথারের সমাণুতা",
+   "start_page": 413
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.30",
+   "title_bn": "ইথারের সাধারণ প্রস্তুত প্রণালী",
+   "start_page": 413
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.31",
+   "title_bn": "ইথারের ভৌত ধর্ম",
+   "start_page": 414
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.32",
+   "title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "start_page": 415
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.33",
+   "title_bn": "ইথার ও অ্যালকোহলের মধ্যে পার্থক্য",
+   "start_page": 417
+  },
+  {
+   "chapter_no": 7,
+   "no": "7.34",
+   "title_bn": "ইথারের ব্যবহার",
+   "start_page": 418
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "অধ্যায় ৭ (অ্যালকোহল, ফেনল ও ইথারসমূহ)। pdf 435–446 (printed 420–431) অনুশীলনী/প্রশ্নব্যাংক/MCQ, বাদ। সারণি ৭.৩ ও ৭.৫-এর অ্যাসিটাইল ক্লোরাইড/Na/PCl₅ সারি একবারই নেওয়া। ফেনলের সৃজনশীল/অন্যান্য সমীকরণে ছাপার ত্রুটি partly-legible চিহ্নিত।"
+}

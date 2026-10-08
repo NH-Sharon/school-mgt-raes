@@ -1,0 +1,3346 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  303,
+  338
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-09-01",
+   "chapter_no": 5,
+   "section_no": "5.23",
+   "section_title_bn": "অ্যালকাইনের অম্লধর্মিতা (শিরোনাম পৃষ্ঠায় নেই)",
+   "book_page": 288,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "অ্যাসিটিলিনের সাথে অ্যামোনিয়াযুক্ত সিলভার নাইট্রেট (অম্লধর্মিতা পরীক্ষা)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিলিন (ইথাইন)",
+     "formula": "C₂H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ডাই-অ্যামিন সিলভার(I) নাইট্রেট",
+     "formula": "[Ag(NH₃)₂]NO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার অ্যাসিটিলাইড",
+     "formula": "Ag₂C₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম নাইট্রেট",
+     "formula": "NH₄NO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "HC≡CH + 2[Ag(NH₃)₂]NO₃ → AgC≡CAg↓ + 2NH₄NO₃ + 2NH₃↑",
+   "conditions": "room temp, গ্যাস দ্রবণে চালনা",
+   "observations_bn": "সাদা অধঃক্ষেপ পড়ে; এতে প্রমাণ হয় ইথাইনের C–H মৃদু অম্লীয়।",
+   "procedure_bn": [
+    "ইথাইন গ্যাস বিকারকে চালনা করা হয়",
+    "সাদা অধঃক্ষেপ লক্ষ করা হয়"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথাইন গ্যাস",
+    "অ্যামোনিয়াযুক্ত AgNO₃ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-02",
+   "chapter_no": 5,
+   "section_no": "5.23",
+   "section_title_bn": "অ্যালকাইনের অম্লধর্মিতা (শিরোনাম পৃষ্ঠায় নেই)",
+   "book_page": 288,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "অ্যাসিটিলিনের সাথে অ্যামোনিয়াযুক্ত কিউপ্রাস ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিলিন (ইথাইন)",
+     "formula": "C₂H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ডাই-অ্যামিন কপার(I) ক্লোরাইড",
+     "formula": "[Cu(NH₃)₂]Cl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার অ্যাসিটিলাইড",
+     "formula": "Cu₂C₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "HC≡CH + 2[Cu(NH₃)₂]Cl → CuC≡CCu↓ + 2NH₄Cl + 2NH₃↑",
+   "conditions": "room temp",
+   "observations_bn": "লাল অধঃক্ষেপ (কপার অ্যাসিটিলাইড) তৈরি হয়।",
+   "procedure_bn": [
+    "ইথাইন গ্যাস বিকারকে চালনা করা হয়"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথাইন গ্যাস",
+    "অ্যামোনিয়াযুক্ত Cu₂Cl₂ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-03",
+   "chapter_no": 5,
+   "section_no": "5.23",
+   "section_title_bn": "অ্যালকাইনের অম্লধর্মিতা (শিরোনাম পৃষ্ঠায় নেই)",
+   "book_page": 288,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়াযুক্ত সিলভার নাইট্রেট বিকারক প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাই-অ্যামিন সিলভার(I) নাইট্রেট",
+     "formula": "[Ag(NH₃)₂]NO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "AgNO₃ + 2NH₄OH → [Ag(NH₃)₂]NO₃ + 2H₂O",
+   "conditions": "room temp",
+   "observations_bn": "বিকারক দ্রবণ তৈরি হয় (বইয়ে রঙ উল্লেখ নেই)।",
+   "procedure_bn": [
+    "AgNO₃ দ্রবণে NH₄OH মেশানো হয়"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgNO₃",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-04",
+   "chapter_no": 5,
+   "section_no": "5.23",
+   "section_title_bn": "অ্যালকাইনের অম্লধর্মিতা (শিরোনাম পৃষ্ঠায় নেই)",
+   "book_page": 288,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়াযুক্ত কিউপ্রাস ক্লোরাইড বিকারক প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "কিউপ্রাস ক্লোরাইড",
+     "formula": "Cu₂Cl₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম হাইড্রক্সাইড",
+     "formula": "NH₄OH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাই-অ্যামিন কপার(I) ক্লোরাইড",
+     "formula": "[Cu(NH₃)₂]Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Cu₂Cl₂ + 4NH₄OH → 2[Cu(NH₃)₂]Cl + 4H₂O",
+   "conditions": "room temp",
+   "observations_bn": "বিকারক দ্রবণ তৈরি হয় (বইয়ে রঙ উল্লেখ নেই)।",
+   "procedure_bn": [
+    "Cu₂Cl₂ কে NH₄OH এ দ্রবীভূত করা হয়"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cu₂Cl₂",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-05",
+   "chapter_no": 5,
+   "section_no": "5.24",
+   "section_title_bn": "অ্যালকাইনের ব্যবহার",
+   "book_page": 288,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অক্সি-অ্যাসিটিলিন শিখা (অ্যাসিটিলিনের পূর্ণ দহন)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিলিন (ইথাইন)",
+     "formula": "C₂H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি (বাষ্প)",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₂H₂ + 5O₂ → 4CO₂ + 2H₂O + তাপ",
+   "conditions": "জ্বলন; শিখার তাপমাত্রা প্রায় 3500°C",
+   "observations_bn": "নীলাভ শিখা জ্বলে, প্রচণ্ড তাপে ধাতু গলে/জোড়া লাগে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₂H₂",
+    "O₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-06",
+   "chapter_no": 5,
+   "section_no": "5.25",
+   "section_title_bn": "অ্যালকাইন-1 ও অ্যালকাইন-2 এর মধ্যে পার্থক্যকরণ",
+   "book_page": 288,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "বিউটাইন-1 ও বিউটাইন-2 পার্থক্য: অ্যামোনিয়াযুক্ত AgNO₃",
+   "reactants": [
+    {
+     "name_bn": "বিউটাইন-1",
+     "formula": "CH₃CH₂C≡CH",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ডাই-অ্যামিন সিলভার(I) নাইট্রেট",
+     "formula": "[Ag(NH₃)₂]NO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার বিউটাইনাইড",
+     "formula": "CH₃CH₂C≡CAg",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম নাইট্রেট",
+     "formula": "NH₄NO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂C≡CH + [Ag(NH₃)₂]NO₃ → CH₃CH₂C≡CAg↓ + NH₄NO₃ + NH₃↑",
+   "equation_printed": "CH₃CH₂C≡CH + Ag(NH₃)₂NO₃ → CH₃CH₂C≡C.Ag(s) + NH₄NO₃ + NH₃",
+   "conditions": "room temp",
+   "observations_bn": "বিউটাইন-1 এ সাদা অধঃক্ষেপ পড়ে, বিউটাইন-2 এ কোনো বিক্রিয়া হয় না।",
+   "procedure_bn": [
+    "গ্যাসটি বিকারকে চালনা করা হয়",
+    "অধঃক্ষেপ আছে কিনা দেখা হয়"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বিউটাইন-1/-2",
+    "অ্যামোনিয়াযুক্ত AgNO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-07",
+   "chapter_no": 5,
+   "section_no": "5.25",
+   "section_title_bn": "অ্যালকাইন-1 ও অ্যালকাইন-2 এর মধ্যে পার্থক্যকরণ",
+   "book_page": 288,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "বিউটাইন-1 ও বিউটাইন-2 পার্থক্য: অ্যামোনিয়াযুক্ত কিউপ্রাস ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "বিউটাইন-1",
+     "formula": "CH₃CH₂C≡CH",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ডাই-অ্যামিন কপার(I) ক্লোরাইড",
+     "formula": "[Cu(NH₃)₂]Cl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার বিউটাইনাইড",
+     "formula": "CH₃CH₂C≡CCu",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂C≡CH + [Cu(NH₃)₂]Cl → CH₃CH₂C≡CCu↓ + NH₄Cl + NH₃↑",
+   "conditions": "room temp",
+   "observations_bn": "বিউটাইন-1 এ লাল অধঃক্ষেপ পড়ে, বিউটাইন-2 এ পড়ে না।",
+   "procedure_bn": [
+    "গ্যাসটি বিকারকে চালনা করা হয়"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বিউটাইন-1/-2",
+    "অ্যামোনিয়াযুক্ত Cu₂Cl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-08",
+   "chapter_no": 5,
+   "section_no": "5.26",
+   "section_title_bn": "অ্যালকিন-1 ও অ্যালকাইনের-1 এর পার্থক্যকরণ",
+   "book_page": 289,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "ব্রোমিন দ্রবণ পরীক্ষা: ইথিন (অ্যালকিন) বনাম ইথাইন",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ব্রোমিন (CCl₄ তে দ্রবীভূত)",
+     "formula": "Br₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,2-ডাইব্রোমোইথেন",
+     "formula": "BrCH₂–CH₂Br",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + Br₂ → BrCH₂–CH₂Br",
+   "conditions": "room temp; ইথাইনের বেলায় দ্বিগুণ Br₂ লাগে: HC≡CH + 2Br₂ → CHBr₂–CHBr₂",
+   "observations_bn": "দুই ক্ষেত্রেই ব্রোমিনের লাল রঙ বিলীন হয়; এই পরীক্ষায় অ্যালকিন ও অ্যালকাইন আলাদা করা যায় না।",
+   "procedure_bn": [
+    "গ্যাস CCl₄-ব্রোমিন দ্রবণে চালনা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Br₂/CCl₄",
+    "ইথিন বা ইথাইন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-09",
+   "chapter_no": 5,
+   "section_no": "5.26",
+   "section_title_bn": "অ্যালকিন-1 ও অ্যালকাইনের-1 এর পার্থক্যকরণ",
+   "book_page": 289,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "বেয়ারের বিকারক (ক্ষারীয় KMnO₄) পরীক্ষা: ইথিন বনাম ইথাইন",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্ষারীয় পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিলিন গ্লাইকল",
+     "formula": "HOCH₂–CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + [O] + H₂O → HOCH₂–CH₂OH",
+   "equation_printed": "CH₂=CH₂ + [O] + H₂O → CH₂(OH)–CH₂(OH)",
+   "conditions": "room temp; ইথাইনে: RC≡CH + 4[O] → RCOOH + CO₂",
+   "observations_bn": "দুই ক্ষেত্রেই KMnO₄ এর গোলাপি রঙ চলে যায়, তাই এ পরীক্ষায় পার্থক্য হয় না।",
+   "procedure_bn": [
+    "গ্যাস ক্ষারীয় KMnO₄ দ্রবণে চালনা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্ষারীয় KMnO₄",
+    "ইথিন/ইথাইন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-10",
+   "chapter_no": 5,
+   "section_no": "5.26",
+   "section_title_bn": "অ্যালকিন-1 ও অ্যালকাইনের-1 এর পার্থক্যকরণ",
+   "book_page": 289,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "অ্যামোনিয়াযুক্ত AgNO₃ ও Cu₂Cl₂ দ্বারা ইথাইন শনাক্তকরণ (ইথিন থেকে পার্থক্য)",
+   "reactants": [
+    {
+     "name_bn": "টার্মিনাল অ্যালকাইন",
+     "formula": "RC≡CH",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ডাই-অ্যামিন সিলভার(I) নাইট্রেট",
+     "formula": "[Ag(NH₃)₂]NO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার অ্যালকাইনাইড",
+     "formula": "RC≡CAg",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম নাইট্রেট",
+     "formula": "NH₄NO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "RC≡CH + [Ag(NH₃)₂]NO₃ → RC≡CAg↓ + NH₄NO₃ + NH₃↑",
+   "conditions": "room temp; Cu₂Cl₂ বিকারকে HC≡CH + 2[Cu(NH₃)₂]Cl → Cu₂C₂↓ + 2NH₄Cl + 2NH₃",
+   "observations_bn": "অ্যালকাইনে সাদা (Ag) বা লাল (Cu) অধঃক্ষেপ পড়ে; অ্যালকিনে কোনো বিক্রিয়া নেই।",
+   "procedure_bn": [
+    "বিকারকে গ্যাস চালনা করে অধঃক্ষেপ দেখা হয়"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যামোনিয়াযুক্ত AgNO₃",
+    "অ্যামোনিয়াযুক্ত Cu₂Cl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-11",
+   "chapter_no": 5,
+   "section_no": "5.27",
+   "section_title_bn": "ইথেন, ইথিন ও ইথাইন গ্যাস মিশ্রণ থেকে তাদেরকে পৃথকীকরণ",
+   "book_page": 289,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "ইথেন, ইথিন ও ইথাইন গ্যাস-মিশ্রণ আলাদা করা",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিলিন (ইথাইন)",
+     "formula": "C₂H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ডাই-অ্যামিন কপার(I) ক্লোরাইড",
+     "formula": "[Cu(NH₃)₂]Cl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার অ্যাসিটিলাইড",
+     "formula": "Cu₂C₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "HC≡CH + 2[Cu(NH₃)₂]Cl → CuC≡CCu↓ + 2NH₄Cl + 2NH₃↑",
+   "conditions": "room temp",
+   "observations_bn": "ইথাইন শোষিত হয়ে লাল অধঃক্ষেপ দেয়; ইথেন ও ইথিন গ্যাস বেরিয়ে যায়।",
+   "procedure_bn": [
+    "মিশ্রণ অ্যামোনিয়াযুক্ত Cu₂Cl₂ এ চালনা, ইথাইন অধঃক্ষেপ হয়",
+    "বের হওয়া গ্যাস গাঢ় H₂SO₄ এ চালনা: ইথিন শোষিত, ইথেন বুদবুদ হয়ে বের হয়",
+    "ইথিন ফেরত পেতে শোষিত এস্টার 160°C এ গরম",
+    "অধঃক্ষেপে লঘু HCl দিয়ে ইথাইন ফেরত"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গ্যাস মিশ্রণ",
+    "অ্যামোনিয়াযুক্ত Cu₂Cl₂",
+    "গাঢ় H₂SO₄",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-12",
+   "chapter_no": 5,
+   "section_no": "5.27",
+   "section_title_bn": "ইথেন, ইথিন ও ইথাইন গ্যাস মিশ্রণ থেকে তাদেরকে পৃথকীকরণ",
+   "book_page": 289,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কপার অ্যাসিটিলাইড থেকে ইথাইন পুনরুদ্ধার",
+   "reactants": [
+    {
+     "name_bn": "কপার অ্যাসিটিলাইড",
+     "formula": "Cu₂C₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটিলিন (ইথাইন)",
+     "formula": "C₂H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "কিউপ্রাস ক্লোরাইড",
+     "formula": "CuCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "Cu₂C₂ + 2HCl → HC≡CH↑ + 2CuCl",
+   "equation_printed": "Cu.C≡C.Cu(s) + 2HCl → H–C≡C–H(g) + 2CuCl",
+   "conditions": "লঘু HCl, গরম",
+   "observations_bn": "ইথাইন গ্যাস মুক্ত হয়।",
+   "procedure_bn": [
+    "লাল অধঃক্ষেপে লঘু HCl দিয়ে উত্তপ্ত করা হয়"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cu₂C₂",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-13",
+   "chapter_no": 5,
+   "section_no": "5.27",
+   "section_title_bn": "ইথেন, ইথিন ও ইথাইন গ্যাস মিশ্রণ থেকে তাদেরকে পৃথকীকরণ",
+   "book_page": 289,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিন শোষণ: গাঢ় H₂SO₄ এ ইথাইল হাইড্রোজেন সালফেট গঠন",
+   "reactants": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল হাইড্রোজেন সালফেট",
+     "formula": "CH₃CH₂OSO₃H",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH₂ + H₂SO₄ → CH₃–CH₂–O–SO₃H",
+   "conditions": "গাঢ় H₂SO₄, 25°C",
+   "observations_bn": "ইথিন শোষিত হয়, ইথেন অশোষিত থেকে বুদবুদ আকারে বের হয়।",
+   "procedure_bn": [
+    "মিশ্রণ গাঢ় H₂SO₄ এ চালনা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-14",
+   "chapter_no": 5,
+   "section_no": "5.27",
+   "section_title_bn": "ইথেন, ইথিন ও ইথাইন গ্যাস মিশ্রণ থেকে তাদেরকে পৃথকীকরণ",
+   "book_page": 289,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল হাইড্রোজেন সালফেট থেকে ইথিন পুনরুদ্ধার",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল হাইড্রোজেন সালফেট",
+     "formula": "CH₃CH₂OSO₃H",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃–CH₂–O–SO₃H → CH₂=CH₂↑ + H₂SO₄",
+   "conditions": "160°C এ উত্তপ্ত (Δ)",
+   "observations_bn": "ইথিন গ্যাস মুক্ত হয়, যা পানি অপসারণ পদ্ধতিতে সংগ্রহ করা হয়।",
+   "procedure_bn": [
+    "160°C এ গরম করে গ্যাস সংগ্রহ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সালফেট এস্টার",
+    "গ্যাস সংগ্রহ নল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-15",
+   "chapter_no": 5,
+   "section_no": "5.33",
+   "section_title_bn": "কয়লার বিধ্বংসী পাতন বা অন্তর্ধূম পাতন",
+   "book_page": 292,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "কয়লার বিধ্বংসী (অন্তর্ধূম) পাতন",
+   "reactants": [
+    {
+     "name_bn": "বিটুমিনাস কয়লা",
+     "formula": "C",
+     "state": "solid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কোল গ্যাস",
+     "formula": "—",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াকাল লিকার",
+     "formula": "—",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আলকাতরা",
+     "formula": "—",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কোক",
+     "formula": "C",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "লৌহ রিটর্টে বায়ুর অনুপস্থিতিতে 900–1100°C",
+   "observations_bn": "রিটর্টে কোক থাকে; ঠান্ডা হয়ে আলকাতরা ও অ্যামোনিয়াকাল লিকার আলাদা স্তরে জমে; অঘনীভূত কোল গ্যাস বেরোয়।",
+   "procedure_bn": [
+    "কয়লা রিটর্টে বায়ুহীন অবস্থায় উত্তপ্ত",
+    "উদ্বায়ী অংশ ঠান্ডা করে ঘনীভূত",
+    "দুই তরল স্তর আলাদা (উপরে লিকার, নিচে আলকাতরা)"
+   ],
+   "quantities_bn": "কয়লা থেকে প্রাপ্ত: কোল গ্যাস ~17%, অ্যামোনিয়াকাল লিকার 4–5%, আলকাতরা 8–10%, কোক ~70% (বইয়ের তথ্য)।",
+   "materials_bn": [
+    "বিটুমিনাস কয়লা",
+    "লৌহ রিটর্ট",
+    "শীতক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-16",
+   "chapter_no": 5,
+   "section_no": "5.33",
+   "section_title_bn": "কয়লার বিধ্বংসী পাতন বা অন্তর্ধূম পাতন",
+   "book_page": 292,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "কোল গ্যাস থেকে অ্যামোনিয়া ও H₂S অপসারণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম সালফেট",
+     "formula": "(NH₄)₂SO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "2NH₃ + H₂SO₄ → (NH₄)₂SO₄",
+   "conditions": "গ্যাস H₂SO₄ এর মধ্য দিয়ে চালনা",
+   "observations_bn": "গ্যাস থেকে NH₃ লবণ হিসেবে আলাদা হয়; পরে আর্দ্র Fe₂O₃ এ H₂S আলাদা হয়।",
+   "procedure_bn": [
+    "পানি দিয়ে ধোয়া",
+    "H₂SO₄ এর মধ্য দিয়ে চালনা",
+    "আর্দ্র ফেরিক হাইড্রোক্সাইডে চালনা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "H₂SO₄",
+    "Fe(OH)₃"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-09-17",
+   "chapter_no": 5,
+   "section_no": "5.34",
+   "section_title_bn": "আলকাতরা বা কোলটারের আংশিক পাতন",
+   "book_page": 293,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "আলকাতরার আংশিক পাতন",
+   "reactants": [
+    {
+     "name_bn": "আলকাতরা",
+     "formula": "—",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হালকা তেল",
+     "formula": "—",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মধ্যম তেল",
+     "formula": "—",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ভারী তেল",
+     "formula": "—",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সবুজ তেল",
+     "formula": "—",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পিচ",
+     "formula": "—",
+     "state": "solid"
+    }
+   ],
+   "equation": "",
+   "conditions": "রিটর্টে আংশিক পাতন, 400°C পর্যন্ত",
+   "observations_bn": "পাতিত ভগ্নাংশ আলাদা তেল; রিটর্টে কালো পিচ থাকে।",
+   "procedure_bn": [
+    "আলকাতরা ধীরে ধীরে 400°C পর্যন্ত আংশিক পাতন"
+   ],
+   "quantities_bn": "হালকা তেল ≤170°C (5%, আ.গু. 0.97: বেনজিন, টলুইন, জাইলিন); মধ্যম 171–230°C (7.5%: ফেনল, ক্রিসল, ন্যাফথালিন); ভারী 231–270°C (10%: ক্রিসল, ন্যাফথালিন, কুইনোলিন); সবুজ 271–400°C (20%: অ্যানথ্রাসিন, ফিনানথ্রিন); পিচ 57.5%.",
+   "materials_bn": [
+    "আলকাতরা",
+    "অংশ-কলাম"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-18",
+   "chapter_no": 5,
+   "section_no": "5.35",
+   "section_title_bn": "আলকাতরা বা কোলটার বা লঘু তৈল থেকে বেনজিন পৃথকীকরণ",
+   "book_page": 293,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "লঘু তৈল থেকে ক্ষারীয় পদার্থ (অ্যানিলিন) অপসারণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যানিলিনিয়াম সালফেট",
+     "formula": "(C₆H₅NH₃)₂SO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "2C₆H₅NH₂ + H₂SO₄ → (C₆H₅NH₃)₂SO₄",
+   "conditions": "গাঢ় H₂SO₄ দিয়ে ধোয়া, room temp",
+   "observations_bn": "ক্ষারীয় অশুদ্ধি অ্যাসিডে দ্রবণীয় লবণ হয়ে সরে যায়।",
+   "procedure_bn": [
+    "লঘু তৈলকে গাঢ় H₂SO₄ দিয়ে ঝাঁকিয়ে ধোয়া"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লঘু তৈল",
+    "গাঢ় H₂SO₄",
+    "বিভাজক ফানেল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-19",
+   "chapter_no": 5,
+   "section_no": "5.35",
+   "section_title_bn": "আলকাতরা বা কোলটার বা লঘু তৈল থেকে বেনজিন পৃথকীকরণ",
+   "book_page": 293,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "লঘু তৈল থেকে অম্লীয় পদার্থ (ফেনল) অপসারণ",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফিনক্সাইড",
+     "formula": "C₆H₅ONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + NaOH → C₆H₅ONa + H₂O",
+   "conditions": "10% NaOH দ্রবণ, room temp",
+   "observations_bn": "ফেনল দ্রবণীয় লবণ হয়ে জলীয় স্তরে চলে যায়।",
+   "procedure_bn": [
+    "অ্যাসিড-ধোয়া তৈলকে 10% NaOH দিয়ে ধোয়া",
+    "পানি দিয়ে বারবার ধোয়া"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "10% NaOH",
+    "বিভাজক ফানেল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-20",
+   "chapter_no": 5,
+   "section_no": "5.35",
+   "section_title_bn": "আলকাতরা বা কোলটার বা লঘু তৈল থেকে বেনজিন পৃথকীকরণ",
+   "book_page": 293,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "লঘু তৈল থেকে বিশুদ্ধ বেনজিন নিষ্কাশন",
+   "reactants": [
+    {
+     "name_bn": "লঘু তৈল",
+     "formula": "—",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "আংশিক পাতন 70–110°C (90% বেনজল), পরে 80–82°C",
+   "observations_bn": "প্রথম পাতনে 90% বেনজল, দ্বিতীয় পাতনে প্রায় 99% বিশুদ্ধ বেনজিন পাওয়া যায়।",
+   "procedure_bn": [
+    "অ্যাসিড ও ক্ষার দিয়ে ধুয়ে অশুদ্ধি সরানো",
+    "70–110°C এ পাতন করে 90% বেনজল সংগ্রহ",
+    "80–82°C এ পুনরায় পাতন"
+   ],
+   "quantities_bn": "90% বেনজল = 84% বেনজিন + 13% টলুইন + 3% জাইলিন; থায়োফিন সরাতে ঠান্ডা গাঢ় H₂SO₄ দিয়ে ঝাঁকানো; পরে হিম-মিশ্রণে বেনজিন জমিয়ে (5.4°C) ছেঁকে অনার্দ্র CaCl₂ দিয়ে শুকিয়ে 80.4°C এ পাতন।",
+   "materials_bn": [
+    "লঘু তৈল",
+    "গাঢ় H₂SO₄",
+    "10% NaOH",
+    "পাতন যন্ত্র"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-21",
+   "chapter_no": 5,
+   "section_no": "5.35.1",
+   "section_title_bn": "কোল গ্যাস থেকে বেনজিন",
+   "book_page": 294,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "কোল গ্যাস থেকে বেনজিন সংগ্রহ (শোষক বা দ্রাবক দ্বারা)",
+   "reactants": [
+    {
+     "name_bn": "কোল গ্যাসের অ্যারোমেটিক বাষ্প",
+     "formula": "—",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লঘু তৈল",
+     "formula": "—",
+     "state": "liquid"
+    }
+   ],
+   "equation": "",
+   "conditions": "সক্রিয় কয়লায় শোষণ, স্টিমে মুক্তকরণ; অথবা ক্রিয়োজোট তেলে দ্রবীকরণ ও উত্তপ্ত করে বাষ্পায়ন",
+   "observations_bn": "অ্যারোমেটিক বাষ্প আলাদা হয়ে বাদামি লঘু তৈল পাওয়া যায়।",
+   "procedure_bn": [
+    "গ্যাস সক্রিয় কয়লায় বা ক্রিয়োজোট তেলে চালনা",
+    "স্টিম/তাপ দিয়ে অ্যারোমেটিক অংশ বের করা",
+    "ঘনীভূত লঘু তৈল আগের মতো শোধন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কোল গ্যাস",
+    "সক্রিয় কয়লা বা ক্রিয়োজোট তেল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-22",
+   "chapter_no": 5,
+   "section_no": "5.36",
+   "section_title_bn": "পেট্রোলিয়াম থেকে বেনজিন ও টলুইনের উৎপাদন",
+   "book_page": 294,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "n-হেক্সেন থেকে বেনজিন (অ্যারোমেটাইজেশন/রিফর্মিং)",
+   "reactants": [
+    {
+     "name_bn": "n-হেক্সেন",
+     "formula": "C₆H₁₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₁₄ → C₆H₆ + 4H₂↑",
+   "equation_printed": "n-হেক্সেন → সাইক্লোহেক্সেন (500°C, 15 atm); সাইক্লোহেক্সেন → বেনজিন + 3H₂ (ধাপ ১ এ H₂ দেখানো নেই)",
+   "conditions": "Pt/Al₂O₃ (Al), V₂O₅ বা Cr₂O₃; 500°C, 15 atm",
+   "observations_bn": "প্রথমে সাইক্লোহেক্সেন হয়ে তারপর H₂ অপসারণে বেনজিন হয়।",
+   "procedure_bn": [
+    "Pt-Al এর সাথে V₂O₅ বা Cr₂O₃ প্রভাবকে বাষ্প চালনা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "n-হেক্সেন",
+    "Pt-Al/V₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-09-23",
+   "chapter_no": 5,
+   "section_no": "5.36",
+   "section_title_bn": "পেট্রোলিয়াম থেকে বেনজিন ও টলুইনের উৎপাদন",
+   "book_page": 295,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "n-হেপ্টেন থেকে টলুইন",
+   "reactants": [
+    {
+     "name_bn": "n-হেপ্টেন",
+     "formula": "C₇H₁₆",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₇H₁₆ → C₆H₅CH₃ + 4H₂↑",
+   "equation_printed": "n-হেপ্টেন → মিথাইল সাইক্লোহেক্সেন → টলুইন + 3H₂ (ধাপ ১ এ H₂ অনুল্লেখিত)",
+   "conditions": "Pt/Al₂O₃, V₂O₅; 500°C, 15 atm",
+   "observations_bn": "মিথাইল সাইক্লোহেক্সেন হয়ে টলুইন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "n-হেপ্টেন"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-09-24",
+   "chapter_no": 5,
+   "section_no": "5.36",
+   "section_title_bn": "পেট্রোলিয়াম থেকে বেনজিন ও টলুইনের উৎপাদন",
+   "book_page": 295,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "n-অক্টেন থেকে জাইলিন (o- ও p-)",
+   "reactants": [
+    {
+     "name_bn": "n-অক্টেন",
+     "formula": "CH₃(CH₂)₆CH₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "o-/p-জাইলিন",
+     "formula": "C₆H₄(CH₃)₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₈H₁₈ → C₆H₄(CH₃)₂ + 4H₂↑",
+   "equation_printed": "n-অক্টেন → ডাইমিথাইল সাইক্লোহেক্সেন → o-জাইলিন + p-জাইলিন + 3H₂",
+   "conditions": "Pt/Al₂O₃, V₂O₅; 500°C, 15 atm",
+   "observations_bn": "ডাইমিথাইল সাইক্লোহেক্সেন হয়ে o- ও p-জাইলিন মিশ্রণ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "n-অক্টেন"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-09-25",
+   "chapter_no": 5,
+   "section_no": "5.36",
+   "section_title_bn": "পেট্রোলিয়াম থেকে বেনজিন ও টলুইনের উৎপাদন",
+   "book_page": 295,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইনের হাইড্রো-ডিঅ্যালকাইলেশন (বেনজিনে রূপান্তর)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + H₂ → C₆H₆ + CH₄",
+   "conditions": "Pt/Al₂O₃, 600°C",
+   "observations_bn": "বেনজিন ও মিথেন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-26",
+   "chapter_no": 5,
+   "section_no": "5.36",
+   "section_title_bn": "পেট্রোলিয়াম থেকে বেনজিন ও টলুইনের উৎপাদন",
+   "book_page": 295,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জাইলিনের হাইড্রো-ডিঅ্যালকাইলেশন",
+   "reactants": [
+    {
+     "name_bn": "জাইলিন",
+     "formula": "C₆H₄(CH₃)₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথেন",
+     "formula": "C₂H₆",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₄(CH₃)₂ + H₂ → C₆H₆ + C₂H₆",
+   "conditions": "Pt/Al₂O₃, 600°C",
+   "observations_bn": "বেনজিন ও ইথেন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জাইলিন",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-27",
+   "chapter_no": 5,
+   "section_no": "5.37",
+   "section_title_bn": "পরীক্ষাগারে বেনজিন প্রস্তুত পদ্ধতি",
+   "book_page": 295,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "সোডিয়াম বেনজোয়েট ও সোডালাইম থেকে বেনজিন প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম বেনজোয়েট",
+     "formula": "C₆H₅COONa",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডালাইম (NaOH/CaO)",
+     "formula": "NaOH",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅COONa + NaOH → C₆H₆ + Na₂CO₃",
+   "conditions": "তীব্র উত্তাপ (Δ), CaO সহ",
+   "observations_bn": "বেনজিন বাষ্প উঠে ঠান্ডা গ্রাহকে তরল হয়ে জমে।",
+   "procedure_bn": [
+    "1:3 অনুপাতে লবণ ও সোডালাইম রিটর্টে নেওয়া",
+    "রিটর্টের নল বরফ-ঠান্ডা পানিতে ডোবানো ফ্লাস্কে ঢোকানো",
+    "ধীরে ও সমভাবে উত্তপ্ত করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম বেনজোয়েট",
+    "সোডালাইম",
+    "কাচের রিটর্ট",
+    "গোলতলী ফ্লাস্ক",
+    "বরফ",
+    "বালিখোলা"
+   ],
+   "safety_bn": "বেনজিন বাষ্প দাহ্য; ফ্লাস্ক থেকে বাষ্প বেরোতে না দেওয়া এবং ধীরে সমান তাপ দেওয়া।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-28",
+   "chapter_no": 5,
+   "section_no": "5.37",
+   "section_title_bn": "পরীক্ষাগারে বেনজিন প্রস্তুত পদ্ধতি",
+   "book_page": 296,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "ফেনল থেকে বেনজিন (জিংক গুঁড়া দিয়ে বিজারণ)",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅OH + Zn → C₆H₆ + ZnO",
+   "conditions": "উত্তপ্ত (Δ)",
+   "observations_bn": "বেনজিন বাষ্প ঠান্ডা করলে তরল বেনজিন মেলে।",
+   "procedure_bn": [
+    "ফেনল ও জিংক গুঁড়া কাচের ফ্লাস্কে উত্তপ্ত",
+    "বাষ্প ঠান্ডা করে সংগ্রহ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "জিংক গুঁড়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-29",
+   "chapter_no": 5,
+   "section_no": "5.38",
+   "section_title_bn": "পরীক্ষাগারে টলুইন বা মিথাইল বেনজিন প্রস্তুতি",
+   "book_page": 296,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "উর্টজ-ফিটিগ বিক্রিয়ায় ব্রোমোবেনজিন থেকে টলুইন",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমোবেনজিন",
+     "formula": "C₆H₅Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথাইল ব্রোমাইড",
+     "formula": "CH₃Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅Br + 2Na + CH₃Br → C₆H₅CH₃ + 2NaBr",
+   "conditions": "শুষ্ক ইথার; মিশ্রণ নিজে ফুটে ওঠে, পরে পাতন 110°C",
+   "observations_bn": "বিক্রিয়ার তাপে মিশ্রণ ফোটে; পাতনে শুদ্ধ টলুইন মেলে।",
+   "procedure_bn": [
+    "ফ্লাস্কে সোডিয়াম টুকরা ও শুষ্ক ইথার (শীতক সহ, ঠান্ডা পানিতে)",
+    "বিন্দুপাতি ফানেল থেকে 1:1 অনুপাতে ব্রোমোবেনজিন ও CH₃Br ফোঁটায় ফোঁটায় যোগ",
+    "কয়েক ঘণ্টা পর আংশিক পাতন 110°C এ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ব্রোমোবেনজিন",
+    "মিথাইল ব্রোমাইড",
+    "সোডিয়াম",
+    "শুষ্ক ইথার",
+    "শীতক",
+    "বিন্দুপাতি ফানেল"
+   ],
+   "safety_bn": "ইথার অতিদাহ্য; ফ্লাস্ক বেশি গরম হলে ফানেল বন্ধ রাখা; ধীরে ধীরে মিশ্রণ যোগ।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-30",
+   "chapter_no": 5,
+   "section_no": "5.38",
+   "section_title_bn": "পরীক্ষাগারে টলুইন বা মিথাইল বেনজিন প্রস্তুতি",
+   "book_page": 297,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিডেল-ক্রাফ্ট দ্বারা বেনজিন থেকে টলুইন",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + CH₃Cl → C₆H₅CH₃ + HCl↑",
+   "conditions": "শুষ্ক AlCl₃, উত্তপ্ত (Δ)",
+   "observations_bn": "শেষে মিশ্রণ বরফ-ঠান্ডা পানিতে ঢালা হয়; অবিক্রিয় বেনজিন জমে, টলুইন তরল থাকে, পাতনে শুদ্ধ হয়।",
+   "procedure_bn": [
+    "বেনজিন ও শুষ্ক CH₃Cl মিশ্রণ AlCl₃ সহ উত্তপ্ত",
+    "5°C এর নিচে বরফ-ঠান্ডা পানিতে ঢালা",
+    "পাতন 110°C এ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "CH₃Cl",
+    "শুষ্ক AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-31",
+   "chapter_no": 5,
+   "section_no": "5.40.1",
+   "section_title_bn": "বেনজিনের যুত বিক্রিয়া",
+   "book_page": 299,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের হাইড্রোজেন সংযোজন",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সাইক্লোহেক্সেন",
+     "formula": "C₆H₁₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₆ + 3H₂ → C₆H₁₂",
+   "conditions": "সূক্ষ্ম Ni চূর্ণ, 200°C",
+   "observations_bn": "প্রতি অণু বেনজিনে তিন অণু H₂ যুক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন বাষ্প",
+    "H₂",
+    "Ni"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-32",
+   "chapter_no": 5,
+   "section_no": "5.40.1",
+   "section_title_bn": "বেনজিনের যুত বিক্রিয়া",
+   "book_page": 300,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের ক্লোরিন সংযোজন (BHC/গ্যামেক্সিন)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন হেক্সাক্লোরাইড",
+     "formula": "C₆H₆Cl₆",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "equation": "C₆H₆ + 3Cl₂ → C₆H₆Cl₆",
+   "conditions": "উজ্জ্বল সূর্যালোক বা অতিবেগুনি রশ্মি",
+   "observations_bn": "বেনজিন হেক্সাক্লোরাইড (বাণিজ্যিক নাম গ্যামেক্সিন) পাউডার তৈরি হয়; এটি পোকা-নাশক।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "Cl₂",
+    "সূর্যালোক"
+   ],
+   "safety_bn": "বইয়ে বলা হয়েছে এটি শক্তিশালী জীবাণুনাশক; ব্রোমিনের সাথে অনুরূপভাবে C₆H₆Br₆ হয় (বইয়ে সমীকরণ নেই)।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-33",
+   "chapter_no": 5,
+   "section_no": "5.40.1",
+   "section_title_bn": "বেনজিনের যুত বিক্রিয়া",
+   "book_page": 300,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের ওজোন সংযোজন (ওজোনাইড গঠন ও আর্দ্র বিশ্লেষণ)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন ট্রাইওজোনাইড",
+     "formula": "C₆H₆(O₃)₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₆ + 3O₃ → C₆H₆(O₃)₃ ; C₆H₆(O₃)₃ + 3H₂O → 3OHC–CHO + 3H₂O₂",
+   "conditions": "সাধারণ তাপমাত্রা; ওজোনাইড + 3H₂O → 3(CHO)₂ + 3H₂O₂",
+   "observations_bn": "বেনজিন ট্রাইওজোনাইড আর্দ্র বিশ্লেষণে গ্লাইঅক্সাল ও H₂O₂ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "ওজোন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-34",
+   "chapter_no": 5,
+   "section_no": "5.40.1",
+   "section_title_bn": "বেনজিনের যুত বিক্রিয়া",
+   "book_page": 300,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "H₂O₂ অপসারণ জিংক গুঁড়া দিয়ে",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন পারঅক্সাইড",
+     "formula": "H₂O₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂O₂ + Zn → ZnO + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "H₂O₂ ভেঙে যায়, ZnO ও পানি তৈরি হয়।",
+   "procedure_bn": [
+    "বিক্রিয়ক মিশ্রণে জিংক গুঁড়া যোগ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "H₂O₂",
+    "জিংক গুঁড়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-35",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 301,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের ক্লোরিনেশন (AlCl₃/FeCl₃)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোবেনজিন",
+     "formula": "C₆H₅Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + Cl₂ → C₆H₅Cl + HCl↑",
+   "conditions": "শুষ্ক AlCl₃ বা FeCl₃",
+   "observations_bn": "H হ্যালোজেন দ্বারা প্রতিস্থাপিত হয়, HCl গ্যাস ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "Cl₂",
+    "শুষ্ক AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-36",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 301,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের ব্রোমিনেশন (FeBr₃)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমোবেনজিন",
+     "formula": "C₆H₅Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + Br₂ → C₆H₅Br + HBr↑",
+   "conditions": "শুষ্ক FeBr₃",
+   "observations_bn": "ব্রোমোবেনজিন ও HBr তৈরি হয় (আয়োডিন এভাবে বিক্রিয়া করে না)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "Br₂",
+    "FeBr₃"
+   ],
+   "safety_bn": "ব্রোমিন ক্ষয়কারী ও বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-37",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 301,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের পর্যায়ক্রমিক ক্লোরিনেশন হেক্সাক্লোরোবেনজিন পর্যন্ত",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন (অতিরিক্ত)",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেক্সাক্লোরোবেনজিন",
+     "formula": "C₆Cl₆",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + 6Cl₂ → C₆Cl₆ + 6HCl",
+   "equation_printed": "প্রতিটি ধাপ আলাদা: C₆HₙClₘ + Cl₂ → ... + HCl; চূড়ান্ত সমীকরণ নিজে যোগ করা",
+   "conditions": "শুষ্ক FeCl₃, সামান্য উচ্চ তাপমাত্রা",
+   "observations_bn": "একে একে সব H প্রতিস্থাপিত: C₆H₅Cl → C₆H₄Cl₂ → C₆H₃Cl₃ → C₆H₂Cl₄ → C₆HCl₅ → C₆Cl₆।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "অতিরিক্ত Cl₂",
+    "FeCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-38",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 302,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ব্রোমিনেশনের ক্রিয়া-কৌশল (ইলেকট্রোফিলিক প্রতিস্থাপন)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফেরিক ব্রোমাইড",
+     "formula": "FeBr₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমোবেনজিন",
+     "formula": "C₆H₅Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "Br₂ + FeBr₃ → Br⁺ + FeBr₄⁻ ; C₆H₆ + Br⁺ → [C₆H₆Br]⁺ ; [C₆H₆Br]⁺ + FeBr₄⁻ → C₆H₅Br + HBr + FeBr₃",
+   "conditions": "শুষ্ক FeBr₃",
+   "observations_bn": "তিন ধাপ: Br⁺ গঠন, σ-জটিল গঠন, প্রোটন অপসারণ; FeBr₃ ফিরে আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "Br₂",
+    "FeBr₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-39",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 302,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের নাইট্রেশন (নাইট্রোবেনজিন)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোবেনজিন",
+     "formula": "C₆H₅NO₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O",
+   "conditions": "গাঢ় H₂SO₄ ও গাঢ় HNO₃, প্রায় 60°C",
+   "observations_bn": "নাইট্রোবেনজিন ও পানি তৈরি হয় (বইয়ে রঙ উল্লেখ নেই)।",
+   "procedure_bn": [
+    "বেনজিনে গাঢ় HNO₃ ও গাঢ় H₂SO₄ মিশ্রণ যোগ",
+    "প্রায় 60°C এ উত্তপ্ত"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "গাঢ় HNO₃",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "গাঢ় অ্যাসিড ক্ষয়কারী; বেনজিন বিষাক্ত ও দাহ্য।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-40",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 302,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "নাইট্রোবেনজিন থেকে m-ডাইনাইট্রোবেনজিন",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোবেনজিন",
+     "formula": "C₆H₅NO₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "m-ডাইনাইট্রোবেনজিন",
+     "formula": "C₆H₄(NO₂)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅NO₂ + HNO₃ → C₆H₄(NO₂)₂ + H₂O",
+   "conditions": "গাঢ় H₂SO₄ + গাঢ় HNO₃, 100°C",
+   "observations_bn": "দ্বিতীয় NO₂ মেটা অবস্থানে ঢোকে।",
+   "procedure_bn": [
+    "নাইট্রোবেনজিনে অ্যাসিড-মিশ্রণ দিয়ে 100°C এ উত্তপ্ত"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নাইট্রোবেনজিন",
+    "গাঢ় HNO₃",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "উচ্চ তাপমাত্রায় ক্ষয়কারী অ্যাসিড; সতর্কতা দরকার।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-41",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 303,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রেশনের ক্রিয়া-কৌশল (নাইট্রোনিয়াম আয়ন)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোবেনজিন",
+     "formula": "C₆H₅NO₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "H₂SO₄ + HNO₃ → NO₂⁺ + H₂O + HSO₄⁻ ; C₆H₆ + NO₂⁺ → [C₆H₆NO₂]⁺ ; [C₆H₆NO₂]⁺ + HSO₄⁻ → C₆H₅NO₂ + H₂SO₄",
+   "conditions": "গাঢ় H₂SO₄ + গাঢ় HNO₃",
+   "observations_bn": "গাঢ় H₂SO₄ NO₂⁺ তৈরি করে এবং উৎপন্ন পানি শুষে বিক্রিয়াকে এগোতে সাহায্য করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "গাঢ় HNO₃",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-42",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 303,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের সালফোনেশন",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন সালফোনিক অ্যাসিড",
+     "formula": "C₆H₅SO₃H",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₆ + H₂SO₄ → C₆H₅SO₃H + H₂O",
+   "equation_printed": "C₆H₆ + HO–SO₃H —(SO₃, Δ)→ C₆H₅SO₃H + H₂O; SO₃ + H₂O → H₂SO₄",
+   "conditions": "গাঢ় H₂SO₄ প্রায় 100°C এ কয়েক ঘণ্টা; অথবা ধূমায়িত H₂SO₄ (SO₃ সহ) 40°C এ 20–30 মিনিট",
+   "observations_bn": "বেনজিন সালফোনিক অ্যাসিড ও পানি তৈরি হয়; পানি SO₃ শুষে H₂SO₄ হয়।",
+   "procedure_bn": [
+    "বেনজিনে ধূমায়িত H₂SO₄ মিশিয়ে 40°C এ 20–30 মিনিট উত্তপ্ত"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "ধূমায়িত H₂SO₄"
+   ],
+   "safety_bn": "ধূমায়িত H₂SO₄ ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-43",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 304,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফোনেশনের ক্রিয়া-কৌশল",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফার ট্রাইঅক্সাইড",
+     "formula": "SO₃",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন সালফোনিক অ্যাসিড",
+     "formula": "C₆H₅SO₃H",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2H₂SO₄ ⇌ H₃O⁺ + HSO₄⁻ + SO₃ ; C₆H₆ + SO₃ → [C₆H₆SO₃]± ; তারপর HSO₄⁻ দ্বারা প্রোটন অপসারণ ও H₃O⁺ থেকে প্রোটন গ্রহণে C₆H₅SO₃H",
+   "conditions": "ধূমায়িত H₂SO₄",
+   "observations_bn": "SO₃ ইলেকট্রোফাইল হিসেবে কাজ করে, σ-জটিলের মাধ্যমে সালফোনিক অ্যাসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "SO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-44",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 304,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিডেল-ক্রাফ্ট অ্যালকাইলেশন: বেনজিন + CH₃Cl",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + CH₃Cl → C₆H₅CH₃ + HCl↑",
+   "conditions": "অনার্দ্র AlCl₃",
+   "observations_bn": "বেনজিন বলয়ে CH₃ ঢুকে টলুইন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "CH₃Cl",
+    "AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-45",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 305,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকাইলেশনের ক্রিয়া-কৌশল (CH₃⁺)",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃Cl + AlCl₃ → CH₃⁺ + AlCl₄⁻ ; C₆H₆ + CH₃⁺ → [C₆H₆CH₃]⁺ ; [C₆H₆CH₃]⁺ + AlCl₄⁻ → C₆H₅CH₃ + HCl + AlCl₃",
+   "conditions": "অনার্দ্র AlCl₃",
+   "observations_bn": "AlCl₃ বিকারক থেকে কার্বোক্যাটায়ন বানায়; প্রভাবক ফিরে আসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "CH₃Cl",
+    "AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-46",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 305,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিডেল-ক্রাফ্ট অ্যাসাইলেশন: বেনজিন + অ্যাসিটাইল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যাসিটাইল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটোফেনোন",
+     "formula": "C₆H₅COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + CH₃COCl → C₆H₅COCH₃ + HCl↑",
+   "conditions": "অনার্দ্র AlCl₃",
+   "observations_bn": "মিথাইল ফিনাইল কিটোন (অ্যাসিটোফেনোন) তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "CH₃COCl",
+    "AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-47",
+   "chapter_no": 5,
+   "section_no": "5.40.2",
+   "section_title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 305,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিন থেকে ডাইফিনাইল গঠন",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন বাষ্প",
+     "formula": "C₆H₆",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইফিনাইল",
+     "formula": "C₆H₅–C₆H₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₆H₆ → C₆H₅–C₆H₅ + H₂↑",
+   "equation_printed": "2C₆H₆ —600°C→ C₆H₅–C₆H₅ + H₂",
+   "conditions": "উত্তপ্ত ধাতব নলে 600–800°C",
+   "observations_bn": "ডাইফিনাইল ও H₂ গ্যাস তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন বাষ্প",
+    "উত্তপ্ত ধাতব নল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-48",
+   "chapter_no": 5,
+   "section_no": "5.49.1",
+   "section_title_bn": "পার্শ্বশিকল-CH₃ মূলকের জন্য বিক্রিয়া",
+   "book_page": 314,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইনের পার্শ্বশিকলের পূর্ণ জারণ (বেনজোয়িক অ্যাসিড)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জারক",
+     "formula": "[O]",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজোয়িক অ্যাসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + 3[O] → C₆H₅COOH + H₂O",
+   "conditions": "লঘু HNO₃, 120°C (অথবা ক্রোমিক অ্যাসিড/ক্ষারীয় KMnO₄)",
+   "observations_bn": "–CH₃ পুরোপুরি জারিত হয়ে –COOH হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "জারক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-49",
+   "chapter_no": 5,
+   "section_no": "5.49.1",
+   "section_title_bn": "পার্শ্বশিকল-CH₃ মূলকের জন্য বিক্রিয়া",
+   "book_page": 314,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইটার্ড বিক্রিয়া: টলুইন থেকে বেনজ্যালডিহাইড",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মৃদু জারক",
+     "formula": "[O]",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজ্যালডিহাইড",
+     "formula": "C₆H₅CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + 2[O] → C₆H₅CHO + H₂O",
+   "conditions": "65% H₂SO₄ ও MnO₂, 45°C (অথবা CrO₂Cl₂ দ্রবীভূত CS₂ তে)",
+   "observations_bn": "আংশিক জারণে অ্যালডিহাইড পাওয়া যায়।",
+   "procedure_bn": [
+    "টলুইনে 65% H₂SO₄ ও MnO₂ মিশিয়ে 45°C এ উত্তপ্ত"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "65% H₂SO₄",
+    "MnO₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-50",
+   "chapter_no": 5,
+   "section_no": "5.49.1",
+   "section_title_bn": "পার্শ্বশিকল-CH₃ মূলকের জন্য বিক্রিয়া",
+   "book_page": 314,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইনের হাইড্রোজেন সংযোজন",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেক্সাহাইড্রো টলুইন (মিথাইল সাইক্লোহেক্সেন)",
+     "formula": "C₆H₁₁CH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + 3H₂ → C₆H₁₁CH₃",
+   "conditions": "Ni, 200°C",
+   "observations_bn": "বলয় সম্পৃক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "H₂",
+    "Ni"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-51",
+   "chapter_no": 5,
+   "section_no": "5.49.1",
+   "section_title_bn": "পার্শ্বশিকল-CH₃ মূলকের জন্য বিক্রিয়া",
+   "book_page": 314,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইনের পার্শ্বশিকলে ক্লোরিনেশন (১ম ধাপ: বেনজাইল ক্লোরাইড)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজাইল ক্লোরাইড",
+     "formula": "C₆H₅CH₂Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + Cl₂ → C₆H₅CH₂Cl + HCl↑",
+   "conditions": "সূর্যালোক বা অতিবেগুনি আলো, ফুটন্ত টলুইন (111°C), হ্যালোজেন বাহক নেই",
+   "observations_bn": "প্রতি ধাপে একটি H প্রতিস্থাপিত হয় ও HCl বেরোয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফুটন্ত টলুইন",
+    "Cl₂",
+    "আলো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-52",
+   "chapter_no": 5,
+   "section_no": "5.49.1",
+   "section_title_bn": "পার্শ্বশিকল-CH₃ মূলকের জন্য বিক্রিয়া",
+   "book_page": 314,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজাইল ক্লোরাইড থেকে বেনজাল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "বেনজাইল ক্লোরাইড",
+     "formula": "C₆H₅CH₂Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজাল ক্লোরাইড",
+     "formula": "C₆H₅CHCl₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅CH₂Cl + Cl₂ → C₆H₅CHCl₂ + HCl↑",
+   "conditions": "আলো, 111°C",
+   "observations_bn": "দ্বিতীয় H প্রতিস্থাপিত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজাইল ক্লোরাইড",
+    "Cl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-53",
+   "chapter_no": 5,
+   "section_no": "5.49.1",
+   "section_title_bn": "পার্শ্বশিকল-CH₃ মূলকের জন্য বিক্রিয়া",
+   "book_page": 314,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজাল ক্লোরাইড থেকে বেনজো ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "বেনজাল ক্লোরাইড",
+     "formula": "C₆H₅CHCl₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজো ক্লোরাইড (ট্রাইক্লোরো মিথাইল বেনজিন)",
+     "formula": "C₆H₅CCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅CHCl₂ + Cl₂ → C₆H₅CCl₃ + HCl↑",
+   "conditions": "আলো, 111°C",
+   "observations_bn": "তৃতীয় H প্রতিস্থাপিত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজাল ক্লোরাইড",
+    "Cl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-54",
+   "chapter_no": 5,
+   "section_no": "5.49.2",
+   "section_title_bn": "টলুইনের নিউক্লিয়াসে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 315,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইনের বলয়ে ক্লোরিনেশন (o- ও p-ক্লোরোটলুইন)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "o-ক্লোরোটলুইন",
+     "formula": "o-ClC₆H₄CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "p-ক্লোরোটলুইন",
+     "formula": "p-ClC₆H₄CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₆H₅CH₃ + 2Cl₂ → o-ClC₆H₄CH₃ + p-ClC₆H₄CH₃ + 2HCl↑",
+   "conditions": "Fe (বা FeCl₃/I₂) বাহক, আলোর অনুপস্থিতি, ~20°C",
+   "observations_bn": "বলয়ের o- ও p- অবস্থানে Cl ঢোকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "Cl₂",
+    "Fe"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-55",
+   "chapter_no": 5,
+   "section_no": "5.49.2",
+   "section_title_bn": "টলুইনের নিউক্লিয়াসে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 315,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "টলুইনের নাইট্রেশন (o- ও p-নাইট্রোটলুইন)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "o-নাইট্রোটলুইন",
+     "formula": "o-O₂NC₆H₄CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "p-নাইট্রোটলুইন",
+     "formula": "p-O₂NC₆H₄CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₆H₅CH₃ + 2HNO₃ → o-O₂NC₆H₄CH₃ + p-O₂NC₆H₄CH₃ + 2H₂O",
+   "conditions": "গাঢ় H₂SO₄ ও গাঢ় HNO₃, প্রায় 30°C",
+   "observations_bn": "বেনজিনের চেয়ে নিম্ন তাপমাত্রায় o- ও p- মিশ্রণ তৈরি হয়।",
+   "procedure_bn": [
+    "টলুইনে অ্যাসিড-মিশ্রণ যোগ করে প্রায় 30°C এ রাখা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "গাঢ় HNO₃",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "গাঢ় অ্যাসিড ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-56",
+   "chapter_no": 5,
+   "section_no": "5.49.2",
+   "section_title_bn": "টলুইনের নিউক্লিয়াসে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 315,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রোটলুইন থেকে 2,4-ডাইনাইট্রোটলুইন",
+   "reactants": [
+    {
+     "name_bn": "p-নাইট্রোটলুইন",
+     "formula": "CH₃C₆H₄NO₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ধূমায়িত নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2,4-ডাইনাইট্রোটলুইন",
+     "formula": "CH₃C₆H₃(NO₂)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃C₆H₄NO₂ + HNO₃ → CH₃C₆H₃(NO₂)₂ + H₂O",
+   "conditions": "ধূমায়িত HNO₃, গাঢ় H₂SO₄, 60°C",
+   "observations_bn": "দ্বিতীয় নাইট্রো গ্রুপ ঢোকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নাইট্রোটলুইন",
+    "ধূমায়িত HNO₃",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "বিস্ফোরক-জাতীয় যৌগের পথ; স্কুল ল্যাবের জন্য উপযুক্ত নয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-57",
+   "chapter_no": 5,
+   "section_no": "5.49.2",
+   "section_title_bn": "টলুইনের নিউক্লিয়াসে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 315,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2,4-ডাইনাইট্রোটলুইন থেকে TNT",
+   "reactants": [
+    {
+     "name_bn": "2,4-ডাইনাইট্রোটলুইন",
+     "formula": "CH₃C₆H₃(NO₂)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ধূমায়িত নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2,4,6-ট্রাইনাইট্রোটলুইন (TNT)",
+     "formula": "CH₃C₆H₂(NO₂)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃C₆H₃(NO₂)₂ + HNO₃ → CH₃C₆H₂(NO₂)₃ + H₂O",
+   "conditions": "ধূমায়িত HNO₃, গাঢ় H₂SO₄, 110°C",
+   "observations_bn": "TNT তৈরি হয়, যা বিস্ফোরক।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ডাইনাইট্রোটলুইন",
+    "ধূমায়িত HNO₃",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "বিস্ফোরক পদার্থ; শুধু তথ্য কার্ড।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-58",
+   "chapter_no": 5,
+   "section_no": "5.49.2",
+   "section_title_bn": "টলুইনের নিউক্লিয়াসে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 316,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "টলুইনের সালফোনেশন (o- ও p-টলুইন সালফোনিক অ্যাসিড)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "o-টলুইন সালফোনিক অ্যাসিড",
+     "formula": "o-CH₃C₆H₄SO₃H",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "p-টলুইন সালফোনিক অ্যাসিড",
+     "formula": "p-CH₃C₆H₄SO₃H",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₆H₅CH₃ + 2H₂SO₄ → o-CH₃C₆H₄SO₃H + p-CH₃C₆H₄SO₃H + 2H₂O",
+   "conditions": "SO₃ সহ গাঢ় (ধূমায়িত) H₂SO₄, 0–5°C",
+   "observations_bn": "বরফ-শীতল অবস্থায় o- ও p- মিশ্রণ পাওয়া যায়।",
+   "procedure_bn": [
+    "টলুইনে ধূমায়িত H₂SO₄ 0–5°C এ বরফ-ঠান্ডা অবস্থায় মেশানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "ধূমায়িত H₂SO₄",
+    "বরফ"
+   ],
+   "safety_bn": "ধূমায়িত অ্যাসিড ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-59",
+   "chapter_no": 5,
+   "section_no": "5.49.2",
+   "section_title_bn": "টলুইনের নিউক্লিয়াসে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 316,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিডেল-ক্রাফ্ট অ্যালকাইলেশন: টলুইন + CH₃I (o-/p-জাইলিন)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথাইল আয়োডাইড",
+     "formula": "CH₃I",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "o-জাইলিন",
+     "formula": "o-C₆H₄(CH₃)₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "p-জাইলিন",
+     "formula": "p-C₆H₄(CH₃)₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₆H₅CH₃ + 2CH₃I → o-C₆H₄(CH₃)₂ + p-C₆H₄(CH₃)₂ + 2HI",
+   "conditions": "শুষ্ক AlCl₃, 20°C",
+   "observations_bn": "o- ও p- জাইলিনের মিশ্রণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "CH₃I",
+    "শুষ্ক AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-60",
+   "chapter_no": 5,
+   "section_no": "5.49.2",
+   "section_title_bn": "টলুইনের নিউক্লিয়াসে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 316,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "m-জাইলিন প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথাইল আয়োডাইড",
+     "formula": "CH₃I",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "m-জাইলিন",
+     "formula": "m-C₆H₄(CH₃)₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + CH₃I → m-C₆H₄(CH₃)₂ + HI",
+   "conditions": "অধিক পরিমাণ শুষ্ক AlCl₃, 100°C",
+   "observations_bn": "বেশি AlCl₃ ও উচ্চ তাপে মেটা-সমাণু মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "CH₃I",
+    "বেশি AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-61",
+   "chapter_no": 5,
+   "section_no": "5.49.2",
+   "section_title_bn": "টলুইনের নিউক্লিয়াসে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 316,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিডেল-ক্রাফ্ট অ্যাসিটাইলেশন: টলুইন + CH₃COCl",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যাসিটাইল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "4-মিথাইল ফিনাইল ইথানোন",
+     "formula": "p-CH₃C₆H₄COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "2-মিথাইল ফিনাইল ইথানোন",
+     "formula": "o-CH₃C₆H₄COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₆H₅CH₃ + 2CH₃COCl → p-CH₃C₆H₄COCH₃ + o-CH₃C₆H₄COCH₃ + 2HCl↑",
+   "conditions": "শুষ্ক AlCl₃, 40–50°C, মৃদু গরম",
+   "observations_bn": "মুখ্য উৎপাদ 4-মিথাইল ফিনাইল ইথানোন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলুইন",
+    "CH₃COCl",
+    "শুষ্ক AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-62",
+   "chapter_no": 5,
+   "section_no": "5.51",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোমেটিক যৌগের পার্থক্য",
+   "book_page": 317,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালিফেটিক হ্যালাইড প্রতিস্থাপন: CH₃Br + KOH",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল ব্রোমাইড",
+     "formula": "CH₃Br",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃Br + KOH → CH₃OH + KBr",
+   "conditions": "room temp বা মৃদু গরম",
+   "observations_bn": "অ্যারাইল হ্যালাইড (C₆H₅Cl) সাধারণ অবস্থায় এভাবে বিক্রিয়া করে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃Br",
+    "KOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-63",
+   "chapter_no": 5,
+   "section_no": "5.51",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোমেটিক যৌগের পার্থক্য",
+   "book_page": 317,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালিফেটিক ও অ্যারোমেটিক অসম্পৃক্ত যৌগে KMnO₄ জারণ (ইথাইন)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিটিলিন (ইথাইন)",
+     "formula": "C₂H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম পারম্যাঙ্গানেট",
+     "formula": "KMnO₄",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সালিক অ্যাসিড",
+     "formula": "HOOC–COOH",
+     "state": "solid"
+    }
+   ],
+   "equation": "HC≡CH + 4[O] → HOOC–COOH",
+   "conditions": "KMnO₄ দ্বারা জারণ",
+   "observations_bn": "অ্যালিফেটিক অসম্পৃক্ত যৌগ সহজে জারিত হয়, বেনজিন হয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথাইন",
+    "KMnO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-64",
+   "chapter_no": 5,
+   "section_no": "5.51",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোমেটিক যৌগের পার্থক্য",
+   "book_page": 317,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রাইমারি অ্যালিফেটিক অ্যামিন + HNO₂ (মিথাইল অ্যামিন)",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল অ্যামিন",
+     "formula": "CH₃NH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "নাইট্রাস অ্যাসিড",
+     "formula": "HNO₂",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃NH₂ + HNO₂ → CH₃OH + N₂↑ + H₂O",
+   "conditions": "NaNO₂ ও HCl, 5°C",
+   "observations_bn": "অ্যালকোহল তৈরি হয় ও নাইট্রোজেন গ্যাস বেরোয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃NH₂",
+    "NaNO₂",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-09-65",
+   "chapter_no": 5,
+   "section_no": "5.51",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোমেটিক যৌগের পার্থক্য",
+   "book_page": 317,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যানিলিনের ডায়াজোটাইজেশন (বেনজিন ডায়াজোনিয়াম ক্লোরাইড)",
+   "reactants": [
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রাস অ্যাসিড",
+     "formula": "HNO₂",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+     "formula": "C₆H₅N₂Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅NH₂ + HNO₂ + HCl → C₆H₅N₂Cl + 2H₂O",
+   "equation_printed": "C₆H₅NH₂ + HNO₂ → C₆H₅N₂Cl + 2H₂O (বইয়ে HCl বিক্রিয়কে নেই, শর্তে NaNO₂/HCl)",
+   "conditions": "NaNO₂ ও HCl, 0–5°C (বরফ-ঠান্ডা)",
+   "observations_bn": "স্থায়ী ডায়াজোনিয়াম লবণ গঠিত হয়; অ্যালিফেটিক অ্যামিনে এমন হয় না।",
+   "procedure_bn": [
+    "অ্যানিলিন HCl এ দ্রবীভূত করে 5°C এ ঠান্ডা",
+    "ঠান্ডা NaNO₂ দ্রবণ ধীরে যোগ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যানিলিন",
+    "NaNO₂",
+    "HCl",
+    "বরফ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 5,
+   "no": "5.24",
+   "title_bn": "অ্যালকাইনের ব্যবহার",
+   "start_page": 288
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.25",
+   "title_bn": "অ্যালকাইন-1 ও অ্যালকাইন-2 এর মধ্যে পার্থক্যকরণ",
+   "start_page": 288
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.26",
+   "title_bn": "অ্যালকিন-1 ও অ্যালকাইনের-1 এর পার্থক্যকরণ",
+   "start_page": 289
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.27",
+   "title_bn": "ইথেন, ইথিন ও ইথাইন গ্যাস মিশ্রণ থেকে তাদেরকে পৃথকীকরণ",
+   "start_page": 289
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.28",
+   "title_bn": "অ্যালকেন, অ্যালকিন ও অ্যালকাইনের তুলনা",
+   "start_page": 290
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.29",
+   "title_bn": "ভূমিকা (অ্যারোমেটিক হাইড্রোকার্বন)",
+   "start_page": 290
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.30",
+   "title_bn": "অ্যারিনস্ ও বেনজিনের সমগোত্রক",
+   "start_page": 291
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.31",
+   "title_bn": "অ্যারোমেটিক নিউক্লিয়াস ও পার্শ্বশিকল",
+   "start_page": 292
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.32",
+   "title_bn": "অ্যারোমেটিক যৌগের উৎস",
+   "start_page": 292
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.33",
+   "title_bn": "কয়লার বিধ্বংসী পাতন বা অন্তর্ধূম পাতন",
+   "start_page": 292
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.34",
+   "title_bn": "আলকাতরা বা কোলটারের আংশিক পাতন",
+   "start_page": 293
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.35",
+   "title_bn": "আলকাতরা বা কোলটার বা লঘু তৈল থেকে বেনজিন পৃথকীকরণ",
+   "start_page": 293
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.35.1",
+   "title_bn": "কোল গ্যাস থেকে বেনজিন",
+   "start_page": 294
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.36",
+   "title_bn": "পেট্রোলিয়াম থেকে বেনজিন ও টলুইনের উৎপাদন",
+   "start_page": 294
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.37",
+   "title_bn": "পরীক্ষাগারে বেনজিন প্রস্তুত পদ্ধতি",
+   "start_page": 295
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.38",
+   "title_bn": "পরীক্ষাগারে টলুইন বা মিথাইল বেনজিন প্রস্তুতি",
+   "start_page": 296
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.39",
+   "title_bn": "বেনজিনের ভৌত ধর্ম",
+   "start_page": 298
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.40",
+   "title_bn": "বেনজিনের রাসায়নিক ধর্ম",
+   "start_page": 298
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.40.1",
+   "title_bn": "বেনজিনের যুত বিক্রিয়া",
+   "start_page": 299
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.40.2",
+   "title_bn": "বেনজিনের প্রতিস্থাপন বিক্রিয়া",
+   "start_page": 300
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.41",
+   "title_bn": "বেনজিনের ব্যবহার",
+   "start_page": 305
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.42",
+   "title_bn": "অ্যারোমেটিসিটি বা অ্যারোমেটিকত্ব",
+   "start_page": 306
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.43",
+   "title_bn": "অ্যারোমেটিসিটি ও হাকেল তত্ত্ব",
+   "start_page": 307
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.44",
+   "title_bn": "অ্যারোমেটিক মূলক বা অ্যারাইল মূলক",
+   "start_page": 307
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.45",
+   "title_bn": "বেনজিন উদ্ভূতকের সমাণুতা ও নামকরণ",
+   "start_page": 308
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.46",
+   "title_bn": "বেনজিন চক্রে প্রতিস্থাপকের প্রভাব",
+   "start_page": 310
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.47",
+   "title_bn": "বেনজিন বলয়ে প্রথম প্রতিস্থাপকের ইলেকট্রোফাইলের প্রতি নির্দেশক প্রভাব",
+   "start_page": 310
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.48",
+   "title_bn": "টলুইনের ভৌত ধর্ম",
+   "start_page": 313
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.49",
+   "title_bn": "টলুইনের রাসায়নিক ধর্ম",
+   "start_page": 313
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.49.1",
+   "title_bn": "পার্শ্বশিকল-CH₃ মূলকের জন্য বিক্রিয়া",
+   "start_page": 314
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.49.2",
+   "title_bn": "টলুইনের নিউক্লিয়াসে ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "start_page": 315
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.50",
+   "title_bn": "টলুইনের ব্যবহার",
+   "start_page": 317
+  },
+  {
+   "chapter_no": 5,
+   "no": "5.51",
+   "title_bn": "অ্যালিফেটিক ও অ্যারোমেটিক যৌগের পার্থক্য",
+   "start_page": 317
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "চাপ্টার 5 (হাইড্রোকার্বন) এর মাঝামাঝি থেকে শুরু; p.288 এর শুরুর অংশের (অ্যালকাইনের অম্লধর্মিতা) শিরোনাম পৃষ্ঠায় নেই, তাই 5.23 অনুমিত (পরের শিরোনাম 5.24 থেকে)। pp.318-338 (অধ্যায় সারাংশ, প্রশ্নব্যাংক) বাদ। পুনরাবৃত্ত সমীকরণ বাদ: p.289 সারণির AgNO₃/Cu₂Cl₂ আলাদা সারিগুলো, p.312 টলুইন নাইট্রেশন (p.315 এ আছে), p.313 m-ডাইনাইট্রো (p.302 এ আছে)। চিত্র/ফিজিক্যাল/তত্ত্ব পৃষ্ঠায় (5.28-5.31, 5.39, 5.42-5.48, 5.50) কোনো নতুন বিক্রিয়া নেই। 'type' কার্ডে রাখার জন্য গ্যাসীয় বিকারক/উচ্চ তাপ বিবেচনা করা হয়েছে; 5.35.1 ও 5.33 এর সমীকরণ বইয়ে নেই (5.33 NH₃+H₂SO₄ নিজে সম্পূর্ণ করা, inferred)।"
+}

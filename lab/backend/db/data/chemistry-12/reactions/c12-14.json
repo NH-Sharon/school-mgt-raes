@@ -1,0 +1,2741 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  483,
+  518
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-14-01",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথান্যাল ও বেনজ্যালডিহাইডের জারণ (অম্লীয় KMnO₄)",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অম্লীয় KMnO₄",
+     "formula": "KMnO₄/H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CHO + [O] → CH₃COOH (KMnO₄/H⁺); C₆H₅CHO + [O] → C₆H₅COOH",
+   "conditions": "অম্লীয় KMnO₄ দ্রবণ",
+   "observations_bn": "দুটি অ্যালডিহাইডই জারিত হয়ে সংশ্লিষ্ট কার্বক্সিলিক এসিড দেয়; KMnO₄-এর বেগুনি রং ফিকে হয়ে যায় (সাধারণ ধর্ম)।",
+   "procedure_bn": [
+    "অ্যালডিহাইডে অম্লীয় KMnO₄ যোগ করুন",
+    "মৃদু গরম করে রং পরিবর্তন লক্ষ্য করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালডিহাইড",
+    "KMnO₄",
+    "লঘু H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-02",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালডিহাইডের বিজারণ (LiAlH₄) – ইথান্যাল ও বেনজ্যালডিহাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "LiAlH₄",
+     "formula": "LiAlH₄",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + 2[H] → CH₃CH₂OH (LiAlH₄); C₆H₅CHO + 2[H] → C₆H₅CH₂OH",
+   "conditions": "শুষ্ক ইথার মাধ্যমে",
+   "observations_bn": "উভয় ক্ষেত্রে প্রাইমারি অ্যালকোহল পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-03",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালডিহাইডের সাথে PCl₅ (ক্লোরিনেশন)",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,1-ডাইক্লোরোইথেন",
+     "formula": "CH₃CHCl₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + PCl₅ → CH₃CHCl₂ + POCl₃; C₆H₅CHO + PCl₅ → C₆H₅CHCl₂ + POCl₃",
+   "equation_printed": "CH₃CHO + PCl₅ → CH₃CHCl₂ ; C₆H₅CHO + PCl₅ → C₆H₅CHCl₂",
+   "conditions": "শুষ্ক অবস্থা",
+   "observations_bn": "C=O-এর অক্সিজেন দুটি Cl দ্বারা প্রতিস্থাপিত হয়ে জেমিনাল ডাইহ্যালাইড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-14-04",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালডিহাইডে HCN যোগ (সায়ানোহাইড্রিন)",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন সায়ানাইড",
+     "formula": "HCN",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সায়ানোহাইড্রিন",
+     "formula": "CH₃CH(OH)CN",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + HCN → CH₃CH(OH)CN; C₆H₅CHO + HCN → C₆H₅CH(OH)CN",
+   "conditions": "মৃদু ক্ষারীয় অনুঘটক",
+   "observations_bn": "যুত বিক্রিয়ায় সায়ানোহাইড্রিন গঠিত হয়; উভয় অ্যালডিহাইডের আচরণ এক।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HCN অত্যন্ত বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-05",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যালডিহাইডের সাথে হাইড্রক্সিলঅ্যামিন (অক্সাইম গঠন)",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রক্সিলঅ্যামিন",
+     "formula": "NH₂OH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথান্যাল অক্সাইম",
+     "formula": "CH₃CH=NOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + NH₂OH → CH₃CH=NOH + H₂O; C₆H₅CHO + NH₂OH → C₆H₅CH=NOH + H₂O",
+   "equation_printed": "CH₃CHO + NH₂OH → CH₃CH=NOH (পানি লেখা নেই)",
+   "conditions": "ঘনীভবন, কক্ষ তাপমাত্রা/মৃদু উষ্ণ",
+   "observations_bn": "জল বেরিয়ে অক্সাইম উৎপন্ন হয়; দুই অ্যালডিহাইডেই একই বিক্রিয়া।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-14-06",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথান্যালের অ্যালডল বিক্রিয়া (লঘু NaOH)",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু NaOH",
+     "formula": "NaOH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালডল (3-হাইড্রক্সিবিউটান্যাল)",
+     "formula": "CH₃CH(OH)CH₂CHO",
+     "state": "solution"
+    }
+   ],
+   "equation": "2CH₃CHO → CH₃CH(OH)CH₂CHO (OH⁻ অনুঘটক)",
+   "conditions": "লঘু NaOH, ঠান্ডা",
+   "observations_bn": "α-হাইড্রোজেনযুক্ত ইথান্যাল নিজের সাথে যুক্ত হয়ে β-হাইড্রক্সি অ্যালডিহাইড দেয়; বেনজ্যালডিহাইডে α-H না থাকায় এটি ঘটে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-07",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "বেনজ্যালডিহাইডের ক্যানিজারো বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "বেনজ্যালডিহাইড",
+     "formula": "C₆H₅CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "গাঢ় NaOH",
+     "formula": "NaOH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজাইল অ্যালকোহল",
+     "formula": "C₆H₅CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম বেনজোয়েট",
+     "formula": "C₆H₅COONa",
+     "state": "solution"
+    }
+   ],
+   "equation": "2C₆H₅CHO + NaOH → C₆H₅CH₂OH + C₆H₅COONa",
+   "conditions": "গাঢ় NaOH",
+   "observations_bn": "α-H বিহীন অ্যালডিহাইডের একটি অণু জারিত ও অন্যটি বিজারিত হয়; ফলে অ্যালকোহল ও লবণ উভয়ই মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-08",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথান্যাল ও বেনজ্যালডিহাইডে Cl₂ গ্যাসের বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ট্রাইক্লোরোইথান্যাল (ক্লোরাল)",
+     "formula": "CCl₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CHO + 3Cl₂ → CCl₃CHO + 3HCl; C₆H₅CHO + Cl₂ → C₆H₅COCl + HCl",
+   "equation_printed": "CH₃CHO + Cl₂ → Cl₃C.CHO; C₆H₅CHO + Cl₂ → C₆H₅COCl",
+   "conditions": "Cl₂ গ্যাস",
+   "observations_bn": "ইথান্যালের মিথাইল অংশে ক্লোরিনেশন হয়ে ক্লোরাল তৈরি হয়; বেনজ্যালডিহাইডে –CHO-র H প্রতিস্থাপিত হয়ে বেনজোয়িল ক্লোরাইড মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-14-09",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফেলিং দ্রবণ দ্বারা ইথান্যালের শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফেলিং দ্রবণ (Cu(OH)₂/NaOH)",
+     "formula": "Cu(OH)₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কিউপ্রাস অক্সাইড",
+     "formula": "Cu₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + 2Cu(OH)₂ + NaOH → CH₃COONa + Cu₂O↓ + 3H₂O",
+   "equation_printed": "CH₃CHO →(Cu(OH)₂/NaOH) Cu₂O + (অসম্পূর্ণ)",
+   "conditions": "উত্তপ্ত করা",
+   "observations_bn": "লাল Cu₂O-এর অধঃক্ষেপ পড়ে; বেনজ্যালডিহাইডে কোনো পরিবর্তন হয় না।",
+   "procedure_bn": [
+    "অ্যালডিহাইডে ফেলিং দ্রবণ মেশান",
+    "পানিতে উত্তপ্ত করে অধঃক্ষেপ দেখুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেলিং A ও B",
+    "টেস্ট টিউব",
+    "পানিঊষ্ণ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-14-10",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "টলেন বিকারক দ্বারা ইথান্যালের শনাক্তকরণ (রৌপ্য দর্পণ)",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "টলেন বিকারক",
+     "formula": "[Ag(NH₃)₂]⁺",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়েট আয়ন",
+     "formula": "CH₃COO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "রূপা",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + 2[Ag(NH₃)₂]⁺ + 3OH⁻ → CH₃COO⁻ + 2Ag↓ + 4NH₃ + 2H₂O",
+   "equation_printed": "CH₃CHO →[Ag(NH₃)₂]⁺ Ag(s) + (অসম্পূর্ণ)",
+   "conditions": "মৃদু উষ্ণ",
+   "observations_bn": "টেস্ট টিউবের গায়ে রূপালি দর্পণ জমে; বেনজ্যালডিহাইডে (এই তুলনায়) পরিবর্তন লেখা নেই।",
+   "procedure_bn": [
+    "পরিষ্কার টেস্ট টিউবে টলেন বিকারক নিন",
+    "অ্যালডিহাইড যোগ করে পানিঊষ্ণে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgNO₃",
+    "NH₄OH",
+    "টেস্ট টিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-14-11",
+   "chapter_no": 8,
+   "section_no": "8.18",
+   "section_title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "book_page": 468,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ইথান্যালের আয়োডোফরম বিক্রিয়া (I₂ + NaOH)",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডোফরম",
+     "formula": "CHI₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ফরমেট",
+     "formula": "HCOONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + 3I₂ + 4NaOH → CHI₃↓ + HCOONa + 3NaI + 3H₂O",
+   "equation_printed": "CH₃CHO →(I₂, NaOH, Δ) CHI₃(s) + (অসম্পূর্ণ)",
+   "conditions": "মৃদু উষ্ণ",
+   "observations_bn": "হলুদ আয়োডোফরম অধঃক্ষেপ ও বিশেষ গন্ধ পাওয়া যায়; বেনজ্যালডিহাইড এ বিক্রিয়া দেয় না।",
+   "procedure_bn": [
+    "অ্যালডিহাইডে I₂ ও NaOH যোগ করুন",
+    "মৃদু গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "I₂",
+    "NaOH",
+    "টেস্ট টিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-14-12",
+   "chapter_no": 9,
+   "section_no": "9.5",
+   "section_title_bn": "কার্বক্সিলিক এসিডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 487,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "প্রাইমারি অ্যালকোহলের জারণে অ্যালডিহাইড ও পরে এসিড (K₂Cr₂O₇/H₂SO₄)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অম্লীয় K₂Cr₂O₇",
+     "formula": "K₂Cr₂O₇/H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OH + [O] → CH₃CHO + H₂O; CH₃CHO + [O] → CH₃COOH",
+   "conditions": "গাঢ় H₂SO₄ সহ K₂Cr₂O₇, উত্তপ্ত",
+   "observations_bn": "ইথানল প্রথমে ইথান্যাল, পরে ইথানোয়িক এসিডে জারিত হয়; কমলা রং সবুজ হয়ে যায় (সাধারণ ধারণা)।",
+   "procedure_bn": [
+    "অ্যালকোহলে গাঢ় H₂SO₄ মিশ্রিত K₂Cr₂O₇ দিন",
+    "উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানল",
+    "K₂Cr₂O₇",
+    "H₂SO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-13",
+   "chapter_no": 9,
+   "section_no": "9.5",
+   "section_title_bn": "কার্বক্সিলিক এসিডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 487,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রাইলের আর্দ্র বিশ্লেষণে ক্যার্বক্সিলিক এসিড (প্রোপেন নাইট্রাইল)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপেন নাইট্রাইল",
+     "formula": "CH₃CH₂CN",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু HCl",
+     "formula": "HCl",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপানোয়িক এসিড",
+     "formula": "CH₃CH₂COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂CN + 2H₂O → CH₃CH₂COOH + NH₃ (HCl, Δ)",
+   "conditions": "লঘু HCl, উত্তপ্ত",
+   "observations_bn": "নাইট্রাইল গরম অম্লে আর্দ্র বিশ্লেষিত হয়ে এসিড ও NH₃ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-14",
+   "chapter_no": 9,
+   "section_no": "9.5",
+   "section_title_bn": "কার্বক্সিলিক এসিডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 487,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকাইল হ্যালাইড থেকে নাইট্রাইল গঠন (KCN)",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকাইল হ্যালাইড",
+     "formula": "R–X",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম সায়ানাইড",
+     "formula": "KCN",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকাইল সায়ানাইড",
+     "formula": "R–CN",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম হ্যালাইড",
+     "formula": "KX",
+     "state": "solution"
+    }
+   ],
+   "equation": "R–X + KCN → R–CN + KX",
+   "conditions": "জলীয় ইথানল দ্রাবক, উত্তপ্ত",
+   "observations_bn": "নাইট্রাইল পাওয়া যায়, যা আর্দ্র বিশ্লেষণে এসিডে যায় (এক কার্বন বৃদ্ধি)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "KCN বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-15",
+   "chapter_no": 9,
+   "section_no": "9.5",
+   "section_title_bn": "কার্বক্সিলিক এসিডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 487,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "এস্টারের আর্দ্র বিশ্লেষণ – ফ্যাটি এসিড ও গ্লিসারিন",
+   "reactants": [
+    {
+     "name_bn": "ট্রাইগ্লিসারাইড (তেল/চর্বি)",
+     "formula": "(RCOO)₃C₃H₅",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু HCl",
+     "formula": "HCl",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লিসারল",
+     "formula": "C₃H₅(OH)₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফ্যাটি এসিড",
+     "formula": "RCOOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(RCOO)₃C₃H₅ + 3H₂O → C₃H₅(OH)₃ + 3RCOOH",
+   "conditions": "লঘু খনিজ এসিড, উত্তপ্ত",
+   "observations_bn": "তেল বা চর্বি ভেঙে ফ্যাটি এসিড ও গ্লিসারিন মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-16",
+   "chapter_no": 9,
+   "section_no": "9.5",
+   "section_title_bn": "কার্বক্সিলিক এসিডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 488,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সাধারণ এস্টারের আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "এস্টার",
+     "formula": "RCOOR′",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বক্সিলিক এসিড",
+     "formula": "RCOOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "R′OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "RCOOR′ + H₂O ⇌ RCOOH + R′OH",
+   "conditions": "লঘু HCl, উত্তপ্ত",
+   "observations_bn": "এসিড অনুঘটকে এস্টার ভেঙে এসিড ও অ্যালকোহল দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-17",
+   "chapter_no": 9,
+   "section_no": "9.5",
+   "section_title_bn": "কার্বক্সিলিক এসিডের সাধারণ প্রস্তুত প্রণালী (অ্যারোম্যাটিক)",
+   "book_page": 488,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইনের জারণে বেনজোয়িক এসিড (KMnO₄/KOH)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "KMnO₄",
+     "formula": "KMnO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + 3[O] → C₆H₅COOH + H₂O",
+   "conditions": "KMnO₄, KOH, উত্তপ্ত",
+   "observations_bn": "পার্শ্বশিকল জারিত হয়ে –COOH হয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-18",
+   "chapter_no": 9,
+   "section_no": "9.5",
+   "section_title_bn": "কার্বক্সিলিক এসিডের সাধারণ প্রস্তুত প্রণালী (অ্যারোম্যাটিক)",
+   "book_page": 488,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফিনাইল সায়ানাইডের আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ফিনাইল সায়ানাইড",
+     "formula": "C₆H₅CN",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু HCl",
+     "formula": "HCl",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅CN + 2H₂O → C₆H₅COOH + NH₃ (HCl, Δ)",
+   "conditions": "লঘু HCl, উত্তপ্ত",
+   "observations_bn": "বেনজোয়িক এসিড ও NH₃ উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-19",
+   "chapter_no": 9,
+   "section_no": "9.6",
+   "section_title_bn": "মিথানোয়িক এসিড বা ফরমিক এসিডের শিল্পোৎপাদন",
+   "book_page": 489,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO ও NaOH থেকে সোডিয়াম ফরমেট",
+   "reactants": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফরমেট",
+     "formula": "HCOONa",
+     "state": "solution"
+    }
+   ],
+   "equation": "CO + NaOH → HCOONa",
+   "conditions": "6–10 atm, 210 °C",
+   "observations_bn": "অধিক চাপে ও তাপে CO ক্ষারে শোষিত হয়ে ফরমেট দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "CO বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-20",
+   "chapter_no": 9,
+   "section_no": "9.6",
+   "section_title_bn": "মিথানোয়িক এসিড বা ফরমিক এসিডের শিল্পোৎপাদন",
+   "book_page": 489,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ফরমেট থেকে ফরমিক এসিড (লঘু H₂SO₄)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ফরমেট",
+     "formula": "HCOONa",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লঘু H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফরমিক এসিড",
+     "formula": "HCOOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম বাইসালফেট",
+     "formula": "NaHSO₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "HCOONa + H₂SO₄ → HCOOH + NaHSO₄",
+   "conditions": "পাতন, ~100 °C",
+   "observations_bn": "এসিড-লবণ বিক্রিয়ায় ফরমিক এসিড মুক্ত হয়ে পাতিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-21",
+   "chapter_no": 9,
+   "section_no": "9.6",
+   "section_title_bn": "মিথানোয়িক এসিড বা ফরমিক এসিডের শিল্পোৎপাদন",
+   "book_page": 489,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথানল ও CO থেকে মিথাইল ফরমেট ও এর আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "CO",
+     "formula": "CO",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল ফরমেট",
+     "formula": "HCOOCH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃OH + CO → HCOOCH₃; HCOOCH₃ + H₂O → HCOOH + CH₃OH",
+   "conditions": "200 °C, 50 atm; দ্বিতীয় ধাপ লঘু H₂SO₄, 100 °C",
+   "observations_bn": "মিথাইল ফরমেট জল-বিশ্লেষিত হয়ে ফরমিক এসিড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-22",
+   "chapter_no": 9,
+   "section_no": "9.7",
+   "section_title_bn": "ইথানোয়িক এসিড বা অ্যাসিটিক এসিডের শিল্পোৎপাদন",
+   "book_page": 489,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যাসিটিলিন থেকে ইথান্যাল (HgSO₄ অনুঘটক)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "C₂H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH≡CH + H₂O → CH₃CHO",
+   "conditions": "20% H₂SO₄, 1% HgSO₄, 60 °C",
+   "observations_bn": "অ্যাসিটিলিনে পানি যুক্ত হয়ে ইথান্যাল পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-23",
+   "chapter_no": 9,
+   "section_no": "9.7",
+   "section_title_bn": "ইথানোয়িক এসিড বা অ্যাসিটিক এসিডের শিল্পোৎপাদন",
+   "book_page": 489,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথান্যালের বায়ুজারণে ইথানোয়িক এসিড",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2CH₃CHO + O₂ → 2CH₃COOH",
+   "conditions": "ম্যাঙ্গানাস অ্যাসিটেট অনুঘটক, 60 °C",
+   "observations_bn": "অক্সিজেনে জারিত হয়ে অ্যাসিটিক এসিড তৈরি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-24",
+   "chapter_no": 9,
+   "section_no": "9.7",
+   "section_title_bn": "ইথানোয়িক এসিড বা অ্যাসিটিক এসিডের শিল্পোৎপাদন",
+   "book_page": 490,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বিশুদ্ধ অ্যাসিটিক এসিড (গ্লেসিয়াল) প্রস্তুতি – NaOH প্রশমন ও H₂SO₄ পাতন",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH + NaOH → CH₃COONa + H₂O; 2CH₃COONa + H₂SO₄ → 2CH₃COOH + Na₂SO₄",
+   "conditions": "দ্বিতীয় ধাপ গাঢ় H₂SO₄, 118 °C পাতন",
+   "observations_bn": "লবণ আলাদা করে গাঢ় এসিডে পাতিত করলে ~99.5% এসিড মেলে; 17 °C-এ বরফের মতো জমে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-25",
+   "chapter_no": 9,
+   "section_no": "9.7",
+   "section_title_bn": "ইথানোয়িক এসিড বা অ্যাসিটিক এসিডের শিল্পোৎপাদন",
+   "book_page": 490,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পাইরোলিগনিয়াস এসিড থেকে ইথানোয়িক এসিড",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "চুনের পানি/কলিচুন",
+     "formula": "Ca(OH)₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ইথানোয়েট",
+     "formula": "(CH₃COO)₂Ca",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2CH₃COOH + Ca(OH)₂ → (CH₃COO)₂Ca + 2H₂O; (CH₃COO)₂Ca + H₂SO₄ → 2CH₃COOH + CaSO₄",
+   "conditions": "কাঠের বিধ্বংসী পাতন ~400 °C; পরে লঘু H₂SO₄ ও পাতন",
+   "observations_bn": "কাঠের পাতনজাত তরল কলিচুনে প্রশমিত করে ক্যালসিয়াম লবণ হয়, তা থেকে এসিড মুক্ত করা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-26",
+   "chapter_no": 9,
+   "section_no": "9.8.1",
+   "section_title_bn": "ভিনেগার প্রস্তুতি: কুইক ভিনেগার পদ্ধতি",
+   "book_page": 491,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানলের জারণে ভিনেগার (মাইকোডার্মা অ্যাসিটি)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল (10%)",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড (ভিনেগার)",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OH + O₂ → CH₃COOH + H₂O",
+   "conditions": "Mycoderma aceti ব্যাকটেরিয়া, 35 °C",
+   "observations_bn": "ব্যাকটেরিয়ার প্রভাবে অ্যালকোহল বায়ুর অক্সিজেনে জারিত হয়ে ৬–১০% এসিড দ্রবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-27",
+   "chapter_no": 9,
+   "section_no": "9.9",
+   "section_title_bn": "বেনজোয়িক এসিডের শিল্পোৎপাদন",
+   "book_page": 492,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইনের বায়ুজারণে বেনজোয়িক এসিড (V₂O₅)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₆H₅CH₃ + 3O₂ → 2C₆H₅COOH + 2H₂O",
+   "conditions": "V₂O₅, 300 °C (Co-Mn অ্যাসিটেটে 170 °C)",
+   "observations_bn": "বায়ুজারণে টলুইন বেনজোয়িক এসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-28",
+   "chapter_no": 9,
+   "section_no": "9.9",
+   "section_title_bn": "বেনজোয়িক এসিডের শিল্পোৎপাদন",
+   "book_page": 492,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইন → বেনজো ট্রাইক্লোরাইড → বেনজোয়িক এসিড",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজো ট্রাইক্লোরাইড",
+     "formula": "C₆H₅CCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + 3Cl₂ → C₆H₅CCl₃ + 3HCl; C₆H₅CCl₃ + 2H₂O → C₆H₅COOH + 3HCl",
+   "conditions": "ফুটন্ত টলুইন; দ্বিতীয় ধাপ Ca(OH)₂ ও Fe চূর্ণ",
+   "observations_bn": "ক্লোরিনেশনের পর আর্দ্র বিশ্লেষণে বেনজোয়িক এসিড মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-29",
+   "chapter_no": 9,
+   "section_no": "9.11.1",
+   "section_title_bn": "কার্বক্সিল মূলকের আয়নীয় H-পরমাণুর প্রতিস্থাপন : লবণ গঠন",
+   "book_page": 493,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "কার্বক্সিলিক এসিড ও ধাতু (Mg) – H₂ নির্গমন",
+   "reactants": [
+    {
+     "name_bn": "কার্বক্সিলিক এসিড",
+     "formula": "RCOOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম কার্বক্সিলেট",
+     "formula": "(RCOO)₂Mg",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2RCOOH + Mg → (RCOO)₂Mg + H₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বুদবুদ আকারে H₂ গ্যাস বের হয়।",
+   "procedure_bn": [
+    "এসিড দ্রবণে Mg ফিতা দিন",
+    "বুদবুদ লক্ষ্য করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানোয়িক এসিড",
+    "Mg ফিতা",
+    "টেস্ট টিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-30",
+   "chapter_no": 9,
+   "section_no": "9.11.1",
+   "section_title_bn": "কার্বক্সিল মূলকের আয়নীয় H-পরমাণুর প্রতিস্থাপন : লবণ গঠন",
+   "book_page": 493,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "কার্বক্সিলিক এসিডের প্রশমন (NaOH)",
+   "reactants": [
+    {
+     "name_bn": "কার্বক্সিলিক এসিড",
+     "formula": "RCOOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বক্সিলেট",
+     "formula": "RCOONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "RCOOH + NaOH → RCOONa + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "লবণ ও পানি তৈরি; তাপ নির্গত হয় (সাধারণ)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-31",
+   "chapter_no": 9,
+   "section_no": "9.11.1",
+   "section_title_bn": "কার্বক্সিল মূলকের আয়নীয় H-পরমাণুর প্রতিস্থাপন : লবণ গঠন",
+   "book_page": 493,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "কার্বক্সিলিক এসিড ও Na₂CO₃",
+   "reactants": [
+    {
+     "name_bn": "কার্বক্সিলিক এসিড",
+     "formula": "RCOOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বক্সিলেট",
+     "formula": "RCOONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2RCOOH + Na₂CO₃ → 2RCOONa + H₂O + CO₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "CO₂ বুদবুদ বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-32",
+   "chapter_no": 9,
+   "section_no": "9.11.1",
+   "section_title_bn": "কার্বক্সিল মূলকের আয়নীয় H-পরমাণুর প্রতিস্থাপন : লবণ গঠন",
+   "book_page": 494,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "NaHCO₃ দ্বারা কার্বক্সিলিক এসিড শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম বাইকার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বুদবুদ আকারে CO₂ বের হয় ও চুনের পানি ঘোলা হয়; এতে বোঝা যায় এসিডটি H₂CO₃-এর চেয়ে শক্তিশালী।",
+   "procedure_bn": [
+    "এসিডে NaHCO₃ দিন",
+    "নির্গত গ্যাস চুনের পানিতে চালনা করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaHCO₃",
+    "চুনের পানি",
+    "টেস্ট টিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-33",
+   "chapter_no": 9,
+   "section_no": "9.11.1",
+   "section_title_bn": "কার্বক্সিল মূলকের আয়নীয় H-পরমাণুর প্রতিস্থাপন : লবণ গঠন",
+   "book_page": 493,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "বেনজোয়িক এসিড ও NaHCO₃",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "NaHCO₃",
+     "formula": "NaHCO₃",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম বেনজোয়েট",
+     "formula": "C₆H₅COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅COOH + NaHCO₃ → C₆H₅COONa + H₂O + CO₂↑",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "CO₂ বুদবুদ ওঠে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-34",
+   "chapter_no": 9,
+   "section_no": "9.11.2",
+   "section_title_bn": "কার্বক্সিল মূলকের –OH অংশের প্রতিস্থাপন : এস্টার, অ্যাসাইল হ্যালাইড, এসিড অ্যানহাইড্রাইড ও অ্যামাইড গঠন",
+   "book_page": 497,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিড ও ইথানলের এস্টারকরণ (ইথাইল ইথানোয়েট)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O",
+   "conditions": "লঘু HCl অনুঘটক, উত্তপ্ত",
+   "observations_bn": "মিশ্রণ গরম করলে ফলের মতো গন্ধযুক্ত এস্টার ও পানি পাওয়া যায়।",
+   "procedure_bn": [
+    "এসিড ও অ্যালকোহল মেশান",
+    "অল্প HCl দিয়ে উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানোয়িক এসিড",
+    "ইথানল",
+    "HCl",
+    "টেস্ট টিউব"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-35",
+   "chapter_no": 9,
+   "section_no": "9.11.2",
+   "section_title_bn": "কার্বক্সিল মূলকের –OH অংশের প্রতিস্থাপন : এস্টার, অ্যাসাইল হ্যালাইড, এসিড অ্যানহাইড্রাইড ও অ্যামাইড গঠন",
+   "book_page": 497,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "বেনজোয়িক এসিড ও ইথানল থেকে ইথাইল বেনজোয়েট",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল বেনজোয়েট",
+     "formula": "C₆H₅COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅COOH + C₂H₅OH ⇌ C₆H₅COOC₂H₅ + H₂O",
+   "conditions": "লঘু HCl, উত্তপ্ত",
+   "observations_bn": "এস্টার ও পানি উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-36",
+   "chapter_no": 9,
+   "section_no": "9.11.2",
+   "section_title_bn": "কার্বক্সিল মূলকের –OH অংশের প্রতিস্থাপন : এস্টার, অ্যাসাইল হ্যালাইড, এসিড অ্যানহাইড্রাইড ও অ্যামাইড গঠন",
+   "book_page": 497,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বক্সিলিক এসিড ও PCl₃ থেকে অ্যাসাইল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "কার্বক্সিলিক এসিড",
+     "formula": "RCOOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসাইল ক্লোরাইড",
+     "formula": "RCOCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস এসিড",
+     "formula": "H₃PO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "3RCOOH + PCl₃ → 3RCOCl + H₃PO₃",
+   "conditions": "শুষ্ক অবস্থা",
+   "observations_bn": "–OH মূলক Cl দ্বারা প্রতিস্থাপিত হয়ে অ্যাসাইল ক্লোরাইড মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "PCl₃ আর্দ্রতায় বিক্রিয়াশীল",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-37",
+   "chapter_no": 9,
+   "section_no": "9.11.2",
+   "section_title_bn": "কার্বক্সিল মূলকের –OH অংশের প্রতিস্থাপন : এস্টার, অ্যাসাইল হ্যালাইড, এসিড অ্যানহাইড্রাইড ও অ্যামাইড গঠন",
+   "book_page": 497,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বক্সিলিক এসিড ও SOCl₂ থেকে অ্যাসাইল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "কার্বক্সিলিক এসিড",
+     "formula": "RCOOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "থায়োনাইল ক্লোরাইড",
+     "formula": "SOCl₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসাইল ক্লোরাইড",
+     "formula": "RCOCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "RCOOH + SOCl₂ → RCOCl + SO₂↑ + HCl↑",
+   "conditions": "শুষ্ক অবস্থা",
+   "observations_bn": "উপজাত SO₂ ও HCl গ্যাস বেরিয়ে যায়, ফলে বিশুদ্ধ অ্যাসাইল ক্লোরাইড থাকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "SO₂, HCl বিষাক্ত/ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-38",
+   "chapter_no": 9,
+   "section_no": "9.11.2",
+   "section_title_bn": "কার্বক্সিল মূলকের –OH অংশের প্রতিস্থাপন : এস্টার, অ্যাসাইল হ্যালাইড, এসিড অ্যানহাইড্রাইড ও অ্যামাইড গঠন",
+   "book_page": 498,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিড ও PCl₅ থেকে ইথানোয়িল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "PCl₅",
+     "formula": "PCl₅",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "POCl₃",
+     "formula": "POCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COOH + PCl₅ → CH₃COCl + POCl₃ + HCl↑",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "ইথানোয়িল ক্লোরাইড, POCl₃ ও HCl গ্যাস পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "HCl গ্যাস ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-39",
+   "chapter_no": 9,
+   "section_no": "9.11.2",
+   "section_title_bn": "কার্বক্সিল মূলকের –OH অংশের প্রতিস্থাপন : এস্টার, অ্যাসাইল হ্যালাইড, এসিড অ্যানহাইড্রাইড ও অ্যামাইড গঠন",
+   "book_page": 498,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিড থেকে ইথানোয়িক অ্যানহাইড্রাইড (P₂O₅)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড (2 অণু)",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2CH₃COOH → (CH₃CO)₂O + H₂O (P₂O₅, Δ)",
+   "conditions": "P₂O₅ নিরুদক, উত্তপ্ত",
+   "observations_bn": "দুই অণু এসিড থেকে এক অণু পানি বেরিয়ে অ্যানহাইড্রাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-40",
+   "chapter_no": 9,
+   "section_no": "9.11.2",
+   "section_title_bn": "কার্বক্সিল মূলকের –OH অংশের প্রতিস্থাপন : এস্টার, অ্যাসাইল হ্যালাইড, এসিড অ্যানহাইড্রাইড ও অ্যামাইড গঠন",
+   "book_page": 498,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিড ও অ্যামোনিয়াম কার্বনেট থেকে অ্যাসিটামাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম কার্বনেট",
+     "formula": "(NH₄)₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম ইথানোয়েট",
+     "formula": "CH₃COONH₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2CH₃COOH + (NH₄)₂CO₃ → 2CH₃COONH₄ + CO₂↑ + H₂O↑; CH₃COONH₄ → CH₃CONH₂ + H₂O (100–200 °C, অতিরিক্ত এসিড সহ)",
+   "conditions": "উত্তপ্ত 100–200 °C",
+   "observations_bn": "প্রথমে অ্যামোনিয়াম লবণ, পরে আরও উত্তপ্ত করলে অ্যামাইড হয়; বাড়তি এসিড লবণের বিয়োজন ঠেকায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-41",
+   "chapter_no": 9,
+   "section_no": "9.11.2",
+   "section_title_bn": "কার্বক্সিল মূলকের –OH অংশের প্রতিস্থাপন : এস্টার, অ্যাসাইল হ্যালাইড, এসিড অ্যানহাইড্রাইড ও অ্যামাইড গঠন",
+   "book_page": 499,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজোয়িক এসিড থেকে বেনজ্যামাইড",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম কার্বনেট",
+     "formula": "(NH₄)₂CO₃",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজ্যামাইড",
+     "formula": "C₆H₅CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2C₆H₅COOH + (NH₄)₂CO₃ → 2C₆H₅COONH₄ + CO₂ + H₂O; C₆H₅COONH₄ → C₆H₅CONH₂ + H₂O",
+   "conditions": "উত্তপ্ত",
+   "observations_bn": "অ্যামোনিয়াম বেনজোয়েট হয়ে পরে আরও উত্তাপে অ্যামাইড তৈরি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-42",
+   "chapter_no": 9,
+   "section_no": "9.11.3",
+   "section_title_bn": "এসিডের কার্বনাইল মূলকের বিশেষ বিক্রিয়া",
+   "book_page": 499,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বক্সিলিক এসিডের LiAlH₄ বিজারণ (প্রোপানোয়িক এসিড → প্রোপান-1-অল)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানোয়িক এসিড",
+     "formula": "CH₃CH₂COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "লিথিয়াম অ্যালুমিনিয়াম হাইড্রাইড",
+     "formula": "LiAlH₄",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপান-1-অল",
+     "formula": "CH₃CH₂CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂COOH + 4[H] → CH₃CH₂CH₂OH + H₂O",
+   "conditions": "LiAlH₄, শুষ্ক ইথার",
+   "observations_bn": "এসিড বিজারিত হয়ে প্রাইমারি অ্যালকোহল মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "LiAlH₄ পানিতে বিস্ফোরক বিক্রিয়া",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-43",
+   "chapter_no": 9,
+   "section_no": "9.11.4",
+   "section_title_bn": "কার্বক্সিল মূলকের জন্য বিক্রিয়া",
+   "book_page": 500,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডিকার্বক্সিলেশন: সোডিয়াম প্রোপিয়োনেট থেকে ইথেন (সোডালাইম)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম প্রোপানোয়েট",
+     "formula": "CH₃CH₂COONa",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডালাইম",
+     "formula": "NaOH·CaO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃CH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CH₂COONa + NaOH → CH₃CH₃↑ + Na₂CO₃ (সোডালাইম, Δ)",
+   "conditions": "সোডালাইম সহ তীব্র উত্তপ্ত",
+   "observations_bn": "CO₂ অপসারিত হয়ে এক কার্বন কম হাইড্রোকার্বন গ্যাস পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-44",
+   "chapter_no": 9,
+   "section_no": "9.11.4",
+   "section_title_bn": "কার্বক্সিল মূলকের জন্য বিক্রিয়া",
+   "book_page": 501,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ইথানোয়েট থেকে মিথেন (সোডালাইম)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডালাইম",
+     "formula": "NaOH·CaO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃COONa + NaOH → CH₄↑ + Na₂CO₃ (সোডালাইম, Δ)",
+   "conditions": "সোডালাইম সহ তীব্র উত্তপ্ত",
+   "observations_bn": "মিথেন গ্যাস উৎপন্ন হয়; বইয়ে প্রথম ধাপে CH₃COOH + NaOH → CH₃COONa + H₂O-ও আছে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-45",
+   "chapter_no": 9,
+   "section_no": "9.11.4",
+   "section_title_bn": "কার্বক্সিল মূলকের জন্য বিক্রিয়া",
+   "book_page": 501,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম বেনজোয়েট থেকে বেনজিন (সোডালাইম)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম বেনজোয়েট",
+     "formula": "C₆H₅COONa",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডালাইম",
+     "formula": "NaOH·CaO",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅COONa + NaOH → C₆H₆ + Na₂CO₃ (সোডালাইম, Δ)",
+   "conditions": "সোডালাইম সহ তীব্র উত্তপ্ত",
+   "observations_bn": "বেনজিন বাষ্প পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-46",
+   "chapter_no": 9,
+   "section_no": "9.11.4",
+   "section_title_bn": "কার্বক্সিল মূলকের জন্য বিক্রিয়া",
+   "book_page": 501,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিডের পূর্ণ বিজারণ (HI ও লাল P)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃CH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃COOH + 6HI → CH₃CH₃ + 2H₂O + 3I₂",
+   "conditions": "লাল ফসফরাস, উত্তপ্ত",
+   "observations_bn": "কার্বক্সিল মূলক সম্পূর্ণ বিজারিত হয়ে ইথেন, বাষ্প ও আয়োডিন মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-47",
+   "chapter_no": 9,
+   "section_no": "9.11.5",
+   "section_title_bn": "অ্যালকাইল মূলকে প্রতিস্থাপন",
+   "book_page": 501,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিডের α-ক্লোরিনেশন (HVZ)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরো ইথানোয়িক এসিড",
+     "formula": "ClCH₂COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COOH + Cl₂ → ClCH₂COOH + HCl↑",
+   "conditions": "লাল P/I₂, সূর্যালোক, ফুটন্ত 118 °C",
+   "observations_bn": "α-হাইড্রোজেন Cl-এ প্রতিস্থাপিত; অতিরিক্ত Cl₂-এ ডাই ও ট্রাইক্লোরো এসিডও হয় (গলনাঙ্ক 61 °C)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-48",
+   "chapter_no": 9,
+   "section_no": "9.11.5",
+   "section_title_bn": "অ্যালকাইল মূলকে প্রতিস্থাপন",
+   "book_page": 501,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরো এসিড থেকে ডাই ও ট্রাইক্লোরো ইথানোয়িক এসিড",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরো ইথানোয়িক এসিড",
+     "formula": "ClCH₂COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইক্লোরো ইথানোয়িক এসিড",
+     "formula": "Cl₂CHCOOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "ClCH₂COOH + Cl₂ → Cl₂CHCOOH + HCl; Cl₂CHCOOH + Cl₂ → Cl₃CCOOH + HCl",
+   "conditions": "লাল P, উত্তপ্ত",
+   "observations_bn": "ধাপে ধাপে আরও H প্রতিস্থাপিত হয়ে ট্রাইক্লোরো এসিড (কঠিন) পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-49",
+   "chapter_no": 9,
+   "section_no": "9.11.5",
+   "section_title_bn": "অ্যালকাইল মূলকে প্রতিস্থাপন",
+   "book_page": 502,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "α-ব্রোমিনেশন (PBr₃, HVZ)",
+   "reactants": [
+    {
+     "name_bn": "কার্বক্সিলিক এসিড (RCH₂COOH)",
+     "formula": "RCH₂COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "α-ব্রোমো এসিড",
+     "formula": "RCHBrCOOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "HBr",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "RCH₂COOH + Br₂ → RCHBrCOOH + HBr",
+   "conditions": "PBr₃ অনুঘটক",
+   "observations_bn": "α-কার্বনে ব্রোমিন যুক্ত; আরও Br₂-এ ডাইব্রোমো যৌগও হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "Br₂ ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-50",
+   "chapter_no": 9,
+   "section_no": "9.11.6",
+   "section_title_bn": "অ্যারোম্যাটিক কার্বক্সিলিক এসিডের বেনজিন বলয়ে প্রতিস্থাপন",
+   "book_page": 502,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজোয়িক এসিডের নাইট্রেশন (মেটা-নাইট্রো)",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক এসিড",
+     "formula": "HNO₃",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "m-নাইট্রো বেনজোয়িক এসিড",
+     "formula": "m-O₂NC₆H₄COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅COOH + HNO₃ → m-O₂NC₆H₄COOH + H₂O",
+   "conditions": "গাঢ় H₂SO₄ ও উত্তপ্ত",
+   "observations_bn": "–COOH মেটা-নির্দেশক, তাই নাইট্রো মূলক মেটা অবস্থানে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "গাঢ় এসিড মিশ্রণ বিপজ্জনক",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-51",
+   "chapter_no": 9,
+   "section_no": "9.11.6",
+   "section_title_bn": "অ্যারোম্যাটিক কার্বক্সিলিক এসিডের বেনজিন বলয়ে প্রতিস্থাপন",
+   "book_page": 502,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজোয়িক এসিডের ক্লোরিনেশন (মেটা-ক্লোরো)",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "m-ক্লোরো বেনজোয়িক এসিড",
+     "formula": "m-ClC₆H₄COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "HCl",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅COOH + Cl₂ → m-ClC₆H₄COOH + HCl",
+   "conditions": "Fe গুঁড়া, উত্তপ্ত",
+   "observations_bn": "মেটা-ক্লোরো বেনজোয়িক এসিড তৈরি হয়; ফ্রিডেল-ক্র্যাফট বিক্রিয়া এ এসিডে ঘটে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-52",
+   "chapter_no": 9,
+   "section_no": "9.12",
+   "section_title_bn": "কার্বক্সিল মূলকের পরীক্ষা",
+   "book_page": 503,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লিটমাস পরীক্ষায় কার্বক্সিলিক এসিড",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "নীল লিটমাস",
+     "formula": "লিটমাস",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়েট আয়ন ও হাইড্রোনিয়াম",
+     "formula": "CH₃COO⁻ + H₃O⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOH + H₂O ⇌ CH₃COO⁻ + H₃O⁺",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "নীল লিটমাস লাল হয়ে যায়।",
+   "procedure_bn": [
+    "এসিড দ্রবণে নীল লিটমাস কাগজ ডোবান",
+    "রং লক্ষ্য করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নীল লিটমাস",
+    "এসিড দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-53",
+   "chapter_no": 9,
+   "section_no": "9.12",
+   "section_title_bn": "কার্বক্সিল মূলকের পরীক্ষা",
+   "book_page": 503,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "NaHCO₃ পরীক্ষা ও চুনের পানিতে CO₂",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "NaHCO₃ দ্রবণ",
+     "formula": "NaHCO₃",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "চুনের পানি",
+     "formula": "Ca(OH)₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "CH₃COONa",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "CO₂",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "CaCO₃",
+     "formula": "CaCO₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃COOH + NaHCO₃ → CH₃COONa + CO₂↑ + H₂O; Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O",
+   "conditions": "কক্ষ তাপমাত্রা",
+   "observations_bn": "বুদবুদে CO₂ বের হয় ও চুনের পানি ঘোলা হয়।",
+   "procedure_bn": [
+    "এসিডে NaHCO₃ দ্রবণ দিন",
+    "গ্যাস চুনের পানিতে চালনা করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaHCO₃",
+    "চুনের পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-54",
+   "chapter_no": 9,
+   "section_no": "9.13",
+   "section_title_bn": "মিথানোয়িক এসিড ও ইথানোয়িক এসিডের তুলনা",
+   "book_page": 503,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফরমিক এসিডের টলেন বিকারকে বিজারণ (পার্থক্য পরীক্ষা)",
+   "reactants": [
+    {
+     "name_bn": "মিথানোয়িক এসিড",
+     "formula": "HCOOH",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "টলেন বিকারক",
+     "formula": "[Ag(NH₃)₂]⁺",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "রূপা",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCOOH + 2[Ag(NH₃)₂]⁺ + 2OH⁻ → CO₂ + 2H₂O + 2Ag↓ + 4NH₃",
+   "equation_printed": "HCOOH + 2Ag(NH₃)₂OH → CO₂ + 2H₂O + 2Ag + 4NH₃",
+   "conditions": "মৃদু উষ্ণ",
+   "observations_bn": "রূপালি দর্পণ বা কালো Ag অধঃক্ষেপ পড়ে; ইথানোয়িক এসিডে এই বিক্রিয়া হয় না।",
+   "procedure_bn": [
+    "ফরমিক এসিডে টলেন বিকারক দিন",
+    "পানিঊষ্ণে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলেন বিকারক",
+    "HCOOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-55",
+   "chapter_no": 9,
+   "section_no": "9.13",
+   "section_title_bn": "মিথানোয়িক এসিড ও ইথানোয়িক এসিডের তুলনা",
+   "book_page": 503,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফরমিক এসিডের তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "ফরমিক এসিড",
+     "formula": "HCOOH",
+     "state": "liquid",
+     "form": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "HCOOH → CO₂ + H₂ (Δ)",
+   "conditions": "তাপ",
+   "observations_bn": "গরমে ফরমিক এসিড স্থিতিশীল নয়, গ্যাসে ভেঙে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-14-56",
+   "chapter_no": 9,
+   "section_no": "9.13",
+   "section_title_bn": "মিথানোয়িক এসিড ও ইথানোয়িক এসিডের তুলনা",
+   "book_page": 503,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গাঢ় H₂SO₄ দ্বারা ফরমিক এসিডের নিরুদন",
+   "reactants": [
+    {
+     "name_bn": "ফরমিক এসিড",
+     "formula": "HCOOH",
+     "state": "liquid",
+     "form": "liquid"
+    },
+    {
+     "name_bn": "গাঢ় H₂SO₄",
+     "formula": "H₂SO₄",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCOOH → CO↑ + H₂O (গাঢ় H₂SO₄, Δ)",
+   "conditions": "গাঢ় H₂SO₄, উত্তপ্ত",
+   "observations_bn": "CO গ্যাস পাওয়া যায়; ইথানোয়িক এসিডে এমন নিরুদন ঘটে না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "CO বিষাক্ত",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 8,
+   "no": "8.18",
+   "title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "start_page": 468
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.1",
+   "title_bn": "ভূমিকা",
+   "start_page": 482
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.2",
+   "title_bn": "কার্বক্সিলিক এসিডের শ্রেণীবিভাগ",
+   "start_page": 483
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.3",
+   "title_bn": "কার্বক্সিলিক এসিডের নামকরণ",
+   "start_page": 484
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.4",
+   "title_bn": "এসিড জাতকসমূহের নামকরণ",
+   "start_page": 486
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.5",
+   "title_bn": "কার্বক্সিলিক এসিডের সাধারণ প্রস্তুত প্রণালী",
+   "start_page": 487
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.6",
+   "title_bn": "মিথানোয়িক এসিড বা ফরমিক এসিডের শিল্পোৎপাদন",
+   "start_page": 489
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.7",
+   "title_bn": "ইথানোয়িক এসিড বা অ্যাসিটিক এসিডের শিল্পোৎপাদন",
+   "start_page": 489
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.8",
+   "title_bn": "ইথানোয়িক এসিডের ব্যবহার",
+   "start_page": 491
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.8.1",
+   "title_bn": "ভিনেগার প্রস্তুতি : কুইক ভিনেগার পদ্ধতি",
+   "start_page": 491
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.9",
+   "title_bn": "বেনজোয়িক এসিডের শিল্পোৎপাদন",
+   "start_page": 492
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.10",
+   "title_bn": "কার্বক্সিলিক এসিডসমূহের ভৌত ধর্ম",
+   "start_page": 492
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.11",
+   "title_bn": "কার্বক্সিলিক এসিডের রাসায়নিক ধর্ম",
+   "start_page": 493
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.11.1",
+   "title_bn": "কার্বক্সিল মূলকের আয়নীয় H-পরমাণুর প্রতিস্থাপন : লবণ গঠন",
+   "start_page": 493
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.11.2",
+   "title_bn": "কার্বক্সিল মূলকের –OH অংশের প্রতিস্থাপন : এস্টার, অ্যাসাইল হ্যালাইড, এসিড অ্যানহাইড্রাইড ও অ্যামাইড গঠন",
+   "start_page": 497
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.11.3",
+   "title_bn": "এসিডের কার্বনাইল মূলকের বিশেষ বিক্রিয়া",
+   "start_page": 499
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.11.4",
+   "title_bn": "কার্বক্সিল মূলকের জন্য বিক্রিয়া",
+   "start_page": 500
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.11.5",
+   "title_bn": "অ্যালকাইল মূলকে প্রতিস্থাপন",
+   "start_page": 501
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.11.6",
+   "title_bn": "অ্যারোম্যাটিক কার্বক্সিলিক এসিডের বেনজিন বলয়ে প্রতিস্থাপন",
+   "start_page": 502
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.12",
+   "title_bn": "কার্বক্সিল মূলকের পরীক্ষা",
+   "start_page": 503
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.13",
+   "title_bn": "মিথানোয়িক এসিড ও ইথানোয়িক এসিডের তুলনা",
+   "start_page": 503
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.13.1",
+   "title_bn": "মিথানোয়িক এসিড অ্যালডিহাইড (বিজারক) ও এসিড উভয়রূপে ক্রিয়াশীল",
+   "start_page": 503
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Pages 483-496 of range were end of chapter 8 (exam sections skipped) and chapter 9 starting printed p.482. Page numbering is the guide's own; chapter label 9 as printed (task id prefix k12-14 is the batch name). Aldehyde comparison table (p.468) reactions with incomplete printed equations were completed and marked partly-legible. Pure theory pages (nomenclature, acid strength, Ka) skipped."
+}

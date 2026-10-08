@@ -1,0 +1,4540 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  519,
+  554
+ ],
+ "page_offset_note": "printed page = pdf page - 15 (pdf 519 = printed 504)",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-15-001",
+   "chapter_no": 9,
+   "section_no": "9.13.1",
+   "section_title_bn": "ফরমিক (মিথানোয়িক) এসিডের বিশেষ ধর্ম (শিরোনাম পূর্ব পৃষ্ঠায়, নম্বর অনুমিত)",
+   "book_page": 504,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফরমিক এসিডে নীল লিটমাস পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ফরমিক এসিড",
+     "formula": "HCOOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "নীল লিটমাস",
+     "formula": "litmus",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফরমেট আয়ন",
+     "formula": "HCOO⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়ন",
+     "formula": "H⁺",
+     "state": "solution"
+    }
+   ],
+   "equation": "HCOOH ⇌ HCOO⁻ + H⁺",
+   "conditions": "room temp",
+   "observations_bn": "জলীয় দ্রবণে আয়নিত হয়ে H⁺ দেয়, ফলে নীল লিটমাস লাল হয়।",
+   "procedure_bn": [
+    "নীল লিটমাসে ফরমিক এসিড দ্রবণ দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফরমিক এসিড দ্রবণ",
+    "নীল লিটমাস"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-002",
+   "chapter_no": 9,
+   "section_no": "9.13.1",
+   "section_title_bn": "ফরমিক (মিথানোয়িক) এসিডের বিশেষ ধর্ম (শিরোনাম পূর্ব পৃষ্ঠায়, নম্বর অনুমিত)",
+   "book_page": 504,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফরমিক এসিড ও NaHCO₃ বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ফরমিক এসিড",
+     "formula": "HCOOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম বাইকার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফরমেট",
+     "formula": "HCOONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCOOH + NaHCO₃ → HCOONa + CO₂↑ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "বুদবুদসহ CO₂ বের হয়; কার্বক্সিল মূলক নির্দেশ করে।",
+   "procedure_bn": [
+    "HCOOH দ্রবণে NaHCO₃ দ্রবণ মেশান"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HCOOH",
+    "NaHCO₃ দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-003",
+   "chapter_no": 9,
+   "section_no": "9.13.1",
+   "section_title_bn": "ফরমিক (মিথানোয়িক) এসিডের বিশেষ ধর্ম (শিরোনাম পূর্ব পৃষ্ঠায়, নম্বর অনুমিত)",
+   "book_page": 504,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফেলিং দ্রবণ দিয়ে ফরমিক এসিডের বিজারণ পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ফরমিক এসিড",
+     "formula": "HCOOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেলিং দ্রবণ (Cu(OH)₂ + NaOH)",
+     "formula": "Cu(OH)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিউপ্রাস অক্সাইড",
+     "formula": "Cu₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCOOH + 2Cu(OH)₂ + 2NaOH → Cu₂O↓ + Na₂CO₃ + 4H₂O",
+   "conditions": "warm (Δ)",
+   "observations_bn": "লালচে ইটরঙা Cu₂O অধঃক্ষেপ পড়ে; ফরমিক এসিডে অ্যালডিহাইড-সদৃশ বিজারণ ক্ষমতা আছে (অ্যাসিটিক এসিডে নেই)।",
+   "procedure_bn": [
+    "ফেলিং দ্রবণে HCOOH দিয়ে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেলিং দ্রবণ",
+    "HCOOH",
+    "water bath"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-004",
+   "chapter_no": 9,
+   "section_no": "9.13.1",
+   "section_title_bn": "ফরমিক (মিথানোয়িক) এসিডের বিশেষ ধর্ম (শিরোনাম পূর্ব পৃষ্ঠায়, নম্বর অনুমিত)",
+   "book_page": 504,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "টলেন বিকারক দিয়ে ফরমিক এসিড পরীক্ষা (সিলভার দর্পণ)",
+   "reactants": [
+    {
+     "name_bn": "ফরমিক এসিড",
+     "formula": "HCOOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "টলেন বিকারক",
+     "formula": "Ag(NH₃)₂OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "রূপা",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম কার্বনেট",
+     "formula": "(NH₄)₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HCOOH + 2Ag(NH₃)₂OH → 2Ag↓ + (NH₄)₂CO₃ + 2NH₃↑ + H₂O",
+   "equation_printed": "HCOOH + 2Ag(NH₃)₂OH → 2Ag + (NH₄)₂CO₃ + 2NH₃ + H₂O",
+   "conditions": "warm (Δ)",
+   "observations_bn": "পাত্রের গায়ে রূপালি দর্পণ জমে।",
+   "procedure_bn": [
+    "টলেন বিকারকে HCOOH মিশিয়ে মৃদু গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলেন বিকারক",
+    "HCOOH",
+    "test tube"
+   ],
+   "safety_bn": "অ্যামোনিয়াযুক্ত বিকারক; ব্যবহারের পর দ্রবণ ফেলে দিন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-005",
+   "chapter_no": 9,
+   "section_no": "9.13.2",
+   "section_title_bn": "মিথানোয়িক এসিড ও ইথানোয়িক এসিড-এর পার্থক্যসূচক পরীক্ষা",
+   "book_page": 504,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "HgCl₂ দ্রবণ দিয়ে ফরমিক এসিড শনাক্তকরণ",
+   "reactants": [
+    {
+     "name_bn": "ফরমিক এসিড",
+     "formula": "HCOOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "মারকিউরিক ক্লোরাইড",
+     "formula": "HgCl₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মারকিউরাস ক্লোরাইড",
+     "formula": "Hg₂Cl₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2HgCl₂ + HCOOH → Hg₂Cl₂↓ + 2HCl + CO₂↑ ; পরে Hg₂Cl₂ + HCOOH → 2Hg + 2HCl + CO₂↑",
+   "conditions": "warm for second stage",
+   "observations_bn": "প্রথমে সাদা Hg₂Cl₂ অধঃক্ষেপ, গরমে তা ধূসর পারদে পরিণত হয়। অ্যাসিটিক এসিডে এই পরিবর্তন হয় না।",
+   "procedure_bn": [
+    "HCOOH-এ HgCl₂ দ্রবণ দিন",
+    "সাদা অধঃক্ষেপ পেলে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HgCl₂ দ্রবণ",
+    "HCOOH"
+   ],
+   "safety_bn": "পারদ যৌগ বিষাক্ত; শিক্ষকের তত্ত্বাবধানে কার্ড/ডেমো হিসেবে দেখানো ভালো।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-006",
+   "chapter_no": 9,
+   "section_no": "9.13.2",
+   "section_title_bn": "মিথানোয়িক এসিড ও ইথানোয়িক এসিড-এর পার্থক্যসূচক পরীক্ষা",
+   "book_page": 504,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "ক্যাকোডিল অক্সাইড পরীক্ষা (অ্যাসিটিক এসিড শনাক্তকরণ)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম অ্যাসিটেট (অ্যাসিটিক এসিড + NaOH থেকে)",
+     "formula": "CH₃COONa",
+     "state": "solid"
+    },
+    {
+     "name_bn": "আর্সেনাস অক্সাইড",
+     "formula": "As₂O₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যাকোডিল অক্সাইড",
+     "formula": "(CH₃)₂As–O–As(CH₃)₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COOH + NaOH → CH₃COONa + H₂O ; 4CH₃COONa + As₂O₃ → (CH₃)₂As–O–As(CH₃)₂ + 2Na₂CO₃ + 2CO₂↑",
+   "conditions": "strong heating",
+   "observations_bn": "উত্তপ্ত করলে দুর্গন্ধযুক্ত ক্যাকোডিল অক্সাইডের ধোঁয়া বের হয়; ফরমিক এসিডে হয় না।",
+   "procedure_bn": [
+    "অ্যাসিটিক এসিডকে গাঢ় NaOH ও As₂O₃-সহ গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "As₂O₃",
+    "NaOH"
+   ],
+   "safety_bn": "আর্সেনিক যৌগ অত্যন্ত বিষাক্ত; স্কুল ল্যাবে নয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-007",
+   "chapter_no": 9,
+   "section_no": "9.16",
+   "section_title_bn": "অ্যাসাইল ক্লোরাইডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 507,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিড থেকে ইথানোয়িল ক্লোরাইড (PCl₃)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস এসিড",
+     "formula": "H₃PO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3CH₃COOH + PCl₃ → 3CH₃COCl + H₃PO₃",
+   "equation_printed": "CH₃COOH + PCl₃ → CH₃COCl + H₃PO₃ (অসমতাযুক্ত)",
+   "conditions": "heat (~52 °C), distil",
+   "observations_bn": "পাতন করে তরল ইথানোয়িল ক্লোরাইড পাওয়া যায়; স্ফুটনাঙ্ক কম বলে PCl₃ উপযুক্ত।",
+   "procedure_bn": [
+    "এসিডে PCl₃ মিশিয়ে গরম করে পাতন করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COOH",
+    "PCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-15-008",
+   "chapter_no": 9,
+   "section_no": "9.16",
+   "section_title_bn": "অ্যাসাইল ক্লোরাইডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 507,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজোয়িক এসিড থেকে বেনজোয়িল ক্লোরাইড (PCl₅)",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজোয়িল ক্লোরাইড",
+     "formula": "C₆H₅COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅COOH + PCl₅ → C₆H₅COCl + POCl₃ + HCl↑",
+   "equation_printed": "C₆H₅COOH + PCl₅ → C₆H₅COCl + H₃PO₃ (PCl₃ তীরের ওপরে, 52 °C)",
+   "conditions": "heat",
+   "observations_bn": "বইয়ে চিত্রে PCl₃ ও H₃PO₃ ছাপা; একই পৃষ্ঠার সাধারণ সমীকরণ অনুযায়ী PCl₅ থেকে POCl₃ ও HCl হয়।",
+   "procedure_bn": [
+    "PCl₅-সহ এসিড উত্তপ্ত করে পাতন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₆H₅COOH",
+    "PCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-15-009",
+   "chapter_no": 9,
+   "section_no": "9.16",
+   "section_title_bn": "অ্যাসাইল ক্লোরাইডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 507,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "RCOOH + PCl₅ → অ্যাসাইল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "জৈব এসিড",
+     "formula": "RCOOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসাইল ক্লোরাইড",
+     "formula": "RCOCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "RCOOH + PCl₅ → RCOCl + POCl₃ + HCl↑",
+   "conditions": "heat",
+   "observations_bn": "উচ্চ স্ফুটনাঙ্কের অ্যাসাইল ক্লোরাইডের ক্ষেত্রে PCl₅ ব্যবহার্য; অংশত পাতনে পৃথক হয়।",
+   "procedure_bn": [
+    "এসিডের সঙ্গে PCl₅ উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "RCOOH",
+    "PCl₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-010",
+   "chapter_no": 9,
+   "section_no": "9.16",
+   "section_title_bn": "অ্যাসাইল ক্লোরাইডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 507,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "RCOOH + SOCl₂ → অ্যাসাইল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "জৈব এসিড",
+     "formula": "RCOOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "থায়োনাইল ক্লোরাইড",
+     "formula": "SOCl₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসাইল ক্লোরাইড",
+     "formula": "RCOCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফার ডাই-অক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "RCOOH + SOCl₂ → RCOCl + SO₂↑ + HCl↑",
+   "conditions": "heat",
+   "observations_bn": "উপজাত SO₂ ও HCl গ্যাস হিসেবে বেরিয়ে যায়, তাই বিশুদ্ধ অ্যাসাইল ক্লোরাইড মেলে; সেরা বিকারক বলা হয়েছে।",
+   "procedure_bn": [
+    "এসিডে SOCl₂ মিশিয়ে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "RCOOH",
+    "SOCl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-011",
+   "chapter_no": 9,
+   "section_no": "9.17.1",
+   "section_title_bn": "নিউক্লিওফিলিক প্রতিস্থাপন : অ্যাসাইলেশন",
+   "book_page": 508,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িল ক্লোরাইডের আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + H₂O → CH₃COOH + HCl",
+   "conditions": "room temp/warm (Δ printed)",
+   "observations_bn": "তীব্র বিক্রিয়া; HCl-এর ধোঁয়া ওঠে।",
+   "procedure_bn": [
+    "অ্যাসাইল ক্লোরাইডে সাবধানে পানি দেওয়া"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "পানি"
+   ],
+   "safety_bn": "ক্ষয়কারী, ধোঁয়া উৎপন্ন করে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-012",
+   "chapter_no": 9,
+   "section_no": "9.17.1",
+   "section_title_bn": "নিউক্লিওফিলিক প্রতিস্থাপন : অ্যাসাইলেশন",
+   "book_page": 508,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িল ক্লোরাইড + ফেনল (ফিনাইল ইথানোয়েট)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফিনাইল ইথানোয়েট",
+     "formula": "CH₃COOC₆H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + C₆H₅OH → CH₃COOC₆H₅ + HCl↑",
+   "conditions": "NaOH (ক্ষার) উপস্থিতিতে",
+   "observations_bn": "ক্ষার HCl সরিয়ে বিক্রিয়াকে এগিয়ে নেয়।",
+   "procedure_bn": [
+    "ফেনল ও ক্ষারের সঙ্গে অ্যাসাইল ক্লোরাইড মেশানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "ফেনল",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-013",
+   "chapter_no": 9,
+   "section_no": "9.17.1",
+   "section_title_bn": "নিউক্লিওফিলিক প্রতিস্থাপন : অ্যাসাইলেশন",
+   "book_page": 508,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িল ক্লোরাইড + ইথানল (ইথাইল ইথানোয়েট)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + C₂H₅OH → CH₃COOC₂H₅ + HCl↑",
+   "conditions": "পিরিডিন উপস্থিতিতে",
+   "observations_bn": "অ্যালকোহলের বেলায় ক্ষারধর্মী পিরিডিন HCl শোষণ করে।",
+   "procedure_bn": [
+    "অ্যালকোহলে পিরিডিনসহ অ্যাসাইল ক্লোরাইড যোগ"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "C₂H₅OH",
+    "পিরিডিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-014",
+   "chapter_no": 9,
+   "section_no": "9.17.1",
+   "section_title_bn": "নিউক্লিওফিলিক প্রতিস্থাপন : অ্যাসাইলেশন",
+   "book_page": 508,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িল ক্লোরাইড + অ্যামোনিয়া (অ্যামাইড গঠন)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + NH₃ → CH₃CONH₂ + HCl↑",
+   "conditions": "room temp",
+   "observations_bn": "অ্যামাইড কঠিন পদার্থ হিসেবে পাওয়া যায়।",
+   "procedure_bn": [
+    "অ্যাসাইল ক্লোরাইডের সঙ্গে অ্যামোনিয়া/অ্যামিন মেশানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "অ্যামোনিয়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-015",
+   "chapter_no": 9,
+   "section_no": "9.17.1",
+   "section_title_bn": "নিউক্লিওফিলিক প্রতিস্থাপন : অ্যাসাইলেশন",
+   "book_page": 509,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িল ক্লোরাইড + মিথাইল অ্যামিন (অ্যামাইড গঠন)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথাইল অ্যামিন",
+     "formula": "CH₃NH₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N-মিথাইল ইথানামাইড",
+     "formula": "CH₃CONHCH₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + CH₃NH₂ → CH₃CONHCH₃ + HCl↑",
+   "conditions": "room temp",
+   "observations_bn": "অ্যামাইড কঠিন পদার্থ হিসেবে পাওয়া যায়।",
+   "procedure_bn": [
+    "অ্যাসাইল ক্লোরাইডের সঙ্গে অ্যামোনিয়া/অ্যামিন মেশানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "মিথাইল অ্যামিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-016",
+   "chapter_no": 9,
+   "section_no": "9.17.1",
+   "section_title_bn": "নিউক্লিওফিলিক প্রতিস্থাপন : অ্যাসাইলেশন",
+   "book_page": 509,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িল ক্লোরাইড + ডাইমিথাইল অ্যামিন (অ্যামাইড গঠন)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ডাইমিথাইল অ্যামিন",
+     "formula": "(CH₃)₂NH",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N,N-ডাইমিথাইল ইথানামাইড",
+     "formula": "CH₃CON(CH₃)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + (CH₃)₂NH → CH₃CON(CH₃)₂ + HCl↑",
+   "conditions": "room temp",
+   "observations_bn": "অ্যামাইড কঠিন পদার্থ হিসেবে পাওয়া যায়।",
+   "procedure_bn": [
+    "অ্যাসাইল ক্লোরাইডের সঙ্গে অ্যামোনিয়া/অ্যামিন মেশানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "ডাইমিথাইল অ্যামিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-017",
+   "chapter_no": 9,
+   "section_no": "9.17.1",
+   "section_title_bn": "নিউক্লিওফিলিক প্রতিস্থাপন : অ্যাসাইলেশন",
+   "book_page": 509,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িল ক্লোরাইড + ফিনাইল অ্যামিন (অ্যানিলিন) (অ্যামাইড গঠন)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফিনাইল অ্যামিন (অ্যানিলিন)",
+     "formula": "C₆H₅NH₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N-ফিনাইল ইথানামাইড",
+     "formula": "CH₃CONHC₆H₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + C₆H₅NH₂ → CH₃CONHC₆H₅ + HCl↑",
+   "conditions": "room temp",
+   "observations_bn": "অ্যামাইড কঠিন পদার্থ হিসেবে পাওয়া যায়।",
+   "procedure_bn": [
+    "অ্যাসাইল ক্লোরাইডের সঙ্গে অ্যামোনিয়া/অ্যামিন মেশানো"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "ফিনাইল অ্যামিন (অ্যানিলিন)"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-018",
+   "chapter_no": 9,
+   "section_no": "9.17.2",
+   "section_title_bn": "অ্যাসাইল ক্লোরাইডের বিজারণ",
+   "book_page": 509,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রোজেনমুন্ড বিজারণ : ইথানোয়িল ক্লোরাইড → ইথান্যাল",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + H₂ → CH₃CHO + HCl",
+   "conditions": "Pd/BaSO₄ প্রভাবক, তাপ",
+   "observations_bn": "BaSO₄ প্রভাবক-বিষের কাজ করে, ফলে বিজারণ অ্যালডিহাইডে থেমে যায়।",
+   "procedure_bn": [
+    "তপ্ত অবস্থায় H₂ চালনা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Pd/BaSO₄",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-019",
+   "chapter_no": 9,
+   "section_no": "9.17.2",
+   "section_title_bn": "অ্যাসাইল ক্লোরাইডের বিজারণ",
+   "book_page": 509,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "LiAlH₄ দ্বারা ইথানোয়িল ক্লোরাইডের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নবজাত হাইড্রোজেন (LiAlH₄ থেকে)",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃COCl + 4[H] → CH₃CH₂OH + HCl↑",
+   "conditions": "শুষ্ক ইথারে LiAlH₄",
+   "observations_bn": "শক্তিশালী বিজারকে প্রাইমারি অ্যালকোহল তৈরি হয়।",
+   "procedure_bn": [
+    "শুষ্ক ইথারে LiAlH₄ দ্রবণ ব্যবহার"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "LiAlH₄",
+    "শুষ্ক ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-020",
+   "chapter_no": 9,
+   "section_no": "9.19",
+   "section_title_bn": "এসিড অ্যানহাইড্রাইডের সাধারণ প্রস্তুতপ্রণালী",
+   "book_page": 510,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িল ক্লোরাইড + সোডিয়াম ইথানোয়েট → ইথানোয়িক অ্যানহাইড্রাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃COCl + CH₃COONa → (CH₃CO)₂O + NaCl",
+   "conditions": "heat",
+   "observations_bn": "মিশ্রণ উত্তপ্ত করলে অ্যানহাইড্রাইড পাতিত হয়।",
+   "procedure_bn": [
+    "মিশ্রণ গরম করে পাতন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "CH₃COONa"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-021",
+   "chapter_no": 9,
+   "section_no": "9.19",
+   "section_title_bn": "এসিড অ্যানহাইড্রাইডের সাধারণ প্রস্তুতপ্রণালী",
+   "book_page": 510,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বক্সিলিক এসিডের নিরুদন → অ্যানহাইড্রাইড",
+   "reactants": [
+    {
+     "name_bn": "কার্বক্সিলিক এসিড",
+     "formula": "RCOOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "এসিড অ্যানহাইড্রাইড",
+     "formula": "(RCO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2RCOOH → (RCO)₂O + H₂O",
+   "conditions": "P₂O₅, heat",
+   "observations_bn": "দুই অণু এসিড থেকে এক অণু পানি বেরিয়ে অ্যানহাইড্রাইড হয়।",
+   "procedure_bn": [
+    "এসিডকে P₂O₅-সহ গরম করা"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "RCOOH",
+    "P₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-022",
+   "chapter_no": 9,
+   "section_no": "9.19",
+   "section_title_bn": "এসিড অ্যানহাইড্রাইডের সাধারণ প্রস্তুতপ্রণালী",
+   "book_page": 510,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইন থেকে ইথানোয়িক অ্যানহাইড্রাইড (শিল্প পদ্ধতি)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন",
+     "formula": "CH≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিলিডিন ইথানোয়েট",
+     "formula": "CH₃CH(OCOCH₃)₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH≡CH + 2CH₃COOH → CH₃CH(OCOCH₃)₂ ; CH₃CH(OCOCH₃)₂ → (CH₃CO)₂O + CH₃CHO",
+   "conditions": "Hg-লবণ প্রভাবক + H₂SO₄; পরে পাতন (ZnCl₂/H₂SO₄)",
+   "observations_bn": "প্রথমে ইথিলিডিন ইথানোয়েট হয়, পাতনে অ্যানহাইড্রাইড ও অ্যাসিটালডিহাইড মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₂H₂",
+    "গ্লেসিয়াল CH₃COOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-023",
+   "chapter_no": 9,
+   "section_no": "9.20.1",
+   "section_title_bn": "অ্যাসাইলেশন (এসিড অ্যানহাইড্রাইডের বিক্রিয়া)",
+   "book_page": 511,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক অ্যানহাইড্রাইডের আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃CO)₂O + H₂O → 2CH₃COOH",
+   "conditions": "warm (Δ)",
+   "observations_bn": "গরম পানিতে দুই অণু ইথানোয়িক এসিড তৈরি হয়; ক্লোরাইডের তুলনায় ধীরগতি।",
+   "procedure_bn": [
+    "অ্যানহাইড্রাইডে পানি দিয়ে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "(CH₃CO)₂O",
+    "পানি"
+   ],
+   "safety_bn": "অ্যানহাইড্রাইড ক্ষয়কারী; বাষ্প শুঁকবেন না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-024",
+   "chapter_no": 9,
+   "section_no": "9.20.1",
+   "section_title_bn": "অ্যাসাইলেশন (এসিড অ্যানহাইড্রাইডের বিক্রিয়া)",
+   "book_page": 511,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক অ্যানহাইড্রাইড + ইথানল",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃CO)₂O + C₂H₅OH → CH₃COOC₂H₅ + CH₃COOH",
+   "conditions": "heat",
+   "observations_bn": "এস্টার ও এসিড একসঙ্গে তৈরি হয়।",
+   "procedure_bn": [
+    "মিশিয়ে উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "(CH₃CO)₂O",
+    "C₂H₅OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-025",
+   "chapter_no": 9,
+   "section_no": "9.20.1",
+   "section_title_bn": "অ্যাসাইলেশন (এসিড অ্যানহাইড্রাইডের বিক্রিয়া)",
+   "book_page": 511,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজোয়িক অ্যানহাইড্রাইড + ইথানল",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক অ্যানহাইড্রাইড",
+     "formula": "(C₆H₅CO)₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল বেনজোয়েট",
+     "formula": "C₆H₅COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid"
+    }
+   ],
+   "equation": "(C₆H₅CO)₂O + C₂H₅OH → C₆H₅COOC₂H₅ + C₆H₅COOH",
+   "conditions": "heat",
+   "observations_bn": "এস্টার ও বেনজোয়িক এসিড উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজোয়িক অ্যানহাইড্রাইড",
+    "ইথানল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-026",
+   "chapter_no": 9,
+   "section_no": "9.20.1",
+   "section_title_bn": "অ্যাসাইলেশন (এসিড অ্যানহাইড্রাইডের বিক্রিয়া)",
+   "book_page": 512,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক অ্যানহাইড্রাইড + ফেনল",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফিনাইল ইথানোয়েট",
+     "formula": "CH₃COOC₆H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + (CH₃CO)₂O → CH₃COOC₆H₅ + CH₃COOH",
+   "conditions": "NaOH উপস্থিতিতে",
+   "observations_bn": "ফেনলে এস্টার গঠনে ক্ষারীয় মাধ্যম লাগে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেনল",
+    "(CH₃CO)₂O",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-027",
+   "chapter_no": 9,
+   "section_no": "9.20.1",
+   "section_title_bn": "অ্যাসাইলেশন (এসিড অ্যানহাইড্রাইডের বিক্রিয়া)",
+   "book_page": 512,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক অ্যানহাইড্রাইড + অ্যামোনিয়া",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃CO)₂O + NH₃ → CH₃CONH₂ + CH₃COOH",
+   "conditions": "heat",
+   "observations_bn": "ইথানামাইড ও এসিড মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "(CH₃CO)₂O",
+    "NH₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-028",
+   "chapter_no": 9,
+   "section_no": "9.20.1",
+   "section_title_bn": "অ্যাসাইলেশন (এসিড অ্যানহাইড্রাইডের বিক্রিয়া)",
+   "book_page": 512,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজোয়িক অ্যানহাইড্রাইড + অ্যামোনিয়া",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক অ্যানহাইড্রাইড",
+     "formula": "(C₆H₅CO)₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজ্যামাইড",
+     "formula": "C₆H₅CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid"
+    }
+   ],
+   "equation": "(C₆H₅CO)₂O + NH₃ → C₆H₅CONH₂ + C₆H₅COOH",
+   "conditions": "heat",
+   "observations_bn": "বেনজ্যামাইড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "(C₆H₅CO)₂O",
+    "NH₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-029",
+   "chapter_no": 9,
+   "section_no": "9.20.1",
+   "section_title_bn": "অ্যাসাইলেশন (এসিড অ্যানহাইড্রাইডের বিক্রিয়া)",
+   "book_page": 512,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক অ্যানহাইড্রাইড + মিথাইল অ্যামিন",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথাইল অ্যামিন",
+     "formula": "CH₃NH₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N-মিথাইল ইথানামাইড",
+     "formula": "CH₃CONHCH₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃CO)₂O + CH₃NH₂ → CH₃CONHCH₃ + CH₃COOH",
+   "conditions": "heat",
+   "observations_bn": "প্রতিস্থাপিত অ্যামাইড ও এসিড উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "(CH₃CO)₂O",
+    "মিথাইল অ্যামিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-030",
+   "chapter_no": 9,
+   "section_no": "9.20.1",
+   "section_title_bn": "অ্যাসাইলেশন (এসিড অ্যানহাইড্রাইডের বিক্রিয়া)",
+   "book_page": 512,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক অ্যানহাইড্রাইড + অ্যানিলিন",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N-ফিনাইল ইথানামাইড",
+     "formula": "CH₃CONHC₆H₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃CO)₂O + C₆H₅NH₂ → CH₃CONHC₆H₅ + CH₃COOH",
+   "conditions": "heat",
+   "observations_bn": "প্রতিস্থাপিত অ্যামাইড ও এসিড উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "(CH₃CO)₂O",
+    "অ্যানিলিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-031",
+   "chapter_no": 9,
+   "section_no": "9.20.1",
+   "section_title_bn": "অ্যাসাইলেশন (এসিড অ্যানহাইড্রাইডের বিক্রিয়া)",
+   "book_page": 512,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক অ্যানহাইড্রাইড + ডাইমিথাইল অ্যামিন",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ডাইমিথাইল অ্যামিন",
+     "formula": "(CH₃)₂NH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N,N-ডাইমিথাইল ইথানামাইড",
+     "formula": "CH₃CON(CH₃)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃CO)₂O + (CH₃)₂NH → CH₃CON(CH₃)₂ + CH₃COOH",
+   "conditions": "heat",
+   "observations_bn": "প্রতিস্থাপিত অ্যামাইড ও এসিড উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "(CH₃CO)₂O",
+    "ডাইমিথাইল অ্যামিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-032",
+   "chapter_no": 9,
+   "section_no": "9.20.2",
+   "section_title_bn": "এসিড অ্যানহাইড্রাইডের বিজারণ",
+   "book_page": 513,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "LiAlH₄ দ্বারা ইথানোয়িক অ্যানহাইড্রাইডের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নবজাত হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃CO)₂O + 8[H] → 2CH₃CH₂OH + H₂O",
+   "conditions": "শুষ্ক ইথার, LiAlH₄, 25 °C",
+   "observations_bn": "প্রাইমারি অ্যালকোহল ও পানি পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "LiAlH₄",
+    "শুষ্ক ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-033",
+   "chapter_no": 9,
+   "section_no": "9.20.2",
+   "section_title_bn": "এসিড অ্যানহাইড্রাইডের বিজারণ",
+   "book_page": 513,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Na-Hg/পানি দ্বারা ইথানোয়িক অ্যানহাইড্রাইডের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+     "formula": "(CH₃CO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নবজাত হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "(CH₃CO)₂O + 4[H] → 2CH₃CHO + H₂O",
+   "conditions": "Na-Hg অ্যামালগাম + পানি",
+   "observations_bn": "মৃদু বিজারকে বিজারণ অ্যালডিহাইডে থামে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na-Hg",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-034",
+   "chapter_no": 9,
+   "section_no": "9.25",
+   "section_title_bn": "এস্টারের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 514,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল ইথানোয়েট প্রস্তুতি (ফিশার এস্টারিফিকেশন)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O",
+   "equation_printed": "CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O (একমুখী তীর)",
+   "conditions": "শুষ্ক HCl গ্যাস প্রভাবক, heat",
+   "observations_bn": "সমমোলার মিশ্রণ গরম করলে এস্টার ও পানি মেলে।",
+   "procedure_bn": [
+    "এসিড ও অ্যালকোহল মেশান",
+    "শুষ্ক HCl চালিয়ে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COOH",
+    "C₂H₅OH",
+    "HCl গ্যাস"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-035",
+   "chapter_no": 9,
+   "section_no": "9.25",
+   "section_title_bn": "এস্টারের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 515,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল বেনজোয়েট প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক এসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল বেনজোয়েট",
+     "formula": "C₆H₅COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅COOH + C₂H₅OH ⇌ C₆H₅COOC₂H₅ + H₂O",
+   "equation_printed": "একমুখী তীর",
+   "conditions": "HCl গ্যাস প্রভাবক",
+   "observations_bn": "এস্টার ও পানি উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₆H₅COOH",
+    "C₂H₅OH",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-036",
+   "chapter_no": 9,
+   "section_no": "9.25",
+   "section_title_bn": "এস্টারের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 515,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যাসাইল ক্লোরাইড/অ্যানহাইড্রাইড + অ্যালকোহল → এস্টার (সাধারণ)",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসাইল ক্লোরাইড",
+     "formula": "RCOCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "R′OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "এস্টার",
+     "formula": "RCOOR′",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "RCOCl + R′OH → RCOOR′ + HCl↑ ; (RCO)₂O + R′OH → RCOOR′ + RCOOH",
+   "conditions": "room temp/heat",
+   "observations_bn": "সুবিধাজনক এস্টার প্রস্তুতি; অ্যানহাইড্রাইডে এসিডও উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "RCOCl বা (RCO)₂O",
+    "R′OH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-037",
+   "chapter_no": 9,
+   "section_no": "9.25",
+   "section_title_bn": "এস্টারের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 515,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফিনাইল বেনজোয়েট প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িল ক্লোরাইড",
+     "formula": "C₆H₅COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফিনাইল বেনজোয়েট",
+     "formula": "C₆H₅COOC₆H₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅COCl + C₆H₅OH → C₆H₅COOC₆H₅ + HCl↑",
+   "conditions": "পিরিডিন উপস্থিতিতে",
+   "observations_bn": "ফেনলের এস্টার পিরিডিন মাধ্যমে তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₆H₅COCl",
+    "C₆H₅OH",
+    "পিরিডিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-038",
+   "chapter_no": 9,
+   "section_no": "9.26.1",
+   "section_title_bn": "এস্টারের আর্দ্র বিশ্লেষণ",
+   "book_page": 516,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথাইল ইথানোয়েটের অম্লীয় আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃COOC₂H₅ + H₂O ⇌ CH₃COOH + C₂H₅OH",
+   "conditions": "লঘু HCl (H⁺) উপস্থিতিতে, warm",
+   "observations_bn": "সাম্যাবস্থা তৈরি হয়; এসিড বিক্রিয়াকে দ্রুত করে কিন্তু সাম্য সরায় না।",
+   "procedure_bn": [
+    "এস্টারে লঘু HCl দিয়ে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথাইল ইথানোয়েট",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-039",
+   "chapter_no": 9,
+   "section_no": "9.26.1",
+   "section_title_bn": "এস্টারের আর্দ্র বিশ্লেষণ",
+   "book_page": 516,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "এস্টারের ক্ষারীয় আর্দ্র বিশ্লেষণ (সাবানীকরণ)",
+   "reactants": [
+    {
+     "name_bn": "এস্টার",
+     "formula": "RCOOR′",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বক্সিলেট লবণ",
+     "formula": "RCOONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "R′OH",
+     "state": "solution"
+    }
+   ],
+   "equation": "RCOOR′ + NaOH → RCOONa + R′OH",
+   "conditions": "warm",
+   "observations_bn": "ক্ষার ব্যয় হয়ে লবণ তৈরি হয় বলে বিক্রিয়া সম্মুখ দিকে সম্পূর্ণ এগোয় ও দ্রুত।",
+   "procedure_bn": [
+    "এস্টারে NaOH দ্রবণ দিয়ে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "এস্টার",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-040",
+   "chapter_no": 9,
+   "section_no": "9.26.2",
+   "section_title_bn": "এস্টার থেকে অ্যামাইড গঠন",
+   "book_page": 516,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল ইথানোয়েটের অ্যামোনোলিসিস",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOC₂H₅ + NH₃ → CH₃CONH₂ + C₂H₅OH",
+   "conditions": "গাঢ় অ্যামোনিয়া দ্রবণ",
+   "observations_bn": "এস্টার থেকে অ্যামাইড ও অ্যালকোহল পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "এস্টার",
+    "অ্যামোনিয়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-041",
+   "chapter_no": 9,
+   "section_no": "9.26.2",
+   "section_title_bn": "এস্টার থেকে অ্যামাইড গঠন",
+   "book_page": 517,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল বেনজোয়েটের অ্যামোনোলিসিস",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল বেনজোয়েট",
+     "formula": "C₆H₅COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজ্যামাইড",
+     "formula": "C₆H₅CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅COOC₂H₅ + NH₃ → C₆H₅CONH₂ + C₂H₅OH",
+   "conditions": "room temp",
+   "observations_bn": "বেনজ্যামাইড কঠিন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "এস্টার",
+    "NH₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-042",
+   "chapter_no": 9,
+   "section_no": "9.26.2",
+   "section_title_bn": "এস্টার থেকে অ্যামাইড গঠন",
+   "book_page": 517,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল ইথানোয়েট + মিথাইল অ্যামিন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথাইল অ্যামিন",
+     "formula": "CH₃NH₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N-মিথাইল ইথানামাইড",
+     "formula": "CH₃CONHCH₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOC₂H₅ + CH₃NH₂ → CH₃CONHCH₃ + C₂H₅OH",
+   "conditions": "room temp/warm",
+   "observations_bn": "প্রতিস্থাপিত অ্যামাইড ও ইথানল উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "এস্টার",
+    "মিথাইল অ্যামিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-043",
+   "chapter_no": 9,
+   "section_no": "9.26.2",
+   "section_title_bn": "এস্টার থেকে অ্যামাইড গঠন",
+   "book_page": 517,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল ইথানোয়েট + ফিনাইল অ্যামিন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফিনাইল অ্যামিন",
+     "formula": "C₆H₅NH₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N-ফিনাইল ইথানামাইড",
+     "formula": "CH₃CONHC₆H₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOC₂H₅ + C₆H₅NH₂ → CH₃CONHC₆H₅ + C₂H₅OH",
+   "conditions": "room temp/warm",
+   "observations_bn": "প্রতিস্থাপিত অ্যামাইড ও ইথানল উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "এস্টার",
+    "ফিনাইল অ্যামিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-044",
+   "chapter_no": 9,
+   "section_no": "9.26.2",
+   "section_title_bn": "এস্টার থেকে অ্যামাইড গঠন",
+   "book_page": 517,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল ইথানোয়েট + ডাইমিথাইল অ্যামিন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ডাইমিথাইল অ্যামিন",
+     "formula": "(CH₃)₂NH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "N,N-ডাইমিথাইল ইথানামাইড",
+     "formula": "CH₃CON(CH₃)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOC₂H₅ + (CH₃)₂NH → CH₃CON(CH₃)₂ + C₂H₅OH",
+   "conditions": "room temp/warm",
+   "observations_bn": "প্রতিস্থাপিত অ্যামাইড ও ইথানল উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "এস্টার",
+    "ডাইমিথাইল অ্যামিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-045",
+   "chapter_no": 9,
+   "section_no": "9.26.3",
+   "section_title_bn": "এস্টারের বিজারণ",
+   "book_page": 517,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "LiAlH₄ দ্বারা ইথাইল ইথানোয়েটের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নবজাত হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOC₂H₅ + 4[H] → 2CH₃CH₂OH",
+   "conditions": "শুষ্ক ইথারে LiAlH₄",
+   "observations_bn": "এস্টার ভেঙে দুই অণু অ্যালকোহল দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "LiAlH₄",
+    "ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-046",
+   "chapter_no": 9,
+   "section_no": "9.26.3",
+   "section_title_bn": "এস্টারের বিজারণ",
+   "book_page": 517,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথাইল লরেটের হাইড্রোজেনোলিসিস (লরাইল অ্যালকোহল)",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল লরেট",
+     "formula": "CH₃(CH₂)₁₀COOCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লরাইল অ্যালকোহল",
+     "formula": "CH₃(CH₂)₁₀CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃(CH₂)₁₀COOCH₃ + 2H₂ → CH₃(CH₂)₁₀CH₂OH + CH₃OH",
+   "conditions": "Cu-ক্রোমাইট, 300 °C, 300 atm",
+   "observations_bn": "ডিটারজেন্টের কাঁচামাল তৈরির শিল্প পদ্ধতি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cu-ক্রোমাইট",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-047",
+   "chapter_no": 9,
+   "section_no": "9.29",
+   "section_title_bn": "পলিএস্টার",
+   "book_page": 518,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টেরিলিন : ডাইমিথাইল টেরিথ্যালেট + ইথিলিন গ্লাইকল",
+   "reactants": [
+    {
+     "name_bn": "ইথিলিন গ্লাইকল",
+     "formula": "HOCH₂CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ডাইমিথাইল টেরিথ্যালেট",
+     "formula": "CH₃OOC–C₆H₄–COOCH₃",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "একক (মনোমার)",
+     "formula": "HOCH₂CH₂OOC–C₆H₄–COOCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HOCH₂CH₂OH + CH₃OOC–C₆H₄–COOCH₃ → HOCH₂CH₂OOC–C₆H₄–COOCH₃ + CH₃OH",
+   "conditions": "ক্ষার প্রভাবক, 200 °C",
+   "observations_bn": "ঘনীভবনে মিথানল বেরিয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথিলিন গ্লাইকল",
+    "DMT"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-048",
+   "chapter_no": 9,
+   "section_no": "9.29",
+   "section_title_bn": "পলিএস্টার",
+   "book_page": 518,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টেরিলিন (ডেক্রন) পলিমারকরণ",
+   "reactants": [
+    {
+     "name_bn": "মনোমার",
+     "formula": "HOCH₂CH₂OOC–C₆H₄–COOCH₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেরিলিন",
+     "formula": "[–OCH₂CH₂OOC–C₆H₄–CO–]ₙ",
+     "state": "solid"
+    },
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "n HOCH₂CH₂OOC–C₆H₄–COOCH₃ → [–OCH₂CH₂OOC–C₆H₄–CO–]ₙ + nCH₃OH",
+   "conditions": "ভ্যাকুয়াম, উচ্চ তাপমাত্রা",
+   "observations_bn": "ঘনীভবন পলিমারে মিথানল ত্যাগ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মনোমার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-049",
+   "chapter_no": 9,
+   "section_no": "9.29",
+   "section_title_bn": "পলিএস্টার",
+   "book_page": 519,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথিলিন থেকে ইথিলিন গ্লাইকল",
+   "reactants": [
+    {
+     "name_bn": "ইথিলিন",
+     "formula": "CH₂=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথিলিন অক্সাইড",
+     "formula": "C₂H₄O",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইথিলিন গ্লাইকল",
+     "formula": "HOCH₂CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2CH₂=CH₂ + O₂ → 2C₂H₄O ; C₂H₄O + H₂O → HOCH₂CH₂OH",
+   "conditions": "Ag প্রভাবক, 300 °C; পরে লঘু এসিডসহ পানি",
+   "observations_bn": "ইথিলিন অক্সাইডের আর্দ্র বিশ্লেষণে গ্লাইকল হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₂H₄",
+    "O₂",
+    "Ag"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-050",
+   "chapter_no": 9,
+   "section_no": "9.29",
+   "section_title_bn": "পলিএস্টার",
+   "book_page": 519,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "p-জাইলিন → টেরিথ্যালিক এসিড → ডাইমিথাইল টেরিথ্যালেট",
+   "reactants": [
+    {
+     "name_bn": "p-জাইলিন",
+     "formula": "C₆H₄(CH₃)₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন (বাতাস)",
+     "formula": "O₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেরিথ্যালিক এসিড",
+     "formula": "C₆H₄(COOH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ডাইমিথাইল টেরিথ্যালেট",
+     "formula": "C₆H₄(COOCH₃)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₄(CH₃)₂ + 3O₂ → C₆H₄(COOH)₂ + 2H₂O ; C₆H₄(COOH)₂ + 2CH₃OH → C₆H₄(COOCH₃)₂ + 2H₂O",
+   "equation_printed": "p-জাইলিন + O₂ → টেরিথ্যালিক এসিড + 2H₂O",
+   "conditions": "V₂O₅, heat; পরে H⁺",
+   "observations_bn": "বইয়ে প্রথম ধাপ O₂ ও 2H₂O সহ অসমতাযুক্ত আঁকা; এখানে সমতাযুক্ত রূপ দেওয়া হয়েছে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "p-জাইলিন",
+    "V₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-15-051",
+   "chapter_no": 9,
+   "section_no": "9.30",
+   "section_title_bn": "তেল ও চর্বি : সাবান",
+   "book_page": 519,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "তেলের হাইড্রোজেনেশন (মার্জারিন)",
+   "reactants": [
+    {
+     "name_bn": "অসম্পৃক্ত গ্লিসারাইড (সয়াবিন তেল)",
+     "formula": "অসম্পৃক্ত গ্লিসারাইড",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সম্পৃক্ত গ্লিসারাইড (মার্জারিন)",
+     "formula": "সম্পৃক্ত গ্লিসারাইড",
+     "state": "solid"
+    }
+   ],
+   "equation": "অসম্পৃক্ত গ্লিসারাইড + H₂ → সম্পৃক্ত গ্লিসারাইড",
+   "conditions": "Ni প্রভাবক, 200 °C",
+   "observations_bn": "তরল তেল কঠিন চর্বিতে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "তেল",
+    "H₂",
+    "Ni"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-052",
+   "chapter_no": 9,
+   "section_no": "9.30",
+   "section_title_bn": "তেল ও চর্বি : সাবান",
+   "book_page": 520,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সাবানীকরণ : গ্লিসারাইল ট্রাইস্টিয়ারেট + NaOH",
+   "reactants": [
+    {
+     "name_bn": "গ্লিসারাইল ট্রাইস্টিয়ারেট",
+     "formula": "(C₁₇H₃₅COO)₃C₃H₅",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "গ্লিসারল",
+     "formula": "C₃H₅(OH)₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম স্টিয়ারেট (সাবান)",
+     "formula": "C₁₇H₃₅COONa",
+     "state": "solid"
+    }
+   ],
+   "equation": "(C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → C₃H₅(OH)₃ + 3C₁₇H₃₅COONa",
+   "conditions": "heat (Δ)",
+   "observations_bn": "চর্বি বা তেল ক্ষারে গরম করলে সাবান ও গ্লিসারল হয়; খাবার লবণ দিলে সাবান ভেসে ওঠে।",
+   "procedure_bn": [
+    "তেল/চর্বিতে NaOH দ্রবণ মিশিয়ে ফোটান",
+    "খাবার লবণ যোগ করে সাবান আলাদা করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "তেল বা চর্বি",
+    "NaOH",
+    "খাবার লবণ"
+   ],
+   "safety_bn": "ঘন ক্ষার ত্বকে ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-053",
+   "chapter_no": 9,
+   "section_no": "9.32",
+   "section_title_bn": "ডিটারজেন্ট উৎপাদন",
+   "book_page": 522,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লরাইল অ্যালকোহল → সোডিয়াম লরাইল সালফেট",
+   "reactants": [
+    {
+     "name_bn": "লরাইল অ্যালকোহল",
+     "formula": "CH₃(CH₂)₁₀CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কস্টিক সোডা",
+     "formula": "NaOH",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম লরাইল সালফেট",
+     "formula": "CH₃(CH₂)₁₀CH₂OSO₃Na",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₁₂H₂₅OH + H₂SO₄ → C₁₂H₂₅OSO₃H + H₂O ; C₁₂H₂₅OSO₃H + NaOH → C₁₂H₂₅OSO₃Na + H₂O",
+   "conditions": "শিল্প পদ্ধতি",
+   "observations_bn": "সালফেশনের পর ক্ষার দিয়ে প্রশমনে ডিটারজেন্ট হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লরাইল অ্যালকোহল",
+    "H₂SO₄",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-054",
+   "chapter_no": 9,
+   "section_no": "9.32",
+   "section_title_bn": "ডিটারজেন্ট উৎপাদন",
+   "book_page": 522,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ABS ডিটারজেন্ট প্রস্তুতি : অ্যালকাইলেশন, সালফোনেশন ও প্রশমন",
+   "reactants": [
+    {
+     "name_bn": "1-ডোডেকিন",
+     "formula": "CH₃(CH₂)₉CH=CH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফিউরিক এসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "NaOH",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম p-iso-ডোডেকাইল বেনজিন সালফোনেট",
+     "formula": "CH₃(CH₂)₉CH(CH₃)C₆H₄SO₃Na",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃(CH₂)₉CH=CH₂ + C₆H₆ → CH₃(CH₂)₉CH(CH₃)C₆H₅ ; …C₆H₅ + H₂SO₄ → …C₆H₄SO₃H + H₂O ; …C₆H₄SO₃H + NaOH → …C₆H₄SO₃Na + H₂O",
+   "conditions": "অনার্দ্র AlCl₃ (ফ্রিডেল-ক্রাফট্‌স); পরে heat",
+   "observations_bn": "তিন ধাপ : অ্যালকাইলেশন, সালফোনেশন, ক্ষার প্রশমন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AlCl₃",
+    "বেনজিন",
+    "গাঢ় H₂SO₄",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-055",
+   "chapter_no": 9,
+   "section_no": "9.35",
+   "section_title_bn": "এসিড অ্যামাইডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 523,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়াম ইথানোয়েট থেকে ইথানামাইড",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ইথানোয়েট",
+     "formula": "CH₃COONH₄",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COONH₄ → CH₃CONH₂ + H₂O",
+   "conditions": "≈170 °C, CH₃COOH উপস্থিতিতে (সাধারণ রূপ 230 °C)",
+   "observations_bn": "এসিড-অ্যামোনিয়াম লবণ উত্তপ্ত করলে পানি বেরিয়ে অ্যামাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COONH₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-056",
+   "chapter_no": 9,
+   "section_no": "9.35",
+   "section_title_bn": "এসিড অ্যামাইডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 524,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়াম বেনজোয়েট থেকে বেনজ্যামাইড",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম বেনজোয়েট",
+     "formula": "C₆H₅COONH₄",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজ্যামাইড",
+     "formula": "C₆H₅CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅COONH₄ → C₆H₅CONH₂ + H₂O",
+   "conditions": "heat (Δ)",
+   "observations_bn": "উত্তপ্ত করলে বেনজ্যামাইড ও পানি মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₆H₅COONH₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-057",
+   "chapter_no": 9,
+   "section_no": "9.35",
+   "section_title_bn": "এসিড অ্যামাইডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 524,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িল ক্লোরাইড + অ্যামোনিয়া (ইথানামাইড)",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া (শুষ্ক)",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃COCl + 2NH₃ → CH₃CONH₂ + NH₄Cl",
+   "conditions": "নিম্ন তাপমাত্রা",
+   "observations_bn": "দুই অণু NH₃ লাগে; একটি HCl শোষণ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COCl",
+    "NH₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-058",
+   "chapter_no": 9,
+   "section_no": "9.35",
+   "section_title_bn": "এসিড অ্যামাইডের সাধারণ প্রস্তুত প্রণালী",
+   "book_page": 524,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যানহাইড্রাইড + অ্যামোনিয়া (সাধারণ)",
+   "reactants": [
+    {
+     "name_bn": "এসিড অ্যানহাইড্রাইড",
+     "formula": "(RCO)₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামাইড",
+     "formula": "RCONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম কার্বক্সিলেট",
+     "formula": "RCOONH₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "(RCO)₂O + 2NH₃ → RCONH₂ + RCOONH₄",
+   "conditions": "নিম্ন তাপমাত্রা",
+   "observations_bn": "অ্যামাইডের সঙ্গে অ্যামোনিয়াম লবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যানহাইড্রাইড",
+    "NH₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-059",
+   "chapter_no": 9,
+   "section_no": "9.36",
+   "section_title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "book_page": 524,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানামাইড ও HCl (ক্ষারধর্ম)",
+   "reactants": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক এসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানামাইড হাইড্রোক্লোরাইড",
+     "formula": "[CH₃CONH₃]⁺Cl⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CONH₂ + HCl → [CH₃CONH₃]⁺Cl⁻",
+   "conditions": "room temp",
+   "observations_bn": "দুর্বল ক্ষার হিসেবে প্রোটন গ্রহণ করে লবণ দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানামাইড",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-060",
+   "chapter_no": 9,
+   "section_no": "9.36",
+   "section_title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "book_page": 524,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানামাইড + সোডামাইড (অম্লধর্ম)",
+   "reactants": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডামাইড",
+     "formula": "NaNH₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামাইডের সোডিয়াম লবণ",
+     "formula": "[CH₃CONH]⁻Na⁺",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CONH₂ + NaNH₂ → [CH₃CONH]⁻Na⁺ + NH₃↑",
+   "conditions": "শুষ্ক অবস্থা",
+   "observations_bn": "দুর্বল এসিডের মতো আচরণ করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃CONH₂",
+    "NaNH₂"
+   ],
+   "safety_bn": "NaNH₂ পানির সঙ্গে তীব্র বিক্রিয়া করে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-061",
+   "chapter_no": 9,
+   "section_no": "9.36",
+   "section_title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "book_page": 524,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানামাইডের ক্ষারীয় আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CONH₂ + NaOH → CH₃COONa + NH₃↑",
+   "conditions": "warm (Δ)",
+   "observations_bn": "গরম করলে অ্যামোনিয়ার ঝাঁঝালো গন্ধ বের হয়।",
+   "procedure_bn": [
+    "অ্যামাইডে NaOH দ্রবণ দিয়ে মৃদু গরম করুন",
+    "বাষ্পে আর্দ্র লিটমাস ধরুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানামাইড",
+    "NaOH দ্রবণ"
+   ],
+   "safety_bn": "অ্যামোনিয়া গ্যাস আস্তে শুঁকুন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-062",
+   "chapter_no": 9,
+   "section_no": "9.36",
+   "section_title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "book_page": 524,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যামাইডের অম্লীয় আর্দ্র বিশ্লেষণ (সাধারণ)",
+   "reactants": [
+    {
+     "name_bn": "অ্যামাইড",
+     "formula": "RCONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বক্সিলিক এসিড",
+     "formula": "RCOOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "RCONH₂ + H₂O → RCOOH + NH₃↑",
+   "conditions": "HCl, warm (Δ)",
+   "observations_bn": "খনিজ এসিডে বিশ্লেষণ দ্রুত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যামাইড",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-063",
+   "chapter_no": 9,
+   "section_no": "9.36",
+   "section_title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "book_page": 525,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানামাইড + নাইট্রাস এসিড",
+   "reactants": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রাস এসিড (NaNO₂ + HCl)",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CONH₂ + HNO₂ → CH₃COOH + N₂↑ + H₂O",
+   "conditions": "room temp, NaNO₂/লঘু HCl",
+   "observations_bn": "N₂ গ্যাসের বুদবুদ ওঠে।",
+   "procedure_bn": [
+    "অ্যামাইডে NaNO₂ ও লঘু HCl মেশান"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানামাইড",
+    "NaNO₂",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-064",
+   "chapter_no": 9,
+   "section_no": "9.36",
+   "section_title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "book_page": 525,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানামাইডের নিরুদন (ইথিন নাইট্রাইল)",
+   "reactants": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন নাইট্রাইল",
+     "formula": "CH₃CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CONH₂ → CH₃CN + H₂O",
+   "conditions": "P₂O₅, heat",
+   "observations_bn": "নিরুদকে এক অণু পানি বেরিয়ে নাইট্রাইল হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃CONH₂",
+    "P₂O₅"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-065",
+   "chapter_no": 9,
+   "section_no": "9.36",
+   "section_title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "book_page": 525,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হফম্যান ডিগ্রেডেশন : ইথানামাইড → মিথাইল অ্যামিন",
+   "reactants": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল অ্যামিন",
+     "formula": "CH₃NH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CONH₂ + Br₂ + 4NaOH → CH₃NH₂ + 2NaBr + Na₂CO₃ + 2H₂O",
+   "conditions": "heat (Δ)",
+   "observations_bn": "কার্বন পরমাণু একটি কমে প্রাইমারি অ্যামিন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যামাইড",
+    "Br₂",
+    "কস্টিক সোডা"
+   ],
+   "safety_bn": "ব্রোমিন বিষাক্ত ও ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-066",
+   "chapter_no": 9,
+   "section_no": "9.36",
+   "section_title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "book_page": 525,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হফম্যান ডিগ্রেডেশন : বেনজ্যামাইড → অ্যানিলিন",
+   "reactants": [
+    {
+     "name_bn": "বেনজ্যামাইড",
+     "formula": "C₆H₅CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CONH₂ + Br₂ + 4NaOH → C₆H₅NH₂ + 2NaBr + Na₂CO₃ + 2H₂O",
+   "conditions": "heat (Δ)",
+   "observations_bn": "ফিনাইল অ্যামিন (অ্যানিলিন) মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজ্যামাইড",
+    "Br₂",
+    "NaOH"
+   ],
+   "safety_bn": "ব্রোমিন বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-067",
+   "chapter_no": 9,
+   "section_no": "9.36",
+   "section_title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "book_page": 525,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "LiAlH₄ দ্বারা ইথানামাইডের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ইথানামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নবজাত হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল অ্যামিন",
+     "formula": "CH₃CH₂NH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CONH₂ + 4[H] → CH₃CH₂NH₂ + H₂O",
+   "conditions": "শুষ্ক ইথারে LiAlH₄",
+   "observations_bn": "অ্যামাইড বিজারিত হয়ে প্রাইমারি অ্যামিন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "LiAlH₄",
+    "ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-068",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 526,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইলন-6:6 : মনোমার গঠন",
+   "reactants": [
+    {
+     "name_bn": "অ্যাডিপিক এসিড",
+     "formula": "HOOC(CH₂)₄COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হেক্সামিথিলিন ডাইঅ্যামিন",
+     "formula": "H₂N(CH₂)₆NH₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মনোমার",
+     "formula": "HOOC(CH₂)₄CONH(CH₂)₆NH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "HOOC(CH₂)₄COOH + H₂N(CH₂)₆NH₂ → HOOC(CH₂)₄CONH(CH₂)₆NH₂ + H₂O",
+   "conditions": "heat (Δ)",
+   "observations_bn": "ঘনীভবনে পানি বেরিয়ে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যাডিপিক এসিড",
+    "হেক্সামিথিলিন ডাইঅ্যামিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-069",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 526,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইলন-6:6 পলিমারকরণ",
+   "reactants": [
+    {
+     "name_bn": "মনোমার",
+     "formula": "HOOC(CH₂)₄CONH(CH₂)₆NH₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইলন-6:6",
+     "formula": "[–OC(CH₂)₄CONH(CH₂)₆NH–]ₙ",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "n HOOC(CH₂)₄CONH(CH₂)₆NH₂ → [–OC(CH₂)₄CONH(CH₂)₆NH–]ₙ + nH₂O",
+   "conditions": "heat, ঘনীভবন",
+   "observations_bn": "পলিঅ্যামাইড সুতা তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মনোমার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-070",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 526,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "1,4-বিউটাডাইনে ক্লোরিন যোগ",
+   "reactants": [
+    {
+     "name_bn": "1,3-বিউটাডাইন (1,4 যুত)",
+     "formula": "CH₂=CH–CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,4-ডাইক্লোরো বিউটিন-2",
+     "formula": "ClCH₂–CH=CH–CH₂Cl",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₂=CH–CH=CH₂ + Cl₂ → ClCH₂–CH=CH–CH₂Cl",
+   "conditions": "1,4-যুত",
+   "observations_bn": "নাইলন-6:6 উপাদান প্রস্তুতির প্রথম ধাপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বিউটাডাইন",
+    "Cl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-071",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 526,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডাইক্লোরো বিউটিন + NaCN",
+   "reactants": [
+    {
+     "name_bn": "1,4-ডাইক্লোরো বিউটিন-2",
+     "formula": "ClCH₂CH=CHCH₂Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম সায়ানাইড",
+     "formula": "NaCN",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "1,4-ডাইসায়ানো বিউটিন-2",
+     "formula": "NCCH₂CH=CHCH₂CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "ClCH₂CH=CHCH₂Cl + 2NaCN → NCCH₂CH=CHCH₂CN + 2NaCl",
+   "conditions": "heat",
+   "observations_bn": "প্রতিস্থাপনে সায়ানাইড মূলক ঢোকে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaCN"
+   ],
+   "safety_bn": "সায়ানাইড অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-072",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 526,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডাইসায়ানো বিউটিনের হাইড্রোজেনেশন",
+   "reactants": [
+    {
+     "name_bn": "ডাইসায়ানো বিউটিন-2",
+     "formula": "NCCH₂CH=CHCH₂CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইসায়ানো বিউটেন",
+     "formula": "NC(CH₂)₄CN",
+     "state": "liquid"
+    }
+   ],
+   "equation": "NCCH₂CH=CHCH₂CN + H₂ → NC(CH₂)₄CN",
+   "conditions": "Ni প্রভাবক, heat",
+   "observations_bn": "দ্বিবন্ধন সম্পৃক্ত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Ni",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-073",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 526,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডাইসায়ানো বিউটেনের বিজারণ (হেক্সামিথিলিন ডাইঅ্যামিন)",
+   "reactants": [
+    {
+     "name_bn": "ডাইসায়ানো বিউটেন",
+     "formula": "NC(CH₂)₄CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নবজাত হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হেক্সামিথিলিন ডাইঅ্যামিন",
+     "formula": "H₂N(CH₂)₆NH₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "NC(CH₂)₄CN + 8[H] → H₂N(CH₂)₆NH₂",
+   "conditions": "LiAlH₄, ইথার",
+   "observations_bn": "সায়ানো মূলক অ্যামিন মূলকে বিজারিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "LiAlH₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-074",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 526,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডাইসায়ানো বিউটেনের আর্দ্র বিশ্লেষণ (অ্যাডিপিক এসিড)",
+   "reactants": [
+    {
+     "name_bn": "ডাইসায়ানো বিউটেন",
+     "formula": "NC(CH₂)₄CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাডিপিক এসিড",
+     "formula": "HOOC(CH₂)₄COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "NC(CH₂)₄CN + 4H₂O → HOOC(CH₂)₄COOH + 2NH₃",
+   "conditions": "H⁺, heat",
+   "observations_bn": "নাইট্রাইল কার্বক্সিলিক এসিডে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লঘু এসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-075",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 527,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফেনল → সাইক্লোহেক্সানল",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সাইক্লোহেক্সানল",
+     "formula": "C₆H₁₁OH",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅OH + 3H₂ → C₆H₁₁OH",
+   "conditions": "Ni, 300 °C",
+   "observations_bn": "নাইলন-6 প্রস্তুতির প্রথম ধাপ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Ni"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-076",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 527,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সাইক্লোহেক্সানলের ডিহাইড্রোজেনেশন",
+   "reactants": [
+    {
+     "name_bn": "সাইক্লোহেক্সানল",
+     "formula": "C₆H₁₁OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সাইক্লোহেক্সানোন",
+     "formula": "C₆H₁₀O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₁₁OH → C₆H₁₀O + H₂",
+   "equation_printed": "সাইক্লোহেক্সানল → সাইক্লোহেক্সানোন (Cu, 250 °C)",
+   "conditions": "Cu, 250 °C",
+   "observations_bn": "বইয়ে H₂ দেখানো নেই; সমতার জন্য যোগ করা।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Cu"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-15-077",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 527,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সাইক্লোহেক্সানোন + হাইড্রক্সিল অ্যামিন (অক্সাইম)",
+   "reactants": [
+    {
+     "name_bn": "সাইক্লোহেক্সানোন",
+     "formula": "C₆H₁₀O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রক্সিল অ্যামিন",
+     "formula": "NH₂OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সাইক্লোহেক্সানোন অক্সাইম",
+     "formula": "C₆H₁₀NOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₁₀O + NH₂OH → C₆H₁₀=NOH + H₂O",
+   "equation_printed": "সাইক্লোহেক্সানোন → অক্সাইম (NH₂OH তীরের ওপরে)",
+   "conditions": "room temp/warm",
+   "observations_bn": "বইয়ে পানি ছাপা নেই; সমতার জন্য যোগ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₂OH"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-15-078",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 527,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অক্সাইম থেকে ক্যাপ্রো ল্যাক্টাম (বেকম্যান পুনর্বিন্যাস)",
+   "reactants": [
+    {
+     "name_bn": "সাইক্লোহেক্সানোন অক্সাইম",
+     "formula": "C₆H₁₀NOH",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যাপ্রো ল্যাক্টাম",
+     "formula": "(CH₂)₅CONH",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₁₀NOH → (CH₂)₅CONH",
+   "conditions": "H⁺",
+   "observations_bn": "সমাণুতে পুনর্বিন্যাস।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লঘু এসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-079",
+   "chapter_no": 9,
+   "section_no": "9.37",
+   "section_title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "book_page": 527,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইলন-6 পলিমারকরণ",
+   "reactants": [
+    {
+     "name_bn": "ক্যাপ্রো ল্যাক্টাম",
+     "formula": "(CH₂)₅CONH",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইলন-6",
+     "formula": "[–CONH(CH₂)₅–]ₙ",
+     "state": "solid"
+    }
+   ],
+   "equation": "n (CH₂)₅CONH → [–CONH(CH₂)₅–]ₙ",
+   "conditions": "heat (Δ)",
+   "observations_bn": "রিং খুলে দীর্ঘ পলিঅ্যামাইড শিকল হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যাপ্রো ল্যাক্টাম"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-080",
+   "chapter_no": 9,
+   "section_no": "9.38",
+   "section_title_bn": "ভূমিকা (ইউরিয়া বা কার্বামাইড)",
+   "book_page": 528,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "উহলারের পরীক্ষা : অ্যামোনিয়াম সায়ানেট প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড সায়ানেট",
+     "formula": "Pb(CNO)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম সায়ানেট",
+     "formula": "NH₄CNO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "লেড ক্লোরাইড",
+     "formula": "PbCl₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2NH₄Cl + Pb(CNO)₂ → 2NH₄CNO + PbCl₂↓",
+   "equation_printed": "NH₄Cl + Pb(CNO)₂ → NH₄CNO + PbCl₂ (অসমতাযুক্ত)",
+   "conditions": "room temp",
+   "observations_bn": "PbCl₂ অধঃক্ষেপ ছেঁকে সরালে সায়ানেটের দ্রবণ থাকে।",
+   "procedure_bn": [
+    "দুই দ্রবণ মেশান",
+    "অধঃক্ষেপ পরিস্রাবণ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄Cl দ্রবণ",
+    "Pb(CNO)₂ দ্রবণ"
+   ],
+   "safety_bn": "লেড যৌগ বিষাক্ত; শিক্ষকের প্রদর্শনী হিসেবে উপযুক্ত।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-15-081",
+   "chapter_no": 9,
+   "section_no": "9.38",
+   "section_title_bn": "ভূমিকা (ইউরিয়া বা কার্বামাইড)",
+   "book_page": 528,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "উহলার সংশ্লেষণ : অ্যামোনিয়াম সায়ানেট থেকে ইউরিয়া",
+   "reactants": [
+    {
+     "name_bn": "অ্যামোনিয়াম সায়ানেট",
+     "formula": "NH₄CNO",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইউরিয়া",
+     "formula": "H₂N–CO–NH₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "NH₄CNO → H₂N–CO–NH₂",
+   "conditions": "heat (বাষ্পীভবনে)",
+   "observations_bn": "তাপে অণুর পুনর্বিন্যাসে অজৈব যৌগ থেকে জৈব যৌগ ইউরিয়া হয়।",
+   "procedure_bn": [
+    "দ্রবণ বাষ্পীভূত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NH₄CNO দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-082",
+   "chapter_no": 9,
+   "section_no": "9.39",
+   "section_title_bn": "ইউরিয়ার শিল্পোৎপাদন",
+   "book_page": 528,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "শিল্পে ইউরিয়া উৎপাদন (CO₂ + NH₃)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম কার্বামেট",
+     "formula": "H₂N–COONH₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "ইউরিয়া",
+     "formula": "H₂N–CO–NH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "gas"
+    }
+   ],
+   "equation": "CO₂ + 2NH₃ → H₂NCOONH₄ ; H₂NCOONH₄ → H₂NCONH₂ + H₂O",
+   "conditions": "130–150 °C, 200 atm",
+   "observations_bn": "প্রথমে কার্বামেট, পরে পানি বেরিয়ে ইউরিয়া হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CO₂",
+    "NH₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-083",
+   "chapter_no": 9,
+   "section_no": "9.39",
+   "section_title_bn": "ইউরিয়ার শিল্পোৎপাদন",
+   "book_page": 528,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মাটিতে ইউরিয়ার বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "ইউরিয়া",
+     "formula": "H₂N–CO–NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "কার্বন ডাই-অক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂N–CO–NH₂ + H₂O → 2NH₃ + CO₂",
+   "equation_printed": "NH₂–CO–NH₂ → 2NH₃ + CO₂ (পানি বাদ)",
+   "conditions": "মাটির আর্দ্রতা",
+   "observations_bn": "সার হিসেবে ধীরে ধীরে নাইট্রোজেন ছাড়ে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইউরিয়া সার"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-15-084",
+   "chapter_no": 9,
+   "section_no": "9.39",
+   "section_title_bn": "ইউরিয়ার শিল্পোৎপাদন",
+   "book_page": 528,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইউরিয়া-ফরম্যালডিহাইড রেজিন",
+   "reactants": [
+    {
+     "name_bn": "মিথানাল",
+     "formula": "HCHO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ইউরিয়া",
+     "formula": "H₂N–CO–NH₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইউরিয়া-ফরম্যালডিহাইড রেজিন",
+     "formula": "(–CH₂–NHCONH–)ₙ",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "nHCHO + nH₂N–CO–NH₂ → (–CH₂–NHCONH–)ₙ + nH₂O",
+   "conditions": "ঘনীভবন পলিমারকরণ",
+   "observations_bn": "প্লাস্টিক পাওয়া যায় (ম্যালামাইন, ফরমিকা)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HCHO",
+    "ইউরিয়া"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-085",
+   "chapter_no": 9,
+   "section_no": "9.41",
+   "section_title_bn": "নাইট্রাইলের প্রস্তুত প্রণালী",
+   "book_page": 529,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ব্রোমো ইথেন + KCN → প্রোপেন নাইট্রাইল",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমো ইথেন",
+     "formula": "CH₃CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম সায়ানাইড",
+     "formula": "KCN",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপেন নাইট্রাইল",
+     "formula": "CH₃CH₂CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CH₂Br + KCN → CH₃CH₂CN + KBr",
+   "conditions": "অ্যালকোহলীয় দ্রবণ",
+   "observations_bn": "হ্যালোজেন সায়ানাইড মূলক দিয়ে প্রতিস্থাপিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₂H₅Br",
+    "KCN",
+    "ইথানল"
+   ],
+   "safety_bn": "সায়ানাইড অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-086",
+   "chapter_no": 9,
+   "section_no": "9.41",
+   "section_title_bn": "নাইট্রাইলের প্রস্তুত প্রণালী",
+   "book_page": 529,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড থেকে বেনজিন কার্বোনাইট্রাইল",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+     "formula": "C₆H₅N₂Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম সায়ানাইড",
+     "formula": "KCN",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন কার্বোনাইট্রাইল",
+     "formula": "C₆H₅CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅N₂Cl + KCN → C₆H₅CN + N₂↑ + KCl",
+   "equation_printed": "C₆H₅N₂Cl + KCN → C₆H₅CN + N₂ + HCl",
+   "conditions": "Na₂CO₃ দ্রবণে প্রশমিত, CuCN প্রভাবক, ~100 °C",
+   "observations_bn": "বইয়ে KCl-এর জায়গায় HCl ছাপা; সমতাযুক্ত রূপ দেওয়া হয়েছে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CuCN",
+    "KCN"
+   ],
+   "safety_bn": "সায়ানাইড বিষাক্ত।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-15-087",
+   "chapter_no": 9,
+   "section_no": "9.42",
+   "section_title_bn": "নাইট্রাইলের রাসায়নিক ধর্ম",
+   "book_page": 530,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথেন নাইট্রাইলের অম্লীয় আর্দ্র বিশ্লেষণ (ধাপ ১)",
+   "reactants": [
+    {
+     "name_bn": "ইথেন নাইট্রাইল",
+     "formula": "CH₃CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথান্যামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CN + H₂O → CH₃CONH₂",
+   "conditions": "লঘু HCl, heat",
+   "observations_bn": "প্রথমে অ্যামাইড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃CN",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-088",
+   "chapter_no": 9,
+   "section_no": "9.42",
+   "section_title_bn": "নাইট্রাইলের রাসায়নিক ধর্ম",
+   "book_page": 530,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথান্যামাইড → ইথানোয়িক এসিড (ধাপ ২)",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যামাইড",
+     "formula": "CH₃CONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CONH₂ + H₂O → CH₃COOH + NH₃",
+   "conditions": "heat",
+   "observations_bn": "আরও বিশ্লেষণে কার্বক্সিলিক এসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-089",
+   "chapter_no": 9,
+   "section_no": "9.42",
+   "section_title_bn": "নাইট্রাইলের রাসায়নিক ধর্ম",
+   "book_page": 530,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথেন নাইট্রাইলের ক্ষারীয় আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ইথেন নাইট্রাইল",
+     "formula": "CH₃CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CN + 2H₂O → CH₃COOH + NH₃",
+   "conditions": "লঘু NaOH, heat",
+   "observations_bn": "ক্ষারে এসিড পরে লবণে পরিণত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃CN",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-090",
+   "chapter_no": 9,
+   "section_no": "9.42",
+   "section_title_bn": "নাইট্রাইলের রাসায়নিক ধর্ম",
+   "book_page": 530,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানোয়িক এসিড + NaOH",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক এসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH + NaOH → CH₃COONa + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "প্রশমন; দ্রবণ ক্ষারীয়/নিরপেক্ষ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃COOH",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-091",
+   "chapter_no": 9,
+   "section_no": "9.42",
+   "section_title_bn": "নাইট্রাইলের রাসায়নিক ধর্ম",
+   "book_page": 530,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "LiAlH₄ দ্বারা ইথেন নাইট্রাইলের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "ইথেন নাইট্রাইল",
+     "formula": "CH₃CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নবজাত হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল অ্যামিন",
+     "formula": "CH₃CH₂NH₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CN + 4[H] → CH₃CH₂NH₂",
+   "conditions": "শুষ্ক ইথারে LiAlH₄",
+   "observations_bn": "নাইট্রাইল থেকে প্রাইমারি অ্যামিন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "LiAlH₄",
+    "ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-092",
+   "chapter_no": 9,
+   "section_no": "9.42",
+   "section_title_bn": "নাইট্রাইলের রাসায়নিক ধর্ম",
+   "book_page": 531,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিন কার্বোনাইট্রাইলের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন কার্বোনাইট্রাইল",
+     "formula": "C₆H₅CN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজাইল অ্যামিন",
+     "formula": "C₆H₅CH₂NH₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CN + 4[H] → C₆H₅CH₂NH₂",
+   "conditions": "Ni প্রভাবক (বা LiAlH₄)",
+   "observations_bn": "বেনজাইল অ্যামিন পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Ni",
+    "H₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-15-093",
+   "chapter_no": 9,
+   "section_no": "9.42",
+   "section_title_bn": "নাইট্রাইলের রাসায়নিক ধর্ম",
+   "book_page": 531,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রাইলের আংশিক বিজারণ : অ্যালডিহাইড",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকিন নাইট্রাইল",
+     "formula": "RCN",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালডিমিন",
+     "formula": "RCH=NH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালডিহাইড",
+     "formula": "RCHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "RCN + 2[H] → RCH=NH ; RCH=NH + H₂O → RCHO + NH₃",
+   "conditions": "LiAlH(OC₂H₅)₃, ইথার; পরে heat",
+   "observations_bn": "আংশিক বিজারণে অ্যালডিমিন, তার আর্দ্র বিশ্লেষণে অ্যালডিহাইড।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "LiAlH(OC₂H₅)₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 9,
+   "no": "9.13.2",
+   "title_bn": "মিথানোয়িক এসিড ও ইথানোয়িক এসিড-এর পার্থক্যসূচক পরীক্ষা",
+   "start_page": 504
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.14",
+   "title_bn": "ভূমিকা : এসিড জাতক",
+   "start_page": 505
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.14.1",
+   "title_bn": "এসিড জাতকের ভৌত ধর্ম",
+   "start_page": 505
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.15",
+   "title_bn": "কার্বক্সিলিক এসিডের জাতকসমূহের সক্রিয়তা",
+   "start_page": 506
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.16",
+   "title_bn": "অ্যাসাইল ক্লোরাইডের সাধারণ প্রস্তুত প্রণালী",
+   "start_page": 507
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.17",
+   "title_bn": "অ্যাসাইল ক্লোরাইডের রাসায়নিক ধর্ম",
+   "start_page": 507
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.17.1",
+   "title_bn": "নিউক্লিওফিলিক প্রতিস্থাপন : অ্যাসাইলেশন",
+   "start_page": 508
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.17.2",
+   "title_bn": "অ্যাসাইল ক্লোরাইডের বিজারণ",
+   "start_page": 509
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.18",
+   "title_bn": "ভূমিকা (এসিড অ্যানহাইড্রাইড)",
+   "start_page": 510
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.19",
+   "title_bn": "এসিড অ্যানহাইড্রাইডের সাধারণ প্রস্তুতপ্রণালী",
+   "start_page": 510
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.20",
+   "title_bn": "এসিড অ্যানহাইড্রাইডের রাসায়নিক বিক্রিয়া",
+   "start_page": 511
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.20.1",
+   "title_bn": "অ্যাসাইলেশন",
+   "start_page": 511
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.20.2",
+   "title_bn": "এসিড অ্যানহাইড্রাইডের বিজারণ",
+   "start_page": 513
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.21",
+   "title_bn": "এসিড ক্লোরাইড ও অ্যানহাইড্রাইডের বিক্রিয়াসমূহ",
+   "start_page": 513
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.22",
+   "title_bn": "অ্যাসাইল হ্যালাইডের ব্যবহার",
+   "start_page": 513
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.23",
+   "title_bn": "ইথানোয়িক অ্যানহাইড্রাইডের ব্যবহার",
+   "start_page": 514
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.24",
+   "title_bn": "ভূমিকা (এস্টার)",
+   "start_page": 514
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.25",
+   "title_bn": "এস্টারের সাধারণ প্রস্তুত প্রণালী",
+   "start_page": 514
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.26",
+   "title_bn": "এস্টারের রাসায়নিক ধর্ম",
+   "start_page": 516
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.26.1",
+   "title_bn": "এস্টারের আর্দ্র বিশ্লেষণ",
+   "start_page": 516
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.26.2",
+   "title_bn": "এস্টার থেকে অ্যামাইড গঠন",
+   "start_page": 516
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.26.3",
+   "title_bn": "এস্টারের বিজারণ",
+   "start_page": 517
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.27",
+   "title_bn": "এস্টারের প্রস্তুতি ও বিক্রিয়ার সার-সংক্ষেপ",
+   "start_page": 518
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.28",
+   "title_bn": "এস্টারের ব্যবহার",
+   "start_page": 518
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.29",
+   "title_bn": "পলিএস্টার",
+   "start_page": 518
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.30",
+   "title_bn": "তেল ও চর্বি : সাবান",
+   "start_page": 519
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.31",
+   "title_bn": "ডিটারজেন্ট",
+   "start_page": 521
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.32",
+   "title_bn": "ডিটারজেন্ট উৎপাদন",
+   "start_page": 522
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.33",
+   "title_bn": "ডিটারজেন্টের শ্রেণীবিভাগ",
+   "start_page": 523
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.34",
+   "title_bn": "ভূমিকা (এসিড অ্যামাইড)",
+   "start_page": 523
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.35",
+   "title_bn": "এসিড অ্যামাইডের সাধারণ প্রস্তুত প্রণালী",
+   "start_page": 523
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.36",
+   "title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "start_page": 524
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.36.1",
+   "title_bn": "অ্যামাইডের ব্যবহার",
+   "start_page": 526
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.37",
+   "title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "start_page": 526
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.38",
+   "title_bn": "ভূমিকা (ইউরিয়া বা কার্বামাইড)",
+   "start_page": 527
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.39",
+   "title_bn": "ইউরিয়ার শিল্পোৎপাদন",
+   "start_page": 528
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.40",
+   "title_bn": "ভূমিকা (নাইট্রাইল)",
+   "start_page": 529
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.41",
+   "title_bn": "নাইট্রাইলের প্রস্তুত প্রণালী",
+   "start_page": 529
+  },
+  {
+   "chapter_no": 9,
+   "no": "9.42",
+   "title_bn": "নাইট্রাইলের রাসায়নিক ধর্ম",
+   "start_page": 530
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "Chapter printed as 9 (sections 9.x); task label c15. Printed pp.504-531 = subject matter; pp.531(end)-532 chapter summary (skipped); pp.532-539 (pdf 547-554) are questions/question bank/creative/MCQ (skipped, no items). Page 504 (pdf 519) starts mid-section 9.13; its parent heading (9.13.1) is not on the page and is inferred. Many organic-synthesis items are card (heating, gases, hazardous reagents)."
+}

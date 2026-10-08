@@ -1,0 +1,5879 @@
+{
+ "book": "NCTB রসায়ন প্রথম পত্র, একাদশ-দ্বাদশ শ্রেণি (Class 11), অধ্যায় ৩ মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন",
+ "chunk_pdf_pages": [
+  248,
+  282
+ ],
+ "page_offset_note": "printed page = pdf page - 0 (pdf 248 = printed ২৪৮)",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-08-01",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 265,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্ষার ধাতুর সাথে হাইড্রোজেনের বিক্রিয়া (হাইড্রাইড গঠন)",
+   "reactants": [
+    {
+     "name_bn": "ধাতু M",
+     "formula": "M",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ধাতব হাইড্রাইড MH",
+     "formula": "MH",
+     "state": "solid"
+    }
+   ],
+   "equation": "2M + H₂ → 2MH",
+   "conditions": "M = Li, Na, K, Rb, Cs; তাপ",
+   "observations_bn": "ক্ষার ধাতু গরম হাইড্রোজেনে ধাতব হাইড্রাইড তৈরি করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতু M",
+    "হাইড্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইয়ে সাধারণ সমীকরণ (M = Li–Cs); পরের পাতায় 400 °C উল্লেখ।"
+  },
+  {
+   "id": "k11-08-02",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 266,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্ষার ধাতুর সাথে হ্যালোজেনের সরাসরি বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ধাতু M",
+     "formula": "M",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হ্যালোজেন X₂",
+     "formula": "X₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ধাতব হ্যালাইড MX",
+     "formula": "MX",
+     "state": "solid"
+    }
+   ],
+   "equation": "2M + X₂ → 2MX",
+   "conditions": "M = Li, Na, K, Rb, Cs; X = F, Cl, Br, I",
+   "observations_bn": "ধাতু ও হ্যালোজেন মিলে আয়নিক হ্যালাইড লবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতু M",
+    "হ্যালোজেন X₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "গ্রুপ-2 ধাতুর জন্য M′ + X₂ → M′X₂ (Be, Mg, Ca, Sr, Ba)।"
+  },
+  {
+   "id": "k11-08-03",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 266,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লিথিয়ামের সাথে অক্সিজেন (Li₂O গঠন)",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম",
+     "formula": "Li",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম অক্সাইড",
+     "formula": "Li₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "4Li + O₂ → 2Li₂O",
+   "conditions": "তাপ",
+   "observations_bn": "লিথিয়াম সীমিত অক্সিজেনে মনোক্সাইড দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লিথিয়াম",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-04",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 266,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়ামের সাথে অক্সিজেন (Na₂O গঠন)",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অক্সাইড",
+     "formula": "Na₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "4Na + O₂ → 2Na₂O",
+   "conditions": "তাপ",
+   "observations_bn": "সীমিত অক্সিজেনে সোডিয়াম মনোক্সাইড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ রূপ: 4M + O₂ → 2M₂O (M = Li, Na, K, Rb, Cs)"
+  },
+  {
+   "id": "k11-08-05",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 266,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়ামের পারঅক্সাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম পারঅক্সাইড",
+     "formula": "Na₂O₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Na + O₂ → Na₂O₂",
+   "conditions": "300 °C",
+   "observations_bn": "অতিরিক্ত অক্সিজেনে উত্তপ্ত করলে পারঅক্সাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-06",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 266,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পটাসিয়ামের পারঅক্সাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম",
+     "formula": "K",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম পারঅক্সাইড",
+     "formula": "K₂O₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2K + O₂ → K₂O₂",
+   "conditions": "280 °C",
+   "observations_bn": "অতিরিক্ত অক্সিজেনে পটাসিয়াম পারঅক্সাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পটাসিয়াম",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-07",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 266,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "রুবিডিয়ামের পারঅক্সাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "রুবিডিয়াম",
+     "formula": "Rb",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "রুবিডিয়াম পারঅক্সাইড",
+     "formula": "Rb₂O₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Rb + O₂ → Rb₂O₂",
+   "conditions": "270 °C",
+   "observations_bn": "অতিরিক্ত অক্সিজেনে রুবিডিয়াম পারঅক্সাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "রুবিডিয়াম",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-08",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 267,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়ামের সাথে পানির বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Na + 2H₂O → 2NaOH + H₂↑",
+   "conditions": "ঘরের তাপমাত্রা (প্রচুর তাপ নির্গত হয়)",
+   "observations_bn": "প্রচুর তাপ ছাড়ে ও H₂ গ্যাস জ্বলে উঠে বিস্ফোরণ ঘটাতে পারে; দ্রবণ ক্ষারীয় হয়।",
+   "procedure_bn": [
+    "বড় বীকারে পানি নিন",
+    "ছোট টুকরা Na পানিতে ফেলুন",
+    "দূর থেকে পর্যবেক্ষণ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম",
+    "পানি"
+   ],
+   "safety_bn": "অত্যন্ত বিপজ্জনক: খুব ছোট টুকরা, নিরাপদ দূরত্ব ও চশমা ব্যবহার করুন। K, Rb, Cs আরও তীব্র।",
+   "confidence": "read",
+   "notes": "বইয়ে সাধারণ সমীকরণ 2M + 2H₂O → 2MOH + H₂ (M = Na, K, Rb, Cs)।"
+  },
+  {
+   "id": "k11-08-09",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 267,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়ামের সাথে ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Na + Cl₂ → 2NaCl",
+   "conditions": "তাপ",
+   "observations_bn": "আয়নিক সোডিয়াম ক্লোরাইড গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-10",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 267,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্ষার ধাতুর সালফাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "সালফার (S₈)",
+     "formula": "S₈",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solid"
+    }
+   ],
+   "equation": "16Na + S₈ → 8Na₂S",
+   "conditions": "তাপ",
+   "observations_bn": "সালফারের সাথে উত্তপ্ত করলে সালফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম",
+    "সালফার (S₈)"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ: 16M + S₈ → 8M₂S"
+  },
+  {
+   "id": "k11-08-11",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 267,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্ষার ধাতুর ফসফাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফসফাইড",
+     "formula": "Na₃P",
+     "state": "solid"
+    }
+   ],
+   "equation": "12Na + P₄ → 4Na₃P",
+   "conditions": "তাপ",
+   "observations_bn": "ফসফরাসের সাথে উত্তপ্ত করলে ফসফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম",
+    "ফসফরাস (P₄)"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ: 12M + P₄ → 4M₃P"
+  },
+  {
+   "id": "k11-08-12",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 267,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম অ্যামালগাম গঠন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "মারকারি",
+     "formula": "Hg",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম অ্যামালগাম",
+     "formula": "NaHg",
+     "state": "liquid"
+    }
+   ],
+   "equation": "Na + Hg → NaHg",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "পারদের সাথে মিশে অ্যামালগাম হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম",
+    "মারকারি"
+   ],
+   "safety_bn": "পারদ বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-13",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 267,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লিথিয়ামের সাথে নাইট্রোজেন",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম",
+     "formula": "Li",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম নাইট্রাইড",
+     "formula": "Li₃N",
+     "state": "solid"
+    }
+   ],
+   "equation": "6Li + N₂ → 2Li₃N",
+   "conditions": "তাপ",
+   "observations_bn": "শুধু Li নাইট্রোজেনের সাথে নাইট্রাইড দেয়; অন্য ক্ষার ধাতু দেয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লিথিয়াম",
+    "নাইট্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "p268 ও p275-এ আবার আছে।"
+  },
+  {
+   "id": "k11-08-14",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 268,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ধাতব নাইট্রাইডের আর্দ্রবিশ্লেষণ (Mg₃N₂)",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম নাইট্রাইড",
+     "formula": "Mg₃N₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সাইড",
+     "formula": "Mg(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mg₃N₂ + 6H₂O → 3Mg(OH)₂ + 2NH₃↑",
+   "conditions": "ঘরের তাপমাত্রা/হালকা তাপ",
+   "observations_bn": "অ্যামোনিয়া গ্যাস বের হয়, ঝাঁঝালো গন্ধ।",
+   "procedure_bn": [
+    "Mg₃N₂ নিন",
+    "পানি যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যাগনেসিয়াম নাইট্রাইড",
+    "পানি"
+   ],
+   "safety_bn": "NH₃ গ্যাস ক্ষতিকর, নাক দিয়ে সরাসরি শুঁকবেন না।",
+   "confidence": "read",
+   "notes": "সাধারণ: M′₃N₂ + 6H₂O → 3M′(OH)₂ + 2NH₃"
+  },
+  {
+   "id": "k11-08-15",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 268,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লিথিয়ামের সাথে হাইড্রোজেন (800 °C)",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম",
+     "formula": "Li",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম হাইড্রাইড",
+     "formula": "LiH",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Li + H₂ → 2LiH",
+   "conditions": "800 °C",
+   "observations_bn": "অন্য ক্ষার ধাতু 400 °C-এ হাইড্রাইড দেয়, Li-এ বেশি তাপ লাগে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লিথিয়াম",
+    "হাইড্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "অন্য ক্ষার ধাতু: 2M + H₂ → 2MH, 400 °C"
+  },
+  {
+   "id": "k11-08-16",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 268,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম নাইট্রেটের তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রেট",
+     "formula": "NaNO₃",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NaNO₃ → 2NaNO₂ + O₂↑",
+   "conditions": "তাপ",
+   "observations_bn": "উত্তপ্ত করলে নাইট্রাইট ও অক্সিজেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম নাইট্রেট"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ: 2MNO₃ → 2MNO₂ + O₂ (M = Na, K, Rb)"
+  },
+  {
+   "id": "k11-08-17",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 268,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লিথিয়াম নাইট্রেটের তাপীয় বিয়োজন",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম নাইট্রেট",
+     "formula": "LiNO₃",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম অক্সাইড",
+     "formula": "Li₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "4LiNO₃ → 2Li₂O + 4NO₂↑ + O₂↑",
+   "conditions": "তাপ",
+   "observations_bn": "অন্য ক্ষার ধাতুর ব্যতিক্রমে অক্সাইড ও NO₂ উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লিথিয়াম নাইট্রেট"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-18",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়ামের সাথে হাইড্রোজেন",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রাইড",
+     "formula": "MgH₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Mg + H₂ → MgH₂",
+   "conditions": "তাপ",
+   "observations_bn": "হাইড্রাইড গঠিত হয় (Be এ বিক্রিয়া করে না)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যাগনেসিয়াম",
+    "হাইড্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ: M + H₂ → MH₂ (M = Mg, Ca, Ba)"
+  },
+  {
+   "id": "k11-08-19",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মৃৎক্ষার ধাতুর অক্সিজেনের সাথে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ধাতু M",
+     "formula": "M",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ধাতব অক্সাইড MO",
+     "formula": "MO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2M + O₂ → 2MO",
+   "conditions": "M = Be, Mg, Ca, Sr, Ba; তাপ",
+   "observations_bn": "ধীরে বিক্রিয়া করে অক্সাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতু M",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-20",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেরিয়াম অক্সাইড থেকে পারঅক্সাইড",
+   "reactants": [
+    {
+     "name_bn": "বেরিয়াম অক্সাইড",
+     "formula": "BaO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিয়াম পারঅক্সাইড",
+     "formula": "BaO₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2BaO + O₂ → 2BaO₂",
+   "conditions": "500 °C",
+   "observations_bn": "বড় ক্যাটায়নে পারঅক্সাইড সহজে হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেরিয়াম অক্সাইড",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-21",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "স্ট্রনসিয়াম অক্সাইড থেকে পারঅক্সাইড",
+   "reactants": [
+    {
+     "name_bn": "স্ট্রনসিয়াম অক্সাইড",
+     "formula": "SrO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "স্ট্রনসিয়াম পারঅক্সাইড",
+     "formula": "SrO₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "2SrO + O₂ → 2SrO₂",
+   "conditions": "500 °C",
+   "observations_bn": "পারঅক্সাইড গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "স্ট্রনসিয়াম অক্সাইড",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-22",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়ামের সাথে নাইট্রোজেন",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম নাইট্রাইড",
+     "formula": "Mg₃N₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "3Mg + N₂ → Mg₃N₂",
+   "conditions": "তাপ",
+   "observations_bn": "উত্তপ্ত করলে নাইট্রাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যাগনেসিয়াম",
+    "নাইট্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-23",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়ামের সাথে নাইট্রোজেন",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম নাইট্রাইড",
+     "formula": "Ca₃N₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "3Ca + N₂ → Ca₃N₂",
+   "conditions": "তাপ",
+   "observations_bn": "উত্তপ্ত করলে নাইট্রাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম",
+    "নাইট্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-24",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেরিলিয়ামের সাথে নাইট্রোজেন",
+   "reactants": [
+    {
+     "name_bn": "বেরিলিয়াম",
+     "formula": "Be",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিলিয়াম নাইট্রাইড",
+     "formula": "Be₃N₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "3Be + N₂ → Be₃N₂",
+   "conditions": "তাপ",
+   "observations_bn": "উদ্বায়ী, সমযোজী নাইট্রাইড।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেরিলিয়াম",
+    "নাইট্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-25",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়াম নাইট্রাইডের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম নাইট্রাইড",
+     "formula": "Ca₃N₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "Ca₃N₂ + 6H₂O → 3Ca(OH)₂ + 2NH₃↑",
+   "conditions": "ঘরের তাপমাত্রা (p275-এ তাপ উল্লেখ)",
+   "observations_bn": "অ্যামোনিয়া গ্যাস নির্গত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম নাইট্রাইড",
+    "পানি"
+   ],
+   "safety_bn": "NH₃ ক্ষতিকর গ্যাস",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-26",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়ামের সাথে ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "MgCl₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Mg + Cl₂ → MgCl₂",
+   "conditions": "তাপ",
+   "observations_bn": "ম্যাগনেসিয়াম ক্লোরাইড গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যাগনেসিয়াম",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ: M + X₂ → MX₂"
+  },
+  {
+   "id": "k11-08-27",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়ামের সাথে ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ক্লোরাইড",
+     "formula": "CaCl₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ca + Cl₂ → CaCl₂",
+   "conditions": "তাপ",
+   "observations_bn": "ক্যালসিয়াম ক্লোরাইড গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-28",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়াম ও জলীয় বাষ্প (MgO)",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম অক্সাইড",
+     "formula": "MgO",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mg + H₂O → MgO + H₂↑",
+   "conditions": "তাপ (বাষ্প)",
+   "observations_bn": "উত্তপ্ত Mg পানির বাষ্পে বিক্রিয়া করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যাগনেসিয়াম",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইয়ে 'Mg সাধারণ অবস্থায় বিক্রিয়া করে, উত্তপ্ত হলে MgO বা Mg(OH)₂'"
+  },
+  {
+   "id": "k11-08-29",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়ামের সাথে পানি (হাইড্রক্সাইড)",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সাইড",
+     "formula": "Mg(OH)₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Mg + 2H₂O → Mg(OH)₂ + H₂↑",
+   "conditions": "গরম পানি/হালকা তাপ",
+   "observations_bn": "H₂ গ্যাস বুদবুদ হিসেবে ওঠে।",
+   "procedure_bn": [
+    "পানি গরম করুন",
+    "Mg ফিতা যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যাগনেসিয়াম",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-30",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়ামের সাথে পানি",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Ca + 2H₂O → Ca(OH)₂ + H₂↑",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "H₂ বুদবুদ ও ক্ষারীয় দ্রবণ হয়।",
+   "procedure_bn": [
+    "বীকারে পানি নিন",
+    "Ca এর ছোট টুকরা যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম",
+    "পানি"
+   ],
+   "safety_bn": "H₂ দাহ্য",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-31",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "বেরিয়ামের সাথে পানি",
+   "reactants": [
+    {
+     "name_bn": "বেরিয়াম",
+     "formula": "Ba",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিয়াম হাইড্রক্সাইড",
+     "formula": "Ba(OH)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Ba + 2H₂O → Ba(OH)₂ + H₂↑",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "H₂ বুদবুদ ও ক্ষারীয় দ্রবণ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেরিয়াম",
+    "পানি"
+   ],
+   "safety_bn": "বেরিয়াম যৌগ বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-32",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেরিলিয়াম অক্সাইড ও কার্বন (Be₂C)",
+   "reactants": [
+    {
+     "name_bn": "বেরিলিয়াম অক্সাইড",
+     "formula": "BeO",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেরিলিয়াম কার্বাইড",
+     "formula": "Be₂C",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "2BeO + 3C → Be₂C + 2CO↑",
+   "equation_printed": "2BeO + 2C → Be₂C + 2CO",
+   "conditions": "2000 °C",
+   "observations_bn": "অতি উচ্চ তাপে কার্বাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেরিলিয়াম অক্সাইড",
+    "কার্বন"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k11-08-33",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়াম ও কার্বন (CaC₂)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বাইড",
+     "formula": "CaC₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ca + 2C → CaC₂",
+   "conditions": "1100 °C",
+   "observations_bn": "ক্যালসিয়াম কার্বাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম",
+    "কার্বন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-34",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়াম অক্সাইড ও কার্বন (CaC₂)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বাইড",
+     "formula": "CaC₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    }
+   ],
+   "equation": "CaO + 3C → CaC₂ + CO↑",
+   "conditions": "2000 °C",
+   "observations_bn": "বৈদ্যুতিক চুল্লিতে কার্বাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম অক্সাইড",
+    "কার্বন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-35",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Be₂C এর আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "বেরিলিয়াম কার্বাইড",
+     "formula": "Be₂C",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "বেরিলিয়াম হাইড্রক্সাইড",
+     "formula": "Be(OH)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Be₂C + 4H₂O → CH₄↑ + 2Be(OH)₂",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "মিথেন গ্যাস পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেরিলিয়াম কার্বাইড",
+    "পানি"
+   ],
+   "safety_bn": "বেরিলিয়াম বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-36",
+   "chapter_no": 3,
+   "section_no": "3.2.1",
+   "section_title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 269,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়াম কার্বাইড ও পানি (অ্যাসিটিলিন)",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম কার্বাইড",
+     "formula": "CaC₂",
+     "state": "solid",
+     "form": "lump"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটিলিন",
+     "formula": "C₂H₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CaC₂ + 2H₂O → C₂H₂↑ + Ca(OH)₂",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "অ্যাসিটিলিন গ্যাস বের হয়; দ্রবণ ক্ষারীয়।",
+   "procedure_bn": [
+    "CaC₂ টুকরা পরীক্ষানলে নিন",
+    "পানি যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম কার্বাইড",
+    "পানি"
+   ],
+   "safety_bn": "অ্যাসিটিলিন অত্যন্ত দাহ্য",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-37",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 270,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রুপ-13 ধাতুর অক্সিজেনের সাথে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ধাতু M",
+     "formula": "M",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ধাতব অক্সাইড M₂O₃",
+     "formula": "M₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "4M + 3O₂ → 2M₂O₃",
+   "conditions": "M = B, Al, Ga, In, Tl; তাপ",
+   "observations_bn": "অক্সাইড হয়; Al₂O₃ উভধর্মী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতু M",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-38",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 270,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনিয়ামের সাথে বাষ্প",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Al + 6H₂O → 2Al(OH)₃ + 3H₂↑",
+   "conditions": "100 °C (বাষ্প)",
+   "observations_bn": "হাইড্রক্সাইড ও H₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ: 2M + 6H₂O(g) → 2M(OH)₃ + 3H₂ (M = B, Al, Ga, In, Tl)"
+  },
+  {
+   "id": "k11-08-39",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 270,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনিয়ামের সাথে ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Al + 3Cl₂ → 2AlCl₃",
+   "conditions": "তাপ",
+   "observations_bn": "AlCl₃ গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ: 2M + 3X₂ → 2MX₃"
+  },
+  {
+   "id": "k11-08-40",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 271,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "AlCl₃ এর ডাইমার গঠন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড ডাইমার",
+     "formula": "Al₂Cl₆",
+     "state": "solid"
+    }
+   ],
+   "equation": "2AlCl₃ ⇌ Al₂Cl₆",
+   "equation_printed": "বইয়ে শুধু গঠন চিত্র, সমীকরণ নয়",
+   "conditions": "নিম্ন তাপমাত্রা",
+   "observations_bn": "ক্লোরিন সেতু দিয়ে ডাইমার তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম ক্লোরাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "সমীকরণ ডাইমার গঠন থেকে লেখা।"
+  },
+  {
+   "id": "k11-08-41",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 271,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনিয়ামের সাথে নাইট্রোজেন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম নাইট্রাইড",
+     "formula": "AlN",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Al + N₂ → 2AlN",
+   "conditions": "তাপ",
+   "observations_bn": "নাইট্রাইড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম",
+    "নাইট্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সাধারণ: 2M + N₂ → 2MN (M = B, Al)"
+  },
+  {
+   "id": "k11-08-42",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 271,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনিয়াম নাইট্রাইডের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম নাইট্রাইড",
+     "formula": "AlN",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "AlN + 3H₂O → Al(OH)₃ + NH₃↑",
+   "conditions": "ঘরের তাপমাত্রা/হালকা তাপ",
+   "observations_bn": "অ্যামোনিয়া গ্যাস ও হাইড্রক্সাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম নাইট্রাইড",
+    "পানি"
+   ],
+   "safety_bn": "NH₃ ক্ষতিকর",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-43",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 271,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "AlCl₃ এর আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড",
+     "formula": "Al(OH)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "AlCl₃ + 3H₂O → Al(OH)₃ + 3HCl",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "হাইড্রক্সাইড ও HCl হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম ক্লোরাইড",
+    "পানি"
+   ],
+   "safety_bn": "অনার্দ্র AlCl₃ পানিতে তীব্র বিক্রিয়া করে",
+   "confidence": "read",
+   "notes": "বইয়ে সাধারণ MX₃ + 3H₂O → M(OH)₃ + 3HX।"
+  },
+  {
+   "id": "k11-08-44",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 271,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বোরন ও নাইট্রোজেন (BN)",
+   "reactants": [
+    {
+     "name_bn": "বোরন",
+     "formula": "B",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বোরন নাইট্রাইড",
+     "formula": "BN",
+     "state": "solid"
+    }
+   ],
+   "equation": "2B + N₂ → 2BN",
+   "conditions": "900 °C",
+   "observations_bn": "অজৈব গ্রাফাইটের মতো কঠিন বোরন নাইট্রাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বোরন",
+    "নাইট্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-45",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 271,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনিয়াম ও HCl",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ক্লোরাইড",
+     "formula": "AlCl₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2Al + 6HCl → 2AlCl₃ + 3H₂↑",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "H₂ বুদবুদ ওঠে, ধাতু গলে যায়।",
+   "procedure_bn": [
+    "পরীক্ষানলে Al টুকরা নিন",
+    "HCl যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম",
+    "হাইড্রোক্লোরিক অ্যাসিড"
+   ],
+   "safety_bn": "H₂ দাহ্য",
+   "confidence": "read",
+   "notes": "বইয়ে সাধারণ 2M + 6HCl → 2MCl₃ + 3H₂ (M = Al, Ga, In, Tl)।"
+  },
+  {
+   "id": "k11-08-46",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রুপ-14 ধাতুর অক্সিজেনের সাথে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "ধাতু M",
+     "formula": "M",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ধাতব অক্সাইড MO",
+     "formula": "MO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2M + O₂ → 2MO",
+   "conditions": "M = C, Fe, Sn, Pb; অতি উচ্চ তাপ",
+   "observations_bn": "MO অক্সাইডের অস্তিত্ব প্রমাণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতু M",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-47",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "CO₂ ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CO₂ + 2NaOH → Na₂CO₃ + H₂O",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "অম্লধর্মী অক্সাইডের প্রমাণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কার্বন ডাইঅক্সাইড",
+    "সোডিয়াম হাইড্রক্সাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-48",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SiO₂ ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "সিলিকন ডাইঅক্সাইড",
+     "formula": "SiO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সিলিকেট",
+     "formula": "Na₂SiO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SiO₂ + 2NaOH → Na₂SiO₃ + H₂O",
+   "conditions": "গলিত/তাপ",
+   "observations_bn": "অম্লধর্মী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সিলিকন ডাইঅক্সাইড",
+    "সোডিয়াম হাইড্রক্সাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-49",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "GeO₂ ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "জার্মেনিয়াম ডাইঅক্সাইড",
+     "formula": "GeO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম জার্মানেট",
+     "formula": "Na₂GeO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "GeO₂ + 2NaOH → Na₂GeO₃ + H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "অম্লধর্মী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জার্মেনিয়াম ডাইঅক্সাইড",
+    "সোডিয়াম হাইড্রক্সাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-50",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SnO₂ ও HCl",
+   "reactants": [
+    {
+     "name_bn": "টিন ডাইঅক্সাইড",
+     "formula": "SnO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টিন টেট্রাক্লোরাইড",
+     "formula": "SnCl₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SnO₂ + 4HCl → SnCl₄ + 2H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "উভধর্মীর ক্ষারীয় আচরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টিন ডাইঅক্সাইড",
+    "হাইড্রোক্লোরিক অ্যাসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-51",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SnO₂ ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "টিন ডাইঅক্সাইড",
+     "formula": "SnO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম স্ট্যানেট",
+     "formula": "Na₂SnO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "SnO₂ + 2NaOH → Na₂SnO₃ + H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "উভধর্মীর অম্লীয় আচরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টিন ডাইঅক্সাইড",
+    "সোডিয়াম হাইড্রক্সাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-52",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PbO₂ ও HCl",
+   "reactants": [
+    {
+     "name_bn": "লেড ডাইঅক্সাইড",
+     "formula": "PbO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড টেট্রাক্লোরাইড",
+     "formula": "PbCl₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "PbO₂ + 4HCl → PbCl₄ + 2H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "উভধর্মীর ক্ষারীয় আচরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লেড ডাইঅক্সাইড",
+    "হাইড্রোক্লোরিক অ্যাসিড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-53",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PbO₂ ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "লেড ডাইঅক্সাইড",
+     "formula": "PbO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম প্লামবেট",
+     "formula": "Na₂PbO₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "PbO₂ + 2NaOH → Na₂PbO₃ + H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "উভধর্মীর অম্লীয় আচরণ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লেড ডাইঅক্সাইড",
+    "সোডিয়াম হাইড্রক্সাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-54",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SiO₂ ও Si (SiO গঠন)",
+   "reactants": [
+    {
+     "name_bn": "সিলিকন ডাইঅক্সাইড",
+     "formula": "SiO₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সিলিকন",
+     "formula": "Si",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলিকন মনোক্সাইড",
+     "formula": "SiO",
+     "state": "solid"
+    }
+   ],
+   "equation": "SiO₂ + Si → 2SiO",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "SiO এর অস্তিত্ব দেখায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সিলিকন ডাইঅক্সাইড",
+    "সিলিকন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-55",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ওয়াটার গ্যাস গঠন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন মনোক্সাইড",
+     "formula": "CO",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C + H₂O → CO↑ + H₂↑",
+   "equation_printed": "C(s) + H₂O(g) → [CO(g) + H₂(g)]",
+   "conditions": "1300 °C (বাষ্প)",
+   "observations_bn": "CO ও H₂ এর মিশ্রণ (ওয়াটার গ্যাস)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কার্বন",
+    "পানি"
+   ],
+   "safety_bn": "CO বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-56",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রুপ-14 মৌলের টেট্রাহ্যালাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "ধাতু M",
+     "formula": "M",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হ্যালোজেন X₂",
+     "formula": "X₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টেট্রাহ্যালাইড MX₄",
+     "formula": "MX₄",
+     "state": "liquid"
+    }
+   ],
+   "equation": "M + 2X₂ → MX₄",
+   "conditions": "M = C, Si, Ge, Sn, Pb; X = F, Cl, Br, I",
+   "observations_bn": "বেশিরভাগ টেট্রাহ্যালাইড সমযোজী।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতু M",
+    "হ্যালোজেন X₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "ক্লোরিনের সাথে M + 2Cl₂ → MCl₄"
+  },
+  {
+   "id": "k11-08-57",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Ge, Sn, Pb এর ডাইহ্যালাইড",
+   "reactants": [
+    {
+     "name_bn": "ধাতু M",
+     "formula": "M",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হ্যালোজেন X₂",
+     "formula": "X₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইহ্যালাইড MX₂",
+     "formula": "MX₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "M + X₂ → MX₂",
+   "conditions": "M = Ge, Sn, Pb",
+   "observations_bn": "নিচের দিকে ডাইহ্যালাইড বেশি স্থিতিশীল।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতু M",
+    "হ্যালোজেন X₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-58",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 272,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রুপ-14 মৌলের হাইড্রাইড",
+   "reactants": [
+    {
+     "name_bn": "ধাতু M",
+     "formula": "M",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রাইড MH₄",
+     "formula": "MH₄",
+     "state": "gas"
+    }
+   ],
+   "equation": "M + 2H₂ → MH₄",
+   "conditions": "M = C, Si ইত্যাদি",
+   "observations_bn": "CH₄, SiH₄ গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ধাতু M",
+    "হাইড্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-59",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 273,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SiCl₄ এর আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "সিলিকন টেট্রাক্লোরাইড",
+     "formula": "SiCl₄",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অর্থোসিলিসিক অ্যাসিড",
+     "formula": "Si(OH)₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "SiCl₄ + 4H₂O → Si(OH)₄ + 4HCl",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "Si এর d-অরবিটাল ব্যবহার করে আর্দ্রবিশ্লেষণ হয়; CCl₄ হয় না।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সিলিকন টেট্রাক্লোরাইড",
+    "পানি"
+   ],
+   "safety_bn": "HCl ধোঁয়া উৎপন্ন হয়",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-60",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রোজেন ও অক্সিজেন (NO)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂ + O₂ → 2NO",
+   "conditions": "3000 °C",
+   "observations_bn": "অতি উচ্চ তাপে নাইট্রিক অক্সাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নাইট্রোজেন",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-61",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NO থেকে NO₂",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রিক অক্সাইড",
+     "formula": "NO",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ডাইঅক্সাইড",
+     "formula": "NO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2NO + O₂ → 2NO₂",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "NO₂ উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নাইট্রিক অক্সাইড",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-62",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "শ্বেত ফসফরাসের কম অক্সিজেনে দহন (P₂O₃)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "P₄ + 3O₂ → 2P₂O₃",
+   "conditions": "নিম্ন তাপমাত্রা",
+   "observations_bn": "P₂O₃ গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস (P₄)",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-63",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাসের অতিরিক্ত অক্সিজেনে দহন (P₂O₅)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টাঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "P₄ + 5O₂ → 2P₂O₅",
+   "conditions": "উচ্চ তাপমাত্রা",
+   "observations_bn": "P₂O₅ গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস (P₄)",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-64",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₃ ও পানি",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস অ্যাসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "P₂O₃ + 3H₂O → 2H₃PO₃",
+   "equation_printed": "P₂O₃ + H₂O → 2HPO₃",
+   "conditions": "শীতল",
+   "observations_bn": "অ্যাসিড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস ট্রাইঅক্সাইড",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ের সমীকরণ অসমতাযুক্ত; সংশোধিত রূপ নিজে দেওয়া।"
+  },
+  {
+   "id": "k11-08-65",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ ও পানি",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরিক অ্যাসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    }
+   ],
+   "equation": "P₂O₅ + 3H₂O → 2H₃PO₄",
+   "conditions": "তাপ",
+   "observations_bn": "ফসফরিক অ্যাসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস পেন্টাঅক্সাইড",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-66",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₃ ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইঅক্সাইড",
+     "formula": "P₂O₃",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রোজেন ফসফাইট",
+     "formula": "Na₂HPO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₃ + 4NaOH → 2Na₂HPO₃ + H₂O",
+   "equation_printed": "P₂O₃ + 2NaOH → 2NaHPO₃",
+   "conditions": "তাপ/ঘরের তাপমাত্রা",
+   "observations_bn": "ক্ষারকত্ব নষ্ট করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস ট্রাইঅক্সাইড",
+    "সোডিয়াম হাইড্রক্সাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ের সমীকরণ অসমতাযুক্ত; সংশোধিত রূপ নিজে দেওয়া।"
+  },
+  {
+   "id": "k11-08-67",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ ও NaOH",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফসফেট",
+     "formula": "Na₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₂O₅ + 6NaOH → 2Na₃PO₄ + 3H₂O",
+   "equation_printed": "P₂O₅ + 6NaOH → 2H₃PO₄ + 3H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "ক্ষারকত্ব নষ্ট করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস পেন্টাঅক্সাইড",
+    "সোডিয়াম হাইড্রক্সাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ের উৎপাদ H₃PO₄ ভারসাম্যহীন; সংশোধিত রূপ নিজে দেওয়া।"
+  },
+  {
+   "id": "k11-08-68",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হাবার প্রক্রিয়ায় অ্যামোনিয়া",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "N₂ + 3H₂ ⇌ 2NH₃",
+   "conditions": "200 atm, 500 °C, Fe প্রভাবক; তাপ উৎপন্ন",
+   "observations_bn": "অ্যামোনিয়া উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নাইট্রোজেন",
+    "হাইড্রোজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-69",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 274,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "শ্বেত ফসফরাস ও NaOH (ফসফিন)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফিন",
+     "formula": "PH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইপোফসফাইট",
+     "formula": "NaH₂PO₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "P₄ + 3NaOH + 3H₂O → PH₃↑ + 3NaH₂PO₂",
+   "conditions": "তাপ",
+   "observations_bn": "ফসফিন গ্যাস বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস (P₄)",
+    "সোডিয়াম হাইড্রক্সাইড",
+    "পানি"
+   ],
+   "safety_bn": "PH₃ অত্যন্ত বিষাক্ত",
+   "confidence": "read",
+   "notes": "KOH দিয়েও একই: P₄ + 3KOH + 3H₂O → PH₃ + 3KH₂PO₂"
+  },
+  {
+   "id": "k11-08-70",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "লিথিয়াম নাইট্রাইডের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "লিথিয়াম নাইট্রাইড",
+     "formula": "Li₃N",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লিথিয়াম হাইড্রক্সাইড",
+     "formula": "LiOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "Li₃N + 3H₂O → 3LiOH + NH₃↑",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "অ্যামোনিয়া ও LiOH হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লিথিয়াম নাইট্রাইড",
+    "পানি"
+   ],
+   "safety_bn": "NH₃ ক্ষতিকর",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-71",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পটাসিয়ামের ফসফাইড",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম",
+     "formula": "K",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম ফসফাইড",
+     "formula": "K₃P",
+     "state": "solid"
+    }
+   ],
+   "equation": "12K + P₄ → 4K₃P",
+   "conditions": "তাপ",
+   "observations_bn": "ধাতব ফসফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পটাসিয়াম",
+    "ফসফরাস (P₄)"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-72",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়াম ফসফাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম ফসফাইড",
+     "formula": "Ca₃P₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "6Ca + P₄ → 2Ca₃P₂",
+   "conditions": "তাপ",
+   "observations_bn": "আয়নিক ফসফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম",
+    "ফসফরাস (P₄)"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-73",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়াম ফসফাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম ফসফাইড",
+     "formula": "Mg₃P₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "6Mg + P₄ → 2Mg₃P₂",
+   "conditions": "তাপ",
+   "observations_bn": "আয়নিক ফসফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যাগনেসিয়াম",
+    "ফসফরাস (P₄)"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-74",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনিয়াম ফসফাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম ফসফাইড",
+     "formula": "AlP",
+     "state": "solid"
+    }
+   ],
+   "equation": "4Al + P₄ → 4AlP",
+   "conditions": "তাপ",
+   "observations_bn": "ফসফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম",
+    "ফসফরাস (P₄)"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-75",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সিলভার ফসফাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ফসফাইড",
+     "formula": "Ag₃P",
+     "state": "solid"
+    }
+   ],
+   "equation": "12Ag + P₄ → 4Ag₃P",
+   "conditions": "তাপ",
+   "observations_bn": "ফসফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সিলভার",
+    "ফসফরাস (P₄)"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-76",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়াম ফসফাইডের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম ফসফাইড",
+     "formula": "Ca₃P₂",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফিন",
+     "formula": "PH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম হাইড্রক্সাইড",
+     "formula": "Ca(OH)₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "Ca₃P₂ + 6H₂O → 2PH₃↑ + 3Ca(OH)₂",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "ফসফিন গ্যাস ও হাইড্রক্সাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম ফসফাইড",
+    "পানি"
+   ],
+   "safety_bn": "PH₃ বিষাক্ত ও দাহ্য",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-77",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রোজেন ও ক্লোরিন (NCl₃)",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোজেন ট্রাইক্লোরাইড",
+     "formula": "NCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "N₂ + 3Cl₂ → 2NCl₃",
+   "conditions": "বিশেষ অবস্থা",
+   "observations_bn": "নাইট্রোজেন ট্রাইক্লোরাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নাইট্রোজেন",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "N শুধু ট্রাইহ্যালাইড গঠন করে, পেন্টাহ্যালাইড নয় (d-অরবিটাল নেই)।"
+  },
+  {
+   "id": "k11-08-78",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও ক্লোরিন (PCl₃)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₄ + 6Cl₂ → 4PCl₃",
+   "conditions": "সীমিত ক্লোরিন",
+   "observations_bn": "PCl₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস (P₄)",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-79",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও ক্লোরিন (PCl₅)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "P₄ + 10Cl₂ → 4PCl₅",
+   "conditions": "অতিরিক্ত ক্লোরিন",
+   "observations_bn": "PCl₅ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস (P₄)",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-80",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও ব্রোমিন (PBr₃)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইব্রোমাইড",
+     "formula": "PBr₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "P₄ + 6Br₂ → 4PBr₃",
+   "conditions": "",
+   "observations_bn": "PBr₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস (P₄)",
+    "ব্রোমিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-81",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও ব্রোমিন (PBr₅)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টাব্রোমাইড",
+     "formula": "PBr₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "P₄ + 10Br₂ → 4PBr₅",
+   "conditions": "",
+   "observations_bn": "PBr₅ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস (P₄)",
+    "ব্রোমিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-82",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাস ও আয়োডিন (PI₃)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস (P₄)",
+     "formula": "P₄",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস ট্রাইআয়োডাইড",
+     "formula": "PI₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "P₄ + 6I₂ → 4PI₃",
+   "conditions": "",
+   "observations_bn": "PI₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস (P₄)",
+    "আয়োডিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-83",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NCl₃ এর আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোজেন ট্রাইক্লোরাইড",
+     "formula": "NCl₃",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস অ্যাসিড",
+     "formula": "HOCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "NCl₃ + 3H₂O → NH₃↑ + 3HOCl",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "অ্যামোনিয়া ও হাইপোক্লোরাস অ্যাসিড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নাইট্রোজেন ট্রাইক্লোরাইড",
+    "পানি"
+   ],
+   "safety_bn": "NCl₃ বিস্ফোরক",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-84",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 275,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PCl₃ এর আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস ট্রাইক্লোরাইড",
+     "formula": "PCl₃",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস অ্যাসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "PCl₃ + 3H₂O → H₃PO₃ + 3HCl",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "খুব দ্রুত বিক্রিয়া, ফসফরাস অ্যাসিড ও HCl।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস ট্রাইক্লোরাইড",
+    "পানি"
+   ],
+   "safety_bn": "HCl ধোঁয়া, ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-85",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "PCl₅ এর আর্দ্রবিশ্লেষণ (প্রথম ধাপ)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাইল ক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "PCl₅ + H₂O → POCl₃ + 2HCl",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "দুই ধাপে আর্দ্রবিশ্লেষণ; প্রথমে POCl₃।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস পেন্টাক্লোরাইড",
+    "পানি"
+   ],
+   "safety_bn": "HCl ধোঁয়া",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-86",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "POCl₃ এর আর্দ্রবিশ্লেষণ (দ্বিতীয় ধাপ)",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাইল ক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরিক অ্যাসিড",
+     "formula": "H₃PO₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "POCl₃ + 3H₂O → H₃PO₄ + 3HCl",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "ফসফরিক অ্যাসিড ও HCl।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাইল ক্লোরাইড",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-87",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম অক্সাইড ও পানি",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম অক্সাইড",
+     "formula": "Na₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "Na₂O + H₂O → 2NaOH",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "দ্রবীভূত হয়ে ক্ষার NaOH দেয়।",
+   "procedure_bn": [
+    "Na₂O পানিতে যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম অক্সাইড",
+    "পানি"
+   ],
+   "safety_bn": "দ্রবণ ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-88",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "পটাসিয়াম অক্সাইড ও পানি",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম অক্সাইড",
+     "formula": "K₂O",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "K₂O + H₂O → 2KOH",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "দ্রবীভূত হয়ে ক্ষার KOH দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পটাসিয়াম অক্সাইড",
+    "পানি"
+   ],
+   "safety_bn": "দ্রবণ ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-89",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "পটাসিয়ামের সুপারঅক্সাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "পটাসিয়াম",
+     "formula": "K",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "পটাসিয়াম সুপারঅক্সাইড",
+     "formula": "KO₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "K + O₂ → KO₂",
+   "conditions": "অতিরিক্ত অক্সিজেন",
+   "observations_bn": "KO₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পটাসিয়াম",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-90",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্যালসিয়ামের অক্সিজেনে দহন",
+   "reactants": [
+    {
+     "name_bn": "ক্যালসিয়াম",
+     "formula": "Ca",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্যালসিয়াম অক্সাইড",
+     "formula": "CaO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Ca + O₂ → 2CaO",
+   "conditions": "তাপ",
+   "observations_bn": "CaO হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্যালসিয়াম",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-91",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনিয়ামের অক্সিজেনে দহন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম অক্সাইড",
+     "formula": "Al₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "4Al + 3O₂ → 2Al₂O₃",
+   "conditions": "তাপ",
+   "observations_bn": "Al₂O₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-92",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কপারের অক্সিজেনে দহন",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) অক্সাইড",
+     "formula": "CuO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Cu + O₂ → 2CuO",
+   "conditions": "তাপ",
+   "observations_bn": "কালো CuO হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কপার",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-93",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "লেডের অক্সিজেনে দহন",
+   "reactants": [
+    {
+     "name_bn": "লেড",
+     "formula": "Pb",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "লেড মনোক্সাইড",
+     "formula": "PbO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Pb + O₂ → 2PbO",
+   "conditions": "তাপ",
+   "observations_bn": "PbO হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লেড",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-94",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জিংকের অক্সিজেনে দহন",
+   "reactants": [
+    {
+     "name_bn": "জিংক",
+     "formula": "Zn",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Zn + O₂ → 2ZnO",
+   "conditions": "তাপ",
+   "observations_bn": "ZnO হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জিংক",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-95",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সিলভারের অক্সিজেনে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার অক্সাইড",
+     "formula": "Ag₂O",
+     "state": "solid"
+    }
+   ],
+   "equation": "4Ag + O₂ → 2Ag₂O",
+   "conditions": "তাপ",
+   "observations_bn": "Ag₂O হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সিলভার",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-96",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 276,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মারকারির অক্সিজেনে বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "মারকারি",
+     "formula": "Hg",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মারকারি(II) অক্সাইড",
+     "formula": "HgO",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Hg + O₂ → 2HgO",
+   "conditions": "তাপ",
+   "observations_bn": "HgO হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মারকারি",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "পারদ বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-97",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সোডিয়াম ও সালফার",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম সালফাইড",
+     "formula": "Na₂S",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Na + S → Na₂S",
+   "conditions": "তাপ",
+   "observations_bn": "সালফাইড হয়, কখনো আলো বের হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম",
+    "সালফার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-98",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ম্যাগনেসিয়াম ও সালফার",
+   "reactants": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "ribbon"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ম্যাগনেসিয়াম সালফাইড",
+     "formula": "MgS",
+     "state": "solid"
+    }
+   ],
+   "equation": "Mg + S → MgS",
+   "conditions": "তাপ",
+   "observations_bn": "সালফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ম্যাগনেসিয়াম",
+    "সালফার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-99",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কপার ও সালফার",
+   "reactants": [
+    {
+     "name_bn": "কপার",
+     "formula": "Cu",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কপার(II) সালফাইড",
+     "formula": "CuS",
+     "state": "solid"
+    }
+   ],
+   "equation": "Cu + S → CuS",
+   "conditions": "তাপ",
+   "observations_bn": "সালফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কপার",
+    "সালফার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-100",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আয়রন ও সালফার",
+   "reactants": [
+    {
+     "name_bn": "আয়রন",
+     "formula": "Fe",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়রন(II) সালফাইড",
+     "formula": "FeS",
+     "state": "solid"
+    }
+   ],
+   "equation": "Fe + S → FeS",
+   "conditions": "তাপ",
+   "observations_bn": "আয়রন সালফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "আয়রন",
+    "সালফার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-101",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মারকারি ও সালফার",
+   "reactants": [
+    {
+     "name_bn": "মারকারি",
+     "formula": "Hg",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মারকারি(II) সালফাইড",
+     "formula": "HgS",
+     "state": "solid"
+    }
+   ],
+   "equation": "Hg + S → HgS",
+   "conditions": "তাপ",
+   "observations_bn": "মারকারি সালফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মারকারি",
+    "সালফার"
+   ],
+   "safety_bn": "পারদ বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-102",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালুমিনিয়াম ও সালফার",
+   "reactants": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম",
+     "formula": "Al",
+     "state": "solid",
+     "form": "piece"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালুমিনিয়াম সালফাইড",
+     "formula": "Al₂S₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "2Al + 3S → Al₂S₃",
+   "conditions": "তাপ",
+   "observations_bn": "অ্যালুমিনিয়াম সালফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালুমিনিয়াম",
+    "সালফার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-103",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বোরনের অক্সিজেনে দহন",
+   "reactants": [
+    {
+     "name_bn": "বোরন",
+     "formula": "B",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বোরন ট্রাইঅক্সাইড",
+     "formula": "B₂O₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "4B + 3O₂ → 2B₂O₃",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "অম্লধর্মী অক্সাইড।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বোরন",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-104",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসফরাসের অক্সিজেনে দহন",
+   "reactants": [
+    {
+     "name_bn": "ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসফরাস পেন্টাঅক্সাইড",
+     "formula": "P₂O₅",
+     "state": "solid"
+    }
+   ],
+   "equation": "4P + 5O₂ → 2P₂O₅",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "উজ্জ্বল শিখা।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফসফরাস",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-105",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফারের অক্সিজেনে দহন",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার ডাইঅক্সাইড",
+     "formula": "SO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + O₂ → SO₂",
+   "conditions": "তাপ",
+   "observations_bn": "SO₂ গ্যাস হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সালফার",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "SO₂ ক্ষতিকর",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-106",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বনের অক্সিজেনে দহন",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C + O₂ → CO₂",
+   "conditions": "তাপ",
+   "observations_bn": "CO₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কার্বন",
+    "অক্সিজেন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-107",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হাইড্রোজেন ও সালফার",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন সালফাইড",
+     "formula": "H₂S",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂ + S → H₂S",
+   "conditions": "তাপ",
+   "observations_bn": "H₂S গ্যাস হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "হাইড্রোজেন",
+    "সালফার"
+   ],
+   "safety_bn": "H₂S বিষাক্ত",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-108",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফার ও ক্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইসালফার ডাইক্লোরাইড",
+     "formula": "S₂Cl₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2S + Cl₂ → S₂Cl₂",
+   "conditions": "তাপ",
+   "observations_bn": "S₂Cl₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সালফার",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-109",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সালফার ও ফ্লোরিন",
+   "reactants": [
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সালফার হেক্সাফ্লোরাইড",
+     "formula": "SF₆",
+     "state": "gas"
+    }
+   ],
+   "equation": "S + 3F₂ → SF₆",
+   "conditions": "",
+   "observations_bn": "SF₆ গ্যাস হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সালফার",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-110",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বন ও সালফার",
+   "reactants": [
+    {
+     "name_bn": "কার্বন",
+     "formula": "C",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "সালফার",
+     "formula": "S",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন ডাইসালফাইড",
+     "formula": "CS₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C + 2S → CS₂",
+   "conditions": "উচ্চ তাপ",
+   "observations_bn": "কার্বন ডাইসালফাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "কার্বন",
+    "সালফার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-111",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 277,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হাইড্রোজেনের সাথে হ্যালোজেন",
+   "reactants": [
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হ্যালোজেন X₂",
+     "formula": "X₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন হ্যালাইড HX",
+     "formula": "HX",
+     "state": "gas"
+    }
+   ],
+   "equation": "H₂ + X₂ → 2HX",
+   "conditions": "X = F, Cl, Br, I",
+   "observations_bn": "হাইড্রোজেন হ্যালাইড গ্যাস হয়, যা পানিতে দ্রবণীয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "হাইড্রোজেন",
+    "হ্যালোজেন X₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-112",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অক্সিজেন ও ফ্লোরিন (OF₂)",
+   "reactants": [
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অক্সিজেন ডাইফ্লোরাইড",
+     "formula": "OF₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "O₂ + 2F₂ → 2OF₂",
+   "conditions": "",
+   "observations_bn": "অক্সিজেন ডাইফ্লোরাইড হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অক্সিজেন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-113",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্লোরিন ও পানি",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2H₂O + 2F₂ → 4HF + O₂↑",
+   "equation_printed": "2H₂O(l) + 2F₂(g) → 4HF(aq) + O₂(g)",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "পানি জারিত হয়ে HF ও O₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পানি",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "HF অত্যন্ত ক্ষয়কারী",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-114",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন ও পানি",
+   "reactants": [
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইপোক্লোরাস অ্যাসিড",
+     "formula": "HOCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "H₂O + Cl₂ → HCl + HOCl",
+   "conditions": "ঘরের তাপমাত্রা",
+   "observations_bn": "HCl ও HOCl হয় (অসামঞ্জস্য বিক্রিয়া)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "পানি",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-115",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন ও ঠান্ডা NaOH",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইপোক্লোরাইট",
+     "formula": "NaClO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2NaOH + Cl₂ → NaCl + NaClO + H₂O",
+   "conditions": "15 °C",
+   "observations_bn": "অসামঞ্জস্য বিক্রিয়া; হাইপোক্লোরাইট হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম হাইড্রক্সাইড",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-116",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরিন ও গরম NaOH",
+   "reactants": [
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরেট",
+     "formula": "NaClO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "6NaOH + 3Cl₂ → 5NaCl + NaClO₃ + 3H₂O",
+   "conditions": "70 °C",
+   "observations_bn": "অসামঞ্জস্য বিক্রিয়া; ক্লোরেট হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম হাইড্রক্সাইড",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-117",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cl₂ ও F₂ (ClF)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিন মনোফ্লোরাইড",
+     "formula": "ClF",
+     "state": "gas"
+    }
+   ],
+   "equation": "Cl₂ + F₂ → 2ClF",
+   "conditions": "250 °C",
+   "observations_bn": "আন্তঃহ্যালোজেন যৌগ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরিন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-118",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Br₂ ও F₂ (BrF)",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমিন মনোফ্লোরাইড",
+     "formula": "BrF",
+     "state": "gas"
+    }
+   ],
+   "equation": "Br₂ + F₂ → 2BrF",
+   "conditions": "10 °C",
+   "observations_bn": "আন্তঃহ্যালোজেন যৌগ।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ব্রোমিন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-119",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Cl₂ ও অতিরিক্ত F₂ (ClF₃)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিন ট্রাইফ্লোরাইড",
+     "formula": "ClF₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "Cl₂ + 3F₂ → 2ClF₃",
+   "conditions": "250 °C",
+   "observations_bn": "ClF₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরিন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-120",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "I₂ ও Cl₂ (ICl₃)",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন ট্রাইক্লোরাইড",
+     "formula": "ICl₃",
+     "state": "solid"
+    }
+   ],
+   "equation": "I₂ + 3Cl₂ → 2ICl₃",
+   "conditions": "-80 °C",
+   "observations_bn": "ICl₃ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "আয়োডিন",
+    "ক্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-121",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "I₂ ও F₂ (IF₅)",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন পেন্টাফ্লোরাইড",
+     "formula": "IF₅",
+     "state": "liquid"
+    }
+   ],
+   "equation": "I₂ + 5F₂ → 2IF₅",
+   "conditions": "",
+   "observations_bn": "IF₅ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "আয়োডিন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-122",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 278,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "IF₅ ও F₂ (IF₇)",
+   "reactants": [
+    {
+     "name_bn": "আয়োডিন পেন্টাফ্লোরাইড",
+     "formula": "IF₅",
+     "state": "liquid",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডিন হেপ্টাফ্লোরাইড",
+     "formula": "IF₇",
+     "state": "gas"
+    }
+   ],
+   "equation": "IF₅ + F₂ → IF₇",
+   "conditions": "270 °C",
+   "observations_bn": "IF₇ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "আয়োডিন পেন্টাফ্লোরাইড",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-123",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 279,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "জেনন ও PtF₆",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "প্লাটিনাম হেক্সাফ্লোরাইড",
+     "formula": "PtF₆",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন হেক্সাফ্লোরোপ্লাটিনেট",
+     "formula": "XePtF₆",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + PtF₆ → XePtF₆",
+   "equation_printed": "Xe + PtF₆ → Xe⁺PtF₆⁻",
+   "conditions": "",
+   "observations_bn": "প্রথম নিষ্ক্রিয় গ্যাসের যৌগ; হলুদ কঠিন।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন",
+    "প্লাটিনাম হেক্সাফ্লোরাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বার্টলেট, 1962"
+  },
+  {
+   "id": "k11-08-124",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 279,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "XeF₂ গঠন (Ni প্রভাবক)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন ডাইফ্লোরাইড",
+     "formula": "XeF₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + F₂ → XeF₂",
+   "conditions": "Ni প্রভাবক, 400 °C",
+   "observations_bn": "Xe : F₂ = 1:2 আয়তনে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-125",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 279,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "XeF₂ গঠন (সূর্যালোক)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন ডাইফ্লোরাইড",
+     "formula": "XeF₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + F₂ → XeF₂",
+   "conditions": "সূর্যালোক, পাইরেক্স নল",
+   "observations_bn": "XeF₂ বর্ণহীন কেলাস।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-126",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 279,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "XeF₂ গঠন (O₂F₂ দিয়ে)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ডাইঅক্সিজেন ডাইফ্লোরাইড",
+     "formula": "O₂F₂",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন ডাইফ্লোরাইড",
+     "formula": "XeF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "Xe + O₂F₂ → XeF₂ + O₂↑",
+   "conditions": "-118 °C",
+   "observations_bn": "XeF₂ উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন",
+    "ডাইঅক্সিজেন ডাইফ্লোরাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-127",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 279,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "XeF₄ গঠন (বিদ্যুৎ স্ফুলিঙ্গ)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন টেট্রাফ্লোরাইড",
+     "formula": "XeF₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + 2F₂ → XeF₄",
+   "conditions": "-80 °C, 1.32×10⁻² atm, বিদ্যুৎ স্ফুলিঙ্গ",
+   "observations_bn": "Xe : F₂ = 1:2 আয়তনে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-128",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "XeF₄ গঠন (Ni প্রভাবক)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন টেট্রাফ্লোরাইড",
+     "formula": "XeF₄",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + 2F₂ → XeF₄",
+   "conditions": "Ni, 400 °C, 6 atm",
+   "observations_bn": "Xe : F₂ = 1:5 আয়তনে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-129",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "XeF₆ গঠন (বিদ্যুৎ স্ফুলিঙ্গ)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন হেক্সাফ্লোরাইড",
+     "formula": "XeF₆",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + 3F₂ → XeF₆",
+   "conditions": "-10 °C, বিদ্যুৎ স্ফুলিঙ্গ",
+   "observations_bn": "Xe : F₂ = 1:3 আয়তনে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-130",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "XeF₆ গঠন (উচ্চ চাপ)",
+   "reactants": [
+    {
+     "name_bn": "জেনন",
+     "formula": "Xe",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ফ্লোরিন",
+     "formula": "F₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন হেক্সাফ্লোরাইড",
+     "formula": "XeF₆",
+     "state": "solid"
+    }
+   ],
+   "equation": "Xe + 3F₂ → XeF₆",
+   "conditions": "50 atm, কম তাপমাত্রা",
+   "observations_bn": "Xe : F₂ = 1:20 আয়তনে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন",
+    "ফ্লোরিন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-131",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "XeF₄ আর্দ্রবিশ্লেষণ (XeOF₂)",
+   "reactants": [
+    {
+     "name_bn": "জেনন টেট্রাফ্লোরাইড",
+     "formula": "XeF₄",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid",
+     "form": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন অক্সিডাইফ্লোরাইড",
+     "formula": "XeOF₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "solution"
+    }
+   ],
+   "equation": "XeF₄ + H₂O → XeOF₂ + 2HF",
+   "conditions": "-80 °C",
+   "observations_bn": "XeOF₂ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন টেট্রাফ্লোরাইড",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-08-132",
+   "chapter_no": 3,
+   "section_no": "3.2.2",
+   "section_title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি",
+   "book_page": 280,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "XeF₆ ও SiO₂ (XeOF₄)",
+   "reactants": [
+    {
+     "name_bn": "জেনন হেক্সাফ্লোরাইড",
+     "formula": "XeF₆",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "সিলিকন ডাইঅক্সাইড",
+     "formula": "SiO₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "জেনন অক্সিটেট্রাফ্লোরাইড",
+     "formula": "XeOF₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সিলিকন টেট্রাফ্লোরাইড",
+     "formula": "SiF₄",
+     "state": "gas"
+    }
+   ],
+   "equation": "2XeF₆ + SiO₂ → 2XeOF₄ + SiF₄",
+   "conditions": "50 °C",
+   "observations_bn": "XeOF₄ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "জেনন হেক্সাফ্লোরাইড",
+    "সিলিকন ডাইঅক্সাইড"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 3,
+   "no": "3.1",
+   "title_bn": "ইলেকট্রন বিন্যাসের ভিত্তিতে মৌলের শ্রেণিবিভাগ",
+   "start_page": 250
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.1.1",
+   "title_bn": "s-ব্লক মৌল (s-block elements)",
+   "start_page": 251
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.1.2",
+   "title_bn": "p-ব্লক মৌল (p-block elements)",
+   "start_page": 253
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.1.3",
+   "title_bn": "d-ব্লক মৌল (d-block elements)",
+   "start_page": 254
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.1.4",
+   "title_bn": "f-ব্লক মৌল (f-block elements)",
+   "start_page": 256
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.2",
+   "title_bn": "বিভিন্ন ব্লকের মৌলসমূহের সাধারণ ধর্মাবলি",
+   "start_page": 263
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.2.1",
+   "title_bn": "s-ব্লক মৌলসমূহের ধর্মাবলি (Properties of s-block elements)",
+   "start_page": 263
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.2.2",
+   "title_bn": "p-ব্লক মৌলসমূহের ধর্মাবলি (Properties of p-block elements)",
+   "start_page": 270
+  },
+  {
+   "chapter_no": 3,
+   "no": "3.2.3",
+   "title_bn": "d-ব্লক মৌলসমূহের ধর্মাবলি (Properties of d-block elements)",
+   "start_page": 280
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "PDF 248 is the end of chapter 2 (MCQ only, skipped); chapter 3 starts p249. Pages 249-262 and 281-282 (d-block ion configurations) contain no reactions. Chapter 3 pages beyond 282 are in another chunk. Duplicate equations repeated in the book (e.g. Na3P, Ca3N2 hydrolysis with heat, AlN, 2Al+N2) recorded once."
+}

@@ -1,0 +1,110 @@
+{
+ "book": "NCTB Chemistry First Paper Class 11",
+ "chunk_pdf_pages": [
+  73,
+  107
+ ],
+ "page_offset_note": "printed page = pdf page - 0",
+ "pages_read": 35,
+ "items": [
+  {
+   "id": "k11-03-1",
+   "chapter_no": 2,
+   "section_no": "",
+   "section_title_bn": "প্রাথমিক ধারণা (পরমাণু ও পরমাণুর মূল কণিকা)",
+   "book_page": 77,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "তড়িৎ বিশ্লেষণে Ag⁺ থেকে Ag জমা (ইলেকট্রনের আধান নির্ণয়)",
+   "reactants": [
+    {
+     "name_bn": "সিলভার আয়ন",
+     "formula": "Ag⁺",
+     "state": "solution",
+     "form": "solution"
+    },
+    {
+     "name_bn": "ইলেকট্রন",
+     "formula": "e⁻",
+     "state": "solid",
+     "form": "wire"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ag⁺(aq) + e⁻ → Ag(s)",
+   "conditions": "তড়িৎ বিশ্লেষণ (ক্যাথোডে)",
+   "observations_bn": "ক্যাথোডে সিলভার ধাতু জমা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "1 mol e⁻ (96500 C) দিয়ে 108 g Ag জমে; এ থেকে e = 1.602×10⁻¹⁹ C",
+   "materials_bn": [
+    "Ag⁺ দ্রবণ",
+    "তড়িৎদ্বার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k11-03-2",
+   "chapter_no": 2,
+   "section_no": "2.1",
+   "section_title_bn": "রাদারফোর্ড পরমাণু মডেল",
+   "book_page": 82,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "রাদারফোর্ডের আলফা-কণা বিচ্ছুরণ পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "আলফা কণা (He²⁺)",
+     "formula": "He²⁺",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "সোনার পাত",
+     "formula": "Au",
+     "state": "solid",
+     "form": "ribbon"
+    }
+   ],
+   "products": [],
+   "equation": "",
+   "conditions": "তেজস্ক্রিয় রেডিয়াম উৎস, ZnS প্রলেপযুক্ত পর্দা; ভৌত পরীক্ষা, রাসায়নিক বিক্রিয়া নয়",
+   "observations_bn": "প্রায় সব আলফা কণা সোজা চলে যায়, অল্প কিছু বেঁকে যায়, খুব অল্প কণা উল্টো ফিরে আসে।",
+   "procedure_bn": [
+    "সীসার ব্লকে রাখা রেডিয়াম থেকে আলফা কণা সোনার পাতে ফেলা হয়",
+    "পাতের পেছনে ZnS পর্দার ঝলক দেখে বিচ্ছুরণ পর্যবেক্ষণ করা হয়"
+   ],
+   "quantities_bn": "সোনার পাতের পুরুত্ব 4.0×10³ nm (পুরুত্ব হিসেবে মুদ্রিত)",
+   "materials_bn": [
+    "সোনার পাত",
+    "ZnS প্রলেপযুক্ত পর্দা",
+    "রেডিয়াম",
+    "সীসার ব্লক"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 2,
+   "no": "2.1",
+   "title_bn": "রাদারফোর্ড পরমাণু মডেল",
+   "start_page": 81
+  },
+  {
+   "chapter_no": 2,
+   "no": "2.2",
+   "title_bn": "বোর পরমাণু মডেল",
+   "start_page": 87
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "pp73-74 are end of ch.1 (MCQs, skipped); ch.2 starts p75. Rest is atomic-structure theory/numericals with no lab reactions. Ag⁺ reaction is within unnumbered 'প্রাথমিক ধারণা' section."
+}

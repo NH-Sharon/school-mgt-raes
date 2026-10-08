@@ -1,0 +1,2684 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  339,
+  374
+ ],
+ "page_offset_note": "printed page = pdf page - 15",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-10-01",
+   "chapter_no": 6,
+   "section_no": "6.5",
+   "section_title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "book_page": 338,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকোহল থেকে অ্যালকাইল ক্লোরাইড (HCl, ZnCl₂)",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "R–OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকাইল ক্লোরাইড",
+     "formula": "R–Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R–OH + HCl → R–Cl + H₂O",
+   "conditions": "অনার্দ্র ZnCl₂ (লুইস অ্যাসিড), বিক্রিয়া উভমুখী",
+   "observations_bn": "OH মূলক Cl দ্বারা প্রতিস্থাপিত হয়; ZnCl₂ পানি সরিয়ে বিক্রিয়াকে এগিয়ে নেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালকোহল",
+    "শুষ্ক HCl গ্যাস",
+    "অনার্দ্র ZnCl₂"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-02",
+   "chapter_no": 6,
+   "section_no": "6.5",
+   "section_title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "book_page": 338,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথানল থেকে ব্রোমো মিথেন",
+   "reactants": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোব্রোমিক অ্যাসিড (48%)",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমো মিথেন",
+     "formula": "CH₃Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃OH + HBr → CH₃Br + H₂O",
+   "conditions": "গাঢ় H₂SO₄ উপস্থিতিতে",
+   "observations_bn": "গাঢ় H₂SO₄ উৎপন্ন পানি শুষে বিক্রিয়াকে সম্মুখে চালায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মিথানল",
+    "48% HBr",
+    "গাঢ় H₂SO₄"
+   ],
+   "safety_bn": "গাঢ় অ্যাসিড সাবধানে নিন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-03",
+   "chapter_no": 6,
+   "section_no": "6.5",
+   "section_title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "book_page": 338,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথানল থেকে আয়োডো মিথেন (57% HI)",
+   "reactants": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোআয়োডিক অ্যাসিড (57%)",
+     "formula": "HI",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডো মিথেন",
+     "formula": "CH₃I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃OH + HI → CH₃I + H₂O",
+   "conditions": "উত্তপ্ত; H₂SO₄ লাগে না",
+   "observations_bn": "HI-এ সরাসরি OH মূলকের বদলে I যুক্ত হয়ে আয়োডাইড তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মিথানল",
+    "57% HI"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-04",
+   "chapter_no": 6,
+   "section_no": "6.5",
+   "section_title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "book_page": 339,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকোহল ও PCl₅ বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "R–OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকাইল ক্লোরাইড",
+     "formula": "R–Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "R–OH + PCl₅ → R–Cl + POCl₃ + HCl↑",
+   "conditions": "সাধারণ অবস্থা",
+   "observations_bn": "HCl গ্যাস বের হয় এবং POCl₃ উপজাত হিসেবে পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালকোহল",
+    "PCl₅"
+   ],
+   "safety_bn": "PCl₅ ও HCl ক্ষয়কারী; ফিউম কাবার্ডে করতে হবে।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-05",
+   "chapter_no": 6,
+   "section_no": "6.5",
+   "section_title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "book_page": 339,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথানল ও PCl₅ থেকে মিথাইল ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃OH + PCl₅ → CH₃Cl + POCl₃ + HCl↑",
+   "conditions": "সাধারণ অবস্থা",
+   "observations_bn": "মিথাইল ক্লোরাইড ও HCl গ্যাস তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মিথানল",
+    "PCl₅"
+   ],
+   "safety_bn": "ক্ষয়কারী ধোঁয়া বের হয়।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-06",
+   "chapter_no": 6,
+   "section_no": "6.5",
+   "section_title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "book_page": 339,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকোহল ও ফসফরাস ট্রাইহ্যালাইড বিক্রিয়া",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "R–OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস ট্রাইহ্যালাইড",
+     "formula": "PX₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকাইল হ্যালাইড",
+     "formula": "R–X",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফোনিক অ্যাসিড",
+     "formula": "H₃PO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "3R–OH + PX₃ → 3R–X + H₃PO₃",
+   "conditions": "সাধারণ অবস্থা",
+   "observations_bn": "তিন অণু অ্যালকোহল থেকে তিন অণু হ্যালাইড ও ফসফোনিক অ্যাসিড মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালকোহল",
+    "PBr₃ / PI₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-07",
+   "chapter_no": 6,
+   "section_no": "6.5",
+   "section_title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "book_page": 339,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপিনে HBr যোগ (মার্কনিকভ)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃–CH=CH₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2-ব্রোমো প্রোপেন",
+     "formula": "CH₃CHBr–CH₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃–CH=CH₂ + HBr → CH₃–CHBr–CH₃",
+   "conditions": "সামান্য উষ্ণতা",
+   "observations_bn": "H ঐ কার্বনে যায় যাতে H বেশি; Br মাঝের কার্বনে বসে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "প্রোপিন",
+    "HBr"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-08",
+   "chapter_no": 6,
+   "section_no": "6.5",
+   "section_title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "book_page": 339,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেনের আলোকীয় ক্লোরিনেশন",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + Cl₂ → CH₃Cl + HCl",
+   "conditions": "UV আলো (বইয়ে প্রায় 400°C উল্লেখ); ধাপে ধাপে CH₂Cl₂, CHCl₃, CCl₄ হয়",
+   "observations_bn": "ক্লোরিনের পরিমাণ বাড়লে একে একে CH₂Cl₂, CHCl₃, CCl₄ তৈরি হয় এবং মিশ্রণ আংশিক পাতনে আলাদা করা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মিথেন",
+    "Cl₂",
+    "UV আলো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-09",
+   "chapter_no": 6,
+   "section_no": "6.5.1",
+   "section_title_bn": "পরীক্ষাগার পদ্ধতিতে CH₃I ও C₂H₅I প্রস্তুতি",
+   "book_page": 339,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পরীক্ষাগারে আয়োডো মিথেন প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "মিথানল",
+     "formula": "CH₃OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "লাল ফসফরাস",
+     "formula": "P",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডো মিথেন",
+     "formula": "CH₃I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফোনিক অ্যাসিড",
+     "formula": "H₃PO₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2P + 3I₂ → 2PI₃; 3CH₃OH + PI₃ → 3CH₃I + H₃PO₃",
+   "conditions": "রিফ্লাক্স (লিবিগ শীতক), বরফ-ঠান্ডা পানিতে ফ্লাস্ক, তারপর জলগাহে পাতন",
+   "observations_bn": "মিথানল ও লাল P-এর ফ্লাস্কে I₂ যোগ করলে PI₃ হয় ও তাপ ছাড়ে; পরে CH₃I পাতিত হয়, ভারী স্তর হিসেবে জমে।",
+   "procedure_bn": [
+    "ফ্লাস্কে মিথানল ও লাল P নিন",
+    "শীতকের মুখ দিয়ে ধীরে I₂ গুঁড়া দিন",
+    "প্রায় ২০ ঘণ্টা রেখে জলগাহে পাতিত করুন",
+    "NaOH দ্বারা I₂ ও HI অপসারণ, ভারী স্তর পৃথক ও CaCl₂ সহ পুনঃপাতন (b.p. 42.3°C)"
+   ],
+   "quantities_bn": "CH₃OH : P : I₂ = 31 : 10 : 123 (ভর অনুপাত)",
+   "materials_bn": [
+    "মিথানল",
+    "লাল ফসফরাস",
+    "আয়োডিন গুঁড়া",
+    "লিবিগ শীতক",
+    "পৃথকীকরণ ফানেল"
+   ],
+   "safety_bn": "I₂ ও P সাবধানে নিন; মিশ্রণ ঠান্ডা রাখুন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-10",
+   "chapter_no": 6,
+   "section_no": "6.5.1",
+   "section_title_bn": "পরীক্ষাগার পদ্ধতিতে CH₃I ও C₂H₅I প্রস্তুতি",
+   "book_page": 340,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "পরীক্ষাগারে ব্রোমো ইথেন প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solid",
+     "form": "crystal"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমো ইথেন",
+     "formula": "C₂H₅Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রোজেন সালফেট",
+     "formula": "KHSO₄",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "KBr + H₂SO₄ → KHSO₄ + HBr; C₂H₅OH + HBr → C₂H₅Br + H₂O",
+   "conditions": "প্রায় 40°C; গ্রাহক পাত্র বরফ-ঠান্ডা পানিতে",
+   "observations_bn": "গাঢ় H₂SO₄ ও KBr থেকে HBr তৈরি হয়, তা ইথানলের সাথে বিক্রিয়া করে ব্রোমো ইথেন (b.p. 38.1°C) পাতিত হয়ে জমে।",
+   "procedure_bn": [
+    "ফ্লাস্কে ইথানল, KBr ও গাঢ় H₂SO₄ নিন",
+    "থার্মোমিটার ও শীতক যুক্ত করুন, গ্রাহক পাত্র বরফ-পানিতে রাখুন",
+    "ধীরে প্রায় 40°C পর্যন্ত গরম করুন",
+    "লঘু NaOH দিয়ে ধুয়ে, CaCl₂ সহ পুনঃপাতন করুন"
+   ],
+   "quantities_bn": "ইথানল : KBr : H₂SO₄ = 46 : 120 : 100 (ভর অনুপাত)",
+   "materials_bn": [
+    "ইথানল",
+    "KBr",
+    "গাঢ় H₂SO₄",
+    "শীতক",
+    "গ্রাহক পাত্র",
+    "বরফ"
+   ],
+   "safety_bn": "গাঢ় অ্যাসিড ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-11",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 344,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "SN2 : প্রাইমারি হ্যালাইডে OH⁻ আক্রমণ",
+   "reactants": [
+    {
+     "name_bn": "প্রাইমারি হ্যালোজেনো অ্যালকেন",
+     "formula": "R–CH₂–X",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রক্সাইড আয়ন",
+     "formula": "OH⁻",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রাইমারি অ্যালকোহল",
+     "formula": "R–CH₂–OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হ্যালাইড আয়ন",
+     "formula": "X⁻",
+     "state": "solution"
+    }
+   ],
+   "equation": "R–CH₂–X + OH⁻ → R–CH₂–OH + X⁻",
+   "conditions": "জলীয় ক্ষার; এক ধাপে অস্থায়ী জটিল",
+   "observations_bn": "কার্বনের উল্টো দিক থেকে OH⁻ আক্রমণ করে; গঠন উল্টে যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালকাইল হ্যালাইড",
+    "জলীয় ক্ষার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-12",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 345,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল আয়োডাইডের ক্ষারীয় আর্দ্র বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল আয়োডাইড",
+     "formula": "CH₃CH₂I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CH₂I + KOH → CH₃CH₂OH + KI",
+   "conditions": "জলীয় KOH; একইভাবে CH₃I + NaOH(aq) → CH₃OH + NaI",
+   "observations_bn": "হ্যালাইড মূলক OH দ্বারা প্রতিস্থাপিত হয়ে অ্যালকোহল হয়; হার দ্বিতীয় ক্রমের।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথাইল আয়োডাইড",
+    "জলীয় KOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-13",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 345,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "1-ব্রোমো বিউটেন ও সিলভার হাইড্রক্সাইড",
+   "reactants": [
+    {
+     "name_bn": "1-ব্রোমো বিউটেন",
+     "formula": "CH₃CH₂CH₂CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সিলভার হাইড্রক্সাইড (ভেজা Ag₂O)",
+     "formula": "AgOH",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বিউটান-1-ল",
+     "formula": "CH₃CH₂CH₂CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সিলভার ব্রোমাইড",
+     "formula": "AgBr",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CH₂CH₂CH₂Br + AgOH → CH₃CH₂CH₂CH₂OH + AgBr↓",
+   "conditions": "পানিতে ভাসমান Ag₂O সহ উত্তপ্ত, 100°C",
+   "observations_bn": "ব্রোমাইড মূলক সরে গিয়ে AgBr অধঃক্ষেপ পড়ে এবং বিউটানল তৈরি হয়।",
+   "procedure_bn": [
+    "1-ব্রোমো বিউটেন ও পানিতে ভাসমান Ag₂O নিন",
+    "প্রায় 100°C-এ গরম করুন",
+    "অধঃক্ষেপ ছেঁকে নিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "1-ব্রোমো বিউটেন",
+    "Ag₂O",
+    "পানি",
+    "বীকার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-14",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 346,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "টারসিয়ারি বিউটাইল ক্লোরাইডের আর্দ্র বিশ্লেষণ (SN1)",
+   "reactants": [
+    {
+     "name_bn": "2-ক্লোরো-2-মিথাইল প্রোপেন",
+     "formula": "(CH₃)₃C–Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2-মিথাইল প্রোপানল-2",
+     "formula": "(CH₃)₃C–OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "(CH₃)₃C–Cl + H₂O → (CH₃)₃C–OH + HCl",
+   "conditions": "কক্ষ তাপমাত্রা, 85% জলীয় ইথানল দ্রাবক",
+   "observations_bn": "ক্ষারের দরকার হয় না; বিক্রিয়া প্রথম ক্রমের, কার্বোকেশন মধ্যবর্তী।",
+   "procedure_bn": [
+    "টারসিয়ারি হ্যালাইড জলীয় ইথানলে নিন",
+    "কক্ষ তাপমাত্রায় রাখুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "t-বিউটাইল ক্লোরাইড",
+    "85% জলীয় ইথানল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-15",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 346,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হ্যালোজেনো অ্যালকেন ও KCN থেকে নাইট্রাইল",
+   "reactants": [
+    {
+     "name_bn": "আয়োডো মিথেন",
+     "formula": "CH₃–I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম সায়ানাইড",
+     "formula": "KCN",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন নাইট্রাইল",
+     "formula": "CH₃–C≡N",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃–I + KCN → CH₃–C≡N + KI",
+   "conditions": "অ্যালকোহলীয় দ্রবণে উত্তপ্ত",
+   "observations_bn": "কার্বন সংখ্যা এক বেড়ে যায় বলে জৈব যৌগ গঠনে এই বিক্রিয়া কাজে লাগে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃I",
+    "KCN",
+    "অ্যালকোহল"
+   ],
+   "safety_bn": "সায়ানাইড অত্যন্ত বিষাক্ত।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-16",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 346,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রাইলের আর্দ্র বিশ্লেষণে অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "ইথেন নাইট্রাইল",
+     "formula": "CH₃C≡N",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃C≡N + 2H₂O → CH₃COOH + NH₃",
+   "conditions": "লঘু HCl, উত্তপ্ত",
+   "observations_bn": "নাইট্রাইল কার্বক্সিলিক অ্যাসিডে পরিণত হয় ও অ্যামোনিয়া উৎপন্ন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃CN",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-17",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 346,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রাইলের বিজারণে অ্যামিন",
+   "reactants": [
+    {
+     "name_bn": "ইথেন নাইট্রাইল",
+     "formula": "CH₃C≡N",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জায়মান হাইড্রোজেন",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল অ্যামিন",
+     "formula": "CH₃CH₂NH₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃C≡N + 4[H] → CH₃CH₂NH₂",
+   "conditions": "Na/C₂H₅OH অথবা LiAlH₄/ইথার",
+   "observations_bn": "বিজারণে অ্যামিন পাওয়া যায় এবং জৈব যৌগের কার্বন শিকল এক কার্বন লম্বা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নাইট্রাইল",
+    "Na ও ইথানল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-18",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 347,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "আয়োডো মিথেন ও AgCN থেকে আইসো-সায়ানাইড",
+   "reactants": [
+    {
+     "name_bn": "আয়োডো মিথেন",
+     "formula": "CH₃–I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সিলভার সায়ানাইড",
+     "formula": "AgCN",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল আইসো-সায়ানাইড",
+     "formula": "CH₃–N≡C",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সিলভার আয়োডাইড",
+     "formula": "AgI",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃–I + AgCN → CH₃–N≡C + AgI↓",
+   "conditions": "সমযোজী সিলভার সায়ানাইড ব্যবহার",
+   "observations_bn": "নাইট্রোজেন প্রান্ত আক্রমণ করায় আইসো-সায়ানাইড মূল উৎপাদ হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃I",
+    "AgCN"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-19",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 347,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উইলিয়ামসন ইথার সংশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমো ইথেন",
+     "formula": "CH₃CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ইথোক্সাইড",
+     "formula": "C₂H₅ONa",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইইথাইল ইথার",
+     "formula": "CH₃CH₂–O–C₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CH₂Br + C₂H₅ONa → CH₃CH₂OC₂H₅ + NaBr",
+   "conditions": "শুষ্ক ইথার, উত্তপ্ত",
+   "observations_bn": "অ্যালকক্সাইড আয়ন Br প্রতিস্থাপন করে ইথার গঠন করে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₂H₅Br",
+    "C₂H₅ONa",
+    "শুষ্ক ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-20",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 347,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সিলভার কার্বক্সিলেট থেকে এস্টার",
+   "reactants": [
+    {
+     "name_bn": "আয়োডো মিথেন",
+     "formula": "CH₃–I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সিলভার ইথানোয়েট",
+     "formula": "CH₃COOAg",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল ইথানোয়েট",
+     "formula": "CH₃COOCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সিলভার আয়োডাইড",
+     "formula": "AgI",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃–I + CH₃COOAg → CH₃COOCH₃ + AgI↓",
+   "conditions": "ইথানল দ্রাবক, উত্তপ্ত",
+   "observations_bn": "হ্যালোজেনের জায়গায় কার্বক্সিলেট মূলক বসে এস্টার হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃I",
+    "CH₃COOAg",
+    "ইথানল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-21",
+   "chapter_no": 6,
+   "section_no": "6.8.1",
+   "section_title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "book_page": 348,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যামোনিয়া দিয়ে প্রাইমারি অ্যামিন সংশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "আয়োডো মিথেন",
+     "formula": "CH₃–I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া (ইথানলীয়)",
+     "formula": "NH₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল অ্যামিন",
+     "formula": "CH₃–NH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন আয়োডাইড",
+     "formula": "HI",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃–I + NH₃ → CH₃–NH₂ + HI",
+   "conditions": "ইথানলে দ্রবীভূত NH₃, অধিক চাপ ও তাপ",
+   "observations_bn": "হ্যালাইডের আধিক্যে সেকেন্ডারি, টারসিয়ারি অ্যামিন ও কোয়াটারনারি লবণও হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃I",
+    "অ্যামোনিয়া",
+    "ইথানল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-22",
+   "chapter_no": 6,
+   "section_no": "6.8.2",
+   "section_title_bn": "নিউক্লিওফাইলের প্রভাবে হ্যালোজেনো অ্যালকেনের β-অপসারণ বিক্রিয়া",
+   "book_page": 348,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডিহাইড্রোহ্যালোজেনেশন (প্রোপিন)",
+   "reactants": [
+    {
+     "name_bn": "1-ব্রোমো প্রোপেন",
+     "formula": "CH₃CH₂CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালকোহলীয় KOH",
+     "formula": "KOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপিন",
+     "formula": "CH₃–CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂CH₂Br + KOH → CH₃CH=CH₂ + KBr + H₂O",
+   "conditions": "উত্তপ্ত, অ্যালকোহলীয় দ্রবণ",
+   "observations_bn": "β-কার্বন থেকে H এবং α-কার্বন থেকে Br বেরিয়ে দ্বিবন্ধন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "1-ব্রোমো প্রোপেন",
+    "alc. KOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-23",
+   "chapter_no": 6,
+   "section_no": "6.8.2",
+   "section_title_bn": "নিউক্লিওফাইলের প্রভাবে হ্যালোজেনো অ্যালকেনের β-অপসারণ বিক্রিয়া",
+   "book_page": 350,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "2-ব্রোমো বিউটেন থেকে সাইজেফ নিয়মে অপসারণ",
+   "reactants": [
+    {
+     "name_bn": "2-ব্রোমো বিউটেন",
+     "formula": "CH₃CH₂CHBrCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালকোহলীয় KOH",
+     "formula": "KOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2-বিউটিন (80%)",
+     "formula": "CH₃CH=CHCH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "1-বিউটিন (20%)",
+     "formula": "CH₃CH₂CH=CH₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂CHBrCH₃ + KOH → CH₃CH=CHCH₃ + KBr + H₂O (প্রধান); → CH₃CH₂CH=CH₂ + KBr + H₂O (অপ্রধান)",
+   "equation_printed": "2CH₃CH₂CHBrCH₃ + alc. KOH → 2-বিউটিন + 1-বিউটিন (–2HBr)",
+   "conditions": "উত্তপ্ত; alc. KOH (–2HBr)",
+   "observations_bn": "অধিক শাখান্বিত অ্যালকিন বেশি পরিমাণে পাওয়া যায় (প্রায় 80% : 20%)।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "2-ব্রোমো বিউটেন",
+    "alc. KOH"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-10-24",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 350,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রিগনার্ড বিকারক প্রস্তুতি (CH₃MgI)",
+   "reactants": [
+    {
+     "name_bn": "আয়োডো মিথেন",
+     "formula": "CH₃–I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথাইল ম্যাগনেসিয়াম আয়োডাইড",
+     "formula": "CH₃–MgI",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃–I + Mg → CH₃–MgI",
+   "conditions": "শুষ্ক ইথার",
+   "observations_bn": "শুষ্ক ইথারে বিক্রিয়া চলে; পানির উপস্থিতি এড়ানো জরুরি।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃I",
+    "Mg গুঁড়া",
+    "শুষ্ক ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-25",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 350,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যারাইল গ্রিগনার্ড বিকারক (C₆H₅MgCl)",
+   "reactants": [
+    {
+     "name_bn": "ফিনাইল ক্লোরাইড (ক্লোরো বেনজিন)",
+     "formula": "C₆H₅–Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম",
+     "formula": "Mg",
+     "state": "solid",
+     "form": "powder"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফিনাইল ম্যাগনেসিয়াম ক্লোরাইড",
+     "formula": "C₆H₅–MgCl",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅–Cl + Mg → C₆H₅–MgCl",
+   "conditions": "শুষ্ক ইথার",
+   "observations_bn": "অ্যারাইল হ্যালাইড থেকেও একইভাবে গ্রিগনার্ড বিকারক হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₆H₅Cl",
+    "Mg",
+    "শুষ্ক ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-26",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 350,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রিগনার্ড বিকারকের আর্দ্র বিশ্লেষণে হাইড্রোকার্বন",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল ম্যাগনেসিয়াম আয়োডাইড",
+     "formula": "C₂H₅MgI",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "C₂H₆",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সি আয়োডাইড",
+     "formula": "Mg(OH)I",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₂H₅MgI + H₂O → C₂H₆ + Mg(OH)I; C₆H₅MgCl + H₂O → C₆H₆ + Mg(OH)Cl",
+   "conditions": "পানির সংস্পর্শ",
+   "observations_bn": "পানির ছোঁয়ায় গ্রিগনার্ড বিকারক ভেঙে সংশ্লিষ্ট হাইড্রোকার্বন (ইথেন, বেনজিন) দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গ্রিগনার্ড বিকারক",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-27",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 350,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রিগনার্ড বিকারক ও মিথানাল থেকে ইথানল",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল ম্যাগনেসিয়াম আয়োডাইড",
+     "formula": "CH₃MgI",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথানাল",
+     "formula": "HCHO",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সি আয়োডাইড",
+     "formula": "Mg(OH)I",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃MgI + HCHO → CH₃CH₂OMgI; CH₃CH₂OMgI + H₂O → CH₃CH₂OH + Mg(OH)I",
+   "conditions": "যুত, পরে পানি ও তাপে আর্দ্র বিশ্লেষণ",
+   "observations_bn": "ফর্মালডিহাইড থেকে প্রাইমারি অ্যালকোহল পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃MgI",
+    "HCHO",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-28",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 350,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রিগনার্ড বিকারক ও ইথানাল থেকে 2-প্রোপানল",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল ম্যাগনেসিয়াম আয়োডাইড",
+     "formula": "CH₃MgI",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2-প্রোপানল",
+     "formula": "CH₃CH(OH)CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সি আয়োডাইড",
+     "formula": "Mg(OH)I",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃MgI + CH₃CHO → CH₃CH(CH₃)OMgI; CH₃CH(CH₃)OMgI + H₂O → CH₃CH(OH)CH₃ + Mg(OH)I",
+   "conditions": "যুত, পরে আর্দ্র বিশ্লেষণ",
+   "observations_bn": "মিথানাল ছাড়া অন্য অ্যালডিহাইড থেকে সেকেন্ডারি অ্যালকোহল হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃MgI",
+    "CH₃CHO",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-29",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 351,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রিগনার্ড বিকারক ও অ্যাসিটোন থেকে টারসিয়ারি অ্যালকোহল",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল ম্যাগনেসিয়াম আয়োডাইড",
+     "formula": "CH₃MgI",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "প্রোপানোন (অ্যাসিটোন)",
+     "formula": "CH₃COCH₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "2-মিথাইল প্রোপানল-2",
+     "formula": "(CH₃)₃C–OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সি আয়োডাইড",
+     "formula": "Mg(OH)I",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃MgI + CH₃COCH₃ → (CH₃)₃C–OMgI; (CH₃)₃C–OMgI + H₂O → (CH₃)₃C–OH + Mg(OH)I",
+   "conditions": "যুত, পরে আর্দ্র বিশ্লেষণ",
+   "observations_bn": "কিটোন থেকে টারসিয়ারি অ্যালকোহল পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃MgI",
+    "অ্যাসিটোন",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-30",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 351,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রিগনার্ড বিকারক ও অ্যাসিড ক্লোরাইড থেকে কিটোন",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল ম্যাগনেসিয়াম আয়োডাইড",
+     "formula": "CH₃MgI",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপানোন",
+     "formula": "CH₃COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম আয়োডো ক্লোরাইড",
+     "formula": "MgICl",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃MgI + CH₃COCl → CH₃COCH₃ + MgICl",
+   "conditions": "শুষ্ক ইথার",
+   "observations_bn": "অ্যাসিড ক্লোরাইডের Cl সরে গিয়ে কিটোন গঠিত হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃MgI",
+    "CH₃COCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-31",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 351,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গ্রিগনার্ড বিকারক ও CO₂ থেকে কার্বক্সিলিক অ্যাসিড",
+   "reactants": [
+    {
+     "name_bn": "মিথাইল ম্যাগনেসিয়াম আয়োডাইড",
+     "formula": "CH₃MgI",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাই অক্সাইড (শুষ্ক বরফ)",
+     "formula": "CO₂",
+     "state": "solid",
+     "form": "lump"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ম্যাগনেসিয়াম হাইড্রক্সি আয়োডাইড",
+     "formula": "Mg(OH)I",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃MgI + CO₂ → CH₃COOMgI; CH₃COOMgI + H₂O → CH₃COOH + Mg(OH)I",
+   "conditions": "যুত যৌগ লঘু HCl দিয়ে আর্দ্র বিশ্লেষণ",
+   "observations_bn": "শুষ্ক বরফের উপর গ্রিগনার্ড যুক্ত করলে যুত যৌগ হয়, তা ভেঙে অ্যাসিড মেলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃MgI",
+    "শুষ্ক বরফ",
+    "লঘু HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-32",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 351,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উর্জ বিক্রিয়া (ইথেন)",
+   "reactants": [
+    {
+     "name_bn": "আয়োডো মিথেন",
+     "formula": "CH₃–I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথেন",
+     "formula": "CH₃–CH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solid"
+    }
+   ],
+   "equation": "2CH₃–I + 2Na → CH₃–CH₃ + 2NaI",
+   "conditions": "শুষ্ক ইথার",
+   "observations_bn": "দুই অণু হ্যালাইডের অ্যালকাইল মূলক যুক্ত হয়ে দ্বিগুণ কার্বনের অ্যালকেন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CH₃I",
+    "Na",
+    "শুষ্ক ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-33",
+   "chapter_no": 6,
+   "section_no": "6.8.3",
+   "section_title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "book_page": 351,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "উর্জ বিক্রিয়া (n-বিউটেন)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরো ইথেন",
+     "formula": "CH₃CH₂–Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "n-বিউটেন",
+     "formula": "CH₃CH₂CH₂CH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "2CH₃CH₂–Cl + 2Na → CH₃CH₂CH₂CH₃ + 2NaCl",
+   "conditions": "শুষ্ক ইথার",
+   "observations_bn": "একই সূত্রের অ্যালকাইল হ্যালাইড থেকে সমমিত অ্যালকেন পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "C₂H₅Cl",
+    "Na",
+    "শুষ্ক ইথার"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-34",
+   "chapter_no": 6,
+   "section_no": "6.10",
+   "section_title_bn": "ক্লোরোফরম (CHCl₃)",
+   "book_page": 352,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "ইথানল ও ব্লিচিং পাউডার থেকে ক্লোরোফরম প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ব্লিচিং পাউডার",
+     "formula": "Ca(OCl)Cl",
+     "state": "solid",
+     "form": "powder"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম ফরমেট",
+     "formula": "(HCOO)₂Ca",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ca(OCl)Cl + H₂O → Cl₂ + Ca(OH)₂; CH₃CH₂OH + Cl₂ → CH₃CHO + 2HCl; CH₃CHO + 3Cl₂ → CCl₃CHO + 3HCl; 2CCl₃CHO + Ca(OH)₂ → 2CHCl₃ + (HCOO)₂Ca",
+   "conditions": "গোলতলী ফ্লাস্কে 62–65°C তাপে পাতন",
+   "observations_bn": "ব্লিচিং পাউডার ও পানি ক্লোরিন দেয়; তা ইথানলকে জারিত ও ক্লোরিনেটেড করে ক্লোরাল তৈরি করে, শেষে ক্ষারীয় বিশ্লেষণে ক্লোরোফরম হয়।",
+   "procedure_bn": [
+    "ফ্লাস্কে ব্লিচিং পাউডার ও পানির কাই বানিয়ে ইথানল মেশান",
+    "বালির গাহে 62–65°C তাপে উত্তপ্ত করুন",
+    "পাতিত ক্লোরোফরম (সাথে পানি) গ্রাহক পাত্রে জমান",
+    "লঘু NaOH দিয়ে ধুয়ে, CaCl₂ সহ পুনঃপাতন (62°C)"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানল",
+    "ব্লিচিং পাউডার",
+    "পানি",
+    "শীতক",
+    "গোলতলী ফ্লাস্ক"
+   ],
+   "safety_bn": "ক্লোরিন ও ক্লোরোফরম বাষ্প ক্ষতিকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-35",
+   "chapter_no": 6,
+   "section_no": "6.10",
+   "section_title_bn": "ক্লোরোফরম (CHCl₃)",
+   "book_page": 352,
+   "type": "card",
+   "kind": "activity",
+   "title_bn": "অ্যাসিটোন থেকে ক্লোরোফরম প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানোন",
+     "formula": "CH₃COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ব্লিচিং পাউডার (Cl₂ উৎস)",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্যালসিয়াম অ্যাসিটেট",
+     "formula": "(CH₃COO)₂Ca",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃COCH₃ + 3Cl₂ → CCl₃COCH₃ + 3HCl; 2CCl₃COCH₃ + Ca(OH)₂ → 2CHCl₃ + (CH₃COO)₂Ca",
+   "conditions": "ইথানলের মতোই ব্লিচিং পাউডার ও পানি সহ পাতন",
+   "observations_bn": "অ্যাসিটোন প্রথমে ট্রাইক্লোরো অ্যাসিটোন হয়, পরে ক্ষারে ভেঙে ক্লোরোফরম দেয়।",
+   "procedure_bn": [
+    "ইথানলের জায়গায় অ্যাসিটোন নিয়ে পূর্বের পাতন পদ্ধতি অনুসরণ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যাসিটোন",
+    "ব্লিচিং পাউডার",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-36",
+   "chapter_no": 6,
+   "section_no": "6.10.1",
+   "section_title_bn": "আয়োডোফরম (CHI₃)",
+   "book_page": 353,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "ইথানল থেকে আয়োডোফরম প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডোফরম",
+     "formula": "CHI₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ফরমেট",
+     "formula": "HCOONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OH + 4I₂ + 6NaOH → CHI₃↓ + HCOONa + 5NaI + 5H₂O",
+   "conditions": "প্রায় 50°C (ছাপা সমীকরণে 5°C লেখা, লেখায় 50°C)",
+   "observations_bn": "আয়োডিনের বাদামি রং চলে গিয়ে হলুদ আয়োডোফরম অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "প্রায় 50°C তাপে আয়োডিন দ্রবণে NaOH যোগ করুন",
+    "ইথানল দিয়ে ঝাঁকান যতক্ষণ বাদামি রং যায়",
+    "ঠান্ডা করে অধঃক্ষেপ পৃথক করুন, লঘু অ্যালকোহল থেকে পুনঃক্রিস্টালন (m.p. 119°C)"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ইথানল",
+    "আয়োডিন দ্রবণ",
+    "NaOH দ্রবণ",
+    "গোলতলী ফ্লাস্ক",
+    "পানির গাহ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-10-37",
+   "chapter_no": 6,
+   "section_no": "6.10.1",
+   "section_title_bn": "আয়োডোফরম (CHI₃)",
+   "book_page": 353,
+   "type": "bench",
+   "kind": "activity",
+   "title_bn": "অ্যাসিটোন থেকে আয়োডোফরম প্রস্তুতি",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানোন",
+     "formula": "CH₃COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "আয়োডিন",
+     "formula": "I₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আয়োডোফরম",
+     "formula": "CHI₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম আয়োডাইড",
+     "formula": "NaI",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COCH₃ + 3I₂ + 4NaOH → CHI₃↓ + CH₃COONa + 3NaI + 3H₂O",
+   "conditions": "প্রায় 50°C (ছাপা 5°C)",
+   "observations_bn": "রং বদলে হলুদ অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "উষ্ণ NaOH-আয়োডিন দ্রবণে অ্যাসিটোন দিন",
+    "বাদামি রং দূর হওয়া পর্যন্ত ঝাঁকান",
+    "ঠান্ডা করে অধঃক্ষেপ ছাঁকুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যাসিটোন",
+    "আয়োডিন",
+    "NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-10-38",
+   "chapter_no": 6,
+   "section_no": "6.11",
+   "section_title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "book_page": 353,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরোফরমের বায়ুতে জারণ (ফসজিন)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অক্সিজেন",
+     "formula": "O₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফসজিন",
+     "formula": "COCl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2CHCl₃ + O₂ → 2COCl₂ + 2HCl",
+   "conditions": "আলো ও বাতাসের উপস্থিতি",
+   "observations_bn": "আলোতে ক্লোরোফরম ধীরে জারিত হয়ে বিষাক্ত ফসজিন ও HCl দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরোফরম",
+    "বায়ু",
+    "আলো"
+   ],
+   "safety_bn": "ফসজিন প্রাণঘাতী বিষাক্ত গ্যাস।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-39",
+   "chapter_no": 6,
+   "section_no": "6.11",
+   "section_title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "book_page": 353,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ক্লোরোফরমের বিশুদ্ধতা পরীক্ষা (AgNO₃)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফরম (নমুনা)",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট দ্রবণ",
+     "formula": "AgNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    },
+    {
+     "name_bn": "নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "HCl + AgNO₃ → AgCl↓ + HNO₃",
+   "conditions": "কক্ষ তাপমাত্রা; জারণে উৎপন্ন HCl-ই বিক্রিয়ক",
+   "observations_bn": "নমুনায় HCl থাকলে সাদা AgCl অধঃক্ষেপ পড়ে, মানে ক্লোরোফরম অবিশুদ্ধ; বিশুদ্ধ হলে কোনো অধঃক্ষেপ নেই।",
+   "procedure_bn": [
+    "নমুনা ক্লোরোফরমে AgNO₃ দ্রবণ ঝাঁকিয়ে মেশান",
+    "অধঃক্ষেপ পড়ল কি না দেখুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরোফরম",
+    "AgNO₃ দ্রবণ",
+    "টেস্টটিউব"
+   ],
+   "safety_bn": "ক্লোরোফরম বাষ্প শ্বাসে নেবেন না।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-40",
+   "chapter_no": 6,
+   "section_no": "6.11",
+   "section_title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "book_page": 354,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফসজিন ও ইথানল (সংরক্ষণে নিরাপত্তা)",
+   "reactants": [
+    {
+     "name_bn": "ফসজিন",
+     "formula": "COCl₂",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইইথাইল কার্বনেট",
+     "formula": "(C₂H₅)₂CO₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "COCl₂ + 2C₂H₅OH → (C₂H₅)₂CO₃ + 2HCl",
+   "conditions": "ক্লোরোফরমে প্রায় 1% ইথানল মেশানো",
+   "observations_bn": "ইথানল ফসজিনকে অক্ষতিকর এস্টারে বদলে ক্লোরোফরম নিরাপদ রাখে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরোফরম",
+    "1% ইথানল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-41",
+   "chapter_no": 6,
+   "section_no": "6.11",
+   "section_title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "book_page": 354,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরোফরমের বিজারণে মিথেন",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জায়মান হাইড্রোজেন (Zn + পানি)",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "Zn + 2H₂O → Zn(OH)₂ + 2[H]; CHCl₃ + 6[H] → CH₄ + 3HCl",
+   "conditions": "উত্তপ্ত দস্তা চূর্ণ ও পানি",
+   "observations_bn": "দস্তা-পানি থেকে জায়মান হাইড্রোজেন ক্লোরোফরমকে মিথেনে নামায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরোফরম",
+    "দস্তা চূর্ণ",
+    "পানি"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-42",
+   "chapter_no": 6,
+   "section_no": "6.11",
+   "section_title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "book_page": 354,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরোফরমের বিজারণে মিথিলিন ক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "জায়মান হাইড্রোজেন (Zn/লঘু HCl)",
+     "formula": "[H]",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "মিথিলিন ক্লোরাইড",
+     "formula": "CH₂Cl₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CHCl₃ + 2[H] → CH₂Cl₂ + HCl",
+   "conditions": "অ্যালকোহলে মিশ্রিত CHCl₃, Zn ও লঘু HCl",
+   "observations_bn": "অ্যালকোহলীয় মাধ্যমে বিজারণ আংশিক হয়, ফলে CH₂Cl₂ পাওয়া যায়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরোফরম",
+    "Zn",
+    "লঘু HCl",
+    "অ্যালকোহল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-43",
+   "chapter_no": 6,
+   "section_no": "6.11",
+   "section_title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "book_page": 354,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরোফরমের ক্ষারীয় বিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালকোহলীয় NaOH",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ফরমেট",
+     "formula": "HCOONa",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CHCl₃ + 4NaOH → HCOONa + 3NaCl + 2H₂O",
+   "conditions": "উত্তপ্ত, অ্যালকোহলীয় ক্ষার",
+   "observations_bn": "প্রথমে ফরমিক অ্যাসিড হয়, তা NaOH-এর সাথে বিক্রিয়ায় ফরমেট দেয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CHCl₃",
+    "alc. NaOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-44",
+   "chapter_no": 6,
+   "section_no": "6.11",
+   "section_title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "book_page": 354,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরোফরমের নাইট্রেশন (ক্লোরোপিক্রিন)",
+   "reactants": [
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোপিক্রিন (নাইট্রো ক্লোরোফরম)",
+     "formula": "CCl₃NO₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CHCl₃ + HNO₃ → CCl₃NO₂ + H₂O",
+   "conditions": "গাঢ় HNO₃ সহ উত্তপ্ত",
+   "observations_bn": "H পরমাণু NO₂ মূলক দ্বারা প্রতিস্থাপিত হয়; উৎপাদ কাঁদুনে গ্যাস হিসেবে ব্যবহৃত।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্লোরোফরম",
+    "গাঢ় HNO₃"
+   ],
+   "safety_bn": "ক্লোরোপিক্রিন বিষাক্ত ও চোখে জ্বালাকর।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-45",
+   "chapter_no": 6,
+   "section_no": "6.11",
+   "section_title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "book_page": 354,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ক্লোরোফরম ও অ্যাসিটোনের ঘনীভবন (ক্লোরিটোন)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানোন",
+     "formula": "CH₃COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরিটোন",
+     "formula": "(CH₃)₂C(OH)CCl₃",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COCH₃ + CHCl₃ → (CH₃)₂C(OH)–CCl₃",
+   "conditions": "লঘু KOH বা NaOH",
+   "observations_bn": "ঘনীভবনে ক্লোরিটোন তৈরি হয়, যা চেতনানাশক ও ঘুমের ওষুধ হিসেবে চলে।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যাসিটোন",
+    "ক্লোরোফরম",
+    "লঘু KOH"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-46",
+   "chapter_no": 6,
+   "section_no": "6.12",
+   "section_title_bn": "ক্লোরোফরম শনাক্তকরণ : কার্বিল অ্যামিন বিক্রিয়া",
+   "book_page": 355,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "কার্বিল অ্যামিন পরীক্ষা (ক্লোরোফরম শনাক্তকরণ)",
+   "reactants": [
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরোফরম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অ্যালকোহলীয় KOH",
+     "formula": "KOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফিনাইল আইসোসায়ানাইড (কার্বিল অ্যামিন)",
+     "formula": "C₆H₅NC",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅NH₂ + CHCl₃ + 3KOH → C₆H₅NC + 3KCl + 3H₂O",
+   "conditions": "60–70°C তাপে উত্তপ্ত",
+   "observations_bn": "উগ্র দুর্গন্ধযুক্ত ফিনাইল আইসোসায়ানাইডের গন্ধ ক্লোরোফরমের উপস্থিতি জানায়।",
+   "procedure_bn": [
+    "অ্যানিলিন ও অ্যালকোহলীয় KOH মেশান",
+    "ক্লোরোফরমের নমুনা যোগ করুন",
+    "60–70°C-এ গরম করে গন্ধ লক্ষ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যানিলিন",
+    "alc. KOH",
+    "নমুনা ক্লোরোফরম",
+    "জলগাহ"
+   ],
+   "safety_bn": "উৎপন্ন গ্যাস বিষাক্ত ও উগ্র গন্ধযুক্ত; ফিউম কাবার্ডে করুন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-47",
+   "chapter_no": 6,
+   "section_no": "6.14",
+   "section_title_bn": "কার্বন টেট্রাক্লোরাইড বা পাইরিন CCl₄",
+   "book_page": 355,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "মিথেনের পূর্ণ ক্লোরিনেশনে CCl₄",
+   "reactants": [
+    {
+     "name_bn": "মিথেন",
+     "formula": "CH₄",
+     "state": "gas",
+     "form": "gas"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন টেট্রাক্লোরাইড",
+     "formula": "CCl₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₄ + 4Cl₂ → CCl₄ + 4HCl",
+   "conditions": "আলোর উপস্থিতি",
+   "observations_bn": "বাণিজ্যিকভাবে CCl₄ এভাবে তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "মিথেন",
+    "Cl₂",
+    "আলো"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-48",
+   "chapter_no": 6,
+   "section_no": "6.14",
+   "section_title_bn": "কার্বন টেট্রাক্লোরাইড বা পাইরিন CCl₄",
+   "book_page": 355,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "কার্বন ডাইসালফাইড থেকে CCl₄",
+   "reactants": [
+    {
+     "name_bn": "কার্বন ডাইসালফাইড",
+     "formula": "CS₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বন টেট্রাক্লোরাইড",
+     "formula": "CCl₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সালফার মনোক্লোরাইড",
+     "formula": "S₂Cl₂",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CS₂ + 3Cl₂ → CCl₄ + S₂Cl₂",
+   "conditions": "শুষ্ক AlCl₃ প্রভাবক",
+   "observations_bn": "আংশিক পাতনে CCl₄ (b.p. 77°C) ও S₂Cl₂ (b.p. 138°C) আলাদা করা হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CS₂",
+    "Cl₂",
+    "AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-49",
+   "chapter_no": 6,
+   "section_no": "6.15",
+   "section_title_bn": "ক্লোরো ফ্লোরো কার্বন [C.F.C] ও ফ্রিয়নস্",
+   "book_page": 356,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিয়ন-12 ও ফ্রিয়ন-11 প্রস্তুতি (CCl₄ + HF)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন টেট্রাক্লোরাইড",
+     "formula": "CCl₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফ্রিয়ন-12",
+     "formula": "CF₂Cl₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "ফ্রিয়ন-11",
+     "formula": "CFCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "2CCl₄ + 3HF → CF₂Cl₂ + CFCl₃ + 3HCl",
+   "conditions": "300°C; C + FeCl₂ প্রভাবক, উচ্চ চাপ",
+   "observations_bn": "ক্লোরিনের জায়গায় ধাপে ফ্লোরিন বসে ফ্রিয়ন তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CCl₄",
+    "HF",
+    "প্রভাবক"
+   ],
+   "safety_bn": "HF অত্যন্ত ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-50",
+   "chapter_no": 6,
+   "section_no": "6.15",
+   "section_title_bn": "ক্লোরো ফ্লোরো কার্বন [C.F.C] ও ফ্রিয়নস্",
+   "book_page": 356,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিয়ন-12 (SbCl₅ প্রভাবক)",
+   "reactants": [
+    {
+     "name_bn": "কার্বন টেট্রাক্লোরাইড",
+     "formula": "CCl₄",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ফ্লোরাইড",
+     "formula": "HF",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফ্রিয়ন-12",
+     "formula": "CCl₂F₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CCl₄ + 2HF → CCl₂F₂ + 2HCl",
+   "conditions": "SbCl₅ প্রভাবক",
+   "observations_bn": "SbCl₅-এর উপস্থিতিতে CCl₄-তে HF চালালে ফ্রিয়ন-12 হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "CCl₄",
+    "HF",
+    "SbCl₅"
+   ],
+   "safety_bn": "HF অত্যন্ত ক্ষয়কারী।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-51",
+   "chapter_no": 6,
+   "section_no": "6.20",
+   "section_title_bn": "হ্যালোজেনো অ্যারিন বা অ্যারাইল হ্যালাইড প্রস্তুতি",
+   "book_page": 359,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের ক্লোরিনেশন",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas",
+     "form": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরো বেনজিন",
+     "formula": "C₆H₅Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + Cl₂ → C₆H₅Cl + HCl",
+   "conditions": "শুষ্ক AlCl₃ (হ্যালোজেন বাহক), প্রায় 80°C",
+   "observations_bn": "লুইস অ্যাসিড ক্লোরিনকে সক্রিয় করে; ইলেকট্রোফিলিক প্রতিস্থাপনে ক্লোরো বেনজিন হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "Cl₂",
+    "শুষ্ক AlCl₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-10-52",
+   "chapter_no": 6,
+   "section_no": "6.20",
+   "section_title_bn": "হ্যালোজেনো অ্যারিন বা অ্যারাইল হ্যালাইড প্রস্তুতি",
+   "book_page": 359,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের ব্রোমিনেশন",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমো বেনজিন",
+     "formula": "C₆H₅Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + Br₂ → C₆H₅Br + HBr",
+   "conditions": "শুষ্ক FeBr₃, প্রায় 80°C",
+   "observations_bn": "FeBr₃ ব্রোমিনকে সক্রিয় করে; ব্রোমো বেনজিন ও HBr তৈরি হয়।",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [
+    "বেনজিন",
+    "Br₂",
+    "FeBr₃"
+   ],
+   "safety_bn": "ব্রোমিন ক্ষয়কারী ও বিষাক্ত।",
+   "confidence": "read"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 6,
+   "no": "6.2",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের শ্রেণীবিভাগ",
+   "start_page": 336
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.2.1",
+   "title_bn": "ডাইহ্যালোজেনো অ্যালকেনের শ্রেণীবিভাগ",
+   "start_page": 336
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.3",
+   "title_bn": "ইউপ্যাক পদ্ধতিতে নামকরণ",
+   "start_page": 337
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.4",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের সমাণুতা",
+   "start_page": 337
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.5",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "start_page": 338
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.5.1",
+   "title_bn": "পরীক্ষাগার পদ্ধতিতে CH₃I ও C₂H₅I প্রস্তুতি",
+   "start_page": 339
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.6",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের ভৌত ধর্ম",
+   "start_page": 341
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.7",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের বন্ধন প্রকৃতি",
+   "start_page": 341
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.8",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের রাসায়নিক বিক্রিয়া",
+   "start_page": 342
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.8.1",
+   "title_bn": "কেন্দ্রাকর্ষী বা নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া",
+   "start_page": 343
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.8.2",
+   "title_bn": "নিউক্লিওফাইলের প্রভাবে হ্যালোজেনো অ্যালকেনের β-অপসারণ বিক্রিয়া",
+   "start_page": 348
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.8.3",
+   "title_bn": "ধাতুর সাথে RX এর বিক্রিয়া",
+   "start_page": 350
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.9",
+   "title_bn": "পলিহ্যালোজেনো যৌগ",
+   "start_page": 351
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.10",
+   "title_bn": "ক্লোরোফরম (CHCl₃)",
+   "start_page": 352
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.10.1",
+   "title_bn": "আয়োডোফরম (CHI₃)",
+   "start_page": 353
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.11",
+   "title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "start_page": 353
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.12",
+   "title_bn": "ক্লোরোফরম শনাক্তকরণ : কার্বিল অ্যামিন বিক্রিয়া",
+   "start_page": 355
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.13",
+   "title_bn": "ক্লোরোফরমের ব্যবহার",
+   "start_page": 355
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.14",
+   "title_bn": "কার্বন টেট্রাক্লোরাইড বা পাইরিন CCl₄",
+   "start_page": 355
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.15",
+   "title_bn": "ক্লোরো ফ্লোরো কার্বন [C.F.C] ও ফ্রিয়নস্",
+   "start_page": 355
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.16",
+   "title_bn": "অ্যালকেনের হ্যালোজেন জাতকের ব্যবহার",
+   "start_page": 356
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.17",
+   "title_bn": "অ্যারোমেটিক হ্যালোজেন জাতকের ব্যবহার",
+   "start_page": 357
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.18",
+   "title_bn": "গ্রিন হাউস ও ক্লোরো ফ্লোরো কার্বন বা সি.এফ.সি (C.F.C)",
+   "start_page": 358
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.19",
+   "title_bn": "হ্যালোজেনো অ্যারিনের সংজ্ঞা",
+   "start_page": 359
+  },
+  {
+   "chapter_no": 6,
+   "no": "6.20",
+   "title_bn": "হ্যালোজেনো অ্যারিন বা অ্যারাইল হ্যালাইড প্রস্তুতি",
+   "start_page": 359
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "PDF 339-349 (printed 324-334) are only প্রশ্ন/MCQ pages of ch.5 (skipped); ch.6 (হ্যালোজেন জাতক) starts at printed 335 (pdf 350) with 6.1-6.4 before 6.5 (first reactions). Mechanism-only/theory, uses and the greenhouse section skipped. Printed ethyl-bromide/ether side reaction (CH₃CH₂Br + alc.KOH → ether + ethene) is an unbalanced combined scheme and was not recorded."
+}

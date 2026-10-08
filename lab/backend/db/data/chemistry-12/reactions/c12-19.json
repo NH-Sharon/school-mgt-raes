@@ -1,0 +1,2935 @@
+{
+ "book": "class12-guide",
+ "chunk_pdf_pages": [
+  663,
+  698
+ ],
+ "page_offset_note": "printed page = pdf page - 15 (pdf 663 = printed 648; model-question and board-paper pages from pdf 683 onward have their own numbering)",
+ "pages_read": 36,
+ "items": [
+  {
+   "id": "k12-19-01",
+   "chapter_no": 12,
+   "section_no": "12.22?",
+   "section_title_bn": "কার্যকরী মূলকের পরীক্ষা (শিরোনাম এই চাঙ্কের আগের পৃষ্ঠায়; সংখ্যা অমুদ্রিত)",
+   "book_page": 648,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যালডিহাইড/কিটোন শনাক্তে ২,৪-ডাইনাইট্রোফিনাইল হাইড্রাজিন (২,৪-DNP) পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "২,৪-DNP দ্রবণ",
+     "formula": "H₂N-NHC₆H₃(NO₂)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথান্যাল ২,৪-DNP-হাইড্রাজোন",
+     "formula": "CH₃CH=N-NHC₆H₃(NO₂)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "CH₃CHO + H₂N-NHC₆H₃(NO₂)₂ → CH₃CH=N-NHC₆H₃(NO₂)₂↓ + H₂O",
+   "conditions": "room temp (প্রয়োজনে হালকা গরম)",
+   "observations_bn": "কমলা-লাল বা হলুদ অধঃক্ষেপ পড়ে; অধঃক্ষেপ কার্বনাইল (অ্যালডিহাইড/কিটোন) নির্দেশ করে।",
+   "procedure_bn": [
+    "পরীক্ষা নলে ২-৩ mL ২,৪-DNP দ্রবণ নিন",
+    "১-২ ফোঁটা জৈব যৌগ দিয়ে ঝাঁকান",
+    "অধঃক্ষেপ দেরিতে এলে হালকা গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "২,৪-DNP দ্রবণ",
+    "জৈব যৌগ",
+    "পরীক্ষা নল"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-02",
+   "chapter_no": 12,
+   "section_no": "12.22?",
+   "section_title_bn": "কার্যকরী মূলকের পরীক্ষা (শিরোনাম এই চাঙ্কের আগের পৃষ্ঠায়; সংখ্যা অমুদ্রিত)",
+   "book_page": 648,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "প্রোপানোন (কিটোন) এর ২,৪-DNP পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানোন",
+     "formula": "(CH₃)₂CO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "২,৪-DNP দ্রবণ",
+     "formula": "H₂N-NHC₆H₃(NO₂)₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপানোন ২,৪-DNP-হাইড্রাজোন",
+     "formula": "(CH₃)₂C=N-NHC₆H₃(NO₂)₂",
+     "state": "solid"
+    }
+   ],
+   "equation": "(CH₃)₂CO + H₂N-NHC₆H₃(NO₂)₂ → (CH₃)₂C=N-NHC₆H₃(NO₂)₂↓ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "কমলা-লাল/হলুদ অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "২,৪-DNP দ্রবণে কিটোন যোগ করে ঝাঁকান"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "২,৪-DNP দ্রবণ",
+    "প্রোপানোন"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-03",
+   "chapter_no": 12,
+   "section_no": "12.22?",
+   "section_title_bn": "কার্যকরী মূলকের পরীক্ষা (শিরোনাম এই চাঙ্কের আগের পৃষ্ঠায়; সংখ্যা অমুদ্রিত)",
+   "book_page": 648,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "টলেন বিকারক পরীক্ষা (সিলভার দর্পণ)",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "টলেন বিকারক",
+     "formula": "Ag(NH₃)₂OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার",
+     "formula": "Ag",
+     "state": "solid"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ইথানোয়েট",
+     "formula": "CH₃COONH₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + 2Ag(NH₃)₂OH → 2Ag↓ + CH₃COONH₄ + 3NH₃↑ + H₂O",
+   "equation_printed": "CH₃CHO + 2Ag(NH₃)₂OH = 2Ag(s) + CH₃COONH₄ + 3NH₃ (H₂O অনুপস্থিত)",
+   "conditions": "warm 35–40 °C জলে",
+   "observations_bn": "টেস্টটিউবের গায়ে চকচকে রুপার আস্তর পড়ে।",
+   "procedure_bn": [
+    "পরিষ্কার নলে ২-৩ mL টলেন বিকারক নিন",
+    "২-৩ ফোঁটা জৈব যৌগ দিন",
+    "নলটি ৩৫-৪০ °C পানিতে রেখে অল্প গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "টলেন বিকারক",
+    "জৈব যৌগ",
+    "জলগাহ"
+   ],
+   "safety_bn": "মিশ্রণ সরাসরি শিখায় গরম করা বিপজ্জনক, বিস্ফোরণের ঝুঁকি।",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-04",
+   "chapter_no": 12,
+   "section_no": "12.22?",
+   "section_title_bn": "কার্যকরী মূলকের পরীক্ষা (শিরোনাম এই চাঙ্কের আগের পৃষ্ঠায়; সংখ্যা অমুদ্রিত)",
+   "book_page": 648,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ফেলিং দ্রবণ পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কপার(II) হাইড্রক্সাইড (ফেলিং দ্রবণ)",
+     "formula": "Cu(OH)₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কিউপ্রাস অক্সাইড",
+     "formula": "Cu₂O",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CHO + 2Cu(OH)₂ + NaOH → CH₃COONa + Cu₂O↓ + 3H₂O",
+   "equation_printed": "CH₃CHO + 2Cu(OH)₂ + NaOH = CH₃COONa + Cu₂O (H₂O অনুপস্থিত)",
+   "conditions": "warm (ফুটন্ত জলগাহ)",
+   "observations_bn": "নলের তলায় লাল-হলুদ Cu₂O অধঃক্ষেপ পড়ে; শুধু অ্যালিফেটিক অ্যালডিহাইড দেয়।",
+   "procedure_bn": [
+    "ফেলিং-ক ও ফেলিং-খ সমান আয়তনে মিশিয়ে ২-৩ mL নিন",
+    "কয়েক ফোঁটা জৈব যৌগ দিয়ে ঝাঁকান",
+    "ফুটন্ত পানিতে উত্তপ্ত করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ফেলিং-ক",
+    "ফেলিং-খ",
+    "জৈব যৌগ"
+   ],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-05",
+   "chapter_no": 12,
+   "section_no": "12.22?",
+   "section_title_bn": "কার্যকরী মূলকের পরীক্ষা (শিরোনাম এই চাঙ্কের আগের পৃষ্ঠায়; সংখ্যা অমুদ্রিত)",
+   "book_page": 648,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লিটমাস পরীক্ষা (কার্বক্সিলিক/ফেনলিক মূলকের প্রাথমিক পরীক্ষা)",
+   "reactants": [
+    {
+     "name_bn": "জৈব অ্যাসিডের জলীয় দ্রবণ",
+     "formula": "RCOOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নীল লিটমাস কাগজ",
+     "formula": "—",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [],
+   "equation": "RCOOH (aq) + নীল লিটমাস → লাল (কোনো রাসায়নিক সমীকরণ নেই)",
+   "conditions": "room temp",
+   "observations_bn": "নীল লিটমাস লাল হয়, অর্থাৎ দ্রবণ অম্লীয়।",
+   "procedure_bn": [
+    "জৈব যৌগের জলীয় দ্রবণে প্রথমে নীল, পরে লাল লিটমাস কাগজ ডুবান"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লিটমাস কাগজ",
+    "জলীয় দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইতে এই দ্রবণ দিয়েই NaHCO₃ ও FeCl₃ পরীক্ষা করতে বলা হয়েছে।"
+  },
+  {
+   "id": "k12-19-06",
+   "chapter_no": 12,
+   "section_no": "12.22?",
+   "section_title_bn": "কার্যকরী মূলকের পরীক্ষা (সংখ্যা অমুদ্রিত)",
+   "book_page": 649,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "NaHCO₃ দ্রবণ পরীক্ষা (-COOH মূলক)",
+   "reactants": [
+    {
+     "name_bn": "বেনজোয়িক অ্যাসিড (উদাহরণ)",
+     "formula": "C₆H₅COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম বাইকার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম বেনজোয়েট",
+     "formula": "C₆H₅COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅COOH + NaHCO₃ → C₆H₅COONa + H₂O + CO₂↑",
+   "conditions": "room temp",
+   "observations_bn": "বুদবুদসহ CO₂ বের হয়; ফেনল হলে বুদবুদ হয় না।",
+   "procedure_bn": [
+    "NaHCO₃ এর সম্পৃক্ত দ্রবণ নিন",
+    "অল্প অল্প করে জৈব যৌগের দ্রবণ দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সম্পৃক্ত NaHCO₃",
+    "জৈব যৌগের দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-07",
+   "chapter_no": 12,
+   "section_no": "12.22?",
+   "section_title_bn": "কার্যকরী মূলকের পরীক্ষা (সংখ্যা অমুদ্রিত)",
+   "book_page": 649,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নিরপেক্ষ FeCl₃ দ্রবণ পরীক্ষা (-COOH ও ফেনলিক -OH)",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেরিক ক্লোরাইড",
+     "formula": "FeCl₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফেরিক ফিনক্সাইড",
+     "formula": "(C₆H₅O)₃Fe",
+     "state": "solid"
+    }
+   ],
+   "equation": "3C₆H₅OH + FeCl₃ → 3HCl + (C₆H₅O)₃Fe",
+   "conditions": "room temp",
+   "observations_bn": "ফেনলে বেগুনি/নীল/সবুজ রং আসে; কার্বক্সিলিক অ্যাসিডে লাল রং বা অধঃক্ষেপ (ফেরিক কার্বক্সিলেট) হয়।",
+   "procedure_bn": [
+    "জৈব যৌগের জলীয় দ্রবণ নিন",
+    "১-২ ফোঁটা নিরপেক্ষ FeCl₃ দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "নিরপেক্ষ FeCl₃",
+    "জৈব যৌগের দ্রবণ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "কার্বক্সিলিক অ্যাসিডে বইয়ের সমীকরণ: 3CH₃COOH + FeCl₃ → 3HCl + (CH₃COO)₃Fe (লাল)।"
+  },
+  {
+   "id": "k12-19-08",
+   "chapter_no": 12,
+   "section_no": "12.22?",
+   "section_title_bn": "কার্যকরী মূলকের পরীক্ষা (সংখ্যা অমুদ্রিত)",
+   "book_page": 649,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "লিবারম্যান নাইট্রোসো পরীক্ষা (ফেনল)",
+   "reactants": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম নাইট্রাইট",
+     "formula": "NaNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "গাঢ় সালফিউরিক অ্যাসিড",
+     "formula": "H₂SO₄",
+     "state": "liquid"
+    }
+   ],
+   "products": [],
+   "equation": "ফেনল + NaNO₂ + গাঢ় H₂SO₄ → রঙিন যৌগ (বই সমীকরণ দেয়নি)",
+   "conditions": "room temp, তারপর NaOH দিয়ে ক্ষারীয়",
+   "observations_bn": "মিশ্রণ গাঢ় লাল হয়; পানিতে লাল ও ক্ষারে সবুজ-নীল রং আসে।",
+   "procedure_bn": [
+    "শুষ্ক নলে ১ mL গাঢ় H₂SO₄ ও এক দানা NaNO₂ নিন",
+    "২-৩ ফোঁটা জৈব যৌগ দিন",
+    "মিশ্রণ পানিতে ঢেলে পরে গাঢ় NaOH দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গাঢ় H₂SO₄",
+    "NaNO₂",
+    "NaOH"
+   ],
+   "safety_bn": "গাঢ় অ্যাসিড সাবধানে ব্যবহার করুন।",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-09",
+   "chapter_no": 12,
+   "section_no": "12.23",
+   "section_title_bn": "নাইট্রোজেন সংবলিত কার্যকরী মূলকসমূহের পরীক্ষা",
+   "book_page": 649,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "কার্বিল অ্যামিন পরীক্ষা (১° অ্যামিন)",
+   "reactants": [
+    {
+     "name_bn": "১° অ্যামিন",
+     "formula": "R-NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্লোরোফর্ম",
+     "formula": "CHCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড (অ্যালকোহলীয়)",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "আইসোসায়ানাইড",
+     "formula": "R-NC",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R-NH₂ + CHCl₃ + 3NaOH → R-NC + 3NaCl + 3H₂O",
+   "equation_printed": "R-NH₂ + 2NaOH + CHCl₃ = R-NC + 2NaCl + 3H₂O",
+   "conditions": "warm",
+   "observations_bn": "তীব্র দুর্গন্ধযুক্ত আইসোসায়ানাইড তৈরি হয়।",
+   "procedure_bn": [
+    "২-৩ mL অ্যালকোহলীয় NaOH নিন",
+    "২-৩ ফোঁটা জৈব যৌগ ও ৪-৫ ফোঁটা CHCl₃ দিন",
+    "গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "অ্যালকোহলীয় NaOH",
+    "CHCl₃"
+   ],
+   "safety_bn": "ফিউম হুডে করুন; দুর্গন্ধ বিষাক্ত, নল পরে সঙ্গে সঙ্গে পরিষ্কার করুন।",
+   "confidence": "partly-legible",
+   "notes": "অ্যারোমেটিক অ্যামিনের জন্য বইয়ে: Ar-NH₂ + 3NaOH + CHCl₃ → ArNC + 2NaCl + 3H₂O (এটিও অসমতাপূর্ণ; সঠিক: ... + 3NaCl)।"
+  },
+  {
+   "id": "k12-19-10",
+   "chapter_no": 12,
+   "section_no": "12.23",
+   "section_title_bn": "নাইট্রোজেন সংবলিত কার্যকরী মূলকসমূহের পরীক্ষা",
+   "book_page": 650,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যাজো-রঞ্জক পরীক্ষা (১° অ্যারোমেটিক অ্যামিন)",
+   "reactants": [
+    {
+     "name_bn": "অ্যানিলিন হাইড্রোক্লোরাইড",
+     "formula": "C₆H₅NH₂·HCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস অ্যাসিড (NaNO₂+HCl)",
+     "formula": "HNO₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "β-ন্যাফথল (ক্ষারীয়)",
+     "formula": "C₁₀H₇OH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+     "formula": "C₆H₅N₂Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যাজো রঞ্জক",
+     "formula": "C₆H₅N=N-C₁₀H₆OH",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₅NH₂·HCl + HNO₂ → C₆H₅N₂Cl + 2H₂O ; C₆H₅N₂Cl + C₁₀H₇OH → HCl + C₆H₅N=N-C₁₀H₆OH",
+   "conditions": "০–৫ °C (বরফ ঠান্ডা)",
+   "observations_bn": "লাল রঞ্জক পড়ে। ১° অ্যারোমেটিক অ্যামিনে N₂ বুদবুদ/তৈলাক্ত স্তর নেই, ঠান্ডায় রং আসে; ২° অ্যামিনে তৈলাক্ত নাইট্রোসামিন, ৩° অ্যারোমেটিকে বাদামি-হলুদ অধঃক্ষেপ।",
+   "procedure_bn": [
+    "২-৪ ফোঁটা জৈব যৌগ ২-৩ mL গাঢ় HCl ও পানিতে নিন",
+    "NaNO₂ দ্রবণ দিয়ে বরফে ঠান্ডা করুন",
+    "ক্ষারীয় β-ন্যাফথল যোগ করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "HCl",
+    "NaNO₂",
+    "β-ন্যাফথল",
+    "বরফ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "২° অ্যামিন: R₂NH·HCl + HNO₂ → R₂N-NO + HCl + H₂O (বইয়ে ছাপা)।"
+  },
+  {
+   "id": "k12-19-11",
+   "chapter_no": 12,
+   "section_no": "12.23",
+   "section_title_bn": "নাইট্রোজেন সংবলিত কার্যকরী মূলকসমূহের পরীক্ষা",
+   "book_page": 650,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "নাইট্রো (-NO₂) মূলকের পরীক্ষা: Sn/HCl বিজারণ ও অ্যাজো রঙ",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোবেনজিন",
+     "formula": "C₆H₅NO₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "টিন ও গাঢ় HCl",
+     "formula": "Sn/HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅NO₂ + 6[H] → C₆H₅NH₂ + 2H₂O",
+   "conditions": "warm; এরপর NaNO₂, NaOH, β-ন্যাফথল",
+   "observations_bn": "বিজারণের পর ডায়াজোকরণ ও β-ন্যাফথল যোগ করলে গাঢ় লাল বা কমলা-লাল রঞ্জক আসে।",
+   "procedure_bn": [
+    "২ mL গাঢ় HCl ও ৩ ফোঁটা জৈব যৌগে জিংক/টিন গুঁড়া দিন",
+    "ফুটিয়ে তেলের স্তর সরিয়ে বরফ-ঠান্ডা করুন",
+    "NaNO₂ ও NaOH-এ গোলা β-ন্যাফথল মেশান"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Sn বা Zn গুঁড়া",
+    "গাঢ় HCl",
+    "NaNO₂",
+    "β-ন্যাফথল"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "বইতে শুধু -NH₂ অনুপস্থিত থাকলে এই পরীক্ষা করতে বলা হয়েছে।"
+  },
+  {
+   "id": "k12-19-12",
+   "chapter_no": 12,
+   "section_no": "12.24",
+   "section_title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "book_page": 651,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যালকিনে ব্রোমিন দ্রবণ (CCl₄) পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকিন",
+     "formula": "RCH=CHR",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন দ্রবণ (CCl₄)",
+     "formula": "Br₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইব্রোমো অ্যালকেন",
+     "formula": "RCHBr-CHBrR",
+     "state": "liquid"
+    }
+   ],
+   "equation": "RCH=CHR + Br₂ → RCHBr-CHBrR",
+   "conditions": "room temp",
+   "observations_bn": "ব্রোমিনের লালচে-বাদামি রং দূর হয়।",
+   "procedure_bn": [
+    "জৈব যৌগে ব্রোমিন-CCl₄ দ্রবণ ফোঁটা ফোঁটা দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Br₂ in CCl₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সমীকরণ পরিশিষ্ট-১ (পৃ.৬৬২) থেকে; পৃ.৬৫১-এর সারণিতে শুধু বিকারক ও পর্যবেক্ষণ আছে।"
+  },
+  {
+   "id": "k12-19-13",
+   "chapter_no": 12,
+   "section_no": "12.24",
+   "section_title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "book_page": 651,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ক্ষারীয় KMnO₄ (বেয়ার) পরীক্ষা: অসম্পৃক্ততা",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকিন",
+     "formula": "RCH=CHR",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ক্ষারীয় KMnO₄ (শীতল)",
+     "formula": "KMnO₄",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ডাইঅল",
+     "formula": "RCH(OH)-CH(OH)R",
+     "state": "liquid"
+    }
+   ],
+   "equation": "RCH=CHR + [O] + H₂O → RCH(OH)-CH(OH)R",
+   "conditions": "শীতল, ক্ষারীয়",
+   "observations_bn": "KMnO₄ এর বেগুনি রং দূর হয়।",
+   "procedure_bn": [
+    "শীতল দ্রবণে কয়েক ফোঁটা KMnO₄ যোগ করে ঝাঁকান"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "ক্ষারীয় KMnO₄"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "সমীকরণ পৃ.৬৬২ থেকে।"
+  },
+  {
+   "id": "k12-19-14",
+   "chapter_no": 12,
+   "section_no": "12.24",
+   "section_title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "book_page": 651,
+   "type": "card",
+   "kind": "test",
+   "title_bn": "টার্মিনাল অ্যালকাইনে অ্যামোনিয়াকাল AgNO₃ পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ইথাইন (১-অ্যালকাইনের উদাহরণ)",
+     "formula": "HC≡CH",
+     "state": "gas"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াকাল AgNO₃",
+     "formula": "[Ag(NH₃)₂]⁺",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার অ্যাসিটিলাইড",
+     "formula": "AgC≡CAg",
+     "state": "solid"
+    }
+   ],
+   "equation": "HC≡CH + 2[Ag(NH₃)₂]⁺ → AgC≡CAg↓ + 2NH₄⁺ + 2NH₃",
+   "conditions": "room temp",
+   "observations_bn": "সিলভার অ্যালকাইনাইডের সাদা অধঃক্ষেপ পড়ে (Cu₂Cl₂ হলে লাল)।",
+   "procedure_bn": [
+    "অ্যামোনিয়াকাল AgNO₃ দ্রবণে গ্যাস/জৈব যৌগ চালনা করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "AgNO₃",
+    "NH₄OH"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ে শুধু বিকারক ও পর্যবেক্ষণ আছে; সমীকরণ নিজে পূর্ণ করা হয়েছে। গ্যাসীয় বিকারক বলে কার্ড-ঘেঁষা, তবে সাদা ফোঁটা পরীক্ষা বেঞ্চে সম্ভব।"
+  },
+  {
+   "id": "k12-19-15",
+   "chapter_no": 12,
+   "section_no": "12.24",
+   "section_title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "book_page": 652,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যালকোহলে সোডিয়াম ধাতু পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম",
+     "formula": "Na",
+     "state": "solid",
+     "form": "piece"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথক্সাইড",
+     "formula": "C₂H₅ONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "equation": "2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑",
+   "equation_printed": "2C₂H₅OH + 2Na → C₂H₅ONa + H₂",
+   "conditions": "room temp (শুষ্ক অবস্থায়)",
+   "observations_bn": "H₂ গ্যাস বের হয়, যা আগুনে নীল শিখায় জ্বলে।",
+   "procedure_bn": [
+    "শুষ্ক অ্যালকোহলে ছোট সোডিয়াম টুকরা ফেলুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "সোডিয়াম",
+    "শুষ্ক জৈব যৌগ (CaCl₂ দিয়ে শুকানো)"
+   ],
+   "safety_bn": "Na পানির সংস্পর্শে বিস্ফোরক প্রতিক্রিয়া দেয়; অল্প পরিমাণে নিন।",
+   "confidence": "partly-legible",
+   "notes": "পৃ.৬৫২ (উদাহরণ ১) এ ছাপা সমীকরণ থেকে।"
+  },
+  {
+   "id": "k12-19-16",
+   "chapter_no": 12,
+   "section_no": "12.24",
+   "section_title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "book_page": 651,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যালকোহলে PCl₅ পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "R-OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকাইল ক্লোরাইড",
+     "formula": "R-Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "ROH + PCl₅ → RCl + POCl₃ + HCl↑",
+   "conditions": "room temp",
+   "observations_bn": "HCl ধোঁয়া বের হয়; NH₄OH ধরলে NH₄Cl এর সাদা ধোঁয়া হয়।",
+   "procedure_bn": [
+    "শুষ্ক নলে অ্যালকোহলে অল্প PCl₅ দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "PCl₅",
+    "NH₄OH-এ ভেজা দণ্ড"
+   ],
+   "safety_bn": "PCl₅ ক্ষয়কারী; শুষ্ক নলে ফিউম হুডে করুন।",
+   "confidence": "inferred",
+   "notes": "বইয়ে শুধু বিকারক ও পর্যবেক্ষণ আছে।"
+  },
+  {
+   "id": "k12-19-17",
+   "chapter_no": 12,
+   "section_no": "12.24",
+   "section_title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "book_page": 651,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "হ্যালো অ্যালকেনে সোডিয়াম ফিউশন দ্রবণ + AgNO₃",
+   "reactants": [
+    {
+     "name_bn": "হ্যালাইড আয়ন (ফিউশন দ্রবণে)",
+     "formula": "X⁻",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সিলভার হ্যালাইড",
+     "formula": "AgX",
+     "state": "solid"
+    }
+   ],
+   "equation": "Ag⁺ + X⁻ → AgX↓",
+   "conditions": "room temp (ফিউশনের পর)",
+   "observations_bn": "AgX এর অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "Na দিয়ে ফিউশন করা নির্যাস নিন",
+    "HNO₃ দিয়ে অম্লীয় করে AgNO₃ দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "Na",
+    "AgNO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "ফিউশন ধাপ >100°C বলে ধাপ পুরোটা বেঞ্চ নয়, তবে শেষ ধাপ বেঞ্চ।"
+  },
+  {
+   "id": "k12-19-18",
+   "chapter_no": 12,
+   "section_no": "12.24",
+   "section_title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "book_page": 651,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যাসিড ক্লোরাইডে পানি ও AgNO₃ পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিড ক্লোরাইড",
+     "formula": "RCOCl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সিলভার নাইট্রেট",
+     "formula": "AgNO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কার্বক্সিলিক অ্যাসিড",
+     "formula": "RCOOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সিলভার ক্লোরাইড",
+     "formula": "AgCl",
+     "state": "solid"
+    }
+   ],
+   "equation": "RCOCl + H₂O → RCOOH + HCl ; HCl + AgNO₃ → AgCl↓ + HNO₃",
+   "conditions": "room temp",
+   "observations_bn": "নীল লিটমাস লাল হয় এবং AgNO₃ যোগে AgCl এর সাদা অধঃক্ষেপ পড়ে।",
+   "procedure_bn": [
+    "জৈব যৌগে পানি দিন",
+    "লিটমাস ও পরে AgNO₃ দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "লিটমাস",
+    "AgNO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ে শুধু বিকারক ও পর্যবেক্ষণ আছে।"
+  },
+  {
+   "id": "k12-19-19",
+   "chapter_no": 12,
+   "section_no": "12.24",
+   "section_title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "book_page": 651,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "অ্যাসিড অ্যামাইডে NaOH ও NaNO₂+HCl পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "অ্যাসিড অ্যামাইড",
+     "formula": "RCONH₂",
+     "state": "solid"
+    },
+    {
+     "name_bn": "20% সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম কার্বক্সিলেট",
+     "formula": "RCOONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "equation": "RCONH₂ + NaOH → RCOONa + NH₃↑",
+   "conditions": "গরম",
+   "observations_bn": "অ্যামোনিয়ার গন্ধ আসে; NaNO₂+HCl এ N₂ এর বুদবুদ হয়।",
+   "procedure_bn": [
+    "অ্যামাইডে ২০% NaOH দিয়ে গরম করুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "NaOH",
+    "NaNO₂",
+    "HCl"
+   ],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ে শুধু বিকারক ও পর্যবেক্ষণ আছে।"
+  },
+  {
+   "id": "k12-19-20",
+   "chapter_no": 12,
+   "section_no": "12.25",
+   "section_title_bn": "কার্যকরী মূলকভিত্তিক সমস্যা ও সমাধান",
+   "book_page": 652,
+   "type": "bench",
+   "kind": "reaction",
+   "title_bn": "ইথানল ও ইথানোয়িক অ্যাসিড থেকে ইথাইল ইথানোয়েট (এস্টারিফিকেশন)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "C₂H₅OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল ইথানোয়েট",
+     "formula": "CH₃COOC₂H₅",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₂H₅OH + CH₃COOH ⇌ CH₃COOC₂H₅ + H₂O",
+   "equation_printed": "C₂H₅OH(l) + CH₃COOH(l) → CH₃COOC₂H₅(l) + H₂O(l) (একমুখী তীরে)",
+   "conditions": "গাঢ় H₂SO₄ অনুঘটক, গরম",
+   "observations_bn": "ফলের মতো মিষ্টি সুগন্ধ বের হয়।",
+   "procedure_bn": [
+    "অ্যালকোহল ও অ্যাসিড মিশিয়ে কয়েক ফোঁটা গাঢ় H₂SO₄ দিন",
+    "জলগাহে গরম করে গন্ধ দেখুন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "গাঢ় H₂SO₄",
+    "জলগাহ"
+   ],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "এটি -OH শনাক্তকরণের দ্বিতীয় পরীক্ষা (গ্লেসিয়াল অ্যাসেটিক অ্যাসিড)।"
+  },
+  {
+   "id": "k12-19-21",
+   "chapter_no": 12,
+   "section_no": "12.25",
+   "section_title_bn": "কার্যকরী মূলকভিত্তিক সমস্যা ও সমাধান",
+   "book_page": 652,
+   "type": "bench",
+   "kind": "test",
+   "title_bn": "ইথানোয়িক অ্যাসিডে NaHCO₃ পরীক্ষা",
+   "reactants": [
+    {
+     "name_bn": "ইথানোয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম বাইকার্বনেট",
+     "formula": "NaHCO₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম ইথানোয়েট",
+     "formula": "CH₃COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "কার্বন ডাইঅক্সাইড",
+     "formula": "CO₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃COOH + NaHCO₃ → CH₃COONa + CO₂↑ + H₂O",
+   "conditions": "room temp",
+   "observations_bn": "বুদবুদসহ CO₂ বের হয়।",
+   "procedure_bn": [
+    "5% NaHCO₃ দ্রবণে অ্যাসিড দিন"
+   ],
+   "quantities_bn": "",
+   "materials_bn": [
+    "5% NaHCO₃"
+   ],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-22",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 662,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "K₂Cr₂O₇/H⁺ দ্বারা ১° অ্যালকোহলের জারণ",
+   "reactants": [
+    {
+     "name_bn": "১° অ্যালকোহল",
+     "formula": "RCH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালডিহাইড",
+     "formula": "RCHO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "RCH₂OH + [O] → RCHO + H₂O",
+   "conditions": "K₂Cr₂O₇, অম্লীয় মাধ্যম, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-23",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 662,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "K₂Cr₂O₇/H⁺ দ্বারা ২° অ্যালকোহলের জারণ",
+   "reactants": [
+    {
+     "name_bn": "২° অ্যালকোহল",
+     "formula": "R₂CHOH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "কিটোন",
+     "formula": "R₂CO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "R₂CHOH + [O] → R₂CO + H₂O",
+   "conditions": "K₂Cr₂O₇, অম্লীয় মাধ্যম",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-24",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 662,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অম্লীয় KMnO₄ দ্বারা টলুইনের জারণ",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজোয়িক অ্যাসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + 3[O] → C₆H₅COOH + H₂O",
+   "conditions": "KMnO₄/H⁺, তাপ (রিফ্লাক্স)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-25",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 662,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালকিনের ওজোনোলাইসিস",
+   "reactants": [
+    {
+     "name_bn": "১-অ্যালকিন",
+     "formula": "RCH=CH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ওজোন",
+     "formula": "O₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালডিহাইড",
+     "formula": "RCHO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "মিথান্যাল",
+     "formula": "HCHO",
+     "state": "solution"
+    },
+    {
+     "name_bn": "জিংক অক্সাইড",
+     "formula": "ZnO",
+     "state": "solid"
+    }
+   ],
+   "equation": "RCH=CH₂ + O₃ + Zn → RCHO + HCHO + ZnO",
+   "equation_printed": "RCH=CH₂ →(O₃; Zn, H₂O) RCHO + HCHO",
+   "conditions": "O₃, তারপর Zn/H₂O",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "বইয়ে স্কিম আকারে; Zn-এর O নেওয়ার অংশ নিজে মিলিয়ে ZnO ধরা হয়েছে।"
+  },
+  {
+   "id": "k12-19-26",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 662,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "MnO₂ দ্বারা টলুইনের মৃদু জারণ",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজ্যালডিহাইড",
+     "formula": "C₆H₅CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + [O] → C₆H₅CHO + H₂O",
+   "conditions": "MnO₂ বা CrO₂Cl₂, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-27",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "LiAlH₄ দ্বারা কার্বক্সিলিক অ্যাসিডের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "কার্বক্সিলিক অ্যাসিড",
+     "formula": "RCOOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "১° অ্যালকোহল",
+     "formula": "RCH₂OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "RCOOH + 4[H] → RCH₂OH + H₂O",
+   "equation_printed": "RCOOH + [H] → RCH₂OH",
+   "conditions": "LiAlH₄ (ইথার)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-28",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "LiAlH₄ দ্বারা অ্যামাইডের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যামাইড",
+     "formula": "RCONH₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "১° অ্যামিন",
+     "formula": "RCH₂NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "RCONH₂ + 4[H] → RCH₂NH₂ + H₂O",
+   "equation_printed": "RCONH₂ + [H] → RCH₂NH₂",
+   "conditions": "LiAlH₄ (ইথার)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-29",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "LiAlH₄ দ্বারা নাইট্রাইলের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রাইল",
+     "formula": "R-CN",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "১° অ্যামিন",
+     "formula": "RCH₂NH₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "RCN + 4[H] → RCH₂NH₂",
+   "equation_printed": "R-CN + [H] → RCH₂NH₂",
+   "conditions": "LiAlH₄ (ইথার)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-30",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaBH₄ দ্বারা অ্যালডিহাইডের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যালডিহাইড",
+     "formula": "RCHO",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "১° অ্যালকোহল",
+     "formula": "RCH₂OH",
+     "state": "solution"
+    }
+   ],
+   "equation": "RCHO + 2[H] → RCH₂OH",
+   "equation_printed": "RCHO + [H] → RCH₂OH",
+   "conditions": "NaBH₄ (ইথার)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-31",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "NaBH₄ দ্বারা কিটোনের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "কিটোন",
+     "formula": "RCOR",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "২° অ্যালকোহল",
+     "formula": "R₂CHOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "RCOR + 2[H] → R₂CHOH",
+   "equation_printed": "RCOR + [H] → R₂CHOH",
+   "conditions": "NaBH₄ (ইথার)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-32",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Ni অনুঘটকে অ্যালকাইনের হাইড্রোজেনেশন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকাইন",
+     "formula": "-C≡C-",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকেন",
+     "formula": "-CH₂-CH₂-",
+     "state": "solution"
+    }
+   ],
+   "equation": "-C≡C- + 2H₂ → -CH₂-CH₂-",
+   "conditions": "Ni, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-33",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "তেলের হাইড্রোজেনেশন (চর্বি তৈরি)",
+   "reactants": [
+    {
+     "name_bn": "উদ্ভিজ্জ তেল",
+     "formula": "তেল (C=C যুক্ত)",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন",
+     "formula": "H₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "চর্বি (সম্পৃক্ত)",
+     "formula": "চর্বি",
+     "state": "solid"
+    }
+   ],
+   "equation": "তেল + H₂ → চর্বি (>C=C< + H₂ → -CH₂-CH₂-)",
+   "conditions": "Ni, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible",
+   "notes": "বইয়ে তেল/চর্বির সাধারণ সংকেত নেই; কেবল স্কিম।"
+  },
+  {
+   "id": "k12-19-34",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "Fe/HCl দ্বারা নাইট্রোবেনজিনের বিজারণ",
+   "reactants": [
+    {
+     "name_bn": "নাইট্রোবেনজিন",
+     "formula": "C₆H₅NO₂",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅NO₂ + 6[H] → C₆H₅NH₂ + 2H₂O",
+   "equation_printed": "C₆H₅NO₂ + [H] → C₆H₅NH₂",
+   "conditions": "Fe/HCl (বা Sn/HCl)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-35",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ দ্বারা অ্যামাইডের নিরুদন",
+   "reactants": [
+    {
+     "name_bn": "অ্যামাইড",
+     "formula": "RCONH₂",
+     "state": "solid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রাইল",
+     "formula": "R-CN",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "RCONH₂ → R-C≡N + H₂O",
+   "conditions": "P₂O₅, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-36",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "P₂O₅ দ্বারা কার্বক্সিলিক অ্যাসিডের নিরুদন (অ্যানহাইড্রাইড)",
+   "reactants": [
+    {
+     "name_bn": "কার্বক্সিলিক অ্যাসিড",
+     "formula": "RCOOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যানহাইড্রাইড",
+     "formula": "(RCO)₂O",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "2RCOOH → (RCO)₂O + H₂O",
+   "equation_printed": "RCOOH → (RCO)₂O + H₂O",
+   "conditions": "P₂O₅",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-37",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-১",
+   "section_title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "book_page": 663,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "গাঢ় H₂SO₄ দ্বারা অ্যালকোহলের নিরুদন",
+   "reactants": [
+    {
+     "name_bn": "অ্যালকোহল",
+     "formula": "RCH₂CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যালকিন",
+     "formula": "RCH=CH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "RCH₂CH₂OH → RCH=CH₂ + H₂O",
+   "equation_printed": "RCH₂-OH → RCH=CH₂ + H₂O",
+   "conditions": "গাঢ় H₂SO₄, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-38",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৩",
+   "section_title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "book_page": 664,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানল থেকে ইথাইল আয়োডাইড",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস ট্রাইআয়োডাইড",
+     "formula": "PI₃",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল আয়োডাইড",
+     "formula": "CH₃CH₂I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ফসফরাস অ্যাসিড",
+     "formula": "H₃PO₃",
+     "state": "solution"
+    }
+   ],
+   "equation": "3CH₃CH₂OH + PI₃ → 3CH₃CH₂I + H₃PO₃",
+   "conditions": "লাল P ও I₂ (বা PI₃)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ে শুধু বিকারক তীর আকারে; ভারসাম্য নিজে করা হয়েছে।"
+  },
+  {
+   "id": "k12-19-39",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৩",
+   "section_title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "book_page": 665,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল আয়োডাইডে KCN দিয়ে কার্বন শিকল বৃদ্ধি",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল আয়োডাইড",
+     "formula": "CH₃CH₂I",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম সায়ানাইড",
+     "formula": "KCN",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপেন নাইট্রাইল",
+     "formula": "CH₃CH₂CN",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম আয়োডাইড",
+     "formula": "KI",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CH₂I + KCN → CH₃CH₂CN + KI",
+   "conditions": "অ্যালকোহলীয় KCN",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-40",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৩",
+   "section_title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "book_page": 665,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপেন নাইট্রাইলের আর্দ্রবিশ্লেষণ",
+   "reactants": [
+    {
+     "name_bn": "প্রোপেন নাইট্রাইল",
+     "formula": "CH₃CH₂CN",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপানোয়িক অ্যাসিড",
+     "formula": "CH₃CH₂COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CH₂CN + 2H₂O + HCl → CH₃CH₂COOH + NH₄Cl",
+   "conditions": "H₂O, HCl, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-41",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৩",
+   "section_title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "book_page": 665,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপেন নাইট্রাইলের LiAlH₄ বিজারণ (প্রোপাইল অ্যামিন)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপেন নাইট্রাইল",
+     "formula": "CH₃CH₂CN",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপাইল অ্যামিন",
+     "formula": "CH₃CH₂CH₂NH₂",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CH₂CN + 4[H] → CH₃CH₂CH₂NH₂",
+   "conditions": "LiAlH₄",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "partly-legible"
+  },
+  {
+   "id": "k12-19-42",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৩",
+   "section_title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "book_page": 665,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপানল-১ এর জারণ (প্রোপানোয়িক অ্যাসিড)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানল-১",
+     "formula": "CH₃CH₂CH₂OH",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপানোয়িক অ্যাসিড",
+     "formula": "CH₃CH₂COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂CH₂OH + 2[O] → CH₃CH₂COOH + H₂O",
+   "conditions": "K₂Cr₂O₇, H⁺, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-43",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৩",
+   "section_title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "book_page": 665,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপানোয়িক অ্যাসিড থেকে অ্যাসিড ক্লোরাইড (PCl₅)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানোয়িক অ্যাসিড",
+     "formula": "CH₃CH₂COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফরাস পেন্টাক্লোরাইড",
+     "formula": "PCl₅",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপানোয়িল ক্লোরাইড",
+     "formula": "CH₃CH₂COCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ফসফরাস অক্সিক্লোরাইড",
+     "formula": "POCl₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "CH₃CH₂COOH + PCl₅ → CH₃CH₂COCl + POCl₃ + HCl↑",
+   "conditions": "PCl₅, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-44",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৩",
+   "section_title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "book_page": 665,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "হফম্যান ডিগ্রেডেশন: প্রোপান্যামাইড থেকে ইথাইল অ্যামিন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপান্যামাইড",
+     "formula": "CH₃CH₂CONH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম হাইড্রক্সাইড",
+     "formula": "KOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল অ্যামিন",
+     "formula": "CH₃CH₂NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম কার্বনেট",
+     "formula": "K₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂CONH₂ + Br₂ + 4KOH → CH₃CH₂NH₂ + 2KBr + K₂CO₃ + 2H₂O",
+   "conditions": "Br₂ (aq), গাঢ় KOH, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ে শুধু কাঠামো ও বিকারক; ভারসাম্য নিজে করা হয়েছে।"
+  },
+  {
+   "id": "k12-19-45",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৩",
+   "section_title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "book_page": 665,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "অ্যালিফেটিক অ্যামিনে নাইট্রাস অ্যাসিড (ইথাইল অ্যামিন→ইথানল)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল অ্যামিন",
+     "formula": "CH₃CH₂NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস অ্যাসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂NH₂ + HNO₂ → CH₃CH₂OH + N₂↑ + H₂O",
+   "conditions": "NaNO₂, HCl, >10 °C",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-46",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৩",
+   "section_title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "book_page": 665,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথান্যালের জারণ এবং অ্যামাইড/অ্যামিনে রূপান্তর",
+   "reactants": [
+    {
+     "name_bn": "ইথান্যাল",
+     "formula": "CH₃CHO",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানোয়িক অ্যাসিড",
+     "formula": "CH₃COOH",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CHO + [O] → CH₃COOH",
+   "conditions": "K₂Cr₂O₇, লঘু H₂SO₄, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read",
+   "notes": "এরপর CH₃COOH + NH₃ → CH₃COONH₄ → (Δ, −H₂O) CH₃CONH₂ → (Br₂/KOH) CH₃NH₂ → (NaNO₂/HCl) CH₃OH; ধাপগুলি পৃ.৬৬৫-এ আছে।"
+  },
+  {
+   "id": "k12-19-47",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৪",
+   "section_title_bn": "অ্যালিফেটিক যৌগ কার্যকরী মূলকের রূপান্তর",
+   "book_page": 666,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "1-ব্রোমোপ্রোপেন থেকে প্রোপানল-১ (NaOH জলীয়)",
+   "reactants": [
+    {
+     "name_bn": "1-ব্রোমোপ্রোপেন",
+     "formula": "CH₃CH₂CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপানল-১",
+     "formula": "CH₃CH₂CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CH₂CH₂Br + NaOH → CH₃CH₂CH₂OH + NaBr",
+   "conditions": "জলীয় NaOH, রিফ্লাক্স",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-48",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৪",
+   "section_title_bn": "অ্যালিফেটিক যৌগ কার্যকরী মূলকের রূপান্তর",
+   "book_page": 666,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথানল থেকে ব্রোমো ইথেন (NaBr + H₂SO₄)",
+   "reactants": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ব্রোমাইড",
+     "formula": "HBr",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ব্রোমো ইথেন",
+     "formula": "CH₃CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂OH + HBr → CH₃CH₂Br + H₂O",
+   "conditions": "NaBr, H₂SO₄",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-49",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৪",
+   "section_title_bn": "অ্যালিফেটিক যৌগ কার্যকরী মূলকের রূপান্তর",
+   "book_page": 666,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ব্রোমো ইথেন থেকে প্রোপেন নাইট্রাইল (KCN)",
+   "reactants": [
+    {
+     "name_bn": "ব্রোমো ইথেন",
+     "formula": "CH₃CH₂Br",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পটাসিয়াম সায়ানাইড",
+     "formula": "KCN",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "প্রোপেন নাইট্রাইল",
+     "formula": "CH₃CH₂CN",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম ব্রোমাইড",
+     "formula": "KBr",
+     "state": "solution"
+    }
+   ],
+   "equation": "CH₃CH₂Br + KCN → CH₃CH₂CN + KBr",
+   "conditions": "KCN",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-50",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৪",
+   "section_title_bn": "অ্যালিফেটিক যৌগ কার্যকরী মূলকের রূপান্তর",
+   "book_page": 666,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপানোয়িক অ্যাসিডে NH₃ যোগ ও অ্যামাইড গঠন",
+   "reactants": [
+    {
+     "name_bn": "প্রোপানোয়িক অ্যাসিড",
+     "formula": "CH₃CH₂COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়া",
+     "formula": "NH₃",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যামোনিয়াম প্রোপানোয়েট",
+     "formula": "CH₃CH₂COONH₄",
+     "state": "solution"
+    },
+    {
+     "name_bn": "প্রোপান্যামাইড",
+     "formula": "CH₃CH₂CONH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂COOH + NH₃ → CH₃CH₂COONH₄ ; CH₃CH₂COONH₄ → CH₃CH₂CONH₂ + H₂O",
+   "conditions": "তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "read"
+  },
+  {
+   "id": "k12-19-51",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৪",
+   "section_title_bn": "অ্যালিফেটিক যৌগ কার্যকরী মূলকের রূপান্তর",
+   "book_page": 666,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "প্রোপান্যামাইডের হফম্যান ডিগ্রেডেশন (Br₂, NaOH)",
+   "reactants": [
+    {
+     "name_bn": "প্রোপান্যামাইড",
+     "formula": "CH₃CH₂CONH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "ব্রোমিন",
+     "formula": "Br₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথাইল অ্যামিন",
+     "formula": "CH₃CH₂NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ব্রোমাইড",
+     "formula": "NaBr",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম কার্বনেট",
+     "formula": "Na₂CO₃",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂CONH₂ + Br₂ + 4NaOH → CH₃CH₂NH₂ + 2NaBr + Na₂CO₃ + 2H₂O",
+   "conditions": "Br₂, NaOH, তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বইয়ে শুধু বিকারক তীরে; ভারসাম্য নিজে করা।"
+  },
+  {
+   "id": "k12-19-52",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৪",
+   "section_title_bn": "অ্যালিফেটিক যৌগ কার্যকরী মূলকের রূপান্তর",
+   "book_page": 666,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ইথাইল অ্যামিন থেকে ইথানল (HNO₂)",
+   "reactants": [
+    {
+     "name_bn": "ইথাইল অ্যামিন",
+     "formula": "CH₃CH₂NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস অ্যাসিড",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ইথানল",
+     "formula": "CH₃CH₂OH",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "CH₃CH₂NH₂ + HNO₂ → CH₃CH₂OH + N₂↑ + H₂O",
+   "conditions": "NaNO₂, HCl",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-53",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের নাইট্রেশন",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "নাইট্রোবেনজিন",
+     "formula": "C₆H₅NO₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O",
+   "conditions": "গাঢ় H₂SO₄, 60 °C",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "স্কিমে কেবল বিকারক ও তাপমাত্রা; সমীকরণ নিজে লেখা।"
+  },
+  {
+   "id": "k12-19-54",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "নাইট্রোবেনজিন থেকে অ্যানিলিন (Sn/HCl), ডায়াজোকরণ",
+   "reactants": [
+    {
+     "name_bn": "অ্যানিলিন",
+     "formula": "C₆H₅NH₂",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রাস অ্যাসিড (NaNO₂+HCl)",
+     "formula": "HNO₂",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+     "formula": "C₆H₅N₂Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅NH₂ + HNO₂ + HCl → C₆H₅N₂Cl + 2H₂O",
+   "conditions": "<10 °C",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-55",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডায়াজোনিয়াম লবণ থেকে ফেনল (অম্লীয় আর্দ্রবিশ্লেষণ)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+     "formula": "C₆H₅N₂Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ফেনল",
+     "formula": "C₆H₅OH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅N₂Cl + H₂O → C₆H₅OH + N₂↑ + HCl",
+   "conditions": "HCl (aq), 40 °C",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-56",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইনের পার্শ্বশিকল ক্লোরিনেশন: বেনজাইল, বেনজাল ও বেনজোক্লোরাইড",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজাইল ক্লোরাইড",
+     "formula": "C₆H₅CH₂Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + Cl₂ → C₆H₅CH₂Cl + HCl",
+   "conditions": "আলো (hν); আরও Cl₂ হলে C₆H₅CHCl₂ ও C₆H₅CCl₃",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-57",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজাল ক্লোরাইডের আর্দ্রবিশ্লেষণ (বেনজ্যালডিহাইড)",
+   "reactants": [
+    {
+     "name_bn": "বেনজাল ক্লোরাইড",
+     "formula": "C₆H₅CHCl₂",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজ্যালডিহাইড",
+     "formula": "C₆H₅CHO",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CHCl₂ + 2NaOH → C₆H₅CHO + 2NaCl + H₂O",
+   "conditions": "NaOH (aq)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-58",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজোক্লোরাইডের আর্দ্রবিশ্লেষণ (বেনজোয়িক অ্যাসিড)",
+   "reactants": [
+    {
+     "name_bn": "বেনজোক্লোরাইড",
+     "formula": "C₆H₅CCl₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "সোডিয়াম হাইড্রক্সাইড",
+     "formula": "NaOH",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সোডিয়াম বেনজোয়েট",
+     "formula": "C₆H₅COONa",
+     "state": "solution"
+    },
+    {
+     "name_bn": "সোডিয়াম ক্লোরাইড",
+     "formula": "NaCl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CCl₃ + 4NaOH → C₆H₅COONa + 3NaCl + 2H₂O",
+   "conditions": "NaOH (aq); পরে অম্লীকরণে C₆H₅COOH",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "স্কিমে সরাসরি বেনজোয়িক অ্যাসিড দেখানো; এখানে সোডিয়াম লবণ ধরা হয়েছে।"
+  },
+  {
+   "id": "k12-19-59",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "টলুইনের নাইট্রেশন (TNT পর্যন্ত)",
+   "reactants": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "গাঢ় নাইট্রিক অ্যাসিড",
+     "formula": "HNO₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "TNT (২,৪,৬-ট্রাইনাইট্রোটলুইন)",
+     "formula": "C₆H₂(CH₃)(NO₂)₃",
+     "state": "solid"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    }
+   ],
+   "equation": "C₆H₅CH₃ + 3HNO₃ → C₆H₂(CH₃)(NO₂)₃ + 3H₂O",
+   "conditions": "গাঢ় H₂SO₄, 110 °C; 30 °C এ মনো-নাইট্রো (o-/p-)",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred",
+   "notes": "বিস্ফোরক।"
+  },
+  {
+   "id": "k12-19-60",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ডায়াজোনিয়াম লবণ থেকে সায়ানোবেনজিন (KCN, Cu₂(CN)₂)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+     "formula": "C₆H₅N₂Cl",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পটাসিয়াম সায়ানাইড",
+     "formula": "KCN",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "সায়ানোবেনজিন",
+     "formula": "C₆H₅CN",
+     "state": "solution"
+    },
+    {
+     "name_bn": "নাইট্রোজেন",
+     "formula": "N₂",
+     "state": "gas"
+    },
+    {
+     "name_bn": "পটাসিয়াম ক্লোরাইড",
+     "formula": "KCl",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅N₂Cl + KCN → C₆H₅CN + N₂↑ + KCl",
+   "conditions": "Cu₂(CN)₂ অনুঘটক, 10 °C",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-61",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "সায়ানোবেনজিনের আর্দ্রবিশ্লেষণ (বেনজোয়িক অ্যাসিড)",
+   "reactants": [
+    {
+     "name_bn": "সায়ানোবেনজিন",
+     "formula": "C₆H₅CN",
+     "state": "solution"
+    },
+    {
+     "name_bn": "পানি",
+     "formula": "H₂O",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোক্লোরিক অ্যাসিড",
+     "formula": "HCl",
+     "state": "solution"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজোয়িক অ্যাসিড",
+     "formula": "C₆H₅COOH",
+     "state": "solution"
+    },
+    {
+     "name_bn": "অ্যামোনিয়াম ক্লোরাইড",
+     "formula": "NH₄Cl",
+     "state": "solution"
+    }
+   ],
+   "equation": "C₆H₅CN + 2H₂O + HCl → C₆H₅COOH + NH₄Cl",
+   "conditions": "HCl (aq), তাপ",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-62",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিডেল-ক্রাফট্‌স অ্যাসাইলেশন (অ্যাসিটোফেনোন)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ইথানোয়িল ক্লোরাইড",
+     "formula": "CH₃COCl",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "অ্যাসিটোফেনোন",
+     "formula": "C₆H₅COCH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + CH₃COCl → C₆H₅COCH₃ + HCl",
+   "conditions": "শুষ্ক AlCl₃",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-63",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "ফ্রিডেল-ক্রাফট্‌স অ্যালকাইলেশন (টলুইন)",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "মিথাইল ক্লোরাইড",
+     "formula": "CH₃Cl",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "টলুইন",
+     "formula": "C₆H₅CH₃",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + CH₃Cl → C₆H₅CH₃ + HCl",
+   "conditions": "শুষ্ক AlCl₃",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-64",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের ক্লোরিনেশন ও ক্লোরোবেনজিন থেকে ফেনল",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "ক্লোরিন",
+     "formula": "Cl₂",
+     "state": "gas"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "ক্লোরোবেনজিন",
+     "formula": "C₆H₅Cl",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "হাইড্রোজেন ক্লোরাইড",
+     "formula": "HCl",
+     "state": "gas"
+    }
+   ],
+   "equation": "C₆H₆ + Cl₂ → C₆H₅Cl + HCl",
+   "conditions": "শুষ্ক AlCl₃, অন্ধকারে; পরে NaOH(aq) 350 °C, 150 atm → C₆H₅ONa → HCl → C₆H₅OH",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  },
+  {
+   "id": "k12-19-65",
+   "chapter_no": 12,
+   "section_no": "পরিশিষ্ট-৫",
+   "section_title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "book_page": 667,
+   "type": "card",
+   "kind": "reaction",
+   "title_bn": "বেনজিনের সালফোনেশন ও ফেনলে রূপান্তর",
+   "reactants": [
+    {
+     "name_bn": "বেনজিন",
+     "formula": "C₆H₆",
+     "state": "liquid"
+    },
+    {
+     "name_bn": "অলিয়াম",
+     "formula": "H₂SO₄·SO₃",
+     "state": "liquid"
+    }
+   ],
+   "products": [
+    {
+     "name_bn": "বেনজিন সালফোনিক অ্যাসিড",
+     "formula": "C₆H₅SO₃H",
+     "state": "solid"
+    }
+   ],
+   "equation": "C₆H₆ + H₂SO₄ → C₆H₅SO₃H + H₂O",
+   "conditions": "H₂SO₄·SO₃, তাপ; পরে গলিত NaOH 300 °C → C₆H₅ONa → HCl → C₆H₅OH",
+   "observations_bn": "",
+   "procedure_bn": [],
+   "quantities_bn": "",
+   "materials_bn": [],
+   "safety_bn": "",
+   "confidence": "inferred"
+  }
+ ],
+ "sections_seen": [
+  {
+   "chapter_no": 12,
+   "no": "12.23",
+   "title_bn": "নাইট্রোজেন সংবলিত কার্যকরী মূলকসমূহের পরীক্ষা",
+   "start_page": 649
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.24",
+   "title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "start_page": 650
+  },
+  {
+   "chapter_no": 12,
+   "no": "12.25",
+   "title_bn": "কার্যকরী মূলকভিত্তিক সমস্যা ও সমাধান",
+   "start_page": 652
+  },
+  {
+   "chapter_no": 12,
+   "no": "পরিশিষ্ট-১",
+   "title_bn": "জৈব রসায়নে ব্যবহৃত কতিপয় বিকারক",
+   "start_page": 662
+  },
+  {
+   "chapter_no": 12,
+   "no": "পরিশিষ্ট-২",
+   "title_bn": "জৈব যৌগের গুরুত্বপূর্ণ সমগোত্রীয় শ্রেণী ও তাদের পরিচয়",
+   "start_page": 664
+  },
+  {
+   "chapter_no": 12,
+   "no": "পরিশিষ্ট-৩",
+   "title_bn": "সমগোত্রীয় যৌগের কার্বন শিকল বৃদ্ধি বা হ্রাসকরণ",
+   "start_page": 664
+  },
+  {
+   "chapter_no": 12,
+   "no": "পরিশিষ্ট-৪",
+   "title_bn": "অ্যালিফেটিক যৌগ কার্যকরী মূলকের রূপান্তর",
+   "start_page": 665
+  },
+  {
+   "chapter_no": 12,
+   "no": "পরিশিষ্ট-৫",
+   "title_bn": "অ্যারিন থেকে বিভিন্ন অ্যারোমেটিক যৌগের সংশ্লেষণ প্রক্রিয়া",
+   "start_page": 667
+  }
+ ],
+ "unreadable_pages": [],
+ "notes": "পৃ.৬৪৮-এর শুরুর ছক ১২.২২-এর (সম্ভবত) অংশ; শিরোনাম ও সংখ্যা এই চাঙ্কে নেই, তাই section_no '12.22?'। পৃ.৬৫৩-৬৫৭ সংখ্যাগত সমস্যা, 12 অধ্যায়ের সারাংশ, অনুশীলনী, MCQ, সৃজনশীল, মডেল প্রশ্ন ও বোর্ড প্রশ্ন (pdf 674-698) বাদ। পরিশিষ্ট-২ শুধু শ্রেণী-সারণি, প্রতিক্রিয়া নেই। ৩° অ্যারোমেটিক অ্যামিনের (পৃ.৬৫০) ছাপা সমীকরণ অস্পষ্ট হওয়ায় বাদ। 'chapter_no 12' মুদ্রিত ক্রমিক (12.23 ইত্যাদি) অনুযায়ী; পরিশিষ্ট আইটেমেও 12 ব্যবহৃত।"
+}
