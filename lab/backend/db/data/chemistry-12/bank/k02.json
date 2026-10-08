@@ -1,0 +1,2389 @@
+{
+ "chapter_no": 1,
+ "topics": [
+  {
+   "section_no": "1.14",
+   "title_bn": "নাইট্রোজেনের অক্সাইডসমূহ",
+   "title_en": "Oxides of nitrogen",
+   "notes_bn": "নাইট্রোজেন ৫টি অক্সাইড গঠন করে: N2O (+1), NO (+2), N2O3 (+3), NO2/N2O4 (+4), N2O5 (+5)।\nN2O ও NO নিরপেক্ষ গ্যাস; N2O3, NO2, N2O5 অম্লধর্মী।\nN2O3 -30°C এ নীল তরল, HNO2 এর অ্যানহাইড্রাইড; NO2 বাদামি গ্যাস, HNO2 ও HNO3 এর মিশ্র অ্যানহাইড্রাইড।\nN2O5 বর্ণহীন কঠিন পদার্থ, HNO3 এর অ্যানহাইড্রাইড।",
+   "notes_en": "Nitrogen forms five oxides: N2O (+1), NO (+2), N2O3 (+3), NO2/N2O4 (+4), N2O5 (+5).\nN2O and NO are neutral gases; N2O3, NO2 and N2O5 are acidic.\nN2O3 is a blue liquid at -30 C and the anhydride of HNO2; NO2 is a brown gas, the mixed anhydride of HNO2 and HNO3.\nN2O5 is a colourless solid, the anhydride of HNO3.",
+   "mcqs": [
+    {
+     "question_bn": "N2O3 এ নাইট্রোজেনের জারণ সংখ্যা কত?",
+     "question_en": "What is the oxidation number of N in N2O3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+1",
+       "en": "+1"
+      },
+      {
+       "id": "b",
+       "bn": "+2",
+       "en": "+2"
+      },
+      {
+       "id": "c",
+       "bn": "+3",
+       "en": "+3"
+      },
+      {
+       "id": "d",
+       "bn": "+4",
+       "en": "+4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N2O3 তে 2x + 3(−2) = 0, তাই x = +3।",
+     "explanation_en": "In N2O3, 2x + 3(-2) = 0, so x = +3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি নিরপেক্ষ অক্সাইড?",
+     "question_en": "Which is a neutral oxide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N2O3",
+       "en": "N2O3"
+      },
+      {
+       "id": "b",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "c",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "d",
+       "bn": "N2O5",
+       "en": "N2O5"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের সারণি অনুযায়ী N2O ও NO নিরপেক্ষ।",
+     "explanation_en": "As per the book's table, N2O and NO are neutral.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন অক্সাইডে নাইট্রোজেনের জারণ সংখ্যা +4?",
+     "question_en": "In which oxide is the oxidation number of N +4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N2O",
+       "en": "N2O"
+      },
+      {
+       "id": "b",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "c",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "d",
+       "bn": "N2O5",
+       "en": "N2O5"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "NO2 (ও এর ডাইমার N2O4) এ N এর জারণ সংখ্যা +4।",
+     "explanation_en": "N is +4 in NO2 (and its dimer N2O4).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি HNO3 এর অ্যানহাইড্রাইড?",
+     "question_en": "Which is the anhydride of HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N2O3",
+       "en": "N2O3"
+      },
+      {
+       "id": "b",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "c",
+       "bn": "N2O5",
+       "en": "N2O5"
+      },
+      {
+       "id": "d",
+       "bn": "NO",
+       "en": "NO"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N2O5 পানিতে দ্রবীভূত হয়ে HNO3 দেয়।",
+     "explanation_en": "N2O5 dissolves in water to give HNO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NO2 কে বলা হয় —",
+     "question_en": "NO2 is called the —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HNO2 এর অ্যানহাইড্রাইড",
+       "en": "HNO2 এর অ্যানহাইড্রাইড"
+      },
+      {
+       "id": "b",
+       "bn": "HNO3 এর অ্যানহাইড্রাইড",
+       "en": "HNO3 এর অ্যানহাইড্রাইড"
+      },
+      {
+       "id": "c",
+       "bn": "HNO2 ও HNO3 এর মিশ্র অ্যানহাইড্রাইড",
+       "en": "HNO2 ও HNO3 এর মিশ্র অ্যানহাইড্রাইড"
+      },
+      {
+       "id": "d",
+       "bn": "নিরপেক্ষ অক্সাইড",
+       "en": "নিরপেক্ষ অক্সাইড"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "NO2 পানিতে HNO2 ও HNO3 দুটিই দেয়, তাই মিশ্র অ্যানহাইড্রাইড।",
+     "explanation_en": "NO2 gives both HNO2 and HNO3 with water, hence a mixed anhydride.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.15",
+   "title_bn": "নাইট্রাস অক্সাইড বা ডাইনাইট্রোজেন অক্সাইড",
+   "title_en": "Nitrous oxide (N2O)",
+   "notes_bn": "প্রস্তুতি: প্রায় 250°C এ NH4NO3 তাপবিয়োজন: NH4NO3 → N2O + 2H2O। নিরাপদে করতে NH4Cl ও NaNO3 মিশ্রণ উত্তপ্ত করা হয়।\nবর্ণহীন, মৃদু মিষ্টি গন্ধের গ্যাস; অল্প নিঃশ্বাসে হাসির উদ্রেক করে তাই 'লাফিং গ্যাস'; মৃদু চেতনানাশক।\nউচ্চ তাপমাত্রায় N2 ও O2 এ বিয়োজিত হয়ে দহনে সহায়তা করে: C + 2N2O → CO2 + 2N2।\nগঠন: N≡N→O।",
+   "notes_en": "Preparation: heating NH4NO3 at about 250 C: NH4NO3 -> N2O + 2H2O; for safety a mixture of NH4Cl and NaNO3 is heated.\nColourless gas with a faint sweet smell; small amounts cause laughter ('laughing gas'); mild anaesthetic.\nAt high temperature it splits into N2 and O2 and supports combustion: C + 2N2O -> CO2 + 2N2.\nStructure: N≡N->O.",
+   "mcqs": [
+    {
+     "question_bn": "N2O প্রস্তুতিতে কোনটি তাপবিয়োজিত হয়?",
+     "question_en": "Which compound is thermally decomposed to make N2O?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH4Cl",
+       "en": "NH4Cl"
+      },
+      {
+       "id": "b",
+       "bn": "NH4NO3",
+       "en": "NH4NO3"
+      },
+      {
+       "id": "c",
+       "bn": "NaNO3",
+       "en": "NaNO3"
+      },
+      {
+       "id": "d",
+       "bn": "Pb(NO3)2",
+       "en": "Pb(NO3)2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রায় 250°C এ NH4NO3 → N2O + 2H2O।",
+     "explanation_en": "NH4NO3 -> N2O + 2H2O at about 250 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N2O কে 'লাফিং গ্যাস' বলা হয় কেন?",
+     "question_en": "Why is N2O called 'laughing gas'?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গন্ধের কারণে",
+       "en": "গন্ধের কারণে"
+      },
+      {
+       "id": "b",
+       "bn": "অল্প নিঃশ্বাসে হাসির উদ্রেক করে",
+       "en": "অল্প নিঃশ্বাসে হাসির উদ্রেক করে"
+      },
+      {
+       "id": "c",
+       "bn": "জ্বলে ওঠে",
+       "en": "জ্বলে ওঠে"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণের কারণে",
+       "en": "বর্ণের কারণে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অল্প পরিমাণ গ্রহণে হাসির উদ্রেক হয়।",
+     "explanation_en": "Inhaling a small amount induces laughter.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "জ্বলন্ত কার্বন N2O তে জ্বলে CO2 এর সাথে আর কী উৎপন্ন করে?",
+     "question_en": "Burning carbon in N2O gives CO2 and —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "b",
+       "bn": "N2",
+       "en": "N2"
+      },
+      {
+       "id": "c",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "d",
+       "bn": "O2",
+       "en": "O2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C + 2N2O → CO2 + 2N2।",
+     "explanation_en": "C + 2N2O -> CO2 + 2N2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1 mol N2O দ্বারা Mg দহনে কত mol N2 পাওয়া যায়? (Mg + N2O → MgO + N2)",
+     "question_en": "How many mol of N2 form from 1 mol N2O with Mg? (Mg + N2O -> MgO + N2)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "0.5",
+       "en": "0.5"
+      },
+      {
+       "id": "d",
+       "bn": "3",
+       "en": "3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সমীকরণে N2O : N2 = 1 : 1।",
+     "explanation_en": "N2O : N2 = 1 : 1 in the equation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N2O এর গঠন কোনটি?",
+     "question_en": "Which represents the structure of N2O?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O=N=O",
+       "en": "O=N=O"
+      },
+      {
+       "id": "b",
+       "bn": "N≡N→O",
+       "en": "N≡N→O"
+      },
+      {
+       "id": "c",
+       "bn": "N–O–N",
+       "en": "N–O–N"
+      },
+      {
+       "id": "d",
+       "bn": "O=N–N=O",
+       "en": "O=N–N=O"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে গঠন N≡N→O ধরা হয়েছে।",
+     "explanation_en": "The book gives N≡N->O.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.16",
+   "title_bn": "নাইট্রিক অক্সাইড বা নাইট্রোজেন মনোক্সাইড",
+   "title_en": "Nitric oxide (NO)",
+   "notes_bn": "পরীক্ষাগারে কপার গুঁড়া/কুচি ও প্রায় 50% গাঢ় HNO3 এর বিক্রিয়া: 3Cu + 8HNO3 → 3Cu(NO3)2 + 2NO + 4H2O।\nবোতলে বাদামি NO2 ধোঁয়া হয়; বর্ণহীন NO পানি অপসারণে সংগ্রহ হয়।\nবর্ণহীন, পানিতে সামান্য দ্রবণীয়; নিজে দাহ্য নয়, দহনে সহায়ক নয় (তবে জ্বলন্ত P, C, Mg ইত্যাদি এতে জ্বলে)।\nগঠনে একটি অযুগ্ম ইলেকট্রন; বাতাসে O2 এর সাথে NO2 দেয়, যা পানিতে HNO3 দেয় (নাইট্রোজেন চক্র)।\nবিজারক: NO, I2 কে HI এ বিজারিত করে: 3I2 + 4H2O + 2NO → 2HNO3 + 6HI; NaOH এর সাথে NaNO2 + N2O।",
+   "notes_en": "Lab prep: copper with about 50% conc. HNO3: 3Cu + 8HNO3 -> 3Cu(NO3)2 + 2NO + 4H2O.\nBrown NO2 fumes appear in the bottle; colourless NO is collected over water.\nColourless, sparingly soluble; neither burns nor supports combustion by itself (but burning P, C, Mg continue to burn in it).\nHas one unpaired electron; in air forms NO2, which gives HNO3 with water (nitrogen cycle).\nWith I2 and water: 3I2 + 4H2O + 2NO -> 2HNO3 + 6HI; with NaOH gives NaNO2 + N2O.",
+   "mcqs": [
+    {
+     "question_bn": "NO প্রস্তুতিতে Cu এর সাথে কোন অ্যাসিড ব্যবহৃত হয়?",
+     "question_en": "Which acid reacts with Cu to give NO in the lab?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রায় 50% গাঢ় HNO3",
+       "en": "প্রায় 50% গাঢ় HNO3"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় H2SO4",
+       "en": "গাঢ় H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "লঘু HCl",
+       "en": "লঘু HCl"
+      },
+      {
+       "id": "d",
+       "bn": "HNO2",
+       "en": "HNO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "3Cu + 8HNO3 → 3Cu(NO3)2 + 2NO + 4H2O।",
+     "explanation_en": "3Cu + 8HNO3 -> 3Cu(NO3)2 + 2NO + 4H2O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বোতলে প্রস্তুতির সময় বাদামি ধোঁয়া কী?",
+     "question_en": "The brown fumes in the preparation bottle are —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "b",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "c",
+       "bn": "N2O",
+       "en": "N2O"
+      },
+      {
+       "id": "d",
+       "bn": "N2",
+       "en": "N2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NO বাতাসের O2 এর সাথে NO2 তৈরি করে।",
+     "explanation_en": "NO combines with O2 of air to form brown NO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NO এর গঠনের বৈশিষ্ট্য কোনটি?",
+     "question_en": "A feature of NO structure is —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অযুগ্ম ইলেকট্রন আছে",
+       "en": "অযুগ্ম ইলেকট্রন আছে"
+      },
+      {
+       "id": "b",
+       "bn": "সব ইলেকট্রন যুগ্ম",
+       "en": "সব ইলেকট্রন যুগ্ম"
+      },
+      {
+       "id": "c",
+       "bn": "তিনটি অযুগ্ম ইলেকট্রন",
+       "en": "তিনটি অযুগ্ম ইলেকট্রন"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো ঋণাত্মক চার্জ নেই",
+       "en": "কোনো ঋণাত্মক চার্জ নেই"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NO এর গঠনে একটি অযুগ্ম ইলেকট্রন থাকে।",
+     "explanation_en": "NO has one unpaired electron.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NO কে আয়োডিনের সাথে বিক্রিয়া করালে উৎপন্ন হয় —",
+     "question_en": "NO reacting with iodine and water gives —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HNO3 ও HI",
+       "en": "HNO3 ও HI"
+      },
+      {
+       "id": "b",
+       "bn": "HNO2 ও HI",
+       "en": "HNO2 ও HI"
+      },
+      {
+       "id": "c",
+       "bn": "N2 ও HIO3",
+       "en": "N2 ও HIO3"
+      },
+      {
+       "id": "d",
+       "bn": "NO2 ও HI",
+       "en": "NO2 ও HI"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "3I2 + 4H2O + 2NO → 2HNO3 + 6HI।",
+     "explanation_en": "3I2 + 4H2O + 2NO -> 2HNO3 + 6HI.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "4NO + 2NaOH → ? বিক্রিয়ায় সঠিক উৎপাদ কোনটি?",
+     "question_en": "Products of 4NO + 2NaOH are —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2NaNO2 + N2O + H2O",
+       "en": "2NaNO2 + N2O + H2O"
+      },
+      {
+       "id": "b",
+       "bn": "2NaNO3 + N2 + H2O",
+       "en": "2NaNO3 + N2 + H2O"
+      },
+      {
+       "id": "c",
+       "bn": "NaNO2 + NO2",
+       "en": "NaNO2 + NO2"
+      },
+      {
+       "id": "d",
+       "bn": "NaNO3 + NH3",
+       "en": "NaNO3 + NH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "4NO + 2NaOH → 2NaNO2 + N2O + H2O।",
+     "explanation_en": "4NO + 2NaOH -> 2NaNO2 + N2O + H2O.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.17",
+   "title_bn": "ডাইনাইট্রোজেন ট্রাইঅক্সাইড",
+   "title_en": "Dinitrogen trioxide (N2O3)",
+   "notes_bn": "প্রস্তুতি: As2O3 এর সাথে 50% গাঢ় HNO3 উত্তপ্ত করে; গ্যাস শুষ্ক CaCl2 দ্বারা শুকিয়ে হিমমিশ্রে শীতল U-নলে গাঢ় নীল তরল সংগ্রহ।\nসাধারণ তাপমাত্রায় NO ও NO2 এর মিশ্রণরূপে থাকে; -21°C এর নিচে গাঢ় নীল তরল।\nনাইট্রাস এসিডের অ্যানহাইড্রাইড: N2O3 + H2O → 2HNO2; ক্ষারের সাথে নাইট্রাইট: 2KOH + N2O3 → 2KNO2 + H2O।\nজারক: KI থেকে I2 মুক্ত করে; বিজারক: KMnO4 কে বিজারিত করে।",
+   "notes_en": "Prepared by heating As2O3 with 50% conc. HNO3; gas dried with CaCl2, passed into a freezing-mixture-cooled U-tube to get a deep-blue liquid.\nAt ordinary temperature it exists as a mixture of NO and NO2; deep blue liquid below -21 C.\nAnhydride of nitrous acid: N2O3 + H2O -> 2HNO2; with alkali gives nitrite: 2KOH + N2O3 -> 2KNO2 + H2O.\nActs as oxidant (frees I2 from KI) and as reductant (decolourises acidified KMnO4).",
+   "mcqs": [
+    {
+     "question_bn": "N2O3 পানির সাথে বিক্রিয়ায় কী উৎপন্ন করে?",
+     "question_en": "N2O3 with water gives —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HNO3",
+       "en": "HNO3"
+      },
+      {
+       "id": "b",
+       "bn": "HNO2",
+       "en": "HNO2"
+      },
+      {
+       "id": "c",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "d",
+       "bn": "NO2",
+       "en": "NO2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "N2O3 + H2O → 2HNO2।",
+     "explanation_en": "N2O3 + H2O -> 2HNO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N2O3 কে বলা হয় —",
+     "question_en": "N2O3 is called —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নাইট্রাস-অ্যানহাইড্রাইড",
+       "en": "নাইট্রাস-অ্যানহাইড্রাইড"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রিক-অ্যানহাইড্রাইড",
+       "en": "নাইট্রিক-অ্যানহাইড্রাইড"
+      },
+      {
+       "id": "c",
+       "bn": "লাফিং গ্যাস",
+       "en": "লাফিং গ্যাস"
+      },
+      {
+       "id": "d",
+       "bn": "ধূমায়মান অক্সাইড",
+       "en": "ধূমায়মান অক্সাইড"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এটি HNO2 এর অ্যানহাইড্রাইড।",
+     "explanation_en": "It is the anhydride of HNO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N2O3 প্রস্তুতিতে As2O3 এর সাথে কোনটি ব্যবহৃত হয়?",
+     "question_en": "N2O3 is prepared by heating As2O3 with —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "50% গাঢ় HNO3",
+       "en": "50% গাঢ় HNO3"
+      },
+      {
+       "id": "b",
+       "bn": "লঘু HCl",
+       "en": "লঘু HCl"
+      },
+      {
+       "id": "c",
+       "bn": "গাঢ় H2SO4",
+       "en": "গাঢ় H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "NH3",
+       "en": "NH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "As2O3 + গাঢ় HNO3 উত্তপ্ত করা হয়।",
+     "explanation_en": "As2O3 is heated with conc. HNO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N2O3 এবং KOH বিক্রিয়ায় উৎপন্ন লবণ —",
+     "question_en": "Salt from N2O3 and KOH —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KNO3",
+       "en": "KNO3"
+      },
+      {
+       "id": "b",
+       "bn": "KNO2",
+       "en": "KNO2"
+      },
+      {
+       "id": "c",
+       "bn": "K2O",
+       "en": "K2O"
+      },
+      {
+       "id": "d",
+       "bn": "KNH2",
+       "en": "KNH2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2KOH + N2O3 → 2KNO2 + H2O।",
+     "explanation_en": "2KOH + N2O3 -> 2KNO2 + H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N2O3 তরল কোন বর্ণের এবং কোন তাপমাত্রার নিচে?",
+     "question_en": "Colour of liquid N2O3 and temperature region?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল-বাদামি, -21°C এর উপরে",
+       "en": "লাল-বাদামি, -21°C এর উপরে"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় নীল, -21°C এর নিচে",
+       "en": "গাঢ় নীল, -21°C এর নিচে"
+      },
+      {
+       "id": "c",
+       "bn": "বর্ণহীন, 0°C এ",
+       "en": "বর্ণহীন, 0°C এ"
+      },
+      {
+       "id": "d",
+       "bn": "সবুজ, 50°C এ",
+       "en": "সবুজ, 50°C এ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "-21°C এর নিচে এটি গাঢ় নীল তরল।",
+     "explanation_en": "Below -21 C it is a deep-blue liquid.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.18",
+   "title_bn": "নাইট্রোজেন ডাইঅক্সাইড বা ডাইনাইট্রোজেন টেট্রোক্সাইড",
+   "title_en": "Nitrogen dioxide (NO2) / dinitrogen tetroxide (N2O4)",
+   "notes_bn": "NO2 বাদামি গ্যাস; শীতল করলে ডাইমার N2O4 (বর্ণহীন) তরল; উত্তপ্ত করলে পুনরায় 2NO2।\nপ্রস্তুতি: Pb(NO3)2 উত্তপ্ত করে: 2Pb(NO3)2 → 2PbO + 4NO2 + O2; Cu + 4HNO3 (গাঢ়) → Cu(NO3)2 + 2NO2 + 2H2O।\nঅযুগ্ম ইলেকট্রনের কারণে বন্ধন কোণ 134°; দুটি অণু যুক্ত হয়ে N2O4 গঠন করে।\nঅম্লীয় অক্সাইড: পানির সাথে HNO3 ও HNO2 (মিশ্র অ্যানহাইড্রাইড); NaOH এর সাথে NaNO2 + NaNO3।\nজারক: H2S থেকে S, KI থেকে I2; নিজে NO তে বিজারিত।",
+   "notes_en": "NO2 is a brown gas; on cooling it dimerises to colourless N2O4 liquid; heating reverses it.\nPrep: heating Pb(NO3)2: 2Pb(NO3)2 -> 2PbO + 4NO2 + O2; Cu + 4HNO3(conc) -> Cu(NO3)2 + 2NO2 + 2H2O.\nThe unpaired electron gives a bond angle of 134 deg; two molecules join to form N2O4.\nAcidic oxide: with water gives HNO3 and HNO2 (mixed anhydride); with NaOH gives NaNO2 + NaNO3.\nOxidant: converts H2S to S and KI to I2, itself reduced to NO.",
+   "mcqs": [
+    {
+     "question_bn": "লেড নাইট্রেট উত্তপ্ত করলে কোন গ্যাস বাদামি বর্ণ দেয়?",
+     "question_en": "Heating lead nitrate gives which brown gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "b",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "c",
+       "bn": "N2O",
+       "en": "N2O"
+      },
+      {
+       "id": "d",
+       "bn": "N2",
+       "en": "N2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2Pb(NO3)2 → 2PbO + 4NO2 + O2।",
+     "explanation_en": "2Pb(NO3)2 -> 2PbO + 4NO2 + O2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NO2 এর ডাইমার কোনটি?",
+     "question_en": "The dimer of NO2 is —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N2O",
+       "en": "N2O"
+      },
+      {
+       "id": "b",
+       "bn": "N2O3",
+       "en": "N2O3"
+      },
+      {
+       "id": "c",
+       "bn": "N2O4",
+       "en": "N2O4"
+      },
+      {
+       "id": "d",
+       "bn": "N2O5",
+       "en": "N2O5"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2NO2 ⇌ N2O4।",
+     "explanation_en": "2NO2 <=> N2O4.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NO2 এর বন্ধন কোণ কত?",
+     "question_en": "The bond angle of NO2 is —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "120°",
+       "en": "120°"
+      },
+      {
+       "id": "b",
+       "bn": "134°",
+       "en": "134°"
+      },
+      {
+       "id": "c",
+       "bn": "115°",
+       "en": "115°"
+      },
+      {
+       "id": "d",
+       "bn": "180°",
+       "en": "180°"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "একটি অযুগ্ম ইলেকট্রনের কম বিকর্ষণের কারণে কোণ 120° থেকে বেড়ে 134°।",
+     "explanation_en": "The single unpaired electron repels less, so the angle rises above 120 to 134 deg.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NO2 কে NaOH দ্রবণে চালনা করলে উৎপন্ন হয় —",
+     "question_en": "Passing NO2 into NaOH gives —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaNO2 ও NaNO3",
+       "en": "NaNO2 ও NaNO3"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু NaNO3",
+       "en": "শুধু NaNO3"
+      },
+      {
+       "id": "c",
+       "bn": "NaNO2 ও NH3",
+       "en": "NaNO2 ও NH3"
+      },
+      {
+       "id": "d",
+       "bn": "Na2O ও N2",
+       "en": "Na2O ও N2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2NO2 + 2NaOH → NaNO2 + NaNO3 + H2O।",
+     "explanation_en": "2NO2 + 2NaOH -> NaNO2 + NaNO3 + H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NO2 এর সাথে H2S এর বিক্রিয়ায় উৎপাদ —",
+     "question_en": "NO2 reacting with H2S gives —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "S, NO ও H2O",
+       "en": "S, NO ও H2O"
+      },
+      {
+       "id": "b",
+       "bn": "SO2, N2",
+       "en": "SO2, N2"
+      },
+      {
+       "id": "c",
+       "bn": "SO3, NH3",
+       "en": "SO3, NH3"
+      },
+      {
+       "id": "d",
+       "bn": "S ও NO2",
+       "en": "S ও NO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "H2S + NO2 → S + NO + H2O; NO2 বিজারিত হয়ে NO দেয়।",
+     "explanation_en": "H2S + NO2 -> S + NO + H2O; NO2 is reduced to NO.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.19",
+   "title_bn": "ডাইনাইট্রোজেন পেন্টঅক্সাইড",
+   "title_en": "Dinitrogen pentoxide (N2O5)",
+   "notes_bn": "প্রস্তুতি: গাঢ় HNO3 কে P2O5 দ্বারা নিরুদিত করে (30°C): 2HNO3 + P2O5 → N2O5 + 2HPO3।\nবর্ণহীন কেলাসাকার কঠিন; 29°C এ গলে; বিয়োজনে N2O4 ও O2; 50°C এ বিস্ফোরণসহ বিয়োজিত।\nনাইট্রিক এসিডের অ্যানহাইড্রাইড: N2O5 + H2O → 2HNO3।\nশক্তিশালী জারক: জ্বলন্ত ফসফরাস ও I2 কে জারিত করে (I2 → I2O5)।\nধাতব নাইট্রেট প্রস্তুতিতে ব্যবহৃত।",
+   "notes_en": "Prep: dehydrating conc. HNO3 with P2O5 (30 C): 2HNO3 + P2O5 -> N2O5 + 2HPO3.\nColourless crystalline solid; melts at 29 C; decomposes to N2O4 and O2, explosively near 50 C.\nAnhydride of nitric acid: N2O5 + H2O -> 2HNO3.\nStrong oxidant: oxidises phosphorus and I2 (I2 -> I2O5).\nUsed in preparing metal nitrates.",
+   "mcqs": [
+    {
+     "question_bn": "N2O5 প্রস্তুতিতে নিরুদক কোনটি?",
+     "question_en": "Dehydrating agent in N2O5 preparation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P2O5",
+       "en": "P2O5"
+      },
+      {
+       "id": "b",
+       "bn": "CaCl2",
+       "en": "CaCl2"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "d",
+       "bn": "KOH",
+       "en": "KOH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2HNO3 + P2O5 → N2O5 + 2HPO3।",
+     "explanation_en": "2HNO3 + P2O5 -> N2O5 + 2HPO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N2O5 পানিতে দ্রবীভূত হলে উৎপন্ন হয় —",
+     "question_en": "N2O5 in water gives —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HNO2",
+       "en": "HNO2"
+      },
+      {
+       "id": "b",
+       "bn": "HNO3",
+       "en": "HNO3"
+      },
+      {
+       "id": "c",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "d",
+       "bn": "NO",
+       "en": "NO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "N2O5 + H2O → 2HNO3।",
+     "explanation_en": "N2O5 + H2O -> 2HNO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N2O5 এর বিয়োজনে উৎপন্ন হয় —",
+     "question_en": "Decomposition of N2O5 gives —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N2O4 ও O2",
+       "en": "N2O4 ও O2"
+      },
+      {
+       "id": "b",
+       "bn": "NO ও N2",
+       "en": "NO ও N2"
+      },
+      {
+       "id": "c",
+       "bn": "N2 ও H2",
+       "en": "N2 ও H2"
+      },
+      {
+       "id": "d",
+       "bn": "NH3 ও O2",
+       "en": "NH3 ও O2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2N2O5 → 2N2O4 + O2।",
+     "explanation_en": "2N2O5 -> 2N2O4 + O2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N2O5 এর I2 এর সাথে বিক্রিয়ায় আয়োডিনের কোন অক্সাইড উৎপন্ন হয়?",
+     "question_en": "Which iodine oxide forms from N2O5 + I2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "I2O",
+       "en": "I2O"
+      },
+      {
+       "id": "b",
+       "bn": "I2O3",
+       "en": "I2O3"
+      },
+      {
+       "id": "c",
+       "bn": "I2O5",
+       "en": "I2O5"
+      },
+      {
+       "id": "d",
+       "bn": "I2O7",
+       "en": "I2O7"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N2O5 জারক হিসেবে I2 কে I2O5 এ পরিণত করে।",
+     "explanation_en": "As oxidant, N2O5 converts I2 to I2O5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N2O5 এ নাইট্রোজেনের জারণ সংখ্যা এবং এর শ্রেণি —",
+     "question_en": "Oxidation number of N in N2O5 and its class —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+3, নিরপেক্ষ",
+       "en": "+3, নিরপেক্ষ"
+      },
+      {
+       "id": "b",
+       "bn": "+5, অম্লীয় অক্সাইড",
+       "en": "+5, অম্লীয় অক্সাইড"
+      },
+      {
+       "id": "c",
+       "bn": "+4, ক্ষারীয়",
+       "en": "+4, ক্ষারীয়"
+      },
+      {
+       "id": "d",
+       "bn": "+5, উভধর্মী",
+       "en": "+5, উভধর্মী"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "N2O5 তে N এর জারণ সংখ্যা +5; পানিতে HNO3 দেয় তাই অম্লীয়।",
+     "explanation_en": "N is +5 in N2O5; it gives HNO3 with water so it is acidic.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.20",
+   "title_bn": "নাইট্রোজেনের অক্সো এসিডসমূহ",
+   "title_en": "Oxo acids of nitrogen",
+   "notes_bn": "দুটি গুরুত্বপূর্ণ অক্সো এসিড: নাইট্রাস এসিড HNO2 (N এর জারণ সংখ্যা +3) ও নাইট্রিক এসিড HNO3 (+5)।\nHNO2 কম স্থায়ী; তবে এর লবণ নাইট্রাইট বিশুদ্ধ অবস্থায় পাওয়া যায়।\nHNO3 সুস্থিত এবং অর্থনৈতিকভাবে একমাত্র গুরুত্বসম্পন্ন অক্সো এসিড।",
+   "notes_en": "Two important oxo acids: nitrous acid HNO2 (N = +3) and nitric acid HNO3 (N = +5).\nHNO2 is less stable, but its salts (nitrites) can be obtained pure.\nHNO3 is stable and the only economically important oxo acid of nitrogen.",
+   "mcqs": [
+    {
+     "question_bn": "HNO2 এ N এর জারণ সংখ্যা কত?",
+     "question_en": "Oxidation number of N in HNO2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+1",
+       "en": "+1"
+      },
+      {
+       "id": "b",
+       "bn": "+3",
+       "en": "+3"
+      },
+      {
+       "id": "c",
+       "bn": "+4",
+       "en": "+4"
+      },
+      {
+       "id": "d",
+       "bn": "+5",
+       "en": "+5"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "+1 + x − 4 = 0 ⇒ x = +3।",
+     "explanation_en": "+1 + x - 4 = 0, x = +3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "HNO3 এ N এর জারণ সংখ্যা কত?",
+     "question_en": "Oxidation number of N in HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+3",
+       "en": "+3"
+      },
+      {
+       "id": "b",
+       "bn": "+4",
+       "en": "+4"
+      },
+      {
+       "id": "c",
+       "bn": "+5",
+       "en": "+5"
+      },
+      {
+       "id": "d",
+       "bn": "+2",
+       "en": "+2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "+1 + x − 6 = 0 ⇒ x = +5।",
+     "explanation_en": "+1 + x - 6 = 0, x = +5.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন অক্সো এসিডের লবণ বিশুদ্ধ অবস্থায় পাওয়া যায় যদিও এসিডটি অস্থায়ী?",
+     "question_en": "Whose salts are obtainable pure although the acid is unstable?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HNO3",
+       "en": "HNO3"
+      },
+      {
+       "id": "b",
+       "bn": "HNO2",
+       "en": "HNO2"
+      },
+      {
+       "id": "c",
+       "bn": "H3PO4",
+       "en": "H3PO4"
+      },
+      {
+       "id": "d",
+       "bn": "H2SO4",
+       "en": "H2SO4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নাইট্রাস এসিড অস্থায়ী, কিন্তু নাইট্রাইট লবণ বিশুদ্ধ অবস্থায় থাকে।",
+     "explanation_en": "HNO2 is unstable but nitrites are isolable.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অর্থনৈতিকভাবে নাইট্রোজেনের একমাত্র গুরুত্বপূর্ণ অক্সো এসিড কোনটি?",
+     "question_en": "The only economically important oxo acid of N is —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HNO2",
+       "en": "HNO2"
+      },
+      {
+       "id": "b",
+       "bn": "HNO3",
+       "en": "HNO3"
+      },
+      {
+       "id": "c",
+       "bn": "H2N2O2",
+       "en": "H2N2O2"
+      },
+      {
+       "id": "d",
+       "bn": "HNO",
+       "en": "HNO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী HNO3।",
+     "explanation_en": "Per the book, HNO3.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.21",
+   "title_bn": "নাইট্রাস এসিড ও নাইট্রাইট লবণ",
+   "title_en": "Nitrous acid and nitrite salts",
+   "notes_bn": "HNO2 অস্থায়ী দুর্বল এসিড (pKa = 3.34, 25°C)। প্রস্তুতি: N2O3 কে 0°C এ পানিতে দ্রবীভূত করে, বা শীতল লঘু NaNO2 দ্রবণে খনিজ এসিড (HCl) যোগ করে: NaNO2 + HCl → HNO2 + NaCl।\n5°C এর নিচে দ্রবণ মোটামুটি স্থায়ী; 0–5°C এ অ্যানিলিন + NaNO2 + HCl → বেনজিন ডায়াজোনিয়াম ক্লোরাইড।\nনাইট্রাইট লবণ: NaNO2, KNO2; প্রস্তুতি: 2NaNO3 → 2NaNO2 + O2।\n20°C এর ঊর্ধ্বে অসমানুপাতিক বিয়োজন: 3HNO2 → HNO3 + 2NO + H2O।\nNO2⁻ আয়ন V-আকৃতির, বন্ধন কোণ 115°।\nN এর জারণ সংখ্যা +3 তাই HNO2 জারক ও বিজারক দুটিই: H2S → S, KI → I2 (জারণ); Cl2, Br2 কে বিজারিত করে HCl, HBr (বিজারণ ক্ষমতা), নিজে HNO3।",
+   "notes_en": "HNO2 is an unstable weak acid (pKa 3.34 at 25 C). Prep: dissolve N2O3 in water at 0 C, or add mineral acid (HCl) to cold dilute NaNO2: NaNO2 + HCl -> HNO2 + NaCl.\nBelow 5 C the solution is fairly stable; at 0-5 C aniline + NaNO2 + HCl gives benzenediazonium chloride.\nNitrites: NaNO2, KNO2; prep: 2NaNO3 -> 2NaNO2 + O2.\nAbove 20 C it disproportionates: 3HNO2 -> HNO3 + 2NO + H2O.\nNO2- ion is V-shaped, bond angle 115 deg.\nWith N at +3, HNO2 is both oxidant (H2S -> S, KI -> I2) and reductant (Cl2, Br2 are reduced to HCl, HBr while HNO2 becomes HNO3).",
+   "mcqs": [
+    {
+     "question_bn": "HNO2 এর pKa মান (25°C) কত?",
+     "question_en": "pKa of HNO2 at 25 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.5",
+       "en": "1.5"
+      },
+      {
+       "id": "b",
+       "bn": "3.34",
+       "en": "3.34"
+      },
+      {
+       "id": "c",
+       "bn": "7.0",
+       "en": "7.0"
+      },
+      {
+       "id": "d",
+       "bn": "9.2",
+       "en": "9.2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে pKa = 3.34 দেওয়া আছে।",
+     "explanation_en": "The book gives pKa = 3.34.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডায়াজোনিয়াম লবণ প্রস্তুতিতে HNO2 কোন তাপমাত্রায় ব্যবহৃত হয়?",
+     "question_en": "At what temperature range is HNO2 used for diazonium salt?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0–5°C",
+       "en": "0–5°C"
+      },
+      {
+       "id": "b",
+       "bn": "50°C",
+       "en": "50°C"
+      },
+      {
+       "id": "c",
+       "bn": "100°C",
+       "en": "100°C"
+      },
+      {
+       "id": "d",
+       "bn": "200°C",
+       "en": "200°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যানিলিন + NaNO2 + HCl, 0–5°C এ।",
+     "explanation_en": "Aniline + NaNO2 + HCl at 0-5 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "20°C এর ঊর্ধ্বে HNO2 এর অসমানুপাতিক বিয়োজনে উৎপন্ন হয় —",
+     "question_en": "Disproportionation of HNO2 above 20 C gives —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HNO3, NO ও H2O",
+       "en": "HNO3, NO ও H2O"
+      },
+      {
+       "id": "b",
+       "bn": "NH3 ও O2",
+       "en": "NH3 ও O2"
+      },
+      {
+       "id": "c",
+       "bn": "N2 ও H2O",
+       "en": "N2 ও H2O"
+      },
+      {
+       "id": "d",
+       "bn": "NO2 ও H2",
+       "en": "NO2 ও H2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "3HNO2 → HNO3 + 2NO + H2O।",
+     "explanation_en": "3HNO2 -> HNO3 + 2NO + H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NO2⁻ আয়নের আকৃতি ও বন্ধন কোণ —",
+     "question_en": "Shape and bond angle of NO2-?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "V-আকৃতি, 115°",
+       "en": "V-আকৃতি, 115°"
+      },
+      {
+       "id": "b",
+       "bn": "রৈখিক, 180°",
+       "en": "রৈখিক, 180°"
+      },
+      {
+       "id": "c",
+       "bn": "ত্রিকোণীয়, 120°",
+       "en": "ত্রিকোণীয়, 120°"
+      },
+      {
+       "id": "d",
+       "bn": "চতুস্তলকীয়, 109.5°",
+       "en": "চতুস্তলকীয়, 109.5°"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী V-আকৃতি, বন্ধন কোণ 115°।",
+     "explanation_en": "V-shaped with bond angle 115 deg per the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HNO2 + KI বিক্রিয়ায় HNO2 কী ধর্ম প্রদর্শন করে?",
+     "question_en": "HNO2 acts as what in its reaction with KI?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জারক",
+       "en": "জারক"
+      },
+      {
+       "id": "b",
+       "bn": "বিজারক",
+       "en": "বিজারক"
+      },
+      {
+       "id": "c",
+       "bn": "অনুঘটক",
+       "en": "অনুঘটক"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু এসিড",
+       "en": "শুধু এসিড"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2KI + 2HNO2 → I2 + 2KOH + 2NO; I⁻ জারিত, HNO2 বিজারিত।",
+     "explanation_en": "I- is oxidised to I2 while HNO2 is reduced to NO, so HNO2 is the oxidant.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Cl2 + HNO2 + H2O → 2HCl + HNO3 বিক্রিয়ায় HNO2 এর N এর জারণ সংখ্যা পরিবর্তন —",
+     "question_en": "Change in oxidation number of N in Cl2 + HNO2 + H2O -> 2HCl + HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+3 থেকে +5",
+       "en": "+3 থেকে +5"
+      },
+      {
+       "id": "b",
+       "bn": "+5 থেকে +3",
+       "en": "+5 থেকে +3"
+      },
+      {
+       "id": "c",
+       "bn": "+3 থেকে +2",
+       "en": "+3 থেকে +2"
+      },
+      {
+       "id": "d",
+       "bn": "+2 থেকে +5",
+       "en": "+2 থেকে +5"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HNO2 (+3) → HNO3 (+5); তাই এটি বিজারক।",
+     "explanation_en": "HNO2 (+3) -> HNO3 (+5); it acts as a reductant.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.22",
+   "title_bn": "নাইট্রিক এসিড",
+   "title_en": "Nitric acid (HNO3)",
+   "notes_bn": "HNO3 উদ্বায়ী এসিড (স্ফুটনাঙ্ক 86°C); তাই যেকোনো নাইট্রেট লবণকে কম উদ্বায়ী এসিডের সাথে পাতন করে পাওয়া যায়।\nপরীক্ষাগারে: NaNO3 (বা KNO3) + গাঢ় H2SO4 মিশ্রণ 200–300°C এ পাতন: NaNO3 + H2SO4 → NaHSO4 + HNO3।\nউচ্চ তাপমাত্রায় (800°C) NaHSO4 আরও NaNO3 এর সাথে বিক্রিয়া করে Na2SO4 ও HNO3 দেয়।",
+   "notes_en": "HNO3 is a volatile acid (bp 86 C), so any nitrate heated with a less volatile acid gives HNO3 on distillation.\nLab prep: NaNO3 (or KNO3) with conc. H2SO4 distilled at 200-300 C: NaNO3 + H2SO4 -> NaHSO4 + HNO3.\nAt high temperature (800 C) NaHSO4 reacts with more NaNO3 giving Na2SO4 and HNO3.",
+   "mcqs": [
+    {
+     "question_bn": "HNO3 এর স্ফুটনাঙ্ক কত?",
+     "question_en": "Boiling point of HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "86°C",
+       "en": "86°C"
+      },
+      {
+       "id": "b",
+       "bn": "120°C",
+       "en": "120°C"
+      },
+      {
+       "id": "c",
+       "bn": "100°C",
+       "en": "100°C"
+      },
+      {
+       "id": "d",
+       "bn": "200°C",
+       "en": "200°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী 86°C।",
+     "explanation_en": "86 C per the book.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পরীক্ষাগারে HNO3 প্রস্তুতিতে NaNO3 এর সাথে কোনটি ব্যবহৃত হয়?",
+     "question_en": "NaNO3 is heated with which acid in the lab prep?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় H2SO4",
+       "en": "গাঢ় H2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "লঘু HCl",
+       "en": "লঘু HCl"
+      },
+      {
+       "id": "c",
+       "bn": "গাঢ় HNO3",
+       "en": "গাঢ় HNO3"
+      },
+      {
+       "id": "d",
+       "bn": "H3PO4 (লঘু)",
+       "en": "H3PO4 (লঘু)"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaNO3 + H2SO4 → NaHSO4 + HNO3।",
+     "explanation_en": "NaNO3 + H2SO4 -> NaHSO4 + HNO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পরীক্ষাগারে HNO3 প্রস্তুতিতে সাধারণ উত্তাপের পরিসর —",
+     "question_en": "Usual heating range in lab prep of HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "200–300°C",
+       "en": "200–300°C"
+      },
+      {
+       "id": "b",
+       "bn": "0–5°C",
+       "en": "0–5°C"
+      },
+      {
+       "id": "c",
+       "bn": "30–50°C",
+       "en": "30–50°C"
+      },
+      {
+       "id": "d",
+       "bn": "900°C",
+       "en": "900°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিশ্রণ 200–300°C এ পাতিত হয়।",
+     "explanation_en": "The mixture is distilled at 200-300 C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "800°C এ NaHSO4 + NaNO3 → ?",
+     "question_en": "At 800 C NaHSO4 + NaNO3 gives —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na2SO4 ও HNO3",
+       "en": "Na2SO4 ও HNO3"
+      },
+      {
+       "id": "b",
+       "bn": "Na2O ও NO2",
+       "en": "Na2O ও NO2"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH ও N2",
+       "en": "NaOH ও N2"
+      },
+      {
+       "id": "d",
+       "bn": "Na2SO3 ও NH3",
+       "en": "Na2SO3 ও NH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaNO3 + NaHSO4 → Na2SO4 + HNO3।",
+     "explanation_en": "NaNO3 + NaHSO4 -> Na2SO4 + HNO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইট্রেট লবণ থেকে HNO3 পাওয়া যায় কেন?",
+     "question_en": "Why can HNO3 be obtained from its salts by H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HNO3 উদ্বায়ী এসিড",
+       "en": "HNO3 উদ্বায়ী এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "HNO3 শক্তিশালী ক্ষার",
+       "en": "HNO3 শক্তিশালী ক্ষার"
+      },
+      {
+       "id": "c",
+       "bn": "H2SO4 উদ্বায়ী",
+       "en": "H2SO4 উদ্বায়ী"
+      },
+      {
+       "id": "d",
+       "bn": "নাইট্রেট অদ্রবণীয়",
+       "en": "নাইট্রেট অদ্রবণীয়"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কম উদ্বায়ী H2SO4 উদ্বায়ী HNO3 কে স্থানচ্যুত করে পাতিত হয়।",
+     "explanation_en": "Less volatile H2SO4 displaces the volatile HNO3, which distils over.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.23",
+   "title_bn": "নাইট্রিক এসিডের শিল্পোৎপাদন",
+   "title_en": "Industrial manufacture of nitric acid",
+   "notes_bn": "অসওয়াল্ড পদ্ধতি: বিশুদ্ধ শুষ্ক NH3 কে বায়ুর O2 দ্বারা 900°C এ Pt-Rh (90% Pt, 10% Rh) প্রভাবকের উপস্থিতিতে NO এ জারিত করা হয়।\nবিক্রিয়া: 4NH3 + 5O2 → 4NO + 6H2O (ΔH = −909 kJ/mol); 2NO + O2 → 2NO2 (ΔH = −115 kJ/mol); 4NO2 + O2 + 2H2O → 4HNO3।\nNH3 : বায়ু = 1 : 8 আয়তনে, 4–10 বায়ুচাপে প্রভাবক প্রকোষ্ঠে; বিক্রিয়া তাপ উৎপাদী, শুরুতে বৈদ্যুতিক উপায়ে উত্তপ্ত।\nগ্যাস 50–15°C এ শীতল হয়ে জারণ স্তম্ভে NO → NO2; শোষক স্তম্ভে (কোয়ার্টজ/পাথর ভর্তি) NO2, O2 ও পানি → লঘু HNO3।\nপাতনে প্রায় 68% HNO3 ও 32% পানির সমস্ফুটন মিশ্রণ (120.5°C); P2O5 দ্বারা নিরুদনে বিশুদ্ধ HNO3 (86°C)।",
+   "notes_en": "Ostwald process: pure dry NH3 is oxidised by air O2 to NO at about 900 C over a Pt-Rh catalyst (90% Pt, 10% Rh).\nReactions: 4NH3 + 5O2 -> 4NO + 6H2O (dH = -909 kJ/mol); 2NO + O2 -> 2NO2 (dH = -115 kJ/mol); 4NO2 + O2 + 2H2O -> 4HNO3.\nNH3 : air = 1 : 8 by volume at 4-10 atm in the catalyst chamber; the reaction is exothermic, started by electric heating.\nGases cooled (50-15 C) and oxidised to NO2 in an oxidation tower; in the absorption tower (packed with quartz/stones) NO2, O2 and water give dilute HNO3.\nDistillation gives a constant-boiling mixture of about 68% HNO3 and 32% water (120.5 C); P2O5 dehydrates it to pure HNO3 (86 C).",
+   "mcqs": [
+    {
+     "question_bn": "অসওয়াল্ড পদ্ধতিতে প্রভাবক কোনটি?",
+     "question_en": "Catalyst in the Ostwald process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Pt-Rh সংকর",
+       "en": "Pt-Rh সংকর"
+      },
+      {
+       "id": "b",
+       "bn": "Fe",
+       "en": "Fe"
+      },
+      {
+       "id": "c",
+       "bn": "V2O5",
+       "en": "V2O5"
+      },
+      {
+       "id": "d",
+       "bn": "Ni",
+       "en": "Ni"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "90% Pt ও 10% Rh সংকর।",
+     "explanation_en": "Pt-Rh alloy (90% Pt, 10% Rh).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অসওয়াল্ড পদ্ধতির কাঁচামাল —",
+     "question_en": "Raw material for the Ostwald process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH3 ও বায়ু",
+       "en": "NH3 ও বায়ু"
+      },
+      {
+       "id": "b",
+       "bn": "N2 ও H2",
+       "en": "N2 ও H2"
+      },
+      {
+       "id": "c",
+       "bn": "NO2 ও HCl",
+       "en": "NO2 ও HCl"
+      },
+      {
+       "id": "d",
+       "bn": "NaNO3 ও H2SO4",
+       "en": "NaNO3 ও H2SO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH3 কে বায়ুর O2 দ্বারা জারিত করা হয়।",
+     "explanation_en": "NH3 is oxidised by air oxygen.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রভাবক প্রকোষ্ঠের তাপমাত্রা প্রায় কত?",
+     "question_en": "Approximate temperature of the catalyst chamber?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "900°C",
+       "en": "900°C"
+      },
+      {
+       "id": "b",
+       "bn": "50°C",
+       "en": "50°C"
+      },
+      {
+       "id": "c",
+       "bn": "120°C",
+       "en": "120°C"
+      },
+      {
+       "id": "d",
+       "bn": "30°C",
+       "en": "30°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রায় 900°C এ NH3 → NO।",
+     "explanation_en": "About 900 C for NH3 -> NO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NH3 ও বায়ুর আয়তন অনুপাত কত?",
+     "question_en": "Volume ratio of NH3 to air?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1 : 8",
+       "en": "1 : 8"
+      },
+      {
+       "id": "b",
+       "bn": "1 : 1",
+       "en": "1 : 1"
+      },
+      {
+       "id": "c",
+       "bn": "3 : 1",
+       "en": "3 : 1"
+      },
+      {
+       "id": "d",
+       "bn": "8 : 1",
+       "en": "8 : 1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 1 : 8 আয়তনে মেশানো হয়।",
+     "explanation_en": "Mixed 1 : 8 by volume per the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "শোষক স্তম্ভে সঠিক বিক্রিয়া কোনটি?",
+     "question_en": "Correct absorption-tower reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4NO2 + O2 + 2H2O → 4HNO3",
+       "en": "4NO2 + O2 + 2H2O → 4HNO3"
+      },
+      {
+       "id": "b",
+       "bn": "2NO → N2 + O2",
+       "en": "2NO → N2 + O2"
+      },
+      {
+       "id": "c",
+       "bn": "NH3 + O2 → N2",
+       "en": "NH3 + O2 → N2"
+      },
+      {
+       "id": "d",
+       "bn": "NO + H2O → HNO3 + H2",
+       "en": "NO + H2O → HNO3 + H2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NO2, O2 ও পানি মিলে HNO3 দেয়।",
+     "explanation_en": "NO2, O2 and water give HNO3.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.24",
+   "title_bn": "বাণিজ্যিক নাইট্রিক এসিডের শ্রেণীবিভাগ",
+   "title_en": "Classification of commercial nitric acids",
+   "notes_bn": "বাজারে চার প্রকার: (১) সাধারণ শক্তিশালী: 68% HNO3, আপেক্ষিক গুরুত্ব 1.41, 15 M, 120.5°C এ স্ফুটনশীল (সমস্ফুটন মিশ্রণ)।\n(২) গাঢ় HNO3: 98% HNO3, আ.গু. 1.5, 22 M।\n(৩) বিশুদ্ধ HNO3: 99.8%, বর্ণহীন, 24 M।\n(৪) ধূমায়মান HNO3: 96–98% HNO3 এ অধিক NO2 দ্রবীভূত; বাদামি NO2 ধোঁয়া; শক্তিশালী জারক।",
+   "notes_en": "Four types: (1) ordinary strong: 68% HNO3, sp. gr. 1.41, 15 M, boils at 120.5 C (constant-boiling mixture).\n(2) Concentrated: 98% HNO3, sp. gr. 1.5, 22 M.\n(3) Pure: 99.8%, colourless, 24 M.\n(4) Fuming: 96-98% HNO3 with excess dissolved NO2; gives brown NO2 fumes; strong oxidant.",
+   "mcqs": [
+    {
+     "question_bn": "সাধারণ বাণিজ্যিক শক্তিশালী নাইট্রিক এসিডে HNO3 এর শতকরা পরিমাণ?",
+     "question_en": "HNO3 percentage in ordinary strong commercial acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "68%",
+       "en": "68%"
+      },
+      {
+       "id": "b",
+       "bn": "98%",
+       "en": "98%"
+      },
+      {
+       "id": "c",
+       "bn": "99.8%",
+       "en": "99.8%"
+      },
+      {
+       "id": "d",
+       "bn": "32%",
+       "en": "32%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী 68%।",
+     "explanation_en": "68% per the book.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ধূমায়মান HNO3 এ কোন গ্যাস অতিরিক্ত দ্রবীভূত থাকে?",
+     "question_en": "Which gas is dissolved in fuming HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "b",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "c",
+       "bn": "N2O",
+       "en": "N2O"
+      },
+      {
+       "id": "d",
+       "bn": "H2",
+       "en": "H2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অধিক NO2 দ্রবীভূত, তাই বাদামি ধোঁয়া।",
+     "explanation_en": "Excess NO2 is dissolved, hence brown fumes.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "68% HNO3 এর মোলারিটি কত?",
+     "question_en": "Molarity of 68% HNO3 as given?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "15 M",
+       "en": "15 M"
+      },
+      {
+       "id": "b",
+       "bn": "22 M",
+       "en": "22 M"
+      },
+      {
+       "id": "c",
+       "bn": "24 M",
+       "en": "24 M"
+      },
+      {
+       "id": "d",
+       "bn": "18 M",
+       "en": "18 M"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 15 M দেওয়া আছে।",
+     "explanation_en": "15 M as given.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "98% HNO3 এর ঘনমাত্রা ও আ.গু. যথাক্রমে —",
+     "question_en": "Molarity and sp. gr. of 98% HNO3 —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "22 M, 1.5",
+       "en": "22 M, 1.5"
+      },
+      {
+       "id": "b",
+       "bn": "15 M, 1.41",
+       "en": "15 M, 1.41"
+      },
+      {
+       "id": "c",
+       "bn": "24 M, 1.52",
+       "en": "24 M, 1.52"
+      },
+      {
+       "id": "d",
+       "bn": "12 M, 1.2",
+       "en": "12 M, 1.2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী 22 M, আ.গু. 1.5।",
+     "explanation_en": "22 M and sp. gr. 1.5 per the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "68% HNO3 কে 120.5°C স্ফুটনাঙ্কবিশিষ্ট বলা হয় কারণ এটি —",
+     "question_en": "68% HNO3 boils at 120.5 C because it is a —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সমস্ফুটন মিশ্রণ",
+       "en": "সমস্ফুটন মিশ্রণ"
+      },
+      {
+       "id": "b",
+       "bn": "শুদ্ধ যৌগ",
+       "en": "শুদ্ধ যৌগ"
+      },
+      {
+       "id": "c",
+       "bn": "দ্বি-স্তরীয় মিশ্রণ",
+       "en": "দ্বি-স্তরীয় মিশ্রণ"
+      },
+      {
+       "id": "d",
+       "bn": "জৈব এসিড",
+       "en": "জৈব এসিড"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HNO3 ও পানির সমস্ফুটন মিশ্রণ।",
+     "explanation_en": "It is a constant-boiling (azeotropic) mixture with water.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.25",
+   "title_bn": "নাইট্রিক এসিডের ধর্ম",
+   "title_en": "Properties of HNO3",
+   "notes_bn": "বিশুদ্ধ HNO3 বর্ণহীন তরল; স্ফুটনাঙ্ক 86°C, আ.গু. 1.52, হিমাঙ্ক −41.3°C; পানিতে যেকোনো অনুপাতে দ্রবণীয়।\nঅম্ল ধর্ম: লঘু দ্রবণে প্রায় 93% আয়নিত; নীল লিটমাসকে লাল করে; NaOH এর সাথে NaNO3 + H2O; Mg + 2HNO3 (লঘু) → Mg(NO3)2 + H2।\nজারক ধর্ম: গাঢ় HNO3 → NO2 (+4); মাঝারি গাঢ় → NO (+2); লঘু → N2O (+1); অতিলঘু → NH4⁺ (−3)।\nCu + 4HNO3 (গাঢ়) → Cu(NO3)2 + 2NO2 + 2H2O; 3Cu + 8HNO3 (মাঝারি) → 3Cu(NO3)2 + 2NO + 4H2O।\nS + 6HNO3 → H2SO4 + 2H2O + 6NO2; P + 5HNO3 → H3PO4 + H2O + 5NO2; I2 → HIO3।\nFe, Cr, Al গাঢ় HNO3 এ নিষ্ক্রিয় (Fe3O4 স্তর); অ্যাকোয়া রেজিয়া = 1 mol HNO3 : 3 mol HCl (গাঢ়), Au, Pt দ্রবীভূত করে; ডেভার্ডা সংকর (45% Al, 50% Cu, 5% Zn) NaOH এর সাথে নাইট্রেটকে NH3 এ বিজারিত করে।",
+   "notes_en": "Pure HNO3 is a colourless liquid; bp 86 C, sp. gr. 1.52, mp -41.3 C; miscible with water.\nAcidic: about 93% ionised in dilute solution; turns blue litmus red; NaOH -> NaNO3 + H2O; Mg + 2HNO3 (dil) -> Mg(NO3)2 + H2.\nOxidising: conc. -> NO2 (+4); moderately conc. -> NO (+2); dilute -> N2O (+1); very dilute -> NH4+ (-3).\nCu + 4HNO3(conc) -> Cu(NO3)2 + 2NO2 + 2H2O; 3Cu + 8HNO3 (moderate) -> 3Cu(NO3)2 + 2NO + 4H2O.\nS + 6HNO3 -> H2SO4 + 2H2O + 6NO2; P + 5HNO3 -> H3PO4 + H2O + 5NO2; I2 -> HIO3.\nFe, Cr, Al are passive in conc. HNO3 (Fe3O4 film); aqua regia = 1 mol HNO3 : 3 mol HCl (conc.), dissolves Au, Pt; Devarda's alloy (45% Al, 50% Cu, 5% Zn) with NaOH reduces nitrate to NH3.",
+   "mcqs": [
+    {
+     "question_bn": "কপারের সাথে গাঢ় HNO3 বিক্রিয়ায় কোন গ্যাস উৎপন্ন হয়?",
+     "question_en": "Cu with conc. HNO3 evolves —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "b",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "c",
+       "bn": "N2O",
+       "en": "N2O"
+      },
+      {
+       "id": "d",
+       "bn": "NH3",
+       "en": "NH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Cu + 4HNO3 → Cu(NO3)2 + 2NO2 + 2H2O।",
+     "explanation_en": "Cu + 4HNO3 -> Cu(NO3)2 + 2NO2 + 2H2O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাকোয়া রেজিয়ায় গাঢ় HNO3 : গাঢ় HCl এর মোল অনুপাত —",
+     "question_en": "Mole ratio HNO3 : HCl in aqua regia?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1 : 3",
+       "en": "1 : 3"
+      },
+      {
+       "id": "b",
+       "bn": "3 : 1",
+       "en": "3 : 1"
+      },
+      {
+       "id": "c",
+       "bn": "1 : 1",
+       "en": "1 : 1"
+      },
+      {
+       "id": "d",
+       "bn": "2 : 3",
+       "en": "2 : 3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1 mol HNO3 ও 3 mol HCl।",
+     "explanation_en": "1 mol HNO3 to 3 mol HCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গাঢ় HNO3 এ কোন ধাতু নিষ্ক্রিয় হয়?",
+     "question_en": "Which metal is passive in conc. HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Fe",
+       "en": "Fe"
+      },
+      {
+       "id": "b",
+       "bn": "Cu",
+       "en": "Cu"
+      },
+      {
+       "id": "c",
+       "bn": "Zn",
+       "en": "Zn"
+      },
+      {
+       "id": "d",
+       "bn": "Pb",
+       "en": "Pb"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Fe, Cr, Al এ অক্সাইড স্তরের কারণে নিষ্ক্রিয়তা ঘটে।",
+     "explanation_en": "Fe, Cr, Al become passive due to an oxide film.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "3Cu + 8HNO3 (মাঝারি গাঢ়) বিক্রিয়ায় উৎপন্ন গ্যাস এবং N এর জারণ সংখ্যার পরিবর্তন —",
+     "question_en": "In 3Cu + 8HNO3 (moderately conc.), gas formed and change in N oxidation number —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO, +5 → +2",
+       "en": "NO, +5 → +2"
+      },
+      {
+       "id": "b",
+       "bn": "NO2, +5 → +4",
+       "en": "NO2, +5 → +4"
+      },
+      {
+       "id": "c",
+       "bn": "N2O, +5 → +1",
+       "en": "N2O, +5 → +1"
+      },
+      {
+       "id": "d",
+       "bn": "NH3, +5 → −3",
+       "en": "NH3, +5 → −3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মাঝারি গাঢ় HNO3 এ 6e⁻ দ্বারা NO গঠিত।",
+     "explanation_en": "Six electrons are gained: NO is formed, +5 -> +2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "S + 6HNO3 (গাঢ়) → ? বিক্রিয়ার উৎপাদ —",
+     "question_en": "Products of S + 6HNO3 (conc.)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2SO4 + 2H2O + 6NO2",
+       "en": "H2SO4 + 2H2O + 6NO2"
+      },
+      {
+       "id": "b",
+       "bn": "SO2 + NO",
+       "en": "SO2 + NO"
+      },
+      {
+       "id": "c",
+       "bn": "H2S + NO2",
+       "en": "H2S + NO2"
+      },
+      {
+       "id": "d",
+       "bn": "SO3 + NH3",
+       "en": "SO3 + NH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সালফার জারিত হয়ে H2SO4, HNO3 বিজারিত হয়ে NO2।",
+     "explanation_en": "S is oxidised to H2SO4; HNO3 is reduced to NO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গাঢ় HNO3 দ্বারা P এর জারণে প্রতি mol P এ কত mol NO2 উৎপন্ন হয়?",
+     "question_en": "Mol of NO2 per mol P oxidised by conc. HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "b",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "d",
+       "bn": "10",
+       "en": "10"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "P + 5HNO3 → H3PO4 + H2O + 5NO2।",
+     "explanation_en": "P + 5HNO3 -> H3PO4 + H2O + 5NO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাকোয়া রেজিয়ায় Au দ্রবীভূত হয়ে গঠন করে —",
+     "question_en": "Gold in aqua regia forms —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HAuCl4",
+       "en": "HAuCl4"
+      },
+      {
+       "id": "b",
+       "bn": "AuNO3",
+       "en": "AuNO3"
+      },
+      {
+       "id": "c",
+       "bn": "Au2O3",
+       "en": "Au2O3"
+      },
+      {
+       "id": "d",
+       "bn": "AuH",
+       "en": "AuH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Au + [Cl] → AuCl3, পরে ক্লোরো অরিক এসিড HAuCl4।",
+     "explanation_en": "AuCl3 then chloroauric acid HAuCl4.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ডেভার্ডা সংকর ও NaOH দ্বারা নাইট্রেট আয়ন বিজারিত হয়ে উৎপন্ন করে —",
+     "question_en": "Devarda's alloy with NaOH reduces nitrate to —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "b",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "c",
+       "bn": "N2O",
+       "en": "N2O"
+      },
+      {
+       "id": "d",
+       "bn": "NO",
+       "en": "NO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "4Zn + NO3⁻ + 7OH⁻ + 6H2O → 4[Zn(OH)4]²⁻ + NH3।",
+     "explanation_en": "Nitrate is reduced to NH3.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.26",
+   "title_bn": "নাইট্রিক এসিডের ব্যবহার",
+   "title_en": "Uses of nitric acid",
+   "notes_bn": "সবচেয়ে বেশি ব্যবহার অ্যামোনিয়াম নাইট্রেট সার উৎপাদনে।\nবিস্ফোরক: TNT, নাইট্রোগ্লিসারিন, পটাসিয়াম নাইট্রেট, অ্যামোনিয়াম নাইট্রেট; TNB গানকটন ইত্যাদি।\nকৃত্রিম রং, সেলুলয়েড; প্রায় 5% সাইক্লোহেক্সানল তৈরিতে যা থেকে নাইলন-6, নাইলন-6:6।\nস্বর্ণকারের দোকানে স্বর্ণ থেকে খাদ দূর করতে; কপার, ব্রাস, ব্রোঞ্জে নকশা করতে; পরীক্ষাগারে বিকারক।",
+   "notes_en": "Largest use: manufacture of ammonium nitrate fertiliser.\nExplosives: TNT, nitroglycerine, potassium nitrate, ammonium nitrate; also TNB, guncotton etc.\nArtificial dyes, celluloid; about 5% goes to cyclohexanol, from which nylon-6 and nylon-6,6 are made.\nGoldsmiths use it to remove alloy metals from gold; etching designs on copper, brass, bronze; common lab reagent.",
+   "mcqs": [
+    {
+     "question_bn": "নাইট্রিক এসিডের সবচেয়ে বেশি ব্যবহার কোনটিতে?",
+     "question_en": "Greatest use of HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামোনিয়াম নাইট্রেট সার",
+       "en": "অ্যামোনিয়াম নাইট্রেট সার"
+      },
+      {
+       "id": "b",
+       "bn": "রং শিল্প",
+       "en": "রং শিল্প"
+      },
+      {
+       "id": "c",
+       "bn": "ফটোগ্রাফি",
+       "en": "ফটোগ্রাফি"
+      },
+      {
+       "id": "d",
+       "bn": "সাবান",
+       "en": "সাবান"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী অ্যামোনিয়াম নাইট্রেট সার উৎপাদনে সবচেয়ে বেশি।",
+     "explanation_en": "Most is used for ammonium nitrate fertiliser.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি HNO3 দ্বারা তৈরি বিস্ফোরক?",
+     "question_en": "Which explosive is made with HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TNT",
+       "en": "TNT"
+      },
+      {
+       "id": "b",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "CaCO3",
+       "en": "CaCO3"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH",
+       "en": "NaOH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "TNT, নাইট্রোগ্লিসারিন ইত্যাদি।",
+     "explanation_en": "TNT, nitroglycerine etc.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নাইলন-6 তৈরির জন্য HNO3 কোন যৌগ উৎপাদনে লাগে?",
+     "question_en": "HNO3 is used for which intermediate for nylon-6?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইক্লোহেক্সানল",
+       "en": "সাইক্লোহেক্সানল"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজিন",
+       "en": "বেনজিন"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানল",
+       "en": "মিথানল"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রায় 5% HNO3 সাইক্লোহেক্সানল তৈরিতে।",
+     "explanation_en": "About 5% is used to make cyclohexanol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "স্বর্ণকার HNO3 ব্যবহার করে —",
+     "question_en": "Goldsmiths use HNO3 to —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "স্বর্ণ থেকে খাদ দূর করতে",
+       "en": "স্বর্ণ থেকে খাদ দূর করতে"
+      },
+      {
+       "id": "b",
+       "bn": "স্বর্ণ গলাতে",
+       "en": "স্বর্ণ গলাতে"
+      },
+      {
+       "id": "c",
+       "bn": "স্বর্ণ রং করতে",
+       "en": "স্বর্ণ রং করতে"
+      },
+      {
+       "id": "d",
+       "bn": "স্বর্ণ জমাতে",
+       "en": "স্বর্ণ জমাতে"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HNO3 স্বর্ণকে দ্রবীভূত না করে খাদ ধাতু দূর করে।",
+     "explanation_en": "It removes alloy metals without dissolving gold.",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "1.15",
+   "stimulus_bn": "একটি ল্যাবে NH4NO3 কে প্রায় 250°C এ উত্তপ্ত করে একটি বর্ণহীন গ্যাস X সংগ্রহ করা হলো। জ্বলন্ত ম্যাগনেসিয়াম ফিতা X এ জ্বলে উজ্জ্বল শিখা দেয়। আরেকটি পরীক্ষায় Cu ও 50% গাঢ় HNO3 বিক্রিয়ায় গ্যাস Y পাওয়া গেল যা বাতাসে বাদামি হয়ে যায়।",
+   "stimulus_en": "In a lab, NH4NO3 is heated at about 250 C and a colourless gas X is collected. A burning magnesium ribbon burns brightly in X. In another experiment Cu and 50% conc. HNO3 give gas Y that turns brown in air.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "গ্যাস X এর নাম কী?",
+     "question_en": "Name gas X.",
+     "model_answer_bn": "নাইট্রাস অক্সাইড (N2O)।",
+     "model_answer_en": "Nitrous oxide (N2O)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "X প্রস্তুতির সমীকরণ লিখ এবং Y গ্যাস বাতাসে বাদামি হয় কেন ব্যাখ্যা কর।",
+     "question_en": "Write the equation for preparing X and explain why Y turns brown in air.",
+     "model_answer_bn": "NH4NO3 → N2O + 2H2O। Y = NO বাতাসের O2 এর সাথে যুক্ত হয়ে বাদামি NO2 তৈরি করে।",
+     "model_answer_en": "NH4NO3 -> N2O + 2H2O. Y = NO combines with O2 in air forming brown NO2."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Mg এর X এ দহন বিক্রিয়ার সমীকরণ লিখ এবং Y প্রস্তুতির সমীকরণ দাও।",
+     "question_en": "Write the equation for burning Mg in X and the equation for preparing Y.",
+     "model_answer_bn": "Mg + N2O → MgO + N2; 3Cu + 8HNO3 → 3Cu(NO3)2 + 2NO + 4H2O।",
+     "model_answer_en": "Mg + N2O -> MgO + N2; 3Cu + 8HNO3 -> 3Cu(NO3)2 + 2NO + 4H2O."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "X নিজে দাহ্য না হলেও দহনে সাহায্য করে কেন, এবং Y প্রকৃতিতে নাইট্রোজেন চক্রে কীভাবে ভূমিকা রাখে বিশ্লেষণ কর।",
+     "question_en": "Analyse why X, though not itself combustible, supports combustion, and how Y takes part in the nitrogen cycle.",
+     "model_answer_bn": "উচ্চ তাপমাত্রায় X, N2 ও O2 এ বিয়োজিত হয়; মুক্ত O2 দহনে সহায়তা করে। Y (NO) O2 এর সাথে NO2 দেয়, NO2 পানির সাথে বিক্রিয়ায় HNO3 তৈরি করে যা মাটিতে নাইট্রেট হয়ে উদ্ভিদের নাইট্রোজেনের উৎস হয়।",
+     "model_answer_en": "At high temperature X decomposes to N2 and O2 and the O2 supports burning. Y (NO) gives NO2 with O2; NO2 with water gives HNO3, which supplies nitrate to the soil for plants."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.22",
+   "stimulus_bn": "রাকিব একটি টেস্টটিউবে সোডিয়াম নাইট্রেট ও গাঢ় H2SO4 নিয়ে মৃদু তাপে উত্তপ্ত করে একটি তরল A সংগ্রহ করল। A এর সাথে সে কপার চুর্ণ মেশালে বাদামি গ্যাস B পাওয়া গেল। A ও গাঢ় HCl 1:3 মোল অনুপাতে মিশ্রিত করে সে একটি স্বর্ণের আংটি দ্রবীভূত করল।",
+   "stimulus_en": "Rakib heated sodium nitrate with conc. H2SO4 and collected a liquid A. Adding copper powder to A (conc.) gave a brown gas B. A mixed with conc. HCl in a 1:3 mole ratio dissolved a gold ring.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "A ও B এর নাম লিখ।",
+     "question_en": "Name A and B.",
+     "model_answer_bn": "A = নাইট্রিক এসিড (HNO3); B = নাইট্রোজেন ডাইঅক্সাইড (NO2)।",
+     "model_answer_en": "A = nitric acid (HNO3); B = nitrogen dioxide (NO2)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "A প্রস্তুতির সমীকরণ লিখ এবং A পাতিত হয় কেন ব্যাখ্যা কর।",
+     "question_en": "Write the equation for preparing A and explain why A distils over.",
+     "model_answer_bn": "NaNO3 + H2SO4 → NaHSO4 + HNO3। HNO3 উদ্বায়ী (স্ফুটনাঙ্ক 86°C) তাই বাষ্পীভূত হয়ে পাতিত হয়।",
+     "model_answer_en": "NaNO3 + H2SO4 -> NaHSO4 + HNO3. HNO3 is volatile (bp 86 C), so it distils."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Cu ও গাঢ় A এর বিক্রিয়ার সমীকরণ লিখ এবং স্বর্ণ দ্রবীভূত হওয়ার বিক্রিয়ার যোগফল সমীকরণ দাও।",
+     "question_en": "Write the Cu + conc. A equation and the net equation for dissolving gold.",
+     "model_answer_bn": "Cu + 4HNO3 → Cu(NO3)2 + 2NO2 + 2H2O; 3HNO3 + 11HCl + 2Au → 2HAuCl4 + 6H2O + 3NOCl (বইয়ের যোগফল সমীকরণ)।",
+     "model_answer_en": "Cu + 4HNO3 -> Cu(NO3)2 + 2NO2 + 2H2O; net: 3HNO3 + 11HCl + 2Au -> 2HAuCl4 + 6H2O + 3NOCl (as in the book)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "A শুধু HNO3 দিয়ে স্বর্ণ দ্রবীভূত হয় না কিন্তু 1:3 মিশ্রণে হয় কেন যুক্তি দাও।",
+     "question_en": "Justify why HNO3 alone cannot dissolve gold but the 1:3 mixture can.",
+     "model_answer_bn": "HNO3 HCl কে জারিত করে নাসেন্ট ক্লোরিন [Cl] ও NOCl উৎপন্ন করে। জায়মান ক্লোরিন Au কে AuCl3 তে পরিণত করে, এরপর HCl এর সাথে HAuCl4 গঠন করে দ্রবণীয় হয়। শুধু HNO3 এ এমন জায়মান Cl নেই।",
+     "model_answer_en": "HNO3 oxidises HCl to nascent chlorine [Cl] and NOCl. Nascent Cl converts Au to AuCl3, which with HCl gives soluble HAuCl4. HNO3 alone has no nascent Cl."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.23",
+   "stimulus_bn": "একটি কারখানায় 1:8 আয়তন অনুপাতে NH3 ও বায়ু 900°C এ Pt-Rh প্রভাবকের উপর দিয়ে 4–10 বায়ুচাপে চালনা করা হয়। উৎপন্ন গ্যাস শীতল করে ও শোষক স্তম্ভে পানিতে শোষিত করে লঘু HNO3 পাওয়া যায়, যা পাতন করে 68% দ্রবণ ও পরে P2O5 দিয়ে বিশুদ্ধ করা হয়।",
+   "stimulus_en": "A factory passes NH3 and air in 1:8 volume ratio over Pt-Rh catalyst at 900 C and 4-10 atm. The product gas is cooled and absorbed in water in an absorption tower to give dilute HNO3, which is distilled to a 68% solution and then purified with P2O5.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "এই পদ্ধতির নাম কী?",
+     "question_en": "Name this process.",
+     "model_answer_bn": "অসওয়াল্ড পদ্ধতি।",
+     "model_answer_en": "Ostwald process."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রভাবক প্রকোষ্ঠের বিক্রিয়ার সমীকরণ লিখ।",
+     "question_en": "Write the catalyst-chamber reaction.",
+     "model_answer_bn": "4NH3 + 5O2 → 4NO + 6H2O (ΔH = −909 kJ/mol)।",
+     "model_answer_en": "4NH3 + 5O2 -> 4NO + 6H2O (dH = -909 kJ/mol)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "NO থেকে HNO3 পর্যন্ত ধাপগুলোর সমীকরণ লিখ।",
+     "question_en": "Write the steps from NO to HNO3.",
+     "model_answer_bn": "2NO + O2 → 2NO2 (জারণ স্তম্ভ); 4NO2 + O2 + 2H2O → 4HNO3 (শোষক স্তম্ভ)।",
+     "model_answer_en": "2NO + O2 -> 2NO2 (oxidation tower); 4NO2 + O2 + 2H2O -> 4HNO3 (absorption tower)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "বিক্রিয়া শুরুর পর কেন প্রভাবককে আর বাইরে থেকে উত্তপ্ত করতে হয় না এবং পাতনে কেন সরাসরি 100% HNO3 পাওয়া যায় না বিশ্লেষণ কর।",
+     "question_en": "Analyse why external heating of the catalyst is unnecessary after start-up, and why distillation cannot give 100% HNO3 directly.",
+     "model_answer_bn": "NH3 এর জারণ তাপ উৎপাদী (ΔH = −909 kJ/mol), নির্গত তাপ বিক্রিয়া চালু রাখে। লঘু HNO3 পাতনে প্রায় 68% HNO3 ও 32% পানির সমস্ফুটন মিশ্রণ (120.5°C) পাওয়া যায়, যার সংযুক্তি পরিবর্তিত হয় না; তাই P2O5 দিয়ে নিরুদন করতে হয়।",
+     "model_answer_en": "Oxidation of NH3 is exothermic (dH = -909 kJ/mol); the released heat sustains the reaction. Distillation gives a constant-boiling mixture (68% HNO3, 32% water, 120.5 C) whose composition does not change, so P2O5 is used for dehydration."
+    }
+   ]
+  }
+ ],
+ "notes": "All 14 pages (PDF 32-45) read; all legible. Printed page 29 also holds sections 1.27-1.29 (nitrates), outside this chunk and not covered. Book numbers 'Cu + HNO3 moderate' etc. as printed; 1.23 question sums dH values only as a simple arithmetic exercise."
+}

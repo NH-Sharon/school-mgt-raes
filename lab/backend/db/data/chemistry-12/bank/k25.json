@@ -1,0 +1,2165 @@
+{
+ "chapter_no": 9,
+ "topics": [
+  {
+   "section_no": "9.1",
+   "title_bn": "ভূমিকা",
+   "title_en": "Introduction to organic acids",
+   "notes_bn": "জৈব এসিডে কার্বক্সিল মূলক (-COOH) বা সালফোনিক এসিড মূলক থাকে; এখানে শুধু কার্বক্সিলিক এসিড আলোচিত।\nকার্বক্সিলিক এসিড: অণুতে একযোজী -COOH থাকে ও অম্লধর্ম দেখায়; অপর নাম জৈব এসিড। এটি অ্যালিফেটিক বা অ্যারোমেটিক হতে পারে (যেমন CH3COOH, C6H5COOH)।\n-COOH মূলকে কার্বনাইল (C=O) ও হাইড্রক্সিল (-OH) যুক্ত থাকে।\nফ্যাটি এসিড: অ্যালিফেটিক মনোকার্বক্সিলিক এসিড; চর্বি আর্দ্র বিশ্লেষণে পাওয়া যায় বলে এই নাম।\nসম্পৃক্ত ফ্যাটি এসিডের সংকেত CnH2n+1-COOH: প্রোপানোয়িক CH3CH2COOH, স্টিয়ারিক C17H35COOH, পামিটিক C15H31COOH।\nঅসম্পৃক্ত ফ্যাটি এসিডে দ্বিবন্ধন থাকে: অ্যাক্রিলিক CH2=CHCOOH, অলিয়িক C17H33COOH, লিনোলিক C17H31COOH।",
+   "notes_en": "Organic acids contain a carboxyl (-COOH) or sulfonic acid group; only carboxylic acids are studied here.\nCarboxylic acid: has one -COOH group and shows acidic character; aliphatic or aromatic (CH3COOH, C6H5COOH).\n-COOH = carbonyl (C=O) + hydroxyl (-OH).\nFatty acids: aliphatic monocarboxylic acids, so named because they come from hydrolysis of fats.\nSaturated fatty acids: CnH2n+1-COOH, e.g. propanoic, stearic C17H35COOH, palmitic C15H31COOH.\nUnsaturated ones have C=C: acrylic CH2=CHCOOH, oleic C17H33COOH, linoleic C17H31COOH.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বক্সিলিক এসিডের কার্যকরী মূলক কোনটি?",
+     "question_en": "Which is the functional group of carboxylic acids?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "-CHO",
+       "en": "-CHO"
+      },
+      {
+       "id": "b",
+       "bn": "-COOH",
+       "en": "-COOH"
+      },
+      {
+       "id": "c",
+       "bn": "-OH",
+       "en": "-OH"
+      },
+      {
+       "id": "d",
+       "bn": "-CO-",
+       "en": "-CO-"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বক্সিলিক এসিডের কার্যকরী মূলক কার্বক্সিল (-COOH)।",
+     "explanation_en": "The functional group is carboxyl, -COOH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সম্পৃক্ত ফ্যাটি এসিডের সাধারণ সংকেত কোনটি?",
+     "question_en": "What is the general formula of saturated fatty acids?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CnH2n-COOH",
+       "en": "CnH2n-COOH"
+      },
+      {
+       "id": "b",
+       "bn": "CnH2n+1-COOH",
+       "en": "CnH2n+1-COOH"
+      },
+      {
+       "id": "c",
+       "bn": "CnH2n-1-COOH",
+       "en": "CnH2n-1-COOH"
+      },
+      {
+       "id": "d",
+       "bn": "CnH2n+2-COOH",
+       "en": "CnH2n+2-COOH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সম্পৃক্ত ফ্যাটি এসিডের সংকেত CnH2n+1-COOH।",
+     "explanation_en": "Saturated fatty acids are CnH2n+1-COOH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি অসম্পৃক্ত ফ্যাটি এসিড?",
+     "question_en": "Which is an unsaturated fatty acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "স্টিয়ারিক এসিড",
+       "en": "স্টিয়ারিক এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "পামিটিক এসিড",
+       "en": "পামিটিক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "অলিয়িক এসিড",
+       "en": "অলিয়িক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপানোয়িক এসিড",
+       "en": "প্রোপানোয়িক এসিড"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অলিয়িক এসিড (C17H33COOH)-এ দ্বিবন্ধন আছে।",
+     "explanation_en": "Oleic acid (C17H33COOH) has a C=C bond.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফ্যাটি এসিড নামকরণের কারণ কী?",
+     "question_en": "Why are they called fatty acids?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এগুলো তৈলাক্ত বলে",
+       "en": "এগুলো তৈলাক্ত বলে"
+      },
+      {
+       "id": "b",
+       "bn": "চর্বির আর্দ্র বিশ্লেষণে প্রাথমিকভাবে পাওয়া যায় বলে",
+       "en": "চর্বির আর্দ্র বিশ্লেষণে প্রাথমিকভাবে পাওয়া যায় বলে"
+      },
+      {
+       "id": "c",
+       "bn": "সব সময় অসম্পৃক্ত বলে",
+       "en": "সব সময় অসম্পৃক্ত বলে"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যারোমেটিক বলে",
+       "en": "অ্যারোমেটিক বলে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "চর্বি আর্দ্র বিশ্লেষণ করে এই শ্রেণির প্রথম দিকের সদস্য পাওয়া গিয়েছিল।",
+     "explanation_en": "Early members of this series were obtained by hydrolysing fats.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.2",
+   "title_bn": "কার্বক্সিলিক এসিডের শ্রেণীবিভাগ",
+   "title_en": "Classification of carboxylic acids",
+   "notes_bn": "তিন ভিত্তিতে শ্রেণীবিভাগ: গঠন, -COOH সংখ্যা ও কার্বন শিকলের প্রকৃতি।\nগঠন অনুসারে: অ্যালিফেটিক (ফরমিক, অ্যাসিটিক, অক্সালিক) ও অ্যারোমেটিক (বেনজোয়িক, থ্যালিক)।\nসংখ্যা অনুসারে: মনো (CH3COOH, C6H5COOH), ডাই (অক্সালিক, ম্যালোনিক, সাকসিনিক, টারটারিক, থ্যালিক), পলি (সাইট্রিক এসিডে ৩টি -COOH)।\nশিকল অনুসারে: সম্পৃক্ত (প্রোপানোয়িক) ও অসম্পৃক্ত (অ্যাক্রিলিক, সিনামিক)।",
+   "notes_en": "Classified by structure, number of -COOH groups and nature of the carbon chain.\nBy structure: aliphatic (formic, acetic, oxalic) and aromatic (benzoic, phthalic).\nBy number: mono (CH3COOH, C6H5COOH), di (oxalic, malonic, succinic, tartaric, phthalic), poly (citric acid has three -COOH).\nBy chain: saturated (propanoic) and unsaturated (acrylic, cinnamic).",
+   "mcqs": [
+    {
+     "question_bn": "বেনজোয়িক এসিড কোন শ্রেণির?",
+     "question_en": "Benzoic acid belongs to which class?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালিফেটিক মনোকার্বক্সিলিক",
+       "en": "অ্যালিফেটিক মনোকার্বক্সিলিক"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যারোমেটিক মনোকার্বক্সিলিক",
+       "en": "অ্যারোমেটিক মনোকার্বক্সিলিক"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালিফেটিক ডাইকার্বক্সিলিক",
+       "en": "অ্যালিফেটিক ডাইকার্বক্সিলিক"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যারোমেটিক ডাইকার্বক্সিলিক",
+       "en": "অ্যারোমেটিক ডাইকার্বক্সিলিক"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বেনজিন নিউক্লিয়াস ও একটি -COOH আছে।",
+     "explanation_en": "It has a benzene nucleus and one -COOH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সাইট্রিক এসিড কোন ধরনের?",
+     "question_en": "Citric acid is what type?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মনোকার্বক্সিলিক",
+       "en": "মনোকার্বক্সিলিক"
+      },
+      {
+       "id": "b",
+       "bn": "ডাইকার্বক্সিলিক",
+       "en": "ডাইকার্বক্সিলিক"
+      },
+      {
+       "id": "c",
+       "bn": "পলিকার্বক্সিলিক",
+       "en": "পলিকার্বক্সিলিক"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্যাটি এসিড",
+       "en": "ফ্যাটি এসিড"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সাইট্রিক এসিডে তিনটি -COOH আছে।",
+     "explanation_en": "It contains three -COOH groups.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি অ্যালিফেটিক ডাইকার্বক্সিলিক এসিড?",
+     "question_en": "Which is an aliphatic dicarboxylic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "থ্যালিক এসিড",
+       "en": "থ্যালিক এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজোয়িক এসিড",
+       "en": "বেনজোয়িক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "অক্সালিক এসিড",
+       "en": "অক্সালিক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটিক এসিড",
+       "en": "অ্যাসিটিক এসিড"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অক্সালিক এসিড HOOC-COOH।",
+     "explanation_en": "Oxalic acid is HOOC-COOH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি অসম্পৃক্ত অ্যারোমেটিক মনোকার্বক্সিলিক এসিড?",
+     "question_en": "Which is an unsaturated aromatic monocarboxylic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সিনামিক এসিড",
+       "en": "সিনামিক এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপানোয়িক এসিড",
+       "en": "প্রোপানোয়িক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "থ্যালিক এসিড",
+       "en": "থ্যালিক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাক্রিলিক এসিড",
+       "en": "অ্যাক্রিলিক এসিড"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সিনামিক এসিডে বেনজিন বলয়, CH=CH দ্বিবন্ধন ও একটি -COOH আছে।",
+     "explanation_en": "Cinnamic acid has a benzene ring, a C=C and one -COOH.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.3",
+   "title_bn": "কার্বক্সিলিক এসিডের নামকরণ",
+   "title_en": "Nomenclature of carboxylic acids",
+   "notes_bn": "সাধারণ নাম উৎস থেকে: ফরমিক (L. Formica = পিঁপড়া), অ্যাসিটিক (L. Acetum = ভিনেগার), বিউটারিক (L. Butyram = বাটার), পামিটিক (পাম তেল), স্টিয়ারিক (Gr. Stear = চর্বি)।\n-COOH-এর পরের কার্বন α, তারপর β, γ, δ (যেমন α-ক্লোরো অ্যাসিটিক এসিড)।\nIUPAC: অ্যালকেনের শেষ 'e' বাদ দিয়ে 'oic acid'; -COOH কার্বন ১ নম্বর। HCOOH মিথানোয়িক, CH3COOH ইথানোয়িক, CH3CH2COOH প্রোপানোয়িক।\n2-ব্রোমোপেন্টানোয়িক এসিড, 3-ব্রোমো-4-মিথাইল হেক্সানোয়িক এসিড।\nডাই: অ্যালকেন+ডাইঅয়িক এসিড; HOOC-COOH = ইথেনডাইঅয়িক (অক্সালিক), প্রোপেনডাইঅয়িক (ম্যালোনিক), বিউটেনডাইঅয়িক (সাকসিনিক), পেন্টেনডাইঅয়িক (গ্লুটারিক), হেক্সেনডাইঅয়িক (অ্যাডিপিক)।\nমনে রাখার বাক্য: O My Son Go And Pray Sincerely And Silently (অক্সালিক, ম্যালোনিক, সাকসিনিক, গ্লুটারিক, অ্যাডিপিক, পিমেলিক, সুবেরিক, অ্যাজেলায়িক, সেবাসিক)।\nঅ্যারোমেটিক: বেনজিন-e + oic acid = বেনজোয়িক এসিড।",
+   "notes_en": "Common names come from sources: formic (L. Formica = ant), acetic (L. Acetum = vinegar), butyric (L. Butyram = butter), palmitic (palm oil), stearic (Gr. Stear = fat).\nCarbon next to -COOH is alpha, then beta, gamma, delta (e.g. alpha-chloroacetic acid).\nIUPAC: alkane minus final 'e' plus 'oic acid'; the -COOH carbon is C1. HCOOH methanoic, CH3COOH ethanoic, CH3CH2COOH propanoic.\n2-bromopentanoic acid; 3-bromo-4-methylhexanoic acid.\nDi-acids: alkane + dioic acid; HOOC-COOH ethanedioic (oxalic), propanedioic (malonic), butanedioic (succinic), pentanedioic (glutaric), hexanedioic (adipic).\nMnemonic: O My Son Go And Pray Sincerely And Silently = oxalic, malonic, succinic, glutaric, adipic, pimelic, suberic, azelaic, sebacic.\nAromatic: benzene - ene + oic acid = benzoic acid.",
+   "mcqs": [
+    {
+     "question_bn": "CH3COOH-এর IUPAC নাম কী?",
+     "question_en": "IUPAC name of CH3COOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথানোয়িক এসিড",
+       "en": "মিথানোয়িক এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানোয়িক এসিড",
+       "en": "ইথানোয়িক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপানোয়িক এসিড",
+       "en": "প্রোপানোয়িক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটানোয়িক এসিড",
+       "en": "বিউটানোয়িক এসিড"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুই কার্বন; ইথেন - e + oic acid।",
+     "explanation_en": "Two carbons: ethane - e + oic acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "'ফরমিক' শব্দটি কোন ল্যাটিন শব্দ থেকে এসেছে এবং এর অর্থ কী?",
+     "question_en": "From which Latin word does 'formic' come and what does it mean?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Acetum - ভিনেগার",
+       "en": "Acetum - ভিনেগার"
+      },
+      {
+       "id": "b",
+       "bn": "Formica - পিঁপড়া",
+       "en": "Formica - পিঁপড়া"
+      },
+      {
+       "id": "c",
+       "bn": "Butyram - মাখন",
+       "en": "Butyram - মাখন"
+      },
+      {
+       "id": "d",
+       "bn": "Stear - চর্বি",
+       "en": "Stear - চর্বি"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Formica অর্থ পিঁপড়া।",
+     "explanation_en": "Formica means ant.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HOOC-(CH2)2-COOH-এর সাধারণ ও IUPAC নাম কোনটি?",
+     "question_en": "Common and IUPAC names of HOOC-(CH2)2-COOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ম্যালোনিক; প্রোপেনডাইঅয়িক",
+       "en": "ম্যালোনিক; প্রোপেনডাইঅয়িক"
+      },
+      {
+       "id": "b",
+       "bn": "সাকসিনিক; বিউটেনডাইঅয়িক",
+       "en": "সাকসিনিক; বিউটেনডাইঅয়িক"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুটারিক; পেন্টেনডাইঅয়িক",
+       "en": "গ্লুটারিক; পেন্টেনডাইঅয়িক"
+      },
+      {
+       "id": "d",
+       "bn": "অক্সালিক; ইথেনডাইঅয়িক",
+       "en": "অক্সালিক; ইথেনডাইঅয়িক"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "চার কার্বন বিশিষ্ট ডাইঅয়িক এসিড সাকসিনিক/বিউটেনডাইঅয়িক।",
+     "explanation_en": "The four-carbon diacid is succinic / butanedioic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH3-CH2-CH(CH3)-CH(Br)-CH2-COOH (COOH-কে C1 ধরে) এর IUPAC নাম কী?",
+     "question_en": "IUPAC name of CH3CH2CH(CH3)CH(Br)CH2COOH (COOH = C1)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3-ব্রোমো-4-মিথাইল হেক্সানোয়িক এসিড",
+       "en": "3-ব্রোমো-4-মিথাইল হেক্সানোয়িক এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "4-ব্রোমো-3-মিথাইল হেক্সানোয়িক এসিড",
+       "en": "4-ব্রোমো-3-মিথাইল হেক্সানোয়িক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "2-ব্রোমো-3-মিথাইল পেন্টানোয়িক এসিড",
+       "en": "2-ব্রোমো-3-মিথাইল পেন্টানোয়িক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "3-ব্রোমো-4-মিথাইল পেন্টানোয়িক এসিড",
+       "en": "3-ব্রোমো-4-মিথাইল পেন্টানোয়িক এসিড"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "COOH থেকে গণনা: C2=CH2, C3=CHBr, C4=CH(CH3), C5, C6; ছয় কার্বনের শিকল, তাই 3-ব্রোমো-4-মিথাইল হেক্সানোয়িক এসিড (বইয়ের উদাহরণ)।",
+     "explanation_en": "Counting from COOH: C2 CH2, C3 CHBr, C4 CH(CH3), then C5, C6: six-carbon chain, so 3-bromo-4-methylhexanoic acid (the book's example).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.4",
+   "title_bn": "এসিড জাতকসমূহের নামকরণ",
+   "title_en": "Nomenclature of acid derivatives",
+   "notes_bn": "অ্যাসাইল মূলক R-CO-: CH3CO- = ইথানোয়িল।\nকার্বক্সিলেট আয়ন: CH3COO- = ইথানোয়েট আয়ন।\nএসিড ক্লোরাইড: CH3COCl = ইথানোয়িল ক্লোরাইড।\nএসিড অ্যানহাইড্রাইড: (CH3CO)2O = ইথানোয়িক অ্যানহাইড্রাইড।\nঅ্যামাইড: CH3CONH2 = ইথান্যামাইড।\nএস্টার: CH3CO2C2H5 = ইথাইল ইথানোয়েট।\nনাইট্রাইল: CH3CN = ইথেন নাইট্রাইল (বইয়ে অন্তর্ভুক্ত, কারণ কার্বক্সিলিক এসিডের সঙ্গে বিক্রিয়াগত সম্পর্ক আছে)।",
+   "notes_en": "Acyl group R-CO-: CH3CO- = ethanoyl.\nCarboxylate ion: CH3COO- = ethanoate ion.\nAcid chloride: CH3COCl = ethanoyl chloride.\nAcid anhydride: (CH3CO)2O = ethanoic anhydride.\nAmide: CH3CONH2 = ethanamide.\nEster: CH3CO2C2H5 = ethyl ethanoate.\nNitrile: CH3CN = ethane nitrile (included because of its reaction link to carboxylic acids).",
+   "mcqs": [
+    {
+     "question_bn": "CH3COCl-এর নাম কী?",
+     "question_en": "Name of CH3COCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল ক্লোরাইড",
+       "en": "ইথাইল ক্লোরাইড"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানোয়িল ক্লোরাইড",
+       "en": "ইথানোয়িল ক্লোরাইড"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+       "en": "ইথানোয়িক অ্যানহাইড্রাইড"
+      },
+      {
+       "id": "d",
+       "bn": "ইথান্যামাইড",
+       "en": "ইথান্যামাইড"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এসিড ক্লোরাইড; অ্যাসাইল মূলক ইথানোয়িল।",
+     "explanation_en": "An acid chloride with ethanoyl group.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH3CONH2-এর নাম কোনটি?",
+     "question_en": "Name of CH3CONH2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন নাইট্রাইল",
+       "en": "ইথেন নাইট্রাইল"
+      },
+      {
+       "id": "b",
+       "bn": "ইথান্যামাইড",
+       "en": "ইথান্যামাইড"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "ইথাইল অ্যামিন"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানোয়েট",
+       "en": "ইথানোয়েট"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এসিড অ্যামাইড - ইথান্যামাইড।",
+     "explanation_en": "Acid amide - ethanamide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH3CO2C2H5 এর নাম কী?",
+     "question_en": "Name of CH3CO2C2H5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল ইথানোয়েট",
+       "en": "ইথাইল ইথানোয়েট"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানোয়িক অ্যানহাইড্রাইড",
+       "en": "ইথানোয়িক অ্যানহাইড্রাইড"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানোয়িল ক্লোরাইড",
+       "en": "ইথানোয়িল ক্লোরাইড"
+      },
+      {
+       "id": "d",
+       "bn": "ইথেন নাইট্রাইল",
+       "en": "ইথেন নাইট্রাইল"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কার্বক্সিলিক এস্টার: ইথাইল ইথানোয়েট।",
+     "explanation_en": "Carboxylic ester: ethyl ethanoate.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি অ্যাসাইল মূলক ধারণ করে না?",
+     "question_en": "Which does NOT contain an acyl group R-CO-?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3CN",
+       "en": "CH3CN"
+      },
+      {
+       "id": "b",
+       "bn": "CH3COCl",
+       "en": "CH3COCl"
+      },
+      {
+       "id": "c",
+       "bn": "(CH3CO)2O",
+       "en": "(CH3CO)2O"
+      },
+      {
+       "id": "d",
+       "bn": "CH3CONH2",
+       "en": "CH3CONH2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নাইট্রাইলে R-C≡N থাকে, R-CO- নয়; বইয়ে শুধু বিক্রিয়াগত সম্পর্কের জন্য রাখা হয়েছে।",
+     "explanation_en": "A nitrile has R-C≡N, not R-CO-; it is listed only for its reaction relationship.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.5",
+   "title_bn": "কার্বক্সিলিক এসিডের সাধারণ প্রস্তুত প্রণালী",
+   "title_en": "General preparation of carboxylic acids",
+   "notes_bn": "অ্যালিফেটিক: (১) প্রাইমারি অ্যালকোহল বা অ্যালডিহাইডকে K2Cr2O7/H2SO4 দ্বারা জারণ: R-CH2OH → R-CHO → R-COOH (ইথানল → ইথান্যাল → ইথানোয়িক এসিড)।\n(২) অ্যালকিল সায়ানাইড/নাইট্রাইলের লঘু HCl দ্বারা আর্দ্র বিশ্লেষণ: R-CN + 2H2O → R-COOH + NH3। R-X + KCN দ্বারা নাইট্রাইল পাওয়া যায়।\n(৩) এস্টার/তেল-চর্বির আর্দ্র বিশ্লেষণ: ট্রাইগ্লিসারাইড + 3H2O → গ্লিসারল + 3RCOOH।\nঅ্যারোমেটিক: (১) টলুইন (পার্শ্বশিকলযুক্ত) KMnO4/KOH দ্বারা জারিত হয়ে বেনজোয়িক এসিড। (২) ফিনাইল সায়ানাইডের আর্দ্র বিশ্লেষণ → বেনজোয়িক এসিড + NH3। (বেনজাইল অ্যালকোহল ও বেনজ্যালডিহাইডও জারণে বেনজোয়িক এসিড দেয়।)",
+   "notes_en": "Aliphatic: (1) oxidise primary alcohol/aldehyde with K2Cr2O7/H2SO4: R-CH2OH -> R-CHO -> R-COOH (ethanol -> ethanal -> ethanoic acid).\n(2) Hydrolyse alkyl cyanide (nitrile) with dil. HCl: R-CN + 2H2O -> R-COOH + NH3; the nitrile comes from R-X + KCN.\n(3) Hydrolyse esters/oils/fats: triglyceride + 3H2O -> glycerol + 3RCOOH.\nAromatic: (1) toluene (side chain) oxidised by KMnO4/KOH -> benzoic acid. (2) Hydrolysis of phenyl cyanide -> benzoic acid + NH3. (Benzyl alcohol and benzaldehyde also oxidise to benzoic acid.)",
+   "mcqs": [
+    {
+     "question_bn": "ইথানলের জারণে প্রথমে কী উৎপন্ন হয়?",
+     "question_en": "What forms first on oxidising ethanol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানোয়িক এসিড",
+       "en": "ইথানোয়িক এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "ইথান্যাল",
+       "en": "ইথান্যাল"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিন",
+       "en": "ইথিন"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল ইথানোয়েট",
+       "en": "ইথাইল ইথানোয়েট"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথানল → ইথান্যাল → ইথানোয়িক এসিড।",
+     "explanation_en": "Ethanol -> ethanal -> ethanoic acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH3CH2CN-কে লঘু HCl দিয়ে আর্দ্র বিশ্লেষণ করলে কোন যৌগ পাওয়া যায়?",
+     "question_en": "Hydrolysing CH3CH2CN with dil. HCl gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানোয়িক এসিড ও NH3",
+       "en": "প্রোপানোয়িক এসিড ও NH3"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানোয়িক এসিড ও NH3",
+       "en": "ইথানোয়িক এসিড ও NH3"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপান-১-অল",
+       "en": "প্রোপান-১-অল"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপানাল",
+       "en": "প্রোপানাল"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "R-CN + 2H2O → R-COOH + NH3; কার্বন সংখ্যা অপরিবর্তিত।",
+     "explanation_en": "R-CN + 2H2O -> R-COOH + NH3; carbon number is unchanged.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টলুইনকে KMnO4/KOH দিয়ে জারিত করলে কী উৎপন্ন হয়?",
+     "question_en": "Oxidising toluene with KMnO4/KOH gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজাইল অ্যালকোহল",
+       "en": "বেনজাইল অ্যালকোহল"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজোয়িক এসিড",
+       "en": "বেনজোয়িক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "ফিনল",
+       "en": "ফিনল"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "বেনজিন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "-CH3 পার্শ্বশিকল জারিত হয়ে -COOH হয়।",
+     "explanation_en": "The -CH3 side chain is oxidised to -COOH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ট্রাইগ্লিসারাইডের আর্দ্র বিশ্লেষণে ১ মোল ট্রাইগ্লিসারাইড থেকে কত মোল ফ্যাটি এসিড পাওয়া যায়?",
+     "question_en": "How many moles of fatty acid come from 1 mol triglyceride on hydrolysis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "১"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "২"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "৩"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "৪"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ট্রাইগ্লিসারাইডে তিনটি এস্টার বন্ধন; ৩H2O ও ৩RCOOH।",
+     "explanation_en": "Three ester links: 3H2O in, 3RCOOH out.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.6",
+   "title_bn": "মিথানোয়িক এসিড বা ফরমিক এসিডের শিল্পোৎপাদন",
+   "title_en": "Industrial production of methanoic (formic) acid",
+   "notes_bn": "পদ্ধতি ১ (CO ও ক্ষার): কাঠিন্য কস্টিক সোডা গুঁড়ার ওপর দিয়ে CO গ্যাস উচ্চ চাপে (প্রায় 6-10 atm) ~150-210 °C তাপমাত্রায় চালনা → সোডিয়াম ফরমেট HCOONa।\nCO + NaOH → HCOONa; পরে লঘু H2SO4 সহ পাতন (~100 °C): HCOONa + H2SO4 → HCOOH + NaHSO4।\nপদ্ধতি ২ (মিথানল): CH3OH + CO (200 °C, 50 atm) → মিথাইল ফরমেট HCOOCH3; লঘু H2SO4 দ্বারা আর্দ্র বিশ্লেষণ ও পাতনে HCOOH ও CH3OH।",
+   "notes_en": "Method 1 (CO and alkali): CO passed over powdered NaOH at high pressure (about 6-10 atm), ~150-210 C gives sodium formate HCOONa.\nCO + NaOH -> HCOONa; then distil with dilute H2SO4 (~100 C): HCOONa + H2SO4 -> HCOOH + NaHSO4.\nMethod 2 (methanol): CH3OH + CO (200 C, 50 atm) -> methyl formate HCOOCH3; hydrolysis with dilute H2SO4 and distillation gives HCOOH and CH3OH.",
+   "mcqs": [
+    {
+     "question_bn": "ফরমিক এসিডের শিল্পোৎপাদনে কাঁচামাল কোনটি?",
+     "question_en": "Which raw material is used industrially for formic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO ও NaOH",
+       "en": "CO ও NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "CO2 ও NaOH",
+       "en": "CO2 ও NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "CH4 ও O2",
+       "en": "CH4 ও O2"
+      },
+      {
+       "id": "d",
+       "bn": "C2H2 ও H2O",
+       "en": "C2H2 ও H2O"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CO ও NaOH থেকে সোডিয়াম ফরমেট তৈরি হয়।",
+     "explanation_en": "CO and NaOH give sodium formate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "HCOONa + H2SO4 বিক্রিয়ায় ফরমিক এসিডের সঙ্গে আর কী উৎপন্ন হয়?",
+     "question_en": "HCOONa + H2SO4 gives formic acid and what else?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na2SO4",
+       "en": "Na2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "NaHSO4",
+       "en": "NaHSO4"
+      },
+      {
+       "id": "c",
+       "bn": "Na2CO3",
+       "en": "Na2CO3"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH",
+       "en": "NaOH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "HCOONa + H2SO4 → HCOOH + NaHSO4।",
+     "explanation_en": "HCOONa + H2SO4 -> HCOOH + NaHSO4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথানল ও CO থেকে প্রথমে কোন যৌগ উৎপন্ন হয়?",
+     "question_en": "Methanol and CO first give?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল ফরমেট",
+       "en": "ইথাইল ফরমেট"
+      },
+      {
+       "id": "b",
+       "bn": "মিথাইল ফরমেট",
+       "en": "মিথাইল ফরমেট"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসিটিক এসিড",
+       "en": "অ্যাসিটিক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানাল",
+       "en": "মিথানাল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH3OH + CO → HCOOCH3 (200 °C, 50 atm)।",
+     "explanation_en": "CH3OH + CO -> HCOOCH3 (200 C, 50 atm).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CO ও কস্টিক সোডার বিক্রিয়ার ক্ষেত্রে কোন শর্ত বইয়ে উল্লেখ আছে?",
+     "question_en": "Which condition is stated for the CO + NaOH reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "6-10 atm চাপ, প্রায় 150-210 °C",
+       "en": "6-10 atm চাপ, প্রায় 150-210 °C"
+      },
+      {
+       "id": "b",
+       "bn": "1 atm, 25 °C",
+       "en": "1 atm, 25 °C"
+      },
+      {
+       "id": "c",
+       "bn": "50 atm, 500 °C",
+       "en": "50 atm, 500 °C"
+      },
+      {
+       "id": "d",
+       "bn": "বায়ুমণ্ডলীয় চাপ, 0 °C",
+       "en": "বায়ুমণ্ডলীয় চাপ, 0 °C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অধিক চাপে (6-10 atm) গরম NaOH গুঁড়ার ওপর CO চালনা করা হয়।",
+     "explanation_en": "CO is passed over hot NaOH powder at 6-10 atm.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.7",
+   "title_bn": "ইথানোয়িক এসিড বা অ্যাসিটিক এসিডের শিল্পোৎপাদন",
+   "title_en": "Industrial production of ethanoic (acetic) acid",
+   "notes_bn": "(১) অ্যাসিটিলিন থেকে: C2H2 + H2O (20% H2SO4, 1% HgSO4, 60 °C) → CH3CHO; তারপর 2CH3CHO + O2 (Mn অ্যাসিটেট, 60 °C) → 2CH3COOH।\nবিশুদ্ধকরণ: NaOH দিয়ে প্রশমন → সোডিয়াম অ্যাসিটেট ট্রাইহাইড্রেট; কেলাস-পানি দূর করে গাঢ় H2SO4 সহ 118 °C-এ পাতন → 99.5% বিশুদ্ধ এসিড।\nগ্লেসিয়াল অ্যাসিটিক এসিড: অনার্দ্র 100% ইথানোয়িক এসিড; 17 °C-এর নিচে বরফের মতো কেলাস।\n(২) পাইরোলিগনিয়াস এসিড: নরম কাঠের ধ্বংসাত্মক পাতন (~400 °C); প্রায় 10% ইথানোয়িক এসিড, 2-4% মিথানল, 0.5% প্রোপানোন। চুনের সঙ্গে প্রশমন → ক্যালসিয়াম ইথানোয়েট ('গ্রে অ্যাসিটেট অব লাইম'); লঘু H2SO4 সহ পাতনে 40-60% এসিড; পরে NaOH → সোডিয়াম অ্যাসিটেট → গাঢ় H2SO4 → 99.5% এসিড।",
+   "notes_en": "(1) From acetylene: C2H2 + H2O (20% H2SO4, 1% HgSO4, 60 C) -> CH3CHO; then 2CH3CHO + O2 (Mn acetate, 60 C) -> 2CH3COOH.\nPurification: neutralise with NaOH -> sodium acetate trihydrate; remove water of crystallisation, distil with conc. H2SO4 at 118 C -> 99.5% acid.\nGlacial acetic acid: anhydrous 100% ethanoic acid; freezes to ice-like crystals below 17 C.\n(2) Pyroligneous acid: destructive distillation of soft wood (~400 C); about 10% ethanoic acid, 2-4% methanol, 0.5% propanone. Neutralise with lime -> calcium ethanoate ('grey acetate of lime'); distil with dilute H2SO4 -> 40-60% acid; then NaOH -> sodium acetate -> conc. H2SO4 -> 99.5% acid.",
+   "mcqs": [
+    {
+     "question_bn": "গ্লেসিয়াল অ্যাসিটিক এসিড কী?",
+     "question_en": "What is glacial acetic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10% অ্যাসিটিক এসিড দ্রবণ",
+       "en": "10% অ্যাসিটিক এসিড দ্রবণ"
+      },
+      {
+       "id": "b",
+       "bn": "100% বিশুদ্ধ অনার্দ্র ইথানোয়িক এসিড",
+       "en": "100% বিশুদ্ধ অনার্দ্র ইথানোয়িক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসিটিক অ্যানহাইড্রাইড",
+       "en": "অ্যাসিটিক অ্যানহাইড্রাইড"
+      },
+      {
+       "id": "d",
+       "bn": "সোডিয়াম অ্যাসিটেট",
+       "en": "সোডিয়াম অ্যাসিটেট"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিশুদ্ধ অনার্দ্র ইথানোয়িক এসিড 17 °C-এর নিচে বরফের মতো জমে।",
+     "explanation_en": "Pure anhydrous ethanoic acid freezes like ice below 17 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাসিটিলিন থেকে অ্যাসিটিক এসিড তৈরিতে প্রথম ধাপে কোন প্রভাবক ব্যবহৃত হয়?",
+     "question_en": "Which catalyst is used in the first step from acetylene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "V2O5",
+       "en": "V2O5"
+      },
+      {
+       "id": "b",
+       "bn": "HgSO4 ও লঘু H2SO4",
+       "en": "HgSO4 ও লঘু H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "Fe চূর্ণ",
+       "en": "Fe চূর্ণ"
+      },
+      {
+       "id": "d",
+       "bn": "Ni",
+       "en": "Ni"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C2H2 + H2O (1% HgSO4, 20% H2SO4, 60 °C) → CH3CHO।",
+     "explanation_en": "C2H2 + H2O (1% HgSO4, 20% H2SO4, 60 C) -> CH3CHO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাসিটিক এসিড বিশুদ্ধ করতে সোডিয়াম অ্যাসিটেটের সঙ্গে গাঢ় H2SO4 কত তাপমাত্রায় পাতিত করা হয়?",
+     "question_en": "At what temperature is sodium acetate distilled with conc. H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "60 °C",
+       "en": "60 °C"
+      },
+      {
+       "id": "b",
+       "bn": "100 °C",
+       "en": "100 °C"
+      },
+      {
+       "id": "c",
+       "bn": "118 °C",
+       "en": "118 °C"
+      },
+      {
+       "id": "d",
+       "bn": "400 °C",
+       "en": "400 °C"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "118 °C-এ 99.5% বিশুদ্ধ এসিড পাওয়া যায়।",
+     "explanation_en": "At 118 C 99.5% pure acid distils.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পাইরোলিগনিয়াস এসিডে ক্যালসিয়াম হাইড্রক্সাইড (চুন) মেশানোর উদ্দেশ্য কী?",
+     "question_en": "Why is lime added to pyroligneous acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথানল জারণের জন্য",
+       "en": "মিথানল জারণের জন্য"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানোয়িক এসিডকে ক্যালসিয়াম ইথানোয়েটে পরিণত করতে, যাতে মিথানল প্রভৃতি পাতিত হয়ে সরে যায়",
+       "en": "ইথানোয়িক এসিডকে ক্যালসিয়াম ইথানোয়েটে পরিণত করতে, যাতে মিথানল প্রভৃতি পাতিত হয়ে সরে যায়"
+      },
+      {
+       "id": "c",
+       "bn": "এসিড গাঢ় করতে",
+       "en": "এসিড গাঢ় করতে"
+      },
+      {
+       "id": "d",
+       "bn": "রং পরিবর্তনের জন্য",
+       "en": "রং পরিবর্তনের জন্য"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "লবণ রূপে এসিড থেকে যায়, উদ্বায়ী মিথানল/প্রোপানোন বাষ্পীভূত হয়; পরে H2SO4 দিয়ে এসিড মুক্ত করা হয়।",
+     "explanation_en": "The acid stays as its salt while volatile methanol/propanone distil off; later H2SO4 frees the acid.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.8",
+   "title_bn": "ইথানোয়িক এসিডের ব্যবহার",
+   "title_en": "Uses of ethanoic acid",
+   "notes_bn": "উৎপাদিত এসিডের বেশিরভাগ ইথানোয়িক অ্যানহাইড্রাইডে রূপান্তরিত হয়; এ থেকে ফেব্রিক অ্যাসিটেট রেয়ন ও অ্যাসপিরিন তৈরি হয়।\nক্লোরো ইথানোয়িক এসিড কৃষিতে আগাছা দমনে ব্যবহৃত হয়।\nপরীক্ষাগারে বিকারক; মাছ-মাংস সংরক্ষণে লঘু এসিড (ভিনেগার)।\nভিনেগার: 6-10% অ্যাসিটিক এসিডের জলীয় দ্রবণ; আচার সংরক্ষণ, রান্না, সালাদ তৈরি, ফ্রিজ পরিষ্কারে ব্যবহার।\nকুইক ভিনেগার পদ্ধতি: 10% ইথানল দ্রবণ 'মাইকোডার্মা অ্যাসিটি' ব্যাকটেরিয়ার উপস্থিতিতে 35 °C-এ গরম বায়ুর O2 দ্বারা জারিত হয়ে 6-10% অ্যাসিটিক এসিড দেয়: CH3CH2OH + O2 → CH3COOH + H2O।",
+   "notes_en": "Most acetic acid is converted to ethanoic anhydride, used for fabric acetate rayon and aspirin.\nChloroethanoic acid is a herbicide.\nLaboratory reagent; dilute acid (vinegar) preserves fish and meat.\nVinegar: 6-10% aqueous acetic acid; used in pickling, cooking, salads and cleaning refrigerators.\nQuick vinegar process: 10% ethanol trickled over wood shavings with Mycoderma aceti bacteria; warm air (35 C) oxidises it: CH3CH2OH + O2 -> CH3COOH + H2O, giving 6-10% acid.",
+   "mcqs": [
+    {
+     "question_bn": "ভিনেগারে অ্যাসিটিক এসিডের জলীয় দ্রবণের গাঢ়তা কত?",
+     "question_en": "What is the acetic acid strength in vinegar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "6-10%",
+       "en": "6-10%"
+      },
+      {
+       "id": "b",
+       "bn": "30-40%",
+       "en": "30-40%"
+      },
+      {
+       "id": "c",
+       "bn": "60-80%",
+       "en": "60-80%"
+      },
+      {
+       "id": "d",
+       "bn": "100%",
+       "en": "100%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ভিনেগারে 6-10% অ্যাসিটিক এসিড বলা আছে।",
+     "explanation_en": "The book gives 6-10%.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কুইক ভিনেগার পদ্ধতিতে কোন ব্যাকটেরিয়া ব্যবহৃত হয়?",
+     "question_en": "Which bacterium is used in the quick vinegar process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ই. কোলাই",
+       "en": "ই. কোলাই"
+      },
+      {
+       "id": "b",
+       "bn": "মাইকোডার্মা অ্যাসিটি",
+       "en": "মাইকোডার্মা অ্যাসিটি"
+      },
+      {
+       "id": "c",
+       "bn": "ল্যাক্টোব্যাসিলাস",
+       "en": "ল্যাক্টোব্যাসিলাস"
+      },
+      {
+       "id": "d",
+       "bn": "স্টেফাইলোকক্কাস",
+       "en": "স্টেফাইলোকক্কাস"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মাইকোডার্মা অ্যাসিটি ইথানলকে জারিত করে।",
+     "explanation_en": "Mycoderma aceti oxidises ethanol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কুইক ভিনেগার পদ্ধতিতে কাঁচামাল কোনটি?",
+     "question_en": "Starting material for quick vinegar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10% ইথানলের জলীয় দ্রবণ",
+       "en": "10% ইথানলের জলীয় দ্রবণ"
+      },
+      {
+       "id": "b",
+       "bn": "10% মিথানল",
+       "en": "10% মিথানল"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিন",
+       "en": "ইথিন"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটিলিন",
+       "en": "অ্যাসিটিলিন"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "10% ইথানল দ্রবণ ও 35 °C বায়ু।",
+     "explanation_en": "10% aqueous ethanol with 35 C air.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বইয়ের তথ্য অনুযায়ী ইথানোয়িক অ্যানহাইড্রাইড কোন কাজে লাগে?",
+     "question_en": "According to the book, ethanoic anhydride is used for?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেব্রিক অ্যাসিটেট রেয়ন ও অ্যাসপিরিন তৈরিতে",
+       "en": "ফেব্রিক অ্যাসিটেট রেয়ন ও অ্যাসপিরিন তৈরিতে"
+      },
+      {
+       "id": "b",
+       "bn": "আগাছা দমনে",
+       "en": "আগাছা দমনে"
+      },
+      {
+       "id": "c",
+       "bn": "মাছ সংরক্ষণে সরাসরি",
+       "en": "মাছ সংরক্ষণে সরাসরি"
+      },
+      {
+       "id": "d",
+       "bn": "সাবান তৈরিতে",
+       "en": "সাবান তৈরিতে"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উৎপাদিত এসিডের বেশিরভাগ অ্যানহাইড্রাইডে পরিণত হয়ে রেয়ন ও অ্যাসপিরিনে ব্যবহৃত হয়; আগাছা দমনে ক্লোরো ইথানোয়িক এসিড লাগে।",
+     "explanation_en": "Most acid becomes the anhydride used for acetate rayon and aspirin; weed control uses chloroethanoic acid.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.9",
+   "title_bn": "বেনজোয়িক এসিডের শিল্পোৎপাদন",
+   "title_en": "Industrial production of benzoic acid",
+   "notes_bn": "(১) টলুইন থেকে: টলুইন + বায়ু (O2), V2O5 প্রভাবক, 300 °C → বেনজোয়িক এসিড + H2O। V2O5 এর বদলে 170 °C-এ Co-Mn অ্যাসিটেটও ব্যবহৃত হয়।\n(২) বেনজো ট্রাইক্লোরাইড থেকে: ফুটন্ত টলুইনে 3Cl2 → C6H5CCl3 + 3HCl; পরে Fe চূর্ণসহ জলীয় Ca(OH)2 দ্বারা আর্দ্র বিশ্লেষণ → C6H5COOH + 3HCl।",
+   "notes_en": "(1) From toluene: toluene + O2 (air), V2O5 catalyst, 300 C -> benzoic acid + H2O. Co-Mn acetate at 170 C can replace V2O5.\n(2) From benzotrichloride: boiling toluene + 3Cl2 -> C6H5CCl3 + 3HCl; then hydrolysis with aqueous Ca(OH)2 and Fe powder -> C6H5COOH + 3HCl.",
+   "mcqs": [
+    {
+     "question_bn": "টলুইনের বায়ু-জারণে বেনজোয়িক এসিড তৈরিতে কোন প্রভাবক ব্যবহৃত হয়?",
+     "question_en": "Which catalyst is used in air oxidation of toluene to benzoic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "V2O5",
+       "en": "V2O5"
+      },
+      {
+       "id": "b",
+       "bn": "Ni",
+       "en": "Ni"
+      },
+      {
+       "id": "c",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "d",
+       "bn": "AlCl3",
+       "en": "AlCl3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "V2O5, 300 °C।",
+     "explanation_en": "V2O5 at 300 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজো ট্রাইক্লোরাইডের সংকেত কোনটি?",
+     "question_en": "Formula of benzotrichloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H5CCl3",
+       "en": "C6H5CCl3"
+      },
+      {
+       "id": "b",
+       "bn": "C6H5Cl",
+       "en": "C6H5Cl"
+      },
+      {
+       "id": "c",
+       "bn": "C6H5CH2Cl",
+       "en": "C6H5CH2Cl"
+      },
+      {
+       "id": "d",
+       "bn": "C6Cl6",
+       "en": "C6Cl6"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "টলুইনের -CH3-এর তিনটি H প্রতিস্থাপিত।",
+     "explanation_en": "Three H of toluene's CH3 replaced by Cl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টলুইন + 3Cl2 (ফুটন্ত) বিক্রিয়ায় HCl কত মোল উৎপন্ন হয়?",
+     "question_en": "How many moles of HCl form in toluene + 3Cl2 (boiling)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "১"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "২"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "৩"
+      },
+      {
+       "id": "d",
+       "bn": "৬",
+       "en": "৬"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "C6H5CH3 + 3Cl2 → C6H5CCl3 + 3HCl।",
+     "explanation_en": "C6H5CH3 + 3Cl2 -> C6H5CCl3 + 3HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজো ট্রাইক্লোরাইড থেকে বেনজোয়িক এসিড তৈরিতে কোন বিকারক ব্যবহৃত হয়?",
+     "question_en": "Which reagent hydrolyses benzotrichloride to benzoic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ca(OH)2 (জলীয়) ও Fe চূর্ণ",
+       "en": "Ca(OH)2 (জলীয়) ও Fe চূর্ণ"
+      },
+      {
+       "id": "b",
+       "bn": "LiAlH4",
+       "en": "LiAlH4"
+      },
+      {
+       "id": "c",
+       "bn": "PCl5",
+       "en": "PCl5"
+      },
+      {
+       "id": "d",
+       "bn": "সোডা লাইম",
+       "en": "সোডা লাইম"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C6H5CCl3 + 2H2O → C6H5COOH + 3HCl, Ca(OH)2/Fe সহ।",
+     "explanation_en": "Aqueous Ca(OH)2 with Fe powder.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.10",
+   "title_bn": "কার্বক্সিলিক এসিডসমূহের ভৌত ধর্ম",
+   "title_en": "Physical properties of carboxylic acids",
+   "notes_bn": "ভৌত অবস্থা: মনোকার্বক্সিলিক এসিডের প্রথম নয়টি (C1-C9) বর্ণহীন তরল; উচ্চতর সদস্য বর্ণহীন মোমের মতো কঠিন। নিম্নতরগুলোর ঝাঁঝাল গন্ধ, উচ্চতরগুলো গন্ধহীন।\nদ্রাব্যতা: -COOH পানির সঙ্গে হাইড্রোজেন বন্ধন গঠন করে বলে নিম্নতর এসিড পানিতে দ্রবণীয়।\nস্ফুটনাঙ্ক: এসিড অণু হাইড্রোজেন বন্ধনে ডাইমার গঠন করে; এই বন্ধন অ্যালকোহলের চেয়ে সবল, তাই সমভরের অ্যালকোহল অপেক্ষা স্ফুটনাঙ্ক বেশি।\nউদাহরণ: ইথানোয়িক এসিডের স্ফুটনাঙ্ক 118 °C, প্রোপানলের 97 °C।",
+   "notes_en": "State: the first nine monocarboxylic acids (C1-C9) are colourless liquids; higher ones are colourless waxy solids. Lower ones smell pungent; higher ones are odourless.\nSolubility: -COOH hydrogen-bonds with water, so lower acids dissolve.\nBoiling point: acids form H-bonded dimers; the H-bonds are stronger than in alcohols, so boiling points exceed those of alcohols of similar mass.\nExample: ethanoic acid boils at 118 C, propanol at 97 C.",
+   "mcqs": [
+    {
+     "question_bn": "ইথানোয়িক এসিডের স্ফুটনাঙ্ক কত?",
+     "question_en": "Boiling point of ethanoic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "97 °C",
+       "en": "97 °C"
+      },
+      {
+       "id": "b",
+       "bn": "118 °C",
+       "en": "118 °C"
+      },
+      {
+       "id": "c",
+       "bn": "78 °C",
+       "en": "78 °C"
+      },
+      {
+       "id": "d",
+       "bn": "100 °C",
+       "en": "100 °C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 118 °C দেওয়া আছে।",
+     "explanation_en": "The book gives 118 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কার্বক্সিলিক এসিডের স্ফুটনাঙ্ক সমভরের অ্যালকোহলের চেয়ে বেশি কেন?",
+     "question_en": "Why do carboxylic acids boil higher than alcohols of similar mass?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডাইমার গঠনকারী সবলতর হাইড্রোজেন বন্ধনের জন্য",
+       "en": "ডাইমার গঠনকারী সবলতর হাইড্রোজেন বন্ধনের জন্য"
+      },
+      {
+       "id": "b",
+       "bn": "আয়নিক বন্ধনের জন্য",
+       "en": "আয়নিক বন্ধনের জন্য"
+      },
+      {
+       "id": "c",
+       "bn": "সমযোজী বন্ধন বেশি বলে",
+       "en": "সমযোজী বন্ধন বেশি বলে"
+      },
+      {
+       "id": "d",
+       "bn": "ধাতব বন্ধনের জন্য",
+       "en": "ধাতব বন্ধনের জন্য"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুই অণুর মধ্যে দুটি H-বন্ধন দিয়ে ডাইমার তৈরি হয়।",
+     "explanation_en": "Two H-bonds link two molecules into a dimer.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি পানিতে দ্রবণীয় হওয়ার প্রধান কারণ?",
+     "question_en": "Main reason lower acids dissolve in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানির সঙ্গে হাইড্রোজেন বন্ধন",
+       "en": "পানির সঙ্গে হাইড্রোজেন বন্ধন"
+      },
+      {
+       "id": "b",
+       "bn": "আয়নিক বন্ধন",
+       "en": "আয়নিক বন্ধন"
+      },
+      {
+       "id": "c",
+       "bn": "ভ্যান ডার ওয়ালস বল মাত্র",
+       "en": "ভ্যান ডার ওয়ালস বল মাত্র"
+      },
+      {
+       "id": "d",
+       "bn": "ধাতব বন্ধন",
+       "en": "ধাতব বন্ধন"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "-COOH পানির সঙ্গে H-বন্ধন গড়ে।",
+     "explanation_en": "-COOH forms H-bonds with water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন তুলনাটি বইয়ের তথ্যের সঙ্গে মেলে?",
+     "question_en": "Which comparison matches the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উচ্চতর কার্বক্সিলিক এসিড ঝাঁঝালো গন্ধযুক্ত তরল",
+       "en": "উচ্চতর কার্বক্সিলিক এসিড ঝাঁঝালো গন্ধযুক্ত তরল"
+      },
+      {
+       "id": "b",
+       "bn": "C1-C9 তরল, উচ্চতরগুলো মোমের মতো কঠিন ও গন্ধহীন",
+       "en": "C1-C9 তরল, উচ্চতরগুলো মোমের মতো কঠিন ও গন্ধহীন"
+      },
+      {
+       "id": "c",
+       "bn": "সব কার্বক্সিলিক এসিড গ্যাস",
+       "en": "সব কার্বক্সিলিক এসিড গ্যাস"
+      },
+      {
+       "id": "d",
+       "bn": "সব কার্বক্সিলিক এসিড পানিতে অদ্রবণীয়",
+       "en": "সব কার্বক্সিলিক এসিড পানিতে অদ্রবণীয়"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রথম নয়টি সদস্য তরল; উচ্চ সদস্যরা মোমের মতো ও গন্ধহীন।",
+     "explanation_en": "First nine are liquids; higher ones are waxy and odourless.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.11",
+   "title_bn": "কার্বক্সিলিক এসিডের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of carboxylic acids",
+   "notes_bn": "পাঁচ ধরনের বন্ধন ভাঙন: (১) আয়নীকরণযোগ্য H প্রতিস্থাপন (লবণ গঠন); (২) -OH প্রতিস্থাপন; (৩) -CO- বিজারণ; (৪) ডিকার্বক্সিলেশন; (৫) α-H প্রতিস্থাপন; (৬) বেনজিন বলয়ে প্রতিস্থাপন।\nঅম্লধর্ম: Mg + 2RCOOH → (RCOO)2Mg + H2; NaOH-এর সঙ্গে লবণ ও পানি; Na2CO3/NaHCO3-এর সঙ্গে লবণ, পানি ও CO2 (বুদবুদ) - তাই কার্বক্সিলিক এসিড H2CO3 অপেক্ষা সবল।\nঅম্লত্বের কারণ: কার্বক্সিলেট আয়নের রেজোন্যান্স; O-এর তড়িৎ ঋণাত্মকতা 3.5, C 2.5, H 2.1।\nকার্বক্সিলিক এসিড খনিজ এসিডের তুলনায় দুর্বল।\nKa: HCOOH 1.8×10^-4 (pKa 3.74); CH3COOH 1.8×10^-5 (pKa 4.74); ClCH2COOH 1.4×10^-3 (pKa 2.85); Cl2CHCOOH 5.5×10^-2 (1.26); Cl3CCOOH 2.3×10^-1 (0.64); C6H5COOH 6.5×10^-5 (4.19)। -I মূলক (Cl) অম্লত্ব বাড়ায়, +I মূলক (CH3) কমায়। ক্লোরো এসিড অ্যাসিটিকের চেয়ে প্রায় 77.78 গুণ শক্তিশালী।\n-OH প্রতিস্থাপন: এস্টার (R'OH, HCl; এস্টারিকরণ); অ্যাসাইল ক্লোরাইড (PCl3, PCl5, SOCl2 - SOCl2 সর্বোত্তম, কারণ SO2 ও HCl গ্যাস); অ্যানহাইড্রাইড (P2O5, তাপ); অ্যামাইড (অ্যামোনিয়াম লবণ 100-200 °C-এ উত্তপ্ত)।\nবিজারণ: LiAlH4/শুষ্ক ইথার → প্রাইমারি অ্যালকোহল। কার্বক্সিল মূলকে কার্বনাইল কার্বন নিউক্লিওফিলিক সংযোজন দেয় না (রেজোন্যান্স)।\nডিকার্বক্সিলেশন: সোডা লাইমসহ উত্তাপে R-H; CH3CH2COONa → C2H6; C6H5COONa → C6H6। লাল P + HI: পূর্ণ বিজারণ (CH3COOH → C2H6)।\nHVZ: লাল P সহ Cl2/Br2 → α-হ্যালো এসিড। বেনজোয়িক এসিড: গাঢ় HNO3/H2SO4 → মেটা নাইট্রো; Fe সহ Cl2 → মেটা ক্লোরো; ফ্রিডেল-ক্র্যাফ্ট দেয় না।",
+   "notes_en": "Bond-breaking gives six types of reactions: (1) replacing ionisable H (salt formation); (2) replacing -OH; (3) reduction of -CO-; (4) decarboxylation; (5) alpha-H substitution; (6) ring substitution in aromatic acids.\nAcidity: Mg + 2RCOOH -> (RCOO)2Mg + H2; with NaOH gives salt + water; with Na2CO3/NaHCO3 gives salt, water and CO2 (effervescence), so carboxylic acids are stronger than H2CO3.\nCause of acidity: resonance of the carboxylate ion; electronegativity O 3.5, C 2.5, H 2.1.\nCarboxylic acids are weak compared with mineral acids.\nKa: HCOOH 1.8e-4 (pKa 3.74); CH3COOH 1.8e-5 (4.74); ClCH2COOH 1.4e-3 (2.85); Cl2CHCOOH 5.5e-2 (1.26); Cl3CCOOH 2.3e-1 (0.64); C6H5COOH 6.5e-5 (4.19). -I groups (Cl) raise acidity, +I groups (CH3) lower it. Chloroacetic acid is about 77.78 times stronger than acetic acid.\n-OH replacement: ester (R'OH, HCl; esterification); acyl chloride (PCl3, PCl5, SOCl2; SOCl2 best as SO2 and HCl escape); anhydride (P2O5, heat); amide (ammonium salt heated at 100-200 C).\nReduction: LiAlH4/dry ether -> primary alcohol. The carbonyl carbon of -COOH does not undergo nucleophilic addition (resonance).\nDecarboxylation: heat with soda lime gives R-H; CH3CH2COONa -> C2H6; C6H5COONa -> C6H6. Red P + HI fully reduces (CH3COOH -> C2H6).\nHVZ: Cl2/Br2 with red P -> alpha-halo acid. Benzoic acid: conc. HNO3/H2SO4 -> meta-nitro; Cl2/Fe -> meta-chloro; no Friedel-Crafts reaction.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বক্সিলিক এসিড NaHCO3-এর সঙ্গে বিক্রিয়ায় কোন গ্যাস উৎপন্ন করে?",
+     "question_en": "Which gas forms when a carboxylic acid reacts with NaHCO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "b",
+       "bn": "CO2",
+       "en": "CO2"
+      },
+      {
+       "id": "c",
+       "bn": "O2",
+       "en": "O2"
+      },
+      {
+       "id": "d",
+       "bn": "SO2",
+       "en": "SO2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "RCOOH + NaHCO3 → RCOONa + H2O + CO2।",
+     "explanation_en": "RCOOH + NaHCO3 -> RCOONa + H2O + CO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সোডা লাইমসহ CH3CH2COONa উত্তপ্ত করলে কী উৎপন্ন হয়?",
+     "question_en": "Heating CH3CH2COONa with soda lime gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথেন",
+       "en": "মিথেন"
+      },
+      {
+       "id": "b",
+       "bn": "ইথেন",
+       "en": "ইথেন"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপেন",
+       "en": "প্রোপেন"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিন",
+       "en": "ইথিন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ডিকার্বক্সিলেশন: CH3CH2COONa → CH3CH3 + Na2CO3।",
+     "explanation_en": "Decarboxylation: CH3CH2COONa -> CH3CH3 + Na2CO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাসিটিক এসিডের চেয়ে ক্লোরো অ্যাসিটিক এসিড সবল কেন?",
+     "question_en": "Why is chloroacetic acid stronger than acetic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl-এর -I প্রভাবের জন্য কার্বক্সিলেট আয়নের সুস্থিতি বাড়ে",
+       "en": "Cl-এর -I প্রভাবের জন্য কার্বক্সিলেট আয়নের সুস্থিতি বাড়ে"
+      },
+      {
+       "id": "b",
+       "bn": "Cl-এর +I প্রভাবের জন্য",
+       "en": "Cl-এর +I প্রভাবের জন্য"
+      },
+      {
+       "id": "c",
+       "bn": "আণবিক ভর বেশি বলে",
+       "en": "আণবিক ভর বেশি বলে"
+      },
+      {
+       "id": "d",
+       "bn": "হাইড্রোজেন বন্ধনের জন্য",
+       "en": "হাইড্রোজেন বন্ধনের জন্য"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ঋণাত্মক আবেশ (-I) প্রভাবে O-H আয়নীকরণ সহজ হয়।",
+     "explanation_en": "The -I effect of Cl eases ionisation of O-H.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটির pKa সবচেয়ে কম (সবচেয়ে সবল)?",
+     "question_en": "Which has the lowest pKa (strongest)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3COOH",
+       "en": "CH3COOH"
+      },
+      {
+       "id": "b",
+       "bn": "ClCH2COOH",
+       "en": "ClCH2COOH"
+      },
+      {
+       "id": "c",
+       "bn": "Cl2CHCOOH",
+       "en": "Cl2CHCOOH"
+      },
+      {
+       "id": "d",
+       "bn": "Cl3CCOOH",
+       "en": "Cl3CCOOH"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "ট্রাইক্লোরো এসিডের pKa 0.64, সবচেয়ে কম।",
+     "explanation_en": "Trichloroacetic acid has pKa 0.64, the lowest.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কার্বক্সিলিক এসিডকে LiAlH4 দ্বারা বিজারিত করলে কী উৎপন্ন হয়?",
+     "question_en": "Reduction of a carboxylic acid with LiAlH4 gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালডিহাইড",
+       "en": "অ্যালডিহাইড"
+      },
+      {
+       "id": "b",
+       "bn": "প্রাইমারি অ্যালকোহল",
+       "en": "প্রাইমারি অ্যালকোহল"
+      },
+      {
+       "id": "c",
+       "bn": "কিটোন",
+       "en": "কিটোন"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকেন",
+       "en": "অ্যালকেন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "R-COOH + 4[H] → R-CH2OH + H2O।",
+     "explanation_en": "R-COOH + 4[H] -> R-CH2OH + H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এসিড ক্লোরাইড প্রস্তুতিতে SOCl2 কেন সর্বোত্তম?",
+     "question_en": "Why is SOCl2 best for making acid chlorides?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উপজাত SO2 ও HCl উভয়ই গ্যাস, তাই বিশুদ্ধ ক্লোরাইড থাকে",
+       "en": "উপজাত SO2 ও HCl উভয়ই গ্যাস, তাই বিশুদ্ধ ক্লোরাইড থাকে"
+      },
+      {
+       "id": "b",
+       "bn": "এটি সস্তা",
+       "en": "এটি সস্তা"
+      },
+      {
+       "id": "c",
+       "bn": "এটি কঠিন",
+       "en": "এটি কঠিন"
+      },
+      {
+       "id": "d",
+       "bn": "এটি P উৎপন্ন করে",
+       "en": "এটি P উৎপন্ন করে"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গ্যাসীয় উপজাত বেরিয়ে যায়।",
+     "explanation_en": "The by-products SO2 and HCl escape as gases.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফরমিক ও অ্যাসিটিক এসিডের Ka যথাক্রমে 1.8×10^-4 ও 1.8×10^-5 হলে ফরমিক এসিড কত গুণ সবল?",
+     "question_en": "With Ka of formic = 1.8e-4 and acetic = 1.8e-5, how many times stronger is formic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১০ গুণ",
+       "en": "১০ গুণ"
+      },
+      {
+       "id": "b",
+       "bn": "১০০ গুণ",
+       "en": "১০০ গুণ"
+      },
+      {
+       "id": "c",
+       "bn": "২ গুণ",
+       "en": "২ গুণ"
+      },
+      {
+       "id": "d",
+       "bn": "৭৭.৭৮ গুণ",
+       "en": "৭৭.৭৮ গুণ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1.8×10^-4 / 1.8×10^-5 = 10।",
+     "explanation_en": "1.8e-4 / 1.8e-5 = 10.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ক্লোরো অ্যাসিটিক (Ka = 1.4×10^-3) অ্যাসিটিক (Ka = 1.8×10^-5) এর চেয়ে প্রায় কত গুণ সবল?",
+     "question_en": "Chloroacetic (Ka = 1.4e-3) is about how many times stronger than acetic (Ka = 1.8e-5)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৭.৭৮",
+       "en": "৭.৭৮"
+      },
+      {
+       "id": "b",
+       "bn": "৭৭.৭৮",
+       "en": "৭৭.৭৮"
+      },
+      {
+       "id": "c",
+       "bn": "৭৭৭.৮",
+       "en": "৭৭৭.৮"
+      },
+      {
+       "id": "d",
+       "bn": "১৪",
+       "en": "১৪"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "1.4×10^-3 / 1.8×10^-5 = 77.78।",
+     "explanation_en": "1.4e-3 / 1.8e-5 = 77.78.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "বেনজোয়িক এসিডকে গাঢ় HNO3 ও গাঢ় H2SO4 সহ উত্তপ্ত করলে প্রধান উৎপাদ কোনটি?",
+     "question_en": "Heating benzoic acid with conc. HNO3/H2SO4 gives mainly?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অর্থো নাইট্রো বেনজোয়িক এসিড",
+       "en": "অর্থো নাইট্রো বেনজোয়িক এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "মেটা নাইট্রো বেনজোয়িক এসিড",
+       "en": "মেটা নাইট্রো বেনজোয়িক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "প্যারা নাইট্রো বেনজোয়িক এসিড",
+       "en": "প্যারা নাইট্রো বেনজোয়িক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "নাইট্রোবেনজিন",
+       "en": "নাইট্রোবেনজিন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "-COOH মেটা-নির্দেশক ও বলয়-নিষ্ক্রিয়কারী।",
+     "explanation_en": "-COOH is a meta director and deactivating.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "অ্যামাইড গঠনে অ্যামোনিয়াম কার্বনেট ব্যবহারের কারণ কী (দ্রবণ নয়)?",
+     "question_en": "Why is solid ammonium carbonate (not solution) used for amide formation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লবণের আর্দ্র বিশ্লেষণ এড়াতে",
+       "en": "লবণের আর্দ্র বিশ্লেষণ এড়াতে"
+      },
+      {
+       "id": "b",
+       "bn": "দাম কম বলে",
+       "en": "দাম কম বলে"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়া ঠান্ডায় হয় বলে",
+       "en": "বিক্রিয়া ঠান্ডায় হয় বলে"
+      },
+      {
+       "id": "d",
+       "bn": "রং দেখতে",
+       "en": "রং দেখতে"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যামোনিয়াম লবণের আর্দ্র বিশ্লেষণ ঘটে বলে শুষ্ক লবণ ব্যবহৃত হয়।",
+     "explanation_en": "Ammonium salts hydrolyse in water, so dry salt is used.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.12",
+   "title_bn": "কার্বক্সিল মূলকের পরীক্ষা",
+   "title_en": "Test for carboxyl group",
+   "notes_bn": "(১) লিটমাস পরীক্ষা: জলীয় দ্রবণে এসিড H+ দেয়, নীল লিটমাস লাল হয়।\n(২) NaHCO3 পরীক্ষা: কার্বক্সিলিক এসিডের সঙ্গে NaHCO3 দ্রবণ বুদবুদসহ CO2 দেয়; এই গ্যাস চুনের পানিকে ঘোলা করে (CaCO3)।\nCH3COOH + NaHCO3 → CH3COONa + CO2 + H2O।",
+   "notes_en": "(1) Litmus test: acid gives H+ in water and turns blue litmus red.\n(2) NaHCO3 test: a carboxylic acid with NaHCO3 solution effervesces CO2, which turns lime water milky (CaCO3).\nCH3COOH + NaHCO3 -> CH3COONa + CO2 + H2O.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বক্সিল মূলকের পরীক্ষায় NaHCO3 দ্রবণে কী পর্যবেক্ষণ করা যায়?",
+     "question_en": "What is observed in the NaHCO3 test for -COOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বুদবুদসহ CO2 গ্যাস",
+       "en": "বুদবুদসহ CO2 গ্যাস"
+      },
+      {
+       "id": "b",
+       "bn": "রূপার দর্পণ",
+       "en": "রূপার দর্পণ"
+      },
+      {
+       "id": "c",
+       "bn": "লাল অধঃক্ষেপ",
+       "en": "লাল অধঃক্ষেপ"
+      },
+      {
+       "id": "d",
+       "bn": "নীল বর্ণ",
+       "en": "নীল বর্ণ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CO2 নির্গত হয়।",
+     "explanation_en": "CO2 evolves.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নির্গত CO2 গ্যাসকে কোন দ্রবণে চালনা করে শনাক্ত করা হয়?",
+     "question_en": "Evolved CO2 is identified by passing it into?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চুনের পানি",
+       "en": "চুনের পানি"
+      },
+      {
+       "id": "b",
+       "bn": "টলেন বিকারক",
+       "en": "টলেন বিকারক"
+      },
+      {
+       "id": "c",
+       "bn": "ফেলিং দ্রবণ",
+       "en": "ফেলিং দ্রবণ"
+      },
+      {
+       "id": "d",
+       "bn": "লিটমাস",
+       "en": "লিটমাস"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "চুনের পানি ঘোলা হয়।",
+     "explanation_en": "Lime water turns milky.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জলীয় দ্রবণে কার্বক্সিলিক এসিড নীল লিটমাসকে কী করে?",
+     "question_en": "What does an aqueous carboxylic acid do to blue litmus?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল করে",
+       "en": "লাল করে"
+      },
+      {
+       "id": "b",
+       "bn": "সবুজ করে",
+       "en": "সবুজ করে"
+      },
+      {
+       "id": "c",
+       "bn": "বর্ণহীন করে",
+       "en": "বর্ণহীন করে"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন নেই",
+       "en": "কোনো পরিবর্তন নেই"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "H+ উৎপন্ন হওয়ায় লাল হয়।",
+     "explanation_en": "H+ turns it red.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "চুনের পানি ঘোলা হওয়ার বিক্রিয়ায় অধঃক্ষেপ কোনটি?",
+     "question_en": "Precipitate formed when CO2 turns lime water milky?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaCO3",
+       "en": "CaCO3"
+      },
+      {
+       "id": "b",
+       "bn": "Ca(HCO3)2",
+       "en": "Ca(HCO3)2"
+      },
+      {
+       "id": "c",
+       "bn": "CaO",
+       "en": "CaO"
+      },
+      {
+       "id": "d",
+       "bn": "Ca(OH)2",
+       "en": "Ca(OH)2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Ca(OH)2 + CO2 → CaCO3 + H2O।",
+     "explanation_en": "Ca(OH)2 + CO2 -> CaCO3 + H2O.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.13",
+   "title_bn": "মিথানোয়িক এসিড ও ইথানোয়িক এসিডের তুলনা",
+   "title_en": "Comparison of methanoic and ethanoic acids",
+   "notes_bn": "গঠন: HCOOH-এ -COOH ও -CHO উভয়ের সমন্বয় (H-COOH); CH3COOH-এ -COOH-এর সঙ্গে মিথাইল।\nবিজারণ: HCOOH বিজারক - টলেন বিকারকে রূপার দর্পণ, ফেলিং দ্রবণে লাল Cu2O; CH3COOH দেয় না।\nতাপ: HCOOH উত্তাপে বিয়োজিত (CO2 + H2); CH3COOH সুস্থিত। গাঢ় H2SO4: HCOOH → CO + H2O, CH3COOH নিরুদিত হয় না।\nঅম্লত্ব: HCOOH প্রায় 10 গুণ সবল (Ka 1.8×10^-4 বনাম 1.8×10^-5)।\nCl2: HCOOH তে হয় না (α-H নেই); CH3COOH লাল P ও তাপে ClCH2COOH দেয়।\nশনাক্তকরণ: HCOOH → মারকিউরিক ক্লোরাইড (HgCl2) পরীক্ষায় সাদা Hg2Cl2, পরে ধূসর Hg; ফেলিং/টলেন। CH3COOH → ক্যাকোডিল অক্সাইড পরীক্ষা (NaOH ও As2O3 সহ উত্তপ্ত, দুর্গন্ধযুক্ত বাষ্প)।\nHCOOH অম্ল ও বিজারক উভয় রূপে কাজ করে; মৃদু বিজারক হিসেবে নিজে জারিত হয়ে CO2 ও H2O দেয়।",
+   "notes_en": "Structure: HCOOH combines -COOH and -CHO; CH3COOH has -COOH plus a methyl group.\nReduction: HCOOH is a reducing agent - silver mirror with Tollens', red Cu2O with Fehling's; CH3COOH does not.\nHeat: HCOOH decomposes (CO2 + H2); CH3COOH is stable. Conc. H2SO4 dehydrates HCOOH to CO + H2O, not CH3COOH.\nAcidity: HCOOH is about 10 times stronger (Ka 1.8e-4 vs 1.8e-5).\nCl2: no reaction with HCOOH (no alpha-H); CH3COOH gives ClCH2COOH with red P and heat.\nTests: HCOOH - HgCl2 test (white Hg2Cl2 then grey Hg), Fehling's/Tollens'. CH3COOH - cacodyl oxide test (heat with NaOH and As2O3, foul-smelling vapour).\nHCOOH acts as both acid and reductant; as a mild reductant it is oxidised to CO2 and H2O.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি টলেন বিকারককে বিজারিত করে রূপার দর্পণ তৈরি করে?",
+     "question_en": "Which reduces Tollens' reagent to give a silver mirror?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCOOH",
+       "en": "HCOOH"
+      },
+      {
+       "id": "b",
+       "bn": "CH3COOH",
+       "en": "CH3COOH"
+      },
+      {
+       "id": "c",
+       "bn": "C6H5COOH",
+       "en": "C6H5COOH"
+      },
+      {
+       "id": "d",
+       "bn": "CH3CH2COOH",
+       "en": "CH3CH2COOH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফরমিক এসিডে -CHO ধর্ম আছে।",
+     "explanation_en": "Formic acid has aldehyde character.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্যাকোডিল অক্সাইড পরীক্ষা কোন এসিড শনাক্ত করে?",
+     "question_en": "Cacodyl oxide test identifies which acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফরমিক এসিড",
+       "en": "ফরমিক এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসিটিক এসিড",
+       "en": "অ্যাসিটিক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "অক্সালিক এসিড",
+       "en": "অক্সালিক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজোয়িক এসিড",
+       "en": "বেনজোয়িক এসিড"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যাসিটিক এসিড NaOH ও As2O3 সহ দুর্গন্ধযুক্ত ক্যাকোডিল অক্সাইড দেয়।",
+     "explanation_en": "Acetic acid gives foul cacodyl oxide vapour with NaOH and As2O3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফরমিক এসিডে গাঢ় H2SO4 যোগ করে উত্তপ্ত করলে কী গ্যাস পাওয়া যায়?",
+     "question_en": "Heating formic acid with conc. H2SO4 gives which gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO",
+       "en": "CO"
+      },
+      {
+       "id": "b",
+       "bn": "CO2",
+       "en": "CO2"
+      },
+      {
+       "id": "c",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "d",
+       "bn": "CH4",
+       "en": "CH4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HCOOH → CO + H2O।",
+     "explanation_en": "HCOOH -> CO + H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফরমিক এসিড ক্লোরিনের সঙ্গে সরাসরি প্রতিস্থাপন বিক্রিয়া দেয় না কেন?",
+     "question_en": "Why does formic acid not undergo chlorine substitution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "α-হাইড্রোজেন নেই",
+       "en": "α-হাইড্রোজেন নেই"
+      },
+      {
+       "id": "b",
+       "bn": "এটি সবল এসিড",
+       "en": "এটি সবল এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "এটি কঠিন",
+       "en": "এটি কঠিন"
+      },
+      {
+       "id": "d",
+       "bn": "এটি গ্যাস",
+       "en": "এটি গ্যাস"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HCOOH-এ কার্বক্সিলের সঙ্গে কেবল H আছে, α-কার্বন নেই।",
+     "explanation_en": "Only H is attached to the carboxyl; there is no alpha-carbon.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফরমিক এসিড মারকিউরিক ক্লোরাইড (HgCl2) দ্রবণে যোগ করলে প্রথমে কোন অধঃক্ষেপ পড়ে?",
+     "question_en": "Formic acid with HgCl2 first gives which precipitate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা Hg2Cl2",
+       "en": "সাদা Hg2Cl2"
+      },
+      {
+       "id": "b",
+       "bn": "ধূসর Hg",
+       "en": "ধূসর Hg"
+      },
+      {
+       "id": "c",
+       "bn": "লাল Cu2O",
+       "en": "লাল Cu2O"
+      },
+      {
+       "id": "d",
+       "bn": "কালো Ag",
+       "en": "কালো Ag"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রথমে সাদা মারকিউরাস ক্লোরাইড, পরে উত্তাপে ধূসর পারদ।",
+     "explanation_en": "White mercurous chloride first, then grey mercury on heating.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ফেলিং দ্রবণসহ উত্তপ্ত করলে HCOOH কোন অধঃক্ষেপ দেয়?",
+     "question_en": "Heating HCOOH with Fehling's solution gives which precipitate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লালচে Cu2O",
+       "en": "লালচে Cu2O"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা CuCl",
+       "en": "সাদা CuCl"
+      },
+      {
+       "id": "c",
+       "bn": "কালো Ag",
+       "en": "কালো Ag"
+      },
+      {
+       "id": "d",
+       "bn": "হলুদ AgI",
+       "en": "হলুদ AgI"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HCOOH + 2Cu(OH)2 + 2NaOH → Cu2O + Na2CO3 + 4H2O।",
+     "explanation_en": "HCOOH + 2Cu(OH)2 + 2NaOH -> Cu2O + Na2CO3 + 4H2O.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "9.11",
+   "stimulus_bn": "তিনটি এসিডের Ka মান: CH3COOH = 1.8×10^-5, ClCH2COOH = 1.4×10^-3, Cl3CCOOH = 2.3×10^-1। একজন ছাত্র CH3COOH-কে দুই ভাবে রূপান্তর করল: (i) P2O5 সহ উত্তাপে, (ii) NaOH-এর পর সোডা লাইমসহ উত্তাপে।",
+   "stimulus_en": "Ka values: CH3COOH = 1.8e-5, ClCH2COOH = 1.4e-3, Cl3CCOOH = 2.3e-1. A student treated CH3COOH two ways: (i) heated with P2O5, (ii) neutralised with NaOH then heated with soda lime.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "এস্টারিকরণ কী?",
+     "question_en": "What is esterification?",
+     "model_answer_bn": "লঘু HCl-এর উপস্থিতিতে কার্বক্সিলিক এসিড ও অ্যালকোহলের বিক্রিয়ায় এস্টার ও পানি উৎপন্ন হওয়ার প্রক্রিয়া।",
+     "model_answer_en": "Reaction of a carboxylic acid with an alcohol in presence of dilute HCl to give an ester and water."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "(i) নং বিক্রিয়ায় কী উৎপন্ন হয় তা সমীকরণসহ লেখো।",
+     "question_en": "Write the product of reaction (i) with an equation.",
+     "model_answer_bn": "দুই অণু এসিড থেকে এক অণু পানি অপসারিত হয়ে ইথানোয়িক অ্যানহাইড্রাইড: 2CH3COOH → (CH3CO)2O + H2O।",
+     "model_answer_en": "Two acid molecules lose one water: 2CH3COOH -> (CH3CO)2O + H2O (ethanoic anhydride)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "(ii) নং বিক্রিয়ায় উৎপন্ন গ্যাসটির নাম ও সমীকরণ লেখো এবং ক্লোরো অ্যাসিটিক এসিড অ্যাসিটিক এসিডের চেয়ে কত গুণ সবল তা নির্ণয় করো।",
+     "question_en": "Name the gas from reaction (ii) with equations, and find how many times stronger ClCH2COOH is than CH3COOH.",
+     "model_answer_bn": "CH3COOH + NaOH → CH3COONa + H2O; CH3COONa + NaOH·CaO → CH4 + Na2CO3·CaO; গ্যাস মিথেন। সবলতা = 1.4×10^-3 / 1.8×10^-5 = 77.78 গুণ।",
+     "model_answer_en": "CH3COOH + NaOH -> CH3COONa + H2O; CH3COONa + NaOH.CaO -> CH4 + Na2CO3.CaO; gas is methane. Strength ratio = 1.4e-3 / 1.8e-5 = 77.78."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "Ka মান বিশ্লেষণ করে CH3COOH, ClCH2COOH ও Cl3CCOOH-এর অম্লত্বের ক্রম ও কারণ ব্যাখ্যা করো।",
+     "question_en": "Using the Ka values, explain the order of acidity of CH3COOH, ClCH2COOH and Cl3CCOOH and the reason.",
+     "model_answer_bn": "ক্রম: Cl3CCOOH > ClCH2COOH > CH3COOH। Cl ঋণাত্মক আবেশ (-I) প্রভাবশালী; যত বেশি Cl, কার্বক্সিলেট আয়ন তত সুস্থিত, আয়নীকরণ সহজ, তাই Ka বাড়ে (0.23 > 1.4×10^-3 > 1.8×10^-5)।",
+     "model_answer_en": "Order: Cl3CCOOH > ClCH2COOH > CH3COOH. Cl exerts a -I effect; more Cl stabilises the carboxylate ion more, easing ionisation, so Ka rises (0.23 > 1.4e-3 > 1.8e-5)."
+    }
+   ]
+  },
+  {
+   "topic_section": "9.13",
+   "stimulus_bn": "দুটি বোতলে অজানা এসিড A ও B আছে; একটি ফরমিক ও অন্যটি অ্যাসিটিক এসিড। A-তে ফেলিং দ্রবণ যোগ করে উত্তপ্ত করলে লালচে অধঃক্ষেপ পড়ল; B-তে NaOH ও As2O3 সহ উত্তপ্ত করলে দুর্গন্ধযুক্ত বাষ্প বের হলো।",
+   "stimulus_en": "Two bottles hold unknown acids A and B (formic and acetic). A with Fehling's solution on heating gave a reddish precipitate; B heated with NaOH and As2O3 gave a foul-smelling vapour.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "গ্লেসিয়াল অ্যাসিটিক এসিড কী?",
+     "question_en": "What is glacial acetic acid?",
+     "model_answer_bn": "100% বিশুদ্ধ অনার্দ্র ইথানোয়িক এসিড, যা 17 °C-এর নিচে বরফের মতো জমে।",
+     "model_answer_en": "100% pure anhydrous ethanoic acid, freezing like ice below 17 C."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "A ও B কোন এসিড? কারণ লেখো।",
+     "question_en": "Identify A and B with reasons.",
+     "model_answer_bn": "A = ফরমিক এসিড (আলডিহাইড মূলক থাকায় ফেলিং দ্রবণ বিজারিত করে Cu2O দেয়); B = অ্যাসিটিক এসিড (ক্যাকোডিল অক্সাইড পরীক্ষা)।",
+     "model_answer_en": "A = formic acid (aldehyde group reduces Fehling's to Cu2O); B = acetic acid (cacodyl oxide test)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "A-এর সঙ্গে টলেন বিকারকের বিক্রিয়ার সমীকরণ লেখো ও পর্যবেক্ষণ বলো।",
+     "question_en": "Write the equation of A with Tollens' reagent and state the observation.",
+     "model_answer_bn": "HCOOH + 2Ag(NH3)2OH → (NH4)2CO3 + 2Ag + 2NH3 + H2O; রূপার দর্পণ সৃষ্টি হয়।",
+     "model_answer_en": "HCOOH + 2Ag(NH3)2OH -> (NH4)2CO3 + 2Ag + 2NH3 + H2O; a silver mirror forms."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "গঠন বিশ্লেষণ করে ব্যাখ্যা করো কেন A অ্যালডিহাইডের মতো ও এসিডের মতো উভয়ভাবে আচরণ করে, অথচ B শুধু এসিডরূপে।",
+     "question_en": "Using structure, explain why A behaves as both aldehyde and acid while B behaves only as an acid.",
+     "model_answer_bn": "A (H-COOH)-এ কার্বক্সিল (-COOH) ও অ্যালডিহাইড (-CHO) উভয় মূলকের সমন্বয় আছে, তাই এসিডধর্মের পাশাপাশি বিজারণ ধর্ম দেখায়। B (CH3COOH)-এ কার্বক্সিলের সঙ্গে মিথাইল মূলক যুক্ত, অ্যালডিহাইড মূলক নেই, তাই বিজারক নয়।",
+     "model_answer_en": "A (H-COOH) combines -COOH and -CHO, so it shows reducing as well as acidic behaviour. B (CH3COOH) has a methyl group on -COOH and no aldehyde group, so it is not a reductant."
+    }
+   ]
+  },
+  {
+   "topic_section": "9.7",
+   "stimulus_bn": "একটি কারখানায় অ্যাসিটিলিন থেকে ধাপে ধাপে ইথানোয়িক এসিড উৎপাদন করা হয়: অ্যাসিটিলিন → যৌগ X → ইথানোয়িক এসিড, এরপর NaOH দ্বারা প্রশমন করে সোডিয়াম অ্যাসিটেট নিয়ে গাঢ় H2SO4 সহ পাতন করা হয়।",
+   "stimulus_en": "A factory makes ethanoic acid from acetylene: acetylene -> compound X -> ethanoic acid; the acid is then neutralised with NaOH and the sodium acetate distilled with conc. H2SO4.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ইথানোয়িক এসিডের IUPAC নামকরণে মূল অ্যালকেন কোনটি?",
+     "question_en": "Which parent alkane is used in the IUPAC name of ethanoic acid?",
+     "model_answer_bn": "ইথেন।",
+     "model_answer_en": "Ethane."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "X যৌগটির নাম ও প্রস্তুতির প্রভাবকগুলো লেখো।",
+     "question_en": "Name X and the catalysts for its preparation.",
+     "model_answer_bn": "X = ইথান্যাল (অ্যাসিটালডিহাইড); প্রভাবক 1% HgSO4 ও 20% H2SO4, 60 °C।",
+     "model_answer_en": "X = ethanal (acetaldehyde); catalysts 1% HgSO4 and 20% H2SO4 at 60 C."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "X থেকে ইথানোয়িক এসিড প্রস্তুতির সমীকরণ ও শর্ত লেখো এবং শেষ ধাপের সমীকরণ দাও।",
+     "question_en": "Give the equation and conditions for X to ethanoic acid, and the equation of the last step.",
+     "model_answer_bn": "2CH3CHO + O2 (Mn অ্যাসিটেট, 60 °C) → 2CH3COOH। শেষ ধাপ: 2CH3COONa + H2SO4 (গাঢ়, 118 °C) → 2CH3COOH + Na2SO4।",
+     "model_answer_en": "2CH3CHO + O2 (Mn acetate, 60 C) -> 2CH3COOH. Last step: 2CH3COONa + H2SO4 (conc., 118 C) -> 2CH3COOH + Na2SO4."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "শেষ ধাপে প্রশমন ও পাতন কেন করা হয়, ব্যাখ্যা করো; এভাবে প্রাপ্ত এসিডের বিশুদ্ধতা কত?",
+     "question_en": "Explain why neutralisation and distillation are done at the end, and what purity results.",
+     "model_answer_bn": "বাণিজ্যিক এসিড সম্পূর্ণ বিশুদ্ধ নয়; NaOH দিয়ে সোডিয়াম অ্যাসিটেট ট্রাইহাইড্রেট গঠন করে কেলাস-পানি দূর করা হয়, তারপর গাঢ় H2SO4 সহ 118 °C-এ পাতনে প্রায় 99.5% বিশুদ্ধ (গ্লেসিয়াল) এসিড পাওয়া যায়।",
+     "model_answer_en": "Commercial acid is not fully pure; NaOH gives sodium acetate trihydrate, whose crystal water is removed, and distillation with conc. H2SO4 at 118 C gives about 99.5% pure (glacial) acid."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 496-521 readable. PDF 496 is the end of previous chapter (exam page, skipped). Chapter pages also include 9.14 intro/9.15 (printed p.505-506), outside assigned sections and not covered. Book uses a few misprints (e.g. intramolecular for dimer H-bond); notes follow the chemistry intent."
+}

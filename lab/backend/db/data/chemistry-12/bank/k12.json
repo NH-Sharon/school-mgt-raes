@@ -1,0 +1,2101 @@
+{
+ "chapter_no": 4,
+ "topics": [
+  {
+   "section_no": "4.14",
+   "title_bn": "জৈব বিক্রিয়া ও প্রকারভেদ",
+   "title_en": "Organic reactions and their types",
+   "notes_bn": "জৈব বিক্রিয়া সমযোজী বন্ধন ভেঙে নতুন সমযোজী বন্ধন গঠনের মাধ্যমে ঘটে এবং বিক্রিয়া মূলত আণবিক প্রকৃতির; অজৈব বিক্রিয়া সাধারণত আয়নিক।\nবিক্রিয়া নিয়ন্ত্রণ করে কার্যকরী মূলক; তাছাড়া σ/π বন্ধন, আক্রমণকারী বিকারকের প্রকৃতি ও পরিবেশ (অম্ল/ক্ষারীয়/নিরপেক্ষ) প্রভাব ফেলে।\nপ্রতিস্থাপন: একটি পরমাণু/মূলক সরিয়ে অন্যটি বসে। যেমন C2H5Cl + OH⁻ → C2H5OH + Cl⁻।\nযুত: একটি π বন্ধন ভেঙে দুটি σ বন্ধন গঠিত হয়। যেমন ইথিন + Br2 → 1,2-ডাইব্রোমো ইথেন।\nঅপসারণ: যুতের বিপরীত; π বন্ধন সৃষ্টি হয়। যেমন ইথানল + গাঢ় H2SO4 (160°C) → ইথিন + H2O।\nপারমাণবিক পুনর্বিন্যাস/সমাণুকরণ: আণবিক সংকেত একই রেখে গঠন বদলায়। যেমন বিউটেন (AlCl3+HCl, 300°C) → 2-মিথাইল প্রোপেন; NH4CNO (তাপে) → ইউরিয়া।",
+   "notes_en": "Organic reactions break covalent bonds and form new ones; they are mainly molecular, unlike mostly ionic inorganic reactions.\nFunctional group, σ/π bonds, the attacking reagent and the medium control the course.\nSubstitution: one atom/group replaced by another (C2H5Cl + OH- -> C2H5OH + Cl-).\nAddition: a pi bond breaks, two sigma bonds form (ethene + Br2 -> 1,2-dibromoethane).\nElimination: reverse of addition, forms a pi bond (ethanol + conc. H2SO4, 160 C -> ethene + H2O).\nRearrangement/isomerisation: same molecular formula, new structure (butane -> 2-methylpropane with AlCl3+HCl at 300 C; NH4CNO -> urea on heating).",
+   "mcqs": [
+    {
+     "question_bn": "ক্লোরো ইথেনের সাথে জলীয় ক্ষারের বিক্রিয়ায় ইথানল উৎপন্ন হওয়া কোন ধরনের বিক্রিয়া?",
+     "question_en": "Formation of ethanol from chloroethane with aqueous alkali is which type of reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "যুত",
+       "en": "Addition"
+      },
+      {
+       "id": "b",
+       "bn": "প্রতিস্থাপন",
+       "en": "Substitution"
+      },
+      {
+       "id": "c",
+       "bn": "অপসারণ",
+       "en": "Elimination"
+      },
+      {
+       "id": "d",
+       "bn": "পুনর্বিন্যাস",
+       "en": "Rearrangement"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cl⁻ এর স্থানে OH⁻ বসে, তাই প্রতিস্থাপন বিক্রিয়া।",
+     "explanation_en": "Cl- is replaced by OH-, so it is substitution.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গাঢ় H2SO4 এর উপস্থিতিতে 160°C এ ইথানল থেকে ইথিন তৈরি কোন বিক্রিয়ার উদাহরণ?",
+     "question_en": "Ethanol to ethene with conc. H2SO4 at 160 C is an example of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "যুত বিক্রিয়া",
+       "en": "Addition"
+      },
+      {
+       "id": "b",
+       "bn": "প্রতিস্থাপন বিক্রিয়া",
+       "en": "Substitution"
+      },
+      {
+       "id": "c",
+       "bn": "অপসারণ বিক্রিয়া",
+       "en": "Elimination"
+      },
+      {
+       "id": "d",
+       "bn": "সমাণুকরণ",
+       "en": "Isomerisation"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "এক অণু পানি অপসারিত হয়ে π বন্ধন সৃষ্টি হয়, তাই অপসারণ।",
+     "explanation_en": "A molecule of water is removed and a pi bond forms: elimination.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন বিক্রিয়ায় একটি π বন্ধন ভেঙে দুটি নতুন σ বন্ধন গঠিত হয়?",
+     "question_en": "In which reaction does one pi bond break and two new sigma bonds form?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রতিস্থাপন",
+       "en": "Substitution"
+      },
+      {
+       "id": "b",
+       "bn": "অপসারণ",
+       "en": "Elimination"
+      },
+      {
+       "id": "c",
+       "bn": "পুনর্বিন্যাস",
+       "en": "Rearrangement"
+      },
+      {
+       "id": "d",
+       "bn": "যুত",
+       "en": "Addition"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "অসম্পৃক্ত যৌগে π বন্ধন ভেঙে অণু যুক্ত হওয়াই যুত বিক্রিয়া।",
+     "explanation_en": "Addition across a pi bond gives two sigma bonds.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যামোনিয়াম সায়ানেটকে উত্তপ্ত করে ইউরিয়া পাওয়া কোন প্রকার বিক্রিয়া?",
+     "question_en": "Heating ammonium cyanate to give urea is which type?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পারমাণবিক পুনর্বিন্যাস",
+       "en": "Atomic rearrangement"
+      },
+      {
+       "id": "b",
+       "bn": "যুত",
+       "en": "Addition"
+      },
+      {
+       "id": "c",
+       "bn": "অপসারণ",
+       "en": "Elimination"
+      },
+      {
+       "id": "d",
+       "bn": "প্রতিস্থাপন",
+       "en": "Substitution"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আণবিক সংকেত একই (CH4N2O) থেকে গঠন বদলায়; এটি পুনর্বিন্যাস।",
+     "explanation_en": "Same molecular formula but different structure: rearrangement.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.15",
+   "title_bn": "জৈব বিক্রিয়ার কৌশল ও বিক্রিয়া সংশ্লিষ্ট কয়েকটি পদ",
+   "title_en": "Mechanism of organic reactions and related terms",
+   "notes_bn": "কার্বন-গঠিত যৌগকে সাবস্ট্রেট এবং তাকে আক্রমণকারী পদার্থকে আক্রমণকারী বিকারক বলে; ফল হলো উৎপাদ।\nসাধারণ রূপ: আক্রমণকারী বিকারক + সাবস্ট্রেট → উৎপাদ (যেমন X + Y–Z → X–Y + Z)।\nআক্রমণে সাবস্ট্রেটের কার্বন-বন্ধন ভাঙে; সক্রিয় ক্ষণস্থায়ী মধ্যবর্তী প্রজাতি (মধ্যক) তৈরি হয়, যা পরে উৎপাদে পরিণত হয়।\nউৎপাদ গঠনের আগের ধাপকে অবস্থান্তর দশা বলে।\nবিক্রিয়া কৌশল (মেকানিজম): বিক্রিয়ার সব ধাপের ক্রমিক বর্ণনা। উদাহরণ: KOH + CH3Cl → CH3OH + KCl, যেখানে OH⁻ আক্রমণ করে ও Cl⁻ বেরিয়ে যায়।\nমেকানিজম বুঝতে হলে সাবস্ট্রেটের কার্বন-বন্ধন ভাঙনের জ্ঞান আবশ্যক।",
+   "notes_en": "The carbon compound attacked is the substrate; the species that attacks it is the attacking reagent; the result is the product.\nGeneral form: reagent + substrate -> product (X + Y-Z -> X-Y + Z).\nBond breaking gives a reactive, short-lived intermediate before the product forms; the stage before product formation is the transition state.\nMechanism = the stepwise description of how a reaction proceeds.\nExample: KOH + CH3Cl -> CH3OH + KCl, with OH- attacking and Cl- leaving.\nUnderstanding mechanism requires knowing how the substrate's C bond breaks.",
+   "mcqs": [
+    {
+     "question_bn": "জৈব বিক্রিয়ায় যে অণুকে আক্রমণ করা হয় তাকে কী বলে?",
+     "question_en": "The molecule that is attacked in an organic reaction is called:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উৎপাদ",
+       "en": "Product"
+      },
+      {
+       "id": "b",
+       "bn": "সাবস্ট্রেট",
+       "en": "Substrate"
+      },
+      {
+       "id": "c",
+       "bn": "মধ্যক",
+       "en": "Intermediate"
+      },
+      {
+       "id": "d",
+       "bn": "অনুঘটক",
+       "en": "Catalyst"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আক্রান্ত কার্বন-গঠিত যৌগই সাবস্ট্রেট।",
+     "explanation_en": "The attacked carbon compound is the substrate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বিক্রিয়ার মাঝে সৃষ্ট সক্রিয় ও ক্ষণস্থায়ী প্রজাতিকে কী বলা হয়?",
+     "question_en": "The active, short-lived species formed during a reaction is called:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উৎপাদ",
+       "en": "Product"
+      },
+      {
+       "id": "b",
+       "bn": "সাবস্ট্রেট",
+       "en": "Substrate"
+      },
+      {
+       "id": "c",
+       "bn": "মধ্যক",
+       "en": "Intermediate"
+      },
+      {
+       "id": "d",
+       "bn": "বিকারক",
+       "en": "Reagent"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "এটি মধ্যবর্তী প্রজাতি বা মধ্যক, যা পরে উৎপাদ গঠন করে।",
+     "explanation_en": "It is the intermediate, which then converts to the product.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "KOH ও CH3Cl এর বিক্রিয়ায় আক্রমণকারী বিকারক কোনটি?",
+     "question_en": "In the reaction of KOH with CH3Cl, which is the attacking reagent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3Cl",
+       "en": "CH3Cl"
+      },
+      {
+       "id": "b",
+       "bn": "Cl⁻",
+       "en": "Cl-"
+      },
+      {
+       "id": "c",
+       "bn": "K⁺",
+       "en": "K+"
+      },
+      {
+       "id": "d",
+       "bn": "OH⁻",
+       "en": "OH-"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "OH⁻ সাবস্ট্রেট CH3Cl কে আক্রমণ করে CH3OH দেয়।",
+     "explanation_en": "OH- attacks the substrate CH3Cl to give CH3OH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উৎপাদ গঠনের ঠিক আগের ধাপকে কী বলে?",
+     "question_en": "What is the stage just before the product forms called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অবস্থান্তর দশা",
+       "en": "Transition state"
+      },
+      {
+       "id": "b",
+       "bn": "সুষম বিভাজন",
+       "en": "Homolysis"
+      },
+      {
+       "id": "c",
+       "bn": "সমাণুতা",
+       "en": "Isomerism"
+      },
+      {
+       "id": "d",
+       "bn": "প্রতিস্থাপন",
+       "en": "Substitution"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের মতে নতুন উৎপাদ সৃষ্টির আগের ধাপ অবস্থান্তর দশা।",
+     "explanation_en": "The step before the new product forms is the transition state.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি জৈব বিক্রিয়ার কৌশল (মেকানিজম) এর সঠিক সংজ্ঞা?",
+     "question_en": "Which best defines the mechanism of an organic reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কেবল উৎপাদের নাম",
+       "en": "Only the product's name"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়ার তাপমাত্রা",
+       "en": "The reaction temperature"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়ার সব ধাপের ক্রমিক বিবরণ",
+       "en": "Stepwise account of all reaction stages"
+      },
+      {
+       "id": "d",
+       "bn": "অনুঘটকের সংখ্যা",
+       "en": "Number of catalysts"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "মেকানিজম মানে বিক্রিয়ার বিভিন্ন ধাপসমূহ।",
+     "explanation_en": "Mechanism means the stages of the reaction in sequence.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.16",
+   "title_bn": "কার্বন-কার্বন বন্ধন ভাঙন বা বিভাজন",
+   "title_en": "Breaking of carbon-carbon bond",
+   "notes_bn": "সমযোজী বন্ধন দুইভাবে ভাঙে: সুষম ও বিষম।\nসুষম ভাঙন: বন্ধন ইলেকট্রন দুটি দুই পরমাণু একটি করে নেয় (তড়িৎ-ঋণাত্মকতা প্রায় সমান হলে)। উৎপন্ন বিজোড় ইলেকট্রনযুক্ত মূলককে ফ্রি-রেডিক্যাল বলে, যেমন •CH3, •Cl।\nফ্রি-রেডিক্যাল তড়িৎ-নিরপেক্ষ কিন্তু অত্যন্ত সক্রিয় ও ক্ষণস্থায়ী। আলো/তাপে গ্যাসীয় অবস্থায় তৈরি হয়; যেমন CH4 + Cl2 (সূর্যালোক) প্রতিস্থাপন।\nবিষম ভাঙন: দুটি ইলেকট্রনই এক পরমাণু নেয় (বেশি তড়িৎ-ঋণাত্মক); একটি ঋণাত্মক ও অপরটি ধনাত্মক আয়ন গঠিত হয়।\nঅ্যালকাইল ফ্রি-রেডিক্যালের স্থায়িত্ব: 3° > 2° > 1° > মিথাইল।",
+   "notes_en": "Covalent bonds break by homolysis or heterolysis.\nHomolysis: each atom keeps one electron (similar electronegativity), giving free radicals with an unpaired electron, e.g. CH3 radical, Cl radical.\nFree radicals are electrically neutral but very reactive and short-lived; formed by heat/light in the gas phase (CH4 + Cl2 in sunlight).\nHeterolysis: both bonding electrons go to the more electronegative atom, giving a negative and a positive ion.\nAlkyl radical stability: 3° > 2° > 1° > methyl.",
+   "mcqs": [
+    {
+     "question_bn": "সমযোজী বন্ধনের সুষম ভাঙনে কী উৎপন্ন হয়?",
+     "question_en": "Homolytic fission of a covalent bond produces:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্যাটায়ন ও অ্যানায়ন",
+       "en": "A cation and an anion"
+      },
+      {
+       "id": "b",
+       "bn": "ফ্রি-রেডিক্যাল",
+       "en": "Free radicals"
+      },
+      {
+       "id": "c",
+       "bn": "কার্বোক্যাটায়ন",
+       "en": "A carbocation"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বানায়ন",
+       "en": "A carbanion"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রতিটি পরমাণু একটি করে ইলেকট্রন নিয়ে বিজোড় ইলেকট্রনযুক্ত ফ্রি-রেডিক্যাল গঠন করে।",
+     "explanation_en": "Each atom takes one electron, forming radicals.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফ্রি-রেডিক্যাল কেমন চার্জযুক্ত?",
+     "question_en": "What is the charge character of a free radical?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ধনাত্মক",
+       "en": "Positive"
+      },
+      {
+       "id": "b",
+       "bn": "ঋণাত্মক",
+       "en": "Negative"
+      },
+      {
+       "id": "c",
+       "bn": "তড়িৎ নিরপেক্ষ",
+       "en": "Electrically neutral"
+      },
+      {
+       "id": "d",
+       "bn": "দ্বিধনাত্মক",
+       "en": "Doubly positive"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বিজোড় ইলেকট্রন আগে থেকেই পরমাণুর ছিল, তাই আয়নিক নয়।",
+     "explanation_en": "The unpaired electron was already the atom's own, so no charge.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকাইল ফ্রি-রেডিক্যালের স্থায়িত্বের সঠিক ক্রম কোনটি?",
+     "question_en": "Which is the correct order of stability of alkyl free radicals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1° > 2° > 3°",
+       "en": "1° > 2° > 3°"
+      },
+      {
+       "id": "b",
+       "bn": "মিথাইল > 1° > 2° > 3°",
+       "en": "methyl > 1° > 2° > 3°"
+      },
+      {
+       "id": "c",
+       "bn": "2° > 3° > 1°",
+       "en": "2° > 3° > 1°"
+      },
+      {
+       "id": "d",
+       "bn": "3° > 2° > 1° > মিথাইল",
+       "en": "3° > 2° > 1° > methyl"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "বইয়ে R3C• > R2HC• > RH2C• > H3C• দেওয়া আছে।",
+     "explanation_en": "The book gives R3C > R2HC > RH2C > H3C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সূর্যালোকে CH4 ও Cl2 এর বিক্রিয়ার প্রথম ধাপে কী ঘটে?",
+     "question_en": "In the first step of CH4 + Cl2 in sunlight:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl2 এর সুষম বিভাজনে Cl• উৎপন্ন হয়",
+       "en": "Homolysis of Cl2 gives Cl radicals"
+      },
+      {
+       "id": "b",
+       "bn": "Cl2 এর বিষম বিভাজনে Cl⁺ ও Cl⁻ উৎপন্ন হয়",
+       "en": "Heterolysis of Cl2 gives Cl+ and Cl-"
+      },
+      {
+       "id": "c",
+       "bn": "CH4 আয়নিত হয়",
+       "en": "CH4 ionises"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো বিক্রিয়া হয় না",
+       "en": "No reaction"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "hν এর প্রভাবে Cl–Cl বন্ধন সুষমভাবে ভেঙে ক্লোরিন ফ্রি-রেডিক্যাল তৈরি হয়।",
+     "explanation_en": "Light homolyses Cl-Cl into chlorine radicals.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.17",
+   "title_bn": "কার্বোনিয়াম আয়ন বা কার্বোক্যাটায়ন",
+   "title_en": "Carbonium ion (carbocation)",
+   "notes_bn": "কার্বোক্যাটায়ন: ধনাত্মক চার্জযুক্ত কার্বন পরমাণুবিশিষ্ট জৈব আয়ন, যেমন CH3⁺, CH3–CH2⁺।\nউৎপত্তি: C–X বন্ধনে X বেশি তড়িৎ-ঋণাত্মক হলে বিষম ভাঙনে ইলেকট্রন জোড় X নিয়ে যায়, C ধনাত্মক হয়।\nধনাত্মক কার্বনে তিনটি বন্ধনে মোট ছয়টি ইলেকট্রন থাকে, ফলে অক্টেট অপূর্ণ ও অত্যন্ত সক্রিয়; ইলেকট্রন জোড় গ্রহণে আগ্রহী।\nনামকরণ: অ্যালকাইল মূলকের শেষে 'ইয়াম' (alkyl + ium = alkylium), যেমন মিথাইলিয়াম, tert-বিউটাইলিয়াম।\nস্থায়িত্ব: 3° > 2° > 1° > CH3⁺।",
+   "notes_en": "A carbocation is an organic ion with a positively charged carbon, e.g. CH3+, CH3CH2+.\nForms by heterolysis of C-X when X is more electronegative; X takes the bonding pair, C becomes positive.\nThe positive carbon has only six electrons in three bonds (incomplete octet), so it is very reactive and seeks an electron pair.\nNaming: alkyl + 'ium' (methylium, tert-butylium).\nStability: 3° > 2° > 1° > CH3+.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বোক্যাটায়নের কার্বনে কয়টি ইলেকট্রন শেয়ারকৃত অবস্থায় থাকে?",
+     "question_en": "How many electrons surround the positive carbon in a carbocation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৮টি",
+       "en": "8"
+      },
+      {
+       "id": "b",
+       "bn": "৬টি",
+       "en": "6"
+      },
+      {
+       "id": "c",
+       "bn": "৪টি",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "২টি",
+       "en": "2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তিনটি সমযোজী বন্ধনে মোট ছয়টি ইলেকট্রন, তাই অক্টেট অপূর্ণ।",
+     "explanation_en": "Three bonds give six electrons: incomplete octet.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH3⁺ আয়নটির নাম কী?",
+     "question_en": "What is the name of CH3+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথাইল কার্বানায়ন",
+       "en": "Methyl carbanion"
+      },
+      {
+       "id": "b",
+       "bn": "মিথাইলিয়াম আয়ন",
+       "en": "Methylium ion"
+      },
+      {
+       "id": "c",
+       "bn": "মিথাইল ফ্রি-রেডিক্যাল",
+       "en": "Methyl radical"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যালকাইল + ium = অ্যালকিলিয়াম।",
+     "explanation_en": "Alkyl + ium = alkylium.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি সবচেয়ে স্থায়ী কার্বোক্যাটায়ন?",
+     "question_en": "Which carbocation is most stable?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3⁺",
+       "en": "CH3+"
+      },
+      {
+       "id": "b",
+       "bn": "CH3CH2⁺",
+       "en": "CH3CH2+"
+      },
+      {
+       "id": "c",
+       "bn": "(CH3)2CH⁺",
+       "en": "(CH3)2CH+"
+      },
+      {
+       "id": "d",
+       "bn": "(CH3)3C⁺",
+       "en": "(CH3)3C+"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "3° কার্বোক্যাটায়ন সবচেয়ে স্থায়ী।",
+     "explanation_en": "The tertiary cation is the most stable.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C–X বন্ধনের বিষম ভাঙনে কার্বোক্যাটায়ন গঠনের শর্ত কোনটি?",
+     "question_en": "Heterolysis of C-X gives a carbocation when:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "X এর তড়িৎ ঋণাত্মকতা C এর চেয়ে বেশি",
+       "en": "X is more electronegative than C"
+      },
+      {
+       "id": "b",
+       "bn": "X এর তড়িৎ ঋণাত্মকতা C এর চেয়ে কম",
+       "en": "X is less electronegative than C"
+      },
+      {
+       "id": "c",
+       "bn": "দুটির তড়িৎ ঋণাত্মকতা সমান",
+       "en": "Both have equal electronegativity"
+      },
+      {
+       "id": "d",
+       "bn": "X একটি ধাতু নয়",
+       "en": "X is not a metal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "X ইলেকট্রন জোড় নিলে C ধনাত্মক হয়।",
+     "explanation_en": "X takes the pair so C becomes positive.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.18",
+   "title_bn": "কার্বানায়ন",
+   "title_en": "Carbanion",
+   "notes_bn": "কার্বানায়ন: ঋণাত্মক চার্জযুক্ত কার্বন পরমাণুবিশিষ্ট জৈব অ্যানায়ন, যেমন :CH3⁻, :CH2CH3⁻।\nউৎপত্তি: C–Z বন্ধনে Z এর তড়িৎ-ঋণাত্মকতা C এর চেয়ে কম হলে বিষম ভাঙনে ইলেকট্রন জোড় C পায়।\nসমৃদ্ধ ইলেকট্রনের কারণে অত্যন্ত সক্রিয় এবং ইলেকট্রন ঘাটতিযুক্ত বিকারকের সঙ্গে যুক্ত হয়।\nনামকরণ: অ্যালকাইল মূলকের নামের শেষে 'কার্বানায়ন'।\nস্থায়িত্ব: ইলেকট্রন-আকর্ষী মূলক (–C≡N, >C=O, –NO2) স্থায়িত্ব বাড়ায়; ইলেকট্রন-বিকর্ষী মূলক (–CH3, –C2H5) কমায়। তাই CH3⁻ > 1° > 2° > 3°।",
+   "notes_en": "A carbanion is an organic anion with a negatively charged carbon, e.g. CH3-, CH3CH2-.\nForms when, in C-Z, Z is less electronegative than C, so heterolysis gives the pair to carbon.\nVery reactive, electron-rich; combines with electron-deficient reagents.\nNaming: alkyl name + 'carbanion'.\nElectron-withdrawing groups (-CN, C=O, -NO2) stabilise it; electron-releasing alkyl groups destabilise it. Stability: CH3- > 1° > 2° > 3°.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বানায়ন কী?",
+     "question_en": "A carbanion is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ধনাত্মক কার্বনযুক্ত আয়ন",
+       "en": "An ion with positive carbon"
+      },
+      {
+       "id": "b",
+       "bn": "বিজোড় ইলেকট্রনযুক্ত মূলক",
+       "en": "A radical with an unpaired electron"
+      },
+      {
+       "id": "c",
+       "bn": "ঋণাত্মক চার্জযুক্ত কার্বনযুক্ত আয়ন",
+       "en": "An ion with negatively charged carbon"
+      },
+      {
+       "id": "d",
+       "bn": "নিরপেক্ষ অণু",
+       "en": "A neutral molecule"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "কার্বন ঋণাত্মক হলে কার্বানায়ন।",
+     "explanation_en": "A negatively charged carbon gives a carbanion.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কার্বানায়ন গঠনের জন্য C–Z বন্ধনে কী শর্ত প্রযোজ্য?",
+     "question_en": "For carbanion formation from C-Z:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Z বেশি তড়িৎ-ঋণাত্মক",
+       "en": "Z is more electronegative"
+      },
+      {
+       "id": "b",
+       "bn": "Z এর তড়িৎ-ঋণাত্মকতা C এর চেয়ে কম",
+       "en": "Z is less electronegative than C"
+      },
+      {
+       "id": "c",
+       "bn": "দুটি সমান",
+       "en": "Both equal"
+      },
+      {
+       "id": "d",
+       "bn": "Z হাইড্রোজেন হতে হবে",
+       "en": "Z must be hydrogen"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C ইলেকট্রন জোড় নিজের দিকে টেনে নিলে ঋণাত্মক হয়।",
+     "explanation_en": "C pulls the pair and becomes negative.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন মূলক কার্বানায়নের স্থায়িত্ব বৃদ্ধি করে?",
+     "question_en": "Which group increases the stability of a carbanion?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–CH3",
+       "en": "-CH3"
+      },
+      {
+       "id": "b",
+       "bn": "–C2H5",
+       "en": "-C2H5"
+      },
+      {
+       "id": "c",
+       "bn": "–NO2",
+       "en": "-NO2"
+      },
+      {
+       "id": "d",
+       "bn": "–C3H7",
+       "en": "-C3H7"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ইলেকট্রন-আকর্ষী মূলক যেমন –NO2 ঋণাত্মক চার্জ ছড়িয়ে স্থায়িত্ব বাড়ায়।",
+     "explanation_en": "Electron-withdrawing -NO2 stabilises the negative charge.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকাইল কার্বানায়নের স্থায়িত্বের ক্রম কোনটি?",
+     "question_en": "Order of stability of alkyl carbanions:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3° > 2° > 1° > CH3⁻",
+       "en": "3° > 2° > 1° > CH3-"
+      },
+      {
+       "id": "b",
+       "bn": "CH3⁻ > 1° > 2° > 3°",
+       "en": "CH3- > 1° > 2° > 3°"
+      },
+      {
+       "id": "c",
+       "bn": "2° > 1° > 3°",
+       "en": "2° > 1° > 3°"
+      },
+      {
+       "id": "d",
+       "bn": "সব সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যালকাইল সংখ্যা বাড়লে ইলেকট্রন বিকর্ষণ বাড়ে ও স্থায়িত্ব কমে; ক্রম কার্বোক্যাটায়নের বিপরীত।",
+     "explanation_en": "More alkyl groups reduce stability; opposite of carbocations.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.19",
+   "title_bn": "আক্রমণকারী বিকারক ও তাদের ভূমিকা",
+   "title_en": "Attacking reagents and their functions",
+   "notes_bn": "আক্রমণকারী বিকারক তিন ধরনের কাজ করে: ফ্রি-রেডিক্যাল (প্রতিস্থাপন, যুত, পুনর্বিন্যাস), ইলেকট্রোফাইল (প্রতিস্থাপন, যুত), নিউক্লিওফাইল (প্রতিস্থাপন, যুত, অপসারণ)।\nইলেকট্রোফাইল: ইলেকট্রন-আকর্ষী। ধনাত্মক: CH3⁺, Br⁺, H⁺, H3O⁺, NO2⁺, NO⁺; নিরপেক্ষ (অক্টেট অপূর্ণ): AlCl3, BF3, FeCl3, SO3। এরা সাবস্ট্রেটের ইলেকট্রনসমৃদ্ধ অংশ (যেমন কার্বানায়ন) আক্রমণ করে।\nনিউক্লিওফাইল: নিউক্লিয়াস-আকর্ষী, ইলেকট্রন জোড় দিতে পারে। ঋণাত্মক: CH3⁻, Cl⁻, Br⁻, CN⁻, OH⁻, OR⁻; নিরপেক্ষ: NH3, H2O, ROH। এরা ইলেকট্রন ঘাটতিযুক্ত অংশ (যেমন কার্বোক্যাটায়ন) আক্রমণ করে।\nউৎস: Cl2, Br2, HCl, HBr, H2SO4 ইলেকট্রোফাইল দেয়; HCN, NaHSO3, RMgX নিউক্লিওফাইল দেয়।\nইলেকট্রোফাইল কখনো সাবস্ট্রেটরূপেও কাজ করতে পারে।",
+   "notes_en": "Attacking reagents: free radicals (substitution, addition, rearrangement), electrophiles (substitution, addition) and nucleophiles (substitution, addition, elimination).\nElectrophile = electron-seeking. Positive: CH3+, Br+, H+, H3O+, NO2+, NO+; neutral (incomplete octet): AlCl3, BF3, FeCl3, SO3. They attack electron-rich sites such as carbanions.\nNucleophile = nucleus-seeking, donates an electron pair. Negative: CH3-, Cl-, Br-, CN-, OH-, OR-; neutral: NH3, H2O, ROH. They attack electron-poor sites such as carbocations.\nSources: Cl2, Br2, HCl, HBr, H2SO4 supply electrophiles; HCN, NaHSO3, RMgX supply nucleophiles.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি নিউক্লিওফাইল?",
+     "question_en": "Which is a nucleophile?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "BF3",
+       "en": "BF3"
+      },
+      {
+       "id": "b",
+       "bn": "OH⁻",
+       "en": "OH-"
+      },
+      {
+       "id": "c",
+       "bn": "NO2⁺",
+       "en": "NO2+"
+      },
+      {
+       "id": "d",
+       "bn": "AlCl3",
+       "en": "AlCl3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "OH⁻ ইলেকট্রন জোড় দান করতে পারে।",
+     "explanation_en": "OH- can donate an electron pair.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি প্রশম ইলেকট্রোফাইল?",
+     "question_en": "Which is a neutral electrophile?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "BF3",
+       "en": "BF3"
+      },
+      {
+       "id": "b",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "c",
+       "bn": "H2O",
+       "en": "H2O"
+      },
+      {
+       "id": "d",
+       "bn": "CN⁻",
+       "en": "CN-"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "BF3 এ কেন্দ্রীয় পরমাণুর অক্টেট অপূর্ণ, তাই ইলেকট্রন গ্রহণ করে।",
+     "explanation_en": "BF3 has an incomplete octet and accepts electrons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অপসারণ বিক্রিয়া সাধারণত কোন বিকারকের মাধ্যমে ঘটে (বইয়ের তালিকা অনুযায়ী)?",
+     "question_en": "Elimination reactions are brought about by which reagent type (per the book)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফ্রি-রেডিক্যাল",
+       "en": "Free radical"
+      },
+      {
+       "id": "b",
+       "bn": "ইলেকট্রোফাইল",
+       "en": "Electrophile"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু ইলেকট্রোফাইল",
+       "en": "Electrophile only"
+      },
+      {
+       "id": "d",
+       "bn": "নিউক্লিওফাইল",
+       "en": "Nucleophile"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "নিউক্লিওফাইল প্রতিস্থাপন, যুত ও অপসারণ বিক্রিয়া দেয়।",
+     "explanation_en": "Nucleophiles give substitution, addition and elimination.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কার্বোক্যাটায়ন কোন ধরনের বিকারকের সঙ্গে সহজে বিক্রিয়া করে?",
+     "question_en": "A carbocation reacts readily with:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলেকট্রোফাইল",
+       "en": "An electrophile"
+      },
+      {
+       "id": "b",
+       "bn": "নিউক্লিওফাইল",
+       "en": "A nucleophile"
+      },
+      {
+       "id": "c",
+       "bn": "ফ্রি-রেডিক্যাল মাত্র",
+       "en": "Only free radicals"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইলেকট্রন-ঘাটতি কার্বন নিউক্লিওফাইলের ইলেকট্রন জোড় নেয়।",
+     "explanation_en": "The electron-poor carbon accepts a nucleophile's pair.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোন জোড়ায় দুটিই ইলেকট্রোফাইলের উৎস?",
+     "question_en": "In which pair are both sources of electrophiles?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCN ও RMgX",
+       "en": "HCN and RMgX"
+      },
+      {
+       "id": "b",
+       "bn": "Br2 ও HCl",
+       "en": "Br2 and HCl"
+      },
+      {
+       "id": "c",
+       "bn": "NaHSO3 ও HCN",
+       "en": "NaHSO3 and HCN"
+      },
+      {
+       "id": "d",
+       "bn": "RMgX ও NaHSO3",
+       "en": "RMgX and NaHSO3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cl2, Br2, HCl, HBr, H2SO4 ইলেকট্রন-আকর্ষী বিকারক দেয়; বাকিগুলো নিউক্লিওফাইল।",
+     "explanation_en": "Br2 and HCl supply electrophiles; the others supply nucleophiles.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.20",
+   "title_bn": "সমাণুতার সংজ্ঞা ও শ্রেণীবিভাগ",
+   "title_en": "Definition and classification of isomerism",
+   "notes_bn": "সমাণুতা: একই আণবিক সংকেতবিশিষ্ট যৌগের গাঠনিক বা ত্রিমাত্রিক বিন্যাসের ভিন্নতার জন্য ভৌত ও রাসায়নিক ধর্মের পার্থক্য। যেমন ইথানল (C2H5OH) ও ডাইমিথাইল ইথার (CH3OCH3), আণবিক সংকেত C2H6O।\nশ্রেণী: গাঠনিক সমাণুতা ও স্টেরিও (ত্রিমাত্রিক) সমাণুতা।\nগাঠনিক পাঁচ প্রকার: (১) চেইন: বিউটেন ও 2-মিথাইল প্রোপেন (C4H10)। (২) অবস্থান: বিউটিন-1 ও বিউটিন-2 (C4H8); প্রোপানল-1 ও প্রোপানল-2; ডাইক্লোরোবেনজিনের অর্থো/মেটা/প্যারা। (৩) কার্যকরী মূলক: ইথানল ও ডাইমিথাইল ইথার; প্রোপানাল ও অ্যাসিটোন (C3H6O)। (৪) মেটামারিজম: মিথাইল n-প্রোপাইল ইথার ও ডাই-ইথাইল ইথার (C4H10O); পেন্টানোন-2 ও -3। (৫) টটোমারিজম: গতিশীল কার্যকরী মূলক সমাণুতা, যেমন কিটো-ইনল।\nকিটো-ইনল উদাহরণ: প্রোপানোন ⇌ প্রোপিন-2-অল; অ্যাসিটো অ্যাসিটিক এস্টার।",
+   "notes_en": "Isomers share a molecular formula but differ in structure or spatial arrangement, hence in properties (ethanol vs dimethyl ether, C2H6O).\nTwo classes: structural and stereoisomerism.\nStructural types: chain (butane/2-methylpropane, C4H10); position (but-1-ene/but-2-ene; propan-1-ol/propan-2-ol; o-, m-, p-dichlorobenzene); functional group (ethanol/dimethyl ether; propanal/acetone); metamerism (methyl n-propyl ether/diethyl ether; pentan-2-one/pentan-3-one); tautomerism (dynamic functional isomerism, keto-enol, e.g. propanone <-> prop-2-en-2-ol).",
+   "mcqs": [
+    {
+     "question_bn": "ইথানল ও ডাইমিথাইল ইথারের আণবিক সংকেত কী?",
+     "question_en": "What is the molecular formula of both ethanol and dimethyl ether?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C2H4O",
+       "en": "C2H4O"
+      },
+      {
+       "id": "b",
+       "bn": "C2H6O",
+       "en": "C2H6O"
+      },
+      {
+       "id": "c",
+       "bn": "C3H8O",
+       "en": "C3H8O"
+      },
+      {
+       "id": "d",
+       "bn": "C2H6O2",
+       "en": "C2H6O2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উভয়ই C2H6O; এরা কার্যকরী মূলক সমাণু।",
+     "explanation_en": "Both are C2H6O; they are functional isomers.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বিউটেন ও 2-মিথাইল প্রোপেন কোন ধরনের সমাণু?",
+     "question_en": "Butane and 2-methylpropane are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অবস্থান সমাণু",
+       "en": "Position isomers"
+      },
+      {
+       "id": "b",
+       "bn": "চেইন সমাণু",
+       "en": "Chain isomers"
+      },
+      {
+       "id": "c",
+       "bn": "মেটামার",
+       "en": "Metamers"
+      },
+      {
+       "id": "d",
+       "bn": "টটোমার",
+       "en": "Tautomers"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বন শিকলের গঠনের ভিন্নতা, আণবিক সংকেত C4H10।",
+     "explanation_en": "They differ in carbon skeleton (C4H10).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রোপানল-1 ও প্রোপানল-2 কোন ধরনের সমাণু?",
+     "question_en": "Propan-1-ol and propan-2-ol are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চেইন সমাণু",
+       "en": "Chain isomers"
+      },
+      {
+       "id": "b",
+       "bn": "অবস্থান সমাণু",
+       "en": "Position isomers"
+      },
+      {
+       "id": "c",
+       "bn": "কার্যকরী মূলক সমাণু",
+       "en": "Functional isomers"
+      },
+      {
+       "id": "d",
+       "bn": "মেটামার",
+       "en": "Metamers"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "-OH মূলকের অবস্থান ভিন্ন।",
+     "explanation_en": "The -OH group's position differs.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথাইল n-প্রোপাইল ইথার ও ডাইইথাইল ইথারের সম্পর্ক কী?",
+     "question_en": "Methyl n-propyl ether and diethyl ether are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মেটামার",
+       "en": "Metamers"
+      },
+      {
+       "id": "b",
+       "bn": "চেইন সমাণু",
+       "en": "Chain isomers"
+      },
+      {
+       "id": "c",
+       "bn": "টটোমার",
+       "en": "Tautomers"
+      },
+      {
+       "id": "d",
+       "bn": "জ্যামিতিক সমাণু",
+       "en": "Geometric isomers"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কার্যকরী মূলকের উভয় পাশে কার্বন সংখ্যা ভিন্ন; এটি মেটামারিজম।",
+     "explanation_en": "Different alkyl groups either side of the same functional group: metamerism.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোপানোন ও প্রোপিন-2-অলের মধ্যে কোন সমাণুতা দেখা যায়?",
+     "question_en": "Propanone and prop-2-en-2-ol show:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চেইন সমাণুতা",
+       "en": "Chain isomerism"
+      },
+      {
+       "id": "b",
+       "bn": "আলোক সমাণুতা",
+       "en": "Optical isomerism"
+      },
+      {
+       "id": "c",
+       "bn": "মেটামারিজম",
+       "en": "Metamerism"
+      },
+      {
+       "id": "d",
+       "bn": "কিটো-ইনল টটোমারিজম",
+       "en": "Keto-enol tautomerism"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "একটি গঠনে কিটো (C=O), অপরটিতে ইনল (C=C ও –OH); পরস্পর সাম্যে থাকে।",
+     "explanation_en": "One has C=O, the other C=C with -OH, in equilibrium.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন জোড়া কার্যকরী মূলক সমাণু?",
+     "question_en": "Which pair are functional isomers?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানাল ও অ্যাসিটোন",
+       "en": "Propanal and acetone"
+      },
+      {
+       "id": "b",
+       "bn": "পেন্টানোন-2 ও পেন্টানোন-3",
+       "en": "Pentan-2-one and pentan-3-one"
+      },
+      {
+       "id": "c",
+       "bn": "বিউটিন-1 ও বিউটিন-2",
+       "en": "But-1-ene and but-2-ene"
+      },
+      {
+       "id": "d",
+       "bn": "1,2- ও 1,4-ডাইক্লোরোবেনজিন",
+       "en": "1,2- and 1,4-dichlorobenzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উভয়ই C3H6O; একটি অ্যালডিহাইড, অন্যটি কিটোন।",
+     "explanation_en": "Both C3H6O: aldehyde vs ketone.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.21",
+   "title_bn": "জ্যামিতিক সমাণুতা বা সিস্-ট্রান্স সমাণুতা",
+   "title_en": "Geometric (cis-trans) isomerism",
+   "notes_bn": "কার্বন-কার্বন বন্ধনের অক্ষ বরাবর মুক্ত আবর্তন সম্ভব না হলে একই আণবিক ও গাঠনিক সংকেতের ভিন্ন কনফিগারেশনের যৌগ জ্যামিতিক সমাণু।\nশর্ত: (১) প্রতিস্থাপিত অ্যালকিন (ab C=C ab) ও (২) চাক্রিক যৌগ; দ্বিবন্ধনযুক্ত প্রতি কার্বনে দুটি ভিন্ন মূলক থাকতে হবে।\nসিস্: সদৃশ মূলক একই পাশে; ট্রান্স: বিপরীত পাশে। উদাহরণ: 1,2-ডাইব্রোমো ইথিন, বিউটিন-2, 1,2-ডাইমিথাইল সাইক্লোপ্রোপেন।\nধর্ম: ট্রান্সের চেয়ে সিসের গলনাঙ্ক কম, সুস্থিতি কম (অভ্যন্তরীণ শক্তি বেশি), দহন তাপ বেশি, দ্রাব্যতা ও প্রতিসরাঙ্ক বেশি।\nম্যালেয়িক অ্যাসিড (সিস্, গলনাঙ্ক 135°C) ও ফিউমারিক অ্যাসিড (ট্রান্স, 287°C)। ম্যালেয়িক অ্যাসিড 160°C এ অ্যানহাইড্রাইড দেয়, ফিউমারিক দেয় না।",
+   "notes_en": "Geometric isomers have the same molecular and structural formula but different configurations because rotation about the C-C axis is restricted.\nConditions: substituted alkenes (abC=Cab) and cyclic compounds; each double-bond carbon needs two different groups.\nCis: like groups on the same side; trans: opposite sides (1,2-dibromoethene, but-2-ene, 1,2-dimethylcyclopropane).\nProperties: cis has lower m.p., lower stability (higher internal energy), higher heat of combustion, higher solubility and refractive index than trans.\nMaleic acid (cis, m.p. 135 C) vs fumaric acid (trans, 287 C); maleic acid forms an anhydride at 160 C, fumaric does not.",
+   "mcqs": [
+    {
+     "question_bn": "সিস্ সমাণুতে সদৃশ মূলকগুলো কীভাবে অবস্থান করে?",
+     "question_en": "In a cis isomer, like groups are located:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিপরীত পাশে",
+       "en": "On opposite sides"
+      },
+      {
+       "id": "b",
+       "bn": "একই পাশে",
+       "en": "On the same side"
+      },
+      {
+       "id": "c",
+       "bn": "একই কার্বনে",
+       "en": "On the same carbon"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বন শিকলের শেষে",
+       "en": "At chain ends"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সিস্ অর্থ একই পাশে।",
+     "explanation_en": "Cis means same side.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন যৌগ জ্যামিতিক সমাণুতা দেখায়?",
+     "question_en": "Which compound shows geometric isomerism?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপিন",
+       "en": "Propene"
+      },
+      {
+       "id": "c",
+       "bn": "বিউটিন-2",
+       "en": "But-2-ene"
+      },
+      {
+       "id": "d",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বিউটিন-2 এর প্রতি দ্বিবন্ধন কার্বনে H ও CH3 ভিন্ন মূলক আছে।",
+     "explanation_en": "Each double-bond carbon of but-2-ene has H and CH3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সিস্ ও ট্রান্স সমাণুর তুলনায় কোনটি সঠিক?",
+     "question_en": "Which comparison of cis and trans is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সিসের গলনাঙ্ক বেশি",
+       "en": "Cis has higher m.p."
+      },
+      {
+       "id": "b",
+       "bn": "সিসের সুস্থিতি বেশি",
+       "en": "Cis is more stable"
+      },
+      {
+       "id": "c",
+       "bn": "সিসের দহন তাপ বেশি",
+       "en": "Cis has greater heat of combustion"
+      },
+      {
+       "id": "d",
+       "bn": "সিসের দ্রাব্যতা কম",
+       "en": "Cis has lower solubility"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সিসের অভ্যন্তরীণ শক্তি বেশি, তাই দহন তাপ বেশি।",
+     "explanation_en": "Cis has higher internal energy and hence heat of combustion.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন অ্যাসিড উত্তপ্ত করলে 160°C এ অ্যানহাইড্রাইড গঠন করে?",
+     "question_en": "Which acid forms an anhydride on heating at 160 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফিউমারিক অ্যাসিড",
+       "en": "Fumaric acid"
+      },
+      {
+       "id": "b",
+       "bn": "ম্যালেয়িক অ্যাসিড",
+       "en": "Maleic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ল্যাকটিক অ্যাসিড",
+       "en": "Lactic acid"
+      },
+      {
+       "id": "d",
+       "bn": "ফরমিক অ্যাসিড",
+       "en": "Formic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সিস্ ম্যালেয়িকে দুই –CO2H কাছাকাছি, তাই পানি ত্যাগ করে অ্যানহাইড্রাইড গঠন করে।",
+     "explanation_en": "In cis maleic acid the two -CO2H groups are close, so water is lost.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনটি ঠিক: ম্যালেয়িক ও ফিউমারিক অ্যাসিডের গলনাঙ্ক যথাক্রমে?",
+     "question_en": "Melting points of maleic and fumaric acids are respectively:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "287°C, 135°C",
+       "en": "287 C, 135 C"
+      },
+      {
+       "id": "b",
+       "bn": "135°C, 135°C",
+       "en": "135 C, 135 C"
+      },
+      {
+       "id": "c",
+       "bn": "135°C, 287°C",
+       "en": "135 C, 287 C"
+      },
+      {
+       "id": "d",
+       "bn": "160°C, 287°C",
+       "en": "160 C, 287 C"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সিস্ম্যালেয়িক 135°C, ট্রান্স-ফিউমারিক 287°C।",
+     "explanation_en": "Cis maleic 135 C; trans fumaric 287 C.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.22",
+   "title_bn": "জ্যামিতিক সমাণুতার ব্যাখ্যা",
+   "title_en": "Explanation of geometric isomerism",
+   "notes_bn": "আধুনিক অরবিটাল মতবাদ: ইথিনের মতো C=C তে প্রতি কার্বন sp² সংকরিত (2s, 2px, 2py), তিনটি σ বন্ধন একই সমতলে গঠন করে।\nপ্রতিটি কার্বনের অসংকরিত 2pz অরবিটাল ওই সমতলের ওপর লম্ব; দুটি 2pz এর পার্শ্ব অধিক্রমণে π বন্ধন হয়।\nσ বন্ধনে অক্ষ বরাবর আবর্তন সহজ; কিন্তু π বন্ধন থাকলে আবর্তন করলে π বন্ধন ভেঙে যায়, তাই দ্বিবন্ধনে আবর্তন সম্ভব নয়।\nফলে প্রতি কার্বনে একটি করে সদৃশ মূলক থাকলে দুটি আলাদা ত্রিমাত্রিক গঠন (সিস্ ও ট্রান্স) স্থায়ীভাবে থাকে।",
+   "notes_en": "Orbital theory: in C=C each carbon is sp2 hybridised (2s, 2px, 2py), forming three sigma bonds in one plane.\nThe unhybridised 2pz orbitals are perpendicular to that plane and overlap sideways to form the pi bond.\nSigma bonds permit rotation about the axis; with a pi bond, rotation would break it, so a double bond cannot rotate.\nHence abC=Cab has two fixed arrangements: cis and trans.",
+   "mcqs": [
+    {
+     "question_bn": "ইথিনের কার্বন কোন সংকরণ প্রদর্শন করে?",
+     "question_en": "Which hybridisation do the carbons of ethene show?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp",
+       "en": "sp"
+      },
+      {
+       "id": "b",
+       "bn": "sp²",
+       "en": "sp2"
+      },
+      {
+       "id": "c",
+       "bn": "sp³",
+       "en": "sp3"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2s, 2px, 2py মিলে sp² সংকর অরবিটাল গঠিত হয়।",
+     "explanation_en": "2s, 2px and 2py form sp2 orbitals.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "π বন্ধন কোন অরবিটালের পার্শ্ব অধিক্রমণে গঠিত হয়?",
+     "question_en": "The pi bond arises from sideways overlap of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp² অরবিটাল",
+       "en": "sp2 orbitals"
+      },
+      {
+       "id": "b",
+       "bn": "2s অরবিটাল",
+       "en": "2s orbitals"
+      },
+      {
+       "id": "c",
+       "bn": "অসংকরিত 2pz অরবিটাল",
+       "en": "Unhybridised 2pz orbitals"
+      },
+      {
+       "id": "d",
+       "bn": "1s অরবিটাল",
+       "en": "1s orbitals"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2pz অরবিটাল σ-সমতলের লম্ব হওয়ায় পার্শ্বে অধিক্রমণ করে।",
+     "explanation_en": "2pz orbitals perpendicular to the sigma plane overlap sideways.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C=C এর চারপাশে মুক্ত আবর্তন কেন সম্ভব নয়?",
+     "question_en": "Why is free rotation about C=C impossible?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আবর্তন করলে π বন্ধন ভেঙে যায়",
+       "en": "Rotation would break the pi bond"
+      },
+      {
+       "id": "b",
+       "bn": "কার্বন sp³ সংকরিত",
+       "en": "Carbon is sp3 hybridised"
+      },
+      {
+       "id": "c",
+       "bn": "বন্ধন দুর্বল",
+       "en": "The bond is weak"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বনে H নেই",
+       "en": "Carbon has no H"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "π অধিক্রমণ বজায় রাখতে হলে অক্ষ বরাবর আবর্তন করা যায় না।",
+     "explanation_en": "Pi overlap requires fixed orientation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ab C=C ab ধরনের যৌগে জ্যামিতিক সমাণুর সংখ্যা কত?",
+     "question_en": "How many geometric isomers does an abC=Cab compound have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সিস্ ও ট্রান্স, মোট দুটি।",
+     "explanation_en": "Cis and trans: two.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.23",
+   "title_bn": "আলোক সমাণুতা",
+   "title_en": "Optical isomerism",
+   "notes_bn": "আলোক সমাণু: একই আণবিক ও গাঠনিক সংকেত, ভৌত ও রাসায়নিক ধর্ম প্রায় এক, কিন্তু এক-সমতলীয় আলোর প্রতি আচরণ ভিন্ন। বৈশিষ্ট্য: অপ্রতিসম (কাইরাল) কার্বন থাকে; দুই কনফিগারেশন পরস্পরের দর্পণ প্রতিবিম্ব ও অসমাপতিত। উদাহরণ: d- ও l-ল্যাকটিক অ্যাসিড।\nদৃশ্যমান আলোর তরঙ্গদৈর্ঘ্য 380–700 nm; সোডিয়াম ল্যাম্পের একবর্ণী আলো 589.3 nm।\nনিকল প্রিজম ক্যালসাইট (CaCO3) থেকে তৈরি; এটি আলোকে এক সমতলে স্পন্দিত আলোতে পরিণত করে (পোলারাইজেশন)।\nযে যৌগ এক-সমতলীয় আলোর তল ঘোরায় সে আলোক সক্রিয়। ডানে ঘোরালে দক্ষিণাবর্ত (+, d), বামে ঘোরালে বামাবর্ত (–, l)। পরিমাপের যন্ত্র পোলারিমিটার।\nআপেক্ষিক আবর্তন [α] = a/(l × c); l ডেসিমিটারে, c গ্রাম/mL এ। উদাহরণ: সুক্রোজ [α]²⁰_D = +66.5°।",
+   "notes_en": "Optical isomers share molecular and structural formulae and most properties but rotate plane-polarised light differently. Features: an asymmetric (chiral) carbon; configurations are non-superimposable mirror images (d- and l-lactic acid).\nVisible light is 380-700 nm; sodium lamp light is 589.3 nm.\nA Nicol prism (from calcite, CaCO3) converts ordinary light to plane-polarised light.\nA compound rotating the plane is optically active: clockwise = dextrorotatory (+, d), anticlockwise = laevorotatory (-, l); measured with a polarimeter.\nSpecific rotation [a] = a/(l x c), l in dm, c in g/mL; sucrose in water at 20 C: +66.5 deg.",
+   "mcqs": [
+    {
+     "question_bn": "আলোক সমাণু কোন ধরনের কার্বনের উপস্থিতির কারণে সৃষ্টি হয়?",
+     "question_en": "Optical isomers arise from the presence of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অপ্রতিসম কার্বন",
+       "en": "An asymmetric carbon"
+      },
+      {
+       "id": "b",
+       "bn": "sp কার্বন",
+       "en": "An sp carbon"
+      },
+      {
+       "id": "c",
+       "bn": "দ্বিবন্ধনযুক্ত কার্বন",
+       "en": "A double-bonded carbon"
+      },
+      {
+       "id": "d",
+       "bn": "প্রতিসম কার্বন",
+       "en": "A symmetric carbon"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "চারটি ভিন্ন মূলকযুক্ত কার্বন কাইরাল কেন্দ্র।",
+     "explanation_en": "A carbon with four different groups is the chiral centre.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিকল প্রিজম কোন খনিজ থেকে তৈরি?",
+     "question_en": "A Nicol prism is made from:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কোয়ার্টজ",
+       "en": "Quartz"
+      },
+      {
+       "id": "b",
+       "bn": "ক্যালসাইট (CaCO3)",
+       "en": "Calcite (CaCO3)"
+      },
+      {
+       "id": "c",
+       "bn": "জিপসাম",
+       "en": "Gypsum"
+      },
+      {
+       "id": "d",
+       "bn": "ডলোমাইট",
+       "en": "Dolomite"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ক্যালসাইট (CaCO3) পাথরের কথা বলা হয়েছে।",
+     "explanation_en": "The book names calcite (CaCO3).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সোডিয়াম ল্যাম্পের একবর্ণী আলোর তরঙ্গদৈর্ঘ্য কত?",
+     "question_en": "Wavelength of sodium lamp light:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "380 nm",
+       "en": "380 nm"
+      },
+      {
+       "id": "b",
+       "bn": "589.3 nm",
+       "en": "589.3 nm"
+      },
+      {
+       "id": "c",
+       "bn": "700 nm",
+       "en": "700 nm"
+      },
+      {
+       "id": "d",
+       "bn": "1000 nm",
+       "en": "1000 nm"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 589.3 nm দেওয়া আছে।",
+     "explanation_en": "The book gives 589.3 nm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1 dm নলে 0.5 g/mL দ্রবণের জন্য পর্যবেক্ষিত আবর্তন +33.25°। আপেক্ষিক আবর্তন কত?",
+     "question_en": "A 0.5 g/mL solution in a 1 dm tube shows rotation +33.25 deg. Specific rotation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+16.6°",
+       "en": "+16.6"
+      },
+      {
+       "id": "b",
+       "bn": "+33.25°",
+       "en": "+33.25"
+      },
+      {
+       "id": "c",
+       "bn": "+66.5°",
+       "en": "+66.5"
+      },
+      {
+       "id": "d",
+       "bn": "+133°",
+       "en": "+133"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "[α] = 33.25 / (1 × 0.5) = 66.5°।",
+     "explanation_en": "33.25/(1 x 0.5) = 66.5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগকে দক্ষিণাবর্ত বলা হয়?",
+     "question_en": "A dextrorotatory compound:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আলোর তল বামে ঘোরায়",
+       "en": "Rotates the plane to the left"
+      },
+      {
+       "id": "b",
+       "bn": "আলোর তল ডানে (ঘড়ির কাঁটার দিকে) ঘোরায়",
+       "en": "Rotates the plane to the right"
+      },
+      {
+       "id": "c",
+       "bn": "আলোক নিষ্ক্রিয়",
+       "en": "Is optically inactive"
+      },
+      {
+       "id": "d",
+       "bn": "আলো শোষণ করে",
+       "en": "Absorbs light"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ডান দিকে ঘোরালে দক্ষিণাবর্ত (+, d)।",
+     "explanation_en": "Right rotation is dextro (+, d).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.24",
+   "title_bn": "আলোক সক্রিয়তার ব্যাখ্যা",
+   "title_en": "Explanation of optical activity",
+   "notes_bn": "তত্ত্ব: কার্বনের চতুস্তলকীয় গঠন অনুসারে, কার্বনের চার কোণে চারটি ভিন্ন পরমাণু/মূলক থাকলে বিন্যাস অসমমিত হয়।\nঅসমমিত বিন্যাস বাম ও ডান হাতের মতো: একটি অপরটির দর্পণ প্রতিবিম্ব, কিন্তু একটির ওপর অন্যটি সমাপতিত হয় না।\nCabde অণুর দুটি গঠন (I ও II) পরস্পর দর্পণ প্রতিবিম্ব।\nএই কার্বনকে অপ্রতিসম কার্বন বা কাইরাল কেন্দ্র (তারকা * চিহ্নে) বলে; যৌগকে কাইরাল যৌগ বলে। 'কাইরাল' এসেছে গ্রিক শব্দ 'হাত' (kiryal = handed) থেকে।\nযে যৌগে দুই কাইরাল-গঠন পরস্পরের দর্পণ প্রতিবিম্ব, সেগুলো আলোক সক্রিয়।",
+   "notes_en": "Tetrahedral carbon with four different groups gives an asymmetric arrangement, like left and right hands: mirror images that cannot be superimposed.\nFor Cabde, the two forms I and II are mirror images.\nThis carbon is an asymmetric carbon or chiral centre (marked *), the compound is chiral (from 'handed').\nA chiral compound whose two 3D forms are non-superimposable mirror images is optically active.",
+   "mcqs": [
+    {
+     "question_bn": "কাইরাল কার্বনের সাথে যুক্ত থাকে:",
+     "question_en": "A chiral carbon is attached to:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দুটি সদৃশ মূলক",
+       "en": "Two identical groups"
+      },
+      {
+       "id": "b",
+       "bn": "চারটি ভিন্ন পরমাণু বা মূলক",
+       "en": "Four different atoms or groups"
+      },
+      {
+       "id": "c",
+       "bn": "তিনটি H",
+       "en": "Three H atoms"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু কার্বন",
+       "en": "Only carbons"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "চারটি ভিন্ন মূলকই অপ্রতিসম কার্বনের শর্ত।",
+     "explanation_en": "Four different groups define an asymmetric carbon.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বাম হাত ও ডান হাতের সাদৃশ্য কোন ধারণাকে বোঝায়?",
+     "question_en": "The left/right hand analogy illustrates:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টটোমারিজম",
+       "en": "Tautomerism"
+      },
+      {
+       "id": "b",
+       "bn": "দর্পণ প্রতিবিম্ব যা সমাপতিত হয় না",
+       "en": "Non-superimposable mirror images"
+      },
+      {
+       "id": "c",
+       "bn": "সুষম ভাঙন",
+       "en": "Homolysis"
+      },
+      {
+       "id": "d",
+       "bn": "সংকরণ",
+       "en": "Hybridisation"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হাতের মতো দুটি গঠন দর্পণ প্রতিবিম্ব হলেও অসমাপতিত।",
+     "explanation_en": "Mirror images that cannot be superimposed.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "'কাইরাল' শব্দের উৎস অনুযায়ী অর্থ কী?",
+     "question_en": "The word 'chiral' derives from the idea of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আলো",
+       "en": "Light"
+      },
+      {
+       "id": "b",
+       "bn": "হাত",
+       "en": "Handed"
+      },
+      {
+       "id": "c",
+       "bn": "কেন্দ্র",
+       "en": "Centre"
+      },
+      {
+       "id": "d",
+       "bn": "চতুস্তলক",
+       "en": "Tetrahedron"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে Kiryal = handed বলা হয়েছে।",
+     "explanation_en": "The book gives kiryal = handed.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন অণুতে কাইরাল কার্বন নেই?",
+     "question_en": "Which molecule has no chiral carbon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3CH(OH)COOH",
+       "en": "CH3CH(OH)COOH"
+      },
+      {
+       "id": "b",
+       "bn": "CH3CH2CH2OH",
+       "en": "CH3CH2CH2OH"
+      },
+      {
+       "id": "c",
+       "bn": "C2H5CH(Cl)CH3",
+       "en": "C2H5CH(Cl)CH3"
+      },
+      {
+       "id": "d",
+       "bn": "C2H5CH(OH)CH3",
+       "en": "C2H5CH(OH)CH3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH3CH2CH2OH এ কোনো কার্বনে চারটি ভিন্ন মূলক নেই; বাকিগুলোতে মাঝের কার্বন কাইরাল।",
+     "explanation_en": "No carbon has four different groups in propan-1-ol; the others have one.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.25",
+   "title_bn": "একক অপ্রতিসম কার্বনবিশিষ্ট জৈব যৌগের আলোক সক্রিয়তা",
+   "title_en": "Optical activity of compounds with one asymmetric carbon",
+   "notes_bn": "ল্যাকটিক অ্যাসিড (CH3CH(OH)COOH) এ একটি অপ্রতিসম কার্বন (*C)। এর দুটি ত্রিমাত্রিক গঠন পরস্পরের দর্পণ প্রতিবিম্ব ও অসমাপতিত; তাই দুটি আলোক সমাণু সম্ভব।\nএকটি সমাণু আলোর তল ডানে ঘোরায় (d, +), অপরটি বামে (l, –)।\nআপেক্ষিক আবর্তন: d-ল্যাকটিক অ্যাসিড +2.24°, l-ল্যাকটিক অ্যাসিড –2.24° (বইয়ের মান)।\nআরও যৌগ: 2-ক্লোরো বিউটেন, 2-বিউটানল, 2-মিথাইল বিউটানল; এদের সবাইতে একটি করে অপ্রতিসম কার্বন আছে।\nএকটি নির্দিষ্ট ত্রিমাত্রিক বিন্যাসকে কনফিগারেশন বলে।",
+   "notes_en": "Lactic acid has one asymmetric carbon (*C); its two 3D forms are non-superimposable mirror images, so two optical isomers exist.\nOne rotates the plane to the right (d, +), the other to the left (l, -).\nBook values: d-lactic +2.24 deg, l-lactic -2.24 deg.\nOther single-chiral-carbon examples: 2-chlorobutane, 2-butanol, 2-methylbutanol.\nA definite spatial arrangement is called configuration.",
+   "mcqs": [
+    {
+     "question_bn": "ল্যাকটিক অ্যাসিডে অপ্রতিসম কার্বনের সংখ্যা কয়টি?",
+     "question_en": "How many asymmetric carbons does lactic acid have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "০",
+       "en": "0"
+      },
+      {
+       "id": "b",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "c",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "d",
+       "bn": "৩",
+       "en": "3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মাঝের কার্বনে H, OH, CH3, COOH আছে।",
+     "explanation_en": "The middle carbon carries H, OH, CH3 and COOH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "এক অপ্রতিসম কার্বনযুক্ত যৌগের কয়টি আলোক সক্রিয় সমাণু থাকে (বইয়ের আলোচনা অনুযায়ী)?",
+     "question_en": "A compound with one asymmetric carbon has how many optically active isomers (per the discussion)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "d ও l দুটি দর্পণ প্রতিবিম্ব সমাণু।",
+     "explanation_en": "d and l, a mirror-image pair.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "l-ল্যাকটিক অ্যাসিডের আপেক্ষিক আবর্তন (25°C) কত?",
+     "question_en": "Specific rotation of l-lactic acid at 25 C:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+2.24°",
+       "en": "+2.24"
+      },
+      {
+       "id": "b",
+       "bn": "0°",
+       "en": "0"
+      },
+      {
+       "id": "c",
+       "bn": "+4.48°",
+       "en": "+4.48"
+      },
+      {
+       "id": "d",
+       "bn": "–2.24°",
+       "en": "-2.24"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "d এর মান +2.24°, l এর –2.24°।",
+     "explanation_en": "d is +2.24, l is -2.24.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগটি একক অপ্রতিসম কার্বনের উদাহরণ হিসেবে বইয়ে দেওয়া হয়েছে?",
+     "question_en": "Which compound is cited as having one asymmetric carbon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2-বিউটানল",
+       "en": "2-Butanol"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপেন",
+       "en": "Propane"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH3CH(OH)CH2CH3 এর C-2 কাইরাল।",
+     "explanation_en": "C-2 of 2-butanol is chiral.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.26",
+   "title_bn": "এনানসিওমারিজম",
+   "title_en": "Enantiomerism",
+   "notes_bn": "যে দুই আলোক সমাণু পরস্পরের অসমাপতিত দর্পণ প্রতিবিম্ব তাদের এনানসিওমার (অ্যান্টিপোড) বলে; এ ঘটনাকে এনানসিওমারিজম বলে।\nএনানসিওমারদের ভৌত ও রাসায়নিক ধর্ম এক; আবর্তনের মানও সমান, কিন্তু আবর্তনের দিক বিপরীত।\nএকটি দক্ষিণাবর্ত (d), অপরটি বামাবর্ত (l)।\nউদাহরণ: d- ও l-ল্যাকটিক অ্যাসিড, আপেক্ষিক আবর্তন যথাক্রমে +2.24° ও –2.24° (25°C)।",
+   "notes_en": "Two optical isomers that are non-superimposable mirror images are enantiomers (antipodes); the phenomenon is enantiomerism.\nThey have the same physical and chemical properties and equal magnitude of rotation, but opposite direction.\nOne is dextro (d), the other laevo (l).\nExample: d- and l-lactic acid, +2.24 and -2.24 deg at 25 C.",
+   "mcqs": [
+    {
+     "question_bn": "এনানসিওমার কী?",
+     "question_en": "Enantiomers are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সিস্ ও ট্রান্স সমাণু",
+       "en": "Cis and trans isomers"
+      },
+      {
+       "id": "b",
+       "bn": "দর্পণ প্রতিবিম্ব আলোক সমাণুর জোড়া",
+       "en": "Non-superimposable mirror-image optical isomers"
+      },
+      {
+       "id": "c",
+       "bn": "চেইন সমাণু",
+       "en": "Chain isomers"
+      },
+      {
+       "id": "d",
+       "bn": "মেটামার",
+       "en": "Metamers"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অসমাপতিত দর্পণ প্রতিবিম্ব আলোক সমাণুই এনানসিওমার।",
+     "explanation_en": "They are non-superimposable mirror-image optical isomers.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "এনানসিওমারের কোন ধর্মে পার্থক্য থাকে?",
+     "question_en": "Enantiomers differ in:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গলনাঙ্ক",
+       "en": "Melting point"
+      },
+      {
+       "id": "b",
+       "bn": "আণবিক সংকেত",
+       "en": "Molecular formula"
+      },
+      {
+       "id": "c",
+       "bn": "রাসায়নিক ধর্ম",
+       "en": "Chemical properties"
+      },
+      {
+       "id": "d",
+       "bn": "আবর্তনের দিক",
+       "en": "Direction of rotation"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "আবর্তনের মান সমান, কিন্তু দিক বিপরীত।",
+     "explanation_en": "Equal magnitude, opposite direction.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এনানসিওমারের আরেকটি নাম কী?",
+     "question_en": "Another name for enantiomers is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যান্টিপোড",
+       "en": "Antipodes"
+      },
+      {
+       "id": "b",
+       "bn": "মেটামার",
+       "en": "Metamers"
+      },
+      {
+       "id": "c",
+       "bn": "টটোমার",
+       "en": "Tautomers"
+      },
+      {
+       "id": "d",
+       "bn": "রেডিক্যাল",
+       "en": "Radicals"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে অ্যান্টিপোড/অ্যান্টিমারও বলা হয়েছে।",
+     "explanation_en": "The book calls them antipodes or antimers.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "d-ল্যাকটিক অ্যাসিডের [α] = +2.24° হলে l-ল্যাকটিক অ্যাসিডের [α] কত (একই শর্তে)?",
+     "question_en": "If d-lactic acid has [a] = +2.24 deg, l-lactic acid under the same conditions has:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+2.24°",
+       "en": "+2.24"
+      },
+      {
+       "id": "b",
+       "bn": "–2.24°",
+       "en": "-2.24"
+      },
+      {
+       "id": "c",
+       "bn": "0°",
+       "en": "0"
+      },
+      {
+       "id": "d",
+       "bn": "–4.48°",
+       "en": "-4.48"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সমান মান, বিপরীত চিহ্ন।",
+     "explanation_en": "Same magnitude, opposite sign.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "4.19",
+   "stimulus_bn": "একটি পরীক্ষাগারে CH3Cl এর সাথে জলীয় KOH বিক্রিয়ায় CH3OH পাওয়া যায়। অপর একটি বিক্রিয়ায় বেনজিন ও FeCl3 এর উপস্থিতিতে Cl2 ব্যবহার করে ক্লোরিনীকরণ করা হয়।",
+   "stimulus_en": "In a lab, CH3Cl reacts with aqueous KOH to give CH3OH. In another, benzene is chlorinated using Cl2 in presence of FeCl3.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "নিউক্লিওফাইল কাকে বলে?",
+     "question_en": "What is a nucleophile?",
+     "model_answer_bn": "যে প্রজাতি ইলেকট্রন জোড় দান করে ইলেকট্রন-ঘাটতি কেন্দ্র আক্রমণ করে তাকে নিউক্লিওফাইল বলে।",
+     "model_answer_en": "A species that donates an electron pair to attack an electron-deficient centre."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রথম বিক্রিয়ায় আক্রমণকারী বিকারক ও সাবস্ট্রেট চিহ্নিত করো।",
+     "question_en": "Identify the attacking reagent and substrate in the first reaction.",
+     "model_answer_bn": "আক্রমণকারী বিকারক OH⁻ (নিউক্লিওফাইল); সাবস্ট্রেট CH3Cl।",
+     "model_answer_en": "Attacking reagent: OH- (nucleophile); substrate: CH3Cl."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "প্রথম বিক্রিয়াটি কোন ধরনের বিক্রিয়া? কারণসহ লেখো এবং Cl⁻ এর ভূমিকা বর্ণনা করো।",
+     "question_en": "What type is the first reaction? Explain with reason and role of Cl-.",
+     "model_answer_bn": "প্রতিস্থাপন বিক্রিয়া, কারণ Cl এর স্থানে OH বসে। Cl⁻ বিদায়ী মূলক হিসেবে বেরিয়ে যায় এবং K⁺ এর সঙ্গে KCl গঠন করে।",
+     "model_answer_en": "Substitution, since OH replaces Cl; Cl- leaves and combines with K+ to form KCl."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "দুটি বিক্রিয়ায় ব্যবহৃত আক্রমণকারী বিকারকের প্রকৃতির তুলনা করো এবং FeCl3 কে কেন ইলেকট্রোফাইল ধরা হয় যুক্তিসহ ব্যাখ্যা করো।",
+     "question_en": "Compare the attacking reagents in the two reactions and explain why FeCl3 is regarded as an electrophile.",
+     "model_answer_bn": "প্রথম বিক্রিয়ায় OH⁻ নিউক্লিওফাইল (ইলেকট্রন জোড় দাতা); দ্বিতীয়টিতে ইলেকট্রোফাইল। FeCl3 প্রশম ইলেকট্রোফাইল, কারণ কেন্দ্রীয় পরমাণুর অক্টেট অপূর্ণ, তাই ইলেকট্রন জোড় গ্রহণ করতে সক্ষম।",
+     "model_answer_en": "OH- is a nucleophile (pair donor); the second reagent is electrophilic. FeCl3 is a neutral electrophile because its central atom has an incomplete octet and can accept an electron pair."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.21",
+   "stimulus_bn": "A ও B দুটি যৌগ: A এর গলনাঙ্ক 135°C এবং উত্তপ্ত করলে 160°C এ অ্যানহাইড্রাইড দেয়; B এর গলনাঙ্ক 287°C এবং অ্যানহাইড্রাইড দেয় না। উভয়ের সংকেত HO2C–CH=CH–CO2H।",
+   "stimulus_en": "Compounds A and B have the formula HO2C-CH=CH-CO2H. A melts at 135 C and forms an anhydride at 160 C; B melts at 287 C and does not.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "জ্যামিতিক সমাণুতা কাকে বলে?",
+     "question_en": "What is geometric isomerism?",
+     "model_answer_bn": "একই গাঠনিক সংকেতবিশিষ্ট যৌগের কার্বন-কার্বন বন্ধন অক্ষে আবর্তন সম্ভব না হওয়ায় ভিন্ন কনফিগারেশনের সমাণুতাকে জ্যামিতিক সমাণুতা বলে।",
+     "model_answer_en": "Isomerism arising from different configurations due to restricted rotation about the C-C bond axis."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "A ও B কে সিস্ বা ট্রান্স হিসেবে চিহ্নিত করে নাম লেখো।",
+     "question_en": "Identify A and B as cis or trans and name them.",
+     "model_answer_bn": "A সিস্ (ম্যালেয়িক অ্যাসিড) এবং B ট্রান্স (ফিউমারিক অ্যাসিড)।",
+     "model_answer_en": "A is cis (maleic acid); B is trans (fumaric acid)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "A যৌগের অ্যানহাইড্রাইড গঠন বিক্রিয়াটি লেখো এবং কারণ ব্যাখ্যা করো।",
+     "question_en": "Write the anhydride-forming reaction of A and explain.",
+     "model_answer_bn": "সিস্-বিউটিন ডাইঅয়িক অ্যাসিড (160°C) → সিস্-বিউটিন ডাইঅয়িক অ্যানহাইড্রাইড + H2O। সিস্ গঠনে দুটি –CO2H একই পাশে কাছাকাছি থাকায় পানি ত্যাগ করে চক্র গঠন সম্ভব।",
+     "model_answer_en": "cis-Butenedioic acid (160 C) -> cis-butenedioic anhydride + H2O. In cis form both -CO2H groups lie close on the same side so water can be lost to form a ring."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "π বন্ধন ও অরবিটাল মতবাদের আলোকে A ও B এর অস্তিত্বের কারণ ব্যাখ্যা করো এবং সিস্ ও ট্রান্সের সুস্থিতি ও দহন তাপের তুলনা করো।",
+     "question_en": "Using the pi bond and orbital theory, explain existence of A and B, and compare stability and heat of combustion of cis and trans.",
+     "model_answer_bn": "দ্বিবন্ধনের কার্বন sp² সংকরিত; অসংকরিত 2pz অরবিটালের পার্শ্ব অধিক্রমণে π বন্ধন হয়। আবর্তন করলে π বন্ধন ভেঙে যায়, তাই মূলকগুলোর অবস্থান স্থির থাকে ও দুটি সমাণু আলাদা থাকে। সিসের অভ্যন্তরীণ শক্তি বেশি, ফলে সুস্থিতি কম ও দহন তাপ বেশি।",
+     "model_answer_en": "The double-bond carbons are sp2; pi bond forms from sideways 2pz overlap. Rotation would break it, so group positions are fixed, giving two isomers. Cis has higher internal energy: lower stability and greater heat of combustion."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.23",
+   "stimulus_bn": "একজন শিক্ষার্থী 2 dm দৈর্ঘ্যের পোলারিমিটার নলে সুক্রোজের জলীয় দ্রবণ (ঘনমাত্রা 0.2 g/mL) নিয়ে 20°C এ সোডিয়াম D-আলোতে পরীক্ষা করল। সুক্রোজের আপেক্ষিক আবর্তন +66.5°।",
+   "stimulus_en": "A student fills a 2 dm polarimeter tube with aqueous sucrose (0.2 g/mL) and tests at 20 C with sodium D-light. Specific rotation of sucrose is +66.5 deg.",
+   "difficulty": "hard",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "আলোক সক্রিয়তা কাকে বলে?",
+     "question_en": "What is optical activity?",
+     "model_answer_bn": "কোনো যৌগের এক-সমতলীয় আলোর তল ঘুরানোর ধর্মকে আলোক সক্রিয়তা বলে।",
+     "model_answer_en": "The ability of a compound to rotate the plane of plane-polarised light."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "আপেক্ষিক আবর্তনের সূত্র লিখে প্রতিটি রাশির একক উল্লেখ করো।",
+     "question_en": "Write the formula for specific rotation with units.",
+     "model_answer_bn": "[α] = a/(l × c); a = পরিলক্ষিত আবর্তন (ডিগ্রি), l = নলের দৈর্ঘ্য (dm), c = ঘনমাত্রা (g/mL)।",
+     "model_answer_en": "[a] = a/(l x c); a = observed rotation (deg), l = tube length (dm), c = concentration (g/mL)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "পরিলক্ষিত আবর্তন a নির্ণয় করো।",
+     "question_en": "Calculate the observed rotation a.",
+     "model_answer_bn": "a = [α] × l × c = 66.5 × 2 × 0.2 = +26.6° (দক্ষিণাবর্ত)।",
+     "model_answer_en": "a = 66.5 x 2 x 0.2 = +26.6 deg (dextrorotatory)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "সুক্রোজ দ্রবণে আলোর তল ঘুরলেও ইথানলে ঘোরে না কেন তা কাইরাল কেন্দ্রের ধারণা ও নিকল প্রিজম পদ্ধতির আলোকে ব্যাখ্যা করো।",
+     "question_en": "Explain, using chirality and the Nicol prism setup, why sucrose rotates the plane but ethanol does not.",
+     "model_answer_bn": "সুক্রোজ অণুতে অপ্রতিসম (কাইরাল) কার্বন আছে, গঠন তার দর্পণ প্রতিবিম্বে সমাপতিত হয় না, তাই এটি আলোক সক্রিয়। পোলারাইজার নিকল প্রিজম এক-সমতলীয় আলো দেয়; আলোক সক্রিয় দ্রবণ ওই তল ঘোরায় বলে অ্যানালাইজারে আলো আর সোজা যায় না এবং অ্যানালাইজার ঘুরিয়ে কোণ মাপা হয়। ইথানলে কাইরাল কার্বন নেই, তাই তল ঘোরে না।",
+     "model_answer_en": "Sucrose has asymmetric (chiral) carbons; its structure is not superimposable on its mirror image, so it is optically active. The polariser Nicol prism supplies plane-polarised light; the active solution rotates the plane so light no longer passes the analyser until it is turned by the observed angle. Ethanol has no chiral carbon, so no rotation."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 233-253 readable; p.250 (printed 235) has scan noise but text legible. Pages 4.27 (racemic mixture) and summary page were read but outside assigned sections; not used. Section 4.25 MCQ 2 wording reflects book's statement that lactic acid has two optically active isomers."
+}

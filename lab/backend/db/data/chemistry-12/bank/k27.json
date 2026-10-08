@@ -1,0 +1,1909 @@
+{
+ "chapter_no": 9,
+ "topics": [
+  {
+   "section_no": "9.27",
+   "title_bn": "এস্টারের প্রস্তুতি ও বিক্রিয়ার সার-সংক্ষেপ",
+   "title_en": "Summary of ester preparation and reactions",
+   "notes_bn": "এস্টার প্রস্তুত হয় কার্বক্সিলিক এসিড, এসিড ক্লোরাইড বা এসিড অ্যানহাইড্রাইডের সাথে অ্যালকোহল (ROH) বিক্রিয়ায়।\nএস্টার + H⁺(aq) → এসিড + অ্যালকোহল/ফেনল।\nএস্টার + NaOH → কার্বক্সিলিক এসিডের সোডিয়াম লবণ + অ্যালকোহল।\nএস্টার + NH₃/RNH₂/R₂NH → অ্যামাইড + অ্যালকোহল।\nএস্টার + LiAlH₄ (ইথার) → অ্যালকোহল (দুটি)।",
+   "notes_en": "Esters form from carboxylic acid, acid chloride or anhydride with ROH.\nEster + H⁺(aq) → acid + alcohol/phenol.\nEster + NaOH → sodium salt of acid + alcohol.\nEster + NH₃/amines → amide + alcohol.\nEster + LiAlH₄ (ether) → alcohols.",
+   "mcqs": [
+    {
+     "question_bn": "এস্টারকে NaOH দ্রবণ দিয়ে বিক্রিয়া করালে কী উৎপন্ন হয়?",
+     "question_en": "What forms when an ester reacts with NaOH solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালডিহাইড ও পানি",
+       "en": "Aldehyde and water"
+      },
+      {
+       "id": "b",
+       "bn": "কার্বক্সিলিক এসিডের সোডিয়াম লবণ ও অ্যালকোহল",
+       "en": "Sodium salt of the acid and alcohol"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইড ও পানি",
+       "en": "Amide and water"
+      },
+      {
+       "id": "d",
+       "bn": "ইথার ও সোডিয়াম",
+       "en": "Ether and sodium"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্ষারীয় আর্দ্র বিশ্লেষণে সোডিয়াম লবণ ও অ্যালকোহল পাওয়া যায়।",
+     "explanation_en": "Alkaline hydrolysis gives the sodium salt and an alcohol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি এস্টার প্রস্তুতির জন্য অ্যালকোহলের সাথে ব্যবহৃত হয় না?",
+     "question_en": "Which reagent is NOT used with an alcohol to prepare an ester?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RCOCl",
+       "en": "RCOCl"
+      },
+      {
+       "id": "b",
+       "bn": "(RCO)₂O",
+       "en": "(RCO)₂O"
+      },
+      {
+       "id": "c",
+       "bn": "RCO₂H",
+       "en": "RCO₂H"
+      },
+      {
+       "id": "d",
+       "bn": "RCONH₂",
+       "en": "RCONH₂"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "এসিড, এসিড ক্লোরাইড ও অ্যানহাইড্রাইড থেকে এস্টার হয়; অ্যামাইড নয় (চিত্র অনুযায়ী)।",
+     "explanation_en": "The scheme shows acid, acid chloride and anhydride as sources, not the amide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এস্টার ও অ্যামোনিয়ার বিক্রিয়ায় কোন যৌগ গঠিত হয়?",
+     "question_en": "Ester reacting with ammonia gives which class?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রাইল",
+       "en": "Nitrile"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামিন",
+       "en": "Amine"
+      },
+      {
+       "id": "d",
+       "bn": "এসিড ক্লোরাইড",
+       "en": "Acid chloride"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH₃ এস্টারের –OR প্রতিস্থাপন করে RCONH₂ গঠন করে।",
+     "explanation_en": "NH₃ replaces –OR to give RCONH₂.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এস্টারের LiAlH₄ বিজারণে সাধারণ উৎপাদ কোনটি?",
+     "question_en": "The usual products of LiAlH₄ reduction of RCOOR' are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RCOOH ও R'OH",
+       "en": "RCOOH and R'OH"
+      },
+      {
+       "id": "b",
+       "bn": "RCH₂OH ও R'OH",
+       "en": "RCH₂OH and R'OH"
+      },
+      {
+       "id": "c",
+       "bn": "RCHO ও R'OH",
+       "en": "RCHO and R'OH"
+      },
+      {
+       "id": "d",
+       "bn": "RCONH₂ ও R'OH",
+       "en": "RCONH₂ and R'OH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের চিত্রে LiAlH₄ দ্বারা এস্টার থেকে দুটি অ্যালকোহল (RCH₂OH ও ROH) পাওয়া যায়।",
+     "explanation_en": "The scheme shows two alcohols from LiAlH₄ reduction.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.28",
+   "title_bn": "এস্টারের ব্যবহার",
+   "title_en": "Uses of esters",
+   "notes_bn": "এস্টার বিভিন্ন কৃত্রিম সুগন্ধকারকরূপে ব্যবহৃত হয়।\nতেল, রং, বার্নিশ, গাম, সেলুলোজ প্রভৃতির দ্রাবক হিসেবে ব্যবহৃত হয়।\nবিউটাইল অ্যাসিটেট 'পেস্পিনিসিলিন'-এর দ্রাবক; রেজিন ও প্লাস্টিকের দ্রাবক হিসেবেও কাজ করে।\nখাদ্য ও পানীয় সুস্বাদু ও সুগন্ধযুক্ত করতে ব্যবহার হয়।\nইথাইল অ্যাসিটেট দ্রাবক, কৃত্রিম সুগন্ধকারক ও ওষুধ শিল্পে ব্যবহৃত হয়।\nবেনজোয়িক এসিডের এস্টার সুগন্ধি প্রস্তুতিতে ব্যবহৃত হয়।",
+   "notes_en": "Esters are used as artificial flavours/perfumes and as solvents for oils, paints, varnishes, gums, cellulose.\nButyl acetate is a solvent for penicillin; esters also dissolve resins and plastics.\nThey flavour foods and drinks.\nEthyl acetate: solvent, flavouring, pharmaceutical industry.\nBenzoic acid esters are used in perfumery.",
+   "mcqs": [
+    {
+     "question_bn": "এস্টারের একটি প্রধান ব্যবহার কোনটি?",
+     "question_en": "A main use of esters is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সার হিসেবে",
+       "en": "As fertiliser"
+      },
+      {
+       "id": "b",
+       "bn": "কৃত্রিম সুগন্ধকারক হিসেবে",
+       "en": "As artificial flavouring"
+      },
+      {
+       "id": "c",
+       "bn": "বিজারক হিসেবে",
+       "en": "As reducing agent"
+      },
+      {
+       "id": "d",
+       "bn": "প্রভাবক হিসেবে",
+       "en": "As catalyst"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এস্টার সুগন্ধকারক ও দ্রাবক।",
+     "explanation_en": "Esters serve as flavourings and solvents.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন এস্টার পেনিসিলিনের দ্রাবকরূপে ব্যবহৃত হয়?",
+     "question_en": "Which ester is a solvent for penicillin?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিউটাইল অ্যাসিটেট",
+       "en": "Butyl acetate"
+      },
+      {
+       "id": "b",
+       "bn": "মিথাইল লরেট",
+       "en": "Methyl laurate"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইল বেনজোয়েট",
+       "en": "Ethyl benzoate"
+      },
+      {
+       "id": "d",
+       "bn": "ডাইমিথাইল টেরিথ্যালেট",
+       "en": "Dimethyl terephthalate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বিউটাইল অ্যাসিটেটকে পেনিসিলিনের দ্রাবক বলা হয়েছে।",
+     "explanation_en": "The book names butyl acetate for this role.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সুগন্ধি প্রস্তুতিতে অধিক ব্যবহৃত হয় কোনটি?",
+     "question_en": "Which esters are used extensively in perfumery?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানয়িক এসিডের এস্টার",
+       "en": "Esters of ethanoic acid"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজোয়িক এসিডের এস্টার",
+       "en": "Esters of benzoic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ফরমিক এসিডের এস্টার",
+       "en": "Esters of formic acid"
+      },
+      {
+       "id": "d",
+       "bn": "সালফিউরিক এসিডের এস্টার",
+       "en": "Esters of sulphuric acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বেনজোয়িক এসিডের এস্টার সুগন্ধিতে বেশি ব্যবহৃত।",
+     "explanation_en": "Benzoic acid esters are widely used in perfumes.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথাইল অ্যাসিটেটের ব্যবহার কোনটি নয়?",
+     "question_en": "Which is NOT a use of ethyl acetate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দ্রাবক",
+       "en": "Solvent"
+      },
+      {
+       "id": "b",
+       "bn": "কৃত্রিম সুগন্ধকারক",
+       "en": "Artificial flavour"
+      },
+      {
+       "id": "c",
+       "bn": "ওষুধ শিল্প",
+       "en": "Pharmaceutical industry"
+      },
+      {
+       "id": "d",
+       "bn": "নাইলন তন্তু প্রস্তুতির মনোমার",
+       "en": "Monomer for nylon fibre"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "নাইলন তৈরিতে এটি মনোমার নয়।",
+     "explanation_en": "It is not a nylon monomer.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.29",
+   "title_bn": "পলিএস্টার",
+   "title_en": "Polyesters",
+   "notes_bn": "পলিএস্টার জৈব দ্বিক্ষারীয় এসিড ও ডাইহাইড্রিক অ্যালকোহলের ঘনীভবন বিক্রিয়ায় গঠিত পলিমার।\nটেরিলিন (ডেক্রন) তৈরি হয় ডাইমিথাইল টেরিথ্যালেট ও ইথিলিন গ্লাইকলের ঘনীভবনে; ক্ষারীয় প্রভাবক, 200°C।\nবিক্রিয়ায় মিথানল অপসারিত হয়: n[HOCH₂CH₂OOC–C₆H₄–COOCH₃] → [–OCH₂CH₂OOC–C₆H₄–CO–]ₙ + CH₃OH।\nইথিলিন গ্লাইকল: C₂H₄ + O₂ (Ag, 300°C) → ইথিলিন অক্সাইড → (H⁺/H₂O) HOCH₂CH₂OH।\nটেরিথ্যালিক এসিড: p-জাইলিন + O₂ (V₂O₅) থেকে; মিথানলের সাথে ডাইমিথাইল টেরিথ্যালেট।\nসূতা: ডেক্রন কার্পাসের সাথে মিশিয়ে (যেমন 60:40) কাপড় তৈরি হয়।",
+   "notes_en": "Polyesters form by condensation of a dibasic acid (or its ester) with a dihydric alcohol.\nTerylene (Dacron) forms from dimethyl terephthalate + ethylene glycol, alkaline catalyst, 200°C, losing CH₃OH.\nEthylene glycol: ethene + O₂ (Ag, 300°C) → ethylene oxide → H⁺/H₂O → glycol.\nTerephthalic acid from p-xylene + O₂ (V₂O₅); esterified with methanol.\nDacron yarn is blended with cotton for fabrics.",
+   "mcqs": [
+    {
+     "question_bn": "টেরিলিনের অপর নাম কী?",
+     "question_en": "Another name of Terylene is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নাইলন",
+       "en": "Nylon"
+      },
+      {
+       "id": "b",
+       "bn": "ডেক্রন",
+       "en": "Dacron"
+      },
+      {
+       "id": "c",
+       "bn": "মেলামাইন",
+       "en": "Melamine"
+      },
+      {
+       "id": "d",
+       "bn": "মার্জারিন",
+       "en": "Margarine"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "টেরিলিনকে যুক্তরাষ্ট্রে ডেক্রন বলা হয়।",
+     "explanation_en": "Terylene is called Dacron in the USA.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টেরিলিন প্রস্তুতিতে কোন দুটি যৌগ বিক্রিয়া করে?",
+     "question_en": "Which two compounds react to give Terylene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিলিন গ্লাইকল ও ডাইমিথাইল টেরিথ্যালেট",
+       "en": "Ethylene glycol and dimethyl terephthalate"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল ও অ্যাডিপিক এসিড",
+       "en": "Ethanol and adipic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল ও ফরম্যালডিহাইড",
+       "en": "Phenol and formaldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "ইউরিয়া ও মিথানাল",
+       "en": "Urea and methanal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের বিক্রিয়ায় এ দুটিই ব্যবহৃত।",
+     "explanation_en": "These two are the monomers in the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টেরিলিন গঠনকালে কোন ক্ষুদ্র অণু অপসারিত হয়?",
+     "question_en": "Which small molecule is eliminated in forming Terylene from the ester?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "b",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "c",
+       "bn": "NH₃",
+       "en": "NH₃"
+      },
+      {
+       "id": "d",
+       "bn": "HCl",
+       "en": "HCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ডাইমিথাইল এস্টার ব্যবহার হওয়ায় CH₃OH বের হয়।",
+     "explanation_en": "Since the dimethyl ester is used, CH₃OH is lost.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "p-জাইলিন থেকে টেরিথ্যালিক এসিড তৈরিতে কোন প্রভাবক ব্যবহৃত হয়?",
+     "question_en": "Which catalyst oxidises p-xylene to terephthalic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ni",
+       "en": "Ni"
+      },
+      {
+       "id": "b",
+       "bn": "V₂O₅",
+       "en": "V₂O₅"
+      },
+      {
+       "id": "c",
+       "bn": "Ag",
+       "en": "Ag"
+      },
+      {
+       "id": "d",
+       "bn": "AlCl₃",
+       "en": "AlCl₃"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বায়ুর অক্সিজেন ও V₂O₅ প্রভাবক ব্যবহৃত হয়।",
+     "explanation_en": "Air oxygen with V₂O₅ is used.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.30",
+   "title_bn": "তেল ও চর্বি : সাবান",
+   "title_en": "Oils and fats : soap",
+   "notes_bn": "তেল ও চর্বি উচ্চতর ফ্যাটি এসিডের গ্লিসারিন এস্টার (গ্লিসারাইড)। সম্পৃক্ত এসিডের এস্টার চর্বি (কঠিন), অসম্পৃক্তের এস্টার তেল (তরল)।\nফ্যাটি এসিড: পামিটিক C₁₅H₃₁CO₂H, স্টিয়ারিক C₁₇H₃₅CO₂H, অলিয়িক C₁₇H₃₃CO₂H, লিনোলিক C₁₇H₃₁CO₂H।\nতেলের গলনাঙ্ক 20°C-এর কম, চর্বির 20°C-এর বেশি; তেল উদ্ভিদে, চর্বি প্রাণিদেহে।\nতেল Ni প্রভাবকে H₂ যোগে (200°C) চর্বি/মার্জারিন হয়।\nস্যাপনিফিকেশন: তেল/চর্বি + NaOH(aq) →(Δ) সোডিয়াম সাবান + গ্লিসারল।\nসাবান: NaOH দিয়ে সোডিয়াম সাবান (শক্ত), KOH দিয়ে পটাসিয়াম সাবান (নরম; শেভিং ক্রিম/শ্যাম্পুতে)।\nসাবানের লেজ (হাইড্রোকার্বন) তেলে দ্রবণীয়, মাথা (–COO⁻Na⁺) পানিতে দ্রবণীয়; তেলের কণাকে ঘিরে ইমালসন গঠন করে ময়লা তোলে।",
+   "notes_en": "Oils and fats are glycerol esters (glycerides) of higher fatty acids; saturated → fat (solid), unsaturated → oil (liquid).\nFatty acids: palmitic C₁₅H₃₁CO₂H, stearic C₁₇H₃₅CO₂H, oleic C₁₇H₃₃CO₂H, linoleic C₁₇H₃₁CO₂H.\nOil m.p. < 20°C, fat > 20°C; oils from plants, fats from animals.\nHydrogenation (Ni, 200°C) turns oil into fat/margarine.\nSaponification: oil/fat + NaOH(aq) → sodium soap + glycerol.\nNaOH gives hard sodium soap; KOH gives soft potassium soap (shaving cream, shampoo).\nSoap tail (hydrocarbon) dissolves in oil, head (–COO⁻Na⁺) in water; emulsifies oil to lift dirt.",
+   "mcqs": [
+    {
+     "question_bn": "সাবানায়ন (স্যাপনিফিকেশন) কী?",
+     "question_en": "What is saponification?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তেলের হাইড্রোজেনেশন",
+       "en": "Hydrogenation of oil"
+      },
+      {
+       "id": "b",
+       "bn": "তেল/চর্বির ক্ষারীয় আর্দ্র বিশ্লেষণে সাবান ও গ্লিসারল তৈরি",
+       "en": "Alkaline hydrolysis of oil/fat to soap and glycerol"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকোহলের জারণ",
+       "en": "Oxidation of alcohol"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্যাটি এসিডের বিজারণ",
+       "en": "Reduction of fatty acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NaOH/KOH দ্বারা আর্দ্র বিশ্লেষণকে স্যাপনিফিকেশন বলে।",
+     "explanation_en": "Hydrolysis with NaOH/KOH is saponification.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি তেল ও চর্বির পার্থক্য সঠিকভাবে বলে?",
+     "question_en": "Which statement correctly distinguishes oil from fat?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চর্বি উদ্ভিদে, তেল প্রাণিদেহে",
+       "en": "Fat in plants, oil in animals"
+      },
+      {
+       "id": "b",
+       "bn": "তেলের গলনাঙ্ক 20°C-এর কম",
+       "en": "Oil melts below 20°C"
+      },
+      {
+       "id": "c",
+       "bn": "চর্বি অসম্পৃক্ত এসিডের এস্টার",
+       "en": "Fat is an ester of unsaturated acid"
+      },
+      {
+       "id": "d",
+       "bn": "তেল সম্পৃক্ত এসিডের এস্টার",
+       "en": "Oil is an ester of saturated acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তেলের গলনাঙ্ক 20°C-এর কম; তেল অসম্পৃক্ত এসিডের এস্টার।",
+     "explanation_en": "Oil m.p. is below 20°C and it derives from unsaturated acid.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পটাসিয়াম সাবান কোন কাজে বেশি ব্যবহৃত হয়?",
+     "question_en": "Potassium soap is mainly used for:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কাপড় কাচায়",
+       "en": "Washing clothes"
+      },
+      {
+       "id": "b",
+       "bn": "শ্যাম্পু ও শেভিং ক্রিম",
+       "en": "Shampoo and shaving cream"
+      },
+      {
+       "id": "c",
+       "bn": "মার্জারিন তৈরিতে",
+       "en": "Making margarine"
+      },
+      {
+       "id": "d",
+       "bn": "পলিমার তৈরিতে",
+       "en": "Making polymers"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পটাসিয়াম সাবান পানিতে অধিক দ্রবণীয়।",
+     "explanation_en": "It is more soluble in water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাবানের ময়লা পরিষ্কার করার কৌশলে কোন অংশ তেলের কণায় ঢুকে যায়?",
+     "question_en": "In cleaning action, which part of soap penetrates the oil droplet?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বক্সিলেট মাথা",
+       "en": "Carboxylate head"
+      },
+      {
+       "id": "b",
+       "bn": "Na⁺ আয়ন",
+       "en": "Na⁺ ion"
+      },
+      {
+       "id": "c",
+       "bn": "হাইড্রোকার্বন লেজ",
+       "en": "Hydrocarbon tail"
+      },
+      {
+       "id": "d",
+       "bn": "পানির অণু",
+       "en": "Water molecule"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "লেজ লিপোফিলিক, তেলে দ্রবণীয়; মাথা পানিতে থাকে।",
+     "explanation_en": "The tail is lipophilic and enters oil; the head stays in water.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.31",
+   "title_bn": "ডিটারজেন্ট",
+   "title_en": "Detergents",
+   "notes_bn": "ডিটারজেন্ট হলো দীর্ঘ কার্বন শিকলযুক্ত অ্যালকাইল হাইড্রোজেন সালফেটের সোডিয়াম লবণ (R–SO₄Na) বা অ্যালকাইল বেনজিন সালফোনেটের সোডিয়াম লবণ।\nউদাহরণ: সোডিয়াম লরাইল সালফেট CH₃(CH₂)₁₀CH₂–O–SO₃⁻Na⁺। R-এর কার্বন সংখ্যা সাধারণত 12–18।\nসাবান দীর্ঘ কার্বন শিকলযুক্ত কার্বক্সিলিক এসিডের সোডিয়াম লবণ।\nক্রিয়া কৌশল সাবানের মতো: পোলার মাথা পানিতে, লেজ তেলে; ইমালসন গঠন করে।\nখর পানির Ca²⁺/Mg²⁺ সাবানের সাথে অদ্রবণীয় লবণ তৈরি করে, ডিটারজেন্টে তা হয় না।\nসাবানের তুলনায় ডিটারজেন্ট শক্তিশালী পরিষ্কারক, খর/অম্লীয় পানিতেও কার্যকর, দামে সস্তা।",
+   "notes_en": "Detergents are sodium salts of long-chain alkyl hydrogen sulphates (R–SO₄Na) or alkylbenzene sulphonates.\nExample: sodium lauryl sulphate CH₃(CH₂)₁₀CH₂–O–SO₃⁻Na⁺; R usually has 12–18 carbons.\nSoap is the sodium salt of a long-chain carboxylic acid.\nSame cleaning mechanism: polar head in water, tail in oil, emulsion.\nIn hard water soap forms insoluble Ca/Mg salts; detergents' Ca/Mg salts remain soluble.\nDetergents clean better, work in hard water, are cheaper.",
+   "mcqs": [
+    {
+     "question_bn": "সোডিয়াম লরাইল সালফেট কী?",
+     "question_en": "Sodium lauryl sulphate is a:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাবান",
+       "en": "Soap"
+      },
+      {
+       "id": "b",
+       "bn": "ডিটারজেন্ট",
+       "en": "Detergent"
+      },
+      {
+       "id": "c",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এটি অ্যালকাইল হাইড্রোজেন সালফেটের সোডিয়াম লবণ।",
+     "explanation_en": "It is a sodium alkyl sulphate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "খর পানিতে সাবানের অসুবিধার কারণ কী?",
+     "question_en": "Why is soap poor in hard water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ca²⁺, Mg²⁺ এর সাথে অদ্রবণীয় লবণ তৈরি",
+       "en": "Forms insoluble salts with Ca²⁺, Mg²⁺"
+      },
+      {
+       "id": "b",
+       "bn": "সাবান বিয়োজিত হয় না",
+       "en": "Soap does not ionise"
+      },
+      {
+       "id": "c",
+       "bn": "পানি অম্লীয় হয়",
+       "en": "Water becomes acidic"
+      },
+      {
+       "id": "d",
+       "bn": "সাবান উদ্বায়ী",
+       "en": "Soap is volatile"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অদ্রবণীয় Ca/Mg সাবান ময়লা তৈরি করে ও কার্যকারিতা কমায়।",
+     "explanation_en": "Insoluble Ca/Mg soaps waste soap.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাবানের তুলনায় ডিটারজেন্টের সুবিধা কোনটি নয়?",
+     "question_en": "Which is NOT an advantage of detergents over soap?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অম্লীয় পানিতেও কাজ করে",
+       "en": "Works in acidic water"
+      },
+      {
+       "id": "b",
+       "bn": "তরল ও পাউডার আকারে ব্যবহার্য",
+       "en": "Available as liquid or powder"
+      },
+      {
+       "id": "c",
+       "bn": "দাম বেশি",
+       "en": "Higher cost"
+      },
+      {
+       "id": "d",
+       "bn": "খর পানিতে কার্যকর",
+       "en": "Effective in hard water"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ডিটারজেন্টের দাম সাবানের চেয়ে কম।",
+     "explanation_en": "Detergents are cheaper than soap.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ডিটারজেন্ট অণুর 'লেজ' কোনটি?",
+     "question_en": "The 'tail' of a detergent molecule is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–SO₃⁻ অংশ",
+       "en": "The –SO₃⁻ group"
+      },
+      {
+       "id": "b",
+       "bn": "Na⁺",
+       "en": "Na⁺"
+      },
+      {
+       "id": "c",
+       "bn": "দীর্ঘ হাইড্রোকার্বন শিকল",
+       "en": "Long hydrocarbon chain"
+      },
+      {
+       "id": "d",
+       "bn": "পানি",
+       "en": "Water"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "লেজ হাইড্রোফোবিক হাইড্রোকার্বন শিকল।",
+     "explanation_en": "The tail is the hydrophobic hydrocarbon chain.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.32",
+   "title_bn": "ডিটারজেন্ট উৎপাদন",
+   "title_en": "Manufacture of detergents",
+   "notes_bn": "১) সোডিয়াম লরাইল সালফেট: নারিকেল/পাম তেল থেকে হাইড্রোজেনেশন ও আর্দ্র বিশ্লেষণে লরাইল অ্যালকোহল C₁₂H₂₅OH; H₂SO₄-এর সাথে বিক্রিয়ায় লরাইল হাইড্রোজেন সালফেট; পরে NaOH দিয়ে প্রশমন।\nCH₃(CH₂)₁₀CH₂OH + HOSO₃H → CH₃(CH₂)₁₀CH₂OSO₂OH + H₂O।\n২) ABS ডিটারজেন্ট (সার্ফ পাউডার): ফ্রিডেল–ক্র্যাফট অ্যালকিলেশনে বেনজিন + দীর্ঘ শিকল অ্যালকিন (যেমন 1-ডোডেকিন, AlCl₃) → iso-ডোডেকাইল বেনজিন।\nতারপর গাঢ় H₂SO₄ দিয়ে সালফোনেশন → p-iso-ডোডেকাইল বেনজিন সালফোনিক এসিড; NaOH দিয়ে প্রশমন → সোডিয়াম লবণ (ডিটারজেন্ট)।",
+   "notes_en": "1) Sodium lauryl sulphate: coconut/palm oil → hydrogenation + hydrolysis → lauryl alcohol C₁₂H₂₅OH; + H₂SO₄ → lauryl hydrogen sulphate; neutralise with NaOH.\n2) ABS detergent (surf powder): Friedel–Crafts alkylation of benzene with a long-chain alkene (1-dodecene, AlCl₃) → iso-dodecylbenzene.\nSulphonation with conc. H₂SO₄ → p-iso-dodecylbenzene sulphonic acid; NaOH neutralisation → sodium sulphonate detergent.",
+   "mcqs": [
+    {
+     "question_bn": "সোডিয়াম লরাইল সালফেট তৈরিতে কোন অ্যালকোহল ব্যবহৃত হয়?",
+     "question_en": "Which alcohol is used to make sodium lauryl sulphate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "b",
+       "bn": "লরাইল অ্যালকোহল",
+       "en": "Lauryl alcohol"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "d",
+       "bn": "গ্লিসারল",
+       "en": "Glycerol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C₁₂H₂₅OH H₂SO₄ দ্বারা সালফেটে রূপান্তরিত হয়।",
+     "explanation_en": "C₁₂H₂₅OH is converted to the sulphate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ABS ডিটারজেন্ট প্রস্তুতির প্রথম ধাপ কী?",
+     "question_en": "First step in making ABS detergent:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সালফোনেশন",
+       "en": "Sulphonation"
+      },
+      {
+       "id": "b",
+       "bn": "ফ্রিডেল–ক্র্যাফট অ্যালকিলেশন",
+       "en": "Friedel–Crafts alkylation"
+      },
+      {
+       "id": "c",
+       "bn": "প্রশমন",
+       "en": "Neutralisation"
+      },
+      {
+       "id": "d",
+       "bn": "হাইড্রোজেনেশন",
+       "en": "Hydrogenation"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বেনজিন + 1-ডোডেকিন (AlCl₃) প্রথমে।",
+     "explanation_en": "Benzene + 1-dodecene (AlCl₃) comes first.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকাইল বেনজিন সালফোনিক এসিড তৈরিতে কোন বিকারক লাগে?",
+     "question_en": "Which reagent sulphonates the alkylbenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তনু HCl",
+       "en": "Dil. HCl"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় H₂SO₄",
+       "en": "Conc. H₂SO₄"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "d",
+       "bn": "AlCl₃",
+       "en": "AlCl₃"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "গাঢ় H₂SO₄ দ্বারা সালফোনেশন হয়।",
+     "explanation_en": "Conc. H₂SO₄ performs sulphonation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ABS ডিটারজেন্টের শেষ ধাপে NaOH-এর ভূমিকা কী?",
+     "question_en": "Role of NaOH in the last step of ABS detergent:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সালফোনিক এসিডকে সোডিয়াম লবণে প্রশমিত করা",
+       "en": "Neutralises sulphonic acid to its sodium salt"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিনকে অ্যালকিলেট করা",
+       "en": "Alkylates benzene"
+      },
+      {
+       "id": "c",
+       "bn": "এসিডকে বিজারিত করা",
+       "en": "Reduces the acid"
+      },
+      {
+       "id": "d",
+       "bn": "এস্টার গঠন করা",
+       "en": "Forms ester"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "–SO₃H + NaOH → –SO₃Na + H₂O।",
+     "explanation_en": "–SO₃H + NaOH → –SO₃Na + H₂O.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.33",
+   "title_bn": "ডিটারজেন্টের শ্রেণীবিভাগ",
+   "title_en": "Classification of detergents",
+   "notes_bn": "তিন শ্রেণি: অ্যানায়নিক, ক্যাটায়নিক, নন-আয়নিক।\nঅ্যানায়নিক: অ্যানায়ন অংশ কাজ করে; যেমন সোডিয়াম লরাইল সালফেট, ABS (পাউডার)।\nক্যাটায়নিক: ক্যাটায়ন অংশ কাজ করে, সংখ্যা কম; অ্যানায়নিকের সাথে মেশানো যায় না (গাদ/স্কাম হয়); ফ্যাব্রিক কন্ডিশনার, ইমালসিফায়ার; যেমন টারসিয়ারি অ্যামিন ব্রোমাইড।\nনন-আয়নিক: আয়নবিহীন, পলিইথিলিন অক্সাইড ও অ্যালকাইলেটেড ফেনল; R–O–(CH₂CH₂O)ₙH, n = 5~10; পানির সাথে H-বন্ধন; ফেনা কম; ওয়াশিং মেশিনে ভালো।",
+   "notes_en": "Three classes: anionic, cationic, non-ionic.\nAnionic: anion part is active (sodium lauryl sulphate, ABS powder).\nCationic: cation part is active, few in number; cannot be mixed with anionic (scum); used as fabric conditioners, emulsifiers (tertiary amine bromides).\nNon-ionic: no ions; polyethylene oxide + alkylated phenol, R–O–(CH₂CH₂O)ₙH (n = 5–10); H-bond with water; low foam; suited to washing machines.",
+   "mcqs": [
+    {
+     "question_bn": "সোডিয়াম অ্যালকাইল বেনজিন সালফোনেট কোন শ্রেণির ডিটারজেন্ট?",
+     "question_en": "Sodium alkylbenzene sulphonate is which type?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্যাটায়নিক",
+       "en": "Cationic"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানায়নিক",
+       "en": "Anionic"
+      },
+      {
+       "id": "c",
+       "bn": "নন-আয়নিক",
+       "en": "Non-ionic"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এর অ্যানায়ন অংশ কার্যকর।",
+     "explanation_en": "Its anion part is active.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্যাটায়নিক ডিটারজেন্টের একটি ব্যবহার কী?",
+     "question_en": "A use of cationic detergents:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফ্যাব্রিক কন্ডিশনার",
+       "en": "Fabric conditioner"
+      },
+      {
+       "id": "b",
+       "bn": "ওয়াশিং পাউডার",
+       "en": "Washing powder"
+      },
+      {
+       "id": "c",
+       "bn": "সাবান তৈরি",
+       "en": "Making soap"
+      },
+      {
+       "id": "d",
+       "bn": "মার্জারিন",
+       "en": "Margarine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এরা ইমালসিফায়ার ও কন্ডিশনার।",
+     "explanation_en": "They act as emulsifiers/conditioners.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্যাটায়নিক ও অ্যানায়নিক ডিটারজেন্ট একত্রে ব্যবহার করা যায় না কেন?",
+     "question_en": "Why can't cationic and anionic detergents be mixed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিক্রিয়ায় গাদ বা স্কাম সৃষ্টি হয়",
+       "en": "Reaction produces scum"
+      },
+      {
+       "id": "b",
+       "bn": "উভয়ে ফেনা বাড়ায়",
+       "en": "Both increase foam"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ই গ্যাস",
+       "en": "Both are gases"
+      },
+      {
+       "id": "d",
+       "bn": "pH বেড়ে যায়",
+       "en": "pH rises"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উভয়ের বিক্রিয়ায় গাদ/স্কাম গঠিত হয়।",
+     "explanation_en": "They react to form scum.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নন-আয়নিক ডিটারজেন্টের বৈশিষ্ট্য কোনটি?",
+     "question_en": "Which is true of non-ionic detergents?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রচুর ফেনা তৈরি করে",
+       "en": "Produce much foam"
+      },
+      {
+       "id": "b",
+       "bn": "পানির সাথে H-বন্ধন গঠন করে",
+       "en": "H-bond with water"
+      },
+      {
+       "id": "c",
+       "bn": "ক্যাটায়ন আছে",
+       "en": "Contain cation"
+      },
+      {
+       "id": "d",
+       "bn": "ক্ষারে নষ্ট হয়",
+       "en": "Destroyed by alkali"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পলিইথিলিন অক্সাইডের O পানির সাথে H-বন্ধন করে; ফেনা কম।",
+     "explanation_en": "Ether oxygen H-bonds with water; low foam.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.34",
+   "title_bn": "ভূমিকা (এসিড অ্যামাইড)",
+   "title_en": "Introduction (acid amides)",
+   "notes_bn": "কার্বক্সিলিক এসিডের –OH অংশকে –NH₂ দ্বারা প্রতিস্থাপন করলে এসিড অ্যামাইড (R–CO–NH₂) পাওয়া যায়।\nR–COOH + NH₃ →(Δ) R–CONH₂ + H₂O।\nফাংশনাল মূলক: কার্বনিল-অ্যামিনো (–CONH₂)।",
+   "notes_en": "Replacing the –OH of a carboxylic acid by –NH₂ gives an acid amide, R–CO–NH₂.\nR–COOH + NH₃ →(heat) R–CONH₂ + H₂O.",
+   "mcqs": [
+    {
+     "question_bn": "এসিড অ্যামাইডের সাধারণ সংকেত কোনটি?",
+     "question_en": "General formula of acid amides:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "R–COOH",
+       "en": "R–COOH"
+      },
+      {
+       "id": "b",
+       "bn": "R–CO–NH₂",
+       "en": "R–CO–NH₂"
+      },
+      {
+       "id": "c",
+       "bn": "R–CN",
+       "en": "R–CN"
+      },
+      {
+       "id": "d",
+       "bn": "R–CO–OR'",
+       "en": "R–CO–OR'"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "R–CONH₂।",
+     "explanation_en": "R–CONH₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যামাইড কিসের –OH প্রতিস্থাপনে পাওয়া যায়?",
+     "question_en": "An amide forms by replacing –OH of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকোহল",
+       "en": "Alcohol"
+      },
+      {
+       "id": "b",
+       "bn": "কার্বক্সিলিক এসিড",
+       "en": "Carboxylic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "d",
+       "bn": "ইথার",
+       "en": "Ether"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "–COOH-এর OH অংশ –NH₂ হয়।",
+     "explanation_en": "The OH of –COOH becomes –NH₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানয়িক এসিডের অ্যামাইডের সংকেত কী?",
+     "question_en": "Amide of ethanoic acid is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃CONH₂",
+       "en": "CH₃CONH₂"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃COONH₄",
+       "en": "CH₃COONH₄"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃CN",
+       "en": "CH₃CN"
+      },
+      {
+       "id": "d",
+       "bn": "HCONH₂",
+       "en": "HCONH₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃COOH → CH₃CONH₂।",
+     "explanation_en": "CH₃COOH → CH₃CONH₂.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "RCOOH + NH₃ → RCONH₂ বিক্রিয়ায় সহ-উৎপাদ কী?",
+     "question_en": "Co-product in RCOOH + NH₃ → RCONH₂:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂",
+       "en": "H₂"
+      },
+      {
+       "id": "b",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "c",
+       "bn": "CO₂",
+       "en": "CO₂"
+      },
+      {
+       "id": "d",
+       "bn": "N₂",
+       "en": "N₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ঘনীভবনে H₂O অপসারিত হয়।",
+     "explanation_en": "Condensation eliminates H₂O.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "9.35",
+   "title_bn": "এসিড অ্যামাইডের সাধারণ প্রস্তুত প্রণালী",
+   "title_en": "General methods of preparation of acid amide",
+   "notes_bn": "১) অ্যামোনিয়াম লবণ উত্তপ্ত করে: RCOONH₄ →(230°C) RCONH₂ + H₂O।\nCH₃COONH₄ →(170°C, CH₃COOH উপস্থিতিতে) CH₃CONH₂ + H₂O; মুক্ত অ্যাসিটিক এসিড ফলন বাড়ায়।\nC₆H₅COONH₄ →(Δ) C₆H₅CONH₂ + H₂O।\n২) অ্যাসাইল হ্যালাইড, অ্যানহাইড্রাইড বা এস্টারের সাথে গাঢ় NH₃: RCOCl + 2NH₃ → RCONH₂ + NH₄Cl; (RCO)₂O + 2NH₃ → RCONH₂ + RCOONH₄; RCOOR + NH₃ → RCONH₂ + ROH।\nউদাহরণ: CH₃COCl + 2NH₃ → CH₃CONH₂ + NH₄Cl (সাধারণত এসিড ক্লোরাইড)।",
+   "notes_en": "1) Heating ammonium salt: RCOONH₄ → RCONH₂ + H₂O (230°C); CH₃COONH₄ at 170°C, with free acetic acid raising yield; C₆H₅COONH₄ → benzamide.\n2) Acyl halide, anhydride or ester + NH₃ (conc.): RCOCl + 2NH₃ → RCONH₂ + NH₄Cl; (RCO)₂O + 2NH₃ → RCONH₂ + RCOONH₄; RCOOR + NH₃ → RCONH₂ + ROH.\nEthanoyl chloride + dry NH₃ → ethanamide + NH₄Cl.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যামোনিয়াম ইথানোয়েট 170°C-এ উত্তপ্ত করলে কী পাওয়া যায়?",
+     "question_en": "Heating ammonium ethanoate at 170°C gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানামাইড ও পানি",
+       "en": "Ethanamide and water"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "ইথেন নাইট্রাইল",
+       "en": "Ethane nitrile"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানয়িক এসিড",
+       "en": "Ethanoic acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃COONH₄ → CH₃CONH₂ + H₂O।",
+     "explanation_en": "CH₃COONH₄ → CH₃CONH₂ + H₂O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানামাইড প্রস্তুতিতে সাধারণত কোন যৌগ NH₃-এর সাথে বিক্রিয়া করে?",
+     "question_en": "Which compound is mainly treated with NH₃ to make ethanamide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানোয়িল ক্লোরাইড",
+       "en": "Ethanoyl chloride"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে এসিড ক্লোরাইড ব্যবহৃত হয়।",
+     "explanation_en": "The book uses acid chloride.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এসিড ক্লোরাইড ও NH₃ (1:2) বিক্রিয়ায় সহ-উৎপাদ কী?",
+     "question_en": "Co-product when RCOCl reacts with 2NH₃:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₄Cl",
+       "en": "NH₄Cl"
+      },
+      {
+       "id": "b",
+       "bn": "H₂O",
+       "en": "H₂O"
+      },
+      {
+       "id": "c",
+       "bn": "ROH",
+       "en": "ROH"
+      },
+      {
+       "id": "d",
+       "bn": "RCOONH₄",
+       "en": "RCOONH₄"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "RCOCl + 2NH₃ → RCONH₂ + NH₄Cl।",
+     "explanation_en": "RCOCl + 2NH₃ → RCONH₂ + NH₄Cl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এস্টার থেকে অ্যামাইড প্রস্তুতিতে কোন উপজাত পাওয়া যায়?",
+     "question_en": "By-product on making an amide from an ester + NH₃:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালকোহল",
+       "en": "Alcohol"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামোনিয়াম ক্লোরাইড",
+       "en": "Ammonium chloride"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বন ডাইঅক্সাইড",
+       "en": "Carbon dioxide"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "RCOOR + NH₃ → RCONH₂ + ROH।",
+     "explanation_en": "RCOOR + NH₃ → RCONH₂ + ROH.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.36",
+   "title_bn": "অ্যামাইডের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of amides",
+   "notes_bn": "ক্ষার ধর্ম: দুর্বল ক্ষারক, HCl-এর সাথে লবণ (CH₃CONH₃⁺Cl⁻)। N-এর নিঃসঙ্গ ইলেকট্রন কার্বনিল C-এর দিকে সঞ্চরণ হওয়ায় ক্ষারকত্ব অ্যামোনিয়া/অ্যামিনের চেয়ে কম।\nঅম্ল ধর্ম: NaNH₂-এর সাথে সোডিয়াম লবণ ও NH₃।\nআর্দ্র বিশ্লেষণ: অ্যাসিড/ক্ষারের সাথে উত্তপ্ত করলে RCOOH (বা লবণ) ও NH₃।\nHNO₂ (NaNO₂/HCl): RCOOH + N₂ + H₂O।\nP₂O₅ দিয়ে নিরুদন: অ্যালকাইল সায়ানাইড (নাইট্রাইল) ও পানি।\nহফম্যান ডিগ্রেডেশন: অ্যামাইড + Br₂ + 4NaOH → প্রাইমারি অ্যামিন (একটি কার্বন কম) + 2NaBr + Na₂CO₃ + 2H₂O; CH₃CONH₂ → CH₃NH₂, C₆H₅CONH₂ → C₆H₅NH₂।\nLiAlH₄ বিজারণ: RCONH₂ → RCH₂NH₂ + H₂O।\nব্যবহার: মিথাইল অ্যামিন প্রস্তুতি, ওষুধ, অ্যানিলিন ও বেনজিন ডায়াজোনিয়াম ক্লোরাইড প্রস্তুতি।",
+   "notes_en": "Basic: weak base, forms salt with HCl (CH₃CONH₃⁺Cl⁻); N lone pair delocalised towards C=O, so weaker than NH₃/amines.\nAcidic: with NaNH₂ gives sodium salt + NH₃.\nHydrolysis (acid/alkali, heat) → RCOOH/salt + NH₃.\nHNO₂ (NaNO₂/HCl) → RCOOH + N₂ + H₂O.\nP₂O₅ dehydration → nitrile + H₂O.\nHofmann degradation: RCONH₂ + Br₂ + 4NaOH → RNH₂ (one C less) + 2NaBr + Na₂CO₃ + 2H₂O.\nLiAlH₄ reduction: RCONH₂ → RCH₂NH₂.\nUses: methylamine, drugs, aniline, benzenediazonium chloride.",
+   "mcqs": [
+    {
+     "question_bn": "হফম্যান ডিগ্রেডেশনে ইথানামাইড থেকে কী পাওয়া যায়?",
+     "question_en": "Hofmann degradation of ethanamide gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "Ethylamine"
+      },
+      {
+       "id": "b",
+       "bn": "মিথাইল অ্যামিন",
+       "en": "Methylamine"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "একটি কার্বন কমে CH₃NH₂ হয়।",
+     "explanation_en": "One carbon is lost, giving CH₃NH₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যামাইড নাইট্রাস এসিডের সাথে বিক্রিয়ায় কোন গ্যাস দেয়?",
+     "question_en": "Amide with nitrous acid releases:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂",
+       "en": "H₂"
+      },
+      {
+       "id": "b",
+       "bn": "N₂",
+       "en": "N₂"
+      },
+      {
+       "id": "c",
+       "bn": "CO",
+       "en": "CO"
+      },
+      {
+       "id": "d",
+       "bn": "NH₃",
+       "en": "NH₃"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "RCONH₂ + HNO₂ → RCOOH + N₂ + H₂O।",
+     "explanation_en": "RCONH₂ + HNO₂ → RCOOH + N₂ + H₂O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "P₂O₅ সহ ইথানামাইড উত্তপ্ত করলে কোন যৌগ পাওয়া যায়?",
+     "question_en": "Heating ethanamide with P₂O₅ gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন নাইট্রাইল",
+       "en": "Ethane nitrile"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিলিন",
+       "en": "Ethylene"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "Ethylamine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নিরুদনে CH₃CN ও H₂O।",
+     "explanation_en": "Dehydration gives CH₃CN + H₂O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যামাইড অ্যামোনিয়ার চেয়ে দুর্বল ক্ষারক কেন?",
+     "question_en": "Why is an amide a weaker base than NH₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N-এর নিঃসঙ্গ ইলেকট্রন কার্বনিলের দিকে সঞ্চরিত হয়",
+       "en": "N lone pair is delocalised to C=O"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইডে N নেই",
+       "en": "No N in amide"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইড বড় অণু বলে শুধু",
+       "en": "Only because it is a larger molecule"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামাইডে H নেই",
+       "en": "Amide has no H"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রেজোন্যান্সে N-এ আংশিক ধনাত্মক চার্জ আসে, প্রোটন গ্রহণ ক্ষমতা কমে।",
+     "explanation_en": "Resonance gives partial positive charge on N, lowering proton acceptance.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.37",
+   "title_bn": "পলিঅ্যামাইড ও নাইলন",
+   "title_en": "Polyamide and nylon",
+   "notes_bn": "একাধিক অ্যামাইড (–CONH–) মূলকযুক্ত পলিমার = পলিঅ্যামাইড; সাধারণত নাইলন। সংখ্যা (যেমন 6:6) বিকারকের কার্বন সংখ্যা নির্দেশ করে।\nনাইলন-6:6: হেক্সামিথিলিন ডাইঅ্যামিন ও অ্যাডিপিক এসিডের ঘনীভবন; অ্যাডিপিক এসিড HOOC(CH₂)₄COOH। বিকারক 1,3-বিউটাডাইন থেকে তৈরি (Cl₂, NaCN, H₂, LiAlH₄/H⁺)।\nনাইলন-6: ফেনল →(H₂/Ni) সাইক্লোহেক্সানল →(Cu) সাইক্লোহেক্সানোন →(NH₂OH) অক্সাইম →(H⁺) ক্যাপ্রোল্যাক্টাম → পলিমারকরণ → [–CONH–(CH₂)₅–]ₙ।\nনাইলন-6:10: হেক্সামিথিলিন ডাইঅ্যামিন ও সেবাসিক এসিড HOOC(CH₂)₈COOH।\nনাইলন-11: 11-কার্বন অ্যামিনো উন-ডেকানোয়িক এসিডের ঘনীভবন।\nব্যবহার: নাইলন-6:6 ও 6:10 তন্তু ও ব্রাশ; নাইলন-6 কাপড়ের সূতা, টায়ার কর্ড; নাইলন-11 তন্তু, ব্রিস্টল, পাইপ।",
+   "notes_en": "Polyamide = polymer with repeating amide (–CONH–) links; nylons. The numbers (6:6) give carbon counts of the monomers.\nNylon-6:6: hexamethylenediamine + adipic acid HOOC(CH₂)₄COOH by condensation; both made from 1,3-butadiene.\nNylon-6: phenol → cyclohexanol → cyclohexanone → oxime → caprolactam → polymerise → [–CONH–(CH₂)₅–]ₙ.\nNylon-6:10: hexamethylenediamine + sebacic acid HOOC(CH₂)₈COOH.\nNylon-11: condensation of 11-carbon amino-undecanoic acid.\nUses: fibres, brush bristles, tyre cord, rope, pipes.",
+   "mcqs": [
+    {
+     "question_bn": "নাইলন-6:6 কোন দুই যৌগ থেকে তৈরি?",
+     "question_en": "Nylon-6:6 is made from:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হেক্সামিথিলিন ডাইঅ্যামিন ও অ্যাডিপিক এসিড",
+       "en": "Hexamethylenediamine and adipic acid"
+      },
+      {
+       "id": "b",
+       "bn": "ফেনল ও ফরম্যালডিহাইড",
+       "en": "Phenol and formaldehyde"
+      },
+      {
+       "id": "c",
+       "bn": "ইউরিয়া ও মিথানাল",
+       "en": "Urea and methanal"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিলিন গ্লাইকল ও টেরিথ্যালিক এসিড",
+       "en": "Ethylene glycol and terephthalic acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুটিই ৬-কার্বন যৌগ।",
+     "explanation_en": "Both monomers have six carbons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পলিঅ্যামাইডে পুনরাবৃত্ত সংযোগ-মূলক কোনটি?",
+     "question_en": "The linkage in a polyamide is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–COO–",
+       "en": "–COO–"
+      },
+      {
+       "id": "b",
+       "bn": "–CONH–",
+       "en": "–CONH–"
+      },
+      {
+       "id": "c",
+       "bn": "–O–",
+       "en": "–O–"
+      },
+      {
+       "id": "d",
+       "bn": "–CN",
+       "en": "–CN"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যামাইড বন্ধন –CONH–।",
+     "explanation_en": "The amide link is –CONH–.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নাইলন-6:10 তৈরিতে কোন এসিড লাগে?",
+     "question_en": "Which acid is used for nylon-6:10?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাডিপিক এসিড",
+       "en": "Adipic acid"
+      },
+      {
+       "id": "b",
+       "bn": "সেবাসিক এসিড",
+       "en": "Sebacic acid"
+      },
+      {
+       "id": "c",
+       "bn": "টেরিথ্যালিক এসিড",
+       "en": "Terephthalic acid"
+      },
+      {
+       "id": "d",
+       "bn": "ফরমিক এসিড",
+       "en": "Formic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সেবাসিক এসিড HOOC(CH₂)₈COOH (10 C)।",
+     "explanation_en": "Sebacic acid HOOC(CH₂)₈COOH has 10 carbons.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইলন-6 তৈরিতে ফেনল থেকে ক্যাপ্রোল্যাক্টাম পর্যন্ত মধ্যবর্তী ধাপের সঠিক ক্রম কোনটি?",
+     "question_en": "Correct order from phenol to caprolactam in nylon-6:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইক্লোহেক্সানোন → সাইক্লোহেক্সানল → অক্সাইম",
+       "en": "Cyclohexanone → cyclohexanol → oxime"
+      },
+      {
+       "id": "b",
+       "bn": "সাইক্লোহেক্সানল → সাইক্লোহেক্সানোন → অক্সাইম",
+       "en": "Cyclohexanol → cyclohexanone → oxime"
+      },
+      {
+       "id": "c",
+       "bn": "অক্সাইম → সাইক্লোহেক্সানল → সাইক্লোহেক্সানোন",
+       "en": "Oxime → cyclohexanol → cyclohexanone"
+      },
+      {
+       "id": "d",
+       "bn": "সাইক্লোহেক্সানল → অক্সাইম → সাইক্লোহেক্সানোন",
+       "en": "Cyclohexanol → oxime → cyclohexanone"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H₂/Ni, তারপর Cu দ্বারা জারণ-বিহাইড্রোজেনেশন, তারপর NH₂OH, তারপর H⁺।",
+     "explanation_en": "H₂/Ni, then Cu, then NH₂OH, then H⁺ rearrangement.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.38",
+   "title_bn": "ভূমিকা (ইউরিয়া বা কার্বামাইড)",
+   "title_en": "Introduction (urea or carbamide)",
+   "notes_bn": "ইউরিয়া কার্বনিক এসিডের ডাইঅ্যামাইড: H₂N–CO–NH₂। প্রাণিদেহে প্রোটিন বিপাকে উৎপন্ন হয়ে কিডনির মাধ্যমে প্রস্রাবে বের হয়।\nবর্তমানে অ্যামোনিয়া ও অন্যান্য উৎস থেকে শিল্পে উৎপাদিত; নাইট্রোজেন সার।\n1828 সালে উহলার অ্যামোনিয়াম সায়ানেট (NH₄CNO) দ্রবণ বাষ্পীভূত করে ইউরিয়া পান (অজৈব থেকে জৈব)।\nNH₄Cl + Pb(CNO)₂ → NH₄CNO(aq) + PbCl₂; NH₄CNO →(তাপ) H₂N–CO–NH₂।",
+   "notes_en": "Urea is the diamide of carbonic acid: H₂N–CO–NH₂. Formed in protein metabolism and excreted via kidneys in urine.\nNow made industrially; used as nitrogen fertiliser.\nIn 1828 Wöhler obtained urea by evaporating ammonium cyanate (NH₄CNO) solution (inorganic to organic).\nNH₄CNO → (heat) H₂N–CO–NH₂.",
+   "mcqs": [
+    {
+     "question_bn": "ইউরিয়ার সংকেত কোনটি?",
+     "question_en": "Formula of urea:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂N–CO–NH₂",
+       "en": "H₂N–CO–NH₂"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃CONH₂",
+       "en": "CH₃CONH₂"
+      },
+      {
+       "id": "c",
+       "bn": "NH₄CNO",
+       "en": "NH₄CNO"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃NH₂",
+       "en": "CH₃NH₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কার্বামাইড H₂N–CO–NH₂।",
+     "explanation_en": "Carbamide is H₂N–CO–NH₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "উহলার কোন যৌগ উত্তপ্ত করে ইউরিয়া পান?",
+     "question_en": "Wöhler heated which compound to get urea?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামোনিয়াম সায়ানেট",
+       "en": "Ammonium cyanate"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামোনিয়াম ক্লোরাইড",
+       "en": "Ammonium chloride"
+      },
+      {
+       "id": "c",
+       "bn": "লেড সায়ানেট",
+       "en": "Lead cyanate"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানামাইড",
+       "en": "Ethanamide"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH₄CNO-এর পুনর্বিন্যাসে ইউরিয়া।",
+     "explanation_en": "NH₄CNO rearranges to urea.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উহলারের পরীক্ষা কেন গুরুত্বপূর্ণ?",
+     "question_en": "Why was Wöhler's experiment significant?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অজৈব যৌগ থেকে জৈব যৌগ তৈরি হয়েছিল",
+       "en": "Organic compound made from inorganic one"
+      },
+      {
+       "id": "b",
+       "bn": "প্রথম পলিমার তৈরি",
+       "en": "First polymer made"
+      },
+      {
+       "id": "c",
+       "bn": "প্রথম এস্টার",
+       "en": "First ester"
+      },
+      {
+       "id": "d",
+       "bn": "প্রথম সাবান",
+       "en": "First soap"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে অজৈব NH₄CNO থেকে জৈব ইউরিয়া তৈরির কথা আছে।",
+     "explanation_en": "Inorganic NH₄CNO gave organic urea.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উহলার NH₄CNO দ্রবণ প্রস্তুত করেছিলেন কীভাবে?",
+     "question_en": "How did Wöhler prepare NH₄CNO solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লেড সায়ানেট দ্রবণে NH₄Cl যোগ করে",
+       "en": "Adding NH₄Cl to lead cyanate solution"
+      },
+      {
+       "id": "b",
+       "bn": "ইউরিয়া বিয়োজিত করে",
+       "en": "Decomposing urea"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইডে Br₂ যোগ করে",
+       "en": "Br₂ with an amide"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH ও CO₂ দ্বারা",
+       "en": "NaOH and CO₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH₄Cl + Pb(CNO)₂ → NH₄CNO + PbCl₂ (অধঃক্ষেপ)।",
+     "explanation_en": "NH₄Cl + Pb(CNO)₂ → NH₄CNO + PbCl₂ precipitate.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.39",
+   "title_bn": "ইউরিয়ার শিল্পোৎপাদন",
+   "title_en": "Industrial production of urea",
+   "notes_bn": "তরল CO₂ ও NH₃ মিশ্রণ উচ্চ চাপে (200 atm), 130–150°C-এ উত্তপ্ত।\nধাপ: CO₂ + 2NH₃ → H₂N–COONH₄ (অ্যামোনিয়াম কার্বামেট) → H₂N–CO–NH₂ + H₂O।\nব্যবহার: কৃষিজমিতে সার; মাটিতে ধীরে ধীরে NH₃ ও CO₂-তে বিয়োজিত হয়।\nইউরিয়া-ফরম্যালডিহাইড রেজিন: nHCHO + nH₂N–CO–NH₂ → (–CH₂–NHCONH–)ₙ + nH₂O; প্লাস্টিক তৈরিতে।\nওষুধ (বারবিচুরেট জাতীয় ঘুমের ওষুধ) তৈরিতে; মেলামাইন–মিথানাল পলিমার (মেলাডুর)।",
+   "notes_en": "Liquid CO₂ and NH₃ are heated at high pressure (200 atm), 130–150°C.\nCO₂ + 2NH₃ → H₂N–COONH₄ (ammonium carbamate) → H₂N–CO–NH₂ + H₂O.\nUse: fertiliser; in soil it slowly decomposes to NH₃ and CO₂.\nUrea–formaldehyde resin: nHCHO + nH₂N–CO–NH₂ → (–CH₂–NHCONH–)ₙ + nH₂O; plastics.\nAlso used for barbiturate sleeping drugs; melamine–methanal polymer (Meladur).",
+   "mcqs": [
+    {
+     "question_bn": "ইউরিয়ার শিল্পোৎপাদনে কোন দুটি পদার্থ ব্যবহৃত হয়?",
+     "question_en": "Raw materials of industrial urea:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO₂ ও NH₃",
+       "en": "CO₂ and NH₃"
+      },
+      {
+       "id": "b",
+       "bn": "N₂ ও O₂",
+       "en": "N₂ and O₂"
+      },
+      {
+       "id": "c",
+       "bn": "HCHO ও ফেনল",
+       "en": "HCHO and phenol"
+      },
+      {
+       "id": "d",
+       "bn": "H₂ ও Cl₂",
+       "en": "H₂ and Cl₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তরল CO₂ ও NH₃ বিক্রিয়া করে।",
+     "explanation_en": "Liquid CO₂ and NH₃ react.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইউরিয়া উৎপাদনের মধ্যবর্তী যৌগ কোনটি?",
+     "question_en": "Intermediate in urea manufacture:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামোনিয়াম কার্বামেট",
+       "en": "Ammonium carbamate"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামোনিয়াম ক্লোরাইড",
+       "en": "Ammonium chloride"
+      },
+      {
+       "id": "c",
+       "bn": "মিথানাল",
+       "en": "Methanal"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামোনিয়াম সায়ানেট",
+       "en": "Ammonium cyanate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CO₂ + 2NH₃ → H₂N–COONH₄।",
+     "explanation_en": "CO₂ + 2NH₃ → H₂NCOONH₄.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইউরিয়া উৎপাদনের শর্ত কোনটি?",
+     "question_en": "Conditions for industrial urea:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "130–150°C, 200 atm",
+       "en": "130–150°C, 200 atm"
+      },
+      {
+       "id": "b",
+       "bn": "25°C, 1 atm",
+       "en": "25°C, 1 atm"
+      },
+      {
+       "id": "c",
+       "bn": "500°C, 1 atm",
+       "en": "500°C, 1 atm"
+      },
+      {
+       "id": "d",
+       "bn": "0°C, 10 atm",
+       "en": "0°C, 10 atm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে উচ্চ চাপ (200 atm) ও 130–150°C উল্লেখিত।",
+     "explanation_en": "Book gives 200 atm and 130–150°C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইউরিয়া-ফরম্যালডিহাইড রেজিন গঠনে কী অপসারিত হয়?",
+     "question_en": "What is eliminated forming urea–formaldehyde resin?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "b",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "c",
+       "bn": "NH₃",
+       "en": "NH₃"
+      },
+      {
+       "id": "d",
+       "bn": "CO₂",
+       "en": "CO₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "nHCHO + nH₂NCONH₂ → polymer + nH₂O।",
+     "explanation_en": "Condensation loses H₂O.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "9.30",
+   "stimulus_bn": "একজন ছাত্র নারিকেল তেলের সাথে NaOH দ্রবণ মিশিয়ে উত্তপ্ত করে সাবান তৈরি করল এবং সাবান পানিতে গুলে একটি তেলমাখা কাপড় ধুলো।",
+   "stimulus_en": "A student heated coconut oil with NaOH solution to make soap, then used it in water to wash an oily cloth.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "স্যাপনিফিকেশন কী?",
+     "question_en": "What is saponification?",
+     "model_answer_bn": "তেল/চর্বিকে NaOH বা KOH দ্বারা আর্দ্র বিশ্লেষণ করে সাবান ও গ্লিসারল উৎপাদনের পদ্ধতি।",
+     "model_answer_en": "Alkaline hydrolysis of oil/fat with NaOH or KOH giving soap and glycerol."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "সাবানের লেজ ও মাথা ব্যাখ্যা করো।",
+     "question_en": "Explain the tail and head of soap.",
+     "model_answer_bn": "লেজ দীর্ঘ হাইড্রোকার্বন শিকল (হাইড্রোফোবিক, তেলে দ্রবণীয়); মাথা –COO⁻Na⁺ (হাইড্রোফিলিক, পানিতে দ্রবণীয়)।",
+     "model_answer_en": "Tail: long hydrocarbon chain (hydrophobic, oil-soluble); head: –COO⁻Na⁺ (hydrophilic, water-soluble)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "উপরের বিক্রিয়ার সমীকরণ লেখো (গ্লিসারাইল স্টিয়ারেট ব্যবহার করো)।",
+     "question_en": "Write the equation for the reaction using glyceryl tristearate.",
+     "model_answer_bn": "(C₁₇H₃₅COO)₃C₃H₅ + 3NaOH →(Δ) C₃H₅(OH)₃ + 3C₁₇H₃₅COONa।",
+     "model_answer_en": "(C₁₇H₃₅COO)₃C₃H₅ + 3NaOH →(heat) C₃H₅(OH)₃ + 3C₁₇H₃₅COONa."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "সাবান কীভাবে তেলমাখা কাপড় পরিষ্কার করে বিশ্লেষণ করো।",
+     "question_en": "Analyse how soap cleans the oily cloth.",
+     "model_answer_bn": "সাবানের লেজ তেলের কণায় ঢুকে যায়, মাথা পানিতে থাকে; তেলের কণা সাবানের আয়নে ঘেরা ঋণাত্মক চার্জযুক্ত হয়ে পরস্পরকে বিকর্ষণ করে ও ইমালসন তৈরি করে; ফলে সূতা থেকে আলাদা হয়ে পানিতে ভেসে যায়।",
+     "model_answer_en": "The tails enter oil droplets while heads stay in water; droplets acquire negative charge, repel each other and form an emulsion, so they leave the fabric and wash away."
+    }
+   ]
+  },
+  {
+   "topic_section": "9.36",
+   "stimulus_bn": "A যৌগ হলো ইথানামাইড। এটিকে Br₂ ও NaOH দ্রবণসহ উত্তপ্ত করে B যৌগ এবং P₂O₅ সহ উত্তপ্ত করে C যৌগ পাওয়া গেল।",
+   "stimulus_en": "Compound A is ethanamide. Heating it with Br₂/NaOH gives B, and heating with P₂O₅ gives C.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "হফম্যান ডিগ্রেডেশন কী?",
+     "question_en": "What is Hofmann degradation?",
+     "model_answer_bn": "অ্যামাইডকে Br₂ ও ক্ষারসহ উত্তপ্ত করে একটি কার্বন কম প্রাইমারি অ্যামিন পাওয়ার বিক্রিয়া।",
+     "model_answer_en": "Conversion of an amide with Br₂/alkali into a primary amine with one carbon less."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "B ও C-এর নাম লেখো।",
+     "question_en": "Name B and C.",
+     "model_answer_bn": "B মিথাইল অ্যামিন (CH₃NH₂), C ইথেন নাইট্রাইল (CH₃CN)।",
+     "model_answer_en": "B is methylamine; C is ethane nitrile (CH₃CN)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "B গঠনের সমীকরণ লেখো।",
+     "question_en": "Write the equation forming B.",
+     "model_answer_bn": "CH₃CONH₂ + Br₂ + 4NaOH → CH₃NH₂ + 2NaBr + Na₂CO₃ + 2H₂O।",
+     "model_answer_en": "CH₃CONH₂ + Br₂ + 4NaOH → CH₃NH₂ + 2NaBr + Na₂CO₃ + 2H₂O."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "A দুর্বল ক্ষারক, কিন্তু B তুলনামূলক শক্তিশালী ক্ষারক — ব্যাখ্যা করো।",
+     "question_en": "A is a weak base while B is stronger; explain.",
+     "model_answer_bn": "A-তে N-এর নিঃসঙ্গ ইলেকট্রন যুগল C=O-এর দিকে সঞ্চরিত হয়ে N-এ আংশিক ধনাত্মক চার্জ আনে, প্রোটন গ্রহণ ক্ষমতা কমে। B-তে কার্বনিল নেই, তাই N-এর ইলেকট্রন যুগল মুক্ত থাকে।",
+     "model_answer_en": "In A the N lone pair is delocalised toward C=O, giving N partial positive charge and reducing proton acceptance. B has no carbonyl so its lone pair stays available."
+    }
+   ]
+  },
+  {
+   "topic_section": "9.37",
+   "stimulus_bn": "একটি কারখানা হেক্সামিথিলিন ডাইঅ্যামিন ও অ্যাডিপিক এসিড থেকে তন্তু এবং ইউরিয়া ও মিথানাল থেকে প্লাস্টিক তৈরি করে।",
+   "stimulus_en": "A factory makes fibre from hexamethylenediamine and adipic acid, and plastic from urea and methanal.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "পলিঅ্যামাইড কাকে বলে?",
+     "question_en": "What is a polyamide?",
+     "model_answer_bn": "একাধিক –CONH– মূলকযুক্ত পলিমারকে পলিঅ্যামাইড বলে।",
+     "model_answer_en": "A polymer containing many –CONH– links."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "নাইলন-6:6 নামের '6:6' কী নির্দেশ করে?",
+     "question_en": "What does '6:6' in nylon-6:6 indicate?",
+     "model_answer_bn": "ডাইঅ্যামিন ও ডাইকার্বক্সিলিক এসিড উভয়েই ৬টি করে কার্বন পরমাণু আছে।",
+     "model_answer_en": "Both the diamine and the diacid contain six carbon atoms."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "নাইলন-6:6 গঠনের ঘনীভবন সমীকরণ লেখো।",
+     "question_en": "Write the condensation equation for nylon-6:6.",
+     "model_answer_bn": "n H₂N(CH₂)₆NH₂ + n HOOC(CH₂)₄COOH → [–NH(CH₂)₆NHCO(CH₂)₄CO–]ₙ + 2n H₂O।",
+     "model_answer_en": "n H₂N(CH₂)₆NH₂ + n HOOC(CH₂)₄COOH → [–NH(CH₂)₆NHCO(CH₂)₄CO–]ₙ + 2n H₂O."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ইউরিয়া-ফরম্যালডিহাইড রেজিন গঠন বিক্রিয়াটি লেখো এবং এর সাথে নাইলন গঠনের মিল বিশ্লেষণ করো।",
+     "question_en": "Write the urea–formaldehyde resin reaction and compare it with nylon formation.",
+     "model_answer_bn": "nHCHO + nH₂NCONH₂ → (–CH₂–NHCONH–)ₙ + nH₂O। উভয়ই ঘনীভবন পলিমারকরণ, যেখানে ছোট অণু (পানি) অপসারিত হয় এবং অ্যামাইড-জাতীয় বন্ধন যুক্ত পলিমার গঠিত হয়।",
+     "model_answer_en": "nHCHO + nH₂NCONH₂ → (–CH₂–NHCONH–)ₙ + nH₂O. Both are condensation polymerisations that expel a small molecule (water) and give amide-type linked polymers."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 532-545 readable. Page 545 (printed 530) and 544 (529) contain nitrile sections 9.40-9.42, outside assigned sections, not covered. Printed page 517 content before 9.27 not assigned."
+}

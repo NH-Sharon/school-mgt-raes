@@ -1,0 +1,2005 @@
+{
+ "chapter_no": 7,
+ "topics": [
+  {
+   "section_no": "7.1",
+   "title_bn": "ভূমিকা",
+   "title_en": "Introduction to alcohols",
+   "notes_bn": "অ্যালিফেটিক হাইড্রোকার্বনের সম্পৃক্ত C-এর একটি H কে –OH মূলক দিয়ে প্রতিস্থাপন করলে অ্যালকোহল পাওয়া যায়।\nঅ্যালকোহল = মুক্ত শিকল হাইড্রোকার্বনের স্থায়ী হাইড্রক্সি জাতক; যেমন CH₃OH (মিথানল), CH₃CH₂OH (ইথানল)।\nমনোহাইড্রিক অ্যালকোহলের সাধারণ সংকেত CnH2n+1OH বা R–OH।\nসম্পৃক্ত পলিহাইড্রিক অ্যালকোহলের সংকেত CnH2n+2–x(OH)x।\n–OH যুক্ত সম্পৃক্ত কার্বন হল কার্যকরী কার্বন।\nঅ্যারোমেটিক বলয়ের পার্শ্বশিকলে –OH থাকলে তা অ্যারাইল অ্যালকোহল; যেমন C₆H₅CH₂OH (ফিনাইল মিথানল/বেনজাইল অ্যালকোহল)।",
+   "notes_en": "Replacing one H on a saturated C of an aliphatic hydrocarbon by –OH gives an alcohol (stable hydroxy derivative of open-chain hydrocarbons), e.g. CH3OH, CH3CH2OH.\nMonohydric alcohol: CnH2n+1OH or R–OH; saturated polyhydric: CnH2n+2–x(OH)x.\nThe –OH-bearing saturated carbon is the functional carbon.\nIf –OH is on a side chain of an aromatic ring it is an aromatic (aryl) alcohol, e.g. benzyl alcohol, 2-phenylethanol.",
+   "mcqs": [
+    {
+     "question_bn": "মনোহাইড্রিক অ্যালকোহলের সাধারণ সংকেত কোনটি?",
+     "question_en": "What is the general formula of a monohydric alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CnH2nOH",
+       "en": "CnH2nOH"
+      },
+      {
+       "id": "b",
+       "bn": "CnH2n+1OH",
+       "en": "CnH2n+1OH"
+      },
+      {
+       "id": "c",
+       "bn": "CnH2n+2OH2",
+       "en": "CnH2n+2OH2"
+      },
+      {
+       "id": "d",
+       "bn": "CnH2n–1OH",
+       "en": "CnH2n–1OH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মনোহাইড্রিক অ্যালকোহল CnH2n+1OH বা R–OH।",
+     "explanation_en": "Monohydric alcohols are CnH2n+1OH or R–OH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি অ্যালকোহল?",
+     "question_en": "Which compound is an alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃OCH₃",
+       "en": "CH₃OCH₃"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃CH₂OH",
+       "en": "CH₃CH₂OH"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃CHO",
+       "en": "CH₃CHO"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃COOH",
+       "en": "CH₃COOH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সম্পৃক্ত কার্বনে –OH যুক্ত যৌগ অ্যালকোহল; CH₃CH₂OH ইথানল।",
+     "explanation_en": "An alcohol has –OH on a saturated carbon: CH3CH2OH is ethanol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি অ্যারাইল (অ্যারোমেটিক) অ্যালকোহল?",
+     "question_en": "Which is an aryl (aromatic) alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₆H₅OH",
+       "en": "C₆H₅OH"
+      },
+      {
+       "id": "b",
+       "bn": "C₆H₅CH₂OH",
+       "en": "C₆H₅CH₂OH"
+      },
+      {
+       "id": "c",
+       "bn": "C₆H₁₁OH",
+       "en": "C₆H₁₁OH"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃OH",
+       "en": "CH₃OH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পার্শ্বশিকলে –OH থাকায় C₆H₅CH₂OH (বেনজাইল অ্যালকোহল) অ্যারাইল অ্যালকোহল; C₆H₅OH ফেনল।",
+     "explanation_en": "–OH on the side chain makes C6H5CH2OH benzyl alcohol; C6H5OH is phenol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পলিহাইড্রিক সম্পৃক্ত অ্যালকোহলে x সংখ্যক –OH থাকলে সংকেত কোনটি?",
+     "question_en": "A saturated polyhydric alcohol with x –OH groups has the formula:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CnH2n+1(OH)x",
+       "en": "CnH2n+1(OH)x"
+      },
+      {
+       "id": "b",
+       "bn": "CnH2n+2–x(OH)x",
+       "en": "CnH2n+2–x(OH)x"
+      },
+      {
+       "id": "c",
+       "bn": "CnH2n–x(OH)x",
+       "en": "CnH2n–x(OH)x"
+      },
+      {
+       "id": "d",
+       "bn": "CnH2n+2+x(OH)x",
+       "en": "CnH2n+2+x(OH)x"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "x টি H প্রতিস্থাপিত হলে অবশিষ্ট H = 2n+2–x।",
+     "explanation_en": "With x H replaced by OH, remaining H = 2n+2–x.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.2",
+   "title_bn": "অ্যালকোহলের নামকরণ",
+   "title_en": "Nomenclature of alcohols",
+   "notes_bn": "সাধারণ পদ্ধতি: অ্যালকাইল মূলক + 'অ্যালকোহল' (n-, iso-, sec-, tert- উপসর্গ); যেমন iso-প্রোপাইল অ্যালকোহল, ইথিলিন গ্লাইকল, গ্লিসারিন।\nউদ্ভূত পদ্ধতি: –OH যুক্ত কার্বনকে কার্বিনল ধরা হয়; যেমন CH₃CH₂OH = মিথাইল কার্বিনল, (CH₃)₂CHOH = ডাইমিথাইল কার্বিনল, (CH₃)₃COH = ট্রাইমিথাইল কার্বিনল।\nIUPAC: দীর্ঘতম শিকল যাতে –OH আছে; অ্যালকেনের 'e' এর স্থলে 'ol' = অ্যালকানল; –OH এর অবস্থান ক্ষুদ্রতম সংখ্যায়।\nদ্বিবন্ধন/ত্রিবন্ধনে অ্যালকিনল (–ene+ol), অ্যালকাইনল; একাধিক –OH হলে ডাইঅল, ট্রাইঅল।\nR–O– মূলক অ্যালকোক্সি; CH₃O– মিথোক্সি, C₂H₅O– ইথোক্সি।",
+   "notes_en": "Common: alkyl group + 'alcohol' (n-, iso-, sec-, tert-); e.g. isopropyl alcohol, ethylene glycol, glycerol.\nDerived: carbon bearing –OH is 'carbinol': CH3CH2OH methyl carbinol, (CH3)2CHOH dimethyl carbinol, (CH3)3COH trimethyl carbinol.\nIUPAC: longest chain with –OH; alkane –e + ol = alkanol; lowest locant for –OH; alkenol/alkynol for C=C/C≡C; diol/triol for 2/3 –OH.\nR–O– is alkoxy: methoxy, ethoxy.",
+   "mcqs": [
+    {
+     "question_bn": "(CH₃)₃C–OH এর উদ্ভূত পদ্ধতির নাম কী?",
+     "question_en": "Derived-system name of (CH3)3C–OH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথাইল কার্বিনল",
+       "en": "মিথাইল কার্বিনল"
+      },
+      {
+       "id": "b",
+       "bn": "ডাইমিথাইল কার্বিনল",
+       "en": "ডাইমিথাইল কার্বিনল"
+      },
+      {
+       "id": "c",
+       "bn": "ট্রাইমিথাইল কার্বিনল",
+       "en": "ট্রাইমিথাইল কার্বিনল"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল কার্বিনল",
+       "en": "ইথাইল কার্বিনল"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "কার্বিনল কার্বনে তিনটি মিথাইল যুক্ত।",
+     "explanation_en": "Three methyl groups on the carbinol carbon.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH₃–CH(OH)–CH₃ এর IUPAC নাম কী?",
+     "question_en": "IUPAC name of CH3–CH(OH)–CH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানল-1",
+       "en": "প্রোপানল-1"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপানল-2",
+       "en": "প্রোপানল-2"
+      },
+      {
+       "id": "c",
+       "bn": "মিথাইল ইথানল",
+       "en": "মিথাইল ইথানল"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপানোন",
+       "en": "প্রোপানোন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "–OH দ্বিতীয় কার্বনে, তাই 2-প্রোপানল।",
+     "explanation_en": "–OH on C-2: propan-2-ol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH₃–CH(CH₃)–CH₂–CH₂OH এর IUPAC নাম কী?",
+     "question_en": "IUPAC name of CH3–CH(CH3)–CH2–CH2OH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2-মিথাইল বিউটানল-4",
+       "en": "2-মিথাইল বিউটানল-4"
+      },
+      {
+       "id": "b",
+       "bn": "3-মিথাইল বিউটানল-1",
+       "en": "3-মিথাইল বিউটানল-1"
+      },
+      {
+       "id": "c",
+       "bn": "2-মিথাইল বিউটানল-1",
+       "en": "2-মিথাইল বিউটানল-1"
+      },
+      {
+       "id": "d",
+       "bn": "পেন্টানল-1",
+       "en": "পেন্টানল-1"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "–OH যুক্ত কার্বন থেকে গুনলে C-1 = CH₂OH, মিথাইল C-3 তে: 3-মিথাইল বিউটানল-1।",
+     "explanation_en": "Numbering from the –OH carbon puts the methyl on C-3: 3-methylbutan-1-ol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HO–CH₂–CH₂–OH এর IUPAC নাম কী?",
+     "question_en": "IUPAC name of HO–CH2–CH2–OH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "b",
+       "bn": "ইথেন-1,2-ডাইঅল",
+       "en": "ইথেন-1,2-ডাইঅল"
+      },
+      {
+       "id": "c",
+       "bn": "ইথেন-ট্রাইঅল",
+       "en": "ইথেন-ট্রাইঅল"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিন-ডাইঅল",
+       "en": "ইথিন-ডাইঅল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুটি –OH যুক্ত ইথেন = ইথেন-1,2-ডাইঅল (ইথিলিন গ্লাইকল)।",
+     "explanation_en": "Ethane with two –OH on C-1 and C-2 = ethane-1,2-diol (ethylene glycol).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.3",
+   "title_bn": "অ্যালকোহলের শ্রেণীবিভাগ",
+   "title_en": "Classification of alcohols",
+   "notes_bn": "–OH সংখ্যা অনুযায়ী: মনোহাইড্রিক (১টি), পলিহাইড্রিক (ডাইঅল, ট্রাইঅল, টেট্রাঅল ইত্যাদি)।\nমনোহাইড্রিক: 1° (–CH₂OH; –OH কার্বনে ২টি H), 2° (>CHOH; ১টি H), 3° (≡C–OH; H নেই, ৩টি অ্যালকাইল)।\nউদাহরণ: ইথানল 1°; প্রোপানল-2 ও বিউটানল-2 2°; 2-মিথাইল প্রোপানল-2 3°। মিথানল (CH₃OH) –OH কার্বনে ৩টি H থাকে, বইয়ে 1° ধরা হয়।\nপলিহাইড্রিক: ইথিলিন গ্লাইকল (1,2-ডাইঅল), গ্লিসারল (1,2,3-ট্রাইঅল), সরবিটল (হেক্সাঅল)।\nগ্লিসারল, সরবিটল ময়েশ্চারাইজিং ক্রিমে ব্যবহৃত—এরা –OH দিয়ে হাইড্রোজেন বন্ধনে বায়ু থেকে পানি ধরে রাখে।",
+   "notes_en": "By number of –OH: monohydric vs polyhydric (diol, triol, tetraol…).\nMonohydric: 1° (–CH2OH), 2° (>CHOH, one H on the carbinol C), 3° (no H on carbinol C, three alkyl groups).\nEthanol is 1°; propan-2-ol, butan-2-ol 2°; 2-methylpropan-2-ol 3°.\nPolyhydric: ethylene glycol, glycerol (propane-1,2,3-triol), sorbitol (hexol).\nGlycerol and sorbitol are used in moisturising creams; –OH groups hydrogen-bond water from air.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি 2° অ্যালকোহল?",
+     "question_en": "Which is a secondary alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপানল-1",
+       "en": "প্রোপানল-1"
+      },
+      {
+       "id": "c",
+       "bn": "বিউটানল-2",
+       "en": "বিউটানল-2"
+      },
+      {
+       "id": "d",
+       "bn": "2-মিথাইল প্রোপানল-2",
+       "en": "2-মিথাইল প্রোপানল-2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বিউটানল-2 এ –OH যুক্ত C-এ ১টি H ও দুটি অ্যালকাইল।",
+     "explanation_en": "In butan-2-ol the carbinol C has one H and two alkyl groups.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গ্লিসারলে –OH মূলকের সংখ্যা কত?",
+     "question_en": "How many –OH groups does glycerol have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "১"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "২"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "৩"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "৪"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "গ্লিসারল = প্রোপেন-1,2,3-ট্রাইঅল।",
+     "explanation_en": "Glycerol is propane-1,2,3-triol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "3° অ্যালকোহলের –OH যুক্ত কার্বনে কয়টি H পরমাণু থাকে?",
+     "question_en": "How many H atoms are on the carbinol carbon of a 3° alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "০",
+       "en": "০"
+      },
+      {
+       "id": "b",
+       "bn": "১",
+       "en": "১"
+      },
+      {
+       "id": "c",
+       "bn": "২",
+       "en": "২"
+      },
+      {
+       "id": "d",
+       "bn": "৩",
+       "en": "৩"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "3° অ্যালকোহলে –OH যুক্ত C-এ তিনটি অ্যালকাইল, H নেই।",
+     "explanation_en": "A 3° alcohol has three alkyl groups and no H on that carbon.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি ট্রাইঅল এবং ময়েশ্চারাইজিং ক্রিমে ব্যবহৃত হয়?",
+     "question_en": "Which is a triol used in moisturising cream?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিলিন গ্লাইকল",
+       "en": "ইথিলিন গ্লাইকল"
+      },
+      {
+       "id": "b",
+       "bn": "সরবিটল",
+       "en": "সরবিটল"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লিসারল",
+       "en": "গ্লিসারল"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানল",
+       "en": "মিথানল"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "গ্লিসারল ট্রাইঅল; ইথিলিন গ্লাইকল ডাইঅল, সরবিটল হেক্সাঅল।",
+     "explanation_en": "Glycerol is the triol; ethylene glycol is a diol, sorbitol a hexol.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.4",
+   "title_bn": "অ্যালকোহলের সমাণুতা",
+   "title_en": "Isomerism of alcohols",
+   "notes_bn": "অবস্থান সমাণুতা: –OH এর অবস্থান ভিন্ন; C₃H₇OH → প্রোপানল-1 ও প্রোপানল-2।\nচেইন সমাণুতা: কার্বন শিকলের ভিন্নতা; C₅H₁₁OH → পেন্টানল-1 ও 2-মিথাইল বিউটানল-1 ইত্যাদি।\nকার্যকরী মূলক সমাণুতা: অ্যালকোহল ও ইথার; C₂H₆O → CH₃CH₂OH (ইথানল) ও CH₃OCH₃ (ডাইমিথাইল ইথার)।\n2-মিথাইল বিউটানল-1 এ কাইরাল কেন্দ্র (*) আছে, তাই আলোক সক্রিয়।",
+   "notes_en": "Position isomerism: C3H7OH → propan-1-ol and propan-2-ol.\nChain isomerism: C5H11OH → pentan-1-ol and 2-methylbutan-1-ol, etc.\nFunctional-group isomerism with ethers: C2H6O → ethanol and dimethyl ether.\n2-Methylbutan-1-ol has a chiral centre (*), so it is optically active.",
+   "mcqs": [
+    {
+     "question_bn": "C₂H₅OH এর কার্যকরী মূলক সমাণু কোনটি?",
+     "question_en": "Functional isomer of C2H5OH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃CHO",
+       "en": "CH₃CHO"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃OCH₃",
+       "en": "CH₃OCH₃"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃COOH",
+       "en": "CH₃COOH"
+      },
+      {
+       "id": "d",
+       "bn": "C₂H₆",
+       "en": "C₂H₆"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C₂H₆O আণবিক সংকেতে ইথানল ও ডাইমিথাইল ইথার।",
+     "explanation_en": "Ethanol and dimethyl ether are both C2H6O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রোপানল-1 ও প্রোপানল-2 কোন ধরনের সমাণু?",
+     "question_en": "Propan-1-ol and propan-2-ol are what kind of isomers?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চেইন",
+       "en": "চেইন"
+      },
+      {
+       "id": "b",
+       "bn": "অবস্থান",
+       "en": "অবস্থান"
+      },
+      {
+       "id": "c",
+       "bn": "কার্যকরী মূলক",
+       "en": "কার্যকরী মূলক"
+      },
+      {
+       "id": "d",
+       "bn": "জ্যামিতিক",
+       "en": "জ্যামিতিক"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "–OH এর অবস্থান ভিন্ন।",
+     "explanation_en": "Only the –OH position differs.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "C₄H₉OH এর মোট কয়টি অ্যালকোহল সমাণু সম্ভব?",
+     "question_en": "How many alcohol isomers are possible for C4H9OH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "২",
+       "en": "২"
+      },
+      {
+       "id": "b",
+       "bn": "৩",
+       "en": "৩"
+      },
+      {
+       "id": "c",
+       "bn": "৪",
+       "en": "৪"
+      },
+      {
+       "id": "d",
+       "bn": "৫",
+       "en": "৫"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বিউটানল-1, বিউটানল-2, 2-মিথাইল প্রোপানল-1 ও 2-মিথাইল প্রোপানল-2 = ৪টি (বিউটিল কঙ্কাল ৪ ধরনের)।",
+     "explanation_en": "Butan-1-ol, butan-2-ol, 2-methylpropan-1-ol, 2-methylpropan-2-ol = 4 (standard count, derived by enumeration).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি আলোক সক্রিয়?",
+     "question_en": "Which is optically active?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানল-2",
+       "en": "প্রোপানল-2"
+      },
+      {
+       "id": "b",
+       "bn": "2-মিথাইল বিউটানল-1",
+       "en": "2-মিথাইল বিউটানল-1"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "d",
+       "bn": "2-মিথাইল প্রোপানল-2",
+       "en": "2-মিথাইল প্রোপানল-2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH₃CH₂–*CH(CH₃)–CH₂OH এ চারটি ভিন্ন মূলকযুক্ত কাইরাল C আছে।",
+     "explanation_en": "It has a carbon bonded to four different groups (chiral centre).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.5",
+   "title_bn": "অ্যালকোহলের পরীক্ষাগারে সাধারণ প্রস্তুত প্রণালী",
+   "title_en": "Laboratory preparation of alcohols",
+   "notes_bn": "RX → ROH: জলীয় NaOH/KOH সহ উত্তপ্ত করে আর্দ্র বিশ্লেষণ; RX সক্রিয়তা R–I > R–Br > R–Cl। 2°/3° RX থেকে অ্যালকিনও উৎপন্ন হয়।\n3° RX (যেমন 2-ক্লোরো-2-মিথাইল প্রোপেন) 85% জলীয় ইথানল দ্বারা আর্দ্র বিশ্লেষিত হয়; ক্ষার লাগে না, H₂O নিউক্লিওফাইল।\nগ্রিগনার্ড বিকারক (RX + Mg, শুষ্ক ইথার): HCHO → 1°; অন্য অ্যালডিহাইড → 2°; কিটোন → 3° অ্যালকোহল (যুত যৌগের আর্দ্র বিশ্লেষণ)।\nঅ্যালকিন + গাঢ় H₂SO₄ → অ্যালকাইল হাইড্রোজেন সালফেট; পানিসহ উত্তপ্ত করলে অ্যালকোহল (পানি সংযোজন)।\nবিজারণ: অ্যালডিহাইড → 1°, কিটোন → 2° (H₂/Ni,Pt,Pd বা LiAlH₄); কার্বক্সিলিক এসিড + LiAlH₄ (শুষ্ক ইথার) → 1° অ্যালকোহল।",
+   "notes_en": "RX → ROH by hydrolysis with aqueous NaOH/KOH on heating; reactivity R–I > R–Br > R–Cl; 2°/3° halides also give alkenes.\n3° halides hydrolyse in 85% aqueous ethanol with water as nucleophile (no alkali).\nGrignard reagent (RX + Mg, dry ether): HCHO → 1°; other aldehydes → 2°; ketones → 3° alcohol after hydrolysis.\nAlkene + conc. H2SO4 → alkyl hydrogen sulfate, then warm with water → alcohol.\nReduction: aldehyde → 1°, ketone → 2° (H2/Pt or LiAlH4); carboxylic acid + LiAlH4 in ether → 1° alcohol.",
+   "mcqs": [
+    {
+     "question_bn": "গ্রিগনার্ড বিকারক ও ফরম্যালডিহাইডের যুত যৌগ আর্দ্র বিশ্লেষিত হলে কোন অ্যালকোহল পাওয়া যায়?",
+     "question_en": "Hydrolysis of the Grignard–formaldehyde adduct gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1° অ্যালকোহল",
+       "en": "1° অ্যালকোহল"
+      },
+      {
+       "id": "b",
+       "bn": "2° অ্যালকোহল",
+       "en": "2° অ্যালকোহল"
+      },
+      {
+       "id": "c",
+       "bn": "3° অ্যালকোহল",
+       "en": "3° অ্যালকোহল"
+      },
+      {
+       "id": "d",
+       "bn": "ফেনল",
+       "en": "ফেনল"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফরম্যালডিহাইড থেকে 1° অ্যালকোহল পাওয়া যায়।",
+     "explanation_en": "Formaldehyde gives a 1° alcohol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কিটোনকে LiAlH₄ দ্বারা বিজারিত করলে কী উৎপন্ন হয়?",
+     "question_en": "Reduction of a ketone with LiAlH4 gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1° অ্যালকোহল",
+       "en": "1° অ্যালকোহল"
+      },
+      {
+       "id": "b",
+       "bn": "2° অ্যালকোহল",
+       "en": "2° অ্যালকোহল"
+      },
+      {
+       "id": "c",
+       "bn": "3° অ্যালকোহল",
+       "en": "3° অ্যালকোহল"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বক্সিলিক এসিড",
+       "en": "কার্বক্সিলিক এসিড"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কিটোন → 2° অ্যালকোহল।",
+     "explanation_en": "Ketone → 2° alcohol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH₃MgBr + ডাইমিথাইল কিটোন (প্রোপানোন), অতঃপর H₂O — উৎপাদ কোনটি?",
+     "question_en": "CH3MgBr + propanone, then H2O gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানল-2",
+       "en": "প্রোপানল-2"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "c",
+       "bn": "2-মিথাইল-2-প্রোপানল",
+       "en": "2-মিথাইল-2-প্রোপানল"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটানল-1",
+       "en": "বিউটানল-1"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "কিটোন + RMgX → 3° অ্যালকোহল: (CH₃)₃COH।",
+     "explanation_en": "Ketone + RMgX → 3° alcohol, (CH3)3COH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "RX এর আর্দ্র বিশ্লেষণে অ্যালকোহল উৎপাদন সর্বাধিক সহজ কোনটিতে?",
+     "question_en": "Hydrolysis of which halide to alcohol is fastest?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "R–Cl",
+       "en": "R–Cl"
+      },
+      {
+       "id": "b",
+       "bn": "R–Br",
+       "en": "R–Br"
+      },
+      {
+       "id": "c",
+       "bn": "R–I",
+       "en": "R–I"
+      },
+      {
+       "id": "d",
+       "bn": "R–F",
+       "en": "R–F"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সক্রিয়তা R–I > R–Br > R–Cl।",
+     "explanation_en": "Reactivity order R–I > R–Br > R–Cl.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.6",
+   "title_bn": "মিথাইল অ্যালকোহল বা মিথানল (CH₃OH) এর শিল্পোৎপাদন",
+   "title_en": "Industrial production of methanol",
+   "notes_bn": "প্রাকৃতিক গ্যাস (95% CH₄): CH₄ ও O₂ মিশ্রণ 100 atm, 250°C, Cu নলে → 2CH₄ + O₂ → 2CH₃OH।\nসংশ্লেষ গ্যাস: CH₄ + H₂O →(Ni, 900°C, উচ্চ চাপ) CO + 3H₂; পরে CO + 2H₂ →(ZnO·Cr₂O₃, 250–300 atm, 300–400°C) CH₃OH।\nওয়াটার গ্যাস (CO + H₂): লোহিত তপ্ত কোক (1300°C) + স্টিম: C + H₂O → CO + H₂; আনুমানিক ৯০% মিথানল এ পথে তৈরি।\nওয়াটার গ্যাসে H₂ যোগ করে CO:H₂ = 1:2 করা হয়; 350°C, 250 atm, ZnO–Cr₂O₃ প্রভাবক; অপরিবর্তিত গ্যাস পুনঃসঞ্চালিত; বিশুদ্ধতা প্রায় ৯৯%।\nধর্ম: বর্ণহীন তরল, স্ফুটনাঙ্ক 65°C, আঃ গুরুত্ব 0.792, পানিতে যে কোনো অনুপাতে দ্রবণীয়; বিষাক্ত (অন্ধত্ব, মৃত্যু ঘটাতে পারে)।",
+   "notes_en": "Natural gas route: CH4 + O2, 100 atm, 250°C, Cu tube: 2CH4 + O2 → 2CH3OH.\nSynthesis gas: CH4 + H2O (Ni, 900°C) → CO + 3H2; then CO + 2H2 (ZnO·Cr2O3, 250–300 atm, 300–400°C) → CH3OH.\nWater gas (CO + H2): C + H2O (red-hot coke, 1300°C) → CO + H2; ~90% of methanol is made from it; extra H2 added, 350°C/250 atm, ZnO–Cr2O3, unreacted gas recycled, ~99% pure.\nProperties: colourless liquid, bp 65°C, sp. gravity 0.792, miscible with water, very poisonous.",
+   "mcqs": [
+    {
+     "question_bn": "মিথানলের স্ফুটনাঙ্ক কত?",
+     "question_en": "Boiling point of methanol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "65°C",
+       "en": "65°C"
+      },
+      {
+       "id": "b",
+       "bn": "78.3°C",
+       "en": "78.3°C"
+      },
+      {
+       "id": "c",
+       "bn": "100°C",
+       "en": "100°C"
+      },
+      {
+       "id": "d",
+       "bn": "–161°C",
+       "en": "–161°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিথানলের স্ফুটনাঙ্ক 65°C।",
+     "explanation_en": "Methanol boils at 65°C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সংশ্লেষ গ্যাস থেকে মিথানল প্রস্তুতিতে ব্যবহৃত প্রভাবক কোনটি?",
+     "question_en": "Catalyst for methanol from synthesis gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ni",
+       "en": "Ni"
+      },
+      {
+       "id": "b",
+       "bn": "ZnO ও Cr₂O₃",
+       "en": "ZnO ও Cr₂O₃"
+      },
+      {
+       "id": "c",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "d",
+       "bn": "Fe",
+       "en": "Fe"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CO + 2H₂ → CH₃OH বিক্রিয়ায় ZnO–Cr₂O₃।",
+     "explanation_en": "ZnO–Cr2O3 catalyses CO + 2H2 → CH3OH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ওয়াটার গ্যাস কোনটির মিশ্রণ?",
+     "question_en": "Water gas is a mixture of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO ও CO₂",
+       "en": "CO ও CO₂"
+      },
+      {
+       "id": "b",
+       "bn": "CO ও H₂",
+       "en": "CO ও H₂"
+      },
+      {
+       "id": "c",
+       "bn": "CH₄ ও H₂",
+       "en": "CH₄ ও H₂"
+      },
+      {
+       "id": "d",
+       "bn": "CO₂ ও H₂",
+       "en": "CO₂ ও H₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সমমোলার CO ও H₂ মিশ্রণ; C + H₂O →(1300°C) CO + H₂।",
+     "explanation_en": "Equimolar CO and H2 from coke + steam at 1300°C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH₄ + H₂O → CO + 3H₂ বিক্রিয়ার শর্ত কোনটি?",
+     "question_en": "Conditions for CH4 + H2O → CO + 3H2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu, 250°C",
+       "en": "Cu, 250°C"
+      },
+      {
+       "id": "b",
+       "bn": "Ni, 900°C, উচ্চ চাপ",
+       "en": "Ni, 900°C, উচ্চ চাপ"
+      },
+      {
+       "id": "c",
+       "bn": "ZnO, 350°C",
+       "en": "ZnO, 350°C"
+      },
+      {
+       "id": "d",
+       "bn": "Pt, 100°C",
+       "en": "Pt, 100°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নিকেল প্রভাবক ও প্রায় 900°C তাপমাত্রা।",
+     "explanation_en": "Nickel catalyst at about 900°C and high pressure.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ওয়াটার গ্যাস থেকে মিথানল তৈরিতে CO : H₂ মোল অনুপাত কত প্রয়োজন (CO + 2H₂ → CH₃OH)?",
+     "question_en": "Required CO : H2 mole ratio for CO + 2H2 → CH3OH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1 : 1",
+       "en": "1 : 1"
+      },
+      {
+       "id": "b",
+       "bn": "2 : 1",
+       "en": "2 : 1"
+      },
+      {
+       "id": "c",
+       "bn": "1 : 2",
+       "en": "1 : 2"
+      },
+      {
+       "id": "d",
+       "bn": "1 : 3",
+       "en": "1 : 3"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বিক্রিয়ার সমীকরণ অনুযায়ী 1 mol CO এর জন্য 2 mol H₂; তাই ওয়াটার গ্যাসে অতিরিক্ত H₂ যোগ করা হয়।",
+     "explanation_en": "The equation needs 2 mol H2 per mol CO, hence extra H2 is added to water gas.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.7",
+   "title_bn": "ইথাইল অ্যালকোহল বা ইথানল (CH₃CH₂OH) এর শিল্পোৎপাদন",
+   "title_en": "Industrial production of ethanol",
+   "notes_bn": "মূলনীতি: গ্লুকোজের ~10% লঘু দ্রবণে ইস্ট যোগ করে 20–25°C এ রাখলে জাইমেস এনজাইম গ্লুকোজকে বিয়োজিত করে ইথানল ও CO₂ দেয়: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂।\nস্টার্চ (আলু, ভুট্টা ইত্যাদি) থেকে: স্টার্চ + পানি 140–150°C এ ম্যাশ; মন্টগুঁড়ার ডায়াস্টেস (40–50°C) স্টার্চ → মল্টোজ; ওয়ার্ট 10% লঘু করে ইস্ট; মল্টেজ: মল্টোজ → গ্লুকোজ; জাইমেস: গ্লুকোজ → ইথানল (15–18%)।\nচিটাগুড় (~30% চিনি, 32% ইনভার্ট চিনি) থেকে: লঘু H₂SO₄, ইনভারটেজ: সুক্রোজ → গ্লুকোজ + ফ্রুক্টোজ; জাইমেস → ইথানল (6–10%)।\nআংশিক পাতনে রেকটিফাইড স্পিরিট (95.6% ইথানল + 4.4% পানি, সমস্ফুট, স্ফুটনাঙ্ক 78.1°C)।\nবিশুদ্ধ (পরম) ইথানল: পাথুরে চুন (CaO) সহ রিফ্লাক্স ও পাতন (78.3°C) বা বেনজিন মিশিয়ে সমস্ফুট পাতন (প্রথম 64.8°C, দ্বিতীয় 68.2°C) → 99.5%।\nসংশ্লেষ: ইথিন + 95% গাঢ় H₂SO₄ (100°C) → CH₃CH₂OSO₃H; পানিসহ উত্তপ্ত → ইথানল।",
+   "notes_en": "Fermentation: ~10% glucose solution + yeast at 20–25°C; zymase gives C6H12O6 → 2C2H5OH + 2CO2.\nStarch route: starch + water at 140–150°C steam → mash; malt diastase (40–50°C) starch → maltose; wort diluted to 10%, yeast; maltase: maltose → glucose; zymase: glucose → ethanol (15–18%).\nMolasses route: ~30% sugar + 32% invert sugar; dilute H2SO4; invertase: sucrose → glucose + fructose; zymase → 6–10% ethanol.\nFractional distillation gives rectified spirit: 95.6% ethanol + 4.4% water, azeotrope bp 78.1°C.\nAbsolute ethanol (99.5%): reflux/distil over CaO (78.3°C) or azeotropic distillation with benzene (ternary 64.8°C, then binary 68.2°C).\nSynthetic: ethene + 95% H2SO4 at 100°C → ethyl hydrogen sulfate; warm with water → ethanol.",
+   "mcqs": [
+    {
+     "question_bn": "ইথানলের গাঁজন প্রক্রিয়ায় গ্লুকোজকে বিয়োজিত করে কোন এনজাইম?",
+     "question_en": "Which enzyme breaks glucose into ethanol and CO2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডায়াস্টেস",
+       "en": "ডায়াস্টেস"
+      },
+      {
+       "id": "b",
+       "bn": "মল্টেজ",
+       "en": "মল্টেজ"
+      },
+      {
+       "id": "c",
+       "bn": "জাইমেস",
+       "en": "জাইমেস"
+      },
+      {
+       "id": "d",
+       "bn": "ইনভারটেজ",
+       "en": "ইনভারটেজ"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "জাইমেস গ্লুকোজকে ইথানল ও CO₂ এ ভাঙে।",
+     "explanation_en": "Zymase decomposes glucose to ethanol and CO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রেকটিফাইড স্পিরিটের গঠন কী?",
+     "question_en": "Composition of rectified spirit?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "99.5% ইথানল",
+       "en": "99.5% ইথানল"
+      },
+      {
+       "id": "b",
+       "bn": "95.6% ইথানল + 4.4% পানি",
+       "en": "95.6% ইথানল + 4.4% পানি"
+      },
+      {
+       "id": "c",
+       "bn": "50% ইথানল + 50% পানি",
+       "en": "50% ইথানল + 50% পানি"
+      },
+      {
+       "id": "d",
+       "bn": "74% ইথানল + 26% বেনজিন",
+       "en": "74% ইথানল + 26% বেনজিন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সমস্ফুট মিশ্রণ 95.6% ইথানল ও 4.4% পানি।",
+     "explanation_en": "It is the azeotrope: 95.6% ethanol + 4.4% water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মন্টগুঁড়ার ডায়াস্টেস এনজাইম স্টার্চকে কিসে পরিণত করে?",
+     "question_en": "Diastase converts starch to:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লুকোজ",
+       "en": "গ্লুকোজ"
+      },
+      {
+       "id": "b",
+       "bn": "মল্টোজ",
+       "en": "মল্টোজ"
+      },
+      {
+       "id": "c",
+       "bn": "ফ্রুক্টোজ",
+       "en": "ফ্রুক্টোজ"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "স্টার্চ → মল্টোজ (40–50°C); পরে মল্টেজ মল্টোজ → গ্লুকোজ।",
+     "explanation_en": "Starch → maltose; maltase later gives glucose.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "চিটাগুড় থেকে ইথানল প্রস্তুতিতে ইনভারটেজ কোন বিক্রিয়া ঘটায়?",
+     "question_en": "Invertase in molasses fermentation converts:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সুক্রোজ → গ্লুকোজ + ফ্রুক্টোজ",
+       "en": "সুক্রোজ → গ্লুকোজ + ফ্রুক্টোজ"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লুকোজ → ইথানল",
+       "en": "গ্লুকোজ → ইথানল"
+      },
+      {
+       "id": "c",
+       "bn": "মল্টোজ → গ্লুকোজ",
+       "en": "মল্টোজ → গ্লুকোজ"
+      },
+      {
+       "id": "d",
+       "bn": "স্টার্চ → মল্টোজ",
+       "en": "স্টার্চ → মল্টোজ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইনভারটেজ সুক্রোজকে ইনভার্ট চিনি (গ্লুকোজ + ফ্রুক্টোজ) করে।",
+     "explanation_en": "Invertase hydrolyses sucrose to invert sugar.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রেকটিফাইড স্পিরিট থেকে 99.5% ইথানল পেতে কী ব্যবহৃত হয়?",
+     "question_en": "To obtain 99.5% ethanol from rectified spirit one uses:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় H₂SO₄",
+       "en": "গাঢ় H₂SO₄"
+      },
+      {
+       "id": "b",
+       "bn": "পাথুরে চুন (CaO) ও পাতন",
+       "en": "পাথুরে চুন (CaO) ও পাতন"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH দ্রবণ",
+       "en": "NaOH দ্রবণ"
+      },
+      {
+       "id": "d",
+       "bn": "Na ধাতু ও পানি",
+       "en": "Na ধাতু ও পানি"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CaO পানি শোষণ করে; পাতনে 78.3°C এ পরম ইথানল পাওয়া যায়। (গাঢ় H₂SO₄ ইথানলকে বিক্রিয়া করে নষ্ট করবে)",
+     "explanation_en": "CaO removes water; distillation at 78.3°C gives absolute ethanol.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.8",
+   "title_bn": "মিথিলেটেড স্পিরিট",
+   "title_en": "Methylated spirit",
+   "notes_bn": "পানীয় অ্যালকোহলের ওপর উচ্চ আবগারি শুল্ক; শিল্পে দ্রাবকরূপে ব্যবহৃত ইথানল শুল্কমুক্ত।\nএটি পানের অযোগ্য করতে ইথানলে 5–10% মিথানল, পিরিডিন ও রঞ্জক মেশানো হয়; বইয়ে 3% বেনজিনও উল্লেখ আছে।\nএই মিশ্রণই মিথিলেটেড স্পিরিট।\nব্যবহার: রং, বার্নিশ তৈরিতে দ্রাবক; স্পিরিট ল্যাম্পে জ্বালানি; শিল্পে কাঁচামাল ও দ্রাবক।",
+   "notes_en": "Drinking alcohol carries heavy duty, industrial ethanol is duty-free.\nTo make ethanol undrinkable, 5–10% methanol, pyridine bases and a dye (and about 3% benzene as printed) are added: methylated spirit.\nUses: solvent for paints and varnish, fuel in spirit lamps, raw material and solvent in industry.",
+   "mcqs": [
+    {
+     "question_bn": "মিথিলেটেড স্পিরিটে ইথানলের সাথে কোনটি মেশানো হয়?",
+     "question_en": "What is added to ethanol to make methylated spirit?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5–10% মিথানল",
+       "en": "5–10% মিথানল"
+      },
+      {
+       "id": "b",
+       "bn": "50% গ্লিসারল",
+       "en": "50% গ্লিসারল"
+      },
+      {
+       "id": "c",
+       "bn": "30% অ্যাসিটোন",
+       "en": "30% অ্যাসিটোন"
+      },
+      {
+       "id": "d",
+       "bn": "পানি",
+       "en": "পানি"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পানের অযোগ্য করতে মিথানল ও অন্যান্য উপাদান মেশানো হয়।",
+     "explanation_en": "Methanol (5–10%) and other additives render it undrinkable.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানলকে 'মিথিলেটেড' করার কারণ কী?",
+     "question_en": "Why is ethanol methylated?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "স্ফুটনাঙ্ক বাড়াতে",
+       "en": "স্ফুটনাঙ্ক বাড়াতে"
+      },
+      {
+       "id": "b",
+       "bn": "পানের অযোগ্য করে শুল্কমুক্ত শিল্প-দ্রাবক হিসেবে ব্যবহার করতে",
+       "en": "পানের অযোগ্য করে শুল্কমুক্ত শিল্প-দ্রাবক হিসেবে ব্যবহার করতে"
+      },
+      {
+       "id": "c",
+       "bn": "দ্রাব্যতা কমাতে",
+       "en": "দ্রাব্যতা কমাতে"
+      },
+      {
+       "id": "d",
+       "bn": "রং সাদা করতে",
+       "en": "রং সাদা করতে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পানীয় অ্যালকোহলে আবগারি শুল্ক বেশি; পানের অযোগ্য করলে শিল্পে সুবিধা।",
+     "explanation_en": "To prevent drinking and avoid beverage duty.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথিলেটেড স্পিরিটের ব্যবহার কোনটি?",
+     "question_en": "A use of methylated spirit:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জীবাণুনাশক ঔষধ হিসেবে পান",
+       "en": "জীবাণুনাশক ঔষধ হিসেবে পান"
+      },
+      {
+       "id": "b",
+       "bn": "স্পিরিট ল্যাম্পের জ্বালানি",
+       "en": "স্পিরিট ল্যাম্পের জ্বালানি"
+      },
+      {
+       "id": "c",
+       "bn": "খাদ্য সংরক্ষক",
+       "en": "খাদ্য সংরক্ষক"
+      },
+      {
+       "id": "d",
+       "bn": "সার",
+       "en": "সার"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে স্পিরিট ল্যাম্পে জ্বালানি ও বার্নিশের দ্রাবকরূপে উল্লেখ আছে।",
+     "explanation_en": "Fuel for spirit lamps and varnish solvent.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মিথিলেটেড স্পিরিটে মিথানল মেশানোর যুক্তি কোনটি?",
+     "question_en": "Why is methanol an effective additive?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এটি অত্যন্ত বিষাক্ত, তাই পানের অযোগ্য",
+       "en": "এটি অত্যন্ত বিষাক্ত, তাই পানের অযোগ্য"
+      },
+      {
+       "id": "b",
+       "bn": "এটি রঙ দেয়",
+       "en": "এটি রঙ দেয়"
+      },
+      {
+       "id": "c",
+       "bn": "এটি দাম কমায় না",
+       "en": "এটি দাম কমায় না"
+      },
+      {
+       "id": "d",
+       "bn": "এটি অদ্রবণীয়",
+       "en": "এটি অদ্রবণীয়"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিথানল বিষাক্ত, তাই মিশ্রণ পানযোগ্য থাকে না।",
+     "explanation_en": "Methanol is poisonous so the mixture cannot be drunk.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.9",
+   "title_bn": "পাওয়ার অ্যালকোহল",
+   "title_en": "Power alcohol",
+   "notes_bn": "মোটর গাড়ির জ্বালানিরূপে পেট্রোলের সাথে 20–30% অ্যালকোহল ও তৃতীয় কোন দাহ্য পদার্থ (ইথার, বেনজিন প্রভৃতি) মেশানো মিশ্রণ = পাওয়ার অ্যালকোহল।\nএতে রেকটিফাইড স্পিরিট নয়, বিশুদ্ধ (পরম) অ্যালকোহল মেশানো হয়।\nসুবিধা: পরিবেশ দূষণ কম, তাই ব্যবহার বাড়ছে।",
+   "notes_en": "Petrol blended with 20–30% alcohol plus a third combustible (ether, benzene, etc.) is power alcohol (motor fuel).\nPure (absolute) alcohol is used, not rectified spirit.\nAdvantage: less environmental pollution.",
+   "mcqs": [
+    {
+     "question_bn": "পাওয়ার অ্যালকোহলে পেট্রোলের সাথে কত শতাংশ অ্যালকোহল মেশানো হয়?",
+     "question_en": "Alcohol percentage mixed with petrol for power alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2–3%",
+       "en": "2–3%"
+      },
+      {
+       "id": "b",
+       "bn": "20–30%",
+       "en": "20–30%"
+      },
+      {
+       "id": "c",
+       "bn": "50–60%",
+       "en": "50–60%"
+      },
+      {
+       "id": "d",
+       "bn": "90%",
+       "en": "90%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 20–30% উল্লেখ আছে।",
+     "explanation_en": "20–30% alcohol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পাওয়ার অ্যালকোহলে কোন ধরনের অ্যালকোহল ব্যবহৃত হয়?",
+     "question_en": "Which alcohol grade is used in power alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রেকটিফাইড স্পিরিট",
+       "en": "রেকটিফাইড স্পিরিট"
+      },
+      {
+       "id": "b",
+       "bn": "বিশুদ্ধ (পরম) অ্যালকোহল",
+       "en": "বিশুদ্ধ (পরম) অ্যালকোহল"
+      },
+      {
+       "id": "c",
+       "bn": "মিথিলেটেড স্পিরিট",
+       "en": "মিথিলেটেড স্পিরিট"
+      },
+      {
+       "id": "d",
+       "bn": "30% ইথানল",
+       "en": "30% ইথানল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পানি থাকলে পেট্রোলের সাথে মিশবে না, তাই পরম অ্যালকোহল।",
+     "explanation_en": "Absolute alcohol; water would not blend with petrol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পাওয়ার অ্যালকোহলের তৃতীয় উপাদান কোনটি হতে পারে?",
+     "question_en": "A possible third component of power alcohol:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন",
+       "en": "বেনজিন"
+      },
+      {
+       "id": "b",
+       "bn": "ফরম্যালডিহাইড",
+       "en": "ফরম্যালডিহাইড"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লিসারল",
+       "en": "গ্লিসারল"
+      },
+      {
+       "id": "d",
+       "bn": "লবণ",
+       "en": "লবণ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথার, বেনজিন ইত্যাদি দাহ্য পদার্থ।",
+     "explanation_en": "Combustibles like ether or benzene.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পাওয়ার অ্যালকোহল ব্যবহারের প্রধান সুবিধা কী?",
+     "question_en": "Main advantage of power alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেশি দূষণ",
+       "en": "বেশি দূষণ"
+      },
+      {
+       "id": "b",
+       "bn": "পরিবেশ দূষণ হ্রাস",
+       "en": "পরিবেশ দূষণ হ্রাস"
+      },
+      {
+       "id": "c",
+       "bn": "দাম অনেক বেশি",
+       "en": "দাম অনেক বেশি"
+      },
+      {
+       "id": "d",
+       "bn": "স্ফুটনাঙ্ক কম",
+       "en": "স্ফুটনাঙ্ক কম"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে পরিবেশ দূষণরোধে ব্যবহার বাড়ার কথা আছে।",
+     "explanation_en": "Reduces environmental pollution.",
+     "difficulty": "basic"
+    }
+   ]
+  },
+  {
+   "section_no": "7.10",
+   "title_bn": "শিল্পক্ষেত্রে অ্যালকোহলের ব্যবহার",
+   "title_en": "Uses of alcohols in industry",
+   "notes_bn": "মিথানল: ফরম্যালডিহাইড (প্লাস্টিক শিল্প), রং, সুগন্ধি, ঔষধ, বার্নিশ; গালা-রজনের দ্রাবক; রেডিয়েটরে হিমরোধক; মোটর জ্বালানি; ইথানলকে পানের অযোগ্য করতে।\nইথানল: পানীয় (হুইস্কি, ব্র্যান্ডি, রাম, জিন), রং, ওষুধ, সুগন্ধি, লোশন, প্রসাধন দ্রব্য; জ্বালানি; হিমরোধক; ক্লোরোফরম, আয়োডোফরম, ইথার, অ্যাসিটালডিহাইড তৈরির কাঁচামাল।\nঅ্যান্টিফ্রিজ: 40% গ্লাইকল + 60% পানি মিশ্রণ –23°C এ জমে।\nজীবাণুনাশক: 70% ইথানল + 30% পানি।\nমেনথল চক্রীয় অ্যালকোহল; গলা পরিষ্কারক লজেন্স ও স্প্রেতে ব্যবহৃত।\nপানীয়ে ইথানল: হুইস্কি/ব্র্যান্ডি ইত্যাদিতে 40–50%, পোর্ট/শেরি 15–20%, বিয়ার 3–6%।",
+   "notes_en": "Methanol: formaldehyde (plastics), paints, perfumes, drugs, varnish; solvent for shellac/resin; antifreeze in radiators; motor fuel; denaturing ethanol.\nEthanol: beverages, paints, medicines, perfumes, lotions, cosmetics; fuel; antifreeze; raw material for chloroform, iodoform, ether, acetaldehyde.\nAntifreeze: 40% glycol + 60% water freezes at about –23°C.\nAntiseptic: 70% ethanol + 30% water. Menthol is a cyclic alcohol used in lozenges and throat sprays.\nBeverages: spirits like whisky, brandy 40–50% ethanol; port/sherry 15–20%; beer 3–6%.",
+   "mcqs": [
+    {
+     "question_bn": "ডাক্তারি যন্ত্রপাতির জীবাণুনাশকরূপে কোন মিশ্রণ ব্যবহৃত হয়?",
+     "question_en": "Antiseptic mixture for surgical instruments?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "70% ইথানল + 30% পানি",
+       "en": "70% ইথানল + 30% পানি"
+      },
+      {
+       "id": "b",
+       "bn": "30% ইথানল + 70% পানি",
+       "en": "30% ইথানল + 70% পানি"
+      },
+      {
+       "id": "c",
+       "bn": "100% মিথানল",
+       "en": "100% মিথানল"
+      },
+      {
+       "id": "d",
+       "bn": "40% গ্লাইকল",
+       "en": "40% গ্লাইকল"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 70% ইথানল ও 30% পানি।",
+     "explanation_en": "70% ethanol + 30% water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মেনথল কোন ধরনের যৌগ?",
+     "question_en": "Menthol is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চক্রীয় অ্যালকোহল",
+       "en": "চক্রীয় অ্যালকোহল"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালডিহাইড",
+       "en": "অ্যালডিহাইড"
+      },
+      {
+       "id": "c",
+       "bn": "এসিড",
+       "en": "এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "ইথার",
+       "en": "ইথার"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মেনথল চক্রীয় অ্যালকোহল; লজেন্স ও স্প্রেতে ব্যবহৃত।",
+     "explanation_en": "A cyclic alcohol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হিমরোধক (অ্যান্টিফ্রিজ) হিসেবে কোন মিশ্রণ –23°C এ জমে?",
+     "question_en": "Which antifreeze mixture freezes at –23°C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "40% গ্লাইকল + 60% পানি",
+       "en": "40% গ্লাইকল + 60% পানি"
+      },
+      {
+       "id": "b",
+       "bn": "60% গ্লাইকল + 40% পানি",
+       "en": "60% গ্লাইকল + 40% পানি"
+      },
+      {
+       "id": "c",
+       "bn": "40% ইথানল + 60% পানি",
+       "en": "40% ইথানল + 60% পানি"
+      },
+      {
+       "id": "d",
+       "bn": "100% পানি",
+       "en": "100% পানি"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 40% গ্লাইকল ও 60% পানি।",
+     "explanation_en": "40% glycol + 60% water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হুইস্কি, ব্র্যান্ডি ইত্যাদি প্রথম শ্রেণীর পানীয়ে প্রায় কত শতাংশ ইথানল থাকে?",
+     "question_en": "Ethanol content in spirit beverages such as whisky?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3–6%",
+       "en": "3–6%"
+      },
+      {
+       "id": "b",
+       "bn": "15–20%",
+       "en": "15–20%"
+      },
+      {
+       "id": "c",
+       "bn": "40–50%",
+       "en": "40–50%"
+      },
+      {
+       "id": "d",
+       "bn": "90%",
+       "en": "90%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "প্রথম শ্রেণীর পানীয়ে 40–50%; বিয়ারে 3–6%, পোর্টে 15–20%।",
+     "explanation_en": "40–50%; beer 3–6%.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.11",
+   "title_bn": "অ্যালকোহলের ভৌত ধর্ম",
+   "title_en": "Physical properties of alcohols",
+   "notes_bn": "প্রথম বারটি (C₁–C₁₂) বর্ণহীন তরল; উচ্চতরগুলো মোমের মতো কঠিন; নিম্নগুলোর মৃদু মিষ্টি গন্ধ।\nদ্রাব্যতা: মিথানল, ইথানল, প্রোপানল যে কোন অনুপাতে দ্রবণীয়; বিউটানল 7.9 g, পেন্টানল 2.7 g, হেক্সানল 0.59 g/100 g পানি—আণবিক ভর বাড়লে দ্রাব্যতা কমে।\nকারণ: পানি-অ্যালকোহল H-বন্ধন; কিন্তু অ্যালকাইল (–R) অংশ অদ্রবণীয়। –OH/–R এর ভর অনুপাত 40% এর বেশি হলে যে কোনো অনুপাতে দ্রবণীয় (ইথানল: 17/29 = 58.6%); 10% এ (1-ডোডেকানল) অদ্রবণীয়।\nস্ফুটনাঙ্ক: আন্তঃআণবিক H-বন্ধনের কারণে সমভরের অ্যালকেন/ইথার থেকে অনেক বেশি; –CH₂– বাড়লে স্ফুটনাঙ্ক ~15–20°C বাড়ে; শাখাযুক্তের স্ফুটনাঙ্ক সরল শিকলের চেয়ে কম।\nউদাহরণ: CH₄ –161°C, C₂H₆ –89°C, CH₃OH 65°C, C₂H₅OH 78.3°C।",
+   "notes_en": "First twelve alcohols (C1–C12) are colourless liquids, higher ones waxy solids; lower ones have a mild sweet odour.\nSolubility: methanol, ethanol, propanol miscible; butanol 7.9, pentanol 2.7, hexanol 0.59 g/100 g water — falls with size.\nReason: H-bonding with water vs hydrophobic alkyl part; if –OH/–R mass ratio exceeds ~40% it is miscible (ethanol 17/29 = 58.6%); ~10% (1-dodecanol-type) it is insoluble.\nBoiling point: intermolecular H-bonding makes it far higher than alkanes of similar mass; +~15–20°C per –CH2–; branched < straight chain.\nCH4 –161°C, C2H6 –89°C, CH3OH 65°C, C2H5OH 78.3°C.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি পানিতে যে কোন অনুপাতে দ্রবণীয় নয়?",
+     "question_en": "Which is NOT miscible with water in all proportions?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথানল",
+       "en": "মিথানল"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপানল",
+       "en": "প্রোপানল"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটানল",
+       "en": "বিউটানল"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "বিউটানলের দ্রাব্যতা 7.9 g/100 g পানি।",
+     "explanation_en": "Butanol dissolves only 7.9 g/100 g water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকোহলের স্ফুটনাঙ্ক সমভরের অ্যালকেনের চেয়ে বেশি কেন?",
+     "question_en": "Why is an alcohol's bp higher than that of the alkane of similar mass?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আন্তঃআণবিক H-বন্ধন",
+       "en": "আন্তঃআণবিক H-বন্ধন"
+      },
+      {
+       "id": "b",
+       "bn": "আয়নিক বন্ধন",
+       "en": "আয়নিক বন্ধন"
+      },
+      {
+       "id": "c",
+       "bn": "ধাতব বন্ধন",
+       "en": "ধাতব বন্ধন"
+      },
+      {
+       "id": "d",
+       "bn": "বেশি কার্বন",
+       "en": "বেশি কার্বন"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "–O–H মূলকের কারণে অণুগুলো H-বন্ধনে যুক্ত থাকে।",
+     "explanation_en": "Intermolecular hydrogen bonding via O–H.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানলের ক্ষেত্রে –OH/–R ভরের অনুপাত কত?",
+     "question_en": "–OH/–R mass ratio for ethanol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "17/29 ≈ 58.6%",
+       "en": "17/29 ≈ 58.6%"
+      },
+      {
+       "id": "b",
+       "bn": "17/45 ≈ 37.8%",
+       "en": "17/45 ≈ 37.8%"
+      },
+      {
+       "id": "c",
+       "bn": "17/15 ≈ 113%",
+       "en": "17/15 ≈ 113%"
+      },
+      {
+       "id": "d",
+       "bn": "17/169 ≈ 10%",
+       "en": "17/169 ≈ 10%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C₂H₅ = 29, OH = 17; 17/29 ≈ 58.6%।",
+     "explanation_en": "C2H5 = 29, OH = 17; 17/29 ≈ 58.6%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বিউটানল, পেন্টানল, হেক্সানলের মধ্যে পানিতে দ্রাব্যতার সঠিক ক্রম কোনটি?",
+     "question_en": "Correct solubility order in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিউটানল > পেন্টানল > হেক্সানল",
+       "en": "বিউটানল > পেন্টানল > হেক্সানল"
+      },
+      {
+       "id": "b",
+       "bn": "হেক্সানল > পেন্টানল > বিউটানল",
+       "en": "হেক্সানল > পেন্টানল > বিউটানল"
+      },
+      {
+       "id": "c",
+       "bn": "পেন্টানল > বিউটানল > হেক্সানল",
+       "en": "পেন্টানল > বিউটানল > হেক্সানল"
+      },
+      {
+       "id": "d",
+       "bn": "সবার সমান",
+       "en": "সবার সমান"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "7.9 g > 2.7 g > 0.59 g।",
+     "explanation_en": "7.9 > 2.7 > 0.59 g/100 g.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন জোড়ায় স্ফুটনাঙ্ক ক্রম সঠিক?",
+     "question_en": "Correct boiling point order:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃OH > C₂H₅OH > C₂H₆",
+       "en": "CH₃OH > C₂H₅OH > C₂H₆"
+      },
+      {
+       "id": "b",
+       "bn": "C₂H₅OH > CH₃OH > C₂H₆",
+       "en": "C₂H₅OH > CH₃OH > C₂H₆"
+      },
+      {
+       "id": "c",
+       "bn": "C₂H₆ > CH₃OH > C₂H₅OH",
+       "en": "C₂H₆ > CH₃OH > C₂H₅OH"
+      },
+      {
+       "id": "d",
+       "bn": "CH₄ > CH₃OH > C₂H₅OH",
+       "en": "CH₄ > CH₃OH > C₂H₅OH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "78.3°C > 65°C > –89°C।",
+     "explanation_en": "78.3 > 65 > –89°C.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.12",
+   "title_bn": "অ্যালকোহলের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of alcohols",
+   "notes_bn": "O–H বন্ধন ভাঙন: অ্যালকোহল অত্যন্ত দুর্বল অম্ল (Ka = 10⁻¹⁶ mol L⁻¹); অম্লতা 1° > 2° > 3°।\n(১) Na/K সহ: 2ROH + 2Na → 2RONa + H₂। (২) এস্টারীকরণ: RCOOH + R'OH ⇌ RCOOR' + H₂O (গাঢ় H₂SO₄/HCl, উভমুখী); CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ (ইথাইল ইথানোয়েট)। (৩) CH₃COCl বা (CH₃CO)₂O সহ এস্টার (নিউক্লিওফিলিক প্রতিস্থাপন)।\n(৪) জারণ: 1° → অ্যালডিহাইড → কার্বক্সিলিক এসিড (কার্বন সংখ্যা সমান); 2° → কিটোন → (শক্তিশালী জারণে) এসিড, কার্বন কমে; 3° জারণ কঠিন, জারিত হলে কিটোন ও এসিড, কার্বন কমে। জারক K₂Cr₂O₇/H₂SO₄, KMnO₄।\nC–OH বন্ধন ভাঙন: HX সহ (ZnCl₂ প্রভাবক) ROH + HX → RX + H₂O; সক্রিয়তা 3° > 2° > 1°, HI > HBr > HCl।\nPCl₅, PCl₃, PBr₃, PI₃ (লাল P + Br₂/I₂) সহ অ্যালকাইল হ্যালাইড; SOCl₂ + পিরিডিনে RCl + SO₂ + HCl (উপজাত গ্যাস)।\nগাঢ় H₂SO₄: 100°C এ ইথাইল হাইড্রোজেন সালফেট; 140°C এ (অ্যালকোহল বেশি) ডাইইথাইল ইথার; 170°C এ (এসিড বেশি) ইথিন। নিরুদন সহজতা 3° > 2° > 1°; সেক বিউটানল থেকে 2-বিউটিন 85%, 1-বিউটিন 15%।",
+   "notes_en": "O–H cleavage: very weak acid (Ka = 10^-16); acidity 1° > 2° > 3°.\nWith Na/K: 2ROH + 2Na → 2RONa + H2. Esterification (reversible, conc. H2SO4/HCl): RCOOH + R'OH ⇌ RCOOR' + H2O. With CH3COCl or (CH3CO)2O gives esters (nucleophilic substitution).\nOxidation (K2Cr2O7/H2SO4, KMnO4): 1° → aldehyde → acid (same C count); 2° → ketone → acid with fewer C; 3° resists, then gives ketone and acid with fewer C.\nC–OH cleavage: ROH + HX (ZnCl2) → RX + H2O; 3° > 2° > 1°; HI > HBr > HCl.\nPCl5/PCl3/PBr3/PI3 give RX; SOCl2 + pyridine gives RCl + SO2 + HCl (gaseous by-products).\nConc. H2SO4: 100°C ethyl hydrogen sulfate; 140°C (excess alcohol) diethyl ether; 170°C (excess acid) ethene. Dehydration ease 3° > 2° > 1°; sec-butanol gives 85% 2-butene, 15% 1-butene.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকোহলের অম্লতার সঠিক ক্রম কোনটি?",
+     "question_en": "Correct acidity order of alcohols?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3° > 2° > 1°",
+       "en": "3° > 2° > 1°"
+      },
+      {
+       "id": "b",
+       "bn": "1° > 2° > 3°",
+       "en": "1° > 2° > 3°"
+      },
+      {
+       "id": "c",
+       "bn": "2° > 1° > 3°",
+       "en": "2° > 1° > 3°"
+      },
+      {
+       "id": "d",
+       "bn": "সবার সমান",
+       "en": "সবার সমান"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে অম্লধর্মিতা 1° > 2° > 3°।",
+     "explanation_en": "1° > 2° > 3°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানলকে 140°C এ গাঢ় H₂SO₄ এর অল্প এসিডসহ অ্যালকোহল বেশি থাকলে কী উৎপন্ন হয়?",
+     "question_en": "Excess ethanol with conc. H2SO4 at 140°C gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিন",
+       "en": "ইথিন"
+      },
+      {
+       "id": "b",
+       "bn": "ডাইইথাইল ইথার",
+       "en": "ডাইইথাইল ইথার"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানাল",
+       "en": "ইথানাল"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল ক্লোরাইড",
+       "en": "ইথাইল ক্লোরাইড"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "140°C এ ইথাইল হাইড্রোজেন সালফেট + ইথানল → C₂H₅OC₂H₅।",
+     "explanation_en": "At 140°C: C2H5OC2H5.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লুকাস বিকারক বলতে কী বোঝায়?",
+     "question_en": "Lucas reagent is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় HCl + অনার্দ্র ZnCl₂",
+       "en": "গাঢ় HCl + অনার্দ্র ZnCl₂"
+      },
+      {
+       "id": "b",
+       "bn": "লঘু HCl + Zn",
+       "en": "লঘু HCl + Zn"
+      },
+      {
+       "id": "c",
+       "bn": "K₂Cr₂O₇ + H₂SO₄",
+       "en": "K₂Cr₂O₇ + H₂SO₄"
+      },
+      {
+       "id": "d",
+       "bn": "গাঢ় H₂SO₄ + CaO",
+       "en": "গাঢ় H₂SO₄ + CaO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গাঢ় HCl এ অনার্দ্র ZnCl₂ এর দ্রবণ।",
+     "explanation_en": "Anhydrous ZnCl2 in conc. HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোপানল-2 কে জারিত করলে প্রথম উৎপাদ কী?",
+     "question_en": "First oxidation product of propan-2-ol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানাল",
+       "en": "প্রোপানাল"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপানোন",
+       "en": "প্রোপানোন"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপানোয়িক এসিড",
+       "en": "প্রোপানোয়িক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপিন",
+       "en": "প্রোপিন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2° অ্যালকোহল → কিটোন।",
+     "explanation_en": "2° alcohol → ketone (propanone).",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.13",
+   "title_bn": "প্রাইমারি, সেকেন্ডারি ও টারসিয়ারি অ্যালকোহলের মধ্যে পার্থক্য",
+   "title_en": "Difference among primary, secondary and tertiary alcohols",
+   "notes_bn": "লুকাস পরীক্ষা (ZnCl₂/গাঢ় HCl, কক্ষ তাপমাত্রা): 3° তৎক্ষণাৎ ঘোলাটে/তৈলাক্ত স্তর; 2° প্রায় 5 মিনিটে; 1° কক্ষ তাপমাত্রায় বিক্রিয়া নয় (উত্তপ্ত করলে দীর্ঘ সময়ে)।\nজারণ (K₂Cr₂O₇ + লঘু H₂SO₄; Cr³⁺ নীল-সবুজ দ্রবণ): 1° → অ্যালডিহাইড → এসিড (C সমান); 2° → কিটোন → এসিড (C কমে); 3° → প্রবল জারণে কিটোন ও এসিড (C কমে)।\nCu প্রভাবক, 300°C এ: 1° → অ্যালডিহাইড + H₂; 2° → কিটোন + H₂; 3° → অ্যালকিন + H₂O।\nউদাহরণ: ইথানল → ইথানাল; প্রোপানল-2 → প্রোপানোন; 2-মিথাইল প্রোপানল-2 → 2-মিথাইল প্রোপিন।",
+   "notes_en": "Lucas test (ZnCl2/conc. HCl, room temp): 3° gives turbidity/oily layer at once; 2° in about 5 min; 1° no reaction at room temperature (only after long heating).\nOxidation (K2Cr2O7 + dil. H2SO4, Cr3+ green-blue): 1° → aldehyde → acid (same C); 2° → ketone → acid with fewer C; 3° → under vigorous oxidation ketone and acid with fewer C.\nHot Cu at 300°C: 1° → aldehyde + H2; 2° → ketone + H2; 3° → alkene + H2O.\nEthanol → ethanal; propan-2-ol → propanone; 2-methylpropan-2-ol → 2-methylpropene.",
+   "mcqs": [
+    {
+     "question_bn": "লুকাস বিকারকের সাথে কক্ষ তাপমাত্রায় তৎক্ষণাৎ ঘোলা হয় কোনটি?",
+     "question_en": "Which alcohol turns Lucas reagent turbid immediately at room temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপানল-2",
+       "en": "প্রোপানল-2"
+      },
+      {
+       "id": "c",
+       "bn": "2-মিথাইল প্রোপানল-2",
+       "en": "2-মিথাইল প্রোপানল-2"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানল",
+       "en": "মিথানল"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "3° অ্যালকোহল তৎক্ষণাৎ বিক্রিয়া করে।",
+     "explanation_en": "3° alcohol reacts at once.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "উত্তপ্ত Cu (300°C) এর ওপর 2° অ্যালকোহল বাষ্প চালালে কী উৎপন্ন হয়?",
+     "question_en": "2° alcohol vapour over Cu at 300°C gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালডিহাইড",
+       "en": "অ্যালডিহাইড"
+      },
+      {
+       "id": "b",
+       "bn": "কিটোন ও H₂",
+       "en": "কিটোন ও H₂"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকিন",
+       "en": "অ্যালকিন"
+      },
+      {
+       "id": "d",
+       "bn": "এসিড",
+       "en": "এসিড"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2° → কিটোন + H₂।",
+     "explanation_en": "2° → ketone + H2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন অ্যালকোহল Cu/300°C এ অ্যালকিন ও পানি দেয়?",
+     "question_en": "Which alcohol gives alkene + water over Cu at 300°C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপানল-2",
+       "en": "প্রোপানল-2"
+      },
+      {
+       "id": "c",
+       "bn": "2-মিথাইল প্রোপানল-2",
+       "en": "2-মিথাইল প্রোপানল-2"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপানল-1",
+       "en": "প্রোপানল-1"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "3° অ্যালকোহলে H নেই, তাই H₂ অপসারণ নয়, নিরুদন ঘটে।",
+     "explanation_en": "A 3° alcohol dehydrates (no carbinol H to lose).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1° ও 2° অ্যালকোহল জারণের চূড়ান্ত জৈব এসিডে কার্বন সংখ্যা সম্পর্ক কোনটি?",
+     "question_en": "Relation between carbon number of alcohol and final acid on oxidation:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1°: সমান; 2°: কম",
+       "en": "1°: সমান; 2°: কম"
+      },
+      {
+       "id": "b",
+       "bn": "1°: কম; 2°: সমান",
+       "en": "1°: কম; 2°: সমান"
+      },
+      {
+       "id": "c",
+       "bn": "দুটোতেই সমান",
+       "en": "দুটোতেই সমান"
+      },
+      {
+       "id": "d",
+       "bn": "দুটোতেই বেশি",
+       "en": "দুটোতেই বেশি"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1° অ্যালকোহল → একই C এর এসিড; 2° → কিটোন ভেঙে কম C এর এসিড।",
+     "explanation_en": "1° keeps carbon number; 2° gives an acid with fewer carbons.",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "7.7",
+   "stimulus_bn": "একটি চিনিকলে চিনি কেলাসনের পর গাঢ় বাদামি শিরা (চিটাগুড়) অবশিষ্ট থাকে। এতে লঘু H₂SO₄, অ্যামোনিয়াম সালফেট ও ইস্ট মিশিয়ে ২৫–৩০°C এ তিন দিন রাখা হলো। পরে মিশ্রণ পাতিত করে 95.6% ইথানলযুক্ত তরল পাওয়া গেল।",
+   "stimulus_en": "A sugar mill leaves a dark brown syrup (molasses) after crystallising sugar. Dilute H2SO4, ammonium sulfate and yeast are added and the mixture is kept at 25–30°C for three days. Distillation gives a liquid of 95.6% ethanol.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "রেকটিফাইড স্পিরিট কী?",
+     "question_en": "What is rectified spirit?",
+     "model_answer_bn": "95.6% ইথানল ও 4.4% পানির সমস্ফুট মিশ্রণ (স্ফুটনাঙ্ক 78.1°C)।",
+     "model_answer_en": "An azeotropic mixture of 95.6% ethanol and 4.4% water (bp 78.1°C)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "চিটাগুড়ে ইনভারটেজ ও জাইমেসের ভূমিকা ব্যাখ্যা কর।",
+     "question_en": "Explain the roles of invertase and zymase on molasses.",
+     "model_answer_bn": "ইনভারটেজ সুক্রোজকে আর্দ্র বিশ্লেষণে গ্লুকোজ ও ফ্রুক্টোজে পরিণত করে; জাইমেস এদের বিয়োজিত করে ইথানল ও CO₂ দেয়।",
+     "model_answer_en": "Invertase hydrolyses sucrose to glucose and fructose; zymase decomposes these to ethanol and CO2."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "উদ্দীপকের প্রক্রিয়ার সমীকরণ লিখে ব্যাখ্যা কর কেন মিশ্রণে সামান্য H₂SO₄ দেওয়া হয়।",
+     "question_en": "Write the equations of the process and explain why a little H2SO4 is added.",
+     "model_answer_bn": "C₁₂H₂₂O₁₁ + H₂O →(ইনভারটেজ) C₆H₁₂O₆ + C₆H₁₂O₆; 2C₆H₁₂O₆ →(জাইমেস) 4C₂H₅OH + 4CO₂। অম্লীয় করলে অপ্রয়োজনীয় ব্যাকটেরিয়ার জন্মাতে পারে না।",
+     "model_answer_en": "C12H22O11 + H2O → (invertase) C6H12O6 + C6H12O6; 2C6H12O6 → (zymase) 4C2H5OH + 4CO2. Acid prevents unwanted bacteria."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "উদ্দীপকের 95.6% ইথানল থেকে কীভাবে 99.5% ইথানল পাওয়া যাবে? দুটি পদ্ধতি বিশ্লেষণ কর।",
+     "question_en": "How can 99.5% ethanol be obtained from the 95.6% ethanol? Analyse two methods.",
+     "model_answer_bn": "(১) পাথুরে চুন CaO সহ রিফ্লাক্স ও 78.3°C এ পাতন: CaO পানি শোষণ করে। (২) বেনজিন মিশিয়ে সমস্ফুট পাতন: প্রথম মিশ্রণ (পানি 7.4%, ইথানল 18.5%, বেনজিন 74.1%) 64.8°C এ ও দ্বিতীয় (ইথানল 32.4%, বেনজিন 67.6%) 68.2°C এ বের হয়ে গেলে অবশেষে 78.3°C এ পরম ইথানল পাওয়া যায়।",
+     "model_answer_en": "(1) Reflux with CaO and distil at 78.3°C; CaO binds water. (2) Add benzene: first azeotrope (7.4% water, 18.5% ethanol, 74.1% benzene) distils at 64.8°C, second (32.4% ethanol, 67.6% benzene) at 68.2°C; absolute ethanol remains and distils at 78.3°C."
+    }
+   ]
+  },
+  {
+   "topic_section": "7.13",
+   "stimulus_bn": "তিনটি পাত্রে A, B, C নামক তিনটি অ্যালকোহল আছে; এরা যথাক্রমে ইথানল, প্রোপানল-2 ও 2-মিথাইল প্রোপানল-2। ছাত্র কক্ষ তাপমাত্রায় প্রতিটিতে ZnCl₂/গাঢ় HCl যোগ করে ও অন্য নমুনায় K₂Cr₂O₇/H₂SO₄ সহ উত্তপ্ত করল।",
+   "stimulus_en": "Three containers A, B, C hold ethanol, propan-2-ol and 2-methylpropan-2-ol respectively. A student adds ZnCl2/conc. HCl at room temperature to each and heats other samples with K2Cr2O7/H2SO4.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "লুকাস বিকারক কী?",
+     "question_en": "What is Lucas reagent?",
+     "model_answer_bn": "গাঢ় HCl এ অনার্দ্র ZnCl₂ এর দ্রবণ।",
+     "model_answer_en": "A solution of anhydrous ZnCl2 in conc. HCl."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "লুকাস পরীক্ষায় A, B, C এর পর্যবেক্ষণ কী হবে?",
+     "question_en": "What will be observed for A, B, C in the Lucas test?",
+     "model_answer_bn": "C: তৎক্ষণাৎ ঘোলা/তৈলাক্ত স্তর; B: প্রায় ৫ মিনিটে ঘোলা; A: কক্ষ তাপমাত্রায় কোন বিক্রিয়া নয়।",
+     "model_answer_en": "C: immediate turbidity/oily layer; B: turbid in about 5 min; A: no reaction at room temperature."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "B কে জারিত করলে প্রথম ও পরবর্তী উৎপাদ কী হবে? সমীকরণসহ লেখ।",
+     "question_en": "Write the first and later oxidation products of B with equations.",
+     "model_answer_bn": "CH₃CH(OH)CH₃ + [O] → CH₃COCH₃ (প্রোপানোন) + H₂O; প্রবল জারণে CH₃COCH₃ + 4[O] → CH₃COOH + CO₂ + H₂O।",
+     "model_answer_en": "CH3CH(OH)CH3 + [O] → CH3COCH3 + H2O; with stronger oxidation CH3COCH3 + 4[O] → CH3COOH + CO2 + H2O."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "উত্তপ্ত Cu (300°C) এর ওপর দিয়ে A, B, C এর বাষ্প চালালে কী ঘটবে? তুলনা করে বিশ্লেষণ কর।",
+     "question_en": "Compare what happens when vapours of A, B, C pass over Cu at 300°C.",
+     "model_answer_bn": "A (1°): CH₃CHO + H₂; B (2°): CH₃COCH₃ + H₂; C (3°): (CH₃)₂C=CH₂ + H₂O। 3° এ কার্বিনল কার্বনে H না থাকায় হাইড্রোজেন অপসারণ হয় না, নিরুদন ঘটে।",
+     "model_answer_en": "A (1°): CH3CHO + H2; B (2°): CH3COCH3 + H2; C (3°): (CH3)2C=CH2 + H2O. C has no H on the carbinol carbon, so it dehydrates instead."
+    }
+   ]
+  },
+  {
+   "topic_section": "7.12",
+   "stimulus_bn": "একটি পরীক্ষায় ইথানলকে (ক) সোডিয়াম ধাতুর সাথে, (খ) গাঢ় H₂SO₄ সহ 140°C ও 170°C এ উত্তপ্ত করা হলো এবং (গ) ইথানোয়িক এসিডের সাথে গাঢ় H₂SO₄ উপস্থিতিতে বিক্রিয়া ঘটানো হলো।",
+   "stimulus_en": "In an experiment ethanol is (a) treated with sodium, (b) heated with conc. H2SO4 at 140°C and 170°C, and (c) reacted with ethanoic acid in the presence of conc. H2SO4.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "এস্টারীকরণ কাকে বলে?",
+     "question_en": "What is esterification?",
+     "model_answer_bn": "অ্যালকোহল ও কার্বক্সিলিক এসিডের বিক্রিয়ায় এস্টার ও পানি উৎপন্ন হওয়ার প্রক্রিয়া।",
+     "model_answer_en": "Reaction of an alcohol with a carboxylic acid to give an ester and water."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "(ক) বিক্রিয়ার সমীকরণ লিখ ও ফলে কোন গ্যাস পাওয়া যায় বল।",
+     "question_en": "Write the equation for (a) and name the gas evolved.",
+     "model_answer_bn": "2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂; হাইড্রোজেন গ্যাস।",
+     "model_answer_en": "2C2H5OH + 2Na → 2C2H5ONa + H2; hydrogen gas."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "(গ) এর উৎপাদ কী? গাঢ় H₂SO₄ এর ভূমিকা ব্যাখ্যা কর।",
+     "question_en": "Name the product of (c) and explain the role of conc. H2SO4.",
+     "model_answer_bn": "ইথাইল ইথানোয়েট (CH₃COOC₂H₅) + H₂O। বিক্রিয়া উভমুখী; গাঢ় H₂SO₄ পানি শোষণ করে বিক্রিয়াকে এস্টারের দিকে একমুখী করে।",
+     "model_answer_en": "Ethyl ethanoate + water. The reaction is reversible; conc. H2SO4 absorbs water and drives it towards the ester."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "(খ) এ 140°C ও 170°C এ উৎপাদ ভিন্ন হয় কেন? সমীকরণসহ বিশ্লেষণ কর।",
+     "question_en": "Why do the products at 140°C and 170°C differ? Analyse with equations.",
+     "model_answer_bn": "প্রথমে 100°C এ C₂H₅OH + H₂SO₄ → C₂H₅OSO₃H + H₂O। অ্যালকোহল বেশি থাকলে 140°C এ C₂H₅OSO₃H + C₂H₅OH → C₂H₅OC₂H₅ + H₂SO₄ (ইথার)। এসিড বেশি থাকলে 170°C এ C₂H₅OSO₃H → CH₂=CH₂ + H₂SO₄ (নিরুদন, ইথিন)। উচ্চ তাপমাত্রা ও এসিড আধিক্য নিরুদনকে অনুকূল করে।",
+     "model_answer_en": "First C2H5OH + H2SO4 → C2H5OSO3H + H2O (100°C). With excess alcohol at 140°C: C2H5OSO3H + C2H5OH → C2H5OC2H5 + H2SO4. With excess acid at 170°C: C2H5OSO3H → CH2=CH2 + H2SO4. Higher temperature and acid excess favour dehydration."
+    }
+   ]
+  }
+ ],
+ "notes": "All 23 pages (PDF 389-411) read; printed p.374 was an MCQ page (skipped), p.395-396 content on tests (7.14, 7.15, 7.16 phenol start) beyond assigned sections and not covered. 7.4 C4H9OH isomer count derived by enumeration (not stated in book). Bank pages show 7.8 additives text partly blurred; benzene 3% as printed."
+}

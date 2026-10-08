@@ -1,0 +1,2261 @@
+{
+ "chapter_no": 2,
+ "topics": [
+  {
+   "section_no": "2.1",
+   "title_bn": "ভূমিকা",
+   "title_en": "Introduction to the Halogens",
+   "notes_bn": "গ্রুপ VIIA-এর মৌল পাঁচটি: F, Cl, Br, I ও At। অ্যাস্ট্যাটিনের কোনো স্থায়ী আইসোটোপ নেই (তেজস্ক্রিয়)।\nহ্যালোজেন = হ্যালস (সামুদ্রিক লবণ) + জেনাস (উৎপন্নকারী) অর্থাৎ 'সামুদ্রিক লবণ উৎপাদক'; সমুদ্রের পানিতে প্রায় 2.56% NaCl আছে।\nসবার বহিস্তরের ইলেকট্রন বিন্যাস ns²np⁵ (F: 2s²2p⁵, Cl: 3s²3p⁵, Br: 4s²4p⁵, I: 5s²5p⁵)।\nসব মৌল দ্বিপরমাণুক (X₂) অধাতু; যোজনী 1; একটি ইলেকট্রন গ্রহণ/শেয়ার করে অষ্টক পূর্ণ করে।\nতড়িৎ ঋণাত্মকতার ক্রম F > Cl > Br > I; তাই সবল জারক।\nধাতুর সঙ্গে হ্যালাইড লবণ (2Na + Cl₂ → 2NaCl) গঠন করে এবং হাইড্রোজেন হ্যালাইডের জলীয় দ্রবণ হাইড্রাসিড দেয়।",
+   "notes_en": "Group VIIA: F, Cl, Br, I, At; astatine is radioactive with no stable isotope.\nHalogen = 'salt former' (hals + genas); sea water has ~2.56% NaCl.\nOuter configuration ns2np5 for all; diatomic nonmetals X2; valency 1.\nElectronegativity F > Cl > Br > I, so strong oxidants.\nThey form metal halides (2Na + Cl2 -> 2NaCl) and hydrohalic acids with H2.",
+   "mcqs": [
+    {
+     "question_bn": "'হ্যালোজেন' শব্দের অর্থ কী?",
+     "question_en": "What does the word 'halogen' mean?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অম্ল উৎপাদক",
+       "en": "acid former"
+      },
+      {
+       "id": "b",
+       "bn": "সামুদ্রিক লবণ উৎপাদক",
+       "en": "sea-salt former"
+      },
+      {
+       "id": "c",
+       "bn": "ক্ষার উৎপাদক",
+       "en": "alkali former"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যাস উৎপাদক",
+       "en": "gas former"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হ্যালস = সামুদ্রিক লবণ, জেনাস = উৎপন্নকারী।",
+     "explanation_en": "hals = sea salt, genas = producer.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হ্যালোজেন মৌলসমূহের বহিস্তরের সাধারণ ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "What is the general outer electron configuration of halogens?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ns²np³",
+       "en": "ns2np3"
+      },
+      {
+       "id": "b",
+       "bn": "ns²np⁴",
+       "en": "ns2np4"
+      },
+      {
+       "id": "c",
+       "bn": "ns²np⁵",
+       "en": "ns2np5"
+      },
+      {
+       "id": "d",
+       "bn": "ns²np⁶",
+       "en": "ns2np6"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সাতটি যোজনী ইলেকট্রন: ns²np⁵।",
+     "explanation_en": "Seven valence electrons: ns2np5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন হ্যালোজেনের কোনো স্থায়ী আইসোটোপ নেই?",
+     "question_en": "Which halogen has no stable isotope?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আয়োডিন",
+       "en": "Iodine"
+      },
+      {
+       "id": "b",
+       "bn": "ব্রোমিন",
+       "en": "Bromine"
+      },
+      {
+       "id": "c",
+       "bn": "ফ্লুরিন",
+       "en": "Fluorine"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাস্ট্যাটিন",
+       "en": "Astatine"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "অ্যাস্ট্যাটিন তেজস্ক্রিয় মৌল।",
+     "explanation_en": "Astatine is radioactive.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সমুদ্রের পানিতে NaCl-এর পরিমাণ প্রায় কত?",
+     "question_en": "Approximately how much NaCl is present in sea water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.25%",
+       "en": "0.25%"
+      },
+      {
+       "id": "b",
+       "bn": "2.56%",
+       "en": "2.56%"
+      },
+      {
+       "id": "c",
+       "bn": "12.5%",
+       "en": "12.5%"
+      },
+      {
+       "id": "d",
+       "bn": "25.6%",
+       "en": "25.6%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে সমুদ্রের পানিতে প্রায় 2.56% NaCl উল্লেখ আছে।",
+     "explanation_en": "The book gives ~2.56% NaCl in sea water.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.2",
+   "title_bn": "হ্যালোজেন গ্রুপের মৌলসমূহের পর্যায়ভিত্তিক ধর্ম",
+   "title_en": "Periodic Properties of Halogens",
+   "notes_bn": "অবস্থা: F₂ ফ্যাকাশে হলুদ গ্যাস, Cl₂ সবুজাভ হলুদ গ্যাস, Br₂ লাল তরল, I₂ গাঢ় বেগুনি কঠিন; কারণ ভ্যান্ডার ওয়ালস বল F₂ < Cl₂ < Br₂ < I₂।\nগলনাঙ্ক (°C): F −233, Cl −103, Br −7.2, I 113.5; স্ফুটনাঙ্ক: −187, −35, 59, 183।\nসমযোজী ব্যাসার্ধ (nm): 0.072, 0.099, 0.114, 0.133; আয়নিক ব্যাসার্ধ: 0.136, 0.181, 0.195, 0.216।\nআয়নীকরণ শক্তি (kJ/mol): 1693, 1265, 1151, 1016 (গ্রুপে নিচে কমে)।\nইলেকট্রন আসক্তি (kJ/mol): F −333, Cl −348, Br −340, I −297; Cl-এর মান সর্বোচ্চ।\nতড়িৎ ঋণাত্মকতা: 4, 3, 2.8, 2.5; প্রমাণ বিজারণ বিভব: +2.87, +1.36, +1.07, +0.54 V।\nবন্ধন বিয়োজন শক্তি: F₂ 158, Cl₂ 243, Br₂ 193, I₂ 151; F₂-এর মান কম কারণ ক্ষুদ্র F পরমাণুর 2p নিঃসঙ্গ জোড়ার বিকর্ষণ বেশি।",
+   "notes_en": "States: F2 pale yellow gas, Cl2 greenish-yellow gas, Br2 red liquid, I2 dark violet solid (vdW forces increase down the group).\nmp (C): -233, -103, -7.2, 113.5; bp: -187, -35, 59, 183.\nCovalent radii (nm) 0.072, 0.099, 0.114, 0.133; ionic radii 0.136, 0.181, 0.195, 0.216.\nIonisation energy falls: 1693, 1265, 1151, 1016 kJ/mol.\nElectron affinity: F -333, Cl -348, Br -340, I -297 (Cl highest).\nElectronegativity 4, 3, 2.8, 2.5; E0 +2.87, +1.36, +1.07, +0.54 V.\nBond dissociation energy: F2 158, Cl2 243, Br2 193, I2 151 kJ/mol; F2 low due to lone-pair repulsion in small F atoms.",
+   "mcqs": [
+    {
+     "question_bn": "সাধারণ তাপমাত্রায় কোন হ্যালোজেন তরল?",
+     "question_en": "Which halogen is a liquid at room temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফ্লুরিন",
+       "en": "Fluorine"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরিন",
+       "en": "Chlorine"
+      },
+      {
+       "id": "c",
+       "bn": "ব্রোমিন",
+       "en": "Bromine"
+      },
+      {
+       "id": "d",
+       "bn": "আয়োডিন",
+       "en": "Iodine"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ব্রোমিন লাল বর্ণের তরল।",
+     "explanation_en": "Bromine is a red liquid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন হ্যালোজেনের ইলেকট্রন আসক্তি সর্বোচ্চ (−348 kJ/mol)?",
+     "question_en": "Which halogen has the highest electron affinity (-348 kJ/mol)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F",
+       "en": "F"
+      },
+      {
+       "id": "b",
+       "bn": "Cl",
+       "en": "Cl"
+      },
+      {
+       "id": "c",
+       "bn": "Br",
+       "en": "Br"
+      },
+      {
+       "id": "d",
+       "bn": "I",
+       "en": "I"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফ্লুরিনের আসক্তি (−333) ক্লোরিনের (−348) চেয়ে কম।",
+     "explanation_en": "F (-333) is lower than Cl (-348).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্রুপ VIIA-তে F → I যাওয়ার সময় গলনাঙ্ক ও স্ফুটনাঙ্ক বাড়ে কেন?",
+     "question_en": "Why do melting and boiling points rise from F to I?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তড়িৎ ঋণাত্মকতা বাড়ে বলে",
+       "en": "electronegativity increases"
+      },
+      {
+       "id": "b",
+       "bn": "ভ্যান্ডার ওয়ালস আকর্ষণ বাড়ে বলে",
+       "en": "van der Waals attraction increases"
+      },
+      {
+       "id": "c",
+       "bn": "আয়নীকরণ শক্তি বাড়ে বলে",
+       "en": "ionisation energy increases"
+      },
+      {
+       "id": "d",
+       "bn": "পরমাণুর আকার কমে বলে",
+       "en": "atomic size decreases"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অণুর ইলেকট্রন সংখ্যা বাড়ায় ভ্যান্ডার ওয়ালস বল বাড়ে।",
+     "explanation_en": "More electrons strengthen vdW forces.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটির বন্ধন বিয়োজন শক্তি সবচেয়ে কম (বইয়ের সারণি অনুযায়ী)?",
+     "question_en": "Which has the lowest bond dissociation energy (per the book's table)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F₂ (158)",
+       "en": "F2 (158)"
+      },
+      {
+       "id": "b",
+       "bn": "Cl₂ (243)",
+       "en": "Cl2 (243)"
+      },
+      {
+       "id": "c",
+       "bn": "Br₂ (193)",
+       "en": "Br2 (193)"
+      },
+      {
+       "id": "d",
+       "bn": "I₂ (151)",
+       "en": "I2 (151)"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "মান: I₂ 151 < F₂ 158 < Br₂ 193 < Cl₂ 243 kJ/mol।",
+     "explanation_en": "151 < 158 < 193 < 243 kJ/mol.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "F₂-এর বন্ধন বিয়োজন শক্তি Cl₂-এর চেয়ে কম হওয়ার প্রধান কারণ কী?",
+     "question_en": "What is the main reason F2 has lower bond dissociation energy than Cl2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F পরমাণু বড়",
+       "en": "F atom is larger"
+      },
+      {
+       "id": "b",
+       "bn": "2p নিঃসঙ্গ জোড়া ইলেকট্রনের বিকর্ষণ বেশি",
+       "en": "greater lone-pair repulsion between small 2p orbitals"
+      },
+      {
+       "id": "c",
+       "bn": "F-এর ইলেকট্রন আসক্তি বেশি",
+       "en": "F has higher electron affinity"
+      },
+      {
+       "id": "d",
+       "bn": "F₂ আয়নিক",
+       "en": "F2 is ionic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্ষুদ্র আকারে নিঃসঙ্গ জোড়ার বিকর্ষণ F–F বন্ধনকে দুর্বল করে।",
+     "explanation_en": "Lone-pair repulsion weakens the short F-F bond.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.3",
+   "title_bn": "হ্যালোজেনসমূহের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "title_en": "Periodic Chemical Properties of Halogens",
+   "notes_bn": "হ্যালোজেন আয়নিক বন্ধন (X⁻ গঠন) অথবা সমযোজী বন্ধন গঠন করে; আয়নিক হ্যালাইড গঠন তিনটি বিষয়ের ওপর নির্ভর করে: X₂-এর বন্ধন বিয়োজন শক্তি, X-এর ইলেকট্রন আসক্তি ও ল্যাটিস এনথালপি।\nল্যাটিস এনথালপি (kJ/mol): NaF −902, NaCl −771, NaBr −733, NaI −684।\nF₂ দ্বারা ধাতু সর্বোচ্চ জারণ অবস্থায় যায় (বন্ধন শক্তি কম, ল্যাটিস শক্তি বেশি): 2Fe+3F₂→2FeF₃, Pt+3F₂→PtF₆, Ag+F₂→AgF₂।\nসমযোজী বন্ধন: F-এর 2য় স্তরে d নেই, তাই শুধু একটি বন্ধন; Cl, Br, I উত্তেজিত অবস্থায় d-অরবিটাল ব্যবহার করে 3, 5, 7 বন্ধন গঠন করে।\nজারণ ক্ষমতা F > Cl > Br > I (E° +2.87, +1.36, +1.07, +0.54 V)। ফ্লুরিনের বিজারণ বিভব সর্বোচ্চ হওয়ায় সবচেয়ে শক্তিশালী জারক।\nধাতুর সঙ্গে: Fe + Cl₂ → FeCl₃ (উত্তপ্ত); Fe + Br₂ → FeBr₃; Fe + I₂ → FeI₂। Ag, Pt, Au ব্রোমিন ও আয়োডিনের সঙ্গে বিক্রিয়া করে না।\nঅধাতুর সঙ্গে: H₂ + F₂ → 2HF অন্ধকারেও বিস্ফোরণসহ (−200°C-এও); H₂ + Cl₂ সূর্যালোকে বিস্ফোরণসহ; Br₂, I₂ 200°C-এর ওপর (I₂-এ Pt প্রভাবক)।\nXe + F₂ → XeF₂/XeF₄/XeF₆ (Ni প্রভাবক, তাপ ও চাপে); S + 3F₂ → SF₆ কিন্তু Cl₂ দিয়ে SCl₄ পর্যন্ত। আন্তঃহ্যালোজেন যৌগ: ClF, ClF₃, BrF₃, IF₇।\nবিজারক যৌগ জারণ: SO₂ + 2H₂O + Cl₂ → H₂SO₄ + 2HCl; H₂S + Cl₂ → S + 2HCl; 2NH₃ + 3Cl₂ → N₂ + 6HCl; Na₂S₂O₃ + Cl₂ → Na₂SO₄ + S + 2HCl; I₂ দিয়ে 2Na₂S₂O₃ + I₂ → Na₂S₄O₆ + 2NaI (আয়োডোমেট্রিক পদ্ধতি)।",
+   "notes_en": "Halogens form ionic halides (X-) or covalent bonds. Ionic halide formation depends on X2 bond dissociation energy, electron affinity and lattice enthalpy (NaF -902, NaCl -771, NaBr -733, NaI -684 kJ/mol).\nF2 takes metals to their highest oxidation state: 2Fe+3F2->2FeF3, Pt+3F2->PtF6, Ag+F2->AgF2.\nCovalent: F has no 2d, one bond only; Cl, Br, I use excited d-orbitals for 3, 5, 7 bonds.\nOxidising power F > Cl > Br > I (E0 +2.87, +1.36, +1.07, +0.54 V).\nMetals: Fe+Cl2->FeCl3, Fe+Br2->FeBr3, Fe+I2->FeI2; Ag, Pt, Au do not react with Br2/I2.\nNonmetals: H2+F2 explosive even in dark at -200C; H2+Cl2 explosive in sunlight; Br2/I2 need >200C (Pt for I2). Xe+F2 -> XeF2/XeF4/XeF6 (Ni, heat, pressure); S gives SF6 with F2 but only SCl4 with Cl2. Interhalogens: ClF, ClF3, BrF3, IF7.\nReducing compounds are oxidised: SO2+2H2O+Cl2->H2SO4+2HCl; H2S+Cl2->S+2HCl; 2NH3+3Cl2->N2+6HCl; Na2S2O3+Cl2->Na2SO4+S+2HCl; 2Na2S2O3+I2->Na2S4O6+2NaI (iodometry).",
+   "mcqs": [
+    {
+     "question_bn": "কোন হ্যালোজেন সবচেয়ে শক্তিশালী জারক?",
+     "question_en": "Which halogen is the strongest oxidising agent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "I₂",
+       "en": "I2"
+      },
+      {
+       "id": "b",
+       "bn": "Br₂",
+       "en": "Br2"
+      },
+      {
+       "id": "c",
+       "bn": "Cl₂",
+       "en": "Cl2"
+      },
+      {
+       "id": "d",
+       "bn": "F₂",
+       "en": "F2"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "F₂-এর প্রমাণ বিজারণ বিভব +2.87 V সর্বোচ্চ।",
+     "explanation_en": "F2 has the highest E0, +2.87 V.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লোহার সঙ্গে আয়োডিনের বিক্রিয়ায় কোন যৌগ উৎপন্ন হয়?",
+     "question_en": "Which compound forms when iron reacts with iodine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "FeI₃",
+       "en": "FeI3"
+      },
+      {
+       "id": "b",
+       "bn": "FeI₂",
+       "en": "FeI2"
+      },
+      {
+       "id": "c",
+       "bn": "Fe₂I₃",
+       "en": "Fe2I3"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো বিক্রিয়া হয় না",
+       "en": "no reaction"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আয়োডিন দুর্বল জারক, তাই Fe(II) আয়োডাইড FeI₂ হয়।",
+     "explanation_en": "Weak oxidant iodine gives FeI2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সালফারের সঙ্গে F₂ বিক্রিয়ায় সর্বোচ্চ কোন যৌগ গঠন করে?",
+     "question_en": "What is the highest sulfur compound formed with F2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SF₂",
+       "en": "SF2"
+      },
+      {
+       "id": "b",
+       "bn": "SF₄",
+       "en": "SF4"
+      },
+      {
+       "id": "c",
+       "bn": "SF₆",
+       "en": "SF6"
+      },
+      {
+       "id": "d",
+       "bn": "S₂F₂",
+       "en": "S2F2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ক্ষুদ্র F পরমাণু ছয়টি S-এর চারপাশে ধরে; S + 3F₂ → SF₆।",
+     "explanation_en": "S + 3F2 -> SF6.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Cl₂ ও Na₂S₂O₃ দ্রবণের বিক্রিয়ার পর কোন হলুদ কঠিন পদার্থ পাওয়া যায়?",
+     "question_en": "Which yellow solid appears when Cl2 reacts with Na2S2O3 solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na₂SO₄",
+       "en": "Na2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "সালফার",
+       "en": "sulfur"
+      },
+      {
+       "id": "c",
+       "bn": "Na₂S₄O₆",
+       "en": "Na2S4O6"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl",
+       "en": "NaCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Na₂S₂O₃ + Cl₂ + H₂O → Na₂SO₄ + S + 2HCl।",
+     "explanation_en": "Na2S2O3 + Cl2 + H2O -> Na2SO4 + S + 2HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আয়োডিন দ্বারা সোডিয়াম থায়োসালফেট জারণে কোন লবণ উৎপন্ন হয়?",
+     "question_en": "Which salt forms when iodine oxidises sodium thiosulfate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na₂SO₄",
+       "en": "Na2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "Na₂SO₃",
+       "en": "Na2SO3"
+      },
+      {
+       "id": "c",
+       "bn": "Na₂S₄O₆",
+       "en": "Na2S4O6"
+      },
+      {
+       "id": "d",
+       "bn": "Na₂S",
+       "en": "Na2S"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2Na₂S₂O₃ + I₂ → Na₂S₄O₆ + 2NaI।",
+     "explanation_en": "2Na2S2O3 + I2 -> Na2S4O6 + 2NaI.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "F₂ নিষ্ক্রিয় গ্যাস Xe-র সঙ্গে কোন শর্তে বিক্রিয়া করে?",
+     "question_en": "Under what conditions does F2 react with Xe?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ঠাণ্ডা ও অন্ধকারে",
+       "en": "cold and dark"
+      },
+      {
+       "id": "b",
+       "bn": "Ni প্রভাবক, তাপ ও চাপে",
+       "en": "Ni catalyst, heat and pressure"
+      },
+      {
+       "id": "c",
+       "bn": "আলোতে ঘরের তাপমাত্রায়",
+       "en": "light at room temperature"
+      },
+      {
+       "id": "d",
+       "bn": "জলীয় দ্রবণে",
+       "en": "aqueous solution"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Xe + F₂ → XeF₂ (400°C, Ni)।",
+     "explanation_en": "Xe + F2 -> XeF2 at 400C over Ni.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.4",
+   "title_bn": "হ্যালোজেনসমূহের উৎস",
+   "title_en": "Occurrence of Halogens",
+   "notes_bn": "হ্যালোজেন অতি সক্রিয়, তাই মুক্ত অবস্থায় নয়, খনিজ যৌগরূপে থাকে।\nফ্লুরিন: ফ্লুরস্পার CaF₂, ক্রায়োলাইট 3NaF·AlF₃, ফ্লুর অ্যাপাটাইট CaF₂·3Ca₃(PO₄)₂।\nক্লোরিন: সমুদ্রের পানি (প্রায় 2.56% NaCl), খনিজ লবণ NaCl, সিলভাইন KCl, কায়নাইট KCl·MgSO₄·3H₂O, কার্নালাইট KCl·MgCl₂·6H₂O।\nব্রোমিন: সমুদ্রের পানিতে ম্যাগনেসিয়াম ব্রোমাইড; জার্মানির স্টাসফার্ট খনিতে কার্নালাইট-সহ ব্রোমো-কার্নালাইট (KBr·MgBr₂·6H₂O)।\nআয়োডিন: সামুদ্রিক শৈবালে প্রায় 0.5% আয়োডাইড (NaI, KI); চিলি সল্টপিটারে প্রায় 0.2% NaIO₃।",
+   "notes_en": "Halogens are too reactive to occur free; found as minerals.\nFluorine: fluorspar CaF2, cryolite 3NaF.AlF3, fluorapatite CaF2.3Ca3(PO4)2.\nChlorine: sea water (~2.56% NaCl), rock salt NaCl, sylvine KCl, kainite KCl.MgSO4.3H2O, carnallite KCl.MgCl2.6H2O.\nBromine: MgBr2 in sea water; bromo-carnallite (KBr.MgBr2.6H2O) at Stassfurt, Germany.\nIodine: ~0.5% iodides in seaweed ash; ~0.2% NaIO3 in Chile saltpetre.",
+   "mcqs": [
+    {
+     "question_bn": "ফ্লুরস্পারের সংকেত কোনটি?",
+     "question_en": "What is the formula of fluorspar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaF₂",
+       "en": "CaF2"
+      },
+      {
+       "id": "b",
+       "bn": "NaF",
+       "en": "NaF"
+      },
+      {
+       "id": "c",
+       "bn": "Na₃AlF₆",
+       "en": "Na3AlF6"
+      },
+      {
+       "id": "d",
+       "bn": "CaCl₂",
+       "en": "CaCl2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফ্লুরস্পার = CaF₂।",
+     "explanation_en": "Fluorspar = CaF2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কার্নালাইটের সংকেত কোনটি?",
+     "question_en": "Which is the formula of carnallite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KCl",
+       "en": "KCl"
+      },
+      {
+       "id": "b",
+       "bn": "KCl·MgCl₂·6H₂O",
+       "en": "KCl.MgCl2.6H2O"
+      },
+      {
+       "id": "c",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "d",
+       "bn": "KCl·MgSO₄·3H₂O",
+       "en": "KCl.MgSO4.3H2O"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "KCl·MgSO₄·3H₂O হলো কায়নাইট।",
+     "explanation_en": "KCl.MgSO4.3H2O is kainite.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "চিলি সল্টপিটারে আয়োডিন কোন যৌগরূপে থাকে?",
+     "question_en": "In what form does iodine occur in Chile saltpetre?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaI",
+       "en": "NaI"
+      },
+      {
+       "id": "b",
+       "bn": "NaIO₃",
+       "en": "NaIO3"
+      },
+      {
+       "id": "c",
+       "bn": "KI",
+       "en": "KI"
+      },
+      {
+       "id": "d",
+       "bn": "I₂",
+       "en": "I2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NaNO₃-এর সঙ্গে প্রায় 0.2% NaIO₃ থাকে।",
+     "explanation_en": "About 0.2% NaIO3 accompanies NaNO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্রায়োলাইটের সংকেত কোনটি?",
+     "question_en": "What is the formula of cryolite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaF₂",
+       "en": "CaF2"
+      },
+      {
+       "id": "b",
+       "bn": "3NaF·AlF₃",
+       "en": "3NaF.AlF3"
+      },
+      {
+       "id": "c",
+       "bn": "KCl·MgCl₂",
+       "en": "KCl.MgCl2"
+      },
+      {
+       "id": "d",
+       "bn": "CaF₂·3Ca₃(PO₄)₂",
+       "en": "CaF2.3Ca3(PO4)2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্রায়োলাইট 3NaF·AlF₃ (Na₃AlF₆)।",
+     "explanation_en": "Cryolite is 3NaF.AlF3.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.5",
+   "title_bn": "হ্যালোজেনের নিষ্কাশন",
+   "title_en": "Extraction of Halogens",
+   "notes_bn": "ফ্লুরিন: কোনো রাসায়নিক জারক যথেষ্ট শক্তিশালী নয়; গলিত CaF₂-এর তড়িৎ বিশ্লেষণ। ক্যাথোড: Ca²⁺ + 2e⁻ → Ca; অ্যানোড: 2F⁻ → F₂ + 2e⁻।\nক্লোরিন: গলিত NaCl-এর তড়িৎ বিশ্লেষণ (সোডিয়াম নিষ্কাশন); কস্টিক সোডা শিল্পে উপজাত হিসেবে।\nক্লোরিন পানি: ক্লোরিন-এর জলীয় দ্রবণ (Cl₂ + HClO), জারক হিসেবে কাজ করে। ব্লিচিং পাউডারে লঘু HCl দিলে Cl₂ পাওয়া যায়।\nব্রোমিন ও আয়োডিন: সক্রিয়তা ব্যবহার করে বিস্থাপন: 2KBr + Cl₂ → 2KCl + Br₂; 2KI + Br₂ → 2KBr + I₂; 2KI + Cl₂ → 2KCl + I₂।\nসামুদ্রিক শৈবাল (কেল্প) থেকে আয়োডিন: শৈবাল পুড়িয়ে ছাই (কেল্প) → পানিতে দ্রবীভূত করে ঘন ও শীতল করে সালফেট, ক্লোরাইড কেলাস পৃথক → মাতৃ দ্রবণে Cl₂ চালনা → 2I⁻ + Cl₂ → I₂ + 2Cl⁻।\nবিশুদ্ধি: আয়োডিন (ঊর্ধ্বপাতন, স্ফুটনাঙ্ক ~183°C) অ্যালুডেলে ঘনীভূত হয়; ব্রোমিন (~59°C) বাষ্প আগে বের হয়ে পানিতে শোষিত হয়।",
+   "notes_en": "Fluorine: no chemical oxidant strong enough; electrolyse molten CaF2 (cathode Ca2+ + 2e -> Ca; anode 2F- -> F2 + 2e).\nChlorine: electrolysis of molten NaCl; by-product of caustic soda industry. Chlorine water = Cl2 in water (Cl2 + HClO).\nBr2 and I2: displacement: 2KBr + Cl2 -> 2KCl + Br2; 2KI + Cl2 -> 2KCl + I2.\nIodine from kelp: burn seaweed, dissolve ash, crystallise sulfates/chlorides, pass Cl2 into mother liquor: 2I- + Cl2 -> I2 + 2Cl-.\nBr2 (b.p. ~59C) distils first and is absorbed in water; I2 (~183C) sublimes into aludel pots.",
+   "mcqs": [
+    {
+     "question_bn": "ফ্লুরিন প্রস্তুতিতে কোন পদ্ধতি ব্যবহৃত হয়?",
+     "question_en": "Which method is used to prepare fluorine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MnO₂ ও HCl",
+       "en": "MnO2 with HCl"
+      },
+      {
+       "id": "b",
+       "bn": "গলিত CaF₂-এর তড়িৎ বিশ্লেষণ",
+       "en": "electrolysis of molten CaF2"
+      },
+      {
+       "id": "c",
+       "bn": "Cl₂ দ্বারা বিস্থাপন",
+       "en": "displacement by Cl2"
+      },
+      {
+       "id": "d",
+       "bn": "KMnO₄ জারণ",
+       "en": "KMnO4 oxidation"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফ্লুরাইডকে জারিত করার মতো রাসায়নিক জারক নেই।",
+     "explanation_en": "No chemical oxidant can oxidise fluoride.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "2KI + Cl₂ → 2KCl + I₂ বিক্রিয়াটি কোন ধর্মের ওপর ভিত্তি করে?",
+     "question_en": "On which property is 2KI + Cl2 -> 2KCl + I2 based?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরিনের বেশি জারণ ক্ষমতা",
+       "en": "greater oxidising power of Cl2"
+      },
+      {
+       "id": "b",
+       "bn": "আয়োডিনের বেশি জারণ ক্ষমতা",
+       "en": "greater oxidising power of I2"
+      },
+      {
+       "id": "c",
+       "bn": "ক্লোরিনের ক্ষারধর্ম",
+       "en": "basic nature of Cl2"
+      },
+      {
+       "id": "d",
+       "bn": "KI-এর অম্লতা",
+       "en": "acidity of KI"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Cl₂ আয়োডাইডকে জারিত করে I₂ মুক্ত করে।",
+     "explanation_en": "Cl2 oxidises iodide to I2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফ্লুরিন প্রস্তুতিতে অ্যানোডে কোন বিক্রিয়া ঘটে?",
+     "question_en": "What occurs at the anode in preparing fluorine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ca²⁺ + 2e⁻ → Ca",
+       "en": "Ca2+ + 2e- -> Ca"
+      },
+      {
+       "id": "b",
+       "bn": "2F⁻ → F₂ + 2e⁻",
+       "en": "2F- -> F2 + 2e-"
+      },
+      {
+       "id": "c",
+       "bn": "2H⁺ + 2e⁻ → H₂",
+       "en": "2H+ + 2e- -> H2"
+      },
+      {
+       "id": "d",
+       "bn": "Na⁺ + e⁻ → Na",
+       "en": "Na+ + e- -> Na"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যানোডে জারণ: ফ্লুরাইড F₂ হয়।",
+     "explanation_en": "Fluoride is oxidised to F2 at the anode.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কেল্প থেকে আয়োডিন নিষ্কাশনে মাতৃ দ্রবণে কী চালনা করা হয়?",
+     "question_en": "What is passed into the mother liquor in iodine extraction from kelp?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂ গ্যাস",
+       "en": "H2 gas"
+      },
+      {
+       "id": "b",
+       "bn": "Cl₂ গ্যাস",
+       "en": "Cl2 gas"
+      },
+      {
+       "id": "c",
+       "bn": "N₂ গ্যাস",
+       "en": "N2 gas"
+      },
+      {
+       "id": "d",
+       "bn": "HCl গ্যাস",
+       "en": "HCl gas"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cl₂ দ্বারা I⁻ জারিত হয়ে I₂ উৎপন্ন হয়।",
+     "explanation_en": "Cl2 oxidises I- to I2.",
+     "difficulty": "basic"
+    }
+   ]
+  },
+  {
+   "section_no": "2.6",
+   "title_bn": "পানির সাথে হ্যালোজেনের বিক্রিয়া",
+   "title_en": "Reactions of Halogens with Water",
+   "notes_bn": "O₂ + 4H⁺ + 4e⁻ ⇌ 2H₂O-এর E° = +1.23 V; F₂ (+2.87) ও Cl₂ (+1.36 V) পানিকে জারিত করতে পারে, Br₂ ও I₂ পারে না।\nF₂: 2F₂ + 2H₂O → 4HF + O₂ (20°C); বেশি তাপমাত্রায় কিছু ওজোন (O₃) উৎপন্ন হয়: 3F₂ + 3H₂O → 6HF + O₃।\nCl₂ পানির সঙ্গে ধীরে বিক্রিয়া করে HCl ও HClO দেয়: Cl₂ + H₂O → HCl + HClO। ক্লোরিনের জারণ সংখ্যা 0 থেকে −1 (HCl) এবং +1 (HClO) — একই পরমাণুর যুগপৎ জারণ-বিজারণকে অসামঞ্জস্যতা বিক্রিয়া বলে।\nHClO আলোতে বিয়োজিত হয়: 2HClO → 2H⁺ + 2Cl⁻ + O₂।\nক্ষারের সঙ্গে (অসামঞ্জস্যতা): ঠাণ্ডা লঘু NaOH + Cl₂ → NaCl + NaClO + H₂O; 70°C-এ উত্তপ্ত ক্ষার: 3NaClO → NaClO₃ + 2NaCl।\nBr₂, I₂ ক্ষারে: 3Br₂ + 6OH⁻ → 5Br⁻ + BrO₃⁻ + 3H₂O; I₂-ও অনুরূপ।\nF₂ + ক্ষার: ঠাণ্ডা লঘু ক্ষারে OF₂ (2F₂ + 2OH⁻ → OF₂ + 2F⁻ + H₂O); উত্তপ্ত ঘন ক্ষারে O₂।\nশুষ্ক কলিচুন + Cl₂ (≈40°C) → ব্লিচিং পাউডার Ca(OCl)Cl; চুনের পানি + Cl₂ (25°C) → Ca(ClO)₂ + CaCl₂।\nব্যবহার: NaClO মৃদু জীবাণুনাশক; NaClO₃ আগাছা বিনাশক।",
+   "notes_en": "E0(O2/H2O) = +1.23 V; F2 (+2.87) and Cl2 (+1.36) can oxidise water, Br2 and I2 cannot.\nF2: 2F2 + 2H2O -> 4HF + O2 (20C); some O3 forms at higher temperature.\nCl2 + H2O -> HCl + HClO: Cl goes 0 -> -1 and +1, a disproportionation. 2HClO -> 2H+ + 2Cl- + O2 in light.\nCold dilute NaOH + Cl2 -> NaCl + NaClO + H2O; hot (70C): 3NaClO -> NaClO3 + 2NaCl.\nBr2/I2 with alkali: 3Br2 + 6OH- -> 5Br- + BrO3- + 3H2O.\nF2: cold dilute alkali gives OF2; hot conc. alkali gives O2.\nDry slaked lime + Cl2 (~40C) -> bleaching powder; lime water + Cl2 (25C) -> Ca(ClO)2 + CaCl2.\nUses: NaClO mild antiseptic; NaClO3 weed killer.",
+   "mcqs": [
+    {
+     "question_bn": "Cl₂ + H₂O → HCl + HClO বিক্রিয়াটি কোন ধরনের?",
+     "question_en": "What type of reaction is Cl2 + H2O -> HCl + HClO?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রতিস্থাপন",
+       "en": "displacement"
+      },
+      {
+       "id": "b",
+       "bn": "অসামঞ্জস্যতা",
+       "en": "disproportionation"
+      },
+      {
+       "id": "c",
+       "bn": "প্রশমন",
+       "en": "neutralisation"
+      },
+      {
+       "id": "d",
+       "bn": "সংযোজন",
+       "en": "addition"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "একই Cl একই সঙ্গে জারিত (+1) ও বিজারিত (−1) হয়েছে।",
+     "explanation_en": "The same Cl is oxidised (+1) and reduced (-1).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "HClO-তে ক্লোরিনের জারণ সংখ্যা কত?",
+     "question_en": "What is the oxidation number of Cl in HClO?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−1",
+       "en": "-1"
+      },
+      {
+       "id": "b",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "c",
+       "bn": "+1",
+       "en": "+1"
+      },
+      {
+       "id": "d",
+       "bn": "+5",
+       "en": "+5"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "H = +1, O = −2 হলে Cl = +1।",
+     "explanation_en": "H +1, O -2 gives Cl +1.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন হ্যালোজেন কক্ষ তাপমাত্রায় পানিকে জারিত করে O₂ উৎপন্ন করে?",
+     "question_en": "Which halogen oxidises water to O2 at room temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "I₂",
+       "en": "I2"
+      },
+      {
+       "id": "b",
+       "bn": "Br₂",
+       "en": "Br2"
+      },
+      {
+       "id": "c",
+       "bn": "F₂",
+       "en": "F2"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "none"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "F₂-এর E° = +2.87 V; 2F₂ + 2H₂O → 4HF + O₂।",
+     "explanation_en": "F2 (E0 +2.87 V) gives 4HF + O2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উত্তপ্ত (≈70°C) NaOH-এ Cl₂ চালনা করলে অস্থায়ী NaClO থেকে শেষে কী উৎপন্ন হয়?",
+     "question_en": "On heating NaClO at ~70C, what products form?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaClO₃ ও NaCl",
+       "en": "NaClO3 and NaCl"
+      },
+      {
+       "id": "b",
+       "bn": "NaClO₄ ও NaCl",
+       "en": "NaClO4 and NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "Cl₂ ও NaOH",
+       "en": "Cl2 and NaOH"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl ও O₂",
+       "en": "NaCl and O2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "3NaClO → NaClO₃ + 2NaCl।",
+     "explanation_en": "3NaClO -> NaClO3 + 2NaCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উত্তপ্ত ঘন ক্ষারের সঙ্গে F₂ বিক্রিয়ায় কোন গ্যাস উৎপন্ন হয়?",
+     "question_en": "Which gas forms when F2 reacts with hot concentrated alkali?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "OF₂",
+       "en": "OF2"
+      },
+      {
+       "id": "b",
+       "bn": "O₂",
+       "en": "O2"
+      },
+      {
+       "id": "c",
+       "bn": "Cl₂",
+       "en": "Cl2"
+      },
+      {
+       "id": "d",
+       "bn": "H₂",
+       "en": "H2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "4OH⁻ সহ উত্তপ্ত অবস্থায় O₂ ও F⁻ উৎপন্ন হয়; ঠাণ্ডা লঘুতে OF₂।",
+     "explanation_en": "Hot conc. gives O2; cold dilute gives OF2.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "চুনের পানিতে (25°C) Cl₂ চালনা করলে কোন জোড়া উৎপন্ন হয়?",
+     "question_en": "Which pair forms when Cl2 is passed into lime water at 25C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ca(OCl)Cl ও H₂",
+       "en": "Ca(OCl)Cl and H2"
+      },
+      {
+       "id": "b",
+       "bn": "Ca(ClO)₂ ও CaCl₂",
+       "en": "Ca(ClO)2 and CaCl2"
+      },
+      {
+       "id": "c",
+       "bn": "CaCO₃ ও HCl",
+       "en": "CaCO3 and HCl"
+      },
+      {
+       "id": "d",
+       "bn": "CaO ও Cl₂",
+       "en": "CaO and Cl2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2Cl₂ + 2Ca(OH)₂ → Ca(ClO)₂ + CaCl₂ + 2H₂O।",
+     "explanation_en": "2Cl2 + 2Ca(OH)2 -> Ca(ClO)2 + CaCl2 + 2H2O.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.7",
+   "title_bn": "ক্লোরিনের বিরঞ্জন ক্রিয়া ও জীবাণুনাশক ক্রিয়া",
+   "title_en": "Bleaching and Germicidal Action of Chlorine",
+   "notes_bn": "বিরঞ্জন: যে রাসায়নিক পদার্থ পানির উপস্থিতিতে জারণ বা বিজারণ দ্বারা রঙিন বস্তুকে বর্ণহীন করে। Cl₂ ও SO₂ দুটি বিরঞ্জক।\nCl₂ আর্দ্র অবস্থায় জারণ পদ্ধতিতে বিরঞ্জন করে: Cl₂ + H₂O → HCl + HOCl; HOCl → HCl + [O]; রঙিন বস্তু + [O] → বর্ণহীন জারিত বস্তু।\nজীবাণুনাশক: HClO বিয়োজিত হয়ে জায়মান অক্সিজেন [O] দেয়, যা জীবাণু কোষকে ধ্বংস করে। তাই ক্লোরিন পানি শক্তিশালী জীবাণুনাশক।\nCl₂ বনাম SO₂: দুটিই আর্দ্রতায় কাজ করে (শুষ্কে নয়)। Cl₂ জারণ পদ্ধতিতে, SO₂ বিজারণ পদ্ধতিতে (SO₂ + 2H₂O → H₂SO₄ + 2[H])।\nCl₂ তীব্র বিরঞ্জক (সুতা, গেঞ্জি), SO₂ মৃদু (উল, সিল্ক)।\nCl₂-এর বিরঞ্জন স্থায়ী; SO₂-এর অস্থায়ী (বায়ুর O₂ দ্বারা রং ফিরে আসে)।",
+   "notes_en": "Bleaching: decolourising coloured matter in presence of water by oxidation or reduction; Cl2 and SO2 are bleaches.\nMoist Cl2 oxidises: Cl2 + H2O -> HCl + HOCl; HOCl -> HCl + [O]; dye + [O] -> colourless oxidised product.\nGermicidal: HClO releases nascent oxygen that destroys germ cells; chlorine water is a strong germicide.\nCl2 vs SO2: both need moisture; Cl2 bleaches by oxidation, SO2 by reduction (SO2 + 2H2O -> H2SO4 + 2[H]).\nCl2 is strong (cotton, linen); SO2 mild (wool, silk).\nCl2 bleaching is permanent; SO2 bleaching is temporary (colour partly returns in air).",
+   "mcqs": [
+    {
+     "question_bn": "আর্দ্র ক্লোরিন কীভাবে বিরঞ্জন করে?",
+     "question_en": "How does moist chlorine bleach?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিজারণ দ্বারা",
+       "en": "by reduction"
+      },
+      {
+       "id": "b",
+       "bn": "জারণ দ্বারা",
+       "en": "by oxidation"
+      },
+      {
+       "id": "c",
+       "bn": "নিরপেক্ষকরণ দ্বারা",
+       "en": "by neutralisation"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিড-ক্ষার বিক্রিয়ায়",
+       "en": "by acid-base reaction"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "HOCl ভেঙে [O] তৈরি করে যা রঙিন বস্তুকে জারিত করে।",
+     "explanation_en": "HOCl gives [O], oxidising the dye.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "SO₂-এর বিরঞ্জন কোন ধর্মের কারণে?",
+     "question_en": "SO2 bleaches because of which property?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জারণ",
+       "en": "oxidation"
+      },
+      {
+       "id": "b",
+       "bn": "বিজারণ",
+       "en": "reduction"
+      },
+      {
+       "id": "c",
+       "bn": "দাহ্যতা",
+       "en": "combustibility"
+      },
+      {
+       "id": "d",
+       "bn": "অম্লতা",
+       "en": "acidity"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "SO₂ জলীয় দ্রবণে জায়মান হাইড্রোজেন দেয়।",
+     "explanation_en": "SO2 gives nascent hydrogen in water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উল ও সিল্ক বিরঞ্জনে কোনটি উপযোগী?",
+     "question_en": "Which is suitable for bleaching wool and silk?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl₂",
+       "en": "Cl2"
+      },
+      {
+       "id": "b",
+       "bn": "SO₂",
+       "en": "SO2"
+      },
+      {
+       "id": "c",
+       "bn": "F₂",
+       "en": "F2"
+      },
+      {
+       "id": "d",
+       "bn": "HCl",
+       "en": "HCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সূক্ষ্ম তন্তুর জন্য মৃদু বিরঞ্জক SO₂।",
+     "explanation_en": "Mild bleach SO2 suits delicate fibres.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Cl₂ ও SO₂-এর বিরঞ্জন ক্রিয়ার তুলনায় নিচের কোনটি সঠিক?",
+     "question_en": "Which comparison of Cl2 and SO2 bleaching is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl₂-এর ক্রিয়া অস্থায়ী",
+       "en": "Cl2 effect is temporary"
+      },
+      {
+       "id": "b",
+       "bn": "SO₂-এর ক্রিয়া স্থায়ী",
+       "en": "SO2 effect is permanent"
+      },
+      {
+       "id": "c",
+       "bn": "Cl₂-এর ক্রিয়া স্থায়ী, SO₂-এর অস্থায়ী",
+       "en": "Cl2 permanent, SO2 temporary"
+      },
+      {
+       "id": "d",
+       "bn": "দুটিই শুষ্ক অবস্থায় কার্যকর",
+       "en": "both work when dry"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "SO₂-এ বিরঞ্জিত বস্তু বায়ুতে জারিত হয়ে রং ফিরে পায়।",
+     "explanation_en": "SO2-bleached matter regains colour in air.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.8",
+   "title_bn": "ধাতব হ্যালাইডসমূহ",
+   "title_en": "Metal Halides",
+   "notes_bn": "অনার্দ্র প্রস্তুতি: ধাতু + শুষ্ক X₂ বা HX(g)। পরিবর্তনশীল যোজ্যতা: X₂ দিয়ে উচ্চ জারণ (2Fe + 3Cl₂ → 2FeCl₃), HX(g) দিয়ে নিম্ন জারণ (Fe + 2HCl → FeCl₂ + H₂)। ব্যতিক্রম: Fe + I₂ → FeI₂; Cu + I₂ → CuI।\nআর্দ্র প্রস্তুতি: ধাতু/অক্সাইড/কার্বনেট + HX(aq): Zn + 2HCl → ZnCl₂ + H₂; CuO + 2HCl → CuCl₂ + H₂O।\nগাঢ় H₂SO₄ দিয়ে: CaF₂ + H₂SO₄ → CaSO₄ + 2HF (HF কাচ ক্ষয় করে: SiO₂ + 4HF → SiF₄ + 2H₂O; SiF₄ + 2HF → H₂SiF₆; তাই প্লাটিনাম পাত্র)।\nNaCl + H₂SO₄ → NaHSO₄ + HCl (200°C); 500°C-এর ওপর NaCl + NaHSO₄ → Na₂SO₄ + HCl।\nNaBr/NaI-এর বেলায় HBr/HI উৎপন্ন হয়ে গাঢ় H₂SO₄ দ্বারা জারিত হয়ে Br₂/I₂ দেয় (H₂SO₄ বিজারিত হয়ে SO₂)। সাধারণ হ্যালোজেন প্রস্তুতি: 2NaX + 3H₂SO₄ + MnO₂ → 2NaHSO₄ + MnSO₄ + X₂ + 2H₂O (F₂ বাদে)।\nসোদক হ্যালাইড (MgCl₂·6H₂O, AlCl₃·6H₂O) উত্তপ্ত করলে আর্দ্র বিশ্লেষণ হয়; HCl গ্যাসের স্রোতে উত্তপ্ত করে অনার্দ্র MgCl₂ পাওয়া যায়।\nঅধিকাংশ ধাতব হ্যালাইড পানিতে দ্রবণীয়; ব্যতিক্রম: সীসা, সিলভার, মারকিউরাস (I) হ্যালাইড।",
+   "notes_en": "Anhydrous: metal + dry X2 or HX(g). Variable valency metals: X2 gives higher oxidation state (2Fe+3Cl2->2FeCl3), HX gives lower (Fe+2HCl->FeCl2+H2). Exceptions: Fe+I2->FeI2; Cu+I2->CuI.\nHydrated: metal/oxide/carbonate + aqueous HX.\nConc. H2SO4: CaF2 + H2SO4 -> CaSO4 + 2HF (HF attacks glass, so platinum vessels); NaCl + H2SO4 -> NaHSO4 + HCl at ~200C, Na2SO4 above ~500C.\nHBr and HI are oxidised by hot conc. H2SO4 to Br2/I2 (H2SO4 -> SO2). General halogen method: 2NaX + 3H2SO4 + MnO2 -> 2NaHSO4 + MnSO4 + X2 + 2H2O (not for F2).\nHydrated MgCl2.6H2O, AlCl3.6H2O hydrolyse on heating; heat in a stream of HCl to get anhydrous MgCl2.\nMost metal halides dissolve in water; exceptions are Pb, Ag, Hg(I) halides.",
+   "mcqs": [
+    {
+     "question_bn": "Fe-কে শুষ্ক Cl₂-এর সঙ্গে উত্তপ্ত করলে কী উৎপন্ন হয়?",
+     "question_en": "What forms on heating Fe with dry Cl2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "FeCl₂",
+       "en": "FeCl2"
+      },
+      {
+       "id": "b",
+       "bn": "FeCl₃",
+       "en": "FeCl3"
+      },
+      {
+       "id": "c",
+       "bn": "Fe₂Cl",
+       "en": "Fe2Cl"
+      },
+      {
+       "id": "d",
+       "bn": "FeCl₄",
+       "en": "FeCl4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cl₂ উচ্চ জারণ সংখ্যায় লোহাকে নেয়: FeCl₃।",
+     "explanation_en": "Cl2 gives the higher oxidation state FeCl3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Fe-কে শুষ্ক HCl গ্যাসের সঙ্গে উত্তপ্ত করলে কী উৎপন্ন হয়?",
+     "question_en": "What forms on heating Fe with dry HCl gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "FeCl₃",
+       "en": "FeCl3"
+      },
+      {
+       "id": "b",
+       "bn": "FeCl₂",
+       "en": "FeCl2"
+      },
+      {
+       "id": "c",
+       "bn": "Fe₂O₃",
+       "en": "Fe2O3"
+      },
+      {
+       "id": "d",
+       "bn": "FeH₂",
+       "en": "FeH2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Fe + 2HCl → FeCl₂ + H₂।",
+     "explanation_en": "Fe + 2HCl -> FeCl2 + H2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোন যৌগ গাঢ় H₂SO₄-এর সঙ্গে উত্তপ্ত করলে HF দেয়?",
+     "question_en": "Which compound gives HF on heating with conc. H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "b",
+       "bn": "CaF₂",
+       "en": "CaF2"
+      },
+      {
+       "id": "c",
+       "bn": "KBr",
+       "en": "KBr"
+      },
+      {
+       "id": "d",
+       "bn": "KI",
+       "en": "KI"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CaF₂ + H₂SO₄ → CaSO₄ + 2HF।",
+     "explanation_en": "CaF2 + H2SO4 -> CaSO4 + 2HF.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NaBr-এর সঙ্গে গাঢ় H₂SO₄ উত্তপ্ত করলে কোন বাষ্প পাওয়া যায়?",
+     "question_en": "Which vapour is obtained on heating NaBr with conc. H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুধু HBr",
+       "en": "only HBr"
+      },
+      {
+       "id": "b",
+       "bn": "Br₂ ও SO₂",
+       "en": "Br2 and SO2"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু H₂",
+       "en": "only H2"
+      },
+      {
+       "id": "d",
+       "bn": "Cl₂",
+       "en": "Cl2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "HBr গাঢ় H₂SO₄ দ্বারা জারিত হয়ে Br₂ দেয় এবং H₂SO₄ বিজারিত হয়ে SO₂ দেয়।",
+     "explanation_en": "HBr is oxidised to Br2 while H2SO4 gives SO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "MnO₂ + গাঢ় H₂SO₄ দ্বারা কোন হ্যালাইড থেকে হ্যালোজেন প্রস্তুত করা যায় না?",
+     "question_en": "From which halide can halogen not be prepared by MnO2 + conc. H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "b",
+       "bn": "NaBr",
+       "en": "NaBr"
+      },
+      {
+       "id": "c",
+       "bn": "NaI",
+       "en": "NaI"
+      },
+      {
+       "id": "d",
+       "bn": "NaF",
+       "en": "NaF"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "ফ্লুরাইডকে জারিত করার মতো শক্তিশালী জারক নেই।",
+     "explanation_en": "No oxidant can oxidise fluoride.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "MgCl₂·6H₂O উত্তপ্ত করে অনার্দ্র MgCl₂ পেতে কী ব্যবহার করা হয়?",
+     "question_en": "What is used when heating MgCl2.6H2O to obtain anhydrous MgCl2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুষ্ক HCl গ্যাসের স্রোত",
+       "en": "a stream of dry HCl gas"
+      },
+      {
+       "id": "b",
+       "bn": "জলীয় বাষ্প",
+       "en": "steam"
+      },
+      {
+       "id": "c",
+       "bn": "CO₂",
+       "en": "CO2"
+      },
+      {
+       "id": "d",
+       "bn": "H₂",
+       "en": "H2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HCl আর্দ্র বিশ্লেষণ (MgCl(OH) গঠন) রোধ করে।",
+     "explanation_en": "HCl suppresses hydrolysis.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.9",
+   "title_bn": "অধাতব হ্যালাইডসমূহ",
+   "title_en": "Non-metal Halides",
+   "notes_bn": "প্রস্তুতি: অধাতু + হ্যালোজেন; উৎপন্ন যৌগে অধাতুর সর্বোচ্চ জারণ অবস্থা (হ্যালোজেনের পরিমাণ/শক্তির ওপর নির্ভর): 2P + 5F₂ → 2PF₅; 2P + 3Cl₂ → 2PCl₃ (অল্প Cl₂); 2P + 5Cl₂ → 2PCl₅ (বেশি Cl₂); 2P + 3Br₂ → 2PBr₃।\nগলিত সালফারে শুষ্ক Cl₂: 2S + Cl₂ → S₂Cl₂ (হলুদ বর্ণের তৈলাক্ত তরল); আরও Cl₂ দিয়ে S₂Cl₂ + Cl₂ → 2SCl₂ (গাঢ় লাল তরল)।\nআর্দ্র বিশ্লেষণ: SiCl₄ + 4H₂O → H₄SiO₄ + 4HCl; PCl₃ + 3H₂O → H₃PO₃ + 3HCl; 2S₂Cl₂ + 2H₂O → SO₂ + 4HCl + 3S।\nব্যতিক্রম: CCl₄ আর্দ্র বিশ্লেষিত হয় না কারণ কার্বনের 3d অরবিটাল নেই, সম্প্রসারিত যোজ্যতা সম্ভব নয়; Si ও P-এর 3d অরবিটাল থাকায় পানির O পরমাণুর নিঃসঙ্গ জোড়া গ্রহণ করে বিশ্লেষণ ঘটে।",
+   "notes_en": "Preparation: nonmetal + halogen; the nonmetal reaches the highest oxidation state possible with that halogen: 2P+5F2->2PF5; 2P+3Cl2->2PCl3 (limited Cl2); 2P+5Cl2->2PCl5 (excess); 2P+3Br2->2PBr3.\nMolten S + dry Cl2 -> S2Cl2 (yellow oily liquid); more Cl2 -> SCl2 (deep red liquid).\nHydrolysis: SiCl4 + 4H2O -> H4SiO4 + 4HCl; PCl3 + 3H2O -> H3PO3 + 3HCl; 2S2Cl2 + 2H2O -> SO2 + 4HCl + 3S.\nException: CCl4 does not hydrolyse because carbon has no 3d orbital; Si and P use 3d orbitals to accept water's lone pair.",
+   "mcqs": [
+    {
+     "question_bn": "ফসফরাস অতিরিক্ত Cl₂-এর সঙ্গে বিক্রিয়ায় কী উৎপন্ন করে?",
+     "question_en": "What does phosphorus form with excess Cl2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "PCl₃",
+       "en": "PCl3"
+      },
+      {
+       "id": "b",
+       "bn": "PCl₅",
+       "en": "PCl5"
+      },
+      {
+       "id": "c",
+       "bn": "P₂Cl₄",
+       "en": "P2Cl4"
+      },
+      {
+       "id": "d",
+       "bn": "PCl",
+       "en": "PCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বেশি Cl₂ দিলে PCl₅ হয়।",
+     "explanation_en": "Excess Cl2 gives PCl5.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "PCl₃-এর আর্দ্র বিশ্লেষণে কোন অ্যাসিড উৎপন্ন হয়?",
+     "question_en": "Which acid forms by hydrolysis of PCl3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₃PO₄",
+       "en": "H3PO4"
+      },
+      {
+       "id": "b",
+       "bn": "H₃PO₃",
+       "en": "H3PO3"
+      },
+      {
+       "id": "c",
+       "bn": "H₂SO₄",
+       "en": "H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "H₄SiO₄",
+       "en": "H4SiO4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "PCl₃ + 3H₂O → H₃PO₃ + 3HCl।",
+     "explanation_en": "PCl3 + 3H2O -> H3PO3 + 3HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CCl₄ কেন আর্দ্র বিশ্লেষিত হয় না?",
+     "question_en": "Why is CCl4 not hydrolysed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C-Cl বন্ধন আয়নিক",
+       "en": "C-Cl bond is ionic"
+      },
+      {
+       "id": "b",
+       "bn": "কার্বনের 3d অরবিটাল নেই",
+       "en": "carbon has no 3d orbitals"
+      },
+      {
+       "id": "c",
+       "bn": "CCl₄ পানিতে দ্রবণীয়",
+       "en": "CCl4 is water soluble"
+      },
+      {
+       "id": "d",
+       "bn": "Cl-এর আকার বড়",
+       "en": "Cl is large"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বনে সম্প্রসারিত যোজ্যতা সম্ভব নয়।",
+     "explanation_en": "Carbon cannot expand its valency.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সালফার ও Cl₂-এর বিক্রিয়ায় প্রথমে হলুদ তৈলাক্ত যে তরল পাওয়া যায় তা কী?",
+     "question_en": "The first yellow oily liquid from S and Cl2 is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SCl₂",
+       "en": "SCl2"
+      },
+      {
+       "id": "b",
+       "bn": "S₂Cl₂",
+       "en": "S2Cl2"
+      },
+      {
+       "id": "c",
+       "bn": "SCl₄",
+       "en": "SCl4"
+      },
+      {
+       "id": "d",
+       "bn": "SF₆",
+       "en": "SF6"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2S + Cl₂ → S₂Cl₂; আরও Cl₂-এ গাঢ় লাল SCl₂।",
+     "explanation_en": "2S + Cl2 -> S2Cl2; more Cl2 gives red SCl2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.10",
+   "title_bn": "হাইড্রোজেন হ্যালাইডসমূহের প্রস্তুতি ও সাধারণ ধর্ম",
+   "title_en": "Preparation and General Properties of HX",
+   "notes_bn": "প্রস্তুতি: (১) H₂ + X₂ সংশ্লেষণ (HCl-এর জন্য উপযোগী: H₂ + Cl₂ → 2HCl; F₂ বিস্ফোরক, Br₂/I₂ ধীর ও অল্প ফলন); (২) ধাতব হ্যালাইড + গাঢ় H₂SO₄ (HF ও HCl-এর জন্য; HBr, HI-এর জন্য নয় কারণ জারিত হয়); (৩) ফসফরাস হ্যালাইডের আর্দ্র বিশ্লেষণ (HBr, HI)।\nNaCl + H₂SO₄ → HCl + NaHSO₄; CaF₂ + 2H₂SO₄ → 2HF + Ca(HSO₄)₂ (বিশেষ ক্ষেত্রে)। লোহিত P + Br₂ → PBr₃; PBr₃ + 3H₂O → 3HBr + H₃PO₃। একইভাবে PI₃ → HI।\nভৌত ধর্ম: সবাই বর্ণহীন গ্যাস; HF বিষাক্ত, 20°C-এর নিচে তরল (স্ফুটনাঙ্ক 20°C)। স্ফুটনাঙ্ক: HF 20, HCl −85, HBr −67, HI −35°C।\nপানিতে দ্রবণীয়তা (g/100 g): HF 98, HCl 93, HBr 221, HI 425।\nবন্ধন বিয়োজন এনথালপি (kJ/mol): HF +560, HCl +430, HBr +370, HI +300।\nKa: HF 5.62×10⁻⁴ (pKa 3.25), HCl pKa −7.4, HBr −9.5, HI −10। স্থির স্ফুটন মিশ্রণ: HF 36% (120°C), HCl 20.24% (110°C), HBr 47.5% (126°C), HI 57% (126°C)।\nতাপ স্থায়িত্ব: HF ও HCl 1100°C পর্যন্ত স্থায়ী; 440°C-এ HBr 1%, HI 20% বিয়োজিত হয়।",
+   "notes_en": "Preparation: (1) synthesis H2 + X2 (good for HCl; F2 explosive, Br2/I2 slow); (2) metal halide + conc. H2SO4 (for HF, HCl; not HBr/HI since they get oxidised); (3) hydrolysis of phosphorus halides (HBr, HI).\nNaCl + H2SO4 -> HCl + NaHSO4; red P + Br2 -> PBr3, PBr3 + 3H2O -> 3HBr + H3PO3; similarly PI3 -> HI.\nAll are colourless gases; HF toxic, b.p. 20C. b.p.: HF 20, HCl -85, HBr -67, HI -35 C.\nSolubility (g/100 g water): 98, 93, 221, 425.\nBond dissociation enthalpy (kJ/mol): HF +560, HCl +430, HBr +370, HI +300.\nHF Ka 5.62e-4 (pKa 3.25); HCl pKa -7.4; HBr -9.5; HI -10. Azeotropes: HF 36% (120C), HCl 20.24% (110C), HBr 47.5% (126C), HI 57% (126C).\nStability: HF, HCl stable to 1100C; at 440C HBr 1%, HI 20% dissociated.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটির পানিতে দ্রাব্যতা সর্বাধিক (g/100 g পানি)?",
+     "question_en": "Which HX has the highest water solubility (g/100 g)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HF (98)",
+       "en": "HF (98)"
+      },
+      {
+       "id": "b",
+       "bn": "HCl (93)",
+       "en": "HCl (93)"
+      },
+      {
+       "id": "c",
+       "bn": "HBr (221)",
+       "en": "HBr (221)"
+      },
+      {
+       "id": "d",
+       "bn": "HI (425)",
+       "en": "HI (425)"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "সারণিতে HI-এর মান 425।",
+     "explanation_en": "Table gives 425 for HI.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন হাইড্রোজেন হ্যালাইডকে NaX + গাঢ় H₂SO₄ দ্বারা প্রস্তুত করা যায় না?",
+     "question_en": "Which HX cannot be prepared from NaX + conc. H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HF",
+       "en": "HF"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "HBr",
+       "en": "HBr"
+      },
+      {
+       "id": "d",
+       "bn": "(a) ও (b)",
+       "en": "(a) and (b)"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "HBr ও HI জারিত হয়ে Br₂ ও I₂ দেয়।",
+     "explanation_en": "HBr and HI are oxidised to Br2 and I2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "PBr₃-এর আর্দ্র বিশ্লেষণে কী পাওয়া যায়?",
+     "question_en": "What is obtained by hydrolysis of PBr3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HBr ও H₃PO₃",
+       "en": "HBr and H3PO3"
+      },
+      {
+       "id": "b",
+       "bn": "Br₂ ও P",
+       "en": "Br2 and P"
+      },
+      {
+       "id": "c",
+       "bn": "HBr ও H₃PO₄",
+       "en": "HBr and H3PO4"
+      },
+      {
+       "id": "d",
+       "bn": "PH₃ ও Br₂",
+       "en": "PH3 and Br2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "PBr₃ + 3H₂O → 3HBr + H₃PO₃।",
+     "explanation_en": "PBr3 + 3H2O -> 3HBr + H3PO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "430 kJ/mol বন্ধন বিয়োজন এনথালপি কোনটির?",
+     "question_en": "Which HX has a bond dissociation enthalpy of +430 kJ/mol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HF",
+       "en": "HF"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "HBr",
+       "en": "HBr"
+      },
+      {
+       "id": "d",
+       "bn": "HI",
+       "en": "HI"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "HF 560, HCl 430, HBr 370, HI 300।",
+     "explanation_en": "HF 560, HCl 430, HBr 370, HI 300.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "440°C-এ কোন গ্যাস প্রায় 20% বিয়োজিত হয়?",
+     "question_en": "Which gas is ~20% dissociated at 440C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HF",
+       "en": "HF"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "HBr",
+       "en": "HBr"
+      },
+      {
+       "id": "d",
+       "bn": "HI",
+       "en": "HI"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "HI সবচেয়ে কম স্থায়ী; HBr মাত্র 1%।",
+     "explanation_en": "HI is least stable; HBr only 1%.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনটির স্থির স্ফুটন মিশ্রণে সংযুক্তি প্রায় 20.24%?",
+     "question_en": "Which azeotrope has about 20.24% composition?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HF",
+       "en": "HF"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "HBr",
+       "en": "HBr"
+      },
+      {
+       "id": "d",
+       "bn": "HI",
+       "en": "HI"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "HCl: 20.24% (স্ফুটনাঙ্ক 110°C)।",
+     "explanation_en": "HCl: 20.24% (b.p. 110C).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.11",
+   "title_bn": "HF, HCl, HBr, HI এর ধর্মাবলির তুলনামূলক আলোচনা",
+   "title_en": "Comparative Study of HF, HCl, HBr, HI",
+   "notes_bn": "অম্লত্ব: জলীয় দ্রবণে HX → H₃O⁺ + X⁻; অম্লশক্তি HI > HBr > HCl > HF। বন্ধন বিয়োজন এনথালপি কমলে ও pKa-র ঋণাত্মক মান বাড়লে অম্ল বাড়ে। HF দুর্বল অ্যাসিড (pKa +3.25): F ক্ষুদ্র ও সবচেয়ে তড়িৎ ঋণাত্মক, H–F বন্ধন শক্তিশালী ও হাইড্রোজেন বন্ধনে গুচ্ছ গঠন করে।\nবিজারণ ক্ষমতা: HI > HBr > HCl > HF (বড় I⁻ থেকে ইলেকট্রন দান সহজ)। যেমন HI + গাঢ় HNO₃ → I₂; 2FeCl₃ + 2HI → 2FeCl₂ + 2HCl + I₂; 2CuSO₄ + 4HI → Cu₂I₂ + 2H₂SO₄ + I₂। গাঢ় HCl + MnO₂ → Cl₂। HF-এর কোনো বিজারণ ধর্ম নেই।\nগঠন এনথালপি (kJ/mol): HF −270, HCl −92, HBr −36, HI −26।\nHF-এর বিশেষ ধর্ম: SiO₂ + 4HF → SiF₄ + 2H₂O (কাচ ক্ষয়); Pb(NO₃)₂ + 2HF → PbF₂↓ (সাদা); BaCl₂ + 2HF → BaF₂↓ (সাদা)।\nHCl: AgNO₃ + HCl → AgCl↓ (সাদা; লঘু HNO₃-এ অদ্রবণীয়, NH₄OH-এ দ্রবণীয় — [Ag(NH₃)₂]Cl)।\nHBr: AgBr হলদে-সাদা, NH₄OH-এ ধীরে দ্রবীভূত; HI: AgI হলুদ, NH₄OH-এ অদ্রবণীয়; PbI₂ সোনালি হলুদ।\nশনাক্তকরণ: গাঢ় H₂SO₄ দিয়ে — HF ধোঁয়া যা ভেজা কাচে দাগ ফেলে; HCl বর্ণহীন ঝাঁঝালো ধোঁয়া; Br₂ লালচে বাদামি বাষ্প; I₂ বেগুনি বাষ্প। AgNO₃: ফ্লুরাইডে অধঃক্ষেপ নেই (AgF দ্রবণীয়)।\nক্লোরিন পানি + স্টার্চ: ব্রোমাইড লালচে-হলুদ; আয়োডাইড নীল (I₂ + স্টার্চ)। FeCl₃ + স্টার্চ: শুধু আয়োডাইডে নীল।",
+   "notes_en": "Acidity HI > HBr > HCl > HF (pKa: -10, -9.5, -7.4, +3.25). HF is weak: small, most electronegative F, strong H-F bond, H-bonded clusters.\nReducing power HI > HBr > HCl > HF. Examples: HI + conc. HNO3 -> I2; 2FeCl3 + 2HI -> 2FeCl2 + 2HCl + I2; 2CuSO4 + 4HI -> Cu2I2 + 2H2SO4 + I2; conc. HCl + MnO2 -> Cl2. HF has no reducing property.\nFormation enthalpy (kJ/mol): HF -270, HCl -92, HBr -36, HI -26.\nHF: SiO2 + 4HF -> SiF4 + 2H2O (etches glass); PbF2 and BaF2 are white precipitates.\nAgNO3 test: AgCl white (soluble in NH4OH), AgBr pale yellow (slowly soluble in NH4OH), AgI yellow (insoluble); AgF soluble so no precipitate. PbI2 golden yellow.\nConc. H2SO4 test: HF fumes etch glass; HCl colourless pungent fumes; Br2 reddish-brown vapour; I2 violet vapour.\nChlorine water + starch: bromide orange-yellow, iodide blue.",
+   "mcqs": [
+    {
+     "question_bn": "HX অ্যাসিডসমূহের তীব্রতার সঠিক ক্রম কোনটি?",
+     "question_en": "What is the correct order of HX acid strength?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HF > HCl > HBr > HI",
+       "en": "HF > HCl > HBr > HI"
+      },
+      {
+       "id": "b",
+       "bn": "HI > HBr > HCl > HF",
+       "en": "HI > HBr > HCl > HF"
+      },
+      {
+       "id": "c",
+       "bn": "HCl > HBr > HI > HF",
+       "en": "HCl > HBr > HI > HF"
+      },
+      {
+       "id": "d",
+       "bn": "HBr > HI > HCl > HF",
+       "en": "HBr > HI > HCl > HF"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "pKa: HI −10, HBr −9.5, HCl −7.4, HF 3.25।",
+     "explanation_en": "pKa: HI -10, HBr -9.5, HCl -7.4, HF 3.25.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন লবণের দ্রবণে AgNO₃ যোগ করলে কোনো অধঃক্ষেপ পড়ে না?",
+     "question_en": "Which salt solution gives no precipitate with AgNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaF",
+       "en": "NaF"
+      },
+      {
+       "id": "b",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "NaBr",
+       "en": "NaBr"
+      },
+      {
+       "id": "d",
+       "bn": "NaI",
+       "en": "NaI"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "AgF পানিতে দ্রবণীয়।",
+     "explanation_en": "AgF is water soluble.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন সিলভার হ্যালাইড NH₄OH দ্রবণে অদ্রবণীয়?",
+     "question_en": "Which silver halide is insoluble in NH4OH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "AgCl",
+       "en": "AgCl"
+      },
+      {
+       "id": "b",
+       "bn": "AgBr (ধীরে দ্রবণীয়)",
+       "en": "AgBr (slowly soluble)"
+      },
+      {
+       "id": "c",
+       "bn": "AgI",
+       "en": "AgI"
+      },
+      {
+       "id": "d",
+       "bn": "সবই দ্রবণীয়",
+       "en": "all are soluble"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "হলুদ AgI লঘু HNO₃ ও NH₄OH উভয়ে অদ্রবণীয়।",
+     "explanation_en": "Yellow AgI is insoluble in both.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরিন পানি ও স্টার্চ যোগে কোন আয়ন নীল বর্ণ দেয়?",
+     "question_en": "Which ion gives a blue colour with chlorine water and starch?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F⁻",
+       "en": "F-"
+      },
+      {
+       "id": "b",
+       "bn": "Cl⁻",
+       "en": "Cl-"
+      },
+      {
+       "id": "c",
+       "bn": "Br⁻",
+       "en": "Br-"
+      },
+      {
+       "id": "d",
+       "bn": "I⁻",
+       "en": "I-"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "I⁻ → I₂, যা স্টার্চের সঙ্গে নীল।",
+     "explanation_en": "I- -> I2, blue with starch.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HF-কে দুর্বল অ্যাসিড বলা হয় কারণ —",
+     "question_en": "HF is a weak acid because —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F-এর আকার সবচেয়ে বড়",
+       "en": "F is the largest halogen"
+      },
+      {
+       "id": "b",
+       "bn": "H–F বন্ধন শক্তিশালী ও H-বন্ধনে গুচ্ছ গঠিত হয়",
+       "en": "strong H-F bond and H-bonded clusters"
+      },
+      {
+       "id": "c",
+       "bn": "HF পানিতে অদ্রবণীয়",
+       "en": "HF is insoluble in water"
+      },
+      {
+       "id": "d",
+       "bn": "HF একটি জারক",
+       "en": "HF is an oxidant"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "HF-এর বন্ধন বিয়োজন এনথালপি 560 kJ/mol সর্বোচ্চ।",
+     "explanation_en": "HF has the highest bond enthalpy, 560 kJ/mol.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "গাঢ় H₂SO₄ ও MnO₂ যোগে কোন হ্যালাইড সবুজাভ হলুদ গ্যাস দেয়?",
+     "question_en": "Which halide gives a greenish-yellow gas with conc. H2SO4 + MnO2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "b",
+       "bn": "NaBr",
+       "en": "NaBr"
+      },
+      {
+       "id": "c",
+       "bn": "NaI",
+       "en": "NaI"
+      },
+      {
+       "id": "d",
+       "bn": "CaF₂",
+       "en": "CaF2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaCl → Cl₂ (সবুজাভ হলুদ)।",
+     "explanation_en": "NaCl -> Cl2 (greenish yellow).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.12",
+   "title_bn": "ক্লোরিনের বিভিন্ন জারণ অবস্থা ও যৌগের ধর্ম",
+   "title_en": "Oxidation States of Chlorine and Properties of its Compounds",
+   "notes_bn": "ফ্লুরিনের জারণ অবস্থা সর্বদা −1 (2য় স্তরে d নেই); Cl, Br, I-এর জারণ অবস্থা −1, +1, +3, +5, +7।\nCl-এ 3d অরবিটাল খালি থাকায় উত্তেজিত অবস্থায় জোড়-ভাঙা ইলেকট্রন: Cl (1 বিজোড়) → Cl* (3) → Cl** (5) → Cl*** (7 বিজোড় ইলেকট্রন)।\nঅক্সো-অ্যাসিড: HClO (+1, হাইপোক্লোরাস), HClO₂ (+3, ক্লোরাস), HClO₃ (+5, ক্লোরিক), HClO₄ (+7, পারক্লোরিক)। আধুনিক নাম: ক্লোরিক (I), (III), (V), (VII) অ্যাসিড।\nঅক্সো-অ্যাসিডে H সরাসরি Cl-এর সঙ্গে নয়, –OH-রূপে যুক্ত থাকে; Cl→O সন্নিবেশ বন্ধন।\nজারণ সংখ্যা বাড়লে তাপীয় স্থায়িত্ব ও অম্লধর্ম বাড়ে: HClO < HClO₂ < HClO₃ < HClO₄ (সর্বাধিক অম্লীয়)। স্থায়িত্ব ও অম্লতার ক্রম: HClO > HBrO > HIO; HClO₃ > HBrO₃ > HIO₃।\nক্লোরিনের জারণ সংখ্যা বাড়ার সঙ্গে এর ঋণাত্মক ধর্ম (জারণ ক্ষমতা) কমে। কম তড়িৎ ঋণাত্মক হ্যালোজেন অক্সো-অ্যানায়ন থেকে বেশি তড়িৎ ঋণাত্মক হ্যালোজেনকে প্রতিস্থাপন করতে পারে: 2NaBrO₃ + I₂ → 2NaIO₃ + Br₂।",
+   "notes_en": "F is always -1 (no 2d orbital); Cl, Br, I show -1, +1, +3, +5, +7.\nVacant 3d orbitals in Cl allow excitation: Cl (1 unpaired) -> Cl* (3) -> Cl** (5) -> Cl*** (7 unpaired electrons).\nOxoacids: HClO (+1, hypochlorous), HClO2 (+3, chlorous), HClO3 (+5, chloric), HClO4 (+7, perchloric); modern names chloric(I), (III), (V), (VII) acid.\nIn oxoacids H is bonded via -OH; Cl->O are coordinate bonds.\nStability and acidity increase with oxidation number: HClO < HClO2 < HClO3 < HClO4 (strongest). Across halogens: HClO > HBrO > HIO; HClO3 > HBrO3 > HIO3.\nA less electronegative halogen can displace a more electronegative one from its oxo-anion: 2NaBrO3 + I2 -> 2NaIO3 + Br2.",
+   "mcqs": [
+    {
+     "question_bn": "HClO₃-এ ক্লোরিনের জারণ সংখ্যা কত?",
+     "question_en": "What is the oxidation number of Cl in HClO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+1",
+       "en": "+1"
+      },
+      {
+       "id": "b",
+       "bn": "+3",
+       "en": "+3"
+      },
+      {
+       "id": "c",
+       "bn": "+5",
+       "en": "+5"
+      },
+      {
+       "id": "d",
+       "bn": "+7",
+       "en": "+7"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "1 + x − 6 = 0 ⇒ x = +5।",
+     "explanation_en": "1 + x - 6 = 0, so x = +5.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সবচেয়ে অম্লীয় অক্সো-অ্যাসিড কোনটি?",
+     "question_en": "Which oxoacid is the most acidic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HClO",
+       "en": "HClO"
+      },
+      {
+       "id": "b",
+       "bn": "HClO₂",
+       "en": "HClO2"
+      },
+      {
+       "id": "c",
+       "bn": "HClO₃",
+       "en": "HClO3"
+      },
+      {
+       "id": "d",
+       "bn": "HClO₄",
+       "en": "HClO4"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "জারণ সংখ্যা +7 হলে অম্লধর্ম সর্বাধিক।",
+     "explanation_en": "Highest oxidation state (+7) gives highest acidity.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফ্লুরিনের কোনো অক্সো-অ্যাসিড নেই কারণ —",
+     "question_en": "Fluorine forms no oxoacids because —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F-এর 2য় স্তরে d অরবিটাল নেই ও জারণ সংখ্যা সর্বদা −1",
+       "en": "F has no 2d orbitals and always shows -1"
+      },
+      {
+       "id": "b",
+       "bn": "F অক্সিজেনের সঙ্গে বিক্রিয়া করে না",
+       "en": "F does not react with oxygen at all"
+      },
+      {
+       "id": "c",
+       "bn": "F-এর আকার বড়",
+       "en": "F is large"
+      },
+      {
+       "id": "d",
+       "bn": "F ধাতু",
+       "en": "F is a metal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফলে জারণ অবস্থা বাড়ানো যায় না।",
+     "explanation_en": "It cannot expand its octet.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Cl*** (উত্তেজিত Cl)-এ বিজোড় ইলেকট্রন সংখ্যা কত যা +7 জারণ সংখ্যা দেয়?",
+     "question_en": "How many unpaired electrons does Cl have in the state giving +7?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "7",
+       "en": "7"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "Cl: 1 → 3 → 5 → 7 (3s¹3p³3d³)।",
+     "explanation_en": "1 -> 3 -> 5 -> 7 unpaired electrons.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.13",
+   "title_bn": "অন্যান্য হ্যালোজেনের সাথে ফ্লুরিনের পার্থক্য বা অসামঞ্জস্যতা",
+   "title_en": "Differences between Fluorine and Other Halogens",
+   "notes_bn": "কারণ: F-এর ক্ষুদ্র আকার, 2য় শক্তিস্তরে d-অরবিটাল না থাকা, F(9): 1s²2s²2p⁵।\n(১) তড়িৎ ঋণাত্মকতায় সর্বাধিক: পার্থক্য F–Cl = 1.0 (4−3), Cl–Br = 0.2, Br–I = 0.3।\n(২) ইলেকট্রন আসক্তি Cl-এর চেয়ে কম: F −333, Cl −348 kJ/mol (ক্ষুদ্র 2p অরবিটালে ইলেকট্রন ঘনত্ব বেশি, বিকর্ষণ)।\n(৩) F–F বন্ধন বিয়োজন শক্তি অসঙ্গতভাবে কম: বইয়ের তুলনামূলক মান F–F 158, Cl–Cl 242, Br–Br 224, I–I 213 kJ/mol; 2p নিঃসঙ্গ জোড়া বিকর্ষণ বেশি বলে F₂ সবচেয়ে সক্রিয়।\n(৪) জারণ ক্ষমতা সর্বাধিক: F₂ পানিকে জারিত করে O₂ দেয়; Pt + 3F₂ → PtF₆, 2Au + 3F₂ → 2AuF₃।\n(৫) জারণ সংখ্যা সর্বদা −1; Teflon (C₂F₄)ₙ নিষ্ক্রিয়; কোনো অক্সো-অ্যানায়ন নেই।\n(৬) HF-এ H–F···H–F হাইড্রোজেন বন্ধন; তাই HF তরল (কক্ষ তাপে), দুর্বল অ্যাসিড, আর HCl, HBr, HI সবল।\n(৭) দ্রাব্যতা: CaF₂ পানিতে অদ্রবণীয় (ল্যাটিস শক্তি বড়), অথচ CaCl₂, CaBr₂, CaI₂ দ্রবণীয়; AgF দ্রবণীয়, কিন্তু AgCl, AgBr, AgI অদ্রবণীয় (F⁻-এর হাইড্রেশন শক্তি বেশি)।",
+   "notes_en": "Reasons: tiny size, no d-orbital in second shell; F(9) = 1s2 2s2 2p5.\n(1) Highest electronegativity: F-Cl difference 1.0, Cl-Br 0.2, Br-I 0.3.\n(2) Electron affinity lower than Cl: F -333, Cl -348 kJ/mol (crowding in small 2p).\n(3) Low F-F bond energy; book's comparison: F-F 158, Cl-Cl 242, Br-Br 224, I-I 213 kJ/mol; F2 is the most reactive.\n(4) Strongest oxidant: oxidises water to O2; Pt + 3F2 -> PtF6, 2Au + 3F2 -> 2AuF3.\n(5) Oxidation state always -1; Teflon inert; no oxoanions.\n(6) HF is H-bonded, liquid at room temperature, weak acid; HCl, HBr, HI strong.\n(7) Solubility: CaF2 insoluble (high lattice energy) while CaCl2, CaBr2, CaI2 dissolve; AgF soluble while AgCl, AgBr, AgI are insoluble.",
+   "mcqs": [
+    {
+     "question_bn": "F ও Cl-এর তড়িৎ ঋণাত্মকতার পার্থক্য কত (4 ও 3)?",
+     "question_en": "What is the electronegativity difference between F (4) and Cl (3)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.2",
+       "en": "0.2"
+      },
+      {
+       "id": "b",
+       "bn": "0.3",
+       "en": "0.3"
+      },
+      {
+       "id": "c",
+       "bn": "1.0",
+       "en": "1.0"
+      },
+      {
+       "id": "d",
+       "bn": "2.0",
+       "en": "2.0"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "4 − 3 = 1.0।",
+     "explanation_en": "4 - 3 = 1.0.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন লবণ পানিতে অদ্রবণীয়?",
+     "question_en": "Which salt is insoluble in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaCl₂",
+       "en": "CaCl2"
+      },
+      {
+       "id": "b",
+       "bn": "CaF₂",
+       "en": "CaF2"
+      },
+      {
+       "id": "c",
+       "bn": "CaBr₂",
+       "en": "CaBr2"
+      },
+      {
+       "id": "d",
+       "bn": "CaI₂",
+       "en": "CaI2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CaF₂-এর ল্যাটিস শক্তি বেশি।",
+     "explanation_en": "CaF2 has the high lattice energy.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফ্লুরিনের ইলেকট্রন আসক্তি ক্লোরিনের চেয়ে কম কারণ —",
+     "question_en": "Fluorine's electron affinity is lower than chlorine's because —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F-এর 2p অরবিটালে ইলেকট্রন ঘনত্ব বেশি হওয়ায় বিকর্ষণ বেশি",
+       "en": "greater electron-electron repulsion in the compact 2p"
+      },
+      {
+       "id": "b",
+       "bn": "F-এর আকার বেশি",
+       "en": "F is larger"
+      },
+      {
+       "id": "c",
+       "bn": "F-এর d অরবিটাল আছে",
+       "en": "F has d orbitals"
+      },
+      {
+       "id": "d",
+       "bn": "F-এর তড়িৎ ঋণাত্মকতা কম",
+       "en": "F is less electronegative"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "F −333 kJ/mol, Cl −348 kJ/mol।",
+     "explanation_en": "F -333 vs Cl -348 kJ/mol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি ফ্লুরিনের বৈশিষ্ট্য নয়?",
+     "question_en": "Which is NOT a property of fluorine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সর্বদা −1 জারণ অবস্থা",
+       "en": "always -1 oxidation state"
+      },
+      {
+       "id": "b",
+       "bn": "HF-এ হাইড্রোজেন বন্ধন",
+       "en": "hydrogen bonding in HF"
+      },
+      {
+       "id": "c",
+       "bn": "সর্বোচ্চ তড়িৎ ঋণাত্মকতা",
+       "en": "highest electronegativity"
+      },
+      {
+       "id": "d",
+       "bn": "+7 জারণ অবস্থা",
+       "en": "+7 oxidation state"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "d অরবিটাল না থাকায় ফ্লুরিন +7 দেখায় না।",
+     "explanation_en": "Without d orbitals, F cannot reach +7.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "2.2",
+   "stimulus_bn": "একটি ছাত্র F₂, Cl₂, Br₂, I₂-এর বন্ধন বিয়োজন শক্তি যথাক্রমে 158, 243, 193 ও 151 kJ/mol পেল। সে লক্ষ করল F₂-এর মান আশানুরূপ সবচেয়ে বেশি নয়, অথচ F₂ সবচেয়ে সক্রিয়।",
+   "stimulus_en": "A student lists bond dissociation energies of F2, Cl2, Br2, I2 as 158, 243, 193 and 151 kJ/mol. F2's value is not the highest as expected, yet F2 is the most reactive.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "হ্যালোজেনের সাধারণ ইলেকট্রন বিন্যাস কী?",
+     "question_en": "What is the general electron configuration of halogens?",
+     "model_answer_bn": "বহিস্তরে ns²np⁵।",
+     "model_answer_en": "ns2np5."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "Cl₂ গ্যাস ও Br₂ তরল হওয়ার কারণ ব্যাখ্যা করো।",
+     "question_en": "Explain why Cl2 is a gas but Br2 is a liquid.",
+     "model_answer_bn": "Br₂-এর ইলেকট্রন সংখ্যা বেশি, তাই ভ্যান্ডার ওয়ালস আকর্ষণ বেশি; ফলে স্ফুটনাঙ্ক (59°C) কক্ষ তাপের ওপরে ও তরল। Cl₂-এর স্ফুটনাঙ্ক −35°C।",
+     "model_answer_en": "Br2 has more electrons so stronger van der Waals forces; its b.p. 59C lets it be liquid, while Cl2 boils at -35C."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "F₂-এর বন্ধন বিয়োজন শক্তি Cl₂-এর চেয়ে কম কেন ব্যাখ্যা করো।",
+     "question_en": "Explain why F2 has lower bond dissociation energy than Cl2.",
+     "model_answer_bn": "F পরমাণু অত্যন্ত ক্ষুদ্র (সমযোজী ব্যাসার্ধ 0.072 nm), তাই F–F বন্ধন দূরত্ব কম। ফলে 2p অরবিটালের নিঃসঙ্গ ইলেকট্রন জোড়ার পারস্পরিক বিকর্ষণ Cl₂-এর 3p জোড়ার চেয়ে বেশি; বন্ধন দুর্বল হয়, 158 kJ/mol।",
+     "model_answer_en": "F is very small (covalent radius 0.072 nm) so lone pairs in 2p orbitals repel strongly across the short F-F bond; the bond is weak at 158 kJ/mol versus 243 for Cl2."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "F₂ কীভাবে অধিক সক্রিয় হয় যুক্তিসহ বিশ্লেষণ করো এবং Fe-এর সঙ্গে F₂ ও I₂ বিক্রিয়ার সমীকরণ লেখো।",
+     "question_en": "Analyse why F2 is the most reactive despite lower bond energy, and write equations for Fe with F2 and with I2.",
+     "model_answer_bn": "F₂-এর বন্ধন ভাঙা সহজ (158), তড়িৎ ঋণাত্মকতা সর্বোচ্চ (4) ও E° = +2.87 V এবং ধাতু-ফ্লুরাইডের ল্যাটিস শক্তি বড়; তাই F₂ সবচেয়ে সক্রিয় ও ধাতুকে সর্বোচ্চ জারণ অবস্থায় নেয়। 2Fe + 3F₂ → 2FeF₃; Fe + I₂ → FeI₂ (I₂ দুর্বল জারক)।",
+     "model_answer_en": "Easy bond cleavage (158), highest electronegativity (4), E0 +2.87 V and large metal-fluoride lattice energy make F2 the strongest oxidant and take metals to their highest state. 2Fe + 3F2 -> 2FeF3; Fe + I2 -> FeI2 (weak oxidant)."
+    }
+   ]
+  },
+  {
+   "topic_section": "2.7",
+   "stimulus_bn": "একটি কারখানায় সুতি কাপড় বিরঞ্জনে আর্দ্র ক্লোরিন গ্যাস ব্যবহার করা হয়, আর উল বিরঞ্জনে SO₂ ব্যবহার হয়। উল কিছুদিন বায়ুতে রাখলে হলদে ভাব ফিরে আসে।",
+   "stimulus_en": "A factory bleaches cotton with moist chlorine and wool with SO2. After some time in air the wool slightly regains its yellowish colour.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "বিরঞ্জন ক্রিয়া কী?",
+     "question_en": "What is bleaching action?",
+     "model_answer_bn": "পানির উপস্থিতিতে জারণ বা বিজারণ দ্বারা রঙিন বস্তুকে বর্ণহীন করার ক্রিয়া।",
+     "model_answer_en": "Decolourising coloured matter in presence of water by oxidation or reduction."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "শুষ্ক Cl₂ বিরঞ্জন করে না কেন?",
+     "question_en": "Why does dry Cl2 not bleach?",
+     "model_answer_bn": "পানি ছাড়া HOCl ও জায়মান [O] তৈরি হয় না; [O]-ই রঞ্জককে জারিত করে।",
+     "model_answer_en": "Without water, no HOCl or nascent [O] forms, and [O] oxidises the dye."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "উলের রং কেন ফিরে আসে — ব্যাখ্যা করো।",
+     "question_en": "Explain why wool regains colour.",
+     "model_answer_bn": "SO₂ বিজারণ পদ্ধতিতে (SO₂ + 2H₂O → H₂SO₄ + 2[H]) বিরঞ্জন করে। বায়ুর O₂ বিজারিত বস্তুকে পুনরায় জারিত করে মূল রং আংশিক ফিরিয়ে আনে; এ বিরঞ্জন অস্থায়ী।",
+     "model_answer_en": "SO2 bleaches by reduction (SO2 + 2H2O -> H2SO4 + 2[H]); air oxygen re-oxidises the reduced dye restoring colour, so the effect is temporary."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "সুতি কাপড়ের জন্য Cl₂ এবং উলের জন্য SO₂ ব্যবহারের যুক্তি তুলনা করো।",
+     "question_en": "Justify using Cl2 for cotton and SO2 for wool by comparing the two.",
+     "model_answer_bn": "Cl₂ তীব্র ও স্থায়ী জারণ-বিরঞ্জক; মোটা আঁশ বা সুতা সহ্য করে। SO₂ মৃদু ও অস্থায়ী বিজারণ-বিরঞ্জক; উল ও সিল্কের মতো সূক্ষ্ম আঁশ নষ্ট করে না। Cl₂ উল বিনষ্ট করত।",
+     "model_answer_en": "Cl2 is a strong permanent oxidising bleach suited to cotton fibre; SO2 is a mild temporary reducing bleach that does not damage delicate wool or silk."
+    }
+   ]
+  },
+  {
+   "topic_section": "2.11",
+   "stimulus_bn": "চারটি পরীক্ষানলে NaF, NaCl, NaBr ও NaI-এর দ্রবণ আছে। প্রত্যেকটিতে AgNO₃ ও পরে লঘু HNO₃ এবং NH₄OH যোগ করে পর্যবেক্ষণ করা হলো।",
+   "stimulus_en": "Four test tubes contain solutions of NaF, NaCl, NaBr and NaI. AgNO3, then dilute HNO3 and NH4OH, are added to each and observations are made.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "সবচেয়ে তীব্র হাইড্রোহ্যালিক অ্যাসিড কোনটি?",
+     "question_en": "Which hydrohalic acid is strongest?",
+     "model_answer_bn": "HI (pKa = −10)।",
+     "model_answer_en": "HI (pKa = -10)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "কোন নলে অধঃক্ষেপ পড়বে না এবং কেন?",
+     "question_en": "Which tube shows no precipitate and why?",
+     "model_answer_bn": "NaF-এর নলে; AgF পানিতে দ্রবণীয়।",
+     "model_answer_en": "The NaF tube; AgF is soluble in water."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "AgCl, AgBr ও AgI-এর বর্ণ ও NH₄OH-এ আচরণ লেখো।",
+     "question_en": "State colour and behaviour in NH4OH of AgCl, AgBr and AgI.",
+     "model_answer_bn": "AgCl সাদা – সহজে দ্রবীভূত ([Ag(NH₃)₂]Cl); AgBr হালকা হলুদ – ধীরে দ্রবীভূত; AgI হলুদ – অদ্রবণীয়। সবাই লঘু HNO₃-এ অদ্রবণীয়।",
+     "model_answer_en": "AgCl white, dissolves readily as [Ag(NH3)2]Cl; AgBr pale yellow, dissolves slowly; AgI yellow, insoluble. All are insoluble in dilute HNO3."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "গাঢ় H₂SO₄ দিয়ে উত্তপ্ত করলে NaCl ও NaI-এর ফল আলাদা কেন? সমীকরণসহ ব্যাখ্যা করো।",
+     "question_en": "Explain, with equations, why NaCl and NaI behave differently on heating with conc. H2SO4.",
+     "model_answer_bn": "HCl বিজারণ ক্ষমতা কম, তাই NaCl + H₂SO₄ → NaHSO₄ + HCl (বর্ণহীন ধোঁয়া)। HI শক্তিশালী বিজারক, তাই গাঢ় H₂SO₄ দ্বারা জারিত হয়: 2NaI + 3H₂SO₄ → 2NaHSO₄ + 2H₂O + SO₂ + I₂ (বেগুনি বাষ্প)।",
+     "model_answer_en": "HCl is a weak reductant: NaCl + H2SO4 -> NaHSO4 + HCl (colourless fumes). HI is a strong reductant and is oxidised: 2NaI + 3H2SO4 -> 2NaHSO4 + 2H2O + SO2 + I2 (violet vapour)."
+    }
+   ]
+  }
+ ],
+ "notes": "All 36 pages (PDF 101-136) read. Section 2.14 (uses, printed p.120-121) is outside the assigned sections and was skipped. Source inconsistency: the book gives Br-Br/I-I bond energy as 193/151 in 2.2 but 224/213 (Cl-Cl 242) in 2.13; MCQs rely on the 2.2 table only. Some small-print formulas read at 100 dpi (e.g. PbBr2 colour in the lab-test table was ambiguous and was not used)."
+}

@@ -1,0 +1,1172 @@
+{
+ "chapter_no": 2,
+ "topics": [
+  {
+   "section_no": "2.14",
+   "title_bn": "হ্যালোজেনসমূহের ব্যবহার",
+   "title_en": "Uses of Halogens",
+   "notes_bn": "ফ্লোরিন: UF₆ উৎপাদন (নিউক্লিয় শক্তি), টেফলন (C₂F₄)ₙ — অদাহ্য, জারক/এসিড/ক্ষারে নিষ্ক্রিয়।\nCFC/ফ্রিয়ন: মিথেন-ইথেনের ক্লোরো-ফ্লোরো যৌগ (CCl₃F = ফ্রিয়ন-11, CCl₂F₂ = ফ্রিয়ন-12); শীতলীকরণ, এরোসল; SbCl₅ প্রভাবকে CCl₄ + HF থেকে প্রস্তুত।\nHF: ক্রায়োলাইট Na₃AlF₆ উৎপাদন, কাচে নকশা, NaF উৎপাদন; পানিতে ~১০ লক্ষ ভাগে ১ ভাগ NaF দাঁতের ক্ষয় রোধ করে।\nক্লোরিন: কীটনাশক (ব্লিচিং পাউডার, গ্যামাক্সিন, DDT, মিথক্সিক্লোর), পানি জীবাণুমুক্তকরণ, ব্লিচিং পাউডার = Cl₂ + শুষ্ক Ca(OH)₂ (~40°C), বিরঞ্জক, নিউপ্রিন/থিকল/সিলিকোম পলিমার, TEL/TML, কাঁদানে গ্যাস।\nব্রোমিন: ইথিলিন ডাইব্রোমাইড, মিথাইল ব্রোমাইড (কীটনাশক), KBr (ঘুমের ওষুধ), AgBr (ফটোগ্রাফি)।\nআয়োডিন: টিংচার আয়োডিন (100 mL স্পিরিটে ~5 g I₂ + KI), আয়োডোফরম, আয়োডিনযুক্ত লবণ (NaI/KI) গলগণ্ড রোধে।",
+   "notes_en": "F: UF6 for nuclear fuel; Teflon (C2F4)n, non-flammable and inert to oxidants/acids/alkalis.\nCFC/Freons: chloro-fluoro derivatives of methane/ethane (CCl3F = Freon-11, CCl2F2 = Freon-12); refrigerants, aerosols; made from CCl4 + HF with SbCl5.\nHF: cryolite Na3AlF6, glass etching, NaF; ~1 part per million NaF in water prevents tooth decay.\nCl: insecticides (bleaching powder, gammexane, DDT, methoxychlor), water disinfection, bleaching powder from Cl2 + dry Ca(OH)2 (~40C), bleaches, neoprene/Thiokol/silicone polymers, TEL/TML, tear gas.\nBr: ethylene dibromide, methyl bromide, KBr sedative, AgBr photography.\nI: tincture iodine (~5 g I2 + KI in 100 mL spirit), iodoform, iodised salt (NaI/KI) against goitre.",
+   "mcqs": [
+    {
+     "question_bn": "টেফলনের রাসায়নিক সংকেত কোনটি?",
+     "question_en": "What is the formula of Teflon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(C₂F₄)ₙ",
+       "en": "(C₂F₄)ₙ"
+      },
+      {
+       "id": "b",
+       "bn": "(C₂H₄)ₙ",
+       "en": "(C₂H₄)ₙ"
+      },
+      {
+       "id": "c",
+       "bn": "(CF₂Cl₂)ₙ",
+       "en": "(CF₂Cl₂)ₙ"
+      },
+      {
+       "id": "d",
+       "bn": "(C₂Cl₄)ₙ",
+       "en": "(C₂Cl₄)ₙ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "টেফলন ফ্লোরো ইথিলিন পলিমার, সংকেত (C₂F₄)ₙ।",
+     "explanation_en": "Teflon is a fluoro-ethylene polymer, (C₂F₄)ₙ.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইউরেনিয়াম হেক্সাফ্লোরাইড (UF₆) উৎপাদনে প্রধানত কোন হ্যালোজেন লাগে?",
+     "question_en": "Which halogen is mainly used to produce uranium hexafluoride (UF₆) for nuclear energy?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরিন",
+       "en": "Chlorine"
+      },
+      {
+       "id": "b",
+       "bn": "ফ্লোরিন",
+       "en": "Fluorine"
+      },
+      {
+       "id": "c",
+       "bn": "ব্রোমিন",
+       "en": "Bromine"
+      },
+      {
+       "id": "d",
+       "bn": "আয়োডিন",
+       "en": "Iodine"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "UF₆ উৎপাদনে ফ্লোরিন ব্যবহৃত হয়।",
+     "explanation_en": "Fluorine is used to make UF₆.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টেফলন কেন মূল্যবান প্লাস্টিক?",
+     "question_en": "Why is Teflon a valuable plastic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এটি দাহ্য ও অম্লে বিক্রিয়াশীল",
+       "en": "It is flammable and reacts with acids"
+      },
+      {
+       "id": "b",
+       "bn": "এটি অদাহ্য এবং জারক, এসিড ও ক্ষারের সাথে বিক্রিয়া করে না",
+       "en": "It is non-flammable and inert to oxidants, acids and alkalis"
+      },
+      {
+       "id": "c",
+       "bn": "এটি পানিতে দ্রবীভূত হয়",
+       "en": "It dissolves in water"
+      },
+      {
+       "id": "d",
+       "bn": "এটি বিদ্যুৎ পরিবাহী",
+       "en": "It conducts electricity"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "টেফলন অদাহ্য ও শক্ত, জারক/এসিড/ক্ষারে নিষ্ক্রিয়।",
+     "explanation_en": "Teflon is non-flammable, hard and inert to oxidants, acids and alkalis.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CCl₂F₂ কে বাণিজ্যিক ভাষায় কী বলা হয়?",
+     "question_en": "What is CCl₂F₂ called commercially?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Freon-11",
+       "en": "Freon-11"
+      },
+      {
+       "id": "b",
+       "bn": "Freon-12",
+       "en": "Freon-12"
+      },
+      {
+       "id": "c",
+       "bn": "Freon-21",
+       "en": "Freon-21"
+      },
+      {
+       "id": "d",
+       "bn": "Freon-22",
+       "en": "Freon-22"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CCl₂F₂ = ফ্রিয়ন-12 (CCl₃F = ফ্রিয়ন-11)।",
+     "explanation_en": "CCl₂F₂ is Freon-12 (CCl₃F is Freon-11).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CCl₄ থেকে CCl₂F₂ প্রস্তুতিতে কোন প্রভাবক ব্যবহৃত হয়?",
+     "question_en": "Which catalyst is used to convert CCl₄ into CCl₂F₂ with HF?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MnO₂",
+       "en": "MnO₂"
+      },
+      {
+       "id": "b",
+       "bn": "SbCl₅",
+       "en": "SbCl₅"
+      },
+      {
+       "id": "c",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "d",
+       "bn": "Fe",
+       "en": "Fe"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CCl₄ + 2HF → CCl₂F₂ + 2HCl বিক্রিয়ায় SbCl₅ প্রভাবক।",
+     "explanation_en": "SbCl₅ catalyses CCl₄ + 2HF → CCl₂F₂ + 2HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালুমিনিয়াম নিষ্কাশনে ব্যবহৃত ক্রায়োলাইটের সংকেত কী?",
+     "question_en": "What is the formula of cryolite used in aluminium extraction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na₃AlF₆",
+       "en": "Na₃AlF₆"
+      },
+      {
+       "id": "b",
+       "bn": "CaF₂",
+       "en": "CaF₂"
+      },
+      {
+       "id": "c",
+       "bn": "NaAlO₂",
+       "en": "NaAlO₂"
+      },
+      {
+       "id": "d",
+       "bn": "AlF₃",
+       "en": "AlF₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্রায়োলাইট = Na₃AlF₆; এর উৎপাদনে HF লাগে।",
+     "explanation_en": "Cryolite is Na₃AlF₆; HF is used to make it.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ঘাতরোধী (অ্যান্টিনক) তরল TEL ও TML প্রস্তুতিতে কোন হ্যালোজেনের যৌগ লাগে এবং কেন ব্যবহৃত হয়?",
+     "question_en": "TEL/TML anti-knock fluids are made using a compound of which halogen, and why are they used?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফ্লোরিন; ইঞ্জিন ঠান্ডা রাখতে",
+       "en": "Fluorine; cooling the engine"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরিন (C₂H₅Cl, CH₃Cl); জ্বালানি পেট্রোলে মিশিয়ে ইঞ্জিনের সুষ্ঠু দহনের জন্য",
+       "en": "Chlorine (C₂H₅Cl, CH₃Cl); mixed with petrol for smooth engine combustion"
+      },
+      {
+       "id": "c",
+       "bn": "আয়োডিন; রং তৈরিতে",
+       "en": "Iodine; dyes"
+      },
+      {
+       "id": "d",
+       "bn": "ব্রোমিন; ফটোগ্রাফিতে",
+       "en": "Bromine; photography"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "TEL, TML তৈরিতে C₂H₅Cl, CH₃Cl ব্যবহৃত হয়; পেট্রোলে মিশিয়ে ইঞ্জিনের ওপর জ্বালানির ব্যবহার সুষ্ঠু হয়।",
+     "explanation_en": "C₂H₅Cl and CH₃Cl make TEL/TML, which are blended into petrol for smoother engine operation.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "টিংচার আয়োডিনের সঠিক উপাদান কোনটি?",
+     "question_en": "What is the correct composition of tincture of iodine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "100 mL রেক্টিফাইড স্পিরিটে প্রায় 5 g আয়োডিন ও KI",
+       "en": "About 5 g iodine and KI in 100 mL rectified spirit"
+      },
+      {
+       "id": "b",
+       "bn": "100 mL পানিতে 5 g আয়োডিন",
+       "en": "5 g iodine in 100 mL water"
+      },
+      {
+       "id": "c",
+       "bn": "100 mL ইথারে 5 g NaCl",
+       "en": "5 g NaCl in 100 mL ether"
+      },
+      {
+       "id": "d",
+       "bn": "100 mL স্পিরিটে 50 g আয়োডিন",
+       "en": "50 g iodine in 100 mL spirit"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "টিংচার আয়োডিন: 100 mL রেক্টিফাইড স্পিরিটে প্রায় 5 g আয়োডিন ও KI-এর মিশ্র দ্রবণ।",
+     "explanation_en": "Tincture iodine: ~5 g I₂ plus KI in 100 mL rectified spirit.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোন জোড়াটি সঠিক?",
+     "question_en": "Which pairing is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KBr — ঘুমের ওষুধ; AgBr — ফটোগ্রাফি",
+       "en": "KBr — sleeping medicine; AgBr — photography"
+      },
+      {
+       "id": "b",
+       "bn": "KBr — ফটোগ্রাফি; AgBr — ঘুমের ওষুধ",
+       "en": "KBr — photography; AgBr — sleeping medicine"
+      },
+      {
+       "id": "c",
+       "bn": "NaF — টিংচার; KI — দাঁতের ক্ষয়রোধ",
+       "en": "NaF — tincture; KI — tooth decay prevention"
+      },
+      {
+       "id": "d",
+       "bn": "AgBr — লবণে মেশানো; NaI — কীটনাশক",
+       "en": "AgBr — added to salt; NaI — insecticide"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে KBr ঘুমের ওষুধ এবং AgBr ফটোগ্রাফিতে ব্যবহৃত বলা হয়েছে।",
+     "explanation_en": "The book lists KBr as a sleeping drug and AgBr for photography.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.15",
+   "title_bn": "ক্ষার শিল্পে ক্লোরিনের যৌগসমূহের গুরুত্ব",
+   "title_en": "Importance of Chlorine Compounds in the Caustic Industry",
+   "notes_bn": "Li, Na, K, Rb, Cs ধাতুর হাইড্রক্সাইড ও কার্বনেট পানিতে OH⁻ দিয়ে ক্ষার হিসেবে কাজ করে।\nKOH ও K₂CO₃ উৎপাদনে KCl, NaOH ও Na₂CO₃ উৎপাদনে NaCl ব্যবহৃত হয়।\nNaCl (গলিত) তড়িৎ বিশ্লেষণ: ক্যাথোডে 2Na; 2Na + 2H₂O → 2NaOH + H₂; অ্যানোডে Cl₂ নির্গত। একইভাবে KCl থেকে KOH, তা থেকে K₂CO₃।\nঅ্যামোনিয়া-সোডা: NH₃ + CO₂ + H₂O → NH₄HCO₃; NH₄HCO₃ + NaCl → NaHCO₃ + NH₄Cl; 2NaHCO₃ →(তাপ) Na₂CO₃ + H₂O + CO₂।",
+   "notes_en": "Hydroxides and carbonates of Li, Na, K, Rb, Cs give OH- in water and act as alkalis.\nKCl is used for KOH and K2CO3; NaCl for NaOH and Na2CO3.\nElectrolysis of NaCl: Na at cathode; 2Na + 2H2O -> 2NaOH + H2; Cl2 at anode. KCl gives KOH, then K2CO3.\nAmmonia-soda: NH3 + CO2 + H2O -> NH4HCO3; NH4HCO3 + NaCl -> NaHCO3 + NH4Cl; 2NaHCO3 -> Na2CO3 + H2O + CO2 on heating.",
+   "mcqs": [
+    {
+     "question_bn": "ক্ষার শিল্পে KOH উৎপাদনে কোন লবণ ব্যবহৃত হয়?",
+     "question_en": "Which salt is used to make KOH in the caustic industry?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "b",
+       "bn": "KCl",
+       "en": "KCl"
+      },
+      {
+       "id": "c",
+       "bn": "K₂CO₃",
+       "en": "K₂CO₃"
+      },
+      {
+       "id": "d",
+       "bn": "CaCl₂",
+       "en": "CaCl₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "KCl এর তড়িৎ বিশ্লেষণে KOH পাওয়া যায়।",
+     "explanation_en": "KOH is obtained by electrolysis of KCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NaCl এর তড়িৎ বিশ্লেষণে অ্যানোডে কী নির্গত হয়?",
+     "question_en": "What is liberated at the anode in electrolysis of NaCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl₂ গ্যাস",
+       "en": "Cl₂ gas"
+      },
+      {
+       "id": "b",
+       "bn": "H₂ গ্যাস",
+       "en": "H₂ gas"
+      },
+      {
+       "id": "c",
+       "bn": "O₂ গ্যাস",
+       "en": "O₂ gas"
+      },
+      {
+       "id": "d",
+       "bn": "Na ধাতু",
+       "en": "Na metal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যানোডে ক্লোরিন গ্যাস নির্গত হয়; ক্যাথোডে Na জন্মে।",
+     "explanation_en": "Chlorine is released at the anode; sodium forms at the cathode.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্যাথোডে উৎপন্ন সোডিয়াম পানির সাথে বিক্রিয়া করলে কী পাওয়া যায়?",
+     "question_en": "What does sodium formed at the cathode give with water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaOH ও H₂",
+       "en": "NaOH and H₂"
+      },
+      {
+       "id": "b",
+       "bn": "Na₂O ও O₂",
+       "en": "Na₂O and O₂"
+      },
+      {
+       "id": "c",
+       "bn": "NaCl ও H₂",
+       "en": "NaCl and H₂"
+      },
+      {
+       "id": "d",
+       "bn": "NaHCO₃ ও CO₂",
+       "en": "NaHCO₃ and CO₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2Na + 2H₂O → 2NaOH + H₂।",
+     "explanation_en": "2Na + 2H₂O → 2NaOH + H₂.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যামোনিয়া-সোডা পদ্ধতিতে Na₂CO₃ উৎপাদনে প্রথমে কোন যৌগ তৈরি হয়?",
+     "question_en": "In the ammonia-soda process, which compound is formed first from NH₃, CO₂ and water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₄HCO₃",
+       "en": "NH₄HCO₃"
+      },
+      {
+       "id": "b",
+       "bn": "Na₂CO₃",
+       "en": "Na₂CO₃"
+      },
+      {
+       "id": "c",
+       "bn": "NaHCO₃",
+       "en": "NaHCO₃"
+      },
+      {
+       "id": "d",
+       "bn": "NH₄Cl",
+       "en": "NH₄Cl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH₃ + CO₂ + H₂O → NH₄HCO₃, যা পরে NaCl এর সাথে বিক্রিয়া করে।",
+     "explanation_en": "NH4HCO3 forms first and then reacts with NaCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NH₄HCO₃(s) + NaCl(aq) বিক্রিয়ায় অধঃক্ষিপ্ত হয় কোনটি?",
+     "question_en": "In NH₄HCO₃ + NaCl, which product is separated as a solid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₄Cl",
+       "en": "NH₄Cl"
+      },
+      {
+       "id": "b",
+       "bn": "NaHCO₃",
+       "en": "NaHCO₃"
+      },
+      {
+       "id": "c",
+       "bn": "Na₂CO₃",
+       "en": "Na₂CO₃"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH",
+       "en": "NaOH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NaHCO₃ কম দ্রবণীয়, তাই পৃথক করা হয়; NH₄Cl দ্রবণে থাকে।",
+     "explanation_en": "NaHCO₃ is separated; NH₄Cl stays in solution.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Na₂CO₃ পেতে NaHCO₃ কে উত্তপ্ত করলে সঠিক বিক্রিয়া কোনটি?",
+     "question_en": "Which equation correctly shows heating of NaHCO₃ to get Na₂CO₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂",
+       "en": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂"
+      },
+      {
+       "id": "b",
+       "bn": "NaHCO₃ → NaOH + CO₂",
+       "en": "NaHCO₃ → NaOH + CO₂"
+      },
+      {
+       "id": "c",
+       "bn": "NaHCO₃ → Na + CO₂ + O₂",
+       "en": "NaHCO₃ → Na + CO₂ + O₂"
+      },
+      {
+       "id": "d",
+       "bn": "2NaHCO₃ → Na₂O + 2CO₂ + H₂",
+       "en": "2NaHCO₃ → Na₂O + 2CO₂ + H₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তাপে বিয়োজনে Na₂CO₃, পানি ও CO₂ পাওয়া যায়।",
+     "explanation_en": "Heat gives Na2CO3, water and CO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্ষার ধাতুর হাইড্রক্সাইড ও কার্বনেট ক্ষার হিসেবে কাজ করে কারণ—",
+     "question_en": "Hydroxides and carbonates of alkali metals act as alkalis because—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানিতে দ্রবীভূত হয়ে OH⁻ আয়ন বেশি উৎপন্ন করে",
+       "en": "they dissolve in water and give more OH⁻ ions"
+      },
+      {
+       "id": "b",
+       "bn": "এগুলো H⁺ ছাড়ে",
+       "en": "they release H⁺"
+      },
+      {
+       "id": "c",
+       "bn": "এরা পানিতে অদ্রবণীয়",
+       "en": "they are insoluble in water"
+      },
+      {
+       "id": "d",
+       "bn": "এরা Cl₂ উৎপন্ন করে",
+       "en": "they produce Cl₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পানিতে দ্রবীভূত হয়ে (কার্বনেটের ক্ষেত্রে আর্দ্রবিশ্লেষণে) OH⁻ বাড়ে।",
+     "explanation_en": "They dissolve (carbonates hydrolyse) giving OH⁻.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন জোড়াটি সঠিক?",
+     "question_en": "Which pairing is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KCl → KOH → K₂CO₃",
+       "en": "KCl → KOH → K₂CO₃"
+      },
+      {
+       "id": "b",
+       "bn": "NaCl → K₂CO₃",
+       "en": "NaCl → K₂CO₃"
+      },
+      {
+       "id": "c",
+       "bn": "KCl → Na₂CO₃",
+       "en": "KCl → Na₂CO₃"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH → KCl",
+       "en": "NaOH → KCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "KCl থেকে KOH, KOH থেকে K₂CO₃ উৎপন্ন হয়।",
+     "explanation_en": "KOH from KCl; K2CO3 from KOH.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.16",
+   "title_bn": "কৃষিবিজ্ঞানে ক্লোরিন ও ক্লোরিনের যৌগসমূহের প্রভাব",
+   "title_en": "Effect of Chlorine and its Compounds on Agriculture",
+   "notes_bn": "Broyer (১৯৫৪) প্রমাণ করেন ক্লোরিন উদ্ভিদের জন্য অত্যাবশ্যক।\nভূমিকা: উৎসেচকের কর্মকাণ্ড, জলীয় অংশ-ভারসাম্য, সালোকসংশ্লেষণে পরোক্ষ সাহায্য; উৎস KCl (মিউরেট অব পটাশ)।\nঅভাবে: পাতার ডগা শুকায়, পাতা ফ্যাকাশে হয়ে ঝরে, গাছ মরে।\nকীটনাশক/পোকামাড়ক (D.D.T., বেনজিন হেক্সাক্লোরাইড, মিথক্সিক্লোর) ক্লোরিনযুক্ত।\nমাটির লবণাক্ততা: জোয়ারের লোনা পানিতে Na জমে সোডিক/ক্ষার মাটি (Na > 15%); অতিরিক্ত Na⁺ → NaOH → কালো ক্ষার মাটি।",
+   "notes_en": "Broyer (1954) showed Cl is essential for plants.\nRoles: enzyme activity, water balance, indirect help to photosynthesis; source KCl (muriate of potash).\nDeficiency: leaf tips dry, leaves pale then fall, plant dies.\nChlorinated pesticides: DDT, benzene hexachloride, methoxychlor.\nSoil salinity: saline flood water deposits Na; sodic/alkali soil (Na > 15%); excess Na+ gives NaOH and black alkali soil.",
+   "mcqs": [
+    {
+     "question_bn": "উদ্ভিদের জন্য ক্লোরিন অত্যাবশ্যক—এটি কোন বিজ্ঞানী কত সালে প্রমাণ করেন?",
+     "question_en": "Which scientist proved chlorine is essential for plants, and in what year?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Broyer, 1954",
+       "en": "Broyer, 1954"
+      },
+      {
+       "id": "b",
+       "bn": "Solvay, 1861",
+       "en": "Solvay, 1861"
+      },
+      {
+       "id": "c",
+       "bn": "Broyer, 1946",
+       "en": "Broyer, 1946"
+      },
+      {
+       "id": "d",
+       "bn": "Mendeleev, 1869",
+       "en": "Mendeleev, 1869"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে Broyer ১৯৫৪ সালের কথা বলা হয়েছে।",
+     "explanation_en": "The book states Broyer, 1954.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "উদ্ভিদ কোন সারের মাধ্যমে পটাসিয়াম ও ক্লোরিন গ্রহণ করে?",
+     "question_en": "Through which fertilizer do plants take up potassium and chlorine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিউরেট অব পটাশ (KCl)",
+       "en": "Muriate of potash (KCl)"
+      },
+      {
+       "id": "b",
+       "bn": "ইউরিয়া",
+       "en": "Urea"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "d",
+       "bn": "চুন",
+       "en": "Lime"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিউরেট অব পটাশ (KCl) সাররূপে ব্যবহৃত হয়।",
+     "explanation_en": "KCl (muriate of potash) is used as fertilizer.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্লোরিনের অভাবে উদ্ভিদে কী ঘটে?",
+     "question_en": "What happens to plants lacking chlorine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পাতার ডগা শুকিয়ে যায় ও পাতা ফ্যাকাশে/বিবর্ণ হয়",
+       "en": "leaf tips dry up and leaves turn pale/discoloured"
+      },
+      {
+       "id": "b",
+       "bn": "পাতা বেশি সবুজ হয়",
+       "en": "leaves become deeper green"
+      },
+      {
+       "id": "c",
+       "bn": "ফুল বেশি ফোটে",
+       "en": "more flowers bloom"
+      },
+      {
+       "id": "d",
+       "bn": "কিছুই ঘটে না",
+       "en": "nothing happens"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অভাবে ডগা শুকায়, পাতা ফ্যাকাশে হয়ে ঝরে পড়ে।",
+     "explanation_en": "Tips dry, leaves turn pale and fall.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি উদ্ভিদে ক্লোরিনের ভূমিকা নয়?",
+     "question_en": "Which is NOT a role of chlorine in plants?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উৎসেচকের কর্মকাণ্ড প্রভাবিত করা",
+       "en": "affecting enzyme activity"
+      },
+      {
+       "id": "b",
+       "bn": "জলীয় অংশের ভারসাম্য রক্ষা",
+       "en": "maintaining water balance"
+      },
+      {
+       "id": "c",
+       "bn": "পরোক্ষভাবে সালোকসংশ্লেষণে সাহায্য",
+       "en": "aiding photosynthesis indirectly"
+      },
+      {
+       "id": "d",
+       "bn": "মাটিকে ক্ষারীয় করা",
+       "en": "making the soil alkaline"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "মাটি ক্ষারীয় করা ক্লোরিনের ভূমিকা নয়।",
+     "explanation_en": "Making soil alkaline is not a plant role of chlorine.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সোডিক মাটিতে Na এর পরিমাণ কত শতাংশের বেশি থাকে?",
+     "question_en": "Sodic soil contains sodium above what percentage?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5%",
+       "en": "5%"
+      },
+      {
+       "id": "b",
+       "bn": "10%",
+       "en": "10%"
+      },
+      {
+       "id": "c",
+       "bn": "15%",
+       "en": "15%"
+      },
+      {
+       "id": "d",
+       "bn": "50%",
+       "en": "50%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে 15% এর বেশি বলা হয়েছে।",
+     "explanation_en": "The book says more than 15%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মাটির ক্ষারধর্মিতার প্রধান কারণ কী?",
+     "question_en": "What is the main cause of soil alkalinity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সমুদ্রের লোনা পানি বারবার প্লাবিত হয়ে সোডিয়াম ক্লোরাইড জমা",
+       "en": "repeated seawater flooding depositing sodium chloride"
+      },
+      {
+       "id": "b",
+       "bn": "অতিরিক্ত বৃষ্টি",
+       "en": "excess rain"
+      },
+      {
+       "id": "c",
+       "bn": "CFC",
+       "en": "CFC"
+      },
+      {
+       "id": "d",
+       "bn": "HF",
+       "en": "HF"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "জলোচ্ছ্বাস/জোয়ারের লোনা পানি থেকে সোডিয়াম জমে মাটি ক্ষারধর্মী হয়।",
+     "explanation_en": "Saline flooding deposits sodium chloride, making soil alkaline.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অতিরিক্ত Na⁺ মাটিতে কী করে ফলে 'কালো ক্ষার মাটি' তৈরি হয়?",
+     "question_en": "How does excess Na⁺ cause 'black alkali soil'?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অধিক NaOH সৃষ্টি করে জৈব পদার্থ পচন ঘটায়, উপরে কালো স্তর পড়ে",
+       "en": "forms more NaOH, decomposes organic matter and leaves a black layer"
+      },
+      {
+       "id": "b",
+       "bn": "মাটিকে অম্লীয় করে",
+       "en": "makes soil acidic"
+      },
+      {
+       "id": "c",
+       "bn": "মাটি শুকিয়ে দেয়",
+       "en": "dries the soil"
+      },
+      {
+       "id": "d",
+       "bn": "ক্লোরিন গ্যাস উৎপন্ন করে",
+       "en": "produces chlorine gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে এই ব্যাখ্যা দেওয়া আছে।",
+     "explanation_en": "As described in the book.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনটি সঠিক?",
+     "question_en": "Which is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পোকামাড়ক ওষুধ D.D.T. উদ্ভিদ জগতের ক্ষতিকর পোকা নাশ করে কিন্তু পরোক্ষ ক্ষতিও করে",
+       "en": "DDT kills pests but may also harm indirectly"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরিন উদ্ভিদের জন্য সর্বদা ক্ষতিকর",
+       "en": "chlorine is always harmful to plants"
+      },
+      {
+       "id": "c",
+       "bn": "KCl উদ্ভিদের জন্য বিষ",
+       "en": "KCl is poisonous to plants"
+      },
+      {
+       "id": "d",
+       "bn": "সার রূপে ক্লোরিন ব্যবহার নিষিদ্ধ",
+       "en": "chlorine fertilizers are banned"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে পোকামাড়ক নাশক ওষুধ ও পরিবেশের ক্ষতির কথা উল্লেখ আছে।",
+     "explanation_en": "The book notes pest-control compounds like DDT; they have environmental impact.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.17",
+   "title_bn": "C–Cl বন্ধনযুক্ত যৌগের গুরুত্ব ও পরিবেশের ওপর হুমকি",
+   "title_en": "Importance of C–Cl Compounds and Environmental Threat",
+   "notes_bn": "C–Cl আংশিক পোলার (EN: C 2.5, Cl 3); বন্ধন শক্তি 347 kJ/mol, তাই যৌগ স্থায়ী, জারক/বিজারকে নিষ্ক্রিয়।\nDDT, 2,4-D, 2,4,5-T, অ্যালড্রিন, ডাইএলড্রিন: কীটনাশক/আগাছানাশক।\nDDT ১৯৪৬ সালে ম্যালেরিয়া-টাইফাস দমনে; পানিতে অদ্রবণীয়, চর্বিতে দ্রবণীয়, খাদ্যশৃঙ্খলে মানবদেহে জমে; ১৯৬২ থেকে সীমিত।\nCFC: গ্রিনহাউস গ্যাসে CO₂ 49%, CH₄ 18%, CFC 14%, N₂O 6%, অন্যান্য 13%।\nওজোন ক্ষয়: CCl₂F₂ →UV (396 kJ/mol) CF₂Cl• + Cl•; Cl• + O₃ → O₂ + ClO•; শিকল বিক্রিয়া।\nবন্ধন শক্তি: C–F 467, C–H 413, C–Cl 347, C–Br 290, C–I 228 kJ/mol।",
+   "notes_en": "C-Cl is partially polar (EN: C 2.5, Cl 3); BE 347 kJ/mol, so compounds are stable and inert to oxidants/reductants.\nDDT, 2,4-D, 2,4,5-T, aldrin, dieldrin: insecticides/herbicides.\nDDT first used 1946 against malaria/typhus; insoluble in water, soluble in fat, accumulates in humans via food chain; restricted since 1962.\nGreenhouse gases: CO2 49%, CH4 18%, CFC 14%, N2O 6%, others 13%.\nOzone loss: CCl2F2 -UV (396 kJ/mol)-> CF2Cl. + Cl.; Cl. + O3 -> O2 + ClO.; chain reaction.\nBond energies: C-F 467, C-H 413, C-Cl 347, C-Br 290, C-I 228 kJ/mol.",
+   "mcqs": [
+    {
+     "question_bn": "C–Cl বন্ধন কেমন প্রকৃতির?",
+     "question_en": "What is the nature of the C–Cl bond?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আংশিক পোলার সমযোজী",
+       "en": "partially polar covalent"
+      },
+      {
+       "id": "b",
+       "bn": "আয়নিক",
+       "en": "ionic"
+      },
+      {
+       "id": "c",
+       "bn": "ধাতব",
+       "en": "metallic"
+      },
+      {
+       "id": "d",
+       "bn": "অপোলার",
+       "en": "non-polar"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C (2.5) ও Cl (3) এর তড়িৎ ঋণাত্মকতা ভিন্ন, তাই আংশিক পোলার।",
+     "explanation_en": "C (2.5) and Cl (3) differ in electronegativity, so the bond is partially polar.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "C–Cl বন্ধনের বন্ধন শক্তি কত?",
+     "question_en": "What is the bond energy of C–Cl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "467 kJ/mol",
+       "en": "467 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "413 kJ/mol",
+       "en": "413 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "347 kJ/mol",
+       "en": "347 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "290 kJ/mol",
+       "en": "290 kJ/mol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সারণি অনুযায়ী C–Cl = 347 kJ/mol।",
+     "explanation_en": "Per the table, C–Cl = 347 kJ/mol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন বন্ধনের শক্তি সর্বাধিক?",
+     "question_en": "Which bond has the highest bond energy in the table?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C–F",
+       "en": "C–F"
+      },
+      {
+       "id": "b",
+       "bn": "C–H",
+       "en": "C–H"
+      },
+      {
+       "id": "c",
+       "bn": "C–Br",
+       "en": "C–Br"
+      },
+      {
+       "id": "d",
+       "bn": "C–I",
+       "en": "C–I"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C–F = 467 kJ/mol সর্বোচ্চ।",
+     "explanation_en": "C–F (467) is highest.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C–X বন্ধন শক্তির সঠিক ক্রম কোনটি?",
+     "question_en": "Which is the correct order of C–X bond energies?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C–F > C–Cl > C–Br > C–I",
+       "en": "C–F > C–Cl > C–Br > C–I"
+      },
+      {
+       "id": "b",
+       "bn": "C–I > C–Br > C–Cl > C–F",
+       "en": "C–I > C–Br > C–Cl > C–F"
+      },
+      {
+       "id": "c",
+       "bn": "C–Cl > C–F > C–Br > C–I",
+       "en": "C–Cl > C–F > C–Br > C–I"
+      },
+      {
+       "id": "d",
+       "bn": "C–F > C–Br > C–Cl > C–I",
+       "en": "C–F > C–Br > C–Cl > C–I"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "467 > 347 > 290 > 228।",
+     "explanation_en": "467 > 347 > 290 > 228.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CFC কীভাবে ওজোন স্তর নষ্ট করে?",
+     "question_en": "How do CFCs destroy the ozone layer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "UV-তে বিয়োজিত হয়ে Cl• তৈরি করে যা O₃ এর সাথে শিকল বিক্রিয়া ঘটায়",
+       "en": "UV splits them to Cl• which reacts with O₃ in a chain reaction"
+      },
+      {
+       "id": "b",
+       "bn": "O₃ কে CO₂ তে পরিণত করে",
+       "en": "convert O₃ to CO₂"
+      },
+      {
+       "id": "c",
+       "bn": "O₃ শোষণ করে",
+       "en": "absorb O₃"
+      },
+      {
+       "id": "d",
+       "bn": "পানির সাথে বিক্রিয়ায়",
+       "en": "by reacting with water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CCl₂F₂ →(UV) CF₂Cl• + Cl•; Cl• + O₃ → O₂ + ClO•।",
+     "explanation_en": "CCl2F2 → CF2Cl• + Cl• under UV; Cl• + O3 → O2 + ClO•.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্রিন হাউস গ্যাসের মধ্যে CFC এর শতকরা অংশ কত?",
+     "question_en": "What percentage of greenhouse effect is attributed to CFCs in the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "49%",
+       "en": "49%"
+      },
+      {
+       "id": "b",
+       "bn": "18%",
+       "en": "18%"
+      },
+      {
+       "id": "c",
+       "bn": "14%",
+       "en": "14%"
+      },
+      {
+       "id": "d",
+       "bn": "6%",
+       "en": "6%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CO₂ 49%, মিথেন 18%, CFC 14%, N₂O 6%, অন্যান্য 13%।",
+     "explanation_en": "CO2 49%, CH4 18%, CFC 14%, N2O 6%, others 13%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "D.D.T. সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which is true about DDT?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানিতে অদ্রবণীয় কিন্তু চর্বিতে দ্রবীভূত হয়",
+       "en": "insoluble in water but soluble in fat"
+      },
+      {
+       "id": "b",
+       "bn": "পানিতে দ্রবণীয়, চর্বিতে অদ্রবণীয়",
+       "en": "soluble in water, insoluble in fat"
+      },
+      {
+       "id": "c",
+       "bn": "সহজে বিয়োজিত হয়",
+       "en": "decomposes easily"
+      },
+      {
+       "id": "d",
+       "bn": "মানবদেহে জমে না",
+       "en": "never accumulates in humans"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "DDT মাছ-পাখির মাংস হয়ে মানবদেহের চর্বিতে জমে; ১৯৬২ থেকে ব্যবহার সীমিত।",
+     "explanation_en": "DDT accumulates in fat via fish/birds; use restricted since 1962.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "DDT এর পরিবর্তে বর্তমানে অধিক কার্যকর কোন কীটনাশক ব্যবহৃত হচ্ছে বলে বইয়ে বলা হয়েছে?",
+     "question_en": "Which more effective insecticides does the book say are now used in place of DDT?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালড্রিন ও ডাইএলড্রিন",
+       "en": "Aldrin and dieldrin"
+      },
+      {
+       "id": "b",
+       "bn": "TEL ও TML",
+       "en": "TEL and TML"
+      },
+      {
+       "id": "c",
+       "bn": "টেফলন ও নিউপ্রিন",
+       "en": "Teflon and neoprene"
+      },
+      {
+       "id": "d",
+       "bn": "KBr ও AgBr",
+       "en": "KBr and AgBr"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বর্তমানে DDT এর বদলে অ্যালড্রিন ও ডাইএলড্রিন ব্যবহৃত হচ্ছে।",
+     "explanation_en": "Aldrin and dieldrin are now used instead of DDT.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "D.D.T. প্রথম কোন সালে ম্যালেরিয়া ও টাইফাস প্রতিরোধে ব্যবহৃত হয়?",
+     "question_en": "In which year was DDT first used against malaria and typhus?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1946",
+       "en": "1946"
+      },
+      {
+       "id": "b",
+       "bn": "1954",
+       "en": "1954"
+      },
+      {
+       "id": "c",
+       "bn": "1962",
+       "en": "1962"
+      },
+      {
+       "id": "d",
+       "bn": "1861",
+       "en": "1861"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ১৯৪৬ সালে প্রথম ব্যবহার বলা আছে।",
+     "explanation_en": "The book gives 1946.",
+     "difficulty": "basic"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "2.17",
+   "difficulty": "medium",
+   "stimulus_bn": "একটি কারখানায় রেফ্রিজারেটরে CCl₂F₂ ও কৃষিকাজে D.D.T. ব্যবহার করা হচ্ছিল। পরিবেশবিদরা উভয় ব্যবহারে উদ্বেগ প্রকাশ করেন।",
+   "stimulus_en": "A factory used CCl2F2 in refrigerators and DDT in agriculture. Environmentalists raised concerns about both uses.",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "CCl₂F₂ এর বাণিজ্যিক নাম কী?",
+     "question_en": "What is the commercial name of CCl2F2?",
+     "model_answer_bn": "ফ্রিয়ন-12।",
+     "model_answer_en": "Freon-12."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "C–Cl বন্ধন সমযোজী হলেও কেন আংশিক পোলার?",
+     "question_en": "Why is the C-Cl bond partially polar though covalent?",
+     "model_answer_bn": "C (2.5) ও Cl (3) এর তড়িৎ ঋণাত্মকতার পার্থক্যের কারণে ইলেকট্রন যুগল Cl এর দিকে বেশি আকৃষ্ট হয়।",
+     "model_answer_en": "The electronegativity difference (2.5 vs 3) pulls the shared pair towards Cl."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "CCl₂F₂ কীভাবে ওজোন স্তরের ক্ষতি করে? বিক্রিয়াসহ লিখ।",
+     "question_en": "Explain with reactions how CCl2F2 harms the ozone layer.",
+     "model_answer_bn": "UV-তে CCl₂F₂ → CF₂Cl• + Cl•; Cl• + O₃ → O₂ + ClO•; ClO• + O → O₂ + Cl• — শিকল বিক্রিয়ায় ওজোন নষ্ট হয়।",
+     "model_answer_en": "Under UV CCl2F2 gives Cl•, which reacts with O3 to give O2 and ClO•; Cl• is regenerated, so a chain reaction depletes ozone."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "D.D.T. এর ব্যবহার সীমিত করা হয় কেন? বিকল্প কী?",
+     "question_en": "Why was DDT use restricted? What is the alternative?",
+     "model_answer_bn": "DDT পানিতে অদ্রবণীয় কিন্তু চর্বিতে দ্রবণীয়; মাছ-পাখির মাধ্যমে মানবদেহে জমে। ১৯৬২ থেকে সীমিত; বিকল্প অ্যালড্রিন, ডাইএলড্রিন।",
+     "model_answer_en": "DDT is fat-soluble and accumulates in humans via fish/birds; restricted from 1962; aldrin and dieldrin are alternatives."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 141-152 are chapter summary/exercise pages and were skipped. Page 134 (printed 119) belongs to earlier section; content used only from printed pp.120-124."
+}

@@ -1,0 +1,1941 @@
+{
+ "chapter_no": 5,
+ "topics": [
+  {
+   "section_no": "5.1",
+   "title_bn": "ভূমিকা : হাইড্রোকার্বন",
+   "title_en": "Introduction: Hydrocarbons",
+   "notes_bn": "শুধু হাইড্রোজেন ও কার্বন দ্বারা গঠিত যৌগই হাইড্রোকার্বন (যেমন CH₄, C₂H₄, C₂H₂, C₆H₆)।\nকার্বন শিকল অনুযায়ী দুই শ্রেণি: মুক্ত শিকল (অ্যালিফেটিক) ও বদ্ধ শিকল (চক্রীয়)।\nসম্পৃক্ত (অ্যালকেন) CₙH₂ₙ₊₂; অ্যালকিন CₙH₂ₙ (একটি দ্বিবন্ধন); অ্যালকাইন CₙH₂ₙ₋₂ (একটি ত্রিবন্ধন)।\nবদ্ধ শিকল দুই ধরনের: অ্যালিসাইক্লিক (যেমন সাইক্লোহেক্সেন) ও অ্যারোমেটিক (বেনজিন বলয়, ছয়টি সঞ্চরণশীল π ইলেকট্রন)।\nউদাহরণ: ইথেন C₂H₆, ইথিন C₂H₄, ইথাইন C₂H₂, টলুইন C₆H₅CH₃।",
+   "notes_en": "Hydrocarbons contain only C and H (CH4, C2H4, C2H2, C6H6).\nOpen chain (aliphatic) vs closed chain (cyclic).\nAlkane CnH2n+2; alkene CnH2n (one C=C); alkyne CnH2n-2 (one triple bond).\nCyclic: alicyclic (cyclohexane) and aromatic (benzene ring with six delocalised pi electrons).\nExamples: ethane, ethene, ethyne, toluene.",
+   "mcqs": [
+    {
+     "question_bn": "কোন যৌগসমষ্টিকে হাইড্রোকার্বন বলা হয়?",
+     "question_en": "What are hydrocarbons?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুধু হাইড্রোজেন ও কার্বন দ্বারা গঠিত যৌগ",
+       "en": "Compounds made of only hydrogen and carbon"
+      },
+      {
+       "id": "b",
+       "bn": "কার্বন, হাইড্রোজেন ও অক্সিজেন দ্বারা গঠিত যৌগ",
+       "en": "Compounds of carbon, hydrogen and oxygen"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু কার্বন দ্বারা গঠিত পদার্থ",
+       "en": "Substances made of only carbon"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বন ও হ্যালোজেনের যৌগ",
+       "en": "Compounds of carbon and halogens"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হাইড্রোজেন ও কার্বনের দ্বিমৌল যৌগই হাইড্রোকার্বন।",
+     "explanation_en": "Hydrocarbons are binary compounds of H and C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি অ্যালকিন শ্রেণির সদস্য?",
+     "question_en": "Which of the following is an alkene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₃H₈",
+       "en": "C3H8"
+      },
+      {
+       "id": "b",
+       "bn": "C₃H₆",
+       "en": "C3H6"
+      },
+      {
+       "id": "c",
+       "bn": "C₃H₄",
+       "en": "C3H4"
+      },
+      {
+       "id": "d",
+       "bn": "CH₄",
+       "en": "CH4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যালকিনের সাধারণ সংকেত CₙH₂ₙ; n=3 হলে C₃H₆ (প্রোপিন)।",
+     "explanation_en": "Alkenes are CnH2n; n=3 gives C3H6 (propene).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগটি অ্যারোমেটিক হাইড্রোকার্বন?",
+     "question_en": "Which compound is an aromatic hydrocarbon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইক্লোহেক্সেন",
+       "en": "Cyclohexane"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপাইন",
+       "en": "Propyne"
+      },
+      {
+       "id": "c",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "টলুইনে বেনজিন বলয় ও ছয়টি সঞ্চরণশীল π ইলেকট্রন আছে; সাইক্লোহেক্সেন অ্যালিসাইক্লিক।",
+     "explanation_en": "Toluene has a benzene ring with six delocalised pi electrons; cyclohexane is alicyclic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আটটি কার্বনযুক্ত একটি অ্যালকাইনের আণবিক সংকেত কী?",
+     "question_en": "What is the molecular formula of an alkyne with eight carbons?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₈H₁₈",
+       "en": "C8H18"
+      },
+      {
+       "id": "b",
+       "bn": "C₈H₁₆",
+       "en": "C8H16"
+      },
+      {
+       "id": "c",
+       "bn": "C₈H₁₂",
+       "en": "C8H12"
+      },
+      {
+       "id": "d",
+       "bn": "C₈H₁₄",
+       "en": "C8H14"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "CₙH₂ₙ₋₂ এ n=8: H = 2×8−2 = 14, তাই C₈H₁₄।",
+     "explanation_en": "CnH2n-2 with n=8: H = 2(8)-2 = 14, so C8H14.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.2",
+   "title_bn": "অ্যালিফেটিক হাইড্রোকার্বনের উৎস",
+   "title_en": "Sources of Aliphatic Hydrocarbons",
+   "notes_bn": "প্রাকৃতিক গ্যাস: C₁–C₄ অ্যালকেনের মিশ্রণ; মিথেন প্রায় 80–90%, ইথেন ~13%, প্রোপেন ~3%। বাংলাদেশে মিথেন 95–99%।\nব্যবহার: ইউরিয়া সার, তাপবিদ্যুৎ, গাড়ির জ্বালানি (CNG), রান্না।\nপেট্রোলিয়াম: ভূগর্ভে 5000–15000 ফুট গভীরে; আংশিক পাতনে ভগ্নাংশ পৃথক হয়।\nএল.পি. গ্যাস (C₃–C₄) 30°C পর্যন্ত; কেরোসিন 175–275°C (C₁₂–C₁₅); ডিজেল 240–400°C (C₁₃–C₁₈); প্যারাফিন ওয়াক্স C₁₈–C₃₀, 400°C এর ঊর্ধ্বে; বিটুমিন C₃₀ এর ঊর্ধ্বে।\nক্র্যাকিং: C₁₇H₃₆ → C₁₀H₂₂ + C₇H₁₄। জীবাশ্ম জ্বালানি পোড়ালে CO₂ বাড়ে (গ্রিন হাউস গ্যাসের ~49%)।",
+   "notes_en": "Natural gas: C1-C4 mixture, methane 80-90% (95-99% in Bangladesh).\nUses: urea, power, CNG, cooking.\nPetroleum from 5000-15000 ft depth; separated by fractional distillation.\nLPG C3-C4 (up to 30C); kerosene 175-275C (C12-C15); diesel 240-400C (C13-C18); paraffin wax C18-C30; bitumen above C30.\nCracking: C17H36 -> C10H22 + C7H14; CO2 from fuels adds to greenhouse effect.",
+   "mcqs": [
+    {
+     "question_bn": "প্রাকৃতিক গ্যাসের প্রধান উপাদান কোনটি?",
+     "question_en": "What is the main constituent of natural gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      },
+      {
+       "id": "b",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপেন",
+       "en": "Propane"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটেন",
+       "en": "Butane"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রাকৃতিক গ্যাসে মিথেন 80–90% (বাংলাদেশে আরও বেশি)।",
+     "explanation_en": "Methane makes up 80-90% of natural gas.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "এল.পি. গ্যাস কোন দুটি হাইড্রোকার্বনের মিশ্রণ?",
+     "question_en": "LP gas is a mixture of which two hydrocarbons?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথেন ও ইথেন",
+       "en": "Methane and ethane"
+      },
+      {
+       "id": "b",
+       "bn": "পেন্টেন ও হেক্সেন",
+       "en": "Pentane and hexane"
+      },
+      {
+       "id": "c",
+       "bn": "ইথেন ও ইথিন",
+       "en": "Ethane and ethene"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটেন ও প্রোপেন",
+       "en": "Butane and propane"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "এল.পি. গ্যাস মূলত বিউটেন (C₄H₁₀) ও প্রোপেন (C₃H₈)।",
+     "explanation_en": "LPG is mainly butane (C4H10) and propane (C3H8).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কেরোসিন তেল পেট্রোলিয়ামের আংশিক পাতনে কোন তাপমাত্রা পরিসরে পাওয়া যায়?",
+     "question_en": "In what temperature range is kerosene collected in fractional distillation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "30–60°C",
+       "en": "30-60 C"
+      },
+      {
+       "id": "b",
+       "bn": "175–275°C",
+       "en": "175-275 C"
+      },
+      {
+       "id": "c",
+       "bn": "240–400°C",
+       "en": "240-400 C"
+      },
+      {
+       "id": "d",
+       "bn": "400°C এর ঊর্ধ্বে",
+       "en": "Above 400 C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কেরোসিন (C₁₂–C₁₅) 175–275°C এ সংগৃহীত হয়।",
+     "explanation_en": "Kerosene (C12-C15) distils at 175-275 C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C₁₇H₃₆ তাপীয় বিয়োজনে C₁₀H₂₂ এবং আরেকটি হাইড্রোকার্বন দেয়। দ্বিতীয়টির সংকেত কী?",
+     "question_en": "Cracking of C17H36 gives C10H22 and another hydrocarbon. What is it?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₇H₁₄",
+       "en": "C7H14"
+      },
+      {
+       "id": "b",
+       "bn": "C₇H₁₆",
+       "en": "C7H16"
+      },
+      {
+       "id": "c",
+       "bn": "C₆H₁₂",
+       "en": "C6H12"
+      },
+      {
+       "id": "d",
+       "bn": "C₈H₁₄",
+       "en": "C8H14"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কার্বন 17−10 = 7, হাইড্রোজেন 36−22 = 14; তাই C₇H₁₄ (হেপ্টিন)।",
+     "explanation_en": "C: 17-10=7; H: 36-22=14, so C7H14 (heptene).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.3",
+   "title_bn": "জ্বালানি তেলের অক্টেন নাম্বার",
+   "title_en": "Octane Number of Motor Fuel",
+   "notes_bn": "ইঞ্জিনে স্পার্কের আগেই জ্বালানি-বায়ু মিশ্রণ জ্বলে উঠলে ধাতব শব্দ হয়, একে নকিং বলে।\nসরল শিকল অ্যালকেন নক বেশি করে; শাখাযুক্ত অ্যালকেন নক কমায়।\nআইসো-অক্টেনের অক্টেন নাম্বার 100, n-হেপ্টেনের 0।\nঅক্টেন নাম্বার 85 মানে 85% iso-অক্টেন ও 15% n-হেপ্টেনের সমতুল্য।\nবাড়ানোর উপায়: TEL/TML/Fe(CO)₅/টলুইন মেশানো; ক্র্যাকিং; সমাণুকরণ (AlCl₃, HCl, 300°C); অ্যালকাইলেশন; রিফর্মিং (হেক্সেন → বেনজিন, Al₂O₃, 500°C, 40 atm)।",
+   "notes_en": "Knocking: premature ignition before the spark gives a metallic sound.\nStraight-chain alkanes knock more; branched ones less.\nIso-octane = 100, n-heptane = 0.\nOctane 85 = 85% iso-octane + 15% n-heptane.\nRaise it by adding TEL/TML/Fe(CO)5/toluene, cracking, isomerisation, alkylation, reforming.",
+   "mcqs": [
+    {
+     "question_bn": "n-হেপ্টেনের অক্টেন নাম্বার কত ধরা হয়?",
+     "question_en": "What octane number is assigned to n-heptane?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "100",
+       "en": "100"
+      },
+      {
+       "id": "b",
+       "bn": "50",
+       "en": "50"
+      },
+      {
+       "id": "c",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "d",
+       "bn": "85",
+       "en": "85"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "n-হেপ্টেন সবচেয়ে বেশি নক সৃষ্টি করে, তাই এর মান 0।",
+     "explanation_en": "n-Heptane knocks most, so it is 0.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনো পেট্রোলের অক্টেন নাম্বার 85 হলে তাতে আইসো-অক্টেনের সমতুল্য পরিমাণ কত?",
+     "question_en": "A petrol has octane number 85. What is its iso-octane equivalent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "15%",
+       "en": "15%"
+      },
+      {
+       "id": "b",
+       "bn": "85%",
+       "en": "85%"
+      },
+      {
+       "id": "c",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "d",
+       "bn": "100%",
+       "en": "100%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অক্টেন নাম্বার = সমতুল্য মিশ্রণে iso-অক্টেনের শতকরা পরিমাণ।",
+     "explanation_en": "Octane number equals the percentage of iso-octane in the equivalent mixture.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন জ্বালানি ইঞ্জিনে নকিং সবচেয়ে কম সৃষ্টি করে?",
+     "question_en": "Which fuel component causes the least knocking?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "n-হেপ্টেন",
+       "en": "n-Heptane"
+      },
+      {
+       "id": "b",
+       "bn": "n-অক্টেন",
+       "en": "n-Octane"
+      },
+      {
+       "id": "c",
+       "bn": "2,2,4-ট্রাইমিথাইলপেন্টেন",
+       "en": "2,2,4-Trimethylpentane"
+      },
+      {
+       "id": "d",
+       "bn": "n-হেক্সেন",
+       "en": "n-Hexane"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "শাখাযুক্ত iso-অক্টেন (2,2,4-ট্রাইমিথাইলপেন্টেন) এর মান 100।",
+     "explanation_en": "Branched iso-octane (2,2,4-trimethylpentane) has value 100.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি পেট্রোলের অক্টেন নাম্বার বাড়ানোর উপায় নয়?",
+     "question_en": "Which of the following does NOT raise the octane number?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TEL মেশানো",
+       "en": "Adding TEL"
+      },
+      {
+       "id": "b",
+       "bn": "সরল অ্যালকেনকে শাখাযুক্ত অ্যালকেনে সমাণুকরণ",
+       "en": "Isomerising n-alkanes to branched alkanes"
+      },
+      {
+       "id": "c",
+       "bn": "হেক্সেনকে বেনজিনে রিফর্মিং",
+       "en": "Reforming hexane to benzene"
+      },
+      {
+       "id": "d",
+       "bn": "n-হেপ্টেন মেশানো",
+       "en": "Adding n-heptane"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "n-হেপ্টেন অক্টেন নাম্বার কমায়; বাকিগুলো বাড়ায়।",
+     "explanation_en": "n-Heptane lowers it; the others raise it.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.4",
+   "title_bn": "সম্পৃক্ত হাইড্রোকার্বন বা অ্যালকেন বা প্যারাফিন",
+   "title_en": "Saturated Hydrocarbons: Alkanes (Paraffins)",
+   "notes_bn": "শুধু একক সিগমা (σ) বন্ধনযুক্ত হাইড্রোকার্বনকে অ্যালকেন বলে।\nসাধারণ সংকেত CₙH₂ₙ₊₂ (n = 1, 2, 3 …)।\nউদাহরণ: মিথেন CH₄, ইথেন C₂H₆, প্রোপেন C₃H₈, বিউটেন C₄H₁₀।\nপ্যারাফিন নাম: Parum = সামান্য, affinis = আসক্তি; রাসায়নিকভাবে কম সক্রিয় বলে।",
+   "notes_en": "Alkanes have only single sigma bonds; general formula CnH2n+2.\nExamples: CH4, C2H6, C3H8, C4H10.\nParaffin = parum affinis (little affinity), i.e. chemically unreactive.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকেনকে প্যারাফিন বলা হয় কেন?",
+     "question_en": "Why are alkanes called paraffins?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এরা খুব সক্রিয়",
+       "en": "They are very reactive"
+      },
+      {
+       "id": "b",
+       "bn": "এরা রাসায়নিকভাবে কম সক্রিয়",
+       "en": "They have little chemical affinity"
+      },
+      {
+       "id": "c",
+       "bn": "এদের দ্বিবন্ধন আছে",
+       "en": "They contain double bonds"
+      },
+      {
+       "id": "d",
+       "bn": "এরা পানিতে দ্রবণীয়",
+       "en": "They dissolve in water"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Parum = সামান্য, affinis = আসক্তি।",
+     "explanation_en": "Parum = little, affinis = affinity.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন সংকেতটি অ্যালকেনের সাধারণ সংকেত?",
+     "question_en": "Which is the general formula of alkanes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CₙH₂ₙ",
+       "en": "CnH2n"
+      },
+      {
+       "id": "b",
+       "bn": "CₙH₂ₙ₋₂",
+       "en": "CnH2n-2"
+      },
+      {
+       "id": "c",
+       "bn": "CₙH₂ₙ₊₂",
+       "en": "CnH2n+2"
+      },
+      {
+       "id": "d",
+       "bn": "CₙHₙ",
+       "en": "CnHn"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সম্পৃক্ত অ্যালকেন CₙH₂ₙ₊₂।",
+     "explanation_en": "Alkanes follow CnH2n+2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "12টি হাইড্রোজেন পরমাণুযুক্ত অ্যালকেনে কার্বন সংখ্যা কত?",
+     "question_en": "How many carbons does an alkane with 12 hydrogens have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "b",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "c",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "7",
+       "en": "7"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2n+2 = 12 ⇒ n = 5 (C₅H₁₂, পেন্টেন)।",
+     "explanation_en": "2n+2 = 12 gives n = 5 (C5H12).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকেন সাধারণত তীব্র এসিড-ক্ষার দ্বারা আক্রান্ত হয় না, কারণ—",
+     "question_en": "Alkanes are not attacked by strong acids or bases because—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এদের মধ্যে π বন্ধন আছে",
+       "en": "They have pi bonds"
+      },
+      {
+       "id": "b",
+       "bn": "এরা আয়নিক যৌগ",
+       "en": "They are ionic"
+      },
+      {
+       "id": "c",
+       "bn": "C–H ও C–C σ বন্ধন মেরুবিহীন ও স্থায়ী",
+       "en": "C-H and C-C sigma bonds are nonpolar and stable"
+      },
+      {
+       "id": "d",
+       "bn": "এদের আণবিক ভর কম",
+       "en": "They have low molar mass"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "C ও H এর তড়িৎ ঋণাত্মকতা প্রায় কাছাকাছি (2.5 ও 2.1), তাই σ বন্ধন মেরুবিহীন ও স্থায়ী।",
+     "explanation_en": "C and H electronegativities are close (2.5, 2.1), so the sigma bonds are nonpolar and stable.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.5",
+   "title_bn": "পরীক্ষাগারে অ্যালকেন প্রস্তুতি",
+   "title_en": "Laboratory Preparation of Alkanes",
+   "notes_bn": "কার্বক্সিলিক এসিডের সোডিয়াম লবণ + সোডালাইম (NaOH + CaO) উত্তপ্ত করলে অ্যালকেন পাওয়া যায়।\nবিক্রিয়ায় CO₂ সরে যায় (ডিকার্বক্সিলেশন), Na₂CO₃ উৎপন্ন হয়: R–COONa + NaOH → R–H + Na₂CO₃।\nমিথেন: CH₃COONa + NaOH(CaO) → CH₄ + Na₂CO₃; ইথেন: CH₃CH₂COONa থেকে।\nঅনার্দ্র লবণ : সোডালাইম = 1 : 3 (ওজনে); গ্যাস পানির নিম্নমুখী অপসারণে সংগ্রহ।\nসোডালাইম সচ্ছিদ্র, সহজে গলে না, কাচ আক্রমণ করে না।",
+   "notes_en": "Sodium salt of carboxylic acid + soda lime, heated, gives an alkane.\nR-COONa + NaOH -> R-H + Na2CO3 (decarboxylation).\nMethane from sodium acetate; ethane from sodium propionate.\nAnhydrous salt : soda lime = 1 : 3 by weight; gas collected over water.\nSoda lime is porous, does not melt, does not attack glass.",
+   "mcqs": [
+    {
+     "question_bn": "পরীক্ষাগারে অ্যালকেন প্রস্তুতিতে কার্বক্সিলিক এসিডের সোডিয়াম লবণের সাথে কী ব্যবহৃত হয়?",
+     "question_en": "What is heated with the sodium salt of a carboxylic acid to make an alkane?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোডালাইম",
+       "en": "Soda lime"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় H₂SO₄",
+       "en": "Conc. H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "Zn ও HCl",
+       "en": "Zn and HCl"
+      },
+      {
+       "id": "d",
+       "bn": "Al₂O₃",
+       "en": "Al2O3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সোডালাইম (NaOH + CaO) এর সাথে উত্তপ্ত করা হয়।",
+     "explanation_en": "It is heated with soda lime (NaOH + CaO).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সোডিয়াম অ্যাসিটেট ও সোডালাইম উত্তপ্ত করলে কোন গ্যাস পাওয়া যায়?",
+     "question_en": "Heating sodium acetate with soda lime gives which gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপেন",
+       "en": "Propane"
+      },
+      {
+       "id": "d",
+       "bn": "মিথেন",
+       "en": "Methane"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "CH₃COONa → CH₄ + Na₂CO₃।",
+     "explanation_en": "CH3COONa gives CH4 + Na2CO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সোডিয়াম প্রোপিয়নেট (CH₃CH₂COONa) থেকে কোন অ্যালকেন পাওয়া যায়?",
+     "question_en": "Which alkane is obtained from sodium propionate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      },
+      {
+       "id": "b",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপেন",
+       "en": "Propane"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটেন",
+       "en": "Butane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একটি কার্বন CO₂ হিসেবে অপসারিত হয়; 3−1 = 2 কার্বন, তাই ইথেন।",
+     "explanation_en": "One carbon leaves as CO2; 3-1 = 2 carbons, so ethane.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এই প্রস্তুতিতে শুধু কস্টিক সোডার বদলে সোডালাইম ব্যবহারের কারণ কী?",
+     "question_en": "Why is soda lime used instead of plain caustic soda?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোডালাইম সচ্ছিদ্র, সহজে গলে না ও কাচ আক্রমণ করে না",
+       "en": "It is porous, does not melt and does not attack glass"
+      },
+      {
+       "id": "b",
+       "bn": "এটি বেশি দামি",
+       "en": "It is costlier"
+      },
+      {
+       "id": "c",
+       "bn": "এটি অ্যালকেনকে CO₂ এ বদলায়",
+       "en": "It converts alkane to CO2"
+      },
+      {
+       "id": "d",
+       "bn": "এটি পানি শোষণ করে না বলে গ্যাস দ্রবীভূত হয়",
+       "en": "It does not absorb water so gas dissolves"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কস্টিক সোডা গলে কাচ আক্রমণ করে ও গ্যাস বের হতে বাধা দেয়; সোডালাইমে তা হয় না।",
+     "explanation_en": "Plain NaOH melts and attacks glass; soda lime avoids this and releases gas easily.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.6",
+   "title_bn": "অ্যালকেনের শিল্পোৎপাদন",
+   "title_en": "Industrial Production of Alkanes",
+   "notes_bn": "CO + 3H₂ → CH₄ + H₂O (নিকেল, 300°C)।\n4CO + 2H₂O → CH₄ + 3CO₂ (NiCO₃ প্রভাবক, 250–270°C)।\nকৃত্রিম পেট্রোল: nCO + (2n+1)H₂ → CₙH₂ₙ₊₂ + nH₂O; কোবাল্ট প্রভাবক, ~200°C, 5–10 atm।\nউৎপন্ন তরল হাইড্রোকার্বন আংশিক পাতনে পেট্রোল, কেরোসিন, লুব্রিকেটিং তেল, ওয়াক্সে পৃথক হয়।\nCO তৈরির জন্য উত্তপ্ত কোকে স্টিম চালানো হয়।",
+   "notes_en": "CO + 3H2 -> CH4 + H2O (Ni, 300C).\n4CO + 2H2O -> CH4 + 3CO2 (NiCO3, 250-270C).\nSynthetic petrol: nCO + (2n+1)H2 -> CnH2n+2 + nH2O (Co, ~200C, 5-10 atm).\nProduct is fractionally distilled into petrol, kerosene, etc.",
+   "mcqs": [
+    {
+     "question_bn": "নিকেল প্রভাবকে 300°C এ CO ও H₂ বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "CO and H2 over Ni at 300 C give what?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      },
+      {
+       "id": "b",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "c",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CO + 3H₂ → CH₄ + H₂O।",
+     "explanation_en": "CO + 3H2 -> CH4 + H2O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "4CO + 2H₂O → CH₄ + 3CO₂ বিক্রিয়ায় প্রভাবক কোনটি?",
+     "question_en": "Which catalyst is used in 4CO + 2H2O -> CH4 + 3CO2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Co",
+       "en": "Co"
+      },
+      {
+       "id": "b",
+       "bn": "NiCO₃",
+       "en": "NiCO3"
+      },
+      {
+       "id": "c",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "d",
+       "bn": "Cr₂O₃",
+       "en": "Cr2O3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এটি 250–270°C এ NiCO₃ প্রভাবকে ঘটে।",
+     "explanation_en": "It occurs at 250-270 C over NiCO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কৃত্রিম পেট্রোল প্রস্তুতিতে কোন প্রভাবক ও চাপ ব্যবহৃত হয়?",
+     "question_en": "Which catalyst and pressure are used for synthetic petrol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Co, 5–10 atm",
+       "en": "Co, 5-10 atm"
+      },
+      {
+       "id": "b",
+       "bn": "Ni, 40 atm",
+       "en": "Ni, 40 atm"
+      },
+      {
+       "id": "c",
+       "bn": "Pt, 1 atm",
+       "en": "Pt, 1 atm"
+      },
+      {
+       "id": "d",
+       "bn": "Al₂O₃, 100 atm",
+       "en": "Al2O3, 100 atm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কোবাল্ট প্রভাবক, প্রায় 200°C ও 5–10 atm।",
+     "explanation_en": "Cobalt catalyst, ~200 C, 5-10 atm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "nCO + (2n+1)H₂ → CₙH₂ₙ₊₂ + nH₂O অনুযায়ী পেন্টেন (C₅H₁₂) তৈরিতে কত মোল H₂ লাগে (প্রতি মোল পেন্টেন)?",
+     "question_en": "By nCO + (2n+1)H2 -> CnH2n+2 + nH2O, how many moles of H2 are needed per mole of pentane?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "b",
+       "bn": "10",
+       "en": "10"
+      },
+      {
+       "id": "c",
+       "bn": "12",
+       "en": "12"
+      },
+      {
+       "id": "d",
+       "bn": "11",
+       "en": "11"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "n = 5 ⇒ 2n+1 = 11।",
+     "explanation_en": "n = 5 gives 2n+1 = 11.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.7",
+   "title_bn": "অ্যালকেন সংশ্লেষণ",
+   "title_en": "Synthesis of Alkanes",
+   "notes_bn": "অসম্পৃক্ত থেকে: অ্যালকিন/অ্যালকাইন + H₂ (Ni, 150–180°C বা Pt/Pd, কক্ষ তাপমাত্রা) → অ্যালকেন।\nCH₃CH=CH₂ + H₂ → CH₃CH₂CH₃; CH₃C≡CH + 2H₂ → CH₃CH₂CH₃।\nঅ্যালকাইল হ্যালাইডের বিজারণ: R–X + 2[H] (Zn, HCl) → R–H + HX।\nউর্টজ বিক্রিয়া: 2R–X + 2Na (শুষ্ক ইথার) → R–R + 2NaX; উচ্চতর অ্যালকেন তৈরি হয়।\nউদাহরণ: 2CH₃I + 2Na → CH₃CH₃ + 2NaI।",
+   "notes_en": "Hydrogenation of alkene/alkyne (Ni 150-180C or Pt/Pd) gives alkane.\nAlkyl halide + Zn/HCl gives alkane: R-X + 2[H] -> R-H + HX.\nWurtz: 2R-X + 2Na (dry ether) -> R-R + 2NaX.",
+   "mcqs": [
+    {
+     "question_bn": "উর্টজ বিক্রিয়ায় অ্যালকাইল হ্যালাইডের সাথে কী যোগ করা হয়?",
+     "question_en": "In the Wurtz reaction an alkyl halide is treated with—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Zn ও HCl",
+       "en": "Zn and HCl"
+      },
+      {
+       "id": "b",
+       "bn": "Na ধাতু ও শুষ্ক ইথার",
+       "en": "Na metal in dry ether"
+      },
+      {
+       "id": "c",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "d",
+       "bn": "গাঢ় H₂SO₄",
+       "en": "Conc. H2SO4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উর্টজ বিক্রিয়া: R–X + 2Na + X–R → R–R + 2NaX (শুষ্ক ইথারে)।",
+     "explanation_en": "Wurtz: R-X + 2Na + X-R -> R-R + 2NaX in dry ether.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রোপাইনের সাথে 2 মোল H₂ Ni প্রভাবকে বিক্রিয়া করলে কী পাওয়া যায়?",
+     "question_en": "Propyne reacts with 2 mol H2 over Ni. What is formed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপিন",
+       "en": "Propene"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপেন",
+       "en": "Propane"
+      },
+      {
+       "id": "c",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটেন",
+       "en": "Butane"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH₃C≡CH + 2H₂ → CH₃CH₂CH₃।",
+     "explanation_en": "CH3C≡CH + 2H2 -> CH3CH2CH3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথাইল আয়োডাইড Zn ও HCl দ্বারা বিজারিত হলে কী উৎপন্ন হয়?",
+     "question_en": "Reduction of ethyl iodide with Zn/HCl gives—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিউটেন",
+       "en": "Butane"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইল ক্লোরাইড",
+       "en": "Ethyl chloride"
+      },
+      {
+       "id": "d",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "C₂H₅I + 2[H] → C₂H₆ + HI।",
+     "explanation_en": "C2H5I + 2[H] -> C2H6 + HI.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C₂H₅Br কে Na ও শুষ্ক ইথারসহ উত্তপ্ত করলে প্রধান অ্যালকেন কোনটি?",
+     "question_en": "Heating C2H5Br with Na in dry ether gives which alkane?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপেন",
+       "en": "Propane"
+      },
+      {
+       "id": "c",
+       "bn": "বিউটেন",
+       "en": "Butane"
+      },
+      {
+       "id": "d",
+       "bn": "পেন্টেন",
+       "en": "Pentane"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "R–R এ R = C₂H₅, তাই C₄H₁₀ (বিউটেন); কার্বন সংখ্যা দ্বিগুণ হয়।",
+     "explanation_en": "R-R with R = C2H5 gives C4H10, butane (carbons double).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.8",
+   "title_bn": "অ্যালকেনের ভৌত ধর্ম",
+   "title_en": "Physical Properties of Alkanes",
+   "notes_bn": "C₁–C₄ গ্যাস; C₅–C₁₇ তরল; C₁₈ ও তদূর্ধ্ব মোমসদৃশ কঠিন; বর্ণ ও গন্ধহীন।\nপানিতে অদ্রবণীয়, বেনজিন, ইথানল, ইথারে দ্রবণীয়।\nস্ফুটনাঙ্ক (°C): CH₄ −162, C₂H₆ −88.6, C₃H₈ −42, C₄H₁₀ −1.0, C₅H₁₂ 36।\nশাখাযুক্ত সমাণুর স্ফুটনাঙ্ক কম: n-পেন্টেন 36, iso-পেন্টেন 28, neo-পেন্টেন 10°C।\nকারণ গোলাকার গঠনে ভ্যান্ডার ওয়ালস বল কম; আপেক্ষিক গুরুত্ব 1 এর কম।",
+   "notes_en": "C1-C4 gases, C5-C17 liquids, C18+ waxy solids; colourless, odourless.\nInsoluble in water; soluble in benzene, ethanol, ether.\nb.p.: CH4 -162, C2H6 -88.6, C3H8 -42, C4H10 -1.0, C5H12 36 C.\nBranched isomers boil lower (pentane 36, iso 28, neo 10 C) due to weaker van der Waals forces.\nDensity < 1.",
+   "mcqs": [
+    {
+     "question_bn": "সাধারণ তাপমাত্রায় কোন অ্যালকেন সদস্যগুলো গ্যাসীয়?",
+     "question_en": "Which alkanes are gases at ordinary temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₁ থেকে C₄",
+       "en": "C1 to C4"
+      },
+      {
+       "id": "b",
+       "bn": "C₅ থেকে C₁₇",
+       "en": "C5 to C17"
+      },
+      {
+       "id": "c",
+       "bn": "C₁₈ এর উপরে",
+       "en": "Above C18"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু C₁",
+       "en": "Only C1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রথম চারটি সদস্য গ্যাস।",
+     "explanation_en": "The first four members are gases.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন অ্যালকেনটির স্ফুটনাঙ্ক সবচেয়ে কম?",
+     "question_en": "Which has the lowest boiling point?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "n-পেন্টেন",
+       "en": "n-Pentane"
+      },
+      {
+       "id": "b",
+       "bn": "iso-পেন্টেন",
+       "en": "iso-Pentane"
+      },
+      {
+       "id": "c",
+       "bn": "neo-পেন্টেন",
+       "en": "neo-Pentane"
+      },
+      {
+       "id": "d",
+       "bn": "n-হেক্সেন",
+       "en": "n-Hexane"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "neo-পেন্টেনের স্ফুটনাঙ্ক 10°C; সবচেয়ে শাখাযুক্ত ও গোলাকার।",
+     "explanation_en": "neo-Pentane boils at 10 C; it is the most branched and spherical.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকেন কোন দ্রাবকে দ্রবণীয়?",
+     "question_en": "In which solvent are alkanes soluble?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "b",
+       "bn": "লঘু HCl",
+       "en": "Dilute HCl"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "d",
+       "bn": "লঘু NaOH",
+       "en": "Dilute NaOH"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অ্যালকেন পানিতে অদ্রবণীয়, জৈব দ্রাবক বেনজিন, ইথার ইত্যাদিতে দ্রবণীয়।",
+     "explanation_en": "Alkanes dissolve in organic solvents such as benzene, not water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "শাখাযুক্ত অ্যালকেনের স্ফুটনাঙ্ক সরল সমাণুর চেয়ে কম কেন?",
+     "question_en": "Why do branched alkanes boil lower than their straight-chain isomers?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আণবিক ভর কম",
+       "en": "Lower molar mass"
+      },
+      {
+       "id": "b",
+       "bn": "গোলাকার গঠনে ভ্যান্ডার ওয়ালস আকর্ষণ কম",
+       "en": "Rounder shape gives weaker van der Waals forces"
+      },
+      {
+       "id": "c",
+       "bn": "হাইড্রোজেন বন্ধন ভাঙে",
+       "en": "Hydrogen bonds break"
+      },
+      {
+       "id": "d",
+       "bn": "দ্বিবন্ধন থাকে",
+       "en": "They contain double bonds"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পৃষ্ঠতল কম হওয়ায় আন্তঃআণবিক আকর্ষণ কম।",
+     "explanation_en": "Smaller surface area means weaker intermolecular attraction.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.9",
+   "title_bn": "অ্যালকেনের রাসায়নিক ধর্ম",
+   "title_en": "Chemical Properties of Alkanes",
+   "notes_bn": "C–H ও C–C σ বন্ধন মেরুবিহীন ও দৃঢ়, তাই অ্যালকেন সাধারণ বিকারকে নিষ্ক্রিয়। বিক্রিয়া: প্রতিস্থাপন, তাপীয় বিয়োজন, সমাণুকরণ।\nহ্যালোজেনেশন: সূর্যালোকে CH₄ + Cl₂ → CH₃Cl + HCl; ক্রমে CH₂Cl₂, CHCl₃, CCl₄। সক্রিয়তা Cl₂ > Br₂; আয়োডিন নয়।\nH প্রতিস্থাপনের ক্রম 3° > 2° > 1° > CH₃–H। প্রোপেনের ব্রোমিনেশনে 95% iso-প্রোপাইল ব্রোমাইড।\nফ্রি-রেডিকেল চেইন: সূচনা (Cl₂ → 2Cl•), বিস্তারণ, সমাপ্তি।\nনাইট্রেশন: ~400°C এ গাঢ় HNO₃ বাষ্পে RH → RNO₂। পাইরোলিসিস (500–800°C, 3–4 atm): C–C ভেঙে ছোট অণু। সমাণুকরণ: AlCl₃/HCl, 250–300°C এ n-বিউটেন → iso-বিউটেন।",
+   "notes_en": "C-H and C-C sigma bonds are nonpolar/strong, so alkanes are inert; they undergo substitution, pyrolysis, isomerisation.\nHalogenation in light: CH4 -> CH3Cl, CH2Cl2, CHCl3, CCl4; Cl2 > Br2, no iodination.\nH reactivity 3 > 2 > 1 > CH3-H; propane bromination gives 95% 2-bromopropane.\nFree radical chain: initiation, propagation, termination.\nNitration ~400 C; pyrolysis 500-800 C; isomerisation with AlCl3/HCl at 250-300 C.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকেনের ক্লোরিনেশন কোন পরিস্থিতিতে ঘটে?",
+     "question_en": "Under what condition does alkane chlorination occur?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অন্ধকারে ঠান্ডা অবস্থায়",
+       "en": "In the dark, cold"
+      },
+      {
+       "id": "b",
+       "bn": "সূর্যালোক বা অতিবেগুনি রশ্মিতে",
+       "en": "In sunlight or UV light"
+      },
+      {
+       "id": "c",
+       "bn": "জলীয় ক্ষারে",
+       "en": "In aqueous alkali"
+      },
+      {
+       "id": "d",
+       "bn": "লঘু এসিডে",
+       "en": "In dilute acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আলোর উপস্থিতিতে Cl₂ ফ্রি-রেডিকেল গঠন করে।",
+     "explanation_en": "Light splits Cl2 into free radicals.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হাইড্রোজেন প্রতিস্থাপনের সক্রিয়তার সঠিক ক্রম কোনটি?",
+     "question_en": "What is the correct order of H-substitution reactivity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1° > 2° > 3°",
+       "en": "1 > 2 > 3"
+      },
+      {
+       "id": "b",
+       "bn": "3° > 2° > 1°",
+       "en": "3 > 2 > 1"
+      },
+      {
+       "id": "c",
+       "bn": "2° > 3° > 1°",
+       "en": "2 > 3 > 1"
+      },
+      {
+       "id": "d",
+       "bn": "সবই সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "3° > 2° > 1° > CH₃–H।",
+     "explanation_en": "3 > 2 > 1 > CH3-H.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোপেনের ব্রোমিনেশনে (30°C) প্রধান উৎপাদ কোনটি?",
+     "question_en": "What is the major product of bromination of propane at 30 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "n-প্রোপাইল ব্রোমাইড",
+       "en": "n-Propyl bromide"
+      },
+      {
+       "id": "b",
+       "bn": "iso-প্রোপাইল ব্রোমাইড",
+       "en": "iso-Propyl bromide"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইল ব্রোমাইড",
+       "en": "Ethyl bromide"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটাইল ব্রোমাইড",
+       "en": "Butyl bromide"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী 95% iso-প্রোপাইল ও 5% n-প্রোপাইল ব্রোমাইড।",
+     "explanation_en": "Per the book: 95% iso-propyl and 5% n-propyl bromide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরিনের ফ্রি-রেডিকেল বিক্রিয়ার সূচনা স্তর কোনটি?",
+     "question_en": "What is the initiation step in free-radical chlorination?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl• + CH₄ → HCl + •CH₃",
+       "en": "Cl. + CH4 -> HCl + .CH3"
+      },
+      {
+       "id": "b",
+       "bn": "Cl• + Cl• → Cl₂",
+       "en": "Cl. + Cl. -> Cl2"
+      },
+      {
+       "id": "c",
+       "bn": "Cl₂ → 2Cl• (আলো)",
+       "en": "Cl2 -> 2Cl. (light)"
+      },
+      {
+       "id": "d",
+       "bn": "•CH₃ + •CH₃ → C₂H₆",
+       "en": "CH3. + CH3. -> C2H6"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "আলোয় Cl–Cl বন্ধন সমভাবে ভেঙে দুটি Cl• তৈরি হয়; (a) বিস্তারণ, (b),(d) সমাপ্তি।",
+     "explanation_en": "Light splits Cl-Cl homolytically; (a) is propagation, (b),(d) termination.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "মিথেনকে গাঢ় HNO₃ বাষ্পসহ 400°C এ উত্তপ্ত করলে কী পাওয়া যায়?",
+     "question_en": "Heating methane with conc. HNO3 vapour at 400 C gives—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নাইট্রোমিথেন",
+       "en": "Nitromethane"
+      },
+      {
+       "id": "b",
+       "bn": "মিথাইল ক্লোরাইড",
+       "en": "Methyl chloride"
+      },
+      {
+       "id": "c",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "d",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃–H + HO–NO₂ → CH₃NO₂ + H₂O।",
+     "explanation_en": "CH4 + HNO3 -> CH3NO2 + H2O.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "5.10",
+   "title_bn": "অ্যালকেনের ব্যবহার",
+   "title_en": "Uses of Alkanes",
+   "notes_bn": "অ্যালকেন মূলত জ্বালানি; দ্রাবক, পিচ্ছিলকারক ও রাসায়নিক কাঁচামালও।\nমিথেন: জ্বালানি, ইউরিয়া সার তৈরি; তাপ বিয়োজনে কার্বন কালো (ছাপার কালি, জুতার পালিশ); H₂ গ্যাস; মিথাইল অ্যালকোহল, ফরমালডিহাইড, মিথাইল ক্লোরাইড তৈরি।\nইথেন থেকে ইথাইল অ্যালকোহল, ইথাইল ক্লোরাইড ও ইথিন।\nC₃–C₄ তরলীকৃত করে এল.পি. গ্যাস (রান্না ও জ্বালানি)।",
+   "notes_en": "Mainly fuels; also solvents, lubricants, chemical feedstock.\nMethane: fuel, urea fertiliser, carbon black (ink, shoe polish), H2, methanol, formaldehyde, methyl chloride.\nEthane gives ethanol, ethyl chloride, ethene.\nC3-C4 liquefied as LPG.",
+   "mcqs": [
+    {
+     "question_bn": "এল.পি. গ্যাস প্রধানত কীসে ব্যবহৃত হয়?",
+     "question_en": "LPG is mainly used for—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রাস্তা নির্মাণে",
+       "en": "Road construction"
+      },
+      {
+       "id": "b",
+       "bn": "রান্না ও জ্বালানিতে",
+       "en": "Cooking and fuel"
+      },
+      {
+       "id": "c",
+       "bn": "সার উৎপাদনে",
+       "en": "Making fertiliser"
+      },
+      {
+       "id": "d",
+       "bn": "ওয়াক্স তৈরিতে",
+       "en": "Making wax"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C₃–C₄ অ্যালকেন তরলীকৃত করে রান্নার জ্বালানি।",
+     "explanation_en": "Liquefied C3-C4 alkanes serve as cooking fuel.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মিথেন প্রাকৃতিক গ্যাস কোন সার তৈরিতে ব্যবহৃত হয়?",
+     "question_en": "Methane/natural gas is used to make which fertiliser?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টিএসপি",
+       "en": "TSP"
+      },
+      {
+       "id": "b",
+       "bn": "ইউরিয়া",
+       "en": "Urea"
+      },
+      {
+       "id": "c",
+       "bn": "এমওপি",
+       "en": "MOP"
+      },
+      {
+       "id": "d",
+       "bn": "জিপসাম",
+       "en": "Gypsum"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "চট্টগ্রাম, ঘোড়াশাল, আশুগঞ্জ প্রভৃতি কারখানায় ইউরিয়া তৈরি হয়।",
+     "explanation_en": "It is used for urea in several factories.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথেনের তাপ বিয়োজনে প্রাপ্ত কার্বন কালো কোথায় ব্যবহৃত হয়?",
+     "question_en": "Carbon black from thermal decomposition of methane is used in—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ছাপার কালি ও জুতার পালিশে",
+       "en": "Printing ink and shoe polish"
+      },
+      {
+       "id": "b",
+       "bn": "ঔষধ তৈরিতে",
+       "en": "Medicines"
+      },
+      {
+       "id": "c",
+       "bn": "সাবান তৈরিতে",
+       "en": "Soap"
+      },
+      {
+       "id": "d",
+       "bn": "কাচ তৈরিতে",
+       "en": "Glass"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিথেন থেকে প্রাপ্ত কার্বন গুঁড়া ছাপার কালি ও বুট পালিশে লাগে।",
+     "explanation_en": "Carbon from methane is used in printing ink and boot polish.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি মিথেন থেকে শিল্পে তৈরি হয় না?",
+     "question_en": "Which is NOT made industrially from methane?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথাইল অ্যালকোহল",
+       "en": "Methyl alcohol"
+      },
+      {
+       "id": "b",
+       "bn": "ফরমালডিহাইড",
+       "en": "Formaldehyde"
+      },
+      {
+       "id": "c",
+       "bn": "মিথাইল ক্লোরাইড",
+       "en": "Methyl chloride"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিলিন ডাইক্লোরাইড",
+       "en": "Ethylene dichloride"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "ইথিলিন ডাইক্লোরাইড ইথিন থেকে হয়; বাকি তিনটি মিথেন থেকে।",
+     "explanation_en": "Ethylene dichloride comes from ethene; the others from methane.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.11",
+   "title_bn": "অসম্পৃক্ত হাইড্রোজেন : অ্যালকিন ও অ্যালকাইন",
+   "title_en": "Unsaturated Hydrocarbons: Alkenes and Alkynes",
+   "notes_bn": "অসম্পৃক্ত হাইড্রোকার্বনে অন্তত একটি C=C বা C≡C থাকে।\nঅ্যালকিন: একটি দ্বিবন্ধন, CₙH₂ₙ (n = 2, 3 …); যেমন ইথিন C₂H₄, প্রোপিন C₃H₆।\nঅ্যালকাইন: একটি ত্রিবন্ধন, CₙH₂ₙ₋₂; যেমন ইথাইন (অ্যাসিটিলিন) C₂H₂, প্রোপাইন C₃H₄।\nঅ্যালকিনের অন্য নাম অলেফিন্স (olefiant = তেল উৎপাদক) কারণ Cl₂ এর সাথে তেলতুল্য ডাইক্লোরাইড দেয়: CH₂=CH₂ + Cl₂ → CH₂Cl–CH₂Cl।",
+   "notes_en": "Unsaturated: at least one C=C or C≡C.\nAlkene CnH2n (ethene, propene); alkyne CnH2n-2 (ethyne, propyne).\nAlkenes = olefins (oil-forming) since ethene + Cl2 gives an oily dichloride.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকিনের সাধারণ সংকেত কী?",
+     "question_en": "General formula of alkenes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CₙH₂ₙ",
+       "en": "CnH2n"
+      },
+      {
+       "id": "b",
+       "bn": "CₙH₂ₙ₊₂",
+       "en": "CnH2n+2"
+      },
+      {
+       "id": "c",
+       "bn": "CₙH₂ₙ₋₂",
+       "en": "CnH2n-2"
+      },
+      {
+       "id": "d",
+       "bn": "CₙH₂ₙ₋₆",
+       "en": "CnH2n-6"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একটি দ্বিবন্ধনযুক্ত অ্যালকিন CₙH₂ₙ।",
+     "explanation_en": "One double bond gives CnH2n.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকিনকে অলেফিন্স বলা হয় কেন?",
+     "question_en": "Why are alkenes called olefins?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এরা তেলে দ্রবীভূত হয়",
+       "en": "They dissolve in oil"
+      },
+      {
+       "id": "b",
+       "bn": "Cl₂ এর সাথে তেলতুল্য ডাইক্লোরাইড গঠন করে",
+       "en": "They form oily dichlorides with chlorine"
+      },
+      {
+       "id": "c",
+       "bn": "এরা তেল থেকে পাওয়া যায় না",
+       "en": "They are not from oil"
+      },
+      {
+       "id": "d",
+       "bn": "এদের গন্ধ তেলের মতো",
+       "en": "They smell like oil"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Olefiant = তেল উৎপাদক।",
+     "explanation_en": "Olefiant means oil-forming.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোপাইনের আণবিক সংকেত কোনটি?",
+     "question_en": "What is the molecular formula of propyne?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₃H₈",
+       "en": "C3H8"
+      },
+      {
+       "id": "b",
+       "bn": "C₃H₆",
+       "en": "C3H6"
+      },
+      {
+       "id": "c",
+       "bn": "C₃H₄",
+       "en": "C3H4"
+      },
+      {
+       "id": "d",
+       "bn": "C₃H₂",
+       "en": "C3H2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CₙH₂ₙ₋₂ এ n=3: H = 4।",
+     "explanation_en": "CnH2n-2 with n=3 gives H = 4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ছয় কার্বনযুক্ত অ্যালকিনের আণবিক সংকেত কী?",
+     "question_en": "What is the formula of an alkene with six carbons?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₆H₁₂",
+       "en": "C6H12"
+      },
+      {
+       "id": "b",
+       "bn": "C₆H₁₄",
+       "en": "C6H14"
+      },
+      {
+       "id": "c",
+       "bn": "C₆H₁₀",
+       "en": "C6H10"
+      },
+      {
+       "id": "d",
+       "bn": "C₆H₆",
+       "en": "C6H6"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2n = 12 ⇒ C₆H₁₂ (n = 6)।",
+     "explanation_en": "2n = 12, so C6H12.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.12",
+   "title_bn": "পরীক্ষাগারে অ্যালকিন প্রস্তুতি",
+   "title_en": "Laboratory Preparation of Alkenes",
+   "notes_bn": "ইথানল + দ্বিগুণ পরিমাণ গাঢ় H₂SO₄ কে 160–170°C এ উত্তপ্ত করে ইথিন তৈরি হয়।\nধাপ: 100°C এ CH₃CH₂OH + H₂SO₄ → ইথাইল হাইড্রোজেন সালফেট + H₂O; 165°C এ এটি → C₂H₄ + H₂SO₄।\nগাঢ় H₂SO₄ নিরুদক হিসেবে কাজ করে।\nফেনা রোধে কাচের টুকরা/বালি; থার্মোমিটার লাগানো।\nউপজাত CO₂ ও SO₂ কে NaOH দ্রবণে শোষণ করে বিশুদ্ধ ইথিন পানির নিম্নমুখী অপসারণে সংগ্রহ।\nসতর্কতা: গ্যাস শেষে গোলতলী ফ্লাস্ক আগে বিচ্ছিন্ন করতে হবে; অ্যাসিড ইথানলের প্রায় দ্বিগুণ, নতুবা ডাইইথাইল ইথার তৈরি হয়।",
+   "notes_en": "Ethanol + about twice conc. H2SO4 heated to 160-170 C gives ethene.\nVia ethyl hydrogen sulphate (100 C), then 165 C gives C2H4 + H2SO4.\nConc. H2SO4 acts as dehydrating agent; sand/glass pieces prevent froth.\nCO2 and SO2 impurities absorbed in NaOH wash bottle; gas collected over water.\nExcess acid is needed or diethyl ether forms.",
+   "mcqs": [
+    {
+     "question_bn": "পরীক্ষাগারে ইথিন প্রস্তুতিতে ইথানলের সাথে কী ব্যবহৃত হয়?",
+     "question_en": "What is heated with ethanol to prepare ethene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় H₂SO₄",
+       "en": "Conc. H2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "সোডালাইম",
+       "en": "Soda lime"
+      },
+      {
+       "id": "c",
+       "bn": "Zn ও HCl",
+       "en": "Zn and HCl"
+      },
+      {
+       "id": "d",
+       "bn": "Na",
+       "en": "Na"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গাঢ় H₂SO₄ নিরুদক হিসেবে ব্যবহৃত হয়।",
+     "explanation_en": "Conc. H2SO4 is used as dehydrating agent.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "এই প্রস্তুতির মধ্যবর্তী যৌগ কোনটি?",
+     "question_en": "What is the intermediate compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল ক্লোরাইড",
+       "en": "Ethyl chloride"
+      },
+      {
+       "id": "b",
+       "bn": "ডাইইথাইল ইথার",
+       "en": "Diethyl ether"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইল হাইড্রোজেন সালফেট",
+       "en": "Ethyl hydrogen sulphate"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল অ্যাসিটেট",
+       "en": "Ethyl acetate"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CH₃CH₂OSO₃H উৎপন্ন হয়ে পরে বিয়োজিত হয়।",
+     "explanation_en": "CH3CH2OSO3H forms and then decomposes.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উৎপন্ন গ্যাসের অপদ্রব্য CO₂ ও SO₂ দূর করতে কোন দ্রবণ ব্যবহৃত হয়?",
+     "question_en": "Which solution removes CO2 and SO2 impurities?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় H₂SO₄",
+       "en": "Conc. H2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "লঘু HCl",
+       "en": "Dilute HCl"
+      },
+      {
+       "id": "c",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH দ্রবণ",
+       "en": "NaOH solution"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "অম্লীয় CO₂, SO₂ ক্ষারে শোষিত হয়।",
+     "explanation_en": "Acidic gases are absorbed by alkali.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথানলের তুলনায় প্রায় দ্বিগুণ গাঢ় H₂SO₄ লাগে কেন?",
+     "question_en": "Why is about twice as much conc. H2SO4 used as ethanol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিনের পরিবর্তে ডাইইথাইল ইথার তৈরি রোধ করতে",
+       "en": "To prevent diethyl ether formation"
+      },
+      {
+       "id": "b",
+       "bn": "ফ্লাস্ক ঠান্ডা রাখতে",
+       "en": "To keep the flask cool"
+      },
+      {
+       "id": "c",
+       "bn": "CO₂ বাড়াতে",
+       "en": "To increase CO2"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়া ধীর করতে",
+       "en": "To slow the reaction"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যাসিড কম হলে ইথিনের বদলে ডাইইথাইল ইথার হয়।",
+     "explanation_en": "With less acid, diethyl ether forms instead of ethene.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.13",
+   "title_bn": "অ্যালকিনের শিল্পোৎপাদন",
+   "title_en": "Industrial Production of Alkenes",
+   "notes_bn": "অ্যালকোহলের নিরুদন: 350–400°C এ Al₂O₃ (বা ThO₂) এর উপর দিয়ে বাষ্প চালালে অ্যালকিন + H₂O। CH₃CH₂OH → CH₂=CH₂; CH₃CH₂CH₂OH → CH₃CH=CH₂।\nঅ্যালকেনের তাপবিয়োজন: Cr₂O₃ (উত্তপ্ত) উপর দিয়ে; যেমন বিউটেন → প্রোপিন + মিথেন।\nভিসিনাল ডাইহ্যালাইড (পাশের দুই C তে X) + Zn (মিথানলে) → অ্যালকিন + ZnX₂; BrCH₂CH₂Br → CH₂=CH₂ + ZnBr₂।\nজেম (gem) ডাইহ্যালাইডে দুই X একই C তে।",
+   "notes_en": "Dehydration of alcohol over Al2O3/ThO2 at 350-400 C gives alkene + H2O.\nCracking of alkane over Cr2O3, e.g. butane -> propene + methane.\nVicinal dihalide + Zn (methanol) -> alkene + ZnX2; gem dihalide has both X on one carbon.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকোহল থেকে অ্যালকিন তৈরিতে কোন প্রভাবক ও তাপমাত্রা প্রযোজ্য?",
+     "question_en": "Which catalyst and temperature convert alcohol to alkene industrially?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ni, 150°C",
+       "en": "Ni, 150 C"
+      },
+      {
+       "id": "b",
+       "bn": "Al₂O₃, 350–400°C",
+       "en": "Al2O3, 350-400 C"
+      },
+      {
+       "id": "c",
+       "bn": "Pt, 25°C",
+       "en": "Pt, 25 C"
+      },
+      {
+       "id": "d",
+       "bn": "Co, 200°C",
+       "en": "Co, 200 C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Al₂O₃ উপর দিয়ে অ্যালকোহল বাষ্প চালিয়ে H₂O অপসারিত হয়।",
+     "explanation_en": "Alcohol vapour over Al2O3 loses water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রোপানল Al₂O₃ উপর দিয়ে চালালে কী পাওয়া যায়?",
+     "question_en": "Propanol over Al2O3 gives—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপাইন",
+       "en": "Propyne"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপিন",
+       "en": "Propene"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপেন",
+       "en": "Propane"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH₃CH₂CH₂OH → CH₃CH=CH₂ + H₂O।",
+     "explanation_en": "CH3CH2CH2OH -> CH3CH=CH2 + H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উত্তপ্ত Cr₂O₃ এর উপর দিয়ে বিউটেন চালালে কী উৎপন্ন হয়?",
+     "question_en": "Butane over hot Cr2O3 gives—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপিন ও মিথেন",
+       "en": "Propene and methane"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিন ও ইথেন",
+       "en": "Ethene and ethane"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপেন ও H₂",
+       "en": "Propane and H2"
+      },
+      {
+       "id": "d",
+       "bn": "পেন্টিন",
+       "en": "Pentene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃CH₂CH₂CH₃ → CH₃CH=CH₂ + CH₄।",
+     "explanation_en": "CH3CH2CH2CH3 -> CH3CH=CH2 + CH4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Zn ও মিথানলসহ উত্তপ্ত করলে কোন যৌগ অ্যালকিন দেয়?",
+     "question_en": "Which compound gives an alkene on heating with Zn in methanol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জেম-ডাইহ্যালো অ্যালকেন",
+       "en": "gem-dihaloalkane"
+      },
+      {
+       "id": "b",
+       "bn": "মনোহ্যালো অ্যালকেন",
+       "en": "monohaloalkane"
+      },
+      {
+       "id": "c",
+       "bn": "ভিসিনাল ডাইহ্যালো অ্যালকেন",
+       "en": "vic-dihaloalkane"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকোহল",
+       "en": "alcohol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "দুই পাশের কার্বন থেকে X₂ অপসারণ হয়ে π বন্ধন তৈরি হয়; যেমন BrCH₂CH₂Br → CH₂=CH₂।",
+     "explanation_en": "X2 is removed from adjacent carbons forming the double bond.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "5.3",
+   "stimulus_bn": "একটি গাড়ির ইঞ্জিনে 85 অক্টেন নাম্বারের পেট্রোল ব্যবহার করলে নকিং হয়। মেকানিক বলেন জ্বালানির সাথে সামান্য TEL মেশাতে এবং কারখানায় পেট্রোলকে AlCl₃/HCl এর উপস্থিতিতে 300°C এ শোধন করতে।",
+   "stimulus_en": "A car using petrol of octane number 85 shows knocking. A mechanic suggests adding a little TEL, and refining the petrol with AlCl3/HCl at 300 C.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "নকিং কী?",
+     "question_en": "What is knocking?",
+     "model_answer_bn": "ইঞ্জিনে স্পার্কের আগেই জ্বালানি-বায়ুর মিশ্রণ জ্বলে উঠলে যে ধাতব শব্দ হয় তাই নকিং।",
+     "model_answer_en": "Premature ignition of the fuel-air mixture before the spark, producing a metallic sound."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "অক্টেন নাম্বার 85 বলতে কী বোঝায়?",
+     "question_en": "What does octane number 85 mean?",
+     "model_answer_bn": "জ্বালানিটি 85% iso-অক্টেন ও 15% n-হেপ্টেনের মিশ্রণের সমান নকিং-দক্ষতার।",
+     "model_answer_en": "The fuel performs like a mixture of 85% iso-octane and 15% n-heptane."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "AlCl₃/HCl দ্বারা 300°C এ 2-মিথাইলপেন্টেনের বিক্রিয়াটি লেখো এবং এর ফল ব্যাখ্যা করো।",
+     "question_en": "Write the reaction of 2-methylpentane with AlCl3/HCl at 300 C and explain its effect.",
+     "model_answer_bn": "2-মিথাইলপেন্টেন → 2,3-ডাইমিথাইলবিউটেন। বেশি শাখাযুক্ত অ্যালকেন নক কম করে, তাই অক্টেন নাম্বার বাড়ে।",
+     "model_answer_en": "2-Methylpentane -> 2,3-dimethylbutane; more branching reduces knock, raising octane number."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "আরও দুটি উপায়ে অক্টেন নাম্বার বাড়ানো যায় তা উল্লেখ করে একটির বিক্রিয়া লেখো।",
+     "question_en": "Name two other ways to raise octane number and write one reaction.",
+     "model_answer_bn": "TEL/টলুইন মেশানো, রিফর্মিং; যেমন হেক্সেন → বেনজিন + 4H₂ (Al₂O₃, 500°C, 40 atm)। বেনজিন/টলুইন নকিং কমায়।",
+     "model_answer_en": "Add TEL/toluene or reform; e.g. hexane -> benzene + 4H2 (Al2O3, 500 C, 40 atm)."
+    }
+   ]
+  },
+  {
+   "topic_section": "5.9",
+   "stimulus_bn": "সূর্যালোকে মিথেন ও ক্লোরিন মিশ্রণে বিক্রিয়া ঘটে। অন্যদিকে প্রোপেনকে ব্রোমিনের সাথে 30°C এ আলোতে রাখা হলো।",
+   "stimulus_en": "Methane and chlorine react in sunlight. Propane is also exposed to bromine at 30 C in light.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "অ্যালকেনের হ্যালোজেনেশন কাকে বলে?",
+     "question_en": "What is halogenation of alkanes?",
+     "model_answer_bn": "অ্যালকেনের H পরমাণুকে হ্যালোজেন পরমাণু দ্বারা প্রতিস্থাপনকে হ্যালোজেনেশন বলে।",
+     "model_answer_en": "Replacement of H atoms of an alkane by halogen atoms."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "মিথেন ক্লোরিনেশনের চারটি উৎপাদের নাম লেখো।",
+     "question_en": "Name the four chlorination products of methane.",
+     "model_answer_bn": "মিথাইল ক্লোরাইড, মিথিলিন ক্লোরাইড, ক্লোরোফরম, কার্বন টেট্রাক্লোরাইড।",
+     "model_answer_en": "Methyl chloride, methylene chloride, chloroform, carbon tetrachloride."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "প্রোপেনের ব্রোমিনেশনের বিক্রিয়াটি লিখে প্রধান উৎপাদ চিহ্নিত করো।",
+     "question_en": "Write the bromination of propane and identify the major product.",
+     "model_answer_bn": "CH₃CH₂CH₃ + Br₂ → CH₃CHBrCH₃ (95%) + CH₃CH₂CH₂Br (5%); 2° H বেশি সক্রিয়।",
+     "model_answer_en": "Major product is iso-propyl bromide (95%) since the 2 degree H is more reactive."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ক্লোরিনেশনের ফ্রি-রেডিকেল ক্রিয়াকৌশল ধাপসহ ব্যাখ্যা করো।",
+     "question_en": "Explain the free-radical mechanism of chlorination stepwise.",
+     "model_answer_bn": "সূচনা: Cl₂ → 2Cl•। বিস্তারণ: Cl• + CH₄ → HCl + •CH₃; •CH₃ + Cl₂ → CH₃Cl + Cl•। সমাপ্তি: Cl• + •CH₃ → CH₃Cl ইত্যাদি। চেইন বিক্রিয়া।",
+     "model_answer_en": "Initiation: Cl2 -> 2Cl.; propagation: Cl. + CH4 -> HCl + .CH3, .CH3 + Cl2 -> CH3Cl + Cl.; termination: radicals combine."
+    }
+   ]
+  },
+  {
+   "topic_section": "5.12",
+   "stimulus_bn": "ছাত্ররা ইথানল ও গাঢ় H₂SO₄ মিশ্রণ 165°C এ উত্তপ্ত করে একটি গ্যাস সংগ্রহ করল। গ্যাসটি ওয়াশ বোতলে NaOH দ্রবণের মধ্য দিয়ে নেওয়া হলো।",
+   "stimulus_en": "Students heated an ethanol and conc. H2SO4 mixture at 165 C and collected a gas, passing it through NaOH solution in a wash bottle.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "গ্যাসটির নাম কী?",
+     "question_en": "Name the gas.",
+     "model_answer_bn": "ইথিন (ইথিলিন)।",
+     "model_answer_en": "Ethene (ethylene)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "NaOH দ্রবণ কেন ব্যবহার করা হলো?",
+     "question_en": "Why was NaOH solution used?",
+     "model_answer_bn": "গ্যাসের সাথে মিশ্রিত CO₂ ও SO₂ কে শোষণ করে বিশুদ্ধ ইথিন পেতে।",
+     "model_answer_en": "To absorb CO2 and SO2 impurities and purify ethene."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "বিক্রিয়ার ধাপগুলো সমীকরণসহ লেখো।",
+     "question_en": "Write the reaction steps with equations.",
+     "model_answer_bn": "100°C: C₂H₅OH + H₂SO₄ → C₂H₅OSO₃H + H₂O; 165°C: C₂H₅OSO₃H → C₂H₄ + H₂SO₄।",
+     "model_answer_en": "100 C: C2H5OH + H2SO4 -> C2H5OSO3H + H2O; 165 C: C2H5OSO3H -> C2H4 + H2SO4."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "অ্যাসিড কম নিলে কী ঘটত ও গ্যাস সংগ্রহ শেষে প্রথমে কী করা উচিত?",
+     "question_en": "What would happen with less acid, and what must be done first after collection?",
+     "model_answer_bn": "ইথিনের বদলে ডাইইথাইল ইথার তৈরি হতো। শেষে আগে নির্গম নলের সংযোগ বিচ্ছিন্ন করতে হবে নতুবা NaOH ফ্লাস্কে টেনে ঢুকবে।",
+     "model_answer_en": "Diethyl ether would form instead; disconnect the delivery tube first or NaOH is sucked back into the flask."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 266-283 readable. Pages beyond section 5.13 (printed 267-268: 5.14, 5.15) not covered per task. Some small text (e.g. page 266 ads, minor chemical labels) was low resolution but no content unreadable."
+}

@@ -1,0 +1,1813 @@
+{
+ "chapter_no": 7,
+ "topics": [
+  {
+   "section_no": "7.14",
+   "title_bn": "বিভিন্ন অ্যালকোহলের শনাক্তকরণ পরীক্ষা",
+   "title_en": "Identification tests for alcohols",
+   "notes_bn": "-OH মূলক: Na ধাতুর সাথে H2 গ্যাস; PCl5 এর সাথে HCl গ্যাস (NH3 ছোঁয়ালে সাদা NH4Cl ধোঁয়া)।\nইথানল: আয়োডোফর্ম পরীক্ষায় (I2 + NaOH) হলুদ CHI3 অধঃক্ষেপ।\nগ্লিসারিন: KHSO4 সহ উত্তপ্ত করলে ঝাঁঝালো অ্যাক্রোলিন বাষ্প।\nমিথানল: স্যালিসাইলিক এসিড + গাঢ় H2SO4 → মিথাইল স্যালিসাইলেট (বিশেষ গন্ধ)।\nলুকাস বিকারক (ZnCl2 + গাঢ় HCl): 3° তৎক্ষণাৎ ঘোলা, 2° 5-10 মিনিটে, 1° সাধারণ তাপমাত্রায় বিক্রিয়া নয়।\nপানি শনাক্তকরণ: নিরুদিত সাদা CuSO4 পানির উপস্থিতিতে নীল CuSO4.5H2O হয়।",
+   "notes_en": "-OH group: Na gives H2 gas; PCl5 gives HCl fumes (white NH4Cl smoke with NH3).\nEthanol: iodoform test (I2 + NaOH) gives yellow CHI3.\nGlycerol: heated with KHSO4 gives pungent acrolein.\nMethanol: salicylic acid + conc. H2SO4 gives methyl salicylate (characteristic smell).\nLucas reagent (ZnCl2 + conc. HCl): 3° turbid at once, 2° in 5-10 min, 1° no reaction at room temperature.\nWater in alcohol: white anhydrous CuSO4 turns blue.",
+   "mcqs": [
+    {
+     "question_bn": "লুকাস বিকারকের সাথে কোনটি তৎক্ষণাৎ ঘোলা হয়?",
+     "question_en": "Which alcohol turns turbid immediately with Lucas reagent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপান-2-ওল",
+       "en": "Propan-2-ol"
+      },
+      {
+       "id": "c",
+       "bn": "tert-বিউটাইল অ্যালকোহল",
+       "en": "tert-Butyl alcohol"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "3° অ্যালকোহল কক্ষ তাপমাত্রায় সঙ্গে সঙ্গে ক্লোরাইড গঠন করে ঘোলা হয়।",
+     "explanation_en": "A 3° alcohol forms the chloride at once at room temperature, giving turbidity.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানল শনাক্তকরণে কোন পরীক্ষায় হলুদ অধঃক্ষেপ পাওয়া যায়?",
+     "question_en": "Which test gives a yellow precipitate for ethanol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লুকাস পরীক্ষা",
+       "en": "Lucas test"
+      },
+      {
+       "id": "b",
+       "bn": "আয়োডোফর্ম পরীক্ষা",
+       "en": "Iodoform test"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাক্রোলিন পরীক্ষা",
+       "en": "Acrolein test"
+      },
+      {
+       "id": "d",
+       "bn": "PCl5 পরীক্ষা",
+       "en": "PCl5 test"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথানল I2 ও NaOH এর সাথে হলুদ CHI3 দেয়।",
+     "explanation_en": "Ethanol with I2/NaOH gives yellow CHI3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্লিসারিনকে KHSO4 সহ উত্তপ্ত করলে কোন যৌগের ঝাঁঝালো বাষ্প বের হয়?",
+     "question_en": "Heating glycerol with KHSO4 gives pungent vapour of which compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাক্রোলিন",
+       "en": "Acrolein"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসিটোন",
+       "en": "Acetone"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটালডিহাইড",
+       "en": "Acetaldehyde"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নিরুদনে CH2=CH-CHO (অ্যাক্রোলিন) ও পানি উৎপন্ন হয়।",
+     "explanation_en": "Dehydration gives CH2=CH-CHO (acrolein) and water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকোহলের সাথে PCl5 বিক্রিয়ায় কোন গ্যাস বের হয় যা NH3 এ সাদা ধোঁয়া দেয়?",
+     "question_en": "In the reaction of an alcohol with PCl5, which gas gives white fumes with NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl2",
+       "en": "Cl2"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "POCl3",
+       "en": "POCl3"
+      },
+      {
+       "id": "d",
+       "bn": "H2",
+       "en": "H2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নির্গত HCl, NH3 এর সাথে সাদা NH4Cl ধোঁয়া তৈরি করে।",
+     "explanation_en": "Evolved HCl forms white NH4Cl smoke with NH3.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.15",
+   "title_bn": "আরোহ পদ্ধতি ও অবরোহ পদ্ধতি",
+   "title_en": "Ascending and descending series",
+   "notes_bn": "আরোহ পদ্ধতি: বিক্রিয়ার মাধ্যমে কার্বন শিকলে C-সংখ্যা বাড়িয়ে একই শ্রেণীর উচ্চতর যৌগ তৈরি।\nউদাহরণ: CH3OH → (PCl5) CH3Cl → (KCN) CH3CN → (LiAlH4, 4[H]) CH3CH2NH2 → (HNO2) CH3CH2OH।\nঅবরোহ পদ্ধতি: C-সংখ্যা কমিয়ে একই শ্রেণীর নিম্নতর যৌগ তৈরি।\nউদাহরণ: C2H5OH → (K2Cr2O7) CH3COOH → (NH3) CH3CONH2 → (NaOH, Br2) CH3NH2 → (HNO2) CH3OH।",
+   "notes_en": "Ascending series: reactions that increase the carbon count to give the next higher member of the same class.\nExample: CH3OH -> CH3Cl (PCl5) -> CH3CN (KCN) -> CH3CH2NH2 (LiAlH4) -> CH3CH2OH (HNO2).\nDescending series: reactions that reduce the carbon count.\nExample: C2H5OH -> CH3COOH -> CH3CONH2 -> CH3NH2 (NaOH/Br2) -> CH3OH (HNO2).",
+   "mcqs": [
+    {
+     "question_bn": "মিথানল থেকে ইথানল প্রস্তুতি কোন পদ্ধতির উদাহরণ?",
+     "question_en": "Preparing ethanol from methanol is an example of which series?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অবরোহ",
+       "en": "Descending"
+      },
+      {
+       "id": "b",
+       "bn": "আরোহ",
+       "en": "Ascending"
+      },
+      {
+       "id": "c",
+       "bn": "প্রতিস্থাপন শ্রেণী",
+       "en": "Substitution series"
+      },
+      {
+       "id": "d",
+       "bn": "পলিমারকরণ",
+       "en": "Polymerisation"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বন সংখ্যা 1 থেকে 2 হয়েছে।",
+     "explanation_en": "Carbon count rises from 1 to 2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "আরোহ পদ্ধতিতে CH3Cl থেকে CH3CN পেতে কোন বিকারক ব্যবহৃত হয়?",
+     "question_en": "Which reagent converts CH3Cl to CH3CN in the ascending series?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KCN",
+       "en": "KCN"
+      },
+      {
+       "id": "b",
+       "bn": "LiAlH4",
+       "en": "LiAlH4"
+      },
+      {
+       "id": "c",
+       "bn": "HNO2",
+       "en": "HNO2"
+      },
+      {
+       "id": "d",
+       "bn": "PCl5",
+       "en": "PCl5"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "KCN দিয়ে ক্লোরাইডকে নাইট্রাইলে রূপান্তর করে C যুক্ত হয়।",
+     "explanation_en": "KCN converts the chloride to a nitrile, adding a carbon.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথানল থেকে মিথানল পেতে অ্যাসিট্যামাইডকে CH3NH2 এ রূপান্তরের বিকারক কী?",
+     "question_en": "What reagent converts acetamide to CH3NH2 in the ethanol-to-methanol route?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaOH ও Br2",
+       "en": "NaOH and Br2"
+      },
+      {
+       "id": "b",
+       "bn": "LiAlH4",
+       "en": "LiAlH4"
+      },
+      {
+       "id": "c",
+       "bn": "KCN",
+       "en": "KCN"
+      },
+      {
+       "id": "d",
+       "bn": "PCl5",
+       "en": "PCl5"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যামাইডে NaOH ও Br2 দিলে একটি C কম অ্যামিন পাওয়া যায়।",
+     "explanation_en": "Amide with NaOH/Br2 gives the amine with one carbon fewer.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অবরোহ পদ্ধতিতে ইথানল থেকে মিথানলের ধাপগুলোতে প্রথম উৎপাদ কোনটি?",
+     "question_en": "What is the first product from ethanol in the descending route to methanol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3CONH2",
+       "en": "CH3CONH2"
+      },
+      {
+       "id": "b",
+       "bn": "CH3COOH",
+       "en": "CH3COOH"
+      },
+      {
+       "id": "c",
+       "bn": "CH3NH2",
+       "en": "CH3NH2"
+      },
+      {
+       "id": "d",
+       "bn": "CH3CN",
+       "en": "CH3CN"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "K2Cr2O7 দ্বারা জারণে ইথানল থেকে ইথানোয়িক এসিড হয়।",
+     "explanation_en": "Oxidation by K2Cr2O7 converts ethanol to ethanoic acid.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.16",
+   "title_bn": "অ্যারোমেটিক হাইড্রক্সি যৌগ: ফেনল",
+   "title_en": "Aromatic hydroxy compounds: phenol",
+   "notes_bn": "বেনজিন বলয়ের এক বা একাধিক H কে -OH মূলক দ্বারা প্রতিস্থাপিত করলে ফেনল পাওয়া যায়।\nসরলতম সদস্য C6H5OH কার্বলিক এসিড নামেও পরিচিত।\nউদাহরণ: 2-মিথাইল ফেনল (অর্থো-ক্রিসল), 4-ক্লোরোফেনল, 2,4,6-ট্রাইনাইট্রোফেনল (পিকরিক এসিড)।\nরাসায়নিক ধর্মে ফেনল মৃদু অম্লধর্মী।",
+   "notes_en": "Replacing one or more ring H atoms of benzene with -OH gives phenols.\nThe simplest member C6H5OH is also called carbolic acid.\nExamples: 2-methylphenol (o-cresol), 4-chlorophenol, 2,4,6-trinitrophenol (picric acid).\nChemically, phenol is weakly acidic.",
+   "mcqs": [
+    {
+     "question_bn": "ফেনলের অপর নাম কী?",
+     "question_en": "What is another name of phenol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বলিক এসিড",
+       "en": "Carbolic acid"
+      },
+      {
+       "id": "b",
+       "bn": "পিকরিক এসিড",
+       "en": "Picric acid"
+      },
+      {
+       "id": "c",
+       "bn": "স্যালিসাইলিক এসিড",
+       "en": "Salicylic acid"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসপিরিন",
+       "en": "Aspirin"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C6H5OH কে কার্বলিক এসিড বলা হয়।",
+     "explanation_en": "C6H5OH is called carbolic acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফেনলের রাসায়নিক ধর্ম কোনটি?",
+     "question_en": "What is the chemical nature of phenol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মৃদু অম্লধর্মী",
+       "en": "Weakly acidic"
+      },
+      {
+       "id": "b",
+       "bn": "তীব্র ক্ষারীয়",
+       "en": "Strongly basic"
+      },
+      {
+       "id": "c",
+       "bn": "নিরপেক্ষ",
+       "en": "Neutral"
+      },
+      {
+       "id": "d",
+       "bn": "উভধর্মী",
+       "en": "Amphoteric"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফেনল মৃদু অম্লধর্মী।",
+     "explanation_en": "Phenol is weakly acidic.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি ফেনল শ্রেণীর যৌগ?",
+     "question_en": "Which is a phenol-type compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইক্লোহেক্সানল",
+       "en": "Cyclohexanol"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিল অ্যালকোহল",
+       "en": "Benzyl alcohol"
+      },
+      {
+       "id": "c",
+       "bn": "2,4,6-ট্রাইনাইট্রোফেনল",
+       "en": "2,4,6-Trinitrophenol"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "-OH সরাসরি বেনজিন বলয়ে যুক্ত থাকলেই ফেনল; পিকরিক এসিড তাই।",
+     "explanation_en": "Phenols have -OH directly on the benzene ring; picric acid qualifies.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.17",
+   "title_bn": "ফেনলের নামকরণ ও শ্রেণীবিভাগ",
+   "title_en": "Nomenclature and classification of phenols",
+   "notes_bn": "টলুইন থেকে প্রাপ্ত মিথাইল ফেনলগুলোকে ক্রিসল বলা হয়।\nIUPAC তে -OH মূলকের অবস্থান 1 ধরে গণনা; CHO/COOH থাকলে ঐ মূলকের অবস্থান 1 ধরা হয় (যেমন স্যালিসাইলিক এসিড = 2-হাইড্রক্সি বেনজোয়িক এসিড)।\nশ্রেণী: মনোহাইড্রিক (ফেনল, ক্রিসল), ডাইহাইড্রিক, ট্রাইহাইড্রিক।\nডাইহাইড্রিক: ক্যাটিকল (1,2), রিসরসিনল (1,3), কুইনল/হাইড্রোকুইনোন (1,4)।\nট্রাইহাইড্রিক: পাইরোগ্যালল (1,2,3), হাইড্রক্সিকুইনোন (1,2,4), ফ্লোরোগ্লুসিনল (1,3,5)।",
+   "notes_en": "Methylphenols derived from toluene are called cresols.\nIUPAC: -OH is position 1; if CHO/COOH is present it takes position 1 (salicylic acid = 2-hydroxybenzoic acid).\nClasses: monohydric (phenol, cresols), dihydric, trihydric.\nDihydric: catechol (1,2), resorcinol (1,3), quinol/hydroquinone (1,4).\nTrihydric: pyrogallol (1,2,3), hydroxyquinol (1,2,4), phloroglucinol (1,3,5).",
+   "mcqs": [
+    {
+     "question_bn": "রিসরসিনলের IUPAC নাম কী?",
+     "question_en": "What is the IUPAC name of resorcinol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1,2-ডাইহাইড্রক্সি বেনজিন",
+       "en": "1,2-Dihydroxybenzene"
+      },
+      {
+       "id": "b",
+       "bn": "1,3-ডাইহাইড্রক্সি বেনজিন",
+       "en": "1,3-Dihydroxybenzene"
+      },
+      {
+       "id": "c",
+       "bn": "1,4-ডাইহাইড্রক্সি বেনজিন",
+       "en": "1,4-Dihydroxybenzene"
+      },
+      {
+       "id": "d",
+       "bn": "1,3,5-ট্রাইহাইড্রক্সি বেনজিন",
+       "en": "1,3,5-Trihydroxybenzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "রিসরসিনল = 1,3-ডাইহাইড্রক্সি বেনজিন।",
+     "explanation_en": "Resorcinol = 1,3-dihydroxybenzene.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পাইরোগ্যালল কোন শ্রেণীর ফেনল?",
+     "question_en": "Pyrogallol belongs to which class of phenol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মনোহাইড্রিক",
+       "en": "Monohydric"
+      },
+      {
+       "id": "b",
+       "bn": "ডাইহাইড্রিক",
+       "en": "Dihydric"
+      },
+      {
+       "id": "c",
+       "bn": "ট্রাইহাইড্রিক",
+       "en": "Trihydric"
+      },
+      {
+       "id": "d",
+       "bn": "টেট্রাহাইড্রিক",
+       "en": "Tetrahydric"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "এতে তিনটি -OH (1,2,3) আছে।",
+     "explanation_en": "It has three -OH groups (1,2,3).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "স্যালিসাইলিক এসিডের IUPAC নাম কোনটি?",
+     "question_en": "What is the IUPAC name of salicylic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4-হাইড্রক্সি বেনজোয়িক এসিড",
+       "en": "4-Hydroxybenzoic acid"
+      },
+      {
+       "id": "b",
+       "bn": "2-হাইড্রক্সি বেনজোয়িক এসিড",
+       "en": "2-Hydroxybenzoic acid"
+      },
+      {
+       "id": "c",
+       "bn": "3-হাইড্রক্সি বেনজোয়িক এসিড",
+       "en": "3-Hydroxybenzoic acid"
+      },
+      {
+       "id": "d",
+       "bn": "2-মিথাইল ফেনল",
+       "en": "2-Methylphenol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "COOH মূলকের অবস্থান 1, OH অবস্থান 2।",
+     "explanation_en": "COOH is C1 and OH is C2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি 1,4-ডাইহাইড্রক্সি বেনজিন?",
+     "question_en": "Which is 1,4-dihydroxybenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্যাটিকল",
+       "en": "Catechol"
+      },
+      {
+       "id": "b",
+       "bn": "রিসরসিনল",
+       "en": "Resorcinol"
+      },
+      {
+       "id": "c",
+       "bn": "কুইনল",
+       "en": "Quinol"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্লোরোগ্লুসিনল",
+       "en": "Phloroglucinol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "কুইনল বা হাইড্রোকুইনোনে -OH পরস্পর প্যারা অবস্থানে।",
+     "explanation_en": "Quinol/hydroquinone has para -OH groups.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.18",
+   "title_bn": "পরীক্ষাগারে ফেনল প্রস্তুতি",
+   "title_en": "Laboratory preparation of phenol",
+   "notes_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইডের আর্দ্র বিশ্লেষণ: ফুটন্ত লঘু H2SO4 এ ফোঁটায় ফোঁটায় মেশালে ফেনল ও N2 গ্যাস উৎপন্ন হয়।\nসমীকরণ: C6H5N2+Cl- + H2O → C6H5OH + N2 + H+ + Cl-।\nফেনল উদ্বায়ী; বাষ্পাকারে বের হয়ে তরলরূপে সংগৃহীত হয়।\nসতর্কতা: ফুটন্ত অধিক লঘু H2SO4 ব্যবহার এবং ডায়াজোনিয়াম লবণ অল্প অল্প করে যোগ করতে হবে, নতুবা ফেনল অবশিষ্ট ডায়াজোনিয়াম লবণের সাথে যুগল বিক্রিয়ায় অ্যাজো-ডাই গঠন করে।",
+   "notes_en": "Hydrolysis of benzenediazonium chloride: added dropwise to boiling dilute H2SO4 gives phenol and N2.\nC6H5N2+Cl- + H2O -> C6H5OH + N2 + H+ + Cl-.\nPhenol is volatile and is collected as condensed liquid.\nPrecaution: use plenty of boiling dilute H2SO4 and add the diazonium salt in small amounts; otherwise phenol couples with unreacted diazonium salt to form an azo dye.",
+   "mcqs": [
+    {
+     "question_bn": "পরীক্ষাগারে ফেনল প্রস্তুতিতে বেনজিন ডায়াজোনিয়াম ক্লোরাইডের সাথে কী বিক্রিয়া করানো হয়?",
+     "question_en": "Benzenediazonium chloride is reacted with what in the lab preparation of phenol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফুটন্ত লঘু H2SO4",
+       "en": "Boiling dilute H2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "ঠান্ডা NaOH",
+       "en": "Cold NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "গাঢ় HNO3",
+       "en": "Conc. HNO3"
+      },
+      {
+       "id": "d",
+       "bn": "শুষ্ক AlCl3",
+       "en": "Dry AlCl3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফুটন্ত লঘু H2SO4 এ আর্দ্র বিশ্লেষণ হয়।",
+     "explanation_en": "Hydrolysis occurs in boiling dilute H2SO4.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "এই প্রস্তুতিতে কোন গ্যাস উপজাত হিসেবে পাওয়া যায়?",
+     "question_en": "Which gas is a by-product of this preparation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "b",
+       "bn": "N2",
+       "en": "N2"
+      },
+      {
+       "id": "c",
+       "bn": "O2",
+       "en": "O2"
+      },
+      {
+       "id": "d",
+       "bn": "CO2",
+       "en": "CO2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ডায়াজোনিয়াম মূলক থেকে N2 বের হয়।",
+     "explanation_en": "The diazonium group leaves as N2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডায়াজোনিয়াম লবণ অল্প অল্প করে যোগ না করলে কী হতে পারে?",
+     "question_en": "What can happen if the diazonium salt is not added slowly?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেনল জারিত হয়ে CO2 দেয়",
+       "en": "Phenol oxidises to CO2"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাজো-ডাই গঠিত হয়",
+       "en": "An azo dye forms"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজিন তৈরি হয়",
+       "en": "Benzene forms"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন নয়",
+       "en": "Nothing changes"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উৎপন্ন ফেনল অবশিষ্ট ডায়াজোনিয়াম লবণের সাথে যুগল বিক্রিয়া করে।",
+     "explanation_en": "Phenol couples with the leftover diazonium salt.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.19",
+   "title_bn": "ফেনলের শিল্পোৎপাদন",
+   "title_en": "Industrial manufacture of phenol",
+   "notes_bn": "কিউমিন পদ্ধতি (প্রায় 90% ফেনল): বেনজিন + প্রোপিন (250°C, 30 atm, H3PO4) → কিউমিন (আইসোপ্রোপাইল বেনজিন)।\nকিউমিনকে 130°C এ Co/Mn লবণসহ বায়ুর O2 দিয়ে জারিত → কিউমিন হাইড্রোপারঅক্সাইড; লঘু H2SO4 দ্বারা আর্দ্র বিশ্লেষণে ফেনল ও অ্যাসিটোন।\nডাউ পদ্ধতি: বেনজিন + Cl2 (Fe) → ক্লোরোবেনজিন; 10% NaOH, 150 atm, 400°C → সোডিয়াম ফিনক্সাইড; HCl → ফেনল।\nআলকাতরা: মধ্য তেল (170-230°C) → ঠান্ডা করে ন্যাফথালিন পৃথক → 10% NaOH এ সোডিয়াম ফিনেট → লঘু H2SO4 বা CO2 → ফেনল → 180-182°C এ আংশিক পাতন; 41°C এ শীতল করলে বিশুদ্ধ ফেনলের কেলাস।",
+   "notes_en": "Cumene process (about 90% of phenol): benzene + propene (250 C, 30 atm, H3PO4) -> cumene (isopropylbenzene).\nCumene + O2 (air, 130 C, Co/Mn salt) -> cumene hydroperoxide; dilute H2SO4 hydrolysis gives phenol + acetone.\nDow process: benzene + Cl2/Fe -> chlorobenzene; 10% NaOH, 150 atm, 400 C -> sodium phenoxide; HCl -> phenol.\nCoal tar: middle oil (170-230 C), naphthalene removed on cooling, extracted with 10% NaOH as sodium phenate, acidified with dilute H2SO4 or CO2, fractionally distilled at 180-182 C; crystals at 41 C.",
+   "mcqs": [
+    {
+     "question_bn": "কিউমিন পদ্ধতিতে ফেনলের সাথে কোন যৌগ উপজাত হিসেবে পাওয়া যায়?",
+     "question_en": "Which by-product forms with phenol in the cumene process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসিটোন",
+       "en": "Acetone"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কিউমিন হাইড্রোপারঅক্সাইডের আর্দ্র বিশ্লেষণে ফেনল ও অ্যাসিটোন।",
+     "explanation_en": "Hydrolysis of cumene hydroperoxide gives phenol and acetone.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কিউমিন প্রস্তুতিতে বেনজিনের সাথে কোন যৌগ বিক্রিয়া করে?",
+     "question_en": "Which compound reacts with benzene to make cumene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপিন",
+       "en": "Propene"
+      },
+      {
+       "id": "c",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইন",
+       "en": "Ethyne"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফ্রিডেল-ক্রাফট বিক্রিয়ায় প্রোপিন ব্যবহৃত হয়।",
+     "explanation_en": "Propene is used in the Friedel-Crafts step.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ডাউ পদ্ধতিতে ক্লোরোবেনজিন থেকে সোডিয়াম ফিনক্সাইড পেতে কী অবস্থা লাগে?",
+     "question_en": "What conditions convert chlorobenzene to sodium phenoxide in the Dow process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10% NaOH, 150 atm, 400°C",
+       "en": "10% NaOH, 150 atm, 400°C"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় H2SO4, 20°C",
+       "en": "Conc. H2SO4, 20 C"
+      },
+      {
+       "id": "c",
+       "bn": "Zn চূর্ণ",
+       "en": "Zn dust"
+      },
+      {
+       "id": "d",
+       "bn": "লঘু HCl, 25°C",
+       "en": "Dil. HCl, 25 C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ডাউ পদ্ধতিতে 10% NaOH, 150 atm ও 400°C ব্যবহৃত হয়।",
+     "explanation_en": "10% NaOH, 150 atm and 400 C are used.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আলকাতরার মধ্য তেল থেকে ফেনল নিষ্কাশনে ফেনলকে জলীয় স্তরে আনতে কী ব্যবহৃত হয়?",
+     "question_en": "What brings phenol into the aqueous layer when extracting from middle oil?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10% NaOH",
+       "en": "10% NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "লঘু H2SO4",
+       "en": "Dil. H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "NaHCO3",
+       "en": "NaHCO3"
+      },
+      {
+       "id": "d",
+       "bn": "Br2 পানি",
+       "en": "Bromine water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফেনল NaOH এর সাথে দ্রবণীয় সোডিয়াম ফিনেট গঠন করে।",
+     "explanation_en": "Phenol forms water-soluble sodium phenate with NaOH.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.20",
+   "title_bn": "ফেনলের ভৌত ধর্ম",
+   "title_en": "Physical properties of phenol",
+   "notes_bn": "ফেনল বর্ণহীন কেলাসাকার কঠিন পদার্থ।\nআন্তঃআণবিক H-বন্ধনের কারণে গলনাঙ্ক (41°C) ও স্ফুটনাঙ্ক (182°C) তুলনীয় আণবিক ভরের টলুইন (গলনাঙ্ক -98°C, স্ফুটনাঙ্ক 111°C) অপেক্ষা বেশি; ফেনলের আণবিক ভর 94, টলুইনের 92।\nফেনল ঠান্ডা পানিতে প্রায় অদ্রবণীয়, কিন্তু 66°C বা এর উপরে পানিতে অধিক দ্রবণীয়, কারণ তখন ফেনল-ফেনল H-বন্ধন ভেঙে পানির সাথে H-বন্ধন গঠিত হয়।",
+   "notes_en": "Phenol is a colourless crystalline solid.\nDue to intermolecular H-bonding its m.p. (41 C) and b.p. (182 C) exceed those of toluene (m.p. -98 C, b.p. 111 C), though molar masses are close (94 vs 92).\nPhenol is almost insoluble in cold water but dissolves much more at 66 C or above, as phenol-phenol H-bonds break and H-bonds with water form.",
+   "mcqs": [
+    {
+     "question_bn": "ফেনলের গলনাঙ্ক কত?",
+     "question_en": "What is the melting point of phenol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "-98°C",
+       "en": "-98°C"
+      },
+      {
+       "id": "b",
+       "bn": "41°C",
+       "en": "41°C"
+      },
+      {
+       "id": "c",
+       "bn": "111°C",
+       "en": "111°C"
+      },
+      {
+       "id": "d",
+       "bn": "182°C",
+       "en": "182°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ফেনলের গলনাঙ্ক 41°C।",
+     "explanation_en": "The book gives 41 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফেনলের স্ফুটনাঙ্ক টলুইনের চেয়ে বেশি কেন?",
+     "question_en": "Why is the b.p. of phenol higher than that of toluene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আন্তঃআণবিক H-বন্ধন",
+       "en": "Intermolecular H-bonding"
+      },
+      {
+       "id": "b",
+       "bn": "বেশি পোলারিটি নেই",
+       "en": "Lower polarity"
+      },
+      {
+       "id": "c",
+       "bn": "আণবিক ভর অনেক বেশি",
+       "en": "Much higher molar mass"
+      },
+      {
+       "id": "d",
+       "bn": "আয়নিক বন্ধন",
+       "en": "Ionic bonding"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফেনল অণুগুলো H-বন্ধনে যুক্ত থাকে, টলুইনে তা নেই।",
+     "explanation_en": "Phenol molecules are H-bonded; toluene's are not.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফেনল কোন তাপমাত্রা বা তার উপরে পানিতে অধিক দ্রবণীয়?",
+     "question_en": "At what temperature or above is phenol much more soluble in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "25°C",
+       "en": "25°C"
+      },
+      {
+       "id": "b",
+       "bn": "41°C",
+       "en": "41°C"
+      },
+      {
+       "id": "c",
+       "bn": "66°C",
+       "en": "66°C"
+      },
+      {
+       "id": "d",
+       "bn": "100°C",
+       "en": "100°C"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "66°C বা তার উপরে H-বন্ধন ভেঙে পানির সাথে নতুন H-বন্ধন গঠিত হয়।",
+     "explanation_en": "At 66 C and above new H-bonds with water form.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.21",
+   "title_bn": "ফেনলের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of phenol",
+   "notes_bn": "ফেনল অ্যালকোহল অপেক্ষা কম সক্রিয় -OH বিক্রিয়ায়, কিন্তু বেনজিন বলয়ে বেশি সক্রিয়; অনুরণনের কারণে O-H বন্ধন দুর্বল। pKa: ফেনল 10.0, ইথানল 16.0।\nঅম্লত্ব: নীল লিটমাস লাল করে; NaOH এর সাথে সোডিয়াম ফিনেট; NaHCO3 থেকে CO2 ছাড়ে না (কার্বনিক এসিডের চেয়ে দুর্বল)।\nজিংক চূর্ণ → বেনজিন; Ni, 150-175°C এ H2 → সাইক্লোহেক্সানল; NH3, ZnCl2, 300°C → অ্যানিলিন; PCl5 → ক্লোরোবেনজিন।\nএস্টার: ফিনক্সাইড + ইথানোয়িল ক্লোরাইড/অ্যানহাইড্রাইড → ফিনাইল ইথানোয়েট। অ্যাসপিরিন (স্যালিসাইলিক এসিড + ইথানোয়িক অ্যানহাইড্রাইড, 90°C), প্যারাসিটামল (4-অ্যামিনো ফেনল + অ্যানহাইড্রাইড)। ফ্রিজ পুনর্বিন্যাস: AlCl3 সহ o- ও p-হাইড্রক্সি অ্যাসিটোফেনোন। উইলিয়ামসন: ফিনক্সাইড + CH3Br → অ্যানিসল।\nই-প্রতিস্থাপন (o/p নির্দেশক): লঘু HNO3 (20°C) → o- ও p-নাইট্রোফেনল; গাঢ় HNO3 + H2SO4 → পিকরিক এসিড; নাইট্রাস এসিড (7-8°C) → p-নাইট্রোসোফেনল; গাঢ় H2SO4 (20-25°C) o-, (100°C) p-ফেনল সালফোনিক এসিড; Br2 পানি → 2,4,6-ট্রাইব্রোমোফেনল; ফ্রিডেল-ক্রাফট্‌স অ্যালকাইলেশন/অ্যাসাইলেশন।\nকোলবে (125°C, 4-7 atm, CO2 → স্যালিসাইলিক এসিড); রাইমার-টাইম্যান (CHCl3 + NaOH, 60°C → স্যালিসাইল্ডিহাইড); কাপলিং (ডায়াজোনিয়াম লবণ + ফেনল, লঘু NaOH → p-হাইড্রক্সি অ্যাজোবেনজিন, হলুদ)।",
+   "notes_en": "Phenol is less reactive than alcohols in -OH reactions but more reactive on the ring; resonance weakens O-H. pKa: phenol 10.0, ethanol 16.0.\nAcidity: reddens blue litmus; with NaOH gives sodium phenoxide; does not release CO2 from NaHCO3 (weaker than carbonic acid).\nZn dust -> benzene; H2/Ni 150-175 C -> cyclohexanol; NH3/ZnCl2/300 C -> aniline; PCl5 -> chlorobenzene.\nEsters: phenoxide + ethanoyl chloride/anhydride -> phenyl ethanoate. Aspirin (salicylic acid + ethanoic anhydride, 90 C); paracetamol (4-aminophenol + anhydride). Fries rearrangement with AlCl3 gives o-/p-hydroxyacetophenone. Williamson: phenoxide + CH3Br -> anisole.\nElectrophilic substitution (o/p directing): dilute HNO3 (20 C) -> o/p-nitrophenol; conc. HNO3/H2SO4 -> picric acid; nitrous acid (7-8 C) -> p-nitrosophenol; conc. H2SO4 20-25 C -> o-, 100 C -> p-sulfonic acid; bromine water -> 2,4,6-tribromophenol; Friedel-Crafts alkylation/acylation.\nKolbe (125 C, 4-7 atm CO2 -> salicylic acid); Reimer-Tiemann (CHCl3 + NaOH, 60 C -> salicylaldehyde); coupling (diazonium salt + phenol, dilute NaOH -> p-hydroxyazobenzene, yellow).",
+   "mcqs": [
+    {
+     "question_bn": "ফেনলের pKa মান কত (বই অনুযায়ী)?",
+     "question_en": "What is the pKa of phenol according to the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "16.0",
+       "en": "16.0"
+      },
+      {
+       "id": "b",
+       "bn": "10.0",
+       "en": "10.0"
+      },
+      {
+       "id": "c",
+       "bn": "7.0",
+       "en": "7.0"
+      },
+      {
+       "id": "d",
+       "bn": "4.7",
+       "en": "4.7"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ফেনলের pKa = 10.0, ইথানলের 16.0।",
+     "explanation_en": "The book gives 10.0 for phenol and 16.0 for ethanol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NaHCO3 দ্রবণের সাথে কোনটি CO2 উৎপন্ন করে?",
+     "question_en": "Which releases CO2 from NaHCO3 solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "কার্বক্সিলিক এসিড",
+       "en": "Carboxylic acid"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ফেনল কার্বনিক এসিডের চেয়ে দুর্বল, তাই বিক্রিয়া নয়; কার্বক্সিলিক এসিড CO2 দেয়।",
+     "explanation_en": "Phenol is weaker than carbonic acid so no reaction; carboxylic acids give CO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফেনলকে জিংক চূর্ণসহ পাতিত করলে কী পাওয়া যায়?",
+     "question_en": "What forms when phenol is distilled with zinc dust?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইক্লোহেক্সানল",
+       "en": "Cyclohexanol"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "d",
+       "bn": "ক্লোরোবেনজিন",
+       "en": "Chlorobenzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "জিংক ফেনলকে বিজারিত করে বেনজিন ও ZnO দেয়।",
+     "explanation_en": "Zinc reduces phenol to benzene and ZnO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "লঘু HNO3 দ্বারা ফেনলের নাইট্রেশনে কোন উৎপাদ পাওয়া যায়?",
+     "question_en": "What does nitration of phenol with dilute HNO3 give?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুধু m-নাইট্রোফেনল",
+       "en": "Only m-nitrophenol"
+      },
+      {
+       "id": "b",
+       "bn": "o- ও p-নাইট্রোফেনল",
+       "en": "o- and p-nitrophenol"
+      },
+      {
+       "id": "c",
+       "bn": "পিকরিক এসিড",
+       "en": "Picric acid"
+      },
+      {
+       "id": "d",
+       "bn": "নাইট্রোবেনজিন",
+       "en": "Nitrobenzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "-OH মূলক অর্থো ও প্যারা নির্দেশক।",
+     "explanation_en": "-OH directs to ortho and para positions.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রাইমার-টাইম্যান বিক্রিয়ায় ফেনল থেকে কোন যৌগ পাওয়া যায়?",
+     "question_en": "Which compound forms from phenol in the Reimer-Tiemann reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "স্যালিসাইলিক এসিড",
+       "en": "Salicylic acid"
+      },
+      {
+       "id": "b",
+       "bn": "স্যালিসাইল্ডিহাইড",
+       "en": "Salicylaldehyde"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিসল",
+       "en": "Anisole"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CHCl3 ও NaOH (60°C) দিয়ে o-হাইড্রক্সি বেনজালডিহাইড।",
+     "explanation_en": "CHCl3/NaOH at 60 C gives o-hydroxybenzaldehyde.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোলবে বিক্রিয়ায় সোডিয়াম ফিনক্সাইডের সাথে কোন বিকারক প্রয়োজন এবং আক্রমণকারী ইলেকট্রোফাইল কী?",
+     "question_en": "In the Kolbe reaction of sodium phenoxide, what is the attacking electrophile?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CCl2 (ডাইক্লোরোকার্বিন)",
+       "en": ":CCl2"
+      },
+      {
+       "id": "b",
+       "bn": "CO2",
+       "en": "CO2"
+      },
+      {
+       "id": "c",
+       "bn": "NO+",
+       "en": "NO+"
+      },
+      {
+       "id": "d",
+       "bn": "NO2+",
+       "en": "NO2+"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুর্বল ইলেকট্রোফাইল CO2 ফিনক্সাইডের অর্থো অবস্থানে আক্রমণ করে।",
+     "explanation_en": "The weak electrophile CO2 attacks the ortho position of phenoxide.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ফেনলের অম্লত্ব ইথানলের চেয়ে বেশি কেন?",
+     "question_en": "Why is phenol more acidic than ethanol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফিনক্সাইড আয়ন অনুরণনে সুস্থিত",
+       "en": "Phenoxide is resonance stabilised"
+      },
+      {
+       "id": "b",
+       "bn": "ফেনলের আণবিক ভর বেশি",
+       "en": "Higher molar mass"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল পানিতে বেশি দ্রবণীয়",
+       "en": "More soluble in water"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানলে কার্বন কম",
+       "en": "Ethanol has fewer carbons"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফিনক্সাইডের O-র ঋণাত্মক চার্জ বলয়ে ছড়ায়, ইথোক্সাইডে তা হয় না।",
+     "explanation_en": "Negative charge of phenoxide delocalises into the ring; ethoxide cannot.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.22",
+   "title_bn": "ফেনলের শনাক্তকরণ পরীক্ষা",
+   "title_en": "Identification tests for phenols",
+   "notes_bn": "ফেরিক ক্লোরাইড (FeCl3) পরীক্ষা: ফেনলের জলীয় দ্রবণে নিরপেক্ষ FeCl3 দিলে বেগুনি বর্ণ (জটিল যৌগ)।\nব্রোমিন পানি পরীক্ষা: লাল ব্রোমিন পানির বর্ণ নষ্ট হয়ে 2,4,6-ট্রাইব্রোমোফেনলের সাদা অধঃক্ষেপ।\nলিবারম্যান পরীক্ষা: ফেনল + NaNO2 + গাঢ় H2SO4 → সবুজ/নীল দ্রবণ; পানি দিলে লাল, অতিরিক্ত NaOH এ আবার সবুজ/নীল।",
+   "notes_en": "Ferric chloride test: neutral FeCl3 gives a violet colour (complex) with aqueous phenol.\nBromine water test: red colour fades and white 2,4,6-tribromophenol precipitates.\nLiebermann test: phenol + NaNO2 + conc. H2SO4 gives green/blue; red on adding water; green/blue again with excess NaOH.",
+   "mcqs": [
+    {
+     "question_bn": "ফেনলের FeCl3 পরীক্ষায় কোন বর্ণ পাওয়া যায়?",
+     "question_en": "What colour appears in the FeCl3 test of phenol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেগুনি",
+       "en": "Violet"
+      },
+      {
+       "id": "b",
+       "bn": "লাল",
+       "en": "Red"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ",
+       "en": "Yellow"
+      },
+      {
+       "id": "d",
+       "bn": "সাদা",
+       "en": "White"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বেগুনি বর্ণের জটিল যৌগ গঠিত হয়।",
+     "explanation_en": "A violet complex forms.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ব্রোমিন পানি পরীক্ষায় ফেনল থেকে কোন যৌগ অধঃক্ষিপ্ত হয়?",
+     "question_en": "Which compound precipitates in the bromine water test of phenol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2,4,6-ট্রাইব্রোমোফেনল",
+       "en": "2,4,6-Tribromophenol"
+      },
+      {
+       "id": "b",
+       "bn": "p-ব্রোমোফেনল",
+       "en": "p-Bromophenol"
+      },
+      {
+       "id": "c",
+       "bn": "ব্রোমোবেনজিন",
+       "en": "Bromobenzene"
+      },
+      {
+       "id": "d",
+       "bn": "o-ব্রোমোফেনল",
+       "en": "o-Bromophenol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সাদা 2,4,6-ট্রাইব্রোমোফেনল অধঃক্ষিপ্ত হয়।",
+     "explanation_en": "White 2,4,6-tribromophenol precipitates.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "লিবারম্যান পরীক্ষায় প্রথমে সবুজ/নীল দ্রবণে পানি যোগ করলে বর্ণ কী হয়?",
+     "question_en": "In the Liebermann test, what colour results on adding water to the green/blue solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হালকা লাল",
+       "en": "Light red"
+      },
+      {
+       "id": "b",
+       "bn": "বেগুনি",
+       "en": "Violet"
+      },
+      {
+       "id": "c",
+       "bn": "কালো",
+       "en": "Black"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণহীন",
+       "en": "Colourless"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পানিতে লাল, NaOH দিলে পুনরায় সবুজ/নীল।",
+     "explanation_en": "Water gives red; NaOH restores green/blue.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.23",
+   "title_bn": "ফেনলের ব্যবহার",
+   "title_en": "Uses of phenol",
+   "notes_bn": "ফেনল ফর্মালডিহাইড প্লাস্টিক (ব্যাকেলাইট) উৎপাদনে ব্যবহৃত হয়।\nনাইলন প্রস্তুতির সাইক্লোহেক্সানল উৎপাদনে ফেনল ব্যবহৃত।\nওষুধ: স্যালিসাইলিক এসিড, অ্যাসপিরিন, স্যালল; পিকরিক এসিড, ফিনল্‌থ্যালিন ও রঞ্জক তৈরিতে।\n2,4-D (আগাছানাশক) ও ডেটল (4-ক্লোরো-3,5-ডাইমিথাইল ফেনল) তৈরিতে; গাছ সংরক্ষণে।\nজীবাণুনাশক ক্ষমতা (ফেনল = 1): 2-ক্লোরোফেনল 4, 2,4-ডাইক্লোরো 13, TCP 23, ডেটল 280।",
+   "notes_en": "Phenol is used for formaldehyde plastics (Bakelite).\nIt is a source of cyclohexanol for nylon.\nDrugs: salicylic acid, aspirin, salol; also picric acid, phenolphthalein and dyes.\nUsed for 2,4-D (herbicide), Dettol (4-chloro-3,5-dimethylphenol) and as wood preservative.\nGermicidal power (phenol = 1): 2-chlorophenol 4, 2,4-dichlorophenol 13, TCP 23, Dettol 280.",
+   "mcqs": [
+    {
+     "question_bn": "ব্যাকেলাইট তৈরিতে ফেনলের সাথে কী ব্যবহৃত হয়?",
+     "question_en": "What is used with phenol to make Bakelite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফর্মালডিহাইড",
+       "en": "Formaldehyde"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসিটোন",
+       "en": "Acetone"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH",
+       "en": "NaOH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফেনল-ফর্মালডিহাইড প্লাস্টিক ব্যাকেলাইট।",
+     "explanation_en": "Phenol-formaldehyde plastic is Bakelite.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বইয়ের তথ্য অনুযায়ী কোনটির জীবাণুনাশক ক্ষমতা সর্বোচ্চ?",
+     "question_en": "Which has the highest germicidal power in the book's data?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "b",
+       "bn": "2,4,6-ট্রাইক্লোরোফেনল (TCP)",
+       "en": "TCP"
+      },
+      {
+       "id": "c",
+       "bn": "2,4-ডাইক্লোরোফেনল",
+       "en": "2,4-Dichlorophenol"
+      },
+      {
+       "id": "d",
+       "bn": "ডেটল",
+       "en": "Dettol"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "ডেটলের মান 280, TCP 23, 2,4-ডাইক্লোরো 13, ফেনল 1।",
+     "explanation_en": "Dettol 280 vs TCP 23, dichloro 13, phenol 1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ডেটলের সক্রিয় উপাদান কোনটি?",
+     "question_en": "What is the active compound of Dettol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4-ক্লোরো-3,5-ডাইমিথাইল ফেনল",
+       "en": "4-Chloro-3,5-dimethylphenol"
+      },
+      {
+       "id": "b",
+       "bn": "2-ক্লোরোফেনল",
+       "en": "2-Chlorophenol"
+      },
+      {
+       "id": "c",
+       "bn": "পিকরিক এসিড",
+       "en": "Picric acid"
+      },
+      {
+       "id": "d",
+       "bn": "ক্রিসল",
+       "en": "Cresol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে এটিকে শক্তিশালী অ্যান্টিসেপটিক ডেটল বলা হয়েছে।",
+     "explanation_en": "The book names it as the strong antiseptic Dettol.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.24",
+   "title_bn": "পিকরিক এসিড বা 2,4,6-ট্রাইনাইট্রোফেনল",
+   "title_en": "Picric acid (2,4,6-trinitrophenol)",
+   "notes_bn": "ফেনলের সরাসরি নাইট্রেশনে ফেনল জারিত হয়ে বেশি নষ্ট হয়, তাই আধুনিক পদ্ধতিতে ক্লোরোবেনজিন → (HNO3/H2SO4) 2,4-ডাইনাইট্রোক্লোরোবেনজিন → (Na2CO3 দ্রবণে আর্দ্র বিশ্লেষণ) 2,4-ডাইনাইট্রোফেনল → (HNO3/H2SO4) পিকরিক এসিড।\nভৌত: তিক্ত স্বাদ, হালকা হলুদ কেলাস, গলনাঙ্ক 122°C; ঠান্ডা পানিতে প্রায় অদ্রবণীয়, গরম পানি ও অ্যালকোহলে দ্রবণীয়।\nতিনটি -NO2 এর কারণে ফেনলের চেয়ে প্রায় 12 গুণ অম্লীয়; NaHCO3 থেকে CO2 দেয়।\nPCl5 → পিকরাইল ক্লোরাইড; তা থেকে NH3 দিয়ে পিকরামাইড।\nব্যবহার: বিস্ফোরক, পশম/রেশম রঞ্জন, পোড়া ক্ষতে।",
+   "notes_en": "Direct nitration destroys much phenol by oxidation, so the modern route is chlorobenzene -> (HNO3/H2SO4) 2,4-dinitrochlorobenzene -> (Na2CO3 hydrolysis) 2,4-dinitrophenol -> (HNO3/H2SO4) picric acid.\nPhysical: bitter, pale yellow crystals, m.p. 122 C; sparingly soluble in cold water, soluble in hot water and alcohol.\nThree -NO2 groups make it about 12 times more acidic than phenol; it releases CO2 from NaHCO3.\nPCl5 gives picryl chloride; NH3 then gives picramide.\nUses: explosives, dyeing wool/silk, burn treatment.",
+   "mcqs": [
+    {
+     "question_bn": "পিকরিক এসিডের গলনাঙ্ক কত?",
+     "question_en": "What is the melting point of picric acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "41°C",
+       "en": "41°C"
+      },
+      {
+       "id": "b",
+       "bn": "122°C",
+       "en": "122°C"
+      },
+      {
+       "id": "c",
+       "bn": "182°C",
+       "en": "182°C"
+      },
+      {
+       "id": "d",
+       "bn": "98°C",
+       "en": "98°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 122°C।",
+     "explanation_en": "The book gives 122 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পিকরিক এসিড NaHCO3 থেকে CO2 দেয় কেন?",
+     "question_en": "Why does picric acid release CO2 from NaHCO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তিনটি -NO2 থাকায় ফেনলের চেয়ে অনেক বেশি অম্লীয়",
+       "en": "Three -NO2 groups make it far more acidic than phenol"
+      },
+      {
+       "id": "b",
+       "bn": "এতে COOH মূলক আছে",
+       "en": "It has a COOH group"
+      },
+      {
+       "id": "c",
+       "bn": "এটি ক্ষার",
+       "en": "It is a base"
+      },
+      {
+       "id": "d",
+       "bn": "এটি বেনজিনের চেয়ে হালকা",
+       "en": "It is lighter than benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ফেনলের প্রায় 12 গুণ অম্লীয় বলা হয়েছে।",
+     "explanation_en": "The book says it is about 12 times more acidic than phenol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পিকরিক এসিডের সাথে PCl5 বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "What forms when picric acid reacts with PCl5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পিকরামাইড",
+       "en": "Picramide"
+      },
+      {
+       "id": "b",
+       "bn": "পিকরাইল ক্লোরাইড",
+       "en": "Picryl chloride"
+      },
+      {
+       "id": "c",
+       "bn": "ক্লোরোবেনজিন",
+       "en": "Chlorobenzene"
+      },
+      {
+       "id": "d",
+       "bn": "2,4-ডাইনাইট্রোফেনল",
+       "en": "2,4-Dinitrophenol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পিকরাইল ক্লোরাইড; তা NH3 এ পিকরামাইড দেয়।",
+     "explanation_en": "Picryl chloride forms; NH3 then gives picramide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আধুনিক পদ্ধতিতে 2,4-ডাইনাইট্রোফেনল থেকে পিকরিক এসিডে যেতে কী লাগে?",
+     "question_en": "In the modern method, what converts 2,4-dinitrophenol to picric acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় HNO3 ও গাঢ় H2SO4",
+       "en": "Conc. HNO3 and conc. H2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "Na2CO3",
+       "en": "Na2CO3"
+      },
+      {
+       "id": "c",
+       "bn": "Zn চূর্ণ",
+       "en": "Zn dust"
+      },
+      {
+       "id": "d",
+       "bn": "NH3",
+       "en": "NH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আরও একটি -NO2 মূলক নাইট্রেশনে যুক্ত হয়।",
+     "explanation_en": "A further nitration adds the third -NO2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.25",
+   "title_bn": "ফেনল ও অ্যালকোহলের মধ্যে সাদৃশ্য ও বৈসাদৃশ্য",
+   "title_en": "Similarities and differences between phenol and alcohol",
+   "notes_bn": "সাদৃশ্য: উভয়ে PCl5 এর সাথে RCl/ArCl, POCl3 ও HCl দেয়; সোডিয়াম লবণ (ইথোক্সাইড/ফিনক্সাইড) RX এর সাথে ইথার দেয়; অ্যাসিটাইল ক্লোরাইডের সাথে এস্টার গঠন করে।\nবৈসাদৃশ্য: অ্যালকোহল লিটমাসে নিরপেক্ষ, ফেনল নীল লিটমাসকে লাল করে ও NaOH এর সাথে বিক্রিয়া করে।\nগাঢ় H2SO4: অ্যালকোহল 160°C এ নিরুদিত হয়ে অ্যালকিন দেয়, ফেনল সালফোনেশন করে।\nBr2 পানি: অ্যালকোহল বিক্রিয়া করে না, ফেনল সাদা অধঃক্ষেপ দেয়।\nলুকাস বিকারক: অ্যালকোহল বিক্রিয়া করে (3° দ্রুত), ফেনল করে না।",
+   "notes_en": "Similarities: both react with PCl5 (chloride, POCl3, HCl); their sodium salts with RX give ethers; both form esters with acetyl chloride.\nDifferences: alcohols are neutral to litmus; phenol turns blue litmus red and reacts with NaOH.\nConc. H2SO4: alcohol dehydrates to alkene at 160 C; phenol sulfonates.\nBromine water: no reaction with alcohol; phenol gives white precipitate.\nLucas reagent: alcohols react (3° fast); phenol does not.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি ফেনলকে অ্যালকোহল থেকে আলাদা করে?",
+     "question_en": "Which test separates phenol from an alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "PCl5 পরীক্ষা",
+       "en": "PCl5 test"
+      },
+      {
+       "id": "b",
+       "bn": "ব্রোমিন পানির সাথে সাদা অধঃক্ষেপ",
+       "en": "White precipitate with bromine water"
+      },
+      {
+       "id": "c",
+       "bn": "ইথার গঠন",
+       "en": "Ether formation"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটাইল ক্লোরাইডের সাথে এস্টার",
+       "en": "Ester with acetyl chloride"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শুধু ফেনল Br2 পানির সাথে 2,4,6-ট্রাইব্রোমোফেনল দেয়।",
+     "explanation_en": "Only phenol gives 2,4,6-tribromophenol with bromine water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গাঢ় H2SO4 এর সাথে 160°C এ অ্যালকোহল কী উৎপন্ন করে?",
+     "question_en": "What does an alcohol give with conc. H2SO4 at 160 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকিন",
+       "en": "Alkene"
+      },
+      {
+       "id": "b",
+       "bn": "সালফোনিক এসিড",
+       "en": "Sulfonic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ইথার",
+       "en": "Ether"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "যেমন C2H5OH থেকে ইথিন ও পানি।",
+     "explanation_en": "E.g. C2H5OH gives ethene and water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি ফেনল ও অ্যালকোহল উভয়ের ক্ষেত্রে সত্য?",
+     "question_en": "Which statement holds for both phenol and alcohol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaOH এর সাথে লবণ গঠন",
+       "en": "Form salts with NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "PCl5 এর সাথে POCl3 ও HCl উৎপন্ন",
+       "en": "Give POCl3 and HCl with PCl5"
+      },
+      {
+       "id": "c",
+       "bn": "নীল লিটমাস লাল করে",
+       "en": "Turn blue litmus red"
+      },
+      {
+       "id": "d",
+       "bn": "লুকাস বিকারকে ঘোলা",
+       "en": "Turbid with Lucas reagent"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উভয়েই PCl5 এর সাথে ক্লোরাইড, POCl3 ও HCl দেয়।",
+     "explanation_en": "Both give a chloride, POCl3 and HCl with PCl5.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "7.26",
+   "title_bn": "ইথার: ভূমিকা",
+   "title_en": "Ethers: introduction",
+   "notes_bn": "ইথার: দুটি অ্যালকাইল/অ্যারাইল মূলক এক ইথারীয় অক্সিজেনের সাথে যুক্ত (R-O-R)। উদাহরণ: CH3-O-CH3।\nকার্যকরী মূলক -C-O-C-। পানি (H-O-H), অ্যালকোহল (R-O-H), ইথার (R-O-R) গঠনে সদৃশ।\nদুই অণু অ্যালকোহল থেকে এক অণু পানি অপসারণে ইথার।\nশ্রেণী: সরল (R-O-R, যেমন CH3OCH3, C2H5OC2H5), মিশ্র (R-O-R', যেমন CH3OC2H5, CH3OC3H7), চাক্রিক (ইথিলিন অক্সাইড, ইপোক্সি যৌগ), অ্যারোমেটিক (অ্যানিসল C6H5OCH3, ডাইফিনাইল ইথার)।\nনামকরণ: ট্রিভিয়াল (ডাইমিথাইল ইথার), জেনেভা/IUPAC (মিথক্সি মিথেন; ছোট অ্যালকাইল + অক্সিজেন = অ্যালকক্সি মূলক)।",
+   "notes_en": "Ether: two alkyl/aryl groups bonded to one oxygen (R-O-R), e.g. CH3-O-CH3.\nFunctional group -C-O-C-; water (H-O-H), alcohol (R-O-H) and ether (R-O-R) are structurally related.\nLosing one H2O from two alcohol molecules gives an ether.\nTypes: simple (R-O-R), mixed (R-O-R'), cyclic (ethylene oxide, epoxy compound), aromatic (anisole, diphenyl ether).\nNaming: common (dimethyl ether); IUPAC/Geneva (methoxymethane; smaller alkyl + O = alkoxy group).",
+   "mcqs": [
+    {
+     "question_bn": "CH3-O-C2H5 কোন প্রকার ইথার?",
+     "question_en": "What type of ether is CH3-O-C2H5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সরল",
+       "en": "Simple"
+      },
+      {
+       "id": "b",
+       "bn": "মিশ্র",
+       "en": "Mixed"
+      },
+      {
+       "id": "c",
+       "bn": "চাক্রিক",
+       "en": "Cyclic"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যারোমেটিক",
+       "en": "Aromatic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুটি ভিন্ন অ্যালকাইল মূলক থাকায় মিশ্র ইথার।",
+     "explanation_en": "Two different alkyl groups make it a mixed ether.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথিলিন অক্সাইড কোন শ্রেণীর যৌগ?",
+     "question_en": "Ethylene oxide belongs to which class?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইপোক্সি (চাক্রিক ইথার)",
+       "en": "Epoxy (cyclic ether)"
+      },
+      {
+       "id": "b",
+       "bn": "সরল ইথার",
+       "en": "Simple ether"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যারোমেটিক ইথার",
+       "en": "Aromatic ether"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "চাক্রিক ইথারকে ইপোক্সি যৌগ বলে।",
+     "explanation_en": "Cyclic ethers are called epoxy compounds.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "C2H5-O-C2H5 এর জেনেভা (IUPAC) নাম কী?",
+     "question_en": "What is the Geneva/IUPAC name of C2H5-O-C2H5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথক্সি মিথেন",
+       "en": "Methoxymethane"
+      },
+      {
+       "id": "b",
+       "bn": "ইথক্সি ইথেন",
+       "en": "Ethoxyethane"
+      },
+      {
+       "id": "c",
+       "bn": "ইথক্সি মিথেন",
+       "en": "Ethoxymethane"
+      },
+      {
+       "id": "d",
+       "bn": "মিথক্সি ইথেন",
+       "en": "Methoxyethane"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ডাইইথাইল ইথার = ইথক্সি ইথেন।",
+     "explanation_en": "Diethyl ether = ethoxyethane.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যানিসলের সংকেত কোনটি?",
+     "question_en": "What is the formula of anisole?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H5-O-C6H5",
+       "en": "C6H5-O-C6H5"
+      },
+      {
+       "id": "b",
+       "bn": "C6H5-O-CH3",
+       "en": "C6H5-O-CH3"
+      },
+      {
+       "id": "c",
+       "bn": "CH3-O-CH3",
+       "en": "CH3-O-CH3"
+      },
+      {
+       "id": "d",
+       "bn": "C6H5-CH2-OH",
+       "en": "C6H5-CH2-OH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যানিসল = মিথক্সি বেনজিন।",
+     "explanation_en": "Anisole = methoxybenzene.",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "7.21",
+   "stimulus_bn": "একজন শিক্ষার্থী তিনটি পরীক্ষানলে যথাক্রমে ইথানল, ফেনল ও পিকরিক এসিডের জলীয় দ্রবণ নিল। সে প্রতিটিতে নীল লিটমাস, NaHCO3 এবং Br2 পানি যোগ করল।",
+   "stimulus_en": "A student took aqueous solutions of ethanol, phenol and picric acid in three tubes and added blue litmus, NaHCO3 and bromine water to each.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ফেনলের pKa কত?",
+     "question_en": "What is the pKa of phenol?",
+     "model_answer_bn": "10.0।",
+     "model_answer_en": "10.0."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "ফেনল ইথানলের চেয়ে বেশি অম্লীয় কেন?",
+     "question_en": "Why is phenol more acidic than ethanol?",
+     "model_answer_bn": "ফিনক্সাইড আয়নের ঋণাত্মক চার্জ বেনজিন বলয়ের π ইলেকট্রনের সাথে অনুরণনে ছড়িয়ে সুস্থিত হয়; ইথোক্সাইডে এমন হয় না। তাই ফেনল সহজে H+ ছাড়ে (pKa 10.0 বনাম 16.0)।",
+     "model_answer_en": "The phenoxide charge delocalises over the ring by resonance while ethoxide cannot, so phenol loses H+ more easily (pKa 10.0 vs 16.0)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "তিনটি নলে NaHCO3 যোগে কী পর্যবেক্ষণ হবে? সমীকরণসহ লেখো।",
+     "question_en": "What is observed on adding NaHCO3 to the three tubes? Write equations.",
+     "model_answer_bn": "ইথানল ও ফেনলে কোনো বিক্রিয়া নেই (ফেনল কার্বনিক এসিডের চেয়ে দুর্বল)। পিকরিক এসিড ফেনলের প্রায় 12 গুণ অম্লীয় হওয়ায় CO2 বুদবুদ ছাড়ে। ফেনল: C6H5OH + NaHCO3 → কোনো বিক্রিয়া নয়।",
+     "model_answer_en": "Ethanol and phenol: no reaction (phenol is weaker than carbonic acid). Picric acid, about 12 times more acidic than phenol, evolves CO2. C6H5OH + NaHCO3 -> no reaction."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "Br2 পানির বিক্রিয়ায় ফেনল ও ইথানলের পার্থক্য ব্যাখ্যা করো এবং সমীকরণ লেখো। ফেনল থেকে অন্য কোন ইলেকট্রোফিলিক প্রতিস্থাপন উৎপাদ আরও দুটি লেখো।",
+     "question_en": "Explain how phenol and ethanol differ with bromine water and write the equation. Give two other electrophilic substitution products of phenol.",
+     "model_answer_bn": "-OH মূলক বেনজিন বলয়কে সক্রিয় করে ও o-, p- নির্দেশ দেয়, তাই ফেনল সহজে 2,4,6-ট্রাইব্রোমোফেনলের সাদা অধঃক্ষেপ দেয়: C6H5OH + 3Br2 → C6H2Br3OH + 3HBr। ইথানলে বলয় নেই, তাই Br2 পানির বর্ণ অপরিবর্তিত। অন্য উৎপাদ: লঘু HNO3 এ o-/p-নাইট্রোফেনল; গাঢ় HNO3+H2SO4 এ পিকরিক এসিড।",
+     "model_answer_en": "-OH activates the ring and directs o/p, so phenol gives white 2,4,6-tribromophenol: C6H5OH + 3Br2 -> C6H2Br3OH + 3HBr. Ethanol has no ring, so bromine water stays unchanged. Other products: o-/p-nitrophenol (dilute HNO3); picric acid (conc. HNO3 + H2SO4)."
+    }
+   ]
+  },
+  {
+   "topic_section": "7.19",
+   "stimulus_bn": "একটি কারখানায় বেনজিন ও প্রোপিন থেকে 250°C ও 30 atm চাপে H3PO4 প্রভাবকের উপস্থিতিতে যৌগ X তৈরি করা হয়। X কে 130°C এ বায়ুর O2 দ্বারা জারিত করে পরে লঘু H2SO4 এ আর্দ্র বিশ্লেষণ করা হয়।",
+   "stimulus_en": "A factory makes compound X from benzene and propene at 250 C and 30 atm with H3PO4 catalyst. X is oxidised by air O2 at 130 C and then hydrolysed with dilute H2SO4.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "X এর নাম কী?",
+     "question_en": "Name X.",
+     "model_answer_bn": "কিউমিন (আইসোপ্রোপাইল বেনজিন)।",
+     "model_answer_en": "Cumene (isopropylbenzene)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "X প্রস্তুতির বিক্রিয়াটি লেখো।",
+     "question_en": "Write the reaction forming X.",
+     "model_answer_bn": "C6H6 + CH3CH=CH2 → (250°C, H3PO4, 30 atm) C6H5CH(CH3)2।",
+     "model_answer_en": "C6H6 + CH3CH=CH2 -> (250 C, H3PO4, 30 atm) C6H5CH(CH3)2."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "X এর জারণ ও আর্দ্র বিশ্লেষণে কী কী উৎপন্ন হয়? ধাপগুলো দেখাও।",
+     "question_en": "What forms on oxidation and hydrolysis of X? Show the steps.",
+     "model_answer_bn": "Co/Mn লবণসহ 130°C এ O2 দ্বারা কিউমিন হাইড্রোপারঅক্সাইড; লঘু H2SO4 এ আর্দ্র বিশ্লেষণে ফেনল ও অ্যাসিটোন (প্রোপানোন)।",
+     "model_answer_en": "O2 with Co/Mn salt at 130 C gives cumene hydroperoxide; hydrolysis with dilute H2SO4 gives phenol and acetone (propanone)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ফেনল উৎপাদনের ডাউ পদ্ধতির সাথে এই পদ্ধতির তুলনা করো।",
+     "question_en": "Compare this method with the Dow process for phenol.",
+     "model_answer_bn": "কিউমিন পদ্ধতি শিল্পে প্রায় 90% ফেনল দেয়, সম্পূর্ণ বায়ু O2 ও প্রোপিন লাগে এবং উপজাত অ্যাসিটোন পাওয়া যায়। ডাউ পদ্ধতিতে বেনজিন + Cl2 (Fe) → ক্লোরোবেনজিন, তারপর 10% NaOH, 150 atm, 400°C এ সোডিয়াম ফিনক্সাইড ও HCl দিয়ে ফেনল; এতে কঠোর চাপ-তাপ লাগে।",
+     "model_answer_en": "The cumene process supplies about 90% of industrial phenol, uses air O2 and propene and gives acetone as by-product. The Dow process: benzene + Cl2/Fe -> chlorobenzene, then 10% NaOH at 150 atm, 400 C gives sodium phenoxide and HCl liberates phenol; it needs severe conditions."
+    }
+   ]
+  },
+  {
+   "topic_section": "7.26",
+   "stimulus_bn": "CH3-O-CH3, CH3-O-C2H5, ইথিলিন অক্সাইড ও C6H5-O-CH3 চারটি যৌগের সংকেত দেওয়া হলো।",
+   "stimulus_en": "Four compounds are given: CH3-O-CH3, CH3-O-C2H5, ethylene oxide and C6H5-O-CH3.",
+   "difficulty": "basic",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ইথারের কার্যকরী মূলক কী?",
+     "question_en": "What is the functional group of ethers?",
+     "model_answer_bn": "-C-O-C- (ইথারীয় মূলক)।",
+     "model_answer_en": "-C-O-C- (ether linkage)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রথম দুটি যৌগকে সরল না মিশ্র ইথার, তা কারণসহ লেখো।",
+     "question_en": "Classify the first two as simple or mixed ethers with reasons.",
+     "model_answer_bn": "CH3-O-CH3 সরল (দুটি একই মূলক); CH3-O-C2H5 মিশ্র (দুটি ভিন্ন মূলক)।",
+     "model_answer_en": "CH3-O-CH3 is simple (same groups); CH3-O-C2H5 is mixed (different groups)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "চারটি যৌগকে শ্রেণীবিভাগ করো।",
+     "question_en": "Classify all four compounds.",
+     "model_answer_bn": "CH3-O-CH3: অ্যালিফেটিক সরল; CH3-O-C2H5: অ্যালিফেটিক মিশ্র; ইথিলিন অক্সাইড: চাক্রিক (ইপোক্সি); C6H5-O-CH3: অ্যারোমেটিক মিশ্র (অ্যানিসল)।",
+     "model_answer_en": "CH3-O-CH3: aliphatic simple; CH3-O-C2H5: aliphatic mixed; ethylene oxide: cyclic (epoxy); C6H5-O-CH3: aromatic mixed (anisole)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "CH3-O-C2H5 এর ট্রিভিয়াল ও জেনেভা নাম লেখো এবং অ্যালকোহল থেকে ইথার উৎপত্তির ধারণা ব্যাখ্যা করো।",
+     "question_en": "Give the common and Geneva names of CH3-O-C2H5 and explain how ethers arise from alcohols.",
+     "model_answer_bn": "ট্রিভিয়াল: ইথাইল মিথাইল ইথার; জেনেভা: মিথক্সি ইথেন। দুই অণু অ্যালকোহল থেকে এক অণু পানি অপসারণ করলে R-O-R ইথার হয় (R-OH + H-O-R → R-O-R + H2O)।",
+     "model_answer_en": "Common: ethyl methyl ether; Geneva: methoxyethane. Removing one water from two alcohol molecules gives R-O-R (R-OH + H-O-R -> R-O-R + H2O)."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 409-427 readable. 7.13 (Lucas/Jarone, printed p.394) belongs to another chunk. Book's PCl5/phenol equation shows PCl3 as a typo; notes use PCl5. Sections 7.27-7.28 (ether classification/nomenclature) folded into 7.26 notes."
+}

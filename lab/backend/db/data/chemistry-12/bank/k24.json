@@ -1,0 +1,1661 @@
+{
+ "chapter_no": 8,
+ "topics": [
+  {
+   "section_no": "8.14",
+   "title_bn": "কার্বনাইল যৌগের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of carbonyl compounds",
+   "notes_bn": "কার্বনাইল মূলক পোলার (C δ+ = O δ-); তাই কার্বনাইল যৌগ রাসায়নিকভাবে সক্রিয় এবং ইলেকট্রন-সমৃদ্ধ নিউক্লিওফাইলের আক্রমণে নিউক্লিওফিলিক যুত বিক্রিয়া দেয়।\nনিউক্লিওফাইল আক্রমণ করলে π ইলেকট্রন অক্সিজেনে সরে গিয়ে মধ্যবর্তী কমপ্লেক্স অ্যানায়ন গঠিত হয়, পরে H⁺ যুক্ত হয়ে যুত-যৌগ হয়।\nএসিড প্রভাবে H⁺ অক্সিজেনে যুক্ত হয়ে কার্বনের ধনাত্মক চার্জ বাড়ায়; ক্ষার প্রভাবে Nu–H থেকে শক্তিশালী Nu⁻ তৈরি হয়।\nα-কার্বনের H অম্লধর্মী: ক্ষারের উপস্থিতিতে H⁺ বেরিয়ে কার্বানায়ন/ইনোলেট আয়ন গঠিত হয়, যা শক্তিশালী নিউক্লিওফাইল (অ্যালডল ঘনীভবনের ভিত্তি)।\nসক্রিয়তা: মিথান্যাল > ইথান্যাল > প্রোপানোন; কারণ (ক) অ্যালকাইল মূলকের +I প্রভাবে কার্বনের ধনাত্মক চার্জ কমে, (খ) স্টেরিক বাধা বাড়ে। তাই অ্যালডিহাইড অপেক্ষা কিটোন কম সক্রিয়।",
+   "notes_en": "The C=O group is polar (C δ+ = O δ-), so carbonyl compounds are very reactive and undergo nucleophilic addition.\nA nucleophile attacks carbon; pi electrons shift to oxygen giving an intermediate complex anion, which takes H+ to form the addition product.\nAcid catalysis: H+ binds oxygen and raises carbon's positive charge. Base catalysis: Nu-H is converted to the stronger Nu-.\nalpha-H atoms are acidic: with base they leave as H+, giving a carbanion/enolate ion, a strong nucleophile (basis of aldol condensation).\nReactivity: methanal > ethanal > propanone, because alkyl groups reduce the carbon's positive charge (+I) and add steric hindrance. Ketones are less reactive than aldehydes.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বনাইল যৌগের প্রধান বিক্রিয়া কোনটি?",
+     "question_en": "What is the characteristic reaction type of carbonyl compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলেক্ট্রোফিলিক প্রতিস্থাপন",
+       "en": "Electrophilic substitution"
+      },
+      {
+       "id": "b",
+       "bn": "নিউক্লিওফিলিক যুত বিক্রিয়া",
+       "en": "Nucleophilic addition"
+      },
+      {
+       "id": "c",
+       "bn": "মুক্তমূলক প্রতিস্থাপন",
+       "en": "Free radical substitution"
+      },
+      {
+       "id": "d",
+       "bn": "ইলেক্ট্রোফিলিক যুত বিক্রিয়া",
+       "en": "Electrophilic addition"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পোলার C=O এর ধনাত্মক কার্বনকে নিউক্লিওফাইল আক্রমণ করে।",
+     "explanation_en": "The positive carbon of polar C=O is attacked by nucleophiles.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিউক্লিওফাইল কার্বনাইল মূলকের কোন পরমাণুকে আক্রমণ করে?",
+     "question_en": "Which atom of the carbonyl group does a nucleophile attack?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অক্সিজেনকে",
+       "en": "Oxygen"
+      },
+      {
+       "id": "b",
+       "bn": "কার্বনকে (δ+)",
+       "en": "Carbon (δ+)"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়কে সমানভাবে",
+       "en": "Both equally"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিকেই নয়",
+       "en": "Neither"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বন আংশিক ধনাত্মক চার্জযুক্ত, তাই নিউক্লিওফাইল তাকে আক্রমণ করে।",
+     "explanation_en": "Carbon carries a partial positive charge, so the nucleophile attacks it.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি সবচেয়ে বেশি সক্রিয়?",
+     "question_en": "Which is the most reactive towards nucleophilic addition?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানোন",
+       "en": "Propanone"
+      },
+      {
+       "id": "b",
+       "bn": "ইথান্যাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "c",
+       "bn": "মিথান্যাল",
+       "en": "Methanal"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটানোন",
+       "en": "Butanone"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "মিথান্যালে কোনো অ্যালকাইল মূলক নেই, তাই সবচেয়ে কম বাধা ও বেশি ধনাত্মক কার্বন।",
+     "explanation_en": "Methanal has no alkyl group, so least hindrance and most positive carbon.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সক্রিয়তার সঠিক ক্রম কোনটি?",
+     "question_en": "Which is the correct order of reactivity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানোন > ইথান্যাল > মিথান্যাল",
+       "en": "Propanone > ethanal > methanal"
+      },
+      {
+       "id": "b",
+       "bn": "ইথান্যাল > মিথান্যাল > প্রোপানোন",
+       "en": "Ethanal > methanal > propanone"
+      },
+      {
+       "id": "c",
+       "bn": "মিথান্যাল > ইথান্যাল > প্রোপানোন",
+       "en": "Methanal > ethanal > propanone"
+      },
+      {
+       "id": "d",
+       "bn": "মিথান্যাল > প্রোপানোন > ইথান্যাল",
+       "en": "Methanal > propanone > ethanal"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "–CH₃ মূলকের সংখ্যা বাড়লে সক্রিয়তা কমে।",
+     "explanation_en": "Reactivity falls as the number of –CH₃ groups increases.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কার্বনাইল কার্বনে বড় মূলক যুক্ত থাকলে নিউক্লিওফাইলের আক্রমণের পথে যে বাধা সৃষ্টি হয় তাকে কী বলে?",
+     "question_en": "What is the hindrance caused by bulky groups on the carbonyl carbon called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলেকট্রনীয় প্রভাব",
+       "en": "Electronic effect"
+      },
+      {
+       "id": "b",
+       "bn": "স্টেরিক বাধা",
+       "en": "Steric hindrance"
+      },
+      {
+       "id": "c",
+       "bn": "রেজোন্যান্স",
+       "en": "Resonance"
+      },
+      {
+       "id": "d",
+       "bn": "টটোমারিজম",
+       "en": "Tautomerism"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বড় মূলকের ত্রিমাত্রিক স্থানিক বাধাকে স্টেরিক বাধা বলে।",
+     "explanation_en": "Spatial obstruction by large groups is steric hindrance.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এসিড মাধ্যমে নিউক্লিওফিলিক যুত বিক্রিয়া কীভাবে সহজ হয়?",
+     "question_en": "How does acid medium facilitate nucleophilic addition?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H⁺ অক্সিজেনে যুক্ত হয়ে কার্বনের ধনাত্মক চার্জ বাড়ায়",
+       "en": "H+ binds oxygen and increases carbon's positive charge"
+      },
+      {
+       "id": "b",
+       "bn": "H⁺ নিউক্লিওফাইলকে ঋণাত্মক করে",
+       "en": "H+ makes the nucleophile negative"
+      },
+      {
+       "id": "c",
+       "bn": "H⁺ কার্বনাইল কার্বনকে বিজারিত করে",
+       "en": "H+ reduces the carbonyl carbon"
+      },
+      {
+       "id": "d",
+       "bn": "H⁺ α-হাইড্রোজেন সরায়",
+       "en": "H+ removes alpha hydrogen"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রোটন যুক্ত হলে কার্বন বেশি ইলেকট্রোফিলিক হয়।",
+     "explanation_en": "Protonation makes carbon more electrophilic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্ষার মাধ্যমে Nu–H থেকে কী গঠিত হয়, যা বিক্রিয়ার হার বাড়ায়?",
+     "question_en": "In base medium Nu–H gives which species that raises the rate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Nu⁺",
+       "en": "Nu+"
+      },
+      {
+       "id": "b",
+       "bn": "Nu⁻ (শক্তিশালী নিউক্লিওফাইল)",
+       "en": "Nu- (stronger nucleophile)"
+      },
+      {
+       "id": "c",
+       "bn": "Nu•",
+       "en": "Nu radical"
+      },
+      {
+       "id": "d",
+       "bn": "H⁻",
+       "en": "H-"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Nu–H + OH⁻ → Nu⁻ + H₂O; নিউক্লিওফাইলের ঘনত্ব বাড়ে।",
+     "explanation_en": "Nu–H + OH⁻ → Nu⁻ + H₂O raises nucleophile concentration.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কার্বনাইল যৌগের α-কার্বনের H পরমাণু অম্লধর্মী হয় কেন?",
+     "question_en": "Why is the alpha-hydrogen of a carbonyl compound acidic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বনাইল কার্বন ধনাত্মক চার্জযুক্ত হওয়ায় α-কার্বন থেকে ইলেকট্রন টানে, ফলে C–H বন্ধন দুর্বল হয়",
+       "en": "The positive carbonyl carbon withdraws electrons from the alpha carbon, weakening the C–H bond"
+      },
+      {
+       "id": "b",
+       "bn": "α-হাইড্রোজেন অক্সিজেনের সঙ্গে যুক্ত থাকে",
+       "en": "Alpha H is bonded to oxygen"
+      },
+      {
+       "id": "c",
+       "bn": "α-কার্বন sp³ নয়",
+       "en": "Alpha carbon is not sp3"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বনাইল মূলকে π বন্ধন নেই",
+       "en": "Carbonyl has no pi bond"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুর্বল C–H থেকে H⁺ বেরিয়ে কার্বানায়ন/ইনোলেট আয়ন গঠিত হয়।",
+     "explanation_en": "H+ leaves, giving a carbanion/enolate ion.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কিটোন অ্যালডিহাইডের চেয়ে কম সক্রিয় কেন?",
+     "question_en": "Why are ketones less reactive than aldehydes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কিটোনে দুটি অ্যালকাইল মূলক থাকায় +I প্রভাব ও স্টেরিক বাধা বেশি",
+       "en": "Two alkyl groups give greater +I effect and steric hindrance"
+      },
+      {
+       "id": "b",
+       "bn": "কিটোনে C=O নেই",
+       "en": "Ketones lack C=O"
+      },
+      {
+       "id": "c",
+       "bn": "কিটোনে হাইড্রোজেন বন্ধন আছে",
+       "en": "Ketones have H-bonding"
+      },
+      {
+       "id": "d",
+       "bn": "কিটোন বেশি পোলার",
+       "en": "Ketones are more polar"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুই অ্যালকাইল মূলক কার্বনের ধনাত্মক চার্জ কমায় ও আক্রমণের পথ আটকায়।",
+     "explanation_en": "Two alkyl groups reduce positive charge and block the approach.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "8.15",
+   "title_bn": "অ্যালডিহাইড কিটোনের রাসায়নিক বিক্রিয়ার শ্রেণীবিভাগ",
+   "title_en": "Classification of reactions of aldehydes and ketones",
+   "notes_bn": "যুত বিক্রিয়া: HCN → সায়ানোহাইড্রিন (10–20°C); NaHSO₃ → বাইসালফাইট যুত (কেলাসিত; মিশ্রণ থেকে পৃথকীকরণে ব্যবহৃত); RMgX → জলবিশ্লেষণে অ্যালকোহল (HCHO → 1°, অন্য অ্যালডিহাইড → 2°, কিটোন → 3°); NH₃ → অ্যালডিহাইড অ্যামোনিয়া।\nঘনীভবন (যুত-অপসারণ): NH₂OH → অক্সাইম; NH₂NH₂ → হাইড্রাজোন; ফিনাইল হাইড্রাজিন → ফিনাইল হাইড্রাজোন; 2,4-DNP (ব্র্যাডি বিকারক) → হলুদ-কমলা অধঃক্ষেপ; সেমিকার্বাজাইড → সেমিকার্বাজোন; 1° অ্যামিন → সিফ-ক্ষারক; অ্যালকোহল + HCl → অ্যাসিটাল/কিটাল।\nজারণ: অ্যালডিহাইড মৃদু জারকেও (টলেন, ফেলিং) কার্বক্সিলিক অ্যাসিড দেয়; কিটোন কেবল তীব্র জারকে ভেঙে কম কার্বনের অ্যাসিড দেয়, মৃদু জারকে জারিত হয় না। টলেন → সিলভার দর্পণ; ফেলিং → লালচে Cu₂O।\nবিজারণ: LiAlH₄/NaBH₄/Na–Hg → অ্যালডিহাইড থেকে 1° এবং কিটোন থেকে 2° অ্যালকোহল; ক্লিমেনসেন (Zn–Hg + গাঢ় HCl) → C=O থেকে CH₂ (হাইড্রোকার্বন)।\nহ্যালোফর্ম: CH₃–CO– মূলকযুক্ত যৌগ (ইথান্যাল, প্রোপানোন, ইথানল, অ্যালকানল-2) + I₂ + NaOH → হলুদ CHI₃; মিথান্যাল/মিথানল দেয় না।\nক্ষারের সঙ্গে: α-H থাকলে অ্যালডল ঘনীভবন (লঘু NaOH, ইথান্যাল → 3-হাইড্রক্সি বিউটান্যাল); α-H না থাকলে ক্যানিজারো (গাঢ় NaOH; HCHO → CH₃OH + HCOONa; বেনজ্যালডিহাইডও দেয়)।\nপলিমার: মিথান্যাল → পলি(মিথান্যাল)/ডেলরিন, ট্রাইঅক্সেন; ইথান্যাল → প্যারালডিহাইড, মেটালডিহাইড; ইউরিয়া-ফরমালডিহাইড, বেকেলাইট (ফেনল+মিথান্যাল), মেলামাইন পলিমার (থার্মোসেটিং)। PCl₅ → C=O এর স্থলে Cl₂ (জেম ডাইক্লোরাইড)।",
+   "notes_en": "Addition: HCN -> cyanohydrin (10-20 C); NaHSO3 -> crystalline bisulphite adduct (used to separate carbonyls from mixtures); RMgX -> alcohol after hydrolysis (HCHO gives 1-degree, other aldehydes 2-degree, ketones 3-degree); NH3 -> aldehyde ammonia.\nCondensation (addition-elimination): NH2OH -> oxime; N2H4 -> hydrazone; phenylhydrazine -> phenylhydrazone; 2,4-DNP (Brady's reagent) -> yellow-orange ppt; semicarbazide -> semicarbazone; primary amine -> Schiff base; alcohol + HCl -> acetal/ketal.\nOxidation: aldehydes are oxidised even by mild agents (Tollens, Fehling) to acids; ketones only by strong agents (C-C cleavage, fewer carbons). Tollens -> silver mirror; Fehling -> red Cu2O.\nReduction: LiAlH4/NaBH4/Na-Hg gives 1-degree alcohol from aldehydes, 2-degree from ketones; Clemmensen (Zn-Hg/conc HCl) converts C=O to CH2.\nHaloform: compounds with CH3-CO- (ethanal, propanone, ethanol, alkan-2-ol) + I2 + NaOH -> yellow CHI3; methanal/methanol do not.\nWith alkali: aldol condensation if alpha-H present (dil. NaOH, ethanal -> 3-hydroxybutanal); Cannizzaro if no alpha-H (conc. NaOH; HCHO -> CH3OH + HCOONa; benzaldehyde too).\nPolymers: methanal -> poly(methanal)/Delrin, trioxane; ethanal -> paraldehyde, metaldehyde; urea-formaldehyde, bakelite (phenol + methanal), melamine polymer (thermosetting). PCl5 replaces C=O oxygen by two Cl (gem-dichloride).",
+   "mcqs": [
+    {
+     "question_bn": "ইথান্যালের সঙ্গে HCN এর বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "What forms when ethanal reacts with HCN?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথান্যাল সায়ানোহাইড্রিন",
+       "en": "Ethanal cyanohydrin"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "ইথান্যাল অক্সাইম",
+       "en": "Ethanal oxime"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানোয়িক অ্যাসিড",
+       "en": "Ethanoic acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নিউক্লিওফিলিক যুতে –CN ও –OH একই কার্বনে যুক্ত হয়।",
+     "explanation_en": "–CN and –OH add across C=O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজোফেনোন HCN এর সঙ্গে বিক্রিয়া করে না কেন?",
+     "question_en": "Why does benzophenone not react with HCN?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দুটি বড় ফিনাইল মূলকের স্টেরিক বাধার কারণে",
+       "en": "Steric hindrance of two bulky phenyl groups"
+      },
+      {
+       "id": "b",
+       "bn": "এতে C=O নেই",
+       "en": "It has no C=O"
+      },
+      {
+       "id": "c",
+       "bn": "এটি অ্যালডিহাইড",
+       "en": "It is an aldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "এটি পোলার নয়",
+       "en": "It is non-polar"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে উল্লেখ আছে স্টেরিক বাধার কারণে বিক্রিয়া ঘটে না।",
+     "explanation_en": "The book attributes it to steric hindrance.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হাইড্রক্সিল অ্যামিনের সঙ্গে অ্যালডিহাইডের বিক্রিয়ায় উৎপন্ন যৌগকে কী বলে?",
+     "question_en": "What is the product of an aldehyde with hydroxylamine called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হাইড্রাজোন",
+       "en": "Hydrazone"
+      },
+      {
+       "id": "b",
+       "bn": "অক্সাইম",
+       "en": "Oxime"
+      },
+      {
+       "id": "c",
+       "bn": "সেমিকার্বাজোন",
+       "en": "Semicarbazone"
+      },
+      {
+       "id": "d",
+       "bn": "সিফ-ক্ষারক",
+       "en": "Schiff base"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "R–CH=N–OH গঠিত হয়, একে অক্সাইম বলে।",
+     "explanation_en": "R–CH=N–OH is an oxime.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "2,4-DNP (ব্র্যাডি বিকারক) এর সঙ্গে কার্বনাইল যৌগের বিক্রিয়ায় কী পাওয়া যায়?",
+     "question_en": "What is observed when a carbonyl compound reacts with 2,4-DNP?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা অধঃক্ষেপ",
+       "en": "White ppt"
+      },
+      {
+       "id": "b",
+       "bn": "সিলভার দর্পণ",
+       "en": "Silver mirror"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ-কমলা অধঃক্ষেপ",
+       "en": "Yellow-orange ppt"
+      },
+      {
+       "id": "d",
+       "bn": "নীল দ্রবণ",
+       "en": "Blue solution"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2,4-ডাইনাইট্রো ফিনাইল হাইড্রাজোন হলুদ-কমলা কেলাস।",
+     "explanation_en": "2,4-dinitrophenylhydrazone is a yellow-orange solid.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথান্যালের সঙ্গে CH₃MgBr বিক্রিয়ার পর জলবিশ্লেষণে কোন যৌগ পাওয়া যায়?",
+     "question_en": "Which compound results from CH3MgBr + methanal followed by hydrolysis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল (1° অ্যালকোহল)",
+       "en": "Ethanol (1-degree alcohol)"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপান-2-অল",
+       "en": "Propan-2-ol"
+      },
+      {
+       "id": "d",
+       "bn": "টারশিয়ারি বিউটানল",
+       "en": "tert-Butanol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "HCHO + CH₃MgBr → CH₃CH₂OMgBr → CH₃CH₂OH।",
+     "explanation_en": "HCHO + CH3MgBr gives CH3CH2OH after hydrolysis.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি টলেন বিকারককে বিজারিত করে সিলভার দর্পণ দেয়?",
+     "question_en": "Which reduces Tollens' reagent to give a silver mirror?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানোন",
+       "en": "Propanone"
+      },
+      {
+       "id": "b",
+       "bn": "ইথান্যাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজোফেনোন",
+       "en": "Benzophenone"
+      },
+      {
+       "id": "d",
+       "bn": "সাইক্লোহেক্সানোন",
+       "en": "Cyclohexanone"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যালডিহাইড মৃদু জারকে জারিত হয়; কিটোন হয় না।",
+     "explanation_en": "Aldehydes are oxidised by mild agents; ketones are not.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টলেন বিকারকে কোন জটিল আয়ন থাকে?",
+     "question_en": "Which complex ion is present in Tollens' reagent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[Cu(NH₃)₄]²⁺",
+       "en": "[Cu(NH3)4]2+"
+      },
+      {
+       "id": "b",
+       "bn": "[Ag(NH₃)₂]⁺",
+       "en": "[Ag(NH3)2]+"
+      },
+      {
+       "id": "c",
+       "bn": "[Fe(CN)₆]³⁻",
+       "en": "[Fe(CN)6]3-"
+      },
+      {
+       "id": "d",
+       "bn": "[Zn(OH)₄]²⁻",
+       "en": "[Zn(OH)4]2-"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "AgNO₃ + NaOH + অতিরিক্ত NH₄OH → ডাইঅ্যামিন সিলভার(I) আয়ন।",
+     "explanation_en": "Diamminesilver(I) ion forms from AgNO3, NaOH and excess NH4OH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোপানোনকে জিংক অ্যামালগাম ও গাঢ় HCl দ্বারা বিজারিত করলে কী পাওয়া যায়?",
+     "question_en": "Clemmensen reduction of propanone gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপান-2-অল",
+       "en": "Propan-2-ol"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপিন",
+       "en": "Propene"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপেন",
+       "en": "Propane"
+      },
+      {
+       "id": "d",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "C=O মূলক CH₂ এ রূপান্তরিত হয়।",
+     "explanation_en": "C=O becomes CH2, giving propane.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আয়োডোফর্ম বিক্রিয়া কোন যৌগ দেয় না?",
+     "question_en": "Which compound does NOT give the iodoform reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথান্যাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপানোন",
+       "en": "Propanone"
+      },
+      {
+       "id": "d",
+       "bn": "মিথান্যাল",
+       "en": "Methanal"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "CH₃–CO– মূলক বা তা তৈরি করতে পারে এমন যৌগ দেয়; মিথান্যালে তা নেই।",
+     "explanation_en": "Needs CH3-CO- (or a precursor); methanal has none.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "লঘু NaOH এর উপস্থিতিতে দুই অণু ইথান্যালের বিক্রিয়ায় কোনটি উৎপন্ন হয়?",
+     "question_en": "Two ethanal molecules with dilute NaOH give:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2-বিউটেনাল",
+       "en": "2-Butenal"
+      },
+      {
+       "id": "b",
+       "bn": "3-হাইড্রক্সি বিউটান্যাল",
+       "en": "3-Hydroxybutanal"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানোয়িক অ্যাসিড ও ইথানল",
+       "en": "Ethanoic acid and ethanol"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যালডল ঘনীভবনে অ্যালডল (3-হাইড্রক্সি বিউটান্যাল) গঠিত হয়।",
+     "explanation_en": "Aldol condensation forms the aldol, 3-hydroxybutanal.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গাঢ় NaOH এর সঙ্গে ক্যানিজারো বিক্রিয়ায় মিথান্যাল কী উৎপন্ন করে?",
+     "question_en": "Methanal under Cannizzaro reaction (conc. NaOH) gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথানল ও সোডিয়াম ফরমেট",
+       "en": "Methanol and sodium formate"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল ও ইথানোয়িক অ্যাসিড",
+       "en": "Ethanol and ethanoic acid"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালডল",
+       "en": "Aldol"
+      },
+      {
+       "id": "d",
+       "bn": "ফরমিক অ্যাসিড ও মিথেন",
+       "en": "Formic acid and methane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একটি অণু জারিত (HCOONa), অপরটি বিজারিত (CH₃OH) হয়।",
+     "explanation_en": "One molecule is oxidised (HCOONa), the other reduced (CH3OH).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগ অ্যালডল বিক্রিয়া দেয় না?",
+     "question_en": "Which does NOT undergo aldol condensation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথান্যাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপানোন",
+       "en": "Propanone"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজ্যালডিহাইড",
+       "en": "Benzaldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপান্যাল",
+       "en": "Propanal"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বেনজ্যালডিহাইডে α-হাইড্রোজেন নেই।",
+     "explanation_en": "Benzaldehyde has no alpha-hydrogen.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ফেনল ও মিথান্যালের ঘনীভবনে উৎপন্ন থার্মোসেটিং পলিমার কোনটি?",
+     "question_en": "Which thermosetting polymer forms from phenol and methanal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডেলরিন",
+       "en": "Delrin"
+      },
+      {
+       "id": "b",
+       "bn": "ব্যাকেলাইট",
+       "en": "Bakelite"
+      },
+      {
+       "id": "c",
+       "bn": "পলিথিন",
+       "en": "Polythene"
+      },
+      {
+       "id": "d",
+       "bn": "প্যারালডিহাইড",
+       "en": "Paraldehyde"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফেনল + HCHO → ব্যাকেলাইট (ক্রস-লিংকযুক্ত)।",
+     "explanation_en": "Phenol + HCHO gives cross-linked bakelite.",
+     "difficulty": "basic"
+    }
+   ]
+  },
+  {
+   "section_no": "8.16",
+   "title_bn": "কার্বনাইল মূলক ও অ্যালডিহাইড কিটোন শনাক্তকরণ",
+   "title_en": "Identification of carbonyl group, aldehydes and ketones",
+   "notes_bn": "কার্বনাইল মূলক (>C=O) শনাক্তকরণ: 2,4-DNP পরীক্ষা—2–3 mL 2,4-DNP দ্রবণে 5–6 ফোঁটা নমুনা দিলে হলুদ-কমলা অধঃক্ষেপ; অ্যালডিহাইড ও কিটোন উভয়ই দেয়।\nঅ্যালডিহাইড মূলক (–CHO) নিশ্চিতকরণ: (১) টলেন পরীক্ষা—অ্যামোনিয়াযুক্ত AgNO₃, 50–60°C এ 2–3 মিনিট গরম করলে টেস্টটিউবের গায়ে সিলভার দর্পণ; (২) ফেলিং পরীক্ষা—গরম করলে লালচে বর্ণের Cu₂O অধঃক্ষেপ।\nকিটোন টলেন ও ফেলিং—দুটিই দেয় না।\nউদাহরণ (ইথান্যাল বনাম প্রোপানোন): উভয়ই 2,4-DNP তে হলুদ-কমলা অধঃক্ষেপ দেয়; কিন্তু শুধু ইথান্যাল সিলভার দর্পণ ও লালচে অধঃক্ষেপ দেয়।",
+   "notes_en": "Carbonyl test: add 5-6 drops of sample to 2-3 mL 2,4-DNP solution; yellow-orange ppt for both aldehydes and ketones.\nAldehyde confirmation: (1) Tollens' test - ammoniacal AgNO3 warmed at 50-60 C gives a silver mirror; (2) Fehling's test - warming gives a red Cu2O precipitate.\nKetones give neither Tollens' nor Fehling's test.\nEthanal vs propanone: both give yellow-orange ppt with 2,4-DNP, but only ethanal gives silver mirror and red ppt.",
+   "mcqs": [
+    {
+     "question_bn": "কোন পরীক্ষা অ্যালডিহাইড ও কিটোন উভয়ের জন্য ইতিবাচক?",
+     "question_en": "Which test is positive for both aldehydes and ketones?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টলেন পরীক্ষা",
+       "en": "Tollens' test"
+      },
+      {
+       "id": "b",
+       "bn": "ফেলিং পরীক্ষা",
+       "en": "Fehling's test"
+      },
+      {
+       "id": "c",
+       "bn": "2,4-DNP পরীক্ষা",
+       "en": "2,4-DNP test"
+      },
+      {
+       "id": "d",
+       "bn": "আয়োডোফর্ম ছাড়া কোনোটি নয়",
+       "en": "None except iodoform"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2,4-DNP >C=O মূলকের পরীক্ষা।",
+     "explanation_en": "2,4-DNP tests the >C=O group.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "2,4-DNP পরীক্ষায় কোন বর্ণের অধঃক্ষেপ পাওয়া যায়?",
+     "question_en": "What colour is the precipitate in the 2,4-DNP test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা",
+       "en": "White"
+      },
+      {
+       "id": "b",
+       "bn": "নীল",
+       "en": "Blue"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ-কমলা",
+       "en": "Yellow-orange"
+      },
+      {
+       "id": "d",
+       "bn": "কালো",
+       "en": "Black"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "হলুদ-কমলা 2,4-ডাইনাইট্রো ফিনাইল হাইড্রাজোন।",
+     "explanation_en": "Yellow-orange 2,4-DNP derivative.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টলেন বিকারক পরীক্ষায় কী পর্যবেক্ষণ করা যায়?",
+     "question_en": "What is observed in Tollens' test for aldehydes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লালচে অধঃক্ষেপ",
+       "en": "Red ppt"
+      },
+      {
+       "id": "b",
+       "bn": "সিলভার দর্পণ",
+       "en": "Silver mirror"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ অধঃক্ষেপ",
+       "en": "Yellow ppt"
+      },
+      {
+       "id": "d",
+       "bn": "সবুজ দ্রবণ",
+       "en": "Green solution"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Ag⁺ বিজারিত হয়ে Ag ধাতু জমে।",
+     "explanation_en": "Ag+ is reduced to metallic Ag.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টলেন পরীক্ষায় পরীক্ষা নলকে প্রায় কত তাপমাত্রায় গরম করা হয়?",
+     "question_en": "At roughly what temperature is the tube warmed in Tollens' test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0–5°C",
+       "en": "0-5 C"
+      },
+      {
+       "id": "b",
+       "bn": "50–60°C",
+       "en": "50-60 C"
+      },
+      {
+       "id": "c",
+       "bn": "100–120°C",
+       "en": "100-120 C"
+      },
+      {
+       "id": "d",
+       "bn": "200°C",
+       "en": "200 C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 50–60°C এ 2–3 মিনিট গরম করার কথা আছে।",
+     "explanation_en": "The book specifies 50-60 C for 2-3 minutes.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফেলিং দ্রবণ পরীক্ষায় অ্যালডিহাইডের উপস্থিতিতে কোন যৌগ অধঃক্ষিপ্ত হয়?",
+     "question_en": "Which compound precipitates in Fehling's test with aldehydes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CuO",
+       "en": "CuO"
+      },
+      {
+       "id": "b",
+       "bn": "Cu₂O",
+       "en": "Cu2O"
+      },
+      {
+       "id": "c",
+       "bn": "Cu(OH)₂",
+       "en": "Cu(OH)2"
+      },
+      {
+       "id": "d",
+       "bn": "CuSO₄",
+       "en": "CuSO4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কপার(I) অক্সাইডের লালচে অধঃক্ষেপ।",
+     "explanation_en": "Reddish cuprous oxide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথান্যাল ও প্রোপানোনের মধ্যে পার্থক্য করতে কোনটি ব্যবহার করা যায়?",
+     "question_en": "Which can distinguish ethanal from propanone?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুধু 2,4-DNP",
+       "en": "2,4-DNP only"
+      },
+      {
+       "id": "b",
+       "bn": "টলেন বিকারক",
+       "en": "Tollens' reagent"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো পরীক্ষাই নয়",
+       "en": "No test"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু HCN",
+       "en": "HCN only"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথান্যাল সিলভার দর্পণ দেয়, প্রোপানোন দেয় না।",
+     "explanation_en": "Ethanal gives silver mirror, propanone does not.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোপানোন নিচের কোন পরীক্ষায় ইতিবাচক ফল দেয়?",
+     "question_en": "Propanone gives a positive result in which test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেলিং",
+       "en": "Fehling's"
+      },
+      {
+       "id": "b",
+       "bn": "টলেন",
+       "en": "Tollens'"
+      },
+      {
+       "id": "c",
+       "bn": "2,4-DNP",
+       "en": "2,4-DNP"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "কিটোনেও >C=O আছে, তাই DNP পরীক্ষা দেয়; টলেন-ফেলিং নয়।",
+     "explanation_en": "It has >C=O so gives DNP test; not Tollens'/Fehling's.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি অজানা যৌগ 2,4-DNP তে হলুদ-কমলা অধঃক্ষেপ দেয় কিন্তু টলেন ও ফেলিং পরীক্ষা দেয় না। যৌগটি কী হতে পারে?",
+     "question_en": "An unknown gives a yellow-orange ppt with 2,4-DNP but no Tollens'/Fehling's reaction. It is likely a:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      },
+      {
+       "id": "b",
+       "bn": "কিটোন",
+       "en": "Ketone"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকোহল",
+       "en": "Alcohol"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বক্সিলিক অ্যাসিড",
+       "en": "Carboxylic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বনাইল আছে কিন্তু মৃদু জারক বিজারিত করে না, তাই কিটোন।",
+     "explanation_en": "Carbonyl present but no mild-oxidiser reduction, so a ketone.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ফেলিং পরীক্ষায় ইথান্যালের সঙ্গে বিক্রিয়ার সঠিক উৎপাদ কোনটি?",
+     "question_en": "Correct products of ethanal in Fehling's test:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃COONa + Cu₂O + H₂O",
+       "en": "CH3COONa + Cu2O + H2O"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃CH₂OH + Cu",
+       "en": "CH3CH2OH + Cu"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃COOH + CuO",
+       "en": "CH3COOH + CuO"
+      },
+      {
+       "id": "d",
+       "bn": "HCOONa + Cu",
+       "en": "HCOONa + Cu"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃CHO + 2Cu(OH)₂ + NaOH → CH₃COONa + Cu₂O + 3H₂O।",
+     "explanation_en": "CH3CHO + 2Cu(OH)2 + NaOH -> CH3COONa + Cu2O + 3H2O.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "8.17",
+   "title_bn": "অ্যালডিহাইড ও কিটোনের ব্যবহার",
+   "title_en": "Uses of aldehydes and ketones",
+   "notes_bn": "মিথান্যাল: ফেনল-মিথান্যাল (ব্যাকেলাইট), ইউরিয়া-ফরমালডিহাইড (ফরমিকা) প্লাস্টিক; ৪০% জলীয় দ্রবণ ফরমালিন—জীবাণুনাশক ও মৃত দেহ সংরক্ষক; আয়না তৈরিতে বিজারক; ওষুধ ও রঞ্জক শিল্প।\nহেক্সামিন (ফরমালিন + গাঢ় অ্যামোনিয়া; 6HCHO + 4NH₃ → (CH₂)₆N₄ + 6H₂O) মূত্রনালির ওষুধ; হেক্সামিন + NH₄NO₃ + HNO₃ → সাইক্লোনাইট (RDX), TNT অপেক্ষা শক্তিশালী বিস্ফোরক।\nইথান্যাল: ইথানোয়িক অ্যাসিড, 1-বিউটানল, ইথাইল ইথানোয়েট তৈরি; প্যারালডিহাইড (ঘুমের ওষুধ); ক্লোরাল/ট্রাইক্লোরো ইথান্যাল → ক্লোরোফর্ম ও DDT।\nপ্রোপানোন (অ্যাসিটোন): গুরুত্বপূর্ণ দ্রাবক; সেলুলোজ, পেইন্ট, বার্নিশ; পার্সপেক্স (কার্বেনেট) প্লাস্টিক।\nবেনজ্যালডিহাইড: রঞ্জক, সুগন্ধি, সিনামিক অ্যাসিড, বেনজোয়িল ক্লোরাইড; অ্যাসিটোফেনোন: সুগন্ধি, ঘুমের ওষুধ, স্টাইরিন; বেনজোফেনোন: সুগন্ধি।",
+   "notes_en": "Methanal: bakelite (phenol-methanal) and urea-formaldehyde (formica) plastics; 40% aqueous solution is formalin - germicide and preservative of dead bodies; reducing agent in mirror making; drugs and dyes.\nHexamine (formalin + conc. ammonia; 6HCHO + 4NH3 -> (CH2)6N4 + 6H2O) is a urinary-tract drug; with NH4NO3 and HNO3 it gives cyclonite (RDX), a stronger explosive than TNT.\nEthanal: making ethanoic acid, 1-butanol, ethyl ethanoate; paraldehyde (hypnotic); chloral -> chloroform and DDT.\nPropanone (acetone): key solvent; cellulose, paints, varnish; perspex (plastic glass).\nBenzaldehyde: dyes, perfumes, cinnamic acid, benzoyl chloride; acetophenone: perfume, hypnotic, styrene; benzophenone: perfume.",
+   "mcqs": [
+    {
+     "question_bn": "ফরমালিন কী?",
+     "question_en": "What is formalin?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৪০% জলীয় মিথান্যাল দ্রবণ",
+       "en": "40% aqueous methanal solution"
+      },
+      {
+       "id": "b",
+       "bn": "৪০% জলীয় ইথান্যাল দ্রবণ",
+       "en": "40% aqueous ethanal solution"
+      },
+      {
+       "id": "c",
+       "bn": "৪০% অ্যাসিটোন দ্রবণ",
+       "en": "40% acetone solution"
+      },
+      {
+       "id": "d",
+       "bn": "ফরমিক অ্যাসিড",
+       "en": "Formic acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফরমালিন = মিথান্যালের ৪০% জলীয় দ্রবণ।",
+     "explanation_en": "Formalin is 40% aqueous HCHO.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মৃত উদ্ভিদ ও প্রাণীর দেহ সংরক্ষণে কোনটি ব্যবহৃত হয়?",
+     "question_en": "What is used to preserve dead plants and animals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসিটোন",
+       "en": "Acetone"
+      },
+      {
+       "id": "b",
+       "bn": "ফরমালিন",
+       "en": "Formalin"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "d",
+       "bn": "ক্লোরোফর্ম",
+       "en": "Chloroform"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফরমালিন জীবাণুনাশক।",
+     "explanation_en": "Formalin is a germicide/preservative.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ব্যাকেলাইট প্রস্তুতিতে কোন দুটি যৌগ ব্যবহৃত হয়?",
+     "question_en": "Bakelite is made from:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইউরিয়া ও মিথান্যাল",
+       "en": "Urea and methanal"
+      },
+      {
+       "id": "b",
+       "bn": "ফেনল ও মিথান্যাল",
+       "en": "Phenol and methanal"
+      },
+      {
+       "id": "c",
+       "bn": "ইথান্যাল ও অ্যামোনিয়া",
+       "en": "Ethanal and ammonia"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটোন ও ফেনল",
+       "en": "Acetone and phenol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফেনল-মিথান্যাল প্লাস্টিক = ব্যাকেলাইট।",
+     "explanation_en": "Phenol-methanal plastic is bakelite.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মিথান্যাল ও অ্যামোনিয়ার বিক্রিয়ায় কোনটি উৎপন্ন হয়?",
+     "question_en": "Methanal with ammonia gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হেক্সামিন",
+       "en": "Hexamine"
+      },
+      {
+       "id": "b",
+       "bn": "মেলামাইন",
+       "en": "Melamine"
+      },
+      {
+       "id": "c",
+       "bn": "ইউরিয়া",
+       "en": "Urea"
+      },
+      {
+       "id": "d",
+       "bn": "সাইক্লোনাইট",
+       "en": "Cyclonite"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "6HCHO + 4NH₃ → (CH₂)₆N₄ + 6H₂O।",
+     "explanation_en": "6HCHO + 4NH3 -> (CH2)6N4 + 6H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হেক্সামিনের ব্যবহার কোনটি?",
+     "question_en": "A use of hexamine is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাতজ্বর ও মূত্রনালির রোগের ওষুধ",
+       "en": "Drug for rheumatic fever and urinary diseases"
+      },
+      {
+       "id": "b",
+       "bn": "ডিটারজেন্ট",
+       "en": "Detergent"
+      },
+      {
+       "id": "c",
+       "bn": "খাদ্য সংরক্ষণ",
+       "en": "Food preservative"
+      },
+      {
+       "id": "d",
+       "bn": "রং তৈরি",
+       "en": "Making paint"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বাতজ্বর ও মূত্রাশয়ের রোগের ওষুধ হিসেবে উল্লেখ আছে।",
+     "explanation_en": "Used as a drug for rheumatic and urinary conditions.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাইক্লোনাইট (RDX) কীভাবে প্রস্তুত হয়?",
+     "question_en": "Cyclonite (RDX) is prepared by heating hexamine with:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₄NO₃ ও গাঢ় HNO₃",
+       "en": "NH4NO3 and conc. HNO3"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH ও Cl₂",
+       "en": "NaOH and Cl2"
+      },
+      {
+       "id": "c",
+       "bn": "H₂SO₄ ও ইথানল",
+       "en": "H2SO4 and ethanol"
+      },
+      {
+       "id": "d",
+       "bn": "PCl₅",
+       "en": "PCl5"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "(CH₂)₆N₄ + 2NH₄NO₃ + 4HNO₃ → 2 সাইক্লোনাইট + 6H₂O।",
+     "explanation_en": "(CH2)6N4 + 2NH4NO3 + 4HNO3 -> 2 cyclonite + 6H2O.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ঘুমের ওষুধ হিসেবে ইথান্যাল থেকে কী প্রস্তুত করা হয়?",
+     "question_en": "Which sleep-inducing drug is made from ethanal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্যারালডিহাইড",
+       "en": "Paraldehyde"
+      },
+      {
+       "id": "b",
+       "bn": "ডেলরিন",
+       "en": "Delrin"
+      },
+      {
+       "id": "c",
+       "bn": "পার্সপেক্স",
+       "en": "Perspex"
+      },
+      {
+       "id": "d",
+       "bn": "ফরমিকা",
+       "en": "Formica"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথান্যাল ট্রাইমার = প্যারালডিহাইড, নিদ্রাকারক।",
+     "explanation_en": "The ethanal trimer paraldehyde is a hypnotic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরোফর্ম ও DDT প্রস্তুতিতে কোন যৌগ ব্যবহৃত হয়?",
+     "question_en": "Chloroform and DDT are prepared using:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরাল (ট্রাইক্লোরো ইথান্যাল)",
+       "en": "Chloral (trichloroethanal)"
+      },
+      {
+       "id": "b",
+       "bn": "মিথান্যাল",
+       "en": "Methanal"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজোফেনোন",
+       "en": "Benzophenone"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটোফেনোন",
+       "en": "Acetophenone"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে ক্লোরাল বিশুদ্ধ ক্লোরোফর্ম ও DDT প্রস্তুতিতে ব্যবহৃত হয়।",
+     "explanation_en": "Chloral is used for chloroform and DDT.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "সেলুলোজ, পেইন্ট ও বার্নিশের দ্রাবক এবং পার্সপেক্স তৈরিতে কোন যৌগ ব্যবহৃত হয়?",
+     "question_en": "Which compound is a solvent for cellulose, paint, varnish and used for Perspex?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানোন",
+       "en": "Propanone"
+      },
+      {
+       "id": "b",
+       "bn": "মিথান্যাল",
+       "en": "Methanal"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজ্যালডিহাইড",
+       "en": "Benzaldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "ইথান্যাল",
+       "en": "Ethanal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যাসিটোন গুরুত্বপূর্ণ দ্রাবক।",
+     "explanation_en": "Acetone is the key solvent.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "8.18",
+   "title_bn": "অ্যালিফেটিক ও অ্যারোম্যাটিক অ্যালডিহাইডের তুলনা",
+   "title_en": "Comparison of aliphatic and aromatic aldehydes",
+   "notes_bn": "সাদৃশ্য (ইথান্যাল CH₃CHO ও বেনজ্যালডিহাইড C₆H₅CHO): KMnO₄/H₂SO₄ → কার্বক্সিলিক অ্যাসিড (ইথানোয়িক / বেনজোয়িক); LiAlH₄ → অ্যালকোহল (ইথানল / বেনজাইল অ্যালকোহল); PCl₅ → জেম ডাইক্লোরাইড (1,1-ডাইক্লোরো ইথেন / বেনজাল ক্লোরাইড); HCN → সায়ানোহাইড্রিন; NH₂OH → অক্সাইম।\nবৈসাদৃশ্য: NaOH (aq): ইথান্যাল অ্যালডল (3-হাইড্রক্সি বিউটান্যাল), বেনজ্যালডিহাইড ক্যানিজারো; Cl₂: ইথান্যাল → ক্লোরাল (Cl₃C–CHO), বেনজ্যালডিহাইড → বেনজোয়িল ক্লোরাইড।\nফেলিং দ্রবণ: ইথান্যাল লালচে Cu₂O দেয়, বেনজ্যালডিহাইড দেয় না (বইয়ের সারণি অনুযায়ী)।\nআয়োডোফর্ম (I₂ + NaOH): ইথান্যাল CHI₃ দেয়, বেনজ্যালডিহাইড দেয় না।",
+   "notes_en": "Similarities (ethanal and benzaldehyde): KMnO4/H2SO4 -> carboxylic acid (ethanoic / benzoic); LiAlH4 -> alcohol (ethanol / benzyl alcohol); PCl5 -> gem-dichloride (1,1-dichloroethane / benzal chloride); HCN -> cyanohydrin; NH2OH -> oxime.\nDifferences: aq. NaOH: ethanal gives aldol (3-hydroxybutanal), benzaldehyde gives Cannizzaro; Cl2: ethanal -> chloral (Cl3C-CHO), benzaldehyde -> benzoyl chloride.\nFehling's solution: ethanal gives red Cu2O, benzaldehyde does not (per the book's table).\nIodoform (I2 + NaOH): ethanal gives CHI3, benzaldehyde does not.",
+   "mcqs": [
+    {
+     "question_bn": "ইথান্যাল ও বেনজ্যালডিহাইড উভয়ই অম্লীয় KMnO₄ দ্বারা জারিত হয়ে কী উৎপন্ন করে?",
+     "question_en": "Both ethanal and benzaldehyde, on oxidation with acidic KMnO4, give:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকোহল",
+       "en": "Alcohol"
+      },
+      {
+       "id": "b",
+       "bn": "কার্বক্সিলিক অ্যাসিড",
+       "en": "Carboxylic acid"
+      },
+      {
+       "id": "c",
+       "bn": "কিটোন",
+       "en": "Ketone"
+      },
+      {
+       "id": "d",
+       "bn": "ইথার",
+       "en": "Ether"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "যথাক্রমে ইথানোয়িক ও বেনজোয়িক অ্যাসিড।",
+     "explanation_en": "Ethanoic and benzoic acids respectively.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজ্যালডিহাইডকে LiAlH₄ দ্বারা বিজারিত করলে কী পাওয়া যায়?",
+     "question_en": "LiAlH4 reduction of benzaldehyde gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজাইল অ্যালকোহল",
+       "en": "Benzyl alcohol"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজোয়িক অ্যাসিড",
+       "en": "Benzoic acid"
+      },
+      {
+       "id": "d",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C₆H₅CHO → C₆H₅CH₂OH।",
+     "explanation_en": "C6H5CHO -> C6H5CH2OH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NaOH (জলীয়) এর সঙ্গে ইথান্যাল ও বেনজ্যালডিহাইডের আচরণ কী?",
+     "question_en": "With aqueous NaOH, ethanal and benzaldehyde respectively undergo:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্যানিজারো; অ্যালডল",
+       "en": "Cannizzaro; aldol"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালডল; ক্যানিজারো",
+       "en": "Aldol; Cannizzaro"
+      },
+      {
+       "id": "c",
+       "bn": "দুটিই অ্যালডল",
+       "en": "Both aldol"
+      },
+      {
+       "id": "d",
+       "bn": "দুটিই ক্যানিজারো",
+       "en": "Both Cannizzaro"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথান্যালে α-H আছে (অ্যালডল), বেনজ্যালডিহাইডে নেই (ক্যানিজারো)।",
+     "explanation_en": "Ethanal has alpha-H (aldol); benzaldehyde has none (Cannizzaro).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "PCl₅ এর সঙ্গে বেনজ্যালডিহাইডের বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "Benzaldehyde with PCl5 gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজোয়িল ক্লোরাইড",
+       "en": "Benzoyl chloride"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজাল ক্লোরাইড (C₆H₅CHCl₂)",
+       "en": "Benzal chloride (C6H5CHCl2)"
+      },
+      {
+       "id": "c",
+       "bn": "ক্লোরোবেনজিন",
+       "en": "Chlorobenzene"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজাইল ক্লোরাইড",
+       "en": "Benzyl chloride"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "O পরমাণু দুটি Cl দ্বারা প্রতিস্থাপিত হয়।",
+     "explanation_en": "The oxygen is replaced by two Cl atoms.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Cl₂ এর সঙ্গে ইথান্যালের বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "Ethanal with Cl2 gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1,1-ডাইক্লোরো ইথেন",
+       "en": "1,1-Dichloroethane"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরাল (Cl₃C–CHO)",
+       "en": "Chloral (Cl3C-CHO)"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজোয়িল ক্লোরাইড",
+       "en": "Benzoyl chloride"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল ক্লোরাইড",
+       "en": "Ethyl chloride"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "α-হাইড্রোজেন প্রতিস্থাপিত হয়ে ট্রাইক্লোরো ইথান্যাল (ক্লোরাল)।",
+     "explanation_en": "Alpha hydrogens are replaced to give chloral.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি ফেলিং দ্রবণের সঙ্গে লালচে অধঃক্ষেপ দেয় (বইয়ের তুলনা অনুসারে)?",
+     "question_en": "Which gives a red ppt with Fehling's solution (per the book's comparison)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজ্যালডিহাইড",
+       "en": "Benzaldehyde"
+      },
+      {
+       "id": "b",
+       "bn": "ইথান্যাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজোফেনোন",
+       "en": "Benzophenone"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজোয়িক অ্যাসিড",
+       "en": "Benzoic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথান্যাল Cu₂O অধঃক্ষেপ দেয়।",
+     "explanation_en": "Ethanal gives Cu2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আয়োডোফর্ম পরীক্ষায় (I₂ + NaOH) কোনটি হলুদ অধঃক্ষেপ দেয়?",
+     "question_en": "Which gives yellow CHI3 with I2 + NaOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজ্যালডিহাইড",
+       "en": "Benzaldehyde"
+      },
+      {
+       "id": "b",
+       "bn": "ইথান্যাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজোয়িক অ্যাসিড",
+       "en": "Benzoic acid"
+      },
+      {
+       "id": "d",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথান্যালে CH₃–CO– গ্রুপ আছে।",
+     "explanation_en": "Ethanal has the CH3-CO- unit.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথান্যাল ও বেনজ্যালডিহাইডের মধ্যে একটি সাদৃশ্য কোনটি?",
+     "question_en": "Which reaction is common to ethanal and benzaldehyde?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আয়োডোফর্ম গঠন",
+       "en": "Iodoform formation"
+      },
+      {
+       "id": "b",
+       "bn": "HCN এর সঙ্গে সায়ানোহাইড্রিন গঠন",
+       "en": "Cyanohydrin formation with HCN"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালডল ঘনীভবন",
+       "en": "Aldol condensation"
+      },
+      {
+       "id": "d",
+       "bn": "ক্যানিজারো বিক্রিয়া",
+       "en": "Cannizzaro reaction"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উভয়ই নিউক্লিওফিলিক যুত দিয়ে সায়ানোহাইড্রিন গঠন করে।",
+     "explanation_en": "Both form cyanohydrins by nucleophilic addition.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হাইড্রক্সিল অ্যামিন (NH₂OH) এর সঙ্গে বেনজ্যালডিহাইডের উৎপাদ কোনটি?",
+     "question_en": "Benzaldehyde with NH2OH gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₆H₅CH=NOH",
+       "en": "C6H5CH=NOH"
+      },
+      {
+       "id": "b",
+       "bn": "C₆H₅CH₂OH",
+       "en": "C6H5CH2OH"
+      },
+      {
+       "id": "c",
+       "bn": "C₆H₅COONa",
+       "en": "C6H5COONa"
+      },
+      {
+       "id": "d",
+       "bn": "C₆H₅CHCl₂",
+       "en": "C6H5CHCl2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বেনজ্যালডক্সাইম গঠিত হয়।",
+     "explanation_en": "Benzaldoxime forms.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "8.15",
+   "stimulus_bn": "একটি পরীক্ষাগারে A ও B নামের দুটি লেবেলবিহীন বোতলে যথাক্রমে ইথান্যাল ও প্রোপানোন আছে। শিক্ষার্থী প্রতিটি থেকে নমুনা নিয়ে (i) 2,4-DNP, (ii) টলেন বিকারক ও (iii) I₂ + NaOH দিয়ে পরীক্ষা করল। আরেকটি পরীক্ষায় সে ইথান্যালে লঘু NaOH যোগ করল।",
+   "stimulus_en": "Two unlabelled bottles A and B contain ethanal and propanone. A student tests samples with (i) 2,4-DNP, (ii) Tollens' reagent and (iii) I2 + NaOH. In another test she adds dilute NaOH to ethanal.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "টলেন বিকারকে উপস্থিত জটিল আয়নটির সংকেত লেখো।",
+     "question_en": "Write the formula of the complex ion in Tollens' reagent.",
+     "model_answer_bn": "[Ag(NH₃)₂]⁺",
+     "model_answer_en": "[Ag(NH3)2]+"
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "2,4-DNP পরীক্ষায় উভয় বোতলে কী পর্যবেক্ষণ করা যাবে এবং কেন?",
+     "question_en": "What is observed with 2,4-DNP in both bottles, and why?",
+     "model_answer_bn": "উভয়ে হলুদ-কমলা অধঃক্ষেপ পড়বে, কারণ উভয়ই >C=O মূলকযুক্ত এবং 2,4-ডাইনাইট্রো ফিনাইল হাইড্রাজোন গঠন করে।",
+     "model_answer_en": "Both give a yellow-orange precipitate because both contain >C=O and form 2,4-dinitrophenylhydrazone."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "টলেন ও ফেলিং পরীক্ষা ব্যবহার করে কীভাবে A ও B শনাক্ত করবে? ইথান্যালের ক্ষেত্রে সমীকরণ লেখো।",
+     "question_en": "How will you identify A and B using Tollens' and Fehling's tests? Give the equation for ethanal.",
+     "model_answer_bn": "টলেন পরীক্ষায় সিলভার দর্পণ ও ফেলিং পরীক্ষায় লালচে Cu₂O পেলে সেটি ইথান্যাল; প্রোপানোন কোনোটি দেয় না। CH₃CHO + 2[Ag(NH₃)₂]OH → CH₃COONH₄ + 2Ag + 3NH₃ + H₂O।",
+     "model_answer_en": "The one giving silver mirror and red Cu2O is ethanal; propanone gives neither. CH3CHO + 2[Ag(NH3)2]OH -> CH3COONH4 + 2Ag + 3NH3 + H2O."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ইথান্যালে লঘু NaOH যোগ করলে যে বিক্রিয়া ঘটে তার তিনটি ধাপসহ কার্যপদ্ধতি ব্যাখ্যা করো এবং বেনজ্যালডিহাইড একই বিক্রিয়া কেন দেয় না যুক্তিসহ লেখো।",
+     "question_en": "Explain the three-step mechanism of the reaction of ethanal with dilute NaOH, and justify why benzaldehyde does not undergo the same reaction.",
+     "model_answer_bn": "ধাপ ১: OH⁻ α-হাইড্রোজেন সরিয়ে কার্বানায়ন (:CH₂–CHO) গঠন করে। ধাপ ২: কার্বানায়ন দ্বিতীয় ইথান্যালের কার্বনাইল কার্বনকে আক্রমণ করে C–C বন্ধন গঠন করে। ধাপ ৩: উৎপন্ন অ্যালকক্সাইড জল থেকে H⁺ নিয়ে অ্যালডল (3-হাইড্রক্সি বিউটান্যাল) দেয়। বেনজ্যালডিহাইডে α-হাইড্রোজেন নেই, তাই কার্বানায়ন গঠিত হয় না; বরং গাঢ় ক্ষারে ক্যানিজারো বিক্রিয়া ঘটে।",
+     "model_answer_en": "Step 1: OH- removes an alpha-H giving carbanion :CH2-CHO. Step 2: the carbanion attacks the carbonyl carbon of a second ethanal forming a C-C bond. Step 3: the alkoxide takes H+ from water giving aldol (3-hydroxybutanal). Benzaldehyde has no alpha-hydrogen so no carbanion forms; it undergoes Cannizzaro with conc. alkali instead."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages pdf 460-486 read (sections 8.13 tail through chapter summary and exercise start); pdf 487-498 are exercise/question-bank pages and were skipped. Book table for 8.18 states benzaldehyde gives no Tollens' change, which conflicts with p.455 text; no MCQ asked on that. All pages readable."
+}

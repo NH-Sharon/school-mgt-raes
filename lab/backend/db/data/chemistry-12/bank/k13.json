@@ -1,0 +1,377 @@
+{
+ "chapter_no": 4,
+ "topics": [
+  {
+   "section_no": "4.27",
+   "title_bn": "রেসিমিক মিশ্রণ",
+   "title_en": "Racemic mixture",
+   "notes_bn": "d ও l এনানসিওমার সমান পরিমাণে মিশলে রেসিমিক মিশ্রণ (dl বা ±) হয়।\nএরা সমান কিন্তু বিপরীত দিকে সমতল গোলীয় আলো ঘোরায়, ফলে পরস্পরকে বিনষ্ট করে; মিশ্রণ আলোক নিষ্ক্রিয়।\nএ প্রক্রিয়াকে রেসিমিকরণ বলে; মিশ্রণকে রেসেমেট বলা হয়।\nd-ল্যাকটিক এসিড [α]=+2.24°, l-ল্যাকটিক এসিড −2.24° (25°C); dl-ল্যাকটিক এসিড নিষ্ক্রিয়।\nপরীক্ষাগারে dl এসিড সংশ্লেষণে পাওয়া যায়; d মাংসপেশীতে, l টক দইয়ে।\nউপাদান d ও l সমাণু পৃথক করা সম্ভব।",
+   "notes_en": "Equal amounts of d and l enantiomers form a racemic (dl or ±) mixture.\nThey rotate polarized light equally in opposite directions, so they cancel; the mixture is optically inactive.\nThe process is racemization; the products are racemates.\nd-lactic acid [α]=+2.24°, l-lactic acid −2.24° (25°C); dl-lactic acid is inactive.\nLab synthesis gives dl acid; d from muscle, l from sour curd.\nThe d and l components can be separated.",
+   "mcqs": [
+    {
+     "question_bn": "রেসিমিক মিশ্রণ কী দিয়ে গঠিত?",
+     "question_en": "A racemic mixture consists of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "d ও l এনানসিওমারের সমমোলার মিশ্রণ",
+       "en": "Equimolar mixture of d and l enantiomers"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু d-এনানসিওমার",
+       "en": "Only the d-enantiomer"
+      },
+      {
+       "id": "c",
+       "bn": "দুটি ভিন্ন ডায়াস্টেরিওমার",
+       "en": "Two different diastereomers"
+      },
+      {
+       "id": "d",
+       "bn": "দুটি গঠনগত সমাণু",
+       "en": "Two structural isomers"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "d ও l সমাণুর সমান পরিমাণ মিশ্রণই রেসিমিক মিশ্রণ।",
+     "explanation_en": "Equal amounts of d and l isomers make a racemic mixture.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রেসিমিক মিশ্রণের অপর নাম কোনটি?",
+     "question_en": "Another name for a racemic mixture is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "d-মিশ্রণ",
+       "en": "d mixture"
+      },
+      {
+       "id": "b",
+       "bn": "l-মিশ্রণ",
+       "en": "l mixture"
+      },
+      {
+       "id": "c",
+       "bn": "dl বা (±) মিশ্রণ",
+       "en": "dl or (±) mixture"
+      },
+      {
+       "id": "d",
+       "bn": "মেসো যৌগ",
+       "en": "meso compound"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "রেসিমিক মিশ্রণকে dl বা (±) মিশ্রণ বলা হয়।",
+     "explanation_en": "It is called the dl or (±) mixture.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রেসিমিক মিশ্রণ আলোক নিষ্ক্রিয় হয় কেন?",
+     "question_en": "Why is a racemic mixture optically inactive?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এতে কার্বন অপ্রতিসম নয়",
+       "en": "It has no asymmetric carbon"
+      },
+      {
+       "id": "b",
+       "bn": "d ও l সমাণু সমান মাত্রায় বিপরীত দিকে ঘূর্ণন ঘটিয়ে পরস্পরকে বিনষ্ট করে",
+       "en": "d and l isomers rotate light equally in opposite directions and cancel"
+      },
+      {
+       "id": "c",
+       "bn": "এটি আলো শোষণ করে নেয়",
+       "en": "It absorbs the light"
+      },
+      {
+       "id": "d",
+       "bn": "এতে শুধু d সমাণু থাকে",
+       "en": "It contains only d isomer"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "একটির ডানাবর্ত ঘূর্ণন অপরটির বামাবর্ত ঘূর্ণনকে বিনষ্ট করে।",
+     "explanation_en": "Rotation by one is cancelled by equal opposite rotation of the other.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রেসিমিকরণ কাকে বলে?",
+     "question_en": "What is racemization?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রেসিমিক মিশ্রণ তৈরির প্রক্রিয়া",
+       "en": "The process of forming a racemic mixture"
+      },
+      {
+       "id": "b",
+       "bn": "আলোক সক্রিয়তা বৃদ্ধি",
+       "en": "Increase of optical activity"
+      },
+      {
+       "id": "c",
+       "bn": "মিশ্রণ থেকে d সমাণু পৃথকীকরণ",
+       "en": "Separation of the d isomer from the mixture"
+      },
+      {
+       "id": "d",
+       "bn": "দুটি মূলকের স্থানান্তর",
+       "en": "Shift of two groups"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রেসিমিক মিশ্রণ তৈরির প্রক্রিয়াকে রেসিমিকরণ বলে।",
+     "explanation_en": "Formation of a racemic mixture is called racemization.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "25°C-এ d-ল্যাকটিক এসিডের আপেক্ষিক আবর্তন কত?",
+     "question_en": "What is the specific rotation of d-lactic acid at 25°C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−2.24°",
+       "en": "−2.24°"
+      },
+      {
+       "id": "b",
+       "bn": "+2.24°",
+       "en": "+2.24°"
+      },
+      {
+       "id": "c",
+       "bn": "0°",
+       "en": "0°"
+      },
+      {
+       "id": "d",
+       "bn": "+4.48°",
+       "en": "+4.48°"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে d-ল্যাকটিক এসিডের [α] = +2.24°।",
+     "explanation_en": "The book gives [α] = +2.24° for d-lactic acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "25°C-এ dl-ল্যাকটিক এসিডের আপেক্ষিক আবর্তন কত?",
+     "question_en": "What is the specific rotation of dl-lactic acid at 25°C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+2.24°",
+       "en": "+2.24°"
+      },
+      {
+       "id": "b",
+       "bn": "−2.24°",
+       "en": "−2.24°"
+      },
+      {
+       "id": "c",
+       "bn": "0°",
+       "en": "0°"
+      },
+      {
+       "id": "d",
+       "bn": "+4.48°",
+       "en": "+4.48°"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "(+2.24) + (−2.24) = 0; তাই এটি আলোক নিষ্ক্রিয়।",
+     "explanation_en": "(+2.24)+(−2.24)=0, so it is optically inactive.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রেসিমিক মিশ্রণের উপাদান সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which is correct about the components of a racemic mixture?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এগুলো আলাদা করা অসম্ভব",
+       "en": "They cannot be separated"
+      },
+      {
+       "id": "b",
+       "bn": "এগুলো পৃথকীকরণ সম্ভব",
+       "en": "They can be separated"
+      },
+      {
+       "id": "c",
+       "bn": "এগুলো একই সমাণু",
+       "en": "They are the same isomer"
+      },
+      {
+       "id": "d",
+       "bn": "এগুলোর ভৌত ধর্ম ভিন্ন",
+       "en": "They differ in physical properties"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী d ও l সমাণু পৃথক করা সম্ভব; এজন্য কয়েকটি পদ্ধতি আছে।",
+     "explanation_en": "The book says d and l components can be separated by several methods.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগ দুটি এনানসিওমারের রেসিমিক মিশ্রণ হলে নিচের কোন তথ্যটি সঠিক?",
+     "question_en": "For a racemic lactic acid sample made of 0.5 mol d and 0.5 mol l, observed rotation is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+1.12°",
+       "en": "+1.12°"
+      },
+      {
+       "id": "b",
+       "bn": "−1.12°",
+       "en": "−1.12°"
+      },
+      {
+       "id": "c",
+       "bn": "শূন্য",
+       "en": "Zero"
+      },
+      {
+       "id": "d",
+       "bn": "+2.24°",
+       "en": "+2.24°"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সমমোলার d ও l এর ঘূর্ণন সমান ও বিপরীত হওয়ায় মোট ঘূর্ণন শূন্য।",
+     "explanation_en": "Equal and opposite rotations from equimolar d and l give zero net rotation.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনটি রেসিমিক মিশ্রণ সম্পর্কে ভুল?",
+     "question_en": "Which statement about racemic mixtures is incorrect?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এটি আলোক নিষ্ক্রিয়",
+       "en": "It is optically inactive"
+      },
+      {
+       "id": "b",
+       "bn": "এতে d ও l সমান পরিমাণে থাকে",
+       "en": "d and l are present in equal amounts"
+      },
+      {
+       "id": "c",
+       "bn": "এটি সমতল গোলীয় আলোকে ঘোরায়",
+       "en": "It rotates plane-polarized light"
+      },
+      {
+       "id": "d",
+       "bn": "পরীক্ষাগারে dl ল্যাকটিক এসিড সংশ্লেষণে তৈরি হয়",
+       "en": "dl-lactic acid forms in laboratory synthesis"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "রেসিমিক মিশ্রণ আলোক নিষ্ক্রিয়, তাই এটি আলো ঘোরায় না।",
+     "explanation_en": "It is optically inactive, so it does not rotate polarized light.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন উৎস থেকে d-ল্যাকটিক এসিড পাওয়া যায় বলে বইয়ে বলা হয়েছে?",
+     "question_en": "According to the book, d-lactic acid is obtained from:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টক দই",
+       "en": "Sour curd"
+      },
+      {
+       "id": "b",
+       "bn": "মাংসপেশী",
+       "en": "Muscle"
+      },
+      {
+       "id": "c",
+       "bn": "পরীক্ষাগার সংশ্লেষণ",
+       "en": "Laboratory synthesis"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "d-ল্যাকটিক এসিড মাংসপেশী থেকে ও l-ল্যাকটিক এসিড টক দই থেকে পাওয়া যায়।",
+     "explanation_en": "d-lactic acid comes from muscle, l-lactic acid from sour curd.",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "4.27",
+   "stimulus_bn": "একটি পরীক্ষাগারে ল্যাকটিক এসিডের নমুনা A (শুধু d), নমুনা B (শুধু l) এবং নমুনা C (A ও B সমান মোল মিশ্রিত) নেওয়া হলো। 25°C-এ আলোক ঘূর্ণন মাপা হলো।",
+   "stimulus_en": "A lab has lactic acid sample A (only d), B (only l) and C (equimolar mix of A and B). Optical rotation is measured at 25°C.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "রেসিমিক মিশ্রণ কী?",
+     "question_en": "What is a racemic mixture?",
+     "model_answer_bn": "d ও l এনানসিওমারের সমান পরিমাণ মিশ্রণ।",
+     "model_answer_en": "An equal mixture of d and l enantiomers."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "নমুনা C আলোক নিষ্ক্রিয় কেন?",
+     "question_en": "Why is sample C optically inactive?",
+     "model_answer_bn": "d ও l সমান মাত্রায় বিপরীত দিকে আলো ঘোরায়, ফলে ঘূর্ণন পরস্পরকে বিনষ্ট করে।",
+     "model_answer_en": "d and l rotate light equally in opposite directions, cancelling each other."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "A ও B-এর আপেক্ষিক আবর্তন কত? C-এর মান নির্ণয় কর।",
+     "question_en": "Give the specific rotations of A and B, and find that of C.",
+     "model_answer_bn": "A: +2.24°, B: −2.24°; C: (+2.24)+(−2.24)=0।",
+     "model_answer_en": "A: +2.24°, B: −2.24°; C: (+2.24)+(−2.24)=0."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "নমুনা C থেকে A ও B কীভাবে পাওয়া সম্ভব এবং এর তাৎপর্য কী?",
+     "question_en": "Can A and B be obtained from C, and what is the significance?",
+     "model_answer_bn": "রেসিমিক মিশ্রণের d ও l উপাদান পৃথক করা সম্ভব। পৃথকীকরণের পর প্রতিটি আবার আলোক সক্রিয় হয়, ফলে মিশ্রণ নিষ্ক্রিয় হলেও উপাদানগুলো সক্রিয়।",
+     "model_answer_en": "The d and l components of a racemic mixture can be separated; each is then optically active again, so inactivity of the mixture is due to cancellation, not inactive components."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 251-268: only 4.25/4.26 context (p.236-237) and 4.27 content used; remaining pages are chapter summary and exercises, skipped. Section 4.27 has thin content so 10 MCQs drawn from available facts; some may overlap."
+}

@@ -1,0 +1,1440 @@
+{
+ "chapter_no": 7,
+ "topics": [
+  {
+   "section_no": "7.27",
+   "title_bn": "ইথারের শ্রেণীবিভাগ",
+   "title_en": "Classification of ethers",
+   "notes_bn": "ইথার: দুটি অ্যালকাইল/অ্যারাইল মূলক অক্সিজেন পরমাণুর সঙ্গে যুক্ত; কার্যকরী মূলক -C-O-C-। পানি (H-O-H), অ্যালকোহল (R-O-H), ইথার (R-O-R)।\nদুই অণু অ্যালকোহল থেকে এক অণু পানি অপসারণে ইথার উৎপন্ন হয়।\nপ্রধান ভাগ: অ্যালিফেটিক ও অ্যারোমেটিক ইথার; অ্যালিফেটিক আবার মুক্ত শিকল ও চাক্রিক।\nসরল ইথার: দুই অ্যালকাইল মূলক এক (CH3-O-CH3, C2H5-O-C2H5)।\nমিশ্র ইথার: দুই মূলক ভিন্ন (CH3-O-C2H5, CH3-O-C3H7)।\nচাক্রিক ইথার: ইথিলিন অক্সাইড (ইপোক্সি যৌগ)। অ্যারোমেটিক: অ্যানিসল (C6H5-O-CH3), ডাইফিনাইল ইথার (C6H5-O-C6H5)।",
+   "notes_en": "Ether: two alkyl/aryl groups bonded to one oxygen; functional group -C-O-C-. Water H-O-H, alcohol R-O-H, ether R-O-R.\nLosing one water from two alcohol molecules gives an ether.\nMain classes: aliphatic and aromatic; aliphatic splits into open-chain and cyclic.\nSimple ether: both groups same (CH3-O-CH3, C2H5-O-C2H5). Mixed ether: groups differ (CH3-O-C2H5).\nCyclic: ethylene oxide (epoxy compound). Aromatic: anisole C6H5-O-CH3, diphenyl ether.",
+   "mcqs": [
+    {
+     "question_bn": "CH3-O-C2H5 কোন ধরনের ইথার?",
+     "question_en": "What type of ether is CH3-O-C2H5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সরল ইথার",
+       "en": "Simple ether"
+      },
+      {
+       "id": "b",
+       "bn": "মিশ্র ইথার",
+       "en": "Mixed ether"
+      },
+      {
+       "id": "c",
+       "bn": "চাক্রিক ইথার",
+       "en": "Cyclic ether"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যারোমেটিক সরল ইথার",
+       "en": "Aromatic simple ether"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুটি অ্যালকাইল মূলক ভিন্ন (মিথাইল ও ইথাইল), তাই মিশ্র ইথার।",
+     "explanation_en": "The two alkyl groups differ (methyl and ethyl), so it is a mixed ether.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথারের কার্যকরী মূলক কোনটি?",
+     "question_en": "Which is the functional group of ethers?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "-OH",
+       "en": "-OH"
+      },
+      {
+       "id": "b",
+       "bn": "-C-O-C-",
+       "en": "-C-O-C-"
+      },
+      {
+       "id": "c",
+       "bn": "-CHO",
+       "en": "-CHO"
+      },
+      {
+       "id": "d",
+       "bn": "-COOH",
+       "en": "-COOH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথারের কার্যকরী মূলক -C-O-C-।",
+     "explanation_en": "The ether functional group is -C-O-C-.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি অ্যারোমেটিক ইথার?",
+     "question_en": "Which is an aromatic ether?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিলিন অক্সাইড",
+       "en": "Ethylene oxide"
+      },
+      {
+       "id": "b",
+       "bn": "ডাইইথাইল ইথার",
+       "en": "Diethyl ether"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিসল",
+       "en": "Anisole"
+      },
+      {
+       "id": "d",
+       "bn": "মিথাইল প্রোপাইল ইথার",
+       "en": "Methyl propyl ether"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অ্যানিসল (C6H5-O-CH3)-এ বেনজিন বলয় যুক্ত, তাই অ্যারোমেটিক ইথার।",
+     "explanation_en": "Anisole (C6H5-O-CH3) carries a benzene ring, so it is aromatic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোন জোড়ার উভয়টিই সরল ইথার?",
+     "question_en": "In which pair are both ethers simple ethers?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3-O-CH3 ও C2H5-O-C2H5",
+       "en": "CH3-O-CH3 and C2H5-O-C2H5"
+      },
+      {
+       "id": "b",
+       "bn": "CH3-O-CH3 ও CH3-O-C2H5",
+       "en": "CH3-O-CH3 and CH3-O-C2H5"
+      },
+      {
+       "id": "c",
+       "bn": "C2H5-O-C2H5 ও CH3-O-C3H7",
+       "en": "C2H5-O-C2H5 and CH3-O-C3H7"
+      },
+      {
+       "id": "d",
+       "bn": "CH3-O-C2H5 ও CH3-O-C3H7",
+       "en": "CH3-O-C2H5 and CH3-O-C3H7"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সরল ইথারে দুই পাশের মূলক একই; প্রথম জোড়ায় দুটিই সেরূপ।",
+     "explanation_en": "A simple ether has identical groups; both in the first pair qualify.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দুই অণু ইথানল থেকে এক অণু পানি অপসারিত হলে কোন যৌগ উৎপন্ন হয় এবং তার শ্রেণী কী?",
+     "question_en": "Removing one water from two ethanol molecules gives which compound, and of what class?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডাইইথাইল ইথার - সরল ইথার",
+       "en": "Diethyl ether - simple ether"
+      },
+      {
+       "id": "b",
+       "bn": "ইথাইল মিথাইল ইথার - মিশ্র ইথার",
+       "en": "Ethyl methyl ether - mixed ether"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিলিন - অ্যালকিন",
+       "en": "Ethylene - alkene"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিলিন অক্সাইড - চাক্রিক ইথার",
+       "en": "Ethylene oxide - cyclic ether"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2C2H5OH থেকে H2O বাদ গেলে C2H5-O-C2H5 হয়, দুই মূলক একই, তাই সরল।",
+     "explanation_en": "Loss of H2O from 2 C2H5OH gives C2H5-O-C2H5, with identical groups, so simple.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.28",
+   "title_bn": "ইথারের নামকরণ",
+   "title_en": "Nomenclature of ethers",
+   "notes_bn": "সাধারণ/ট্রিভিয়াল: দুই অ্যালকাইল মূলকের নাম বর্ণানুক্রমে লিখে শেষে 'ইথার'। সরল ইথারে 'ডাই' উপসর্গ।\nCH3-O-CH3 = ডাইমিথাইল ইথার; C2H5-O-C2H5 = ডাইইথাইল ইথার; CH3-O-C2H5 = ইথাইল মিথাইল ইথার; CH3-O-C3H7 = মিথাইল প্রোপাইল ইথার।\nজেনেভা/IUPAC: ইথারকে অ্যালকক্সি-অ্যালকেন ধরা হয়; ছোট মূলক + অক্সিজেন = অ্যালকক্সি মূলক, বড় মূলক মূল অ্যালকেন।\nCH3-O-CH3 = মিথোক্সি মিথেন; CH3-O-C2H5 = মিথোক্সি ইথেন; C2H5-O-C2H5 = ইথোক্সি ইথেন; CH3-O-C3H7 = মিথোক্সি প্রোপেন।",
+   "notes_en": "Common system: name the two alkyl groups alphabetically then 'ether'; simple ethers take 'di'.\nCH3-O-CH3 dimethyl ether; C2H5-O-C2H5 diethyl ether; CH3-O-C2H5 ethyl methyl ether; CH3-O-C3H7 methyl propyl ether.\nGeneva/IUPAC: ether = alkoxyalkane; the smaller group with O is the alkoxy substituent on the larger alkane.\nCH3-O-CH3 methoxymethane; CH3-O-C2H5 methoxyethane; C2H5-O-C2H5 ethoxyethane; CH3-O-C3H7 methoxypropane.",
+   "mcqs": [
+    {
+     "question_bn": "C2H5-O-C2H5-এর জেনেভা (IUPAC) নাম কী?",
+     "question_en": "What is the Geneva (IUPAC) name of C2H5-O-C2H5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথোক্সি ইথেন",
+       "en": "Methoxyethane"
+      },
+      {
+       "id": "b",
+       "bn": "ইথোক্সি ইথেন",
+       "en": "Ethoxyethane"
+      },
+      {
+       "id": "c",
+       "bn": "মিথোক্সি মিথেন",
+       "en": "Methoxymethane"
+      },
+      {
+       "id": "d",
+       "bn": "ইথোক্সি প্রোপেন",
+       "en": "Ethoxypropane"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুই পাশে ইথাইল; ইথোক্সি মূলক + ইথেন = ইথোক্সি ইথেন।",
+     "explanation_en": "Ethyl on both sides: ethoxy group on ethane gives ethoxyethane.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH3-O-CH3-এর ট্রিভিয়াল নাম কোনটি?",
+     "question_en": "What is the trivial name of CH3-O-CH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডাইমিথাইল ইথার",
+       "en": "Dimethyl ether"
+      },
+      {
+       "id": "b",
+       "bn": "মিথাইল ইথাইল ইথার",
+       "en": "Methyl ethyl ether"
+      },
+      {
+       "id": "c",
+       "bn": "মিথোক্সি ইথেন",
+       "en": "Methoxyethane"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল ইথার",
+       "en": "Ethyl ether"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একই মিথাইল মূলক দুটি, তাই 'ডাই' উপসর্গসহ ডাইমিথাইল ইথার।",
+     "explanation_en": "Two identical methyl groups: dimethyl ether.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH3-O-C3H7-এর জেনেভা নাম কী?",
+     "question_en": "What is the Geneva name of CH3-O-C3H7?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথোক্সি প্রোপেন",
+       "en": "Ethoxypropane"
+      },
+      {
+       "id": "b",
+       "bn": "মিথোক্সি ইথেন",
+       "en": "Methoxyethane"
+      },
+      {
+       "id": "c",
+       "bn": "মিথোক্সি প্রোপেন",
+       "en": "Methoxypropane"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপক্সি মিথেন",
+       "en": "Propoxymethane"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ছোট মূলক CH3 → মিথোক্সি; বড় মূলক C3H7 → প্রোপেন।",
+     "explanation_en": "Smaller CH3 becomes methoxy; the larger C3H7 is the parent propane.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথাইল মিথাইল ইথার নামে মূলক দুটি কোন ক্রমে লেখা হয়েছে এবং কেন?",
+     "question_en": "Why are the groups ordered 'ethyl methyl' in ethyl methyl ether?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বর্ণানুক্রমে (E আগে M)",
+       "en": "Alphabetical order (E before M)"
+      },
+      {
+       "id": "b",
+       "bn": "আকার অনুযায়ী বড় আগে",
+       "en": "Larger first by size"
+      },
+      {
+       "id": "c",
+       "bn": "ছোট আগে",
+       "en": "Smaller first"
+      },
+      {
+       "id": "d",
+       "bn": "যেকোনো ক্রমে",
+       "en": "Any order"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ট্রিভিয়াল পদ্ধতিতে মূলকের নাম ইংরেজি বর্ণমালার ক্রমে লেখা হয়।",
+     "explanation_en": "In the common system group names follow English alphabetical order.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "3-মিথাইল-2-মিথোক্সি বিউটেনের কাঠামোয় মূল শিকল ও প্রতিস্থাপক কী?",
+     "question_en": "In 2-methoxy-3-methylbutane, what are the parent chain and the alkoxy group?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপেন; বিউটক্সি",
+       "en": "Propane; butoxy"
+      },
+      {
+       "id": "b",
+       "bn": "বিউটেন; মিথোক্সি",
+       "en": "Butane; methoxy"
+      },
+      {
+       "id": "c",
+       "bn": "পেন্টেন; ইথোক্সি",
+       "en": "Pentane; ethoxy"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটেন; ইথোক্সি",
+       "en": "Butane; ethoxy"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অক্সিজেনের সঙ্গে ছোট মূলক CH3 (মিথোক্সি) এবং বড় চার-কার্বন শিকল (বিউটেন) মূল।",
+     "explanation_en": "The small CH3 on O is the methoxy group, and the larger four-carbon chain is butane.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.29",
+   "title_bn": "ইথারের সমাণুতা",
+   "title_en": "Isomerism of ethers",
+   "notes_bn": "দুই ধরনের সমাণুতা: কার্যকরী মূলক সমাণুতা ও মেটামারিজম।\nকার্যকরী মূলক সমাণুতা: একই আণবিক সংকেতে অ্যালকোহল ও ইথার; যেমন C2H6O = CH3-O-CH3 (ডাইমিথাইল ইথার) ও C2H5OH (ইথানল)। মূলক -C-O-C- বনাম -OH।\nমেটামারিজম: সরল ইথার ও মিশ্র ইথারের সমাণুতা, বা একই কার্যকরী মূলকের দুপাশের অ্যালকাইল ভিন্ন হওয়া।\nC4H10O-এর তিনটি ইথার সমাণু: ডাইইথাইল ইথার (CH3CH2-O-CH2CH3), মিথাইল n-প্রোপাইল ইথার, মিথাইল iso-প্রোপাইল ইথার।",
+   "notes_en": "Two kinds: functional-group isomerism and metamerism.\nFunctional isomerism: alcohol and ether of the same formula, e.g. C2H6O = CH3-O-CH3 and C2H5OH (-C-O-C- vs -OH).\nMetamerism: isomerism between simple and mixed ethers (different alkyl groups on either side of O).\nC4H10O has three ether isomers: diethyl ether, methyl n-propyl ether, methyl isopropyl ether.",
+   "mcqs": [
+    {
+     "question_bn": "ডাইমিথাইল ইথারের কার্যকরী মূলক সমাণু কোনটি?",
+     "question_en": "Which is the functional isomer of dimethyl ether?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "b",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিলিন",
+       "en": "Ethylene"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপানল",
+       "en": "Propanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুটিরই আণবিক সংকেত C2H6O, কিন্তু একটিতে -OH, অন্যটিতে -C-O-C-।",
+     "explanation_en": "Both are C2H6O, one with -OH and the other with -C-O-C-.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "C4H10O আণবিক সংকেতের ইথার সমাণু কয়টি (বইয়ের ভাষ্যমতে)?",
+     "question_en": "How many ether isomers of C4H10O are listed in the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "একটি সরল (ডাইইথাইল) ও দুটি মিশ্র (n-প্রোপাইল ও iso-প্রোপাইল) মোট তিনটি।",
+     "explanation_en": "One simple (diethyl) and two mixed (n-propyl, isopropyl) = three.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সরল ইথার ও তার মিশ্র ইথার সমাণুর মধ্যকার সমাণুতাকে কী বলে?",
+     "question_en": "What is isomerism between a simple ether and its mixed-ether isomer called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্যকরী মূলক সমাণুতা",
+       "en": "Functional-group isomerism"
+      },
+      {
+       "id": "b",
+       "bn": "মেটামারিজম",
+       "en": "Metamerism"
+      },
+      {
+       "id": "c",
+       "bn": "জ্যামিতিক সমাণুতা",
+       "en": "Geometrical isomerism"
+      },
+      {
+       "id": "d",
+       "bn": "টটোমারিজম",
+       "en": "Tautomerism"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে একে মেটামারিজম বলা হয়েছে।",
+     "explanation_en": "The book calls it metamerism.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি ডাইইথাইল ইথারের মেটামার?",
+     "question_en": "Which is a metamer of diethyl ether?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3-O-C3H7",
+       "en": "CH3-O-C3H7"
+      },
+      {
+       "id": "b",
+       "bn": "C2H5-OH",
+       "en": "C2H5-OH"
+      },
+      {
+       "id": "c",
+       "bn": "CH3-O-CH3",
+       "en": "CH3-O-CH3"
+      },
+      {
+       "id": "d",
+       "bn": "C4H9OH",
+       "en": "C4H9OH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH3-O-C3H7-ও C4H10O এবং ইথার, শুধু দুপাশের মূলক ভিন্ন।",
+     "explanation_en": "CH3-O-C3H7 is also C4H10O and an ether, differing only in the alkyl groups.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথানল ও ডাইমিথাইল ইথারের ক্ষেত্রে কোনটি সঠিক?",
+     "question_en": "Which is correct for ethanol and dimethyl ether?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একই আণবিক সংকেত, ভিন্ন কার্যকরী মূলক, ভৌত ও রাসায়নিক ধর্ম ভিন্ন",
+       "en": "Same molecular formula, different functional groups, different properties"
+      },
+      {
+       "id": "b",
+       "bn": "ভিন্ন আণবিক সংকেত, একই ধর্ম",
+       "en": "Different formula, same properties"
+      },
+      {
+       "id": "c",
+       "bn": "একই কার্যকরী মূলক, ভিন্ন ভর",
+       "en": "Same functional group, different mass"
+      },
+      {
+       "id": "d",
+       "bn": "উভয়ই মেটামার",
+       "en": "Both are metamers"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উভয়ই C2H6O; কার্যকরী মূলক ভিন্ন বলে ভৌত ও রাসায়নিক ধর্মে বিশেষ পার্থক্য।",
+     "explanation_en": "Both C2H6O; different functional groups give markedly different properties.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.30",
+   "title_bn": "ইথারের সাধারণ প্রস্তুত প্রণালী",
+   "title_en": "General methods of preparation of ethers",
+   "notes_bn": "১. ল্যাবে ডাইইথাইল ইথার: ইথানল + গাঢ় H2SO4 (বা H3PO4) 140°C-এ: 2C2H5OH -> C2H5-O-C2H5 + H2O। ইথানল : গাঢ় H2SO4 = ২ : ১ আয়তন।\nইথারের স্ফুটনাঙ্ক 35°C, তাই উৎপন্ন হয়ে বাষ্পীভূত হয়ে লিবিগ শীতকে ঘনীভূত হয়; ফানেল থেকে একই হারে ইথানল যোগ করতে হয়।\nবিশোধন: NaOH দিয়ে SO2 অপসারণ, 5% NaCl দ্রবণসহ ঝাঁকিয়ে ইথানল অপসারণ, অনার্দ্র CaCl2 দ্বারা শুষ্ক, 34-35°C-এ পাতন।\nসতর্কতা: ইথানল দ্বিগুণ আয়তনে নিতে হবে, নইলে ইথিন উৎপন্ন হতে পারে।\n২. উইলিয়ামসন সংশ্লেষণ: R-ONa + R'-X -> R-O-R' + NaX (সরল ও মিশ্র উভয়)। যেমন C2H5ONa + CH3I -> C2H5-O-CH3 + NaI।\n৩. গ্রিগনার্ড বিকারক + ক্লোরো ইথার: C2H5MgBr + ClCH2-O-CH3 -> C2H5CH2-O-CH3 + MgBrCl।",
+   "notes_en": "1. Lab diethyl ether: ethanol + conc. H2SO4 (or H3PO4) at 140 C; 2C2H5OH -> C2H5-O-C2H5 + H2O; ethanol : acid = 2 : 1 by volume.\nEther boils at 35 C, distils as formed into a Liebig condenser; ethanol is added from the funnel at the same rate.\nPurification: NaOH removes SO2, shake with 5% NaCl to remove ethanol, dry with anhydrous CaCl2, distil at 34-35 C.\nPrecaution: ethanol must be twice the acid volume else ethylene may form.\n2. Williamson synthesis: R-ONa + R'-X -> R-O-R' + NaX (simple and mixed ethers); e.g. C2H5ONa + CH3I -> C2H5OCH3 + NaI.\n3. Grignard reagent + chloro ether: C2H5MgBr + ClCH2-O-CH3 -> C2H5CH2-O-CH3 + MgBrCl.",
+   "mcqs": [
+    {
+     "question_bn": "ল্যাবরেটরিতে ডাইইথাইল ইথার প্রস্তুতির জন্য ইথানলকে গাঢ় H2SO4-সহ কত তাপমাত্রায় উত্তপ্ত করা হয়?",
+     "question_en": "At what temperature is ethanol heated with conc. H2SO4 to make diethyl ether?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "100°C",
+       "en": "100 C"
+      },
+      {
+       "id": "b",
+       "bn": "140°C",
+       "en": "140 C"
+      },
+      {
+       "id": "c",
+       "bn": "160°C",
+       "en": "160 C"
+      },
+      {
+       "id": "d",
+       "bn": "78°C",
+       "en": "78 C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ইথার প্রস্তুতির তাপমাত্রা 140°C দেওয়া আছে।",
+     "explanation_en": "The book gives 140 C for ether preparation.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "উইলিয়ামসন সংশ্লেষণে কোন বিকারক দুটি ব্যবহৃত হয়?",
+     "question_en": "Which reagents are used in the Williamson synthesis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোডিয়াম অ্যালকক্সাইড ও অ্যালকাইল হ্যালাইড",
+       "en": "Sodium alkoxide and alkyl halide"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালকোহল ও PCl5",
+       "en": "Alcohol and PCl5"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকিন ও পানি",
+       "en": "Alkene and water"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালডিহাইড ও Zn",
+       "en": "Aldehyde and Zn"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "R-ONa + R'-X -> R-O-R' + NaX।",
+     "explanation_en": "R-ONa + R'-X -> R-O-R' + NaX.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথার প্রস্তুতিতে ফানেল থেকে ইথানল যোগ করা হয় কেন?",
+     "question_en": "Why is ethanol added continuously from the funnel during ether preparation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উৎপন্ন ইথার যে হারে পাতিত হয়, সে হারে ইথানল পূরণ করতে",
+       "en": "To replace ethanol at the rate the ether distils over"
+      },
+      {
+       "id": "b",
+       "bn": "তাপমাত্রা কমাতে",
+       "en": "To lower the temperature"
+      },
+      {
+       "id": "c",
+       "bn": "H2SO4 পাতলা করতে",
+       "en": "To dilute the H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "SO2 দূর করতে",
+       "en": "To remove SO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে লেখা আছে, ইথার যে হারে পাতিত হয় একই হারে ইথানল যোগ করা হয়।",
+     "explanation_en": "The book states ethanol is added at the same rate as ether distils.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথার বিশোধনে পাতনের পূর্বে ইথারকে প্রথমে কোন পদার্থ দিয়ে ঝাঁকিয়ে SO2 অপসারণ করা হয়?",
+     "question_en": "Which substance is used to shake out SO2 from crude ether before distillation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লঘু NaOH",
+       "en": "Dilute NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "অনার্দ্র CaCl2",
+       "en": "Anhydrous CaCl2"
+      },
+      {
+       "id": "c",
+       "bn": "5% NaCl",
+       "en": "5% NaCl"
+      },
+      {
+       "id": "d",
+       "bn": "লঘু HCl",
+       "en": "Dilute HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "লঘু NaOH SO2 অপসারণ করে; পরে NaCl ইথানল সরায় ও CaCl2 পানি শোষণ করে।",
+     "explanation_en": "Dilute NaOH removes SO2; then NaCl removes ethanol and CaCl2 dries.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথাইল মিথাইল ইথার প্রস্তুতির জন্য উইলিয়ামসন সংশ্লেষণে কোন জোড়া ব্যবহার করা যায়?",
+     "question_en": "Which pair could prepare ethyl methyl ether by Williamson synthesis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C2H5ONa ও CH3I",
+       "en": "C2H5ONa and CH3I"
+      },
+      {
+       "id": "b",
+       "bn": "CH3OH ও C2H5OH শুধু গাঢ় H2SO4",
+       "en": "CH3OH and C2H5OH only with conc. H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "CH3MgBr ও C2H5OH",
+       "en": "CH3MgBr and C2H5OH"
+      },
+      {
+       "id": "d",
+       "bn": "C2H5Cl ও NaCl",
+       "en": "C2H5Cl and NaCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের উদাহরণ অনুযায়ী C2H5ONa + CH3I -> C2H5-O-CH3 + NaI।",
+     "explanation_en": "As in the book: C2H5ONa + CH3I -> C2H5-O-CH3 + NaI.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.31",
+   "title_bn": "ইথারের ভৌত ধর্ম",
+   "title_en": "Physical properties of ethers",
+   "notes_bn": "নিম্নতর দুই সদস্য (যেমন ডাইমিথাইল ইথার) গ্যাসীয়; উচ্চতর সদস্য বর্ণহীন তরল। C-O পোলার বন্ধন আছে।\nদ্রবণীয়তা: পানির H-এর সঙ্গে ইথারের O হাইড্রোজেন বন্ধন গড়ে বলে আংশিক দ্রবণীয়; হাইড্রোকার্বন শিকল বাড়লে দ্রাব্যতা কমে। সমযোজী যৌগের উত্তম দ্রাবক।\nস্ফুটনাঙ্ক: সমাণুক অ্যালকোহল থেকে কম, কারণ ইথার অণুতে আন্তঃআণবিক H-বন্ধন গঠিত হয় না। ইথানল 78.3°C; ডাইমিথাইল ইথার -24°C (গ্যাস); ডাইইথাইল ইথার 35°C।\nআপেক্ষিক ঘনত্ব: ইথাইল মিথাইল ইথারের 0.714 থেকে শুরু; সব ইথার পানির চেয়ে হালকা।\nচেতনানাশক: নিম্নতর ইথার স্নায়ুতন্ত্রের ওপর ক্রিয়া করে চেতনা নাশ করে।",
+   "notes_en": "Lowest two members (e.g. dimethyl ether) are gases; higher ones colourless liquids. C-O bond is polar.\nSolubility: ether O hydrogen-bonds to water H, so slightly soluble; solubility falls as the hydrocarbon chain grows. Good solvent for covalent compounds.\nBoiling point lower than isomeric alcohols because ethers cannot form intermolecular H-bonds. Ethanol 78.3 C; dimethyl ether -24 C; diethyl ether 35 C.\nDensity: from 0.714 (ethyl methyl ether) upward, all lighter than water.\nLower ethers act on the nervous system as anaesthetics.",
+   "mcqs": [
+    {
+     "question_bn": "ডাইমিথাইল ইথার সাধারণ তাপমাত্রায় কোন অবস্থায় থাকে?",
+     "question_en": "In which state is dimethyl ether at ordinary temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্যাস",
+       "en": "Gas"
+      },
+      {
+       "id": "b",
+       "bn": "তরল",
+       "en": "Liquid"
+      },
+      {
+       "id": "c",
+       "bn": "কঠিন",
+       "en": "Solid"
+      },
+      {
+       "id": "d",
+       "bn": "অর্ধকঠিন",
+       "en": "Semi-solid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এর স্ফুটনাঙ্ক -24°C, তাই গ্যাসীয়।",
+     "explanation_en": "Its boiling point is -24 C, hence gaseous.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথার ও পানির ঘনত্বের তুলনায় কোনটি সঠিক?",
+     "question_en": "Which is correct about the density of ethers relative to water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথার পানির চেয়ে হালকা",
+       "en": "Ethers are lighter than water"
+      },
+      {
+       "id": "b",
+       "bn": "ইথার পানির চেয়ে ভারী",
+       "en": "Ethers are heavier than water"
+      },
+      {
+       "id": "c",
+       "bn": "সমান",
+       "en": "Equal"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানলের চেয়ে ভারী",
+       "en": "Heavier than ethanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সব ইথারই পানির চেয়ে হালকা (ঘনত্ব 0.714 হতে শুরু)।",
+     "explanation_en": "All ethers are lighter than water (0.714 upward).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানলের স্ফুটনাঙ্ক ডাইমিথাইল ইথারের চেয়ে বেশি কেন?",
+     "question_en": "Why is ethanol's boiling point higher than dimethyl ether's?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানলে আন্তঃআণবিক হাইড্রোজেন বন্ধন আছে",
+       "en": "Ethanol has intermolecular H-bonding"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানলের আণবিক ভর বেশি",
+       "en": "Ethanol has higher molar mass"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানল আয়নিক",
+       "en": "Ethanol is ionic"
+      },
+      {
+       "id": "d",
+       "bn": "ডাইমিথাইল ইথার পোলার নয়",
+       "en": "Dimethyl ether is non-polar"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সমান আণবিক সংকেত (C2H6O), কিন্তু ইথানলের H-বন্ধন গঠনে সক্ষম; ইথারের নয়।",
+     "explanation_en": "Same formula C2H6O, but only ethanol can form H-bonds.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পানিতে ইথারের আংশিক দ্রবণীয়তার কারণ কী?",
+     "question_en": "What accounts for the partial solubility of ethers in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথারের অক্সিজেন ও পানির হাইড্রোজেনের মধ্যে হাইড্রোজেন বন্ধন",
+       "en": "H-bond between ether O and water H"
+      },
+      {
+       "id": "b",
+       "bn": "আয়নিক বন্ধন",
+       "en": "Ionic bonding"
+      },
+      {
+       "id": "c",
+       "bn": "ধাতব বন্ধন",
+       "en": "Metallic bonding"
+      },
+      {
+       "id": "d",
+       "bn": "হাইড্রোকার্বন অংশ",
+       "en": "The hydrocarbon part"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা হয়েছে পানির H পরমাণুর সঙ্গে ইথারের O হাইড্রোজেন বন্ধন গড়ে।",
+     "explanation_en": "Water H hydrogen-bonds with the ether O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সমাণুক জোড়া C2H5OH (78.3°C) ও CH3OCH3 (-24°C) থেকে সঠিক সিদ্ধান্ত কোনটি?",
+     "question_en": "Which conclusion follows from C2H5OH (78.3 C) and CH3OCH3 (-24 C)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথারে কেবল দুর্বল ভ্যান্ডারওয়ালস আকর্ষণ থাকায় স্ফুটনাঙ্ক অনেক কম",
+       "en": "Ether has only weak van der Waals forces, so much lower b.p."
+      },
+      {
+       "id": "b",
+       "bn": "ইথারের আণবিক ভর কম",
+       "en": "Ether has lower molar mass"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানল অ-পোলার",
+       "en": "Ethanol is non-polar"
+      },
+      {
+       "id": "d",
+       "bn": "উভয়ই H-বন্ধন গড়ে",
+       "en": "Both form H-bonds"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুটিরই ভর সমান; ইথারে H-বন্ধন সম্ভব নয়, শুধু দুর্বল আকর্ষণ।",
+     "explanation_en": "Same mass; ether cannot H-bond, having only weak attractions.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.32",
+   "title_bn": "ইথারের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of ethers",
+   "notes_bn": "ইথারের C-O-C বন্ধন সুদৃঢ় এবং অক্সিজেনে দুই জোড়া নিঃসঙ্গ ইলেকট্রন; তাই ইথার কম সক্রিয় (ক্ষার, জারক, বিজারকের সঙ্গে সাধারণত বিক্রিয়া করে না)।\n(১) PCl5 (উত্তপ্ত): C2H5OC2H5 + PCl5 -> 2C2H5Cl + POCl3; ইথারে HCl গ্যাস নির্গত হয় না, অ্যালকোহলে হয়।\n(২) গাঢ় H2SO4 (উত্তপ্ত): R-O-R + 2H2SO4 -> 2R-O-SO3H + H2O; লঘু H2SO4 ও চাপে আর্দ্রবিশ্লেষণে অ্যালকোহল।\n(৩) HI: শীতল HI-তে CH3-O-C2H5 + HI -> CH3I + C2H5OH; অতিরিক্ত HI-তে দুই অ্যালকাইল আয়োডাইড। 1° অ্যালকাইলে SN2, 2°/3°-এ SN1।\n(৪) অ্যাসাইল ক্লোরাইড + ZnCl2: R-Cl + এস্টার।\n(৫) Cl2: অন্ধকারে α,α'-ডাইক্লোরো ডাইইথাইল ইথার; আলোতে পারক্লোরো (C2Cl5)2O।\n(৬) অ্যাসিডের সঙ্গে অক্সোনিয়াম লবণ (যেমন [(C2H5)2OH]+ HSO4-)।\n(৭) বায়ুতে ধীরে পারঅক্সাইড গঠন (বিস্ফোরক); পুরোনো ইথারে KI দ্রবণ থেকে I2 মুক্ত হলে পারঅক্সাইড ধরা পড়ে; অম্লীয় ফেরাস সালফেটে বিনষ্ট করা হয়।",
+   "notes_en": "C-O-C bond is strong and O has two lone pairs, so ethers are fairly unreactive (usually inert to bases, oxidants, reductants).\n1) Hot PCl5: C2H5OC2H5 + PCl5 -> 2C2H5Cl + POCl3; no HCl evolved (alcohol gives HCl).\n2) Hot conc. H2SO4: R-O-R + 2H2SO4 -> 2R-O-SO3H + H2O; dilute acid + heat/pressure hydrolyses to alcohol.\n3) HI: cold HI gives CH3I + C2H5OH from CH3OC2H5; excess HI gives two alkyl iodides. 1 degree alkyl: SN2; 2/3 degree: SN1.\n4) Acyl chloride + ZnCl2: alkyl chloride + ester.\n5) Cl2: in dark alpha,alpha'-dichlorodiethyl ether; in light perchloro (C2Cl5)2O.\n6) Oxonium salts with strong acids, e.g. [(C2H5)2OH]+ HSO4-.\n7) Slowly forms explosive peroxides in air; old ether liberates I2 from KI; destroyed with acidified ferrous sulphate.",
+   "mcqs": [
+    {
+     "question_bn": "ইথার ও PCl5 বিক্রিয়ায় কোন গ্যাস নির্গত হয় না?",
+     "question_en": "Which gas is NOT evolved when ether reacts with PCl5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "b",
+       "bn": "CO2",
+       "en": "CO2"
+      },
+      {
+       "id": "c",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "d",
+       "bn": "Cl2",
+       "en": "Cl2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথারে -OH নেই, তাই HCl নির্গত হয় না; অ্যালকোহলে হয়।",
+     "explanation_en": "Ethers lack -OH so no HCl; alcohols give HCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথারের রাসায়নিক সক্রিয়তা সম্পর্কে সঠিক কোনটি?",
+     "question_en": "What is correct about ether reactivity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকোহল ও ফেনলের তুলনায় কম সক্রিয়",
+       "en": "Less reactive than alcohols and phenols"
+      },
+      {
+       "id": "b",
+       "bn": "খুব বেশি সক্রিয়",
+       "en": "Highly reactive"
+      },
+      {
+       "id": "c",
+       "bn": "ক্ষারের সঙ্গে সহজে বিক্রিয়া করে",
+       "en": "Reacts readily with bases"
+      },
+      {
+       "id": "d",
+       "bn": "Na-এর সঙ্গে H2 দেয়",
+       "en": "Gives H2 with Na"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C-O-C বন্ধন সুদৃঢ়, তাই ইথার সবচেয়ে কম সক্রিয় জৈব যৌগগুলির একটি।",
+     "explanation_en": "The strong C-O-C bond makes ethers among the least reactive.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH3-O-C2H5 + HI (শীতল, এক তুল্য) -> কোন উৎপাদ?",
+     "question_en": "Products of CH3-O-C2H5 + HI (cold, one equivalent)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3I ও C2H5OH",
+       "en": "CH3I and C2H5OH"
+      },
+      {
+       "id": "b",
+       "bn": "C2H5I ও CH3OH",
+       "en": "C2H5I and CH3OH"
+      },
+      {
+       "id": "c",
+       "bn": "CH3I ও C2H5I",
+       "en": "CH3I and C2H5I"
+      },
+      {
+       "id": "d",
+       "bn": "CH4 ও C2H6",
+       "en": "CH4 and C2H6"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সমীকরণ: ক্ষুদ্রতর অ্যালকাইল মূলকের সঙ্গে হ্যালোজেন যুক্ত হয়।",
+     "explanation_en": "Per the book, the smaller alkyl group takes the halogen.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পুরোনো ইথারে পারঅক্সাইড আছে কিনা পরীক্ষা কীভাবে করা হয়?",
+     "question_en": "How is peroxide in old ether detected?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KI দ্রবণ যোগে I2 মুক্ত হয় (বাদামি)",
+       "en": "I2 (brown) liberated with KI solution"
+      },
+      {
+       "id": "b",
+       "bn": "লিটমাস লাল হয়",
+       "en": "Litmus turns red"
+      },
+      {
+       "id": "c",
+       "bn": "Na দিয়ে H2 নির্গত হয়",
+       "en": "H2 with Na"
+      },
+      {
+       "id": "d",
+       "bn": "PCl5 দিয়ে ধোঁয়া",
+       "en": "Fumes with PCl5"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা: ইথারে KI দ্রবণ ও লঘু অ্যাসিড দিলে I2 মুক্ত হয়ে বাদামি রং হলে পারঅক্সাইড আছে।",
+     "explanation_en": "Old ether liberating brown I2 from KI indicates peroxide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোন ক্ষেত্রে ইথারের HI-এর সঙ্গে বিক্রিয়া SN1 পথে ঘটে?",
+     "question_en": "Ether-HI cleavage follows SN1 when the ether has...",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3° অ্যালকাইল মূলক",
+       "en": "a 3 degree alkyl group"
+      },
+      {
+       "id": "b",
+       "bn": "কেবল 1° অ্যালকাইল মূলক",
+       "en": "only 1 degree alkyl groups"
+      },
+      {
+       "id": "c",
+       "bn": "কেবল মিথাইল মূলক",
+       "en": "only methyl groups"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো অ্যালকাইল নেই",
+       "en": "no alkyl group"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে: 1° অ্যালকাইলে SN2; 2° ও 3° অ্যালকাইলে SN1।",
+     "explanation_en": "Book: 1 degree SN2; 2 and 3 degree SN1.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.33",
+   "title_bn": "ইথার ও অ্যালকোহলের মধ্যে পার্থক্য",
+   "title_en": "Differences between ether and alcohol",
+   "notes_bn": "অ্যালকোহল R-O-H; ইথারে সক্রিয় H একটি অ্যালকাইলে প্রতিস্থাপিত R-O-R; তাই ইথার রাসায়নিকভাবে কম সক্রিয়।\nNa: অ্যালকোহল H2 ও সোডিয়াম অ্যালকক্সাইড দেয়; ইথার দেয় না।\nCH3COCl: অ্যালকোহল এস্টার ও HCl দেয়; ইথার দেয় না।\nPCl5: অ্যালকোহলে HCl (NH4OH-এর সংস্পর্শে সাদা ধোঁয়া NH4Cl) ও অ্যালকাইল ক্লোরাইড; ইথারে HCl নেই।\nজারক (অম্লীয় K2Cr2O7): অ্যালকোহল জারিত হয়ে অ্যালডিহাইড পরে অ্যাসিড; ইথার সহজে জারিত হয় না।\nভৌত: ইথারে সামান্য ঝাঁঝালো গন্ধ; ইথোক্সি ইথেন ইথানলের চেয়ে উদ্বায়ী (স্ফুটনাঙ্ক 35°C বনাম 78.3°C); ইথার পানিতে প্রায়ই অদ্রবণীয়, ইথানল সম্পূর্ণ দ্রবণীয়।",
+   "notes_en": "Alcohol R-O-H; in ether R-O-R the active H is replaced by an alkyl group, so ethers are chemically less active.\nNa: alcohol gives H2 and sodium alkoxide; ether does not react.\nCH3COCl: alcohol gives ester + HCl; ether no reaction.\nPCl5: alcohol gives HCl (white fumes of NH4Cl with NH4OH rod) + alkyl chloride; ether gives no HCl.\nOxidant (acidic K2Cr2O7): alcohol oxidises to aldehyde then acid; ether does not.\nPhysical: ether has mild pungent smell, more volatile (b.p. 35 C vs ethanol 78.3 C), mostly insoluble in water while ethanol is fully miscible.",
+   "mcqs": [
+    {
+     "question_bn": "কোন বিকারক দিয়ে ইথানল ও ডাইইথাইল ইথার পার্থক্য করা যায়?",
+     "question_en": "Which reagent distinguishes ethanol from diethyl ether?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোডিয়াম ধাতু",
+       "en": "Sodium metal"
+      },
+      {
+       "id": "b",
+       "bn": "লঘু NaOH",
+       "en": "Dilute NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "পানি",
+       "en": "Water only"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটি নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথানল Na-এর সঙ্গে বুদবুদসহ H2 দেয়; ইথার দেয় না।",
+     "explanation_en": "Ethanol gives H2 bubbles with Na; ether does not.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানলের সঙ্গে অ্যাসিটাইল ক্লোরাইডের বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "What forms from ethanol + acetyl chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল ইথানোয়েট ও HCl",
+       "en": "Ethyl ethanoate and HCl"
+      },
+      {
+       "id": "b",
+       "bn": "ইথার ও পানি",
+       "en": "Ether and water"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো বিক্রিয়া নেই",
+       "en": "No reaction"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH3COCl + C2H5OH -> CH3COOC2H5 + HCl।",
+     "explanation_en": "CH3COCl + C2H5OH -> CH3COOC2H5 + HCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "PCl5-এর সঙ্গে বিক্রিয়ায় নির্গত HCl কীভাবে শনাক্ত হয়?",
+     "question_en": "How is HCl from the PCl5 reaction detected?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH4OH-সিক্ত কাচদণ্ডে সাদা ধোঁয়া",
+       "en": "White fumes with NH4OH-wetted glass rod"
+      },
+      {
+       "id": "b",
+       "bn": "নীল শিখা",
+       "en": "Blue flame"
+      },
+      {
+       "id": "c",
+       "bn": "লাল অধঃক্ষেপ",
+       "en": "Red precipitate"
+      },
+      {
+       "id": "d",
+       "bn": "সবুজ বর্ণ",
+       "en": "Green colour"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HCl + NH3 -> NH4Cl সাদা ধোঁয়া; অ্যালকোহলে দেখা যায়, ইথারে নয়।",
+     "explanation_en": "HCl + NH3 gives white NH4Cl fumes; seen for alcohol, not ether.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সমান আণবিক সংকেতের ইথানল ও ডাইমিথাইল ইথারের মধ্যে কোনটি অম্লীয় K2Cr2O7 দ্বারা সহজে জারিত হয়?",
+     "question_en": "Which of ethanol and dimethyl ether is readily oxidised by acidic K2Cr2O7?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "b",
+       "bn": "ডাইমিথাইল ইথার",
+       "en": "Dimethyl ether"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ই",
+       "en": "Both"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "Neither"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথানল -> CH3CHO -> CH3COOH; ইথার সহজে জারিত হয় না।",
+     "explanation_en": "Ethanol -> CH3CHO -> CH3COOH; ether resists oxidation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথানল ও ইথোক্সি ইথেনের তুলনায় কোনটি সঠিক?",
+     "question_en": "Which comparison of ethanol and ethoxyethane is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথোক্সি ইথেন বেশি উদ্বায়ী ও পানিতে প্রায় অদ্রবণীয়",
+       "en": "Ethoxyethane is more volatile and almost insoluble in water"
+      },
+      {
+       "id": "b",
+       "bn": "ইথোক্সি ইথেনের স্ফুটনাঙ্ক 78.3°C",
+       "en": "Ethoxyethane b.p. is 78.3 C"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানল পানিতে অদ্রবণীয়",
+       "en": "Ethanol insoluble in water"
+      },
+      {
+       "id": "d",
+       "bn": "উভয়ই Na-এর সঙ্গে H2 দেয়",
+       "en": "Both give H2 with Na"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথারের স্ফুটনাঙ্ক 35°C (কম), পানিতে প্রায়ই অদ্রবণীয়; ইথানল 78.3°C ও সম্পূর্ণ দ্রবণীয়।",
+     "explanation_en": "Ether: b.p. 35 C, mostly insoluble; ethanol 78.3 C, fully miscible.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "7.34",
+   "title_bn": "ইথারের ব্যবহার",
+   "title_en": "Uses of ethers",
+   "notes_bn": "দ্রাবক: রেজিন, চর্বি, সেলুলোজ, এস্টার ইত্যাদির; জলীয় দ্রবণ থেকে জৈব পদার্থ নিষ্কাশনে (সমযোজী যৌগের ভালো দ্রাবক)।\nবিক্রিয়ার মাধ্যম: উর্টজ বিক্রিয়া, গ্রিগনার্ড বিক্রিয়া ইত্যাদিতে।\nহিমায়ক হিসেবে; ক্লোরোফর্মের সঙ্গে মিশিয়ে চেতনানাশক হিসেবে।\nবিকল্প জ্বালানি: ইথার-অ্যালকোহল মিশ্রণ পেট্রোলের বিকল্প; বাণিজ্যিক নাম ন্যাটালিট (Natalite)।\nডাইইথাইল ইথার: শুষ্ক বরফসহ প্রায় -77°C পর্যন্ত শীতলীকরণ; রেফ্রিজারেটরে ব্যবহৃত।",
+   "notes_en": "Solvent for resins, fats, cellulose, esters; for extracting organics from aqueous solutions.\nReaction medium for Wurtz and Grignard reactions.\nUsed as refrigerant and, mixed with chloroform, as an anaesthetic.\nEther-alcohol mixture is an alternative to petrol fuel, sold as Natalite.\nDiethyl ether with dry ice cools to about -77 C; used in refrigeration.",
+   "mcqs": [
+    {
+     "question_bn": "কোন বিক্রিয়ায় ইথার দ্রাবক হিসেবে ব্যবহৃত হয়?",
+     "question_en": "In which reaction is ether used as solvent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্রিগনার্ড বিক্রিয়া",
+       "en": "Grignard reaction"
+      },
+      {
+       "id": "b",
+       "bn": "সাবানীকরণ",
+       "en": "Saponification"
+      },
+      {
+       "id": "c",
+       "bn": "পলিমারকরণ",
+       "en": "Polymerisation"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে উর্টজ ও গ্রিগনার্ড বিক্রিয়ায় দ্রাবক রূপে ব্যবহারের কথা আছে।",
+     "explanation_en": "The book lists Wurtz and Grignard reactions.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ন্যাটালিট কী?",
+     "question_en": "What is Natalite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথার ও অ্যালকোহলের মিশ্রণ - পেট্রোলের বিকল্প",
+       "en": "Ether-alcohol mixture - petrol substitute"
+      },
+      {
+       "id": "b",
+       "bn": "ইথার ও ক্লোরোফর্ম মিশ্রণ",
+       "en": "Ether-chloroform mixture"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু ইথানল",
+       "en": "Pure ethanol"
+      },
+      {
+       "id": "d",
+       "bn": "ইথার ও পানি",
+       "en": "Ether and water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ইথার ও অ্যালকোহলের মিশ্রণ বাণিজ্যিক নাম ন্যাটালিট।",
+     "explanation_en": "Ether + alcohol is sold as Natalite.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "চেতনানাশক হিসেবে ইথারকে কীসের সঙ্গে মিশিয়ে ব্যবহার করা হয়?",
+     "question_en": "Ether is mixed with what as an anaesthetic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরোফর্ম",
+       "en": "Chloroform"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসিটোন",
+       "en": "Acetone"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ক্লোরোফর্মের সঙ্গে চেতনানাশকরূপে উল্লেখ আছে।",
+     "explanation_en": "The book says it is mixed with chloroform.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথার ব্যবহার করে শুষ্ক বরফসহ সর্বনিম্ন প্রায় কত তাপমাত্রা পাওয়া যায়?",
+     "question_en": "With dry ice, ether gives a temperature of about...",
+     "options": [
+      {
+       "id": "a",
+       "bn": "-77°C",
+       "en": "-77 C"
+      },
+      {
+       "id": "b",
+       "bn": "0°C",
+       "en": "0 C"
+      },
+      {
+       "id": "c",
+       "bn": "-24°C",
+       "en": "-24 C"
+      },
+      {
+       "id": "d",
+       "bn": "35°C",
+       "en": "35 C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে শুষ্ক বরফ-ইথার দ্বারা প্রায় -77°C উল্লেখিত।",
+     "explanation_en": "The book gives about -77 C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথার জলীয় দ্রবণ থেকে জৈব পদার্থ নিষ্কাশনে উপযোগী কেন?",
+     "question_en": "Why is ether suitable for extracting organics from aqueous solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সমযোজী যৌগের উত্তম দ্রাবক এবং পানিতে প্রায় অদ্রবণীয়",
+       "en": "Good solvent for covalent compounds and nearly immiscible with water"
+      },
+      {
+       "id": "b",
+       "bn": "আয়নিক যৌগ দ্রবীভূত করে",
+       "en": "Dissolves ionic compounds"
+      },
+      {
+       "id": "c",
+       "bn": "পানির চেয়ে ভারী",
+       "en": "Heavier than water"
+      },
+      {
+       "id": "d",
+       "bn": "অম্লীয়",
+       "en": "Acidic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সমযোজী যৌগের উত্তম দ্রাবক বলা হয়েছে; ভৌত ধর্ম অনুযায়ী পানিতে প্রায় অদ্রবণীয়।",
+     "explanation_en": "Book: good solvent for covalent compounds; physically mostly water-insoluble.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "7.30",
+   "stimulus_bn": "রাকিব ল্যাবে 2 আয়তন ইথানলে 1 আয়তন গাঢ় H2SO4 মিশিয়ে 140°C-এ উত্তপ্ত করে একটি উদ্বায়ী তরল পেল যার স্ফুটনাঙ্ক 35°C। পরে সে সোডিয়াম ইথক্সাইড ও CH3I দিয়ে একই শ্রেণীর আরেকটি যৌগ প্রস্তুত করল।",
+   "stimulus_en": "Rakib heated 2 volumes of ethanol with 1 volume of conc. H2SO4 at 140 C and obtained a volatile liquid boiling at 35 C. He then made another compound of the same class from sodium ethoxide and CH3I.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "উইলিয়ামসন সংশ্লেষণ কী?",
+     "question_en": "What is Williamson synthesis?",
+     "model_answer_bn": "অ্যালকক্সাইড ও অ্যালকাইল হ্যালাইডের বিক্রিয়ায় ইথার প্রস্তুতি: R-ONa + R'-X -> R-O-R' + NaX।",
+     "model_answer_en": "Preparation of ethers from alkoxide and alkyl halide: R-ONa + R'-X -> R-O-R' + NaX."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রথম পরীক্ষায় উৎপন্ন যৌগের নাম ও সমীকরণ লেখো।",
+     "question_en": "Name the first product and write the equation.",
+     "model_answer_bn": "ডাইইথাইল ইথার; 2C2H5OH -> C2H5-O-C2H5 + H2O (গাঢ় H2SO4, 140°C)।",
+     "model_answer_en": "Diethyl ether; 2C2H5OH -> C2H5-O-C2H5 + H2O (conc. H2SO4, 140 C)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "দ্বিতীয় যৌগের সমীকরণ লেখো এবং নাম ট্রিভিয়াল ও জেনেভা পদ্ধতিতে লেখো।",
+     "question_en": "Write the equation for the second compound and give trivial and Geneva names.",
+     "model_answer_bn": "C2H5ONa + CH3I -> C2H5-O-CH3 + NaI; ইথাইল মিথাইল ইথার; মিথোক্সি ইথেন।",
+     "model_answer_en": "C2H5ONa + CH3I -> C2H5OCH3 + NaI; ethyl methyl ether; methoxyethane."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "কেন ইথানল 2 আয়তন ও গাঢ় H2SO4 1 আয়তন নিতে হয় এবং ইথার বিশোধন কীভাবে করা হয় ব্যাখ্যা করো।",
+     "question_en": "Explain why ethanol is taken in twice the volume of acid, and how the ether is purified.",
+     "model_answer_bn": "ইথানল অতিরিক্ত না থাকলে ইথিন উৎপন্ন হতে পারে; ইথার 35°C-এ বাষ্পীভূত হয়ে পাতিত হয়, তাই একই হারে ইথানল যোগ করতে হয়। বিশোধন: লঘু NaOH-এ SO2 অপসারণ, 5% NaCl-এ ইথানল অপসারণ, অনার্দ্র CaCl2-এ শুষ্ক করে 34-35°C-এ পাতন।",
+     "model_answer_en": "Without excess ethanol ethylene may form; ether distils at 35 C so ethanol is added at the same rate. Purification: dilute NaOH removes SO2, 5% NaCl removes ethanol, anhydrous CaCl2 dries, then distil at 34-35 C."
+    }
+   ]
+  },
+  {
+   "topic_section": "7.33",
+   "stimulus_bn": "দুটি বর্ণহীন তরল A ও B-এর আণবিক সংকেত C2H6O। A সোডিয়ামের সঙ্গে বুদবুদসহ গ্যাস দেয়, B দেয় না। B-এর স্ফুটনাঙ্ক -24°C।",
+   "stimulus_en": "Two colourless samples A and B have formula C2H6O. A gives gas bubbles with sodium, B does not. B boils at -24 C.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "মেটামারিজম কাকে বলে?",
+     "question_en": "What is metamerism?",
+     "model_answer_bn": "সরল ইথার ও তার মিশ্র ইথার সমাণুর মধ্যে সমাণুতাকে মেটামারিজম বলে।",
+     "model_answer_en": "Isomerism between a simple ether and its mixed-ether isomer."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "A ও B শনাক্ত করো।",
+     "question_en": "Identify A and B.",
+     "model_answer_bn": "A = ইথানল (C2H5OH), B = ডাইমিথাইল ইথার (CH3-O-CH3)।",
+     "model_answer_en": "A = ethanol, B = dimethyl ether."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "A ও B-এর PCl5 ও অ্যাসিটাইল ক্লোরাইডের সঙ্গে বিক্রিয়ার পার্থক্য লেখো।",
+     "question_en": "Write how A and B differ with PCl5 and acetyl chloride.",
+     "model_answer_bn": "A + PCl5 -> C2H5Cl + POCl3 + HCl (সাদা ধোঁয়া); A + CH3COCl -> এস্টার + HCl। B কোনোটির সঙ্গে HCl দেয় না/বিক্রিয়া করে না।",
+     "model_answer_en": "A: PCl5 gives C2H5Cl + POCl3 + HCl; with CH3COCl gives ester + HCl. B gives no HCl / no reaction."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "A-এর স্ফুটনাঙ্ক B-এর চেয়ে বেশি কেন বিশ্লেষণ করো।",
+     "question_en": "Analyse why A boils higher than B.",
+     "model_answer_bn": "A-তে -OH আছে, ফলে আন্তঃআণবিক হাইড্রোজেন বন্ধন গঠিত হয় (78.3°C)। B-তে H-বন্ধন সম্ভব নয়, কেবল দুর্বল ভ্যান্ডারওয়ালস আকর্ষণ থাকে, তাই এটি -24°C-এ গ্যাসীয়।",
+     "model_answer_en": "A has -OH forming intermolecular H-bonds (78.3 C). B cannot H-bond, only weak van der Waals forces, so it is a gas at -24 C."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 425-434 read (printed 410-419). Printed p.410 (pdf 425) is a phenol/alcohol comparison table from the previous section; skipped. Printed 419+ (pdf 434) is the chapter summary; pdf 435-448 are exercise/question pages, skipped. No unreadable pages."
+}

@@ -1,0 +1,907 @@
+{
+ "chapter_no": 9,
+ "topics": [
+  {
+   "section_no": "9.40",
+   "title_bn": "ভূমিকা (নাইট্রাইল)",
+   "title_en": "Nitrile: Introduction",
+   "notes_bn": "নাইট্রাইল: হাইড্রোকার্বনের একটি H সায়ানাইড (–CN) দ্বারা প্রতিস্থাপিত যৌগ; সংকেত R–C≡N।\nকার্বনাইল মূলক থাকে না; এসিড থেকে সহজে প্রস্তুত ও সহজে আর্দ্র বিশ্লেষিত হয়।\nঅ্যালিফেটিক (R–CN) ও অ্যারোমেটিক (Ar–CN) নাইট্রাইল আছে।\nসাধারণ নাম: এসিডের -ic acid বাদ দিয়ে -onitrile (CH₃CN = অ্যাসিটোনাইট্রাইল)।\nজেনেভা নাম: মোট কার্বযুক্ত অ্যালকেন + নাইট্রাইল (CH₃CN = ইথেন নাইট্রাইল); C₆H₅CN = বেনজিন কার্বোনাইট্রাইল।\nব্যবহার: অ্যাসিটোনাইট্রাইল দ্রাবক; CH₂=CHCN থেকে নাইট্রাইল রাবার ও অ্যাক্রিলিক সুতা।",
+   "notes_en": "Nitrile: one H of a hydrocarbon replaced by –CN; formula R–C≡N.\nNo carbonyl group; easily made from acids and easily hydrolysed.\nAliphatic (R–CN) and aromatic (Ar–CN).\nCommon name: drop -ic acid, add -onitrile (CH₃CN = acetonitrile).\nGeneva name: alkane with total C + nitrile (CH₃CN = ethane nitrile); C₆H₅CN = benzene carbonitrile.\nUses: acetonitrile as solvent; CH₂=CHCN gives nitrile rubber and acrylic fibre.",
+   "mcqs": [
+    {
+     "question_bn": "নাইট্রাইলের কার্যকরী মূলক কোনটি?",
+     "question_en": "What is the functional group of a nitrile?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–COOH",
+       "en": "–COOH"
+      },
+      {
+       "id": "b",
+       "bn": "–C≡N",
+       "en": "–C≡N"
+      },
+      {
+       "id": "c",
+       "bn": "–CONH₂",
+       "en": "–CONH₂"
+      },
+      {
+       "id": "d",
+       "bn": "–NH₂",
+       "en": "–NH₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নাইট্রাইলে হাইড্রোকার্বনের একটি H সায়ানাইড (–CN) মূলক দ্বারা প্রতিস্থাপিত থাকে; সংকেত R–C≡N।",
+     "explanation_en": "In a nitrile one H of a hydrocarbon is replaced by the cyanide (–CN) group; formula R–C≡N.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নাইট্রাইল যৌগে নিচের কোন মূলকটি থাকে না?",
+     "question_en": "Which group is absent in nitriles, unlike other acid derivatives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বনাইল মূলক",
+       "en": "Carbonyl group"
+      },
+      {
+       "id": "b",
+       "bn": "সায়ানো মূলক",
+       "en": "Cyano group"
+      },
+      {
+       "id": "c",
+       "bn": "কার্বন-নাইট্রোজেন ত্রিবন্ধন",
+       "en": "C≡N triple bond"
+      },
+      {
+       "id": "d",
+       "bn": "নাইট্রোজেন পরমাণু",
+       "en": "Nitrogen atom"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অন্যান্য এসিড জাতকের বিপরীতে নাইট্রাইলে কার্বনাইল মূলক থাকে না।",
+     "explanation_en": "Unlike other acid derivatives, nitriles contain no carbonyl group.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH₃CN এর সাধারণ পদ্ধতিতে নাম কী?",
+     "question_en": "What is the common name of CH₃CN?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপিওনাইট্রাইল",
+       "en": "Propionitrile"
+      },
+      {
+       "id": "b",
+       "bn": "ফরমোনাইট্রাইল",
+       "en": "Formonitrile"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসিটোনাইট্রাইল",
+       "en": "Acetonitrile"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজোনাইট্রাইল",
+       "en": "Benzonitrile"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "এসিডের নামের শেষ -ic acid বাদ দিয়ে -onitrile যোগ করা হয়; অ্যাসিটিক এসিড থেকে অ্যাসিটোনাইট্রাইল।",
+     "explanation_en": "Drop -ic acid from the parent acid name and add -onitrile; acetic acid gives acetonitrile.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "জেনেভা পদ্ধতিতে CH₃CN এর নাম কী?",
+     "question_en": "What is the Geneva (IUPAC) name of CH₃CN?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন নাইট্রাইল",
+       "en": "Ethane nitrile"
+      },
+      {
+       "id": "b",
+       "bn": "মিথেন নাইট্রাইল",
+       "en": "Methane nitrile"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানোনাইট্রাইল",
+       "en": "Ethanonitrile"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপেন নাইট্রাইল",
+       "en": "Propane nitrile"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "RCN এর মোট কার্বযুক্ত অ্যালকেনের নামের পর নাইট্রাইল যোগ হয়; CH₃CN তে ২ কার্বন, তাই ইথেন নাইট্রাইল।",
+     "explanation_en": "Name the alkane with the total carbons of RCN and add nitrile; CH₃CN has 2 C, so ethane nitrile.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C₆H₅CN কে কী বলা হয়?",
+     "question_en": "What is C₆H₅CN called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন কার্বোনাইট্রাইল",
+       "en": "Benzene carbonitrile"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজাইল সায়ানাইড",
+       "en": "Benzyl cyanide"
+      },
+      {
+       "id": "c",
+       "bn": "ফিনাইল আইসোসায়ানাইড",
+       "en": "Phenyl isocyanide"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন ডায়াজোনিয়াম",
+       "en": "Benzenediazonium"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে C₆H₅CN কে বেনজিন কার্বোনাইট্রাইল বলা হয়েছে।",
+     "explanation_en": "The book names C₆H₅CN benzene carbonitrile.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাক্রিলো নাইট্রাইলের সংকেত কোনটি?",
+     "question_en": "Which is the formula of acrylonitrile?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃CN",
+       "en": "CH₃CN"
+      },
+      {
+       "id": "b",
+       "bn": "CH₂=CHCN",
+       "en": "CH₂=CHCN"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃CH₂CN",
+       "en": "CH₃CH₂CN"
+      },
+      {
+       "id": "d",
+       "bn": "C₆H₅CN",
+       "en": "C₆H₅CN"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যাক্রিলো নাইট্রাইল বা ভিনাইল সায়ানাইড হল CH₂=CHCN।",
+     "explanation_en": "Acrylonitrile (vinyl cyanide) is CH₂=CHCN.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাক্রিলো নাইট্রাইল থেকে কী তৈরি হয়?",
+     "question_en": "What is made from acrylonitrile?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নাইট্রাইল রাবার ও অ্যাক্রিলিক সুতা",
+       "en": "Nitrile rubber and acrylic fibre"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসপিরিন",
+       "en": "Aspirin"
+      },
+      {
+       "id": "c",
+       "bn": "ভিনেগার",
+       "en": "Vinegar"
+      },
+      {
+       "id": "d",
+       "bn": "ইউরিয়া",
+       "en": "Urea"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের মতে অ্যাক্রিলো নাইট্রাইল থেকে নাইট্রাইল রাবার ও অ্যাক্রিলিক সুতা তৈরি হয়।",
+     "explanation_en": "Per the book, nitrile rubber and acrylic fibre are made from acrylonitrile.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "শিল্পক্ষেত্রে দ্রাবক হিসেবে ব্যবহৃত নাইট্রাইল কোনটি?",
+     "question_en": "Which nitrile is used as a solvent in industry?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসিটোনাইট্রাইল",
+       "en": "Acetonitrile"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাক্রিলো নাইট্রাইল",
+       "en": "Acrylonitrile"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজিন কার্বোনাইট্রাইল",
+       "en": "Benzene carbonitrile"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যাসিটো নাইট্রাইল (ইথেন নাইট্রাইল) শিল্পে দ্রাবকরূপে ব্যবহৃত হয়।",
+     "explanation_en": "Acetonitrile (ethane nitrile) is used as an industrial solvent.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নাইট্রাইল ও অন্যান্য এসিড জাতক সম্পর্কে কোন তথ্যটি সঠিক?",
+     "question_en": "Which statement about nitriles and other acid derivatives is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নাইট্রাইল আর্দ্র বিশ্লেষণে এসিড দেয় না",
+       "en": "Nitriles do not give acids on hydrolysis"
+      },
+      {
+       "id": "b",
+       "bn": "এসিড থেকে সহজে প্রস্তুত করা যায়, সহজে আর্দ্র বিশ্লেষিত হয়",
+       "en": "Easily prepared from acids and easily hydrolysed"
+      },
+      {
+       "id": "c",
+       "bn": "নাইট্রাইলে কার্বনাইল মূলক আছে",
+       "en": "Nitriles contain a carbonyl group"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যারোমেটিক নাইট্রাইল হয় না",
+       "en": "Aromatic nitriles do not exist"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে এদেরকে জৈব এসিড থেকে সহজে প্রস্তুত করা যায় এবং সহজে আর্দ্র বিশ্লেষিত হয়।",
+     "explanation_en": "The book says they are easily prepared from organic acids and easily hydrolysed.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.41",
+   "title_bn": "নাইট্রাইলের প্রস্তুত প্রণালী",
+   "title_en": "Preparation of Nitriles",
+   "notes_bn": "অ্যালিফেটিক: হ্যালোজেনো অ্যালকেন/অ্যালকাইল হ্যালাইড + KCN (জল মিশ্রিত ইথানল) → R–CN + KX।\nউদাহরণ: CH₃CH₂Br + KCN → CH₃CH₂CN + KBr (প্রোপেন নাইট্রাইল)।\nঅ্যারোমেটিক: ডায়াজোনিয়াম লবণ প্রথমে লঘু Na₂CO₃ দ্বারা প্রশমিত করা হয়।\nপ্রায় ১০০°C এ CuCN এর উপস্থিতিতে KCN এর সাথে বিক্রিয়ায় বেনজিন কার্বোনাইট্রাইল পাওয়া যায়।\nC₆H₅N₂Cl + KCN → C₆H₅CN + N₂ + HCl।",
+   "notes_en": "Aliphatic: haloalkane + KCN (aqueous ethanol) → R–CN + KX.\nExample: CH₃CH₂Br + KCN → CH₃CH₂CN + KBr (propane nitrile).\nAromatic: diazonium salt first neutralised with dilute Na₂CO₃.\nAt about 100°C with CuCN it reacts with KCN to give benzene carbonitrile.\nC₆H₅N₂Cl + KCN → C₆H₅CN + N₂ + HCl.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকাইল হ্যালাইডকে অ্যালকোহলীয় KCN এর সাথে বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "What forms when an alkyl halide reacts with alcoholic KCN?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামিন",
+       "en": "Amine"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালকাইল সায়ানাইড (নাইট্রাইল)",
+       "en": "Alkyl cyanide (nitrile)"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বক্সিলিক এসিড",
+       "en": "Carboxylic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "R–X + KCN → R–CN + KX; হ্যালোজেন পরমাণু –CN দ্বারা প্রতিস্থাপিত হয়।",
+     "explanation_en": "R–X + KCN → R–CN + KX; the halogen is replaced by –CN.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকাইল হ্যালাইড থেকে নাইট্রাইল প্রস্তুতিতে ব্যবহৃত মাধ্যম কোনটি?",
+     "question_en": "Which medium is used to prepare nitriles from alkyl halides?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জলীয় HCl",
+       "en": "Aqueous HCl"
+      },
+      {
+       "id": "b",
+       "bn": "জল মিশ্রিত অ্যালকোহল (ইথানল)",
+       "en": "Aqueous alcohol (ethanol)"
+      },
+      {
+       "id": "c",
+       "bn": "ঈথার",
+       "en": "Ether"
+      },
+      {
+       "id": "d",
+       "bn": "গাঢ় H₂SO₄",
+       "en": "Conc. H₂SO₄"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পানি মিশ্রিত অ্যালকোহলীয় KCN বা NaCN ব্যবহৃত হয়; বিক্রিয়ায় ইথানল উল্লেখ আছে।",
+     "explanation_en": "Water-mixed alcoholic KCN/NaCN is used; ethanol is shown on the arrow.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH₃CH₂Br + KCN → ? (ইথানল)",
+     "question_en": "CH₃CH₂Br + KCN → ? (ethanol)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃CH₂CN",
+       "en": "CH₃CH₂CN"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃CN",
+       "en": "CH₃CN"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃CH₂NC",
+       "en": "CH₃CH₂NC"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃CH₂NH₂",
+       "en": "CH₃CH₂NH₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ব্রোমো ইথেন থেকে প্রোপেন নাইট্রাইল (CH₃CH₂–CN) ও KBr উৎপন্ন হয়।",
+     "explanation_en": "Bromoethane gives propane nitrile (CH₃CH₂–CN) and KBr.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ব্রোমো ইথেন থেকে প্রস্তুত নাইট্রাইলে কার্বন সংখ্যা কত?",
+     "question_en": "How many carbons does the nitrile from bromoethane contain?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "৪",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "১",
+       "en": "1"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথেনের ২ কার্বন + CN এর ১ কার্বন = ৩ কার্বন (প্রোপেন নাইট্রাইল)।",
+     "explanation_en": "2 C of ethyl + 1 C of CN = 3 carbons (propane nitrile).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যারোমেটিক নাইট্রাইল প্রস্তুতিতে বেনজিন ডায়াজোনিয়াম ক্লোরাইডের সাথে কী বিক্রিয়া করে?",
+     "question_en": "In preparing aromatic nitrile, benzenediazonium chloride reacts with:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KCN, Cu-এর (I) সায়ানাইড প্রভাবে",
+       "en": "KCN in presence of copper(I) cyanide"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "LiAlH₄",
+       "en": "LiAlH₄"
+      },
+      {
+       "id": "d",
+       "bn": "H₂/Ni",
+       "en": "H₂/Ni"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রায় ১০০°C এ CuCN এর উপস্থিতিতে ডায়াজোনিয়াম লবণ ও KCN বিক্রিয়া করে বেনজিন কার্বোনাইট্রাইল দেয়।",
+     "explanation_en": "At about 100°C with CuCN, the diazonium salt and KCN give benzene carbonitrile.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডায়াজোনিয়াম লবণ থেকে নাইট্রাইল প্রস্তুতিতে ডায়াজোনিয়াম লবণকে আগে কী দিয়ে প্রশমিত করা হয়?",
+     "question_en": "Before reaction with KCN, the diazonium salt solution is first neutralised with:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লঘু সোডিয়াম কার্বনেট",
+       "en": "Dilute sodium carbonate"
+      },
+      {
+       "id": "b",
+       "bn": "লঘু HCl",
+       "en": "Dilute HCl"
+      },
+      {
+       "id": "c",
+       "bn": "গাঢ় NaOH",
+       "en": "Conc. NaOH"
+      },
+      {
+       "id": "d",
+       "bn": "জল",
+       "en": "Water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে লঘু Na₂CO₃ দ্বারা প্রশমিত করার কথা আছে।",
+     "explanation_en": "The book states it is neutralised with dilute Na₂CO₃.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড + KCN বিক্রিয়ায় N₂ ছাড়া আর কী উৎপন্ন হয়?",
+     "question_en": "Besides N₂, benzenediazonium chloride + KCN gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₆H₅CN ও HCl",
+       "en": "C₆H₅CN and HCl"
+      },
+      {
+       "id": "b",
+       "bn": "C₆H₅OH ও KCl",
+       "en": "C₆H₅OH and KCl"
+      },
+      {
+       "id": "c",
+       "bn": "C₆H₅NH₂ ও HCl",
+       "en": "C₆H₅NH₂ and HCl"
+      },
+      {
+       "id": "d",
+       "bn": "C₆H₆ ও KCl",
+       "en": "C₆H₆ and KCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিক্রিয়াটি: C₆H₅N₂Cl + KCN → C₆H₅CN + N₂ + HCl (উৎপাদ দেখানো)।",
+     "explanation_en": "The equation shown: C₆H₅N₂Cl + KCN → C₆H₅CN + N₂ + HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালিফেটিক ও অ্যারোমেটিক নাইট্রাইল প্রস্তুতির উৎস যথাক্রমে –",
+     "question_en": "Sources for aliphatic and aromatic nitriles respectively are –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডায়াজোনিয়াম লবণ; হ্যালো অ্যালকেন",
+       "en": "diazonium salt; haloalkane"
+      },
+      {
+       "id": "b",
+       "bn": "হ্যালো অ্যালকেন; ডায়াজোনিয়াম লবণ",
+       "en": "haloalkane; diazonium salt"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামিন; অ্যামাইড",
+       "en": "amine; amide"
+      },
+      {
+       "id": "d",
+       "bn": "এসিড; অ্যালকোহল",
+       "en": "acid; alcohol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হ্যালোজেনো অ্যালকেন থেকে অ্যালিফেটিক এবং ডায়াজোনিয়াম লবণ থেকে অ্যারোমেটিক নাইট্রাইল প্রস্তুত হয়।",
+     "explanation_en": "Halo-alkanes give aliphatic nitriles; diazonium salts give aromatic nitriles.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "9.42",
+   "title_bn": "নাইট্রাইলের রাসায়নিক ধর্ম",
+   "title_en": "Chemical Properties of Nitriles",
+   "notes_bn": "১. আর্দ্র বিশ্লেষণ (লঘু খনিজ এসিড, তাপ): নাইট্রাইল → অ্যামাইড → সমসংখ্যক কার্বনের কার্বক্সিলিক এসিড + NH₃।\n২. ক্ষারীয় বিশ্লেষণ (লঘু NaOH): কার্বক্সিলিক এসিড + NH₃; এসিড ক্ষারের সাথে লবণ ও জল দেয়।\n৩. বিজারণ (LiAlH₄/ঈথার বা H₂/Ni): প্রাইমারি অ্যামিন (CH₃CN → CH₃CH₂NH₂; C₆H₅CN → C₆H₅CH₂NH₂)।\n৪. আংশিক বিজারণ (LiAlH(OC₂H₅)₃): R–CH=NH (অ্যালডিমিন), আর্দ্র বিশ্লেষণে অ্যালডিহাইড + NH₃।",
+   "notes_en": "1. Hydrolysis (dil. mineral acid, heat): nitrile → amide → carboxylic acid with same C number + NH₃.\n2. Alkaline hydrolysis (dil. NaOH): carboxylic acid + NH₃; acid gives salt + water with base.\n3. Reduction (LiAlH₄/ether or H₂/Ni): primary amine (CH₃CN → CH₃CH₂NH₂; C₆H₅CN → C₆H₅CH₂NH₂).\n4. Partial reduction (LiAlH(OC₂H₅)₃): R–CH=NH (aldimine), hydrolysed to aldehyde + NH₃.",
+   "mcqs": [
+    {
+     "question_bn": "নাইট্রাইলকে লঘু খনিজ এসিডসহ উত্তপ্ত করলে প্রথমে কী উৎপন্ন হয়?",
+     "question_en": "On heating a nitrile with dilute mineral acid, what forms first?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামিন",
+       "en": "Amine"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকোহল",
+       "en": "Alcohol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আর্দ্র বিশ্লেষণে প্রথমে অ্যামাইড, পরে সমসংখ্যক কার্বনের কার্বক্সিলিক এসিড হয়।",
+     "explanation_en": "Hydrolysis gives the amide first, then the carboxylic acid with the same carbon number.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH₃CN কে লঘু HCl সহ উত্তপ্ত করলে চূড়ান্ত উৎপাদ কী?",
+     "question_en": "Final product of heating CH₃CN with dilute HCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানোয়িক এসিড",
+       "en": "Ethanoic acid"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপানোয়িক এসিড",
+       "en": "Propanoic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "Ethylamine"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানোয়িক এসিড",
+       "en": "Methanoic acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃CN → ইথানামাইড → ইথানোয়িক (অ্যাসিটিক) এসিড + NH₃।",
+     "explanation_en": "CH₃CN → ethanamide → ethanoic (acetic) acid + NH₃.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথানামাইডের আর্দ্র বিশ্লেষণে ইথানোয়িক এসিডের সাথে কোন গ্যাস পাওয়া যায়?",
+     "question_en": "Ethanamide hydrolysis gives ethanoic acid and which gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₃",
+       "en": "NH₃"
+      },
+      {
+       "id": "b",
+       "bn": "CO₂",
+       "en": "CO₂"
+      },
+      {
+       "id": "c",
+       "bn": "H₂",
+       "en": "H₂"
+      },
+      {
+       "id": "d",
+       "bn": "N₂",
+       "en": "N₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃CONH₂ + H₂O → CH₃COOH + NH₃।",
+     "explanation_en": "CH₃CONH₂ + H₂O → CH₃COOH + NH₃.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নাইট্রাইলের ক্ষারীয় আর্দ্র বিশ্লেষণে (লঘু NaOH) প্রথমে কী উৎপন্ন হয়?",
+     "question_en": "In alkaline hydrolysis (dil. NaOH) of nitrile, first formed are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বক্সিলিক এসিড ও অ্যামোনিয়া",
+       "en": "Carboxylic acid and ammonia"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামিন ও জল",
+       "en": "Amine and water"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালডিহাইড ও NH₃",
+       "en": "Aldehyde and NH₃"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকোহল ও N₂",
+       "en": "Alcohol and N₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রথমে কার্বক্সিলিক এসিড ও NH₃, পরে এসিড ক্ষারের সাথে বিক্রিয়ায় লবণ ও জল।",
+     "explanation_en": "First carboxylic acid and NH₃; the acid then reacts with the base to give salt and water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH₃CN + 2H₂O (NaOH) → CH₃COOH + NH₃; এরপর NaOH এর সাথে বিক্রিয়ায় কী পাওয়া যায়?",
+     "question_en": "After CH₃CN + 2H₂O (NaOH) → CH₃COOH + NH₃, reaction with NaOH gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোডিয়াম ইথানোয়েট ও জল",
+       "en": "Sodium ethanoate and water"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "সোডিয়াম কার্বনেট",
+       "en": "Sodium carbonate"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "Ethylamine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃COOH + NaOH → CH₃COONa + H₂O।",
+     "explanation_en": "CH₃COOH + NaOH → CH₃COONa + H₂O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "লিথিয়াম অ্যালুমিনিয়াম হাইড্রাইড (ঈথারে) দ্বারা ইথেন নাইট্রাইলের বিজারণে কী পাওয়া যায়?",
+     "question_en": "LiAlH₄ (ether) reduction of ethane nitrile gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "Ethylamine"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানোয়িক এসিড",
+       "en": "Ethanoic acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃CN + 4[H] → CH₃CH₂NH₂ (প্রাইমারি অ্যামিন)।",
+     "explanation_en": "CH₃CN + 4[H] → CH₃CH₂NH₂ (primary amine).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজিন কার্বোনাইট্রাইলকে H₂/Ni দ্বারা বিজারিত করলে কী উৎপন্ন হয়?",
+     "question_en": "Reduction of benzene carbonitrile with H₂/Ni gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজাইল অ্যামিন",
+       "en": "Benzylamine"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজোয়িক এসিড",
+       "en": "Benzoic acid"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজালডিহাইড",
+       "en": "Benzaldehyde"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C₆H₅CN + 4[H] → C₆H₅CH₂NH₂ (বেনজাইল অ্যামিন)।",
+     "explanation_en": "C₆H₅CN + 4[H] → C₆H₅CH₂NH₂ (benzylamine).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইট্রাইলকে ঈথারে LiAlH(OC₂H₅)₃ দ্বারা আংশিক বিজারণে প্রথমে কী উৎপন্ন হয়?",
+     "question_en": "Partial reduction of nitrile with LiAlH(OC₂H₅)₃ in ether first gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালডিমিন",
+       "en": "Aldimine"
+      },
+      {
+       "id": "b",
+       "bn": "প্রাইমারি অ্যামিন",
+       "en": "Primary amine"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "d",
+       "bn": "কিটোন",
+       "en": "Ketone"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "R–C≡N + 2[H] → R–CH=NH (অ্যালডিমিন)।",
+     "explanation_en": "R–C≡N + 2[H] → R–CH=NH (aldimine).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালডিমিনের আর্দ্র বিশ্লেষণে কোন যৌগ পাওয়া যায়?",
+     "question_en": "Hydrolysis of an aldimine gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালডিহাইড ও NH₃",
+       "en": "Aldehyde and NH₃"
+      },
+      {
+       "id": "b",
+       "bn": "কিটোন ও NH₃",
+       "en": "Ketone and NH₃"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকোহল ও NH₃",
+       "en": "Alcohol and NH₃"
+      },
+      {
+       "id": "d",
+       "bn": "এসিড ও NH₃",
+       "en": "Acid and NH₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "R–CH=NH + H₂O → R–CHO + NH₃।",
+     "explanation_en": "R–CH=NH + H₂O → R–CHO + NH₃.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "9.42",
+   "stimulus_bn": "একটি ল্যাবে ব্রোমো ইথেনকে অ্যালকোহলীয় KCN এর সাথে বিক্রিয়া করে যৌগ X পাওয়া গেল। X কে লঘু HCl সহ উত্তপ্ত করে Y এবং LiAlH₄ দ্বারা বিজারিত করে Z পাওয়া গেল।",
+   "stimulus_en": "In a lab, bromoethane was reacted with alcoholic KCN to give compound X. Heating X with dilute HCl gave Y, and reducing X with LiAlH₄ gave Z.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "নাইট্রাইলের কার্যকরী মূলক কী?",
+     "question_en": "What is the functional group of nitriles?",
+     "model_answer_bn": "–C≡N (সায়ানাইড মূলক)।",
+     "model_answer_en": "–C≡N (cyanide group)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "X এর সংকেত ও জেনেভা নাম লেখো।",
+     "question_en": "Give the formula and Geneva name of X.",
+     "model_answer_bn": "X = CH₃CH₂CN, প্রোপেন নাইট্রাইল। বিক্রিয়া: CH₃CH₂Br + KCN → CH₃CH₂CN + KBr।",
+     "model_answer_en": "X = CH₃CH₂CN, propane nitrile. CH₃CH₂Br + KCN → CH₃CH₂CN + KBr."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Y ও Z শনাক্ত করে বিক্রিয়া সমীকরণ লেখো।",
+     "question_en": "Identify Y and Z with equations.",
+     "model_answer_bn": "Y = প্রোপানোয়িক এসিড: CH₃CH₂CN → CH₃CH₂CONH₂ → CH₃CH₂COOH + NH₃। Z = প্রোপাইল অ্যামিন: CH₃CH₂CN + 4[H] → CH₃CH₂CH₂NH₂।",
+     "model_answer_en": "Y = propanoic acid: CH₃CH₂CN → CH₃CH₂CONH₂ → CH₃CH₂COOH + NH₃. Z = propylamine: CH₃CH₂CN + 4[H] → CH₃CH₂CH₂NH₂."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "X থেকে অ্যালডিহাইড পেতে কী করবে? আর বেনজিন ডায়াজোনিয়াম ক্লোরাইড থেকে অনুরূপ নাইট্রাইল প্রস্তুতির শর্ত বিশ্লেষণ করো।",
+     "question_en": "How would you obtain an aldehyde from X? Also analyse the conditions for preparing the aromatic nitrile from benzenediazonium chloride.",
+     "model_answer_bn": "X কে ঈথারে LiAlH(OC₂H₅)₃ দ্বারা আংশিক বিজারিত করলে অ্যালডিমিন (CH₃CH₂CH=NH) হয়, আর্দ্র বিশ্লেষণে CH₃CH₂CHO + NH₃ পাওয়া যায়। অ্যারোমেটিক নাইট্রাইলের জন্য ডায়াজোনিয়াম লবণকে লঘু Na₂CO₃ দ্বারা প্রশমিত করে প্রায় ১০০°C এ CuCN এর উপস্থিতিতে KCN এর সাথে বিক্রিয়া করাতে হয়; ফলে C₆H₅CN, N₂ ও HCl উৎপন্ন হয়।",
+     "model_answer_en": "Partially reduce X with LiAlH(OC₂H₅)₃ in ether to the aldimine CH₃CH₂CH=NH, then hydrolyse to CH₃CH₂CHO + NH₃. For the aromatic nitrile, neutralise the diazonium salt with dilute Na₂CO₃ and react with KCN at about 100°C in the presence of CuCN, giving C₆H₅CN, N₂ and HCl."
+    }
+   ]
+  }
+ ],
+ "notes": "PDF pages 543-545 and 546 (printed 528-531) read; 546 contains chapter summary, 547-559 are summary/exercise (question bank) pages, skipped. No unreadable pages. Section 9.40-9.42 content is short (printed 529-531), so MCQs are 8-9 per section."
+}

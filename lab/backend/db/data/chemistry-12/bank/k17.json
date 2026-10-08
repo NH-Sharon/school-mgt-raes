@@ -1,0 +1,1900 @@
+{
+ "chapter_no": 5,
+ "topics": [
+  {
+   "section_no": "5.40",
+   "title_bn": "বেনজিনের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of benzene",
+   "notes_bn": "বেনজিন (C6H6) ষড়ভুজাকার চক্রীয় অসম্পৃক্ত হাইড্রোকার্বন; ৬টি C পরমাণু sp² সংকরিত, ৩টি C–C ও ৩টি C=C একান্তরভাবে আছে।\nকেকুলের কাঠামো অনুরণন সংকর; C–C দূরত্ব 0.139 nm (ইথেনে 0.154, ইথিনে 0.134 nm এর মাঝামাঝি)। ৬টি π ইলেকট্রন ষড়ভুজের উপরে-নিচে সঞ্চরণশীল।\nযুত বিক্রিয়া: Ni, 200°C এ 3H₂ → সাইক্লোহেক্সেন; সূর্যালোকে 3Cl₂ → বেনজিন হেক্সাক্লোরাইড (গ্যামেক্সিন); O₃ → ট্রাইওজোনাইড → গ্লাইঅক্সাল (বিক্রিয়ায় Zn গুঁড়া H₂O₂ নষ্ট করে)।\nপ্রতিস্থাপন (প্রধান বিক্রিয়া, ইলেকট্রনাকর্ষী): হ্যালোজেনেশন (AlCl₃/FeBr₃), নাইট্রেশন (গাঢ় H₂SO₄+HNO₃, 60°C → নাইট্রোবেনজিন; 100°C → মেটা-ডাইনাইট্রোবেনজিন), সালফোনেশন (গাঢ় H₂SO₄, 100°C), ফ্রিডেল-ক্রাফট অ্যালকাইলেশন/অ্যাসাইলেশন (অনার্দ্র AlCl₃)।\nনাইট্রেশনে ইলেকট্রোফাইল NO₂⁺; সালফোনেশনে SO₃; ব্রোমিনেশনে Br⁺; মধ্যবর্তী σ-জটিল থেকে H⁺ অপসারিত হয়।\nবেনজিন বাষ্প 600–800°C তপ্ত নলে → ডাইফিনাইল + H₂।",
+   "notes_en": "Benzene C6H6 is a cyclic hexagonal unsaturated hydrocarbon with six sp2 carbons (alternating 3 C-C and 3 C=C in Kekule's picture), a resonance hybrid.\nC-C length 0.139 nm lies between ethane (0.154) and ethene (0.134); six delocalised pi electrons sit above and below the ring.\nAddition: 3H2/Ni/200C gives cyclohexane; 3Cl2/sunlight gives benzene hexachloride (gammexane); O3 gives triozonide then glyoxal (Zn dust destroys H2O2).\nSubstitution is the main reaction (electrophilic): halogenation (AlCl3/FeBr3), nitration (conc. H2SO4+HNO3, 60C nitrobenzene; 100C m-dinitrobenzene), sulphonation (conc. H2SO4, 100C), Friedel-Crafts alkylation/acylation (anhyd. AlCl3).\nElectrophiles: NO2+ (nitration), SO3 (sulphonation), Br+ (bromination); a sigma complex loses H+ to give product.\nBenzene vapour at 600-800C in a hot tube gives diphenyl + H2.",
+   "mcqs": [
+    {
+     "question_bn": "বেনজিন অণুতে কার্বন-কার্বন বন্ধন দূরত্ব কত?",
+     "question_en": "What is the C–C bond length in benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.154 nm",
+       "en": "0.154 nm"
+      },
+      {
+       "id": "b",
+       "bn": "0.134 nm",
+       "en": "0.134 nm"
+      },
+      {
+       "id": "c",
+       "bn": "0.139 nm",
+       "en": "0.139 nm"
+      },
+      {
+       "id": "d",
+       "bn": "0.120 nm",
+       "en": "0.120 nm"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বেনজিনে বন্ধন দূরত্ব 0.139 nm, যা একক (0.154) ও দ্বিবন্ধনের (0.134) মাঝামাঝি।",
+     "explanation_en": "It is 0.139 nm, between single (0.154) and double (0.134) bond lengths.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Ni প্রভাবকের উপস্থিতিতে 200°C এ বেনজিনের সাথে H₂ বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "What forms when benzene reacts with H2 over Ni at 200°C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইক্লোহেক্সেন",
+       "en": "Cyclohexane"
+      },
+      {
+       "id": "b",
+       "bn": "হেক্সেন",
+       "en": "Hexane"
+      },
+      {
+       "id": "c",
+       "bn": "সাইক্লোহেক্সিন",
+       "en": "Cyclohexene"
+      },
+      {
+       "id": "d",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রতি অণু বেনজিনের সাথে ৩ অণু H₂ যুক্ত হয়ে C₆H₁₂ সাইক্লোহেক্সেন গঠিত হয়।",
+     "explanation_en": "Three H2 add per benzene to give C6H12, cyclohexane.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজিনের মেটা-ডাইনাইট্রোবেনজিন প্রস্তুতিতে নাইট্রোবেনজিনকে কোন তাপমাত্রায় নাইট্রেশন করা হয়?",
+     "question_en": "At what temperature is nitrobenzene nitrated to give m-dinitrobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "30°C",
+       "en": "30°C"
+      },
+      {
+       "id": "b",
+       "bn": "60°C",
+       "en": "60°C"
+      },
+      {
+       "id": "c",
+       "bn": "100°C",
+       "en": "100°C"
+      },
+      {
+       "id": "d",
+       "bn": "5°C",
+       "en": "5°C"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "60°C এ নাইট্রোবেনজিন, আর 100°C এ নাইট্রোবেনজিন থেকে মেটা-ডাইনাইট্রোবেনজিন পাওয়া যায়।",
+     "explanation_en": "60C gives nitrobenzene from benzene; 100C converts nitrobenzene to m-dinitrobenzene.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজিনের সালফোনেশনে সক্রিয় ইলেকট্রোফাইল কোনটি?",
+     "question_en": "Which is the attacking electrophile in sulphonation of benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SO₃",
+       "en": "SO₃"
+      },
+      {
+       "id": "b",
+       "bn": "HSO₄⁻",
+       "en": "HSO₄⁻"
+      },
+      {
+       "id": "c",
+       "bn": "NO₂⁺",
+       "en": "NO₂⁺"
+      },
+      {
+       "id": "d",
+       "bn": "Br⁺",
+       "en": "Br⁺"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গাঢ় H₂SO₄ বিয়োজিত হয়ে SO₃ তৈরি করে; সালফারে ধনাত্মক আধান থাকায় এটি ইলেকট্রোফাইল।",
+     "explanation_en": "Conc. H2SO4 gives SO3, whose sulphur is positively charged, acting as the electrophile.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজিনের ওজোনাইডের আর্দ্র বিশ্লেষণে উৎপন্ন H₂O₂ নষ্ট করতে কী যোগ করা হয়?",
+     "question_en": "Which substance is added to destroy the H2O2 formed in hydrolysis of benzene triozonide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জিংক গুঁড়া",
+       "en": "Zinc dust"
+      },
+      {
+       "id": "b",
+       "bn": "তামার গুঁড়া",
+       "en": "Copper powder"
+      },
+      {
+       "id": "c",
+       "bn": "অনার্দ্র AlCl₃",
+       "en": "Anhydrous AlCl3"
+      },
+      {
+       "id": "d",
+       "bn": "Ni চূর্ণ",
+       "en": "Powdered Ni"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "জিংক H₂O₂ কে বিনষ্ট করে ZnO ও পানি তৈরি করে।",
+     "explanation_en": "Zn reacts with H2O2 giving ZnO and water.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "বেনজিন অসম্পৃক্ত হওয়া সত্ত্বেও ইথিলিনের মতো যুত বিক্রিয়া সহজে না দিয়ে প্রতিস্থাপন বিক্রিয়া দেয় কেন (বইয়ের ব্যাখ্যা অনুযায়ী)?",
+     "question_en": "Why does benzene mainly undergo substitution rather than easy addition (per the book)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৬টি π ইলেকট্রন সঞ্চরণশীল হওয়ায় চক্রটি স্থায়ী",
+       "en": "Six delocalised pi electrons make the ring stable"
+      },
+      {
+       "id": "b",
+       "bn": "এতে কোনো π ইলেকট্রন নেই",
+       "en": "It has no pi electrons"
+      },
+      {
+       "id": "c",
+       "bn": "এতে শুধু একক বন্ধন আছে",
+       "en": "It has only single bonds"
+      },
+      {
+       "id": "d",
+       "bn": "এটি সংকরণহীন",
+       "en": "It has no hybridisation"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সঞ্চরণশীল π ইলেকট্রন মেঘ বলয়কে স্থায়ী করে, তাই ইলেকট্রনাকর্ষী প্রতিস্থাপন প্রধান।",
+     "explanation_en": "The delocalised pi cloud stabilises the ring so electrophilic substitution dominates.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.41",
+   "title_bn": "বেনজিনের ব্যবহার",
+   "title_en": "Uses of benzene",
+   "notes_bn": "বেনজিন চর্বি, তেল, মোম, রেজিন, সালফার, আয়োডিন ইত্যাদির উত্তম দ্রাবক।\nপেট্রোলে মিশিয়ে ইঞ্জিনের অকটেন নাম্বার বাড়ানো হয়।\nনাইট্রোবেনজিন, অ্যানিলিন, রঞ্জক, ফেনল, ক্লোরোবেনজিন, গ্যামেক্সিন, ওষুধ, প্লাস্টিক, বিস্ফোরক প্রস্তুতিতে ব্যবহৃত।\nরেশম-পশমের কাপড়ের ড্রাই ওয়াশিংয়ে এবং পরীক্ষাগারে বিকারক হিসেবে ব্যবহার হয়।",
+   "notes_en": "Benzene is a good solvent for fats, oils, wax, resins, sulphur and iodine.\nAdded to petrol to raise the octane number.\nUsed to make nitrobenzene, aniline, dyes, phenol, chlorobenzene, gammexane, drugs, plastics, explosives.\nUsed for dry-washing silk and wool and as a laboratory reagent.",
+   "mcqs": [
+    {
+     "question_bn": "ইঞ্জিনের জ্বালানির অকটেন নাম্বার বৃদ্ধির জন্য পেট্রোলে কী মেশানো হয়?",
+     "question_en": "What is mixed with petrol to raise its octane number?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "b",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লিসারিন",
+       "en": "Glycerine"
+      },
+      {
+       "id": "d",
+       "bn": "সালফার",
+       "en": "Sulphur"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে পেট্রোলিয়ামের সাথে বেনজিন মিশিয়ে অকটেন নাম্বার বাড়ানো হয়।",
+     "explanation_en": "The book states benzene is blended with petroleum to raise the octane number.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি বেনজিনের সরাসরি ব্যবহার নয় (বই অনুযায়ী)?",
+     "question_en": "Which is NOT a use of benzene per the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চর্বির দ্রাবক",
+       "en": "Solvent for fats"
+      },
+      {
+       "id": "b",
+       "bn": "ড্রাই ওয়াশিং",
+       "en": "Dry washing"
+      },
+      {
+       "id": "c",
+       "bn": "গ্যামেক্সিন প্রস্তুতি",
+       "en": "Making gammexane"
+      },
+      {
+       "id": "d",
+       "bn": "পানীয় জল শোধন",
+       "en": "Purifying drinking water"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "পানীয় জল শোধনে বেনজিন ব্যবহৃত হয় না।",
+     "explanation_en": "Benzene is not used for purifying drinking water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজিন থেকে নিচের কোনটি প্রস্তুত করা যায়?",
+     "question_en": "Which can be prepared from benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "b",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নাইট্রোবেনজিন হয়ে অ্যানিলিনসহ বহু যৌগ বেনজিন থেকে তৈরি হয়; তালিকায় অ্যানিলিন আছে।",
+     "explanation_en": "Aniline appears in the book's list of benzene-derived products.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "5.42",
+   "title_bn": "অ্যারোমেটিসিটি বা অ্যারোমেটিকত্ব",
+   "title_en": "Aromaticity",
+   "notes_bn": "সুষম ষড়ভুজাকার চক্রীয় ও সমতলীয় যৌগে হাকেল নিয়মিত (4n+2) সংখ্যক সঞ্চরণশীল π ইলেকট্রন থাকলে অ্যারোমেটিসিটি; n=0,1,2,3 হলে 2, 6, 10, 14 (হাকেল সংখ্যা)।\nবৈশিষ্ট্য: (১) বিশেষ ধরনের অসম্পৃক্ততা — H₂, হ্যালোজেনের সাথে যুত যৌগ দিলেও HCl, HBr এর সাথে যুত দেয় না; (২) ইলেকট্রনাকর্ষী প্রতিস্থাপন (নাইট্রেশন, সালফোনেশন, ফ্রিডেল-ক্রাফট); (৩) বিশেষ স্থায়িত্ব — জলীয় KMnO₄ দ্বারা জারিত হয় না; (৪) অনুরণন — C–C দূরত্ব 0.139 nm।\nঅ্যারোমেটিক হাইড্রক্সি যৌগ ফেনল অম্লধর্মী, কিন্তু অ্যালিফেটিক মিথাইল অ্যালকোহল নিরপেক্ষ।",
+   "notes_en": "Aromaticity: a planar cyclic compound with (4n+2) delocalised pi electrons (Huckel); n=0,1,2,3 gives 2, 6, 10, 14.\nFeatures: (1) special unsaturation - adds H2/halogens but not HCl/HBr; (2) electrophilic substitution (nitration, sulphonation, Friedel-Crafts); (3) extra stability - not oxidised by aqueous KMnO4; (4) resonance - C-C 0.139 nm.\nAromatic hydroxy compound phenol is acidic whereas aliphatic methanol is neutral.",
+   "mcqs": [
+    {
+     "question_bn": "হাকেল নিয়ম অনুযায়ী n = 1 হলে সঞ্চরণশীল π ইলেকট্রন সংখ্যা কত?",
+     "question_en": "By Huckel's rule, how many pi electrons for n = 1?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "c",
+       "bn": "10",
+       "en": "10"
+      },
+      {
+       "id": "d",
+       "bn": "14",
+       "en": "14"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "4n+2 = 4×1+2 = 6।",
+     "explanation_en": "4n+2 = 4(1)+2 = 6.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজিন নিচের কোন বিকারকের সাথে যুত বিক্রিয়া দেয় না?",
+     "question_en": "With which reagent does benzene NOT give an addition product?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂",
+       "en": "H₂"
+      },
+      {
+       "id": "b",
+       "bn": "Cl₂ (সূর্যালোকে)",
+       "en": "Cl₂ (সূর্যালোকে)"
+      },
+      {
+       "id": "c",
+       "bn": "O₃",
+       "en": "O₃"
+      },
+      {
+       "id": "d",
+       "bn": "HCl",
+       "en": "HCl"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "অ্যারোমেটিক যৌগের অসম্পৃক্ততা বিশেষ ধরনের; HCl, HBr এর সাথে যুত দেয় না।",
+     "explanation_en": "Benzene's unsaturation is special; it does not add HCl or HBr.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি অ্যারোমেটিকত্বের বৈশিষ্ট্য নয়?",
+     "question_en": "Which is NOT a feature of aromaticity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলেকট্রনাকর্ষী প্রতিস্থাপন",
+       "en": "Electrophilic substitution"
+      },
+      {
+       "id": "b",
+       "bn": "জলীয় KMnO₄ দ্বারা সহজ জারণ",
+       "en": "Easy oxidation by aqueous KMnO4"
+      },
+      {
+       "id": "c",
+       "bn": "বিশেষ স্থায়িত্ব",
+       "en": "Special stability"
+      },
+      {
+       "id": "d",
+       "bn": "অনুরণন",
+       "en": "Resonance"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যারোমেটিক যৌগ জলীয় KMnO₄ দ্বারা জারিত হয় না, যা ইথিলিনের ক্ষেত্রে হয়।",
+     "explanation_en": "Aromatic compounds resist aqueous KMnO4 whereas ethene is oxidised.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন জোড়ায় প্রথমটি অম্লধর্মী, দ্বিতীয়টি নিরপেক্ষ?",
+     "question_en": "In which pair is the first acidic and the second neutral?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেনল, মিথাইল অ্যালকোহল",
+       "en": "Phenol, methyl alcohol"
+      },
+      {
+       "id": "b",
+       "bn": "মিথাইল অ্যালকোহল, ফেনল",
+       "en": "Methyl alcohol, phenol"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল, বেনজিন সালফোনিক অ্যাসিড",
+       "en": "Phenol, benzenesulphonic acid"
+      },
+      {
+       "id": "d",
+       "bn": "মিথাইল অ্যালকোহল, ইথানল",
+       "en": "Methyl alcohol, ethanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ফেনল অম্লধর্মী ও CH₃OH নিরপেক্ষ বলা আছে।",
+     "explanation_en": "The book gives phenol as acidic and CH3OH as neutral.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.43",
+   "title_bn": "অ্যারোমেটিসিটি ও হাকেল তত্ত্ব",
+   "title_en": "Aromaticity and Huckel theory",
+   "notes_bn": "হাকেল (1931) অনুযায়ী অ্যারোমেটিসিটির শর্ত: (১) অণু চক্রীয়, সমতলীয়, বলয়ে 5 বা 6টি পরমাণু; (২) প্রতিটি পরমাণুতে p অরবিটাল থেকে সঞ্চরণশীল আণবিক অরবিটাল; (৩) π ইলেকট্রন সংখ্যা (4n+2)।\nউদাহরণ: n=0 সাইক্লোপ্রোপিনাইল ক্যাটায়ন (2e); n=1 বেনজিন, পিরিডিন, ফিউরান (6e); n=2 ন্যাফথালিন (10e); n=3 অ্যান্থ্রাসিন (14e)।\nপঞ্চভুজাকার হেটারোসাইক্লিকে (যেমন ফিউরান) হেটারো পরমাণুর নিঃসঙ্গ ইলেকট্রন জোড় π-সিস্টেমে অংশ নিয়ে সংখ্যা পূর্ণ করে।",
+   "notes_en": "Huckel (1931) conditions: (1) cyclic, planar, 5- or 6-membered ring; (2) a p orbital on every ring atom giving a delocalised molecular orbital; (3) (4n+2) pi electrons.\nExamples: n=0 cyclopropenyl cation (2e); n=1 benzene, pyridine, furan (6e); n=2 naphthalene (10e); n=3 anthracene (14e).\nIn five-membered heterocycles (e.g. furan) the heteroatom lone pair joins the pi system to complete the count.",
+   "mcqs": [
+    {
+     "question_bn": "ন্যাফথালিনে সঞ্চরণশীল π ইলেকট্রন সংখ্যা কত?",
+     "question_en": "How many delocalised pi electrons are in naphthalene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "b",
+       "bn": "10",
+       "en": "10"
+      },
+      {
+       "id": "c",
+       "bn": "14",
+       "en": "14"
+      },
+      {
+       "id": "d",
+       "bn": "2",
+       "en": "2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "n=2 এর জন্য 4×2+2 = 10।",
+     "explanation_en": "n=2 gives 4(2)+2 = 10.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যান্থ্রাসিনের ক্ষেত্রে হাকেল সূত্রে n এর মান কত?",
+     "question_en": "What is n in Huckel's rule for anthracene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "0",
+       "en": "0"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অ্যান্থ্রাসিনে 14 = 4n+2, তাই n = 3।",
+     "explanation_en": "14 = 4n+2 gives n = 3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাইক্লোপ্রোপিনাইল ক্যাটায়নে π ইলেকট্রন সংখ্যা ও n কত?",
+     "question_en": "Pi electrons and n for the cyclopropenyl cation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2, n=0",
+       "en": "2, n=0"
+      },
+      {
+       "id": "b",
+       "bn": "6, n=1",
+       "en": "6, n=1"
+      },
+      {
+       "id": "c",
+       "bn": "4, n=0",
+       "en": "4, n=0"
+      },
+      {
+       "id": "d",
+       "bn": "10, n=2",
+       "en": "10, n=2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "4×0+2 = 2 ইলেকট্রন, n=0।",
+     "explanation_en": "4(0)+2 = 2 electrons, n = 0.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফিউরানে হাকেল সংখ্যা (6) পূরণ হয় কীভাবে?",
+     "question_en": "How does furan reach the Huckel count of 6?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O পরমাণুর নিঃসঙ্গ ইলেকট্রন জোড় π-সিস্টেমে অংশ নিয়ে",
+       "en": "Oxygen lone pair joins the pi system"
+      },
+      {
+       "id": "b",
+       "bn": "৬টি দ্বিবন্ধন থাকায়",
+       "en": "Having six double bonds"
+      },
+      {
+       "id": "c",
+       "bn": "বলয়ে ৮টি পরমাণু থাকায়",
+       "en": "Having eight ring atoms"
+      },
+      {
+       "id": "d",
+       "bn": "H পরমাণু ইলেকট্রন দেয় বলে",
+       "en": "Hydrogen donating electrons"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হেটারো পরমাণুর p অরবিটালের নিঃসঙ্গ জোড় 2টি ইলেকট্রন যোগায়।",
+     "explanation_en": "The heteroatom p-orbital lone pair supplies the two extra electrons.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.44",
+   "title_bn": "অ্যারোমেটিক মূলক বা অ্যারাইল মূলক",
+   "title_en": "Aryl radicals",
+   "notes_bn": "অ্যারোমেটিক হাইড্রোকার্বনের বলয় থেকে একটি H সরালে অবশিষ্ট অংশ অ্যারাইল মূলক (সংক্ষেপে Ar)।\nবেনজিন → ফিনাইল (C₆H₅–, সংক্ষেপে Ph বা φ)।\nটলুইন বলয় থেকে H সরালে টলাইল (CH₃C₆H₄–); মিথাইল মূলক থেকে H সরালে বেনজাইল (C₆H₅CH₂–); দুটি H সরালে বেনজাল (C₆H₅CH=); তিনটি H সরালে বেনজো (C₆H₅C≡)।",
+   "notes_en": "Removing one H from an aromatic ring gives an aryl radical (Ar).\nBenzene gives phenyl (C6H5-, Ph or phi).\nToluene: ring H removed gives tolyl (CH3C6H4-); methyl H removed gives benzyl (C6H5CH2-); two H gives benzal (C6H5CH=); three H gives benzo (C6H5C-triple).",
+   "mcqs": [
+    {
+     "question_bn": "বেনজিন থেকে একটি H সরালে কোন মূলক উৎপন্ন হয়?",
+     "question_en": "Which radical forms on removing one H from benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফিনাইল",
+       "en": "Phenyl"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজাইল",
+       "en": "Benzyl"
+      },
+      {
+       "id": "c",
+       "bn": "টলাইল",
+       "en": "Tolyl"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজাল",
+       "en": "Benzal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C₆H₆ – H → C₆H₅– ফিনাইল।",
+     "explanation_en": "C6H6 - H gives C6H5-, phenyl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "C₆H₅CH₂– মূলকের নাম কী?",
+     "question_en": "Name of the radical C6H5CH2-?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজাইল",
+       "en": "Benzyl"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজাল",
+       "en": "Benzal"
+      },
+      {
+       "id": "c",
+       "bn": "টলাইল",
+       "en": "Tolyl"
+      },
+      {
+       "id": "d",
+       "bn": "ফিনাইল",
+       "en": "Phenyl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "টলুইনের মিথাইল মূলক থেকে একটি H সরালে বেনজাইল পাওয়া যায়।",
+     "explanation_en": "Loss of one H from toluene's methyl gives benzyl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টলুইনের মিথাইল থেকে দুটি H সরালে কোন মূলক পাওয়া যায়?",
+     "question_en": "Which radical results from removing two H atoms from toluene's methyl group?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজাল C₆H₅CH=",
+       "en": "Benzal C6H5CH="
+      },
+      {
+       "id": "b",
+       "bn": "বেনজাইল",
+       "en": "Benzyl"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজো C₆H₅C≡",
+       "en": "Benzo C6H5C-triple"
+      },
+      {
+       "id": "d",
+       "bn": "টলাইল",
+       "en": "Tolyl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুটি H সরালে দ্বিযোজী বেনজাল মূলক হয়।",
+     "explanation_en": "Two H removed gives the divalent benzal radical.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH₃–C₆H₄– মূলকটির নাম?",
+     "question_en": "What is CH3-C6H4- called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টলাইল",
+       "en": "Tolyl"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজাইল",
+       "en": "Benzyl"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজো",
+       "en": "Benzo"
+      },
+      {
+       "id": "d",
+       "bn": "ফিনাইল",
+       "en": "Phenyl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "টলুইনের বলয় থেকে H সরালে টলাইল মূলক।",
+     "explanation_en": "Ring H removed from toluene gives tolyl.",
+     "difficulty": "basic"
+    }
+   ]
+  },
+  {
+   "section_no": "5.45",
+   "title_bn": "বেনজিন উদ্ভূতকের সমাণুতা ও নামকরণ",
+   "title_en": "Isomers of benzene and naming of derivatives",
+   "notes_bn": "একপ্রতিস্থাপিত জাতক: মূলকের নাম অনুসারে নাম — টলুইন (–CH₃), ব্রোমোবেনজিন, ফেনল (–OH), অ্যানিলিন (–NH₂), বেনজালডিহাইড (–CHO), বেনজোয়িক অ্যাসিড (–COOH)।\nদ্বিপ্রতিস্থাপিত: তিনটি সমাণু — অর্থো (1:2 বা 1:6), মেটা (1:3 বা 1:5), প্যারা (1:4)। ডাইক্লোরোবেনজিন C₆H₄Cl₂ ও জাইলিন C₆H₄(CH₃)₂ প্রত্যেকের ৩টি সমাণু।\nনামকরণ নিয়ম: দুটি মূলকের মধ্যে ইংরেজি বর্ণমালায় যার নাম শেষে আসে সেটির অবস্থান ১ ধরা হয়; যেমন p-ব্রোমো আয়োডোবেনজিন (I এ 1, Br এ 4)।\nত্রি বা বহু প্রতিস্থাপিত: অবস্থান সংখ্যায় লেখা হয়, যেমন 1,2,3-ট্রাইব্রোমোবেনজিন, 1,3,5-ট্রাইনাইট্রোবেনজিন, 2-ক্লোরো-4-নাইট্রোফেনল।",
+   "notes_en": "Monosubstituted: named after the substituent - toluene (CH3), bromobenzene, phenol (OH), aniline (NH2), benzaldehyde (CHO), benzoic acid (COOH).\nDisubstituted: three isomers - ortho (1:2/1:6), meta (1:3/1:5), para (1:4). Dichlorobenzene C6H4Cl2 and xylene C6H4(CH3)2 each have 3 isomers.\nNaming rule: of the two groups, the one whose name comes later alphabetically gets position 1, e.g. p-bromoiodobenzene (I at 1, Br at 4).\nPolysubstituted: positions given by numbers, e.g. 1,2,3-tribromobenzene, 1,3,5-trinitrobenzene, 2-chloro-4-nitrophenol.",
+   "mcqs": [
+    {
+     "question_bn": "ডাইক্লোরোবেনজিন C₆H₄Cl₂ এর সমাণু সংখ্যা কত?",
+     "question_en": "How many isomers does C6H4Cl2 (dichlorobenzene) have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "6",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অর্থো, মেটা ও প্যারা — মোট ৩টি।",
+     "explanation_en": "Ortho, meta and para: three.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজিন বলয়ে 1:3 অবস্থানকে কী বলে?",
+     "question_en": "What is the 1:3 position on a benzene ring called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অর্থো",
+       "en": "অর্থো"
+      },
+      {
+       "id": "b",
+       "bn": "মেটা",
+       "en": "মেটা"
+      },
+      {
+       "id": "c",
+       "bn": "প্যারা",
+       "en": "প্যারা"
+      },
+      {
+       "id": "d",
+       "bn": "আইসো",
+       "en": "আইসো"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "1:3 (বা 1:5) অবস্থান মেটা।",
+     "explanation_en": "1:3 (or 1:5) is meta.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "-C₆H₄(CH₃)₂ আণবিক সংকেতের জাইলিনের মোট সমাণু কতটি?",
+     "question_en": "How many isomers does xylene C6H4(CH3)2 have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "দ্বিপ্রতিস্থাপিত হওয়ায় o-, m-, p- তিনটি।",
+     "explanation_en": "As a disubstituted benzene: o-, m-, p-.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্যারা অবস্থানে Br ও I যুক্ত বেনজিনকে বইয়ের নিয়মে কী বলা হয়?",
+     "question_en": "By the book's rule, what is benzene with Br and I para called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "p-ব্রোমো আয়োডোবেনজিন",
+       "en": "p-Bromoiodobenzene"
+      },
+      {
+       "id": "b",
+       "bn": "p-আয়োডো ব্রোমোবেনজিন",
+       "en": "p-Iodobromobenzene"
+      },
+      {
+       "id": "c",
+       "bn": "o-ব্রোমো আয়োডোবেনজিন",
+       "en": "o-Bromoiodobenzene"
+      },
+      {
+       "id": "d",
+       "bn": "m-ব্রোমো আয়োডোবেনজিন",
+       "en": "m-Bromoiodobenzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "I নামটি বর্ণানুক্রমে পরে আসে, তাই I এ 1 ধরা হয়; Br 4 অবস্থানে, অর্থাৎ প্যারা।",
+     "explanation_en": "I comes later alphabetically so it takes position 1; Br is at 4, para.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1,3,5-ট্রাইনাইট্রোবেনজিনে NO₂ মূলকগুলোর অবস্থান সম্পর্ক কী?",
+     "question_en": "What is the relationship among the NO2 groups in 1,3,5-trinitrobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পরস্পর মেটা",
+       "en": "Mutually meta"
+      },
+      {
+       "id": "b",
+       "bn": "পরস্পর অর্থো",
+       "en": "Mutually ortho"
+      },
+      {
+       "id": "c",
+       "bn": "পরস্পর প্যারা",
+       "en": "Mutually para"
+      },
+      {
+       "id": "d",
+       "bn": "দুটি অর্থো, একটি প্যারা",
+       "en": "Two ortho, one para"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1:3, 3:5, 1:5 সবই মেটা সম্পর্ক।",
+     "explanation_en": "1:3, 3:5 and 1:5 are all meta relationships.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.46",
+   "title_bn": "বেনজিন চক্রে প্রতিস্থাপকের প্রভাব",
+   "title_en": "Effects of substituents on the benzene ring",
+   "notes_bn": "আবেশীয় ফল (inductive): কার্বনের চেয়ে অধিক তড়িৎঋণাত্মক X (F, Cl, Br) σ ইলেকট্রন নিজের দিকে টানলে –I ফল; অ্যালকাইল মূলক (R–, যেমন CH₃) ইলেকট্রন ঠেলে দিলে +I ফল।\nমেসোমারিক ফল (M): π বন্ধনের ইলেকট্রন অধিক তড়িৎঋণাত্মক পরমাণুর দিকে স্থানান্তর; কনজুগেটেড সিস্টেমে ঘটে বলে কনজুগেট ফলও বলে।\n–M ফল: >C=O, –C≡N, –NO₂, –SO₃H। +M ফল: –OH, –NH₂, হ্যালোজেন (নিঃসঙ্গ জোড় ইলেকট্রন বলয়ের দিকে)।\nধনাত্মক মেসোমারিক ফল হলো ঋণাত্মক পরমাণুর নিঃসঙ্গ জোড় একান্তর দ্বিবন্ধনযুক্ত কার্বন শিকল/বলয়ের দিকে স্থানান্তর।",
+   "notes_en": "Inductive effect: an atom X more electronegative than carbon (F, Cl, Br) pulls sigma electrons = -I; alkyl groups (R-, e.g. CH3) push electrons = +I.\nMesomeric effect (M): pi electrons move toward a more electronegative atom; also called conjugative effect since it needs conjugation.\n-M groups: >C=O, -C triple N, -NO2, -SO3H. +M groups: -OH, -NH2, halogens (lone pairs towards the ring).\nA +M effect is donation of a lone pair from the heteroatom into an alternating double-bond chain or ring.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি +I ফলযুক্ত মূলক?",
+     "question_en": "Which group shows a +I effect?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–Cl",
+       "en": "–Cl"
+      },
+      {
+       "id": "b",
+       "bn": "–CH₃",
+       "en": "–CH₃"
+      },
+      {
+       "id": "c",
+       "bn": "–NO₂",
+       "en": "–NO₂"
+      },
+      {
+       "id": "d",
+       "bn": "–SO₃H",
+       "en": "–SO₃H"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যালকাইল মূলক (CH₃) ইলেকট্রন ঠেলে দেয়, তাই +I।",
+     "explanation_en": "Alkyl groups such as CH3 donate electrons: +I.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটির –M ফল আছে?",
+     "question_en": "Which group has a –M effect?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–OH",
+       "en": "–OH"
+      },
+      {
+       "id": "b",
+       "bn": "–NH₂",
+       "en": "–NH₂"
+      },
+      {
+       "id": "c",
+       "bn": "–NO₂",
+       "en": "–NO₂"
+      },
+      {
+       "id": "d",
+       "bn": "–CH₃",
+       "en": "–CH₃"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "–NO₂ বলয় থেকে π ইলেকট্রন নিজের দিকে টানে।",
+     "explanation_en": "-NO2 withdraws pi electrons from the ring.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "–OH মূলকের ক্ষেত্রে প্রভাব সম্পর্কে বইয়ের বক্তব্য কোনটি?",
+     "question_en": "Which statement matches the book for the –OH group?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–I ও +M উভয় আছে, তবে +M > –I",
+       "en": "Both –I and +M, with +M > –I"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু –I",
+       "en": "Only –I"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু +I",
+       "en": "Only +I"
+      },
+      {
+       "id": "d",
+       "bn": "–M ও –I",
+       "en": "–M and –I"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অক্সিজেনের নিঃসঙ্গ জোড় (+M) আবেশীয় (–I) এর চেয়ে বেশি কার্যকর।",
+     "explanation_en": "The oxygen lone pair (+M) outweighs the inductive withdrawal (-I).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মেসোমারিক ফলকে আর কী বলা হয়?",
+     "question_en": "What else is the mesomeric effect called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কনজুগেট ফল",
+       "en": "Conjugate effect"
+      },
+      {
+       "id": "b",
+       "bn": "আবেশীয় ফল",
+       "en": "Inductive effect"
+      },
+      {
+       "id": "c",
+       "bn": "হাইড্রোজেন বন্ধন ফল",
+       "en": "Hydrogen bonding effect"
+      },
+      {
+       "id": "d",
+       "bn": "স্টেরিক ফল",
+       "en": "Steric effect"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কনজুগেটেড π বন্ধনের সহায়তায় ঘটে বলে এ নাম।",
+     "explanation_en": "It operates through conjugated pi bonds.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটিতে –I ফল আছে কিন্তু বইয়ের তালিকায় হ্যালোজেন পরমাণু হিসেবে +M ও দেখায়?",
+     "question_en": "Which type of atom shows -I and also +M (lone pair) per the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–Cl",
+       "en": "–Cl"
+      },
+      {
+       "id": "b",
+       "bn": "–CH₃",
+       "en": "–CH₃"
+      },
+      {
+       "id": "c",
+       "bn": "–C₂H₅",
+       "en": "–C₂H₅"
+      },
+      {
+       "id": "d",
+       "bn": "–CHO",
+       "en": "–CHO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Cl তড়িৎঋণাত্মক (–I) ও নিঃসঙ্গ জোড়যুক্ত (+M)।",
+     "explanation_en": "Cl is electronegative (-I) and has lone pairs (+M).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.47",
+   "title_bn": "বেনজিন বলয়ে প্রথম প্রতিস্থাপকের ইলেকট্রোফাইলের প্রতি নির্দেশক প্রভাব",
+   "title_en": "Directive effect of the first substituent",
+   "notes_bn": "বলয়ে প্রথম মূলক থাকলে দ্বিতীয় ইলেকট্রোফাইল কোথায় ঢুকবে তা প্রথম মূলক নির্ধারণ করে।\nসক্রিয়কারী মূলক (+I বা +M): –CH₃, –OH, –NH₂ — বলয়ে ইলেকট্রন ঘনত্ব বাড়ায়, অর্থো-প্যারা নির্দেশক; টলুইন, ফেনল বেনজিনের চেয়ে সক্রিয়।\nনিষ্ক্রিয়কারী মূলক (–M): –NO₂, –CHO, –SO₃H, –COOH — অর্থো-প্যারায় ইলেকট্রন ঘনত্ব কমায়, মেটা নির্দেশক; নাইট্রোবেনজিন বেনজিনের চেয়ে কম সক্রিয়।\n–CH₃ এর ক্ষেত্রে হাইপারকনজুগেশন (বন্ধনবিহীন অনুরণন) ইলেকট্রন ঘনত্ব বাড়ায়। টলুইন নাইট্রেশনে o- ও p-নাইট্রোটলুইন; ফেনল ও অ্যানিলিনে +M দ্বারা অর্থো-প্যারা সক্রিয়।\nনাইট্রোবেনজিনকে 100°C এ নাইট্রেশন করলে 1,3-ডাইনাইট্রোবেনজিন (মেটা) পাওয়া যায়।",
+   "notes_en": "The first substituent decides where the second electrophile enters.\nActivating groups (+I/+M): -CH3, -OH, -NH2 raise ring electron density, are ortho-para directing; toluene and phenol are more reactive than benzene.\nDeactivating groups (-M): -NO2, -CHO, -SO3H, -COOH lower density at ortho/para, are meta directing; nitrobenzene is less reactive than benzene.\nFor -CH3 hyperconjugation (no-bond resonance) increases density. Toluene nitration gives o- and p-nitrotoluene; phenol and aniline are activated by +M at ortho/para.\nNitrobenzene nitrated at 100C gives 1,3-dinitrobenzene (meta).",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি অর্থো-প্যারা নির্দেশক মূলক?",
+     "question_en": "Which is an ortho-para directing group?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–NO₂",
+       "en": "–NO₂"
+      },
+      {
+       "id": "b",
+       "bn": "–CHO",
+       "en": "–CHO"
+      },
+      {
+       "id": "c",
+       "bn": "–OH",
+       "en": "–OH"
+      },
+      {
+       "id": "d",
+       "bn": "–COOH",
+       "en": "–COOH"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "–OH বলয়কে সক্রিয় করে অর্থো-প্যারা নির্দেশ করে।",
+     "explanation_en": "-OH activates the ring and directs ortho/para.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নাইট্রোবেনজিনের নাইট্রেশনে প্রধান উৎপাদ কী?",
+     "question_en": "Main product on nitrating nitrobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মেটা-ডাইনাইট্রোবেনজিন",
+       "en": "m-Dinitrobenzene"
+      },
+      {
+       "id": "b",
+       "bn": "অর্থো-ডাইনাইট্রোবেনজিন",
+       "en": "o-Dinitrobenzene"
+      },
+      {
+       "id": "c",
+       "bn": "প্যারা-ডাইনাইট্রোবেনজিন",
+       "en": "p-Dinitrobenzene"
+      },
+      {
+       "id": "d",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "–NO₂ মেটা নির্দেশক।",
+     "explanation_en": "-NO2 is meta directing.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি বেনজিনের চেয়ে ইলেকট্রোফাইলিক প্রতিস্থাপনে বেশি সক্রিয়?",
+     "question_en": "Which is more reactive than benzene to electrophilic substitution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নাইট্রোবেনজিন",
+       "en": "নাইট্রোবেনজিন"
+      },
+      {
+       "id": "b",
+       "bn": "টলুইন",
+       "en": "টলুইন"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজোয়িক অ্যাসিড",
+       "en": "বেনজোয়িক অ্যাসিড"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন সালফোনিক অ্যাসিড",
+       "en": "বেনজিন সালফোনিক অ্যাসিড"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "–CH₃ ইলেকট্রন ঘনত্ব বাড়ায়; বাকিগুলো নিষ্ক্রিয়কারী মূলকযুক্ত।",
+     "explanation_en": "-CH3 increases ring electron density; the others carry deactivating groups.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টলুইনের নাইট্রেশনে মেটা নাইট্রোটলুইন প্রধান নয় কেন?",
+     "question_en": "Why is m-nitrotoluene not the main product of nitrating toluene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–CH₃ অর্থো-প্যারা নির্দেশক",
+       "en": "-CH3 is ortho-para directing"
+      },
+      {
+       "id": "b",
+       "bn": "–CH₃ মেটা নির্দেশক",
+       "en": "-CH3 is meta directing"
+      },
+      {
+       "id": "c",
+       "bn": "টলুইন নাইট্রেশন করে না",
+       "en": "Toluene cannot be nitrated"
+      },
+      {
+       "id": "d",
+       "bn": "NO₂⁺ তৈরি হয় না",
+       "en": "NO2+ is not formed"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "–CH₃ অর্থো ও প্যারায় ইলেকট্রন ঘনত্ব বাড়ায়।",
+     "explanation_en": "-CH3 raises density at ortho and para positions.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফেনলে –OH অর্থো-প্যারা নির্দেশক হওয়ার প্রধান কারণ?",
+     "question_en": "Chief reason –OH in phenol is ortho-para directing?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+M ফল –I কে ছাপিয়ে যায়",
+       "en": "+M outweighs –I"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু –I ফল",
+       "en": "Only the –I effect"
+      },
+      {
+       "id": "c",
+       "bn": "–M ফল",
+       "en": "–M effect"
+      },
+      {
+       "id": "d",
+       "bn": "হাইড্রোজেন বন্ধন",
+       "en": "Hydrogen bonding"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অক্সিজেনের নিঃসঙ্গ জোড় বলয়ে দান হয়ে অর্থো-প্যারায় ঘনত্ব বাড়ায়।",
+     "explanation_en": "Lone-pair donation raises density at ortho/para.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নিচের কোন গোষ্ঠী বলয়কে নিষ্ক্রিয় করে ও মেটা নির্দেশক?",
+     "question_en": "Which group deactivates the ring and is meta directing?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–NH₂",
+       "en": "–NH₂"
+      },
+      {
+       "id": "b",
+       "bn": "–CH₃",
+       "en": "–CH₃"
+      },
+      {
+       "id": "c",
+       "bn": "–SO₃H",
+       "en": "–SO₃H"
+      },
+      {
+       "id": "d",
+       "bn": "–OH",
+       "en": "–OH"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "–SO₃H এর –M ফল আছে।",
+     "explanation_en": "-SO3H has a -M effect.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "5.48",
+   "title_bn": "টলুইনের ভৌত ধর্ম",
+   "title_en": "Physical properties of toluene",
+   "notes_bn": "টলুইন বর্ণহীন তরল পদার্থ।\nস্ফুটনাঙ্ক 111°C; আপেক্ষিক গুরুত্ব 0.866 (পানির চেয়ে হালকা)।\nপানিতে অদ্রবণীয়, কিন্তু অ্যালকোহল ও ইথারে বেশ দ্রবণীয়।\n(গলনাঙ্ক বইয়ের ছাপায় অস্পষ্ট/সন্দেহজনক — এখানে ব্যবহার করা হয়নি।)",
+   "notes_en": "Toluene is a colourless liquid.\nBoiling point 111C; specific gravity 0.866 (lighter than water).\nInsoluble in water, quite soluble in alcohol and ether.\n(The printed melting point looked doubtful and is not used.)",
+   "mcqs": [
+    {
+     "question_bn": "টলুইনের স্ফুটনাঙ্ক কত?",
+     "question_en": "Boiling point of toluene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "80°C",
+       "en": "80°C"
+      },
+      {
+       "id": "b",
+       "bn": "111°C",
+       "en": "111°C"
+      },
+      {
+       "id": "c",
+       "bn": "78°C",
+       "en": "78°C"
+      },
+      {
+       "id": "d",
+       "bn": "100°C",
+       "en": "100°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী 111°C।",
+     "explanation_en": "111C per the book.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টলুইনের আপেক্ষিক গুরুত্ব কত?",
+     "question_en": "Specific gravity of toluene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.26",
+       "en": "1.26"
+      },
+      {
+       "id": "b",
+       "bn": "0.866",
+       "en": "0.866"
+      },
+      {
+       "id": "c",
+       "bn": "1.0",
+       "en": "1.0"
+      },
+      {
+       "id": "d",
+       "bn": "0.789",
+       "en": "0.789"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "0.866 — পানির চেয়ে হালকা।",
+     "explanation_en": "0.866, lighter than water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টলুইন সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which is correct for toluene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানিতে অদ্রবণীয়, ইথারে দ্রবণীয়",
+       "en": "Insoluble in water, soluble in ether"
+      },
+      {
+       "id": "b",
+       "bn": "পানিতে অত্যন্ত দ্রবণীয়",
+       "en": "Highly soluble in water"
+      },
+      {
+       "id": "c",
+       "bn": "বর্ণযুক্ত কঠিন",
+       "en": "A coloured solid"
+      },
+      {
+       "id": "d",
+       "bn": "পানির চেয়ে ভারী",
+       "en": "Heavier than water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "টলুইন পানিতে অদ্রবণীয়, অ্যালকোহল ও ইথারে দ্রবণীয়।",
+     "explanation_en": "Insoluble in water, soluble in alcohol/ether.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "5.49",
+   "title_bn": "টলুইনের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of toluene",
+   "notes_bn": "টলুইনে অ্যারোমেটিক নিউক্লিয়াস ও পার্শ্বশিকল –CH₃ দুটোর ধর্মই আছে। –CH₃ এর +I ফলের কারণে বলয় বেনজিনের চেয়ে সক্রিয়; প্রতিস্থাপন o- ও p- অবস্থানে।\nপার্শ্বশিকল: তীব্র জারক (KMnO₄, লঘু HNO₃ 120°C) → বেনজোয়িক অ্যাসিড; মৃদু জারক (CrO₂Cl₂ বা MnO₂ + 65% H₂SO₄, 45°C) → বেনজালডিহাইড (ইটার্ড বিক্রিয়া); Ni, 200°C এ 3H₂ → হেক্সাহাইড্রোটলুইন; আলোতে Cl₂ → বেনজাইল, বেনজাল, বেনজো ক্লোরাইড।\nনিউক্লিয়াসে: Cl₂/Fe 20°C → o- ও p-ক্লোরোটলুইন; নাইট্রেশন 30°C → o-/p-নাইট্রোটলুইন, আরও নাইট্রেশনে 2,4,6-ট্রাইনাইট্রোটলুইন (TNT, বিস্ফোরক); সালফোনেশন 0–5°C → o-/p-টলুইন সালফোনিক অ্যাসিড।\nফ্রিডেল-ক্রাফট: CH₃I/AlCl₃ 20°C → o-, p-জাইলিন; অধিক AlCl₃, 100°C → m-জাইলিন; CH₃COCl/AlCl₃ 40–50°C → মূলত 4-মিথাইল ফিনাইল ইথানোন।",
+   "notes_en": "Toluene shows both ring (aromatic) and side-chain (-CH3) chemistry. -CH3 (+I) makes the ring more reactive than benzene and directs to o- and p-.\nSide chain: strong oxidants (KMnO4, dil. HNO3 120C) give benzoic acid; mild (CrO2Cl2, or MnO2+65% H2SO4 at 45C) give benzaldehyde (Etard); 3H2/Ni/200C gives hexahydrotoluene; Cl2 in light gives benzyl, benzal, benzotrichloride.\nRing: Cl2/Fe 20C gives o- and p-chlorotoluene; nitration at 30C gives o-/p-nitrotoluene, further nitration gives 2,4,6-trinitrotoluene (TNT, explosive); sulphonation at 0-5C gives o-/p-toluenesulphonic acids.\nFriedel-Crafts: CH3I/AlCl3 20C gives o-, p-xylene; excess AlCl3 at 100C gives m-xylene; CH3COCl/AlCl3 40-50C gives mainly 4-methylphenyl ethanone.",
+   "mcqs": [
+    {
+     "question_bn": "টলুইনকে KMnO₄ দিয়ে জারিত করলে চূড়ান্ত উৎপাদ কী?",
+     "question_en": "What is the final product of oxidising toluene with KMnO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজোয়িক অ্যাসিড",
+       "en": "Benzoic acid"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজালডিহাইড",
+       "en": "Benzaldehyde"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তীব্র জারকে –CH₃ সম্পূর্ণ জারিত হয়ে –COOH হয়।",
+     "explanation_en": "Strong oxidants convert -CH3 fully to -COOH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টলুইনকে 2,4,6-ট্রাইনাইট্রোটলুইন এ পরিণত করলে কী পাওয়া যায়?",
+     "question_en": "2,4,6-Trinitrotoluene is commonly known as?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TNT",
+       "en": "TNT"
+      },
+      {
+       "id": "b",
+       "bn": "DDT",
+       "en": "DDT"
+      },
+      {
+       "id": "c",
+       "bn": "TCP",
+       "en": "TCP"
+      },
+      {
+       "id": "d",
+       "bn": "PVC",
+       "en": "PVC"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2,4,6-ট্রাইনাইট্রোটলুইন (TNT) একটি বিস্ফোরক।",
+     "explanation_en": "2,4,6-Trinitrotoluene (TNT) is an explosive.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টলুইন + Cl₂ (Fe, 20°C) বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "Products of toluene + Cl2 (Fe, 20°C)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "o- ও p-ক্লোরোটলুইন",
+       "en": "o- and p-chlorotoluene"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজাইল ক্লোরাইড",
+       "en": "Benzyl chloride"
+      },
+      {
+       "id": "c",
+       "bn": "m-ক্লোরোটলুইন",
+       "en": "m-Chlorotoluene"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজো ক্লোরাইড",
+       "en": "Benzotrichloride"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হ্যালোজেন বাহকের উপস্থিতিতে বলয়ে প্রতিস্থাপন, o- ও p-।",
+     "explanation_en": "With a halogen carrier substitution occurs in the ring at o- and p-.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সূর্যালোকে ফুটন্ত টলুইনে Cl₂ চালনা করলে প্রথমে কোন যৌগ হয়?",
+     "question_en": "Boiling toluene with Cl2 in sunlight first gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজাইল ক্লোরাইড",
+       "en": "Benzyl chloride"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজো ক্লোরাইড",
+       "en": "Benzotrichloride"
+      },
+      {
+       "id": "c",
+       "bn": "p-ক্লোরোটলুইন",
+       "en": "p-Chlorotoluene"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজোয়িক অ্যাসিড",
+       "en": "Benzoic acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পার্শ্বশিকলে ধাপে ধাপে C₆H₅CH₂Cl → C₆H₅CHCl₂ → C₆H₅CCl₃।",
+     "explanation_en": "Stepwise: C6H5CH2Cl, then C6H5CHCl2, then C6H5CCl3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মৃদু জারক MnO₂ + 65% H₂SO₄ (45°C) দ্বারা টলুইন জারিত হলে কী পাওয়া যায়?",
+     "question_en": "Toluene oxidised with MnO2 + 65% H2SO4 at 45°C gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজালডিহাইড",
+       "en": "Benzaldehyde"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজোয়িক অ্যাসিড",
+       "en": "Benzoic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "d",
+       "bn": "সাইক্লোহেক্সেন",
+       "en": "Cyclohexane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এটি ইটার্ড বিক্রিয়া; –CH₃ থেকে –CHO তৈরি হয়।",
+     "explanation_en": "This is the Etard reaction; -CH3 becomes -CHO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অধিক AlCl₃ ও 100°C এ টলুইন ও CH₃I বিক্রিয়ায় কোন জাইলিন পাওয়া যায়?",
+     "question_en": "Which xylene forms from toluene and CH3I with excess AlCl3 at 100°C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মেটা-জাইলিন",
+       "en": "m-Xylene"
+      },
+      {
+       "id": "b",
+       "bn": "অর্থো-জাইলিন",
+       "en": "o-Xylene"
+      },
+      {
+       "id": "c",
+       "bn": "প্যারা-জাইলিন",
+       "en": "p-Xylene"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে এই অবস্থায় মেটা-জাইলিন ও HI উৎপন্ন হয় বলা আছে, যেখানে 20°C এ o- ও p-।",
+     "explanation_en": "The book gives m-xylene under these forcing conditions (o-/p- at 20C).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.50",
+   "title_bn": "টলুইনের ব্যবহার",
+   "title_en": "Uses of toluene",
+   "notes_bn": "বেনজালডিহাইড, বেনজোয়িক অ্যাসিড, TNT, ট্রাইনাইট্রোবেনজিন, স্যাকারিন প্রস্তুতিতে ব্যবহৃত।\nরেজিন, বার্নিশ, প্লাস্টিক প্রভৃতির দ্রাবক।\nপশমি বস্ত্রের ড্রাই-ওয়াশ ও শুষ্ক পরিষ্কারকরণে ব্যবহার হয়।",
+   "notes_en": "Used to make benzaldehyde, benzoic acid, TNT, trinitrobenzene and saccharin.\nSolvent for resins, varnish and plastics.\nUsed in dry-washing woollen clothes and dry cleaning.",
+   "mcqs": [
+    {
+     "question_bn": "টলুইন থেকে প্রস্তুত বিস্ফোরক কোনটি?",
+     "question_en": "Which explosive is made from toluene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TNT",
+       "en": "TNT"
+      },
+      {
+       "id": "b",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "KCl",
+       "en": "KCl"
+      },
+      {
+       "id": "d",
+       "bn": "CaO",
+       "en": "CaO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "টলুইনের নাইট্রেশনে TNT পাওয়া যায়।",
+     "explanation_en": "Nitration of toluene gives TNT.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টলুইনের কোন ব্যবহারটি বইয়ে উল্লেখ আছে?",
+     "question_en": "Which use of toluene is mentioned?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "স্যাকারিন প্রস্তুতি",
+       "en": "Making saccharin"
+      },
+      {
+       "id": "b",
+       "bn": "সার তৈরি",
+       "en": "Making fertiliser"
+      },
+      {
+       "id": "c",
+       "bn": "পানীয় তৈরি",
+       "en": "Making beverages"
+      },
+      {
+       "id": "d",
+       "bn": "কাচ তৈরি",
+       "en": "Making glass"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "স্যাকারিন প্রস্তুতিতে টলুইন লাগে।",
+     "explanation_en": "Toluene is used to prepare saccharin.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "5.51",
+   "title_bn": "অ্যালিফেটিক ও অ্যারোমেটিক যৌগের পার্থক্য",
+   "title_en": "Aliphatic vs aromatic compounds",
+   "notes_bn": "অ্যালিফেটিক: প্রধানত মুক্ত শিকল (ইথেন, প্রোপেন); অ্যারোমেটিক: বলয়াকার সমতলীয় যৌগ, (4n+2) π ইলেকট্রন (বেনজিন)।\nঅ্যালিফেটিক হাইড্রক্সি যৌগ (CH₃OH) লিটমাস নিরপেক্ষ; অ্যারোমেটিক (ফেনল) অম্লধর্মী।\nঅসম্পৃক্ত অ্যালিফেটিক যৌগ সহজে যুত বিক্রিয়া দেয় ও KMnO₄ দ্বারা জারিত হয়; অ্যারোমেটিক অসম্পৃক্ত হলেও প্রতিস্থাপন বিক্রিয়া দেয়, KMnO₄ দ্বারা জারিত হয় না।\nঅণুস্থিত হ্যালোজেন: CH₃Br + KOH → CH₃OH + KBr সহজে; C₆H₅Cl এ স্বাভাবিক অবস্থায় বিক্রিয়া করে না।\nপ্রাইমারি অ্যামিন + NaNO₂/HCl (5°C): CH₃NH₂ → CH₃OH + N₂; C₆H₅NH₂ → বেনজিন ডায়াজোনিয়াম ক্লোরাইড।\nকার্বনের শতকরা: মিথেনে C = 75%, H = 25%; বেনজিনে C = 92.3%, H = 7.7%।",
+   "notes_en": "Aliphatic: mainly open-chain (ethane, propane); aromatic: planar ring with (4n+2) pi electrons (benzene).\nAliphatic hydroxy (CH3OH) is neutral to litmus; aromatic (phenol) is acidic.\nUnsaturated aliphatics add readily and are oxidised by KMnO4; aromatics, though unsaturated, substitute and resist KMnO4.\nHalogen: CH3Br + KOH gives CH3OH readily; C6H5Cl does not react normally.\nPrimary amine + NaNO2/HCl (5C): CH3NH2 gives CH3OH + N2; C6H5NH2 gives benzenediazonium chloride.\nCarbon content: methane C 75%, H 25%; benzene C 92.3%, H 7.7%.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটির কার্বনের শতকরা পরিমাণ বেশি?",
+     "question_en": "Which has the higher carbon percentage?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন (92.3%)",
+       "en": "Benzene (92.3%)"
+      },
+      {
+       "id": "b",
+       "bn": "মিথেন (75%)",
+       "en": "Methane (75%)"
+      },
+      {
+       "id": "c",
+       "bn": "দুটি সমান",
+       "en": "Both equal"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই কার্বন ধারণ করে না",
+       "en": "Neither contains carbon"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বেনজিনে C = 92.3%, মিথেনে 75%।",
+     "explanation_en": "Benzene is 92.3% C; methane 75%.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন বিক্রিয়াটি অ্যারোমেটিক যৌগ সাধারণ অবস্থায় দেয় না?",
+     "question_en": "Which reaction does an aromatic halide like C6H5Cl not normally undergo?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KOH এর সাথে প্রতিস্থাপন",
+       "en": "Substitution with KOH"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রেশন",
+       "en": "Nitration"
+      },
+      {
+       "id": "c",
+       "bn": "সালফোনেশন",
+       "en": "Sulphonation"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্রিডেল-ক্রাফট",
+       "en": "Friedel-Crafts"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C₆H₅Cl স্বাভাবিক অবস্থায় KOH এর সাথে বিক্রিয়া করে না; CH₃Br করে।",
+     "explanation_en": "C6H5Cl does not normally react with KOH, unlike CH3Br.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "5°C এ NaNO₂/HCl এর সাথে অ্যানিলিন কী উৎপন্ন করে?",
+     "question_en": "What does aniline give with NaNO2/HCl at 5°C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড",
+       "en": "Benzenediazonium chloride"
+      },
+      {
+       "id": "b",
+       "bn": "ফেনল ও N₂",
+       "en": "Phenol and N2"
+      },
+      {
+       "id": "c",
+       "bn": "নাইট্রোবেনজিন",
+       "en": "Nitrobenzene"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যারোমেটিক প্রাইমারি অ্যামিন ডায়াজোনিয়াম লবণ দেয়; অ্যালিফেটিকটি অ্যালকোহল ও N₂।",
+     "explanation_en": "Aromatic primary amines give diazonium salts; aliphatic ones give alcohol + N2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন জোড়া সঠিক?",
+     "question_en": "Which pairing is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালিফেটিক অসম্পৃক্ত — KMnO₄ এ সহজে জারিত; বেনজিন — জারিত হয় না",
+       "en": "Aliphatic unsaturated: oxidised by KMnO4; benzene: not"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিন — KMnO₄ এ সহজে জারিত",
+       "en": "Benzene readily oxidised by KMnO4"
+      },
+      {
+       "id": "c",
+       "bn": "মিথানল — অম্লধর্মী",
+       "en": "Methanol is acidic"
+      },
+      {
+       "id": "d",
+       "bn": "ফেনল — নিরপেক্ষ",
+       "en": "Phenol is neutral"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সারণি অনুযায়ী।",
+     "explanation_en": "As per the book's comparison table.",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "5.47",
+   "stimulus_bn": "একটি পরীক্ষাগারে বেনজিন, টলুইন ও নাইট্রোবেনজিনকে আলাদা পাত্রে গাঢ় H₂SO₄ ও গাঢ় HNO₃ মিশ্রণ দিয়ে নাইট্রেশন করা হলো। টলুইন 30°C এ সহজে বিক্রিয়া করল, নাইট্রোবেনজিনের জন্য 100°C লাগল।",
+   "stimulus_en": "In a lab, benzene, toluene and nitrobenzene were nitrated separately with conc. H2SO4 and conc. HNO3. Toluene reacted easily at 30C; nitrobenzene needed 100C.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "নাইট্রেশনে সক্রিয় ইলেকট্রোফাইলটির নাম লেখো।",
+     "question_en": "Name the electrophile in nitration.",
+     "model_answer_bn": "নাইট্রোনিয়াম আয়ন (NO₂⁺)।",
+     "model_answer_en": "The nitronium ion (NO2+)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "নাইট্রেশনে গাঢ় H₂SO₄ এর ভূমিকা ব্যাখ্যা করো।",
+     "question_en": "Explain the role of conc. H2SO4 in nitration.",
+     "model_answer_bn": "গাঢ় H₂SO₄ গাঢ় HNO₃ এর সাথে বিক্রিয়ায় NO₂⁺ তৈরি করে এবং উৎপন্ন পানি শোষণ করে HNO₃ এর ঘনমাত্রা বজায় রেখে বিক্রিয়াকে সম্মুখমুখী করে।",
+     "model_answer_en": "It generates NO2+ from HNO3 and absorbs the water formed, keeping HNO3 concentrated and driving the reaction forward."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "টলুইন বেনজিনের চেয়ে সহজে নাইট্রেশন হয় কেন? উৎপাদগুলোর নাম লেখো।",
+     "question_en": "Why does toluene nitrate more easily than benzene? Name the products.",
+     "model_answer_bn": "–CH₃ এর +I ও হাইপারকনজুগেশনে বলয়ে, বিশেষ করে অর্থো-প্যারায়, ইলেকট্রন ঘনত্ব বাড়ে, তাই NO₂⁺ সহজে আক্রমণ করে। উৎপাদ: অর্থো-নাইট্রোটলুইন ও প্যারা-নাইট্রোটলুইন।",
+     "model_answer_en": "-CH3 (+I, hyperconjugation) raises electron density, especially at o/p, so NO2+ attacks easily. Products: o-nitrotoluene and p-nitrotoluene."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "নাইট্রোবেনজিনকে নাইট্রেশনে কেন কঠিন শর্ত লাগে এবং উৎপাদ কী হয় তা ব্যাখ্যা করো; কীভাবে টলুইন থেকে TNT পাওয়া যায় লেখো।",
+     "question_en": "Explain why nitrobenzene needs harsher conditions and what product forms; show how TNT is obtained from toluene.",
+     "model_answer_bn": "–NO₂ এর –M ফলে বলয়ের ইলেকট্রন ঘনত্ব কমে, বিশেষ করে অর্থো-প্যারায়, ফলে বলয় নিষ্ক্রিয় হয়; মেটা অবস্থানে ঘনত্ব তুলনামূলক বেশি, তাই 100°C এ মেটা-ডাইনাইট্রোবেনজিন হয়। টলুইনের o/p-নাইট্রোটলুইনকে ধূমায়িত HNO₃ ও গাঢ় H₂SO₄ দিয়ে (60°C, পরে 110°C) নাইট্রেশন করলে 2,4,6-ট্রাইনাইট্রোটলুইন (TNT) পাওয়া যায়।",
+     "model_answer_en": "The -M effect of -NO2 lowers ring density, especially at o/p, deactivating it; meta retains relatively more density so m-dinitrobenzene forms at 100C. Nitrating o/p-nitrotoluene with fuming HNO3/conc. H2SO4 (60C then 110C) gives 2,4,6-trinitrotoluene (TNT)."
+    }
+   ]
+  },
+  {
+   "topic_section": "5.49",
+   "stimulus_bn": "রাহাত টলুইনকে দুভাবে বিক্রিয়া করাল: (ক) Fe উপস্থিতিতে Cl₂ দিয়ে 20°C এ, (খ) সূর্যালোকে ফুটন্ত অবস্থায় Cl₂ দিয়ে। দুই ক্ষেত্রে ভিন্ন উৎপাদ পেল।",
+   "stimulus_en": "Rahat reacted toluene in two ways: (a) Cl2 with Fe at 20C, (b) Cl2 on boiling toluene in sunlight. He obtained different products.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "টলুইনের পার্শ্বশিকল কোনটি?",
+     "question_en": "What is the side chain of toluene?",
+     "model_answer_bn": "মিথাইল মূলক (–CH₃)।",
+     "model_answer_en": "The methyl group (-CH3)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "(ক) বিক্রিয়ায় Fe এর ভূমিকা কী?",
+     "question_en": "What is the role of Fe in reaction (a)?",
+     "model_answer_bn": "Fe (FeCl₃ রূপে) হ্যালোজেন বাহক; Cl₂ থেকে ইলেকট্রোফাইল তৈরি করে বলয়ে প্রতিস্থাপন ঘটায়।",
+     "model_answer_en": "Fe (as FeCl3) is a halogen carrier that generates the electrophile and enables ring substitution."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "(ক) ও (খ) এর উৎপাদ লেখো।",
+     "question_en": "Write the products of (a) and (b).",
+     "model_answer_bn": "(ক) o-ক্লোরোটলুইন ও p-ক্লোরোটলুইন (বলয়ে প্রতিস্থাপন)। (খ) বেনজাইল ক্লোরাইড C₆H₅CH₂Cl, পরে বেনজাল ক্লোরাইড C₆H₅CHCl₂ ও বেনজো ক্লোরাইড C₆H₅CCl₃ (পার্শ্বশিকলে)।",
+     "model_answer_en": "(a) o- and p-chlorotoluene (ring). (b) benzyl chloride C6H5CH2Cl, then benzal chloride C6H5CHCl2 and benzotrichloride C6H5CCl3 (side chain)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "টলুইন থেকে বেনজোয়িক অ্যাসিড ও বেনজালডিহাইড প্রস্তুতির শর্তসহ বিক্রিয়া লেখো এবং পার্থক্যের কারণ বলো।",
+     "question_en": "Write the conditions for converting toluene to benzoic acid and to benzaldehyde, and explain the difference.",
+     "model_answer_bn": "তীব্র জারক (KMnO₄ বা লঘু HNO₃, 120°C) –CH₃ কে সম্পূর্ণ জারিত করে C₆H₅COOH দেয়। মৃদু জারক (CrO₂Cl₂ বা MnO₂ + 65% H₂SO₄, 45°C) আংশিক জারণে C₆H₅CHO দেয় (ইটার্ড বিক্রিয়া)। পার্থক্য জারকের শক্তির কারণে।",
+     "model_answer_en": "Strong oxidants (KMnO4, or dil. HNO3 at 120C) oxidise -CH3 fully to C6H5COOH. Mild oxidants (CrO2Cl2, or MnO2 + 65% H2SO4 at 45C) stop at C6H5CHO (Etard). The difference is due to oxidant strength."
+    }
+   ]
+  },
+  {
+   "topic_section": "5.43",
+   "stimulus_bn": "একজন শিক্ষার্থী বেনজিন, ন্যাফথালিন, ফিউরান ও সাইক্লোপ্রোপিনাইল ক্যাটায়নের π ইলেকট্রন সংখ্যা নিয়ে হাকেল নিয়ম যাচাই করছে।",
+   "stimulus_en": "A student checks Huckel's rule for benzene, naphthalene, furan and the cyclopropenyl cation using their pi electron counts.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "হাকেল সংখ্যার সূত্র কী?",
+     "question_en": "State the Huckel formula.",
+     "model_answer_bn": "সঞ্চরণশীল π ইলেকট্রন সংখ্যা = (4n+2), n = 0,1,2,3…",
+     "model_answer_en": "Number of delocalised pi electrons = (4n+2), n = 0,1,2,3..."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "হাকেল নিয়মের যে কোনো দুটি শর্ত লেখো।",
+     "question_en": "State any two Huckel conditions.",
+     "model_answer_bn": "যৌগ চক্রীয় ও সমতলীয় হবে; প্রতিটি পরমাণুতে p অরবিটাল থাকবে যা সঞ্চরণশীল আণবিক অরবিটাল গঠন করবে; π ইলেকট্রন সংখ্যা (4n+2)।",
+     "model_answer_en": "The ring must be cyclic and planar; each atom needs a p orbital forming a delocalised MO; pi electrons = (4n+2)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "চারটি যৌগের জন্য π ইলেকট্রন সংখ্যা ও n নির্ণয় করো।",
+     "question_en": "Find the pi electrons and n for the four species.",
+     "model_answer_bn": "বেনজিন 6 (n=1); ন্যাফথালিন 10 (n=2); ফিউরান 6 (n=1, O এর নিঃসঙ্গ জোড় সহ); সাইক্লোপ্রোপিনাইল ক্যাটায়ন 2 (n=0)।",
+     "model_answer_en": "Benzene 6 (n=1); naphthalene 10 (n=2); furan 6 (n=1, incl. O lone pair); cyclopropenyl cation 2 (n=0)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "বেনজিনকে অ্যারোমেটিক বলার পক্ষে যুক্তি দাও।",
+     "question_en": "Justify why benzene is called aromatic.",
+     "model_answer_bn": "বেনজিন সমতলীয় চক্রীয়, 6টি সঞ্চরণশীল π ইলেকট্রন হাকেল নিয়ম মানে; হ্যালোজেনেশন, নাইট্রেশন, সালফোনেশন, ফ্রিডেল-ক্রাফট প্রতিস্থাপন দেয়; জলীয় KMnO₄ দ্বারা জারিত হয় না; HCl এর সাথে যুত দেয় না; C–C দূরত্ব 0.139 nm অনুরণন নির্দেশ করে।",
+     "model_answer_en": "Benzene is planar and cyclic with 6 delocalised pi electrons (Huckel); gives halogenation, nitration, sulphonation, Friedel-Crafts substitution; resists aqueous KMnO4; does not add HCl; C-C 0.139 nm shows resonance."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 312-335 read; pages 336-352 are exercise/question-bank pages (skipped). Printed melting point of toluene (5.48) looked doubtful so not used. Section numbers 5.39 (benzene physical) precede 5.40 on same page, not in scope."
+}

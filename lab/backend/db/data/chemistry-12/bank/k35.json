@@ -1,0 +1,1836 @@
+{
+ "chapter_no": 12,
+ "topics": [
+  {
+   "section_no": "12.14",
+   "title_bn": "জৈব যৌগে মৌলসমূহের মাত্রিক বিশ্লেষণ",
+   "title_en": "Quantitative Analysis of Elements in Organic Compounds",
+   "notes_bn": "মৌল শনাক্তকরণের পর যৌগে প্রতিটি মৌলের পরিমাণ নির্ণয় ও শতকরা হার প্রকাশ করাকে মাত্রিক বিশ্লেষণ বলে।\nএকে পরিমাণ জ্ঞাপক বিশ্লেষণও বলা হয়।\nবইয়ে আলোচিত মৌল: C, H, N, হ্যালোজেন (X), S ও O।\nআগে গুণগত (শনাক্তকরণ), পরে মাত্রিক বিশ্লেষণ করা হয়।",
+   "notes_en": "After elements are identified, finding the amount of each element and expressing it as a percentage is quantitative analysis (also called estimation).\nThe book covers C, H, N, halogens (X), S and O.\nQualitative detection comes first, quantitative estimation second.",
+   "mcqs": [
+    {
+     "question_bn": "মাত্রিক বিশ্লেষণে কী নির্ণয় করা হয়?",
+     "question_en": "What is determined in quantitative analysis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "যৌগে কোন কোন মৌল আছে",
+       "en": "Which elements are present"
+      },
+      {
+       "id": "b",
+       "bn": "যৌগে প্রতিটি মৌলের পরিমাণ ও শতকরা হার",
+       "en": "The amount and percentage of each element"
+      },
+      {
+       "id": "c",
+       "bn": "যৌগের গলনাঙ্ক",
+       "en": "The melting point"
+      },
+      {
+       "id": "d",
+       "bn": "যৌগের কার্যকরী মূলক",
+       "en": "The functional group"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মাত্রিক বিশ্লেষণ মানে মৌলের পরিমাণ ও শতকরা হার নির্ণয়।",
+     "explanation_en": "Quantitative analysis means finding the amount and percentage of each element.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি পরিমাণ জ্ঞাপক বিশ্লেষণের অপর নাম?",
+     "question_en": "Which is another name for quantitative analysis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গুণগত বিশ্লেষণ",
+       "en": "Qualitative analysis"
+      },
+      {
+       "id": "b",
+       "bn": "মাত্রিক বিশ্লেষণ",
+       "en": "Mātrik (quantitative) analysis"
+      },
+      {
+       "id": "c",
+       "bn": "লেসাইন পরীক্ষা",
+       "en": "Lassaigne test"
+      },
+      {
+       "id": "d",
+       "bn": "বিশোধন",
+       "en": "Purification"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে মাত্রিক বিশ্লেষণ ও পরিমাণ জ্ঞাপক বিশ্লেষণ সমার্থক।",
+     "explanation_en": "The book treats the two as the same thing.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সঠিক ক্রম কোনটি?",
+     "question_en": "Which is the correct order of work?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মাত্রিক বিশ্লেষণ, তারপর মৌল শনাক্তকরণ",
+       "en": "Quantitative analysis, then detection"
+      },
+      {
+       "id": "b",
+       "bn": "মৌল শনাক্তকরণ, তারপর মাত্রিক বিশ্লেষণ",
+       "en": "Detection of elements, then quantitative analysis"
+      },
+      {
+       "id": "c",
+       "bn": "বিশোধন বাদ দিয়ে সরাসরি আণবিক সংকেত",
+       "en": "Molecular formula directly without purification"
+      },
+      {
+       "id": "d",
+       "bn": "কার্যকরী মূলক পরীক্ষা, তারপর মৌল শনাক্তকরণ",
+       "en": "Functional group test, then element detection"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে শনাক্তকরণ নিশ্চিত করার পরই মাত্রিক বিশ্লেষণ বলা হয়েছে।",
+     "explanation_en": "The book says quantitative analysis follows confirmed detection.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "12.15",
+   "title_bn": "জৈব যৌগে C ও H এর পরিমাণ নির্ণয়",
+   "title_en": "Estimation of Carbon and Hydrogen",
+   "notes_bn": "মূলনীতি: বিশুদ্ধ শুষ্ক জৈব যৌগকে কিউপ্রিক অক্সাইড (CuO) দিয়ে উত্তপ্ত করে সম্পূর্ণ জারিত করা হয়; C থেকে CO2 ও H থেকে H2O বাষ্প হয়।\nযন্ত্র: দহন নল (CuO গজ, বোটে যৌগ, 600°C) ও শোষণ ইউনিট (CaCl2 ভর্তি U-নল দিয়ে H2O, KOH দ্রবণ দিয়ে CO2 শোষণ)।\nধরি যৌগ w g, পানি w1 g, CO2 w2 g।\n%H = 2×w1×100/(18×w)\n%C = 12×w2×100/(44×w)\nO = 100 − (%C + %H) (যদি শুধু C, H, O থাকে)।\nউদাহরণ: 0.2346 g যৌগে CO2 0.4488 g, H2O 0.2754 g → C 52.17%, H 13.04%, O 34.79%।",
+   "notes_en": "Principle: a pure dry compound is fully oxidised with hot CuO; C becomes CO2 and H becomes H2O vapour.\nApparatus: combustion tube (CuO gauze, boat with sample, ~600 °C) and absorption unit (CaCl2 U-tube takes H2O, KOH solution takes CO2).\nLet sample = w g, water = w1 g, CO2 = w2 g.\n%H = 2×w1×100/(18×w); %C = 12×w2×100/(44×w).\nO = 100 − (%C + %H) when only C, H, O are present.\nBook example: 0.2346 g sample, CO2 0.4488 g, H2O 0.2754 g gives C 52.17%, H 13.04%, O 34.79%.",
+   "mcqs": [
+    {
+     "question_bn": "C ও H নির্ণয়ে CO2 শোষণের জন্য কী ব্যবহার করা হয়?",
+     "question_en": "What absorbs CO2 in the C and H estimation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaCl2",
+       "en": "CaCl2"
+      },
+      {
+       "id": "b",
+       "bn": "KOH দ্রবণ",
+       "en": "KOH solution"
+      },
+      {
+       "id": "c",
+       "bn": "CuO",
+       "en": "CuO"
+      },
+      {
+       "id": "d",
+       "bn": "H2SO4 দ্রবণ",
+       "en": "H2SO4 solution"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে CaCl2 পানি এবং KOH দ্রবণ CO2 শোষণ করে।",
+     "explanation_en": "In the book CaCl2 takes water and KOH solution takes CO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "জৈব যৌগে হাইড্রোজেনের শতকরা হারের সূত্র কোনটি (w = যৌগের ভর, w1 = পানির ভর)?",
+     "question_en": "Which formula gives %H (w = sample mass, w1 = water mass)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "12×w1×100/(44×w)",
+       "en": "12×w1×100/(44×w)"
+      },
+      {
+       "id": "b",
+       "bn": "2×w1×100/(18×w)",
+       "en": "2×w1×100/(18×w)"
+      },
+      {
+       "id": "c",
+       "bn": "18×w1×100/(2×w)",
+       "en": "18×w1×100/(2×w)"
+      },
+      {
+       "id": "d",
+       "bn": "2×w1/(18×100×w)",
+       "en": "2×w1/(18×100×w)"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "18 g পানিতে 2 g H থাকে, তাই %H = 2×w1×100/(18×w)।",
+     "explanation_en": "18 g water holds 2 g H, so %H = 2×w1×100/(18×w).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "0.3 g জৈব যৌগ দহনে 0.44 g CO2 পাওয়া গেলে কার্বনের শতকরা হার কত?",
+     "question_en": "Burning 0.3 g of an organic compound gives 0.44 g CO2. What is %C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "20%",
+       "en": "20%"
+      },
+      {
+       "id": "b",
+       "bn": "30%",
+       "en": "30%"
+      },
+      {
+       "id": "c",
+       "bn": "40%",
+       "en": "40%"
+      },
+      {
+       "id": "d",
+       "bn": "44%",
+       "en": "44%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "%C = 12×0.44×100/(44×0.3) = 40%।",
+     "explanation_en": "%C = 12×0.44×100/(44×0.3) = 40%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "0.2346 g যৌগ থেকে CO2 0.4488 g ও H2O 0.2754 g মিলল। অক্সিজেনের শতকরা হার কত (শুধু C, H, O আছে)?",
+     "question_en": "From 0.2346 g of a compound, 0.4488 g CO2 and 0.2754 g H2O are obtained. What is %O (only C, H, O present)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "52.17%",
+       "en": "52.17%"
+      },
+      {
+       "id": "b",
+       "bn": "13.04%",
+       "en": "13.04%"
+      },
+      {
+       "id": "c",
+       "bn": "65.21%",
+       "en": "65.21%"
+      },
+      {
+       "id": "d",
+       "bn": "34.79%",
+       "en": "34.79%"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "C = 52.17%, H = 13.04%, যোগফল 65.21; O = 100 − 65.21 = 34.79%।",
+     "explanation_en": "C = 52.17%, H = 13.04%, sum 65.21; O = 100 − 65.21 = 34.79%.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.16",
+   "title_bn": "জৈব যৌগে N এর পরিমাণ নির্ণয়",
+   "title_en": "Estimation of Nitrogen in Organic Compounds",
+   "notes_bn": "দুটি পদ্ধতি: (১) ডুমার পদ্ধতি (২) জেলডাল পদ্ধতি।\nডুমা: যৌগকে CuO দিয়ে উত্তপ্ত করে CO2, H2O ও N2 (সাথে নাইট্রোজেনের অক্সাইড) পাওয়া যায়; উত্তপ্ত Cu জালি অক্সাইডকে N2-এ বিজারিত করে। KOH দ্রবণে CO2 শোষিত হয়, অবশিষ্ট N2 নাইট্রোমিটারে মাপা হয়।\nSTP-তে আয়তন: V0 = V×(P−f)×273/(760×(273+t)); %N = 28×V0×100/(22400×w)।\nজেলডাল: যৌগকে গাঢ় H2SO4 দিয়ে উত্তপ্ত করলে N → (NH4)2SO4; NaOH দিয়ে NH3 মুক্ত করে নির্দিষ্ট H2SO4-এ শোষণ করা হয়। প্রোটিন, সার, ওষুধে ব্যবহৃত।\nV mL 0.05M H2SO4 ব্যবহৃত হলে %N = 1.4×V×100/(w×1000)।\nউদাহরণ: 0.1877 g → 31.7 mL N2 (14°C, 758 mm, জলীয় বাষ্পচাপ 12 mm) → N = 19.72%।\nউদাহরণ: 0.257 g, 50 mL 0.1M HCl-এর 23.2 mL NaOH-এ ফেরত টাইট্রেশন → N = 14.6%।",
+   "notes_en": "Two methods: Dumas and Kjeldahl.\nDumas: the compound is heated with CuO giving CO2, H2O, N2 (plus nitrogen oxides); hot Cu gauze reduces the oxides to N2. KOH solution absorbs CO2 and the N2 is measured in a nitrometer.\nV0 (STP) = V(P−f)×273/(760(273+t)); %N = 28×V0×100/(22400×w).\nKjeldahl: heating with conc. H2SO4 converts N to (NH4)2SO4; NaOH liberates NH3, absorbed in a known volume of standard acid. Used for proteins, fertilisers, drugs.\nWith V mL of 0.05M H2SO4: %N = 1.4×V×100/(w×1000).\nBook examples: 0.1877 g gave 31.7 mL N2 (14 °C, 758 mm, aqueous tension 12 mm), N = 19.72%; 0.257 g with back-titration (50 mL 0.1M HCl, 23.2 mL 0.1M NaOH) gave N = 14.6%.",
+   "mcqs": [
+    {
+     "question_bn": "জৈব যৌগে নাইট্রোজেন নির্ণয়ের দুটি পদ্ধতি কী কী?",
+     "question_en": "Which are the two methods of estimating N in organic compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লেসাইন ও ক্যারিয়াস",
+       "en": "Lassaigne and Carius"
+      },
+      {
+       "id": "b",
+       "bn": "ডুমা ও জেলডাল",
+       "en": "Dumas and Kjeldahl"
+      },
+      {
+       "id": "c",
+       "bn": "কলাম ও কাগজ ক্রোমাটোগ্রাফি",
+       "en": "Column and paper chromatography"
+      },
+      {
+       "id": "d",
+       "bn": "বেয়ার ও টলেন",
+       "en": "Baeyer and Tollens"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ডুমা ও জেলডাল পদ্ধতি বলা হয়েছে।",
+     "explanation_en": "The book gives the Dumas and Kjeldahl methods.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "STP-তে 22400 mL N2 এর ভর কত?",
+     "question_en": "What is the mass of 22400 mL of N2 at STP?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "14 g",
+       "en": "14 g"
+      },
+      {
+       "id": "b",
+       "bn": "28 g",
+       "en": "28 g"
+      },
+      {
+       "id": "c",
+       "bn": "22.4 g",
+       "en": "22.4 g"
+      },
+      {
+       "id": "d",
+       "bn": "56 g",
+       "en": "56 g"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের হিসাবে STP-তে 22400 mL N2 = 28 g।",
+     "explanation_en": "In the book's calculation 22400 mL N2 at STP weighs 28 g.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডুমা পদ্ধতিতে নাইট্রোজেনের অক্সাইডকে N2-এ পরিণত করতে কী ব্যবহার হয়?",
+     "question_en": "In the Dumas method what reduces nitrogen oxides to N2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উত্তপ্ত Cu জালি",
+       "en": "Heated Cu gauze"
+      },
+      {
+       "id": "b",
+       "bn": "KOH দ্রবণ",
+       "en": "KOH solution"
+      },
+      {
+       "id": "c",
+       "bn": "গাঢ় H2SO4",
+       "en": "Conc. H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "CaCl2",
+       "en": "CaCl2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উত্তপ্ত কপার জালির ওপর চালনায় অক্সাইড বিজারিত হয়ে N2 হয়।",
+     "explanation_en": "Passing over hot copper gauze reduces the oxides to N2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জেলডাল পদ্ধতিতে 0.2 g যৌগ থেকে নির্গত NH3 প্রশমনে 20 mL 0.05M H2SO4 লাগল। %N কত? (সূত্র: %N = 1.4×V×100/(w×1000))",
+     "question_en": "In a Kjeldahl run, NH3 from 0.2 g compound neutralised 20 mL of 0.05M H2SO4. %N? (%N = 1.4×V×100/(w×1000))",
+     "options": [
+      {
+       "id": "a",
+       "bn": "7%",
+       "en": "7%"
+      },
+      {
+       "id": "b",
+       "bn": "14%",
+       "en": "14%"
+      },
+      {
+       "id": "c",
+       "bn": "28%",
+       "en": "28%"
+      },
+      {
+       "id": "d",
+       "bn": "1.4%",
+       "en": "1.4%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "1.4×20×100/(0.2×1000) = 14%।",
+     "explanation_en": "1.4×20×100/(0.2×1000) = 14%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জেলডাল পদ্ধতিতে 23.2 mL 0.1M NaOH দিয়ে ফেরত টাইট্রেশনের পর 50 mL 0.1M HCl-এর কতটুকু NH3 দ্বারা প্রশমিত হয়েছিল?",
+     "question_en": "After back-titration with 23.2 mL of 0.1M NaOH, how much of the 50 mL 0.1M HCl was neutralised by NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "23.2 mL",
+       "en": "23.2 mL"
+      },
+      {
+       "id": "b",
+       "bn": "73.2 mL",
+       "en": "73.2 mL"
+      },
+      {
+       "id": "c",
+       "bn": "26.8 mL",
+       "en": "26.8 mL"
+      },
+      {
+       "id": "d",
+       "bn": "50 mL",
+       "en": "50 mL"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "50 − 23.2 = 26.8 mL; এ থেকে %N = 0.0014×26.8×100/0.257 = 14.6।",
+     "explanation_en": "50 − 23.2 = 26.8 mL; %N = 0.0014×26.8×100/0.257 = 14.6.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.17",
+   "title_bn": "জৈব যৌগে হ্যালোজেনের পরিমাণ নির্ণয়",
+   "title_en": "Estimation of Halogens in Organic Compounds",
+   "notes_bn": "ক্যারিয়াস পদ্ধতি: হ্যালোজেনযুক্ত যৌগকে ধূমায়মান HNO3 ও AgNO3 সহ উত্তপ্ত করলে হ্যালোজেন সিলভার হ্যালাইড (AgX) রূপে অধঃক্ষিপ্ত হয়; ধুয়ে শুকিয়ে ওজন নেওয়া হয়।\n%X = (X-এর পারমাণবিক ভর × 100 × w1)/(AgX-এর আণবিক ভর × w), w = যৌগের ভর, w1 = AgX-এর ভর।\nউদাহরণ: 0.186 g যৌগ → 0.475 g AgCl (Ag = 108, Cl = 35.5); AgCl = 143.5 → %Cl = 35.5×0.475×100/(143.5×0.186) = 63.1%।",
+   "notes_en": "Carius method: heating the halogen compound with fuming HNO3 and AgNO3 precipitates the halogen as silver halide (AgX), which is washed, dried and weighed.\n%X = (atomic mass of X × 100 × w1)/(molar mass of AgX × w); w = compound mass, w1 = AgX mass.\nBook example: 0.186 g compound gave 0.475 g AgCl (Ag 108, Cl 35.5); AgCl = 143.5; %Cl = 35.5×0.475×100/(143.5×0.186) = 63.1%.",
+   "mcqs": [
+    {
+     "question_bn": "ক্যারিয়াস পদ্ধতিতে হ্যালোজেন কোন যৌগরূপে ওজন করা হয়?",
+     "question_en": "In the Carius method, in what form is the halogen weighed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সিলভার হ্যালাইড",
+       "en": "Silver halide"
+      },
+      {
+       "id": "b",
+       "bn": "সোডিয়াম হ্যালাইড",
+       "en": "Sodium halide"
+      },
+      {
+       "id": "c",
+       "bn": "বেরিয়াম সালফেট",
+       "en": "Barium sulphate"
+      },
+      {
+       "id": "d",
+       "bn": "হাইড্রোজেন হ্যালাইড গ্যাস",
+       "en": "Hydrogen halide gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উৎপন্ন AgX অধঃক্ষেপ ধুয়ে শুকিয়ে ওজন করা হয়।",
+     "explanation_en": "The AgX precipitate is washed, dried and weighed.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্যারিয়াস পদ্ধতিতে কোন বিকারক ব্যবহৃত হয়?",
+     "question_en": "Which reagents are used in the Carius method?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ধূমায়মান HNO3 ও AgNO3",
+       "en": "Fuming HNO3 and AgNO3"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় H2SO4 ও NaOH",
+       "en": "Conc. H2SO4 and NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "CuO ও KOH",
+       "en": "CuO and KOH"
+      },
+      {
+       "id": "d",
+       "bn": "BaCl2 ও HCl",
+       "en": "BaCl2 and HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হ্যালোজেনযুক্ত যৌগ ধূমায়মান HNO3 ও AgNO3 সহ উত্তপ্ত করা হয়।",
+     "explanation_en": "The compound is heated with fuming HNO3 and AgNO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "0.2 g যৌগ থেকে 0.287 g AgCl পাওয়া গেল (Cl = 35.5, AgCl = 143.5)। %Cl কত?",
+     "question_en": "0.2 g of a compound gives 0.287 g AgCl (Cl 35.5, AgCl 143.5). %Cl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "17.75%",
+       "en": "17.75%"
+      },
+      {
+       "id": "b",
+       "bn": "35.5%",
+       "en": "35.5%"
+      },
+      {
+       "id": "c",
+       "bn": "71%",
+       "en": "71%"
+      },
+      {
+       "id": "d",
+       "bn": "63.1%",
+       "en": "63.1%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cl = 35.5×0.287/143.5 = 0.071 g; 0.071×100/0.2 = 35.5%।",
+     "explanation_en": "Cl = 35.5×0.287/143.5 = 0.071 g; 0.071×100/0.2 = 35.5%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বইয়ের উদাহরণে 0.186 g যৌগ থেকে 0.475 g AgCl মেলে। %Cl কত (Cl = 35.5, Ag = 108)?",
+     "question_en": "In the book's example 0.186 g compound gives 0.475 g AgCl. %Cl (Cl 35.5, Ag 108)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "63.1%",
+       "en": "63.1%"
+      },
+      {
+       "id": "b",
+       "bn": "35.5%",
+       "en": "35.5%"
+      },
+      {
+       "id": "c",
+       "bn": "47.5%",
+       "en": "47.5%"
+      },
+      {
+       "id": "d",
+       "bn": "25.5%",
+       "en": "25.5%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "35.5×0.475×100/(143.5×0.186) ≈ 63.1%।",
+     "explanation_en": "35.5×0.475×100/(143.5×0.186) ≈ 63.1%.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.18",
+   "title_bn": "জৈব যৌগে সালফার-এর পরিমাণ নির্ণয়",
+   "title_en": "Estimation of Sulphur in Organic Compounds",
+   "notes_bn": "পরিবর্তিত ক্যারিয়াস পদ্ধতি: সালফারযুক্ত যৌগকে ধূমায়মান HNO3 সহ উত্তপ্ত করলে S → H2SO4।\nএতে BaCl2 দ্রবণ যোগে BaSO4 অধঃক্ষিপ্ত হয়; ধুয়ে শুকিয়ে ওজন করা হয়।\nS + 6HNO3 → H2SO4 + 6NO2 + 2H2O; H2SO4 + BaCl2 → BaSO4 + 2HCl।\n%S = 32×100×w1/(233×w), w1 = BaSO4-এর ভর।\nউদাহরণ: 0.2175 g যৌগ → 0.5825 g BaSO4 → %S = 36.77।",
+   "notes_en": "Modified Carius method: heating the sulphur compound with fuming HNO3 converts S to H2SO4.\nBaCl2 solution then precipitates BaSO4, which is washed, dried and weighed.\nS + 6HNO3 → H2SO4 + 6NO2 + 2H2O; H2SO4 + BaCl2 → BaSO4 + 2HCl.\n%S = 32×100×w1/(233×w), w1 = mass of BaSO4.\nBook example: 0.2175 g compound gave 0.5825 g BaSO4, %S = 36.77.",
+   "mcqs": [
+    {
+     "question_bn": "সালফার নির্ণয়ে সালফার শেষে কোন যৌগরূপে অধঃক্ষিপ্ত করে ওজন করা হয়?",
+     "question_en": "In sulphur estimation, in what form is S finally precipitated and weighed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "AgCl",
+       "en": "AgCl"
+      },
+      {
+       "id": "b",
+       "bn": "BaSO4",
+       "en": "BaSO4"
+      },
+      {
+       "id": "c",
+       "bn": "CaCl2",
+       "en": "CaCl2"
+      },
+      {
+       "id": "d",
+       "bn": "PbS",
+       "en": "PbS"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H2SO4 কে BaCl2 দিয়ে BaSO4 হিসেবে অধঃক্ষিপ্ত করা হয়।",
+     "explanation_en": "H2SO4 is precipitated as BaSO4 with BaCl2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "BaSO4 এর আণবিক ভর কত (Ba = 137, S = 32, O = 16)?",
+     "question_en": "Molar mass of BaSO4 (Ba 137, S 32, O 16)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "185",
+       "en": "185"
+      },
+      {
+       "id": "b",
+       "bn": "233",
+       "en": "233"
+      },
+      {
+       "id": "c",
+       "bn": "249",
+       "en": "249"
+      },
+      {
+       "id": "d",
+       "bn": "169",
+       "en": "169"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "137 + 32 + 4×16 = 233।",
+     "explanation_en": "137 + 32 + 64 = 233.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "0.2 g যৌগ থেকে 0.233 g BaSO4 মিলল। %S কত?",
+     "question_en": "0.2 g compound gives 0.233 g BaSO4. %S?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "32%",
+       "en": "32%"
+      },
+      {
+       "id": "b",
+       "bn": "8%",
+       "en": "8%"
+      },
+      {
+       "id": "c",
+       "bn": "16%",
+       "en": "16%"
+      },
+      {
+       "id": "d",
+       "bn": "23.3%",
+       "en": "23.3%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "S = 32×0.233/233 = 0.032 g; 0.032×100/0.2 = 16%।",
+     "explanation_en": "S = 32×0.233/233 = 0.032 g; 0.032×100/0.2 = 16%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পরিবর্তিত ক্যারিয়াস পদ্ধতিতে HNO3 সহ উত্তপ্ত করলে সালফার প্রথমে কী হয়?",
+     "question_en": "In the modified Carius method, what does sulphur become first on heating with HNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "BaSO4",
+       "en": "BaSO4"
+      },
+      {
+       "id": "b",
+       "bn": "H2S",
+       "en": "H2S"
+      },
+      {
+       "id": "c",
+       "bn": "H2SO4",
+       "en": "H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "SO2 গ্যাস",
+       "en": "SO2 gas"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "S + 6HNO3 → H2SO4 + 6NO2 + 2H2O; পরে BaCl2 দিয়ে BaSO4।",
+     "explanation_en": "S + 6HNO3 → H2SO4 + ...; BaSO4 forms afterwards with BaCl2.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "12.19",
+   "title_bn": "জৈব যৌগে অক্সিজেনের পরিমাণ নির্ণয়",
+   "title_en": "Estimation of Oxygen in Organic Compounds",
+   "notes_bn": "মূলনীতি: N2 গ্যাসের মধ্যে যৌগকে সম্পূর্ণ বিয়োজিত করা হয়; উৎপন্ন O2 ও গ্যাসীয় পদার্থ 1100°C-এ উত্তপ্ত কার্বন গুঁড়ার ওপর দিয়ে চালিয়ে CO করা হয়।\nCO কে 175°C-এ উত্তপ্ত I2O5-এর ওপর চালালে CO2 ও I2 পাওয়া যায় (5CO + I2O5 → 5CO2 + I2)।\nক্রম: C → CO → CO2; 44 g CO2 তে যৌগের O আছে 16 g।\n%O = 16×w1×100/(44×w), w1 = CO2 এর ভর।\nঅন্য পদ্ধতিতে C, H, N ইত্যাদির যোগফল 100 থেকে বাদ দিয়েও O পাওয়া যায় (বইয়ের উদাহরণে)।",
+   "notes_en": "Principle: the compound is decomposed fully in N2; the oxygen and gaseous products pass over carbon heated to 1100 °C to give CO.\nCO passes over I2O5 at 175 °C giving CO2 and I2 (5CO + I2O5 → 5CO2 + I2).\nChain: C → CO → CO2; every 44 g CO2 corresponds to 16 g oxygen from the compound.\n%O = 16×w1×100/(44×w), w1 = mass of CO2.\nIn the book's worked problems O is also found by difference from 100 when C, H (and N) are known.",
+   "mcqs": [
+    {
+     "question_bn": "অক্সিজেন নির্ণয়ে CO কে কোন যৌগের ওপর চালিয়ে CO2 তৈরি করা হয়?",
+     "question_en": "In oxygen estimation, over which compound is CO passed to give CO2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CuO",
+       "en": "CuO"
+      },
+      {
+       "id": "b",
+       "bn": "I2O5",
+       "en": "I2O5"
+      },
+      {
+       "id": "c",
+       "bn": "BaCl2",
+       "en": "BaCl2"
+      },
+      {
+       "id": "d",
+       "bn": "CaCl2",
+       "en": "CaCl2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "175°C-এ উত্তপ্ত I2O5 এর ওপর CO থেকে CO2 ও I2 হয়।",
+     "explanation_en": "CO over I2O5 at 175 °C gives CO2 and I2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অক্সিজেন নির্ণয়ে উৎপন্ন গ্যাসকে প্রথমে কোন তাপমাত্রার কার্বনের ওপর চালানো হয়?",
+     "question_en": "At what temperature is the gas first passed over carbon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "175°C",
+       "en": "175 °C"
+      },
+      {
+       "id": "b",
+       "bn": "600°C",
+       "en": "600 °C"
+      },
+      {
+       "id": "c",
+       "bn": "1100°C",
+       "en": "1100 °C"
+      },
+      {
+       "id": "d",
+       "bn": "100°C",
+       "en": "100 °C"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে 1100°C উত্তপ্ত বিশুদ্ধ কার্বন গুঁড়ার কথা আছে।",
+     "explanation_en": "The book specifies carbon powder at 1100 °C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "0.5 g যৌগ থেকে 0.22 g CO2 পাওয়া গেলে অক্সিজেনের শতকরা হার কত (সূত্র %O = 16w1×100/(44w))?",
+     "question_en": "0.5 g compound yields 0.22 g CO2. %O (%O = 16w1×100/(44w))?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "8%",
+       "en": "8%"
+      },
+      {
+       "id": "b",
+       "bn": "32%",
+       "en": "32%"
+      },
+      {
+       "id": "c",
+       "bn": "16%",
+       "en": "16%"
+      },
+      {
+       "id": "d",
+       "bn": "44%",
+       "en": "44%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "16×0.22×100/(44×0.5) = 16%।",
+     "explanation_en": "16×0.22×100/(44×0.5) = 16%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সূত্র %O = 16×w1×100/(44×w) তে 16 ও 44 কীসের ভর?",
+     "question_en": "In %O = 16×w1×100/(44×w), what are 16 and 44?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O ও CO2 এর পারমাণবিক/আণবিক ভর যথাক্রমে",
+       "en": "Atomic mass of O and molar mass of CO2"
+      },
+      {
+       "id": "b",
+       "bn": "C ও CO এর ভর",
+       "en": "Mass of C and CO"
+      },
+      {
+       "id": "c",
+       "bn": "O2 ও CO2 এর আণবিক ভর",
+       "en": "Molar masses of O2 and CO2"
+      },
+      {
+       "id": "d",
+       "bn": "H2O ও CO2 এর আণবিক ভর",
+       "en": "Molar masses of H2O and CO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "44 g CO2 এ যৌগ থেকে আগত O আছে 16 g।",
+     "explanation_en": "44 g CO2 carries 16 g oxygen from the compound.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.20",
+   "title_bn": "স্থূল সংকেত ও আণবিক সংকেত নির্ণয়",
+   "title_en": "Determination of Empirical and Molecular Formulae",
+   "notes_bn": "স্থূল সংকেত: অণুতে বিভিন্ন পরমাণুর সংখ্যার ক্ষুদ্রতম অনুপাত (যেমন গ্লুকোজ C6H12O6 → CH2O; C2H2 ও C6H6 উভয়ের CH)।\nনির্ণয়: (ক) %কে পারমাণবিক ভর দিয়ে ভাগ (খ) ক্ষুদ্রতম সংখ্যা দিয়ে ভাগ (গ) নিকটতম পূর্ণ সংখ্যা।\nআণবিক সংকেত = (স্থূল সংকেত) × n; n = আণবিক ভর / স্থূল সংকেতের ভর (n = 1, 2, 3...)।\nআভোগাড্রো প্রকল্প অনুযায়ী আণবিক ভর = 2 × বাষ্প ঘনত্ব।\nউদাহরণ: C 40%, H 6.7%, O 53.3% → CH2O; ভর 30 → আণবিক CH2O। C 70.59, H 5.88, O 23.53 → C4H4O; আণবিক ভর 136 → C8H8O2। C 61.02, H 15.25, N 23.73 (9 C) → C3H9N → C9H27N3।",
+   "notes_en": "Empirical formula: simplest whole-number ratio of atoms (glucose C6H12O6 → CH2O; C2H2 and C6H6 both CH).\nSteps: divide % by atomic mass; divide by the smallest; round to nearest whole numbers.\nMolecular formula = (empirical formula) × n, n = molecular mass / empirical formula mass.\nBy Avogadro's hypothesis, molecular mass = 2 × vapour density.\nBook examples: C 40, H 6.7, O 53.3 gives CH2O (mass 30, so molecular CH2O); C 70.59, H 5.88, O 23.53 gives C4H4O and with mass 136 gives C8H8O2; C 61.02, H 15.25, N 23.73 with 9 C atoms gives C3H9N then C9H27N3.",
+   "mcqs": [
+    {
+     "question_bn": "গ্লুকোজের স্থূল সংকেত কোনটি?",
+     "question_en": "What is the empirical formula of glucose?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H12O6",
+       "en": "C6H12O6"
+      },
+      {
+       "id": "b",
+       "bn": "CH2O",
+       "en": "CH2O"
+      },
+      {
+       "id": "c",
+       "bn": "C2H4O2",
+       "en": "C2H4O2"
+      },
+      {
+       "id": "d",
+       "bn": "CHO",
+       "en": "CHO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C : H : O = 6 : 12 : 6 = 1 : 2 : 1, তাই CH2O।",
+     "explanation_en": "C:H:O = 6:12:6 = 1:2:1, so CH2O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "আণবিক সংকেত ও স্থূল সংকেতের সম্পর্ক কোনটি?",
+     "question_en": "What is the relation between molecular and empirical formula?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আণবিক = স্থূল ÷ n",
+       "en": "Molecular = empirical ÷ n"
+      },
+      {
+       "id": "b",
+       "bn": "আণবিক = স্থূল × n",
+       "en": "Molecular = empirical × n"
+      },
+      {
+       "id": "c",
+       "bn": "আণবিক = স্থূল + n",
+       "en": "Molecular = empirical + n"
+      },
+      {
+       "id": "d",
+       "bn": "আণবিক = স্থূল − n",
+       "en": "Molecular = empirical − n"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আণবিক সংকেত = (স্থূল সংকেত) × n, n পূর্ণ সংখ্যা।",
+     "explanation_en": "Molecular formula = (empirical formula) × n, n a whole number.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনো যৌগের বাষ্প ঘনত্ব 15 হলে আণবিক ভর কত?",
+     "question_en": "If a compound's vapour density is 15, what is its molecular mass?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "15",
+       "en": "15"
+      },
+      {
+       "id": "b",
+       "bn": "30",
+       "en": "30"
+      },
+      {
+       "id": "c",
+       "bn": "7.5",
+       "en": "7.5"
+      },
+      {
+       "id": "d",
+       "bn": "60",
+       "en": "60"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আণবিক ভর = 2 × বাষ্প ঘনত্ব = 30।",
+     "explanation_en": "Molecular mass = 2 × vapour density = 30.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "যৌগে C 40%, H 6.7%, O 53.3% এবং আণবিক ভর 180 হলে আণবিক সংকেত কী?",
+     "question_en": "A compound has C 40%, H 6.7%, O 53.3% and molecular mass 180. Its molecular formula?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH2O",
+       "en": "CH2O"
+      },
+      {
+       "id": "b",
+       "bn": "C3H6O3",
+       "en": "C3H6O3"
+      },
+      {
+       "id": "c",
+       "bn": "C6H12O6",
+       "en": "C6H12O6"
+      },
+      {
+       "id": "d",
+       "bn": "C5H10O5",
+       "en": "C5H10O5"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "স্থূল সংকেত CH2O (ভর 30); n = 180/30 = 6, তাই C6H12O6।",
+     "explanation_en": "Empirical CH2O (mass 30); n = 180/30 = 6, so C6H12O6.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি যৌগে C : H = 1 : 2 এবং আণবিক ভর 80–100 এর মধ্যে। বইয়ের পদ্ধতিতে সম্ভাব্য আণবিক সংকেত কোনটি?",
+     "question_en": "A compound has C:H = 1:2 and molecular mass between 80 and 100. Which is a possible molecular formula?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C5H10",
+       "en": "C5H10"
+      },
+      {
+       "id": "b",
+       "bn": "C6H12",
+       "en": "C6H12"
+      },
+      {
+       "id": "c",
+       "bn": "C8H16",
+       "en": "C8H16"
+      },
+      {
+       "id": "d",
+       "bn": "C4H8",
+       "en": "C4H8"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "(CH2)n, 14n = 80–100, n = 6 ও 7; C6H12 (ভর 84) সম্ভাব্য।",
+     "explanation_en": "(CH2)n with 14n = 80–100 gives n = 6 or 7; C6H12 (mass 84) fits.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.21",
+   "title_bn": "জৈব যৌগে অসম্পৃক্ততার (C=C, C≡C) পরীক্ষা",
+   "title_en": "Test for Unsaturation (C=C, C≡C)",
+   "notes_bn": "অসম্পৃক্ততা মানে দ্বিবন্ধন বা ত্রিবন্ধনের (পাই বন্ধন) উপস্থিতি; দুটি পরীক্ষা: ব্রোমিন দ্রবণ ও বেয়ার পরীক্ষা।\nব্রোমিন দ্রবণ: অসম্পৃক্ত যৌগে CCl4-এ ব্রোমিনের লাল বর্ণ দূর হয় (যোগজ বিক্রিয়া)। CH2=CH2 + Br2 → CH2Br–CH2Br; CH≡CH + 2Br2 → CHBr2–CHBr2।\nবেয়ার পরীক্ষা: ক্ষারীয় KMnO4-এর গোলাপি বর্ণ দূর হয়; ইথিন → ইথিলিন গ্লাইকল (HOCH2CH2OH), অ্যাসিটিলিন → অক্সালিক অ্যাসিড (HOOC–COOH)।\nদ্বিবন্ধন ও ত্রিবন্ধন পৃথকীকরণের জন্য আলাদা পরীক্ষা অধ্যায় ৫-এ আছে।",
+   "notes_en": "Unsaturation means a double or triple bond (pi bond); two tests: bromine solution and Baeyer's test.\nBromine: bromine in CCl4 loses its red colour with unsaturated compounds (addition). CH2=CH2 + Br2 → CH2Br–CH2Br; CH≡CH + 2Br2 → CHBr2–CHBr2.\nBaeyer: pink alkaline KMnO4 is decolourised; ethene gives ethylene glycol (HOCH2CH2OH), acetylene gives oxalic acid (HOOC–COOH).\nDistinguishing double from triple bonds is covered in chapter 5.",
+   "mcqs": [
+    {
+     "question_bn": "অসম্পৃক্ত যৌগে ব্রোমিন দ্রবণ যোগ করলে কী পর্যবেক্ষণ হয়?",
+     "question_en": "What is observed when bromine solution is added to an unsaturated compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল বর্ণ দূর হয়",
+       "en": "Red colour disappears"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা অধঃক্ষেপ পড়ে",
+       "en": "White precipitate forms"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ বর্ণ আসে",
+       "en": "Green colour appears"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন নেই",
+       "en": "No change"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "যোগজ বিক্রিয়ায় ব্রোমিন ব্যয় হয়, তাই লাল বর্ণ দূর হয়।",
+     "explanation_en": "Bromine is consumed by addition, so the red colour fades.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেয়ার বিকারক কোনটি?",
+     "question_en": "What is Baeyer's reagent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টলেন বিকারক",
+       "en": "Tollens' reagent"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষারীয় KMnO4",
+       "en": "Alkaline KMnO4"
+      },
+      {
+       "id": "c",
+       "bn": "লুকাস বিকারক",
+       "en": "Lucas reagent"
+      },
+      {
+       "id": "d",
+       "bn": "ফেলিং দ্রবণ",
+       "en": "Fehling's solution"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্ষারীয় পটাসিয়াম পারম্যাঙ্গানেটের গোলাপি দ্রবণ।",
+     "explanation_en": "Pink alkaline potassium permanganate solution.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেয়ার পরীক্ষায় ইথিন থেকে কোন যৌগ পাওয়া যায়?",
+     "question_en": "In Baeyer's test, what does ethene give?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিলিন গ্লাইকল",
+       "en": "Ethylene glycol"
+      },
+      {
+       "id": "c",
+       "bn": "অক্সালিক অ্যাসিড",
+       "en": "Oxalic acid"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিলিন ডাইব্রোমাইড",
+       "en": "Ethylene dibromide"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH2=CH2 + [O] + H2O → HOCH2CH2OH।",
+     "explanation_en": "CH2=CH2 + [O] + H2O → HOCH2CH2OH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1 mol অ্যাসিটিলিন সম্পূর্ণ ব্রোমিন যোগে কত mol Br2 গ্রহণ করে এবং উৎপাদ কী?",
+     "question_en": "How many mol Br2 does 1 mol acetylene take up completely, and what is the product?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1 mol; CHBr=CHBr",
+       "en": "1 mol; CHBr=CHBr"
+      },
+      {
+       "id": "b",
+       "bn": "2 mol; CHBr2–CHBr2",
+       "en": "2 mol; CHBr2–CHBr2"
+      },
+      {
+       "id": "c",
+       "bn": "2 mol; CH3CHBr2",
+       "en": "2 mol; CH3CHBr2"
+      },
+      {
+       "id": "d",
+       "bn": "3 mol; CBr3–CBr3",
+       "en": "3 mol; CBr3–CBr3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH≡CH + 2Br2 → CHBr2–CHBr2 (অ্যাসিটিলিন টেট্রাব্রোমাইড)।",
+     "explanation_en": "CH≡CH + 2Br2 → CHBr2–CHBr2 (acetylene tetrabromide).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.22",
+   "title_bn": "নাইট্রোজেনবিহীন কার্যকরী মূলকসমূহের পরীক্ষা",
+   "title_en": "Tests for Nitrogen-free Functional Groups",
+   "notes_bn": "অ্যালকোহলিক –OH: (১) লিটমাস নিরপেক্ষ (২) Na ধাতু যোগে H2 নির্গত, নীল শিখায় জ্বলে (৩) গ্লেসিয়াল CH3COOH ও গাঢ় H2SO4 সহ উত্তপ্ত করলে ফলের সুগন্ধ (এস্টার)। লুকাস বিকারক (ZnCl2 + গাঢ় HCl): 3° তাৎক্ষণিক ঘোলাটে, 2° প্রায় 5–10 মিনিটে, 1° বিক্রিয়াহীন।\nঅ্যালডিহাইড/কিটোন (–CHO, –CO–): 2,4-DNP যোগে কমলা-লাল/হলুদ অধঃক্ষেপ।\nশুধু অ্যালডিহাইড: টলেন বিকারকে সিলভার দর্পণ (বিস্ফোরণ ঝুঁকিতে গরম নয়), ফেলিং দ্রবণে Cu2O-এর লাল অধঃক্ষেপ (শুধু অ্যালিফেটিক)।\nকার্বক্সিলিক (–COOH): নীল লিটমাস লাল; 5% NaHCO3 যোগে CO2 বুদবুদ।\nফেনল: নিরপেক্ষ FeCl3 যোগে বেগুনি/নীল/সবুজ বর্ণ; লিবারম্যান নাইট্রোসো পরীক্ষা (গাঢ় H2SO4 + NaNO2: লাল, জলে মেশালে লাল, ক্ষার যোগে সবুজ-নীল)।",
+   "notes_en": "Alcoholic –OH: litmus neutral; Na metal gives H2 (burns with a blue flame); glacial acetic acid + conc. H2SO4 gives a fruity ester smell. Lucas reagent (ZnCl2 + conc. HCl): 3° turbid at once, 2° in about 5–10 min, 1° no reaction.\nAldehydes/ketones (–CHO, –CO–): 2,4-DNP gives an orange-red/yellow precipitate.\nAldehydes only: Tollens' reagent gives a silver mirror (do not heat directly; explosion risk); Fehling's solution gives a red Cu2O precipitate (aliphatic aldehydes only).\nCarboxylic –COOH: blue litmus turns red; 5% NaHCO3 gives CO2 bubbles.\nPhenol: neutral FeCl3 gives violet/blue/green colour; Liebermann's nitroso test (red, then green-blue with alkali).",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকোহলিক –OH মূলক শনাক্তে কোন ধাতু ব্যবহার করা হয়?",
+     "question_en": "Which metal is used to detect alcoholic –OH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na",
+       "en": "Na"
+      },
+      {
+       "id": "b",
+       "bn": "Cu",
+       "en": "Cu"
+      },
+      {
+       "id": "c",
+       "bn": "Ag",
+       "en": "Ag"
+      },
+      {
+       "id": "d",
+       "bn": "Zn",
+       "en": "Zn"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Na-এর সাথে H2 নির্গত হয়, যা নীল শিখায় জ্বলে।",
+     "explanation_en": "Na liberates H2 that burns with a blue flame.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কার্বক্সিলিক অ্যাসিড শনাক্তে কোন দ্রবণ বুদবুদসহ CO2 দেয়?",
+     "question_en": "Which solution gives CO2 bubbles with a carboxylic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5% NaHCO3",
+       "en": "5% NaHCO3"
+      },
+      {
+       "id": "b",
+       "bn": "টলেন বিকারক",
+       "en": "Tollens' reagent"
+      },
+      {
+       "id": "c",
+       "bn": "লুকাস বিকারক",
+       "en": "Lucas reagent"
+      },
+      {
+       "id": "d",
+       "bn": "Br2 দ্রবণ",
+       "en": "Br2 solution"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "–COOH ও NaHCO3 বিক্রিয়ায় CO2 নির্গত হয়।",
+     "explanation_en": "–COOH reacts with NaHCO3 releasing CO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লুকাস পরীক্ষায় কোন অ্যালকোহল প্রায় 5–10 মিনিট পর ঘোলাটে হয়?",
+     "question_en": "In the Lucas test, which alcohol turns turbid after about 5–10 minutes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1°",
+       "en": "1°"
+      },
+      {
+       "id": "b",
+       "bn": "2°",
+       "en": "2°"
+      },
+      {
+       "id": "c",
+       "bn": "3°",
+       "en": "3°"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলো একই সময়ে",
+       "en": "All at the same time"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "3° তৎক্ষণাৎ, 2° প্রায় 5–10 মিনিটে, 1° বিক্রিয়া করে না।",
+     "explanation_en": "3° at once, 2° in about 5–10 min, 1° no reaction.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগ ফেলিং দ্রবণে লাল Cu2O অধঃক্ষেপ দেয় কিন্তু প্রোপানোন (CH3COCH3) দেয় না?",
+     "question_en": "Which compound gives a red Cu2O precipitate with Fehling's solution while propanone does not?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3COOH",
+       "en": "CH3COOH"
+      },
+      {
+       "id": "b",
+       "bn": "CH3CHO",
+       "en": "CH3CHO"
+      },
+      {
+       "id": "c",
+       "bn": "C2H5OH",
+       "en": "C2H5OH"
+      },
+      {
+       "id": "d",
+       "bn": "C6H5OH",
+       "en": "C6H5OH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শুধু অ্যালিফেটিক অ্যালডিহাইড ফেলিং পরীক্ষা দেয়।",
+     "explanation_en": "Only aliphatic aldehydes respond to Fehling's test.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অজানা যৌগ নিরপেক্ষ FeCl3-এ বেগুনি/সবুজ বর্ণ দেয় এবং NaHCO3 এ CO2 দেয় না। এটি কী?",
+     "question_en": "An unknown compound gives violet/green colour with neutral FeCl3 and no CO2 with NaHCO3. What is it?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বক্সিলিক অ্যাসিড",
+       "en": "Carboxylic acid"
+      },
+      {
+       "id": "b",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "কিটোন",
+       "en": "Ketone"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "FeCl3-এ বর্ণ ফেনলের লক্ষণ; NaHCO3 এ CO2 না আসায় –COOH নয়।",
+     "explanation_en": "Colour with FeCl3 indicates phenol; no CO2 with NaHCO3 rules out –COOH.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.23",
+   "title_bn": "নাইট্রোজেন সংবলিত কার্যকরী মূলকসমূহের পরীক্ষা",
+   "title_en": "Tests for Nitrogen-containing Functional Groups",
+   "notes_bn": "অ্যামিন (–NH2, –NH–, ≡N): \n১. কার্বিল অ্যামিন পরীক্ষা: প্রাইমারি (1°) অ্যামিন + অ্যালকোহলীয় NaOH + CHCl3, উত্তপ্ত → উগ্র দুর্গন্ধযুক্ত কার্বিল অ্যামিন (RNC)।\n২. অ্যাজো-রঞ্জক পরীক্ষা: গাঢ় HCl + NaNO2 শীতল অবস্থায়, তারপর β-ন্যাফথল: 1° অ্যারোমেটিক অ্যামিনে লাল রঞ্জক ও N2; 2° অ্যামিনে তৈলাক্ত হলুদ N-নাইট্রোসো; 3° অ্যারোমেটিক অ্যামিনে বাদামি-হলুদ অধঃক্ষেপ।\nনাইট্রো (–NO2) (–NH2 না থাকলে): HCl ও Sn/Zn দ্বারা বিজারণ করে অ্যামিনে পরিণত করে একই ডায়াজোকরণ ও β-ন্যাফথল পরীক্ষায় লাল রঞ্জক।",
+   "notes_en": "Amines (–NH2, –NH–, tertiary N): \n1. Carbylamine test: a primary (1°) amine with alcoholic NaOH and CHCl3, heated, gives a foul-smelling isocyanide (RNC).\n2. Azo-dye test: conc. HCl + NaNO2 in the cold then β-naphthol: 1° aromatic amine gives a red dye with N2; 2° amine gives an oily yellow N-nitroso compound; 3° aromatic amine gives a brownish-yellow precipitate.\nNitro (–NO2) (when –NH2 is absent): reduce with Sn/Zn and conc. HCl to the amine, then diazotise and couple with β-naphthol to get the red dye.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বিল অ্যামিন পরীক্ষা কোন মূলক শনাক্ত করে?",
+     "question_en": "Which group does the carbylamine test detect?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1° অ্যামিন (–NH2)",
+       "en": "1° amine (–NH2)"
+      },
+      {
+       "id": "b",
+       "bn": "2° অ্যামিন",
+       "en": "2° amine"
+      },
+      {
+       "id": "c",
+       "bn": "3° অ্যামিন",
+       "en": "3° amine"
+      },
+      {
+       "id": "d",
+       "bn": "নাইট্রো মূলক",
+       "en": "Nitro group"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শুধু প্রাইমারি অ্যামিন উগ্র দুর্গন্ধযুক্ত আইসোসায়ানাইড দেয়।",
+     "explanation_en": "Only primary amines give the foul-smelling isocyanide.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কার্বিল অ্যামিন পরীক্ষায় কোন বিকারক ব্যবহৃত হয়?",
+     "question_en": "Which reagents are used in the carbylamine test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CHCl3 ও অ্যালকোহলীয় NaOH",
+       "en": "CHCl3 and alcoholic NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "NaNO2 ও HCl",
+       "en": "NaNO2 and HCl"
+      },
+      {
+       "id": "c",
+       "bn": "Sn ও HCl",
+       "en": "Sn and HCl"
+      },
+      {
+       "id": "d",
+       "bn": "FeCl3",
+       "en": "FeCl3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1° অ্যামিন + CHCl3 + NaOH উত্তপ্ত করা হয়।",
+     "explanation_en": "The 1° amine is heated with CHCl3 and NaOH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাজো-রঞ্জক পরীক্ষায় 1° অ্যারোমেটিক অ্যামিন কী দেয়?",
+     "question_en": "What does a 1° aromatic amine give in the azo-dye test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তৈলাক্ত হলুদ স্তর",
+       "en": "Oily yellow layer"
+      },
+      {
+       "id": "b",
+       "bn": "লাল রঞ্জক ও N2 বুদবুদ",
+       "en": "Red dye with N2 bubbles"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো বিক্রিয়া নয়",
+       "en": "No reaction"
+      },
+      {
+       "id": "d",
+       "bn": "সিলভার দর্পণ",
+       "en": "Silver mirror"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ডায়াজোনিয়াম লবণ β-ন্যাফথলের সাথে লাল রঞ্জক গঠন করে, N2 নির্গত হয়।",
+     "explanation_en": "The diazonium salt couples with β-naphthol to give a red dye; N2 evolves.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইট্রোবেনজিনে –NO2 শনাক্ত করার সঠিক ধাপ কোনটি?",
+     "question_en": "Which is the correct way to detect –NO2 in nitrobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সরাসরি কার্বিল অ্যামিন পরীক্ষা",
+       "en": "Direct carbylamine test"
+      },
+      {
+       "id": "b",
+       "bn": "Sn/HCl দিয়ে বিজারণ, ডায়াজোকরণ, তারপর β-ন্যাফথল",
+       "en": "Reduce with Sn/HCl, diazotise, then β-naphthol"
+      },
+      {
+       "id": "c",
+       "bn": "5% NaHCO3 যোগ",
+       "en": "Add 5% NaHCO3"
+      },
+      {
+       "id": "d",
+       "bn": "লুকাস বিকারক যোগ",
+       "en": "Add Lucas reagent"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিজারণে অ্যানিলিন, তারপর ডায়াজোকরণ ও β-ন্যাফথলে লাল রঞ্জক।",
+     "explanation_en": "Reduction gives aniline; diazotisation and β-naphthol give the red dye.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.24",
+   "title_bn": "জৈব রসায়নে কার্যকরী মূলকের গুরুত্ব",
+   "title_en": "Importance of Functional Groups in Organic Chemistry",
+   "notes_bn": "কার্যকরী মূলক: সমধর্মী শ্রেণির যৌগের অণুতে থাকা সক্রিয় পরমাণু/মূলক যা যৌগের ধর্ম নিয়ন্ত্রণ করে।\nঅ্যালকোহল –OH, অ্যালডিহাইড –CHO, অ্যামিন –NH2।\nগুরুত্ব: জৈব রসায়ন কার্যকরী মূলকভিত্তিক; শনাক্তকরণে নির্দিষ্ট বিকারক; যৌগের শ্রেণিবিন্যাস, নামকরণ, বিশোধন, বিক্রিয়ার কৌশল সবই এর ওপর নির্ভরশীল।\nশনাক্তকারী বিকারক: অ্যালকিন/অ্যালকাইন – Br2/CCl4, KMnO4; অ্যালকাইন-1 – AgNO3 + NH4OH (সাদা), Cu2Cl2 + NH4OH (লাল); অ্যালকোহল – Na, PCl5; অ্যালকাইল হ্যালাইড – AgNO3 (AgX); অ্যালডিহাইড/কিটোন – 2,4-DNP; অ্যালডিহাইড – টলেন, ফেলিং; –COOH – NaHCO3; অ্যাসিড ক্লোরাইড – H2O + AgNO3; অ্যামাইড – NaOH উত্তপ্ত (NH3); –NH2 – CHCl3 + NaOH।",
+   "notes_en": "A functional group is the active atom or group in all members of a homologous class that controls the class's behaviour.\nExamples: alcohol –OH, aldehyde –CHO, amine –NH2.\nImportance: organic chemistry is organised around functional groups; each has specific reagents for identification; classification, naming, purification and reaction mechanisms depend on them.\nTest reagents from the table: alkene/alkyne – Br2/CCl4, KMnO4; terminal alkyne – AgNO3 + NH4OH (white), Cu2Cl2 + NH4OH (red); alcohol – Na, PCl5; alkyl halide – AgNO3 (AgX); aldehyde/ketone – 2,4-DNP; aldehyde – Tollens, Fehling; –COOH – NaHCO3; acid chloride – H2O + AgNO3; amide – hot NaOH (NH3); –NH2 – CHCl3 + NaOH.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যামিনের কার্যকরী মূলক কোনটি?",
+     "question_en": "What is the functional group of amines?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–OH",
+       "en": "–OH"
+      },
+      {
+       "id": "b",
+       "bn": "–CHO",
+       "en": "–CHO"
+      },
+      {
+       "id": "c",
+       "bn": "–NH2",
+       "en": "–NH2"
+      },
+      {
+       "id": "d",
+       "bn": "–COOH",
+       "en": "–COOH"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে CH3–NH2 তে –NH2 কে কার্যকরী মূলক দেখানো হয়েছে।",
+     "explanation_en": "The book shows –NH2 as the functional group in CH3–NH2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকাইন-1 (টার্মিনাল) শনাক্তে AgNO3 + NH4OH দিলে কী পাওয়া যায়?",
+     "question_en": "What forms when a terminal alkyne is treated with AgNO3 + NH4OH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা অধঃক্ষেপ",
+       "en": "White precipitate"
+      },
+      {
+       "id": "b",
+       "bn": "লাল অধঃক্ষেপ",
+       "en": "Red precipitate"
+      },
+      {
+       "id": "c",
+       "bn": "সিলভার দর্পণ",
+       "en": "Silver mirror"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন নেই",
+       "en": "No change"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সিলভার অ্যালকাইনাইডের সাদা অধঃক্ষেপ।",
+     "explanation_en": "A white precipitate of silver alkynide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাসিড অ্যামাইডকে NaOH সহ উত্তপ্ত করলে কোন গ্যাস পাওয়া যায়?",
+     "question_en": "Which gas is released on heating an acid amide with NaOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N2",
+       "en": "N2"
+      },
+      {
+       "id": "b",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "c",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "d",
+       "bn": "CO2",
+       "en": "CO2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "20% NaOH ও উত্তাপে NH3 গ্যাসের গন্ধ পাওয়া যায়।",
+     "explanation_en": "Hot 20% NaOH gives the smell of NH3 gas.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন বিকারক জোড়া শুধু অ্যালডিহাইডকে কিটোন থেকে আলাদা করে?",
+     "question_en": "Which reagent pair distinguishes aldehydes from ketones only?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2,4-DNP ও Br2",
+       "en": "2,4-DNP and Br2"
+      },
+      {
+       "id": "b",
+       "bn": "টলেন ও ফেলিং",
+       "en": "Tollens and Fehling"
+      },
+      {
+       "id": "c",
+       "bn": "NaHCO3 ও লিটমাস",
+       "en": "NaHCO3 and litmus"
+      },
+      {
+       "id": "d",
+       "bn": "Na ও PCl5",
+       "en": "Na and PCl5"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2,4-DNP উভয়ের সাথে অধঃক্ষেপ দেয়; টলেন/ফেলিং শুধু অ্যালডিহাইডের সাথে।",
+     "explanation_en": "2,4-DNP reacts with both; Tollens/Fehling react only with aldehydes.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.25",
+   "title_bn": "কার্যকরী মূলকভিত্তিক সমস্যা ও সমাধান",
+   "title_en": "Problems and Solutions Based on Functional Groups",
+   "notes_bn": "ইথানল ও ইথান্যাল পার্থক্য: ইথানল (অ্যালকোহল): Na-এ H2, বা CH3COOH + গাঢ় H2SO4-এ ফলের সুগন্ধ (এস্টার); ইথান্যাল (অ্যালডিহাইড): টলেন বিকারকে সিলভার দর্পণ, ফেলিং দ্রবণে লাল Cu2O।\nইথান্যাল ও প্রোপানোন: উভয়ে 2,4-DNP-তে কমলা অধঃক্ষেপ; কিন্তু টলেন ও ফেলিংয়ে শুধু ইথান্যাল বিক্রিয়া করে।\nইথান্যাল ও ইথানোয়িক এসিড: ইথান্যাল টলেন/ফেলিং দেয়; ইথানোয়িক এসিড 5% NaHCO3 এ CO2 বুদবুদ দেয়।\nনোট: HCOOH টলেনে বিক্রিয়া করে, CH3COOH করে না।\nস্থূল/আণবিক সংকেতের সমস্যা: %→পারমাণবিক ভরে ভাগ→ক্ষুদ্রতম অনুপাত→n নির্ণয়। উদাহরণ: 5.17 mg যৌগ, 10.32 mg CO2, 4.23 mg H2O → C 54.44%, H 9.09%, O 36.47% → C2H4O; ভর 90.08 → C4H8O2।\nঅসম্পৃক্ত যৌগ: 85.7% C, 14.3% H, ভর 80–100, 1 mol Br2 গ্রহণ → CH2 অনুপাত, n = 6 বা 7 → C6H12 (হেক্সিন) বা C7H14 (হেপ্টিন)।",
+   "notes_en": "Ethanol vs ethanal: ethanol (alcohol) gives H2 with Na or a fruity ester smell with CH3COOH + conc. H2SO4; ethanal (aldehyde) gives a silver mirror with Tollens' reagent and red Cu2O with Fehling's solution.\nEthanal vs propanone: both give an orange precipitate with 2,4-DNP, but only ethanal reacts with Tollens and Fehling.\nEthanal vs ethanoic acid: ethanal passes Tollens/Fehling; ethanoic acid gives CO2 bubbles with 5% NaHCO3.\nNote: HCOOH reacts with Tollens' reagent, CH3COOH does not.\nFormula problems: % → divide by atomic mass → simplest ratio → find n. Example: 5.17 mg compound, 10.32 mg CO2, 4.23 mg H2O gives C 54.44, H 9.09, O 36.47, so C2H4O; mass 90.08 gives C4H8O2.\nUnsaturated compound: 85.7% C, 14.3% H, mass 80–100, takes 1 mol Br2: CH2 ratio, n = 6 or 7, so C6H12 (hexene) or C7H14 (heptene).",
+   "mcqs": [
+    {
+     "question_bn": "ইথানল ও ইথান্যাল আলাদা করতে কোন পরীক্ষা কার্যকর?",
+     "question_en": "Which test distinguishes ethanol from ethanal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লিটমাস",
+       "en": "Litmus"
+      },
+      {
+       "id": "b",
+       "bn": "টলেন বিকারক",
+       "en": "Tollens' reagent"
+      },
+      {
+       "id": "c",
+       "bn": "ব্রোমিন দ্রবণ",
+       "en": "Bromine solution"
+      },
+      {
+       "id": "d",
+       "bn": "NaHCO3",
+       "en": "NaHCO3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শুধু ইথান্যাল সিলভার দর্পণ দেয়।",
+     "explanation_en": "Only ethanal gives a silver mirror.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথান্যাল ও প্রোপানোনকে কোন বিকারক আলাদা করে?",
+     "question_en": "Which reagent distinguishes ethanal from propanone?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2,4-DNP",
+       "en": "2,4-DNP"
+      },
+      {
+       "id": "b",
+       "bn": "টলেন বিকারক",
+       "en": "Tollens' reagent"
+      },
+      {
+       "id": "c",
+       "bn": "Br2/CCl4",
+       "en": "Br2/CCl4"
+      },
+      {
+       "id": "d",
+       "bn": "ক্ষারীয় KMnO4",
+       "en": "Alkaline KMnO4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উভয়ে 2,4-DNP তে অধঃক্ষেপ দেয়; টলেন শুধু ইথান্যাল।",
+     "explanation_en": "Both give a precipitate with 2,4-DNP; Tollens reacts only with ethanal.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথানোয়িক এসিড ও ইথান্যালের মধ্যে কোন বিকারক ইথানোয়িক এসিডে বুদবুদ সৃষ্টি করে?",
+     "question_en": "Which reagent bubbles with ethanoic acid but not ethanal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5% NaHCO3",
+       "en": "5% NaHCO3"
+      },
+      {
+       "id": "b",
+       "bn": "ফেলিং দ্রবণ",
+       "en": "Fehling's solution"
+      },
+      {
+       "id": "c",
+       "bn": "টলেন বিকারক",
+       "en": "Tollens' reagent"
+      },
+      {
+       "id": "d",
+       "bn": "2,4-DNP",
+       "en": "2,4-DNP"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "–COOH ও NaHCO3 থেকে CO2 বুদবুদ।",
+     "explanation_en": "–COOH with NaHCO3 releases CO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি অসম্পৃক্ত হাইড্রোকার্বনে C 85.7%, H 14.3%; আণবিক ভর 80–100, 1 mol Br2 গ্রহণ করে। সম্ভাব্য সংকেত কোনটি?",
+     "question_en": "An unsaturated hydrocarbon has C 85.7%, H 14.3%, mass 80–100 and absorbs 1 mol Br2. Possible formula?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C5H10",
+       "en": "C5H10"
+      },
+      {
+       "id": "b",
+       "bn": "C6H12",
+       "en": "C6H12"
+      },
+      {
+       "id": "c",
+       "bn": "C6H6",
+       "en": "C6H6"
+      },
+      {
+       "id": "d",
+       "bn": "C8H18",
+       "en": "C8H18"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C : H = 7.14 : 14.3 = 1 : 2; (CH2)6 = C6H12 (ভর 84), এক π বন্ধন।",
+     "explanation_en": "C:H = 7.14:14.3 = 1:2; (CH2)6 = C6H12 (mass 84), one pi bond.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "12.15",
+   "stimulus_bn": "একটি জৈব যৌগের 0.2346 g দহন করে 0.4488 g CO2 ও 0.2754 g H2O পাওয়া গেল। যৌগে শুধু C, H ও O আছে।",
+   "stimulus_en": "0.2346 g of an organic compound on combustion gives 0.4488 g CO2 and 0.2754 g H2O. Only C, H and O are present.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "C ও H নির্ণয়ে CO2 কোন দ্রবণে শোষিত হয়?",
+     "question_en": "Which solution absorbs CO2 in C and H estimation?",
+     "model_answer_bn": "KOH দ্রবণে।",
+     "model_answer_en": "KOH solution."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "CuO কেন ব্যবহার করা হয় ব্যাখ্যা কর।",
+     "question_en": "Explain why CuO is used.",
+     "model_answer_bn": "CuO যৌগকে সম্পূর্ণ জারিত করে C কে CO2 ও H কে H2O-তে পরিণত করে।",
+     "model_answer_en": "CuO fully oxidises the compound, converting C to CO2 and H to H2O."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "যৌগটির C ও H এর শতকরা হার নির্ণয় কর।",
+     "question_en": "Calculate %C and %H.",
+     "model_answer_bn": "%C = 12×0.4488×100/(44×0.2346) = 52.17; %H = 2×0.2754×100/(18×0.2346) = 13.04।",
+     "model_answer_en": "%C = 12×0.4488×100/(44×0.2346) = 52.17; %H = 2×0.2754×100/(18×0.2346) = 13.04."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "অক্সিজেনের শতকরা হার বের করে যৌগটির স্থূল সংকেত নির্ণয় কর।",
+     "question_en": "Find %O and hence the empirical formula.",
+     "model_answer_bn": "O = 100 − 65.21 = 34.79%। C : H : O = 52.17/12 : 13.04/1 : 34.79/16 = 4.35 : 13.04 : 2.17 = 2 : 6 : 1; স্থূল সংকেত C2H6O।",
+     "model_answer_en": "O = 100 − 65.21 = 34.79%. C:H:O = 4.35 : 13.04 : 2.17 = 2:6:1; empirical formula C2H6O."
+    }
+   ]
+  },
+  {
+   "topic_section": "12.16",
+   "stimulus_bn": "0.257 g একটি জৈব যৌগকে জেলডাল পদ্ধতিতে বিশ্লেষণ করা হল। নির্গত NH3 50 mL 0.1M HCl-এ শোষিত হল এবং অবশিষ্ট HCl প্রশমনে 23.2 mL 0.1M NaOH লাগল।",
+   "stimulus_en": "0.257 g of a compound is analysed by the Kjeldahl method. The NH3 is absorbed in 50 mL 0.1M HCl and the excess HCl needs 23.2 mL of 0.1M NaOH.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "জেলডাল পদ্ধতি কোন মৌল নির্ণয়ে ব্যবহৃত হয়?",
+     "question_en": "Which element is estimated by the Kjeldahl method?",
+     "model_answer_bn": "নাইট্রোজেন।",
+     "model_answer_en": "Nitrogen."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "জেলডাল পদ্ধতিতে নাইট্রোজেন কোন যৌগে রূপান্তরিত হয় এবং কীভাবে NH3 মুক্ত হয়?",
+     "question_en": "In what form does N end up and how is NH3 liberated?",
+     "model_answer_bn": "গাঢ় H2SO4 দিয়ে উত্তপ্ত করলে N → (NH4)2SO4; অতিরিক্ত NaOH যোগে NH3 মুক্ত হয়।",
+     "model_answer_en": "N becomes (NH4)2SO4 with hot conc. H2SO4; excess NaOH liberates NH3."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "NH3 দ্বারা প্রশমিত HCl এর আয়তন নির্ণয় কর।",
+     "question_en": "Find the volume of HCl neutralised by NH3.",
+     "model_answer_bn": "50 − 23.2 = 26.8 mL 0.1M HCl।",
+     "model_answer_en": "50 − 23.2 = 26.8 mL of 0.1M HCl."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "যৌগে N এর শতকরা পরিমাণ হিসাব কর (1 mL 0.1M HCl ≡ 0.0014 g N)।",
+     "question_en": "Calculate %N (1 mL 0.1M HCl ≡ 0.0014 g N).",
+     "model_answer_bn": "N = 0.0014×26.8 = 0.03752 g; %N = 0.0014×26.8×100/0.257 = 14.6।",
+     "model_answer_en": "N = 0.0014×26.8 = 0.03752 g; %N = 0.0014×26.8×100/0.257 = 14.6."
+    }
+   ]
+  },
+  {
+   "topic_section": "12.25",
+   "stimulus_bn": "A ও B দুটি রঙহীন তরল: একটি ইথান্যাল, অন্যটি ইথানোয়িক এসিড। A টলেন বিকারকে সিলভার দর্পণ দেয়, B 5% NaHCO3 এ বুদবুদ সৃষ্টি করে।",
+   "stimulus_en": "A and B are colourless liquids, one ethanal and one ethanoic acid. A gives a silver mirror with Tollens' reagent; B bubbles with 5% NaHCO3.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "টলেন বিকারক কোন কার্যকরী মূলক শনাক্ত করে?",
+     "question_en": "Which functional group does Tollens' reagent detect?",
+     "model_answer_bn": "অ্যালডিহাইড (–CHO)।",
+     "model_answer_en": "Aldehyde (–CHO)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "B এ বুদবুদের কারণ কী?",
+     "question_en": "Why does B bubble?",
+     "model_answer_bn": "B কার্বক্সিলিক অ্যাসিড; NaHCO3 এর সাথে বিক্রিয়ায় CO2 গ্যাস নির্গত হয়।",
+     "model_answer_en": "B is a carboxylic acid; it reacts with NaHCO3 releasing CO2."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "A ও B শনাক্ত কর এবং A এর বিক্রিয়ার সমীকরণ লেখ।",
+     "question_en": "Identify A and B and write A's reaction.",
+     "model_answer_bn": "A = ইথান্যাল, B = ইথানোয়িক এসিড। CH3CHO + 2Ag(NH3)2OH → 2Ag + CH3COONH4 + 3NH3 + H2O।",
+     "model_answer_en": "A = ethanal, B = ethanoic acid. CH3CHO + 2Ag(NH3)2OH → 2Ag + CH3COONH4 + 3NH3 + H2O."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "A কে প্রোপানোন থেকে এবং B কে ইথানল থেকে পৃথক করার একটি করে পরীক্ষা বর্ণনা কর।",
+     "question_en": "Describe one test each to separate A from propanone and B from ethanol.",
+     "model_answer_bn": "A: টলেন/ফেলিং; ইথান্যাল সিলভার দর্পণ/লাল Cu2O দেয়, প্রোপানোন দেয় না। B: 5% NaHCO3 এ ইথানোয়িক এসিড CO2 বুদবুদ দেয়, ইথানল দেয় না।",
+     "model_answer_en": "A: Tollens/Fehling; ethanal gives silver mirror/red Cu2O, propanone does not. B: ethanoic acid bubbles CO2 with 5% NaHCO3, ethanol does not."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 653-672 readable (scan is rough in places; p.642 equations and p.655 diagram labels partly blurred). Pages 673-676 (exercise/question bank, MCQs) skipped. Text of 12.25 solved problems and chapter summary (p.657) used for 12.20/12.25 only."
+}

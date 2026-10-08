@@ -1,0 +1,1973 @@
+{
+ "chapter_no": 1,
+ "topics": [
+  {
+   "section_no": "1.1",
+   "title_bn": "ভূমিকা",
+   "title_en": "Introduction to Group-VA",
+   "notes_bn": "গ্রুপ-VA-তে পাঁচটি মৌল: N, P, As, Sb, Bi।\nN ও P অধাতু; As ও Sb ধাতুকল্প (অপধাতু); Bi ধাতু।\nসর্বশেষ কক্ষে ns²np³ অর্থাৎ ৫টি ইলেকট্রন — তাই একই গ্রুপে।\nN (1s² 2s² 2p³), P (1s² 2s² 2p⁶ 3s² 3p³)।\nগ্রুপ-VB/VIB d-ব্লক মৌলের অন্তর্ভুক্ত, তাই এই অধ্যায়ে VA ও VIA-কে যথাক্রমে গ্রুপ-V ও গ্রুপ-VI ধরা হয়েছে।\nN ও P রাসায়নিক সারের গুরুত্বপূর্ণ উপাদান।",
+   "notes_en": "Group-VA has five elements: N, P, As, Sb, Bi.\nN and P are non-metals; As and Sb are metalloids; Bi is a metal.\nAll have ns²np³ (5 outer electrons), hence the same group.\nN: 1s² 2s² 2p³; P: 1s² 2s² 2p⁶ 3s² 3p³.\nSub-groups VB/VIB belong to d-block, so VA/VIA are called Group-V/VI here.\nN and P are key components of chemical fertilisers.",
+   "mcqs": [
+    {
+     "question_bn": "গ্রুপ-VA-এর মৌল কয়টি?",
+     "question_en": "How many elements are in Group-VA?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৩",
+       "en": "৩"
+      },
+      {
+       "id": "b",
+       "bn": "৪",
+       "en": "৪"
+      },
+      {
+       "id": "c",
+       "bn": "৫",
+       "en": "৫"
+      },
+      {
+       "id": "d",
+       "bn": "৬",
+       "en": "৬"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N, P, As, Sb ও Bi — মোট পাঁচটি।",
+     "explanation_en": "N, P, As, Sb and Bi — five in total.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গ্রুপ-VA-এর কোনটি ধাতু?",
+     "question_en": "Which Group-VA element is a metal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নাইট্রোজেন",
+       "en": "Nitrogen"
+      },
+      {
+       "id": "b",
+       "bn": "ফসফরাস",
+       "en": "Phosphorus"
+      },
+      {
+       "id": "c",
+       "bn": "আর্সেনিক",
+       "en": "Arsenic"
+      },
+      {
+       "id": "d",
+       "bn": "বিসমাথ",
+       "en": "Bismuth"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "Bi ধাতু; As ও Sb অপধাতু; N ও P অধাতু।",
+     "explanation_en": "Bi is a metal; As and Sb are metalloids; N and P are non-metals.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্রুপ-VA মৌলের সর্বশেষ শক্তিস্তরের ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Outer-shell configuration of Group-VA elements?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ns²np¹",
+       "en": "ns²np¹"
+      },
+      {
+       "id": "b",
+       "bn": "ns²np³",
+       "en": "ns²np³"
+      },
+      {
+       "id": "c",
+       "bn": "ns²np⁵",
+       "en": "ns²np⁵"
+      },
+      {
+       "id": "d",
+       "bn": "ns²np⁶",
+       "en": "ns²np⁶"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পাঁচটি ইলেকট্রন (ns²np³) থাকায় এরা গ্রুপ-VA-তে।",
+     "explanation_en": "Five electrons (ns²np³) place them in Group-VA.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Bi-এর (পারমাণবিক সংখ্যা 83) শেষ কক্ষের ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Outermost configuration of Bi (Z = 83)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4s² 4p³",
+       "en": "4s² 4p³"
+      },
+      {
+       "id": "b",
+       "bn": "5s² 5p³",
+       "en": "5s² 5p³"
+      },
+      {
+       "id": "c",
+       "bn": "6s² 6p³",
+       "en": "6s² 6p³"
+      },
+      {
+       "id": "d",
+       "bn": "7s² 7p³",
+       "en": "7s² 7p³"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Bi-এর বিন্যাস শেষ হয়েছে 6s² 6p³-তে।",
+     "explanation_en": "Bi's configuration ends in 6s² 6p³.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "1.2",
+   "title_bn": "গ্রুপ-VA মৌলসমূহের পর্যায়ভিত্তিক ধর্ম",
+   "title_en": "Periodic Properties of Group-VA",
+   "notes_bn": "পারমাণবিক সংখ্যা: N 7, P 15, As 33, Sb 51, Bi 83।\nগলনাঙ্ক N −210°C, P 44°C; স্ফুটনাঙ্ক N −196°C, P 280°C — N গ্যাস, বাকিরা কঠিন।\nসমযোজী ব্যাসার্ধ: N 0.075 nm, P 0.110 nm — গ্রুপে নিচে বাড়ে।\nআয়নীকরণ শক্তি নিচে কমে: N 1410, P 1070 kJ mol⁻¹।\nতড়িৎঋণাত্মকতা নিচে কমে: N 3.0, P 2.1।\nনতুন শক্তিস্তর যোগ হওয়ায় পরমাণুর আকার বাড়ে।",
+   "notes_en": "Atomic numbers: N 7, P 15, As 33, Sb 51, Bi 83.\nMelting point N −210°C, P 44°C; boiling point N −196°C, P 280°C — N is a gas, others solid.\nCovalent radius: N 0.075 nm, P 0.110 nm — increases down the group.\nIonisation energy falls down the group: N 1410, P 1070 kJ mol⁻¹.\nElectronegativity falls: N 3.0, P 2.1.\nNew shells are added, so atomic size grows.",
+   "mcqs": [
+    {
+     "question_bn": "N-এর প্রথম আয়নীকরণ শক্তি কত?",
+     "question_en": "First ionisation energy of N?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "972 kJ mol⁻¹",
+       "en": "972 kJ mol⁻¹"
+      },
+      {
+       "id": "b",
+       "bn": "1070 kJ mol⁻¹",
+       "en": "1070 kJ mol⁻¹"
+      },
+      {
+       "id": "c",
+       "bn": "1410 kJ mol⁻¹",
+       "en": "1410 kJ mol⁻¹"
+      },
+      {
+       "id": "d",
+       "bn": "840 kJ mol⁻¹",
+       "en": "840 kJ mol⁻¹"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বই অনুযায়ী N-এর মান 1410 kJ mol⁻¹।",
+     "explanation_en": "The book gives 1410 kJ mol⁻¹ for N.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গ্রুপ-VA-তে নিচের দিকে তড়িৎঋণাত্মকতার প্রবণতা কী?",
+     "question_en": "Trend of electronegativity down Group-VA?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাড়ে",
+       "en": "Increases"
+      },
+      {
+       "id": "b",
+       "bn": "কমে",
+       "en": "Decreases"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত",
+       "en": "Constant"
+      },
+      {
+       "id": "d",
+       "bn": "প্রথমে কমে পরে বাড়ে",
+       "en": "Falls then rises"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আকার বাড়ায় নিউক্লিয়াসের আকর্ষণ কমে; N 3.0 → Bi 1.7।",
+     "explanation_en": "Larger size weakens nuclear attraction; N 3.0 → Bi 1.7.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাধারণ তাপমাত্রায় কোন মৌলটি গ্যাস?",
+     "question_en": "Which element is a gas at room temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P",
+       "en": "P"
+      },
+      {
+       "id": "b",
+       "bn": "As",
+       "en": "As"
+      },
+      {
+       "id": "c",
+       "bn": "N",
+       "en": "N"
+      },
+      {
+       "id": "d",
+       "bn": "Sb",
+       "en": "Sb"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N-এর স্ফুটনাঙ্ক −196°C, তাই গ্যাস।",
+     "explanation_en": "N boils at −196°C, so it is a gas.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N ও P-এর সমযোজী ব্যাসার্ধের অনুপাত (P : N) প্রায় কত?",
+     "question_en": "Approximate ratio of covalent radii P : N?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.0",
+       "en": "1.0"
+      },
+      {
+       "id": "b",
+       "bn": "1.47",
+       "en": "1.47"
+      },
+      {
+       "id": "c",
+       "bn": "2.0",
+       "en": "2.0"
+      },
+      {
+       "id": "d",
+       "bn": "0.68",
+       "en": "0.68"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "0.110 ÷ 0.075 ≈ 1.47। (গণনা-প্রাপ্ত)",
+     "explanation_en": "0.110 ÷ 0.075 ≈ 1.47 (derived).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.3",
+   "title_bn": "নাইট্রোজেন ও ফসফরাসের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "title_en": "Periodic Chemical Properties of N and P",
+   "notes_bn": "আয়নিক যৌগ: N³⁻ ও P³⁻ গঠন করে ধাতব নাইট্রাইড/ফসফাইড (Ca₃N₂, Ca₃P₂)।\nসমযোজী যৌগ (NH₃, PH₃) — যোজ্যতা ৩; উত্তেজিত P-এর যোজ্যতা ৫ (3d খালি), N-এর 2d নেই তাই শুধু ৩।\nজারণ অবস্থা −3 থেকে +5; N-এর পাঁচটি অক্সাইড N₂O, NO, N₂O₃, N₂O₄, N₂O₅।\nবহুরূপতা: N-এর α ও β; P-এর সাদা ও লোহিত।\nN₂ নিষ্ক্রিয়: N≡N ত্রিবন্ধন বিয়োজন শক্তি 945 kJ mol⁻¹, দৈর্ঘ্য 0.1098 nm।\nসাদা P₄ চতুস্তলকীয়, বন্ধন কোণ 60° — পীড়নে সক্রিয়; লোহিত P পলিমার, কম সক্রিয়।\nNH₃ ও PH₃ ক্ষারধর্মী (প্রোটন গ্রহণ); NH₃ অধিক ক্ষারীয় (N ছোট ও অধিক তড়িৎঋণাত্মক)।\nহ্যালাইড: N → NX₃; P → PX₃ ও PX₅। আর্দ্র বিশ্লেষণ: NCl₃ → NH₃ + HOCl; PCl₃ → H₃PO₃ + HCl; PCl₅ → POCl₃ → H₃PO₄। NF₃ আর্দ্র বিশ্লেষিত হয় না।",
+   "notes_en": "Ionic: N³⁻ and P³⁻ form metal nitrides/phosphides (Ca₃N₂, Ca₃P₂).\nCovalent (NH₃, PH₃): valency 3; excited P shows 5 (vacant 3d), N has no 2d so stays 3.\nOxidation states −3 to +5; N has five oxides N₂O, NO, N₂O₃, N₂O₄, N₂O₅.\nAllotropy: N has α and β; P has white and red.\nN₂ is inert: N≡N bond energy 945 kJ mol⁻¹, length 0.1098 nm.\nWhite P₄ is tetrahedral with 60° angles — strained, reactive; red P is polymeric, less reactive.\nNH₃ and PH₃ are basic (accept H⁺); NH₃ is stronger (N smaller, more electronegative).\nHalides: N gives NX₃; P gives PX₃ and PX₅. Hydrolysis: NCl₃ → NH₃ + HOCl; PCl₃ → H₃PO₃ + HCl; PCl₅ → POCl₃ → H₃PO₄. NF₃ does not hydrolyse.",
+   "mcqs": [
+    {
+     "question_bn": "N₂ অণু নিষ্ক্রিয় হওয়ার প্রধান কারণ কী?",
+     "question_en": "Main reason N₂ is inert?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দুর্বল ত্রিবন্ধন",
+       "en": "Weak triple bond"
+      },
+      {
+       "id": "b",
+       "bn": "N≡N ত্রিবন্ধন খুব দৃঢ় (945 kJ mol⁻¹)",
+       "en": "Very strong N≡N triple bond (945 kJ mol⁻¹)"
+      },
+      {
+       "id": "c",
+       "bn": "N-এর d অরবিটাল আছে",
+       "en": "N has d orbitals"
+      },
+      {
+       "id": "d",
+       "bn": "N অধাতু নয়",
+       "en": "N is not a non-metal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ত্রিবন্ধন ভাঙতে 945 kJ mol⁻¹ লাগে।",
+     "explanation_en": "Breaking the triple bond needs 945 kJ mol⁻¹.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন যৌগটি গঠিত হয় না?",
+     "question_en": "Which compound does NOT form?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "PCl₃",
+       "en": "PCl₃"
+      },
+      {
+       "id": "b",
+       "bn": "PCl₅",
+       "en": "PCl₅"
+      },
+      {
+       "id": "c",
+       "bn": "NCl₃",
+       "en": "NCl₃"
+      },
+      {
+       "id": "d",
+       "bn": "NCl₅",
+       "en": "NCl₅"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "N-এর 2d অরবিটাল নেই, তাই যোজ্যতা ৫ হয় না।",
+     "explanation_en": "N has no 2d orbital, so valency 5 is impossible.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "PCl₅-এর আর্দ্র বিশ্লেষণের প্রথম ধাপে কোনটি উৎপন্ন হয়?",
+     "question_en": "First step of PCl₅ hydrolysis gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₃PO₃ ও HCl",
+       "en": "H₃PO₃ ও HCl"
+      },
+      {
+       "id": "b",
+       "bn": "POCl₃ ও HCl",
+       "en": "POCl₃ ও HCl"
+      },
+      {
+       "id": "c",
+       "bn": "H₃PO₄ ও Cl₂",
+       "en": "H₃PO₄ ও Cl₂"
+      },
+      {
+       "id": "d",
+       "bn": "PCl₃ ও HOCl",
+       "en": "PCl₃ ও HOCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "PCl₅ + H₂O → POCl₃ + 2HCl; পরে POCl₃ → H₃PO₄।",
+     "explanation_en": "PCl₅ + H₂O → POCl₃ + 2HCl; then POCl₃ → H₃PO₄.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NF₃ আর্দ্র বিশ্লেষিত হয় না কেন?",
+     "question_en": "Why does NF₃ not hydrolyse?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N ও F উভয়ের কোনোটিতে খালি d অরবিটাল নেই",
+       "en": "Neither N nor F has a vacant d orbital"
+      },
+      {
+       "id": "b",
+       "bn": "NF₃ আয়নিক",
+       "en": "NF₃ is ionic"
+      },
+      {
+       "id": "c",
+       "bn": "F-এর তড়িৎঋণাত্মকতা কম",
+       "en": "F has low electronegativity"
+      },
+      {
+       "id": "d",
+       "bn": "NF₃ পানিতে অদ্রবণীয় আয়ন",
+       "en": "NF₃ forms insoluble ions"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পানির সাথে সন্নিবেশ বন্ধনের জন্য N বা হ্যালোজেনে খালি d অরবিটাল প্রয়োজন।",
+     "explanation_en": "A vacant d orbital on N or halogen is needed to bind water.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.4",
+   "title_bn": "নাইট্রোজেন ও ফসফরাসের মধ্যে তুলনা",
+   "title_en": "Comparison of N and P",
+   "notes_bn": "সাদৃশ্য: উভয়ের যোজ্যতা স্তরে ৫ ইলেকট্রন; উভয় অধাতু ও বহুরূপী; সমযোজী যৌগে প্রধান যোজ্যতা ৩।\nউভয়ের হাইড্রাইড (NH₃, PH₃) ক্ষারধর্মী; ক্লোরাইড NCl₃, PCl₃।\nঅম্লধর্মী অক্সাইড ও অক্সো অ্যাসিড: HNO₂, HNO₃; H₃PO₃, H₃PO₄। N ও P-এর যৌগ রাসায়নিক সার (ইউরিয়া; টি.এস.পি. Ca(H₂PO₄)₂)।\nবৈসাদৃশ্য: N₂ গ্যাস (দ্বিপরমাণুক), P কঠিন (P₄)।\nN₂ নিষ্ক্রিয় (ΔH = +945 kJ mol⁻¹), সাদা P₄ সক্রিয় (P–P বন্ধন 209 kJ mol⁻¹)।\nN বায়ুমণ্ডলে মুক্ত থাকে, P প্রকৃতিতে মুক্ত থাকে না।\nN-এর স্থায়ী ৫টি অক্সাইড (নিরপেক্ষ ও অম্লধর্মী); P-এর কোনো নিরপেক্ষ অক্সাইড নেই।\nNH₃ স্থায়ী, PH₃ কম স্থায়ী; N-এর HN₃ আছে, P-এর অনুরূপ নেই।",
+   "notes_en": "Similarities: 5 valence electrons; both non-metals, allotropic; usual covalency 3.\nBoth hydrides (NH₃, PH₃) basic; chlorides NCl₃, PCl₃.\nAcidic oxides/oxoacids: HNO₂, HNO₃; H₃PO₃, H₃PO₄. Used in fertilisers (urea; TSP Ca(H₂PO₄)₂).\nDifferences: N₂ is a diatomic gas, P is a solid (P₄).\nN₂ inert (ΔH = +945 kJ mol⁻¹); white P₄ reactive (P–P bond 209 kJ mol⁻¹).\nN occurs free in air; P never free in nature.\nN has five stable oxides (neutral and acidic); P has no neutral oxide.\nNH₃ stable, PH₃ less stable; N has HN₃, P has no analogue.",
+   "mcqs": [
+    {
+     "question_bn": "ইউরিয়া কোন মৌলের সার?",
+     "question_en": "Urea is a fertiliser of which element?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফসফরাস",
+       "en": "Phosphorus"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রোজেন",
+       "en": "Nitrogen"
+      },
+      {
+       "id": "c",
+       "bn": "পটাসিয়াম",
+       "en": "Potassium"
+      },
+      {
+       "id": "d",
+       "bn": "সালফার",
+       "en": "Sulphur"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইউরিয়া (H₂N·CO·NH₂) নাইট্রোজেন সার।",
+     "explanation_en": "Urea is a nitrogen fertiliser.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন অক্সাইডটি নিরপেক্ষ?",
+     "question_en": "Which oxide is neutral?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N₂O₅",
+       "en": "N₂O₅"
+      },
+      {
+       "id": "b",
+       "bn": "P₂O₅",
+       "en": "P₂O₅"
+      },
+      {
+       "id": "c",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "d",
+       "bn": "P₂O₃",
+       "en": "P₂O₃"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N₂O ও NO নিরপেক্ষ; P-এর কোনো নিরপেক্ষ অক্সাইড নেই।",
+     "explanation_en": "N₂O and NO are neutral; P has none.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "P₄ অণুর P–P বন্ধন এনথালপি কত?",
+     "question_en": "P–P bond enthalpy in P₄?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "945 kJ mol⁻¹",
+       "en": "945 kJ mol⁻¹"
+      },
+      {
+       "id": "b",
+       "bn": "209 kJ mol⁻¹",
+       "en": "209 kJ mol⁻¹"
+      },
+      {
+       "id": "c",
+       "bn": "92 kJ mol⁻¹",
+       "en": "92 kJ mol⁻¹"
+      },
+      {
+       "id": "d",
+       "bn": "1410 kJ mol⁻¹",
+       "en": "1410 kJ mol⁻¹"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 209 kJ mol⁻¹ দেওয়া আছে।",
+     "explanation_en": "The book gives 209 kJ mol⁻¹.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N₂ বায়ুমণ্ডলে মুক্ত থাকলেও P প্রকৃতিতে মুক্ত থাকে না — কারণ?",
+     "question_en": "N₂ is free in air but P is never free in nature because:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N₂ নিষ্ক্রিয়, সাদা P₄ খুব সক্রিয়",
+       "en": "N₂ is inert; white P₄ is highly reactive"
+      },
+      {
+       "id": "b",
+       "bn": "P বায়ুতে অদ্রবণীয়",
+       "en": "P is insoluble in air"
+      },
+      {
+       "id": "c",
+       "bn": "N-এর ওজন কম",
+       "en": "N is lighter"
+      },
+      {
+       "id": "d",
+       "bn": "P ধাতু",
+       "en": "P is a metal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ত্রিবন্ধনের কারণে N₂ নিষ্ক্রিয়; P₄ পীড়নযুক্ত বলে সক্রিয়।",
+     "explanation_en": "Strong triple bond makes N₂ inert; strained P₄ is reactive.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.5",
+   "title_bn": "পর্যায় সারণিতে অবস্থান ও বন্ধন গঠনে N ও P",
+   "title_en": "Position in Periodic Table and Bonding of N and P",
+   "notes_bn": "৫টি বহিঃস্তর ইলেকট্রন; অষ্টক পূর্ণ করতে ৩টি ইলেকট্রন গ্রহণ/শেয়ার।\nN³⁻ গঠনে প্রচুর তাপ লাগে; তাই আয়নিক নাইট্রাইড কেবল Na₃N, Mg₃N₂ ইত্যাদি সক্রিয় ধাতুর সাথে। P³⁻ বড় আকারের কারণে সহজে গঠিত হয় না।\nসমযোজী বন্ধনে sp³ সংকরণ; NH₃-এ ∠HNH = 107°, PH₃-এ ∠HPH = 93.3° — তড়িৎঋণাত্মকতা কমায় বন্ধন-যুগল দূরে সরে, বিকর্ষণ কমে।\nসংকরণে একটি নিঃসঙ্গ জোড় বন্ধন কোণ 109.5° থেকে কমায়।\nP উত্তেজিত অবস্থায় 3s→3d; sp³d সংকরণে PCl₅ (∠ClPCl = 120°)। N-এ 2d নেই, তাই NCl₅ হয় না।",
+   "notes_en": "Five outer electrons; gain or share three to complete the octet.\nForming N³⁻ absorbs much heat, so ionic nitrides form only with very active metals (Na₃N, Mg₃N₂). P³⁻ is large and forms with difficulty.\nCovalent bonding uses sp³ hybridisation; ∠HNH = 107° in NH₃, ∠HPH = 93.3° in PH₃ — lower electronegativity moves bond pairs away, reducing repulsion.\nThe lone pair reduces the angle from 109.5°.\nExcited P (3s→3d) uses sp³d to form PCl₅ (∠ClPCl = 120°). N has no 2d, so NCl₅ cannot exist.",
+   "mcqs": [
+    {
+     "question_bn": "NH₃-এর বন্ধন কোণ কত?",
+     "question_en": "Bond angle in NH₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "93.3°",
+       "en": "93.3°"
+      },
+      {
+       "id": "b",
+       "bn": "107°",
+       "en": "107°"
+      },
+      {
+       "id": "c",
+       "bn": "109.5°",
+       "en": "109.5°"
+      },
+      {
+       "id": "d",
+       "bn": "120°",
+       "en": "120°"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "∠HNH = 107°।",
+     "explanation_en": "∠HNH = 107°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "PH₃-এর বন্ধন কোণ NH₃-এর চেয়ে কম কেন?",
+     "question_en": "Why is PH₃ bond angle smaller than NH₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P-এর তড়িৎঋণাত্মকতা কম, বন্ধন-যুগল কেন্দ্র থেকে দূরে সরে বিকর্ষণ কমায়",
+       "en": "Lower electronegativity of P moves bond pairs away, reducing repulsion"
+      },
+      {
+       "id": "b",
+       "bn": "P-এ নিঃসঙ্গ জোড় নেই",
+       "en": "P has no lone pair"
+      },
+      {
+       "id": "c",
+       "bn": "P-এর আকার ছোট",
+       "en": "P is smaller"
+      },
+      {
+       "id": "d",
+       "bn": "PH₃ আয়নিক",
+       "en": "PH₃ is ionic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফলে নিঃসঙ্গ জোড়ের প্রভাব বেশি দেখা যায়, কোণ 93.3°।",
+     "explanation_en": "Lone pair effect dominates, giving 93.3°.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "PCl₅-এ P-এর সংকরণ কোনটি?",
+     "question_en": "Hybridisation of P in PCl₅?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp³",
+       "en": "sp³"
+      },
+      {
+       "id": "b",
+       "bn": "sp²",
+       "en": "sp²"
+      },
+      {
+       "id": "c",
+       "bn": "sp³d",
+       "en": "sp³d"
+      },
+      {
+       "id": "d",
+       "bn": "sp",
+       "en": "sp"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "পাঁচটি σ বন্ধনের জন্য sp³d; বন্ধন কোণ 120°।",
+     "explanation_en": "Five σ bonds need sp³d; angle 120°.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NH₃ ও PH₃-এর বন্ধন কোণের পার্থক্য কত?",
+     "question_en": "Difference between bond angles of NH₃ and PH₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "13.7°",
+       "en": "13.7°"
+      },
+      {
+       "id": "b",
+       "bn": "2.5°",
+       "en": "2.5°"
+      },
+      {
+       "id": "c",
+       "bn": "16.2°",
+       "en": "16.2°"
+      },
+      {
+       "id": "d",
+       "bn": "26.7°",
+       "en": "26.7°"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "107 − 93.3 = 13.7°। (গণনা-প্রাপ্ত)",
+     "explanation_en": "107 − 93.3 = 13.7° (derived).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.6",
+   "title_bn": "নাইট্রোজেন ও ফসফরাসের বিভিন্ন পদার্থের সাথে বিক্রিয়া",
+   "title_en": "Reactions of N and P with Various Substances",
+   "notes_bn": "ধাতু: 3Ca + N₂ → Ca₃N₂ (তাপে); 3Ca + 2P → Ca₃P₂।\nঅক্সিজেন: N₂ + O₂ → 2NO (3000°C); সাদা P 35°C-এ ও লোহিত P 260°C-এ জ্বলে P₂O₃ ও P₂O₅ দেয়।\nসালফার: N-এর সাথে বিক্রিয়া নেই; P-এর সাথে P₄S₃, P₄S₅ ইত্যাদি।\nহ্যালোজেন: N কক্ষ তাপমাত্রায় বিক্রিয়াহীন; P → PX₃ ও PX₅।\nক্ষার: কেবল সাদা P NaOH-এর সাথে PH₃ ও NaH₂PO₂ দেয়; N বিক্রিয়াহীন।\nগাঢ় HNO₃: P → H₃PO₄ + NO₂ + H₂O; N বিক্রিয়াহীন।",
+   "notes_en": "Metals: 3Ca + N₂ → Ca₃N₂ (heat); 3Ca + 2P → Ca₃P₂.\nOxygen: N₂ + O₂ → 2NO (3000°C); white P ignites at 35°C, red P at 260°C giving P₂O₃/P₂O₅.\nSulphur: no reaction with N; P gives P₄S₃, P₄S₅ etc.\nHalogens: N does not react at room temperature; P gives PX₃ and PX₅.\nAlkali: only white P reacts with NaOH giving PH₃ and NaH₂PO₂; N does not.\nConc. HNO₃: P → H₃PO₄ + NO₂ + H₂O; N no reaction.",
+   "mcqs": [
+    {
+     "question_bn": "Mg-এর সাথে N₂ উত্তপ্ত করলে কী উৎপন্ন হয়?",
+     "question_en": "Heating Mg with N₂ gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MgO",
+       "en": "MgO"
+      },
+      {
+       "id": "b",
+       "bn": "Mg₃N₂",
+       "en": "Mg₃N₂"
+      },
+      {
+       "id": "c",
+       "bn": "MgN",
+       "en": "MgN"
+      },
+      {
+       "id": "d",
+       "bn": "Mg(NO₃)₂",
+       "en": "Mg(NO₃)₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "3Mg + N₂ → Mg₃N₂।",
+     "explanation_en": "3Mg + N₂ → Mg₃N₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন বিক্রিয়ায় PH₃ উৎপন্ন হয়?",
+     "question_en": "Which reaction gives PH₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P + গাঢ় HNO₃",
+       "en": "P + conc. HNO₃"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা P + NaOH",
+       "en": "White P + NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "P + O₂",
+       "en": "P + O₂"
+      },
+      {
+       "id": "d",
+       "bn": "P + Cl₂",
+       "en": "P + Cl₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "4P + 3NaOH + 3H₂O → 3NaH₂PO₂ + PH₃।",
+     "explanation_en": "4P + 3NaOH + 3H₂O → 3NaH₂PO₂ + PH₃.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন বিকারকের সাথে N₂ ও P উভয়ই বিক্রিয়া করে?",
+     "question_en": "Which reagent reacts with both N₂ and P?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অক্সিজেন",
+       "en": "Oxygen"
+      },
+      {
+       "id": "b",
+       "bn": "সালফার",
+       "en": "Sulphur"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "d",
+       "bn": "গাঢ় HNO₃",
+       "en": "Conc. HNO₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "N₂ + O₂ → 2NO (3000°C); P + O₂ → অক্সাইড।",
+     "explanation_en": "N₂ + O₂ → 2NO (3000°C); P + O₂ → oxides.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "P + 5HNO₃ → H₃PO₄ + H₂O + ?",
+     "question_en": "P + 5HNO₃ → H₃PO₄ + H₂O + ?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5NO₂",
+       "en": "5NO₂"
+      },
+      {
+       "id": "b",
+       "bn": "5NO",
+       "en": "5NO"
+      },
+      {
+       "id": "c",
+       "bn": "2N₂O",
+       "en": "2N₂O"
+      },
+      {
+       "id": "d",
+       "bn": "NH₃",
+       "en": "NH₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পরমাণু সমতায় 5NO₂ (N: 5 = 5)।",
+     "explanation_en": "Balancing N atoms gives 5NO₂.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.7",
+   "title_bn": "নাইট্রোজেনের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "title_en": "Occurrence, Extraction and Uses of Nitrogen",
+   "notes_bn": "উৎস: KNO₃, NaNO₃ খনিজ; বায়ুতে আয়তনে 78% N₂; প্রোটিন ও নিউক্লিক অ্যাসিডের উপাদান।\nনাইট্রোজেন চক্র: বজ্রপাতে N₂ + O₂ → 2NO (3000°C) → NO₂ (50°C) → HNO₃; নাইট্রোজেন সংবন্ধন (হেবার: Fe, Al₂O₃, 500°C, 200 atm); উদ্ভিদ নাইট্রেট শোষণ; প্রাণী উদ্ভিদ-প্রোটিন গ্রহণ; ব্যাকটেরিয়া (নাইট্রোসোফাইং, নাইট্রিফাইং, ডিনাইট্রিফাইং) দ্বারা N₂ বায়ুতে ফেরত।\nলেগুম জাতীয় উদ্ভিদের শিকড়ে সিমবায়োটিক জীবাণু N₂ সংবন্ধন করে।\nনিষ্কাশন: তরল বায়ুর আংশিক পাতনে −196°C-এ N₂, −183°C-এ O₂।\nব্যবহার: অ্যামোনিয়া/নাইট্রিক অ্যাসিড তৈরি, নিষ্ক্রিয় পরিবেশ, ক্রোমাটোগ্রাফিতে বাহক গ্যাস।",
+   "notes_en": "Sources: minerals KNO₃, NaNO₃; air contains 78% N₂ by volume; part of proteins and nucleic acids.\nNitrogen cycle: lightning N₂ + O₂ → 2NO (3000°C) → NO₂ (50°C) → HNO₃; fixation (Haber: Fe, Al₂O₃, 500°C, 200 atm); plants absorb nitrates; animals eat plant protein; bacteria (nitrosofying, nitrifying, denitrifying) return N₂ to air.\nSymbiotic bacteria in leguminous roots fix N₂.\nExtraction: fractional distillation of liquid air — N₂ at −196°C, O₂ at −183°C.\nUses: making NH₃/HNO₃, inert atmosphere, carrier gas in chromatography.",
+   "mcqs": [
+    {
+     "question_bn": "শুষ্ক বায়ুতে N₂-এর শতকরা আয়তন কত?",
+     "question_en": "Percentage of N₂ by volume in dry air?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "21%",
+       "en": "21%"
+      },
+      {
+       "id": "b",
+       "bn": "78%",
+       "en": "78%"
+      },
+      {
+       "id": "c",
+       "bn": "1%",
+       "en": "1%"
+      },
+      {
+       "id": "d",
+       "bn": "50%",
+       "en": "50%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী প্রায় 78%।",
+     "explanation_en": "About 78% per the book.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তরল বায়ুর আংশিক পাতনে প্রথমে কোনটি বের হয়?",
+     "question_en": "Which comes off first in fractional distillation of liquid air?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O₂ (−183°C)",
+       "en": "O₂ (−183°C)"
+      },
+      {
+       "id": "b",
+       "bn": "N₂ (−196°C)",
+       "en": "N₂ (−196°C)"
+      },
+      {
+       "id": "c",
+       "bn": "CO₂",
+       "en": "CO₂"
+      },
+      {
+       "id": "d",
+       "bn": "আর্গন",
+       "en": "Argon"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "N₂ নিম্ন স্ফুটনাঙ্ক (−196°C) বলে আগে গ্যাস হয়ে বের হয়।",
+     "explanation_en": "N₂ has the lower boiling point (−196°C) so it leaves first.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বজ্রপাতে NO থেকে HNO₃ গঠনের সঠিক ক্রম কোনটি?",
+     "question_en": "Correct sequence for HNO₃ formation in lightning?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO → NO₂ → HNO₃",
+       "en": "NO → NO₂ → HNO₃"
+      },
+      {
+       "id": "b",
+       "bn": "NO₂ → NO → HNO₃",
+       "en": "NO₂ → NO → HNO₃"
+      },
+      {
+       "id": "c",
+       "bn": "N₂O → NO → HNO₃",
+       "en": "N₂O → NO → HNO₃"
+      },
+      {
+       "id": "d",
+       "bn": "NO → N₂O₅ → HNO₃",
+       "en": "NO → N₂O₅ → HNO₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NO + O₂ (50°C) → NO₂; NO₂ + O₂ + H₂O → HNO₃।",
+     "explanation_en": "NO → NO₂ (50°C) → HNO₃ with water and O₂.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইট্রোজেন চক্রে বায়ুতে N₂ ফেরত আনে কোন জীবাণু?",
+     "question_en": "Which bacteria return N₂ to air in the cycle?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নাইট্রোসোফাইং",
+       "en": "Nitrosofying"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রিফাইং",
+       "en": "Nitrifying"
+      },
+      {
+       "id": "c",
+       "bn": "ডিনাইট্রিফাইং",
+       "en": "Denitrifying"
+      },
+      {
+       "id": "d",
+       "bn": "সিমবায়োটিক",
+       "en": "Symbiotic"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ডিনাইট্রিফাইং জীবাণু নাইট্রেটকে বিয়োজিত করে মুক্ত N₂ দেয়।",
+     "explanation_en": "Denitrifying bacteria decompose nitrates to free N₂.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.8",
+   "title_bn": "ফসফরাসের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "title_en": "Occurrence, Extraction and Uses of Phosphorus",
+   "notes_bn": "মুক্ত অবস্থায় থাকে না; খনিজ: ফসফোরাইট Ca₃(PO₄)₂, ফ্লোর-অ্যাপাটাইট 3Ca₃(PO₄)₂·CaF₂, ক্লোর-অ্যাপাটাইট 3Ca₃(PO₄)₂·CaCl₂।\nনিষ্কাশন: বৈদ্যুতিক চুল্লিতে 1200–1500°C-এ SiO₂ ও কোকসহ উত্তপ্ত: 2Ca₃(PO₄)₂ + 6SiO₂ → 6CaSiO₃ + 2P₂O₅; 2P₂O₅ + 10C → P₄ + 10CO; বাষ্প পানিতে শীতল করে সাদা P সংগৃহীত।\nসাদা P₄: চতুস্তলকীয়, 60° কোণ, ভ্যানডার ওয়ালস বলে আবদ্ধ, মোমের মতো নরম। লোহিত P: পলিমার, স্তরীভূত, স্থিতিশীল।\nসাদা → লোহিত: 250°C, I₂, CO₂/N₂ পরিবেশে। লোহিত → সাদা: 550°C-এ বাষ্প করে দ্রুত শীতলীকরণ।\nব্যবহার: দেশলাই, ফসফর ব্রোঞ্জ (Cu, Sn, P)।",
+   "notes_en": "Never free in nature; minerals: phosphorite Ca₃(PO₄)₂, fluorapatite 3Ca₃(PO₄)₂·CaF₂, chlorapatite 3Ca₃(PO₄)₂·CaCl₂.\nExtraction: heat mineral with SiO₂ and coke in an electric furnace at 1200–1500°C giving CaSiO₃ and P₂O₅; P₂O₅ + C → P₄ + CO; vapour condensed under water to white P.\nWhite P₄: tetrahedral, 60° angles, held by van der Waals forces, waxy-soft. Red P: polymer, layered, stable.\nWhite → red: 250°C, I₂, in CO₂/N₂. Red → white: vapourise at 550°C then cool rapidly.\nUses: matches, phosphor bronze (Cu, Sn, P).",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি ফসফরাসের খনিজ?",
+     "question_en": "Which is a phosphorus mineral?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KNO₃",
+       "en": "KNO₃"
+      },
+      {
+       "id": "b",
+       "bn": "Ca₃(PO₄)₂",
+       "en": "Ca₃(PO₄)₂"
+      },
+      {
+       "id": "c",
+       "bn": "NaNO₃",
+       "en": "NaNO₃"
+      },
+      {
+       "id": "d",
+       "bn": "CaCO₃",
+       "en": "CaCO₃"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফসফোরাইট Ca₃(PO₄)₂।",
+     "explanation_en": "Phosphorite is Ca₃(PO₄)₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফসফরাস নিষ্কাশনে সিলিকা (SiO₂)-এর ভূমিকা কী?",
+     "question_en": "Role of SiO₂ in P extraction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিজারক",
+       "en": "Reducing agent"
+      },
+      {
+       "id": "b",
+       "bn": "Ca-কে CaSiO₃ রূপে সরিয়ে P₂O₅ মুক্ত করা",
+       "en": "Binds Ca as CaSiO₃, freeing P₂O₅"
+      },
+      {
+       "id": "c",
+       "bn": "প্রভাবক",
+       "en": "Catalyst"
+      },
+      {
+       "id": "d",
+       "bn": "শীতলকারী",
+       "en": "Coolant"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2Ca₃(PO₄)₂ + 6SiO₂ → 6CaSiO₃ + 2P₂O₅; কোক পরে P₂O₅ বিজারিত করে।",
+     "explanation_en": "SiO₂ forms CaSiO₃, releasing P₂O₅ which coke then reduces.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাদা ফসফরাস থেকে লোহিত ফসফরাস প্রস্তুতির শর্ত কী?",
+     "question_en": "Conditions to convert white to red phosphorus?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "550°C, দ্রুত শীতলীকরণ",
+       "en": "550°C, rapid cooling"
+      },
+      {
+       "id": "b",
+       "bn": "250°C, I₂, CO₂ বা N₂ পরিবেশ",
+       "en": "250°C, I₂, CO₂ or N₂ atmosphere"
+      },
+      {
+       "id": "c",
+       "bn": "1200°C, SiO₂",
+       "en": "1200°C, SiO₂"
+      },
+      {
+       "id": "d",
+       "bn": "৩৫°C, বায়ু",
+       "en": "35°C, air"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নিষ্ক্রিয় পরিবেশে 250°C ও আয়োডিন প্রভাবক।",
+     "explanation_en": "Inert atmosphere, 250°C, iodine catalyst.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাদা P₄ লোহিত P-এর চেয়ে বেশি সক্রিয় কেন?",
+     "question_en": "Why is white P₄ more reactive than red P?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৬০° বন্ধন কোণজনিত পীড়ন",
+       "en": "Strain from 60° bond angles"
+      },
+      {
+       "id": "b",
+       "bn": "এটি পলিমার",
+       "en": "It is a polymer"
+      },
+      {
+       "id": "c",
+       "bn": "স্তরীভূত গঠন",
+       "en": "Layered structure"
+      },
+      {
+       "id": "d",
+       "bn": "বড় আকার",
+       "en": "Larger size"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "P₄-এ কোণ 60°, ফলে পীড়ন বেশি ও স্থিতিশীলতা কম।",
+     "explanation_en": "60° angles strain P₄, lowering stability.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.9",
+   "title_bn": "নাইট্রোজেনের হাইড্রাইডসমূহ",
+   "title_en": "Hydrides of Nitrogen",
+   "notes_bn": "চারটি স্থায়ী হাইড্রাইড: অ্যামোনিয়া NH₃; হাইড্রাজিন H₂N–NH₂; হাইড্রোজেন অ্যাজাইড (হাইড্রাজয়িক অ্যাসিড) HN₃; অ্যামোনিয়াম অ্যাজাইড NH₄N₃।\nহাইড্রাজিন ও এর প্রতিস্থাপিত যৌগ রকেট ও মিসাইলের জ্বালানি।\nHN₃-এর ভারী ধাতব লবণ বিস্ফোরক ও ডিটোনেটর হিসেবে ব্যবহৃত।\nএই অধ্যায়ে কেবল NH₃ বিশদে আলোচিত।",
+   "notes_en": "Four notable hydrides: ammonia NH₃; hydrazine H₂N–NH₂; hydrogen azide (hydrazoic acid) HN₃; ammonium azide NH₄N₃.\nHydrazine and its derivatives are rocket and missile fuels.\nHeavy-metal salts of HN₃ are explosive and used as detonators.\nOnly NH₃ is studied in detail here.",
+   "mcqs": [
+    {
+     "question_bn": "হাইড্রাজিনের সংকেত কোনটি?",
+     "question_en": "Formula of hydrazine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₃",
+       "en": "NH₃"
+      },
+      {
+       "id": "b",
+       "bn": "H₂N–NH₂",
+       "en": "H₂N–NH₂"
+      },
+      {
+       "id": "c",
+       "bn": "HN₃",
+       "en": "HN₃"
+      },
+      {
+       "id": "d",
+       "bn": "NH₄N₃",
+       "en": "NH₄N₃"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হাইড্রাজিন H₂N–NH₂ (N₂H₄)।",
+     "explanation_en": "Hydrazine is H₂N–NH₂ (N₂H₄).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হাইড্রাজয়িক অ্যাসিডের সংকেত কোনটি?",
+     "question_en": "Formula of hydrazoic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N₂H₄",
+       "en": "N₂H₄"
+      },
+      {
+       "id": "b",
+       "bn": "NH₄N₃",
+       "en": "NH₄N₃"
+      },
+      {
+       "id": "c",
+       "bn": "HN₃",
+       "en": "HN₃"
+      },
+      {
+       "id": "d",
+       "bn": "NH₂OH",
+       "en": "NH₂OH"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "হাইড্রোজেন অ্যাজাইড = HN₃।",
+     "explanation_en": "Hydrogen azide is HN₃.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রকেট জ্বালানি হিসেবে ব্যবহৃত নাইট্রোজেন হাইড্রাইড কোনটি?",
+     "question_en": "Nitrogen hydride used as rocket fuel?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামোনিয়া",
+       "en": "Ammonia"
+      },
+      {
+       "id": "b",
+       "bn": "হাইড্রাজিন",
+       "en": "Hydrazine"
+      },
+      {
+       "id": "c",
+       "bn": "HN₃",
+       "en": "HN₃"
+      },
+      {
+       "id": "d",
+       "bn": "NH₄N₃",
+       "en": "NH₄N₃"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হাইড্রাজিন ও এর প্রতিস্থাপিত যৌগ জ্বালানি।",
+     "explanation_en": "Hydrazine and derivatives are fuels.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ডিটোনেটর হিসেবে কোন যৌগের ধাতব লবণ ব্যবহৃত হয়?",
+     "question_en": "Metal salts of which compound serve as detonators?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₃",
+       "en": "NH₃"
+      },
+      {
+       "id": "b",
+       "bn": "N₂H₄",
+       "en": "N₂H₄"
+      },
+      {
+       "id": "c",
+       "bn": "HN₃",
+       "en": "HN₃"
+      },
+      {
+       "id": "d",
+       "bn": "NH₂OH",
+       "en": "NH₂OH"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "HN₃-এর ভারী ধাতব লবণ বিস্ফোরক।",
+     "explanation_en": "Heavy-metal salts of HN₃ are explosive.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.10",
+   "title_bn": "অ্যামোনিয়ার শিল্পোৎপাদন",
+   "title_en": "Industrial Preparation of Ammonia (Haber)",
+   "notes_bn": "N₂ + 3H₂ ⇌ 2NH₃, ΔH = −92 kJ mol⁻¹ — উভমুখী, তাপউৎপাদী, আয়তন হ্রাসযুক্ত (4 mol → 2 mol)।\nলা-শাটেলিয়ার নীতি: নিম্ন তাপ ও উচ্চ চাপ অনুকূল; কিন্তু নিম্ন তাপে গতি ধীর, তাই আপোস।\nঅনুকূল তাপমাত্রা 450–550°C (প্রায় 500°C), প্রভাবক Fe চূর্ণ, সহায়ক Al₂O₃ (বা Mo), চাপ 200 atm।\nN₂ ও H₂ = 1:3 আয়তন অনুপাত; রূপান্তর প্রায় 15–20%, শীতল কুণ্ডলীতে NH₃ তরল (−33.87°C), অবশিষ্ট গ্যাস পুনঃসঞ্চালিত।\nN₂ উৎস: তরল বায়ুর আংশিক পাতন (−196°C); H₂ উৎস: CH₄ + H₂O (450°C, Ni) → CO + 3H₂; পরে CO + H₂O (Fe₂O₃, Cr₂O₃, 500°C) → CO₂ + H₂।",
+   "notes_en": "N₂ + 3H₂ ⇌ 2NH₃, ΔH = −92 kJ mol⁻¹ — reversible, exothermic, volume-decreasing (4 mol → 2 mol).\nLe Chatelier: low T and high P favour product, but low T is slow, so a compromise.\nOptimum 450–550°C (≈500°C), Fe powder catalyst with Al₂O₃ (or Mo) promoter, 200 atm.\nN₂ : H₂ = 1 : 3 by volume; ~15–20% conversion; NH₃ liquefied in cold coil (−33.87°C), unreacted gas recycled.\nN₂ from fractional distillation of liquid air (−196°C); H₂ from CH₄ + H₂O (450°C, Ni) → CO + 3H₂, then CO + H₂O (Fe₂O₃/Cr₂O₃, 500°C) → CO₂ + H₂.",
+   "mcqs": [
+    {
+     "question_bn": "হেবার পদ্ধতিতে ব্যবহৃত প্রভাবক কোনটি?",
+     "question_en": "Catalyst in Haber process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "b",
+       "bn": "লোহা চূর্ণ",
+       "en": "Iron powder"
+      },
+      {
+       "id": "c",
+       "bn": "Ni",
+       "en": "Ni"
+      },
+      {
+       "id": "d",
+       "bn": "V₂O₅",
+       "en": "V₂O₅"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Fe চূর্ণ প্রভাবক, Al₂O₃ সহায়ক।",
+     "explanation_en": "Fe powder catalyst, Al₂O₃ promoter.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হেবার পদ্ধতিতে সাধারণত কত চাপ প্রয়োগ করা হয়?",
+     "question_en": "Typical pressure in the Haber process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1 atm",
+       "en": "1 atm"
+      },
+      {
+       "id": "b",
+       "bn": "20 atm",
+       "en": "20 atm"
+      },
+      {
+       "id": "c",
+       "bn": "200 atm",
+       "en": "200 atm"
+      },
+      {
+       "id": "d",
+       "bn": "2000 atm",
+       "en": "2000 atm"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "200 atm-এ NH₃ উৎপাদন লাভজনক।",
+     "explanation_en": "200 atm is economic.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিম্ন তাপমাত্রা তাত্ত্বিকভাবে অনুকূল হলেও 500°C ব্যবহৃত হয় কেন?",
+     "question_en": "Why 500°C although low T favours yield?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিক্রিয়া তাপহারী",
+       "en": "Reaction is endothermic"
+      },
+      {
+       "id": "b",
+       "bn": "নিম্ন তাপে বিক্রিয়ার গতি খুব ধীর",
+       "en": "Rate too slow at low T"
+      },
+      {
+       "id": "c",
+       "bn": "চাপ কমে যায়",
+       "en": "Pressure falls"
+      },
+      {
+       "id": "d",
+       "bn": "NH₃ বিয়োজিত হয় না",
+       "en": "NH₃ does not decompose"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আপোস তাপমাত্রা (optimum) দ্রুত সাম্যাবস্থা নিশ্চিত করে।",
+     "explanation_en": "The optimum temperature gives fast equilibrium.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হেবার বিক্রিয়ায় 12 mol H₂ সম্পূর্ণ বিক্রিয়া করলে সর্বোচ্চ কত mol NH₃ হয়?",
+     "question_en": "Max NH₃ from 12 mol H₂ (complete reaction)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4 mol",
+       "en": "4 mol"
+      },
+      {
+       "id": "b",
+       "bn": "6 mol",
+       "en": "6 mol"
+      },
+      {
+       "id": "c",
+       "bn": "8 mol",
+       "en": "8 mol"
+      },
+      {
+       "id": "d",
+       "bn": "12 mol",
+       "en": "12 mol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "3H₂ → 2NH₃; 12 × 2/3 = 8 mol। (গণনা-প্রাপ্ত)",
+     "explanation_en": "3H₂ → 2NH₃; 12 × 2/3 = 8 mol (derived).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.11",
+   "title_bn": "পরীক্ষাগারে অ্যামোনিয়া প্রস্তুতি",
+   "title_en": "Laboratory Preparation of Ammonia",
+   "notes_bn": "NH₄Cl ও CaO বা Ca(OH)₂-এর শুষ্ক মিশ্রণ উত্তপ্ত করে: 2NH₄Cl + CaO → 2NH₃ + CaCl₂ + H₂O।\nশুষ্ক টেস্টটিউব সামান্য নিচু করে ধরে বুনসেন বার্নারে ধীরে উত্তপ্ত করা হয়।\nআর্দ্র NH₃ নিরুদক CaO ভর্তি টাওয়ারে শুষ্ক করা হয়।\nগাঢ় H₂SO₄ বা P₂O₅ দিয়ে শুকানো যায় না (অ্যামোনিয়াম লবণ গঠন); নিরুদক CaCl₂-ও না (CaCl₂·8NH₃ গঠন)। সঠিক শুষ্ককারক: CaO।\nNH₃ বায়ুর চেয়ে হালকা, তাই নিম্নমুখী অপসারণে গ্যাসজারে সংগৃহীত হয় (উল্টানো গ্যাসজার)।",
+   "notes_en": "Heat a dry mixture of NH₄Cl with CaO or Ca(OH)₂: 2NH₄Cl + CaO → 2NH₃ + CaCl₂ + H₂O.\nDry test tube tilted slightly downward, heated gently with Bunsen burner.\nMoist NH₃ is dried through a tower of CaO.\nConc. H₂SO₄ or P₂O₅ cannot dry NH₃ (form ammonium salts); CaCl₂ also unsuitable (forms CaCl₂·8NH₃). Correct drying agent: CaO.\nNH₃ is lighter than air, collected by downward displacement of air.",
+   "mcqs": [
+    {
+     "question_bn": "পরীক্ষাগারে NH₃ প্রস্তুতিতে কোন মিশ্রণ ব্যবহৃত হয়?",
+     "question_en": "Mixture used for lab preparation of NH₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₄Cl + CaO",
+       "en": "NH₄Cl + CaO"
+      },
+      {
+       "id": "b",
+       "bn": "NH₄Cl + HCl",
+       "en": "NH₄Cl + HCl"
+      },
+      {
+       "id": "c",
+       "bn": "NaCl + H₂SO₄",
+       "en": "NaCl + H₂SO₄"
+      },
+      {
+       "id": "d",
+       "bn": "N₂ + H₂",
+       "en": "N₂ + H₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH₄Cl ও চুন (CaO) উত্তপ্ত করে।",
+     "explanation_en": "Heat NH₄Cl with lime (CaO).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "আর্দ্র NH₃ শুষ্ক করার সঠিক পদার্থ কোনটি?",
+     "question_en": "Correct drying agent for moist NH₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় H₂SO₄",
+       "en": "গাঢ় H₂SO₄"
+      },
+      {
+       "id": "b",
+       "bn": "P₂O₅",
+       "en": "P₂O₅"
+      },
+      {
+       "id": "c",
+       "bn": "CaCl₂",
+       "en": "CaCl₂"
+      },
+      {
+       "id": "d",
+       "bn": "CaO",
+       "en": "CaO"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "অন্যগুলো NH₃-এর সাথে বিক্রিয়া করে; CaO করে না।",
+     "explanation_en": "Others react with NH₃; CaO does not.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NH₃ কে P₂O₅ দিয়ে শুকানো যায় না কারণ —",
+     "question_en": "NH₃ cannot be dried with P₂O₅ because —",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P₂O₅ ক্ষারধর্মী",
+       "en": "P₂O₅ is basic"
+      },
+      {
+       "id": "b",
+       "bn": "(NH₄)₃PO₄ উৎপন্ন হয়",
+       "en": "(NH₄)₃PO₄ forms"
+      },
+      {
+       "id": "c",
+       "bn": "NH₃ অদ্রবণীয়",
+       "en": "NH₃ is insoluble"
+      },
+      {
+       "id": "d",
+       "bn": "বিস্ফোরণ ঘটে",
+       "en": "Explosion occurs"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "6NH₃ + P₂O₅ + 3H₂O → 2(NH₄)₃PO₄।",
+     "explanation_en": "6NH₃ + P₂O₅ + 3H₂O → 2(NH₄)₃PO₄.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NH₃ সংগ্রহে নিম্নমুখী বায়ু অপসারণ ব্যবহৃত হয় কেন?",
+     "question_en": "Why downward displacement of air for NH₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₃ বায়ুর চেয়ে হালকা",
+       "en": "NH₃ is lighter than air"
+      },
+      {
+       "id": "b",
+       "bn": "NH₃ বায়ুর চেয়ে ভারী",
+       "en": "NH₃ is heavier than air"
+      },
+      {
+       "id": "c",
+       "bn": "NH₃ পানিতে অদ্রবণীয়",
+       "en": "NH₃ is insoluble in water"
+      },
+      {
+       "id": "d",
+       "bn": "NH₃ বর্ণহীন",
+       "en": "NH₃ is colourless"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হালকা গ্যাস উপরে ওঠে, বায়ুকে নিচ দিয়ে সরায়।",
+     "explanation_en": "Lighter gas rises and displaces air downward.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.12",
+   "title_bn": "অ্যামোনিয়ার বিক্রিয়া",
+   "title_en": "Reactions of Ammonia",
+   "notes_bn": "ক্ষারধর্ম: sp³ N-এ নিঃসঙ্গ জোড়; প্রোটন গ্রহণ করে NH₄⁺ গঠন — NH₃ + HCl → NH₄Cl (সাদা ধোঁয়া, শনাক্তকরণ)। ∠HNH 107°, NH₄⁺-এ 109.5°।\nপানিতে দ্রবণীয়; NH₃ + H₂O ⇌ NH₄OH ⇌ NH₄⁺ + OH⁻। 1 mol/L-এ মাত্র 0.4% আয়নিত, K_b = 1.8×10⁻⁵। গাঢ় দ্রবণ (ঘনত্ব 0.88 kg/L, 35–40%) = 'লিকার অ্যামোনিয়া'।\nবিজারক: 2NH₃ + 3CuO → N₂ + 3Cu + 3H₂O; 2NH₃ + 3Cl₂ → N₂ + 6HCl (অতিরিক্ত NH₃-এ NH₄Cl)।\nO₂-এর সাথে: দহনে N₂ + H₂O; Pt প্রভাবকে 4NH₃ + 5O₂ → 4NO + 6H₂O (HNO₃ উৎপাদনে)।\nঅ্যামোনিয়াম লবণ তাপ-বিয়োজন: NH₄Cl ⇌ NH₃ + HCl; NH₄NO₂ → N₂ + 2H₂O; NH₄NO₃ → N₂O + 2H₂O; (NH₄)₂Cr₂O₇ → N₂ + Cr₂O₃ + 4H₂O।\nধাতব হাইড্রক্সাইড অধঃক্ষেপ: FeCl₃ → Fe(OH)₃ (বাদামি); AlCl₃ → Al(OH)₃ (সাদা)।\nজটিল যৌগ: NH₃ লিগ্যান্ড — CuSO₄ + অতিরিক্ত NH₄OH → গাঢ় নীল [Cu(NH₃)₄]SO₄; Zn(OH)₂ দ্রবীভূত → [Zn(NH₃)₄]SO₄; AgCl দ্রবীভূত → [Ag(NH₃)₂]Cl।",
+   "notes_en": "Basic character: lone pair on sp³ N accepts H⁺ to give NH₄⁺ — NH₃ + HCl → NH₄Cl (white fumes, a test). ∠HNH 107°, 109.5° in NH₄⁺.\nSoluble in water; NH₃ + H₂O ⇌ NH₄OH ⇌ NH₄⁺ + OH⁻. Only 0.4% ionised at 1 mol/L, K_b = 1.8×10⁻⁵. Conc. solution (0.88 kg/L, 35–40%) = 'liquor ammonia'.\nReducing agent: 2NH₃ + 3CuO → N₂ + 3Cu + 3H₂O; 2NH₃ + 3Cl₂ → N₂ + 6HCl (excess NH₃ gives NH₄Cl).\nWith O₂: burns to N₂ + H₂O; with Pt catalyst 4NH₃ + 5O₂ → 4NO + 6H₂O (HNO₃ manufacture).\nThermal decomposition of ammonium salts: NH₄Cl ⇌ NH₃ + HCl; NH₄NO₂ → N₂ + 2H₂O; NH₄NO₃ → N₂O + 2H₂O; (NH₄)₂Cr₂O₇ → N₂ + Cr₂O₃ + 4H₂O.\nHydroxide precipitates: FeCl₃ → Fe(OH)₃ (brown); AlCl₃ → Al(OH)₃ (white).\nComplexes: NH₃ is a ligand — CuSO₄ + excess NH₄OH → deep-blue [Cu(NH₃)₄]SO₄; Zn(OH)₂ dissolves → [Zn(NH₃)₄]SO₄; AgCl dissolves → [Ag(NH₃)₂]Cl.",
+   "mcqs": [
+    {
+     "question_bn": "NH₃ গ্যাস ও HCl-এর বিক্রিয়ায় কী দেখা যায়?",
+     "question_en": "What is seen when NH₃ meets HCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নীল দ্রবণ",
+       "en": "Blue solution"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা ধোঁয়া",
+       "en": "White fumes"
+      },
+      {
+       "id": "c",
+       "bn": "বাদামি ধোঁয়া",
+       "en": "Brown fumes"
+      },
+      {
+       "id": "d",
+       "bn": "লাল অধঃক্ষেপ",
+       "en": "Red precipitate"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NH₄Cl-এর সাদা ধোঁয়া।",
+     "explanation_en": "White fumes of NH₄Cl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "FeCl₃ দ্রবণে NH₄OH যোগ করলে কোন অধঃক্ষেপ পড়ে?",
+     "question_en": "Precipitate on adding NH₄OH to FeCl₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা Al(OH)₃",
+       "en": "White Al(OH)₃"
+      },
+      {
+       "id": "b",
+       "bn": "বাদামি Fe(OH)₃",
+       "en": "Brown Fe(OH)₃"
+      },
+      {
+       "id": "c",
+       "bn": "নীল Cu(OH)₂",
+       "en": "Blue Cu(OH)₂"
+      },
+      {
+       "id": "d",
+       "bn": "কালো FeO",
+       "en": "Black FeO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "FeCl₃ + 3NH₄OH → Fe(OH)₃ (বাদামি) + 3NH₄Cl।",
+     "explanation_en": "Brown Fe(OH)₃ forms.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্ল্যাটিনাম প্রভাবকে NH₃ ও O₂-এর বিক্রিয়ায় প্রধান জারণ উৎপাদ কোনটি?",
+     "question_en": "Main product of NH₃ + O₂ over Pt?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N₂",
+       "en": "N₂"
+      },
+      {
+       "id": "b",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "c",
+       "bn": "NO₂",
+       "en": "NO₂"
+      },
+      {
+       "id": "d",
+       "bn": "N₂O",
+       "en": "N₂O"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "4NH₃ + 5O₂ → 4NO + 6H₂O।",
+     "explanation_en": "4NH₃ + 5O₂ → 4NO + 6H₂O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NH₄NO₃ তাপে বিয়োজিত হলে কোন গ্যাস উৎপন্ন হয়?",
+     "question_en": "Gas from thermal decomposition of NH₄NO₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N₂",
+       "en": "N₂"
+      },
+      {
+       "id": "b",
+       "bn": "N₂O",
+       "en": "N₂O"
+      },
+      {
+       "id": "c",
+       "bn": "NO₂",
+       "en": "NO₂"
+      },
+      {
+       "id": "d",
+       "bn": "NH₃",
+       "en": "NH₃"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NH₄NO₃ → N₂O + 2H₂O।",
+     "explanation_en": "NH₄NO₃ → N₂O + 2H₂O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CuSO₄ দ্রবণে প্রথমে অল্প NH₄OH ও পরে অতিরিক্ত যোগ করলে ঘটে —",
+     "question_en": "Adding little then excess NH₄OH to CuSO₄ solution:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা অধঃক্ষেপ, বর্ণহীন দ্রবণ",
+       "en": "White ppt then colourless"
+      },
+      {
+       "id": "b",
+       "bn": "হালকা নীল ক্ষারীয় লবণের অধঃক্ষেপ, পরে গাঢ় নীল [Cu(NH₃)₄]²⁺ দ্রবণ",
+       "en": "Pale-blue basic salt ppt, then deep-blue [Cu(NH₃)₄]²⁺"
+      },
+      {
+       "id": "c",
+       "bn": "লাল অধঃক্ষেপ",
+       "en": "Red ppt"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন নেই",
+       "en": "No change"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অতিরিক্ত NH₃ লিগ্যান্ড হয়ে জটিল আয়ন গঠন করে।",
+     "explanation_en": "Excess NH₃ acts as ligand forming the complex ion.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "1 mol/L NH₃ দ্রবণে 0.4% আয়নিত হলে [OH⁻] প্রায় কত?",
+     "question_en": "[OH⁻] if 0.4% ionised in 1 mol/L NH₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.4 mol/L",
+       "en": "0.4 mol/L"
+      },
+      {
+       "id": "b",
+       "bn": "0.004 mol/L",
+       "en": "0.004 mol/L"
+      },
+      {
+       "id": "c",
+       "bn": "0.04 mol/L",
+       "en": "0.04 mol/L"
+      },
+      {
+       "id": "d",
+       "bn": "4 mol/L",
+       "en": "4 mol/L"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "1 × 0.4/100 = 0.004 mol/L। (গণনা-প্রাপ্ত)",
+     "explanation_en": "1 × 0.4/100 = 0.004 mol/L (derived).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.13",
+   "title_bn": "নেসলার দ্রবণ",
+   "title_en": "Nessler's Solution",
+   "notes_bn": "নেসলার দ্রবণ = ক্ষারীয় পটাসিয়াম টেট্রাআয়োডো মারকিউরেট (II) K₂[HgI₄] দ্রবণ (KOH বা NaOH যোগে ক্ষারীয়কৃত)।\nপ্রস্তুতি: HgCl₂ + 2KI → HgI₂ (লাল অধঃক্ষেপ) + 2KCl; অতিরিক্ত KI-এ HgI₂ + 2KI → K₂[HgI₄] (দ্রবণীয়); পরে KOH/NaOH যোগ।\nঅ্যামোনিয়া/NH₄⁺ শনাক্তকরণ: নেসলার দ্রবণ যোগে বাদামি অধঃক্ষেপ NH₂Hg₂I₃ ('আয়োডাইড অব মিলনস বেস')।\nNH₄⁺ লবণে প্রথমে NaOH দিয়ে NH₃ মুক্ত করা হয়, তারপর নেসলার দ্রবণ।\nঅ্যামোনিয়ার ব্যবহার: সার (অ্যামোনিয়াম সালফেট, নাইট্রেট, ইউরিয়া), অসওয়াল্ড পদ্ধতিতে HNO₃, পরিষ্কারক, নাইলন ও নাইট্রোজেন জৈব যৌগ।",
+   "notes_en": "Nessler's solution = alkaline potassium tetraiodomercurate(II) K₂[HgI₄] (made alkaline with KOH or NaOH).\nPreparation: HgCl₂ + 2KI → HgI₂ (red ppt) + 2KCl; excess KI: HgI₂ + 2KI → K₂[HgI₄] (soluble); then add KOH/NaOH.\nDetects NH₃/NH₄⁺: brown precipitate NH₂Hg₂I₃ ('iodide of Millon's base').\nNH₄⁺ salt is first treated with NaOH to liberate NH₃, then Nessler's solution is added.\nUses of NH₃: fertilisers (ammonium sulphate, nitrate, urea), HNO₃ by Ostwald process, cleaning agent, nylon and organic nitrogen compounds.",
+   "mcqs": [
+    {
+     "question_bn": "নেসলার দ্রবণের সক্রিয় উপাদান কোনটি?",
+     "question_en": "Active component of Nessler's solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "K₂[HgI₄]",
+       "en": "K₂[HgI₄]"
+      },
+      {
+       "id": "b",
+       "bn": "HgCl₂",
+       "en": "HgCl₂"
+      },
+      {
+       "id": "c",
+       "bn": "K₂CrO₄",
+       "en": "K₂CrO₄"
+      },
+      {
+       "id": "d",
+       "bn": "AgNO₃",
+       "en": "AgNO₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্ষারীয় K₂[HgI₄] দ্রবণ।",
+     "explanation_en": "Alkaline K₂[HgI₄].",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নেসলার দ্রবণ NH₃-এর উপস্থিতিতে কী উৎপন্ন করে?",
+     "question_en": "Nessler's solution with NH₃ gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা অধঃক্ষেপ",
+       "en": "White ppt"
+      },
+      {
+       "id": "b",
+       "bn": "নীল দ্রবণ",
+       "en": "Blue solution"
+      },
+      {
+       "id": "c",
+       "bn": "বাদামি অধঃক্ষেপ",
+       "en": "Brown ppt"
+      },
+      {
+       "id": "d",
+       "bn": "কালো অধঃক্ষেপ",
+       "en": "Black ppt"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বাদামি NH₂Hg₂I₃।",
+     "explanation_en": "Brown NH₂Hg₂I₃.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "HgCl₂ দ্রবণে KI ফোঁটা ফোঁটা যোগ করলে প্রথমে কী দেখা যায়?",
+     "question_en": "Dropwise KI added to HgCl₂ first shows:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল HgI₂ অধঃক্ষেপ",
+       "en": "Red HgI₂ ppt"
+      },
+      {
+       "id": "b",
+       "bn": "বর্ণহীন দ্রবণ",
+       "en": "Colourless solution"
+      },
+      {
+       "id": "c",
+       "bn": "নীল অধঃক্ষেপ",
+       "en": "Blue ppt"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যাস নির্গমন",
+       "en": "Gas evolved"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HgCl₂ + 2KI → HgI₂ (লাল) + 2KCl।",
+     "explanation_en": "HgCl₂ + 2KI → HgI₂ (red) + 2KCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অতিরিক্ত KI যোগে লাল HgI₂ অধঃক্ষেপ দ্রবীভূত হয় কেন?",
+     "question_en": "Why does red HgI₂ dissolve in excess KI?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জটিল K₂[HgI₄] গঠিত হয়",
+       "en": "Soluble complex K₂[HgI₄] forms"
+      },
+      {
+       "id": "b",
+       "bn": "HgI₂ বিয়োজিত হয়",
+       "en": "HgI₂ decomposes"
+      },
+      {
+       "id": "c",
+       "bn": "পানি বিক্রিয়া করে",
+       "en": "Water reacts"
+      },
+      {
+       "id": "d",
+       "bn": "KI জারিত হয়",
+       "en": "KI is oxidised"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HgI₂ + 2KI → K₂[HgI₄] (দ্রবণীয়)।",
+     "explanation_en": "HgI₂ + 2KI → soluble K₂[HgI₄].",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "1.3",
+   "stimulus_bn": "একটি ল্যাবে PCl₃ ও NCl₃-এর নমুনা পানির সংস্পর্শে আনা হলো। দুটোই আর্দ্র বিশ্লেষিত হয় এবং ফসফরাসের যৌগে PCl₅-ও গঠিত হয়, কিন্তু NCl₅ পাওয়া যায় না।",
+   "stimulus_en": "Samples of PCl₃ and NCl₃ are exposed to water. Both hydrolyse; P also forms PCl₅ but NCl₅ is never obtained.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "নাইট্রোজেনের পরমাণু ক্রমাঙ্ক কত?",
+     "question_en": "What is the atomic number of nitrogen?",
+     "model_answer_bn": "৭।",
+     "model_answer_en": "7."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "NCl₃-এর আর্দ্র বিশ্লেষণ সমীকরণ লেখো।",
+     "question_en": "Write the hydrolysis equation of NCl₃.",
+     "model_answer_bn": "NCl₃(l) + 3H₂O(l) → NH₃(g) + 3HOCl(aq)।",
+     "model_answer_en": "NCl₃(l) + 3H₂O(l) → NH₃(g) + 3HOCl(aq)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "PCl₅-এর আর্দ্র বিশ্লেষণ দুই ধাপে সমীকরণসহ ব্যাখ্যা করো।",
+     "question_en": "Explain, with equations, the two-step hydrolysis of PCl₅.",
+     "model_answer_bn": "প্রথমে PCl₅ + H₂O → POCl₃ + 2HCl; পরে POCl₃ + 3H₂O → H₃PO₄ + 3HCl।",
+     "model_answer_en": "First PCl₅ + H₂O → POCl₃ + 2HCl; then POCl₃ + 3H₂O → H₃PO₄ + 3HCl."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "N ও P-এর হ্যালাইডের যোজ্যতা ও আর্দ্র বিশ্লেষণ আচরণের পার্থক্য ইলেকট্রন বিন্যাস ও d-অরবিটালের ভিত্তিতে বিশ্লেষণ করো।",
+     "question_en": "Analyse the difference in valency and hydrolysis of N and P halides using electron configuration and d-orbitals.",
+     "model_answer_bn": "N-এর দ্বিতীয় স্তরে d অরবিটাল নেই, তাই যোজ্যতা ৩-এর বেশি হয় না (NCl₅ হয় না) এবং NF₃-এ N বা F-এ খালি d না থাকায় আর্দ্র বিশ্লেষণ হয় না। P-এর 3d খালি; 3s → 3d উত্তেজনায় ৫টি বিজোড় ইলেকট্রন, তাই PCl₅ হয় এবং P-এর d অরবিটাল পানির সাথে সন্নিবেশ বন্ধনে সাহায্য করে। তাই PCl₃ সহজে আর্দ্র বিশ্লেষিত হয়।",
+     "model_answer_en": "N has no d orbital in shell 2, so valency stays 3 (no NCl₅) and NF₃ lacks a vacant d orbital on N or F, so it does not hydrolyse. P has vacant 3d; 3s→3d excitation gives five unpaired electrons, so PCl₅ forms, and P's d orbitals accept water's lone pair, so PCl₃ hydrolyses readily."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.10",
+   "stimulus_bn": "একটি সার কারখানা হেবার পদ্ধতিতে 500°C ও 200 atm চাপে লোহা চূর্ণ প্রভাবকে N₂ ও H₂ (1:3) থেকে NH₃ উৎপাদন করে। বিক্রিয়ার ΔH = −92 kJ mol⁻¹।",
+   "stimulus_en": "A fertiliser plant makes NH₃ from N₂ and H₂ (1:3) by the Haber process at 500°C, 200 atm over iron catalyst. ΔH = −92 kJ mol⁻¹.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "হেবার পদ্ধতির সহায়ক প্রভাবক কী?",
+     "question_en": "What is the promoter in the Haber process?",
+     "model_answer_bn": "Al₂O₃ (বা Mo)।",
+     "model_answer_en": "Al₂O₃ (or Mo)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "বিক্রিয়াটি কেন উচ্চ চাপে অনুকূল?",
+     "question_en": "Why does high pressure favour the reaction?",
+     "model_answer_bn": "বিক্রিয়ায় 4 mol গ্যাস থেকে 2 mol উৎপন্ন হয়, অর্থাৎ আয়তন কমে; লা-শাটেলিয়ার নীতিতে উচ্চ চাপে অগ্রমুখী বিক্রিয়া বাড়ে।",
+     "model_answer_en": "4 mol gas gives 2 mol (volume decreases); by Le Chatelier's principle high pressure favours the forward reaction."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "নিম্ন তাপমাত্রা সাম্যে কেন অনুকূল, তবু 500°C কেন ব্যবহৃত হয়?",
+     "question_en": "Low temperature favours equilibrium yet 500°C is used — explain.",
+     "model_answer_bn": "বিক্রিয়া তাপউৎপাদী, তাই নিম্ন তাপে NH₃-এর পরিমাণ বেশি। কিন্তু নিম্ন তাপে গতি অত্যন্ত ধীর। তাই মাঝামাঝি 450–550°C ও প্রভাবক ব্যবহার করে দ্রুত সাম্যে পৌঁছানো হয়।",
+     "model_answer_en": "The reaction is exothermic, so low T gives more NH₃, but the rate is very slow. A compromise 450–550°C with a catalyst reaches equilibrium quickly."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "উৎপন্ন NH₃ কীভাবে আলাদা করা হয় এবং অপরিবর্তিত গ্যাসের কী হয়? এর অর্থনৈতিক যুক্তি দাও।",
+     "question_en": "How is the NH₃ separated and what happens to unreacted gas? Give the economic reasoning.",
+     "model_answer_bn": "রূপান্তর মাত্র 15–20%; মিশ্রণ শীতল কুণ্ডলীতে চালনা করলে NH₃ তরল হয়ে (−33.87°C) পৃথক হয়। অবশিষ্ট N₂ ও H₂ পুনঃসঞ্চালিত হয় ও নতুন গ্যাসের সাথে মিশে আবার বিক্রিয়ায় যায়। এতে কাঁচামালের অপচয় কমে ও NH₃ অপসারণে সাম্য অগ্রমুখে সরে ফলন বাড়ে।",
+     "model_answer_en": "Conversion is only 15–20%; the mixture passes through a cold coil where NH₃ liquefies (−33.87°C) and is removed. Unreacted N₂ and H₂ are recycled with fresh gas, reducing waste, and removing NH₃ shifts equilibrium forward, raising yield."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.12",
+   "stimulus_bn": "রাহি ল্যাবে CuSO₄ দ্রবণে ধীরে ধীরে NH₄OH যোগ করল। প্রথমে হালকা নীল অধঃক্ষেপ পড়ল, পরে আরও NH₄OH যোগে গাঢ় নীল দ্রবণ হলো।",
+   "stimulus_en": "Rahi slowly added NH₄OH to CuSO₄ solution. A pale-blue precipitate formed first, then excess NH₄OH gave a deep-blue solution.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "জটিল যৌগে NH₃-কে কী বলা হয়?",
+     "question_en": "What is NH₃ called in a complex compound?",
+     "model_answer_bn": "লিগ্যান্ড।",
+     "model_answer_en": "A ligand."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "গাঢ় নীল জটিল যৌগের নাম ও সংকেত লেখো।",
+     "question_en": "Name and give the formula of the deep-blue complex.",
+     "model_answer_bn": "টেট্রাঅ্যামিন কপার (II) সালফেট, [Cu(NH₃)₄]SO₄।",
+     "model_answer_en": "Tetraamminecopper(II) sulphate, [Cu(NH₃)₄]SO₄."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "একই পরীক্ষা ZnSO₄ দ্রবণে করলে কী দেখা যাবে? সমীকরণ দাও।",
+     "question_en": "What is observed with ZnSO₄ solution? Give equations.",
+     "model_answer_bn": "প্রথমে সাদা Zn(OH)₂ অধঃক্ষেপ: ZnSO₄ + 2NH₄OH → (NH₄)₂SO₄ + Zn(OH)₂; অতিরিক্ত NH₄OH-এ দ্রবীভূত হয়ে বর্ণহীন [Zn(NH₃)₄]SO₄ দ্রবণ হয়।",
+     "model_answer_en": "First white Zn(OH)₂: ZnSO₄ + 2NH₄OH → (NH₄)₂SO₄ + Zn(OH)₂; with excess NH₄OH it dissolves to colourless [Zn(NH₃)₄]SO₄."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "NH₃ লিগ্যান্ড হিসেবে কাজ করতে পারে কেন, এবং AgCl-এর ক্ষেত্রে এ ধর্ম কীভাবে কাজে লাগে ব্যাখ্যা করো।",
+     "question_en": "Why can NH₃ act as a ligand, and how does this help with AgCl?",
+     "model_answer_bn": "NH₃-এর N sp³ সংকরিত ও একটি নিঃসঙ্গ ইলেকট্রন জোড় আছে, যা কেন্দ্রীয় ধাতব আয়নের শূন্য অরবিটালে দান করে সন্নিবেশ বন্ধন গঠন করে। অদ্রবণীয় AgCl অতিরিক্ত NH₄OH-এ বিক্রিয়া করে দ্রবণীয় [Ag(NH₃)₂]Cl গঠন করে: AgCl + 2NH₄OH → [Ag(NH₃)₂]Cl + 2H₂O। ফলে AgCl দ্রবীভূত হয়।",
+     "model_answer_en": "N in NH₃ is sp³ with a lone pair that it donates to vacant orbitals of the central metal ion, forming a coordinate bond. Insoluble AgCl reacts with excess NH₄OH to give soluble [Ag(NH₃)₂]Cl: AgCl + 2NH₄OH → [Ag(NH₃)₂]Cl + 2H₂O, so it dissolves."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 18-34 readable. Page 34 (printed p.18) includes 1.13 plus start of 1.14 oxides table; pages 35+ (1.14-1.16 detail) are outside this chunk. Section 1.8 extraction equation given in book as 2Ca3(PO4)2 + 6SiO2 -> 6CaSiO3 + 2P2O5."
+}

@@ -1,0 +1,1618 @@
+{
+ "chapter_no": 6,
+ "topics": [
+  {
+   "section_no": "6.15",
+   "title_bn": "ক্লোরো ফ্লোরো কার্বন [C.F.C] ও ফ্রিয়নস্",
+   "title_en": "Chlorofluorocarbons (CFC) and Freons",
+   "notes_bn": "মিথেন ও ইথেনের ক্লোরো-ফ্লোরো উদ্ভূত যৌগকে CFC বলে; বাণিজ্যিক নাম ফ্রিয়নস্।\nগুরুত্বপূর্ণ: ফ্রিয়ন-11 (CCl3F), ফ্রিয়ন-12 (CCl2F2), 1,2-ডাইক্লোরো-1,1,2,2-টেট্রাফ্লোরো ইথেন (F2ClC–CClF2)।\nপ্রস্তুতি: CCl4 + HF (300°C, C + FeCl2) → CF2Cl2 + CFCl3 + HCl।\nSbCl5 অনুঘটকে: CCl4 + 2HF → CCl2F2 + 2HCl।\nএগুলো সহজে তরলীকরণযোগ্য, নিম্ন স্ফুটনাঙ্কবিশিষ্ট; রেফ্রিজারেটর, এয়ারকন্ডিশনার, অ্যারোসল ও প্লাস্টিক ফোম তৈরিতে ব্যবহৃত।\nস্থায়ী C.F.C ওজোন স্তরের ক্ষতি করে, তাই ব্যবহার কমছে।",
+   "notes_en": "CFCs are chloro-fluoro derivatives of methane and ethane; trade name Freons.\nKey ones: Freon-11 (CCl3F), Freon-12 (CCl2F2), 1,2-dichloro-1,1,2,2-tetrafluoroethane.\nPrep: CCl4 + HF (300°C, C + FeCl2) gives CF2Cl2 + CFCl3 + HCl; with SbCl5: CCl4 + 2HF -> CCl2F2 + 2HCl.\nEasily liquefied, low boiling; used in refrigerators, air conditioners, aerosols, plastic foam.\nStable CFCs damage the ozone layer, so use has declined.",
+   "mcqs": [
+    {
+     "question_bn": "ফ্রিয়ন-12 এর সংকেত কোনটি?",
+     "question_en": "What is the formula of Freon-12?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CCl3F",
+       "en": "CCl3F"
+      },
+      {
+       "id": "b",
+       "bn": "CCl2F2",
+       "en": "CCl2F2"
+      },
+      {
+       "id": "c",
+       "bn": "CClF3",
+       "en": "CClF3"
+      },
+      {
+       "id": "d",
+       "bn": "CF4",
+       "en": "CF4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফ্রিয়ন-12 হলো ডাইক্লোরো ডাইফ্লোরো মিথেন, CCl2F2।",
+     "explanation_en": "Freon-12 is dichlorodifluoromethane, CCl2F2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফ্রিয়ন-11 কোনটি?",
+     "question_en": "Which is Freon-11?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CCl2F2",
+       "en": "CCl2F2"
+      },
+      {
+       "id": "b",
+       "bn": "CHCl3",
+       "en": "CHCl3"
+      },
+      {
+       "id": "c",
+       "bn": "CCl3F",
+       "en": "CCl3F"
+      },
+      {
+       "id": "d",
+       "bn": "CCl4",
+       "en": "CCl4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ফ্রিয়ন-11 হলো ট্রাইক্লোরো ফ্লোরো মিথেন (CCl3F)।",
+     "explanation_en": "Freon-11 is trichlorofluoromethane, CCl3F.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফ্রিয়ন-12 প্রস্তুতিতে CCl4 এর সাথে SbCl5 অনুঘটকের উপস্থিতিতে কোনটি বিক্রিয়া করে?",
+     "question_en": "In preparing Freon-12 with SbCl5 catalyst, CCl4 reacts with:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl2",
+       "en": "Cl2"
+      },
+      {
+       "id": "b",
+       "bn": "HF",
+       "en": "HF"
+      },
+      {
+       "id": "c",
+       "bn": "F2",
+       "en": "F2"
+      },
+      {
+       "id": "d",
+       "bn": "HCl",
+       "en": "HCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CCl4 + 2HF → CCl2F2 + 2HCl; HF দ্বারা Cl প্রতিস্থাপিত হয়।",
+     "explanation_en": "CCl4 + 2HF -> CCl2F2 + 2HCl; HF replaces Cl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CCl4 + 2HF → CCl2F2 + 2HCl বিক্রিয়ায় 1 mol CCl4 থেকে কত mol HCl পাওয়া যায়?",
+     "question_en": "How many moles of HCl form from 1 mol CCl4 in CCl4 + 2HF -> CCl2F2 + 2HCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সমীকরণ অনুযায়ী 1 mol CCl4 থেকে 2 mol HCl।",
+     "explanation_en": "The equation gives 2 mol HCl per mol CCl4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি CFC নয়?",
+     "question_en": "Which is NOT a CFC?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CCl3F",
+       "en": "CCl3F"
+      },
+      {
+       "id": "b",
+       "bn": "CCl2F2",
+       "en": "CCl2F2"
+      },
+      {
+       "id": "c",
+       "bn": "F2ClC–CClF2",
+       "en": "F2ClC-CClF2"
+      },
+      {
+       "id": "d",
+       "bn": "CH2Cl2",
+       "en": "CH2Cl2"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "CH2Cl2 তে ফ্লোরিন নেই, তাই এটি CFC নয়।",
+     "explanation_en": "CH2Cl2 has no fluorine, so it is not a CFC.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.16",
+   "title_bn": "অ্যালকেনের হ্যালোজেন জাতকের ব্যবহার",
+   "title_en": "Uses of halogen derivatives of alkanes",
+   "notes_bn": "দ্রাবক: CCl4, CH2Cl2, CHCl3 তেল, চর্বি, গ্রিজ দ্রবীভূত করে; ক্লোরো অ্যালকেনের দ্রাবকতা বেশি।\nহিমায়ক: ফ্রিয়ন-11, ফ্রিয়ন-12 ফ্রিজ/এয়ারকন্ডিশনারে তরল হিসেবে; অ্যারোসল স্প্রের দ্রাবক (নিষ্ক্রিয়, অদাহ্য)।\nঅগ্নিনির্বাপক: CCl4 উত্তপ্ত অবস্থায় বিষাক্ত ফসজিন (COCl2) দেয়, তাই BCF (CBr2ClF) উত্তম।\nচেতনানাশক: CHCl3 (লিভারের ক্ষতি), তাই CF3CHBrCl (হ্যালোথেন/ফ্লুথেন, ICI, 1957); স্থানিক: CH3Cl (স্ফুটনাঙ্ক –24°C), C2H5Cl (12°C)।\nওয়েস্ট্রন: CHCl2CHCl2 (স্ফুটনাঙ্ক 146°C); ওয়েস্ট্রোসল: CHCl=CCl2 (90°C), ড্রাই ওয়াশিং ও দ্রাবক।",
+   "notes_en": "Solvents: CCl4, CH2Cl2, CHCl3 dissolve oils, fats, grease; chloro compounds are better solvents than bromo.\nRefrigerants: Freon-11/12 in refrigerators and air conditioners; inert, non-flammable aerosol propellants.\nFire extinguisher: CCl4 gives toxic phosgene when hot, so BCF (CBr2ClF) is preferred.\nAnaesthetics: CHCl3 harms liver, so halothane CF3CHBrCl (ICI 1957); local: CH3Cl (bp -24°C), C2H5Cl (12°C).\nWestron: CHCl2CHCl2 (bp 146°C); Westrosol: CHCl=CCl2 (bp 90°C); dry-cleaning solvents.",
+   "mcqs": [
+    {
+     "question_bn": "অগ্নিনির্বাপক হিসেবে সর্বোত্তম কোনটি?",
+     "question_en": "Which is the best fire extinguisher?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CCl4",
+       "en": "CCl4"
+      },
+      {
+       "id": "b",
+       "bn": "CHCl3",
+       "en": "CHCl3"
+      },
+      {
+       "id": "c",
+       "bn": "CBr2ClF (BCF)",
+       "en": "CBr2ClF (BCF)"
+      },
+      {
+       "id": "d",
+       "bn": "CH3Cl",
+       "en": "CH3Cl"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CCl4 উত্তপ্ত হলে বিষাক্ত ফসজিন দেয়; BCF তে এ সমস্যা নেই।",
+     "explanation_en": "CCl4 gives toxic phosgene when hot; BCF avoids this.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হ্যালোথেনের সংকেত কোনটি?",
+     "question_en": "What is the formula of halothane?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CF3CHBrCl",
+       "en": "CF3CHBrCl"
+      },
+      {
+       "id": "b",
+       "bn": "CHCl3",
+       "en": "CHCl3"
+      },
+      {
+       "id": "c",
+       "bn": "CCl3F",
+       "en": "CCl3F"
+      },
+      {
+       "id": "d",
+       "bn": "CH3CHCl2",
+       "en": "CH3CHCl2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হ্যালোথেন (ফ্লুথেন) হলো 2-ব্রোমো-2-ক্লোরো-1,1,1-ট্রাইফ্লোরো ইথেন।",
+     "explanation_en": "Halothane is 2-bromo-2-chloro-1,1,1-trifluoroethane.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ওয়েস্ট্রোসলের সংকেত কোনটি?",
+     "question_en": "Which is the formula of Westrosol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CHCl2CHCl2",
+       "en": "CHCl2CHCl2"
+      },
+      {
+       "id": "b",
+       "bn": "CHCl=CCl2",
+       "en": "CHCl=CCl2"
+      },
+      {
+       "id": "c",
+       "bn": "CCl2=CCl2",
+       "en": "CCl2=CCl2"
+      },
+      {
+       "id": "d",
+       "bn": "CH2=CHCl",
+       "en": "CH2=CHCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ওয়েস্ট্রোসল হলো ট্রাইক্লোরো ইথিলিন, CHCl=CCl2; ওয়েস্ট্রন হলো টেট্রাক্লোরো ইথেন।",
+     "explanation_en": "Westrosol is trichloroethylene CHCl=CCl2; Westron is the tetrachloroethane.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সার্জারিতে CHCl3 এর পরিবর্তে হ্যালোথেন ব্যবহারের কারণ কী?",
+     "question_en": "Why was halothane used instead of CHCl3 in surgery?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হ্যালোথেন সস্তা",
+       "en": "Halothane is cheaper"
+      },
+      {
+       "id": "b",
+       "bn": "CHCl3 লিভারের ক্ষতি করে ও অধিক মাত্রায় প্রাণঘাতী",
+       "en": "CHCl3 harms the liver and anaesthetic and lethal doses are close"
+      },
+      {
+       "id": "c",
+       "bn": "CHCl3 পানিতে অদ্রবণীয়",
+       "en": "CHCl3 is insoluble in water"
+      },
+      {
+       "id": "d",
+       "bn": "হ্যালোথেন ভারী",
+       "en": "Halothane is heavier"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CHCl3 এর চেতনানাশক ও প্রাণঘাতী মাত্রার পার্থক্য খুব কম এবং লিভারের ক্ষতি করে।",
+     "explanation_en": "The gap between anaesthetic and lethal dose of CHCl3 is small and it damages the liver.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.17",
+   "title_bn": "অ্যারোমেটিক হ্যালোজেন জাতকের ব্যবহার",
+   "title_en": "Uses of aromatic halogeno derivatives",
+   "notes_bn": "কীটনাশক: ক্লোরিনযুক্ত অ্যারোমেটিক যৌগ কৃষিতে ব্যবহৃত—গ্যামেক্সিন/লিনডেন (C6H6Cl6), এল্ড্রিন, ডিল্ড্রিন, ডি.ডি.টি।\nডি.ডি.টি পার্শ্বপ্রতিক্রিয়ার কারণে আন্তর্জাতিকভাবে কৃষিক্ষেত্রে নিষিদ্ধ।\nদ্রাবক: ক্লোরোবেনজিন।",
+   "notes_en": "Insecticides: chlorinated aromatics used in agriculture - gammexane/lindane (C6H6Cl6), aldrin, dieldrin, DDT.\nDDT is banned in agriculture internationally due to side effects.\nSolvent: chlorobenzene.",
+   "mcqs": [
+    {
+     "question_bn": "গ্যামেক্সিন পাউডারের সংকেত কোনটি?",
+     "question_en": "What is the formula of gammexane powder?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H6Cl6",
+       "en": "C6H6Cl6"
+      },
+      {
+       "id": "b",
+       "bn": "C6H5Cl",
+       "en": "C6H5Cl"
+      },
+      {
+       "id": "c",
+       "bn": "C6H4Cl2",
+       "en": "C6H4Cl2"
+      },
+      {
+       "id": "d",
+       "bn": "C2H3Cl3",
+       "en": "C2H3Cl3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গ্যামেক্সিন বা লিনডেন হলো C6H6Cl6।",
+     "explanation_en": "Gammexane (lindane) is C6H6Cl6.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কৃষিক্ষেত্রে কোনটি আন্তর্জাতিকভাবে নিষিদ্ধ?",
+     "question_en": "Which is internationally banned in agriculture?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডি.ডি.টি",
+       "en": "DDT"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরোবেনজিন",
+       "en": "Chlorobenzene"
+      },
+      {
+       "id": "c",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পার্শ্বপ্রতিক্রিয়ার কারণে ডি.ডি.টি নিষিদ্ধ।",
+     "explanation_en": "DDT is banned because of side effects.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি কীটনাশক হিসেবে ব্যবহৃত অ্যারোমেটিক হ্যালোজেন যৌগ নয়?",
+     "question_en": "Which is not an aromatic halogen insecticide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এল্ড্রিন",
+       "en": "Aldrin"
+      },
+      {
+       "id": "b",
+       "bn": "ডিল্ড্রিন",
+       "en": "Dieldrin"
+      },
+      {
+       "id": "c",
+       "bn": "লিনডেন",
+       "en": "Lindane"
+      },
+      {
+       "id": "d",
+       "bn": "হ্যালোথেন",
+       "en": "Halothane"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "হ্যালোথেন চেতনানাশক; বাকিগুলো কীটনাশক।",
+     "explanation_en": "Halothane is an anaesthetic; the rest are insecticides.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হ্যালোজেনো অ্যারিনের মধ্যে দ্রাবক হিসেবে কোনটি ব্যবহৃত হয়?",
+     "question_en": "Which halogenoarene is used as a solvent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরোবেনজিন",
+       "en": "Chlorobenzene"
+      },
+      {
+       "id": "b",
+       "bn": "ফ্লোরোবেনজিন",
+       "en": "Fluorobenzene"
+      },
+      {
+       "id": "c",
+       "bn": "ফিনাইল সায়ানাইড",
+       "en": "Phenyl cyanide"
+      },
+      {
+       "id": "d",
+       "bn": "ডি.ডি.টি",
+       "en": "DDT"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে দ্রাবক হিসেবে ক্লোরোবেনজিন উল্লেখ আছে।",
+     "explanation_en": "The book names chlorobenzene as the solvent.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "6.18",
+   "title_bn": "গ্রিন হাউস ও ক্লোরো ফ্লোরো কার্বন বা সি.এফ.সি (C.F.C)",
+   "title_en": "Greenhouse and CFC",
+   "notes_bn": "গ্রিন হাউস প্রভাব: পৃথিবী থেকে ফেরত যাওয়া অবলোহিত তাপ বায়ুমণ্ডলের কিছু গ্যাস শোষণ করে ফিরিয়ে দেয়, ফলে ভূপৃষ্ঠের তাপমাত্রা বাড়ে।\nগ্যাসের হার: CO2 49%, CFC 14%, মিথেন 18%, N2O 6%, অন্যান্য 13%।\nগ্রিন হাউস প্রভাব না থাকলে গড় তাপমাত্রা প্রায় 0°C এর নিচে নামত; বর্তমান গড় 15°C।\nCFC দ্বিমুখী ক্ষতি করে: অবলোহিত রশ্মি শোষণ করে তাপ বাড়ায়, এবং ওজোন স্তর ধ্বংস করে (Cl পরমাণু ওজোন ভাঙে)।\nওজোন ছিদ্র 1985 সালে প্রথম দেখা যায়; ওজোন কমলে UV বাড়ে (1% ওজোন হ্রাসে প্রায় 2% UV বৃদ্ধি), ক্যান্সার ও প্ল্যাঙ্কটন ক্ষতির আশঙ্কা।",
+   "notes_en": "Greenhouse effect: some atmospheric gases absorb infrared heat radiated by Earth, warming the surface.\nGas shares: CO2 49%, CFC 14%, methane 18%, N2O 6%, others 13%.\nWithout it the mean temperature would be about 0°C or lower; present mean is 15°C.\nCFCs act two ways: absorb infrared (warming) and destroy ozone (Cl atoms break ozone).\nOzone hole first seen in 1985; 1% ozone loss raises UV by about 2%, risking cancer and plankton damage.",
+   "mcqs": [
+    {
+     "question_bn": "গ্রিন হাউস গ্যাসের মধ্যে সবচেয়ে বেশি শতাংশ কোনটির?",
+     "question_en": "Which gas has the highest share among greenhouse gases (per the book)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO2",
+       "en": "CO2"
+      },
+      {
+       "id": "b",
+       "bn": "CFC",
+       "en": "CFC"
+      },
+      {
+       "id": "c",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "d",
+       "bn": "N2O",
+       "en": "N2O"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের তালিকায় CO2 49%।",
+     "explanation_en": "Per the book, CO2 is 49%.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ওজোন স্তরের ছিদ্র প্রথম কখন দেখা যায়?",
+     "question_en": "When was the ozone hole first observed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1957",
+       "en": "1957"
+      },
+      {
+       "id": "b",
+       "bn": "1985",
+       "en": "1985"
+      },
+      {
+       "id": "c",
+       "bn": "1837",
+       "en": "1837"
+      },
+      {
+       "id": "d",
+       "bn": "2009",
+       "en": "2009"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 1985 সালে ছিদ্র দেখার কথা আছে।",
+     "explanation_en": "The book states the hole was seen in 1985.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "1% ওজোন হ্রাস পেলে অতিবেগুনি রশ্মি প্রায় কত শতাংশ বাড়ে?",
+     "question_en": "About how much does UV increase for 1% ozone loss?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1%",
+       "en": "1%"
+      },
+      {
+       "id": "b",
+       "bn": "2%",
+       "en": "2%"
+      },
+      {
+       "id": "c",
+       "bn": "5%",
+       "en": "5%"
+      },
+      {
+       "id": "d",
+       "bn": "10%",
+       "en": "10%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের মতে 1% হ্রাসে প্রায় 2% UV বৃদ্ধি।",
+     "explanation_en": "The book says about 2% UV rise per 1% ozone loss.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C.F.C কীভাবে ওজোন স্তর ধ্বংস করে?",
+     "question_en": "How do CFCs destroy the ozone layer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরিন পরমাণু ওজোন অণু ভেঙে দেয়",
+       "en": "Chlorine atoms break ozone molecules"
+      },
+      {
+       "id": "b",
+       "bn": "CO2 তৈরি করে",
+       "en": "By producing CO2"
+      },
+      {
+       "id": "c",
+       "bn": "ওজোনে হাইড্রোজেন যোগ করে",
+       "en": "By adding hydrogen to ozone"
+      },
+      {
+       "id": "d",
+       "bn": "পানির সাথে বিক্রিয়া করে",
+       "en": "By reacting with water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CFC থেকে উৎপন্ন ক্লোরিন পরমাণু প্রায় দশ হাজার ওজোন অণু ভাঙতে পারে।",
+     "explanation_en": "Cl atoms from CFC can break about ten thousand ozone molecules.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্রিন হাউস প্রভাবের কারণে গড় তাপমাত্রা প্রায় কত?",
+     "question_en": "With the greenhouse effect, Earth's mean temperature is about:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0°C",
+       "en": "0°C"
+      },
+      {
+       "id": "b",
+       "bn": "15°C",
+       "en": "15°C"
+      },
+      {
+       "id": "c",
+       "bn": "30°C",
+       "en": "30°C"
+      },
+      {
+       "id": "d",
+       "bn": "-15°C",
+       "en": "-15°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে বর্তমান গড় তাপমাত্রা 15°C।",
+     "explanation_en": "The book gives the present mean as 15°C.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.19",
+   "title_bn": "হ্যালোজেনো অ্যারিনের সংজ্ঞা",
+   "title_en": "Definition of halogeno arenes",
+   "notes_bn": "বেনজিন বলয়ের H পরমাণু হ্যালোজেন দ্বারা প্রতিস্থাপিত হলে হ্যালোজেনো অ্যারিন (অ্যারাইল হ্যালাইড) পাওয়া যায়।\nউদাহরণ: ক্লোরোবেনজিন C6H5Cl; ডাইক্লোরোবেনজিন C6H4Cl2 পলিহ্যালোজেনো অ্যারিন।\nআইউপ্যাক নামকরণে বেনজিনের হ্যালো প্রতিস্থাপিত যৌগ; একাধিক হ্যালোজেনে ডাই/ট্রাই ও অবস্থান সংখ্যা (1,2-; 1,3-; 1,4-) বা o-, m-, p-।\nউদাহরণ: 2-ক্লোরো টলুইন; 2,4,6-ট্রাইক্লোরো টলুইন (বই অনুযায়ী ছবি)।",
+   "notes_en": "Replacing an H of a benzene ring by a halogen gives a halogeno arene (aryl halide).\nExamples: chlorobenzene C6H5Cl; dichlorobenzene C6H4Cl2 is a polyhalogeno arene.\nIUPAC: halo-substituted benzene; use di/tri with locants (1,2-; 1,3-; 1,4-) or o-, m-, p-.\nExample: 1,2-, 1,3-, 1,4-dichlorobenzene; 2-chlorotoluene.",
+   "mcqs": [
+    {
+     "question_bn": "ক্লোরোবেনজিনের সংকেত কোনটি?",
+     "question_en": "Formula of chlorobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H6Cl",
+       "en": "C6H6Cl"
+      },
+      {
+       "id": "b",
+       "bn": "C6H5Cl",
+       "en": "C6H5Cl"
+      },
+      {
+       "id": "c",
+       "bn": "C6H4Cl2",
+       "en": "C6H4Cl2"
+      },
+      {
+       "id": "d",
+       "bn": "C6H6Cl6",
+       "en": "C6H6Cl6"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বেনজিনের একটি H কে Cl দিয়ে প্রতিস্থাপন করলে C6H5Cl।",
+     "explanation_en": "Replacing one H by Cl gives C6H5Cl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি পলিহ্যালোজেনো অ্যারিন?",
+     "question_en": "Which is a polyhalogeno arene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H5Br",
+       "en": "C6H5Br"
+      },
+      {
+       "id": "b",
+       "bn": "C6H5Cl",
+       "en": "C6H5Cl"
+      },
+      {
+       "id": "c",
+       "bn": "C6H4Cl2",
+       "en": "C6H4Cl2"
+      },
+      {
+       "id": "d",
+       "bn": "C6H5I",
+       "en": "C6H5I"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "একাধিক হ্যালোজেন থাকলে পলিহ্যালোজেনো অ্যারিন।",
+     "explanation_en": "More than one halogen makes it polyhalogeno.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "o-ডাইক্লোরোবেনজিনের আইউপ্যাক নাম কোনটি?",
+     "question_en": "IUPAC name of o-dichlorobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1,2-ডাইক্লোরোবেনজিন",
+       "en": "1,2-dichlorobenzene"
+      },
+      {
+       "id": "b",
+       "bn": "1,3-ডাইক্লোরোবেনজিন",
+       "en": "1,3-dichlorobenzene"
+      },
+      {
+       "id": "c",
+       "bn": "1,4-ডাইক্লোরোবেনজিন",
+       "en": "1,4-dichlorobenzene"
+      },
+      {
+       "id": "d",
+       "bn": "1,1-ডাইক্লোরোবেনজিন",
+       "en": "1,1-dichlorobenzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অর্থো = পাশাপাশি অবস্থান, 1,2।",
+     "explanation_en": "Ortho means adjacent, i.e. 1,2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "p-ডাইক্লোরোবেনজিনের Cl পরমাণু দুটির অবস্থান কোনটি?",
+     "question_en": "Positions of Cl in p-dichlorobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1,2",
+       "en": "1,2"
+      },
+      {
+       "id": "b",
+       "bn": "1,3",
+       "en": "1,3"
+      },
+      {
+       "id": "c",
+       "bn": "1,4",
+       "en": "1,4"
+      },
+      {
+       "id": "d",
+       "bn": "1,5",
+       "en": "1,5"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "প্যারা = 1,4 অবস্থান।",
+     "explanation_en": "Para is the 1,4 position.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "6.20",
+   "title_bn": "হ্যালোজেনো অ্যারিন বা অ্যারাইল হ্যালাইড প্রস্তুতি",
+   "title_en": "Preparation of halogeno arenes",
+   "notes_bn": "১। হ্যালোজেন বাহক (শুষ্ক AlCl3, FeBr3) সহ ~80°C এ বেনজিন + Cl2/Br2 → ক্লোরো/ব্রোমোবেনজিন।\nআয়োডিনেশনে উৎপন্ন HI সরাতে জারক HgO বা HNO3 ব্যবহার: C6H6 + I2 (HgO) → C6H5I + HI।\n২। ~100°C এ বেনজিন ডায়াজোনিয়াম ক্লোরাইড + HCl/Cu2Cl2 → ক্লোরোবেনজিন + N2; HBr/Cu2Br2 → ব্রোমোবেনজিন।\n৩। বেনজিন ডায়াজোনিয়াম ক্লোরাইড + KI → আয়োডোবেনজিন; + HBF4 (বোরন টেট্রাফ্লোরাইড) → ফ্লোরোবেনজিন।",
+   "notes_en": "1. Benzene + Cl2/Br2 at ~80°C with halogen carrier (anhydrous AlCl3, FeBr3) gives chloro/bromobenzene.\nFor iodination, an oxidant (HgO, HNO3) removes HI: C6H6 + I2 -> C6H5I + HI.\n2. Benzene diazonium chloride at ~100°C with HCl/Cu2Cl2 gives chlorobenzene + N2; HBr/Cu2Br2 gives bromobenzene.\n3. With KI gives iodobenzene; with fluoroboric (BF4) gives fluorobenzene.",
+   "mcqs": [
+    {
+     "question_bn": "বেনজিন থেকে ক্লোরোবেনজিন প্রস্তুতিতে ব্যবহৃত অনুঘটক কোনটি?",
+     "question_en": "Catalyst for preparing chlorobenzene from benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুষ্ক AlCl3",
+       "en": "Anhydrous AlCl3"
+      },
+      {
+       "id": "b",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "c",
+       "bn": "Ni",
+       "en": "Ni"
+      },
+      {
+       "id": "d",
+       "bn": "HgO",
+       "en": "HgO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হ্যালোজেন বাহক লুইস এসিড, যেমন শুষ্ক AlCl3।",
+     "explanation_en": "Halogen carrier is a Lewis acid such as anhydrous AlCl3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "আয়োডোবেনজিন প্রস্তুতিতে HgO কেন ব্যবহৃত হয়?",
+     "question_en": "Why is HgO used in making iodobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HI অপসারণ করতে",
+       "en": "To remove HI"
+      },
+      {
+       "id": "b",
+       "bn": "অনুঘটকরূপে",
+       "en": "As a solvent"
+      },
+      {
+       "id": "c",
+       "bn": "তাপ বাড়াতে",
+       "en": "To raise temperature"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন জারিত করতে",
+       "en": "To oxidise benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিক্রিয়া বিপরীতমুখী; উৎপন্ন HI কে জারিত করে সরানো হয়।",
+     "explanation_en": "HI would reverse the reaction, so it is removed by oxidation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড + HCl (Cu2Cl2, 100°C) এ কোন গ্যাস নির্গত হয়?",
+     "question_en": "Which gas is evolved when benzene diazonium chloride reacts with HCl/Cu2Cl2 at 100°C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "b",
+       "bn": "N2",
+       "en": "N2"
+      },
+      {
+       "id": "c",
+       "bn": "O2",
+       "en": "O2"
+      },
+      {
+       "id": "d",
+       "bn": "Cl2",
+       "en": "Cl2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C6H5N2Cl → C6H5Cl + N2।",
+     "explanation_en": "C6H5N2Cl -> C6H5Cl + N2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড থেকে ফ্লোরোবেনজিন তৈরিতে কোনটি দরকার?",
+     "question_en": "Which reagent converts benzene diazonium chloride to fluorobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "KI",
+       "en": "KI"
+      },
+      {
+       "id": "b",
+       "bn": "Cu2Cl2",
+       "en": "Cu2Cl2"
+      },
+      {
+       "id": "c",
+       "bn": "HBF4 (বোরন টেট্রাফ্লোরাইড)",
+       "en": "HBF4 (BF4 source)"
+      },
+      {
+       "id": "d",
+       "bn": "HBr",
+       "en": "HBr"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বোরন টেট্রাফ্লোরাইড আয়নের সাথে বিক্রিয়ায় ফ্লোরোবেনজিন, N2, BF3 পাওয়া যায়।",
+     "explanation_en": "BF4 reagent gives fluorobenzene, N2 and BF3.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.21",
+   "title_bn": "হ্যালোজেনো অ্যারিনের ভৌত ধর্ম",
+   "title_en": "Physical properties of halogeno arenes",
+   "notes_bn": "সাধারণত বর্ণহীন তৈলাক্ত তরল বা নিম্ন গলনাঙ্কের কঠিন।\nপানির চেয়ে ভারী; পানিতে অদ্রবণীয়, কিন্তু জৈব দ্রাবকে (ইথানল, ডাইইথাইল ইথার) দ্রবণীয়।\nআণবিক ভরের সাথে গলনাঙ্ক, স্ফুটনাঙ্ক ও আপেক্ষিক গুরুত্ব বাড়ে।\nস্ফুটনাঙ্কের ক্রম: ArF < ArCl < ArBr < ArI।",
+   "notes_en": "Usually colourless oily liquids or low-melting solids.\nDenser than water; insoluble in water but soluble in organic solvents (ethanol, diethyl ether).\nMelting point, boiling point and density rise with molecular mass.\nOrder: ArF < ArCl < ArBr < ArI.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যারাইল হ্যালাইড সাধারণত কোন দ্রাবকে দ্রবণীয়?",
+     "question_en": "Aryl halides dissolve in:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "লঘু HCl",
+       "en": "Dilute HCl"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পানিতে অদ্রবণীয় কিন্তু জৈব দ্রাবকে দ্রবণীয়।",
+     "explanation_en": "Insoluble in water but soluble in organic solvents.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটির স্ফুটনাঙ্ক সর্বোচ্চ?",
+     "question_en": "Which has the highest boiling point?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H5F",
+       "en": "C6H5F"
+      },
+      {
+       "id": "b",
+       "bn": "C6H5Cl",
+       "en": "C6H5Cl"
+      },
+      {
+       "id": "c",
+       "bn": "C6H5Br",
+       "en": "C6H5Br"
+      },
+      {
+       "id": "d",
+       "bn": "C6H5I",
+       "en": "C6H5I"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "ক্রম ArF<ArCl<ArBr<ArI; আয়োডাইডের আণবিক ভর সর্বাধিক।",
+     "explanation_en": "Order ArF<ArCl<ArBr<ArI; iodide has the greatest mass.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যারাইল হ্যালাইডের ঘনত্ব পানির তুলনায়—",
+     "question_en": "Density of aryl halides relative to water:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কম",
+       "en": "Lower"
+      },
+      {
+       "id": "b",
+       "bn": "বেশি",
+       "en": "Higher"
+      },
+      {
+       "id": "c",
+       "bn": "সমান",
+       "en": "Equal"
+      },
+      {
+       "id": "d",
+       "bn": "নির্ণয় করা যায় না",
+       "en": "Cannot be said"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে এরা পানির চেয়ে ভারী বলা আছে।",
+     "explanation_en": "The book says they are heavier than water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আণবিক ভর বাড়লে অ্যারাইল হ্যালাইডের কোন ধর্মটি বাড়ে না?",
+     "question_en": "Which property does not increase with molecular mass of aryl halides?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গলনাঙ্ক",
+       "en": "Melting point"
+      },
+      {
+       "id": "b",
+       "bn": "স্ফুটনাঙ্ক",
+       "en": "Boiling point"
+      },
+      {
+       "id": "c",
+       "bn": "আপেক্ষিক গুরুত্ব",
+       "en": "Relative density"
+      },
+      {
+       "id": "d",
+       "bn": "পানিতে দ্রাব্যতা",
+       "en": "Solubility in water"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "এরা পানিতে অদ্রবণীয়; বাকি তিনটি বাড়ে।",
+     "explanation_en": "They are insoluble in water; the other three increase.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.22",
+   "title_bn": "হ্যালোজেনো অ্যারিনের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of halogeno arenes",
+   "notes_bn": "নিষ্ক্রিয়তা: Cl এর p-অরবিটালের নিঃসঙ্গ ইলেকট্রন যুগল বেনজিনের π ইলেকট্রনের সাথে অনুরণন করে; C–Cl বন্ধনে আংশিক দ্বিবন্ধন চরিত্র, তাই প্রতিস্থাপন কঠিন; RX এর চেয়ে কম সক্রিয়।\nনিউক্লিওফিলিক প্রতিস্থাপন (উচ্চ তাপ/চাপে): NaOH, 350°C, 150 atm → সোডিয়াম ফিনেট → HCl → ফেনল; NH3 + Cu2O, 200°C → অ্যানিলিন; Cu2(CN)2/পিরিডিন, 200°C → ফিনাইল সায়ানাইড → লঘু HCl এ বেনজোয়িক এসিড।\nCl এর o-/p-অবস্থানে –NO2 থাকলে প্রতিস্থাপন সহজ: p-ক্লোরোনাইট্রোবেনজিন + 20% NaOH (150°C) → p-নাইট্রোফেনল।\nইলেকট্রোফিলিক প্রতিস্থাপন: Cl এর –I প্রভাবে বলয় নিষ্ক্রিয় (বেনজিনের চেয়ে ধীর) কিন্তু +M প্রভাবে o-/p- নির্দেশক।\nক্লোরিনেশন (Fe) → o- ও p-ডাইক্লোরোবেনজিন; নাইট্রেশন (H2SO4) → o-, p-ক্লোরোনাইট্রোবেনজিন; সালফোনেশন → o-, p-ক্লোরোবেনজিন সালফোনিক এসিড; ফ্রিডেল-ক্রাফটস (CH3Cl/AlCl3) → p-ক্লোরো টলুইন; CH3COCl/AlCl3 → 4-ক্লোরো ফিনাইল ইথানোন।\nশুষ্ক ইথারে Mg → ফিনাইল ম্যাগনেসিয়াম ক্লোরাইড (গ্রিগনার্ড বিকারক)।",
+   "notes_en": "Inert: lone pair on Cl overlaps with ring pi electrons (resonance); C-Cl has partial double-bond character, so less reactive than RX.\nNucleophilic substitution (harsh conditions): NaOH at 350°C, 150 atm gives sodium phenoxide, then HCl gives phenol; NH3 + Cu2O at 200°C gives aniline; Cu2(CN)2/pyridine 200°C gives phenyl cyanide, hydrolysed to benzoic acid.\no/p -NO2 groups make substitution easier: p-chloronitrobenzene + 20% NaOH (150°C) gives p-nitrophenol.\nElectrophilic substitution: -I effect deactivates (slower than benzene) but +M effect directs o/p.\nChlorination (Fe) gives o- and p-dichlorobenzene; nitration, sulfonation give o/p products; Friedel-Crafts with CH3Cl/AlCl3 gives p-chlorotoluene; CH3COCl gives 4-chlorophenyl ethanone.\nMg in dry ether gives phenylmagnesium chloride (Grignard reagent).",
+   "mcqs": [
+    {
+     "question_bn": "ক্লোরোবেনজিন NaOH (350°C, 150 atm) এর সাথে বিক্রিয়া করে প্রথমে কী উৎপন্ন করে?",
+     "question_en": "Chlorobenzene with NaOH (350°C, 150 atm) first gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "b",
+       "bn": "সোডিয়াম ফিনেট",
+       "en": "Sodium phenoxide"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজোয়িক এসিড",
+       "en": "Benzoic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C6H5Cl + NaOH → C6H5ONa; এরপর HCl দিয়ে ফেনল।",
+     "explanation_en": "C6H5Cl + NaOH -> C6H5ONa; HCl then gives phenol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্লোরোবেনজিন ও NH3 কে Cu2O সহ 200°C এ উত্তপ্ত করলে কী পাওয়া যায়?",
+     "question_en": "Heating chlorobenzene with NH3/Cu2O at 200°C gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "b",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "c",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "–Cl এর জায়গায় –NH2 প্রতিস্থাপিত হয়ে অ্যানিলিন।",
+     "explanation_en": "Cl is replaced by NH2, giving aniline.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্লোরোবেনজিন অ্যালকাইল ক্লোরাইডের চেয়ে কম সক্রিয় কেন?",
+     "question_en": "Why is chlorobenzene less reactive than alkyl chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl ইলেকট্রন অনুরণনে অংশ নিয়ে C–Cl এ আংশিক দ্বিবন্ধন সৃষ্টি করে",
+       "en": "Cl lone pair resonance gives C-Cl partial double-bond character"
+      },
+      {
+       "id": "b",
+       "bn": "Cl ছোট পরমাণু",
+       "en": "Cl is a small atom"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজিন পোলার",
+       "en": "Benzene is polar"
+      },
+      {
+       "id": "d",
+       "bn": "C–Cl বন্ধন আয়নিক",
+       "en": "C-Cl bond is ionic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অনুরণনে C–Cl বন্ধন শক্তিশালী হয়, ফলে প্রতিস্থাপন কঠিন।",
+     "explanation_en": "Resonance strengthens C-Cl, making substitution hard.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরোবেনজিনের নাইট্রেশনে প্রধান পণ্য কোনগুলো?",
+     "question_en": "Main nitration products of chlorobenzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুধু m-",
+       "en": "Only meta"
+      },
+      {
+       "id": "b",
+       "bn": "o- ও p-ক্লোরোনাইট্রোবেনজিন",
+       "en": "o- and p-chloronitrobenzene"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু ফেনল",
+       "en": "Only phenol"
+      },
+      {
+       "id": "d",
+       "bn": "নাইট্রোবেনজিন",
+       "en": "Nitrobenzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cl ইলেকট্রোফিলকে o/p-অবস্থানে নির্দেশ করে।",
+     "explanation_en": "Cl directs the electrophile to o/p positions.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরোবেনজিন ও CH3Cl শুষ্ক AlCl3 এর উপস্থিতিতে বিক্রিয়া করলে প্রধান পণ্য কোনটি?",
+     "question_en": "Chlorobenzene + CH3Cl/AlCl3 gives mainly:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "p-ক্লোরো টলুইন",
+       "en": "p-chlorotoluene"
+      },
+      {
+       "id": "b",
+       "bn": "m-ক্লোরো টলুইন",
+       "en": "m-chlorotoluene"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজিল ক্লোরাইড",
+       "en": "Benzyl chloride"
+      },
+      {
+       "id": "d",
+       "bn": "ফিনাইল ইথানোন",
+       "en": "Phenyl ethanone"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফ্রিডেল-ক্রাফটস অ্যালকাইলেশনে বইয়ের মতে p-ক্লোরো টলুইন।",
+     "explanation_en": "Friedel-Crafts alkylation gives p-chlorotoluene per the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগে –OH দ্বারা Cl এর প্রতিস্থাপন সবচেয়ে সহজ?",
+     "question_en": "In which compound is Cl replaced by OH most easily?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরোবেনজিন",
+       "en": "Chlorobenzene"
+      },
+      {
+       "id": "b",
+       "bn": "p-ক্লোরোনাইট্রোবেনজিন",
+       "en": "p-chloronitrobenzene"
+      },
+      {
+       "id": "c",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "p-অবস্থানে –NO2 থাকলে 20% NaOH, 150°C এ p-নাইট্রোফেনল পাওয়া যায়।",
+     "explanation_en": "With p-NO2, 20% NaOH at 150°C gives p-nitrophenol easily.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.23",
+   "title_bn": "হ্যালোজেনো অ্যারিনের ব্যবহার",
+   "title_en": "Uses of halogeno arenes",
+   "notes_bn": "ক্লোরোবেনজিন থেকে অ্যানিলিন, ফেনল, ডি.ডি.টি তৈরি হয়; এটি দ্রাবকও।\nডি.ডি.টি = প্যারা-প্যারা-ডাইক্লোরো-ডাইফিনাইল-ট্রাইক্লোরো ইথেন।\nপ্রস্তুতি: 2 অণু ক্লোরোবেনজিন + ক্লোরাল (ট্রাইক্লোরো অ্যাসিট্যালডিহাইড), গাঢ় H2SO4 সহ উত্তপ্ত → ডি.ডি.টি + H2O।\nধর্ম: কঠিন, গলনাঙ্ক 109°–110°C; শক্তিশালী জীবাণুনাশক ও কীটনাশক।",
+   "notes_en": "Chlorobenzene is an intermediate for aniline, phenol and DDT; also a solvent.\nDDT = para,para-dichloro-diphenyl-trichloroethane.\nPrep: 2 chlorobenzene + chloral (trichloroacetaldehyde) heated with conc. H2SO4 gives DDT + H2O.\nProperties: solid, mp 109-110°C; strong germicide and insecticide.",
+   "mcqs": [
+    {
+     "question_bn": "ডি.ডি.টি প্রস্তুতিতে ক্লোরোবেনজিনের সাথে কোন যৌগ বিক্রিয়া করে?",
+     "question_en": "Which compound reacts with chlorobenzene to make DDT?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরাল",
+       "en": "Chloral"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসিটোন",
+       "en": "Acetone"
+      },
+      {
+       "id": "d",
+       "bn": "ফরম্যালডিহাইড",
+       "en": "Formaldehyde"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্লোরাল বা ট্রাইক্লোরো অ্যাসিট্যালডিহাইড ও গাঢ় H2SO4 লাগে।",
+     "explanation_en": "Chloral (trichloroacetaldehyde) with conc. H2SO4 is used.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডি.ডি.টির গলনাঙ্ক প্রায় কত?",
+     "question_en": "Melting point of DDT?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "25–26°C",
+       "en": "25-26°C"
+      },
+      {
+       "id": "b",
+       "bn": "109–110°C",
+       "en": "109-110°C"
+      },
+      {
+       "id": "c",
+       "bn": "200°C",
+       "en": "200°C"
+      },
+      {
+       "id": "d",
+       "bn": "77°C",
+       "en": "77°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 109°–110°C।",
+     "explanation_en": "Book gives 109-110°C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "1 mol ডি.ডি.টি তৈরিতে কত mol ক্লোরোবেনজিন দরকার?",
+     "question_en": "Moles of chlorobenzene per mole DDT?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2 অণু ক্লোরোবেনজিন + 1 অণু ক্লোরাল।",
+     "explanation_en": "2 molecules chlorobenzene + 1 chloral.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরোবেনজিন নিচের কোনটির প্রস্তুতিতে মধ্যবর্তী যৌগ হিসেবে ব্যবহৃত?",
+     "question_en": "Chlorobenzene is an intermediate for making:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "b",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "c",
+       "bn": "CCl4",
+       "en": "CCl4"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্রিয়ন-12",
+       "en": "Freon-12"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে অ্যানিলিন, ফেনল, ডি.ডি.টি উল্লেখ আছে।",
+     "explanation_en": "Book lists aniline, phenol and DDT.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ডি.ডি.টি তৈরিতে H2SO4 এর ভূমিকা কী (বিক্রিয়ায় পানি উৎপন্ন হয়)?",
+     "question_en": "Role of conc. H2SO4 in DDT synthesis (water forms)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিরুদক/অনুঘটক",
+       "en": "Dehydrating agent/catalyst"
+      },
+      {
+       "id": "b",
+       "bn": "বিজারক",
+       "en": "Reducing agent"
+      },
+      {
+       "id": "c",
+       "bn": "দ্রাবক হিসেবে শুধু",
+       "en": "Only as solvent"
+      },
+      {
+       "id": "d",
+       "bn": "ক্ষার",
+       "en": "Base"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গাঢ় H2SO4 উপস্থিতিতে সংযোজন-ঘনীভবনে H2O বের হয়; এটি নিরুদক ও অনুঘটকের কাজ করে (যুক্তিসংগত ব্যাখ্যা)।",
+     "explanation_en": "Conc. H2SO4 assists condensation with loss of H2O, acting as dehydrating agent/catalyst (inferred).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.24",
+   "title_bn": "হ্যালোজেনো অ্যালকেন (RX) ও হ্যালোজেনো অ্যারিন (ArX) এর মধ্যে তুলনা",
+   "title_en": "Comparison between RX and ArX",
+   "notes_bn": "NaOH(aq): RX → অ্যালকোহল; ArX → উত্তপ্ত অবস্থায় –ONa, পরে ফেনল।\nMg/শুষ্ক ইথার: উভয়েই গ্রিগনার্ড বিকারক (RMgX, ArMgX)।\nNa/শুষ্ক ইথার: RX → উর্টজ বিক্রিয়ায় R–R; ArX + R–X → উর্টজ-ফিটিগ বিক্রিয়ায় Ar–R।\nসাদৃশ্য ছাড়া বৈসাদৃশ্য: NaCN সহ RX → RCN; ArX + Cu2(CN)2 (পিরিডিন, উত্তপ্ত) → ArCN।\nNH3: RX → RNH2; ArX → Cu2O ও উচ্চ চাপ/তাপে অ্যানিলিন।\nইলেকট্রোফিলিক প্রতিস্থাপন (নাইট্রেশন, সালফোনেশন, ফ্রিডেল-ক্রাফটস): RX এ হয় না, ArX এ হয়।",
+   "notes_en": "NaOH(aq): RX gives alcohol; ArX gives -ONa on heating, then phenol.\nMg/dry ether: both give Grignard reagents (RMgX, ArMgX).\nNa/dry ether: RX gives R-R (Wurtz); ArX + R-X gives Ar-R (Wurtz-Fittig).\nDifferences: NaCN gives RCN with RX; ArX needs Cu2(CN)2 in hot pyridine to give ArCN.\nNH3: RX gives RNH2; ArX gives aniline only with Cu2O at high T and P.\nElectrophilic substitution (nitration, sulfonation, Friedel-Crafts) does not occur for RX but occurs for ArX.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি RX ও ArX উভয়ের ক্ষেত্রে সাদৃশ্যপূর্ণ?",
+     "question_en": "Which reaction is common to both RX and ArX?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Mg/শুষ্ক ইথারে গ্রিগনার্ড বিকারক গঠন",
+       "en": "Grignard reagent formation with Mg/dry ether"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রেশন",
+       "en": "Nitration"
+      },
+      {
+       "id": "c",
+       "bn": "ফ্রিডেল-ক্রাফটস",
+       "en": "Friedel-Crafts"
+      },
+      {
+       "id": "d",
+       "bn": "NaCN এ সরাসরি নাইট্রাইল",
+       "en": "Direct nitrile with NaCN"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উভয়ই শুষ্ক ইথারে Mg এর সাথে গ্রিগনার্ড বিকারক দেয়।",
+     "explanation_en": "Both give Grignard reagents with Mg in dry ether.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ArX + R–X + 2Na (শুষ্ক ইথার) → Ar–R + 2NaX কোন বিক্রিয়া?",
+     "question_en": "ArX + R-X + 2Na (dry ether) -> Ar-R + 2NaX is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উর্টজ",
+       "en": "Wurtz"
+      },
+      {
+       "id": "b",
+       "bn": "উর্টজ-ফিটিগ",
+       "en": "Wurtz-Fittig"
+      },
+      {
+       "id": "c",
+       "bn": "ফ্রিডেল-ক্রাফটস",
+       "en": "Friedel-Crafts"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যাটারম্যান",
+       "en": "Gattermann"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যারাইল ও অ্যালকাইল হ্যালাইডের Na সহ বিক্রিয়া উর্টজ-ফিটিগ।",
+     "explanation_en": "Aryl + alkyl halide with Na is Wurtz-Fittig.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "RX এর ক্ষেত্রে যে বিক্রিয়া ঘটে না কিন্তু ArX এ ঘটে—",
+     "question_en": "Reaction that fails for RX but occurs for ArX:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জলীয় NaOH সহ",
+       "en": "With aq NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রেশন",
+       "en": "Nitration"
+      },
+      {
+       "id": "c",
+       "bn": "NH3 সহ",
+       "en": "With NH3"
+      },
+      {
+       "id": "d",
+       "bn": "Mg সহ",
+       "en": "With Mg"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইলেকট্রোফিলিক প্রতিস্থাপন (নাইট্রেশন, সালফোনেশন, ফ্রিডেল-ক্রাফটস) শুধু ArX এ ঘটে।",
+     "explanation_en": "Electrophilic substitution only occurs for ArX.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "RX + NaCN → RCN; ArX থেকে ArCN পেতে কী লাগে?",
+     "question_en": "RX + NaCN -> RCN; what is needed for ArX -> ArCN?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCN জলীয়",
+       "en": "Aqueous NaCN"
+      },
+      {
+       "id": "b",
+       "bn": "Cu2(CN)2, পিরিডিন, তাপ",
+       "en": "Cu2(CN)2, pyridine, heat"
+      },
+      {
+       "id": "c",
+       "bn": "KCN ঠান্ডা",
+       "en": "Cold KCN"
+      },
+      {
+       "id": "d",
+       "bn": "HCN",
+       "en": "HCN"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "টেবিল অনুযায়ী উত্তপ্ত পিরিডিনে Cu2(CN)2।",
+     "explanation_en": "Per the table: Cu2(CN)2 in hot pyridine.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "6.22",
+   "stimulus_bn": "রাহিম পরীক্ষাগারে ক্লোরোবেনজিন ও CH3Cl এর নমুনা পেল। সে (i) প্রথমটিকে 350°C ও 150 atm চাপে NaOH(aq) এর সাথে উত্তপ্ত করল এবং (ii) CH3Cl কে জলীয় NaOH এর সাথে সাধারণ অবস্থায় বিক্রিয়া করাল। প্রথমটি বিক্রিয়া করতে কঠোর শর্তের প্রয়োজন হলো।",
+   "stimulus_en": "Rahim has samples of chlorobenzene and CH3Cl. He (i) heats the first with NaOH(aq) at 350°C and 150 atm and (ii) reacts CH3Cl with aqueous NaOH under ordinary conditions. The first needed harsh conditions.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "হ্যালোজেনো অ্যারিন কী?",
+     "question_en": "What is a halogeno arene?",
+     "model_answer_bn": "বেনজিন বলয়ের H পরমাণু হ্যালোজেন দ্বারা প্রতিস্থাপিত হয়ে যে যৌগ হয়, তা হ্যালোজেনো অ্যারিন।",
+     "model_answer_en": "A compound formed when an H of a benzene ring is replaced by a halogen."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "ক্লোরোবেনজিনে C–Cl বন্ধন কেন শক্তিশালী?",
+     "question_en": "Why is the C-Cl bond strong in chlorobenzene?",
+     "model_answer_bn": "Cl এর p-অরবিটালের নিঃসঙ্গ ইলেকট্রন যুগল বেনজিনের π ইলেকট্রনের সাথে অনুরণন করে। ফলে C–Cl বন্ধনে আংশিক দ্বিবন্ধন চরিত্র আসে।",
+     "model_answer_en": "The lone pair on Cl overlaps with ring pi electrons (resonance), giving C-Cl partial double-bond character."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "(i) এর বিক্রিয়াটির সমীকরণ লিখ এবং চূড়ান্ত পণ্য পেতে কী করতে হবে তা বল।",
+     "question_en": "Write the equation for reaction (i) and state how the final product is obtained.",
+     "model_answer_bn": "C6H5Cl + 2NaOH → C6H5ONa + NaCl + H2O। এরপর লঘু HCl যোগে উত্তপ্ত করলে ফেনল (C6H5OH) পাওয়া যায়।",
+     "model_answer_en": "C6H5Cl + 2NaOH -> C6H5ONa + NaCl + H2O. Warming with dilute HCl gives phenol, C6H5OH."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ক্লোরোবেনজিন ও CH3Cl এর বিক্রিয়ার পার্থক্য যুক্তিসহ ব্যাখ্যা কর এবং কীভাবে p-নাইট্রো প্রতিস্থাপন বিক্রিয়াকে সহজ করে লিখ।",
+     "question_en": "Explain with reasons the difference in reactivity of chlorobenzene and CH3Cl, and how a p-nitro group eases substitution.",
+     "model_answer_bn": "CH3Cl এ C–Cl বন্ধন সাধারণ σ বন্ধন, তাই সহজে NaOH দ্বারা প্রতিস্থাপিত হয়ে CH3OH দেয়। ক্লোরোবেনজিনে অনুরণনের কারণে বন্ধন শক্ত, তাই উচ্চ তাপ ও চাপ লাগে। Cl এর p-অবস্থানে –NO2 থাকলে ইলেকট্রন আকর্ষণে নিউক্লিওফিলিক প্রতিস্থাপন সহজ হয়; যেমন p-ক্লোরোনাইট্রোবেনজিন + 20% NaOH (150°C) → p-নাইট্রোফেনল।",
+     "model_answer_en": "In CH3Cl the C-Cl is an ordinary sigma bond, so NaOH readily gives CH3OH. In chlorobenzene resonance strengthens the bond, so high T and P are needed. A p-NO2 group makes nucleophilic substitution easier: p-chloronitrobenzene + 20% NaOH (150°C) gives p-nitrophenol."
+    }
+   ]
+  },
+  {
+   "topic_section": "6.18",
+   "stimulus_bn": "একটি পত্রিকায় লেখা হয়েছে, দক্ষিণ গোলার্ধের উপর ওজোন স্তরে ছিদ্র বড় হচ্ছে এবং বায়ুমণ্ডলে CFC এর পরিমাণ উদ্বেগজনক। একই সাথে গ্রিন হাউস প্রভাবে বিশ্বের গড় তাপমাত্রা বাড়ছে।",
+   "stimulus_en": "A newspaper reports that the ozone hole over the southern hemisphere is growing and atmospheric CFC levels are alarming, while the greenhouse effect is raising global temperature.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ফ্রিয়ন-12 এর সংকেত লিখ।",
+     "question_en": "Write the formula of Freon-12.",
+     "model_answer_bn": "CCl2F2",
+     "model_answer_en": "CCl2F2"
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "গ্রিন হাউস প্রভাব বলতে কী বোঝ?",
+     "question_en": "What is the greenhouse effect?",
+     "model_answer_bn": "পৃথিবী থেকে নির্গত অবলোহিত তাপ বায়ুমণ্ডলের কিছু গ্যাস শোষণ করে আটকে রাখে, ফলে ভূপৃষ্ঠের তাপমাত্রা বাড়ে।",
+     "model_answer_en": "Some atmospheric gases absorb infrared heat radiated by Earth and trap it, raising surface temperature."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "CCl4 থেকে HF দ্বারা ফ্রিয়ন-12 প্রস্তুতির সমীকরণ SbCl5 অনুঘটকসহ লিখ।",
+     "question_en": "Write the equation for preparing Freon-12 from CCl4 and HF with SbCl5 catalyst.",
+     "model_answer_bn": "CCl4 + 2HF → (SbCl5) CCl2F2 + 2HCl",
+     "model_answer_en": "CCl4 + 2HF -> (SbCl5) CCl2F2 + 2HCl"
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "CFC কীভাবে দুভাবে পরিবেশের ক্ষতি করে এবং ওজোন ক্ষয় কেন বিপজ্জনক ব্যাখ্যা কর।",
+     "question_en": "Explain the two ways CFCs harm the environment and why ozone loss is dangerous.",
+     "model_answer_bn": "১) CFC অবলোহিত রশ্মি শোষণ করে বায়ুমণ্ডলের তাপমাত্রা বাড়ায় (গ্রিন হাউস গ্যাস)। ২) CFC থেকে মুক্ত ক্লোরিন পরমাণু ওজোন অণু ভেঙে ওজোন স্তরে ছিদ্র করে। ওজোন কমলে অতিবেগুনি রশ্মি বাড়ে (1% ওজোন হ্রাসে প্রায় 2% UV বৃদ্ধি), ফলে প্রাণীর ক্ষতি ও প্ল্যাঙ্কটন ধ্বংসের আশঙ্কা থাকে।",
+     "model_answer_en": "1) CFCs absorb infrared radiation and warm the atmosphere (greenhouse gas). 2) Cl atoms freed from CFCs break ozone molecules, creating holes. Less ozone raises UV (about 2% per 1% ozone loss), harming living things and plankton."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 381-391 are exam-question pages (practice bank, MCQ) and the start of the next chapter; skipped. Freon bp figures on p.356 were hard to read so not used. Pages 382,384-386,388-390 not individually opened beyond sampling (exam pages)."
+}

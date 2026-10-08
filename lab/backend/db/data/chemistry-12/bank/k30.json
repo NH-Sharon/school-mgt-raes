@@ -1,0 +1,925 @@
+{
+ "chapter_no": 10,
+ "topics": [
+  {
+   "section_no": "10.14",
+   "title_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইডের ভৌত ধর্ম",
+   "title_en": "Physical properties of benzene diazonium chloride",
+   "notes_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড বর্ণহীন, দানাদার, কঠিন পদার্থ।\nএটি পানিতে অত্যন্ত দ্রবণীয়; দ্রবণে আয়নিত অবস্থায় থাকে।\nঅ্যালকোহল ও ইথারে প্রায় অদ্রবণীয়।\nশুষ্ক লবণ তাপ ও আঘাতে বিস্ফোরিত হয়ে বিয়োজিত হতে পারে।\nতাই শুষ্ক লবণের বদলে এর জলীয় দ্রবণই জৈব যৌগ সংশ্লেষণে ব্যবহার করা হয়।",
+   "notes_en": "Benzene diazonium chloride is a colourless, crystalline solid.\nVery soluble in water, existing as ions in solution.\nAlmost insoluble in alcohol and ether.\nThe dry salt can explode on heating or shock.\nSo its aqueous solution, not the dry salt, is used in organic synthesis.",
+   "mcqs": [
+    {
+     "question_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড কোন দ্রাবকে অত্যন্ত দ্রবণীয়?",
+     "question_en": "In which solvent is benzene diazonium chloride highly soluble?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "b",
+       "bn": "ইথার",
+       "en": "Ether"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকোহল",
+       "en": "Alcohol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এটি পানিতে অত্যন্ত দ্রবণীয়, অ্যালকোহল ও ইথারে প্রায় অদ্রবণীয়।",
+     "explanation_en": "It is highly soluble in water but almost insoluble in alcohol and ether.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইডের ভৌত অবস্থা ও বর্ণ কী?",
+     "question_en": "What is the physical state and colour of benzene diazonium chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হলুদ তরল",
+       "en": "Yellow liquid"
+      },
+      {
+       "id": "b",
+       "bn": "বর্ণহীন দানাদার কঠিন",
+       "en": "Colourless crystalline solid"
+      },
+      {
+       "id": "c",
+       "bn": "লাল কঠিন",
+       "en": "Red solid"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণহীন গ্যাস",
+       "en": "Colourless gas"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এটি বর্ণহীন দানাদার কঠিন পদার্থ।",
+     "explanation_en": "It is a colourless crystalline solid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কেন শুষ্ক ডায়াজোনিয়াম লবণ সংশ্লেষণে ব্যবহার না করে জলীয় দ্রবণ ব্যবহার করা হয়?",
+     "question_en": "Why is the aqueous solution used instead of dry diazonium salt in synthesis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুষ্ক লবণ পানিতে অদ্রবণীয়",
+       "en": "Dry salt is insoluble in water"
+      },
+      {
+       "id": "b",
+       "bn": "শুষ্ক লবণ তাপ ও আঘাতে বিস্ফোরিত হয়",
+       "en": "Dry salt explodes on heat and shock"
+      },
+      {
+       "id": "c",
+       "bn": "শুষ্ক লবণ বর্ণহীন",
+       "en": "Dry salt is colourless"
+      },
+      {
+       "id": "d",
+       "bn": "জলীয় দ্রবণে বিক্রিয়া ঘটে না",
+       "en": "No reaction occurs in aqueous solution"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শুষ্ক লবণ বিপজ্জনকভাবে বিস্ফোরিত হতে পারে, তাই জলীয় দ্রবণ ব্যবহার হয়।",
+     "explanation_en": "The dry salt can explode dangerously, so the aqueous solution is used.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি বেনজিন ডায়াজোনিয়াম ক্লোরাইডের ধর্ম নয়?",
+     "question_en": "Which is NOT a property of benzene diazonium chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানিতে দ্রবণীয়",
+       "en": "Soluble in water"
+      },
+      {
+       "id": "b",
+       "bn": "ইথারে অদ্রবণীয়",
+       "en": "Insoluble in ether"
+      },
+      {
+       "id": "c",
+       "bn": "জলীয় দ্রবণে আয়নিত",
+       "en": "Ionised in aqueous solution"
+      },
+      {
+       "id": "d",
+       "bn": "ইথারে অত্যন্ত দ্রবণীয়",
+       "en": "Highly soluble in ether"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "এটি ইথারে প্রায় অদ্রবণীয়; তাই ইথারে অত্যন্ত দ্রবণীয় বলা ভুল।",
+     "explanation_en": "It is almost insoluble in ether, so 'highly soluble in ether' is wrong.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ডায়াজোনিয়াম লবণ পানিতে খুব দ্রবণীয় হওয়ার প্রধান কারণ কোনটি?",
+     "question_en": "What best explains the high water solubility of diazonium salts?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এটি অবিয়োজিত অপোলার অণু",
+       "en": "Non-ionic nonpolar molecule"
+      },
+      {
+       "id": "b",
+       "bn": "এটি আয়নিক প্রকৃতির লবণ",
+       "en": "Its ionic salt nature"
+      },
+      {
+       "id": "c",
+       "bn": "এতে হাইড্রোকার্বন অংশ নেই",
+       "en": "It has no hydrocarbon part"
+      },
+      {
+       "id": "d",
+       "bn": "এটি গ্যাসীয়",
+       "en": "It is gaseous"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ধনাত্মক ডায়াজোনিয়াম আয়ন ও Cl⁻ নিয়ে গঠিত আয়নিক লবণ বলে এটি পানিতে দ্রবীভূত হয়।",
+     "explanation_en": "As an ionic salt (diazonium cation and Cl⁻) it dissolves in water. (Inference from the book's description of its ionic nature.)",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.15",
+   "title_bn": "ডায়াজোনিয়াম ক্লোরাইডের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of diazonium chloride",
+   "notes_bn": "ডায়াজোনিয়াম আয়ন অনুরণনে সুস্থিত; তাই ডায়াজোনিয়াম লবণ অত্যন্ত সক্রিয় যৌগ। বিক্রিয়া তিন শ্রেণির: প্রতিস্থাপন, বিজারণ, যুগল গঠন।\nপ্রতিস্থাপন: H₃PO₂ ও Cu⁺ দ্বারা → বেনজিন; জলীয় দ্রবণ 40–50°C এ → ফেনল (OH দ্বারা)।\nস্যান্ডমেয়ার: Cu₂Cl₂/HCl, 100°C → ক্লোরোবেনজিন; Cu₂Br₂/HBr → ব্রোমোবেনজিন। গ্যাটারম্যান: Cu চূর্ণ ও HCl। KI(aq) গরমে → আয়োডোবেনজিন। KCN/Cu₂(CN)₂ → ফিনাইল সায়ানাইড, আর্দ্র বিশ্লেষণে বেনজোয়িক অ্যাসিড + NH₃; LiAlH₄ দ্বারা বিজারণে বেনজাইল অ্যামিন।\nবিজারণ: SnCl₂/HCl → ফিনাইল হাইড্রাজিন; Zn/HCl → অ্যানিলিন + NH₄Cl।\nযুগল গঠন: ফেনলের সাথে (pH 7–8) → p-হাইড্রক্সি অ্যাজো বেনজিন (কমলা); অ্যানিলিনের সাথে (pH 6–7) → p-অ্যামিনো অ্যাজো বেনজিন (হলুদ)। এতে –N=N– মূলক থাকে।",
+   "notes_en": "The diazonium ion is resonance-stabilised, so the salt is very reactive. Three reaction classes: substitution, reduction, coupling.\nSubstitution: H3PO2 with Cu+ gives benzene; warming the aqueous solution at 40-50 C gives phenol (OH replaces N2+).\nSandmeyer: Cu2Cl2/HCl at 100 C gives chlorobenzene; Cu2Br2/HBr gives bromobenzene. Gattermann: Cu powder and HCl. Aqueous KI on heating gives iodobenzene. KCN/Cu2(CN)2 gives phenyl cyanide, which on hydrolysis gives benzoic acid + NH3; LiAlH4 reduction gives benzylamine.\nReduction: SnCl2/HCl gives phenylhydrazine; Zn/HCl gives aniline + NH4Cl.\nCoupling: with phenol (pH 7-8) gives p-hydroxyazobenzene (orange); with aniline (pH 6-7) gives p-aminoazobenzene (yellow); both contain the -N=N- group.",
+   "mcqs": [
+    {
+     "question_bn": "ডায়াজোনিয়াম ক্লোরাইডের জলীয় দ্রবণ 40–50°C এ উত্তপ্ত করলে কী উৎপন্ন হয়?",
+     "question_en": "What forms when aqueous diazonium chloride is warmed at 40-50 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "c",
+       "bn": "ক্লোরোবেনজিন",
+       "en": "Chlorobenzene"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আর্দ্র বিশ্লেষণে –N₂⁺ এর স্থানে –OH প্রতিস্থাপিত হয়ে ফেনল, N₂ ও HCl উৎপন্ন হয়।",
+     "explanation_en": "Hydrolysis replaces N2+ by OH to give phenol, N2 and HCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডায়াজোনিয়াম লবণ Cu₂Cl₂ ও HCl এর সাথে 100°C এ উত্তপ্ত করলে কোনটি পাওয়া যায়?",
+     "question_en": "Heating a diazonium salt with Cu2Cl2 and HCl at 100 C gives",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরোবেনজিন",
+       "en": "Chlorobenzene"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এটি স্যান্ডমেয়ার বিক্রিয়া; N₂⁺ এর স্থানে Cl বসে।",
+     "explanation_en": "This is the Sandmeyer reaction; Cl replaces N2+.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডায়াজোনিয়াম লবণ ফসফিনিক অ্যাসিড (H₃PO₂) দ্বারা বিজারিত হলে প্রধান জৈব উৎপাদ কোনটি?",
+     "question_en": "The main organic product of diazonium salt with H3PO2 (Cu+ catalyst) is",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "c",
+       "bn": "ফিনাইল হাইড্রাজিন",
+       "en": "Phenylhydrazine"
+      },
+      {
+       "id": "d",
+       "bn": "ফিনাইল সায়ানাইড",
+       "en": "Phenyl cyanide"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H₃PO₂ ডায়াজো মূলককে H দ্বারা প্রতিস্থাপন করে বেনজিন দেয়; সহ-উৎপাদ H₃PO₃, N₂, HCl।",
+     "explanation_en": "H3PO2 replaces the diazo group by H giving benzene; by-products H3PO3, N2, HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SnCl₂/HCl দ্বারা বেনজিন ডায়াজোনিয়াম ক্লোরাইডের বিজারণে কী উৎপন্ন হয়?",
+     "question_en": "Reduction of benzene diazonium chloride with SnCl2/HCl gives",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "b",
+       "bn": "ফিনাইল হাইড্রাজিন",
+       "en": "Phenylhydrazine"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজাইল অ্যামিন",
+       "en": "Benzylamine"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "SnCl₂/HCl জায়মান H দিয়ে বিজারণ ঘটিয়ে C₆H₅NHNH₂ দেয়; Zn/HCl হলে অ্যানিলিন।",
+     "explanation_en": "SnCl2/HCl gives C6H5NHNH2; Zn/HCl would give aniline instead.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফিনাইল সায়ানাইডের আর্দ্র বিশ্লেষণে কী পাওয়া যায়?",
+     "question_en": "Hydrolysis of phenyl cyanide gives",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজোয়িক অ্যাসিড ও NH₃",
+       "en": "Benzoic acid and NH3"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজাইল অ্যামিন",
+       "en": "Benzylamine"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল ও HCN",
+       "en": "Phenol and HCN"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন ও CO₂",
+       "en": "Aniline and CO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C₆H₅CN + 2H₂O → C₆H₅COOH + NH₃ (HCl মাধ্যমে)।",
+     "explanation_en": "C6H5CN + 2H2O gives C6H5COOH + NH3 (HCl medium).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফেনলের সাথে বেনজিন ডায়াজোনিয়াম ক্লোরাইডের যুগল বিক্রিয়ায় কোন pH পরিসর উপযোগী এবং উৎপাদের বর্ণ কী?",
+     "question_en": "For coupling of benzene diazonium chloride with phenol, which pH range and product colour apply?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "pH 7–8; কমলা",
+       "en": "pH 7-8; orange"
+      },
+      {
+       "id": "b",
+       "bn": "pH 6–7; হলুদ",
+       "en": "pH 6-7; yellow"
+      },
+      {
+       "id": "c",
+       "bn": "pH 1–2; লাল",
+       "en": "pH 1-2; red"
+      },
+      {
+       "id": "d",
+       "bn": "pH 12–14; বর্ণহীন",
+       "en": "pH 12-14; colourless"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফেনলের সাথে সামান্য ক্ষারীয় (pH 7–8) মাধ্যমে কমলা বর্ণের p-হাইড্রক্সি অ্যাজো বেনজিন হয়; অ্যানিলিনে pH 6–7, হলুদ।",
+     "explanation_en": "With phenol: weakly alkaline (pH 7-8), orange p-hydroxyazobenzene; with aniline: pH 6-7, yellow.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.16",
+   "title_bn": "অ্যাজো-রঞ্জক বা ডাই",
+   "title_en": "Azo dyes",
+   "notes_bn": "রঞ্জক পদার্থে π-বন্ধনযুক্ত বিশেষ মূলক থাকে, যেমন –NO, –NO₂, –N=N–। এদের ক্রোমোফোর বলে; ক্রোমোফোরধারী অণুকে ক্রোমোজেন বলে।\nঅক্সোক্রোম (–OH, –NH₂, –NHR, –NR₂) ক্রোমোফোরের সাথে থেকে বর্ণ গাঢ় করে। উদাহরণ: নাইট্রোবেনজিন হালকা হলুদ, নাইট্রোফেনল গাঢ় হলুদ, নাইট্রোঅ্যানিলিন কমলা।\nদৃশ্যমান আলোর (380–700 nm) নির্দিষ্ট তরঙ্গ শোষিত হলে অবশিষ্ট পূরক বর্ণ আমাদের চোখে ধরা পড়ে।\nপেইন্ট বস্তুর পৃষ্ঠে আস্তরণ; ডাই বা রঞ্জক ভৌত/রাসায়নিক বন্ধনে সুতা বা কাপড়ের সাথে আবদ্ধ হয়।\nঅ্যাজো রঞ্জক: পলিইউনিয়্যাট্রিক অ্যারোমেটিক যৌগ যাতে ক্রোমোফোর রূপে –N=N– থাকে। প্রস্তুতি দুই ধাপে: (১) 0–5°C এ প্রাইমারি অ্যারোমেটিক অ্যামিনের ডায়াজোটাইজেশন, (২) ফেনল বা অ্যারোমেটিক অ্যামিনের সাথে কাপলিং।",
+   "notes_en": "Dyes contain special pi-bonded groups such as -NO, -NO2, -N=N-, called chromophores; a molecule bearing one is a chromogen.\nAuxochromes (-OH, -NH2, -NHR, -NR2) deepen the colour. Examples: nitrobenzene pale yellow, nitrophenol deep yellow, nitroaniline orange.\nColour arises when a compound absorbs specific wavelengths of visible light (380-700 nm) and the complementary light reaches the eye.\nA paint coats a surface; a dye binds to fibre/cloth by physical or chemical bonds.\nAzo dye: an aromatic compound with the chromophore -N=N-. Made in two steps: (1) diazotisation of a primary aromatic amine at 0-5 C; (2) coupling with phenol or an aromatic amine.",
+   "mcqs": [
+    {
+     "question_bn": "রঞ্জক পদার্থে বর্ণ সৃষ্টিকারী মূলককে কী বলে?",
+     "question_en": "What is the colour-producing group in a dye called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অক্সোক্রোম",
+       "en": "Auxochrome"
+      },
+      {
+       "id": "b",
+       "bn": "ক্রোমোফোর",
+       "en": "Chromophore"
+      },
+      {
+       "id": "c",
+       "bn": "ক্রোমোজেন",
+       "en": "Chromogen"
+      },
+      {
+       "id": "d",
+       "bn": "প্রভাবক",
+       "en": "Catalyst"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "π-বন্ধনযুক্ত বর্ণ সৃষ্টিকারী মূলকের নাম ক্রোমোফোর।",
+     "explanation_en": "The pi-bonded colour-producing group is called a chromophore.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাজো মূলকের গঠন কোনটি?",
+     "question_en": "The azo group is",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–NO₂",
+       "en": "-NO2"
+      },
+      {
+       "id": "b",
+       "bn": "–N=N–",
+       "en": "-N=N-"
+      },
+      {
+       "id": "c",
+       "bn": "–NH₂",
+       "en": "-NH2"
+      },
+      {
+       "id": "d",
+       "bn": "–OH",
+       "en": "-OH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যাজো মূলক হলো দ্বিবন্ধনযুক্ত –N=N–।",
+     "explanation_en": "The azo group is the double-bonded -N=N-.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি অক্সোক্রোম?",
+     "question_en": "Which is an auxochrome?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–N=N–",
+       "en": "-N=N-"
+      },
+      {
+       "id": "b",
+       "bn": "–NO₂",
+       "en": "-NO2"
+      },
+      {
+       "id": "c",
+       "bn": "–NH₂",
+       "en": "-NH2"
+      },
+      {
+       "id": "d",
+       "bn": "–NO",
+       "en": "-NO"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "–OH, –NH₂, –NHR, –NR₂ অক্সোক্রোম; বাকিগুলো ক্রোমোফোর।",
+     "explanation_en": "-OH, -NH2, -NHR, -NR2 are auxochromes; the others are chromophores.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইট্রোবেনজিন হালকা হলুদ, কিন্তু নাইট্রোফেনল গাঢ় হলুদ—এর কারণ কী?",
+     "question_en": "Nitrobenzene is pale yellow but nitrophenol deep yellow because",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–OH মূলক অক্সোক্রোম হিসেবে বর্ণ গাঢ় করে",
+       "en": "-OH acts as an auxochrome deepening colour"
+      },
+      {
+       "id": "b",
+       "bn": "–OH ক্রোমোফোর",
+       "en": "-OH is a chromophore"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল হালকা",
+       "en": "Phenol is lighter"
+      },
+      {
+       "id": "d",
+       "bn": "–NO₂ অনুপস্থিত",
+       "en": "-NO2 is absent"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "–NO₂ ক্রোমোফোরের সাথে –OH অক্সোক্রোম থাকায় বর্ণ গাঢ় হয়।",
+     "explanation_en": "-OH as auxochrome with the -NO2 chromophore deepens the colour.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাজো রঞ্জক প্রস্তুতির প্রথম ধাপে কোন তাপমাত্রায় প্রাইমারি অ্যারোমেটিক অ্যামিন বিক্রিয়া করে?",
+     "question_en": "In making an azo dye, the primary aromatic amine is first treated with NaNO2/HCl at",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0–5°C",
+       "en": "0-5 C"
+      },
+      {
+       "id": "b",
+       "bn": "40–50°C",
+       "en": "40-50 C"
+      },
+      {
+       "id": "c",
+       "bn": "100°C",
+       "en": "100 C"
+      },
+      {
+       "id": "d",
+       "bn": "200°C",
+       "en": "200 C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ডায়াজোটাইজেশন 0–5°C এ করা হয়; পরে কাপলিং।",
+     "explanation_en": "Diazotisation is done at 0-5 C, followed by coupling.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.17",
+   "title_bn": "অ্যাজো রঞ্জক প্রস্তুতি",
+   "title_en": "Preparation of azo dyes",
+   "notes_bn": "অ্যানিলিন ইয়েলো (সলভেন্ট ইয়েলো-১): ডায়াজোনিয়াম ক্লোরাইড + অ্যানিলিন, অম্লীয় মাধ্যমে কাপলিং → p-অ্যামিনো অ্যাজো বেনজিন। ব্যবহার: তেল-লাক্ষার দ্রাবক, মধ্যবর্তী যৌগ।\nবাটার ইয়েলো: ডায়াজোনিয়াম ক্লোরাইড + N,N-ডাইমিথাইল অ্যানিলিন (অম্লীয় মাধ্যম) → p-N,N-ডাইমিথাইল অ্যামিনো অ্যাজো বেনজিন। ব্যবহার: মাখন, মার্গারিন, তেলের রঞ্জক।\nক্রাইসয়ডিন: ডায়াজোনিয়াম ক্লোরাইড + m-ফিনাইলিন ডাইঅ্যামিন → 2,4-ডাইঅ্যামিনো অ্যাজো বেনজিন (কমলা-লাল)। ব্যবহার: কাগজ, চামড়া, পাট রঞ্জন।\nঅরেঞ্জ-II: ডায়াজোকৃত সালফানিলিক অ্যাসিড + β-ন্যাফথল (ক্ষারীয় মাধ্যম, KOH)। ব্যবহার: উল, সিল্ক, নাইলন, চামড়া, কাগজ।\nমিথাইল অরেঞ্জ: ডায়াজোকৃত সালফানিলিক অ্যাসিড + N,N-ডাইমিথাইল অ্যানিলিন → হেলিয়ানথাইন; NaOH দিয়ে সোডিয়াম লবণ। অম্ল-ক্ষার টাইট্রেশনে নির্দেশক: ক্ষারীয় মাধ্যমে হলুদ (অ্যাজো), অম্লীয়ে লাল (p-কুইনয়েড)।",
+   "notes_en": "Aniline yellow (Solvent Yellow-1): benzene diazonium chloride + aniline, acidic coupling gives p-aminoazobenzene; used as solvent for oils/lacquers and as an intermediate.\nButter yellow: diazonium chloride + N,N-dimethylaniline (acidic) gives p-N,N-dimethylaminoazobenzene; colours butter, margarine, oils.\nChrysoidine: diazonium chloride + m-phenylenediamine gives 2,4-diaminoazobenzene (orange-red); dyes paper, leather, jute.\nOrange-II: diazotised sulphanilic acid + beta-naphthol (alkaline, KOH); dyes wool, silk, nylon, leather, paper.\nMethyl orange: diazotised sulphanilic acid + N,N-dimethylaniline gives helianthine, whose sodium salt (with NaOH) is methyl orange; indicator in acid-base titration: yellow (azo form) in alkali, red (p-quinoid form) in acid.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যানিলিন ইয়েলো প্রস্তুতিতে বেনজিন ডায়াজোনিয়াম ক্লোরাইডের সাথে কোন যৌগ কাপলিং করে?",
+     "question_en": "Aniline yellow forms from benzene diazonium chloride coupling with",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "c",
+       "bn": "β-ন্যাফথল",
+       "en": "beta-Naphthol"
+      },
+      {
+       "id": "d",
+       "bn": "নাইট্রোবেনজিন",
+       "en": "Nitrobenzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যানিলিনের সাথে অম্লীয় মাধ্যমে কাপলিং ঘটে p-অ্যামিনো অ্যাজো বেনজিন (অ্যানিলিন ইয়েলো) দেয়।",
+     "explanation_en": "Acidic coupling with aniline gives p-aminoazobenzene (aniline yellow).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মিথাইল অরেঞ্জ কোন কাজে ব্যবহৃত হয়?",
+     "question_en": "Methyl orange is used as",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অম্ল-ক্ষার টাইট্রেশনের নির্দেশক",
+       "en": "Indicator in acid-base titration"
+      },
+      {
+       "id": "b",
+       "bn": "মাখনের রঞ্জক",
+       "en": "Butter colourant"
+      },
+      {
+       "id": "c",
+       "bn": "তেল-লাক্ষার দ্রাবক",
+       "en": "Solvent for lacquers"
+      },
+      {
+       "id": "d",
+       "bn": "কৃত্রিম ঘি",
+       "en": "Artificial ghee"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিথাইল অরেঞ্জ অম্ল-ক্ষার টাইট্রেশনে নির্দেশক।",
+     "explanation_en": "Methyl orange serves as an indicator in acid-base titrations.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বাটার ইয়েলো প্রস্তুতিতে ব্যবহৃত কাপলিং যৌগ কোনটি?",
+     "question_en": "The coupling component used for butter yellow is",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N,N-ডাইমিথাইল অ্যানিলিন",
+       "en": "N,N-dimethylaniline"
+      },
+      {
+       "id": "b",
+       "bn": "m-ফিনাইলিন ডাইঅ্যামিন",
+       "en": "m-phenylenediamine"
+      },
+      {
+       "id": "c",
+       "bn": "β-ন্যাফথল",
+       "en": "beta-naphthol"
+      },
+      {
+       "id": "d",
+       "bn": "p-ক্রিসল",
+       "en": "p-cresol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড + N,N-ডাইমিথাইল অ্যানিলিন (অম্লীয়) → বাটার ইয়েলো।",
+     "explanation_en": "Benzene diazonium chloride + N,N-dimethylaniline (acidic) gives butter yellow.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অরেঞ্জ-II প্রস্তুতিতে কোন দুটি যৌগ কাপলিং করে?",
+     "question_en": "Orange-II is made by coupling",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডায়াজোকৃত সালফানিলিক অ্যাসিড ও β-ন্যাফথল",
+       "en": "Diazotised sulphanilic acid and beta-naphthol"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড ও অ্যানিলিন",
+       "en": "Benzene diazonium chloride and aniline"
+      },
+      {
+       "id": "c",
+       "bn": "ডায়াজোকৃত সালফানিলিক অ্যাসিড ও ডাইমিথাইল অ্যানিলিন",
+       "en": "Diazotised sulphanilic acid and dimethylaniline"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন ও ফেনল",
+       "en": "Aniline and phenol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অরেঞ্জ-II: ডায়াজোকৃত সালফানিলিক অ্যাসিড + β-ন্যাফথল (KOH), আর ডাইমিথাইল অ্যানিলিনের সাথে হলে মিথাইল অরেঞ্জ।",
+     "explanation_en": "Orange-II: diazotised sulphanilic acid + beta-naphthol (KOH); with dimethylaniline it would be methyl orange.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথাইল অরেঞ্জের ক্ষারীয় ও অম্লীয় মাধ্যমে বর্ণ যথাক্রমে কী এবং অম্লীয় মাধ্যমে কোন ক্রোমোফোর তৈরি হয়?",
+     "question_en": "Colour of methyl orange in alkaline and acidic medium, and the chromophore in acid, respectively",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হলুদ, লাল; p-কুইনয়েড",
+       "en": "Yellow, red; p-quinoid"
+      },
+      {
+       "id": "b",
+       "bn": "লাল, হলুদ; অ্যাজো",
+       "en": "Red, yellow; azo"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ, লাল; অ্যাজো",
+       "en": "Yellow, red; azo"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণহীন, নীল; নাইট্রো",
+       "en": "Colourless, blue; nitro"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্ষারীয় মাধ্যমে অ্যাজো মূলক হলুদ, অম্লীয় মাধ্যমে p-কুইনয়েড ক্রোমোফোর লাল বর্ণ দেয়।",
+     "explanation_en": "Azo form is yellow in alkali; p-quinoid chromophore is red in acid.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন রঞ্জকের প্রস্তুতিতে m-ফিনাইলিন ডাইঅ্যামিন লাগে?",
+     "question_en": "Which dye needs m-phenylenediamine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্রাইসয়ডিন",
+       "en": "Chrysoidine"
+      },
+      {
+       "id": "b",
+       "bn": "বাটার ইয়েলো",
+       "en": "Butter yellow"
+      },
+      {
+       "id": "c",
+       "bn": "অরেঞ্জ-II",
+       "en": "Orange-II"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন ইয়েলো",
+       "en": "Aniline yellow"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্রাইসয়ডিন = বেনজিন ডায়াজোনিয়াম ক্লোরাইড + m-ফিনাইলিন ডাইঅ্যামিন।",
+     "explanation_en": "Chrysoidine = benzene diazonium chloride + m-phenylenediamine.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "10.18",
+   "title_bn": "ডায়াজোনিয়াম লবণের গুরুত্ব",
+   "title_en": "Importance of diazonium salts",
+   "notes_bn": "রং শিল্পে ও জৈব যৌগ সংশ্লেষণে ডায়াজোনিয়াম লবণের অবদান বহুমুখী; এ থেকে বিভিন্ন অ্যাজো-রঞ্জক তৈরি হয়।\nসরাসরি বেনজিন থেকে যে অ্যারোমেটিক যৌগ বানানো কঠিন, তা ডায়াজোনিয়াম যৌগ থেকে সহজে পাওয়া যায়।\nক্রম: ArH → ArNO₂ → ArNH₂ → ArN₂⁺X⁻ → ArY (প্রতিস্থাপিত অ্যারিন)।\nবেনজিন → (গাঢ় HNO₃/H₂SO₄) নাইট্রোবেনজিন → (SnCl₂) অ্যানিলিন → (NaNO₂+HCl, <10°C) ডায়াজোনিয়াম ক্লোরাইড → ক্লোরো-, ব্রোমো-, আয়োডো-, সায়ানোবেনজিন, ফেনল, বেনজিন ও অ্যাজো যৌগ।",
+   "notes_en": "Diazonium salts are widely useful in the dye industry and in organic synthesis; many azo dyes come from them.\nAromatic compounds hard to make directly from benzene are easily made via diazonium compounds.\nSequence: ArH -> ArNO2 -> ArNH2 -> ArN2+X- -> ArY (substituted arene).\nBenzene -> (conc. HNO3/H2SO4) nitrobenzene -> (SnCl2) aniline -> (NaNO2+HCl, <10 C) diazonium chloride -> chloro-, bromo-, iodo-, cyanobenzene, phenol, benzene and azo compounds.",
+   "mcqs": [
+    {
+     "question_bn": "ডায়াজোনিয়াম লবণ থেকে কোন শ্রেণির রঞ্জক প্রস্তুত করা যায়?",
+     "question_en": "Diazonium salts are used to prepare which class of dyes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাজো রঞ্জক",
+       "en": "Azo dyes"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রো রঞ্জক",
+       "en": "Nitro dyes"
+      },
+      {
+       "id": "c",
+       "bn": "সালফার রঞ্জক",
+       "en": "Sulphur dyes"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এদের থেকে বিভিন্ন অ্যাজো-রঞ্জক তৈরি হয়।",
+     "explanation_en": "Various azo dyes are made from them.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজিন থেকে ডায়াজোনিয়াম লবণ পর্যন্ত সঠিক ক্রম কোনটি?",
+     "question_en": "Correct sequence from benzene to diazonium salt:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ArH → ArNH₂ → ArNO₂ → ArN₂⁺X⁻",
+       "en": "ArH -> ArNH2 -> ArNO2 -> ArN2+X-"
+      },
+      {
+       "id": "b",
+       "bn": "ArH → ArNO₂ → ArNH₂ → ArN₂⁺X⁻",
+       "en": "ArH -> ArNO2 -> ArNH2 -> ArN2+X-"
+      },
+      {
+       "id": "c",
+       "bn": "ArH → ArN₂⁺X⁻ → ArNO₂ → ArNH₂",
+       "en": "ArH -> ArN2+X- -> ArNO2 -> ArNH2"
+      },
+      {
+       "id": "d",
+       "bn": "ArH → ArY → ArNH₂",
+       "en": "ArH -> ArY -> ArNH2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নাইট্রেশন, বিজারণে অ্যামিন, তারপর ডায়াজোটাইজেশন।",
+     "explanation_en": "Nitration, reduction to amine, then diazotisation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইট্রোবেনজিন থেকে অ্যানিলিন বিজারণে কোন বিকারক চিত্রে দেখানো হয়েছে?",
+     "question_en": "Which reagent in the scheme reduces nitrobenzene to aniline?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SnCl₂",
+       "en": "SnCl2"
+      },
+      {
+       "id": "b",
+       "bn": "NaNO₂",
+       "en": "NaNO2"
+      },
+      {
+       "id": "c",
+       "bn": "KI",
+       "en": "KI"
+      },
+      {
+       "id": "d",
+       "bn": "CuCN",
+       "en": "CuCN"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "চিত্র ১০.৯ এ নাইট্রোবেনজিন → অ্যানিলিন ধাপে SnCl₂ দেখানো হয়েছে।",
+     "explanation_en": "Fig. 10.9 shows SnCl2 for the nitrobenzene to aniline step.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কেন ডায়াজোনিয়াম যৌগ সংশ্লেষণে মূল্যবান?",
+     "question_en": "Why are diazonium compounds valuable in synthesis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তারা কেবল আলিফেটিক যৌগ দেয়",
+       "en": "They give only aliphatic compounds"
+      },
+      {
+       "id": "b",
+       "bn": "সরাসরি বেনজিন থেকে কঠিন অ্যারোমেটিক যৌগ তাদের থেকে সহজে পাওয়া যায়",
+       "en": "They give aromatic compounds difficult to make directly from benzene"
+      },
+      {
+       "id": "c",
+       "bn": "তারা স্থিতিশীল কঠিন বিস্ফোরক",
+       "en": "They are stable explosives"
+      },
+      {
+       "id": "d",
+       "bn": "তারা বিক্রিয়াহীন",
+       "en": "They are unreactive"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সরাসরি প্রস্তুত করা যায় না এমন অ্যারোমেটিক যৌগ ডায়াজোনিয়াম যৌগ থেকে পাওয়া যায়।",
+     "explanation_en": "Aromatics not accessible directly from benzene are made via diazonium compounds.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "10.15",
+   "stimulus_bn": "রিমা ল্যাবরেটরিতে 0–5°C এ অ্যানিলিনের সাথে NaNO₂ ও HCl মিশিয়ে একটি দ্রবণ 'A' তৈরি করল। A দ্রবণকে (i) Cu₂Cl₂/HCl এ 100°C এ উত্তপ্ত করে যৌগ B, (ii) ফেনলের সাথে pH 7–8 এ মিশিয়ে যৌগ C, এবং (iii) জলীয় অবস্থায় 40–50°C এ উত্তপ্ত করে যৌগ D পেল।",
+   "stimulus_en": "Rima mixes aniline with NaNO2 and HCl at 0-5 C to form solution 'A'. She (i) heats A with Cu2Cl2/HCl at 100 C to get B, (ii) mixes A with phenol at pH 7-8 to get C, and (iii) warms aqueous A at 40-50 C to get D.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "কাপলিং বিক্রিয়া কী?",
+     "question_en": "What is a coupling reaction?",
+     "model_answer_bn": "ডায়াজোনিয়াম আয়ন ফেনল বা অ্যারোমেটিক অ্যামিনের বলয়ের সাথে যুক্ত হয়ে –N=N– যুক্ত রঙিন অ্যাজো যৌগ গঠনের বিক্রিয়া।",
+     "model_answer_en": "Reaction in which a diazonium ion joins the ring of a phenol or aromatic amine to form a coloured azo compound with -N=N-."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "দ্রবণ A এর জলীয় দ্রবণ কেন শুষ্ক লবণের চেয়ে বেশি ব্যবহৃত হয়?",
+     "question_en": "Why is the aqueous solution of A used rather than the dry salt?",
+     "model_answer_bn": "শুষ্ক ডায়াজোনিয়াম লবণ তাপ ও আঘাতে বিস্ফোরিত হয় এবং এটি পানিতে অত্যন্ত দ্রবণীয়, তাই জলীয় দ্রবণ নিরাপদ।",
+     "model_answer_en": "Dry diazonium salt explodes on heat/shock, while it is highly water-soluble, so the aqueous solution is safer."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "B, C ও D যৌগের নাম ও সংকেত লেখ এবং B প্রস্তুতির বিক্রিয়ার নাম দাও।",
+     "question_en": "Give names and formulas of B, C and D and name the reaction forming B.",
+     "model_answer_bn": "B = ক্লোরোবেনজিন (C₆H₅Cl), বিক্রিয়ার নাম স্যান্ডমেয়ার বিক্রিয়া; C = p-হাইড্রক্সি অ্যাজো বেনজিন (C₆H₅–N=N–C₆H₄–OH); D = ফেনল (C₆H₅OH)।",
+     "model_answer_en": "B = chlorobenzene (C6H5Cl), Sandmeyer reaction; C = p-hydroxyazobenzene (C6H5-N=N-C6H4-OH); D = phenol (C6H5OH)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "C যৌগকে কেন রঞ্জক বলা যায় তা ক্রোমোফোর ও অক্সোক্রোমের আলোকে ব্যাখ্যা কর। A দ্রবণকে Zn/HCl দ্বারা বিজারণ করলে কী পাওয়া যাবে?",
+     "question_en": "Explain why C is a dye using chromophore and auxochrome. What forms on reducing A with Zn/HCl?",
+     "model_answer_bn": "C তে –N=N– (অ্যাজো) ক্রোমোফোর আছে যা দৃশ্যমান আলোর নির্দিষ্ট তরঙ্গ শোষণ করে বর্ণ দেয়; –OH অক্সোক্রোম বর্ণকে গাঢ় করে, তাই এটি কমলা বর্ণের অ্যাজো রঞ্জক। Zn/HCl বিজারণে ফিনাইল অ্যামিন (অ্যানিলিন) ও NH₄Cl পাওয়া যায়।",
+     "model_answer_en": "C has the -N=N- chromophore absorbing specific visible wavelengths to give colour; the -OH auxochrome deepens it, so C is an orange azo dye. Zn/HCl reduction gives aniline and NH4Cl."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 582-590 read; pages 591-599 are exam-question pages (p.575 onwards: অনুশীলনী/প্রশ্ন ব্যাংক) and skipped. Fig 10.9 flow-scheme labels are small but readable."
+}

@@ -1,0 +1,1933 @@
+{
+ "chapter_no": 4,
+ "topics": [
+  {
+   "section_no": "4.1",
+   "title_bn": "ভূমিকা",
+   "title_en": "Introduction to organic chemistry",
+   "notes_bn": "জৈব রসায়ন: কার্বনঘটিত যৌগের রসায়ন; জৈব যৌগ = হাইড্রোকার্বন ও এর জাতক (H, O, N, S, P, হ্যালোজেন যুক্ত)।\nউদাহরণ: CH4, CH3Cl, CH3OH, CH3COOH।\n1808 সালে বার্জেলিয়াস জীব-উৎস যৌগকে জৈব ও খনিজ-উৎস যৌগকে অজৈব নাম দেন।\n1815: বার্জেলিয়াসের প্রাণশক্তি মতবাদ (vital force) — জৈব যৌগ শুধু জীবদেহেই তৈরি হয়।\n1828: ফ্রেডারিক ভোলার NH4CNO (অ্যামোনিয়াম সায়ানেট) গরম করে ইউরিয়া তৈরি করে মতবাদ ভুল প্রমাণ করেন; তাই তিনি জৈব রসায়নের জনক।",
+   "notes_en": "Organic chemistry = chemistry of carbon compounds; organic compounds are hydrocarbons and their derivatives (with H, O, N, S, P, halogens), e.g. CH4, CH3OH, CH3COOH.\nBerzelius (1808) named compounds from living sources organic, from minerals inorganic; in 1815 he proposed the vital force theory.\nWohler (1828) made urea (organic) by heating ammonium cyanate NH4CNO (inorganic) in the lab, disproving it; he is called the father of organic chemistry.",
+   "mcqs": [
+    {
+     "question_bn": "প্রাণশক্তি মতবাদ কে প্রস্তাব করেন?",
+     "question_en": "Who proposed the vital force theory?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ভোলার",
+       "en": "Wohler"
+      },
+      {
+       "id": "b",
+       "bn": "বার্জেলিয়াস",
+       "en": "Berzelius"
+      },
+      {
+       "id": "c",
+       "bn": "লুইস",
+       "en": "Lewis"
+      },
+      {
+       "id": "d",
+       "bn": "পলিং",
+       "en": "Pauling"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "1815 সালে বার্জেলিয়াস এ মতবাদ দেন।",
+     "explanation_en": "Berzelius proposed it in 1815.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ভোলার ল্যাবরেটরিতে কোন যৌগ থেকে ইউরিয়া তৈরি করেন?",
+     "question_en": "From which compound did Wohler prepare urea in the lab?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামোনিয়াম সায়ানেট",
+       "en": "Ammonium cyanate"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামোনিয়াম ক্লোরাইড",
+       "en": "Ammonium chloride"
+      },
+      {
+       "id": "c",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH4CNO গরম করে (পুনর্বিন্যাসে) ইউরিয়া পাওয়া যায়।",
+     "explanation_en": "Heating NH4CNO rearranges it to urea.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ভোলারের পরীক্ষা কোন ধারণা ভুল প্রমাণ করে?",
+     "question_en": "Wohler's experiment disproved which idea?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পরমাণুবাদ",
+       "en": "Atomic theory"
+      },
+      {
+       "id": "b",
+       "bn": "প্রাণশক্তি মতবাদ",
+       "en": "Vital force theory"
+      },
+      {
+       "id": "c",
+       "bn": "সংকরণ মতবাদ",
+       "en": "Hybridisation theory"
+      },
+      {
+       "id": "d",
+       "bn": "অষ্টক নিয়ম",
+       "en": "Octet rule"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অজৈব যৌগ থেকে জৈব যৌগ তৈরি হওয়ায় প্রাণশক্তি প্রয়োজন নয় বোঝা গেল।",
+     "explanation_en": "An organic compound was made from an inorganic one without any vital force.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ভোলারের বিক্রিয়ায় কোন যৌগ আয়নিক এবং কোনটি সমযোজী?",
+     "question_en": "In Wohler's reaction, which is ionic and which is covalent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH4CNO সমযোজী, ইউরিয়া আয়নিক",
+       "en": "NH4CNO covalent, urea ionic"
+      },
+      {
+       "id": "b",
+       "bn": "দুটিই আয়নিক",
+       "en": "Both ionic"
+      },
+      {
+       "id": "c",
+       "bn": "NH4CNO আয়নিক, ইউরিয়া সমযোজী",
+       "en": "NH4CNO ionic, urea covalent"
+      },
+      {
+       "id": "d",
+       "bn": "দুটিই সমযোজী",
+       "en": "Both covalent"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে অ্যামোনিয়াম সায়ানেটকে আয়নিক ও ইউরিয়াকে সমযোজী দেখানো হয়েছে।",
+     "explanation_en": "The book shows ammonium cyanate as ionic and urea as covalent.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.2",
+   "title_bn": "জৈব যৌগ গঠনে কার্বন মৌলের বিশিষ্টতা",
+   "title_en": "Speciality of carbon in forming organic compounds",
+   "notes_bn": "কার্বনের কারণে জৈব যৌগের সংখ্যা 80 লক্ষের বেশি (অজৈব প্রায় 1 লক্ষ)।\nকারণ: (1) ক্যাটেনেশন (2) সমাণুতা (3) পলিমারকরণ (4) তড়িৎ ঋণাত্মকতা ও বন্ধন শক্তি।\nক্যাটেনেশন: কার্বন পরমাণুর নিজেদের মধ্যে যুক্ত হয়ে শিকল/বলয় গঠনের ক্ষমতা; sp3 দ্বারা সম্পৃক্ত, sp2/sp দ্বারা অসম্পৃক্ত শিকল।\nC–C বন্ধন শক্তি 347 kJ/mol (N–N 163); কার্বনের তড়িৎ ঋণাত্মকতা 2.5, ব্যাসার্ধ 0.077 nm।\nফুলারিন (1985): C60 ইত্যাদি, sp2 কার্বন, ফুটবলের মতো গঠন।\nসমাণু: আণবিক সংকেত এক, গাঠনিক ভিন্ন (C2H6O: ইথানল ও ডাইমিথাইল ইথার)। পলিমারকরণ: ইথিলিন → পলিথিন।",
+   "notes_en": "Over 8 million organic compounds vs ~1 lakh inorganic, because of carbon's (1) catenation (2) isomerism (3) polymerisation (4) electronegativity and bond strength.\nCatenation: chains/rings of C atoms (sp3 saturated; sp2, sp unsaturated). C–C bond energy 347 kJ/mol (N–N 163); carbon electronegativity 2.5, radius 0.077 nm.\nFullerenes (1985), e.g. C60, are sp2 carbon cages shaped like a football.\nIsomers share a molecular formula but differ in structure (C2H6O: ethanol, dimethyl ether). Polymerisation: ethene -> polythene.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বনের শিকল গঠনের ক্ষমতাকে কী বলে?",
+     "question_en": "What is the ability of carbon to form chains called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সমাণুতা",
+       "en": "Isomerism"
+      },
+      {
+       "id": "b",
+       "bn": "ক্যাটেনেশন",
+       "en": "Catenation"
+      },
+      {
+       "id": "c",
+       "bn": "পলিমারকরণ",
+       "en": "Polymerisation"
+      },
+      {
+       "id": "d",
+       "bn": "সংকরণ",
+       "en": "Hybridisation"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বনের নিজেদের মধ্যে যুক্ত হওয়ার ধর্ম ক্যাটেনেশন।",
+     "explanation_en": "Self-linking of carbon atoms is catenation.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "C–C বন্ধনের শক্তি কত (বই অনুযায়ী)?",
+     "question_en": "What is the C–C bond energy (per the book)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "163 kJ/mol",
+       "en": "163 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "347 kJ/mol",
+       "en": "347 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "413 kJ/mol",
+       "en": "413 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "612 kJ/mol",
+       "en": "612 kJ/mol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C–C = 347 kJ/mol; 163 হল N–N এর।",
+     "explanation_en": "C–C is 347 kJ/mol; 163 is N–N.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C2H6O সংকেতের দুটি যৌগ (ইথানল ও ডাইমিথাইল ইথার) কোন ধর্মের উদাহরণ?",
+     "question_en": "Ethanol and dimethyl ether (both C2H6O) illustrate which phenomenon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পলিমারকরণ",
+       "en": "Polymerisation"
+      },
+      {
+       "id": "b",
+       "bn": "ক্যাটেনেশন",
+       "en": "Catenation"
+      },
+      {
+       "id": "c",
+       "bn": "সমাণুতা",
+       "en": "Isomerism"
+      },
+      {
+       "id": "d",
+       "bn": "সমগোত্রতা",
+       "en": "Homology"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "একই আণবিক সংকেত, ভিন্ন গাঠনিক সংকেত = সমাণুতা।",
+     "explanation_en": "Same molecular, different structural formula = isomerism.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফুলারিন C60 এর কার্বন পরমাণুগুলো কোন সংকরণে থাকে?",
+     "question_en": "In fullerene C60 the carbon atoms are in which hybrid state?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp3",
+       "en": "sp3"
+      },
+      {
+       "id": "b",
+       "bn": "sp2",
+       "en": "sp2"
+      },
+      {
+       "id": "c",
+       "bn": "sp",
+       "en": "sp"
+      },
+      {
+       "id": "d",
+       "bn": "dsp2",
+       "en": "dsp2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী ফুলারিনে 60টি C পরমাণু sp2 অবস্থায় থাকে।",
+     "explanation_en": "The book states the six-membered rings of C60 are sp2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.3",
+   "title_bn": "জৈব যৌগ ও অজৈব যৌগের পার্থক্যসূচক বৈশিষ্ট্য",
+   "title_en": "Distinguishing features of organic and inorganic compounds",
+   "notes_bn": "সংযুক্তি: জৈব যৌগে C অবশ্যই থাকে (সাথে H, O, N, S, P ...)।\nবন্ধন: জৈব — প্রধানত সমযোজী; অজৈব — অধিকাংশ আয়নিক বা সমযোজী।\nগলনাঙ্ক/স্ফুটনাঙ্ক: জৈব নিম্ন (সাধারণত 350°C এর নিচে); অজৈব উচ্চ (প্রায়শ 700°C এর ঊর্ধ্বে)।\nদ্রাব্যতা: জৈব — অপোলার দ্রাবকে (ইথার, বেনজিন) দ্রবণীয়, পানিতে সাধারণত নয়; অজৈব — পানিতে দ্রবণীয়।\nতড়িৎ: জৈব যৌগ গলিত/দ্রবণে তড়িৎ অপরিবাহী; অজৈব বিদ্যুৎ বিশ্লেষ্য।\nজৈব বিক্রিয়া জটিল ও মন্থর; অজৈব আয়নিক ও দ্রুত। জৈব যৌগ দহনে CO2 ও H2O দেয়।",
+   "notes_en": "Organic: always contain C; mostly covalent; low m.p./b.p. (generally below 350 C); soluble in non-polar solvents (ether, benzene); non-conductors; combustible; slow, complex reactions; homologous series common.\nInorganic: any elements; often ionic; high m.p./b.p. (often above 700 C, e.g. NaCl 815 C); soluble in water; electrolytes; usually not combustible; fast ionic reactions.",
+   "mcqs": [
+    {
+     "question_bn": "কোন বৈশিষ্ট্যটি জৈব যৌগের?",
+     "question_en": "Which property is typical of organic compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উচ্চ গলনাঙ্ক",
+       "en": "High melting point"
+      },
+      {
+       "id": "b",
+       "bn": "তড়িৎ বিশ্লেষ্য",
+       "en": "Electrolytic"
+      },
+      {
+       "id": "c",
+       "bn": "দহনযোগ্য",
+       "en": "Combustible"
+      },
+      {
+       "id": "d",
+       "bn": "পানিতে অবশ্যই দ্রবণীয়",
+       "en": "Always water soluble"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "জৈব যৌগ সাধারণত পুড়ে CO2 ও H2O দেয়।",
+     "explanation_en": "Organic compounds generally burn to CO2 and H2O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NaCl এর গলনাঙ্ক বইয়ে কত দেওয়া আছে?",
+     "question_en": "What melting point does the book give for NaCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "65°C",
+       "en": "65 C"
+      },
+      {
+       "id": "b",
+       "bn": "121°C",
+       "en": "121 C"
+      },
+      {
+       "id": "c",
+       "bn": "350°C",
+       "en": "350 C"
+      },
+      {
+       "id": "d",
+       "bn": "815°C",
+       "en": "815 C"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "NaCl আয়নিক, গলনাঙ্ক 815°C।",
+     "explanation_en": "NaCl is ionic with m.p. 815 C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জৈব যৌগ গলিত অবস্থায় তড়িৎ পরিবহন করে না কেন?",
+     "question_en": "Why do organic compounds not conduct in the molten state?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এরা আয়নিত হয় না",
+       "en": "They do not ionise"
+      },
+      {
+       "id": "b",
+       "bn": "এদের গলনাঙ্ক কম",
+       "en": "Low melting point"
+      },
+      {
+       "id": "c",
+       "bn": "এরা দাহ্য",
+       "en": "They are combustible"
+      },
+      {
+       "id": "d",
+       "bn": "এরা পানিতে অদ্রবণীয়",
+       "en": "Insoluble in water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সমযোজী বলে আয়ন তৈরি হয় না।",
+     "explanation_en": "Being covalent, they give no ions.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন জোড়ার গলনাঙ্ক বইয়ের মান অনুযায়ী সঠিক?",
+     "question_en": "Which pair matches the book's values?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজয়িক এসিড 121°C; NaCl 815°C",
+       "en": "Benzoic acid 121 C; NaCl 815 C"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজয়িক এসিড 815°C; NaCl 121°C",
+       "en": "Benzoic acid 815 C; NaCl 121 C"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজয়িক এসিড 65°C; NaCl 121°C",
+       "en": "Benzoic acid 65 C; NaCl 121 C"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজয়িক এসিড 350°C; NaCl 65°C",
+       "en": "Benzoic acid 350 C; NaCl 65 C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "জৈব যৌগের গলনাঙ্ক নিম্ন, আয়নিক NaCl এর উচ্চ।",
+     "explanation_en": "Organic m.p. is low, ionic NaCl high.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.4",
+   "title_bn": "সমযোজী বন্ধনের ইলেকট্রনীয় তত্ত্ব",
+   "title_en": "Electronic theory of covalent bond",
+   "notes_bn": "1916 সালে লুইস প্রস্তাব করেন: সমান/প্রায় সমান তড়িৎ রাসায়নিক প্রকৃতির পরমাণু ইলেকট্রন জোড় শেয়ার করে নিষ্ক্রিয় গ্যাসের বিন্যাস অর্জন করে — একে সমযোজী বন্ধন বলে।\nC(6) = 1s² 2s² 2p¹ 2p¹ → মূল অবস্থায় যোজ্যতা 2; উদ্দীপিত C*(6) = 1s² 2s¹ 2p¹ 2p¹ 2p¹ → যোজ্যতা 4।\nতাই জৈব যৌগে কার্বন চতুর্যোজী।\nমিথেন CH4: 4টি সমযোজী বন্ধন; ইথেন C2H6: 7টি; ইথিলিন: C=C দ্বিবন্ধন; অ্যাসিটিলিন: C≡C ত্রিবন্ধন; মিথাইল অ্যালকোহল CH3OH: 5টি বন্ধন।",
+   "notes_en": "Lewis (1916): atoms of similar electronegativity share electron pairs to attain a noble-gas configuration (covalent bond).\nGround-state C has 2 unpaired electrons (valency 2); excited C* (2s1 2p1 2p1 2p1) has 4, hence tetravalent.\nCH4 has 4 covalent bonds, C2H6 has 7, ethene has C=C, ethyne has C≡C, CH3OH has 5.",
+   "mcqs": [
+    {
+     "question_bn": "লুইসের সমযোজী বন্ধনের তত্ত্ব কত সালে প্রকাশিত হয়?",
+     "question_en": "In which year did Lewis publish the covalent bond theory?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1808",
+       "en": "1808"
+      },
+      {
+       "id": "b",
+       "bn": "1828",
+       "en": "1828"
+      },
+      {
+       "id": "c",
+       "bn": "1916",
+       "en": "1916"
+      },
+      {
+       "id": "d",
+       "bn": "1985",
+       "en": "1985"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "1916 সালে লুইস এ তত্ত্ব দেন।",
+     "explanation_en": "Lewis proposed it in 1916.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথেন (C2H6) অণুতে মোট সমযোজী বন্ধন সংখ্যা কত?",
+     "question_en": "How many covalent bonds are in ethane (C2H6)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "b",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "c",
+       "bn": "7",
+       "en": "7"
+      },
+      {
+       "id": "d",
+       "bn": "8",
+       "en": "8"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "1টি C–C + 6টি C–H = 7।",
+     "explanation_en": "1 C–C + 6 C–H = 7.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উদ্দীপিত কার্বনের ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Which is the excited-state configuration of carbon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1s² 2s² 2p²",
+       "en": "1s2 2s2 2p2"
+      },
+      {
+       "id": "b",
+       "bn": "1s² 2s¹ 2p³",
+       "en": "1s2 2s1 2p3"
+      },
+      {
+       "id": "c",
+       "bn": "1s² 2s⁰ 2p⁴",
+       "en": "1s2 2s0 2p4"
+      },
+      {
+       "id": "d",
+       "bn": "1s² 2s² 2p⁴",
+       "en": "1s2 2s2 2p4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2s থেকে একটি e⁻ খালি 2pz তে যায়।",
+     "explanation_en": "One 2s electron moves to the vacant 2pz orbital.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH3OH অণুতে কয়টি সমযোজী বন্ধন আছে?",
+     "question_en": "How many covalent bonds does CH3OH have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "b",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "c",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "d",
+       "bn": "7",
+       "en": "7"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "3 C–H + 1 C–O + 1 O–H = 5।",
+     "explanation_en": "3 C–H + C–O + O–H = 5.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.5",
+   "title_bn": "সমযোজী বন্ধনের প্রকারভেদ ও আধুনিক অরবিটাল মতবাদ",
+   "title_en": "Types of covalent bonds and orbital theory",
+   "notes_bn": "আধুনিক মতবাদ: দুই পরমাণুর অরবিটাল আংশিক অধিক্রমণ করলে সমযোজী বন্ধন; যত বেশি অধিক্রমণ তত দৃঢ় বন্ধন। অধিক্রমণে ইলেকট্রনের স্পিন বিপরীত হতে হবে।\nসিগমা (σ) বন্ধন: অরবিটাল মুখোমুখি, নিজ অক্ষ বরাবর অধিক্রমণ; s–s, s–p, p–p সম্ভব; দৃঢ়; বন্ধনের চারপাশে ঘূর্ণন সম্ভব।\nপাই (π) বন্ধন: দুটি সমান্তরাল p অরবিটালের পাশাপাশি আংশিক অধিক্রমণ; অক্ষের ওপর-নিচে ইলেকট্রন মেঘ; σ এর চেয়ে দুর্বল; ঘূর্ণন সম্ভব নয়।\nএকক বন্ধন = σ; দ্বিবন্ধন = 1σ+1π; ত্রিবন্ধন = 1σ+2π। π কেবল σ গঠনের পর সম্ভব।",
+   "notes_en": "Covalent bond = partial overlap of atomic orbitals with opposite-spin electrons; more overlap, stronger bond.\nSigma (σ): head-on overlap along the internuclear axis (s–s, s–p, p–p); strong; free rotation.\nPi (π): sideways overlap of parallel p orbitals; electron cloud above and below the axis; weaker; no free rotation; forms only after a σ bond.\nSingle = σ; double = σ+π; triple = σ+2π.",
+   "mcqs": [
+    {
+     "question_bn": "π বন্ধন কোন অরবিটাল অধিক্রমণে সৃষ্টি হয়?",
+     "question_en": "A π bond forms by overlap of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "s–s",
+       "en": "s–s"
+      },
+      {
+       "id": "b",
+       "bn": "s–p মুখোমুখি",
+       "en": "s–p head-on"
+      },
+      {
+       "id": "c",
+       "bn": "সমান্তরাল p–p পাশাপাশি",
+       "en": "parallel p–p sideways"
+      },
+      {
+       "id": "d",
+       "bn": "sp3–sp3",
+       "en": "sp3–sp3"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "π বন্ধন পাশাপাশি অধিক্রমণে হয়।",
+     "explanation_en": "π bonds arise from sideways overlap.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি বেশি দৃঢ়?",
+     "question_en": "Which is stronger?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "σ বন্ধন",
+       "en": "σ bond"
+      },
+      {
+       "id": "b",
+       "bn": "π বন্ধন",
+       "en": "π bond"
+      },
+      {
+       "id": "c",
+       "bn": "দুটি সমান",
+       "en": "Equal"
+      },
+      {
+       "id": "d",
+       "bn": "বলা যায় না",
+       "en": "Cannot say"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "σ এ অধিক্রমণ বেশি বলে দৃঢ়।",
+     "explanation_en": "σ has greater overlap.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি ত্রিবন্ধনে σ ও π বন্ধনের সংখ্যা কত?",
+     "question_en": "Number of σ and π bonds in a triple bond:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2σ, 1π",
+       "en": "2σ, 1π"
+      },
+      {
+       "id": "b",
+       "bn": "1σ, 2π",
+       "en": "1σ, 2π"
+      },
+      {
+       "id": "c",
+       "bn": "3σ",
+       "en": "3σ"
+      },
+      {
+       "id": "d",
+       "bn": "3π",
+       "en": "3π"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ত্রিবন্ধন = 1σ + 2π।",
+     "explanation_en": "Triple = 1σ + 2π.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কেন π বন্ধন থাকলে বন্ধন অক্ষ ঘিরে ঘূর্ণন সম্ভব নয়?",
+     "question_en": "Why is rotation about the axis impossible with a π bond?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "π বন্ধন ভাঙতে হয় — অধিক্রমণ পাশাপাশি অরবিটালে সীমাবদ্ধ",
+       "en": "Rotation would break the sideways overlap of parallel p orbitals"
+      },
+      {
+       "id": "b",
+       "bn": "σ বন্ধন নেই",
+       "en": "No σ bond exists"
+      },
+      {
+       "id": "c",
+       "bn": "π বন্ধন শক্তিশালী",
+       "en": "π is stronger than σ"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বন ভারী",
+       "en": "Carbon is heavy"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ঘোরালে p অরবিটালের সমান্তরালতা ও অধিক্রমণ নষ্ট হয়।",
+     "explanation_en": "Rotating destroys the parallel overlap.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.6",
+   "title_bn": "পারমাণবিক অরবিটাল সংকরণ ও কার্বনের চতুর্যোজ্যতা",
+   "title_en": "Hybridisation and tetravalency of carbon",
+   "notes_bn": "মিথেনে চারটি C–H বন্ধন সমশক্তির — উদ্দীপিত কার্বনের 2s ও 2p এর পৃথক শক্তি দ্বারা ব্যাখ্যা করা যায় না; তাই পলিং সংকরণ মতবাদ দেন।\nsp³ সংকরণ: 2s + তিনটি 2p মিশে চারটি সমশক্তির sp³ অরবিটাল; কোণ 109°28' (≈109.5°); 25% s ও 75% p চরিত্র; চতুস্তলকীয়।\nমিথেনে 4টি C–H σ বন্ধন, C–H দূরত্ব 0.110 nm।\nইথেনে C–C 0.154 nm, C–H 0.110 nm, বন্ধন কোণ 109.5°।",
+   "notes_en": "Four equivalent C–H bonds in methane are explained by hybridisation (Pauling).\nsp3: 2s + three 2p -> four equivalent sp3 orbitals, 109 deg 28', 25% s and 75% p character, tetrahedral.\nCH4: four σ C–H bonds, 0.110 nm. Ethane: C–C 0.154 nm, C–H 0.110 nm, angle 109.5 deg.",
+   "mcqs": [
+    {
+     "question_bn": "sp³ সংকর অরবিটালে s-চরিত্র কত?",
+     "question_en": "What is the s-character of an sp3 orbital?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "25%",
+       "en": "25%"
+      },
+      {
+       "id": "b",
+       "bn": "33.3%",
+       "en": "33.3%"
+      },
+      {
+       "id": "c",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "d",
+       "bn": "75%",
+       "en": "75%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1s : 3p = 25% : 75%।",
+     "explanation_en": "1 s : 3 p = 25% : 75%.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মিথেনের বন্ধন কোণ কত?",
+     "question_en": "Bond angle in methane:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "90°",
+       "en": "90"
+      },
+      {
+       "id": "b",
+       "bn": "109°28'",
+       "en": "109 28'"
+      },
+      {
+       "id": "c",
+       "bn": "120°",
+       "en": "120"
+      },
+      {
+       "id": "d",
+       "bn": "180°",
+       "en": "180"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "sp³ চতুস্তলকীয়।",
+     "explanation_en": "sp3 tetrahedral.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথেনে C–C বন্ধন দৈর্ঘ্য কত?",
+     "question_en": "C–C bond length in ethane:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.110 nm",
+       "en": "0.110 nm"
+      },
+      {
+       "id": "b",
+       "bn": "0.120 nm",
+       "en": "0.120 nm"
+      },
+      {
+       "id": "c",
+       "bn": "0.134 nm",
+       "en": "0.134 nm"
+      },
+      {
+       "id": "d",
+       "bn": "0.154 nm",
+       "en": "0.154 nm"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "sp³–sp³ σ বন্ধন 0.154 nm।",
+     "explanation_en": "0.154 nm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সংকরণ মতবাদ কেন প্রয়োজন হয়?",
+     "question_en": "Why was hybridisation theory needed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথেনের চারটি C–H বন্ধন সমশক্তির ব্যাখ্যায়",
+       "en": "To explain four equivalent C–H bonds in methane"
+      },
+      {
+       "id": "b",
+       "bn": "C এর পারমাণবিক সংখ্যা ব্যাখ্যায়",
+       "en": "Atomic number of C"
+      },
+      {
+       "id": "c",
+       "bn": "H2 গঠনে",
+       "en": "H2 formation"
+      },
+      {
+       "id": "d",
+       "bn": "আয়নিক বন্ধনে",
+       "en": "Ionic bonding"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2s ও 2p ভিন্ন শক্তির হলেও বন্ধনগুলো সমশক্তির।",
+     "explanation_en": "Bonds are equivalent although 2s and 2p differ in energy.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.7",
+   "title_bn": "কার্বনের sp² সংকরণ ও ইথিন অণুর গঠন",
+   "title_en": "sp2 hybridisation and structure of ethene",
+   "notes_bn": "sp²: 2s + দুটি 2p মিশে তিনটি sp² অরবিটাল; একই তলে 120° কোণ; 33.3% s ও 66.7% p চরিত্র; একটি 2pz অবিকৃত থাকে।\nইথিনে প্রতি C এর তিনটি sp²: C–C σ (sp²–sp²) ও চারটি C–H σ; দুটি 2pz পাশাপাশি অধিক্রমণে একটি π বন্ধন।\nC=C = 1σ + 1π; দূরত্ব 0.134 nm; ∠H–C–H ও ∠H–C–C 120°; আকৃতি সমতলীয় ত্রিকোণাকার।",
+   "notes_en": "sp2: 2s + two 2p -> three sp2 orbitals in one plane at 120 deg, 33.3% s / 66.7% p; one 2pz stays unhybridised.\nEthene: C–C σ (sp2–sp2), four C–H σ, plus one π from sideways overlap of the two 2pz orbitals. C=C = 1σ+1π, 0.134 nm; planar trigonal, 120 deg.",
+   "mcqs": [
+    {
+     "question_bn": "sp² সংকর অরবিটালের মধ্যবর্তী কোণ?",
+     "question_en": "Angle between sp2 orbitals:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "90°",
+       "en": "90"
+      },
+      {
+       "id": "b",
+       "bn": "109.5°",
+       "en": "109.5"
+      },
+      {
+       "id": "c",
+       "bn": "120°",
+       "en": "120"
+      },
+      {
+       "id": "d",
+       "bn": "180°",
+       "en": "180"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সমতলীয় ত্রিকোণাকার।",
+     "explanation_en": "Trigonal planar.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথিনে C=C দূরত্ব কত?",
+     "question_en": "C=C length in ethene:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.154 nm",
+       "en": "0.154"
+      },
+      {
+       "id": "b",
+       "bn": "0.134 nm",
+       "en": "0.134"
+      },
+      {
+       "id": "c",
+       "bn": "0.120 nm",
+       "en": "0.120"
+      },
+      {
+       "id": "d",
+       "bn": "0.110 nm",
+       "en": "0.110"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের মান 0.134 nm।",
+     "explanation_en": "0.134 nm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথিনে মোট σ ও π বন্ধন সংখ্যা কত?",
+     "question_en": "Total σ and π bonds in ethene:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4σ, 1π",
+       "en": "4σ, 1π"
+      },
+      {
+       "id": "b",
+       "bn": "5σ, 1π",
+       "en": "5σ, 1π"
+      },
+      {
+       "id": "c",
+       "bn": "5σ, 2π",
+       "en": "5σ, 2π"
+      },
+      {
+       "id": "d",
+       "bn": "6σ, 0π",
+       "en": "6σ, 0π"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "1 C–C σ + 4 C–H σ = 5σ; 1π।",
+     "explanation_en": "1+4 = 5σ, and 1π.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "sp² সংকরণে কোন অরবিটাল অবিকৃত থাকে এবং কী গঠন করে?",
+     "question_en": "Which orbital remains unhybridised in sp2 and what does it form?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2s; σ",
+       "en": "2s; σ"
+      },
+      {
+       "id": "b",
+       "bn": "একটি 2p; π বন্ধন",
+       "en": "One 2p; π bond"
+      },
+      {
+       "id": "c",
+       "bn": "সব 2p; σ",
+       "en": "All 2p; σ"
+      },
+      {
+       "id": "d",
+       "bn": "1s; π",
+       "en": "1s; π"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অবিকৃত 2pz পাশাপাশি অধিক্রমণে π গঠন করে।",
+     "explanation_en": "Unhybridised 2pz forms the π bond.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.8",
+   "title_bn": "কার্বনের sp সংকরণ ও ইথাইন অণুর গঠনাকৃতি",
+   "title_en": "sp hybridisation and structure of ethyne",
+   "notes_bn": "sp: 2s + একটি 2p মিশে দুটি sp অরবিটাল; 50% s ও 50% p; সরলরৈখিক, কোণ 180°; দুটি 2p অবিকৃত।\nইথাইন H–C≡C–H: C–C σ (sp–sp), দুটি C–H σ, এবং দুই জোড়া অবিকৃত p এর পাশাপাশি অধিক্রমণে দুটি π; মোট 3σ ও 2π।\nC≡C দূরত্ব 0.120 nm, C–H 0.106 nm; ∠H–C–C 180°।\nC≡C দূরত্ব C=C (0.134) এর চেয়ে কম, কারণ sp তে s-চরিত্র বেশি (50% বনাম 33.3%) হওয়ায় নিউক্লিয়াস অধিক আকর্ষণ করে।\nতুলনা: ইথেন sp³ 25% 109.5° 0.154 nm; ইথিন sp² 33.3% 120° 0.134; ইথাইন sp 50% 180° 0.120।",
+   "notes_en": "sp: 2s + one 2p -> two sp orbitals, 50% s / 50% p, linear 180 deg; two 2p remain unhybridised.\nEthyne: 1 C–C σ, 2 C–H σ, 2 π; C≡C 0.120 nm, C–H 0.106 nm, 180 deg.\nShorter than C=C (0.134 nm) because greater s-character (50% vs 33.3%) pulls nuclei closer.\nSummary: ethane sp3/25%/109.5/0.154; ethene sp2/33.3%/120/0.134; ethyne sp/50%/180/0.120.",
+   "mcqs": [
+    {
+     "question_bn": "ইথাইনের আকৃতি কেমন?",
+     "question_en": "Shape of ethyne:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সরলরৈখিক",
+       "en": "Linear"
+      },
+      {
+       "id": "b",
+       "bn": "সমতলীয় ত্রিকোণাকার",
+       "en": "Trigonal planar"
+      },
+      {
+       "id": "c",
+       "bn": "চতুস্তলকীয়",
+       "en": "Tetrahedral"
+      },
+      {
+       "id": "d",
+       "bn": "বঙ্কিম",
+       "en": "Bent"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "sp সংকরণে 180°।",
+     "explanation_en": "sp gives 180 deg.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "sp সংকর অরবিটালে p-চরিত্র কত?",
+     "question_en": "p-character of an sp orbital:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "25%",
+       "en": "25%"
+      },
+      {
+       "id": "b",
+       "bn": "33.3%",
+       "en": "33.3%"
+      },
+      {
+       "id": "c",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "d",
+       "bn": "66.7%",
+       "en": "66.7%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "1s:1p = 50:50।",
+     "explanation_en": "50%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথাইনের C≡C দূরত্ব?",
+     "question_en": "C≡C length:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.106 nm",
+       "en": "0.106"
+      },
+      {
+       "id": "b",
+       "bn": "0.120 nm",
+       "en": "0.120"
+      },
+      {
+       "id": "c",
+       "bn": "0.134 nm",
+       "en": "0.134"
+      },
+      {
+       "id": "d",
+       "bn": "0.154 nm",
+       "en": "0.154"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 0.120 nm।",
+     "explanation_en": "0.120 nm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C≡C দূরত্ব C=C এর চেয়ে কম কেন?",
+     "question_en": "Why is C≡C shorter than C=C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp তে s-চরিত্র বেশি",
+       "en": "Greater s-character in sp"
+      },
+      {
+       "id": "b",
+       "bn": "sp তে p-চরিত্র বেশি",
+       "en": "Greater p-character"
+      },
+      {
+       "id": "c",
+       "bn": "কার্বন ছোট",
+       "en": "Carbon is smaller"
+      },
+      {
+       "id": "d",
+       "bn": "H সংখ্যা কম",
+       "en": "Fewer H atoms"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "s-চরিত্র বেশি হলে নিউক্লিয়াস কাছে আসে।",
+     "explanation_en": "Greater s-character pulls nuclei together.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.9",
+   "title_bn": "জৈব যৌগের শ্রেণীবিভাগ",
+   "title_en": "Classification of organic compounds",
+   "notes_bn": "মূল দুই শ্রেণী: মুক্ত শিকল (অ্যালিফেটিক) ও বদ্ধ শিকল (বলয়াকার)।\nঅ্যালিফেটিক: সম্পৃক্ত (শুধু একক বন্ধন: ইথেন, প্রোপেন) ও অসম্পৃক্ত (দ্বি/ত্রিবন্ধন: ইথিন, ইথাইন)।\nবদ্ধ শিকল: কার্বোসাইক্লিক (শুধু কার্বন বলয়) ও হেটোরোসাইক্লিক (বলয়ে O, N, S ইত্যাদি)।\nকার্বোসাইক্লিক = অ্যালিসাইক্লিক (সাইক্লোপ্রোপেন, সাইক্লোহেক্সেন) + অ্যারোমেটিক (বেনজিন, ফেনল, ন্যাফথালিন)।\nহেটোরোসাইক্লিক = হেটারো অ্যালিসাইক্লিক (ইথিলিন অক্সাইড) + হেটারো অ্যারোমেটিক (ফিউরান, থায়োফিন, পিরিডিন)।",
+   "notes_en": "Two main classes: open-chain (aliphatic) and closed-chain (cyclic).\nAliphatic: saturated (single bonds only) and unsaturated (double/triple).\nCyclic: carbocyclic (ring of C only) and heterocyclic (ring includes O, N, S).\nCarbocyclic = alicyclic (cyclopropane, cyclohexane) + aromatic (benzene, phenol, naphthalene).\nHeterocyclic = hetero-alicyclic (ethylene oxide) + hetero-aromatic (furan, thiophene, pyridine).",
+   "mcqs": [
+    {
+     "question_bn": "সাইক্লোপ্রোপেন কোন শ্রেণীর?",
+     "question_en": "Cyclopropane belongs to:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যারোমেটিক",
+       "en": "Aromatic"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালিসাইক্লিক",
+       "en": "Alicyclic"
+      },
+      {
+       "id": "c",
+       "bn": "হেটোরোসাইক্লিক",
+       "en": "Heterocyclic"
+      },
+      {
+       "id": "d",
+       "bn": "মুক্ত শিকল",
+       "en": "Open chain"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বন-বলয়, ধর্মে অ্যালিফেটিকের মতো।",
+     "explanation_en": "Carbon ring behaving like aliphatics.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "থায়োফিন কোন ধরনের যৌগ?",
+     "question_en": "Thiophene is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বোসাইক্লিক",
+       "en": "Carbocyclic"
+      },
+      {
+       "id": "b",
+       "bn": "হেটারো অ্যারোমেটিক",
+       "en": "Hetero-aromatic"
+      },
+      {
+       "id": "c",
+       "bn": "অসম্পৃক্ত অ্যালিফেটিক",
+       "en": "Unsaturated aliphatic"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালিসাইক্লিক",
+       "en": "Alicyclic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বলয়ে সালফার আছে।",
+     "explanation_en": "Ring contains S.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথিলিন অক্সাইড কোন শ্রেণীর?",
+     "question_en": "Ethylene oxide is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হেটারো অ্যালিসাইক্লিক",
+       "en": "Hetero-alicyclic"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যারোমেটিক",
+       "en": "Aromatic"
+      },
+      {
+       "id": "c",
+       "bn": "সম্পৃক্ত অ্যালিফেটিক",
+       "en": "Saturated aliphatic"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বোসাইক্লিক",
+       "en": "Carbocyclic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বলয়ে O আছে, অ্যারোমেটিক নয়।",
+     "explanation_en": "O in ring, non-aromatic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি অসম্পৃক্ত অ্যালিফেটিক?",
+     "question_en": "Which is an unsaturated aliphatic compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপেন",
+       "en": "Propane"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইন",
+       "en": "Ethyne"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ইথাইনে C≡C আছে।",
+     "explanation_en": "Ethyne has C≡C.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.10",
+   "title_bn": "কার্যকরী মূলক",
+   "title_en": "Functional groups",
+   "notes_bn": "কার্যকরী মূলক: যৌগের অণুতে যে পরমাণু বা মূলক ঐ যৌগের ধর্ম ও বিক্রিয়া নির্ধারণ করে।\n–OH (অ্যালকোহল), –CHO (অ্যালডিহাইড), >C=O (কিটোন), –COOH (কার্বক্সিলিক এসিড), –NH2 (অ্যামিন), –COOR (এস্টার), –CN (নাইট্রাইল), –NO2 (নাইট্রো), –SO3H (সালফোনিক এসিড), –X (হ্যালাইড)।\nঅ্যালকিনের কার্যকরী মূলক C=C, অ্যালকাইনের C≡C।\nঅ্যালকোহল 1°, 2°, 3° ভেদে: RCH2OH, R2CHOH, R3C–OH।\nমিথানল ও ইথানলের ধর্ম –OH এর ওপর নির্ভরশীল।",
+   "notes_en": "A functional group is the atom/group that determines the properties and reactions of a compound.\n–OH alcohol, –CHO aldehyde, >C=O ketone, –COOH carboxylic acid, –NH2 amine, –COOR ester, –CN nitrile, –NO2 nitro, –SO3H sulfonic acid, –X halide. Alkene: C=C; alkyne: C≡C.\nAlcohols: primary RCH2OH, secondary R2CHOH, tertiary R3COH.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালডিহাইডের কার্যকরী মূলক?",
+     "question_en": "Functional group of aldehydes:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–OH",
+       "en": "–OH"
+      },
+      {
+       "id": "b",
+       "bn": "–CHO",
+       "en": "–CHO"
+      },
+      {
+       "id": "c",
+       "bn": "–COOH",
+       "en": "–COOH"
+      },
+      {
+       "id": "d",
+       "bn": "–NH2",
+       "en": "–NH2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "R–CHO।",
+     "explanation_en": "R–CHO.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "R2CHOH কোন অ্যালকোহল?",
+     "question_en": "R2CHOH is a:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1°",
+       "en": "Primary"
+      },
+      {
+       "id": "b",
+       "bn": "2°",
+       "en": "Secondary"
+      },
+      {
+       "id": "c",
+       "bn": "3°",
+       "en": "Tertiary"
+      },
+      {
+       "id": "d",
+       "bn": "কিটোন",
+       "en": "Ketone"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "–CHOH এ C এর সাথে দুটি R যুক্ত।",
+     "explanation_en": "Two R groups on the carbinol C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "–COOH কার্যকরী মূলকের নাম?",
+     "question_en": "–COOH is called:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হাইড্রক্সিল",
+       "en": "Hydroxyl"
+      },
+      {
+       "id": "b",
+       "bn": "কার্বনাইল",
+       "en": "Carbonyl"
+      },
+      {
+       "id": "c",
+       "bn": "কার্বক্সিল",
+       "en": "Carboxyl"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামাইডো",
+       "en": "Amido"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "কার্বক্সিল মূলক।",
+     "explanation_en": "Carboxyl group.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "R–CO–OR′ কোন যৌগ শ্রেণীর সংকেত?",
+     "question_en": "R–CO–OR' is the general formula of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথার",
+       "en": "Ether"
+      },
+      {
+       "id": "b",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানহাইড্রাইড",
+       "en": "Anhydride"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এস্টার মূলক –CO–OR।",
+     "explanation_en": "Ester group.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.11",
+   "title_bn": "সমগোত্রীয় শ্রেণী",
+   "title_en": "Homologous series",
+   "notes_bn": "সমগোত্রীয় শ্রেণী: একই কার্যকরী মূলকবিশিষ্ট যৌগের শ্রেণী যেখানে পাশাপাশি দুটি সদস্যের পার্থক্য –CH2– এবং আণবিক ভর ক্রমবর্ধমান।\nপ্রতিটি সদস্য সমগোত্রক; একই সাধারণ সংকেত (অ্যালকোহল CnH2n+1OH; n=1 মিথানল, n=2 ইথানল)।\nসব সদস্যের একই কার্যকরী মূলক, প্রস্তুত পদ্ধতি সাধারণ, রাসায়নিক ধর্ম সদৃশ।\nভৌত ধর্ম (গলনাঙ্ক, স্ফুটনাঙ্ক, ঘনত্ব) ক্রমান্বয়ে পরিবর্তিত হয়: মিথানল স্ফুটনাঙ্ক 65°C, ইথানল 78.3°C।",
+   "notes_en": "A homologous series: compounds with the same functional group, successive members differing by –CH2–, increasing molecular mass.\nCommon general formula (alcohols CnH2n+1OH), similar chemistry, general preparation methods, and gradual change in physical properties (methanol b.p. 65 C; ethanol 78.3 C).",
+   "mcqs": [
+    {
+     "question_bn": "সমগোত্রীয় শ্রেণীর পাশাপাশি দুই সদস্যের পার্থক্য কত?",
+     "question_en": "Difference between successive members:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–CH3",
+       "en": "–CH3"
+      },
+      {
+       "id": "b",
+       "bn": "–CH2–",
+       "en": "–CH2–"
+      },
+      {
+       "id": "c",
+       "bn": "–CH",
+       "en": "–CH"
+      },
+      {
+       "id": "d",
+       "bn": "–C2H5",
+       "en": "–C2H5"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মিথিলিন মূলক।",
+     "explanation_en": "Methylene group.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকোহলের সাধারণ সংকেত কোনটি?",
+     "question_en": "General formula of alcohols:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CnH2n+2",
+       "en": "CnH2n+2"
+      },
+      {
+       "id": "b",
+       "bn": "CnH2nOH",
+       "en": "CnH2nOH"
+      },
+      {
+       "id": "c",
+       "bn": "CnH2n+1OH",
+       "en": "CnH2n+1OH"
+      },
+      {
+       "id": "d",
+       "bn": "CnH2n-1OH",
+       "en": "CnH2n-1OH"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "n=1 → CH3OH।",
+     "explanation_en": "n=1 gives CH3OH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "n = 3 হলে CnH2n+1OH এর আণবিক সংকেত?",
+     "question_en": "For n = 3, CnH2n+1OH is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C3H7OH",
+       "en": "C3H7OH"
+      },
+      {
+       "id": "b",
+       "bn": "C3H5OH",
+       "en": "C3H5OH"
+      },
+      {
+       "id": "c",
+       "bn": "C3H9OH",
+       "en": "C3H9OH"
+      },
+      {
+       "id": "d",
+       "bn": "C3H6OH",
+       "en": "C3H6OH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2×3+1 = 7।",
+     "explanation_en": "2(3)+1 = 7.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সমগোত্রীয় শ্রেণীতে ক্রম পরিবর্তন দেখায় কোনটি?",
+     "question_en": "Which varies gradually along a homologous series?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্যকরী মূলক",
+       "en": "Functional group"
+      },
+      {
+       "id": "b",
+       "bn": "রাসায়নিক ধর্ম",
+       "en": "Chemical properties"
+      },
+      {
+       "id": "c",
+       "bn": "স্ফুটনাঙ্ক",
+       "en": "Boiling point"
+      },
+      {
+       "id": "d",
+       "bn": "সাধারণ সংকেত",
+       "en": "General formula"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "স্ফুটনাঙ্ক ইত্যাদি ভৌত ধর্ম পরিবর্তিত হয়।",
+     "explanation_en": "Physical properties like b.p. change.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.12",
+   "title_bn": "জৈব যৌগের গুরুত্ব ও জৈব রসায়নের অবদান",
+   "title_en": "Importance of organic compounds",
+   "notes_bn": "খাদ্য: শর্করা, প্রোটিন, তেল/চর্বি, ভিটামিন — জৈব যৌগ; কৃত্রিম রং, সংরক্ষণকারী পদার্থ।\nবস্ত্র: তুলা, পশম, রেশম এবং কৃত্রিম তন্তু (রেয়ন, নাইলন, টেট্রন, পলি-এস্টার)।\nবাসস্থান: কাঠ, প্লাস্টিক, রং, বার্নিশ।\nচিকিৎসা: অ্যান্টিবায়োটিক, চেতনানাশক, হরমোন, ভিটামিন, টিকা।\nশিক্ষা: কাগজ (সেলুলোজ), কলম, প্লাস্টিক।\nবিবিধ: টায়ার-টিউব, পেট্রোল, ডিজেল, সাবান, ডিটারজেন্ট, প্রসাধনী।\nবায়োটেকনোলজি ও জিন থেরাপি DNA/RNA ভিত্তিক।",
+   "notes_en": "Foods (carbohydrates, proteins, fats, vitamins), clothing (cotton, wool, silk, rayon, nylon, terylene), housing (wood, plastics, paints), medicines (antibiotics, anaesthetics, hormones, vitamins, vaccines), education (paper/cellulose, pens), transport fuels (petrol, diesel), soaps and detergents are organic. Biotechnology and gene therapy rest on DNA/RNA.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি কৃত্রিম তন্তু?",
+     "question_en": "Which is a synthetic fibre?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তুলা",
+       "en": "Cotton"
+      },
+      {
+       "id": "b",
+       "bn": "পশম",
+       "en": "Wool"
+      },
+      {
+       "id": "c",
+       "bn": "নাইলন",
+       "en": "Nylon"
+      },
+      {
+       "id": "d",
+       "bn": "রেশম",
+       "en": "Silk"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "নাইলন কৃত্রিম।",
+     "explanation_en": "Nylon is synthetic.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কাগজের প্রধান উপাদান?",
+     "question_en": "Main component of paper:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সেলুলোজ",
+       "en": "Cellulose"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোটিন",
+       "en": "Protein"
+      },
+      {
+       "id": "c",
+       "bn": "সিলিকা",
+       "en": "Silica"
+      },
+      {
+       "id": "d",
+       "bn": "লবণ",
+       "en": "Salt"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কাগজ বাঁশ ও কাঠের সেলুলোজ থেকে তৈরি।",
+     "explanation_en": "Made from cellulose of bamboo and wood.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি জৈব যৌগের প্রয়োগ নয় (বইয়ের আলোকে)?",
+     "question_en": "Which is NOT given as a use of organic compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যান্টিবায়োটিক",
+       "en": "Antibiotics"
+      },
+      {
+       "id": "b",
+       "bn": "ডিটারজেন্ট",
+       "en": "Detergents"
+      },
+      {
+       "id": "c",
+       "bn": "পেট্রোল",
+       "en": "Petrol"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl লবণ তৈরি কেবল",
+       "en": "Making NaCl only"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "NaCl অজৈব।",
+     "explanation_en": "NaCl is inorganic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জিন থেরাপি কোন জৈব যৌগের ওপর ভিত্তি করে?",
+     "question_en": "Gene therapy is based on:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইউরিয়া",
+       "en": "Urea"
+      },
+      {
+       "id": "b",
+       "bn": "DNA ও RNA",
+       "en": "DNA and RNA"
+      },
+      {
+       "id": "c",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "d",
+       "bn": "রেয়ন",
+       "en": "Rayon"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী নিউক্লিক এসিডের ওপর।",
+     "explanation_en": "Nucleic acids.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.13",
+   "title_bn": "ভূমিকা (নামকরণ)",
+   "title_en": "Introduction to nomenclature",
+   "notes_bn": "নামকরণ পদ্ধতি: (ক) সাধারণ/প্রচলিত (Trivial), (খ) উদ্ভূত/জাত পদ্ধতি, (গ) জেনেভা/IUPAC (1892 জেনেভা সম্মেলন)।\nসাধারণ পদ্ধতিতে alkane এর নামের শেষে –ane; সরল শিকল n-, শাখাযুক্ত (CH3)2CH– iso-, চতুর্যৌগিক কার্বন (neo-): n-পেন্টেন, iso-পেন্টেন, neo-পেন্টেন।\nকার্বন প্রকার: 1° (এক C যুক্ত), 2°, 3°, 4°।\nIUPAC: উপপদ (Prefix) + শব্দ মূল (Word root) + পরপদ (Suffix); শব্দ মূল দীর্ঘতম শিকলের C সংখ্যা অনুযায়ী: Meth, Eth, Prop, But, Pent, Hex, Hept, Oct, Non, Dec।\nঅ্যালকিন –ene, অ্যালকাইন –yne, অ্যালকানল –ol, অ্যালকানাল –al, অ্যালকানোন –one, অ্যালকানোয়িক এসিড –oic acid।\nনিয়ম: দীর্ঘতম শিকল; যে দিক থেকে যোগফল ক্ষুদ্রতর সেদিক থেকে নম্বর; ডাই/ট্রাই; বর্ণানুক্রমিক; উদাহরণ 2,2,4-ট্রাইমিথাইলপেন্টেন। অগ্রগণ্য: –COOH > –SO3H > এস্টার... > –CHO > –CO– > –OH।",
+   "notes_en": "Methods: trivial, derived, and Geneva/IUPAC (1892). Trivial: alkanes end in –ane; n-, iso- ((CH3)2CH–), neo- (quaternary C). Carbons are 1°, 2°, 3°, 4°.\nIUPAC name = prefix + word root + suffix. Roots: Meth, Eth, Prop, But, Pent, Hex, Hept, Oct, Non, Dec.\nSuffixes: –ene, –yne, –ol, –al, –one, –oic acid.\nRules: longest chain; number from the end giving the lower locant sum; di/tri; alphabetical order of different substituents; e.g. 2,2,4-trimethylpentane. Priority: –COOH > –SO3H > ... > –CHO > –CO– > –OH.",
+   "mcqs": [
+    {
+     "question_bn": "IUPAC নামে শব্দ মূল নির্ধারিত হয় কীসের ওপর?",
+     "question_en": "The word root in IUPAC naming depends on:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দীর্ঘতম কার্বন শিকলের C সংখ্যা",
+       "en": "Number of C in the longest chain"
+      },
+      {
+       "id": "b",
+       "bn": "পার্শ্বশিকলের সংখ্যা",
+       "en": "Number of side chains"
+      },
+      {
+       "id": "c",
+       "bn": "H সংখ্যা",
+       "en": "Number of H"
+      },
+      {
+       "id": "d",
+       "bn": "আণবিক ভর",
+       "en": "Molecular mass"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শব্দ মূল দীর্ঘতম শিকল থেকে।",
+     "explanation_en": "From the longest chain.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পেন্টেনের শব্দ মূল?",
+     "question_en": "Word root for five carbons:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "But",
+       "en": "But"
+      },
+      {
+       "id": "b",
+       "bn": "Pent",
+       "en": "Pent"
+      },
+      {
+       "id": "c",
+       "bn": "Hex",
+       "en": "Hex"
+      },
+      {
+       "id": "d",
+       "bn": "Prop",
+       "en": "Prop"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C5 = Pent।",
+     "explanation_en": "C5 = Pent.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকোহল নামের পরপদ?",
+     "question_en": "Suffix for alcohols:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–al",
+       "en": "–al"
+      },
+      {
+       "id": "b",
+       "bn": "–one",
+       "en": "–one"
+      },
+      {
+       "id": "c",
+       "bn": "–ol",
+       "en": "–ol"
+      },
+      {
+       "id": "d",
+       "bn": "–oic acid",
+       "en": "–oic acid"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Alkane – e + ol।",
+     "explanation_en": "Alkane - e + ol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH3–C(CH3)2–CH2–CH(CH3)–CH3 এর IUPAC নাম?",
+     "question_en": "IUPAC name of CH3–C(CH3)2–CH2–CH(CH3)–CH3:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2,2,4-ট্রাইমিথাইলপেন্টেন",
+       "en": "2,2,4-trimethylpentane"
+      },
+      {
+       "id": "b",
+       "bn": "2,4,4-ট্রাইমিথাইলপেন্টেন",
+       "en": "2,4,4-trimethylpentane"
+      },
+      {
+       "id": "c",
+       "bn": "2,2,3-ট্রাইমিথাইলহেক্সেন",
+       "en": "2,2,3-trimethylhexane"
+      },
+      {
+       "id": "d",
+       "bn": "টেট্রামিথাইলবিউটেন",
+       "en": "Tetramethylbutane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বাম থেকে যোগফল 2+2+4=8, ডান থেকে 10; ক্ষুদ্রতর 8।",
+     "explanation_en": "Locant sum 8 from left vs 10 from right.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH3COCH2CH3 এর IUPAC নাম কী?",
+     "question_en": "IUPAC name of CH3COCH2CH3:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিউটানাল",
+       "en": "Butanal"
+      },
+      {
+       "id": "b",
+       "bn": "বিউটানোন",
+       "en": "Butanone"
+      },
+      {
+       "id": "c",
+       "bn": "বিউটানল",
+       "en": "Butanol"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটানোয়িক এসিড",
+       "en": "Butanoic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কিটোন → –one; 4 C = বিউটানোন।",
+     "explanation_en": "Ketone -> -one; 4 C.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন কার্যকরী মূলক অগ্রগণ্য ক্রমে সর্বোচ্চ?",
+     "question_en": "Highest priority group among these:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–OH",
+       "en": "–OH"
+      },
+      {
+       "id": "b",
+       "bn": "–CHO",
+       "en": "–CHO"
+      },
+      {
+       "id": "c",
+       "bn": "–COOH",
+       "en": "–COOH"
+      },
+      {
+       "id": "d",
+       "bn": "–CO–",
+       "en": "–CO–"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "কার্বক্সিলিক এসিড সর্বোচ্চ।",
+     "explanation_en": "Carboxylic acid ranks highest.",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "4.7",
+   "stimulus_bn": "একজন শিক্ষার্থী ইথেন, ইথিন ও ইথাইন অণুর কার্বন-কার্বন বন্ধন দৈর্ঘ্য তুলনা করছে এবং লক্ষ করল ইথাইনে দূরত্ব সবচেয়ে কম।",
+   "stimulus_en": "A student compares C–C bond lengths in ethane, ethene and ethyne and notes ethyne has the shortest.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "সংকরণ কী?",
+     "question_en": "What is hybridisation?",
+     "model_answer_bn": "পরমাণুর ভিন্ন শক্তির অরবিটাল মিশে সমশক্তির নতুন অরবিটাল গঠনকে সংকরণ বলে।",
+     "model_answer_en": "Mixing of atomic orbitals of different energy to form equivalent new orbitals."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "ইথিনে σ ও π বন্ধনের সংখ্যা কত? ব্যাখ্যা কর।",
+     "question_en": "How many σ and π bonds does ethene have? Explain.",
+     "model_answer_bn": "5টি σ (1 C–C, 4 C–H) ও 1টি π; অবিকৃত দুটি 2pz এর পাশাপাশি অধিক্রমণে π হয়।",
+     "model_answer_en": "5 σ (1 C–C + 4 C–H) and 1 π from sideways overlap of two 2pz orbitals."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "তিনটি যৌগের কার্বনের সংকরণ, বন্ধন কোণ ও C–C দূরত্ব তালিকা কর।",
+     "question_en": "Tabulate hybridisation, bond angle and C–C length for the three compounds.",
+     "model_answer_bn": "ইথেন sp³, 109.5°, 0.154 nm; ইথিন sp², 120°, 0.134 nm; ইথাইন sp, 180°, 0.120 nm।",
+     "model_answer_en": "Ethane sp3, 109.5, 0.154 nm; ethene sp2, 120, 0.134 nm; ethyne sp, 180, 0.120 nm."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ইথাইনে দূরত্ব সবচেয়ে কম কেন বিশ্লেষণ কর।",
+     "question_en": "Analyse why ethyne has the shortest C–C length.",
+     "model_answer_bn": "sp তে s-চরিত্র 50%, sp² এ 33.3%, sp³ এ 25%। s-চরিত্র বেশি হলে নিউক্লিয়াস অধিক আকর্ষিত হয়, দূরত্ব কমে; তাছাড়া ত্রিবন্ধনে বেশি ইলেকট্রন জোড় কার্বন পরমাণু দুটিকে কাছে টানে।",
+     "model_answer_en": "s-character is 50% (sp), 33.3% (sp2), 25% (sp3); greater s-character draws nuclei closer, so the C≡C bond is shortest."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.13",
+   "stimulus_bn": "যৌগ X: CH3–CH(CH3)–CH2–CH2OH এবং যৌগ Y: CH3–CH2–COOH।",
+   "stimulus_en": "Compound X: CH3–CH(CH3)–CH2–CH2OH and compound Y: CH3–CH2–COOH.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "IUPAC এর পূর্ণরূপ লেখ।",
+     "question_en": "Write the full form of IUPAC.",
+     "model_answer_bn": "International Union of Pure and Applied Chemistry।",
+     "model_answer_en": "International Union of Pure and Applied Chemistry."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "Y এর কার্যকরী মূলক ও শ্রেণীর নাম লেখ।",
+     "question_en": "Name the functional group and class of Y.",
+     "model_answer_bn": "–COOH (কার্বক্সিল); কার্বক্সিলিক এসিড।",
+     "model_answer_en": "–COOH (carboxyl); carboxylic acid."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "X ও Y এর IUPAC নাম লেখ।",
+     "question_en": "Give IUPAC names of X and Y.",
+     "model_answer_bn": "X: 3-মিথাইল বিউটানল-1; Y: প্রোপানোয়িক এসিড।",
+     "model_answer_en": "X: 3-methylbutan-1-ol; Y: propanoic acid."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "শিকলে নম্বর দেওয়ার ক্ষেত্রে –OH ও পার্শ্বশিকলের অবস্থানের অগ্রাধিকার বিশ্লেষণ কর।",
+     "question_en": "Analyse numbering priority between –OH and the side chain.",
+     "model_answer_bn": "কার্যকরী মূলকের অবস্থান প্রথমে ক্ষুদ্রতম সংখ্যা পায়, তাই –OH কে C-1 ধরে সংখ্যায়ন করে পরে মিথাইলের অবস্থান (3) নির্ধারিত হয়।",
+     "model_answer_en": "The principal functional group gets the lowest locant first, so –OH is C-1 and the methyl then falls at C-3."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 229-235 (printed 214-220) read; 4.13 covers nomenclature through printed p.219; 4.14 (organic reactions) belongs to another chunk and was not included. Some table cells on printed pp.211, 215 slightly blurred; used only legible values."
+}

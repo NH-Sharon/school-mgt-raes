@@ -1,0 +1,1941 @@
+{
+ "chapter_no": 3,
+ "topics": [
+  {
+   "section_no": "3.14",
+   "title_bn": "লৌহের অবস্থান বা উৎস",
+   "title_en": "Occurrence of iron",
+   "notes_bn": "ভূত্বকের প্রায় ৪.১৫% লৌহের যৌগ।\nম্যাগনেটাইট Fe3O4 (প্রায় ৭০% Fe), হিমাটাইট Fe2O3, লিমোনাইট 2Fe2O3.3H2O, সাইডেরাইট FeCO3।\nআয়রন পাইরাইটস FeS2 লৌহের খনিজ হলেও আকরিক নয়; এ থেকে লৌহ নিষ্কাশন হয় না, বরং SO2 পাওয়া যায়।",
+   "notes_en": "About 4.15% of the earth's crust is iron compounds.\nMagnetite Fe3O4 (~70% Fe), haematite Fe2O3, limonite 2Fe2O3.3H2O, siderite FeCO3.\nIron pyrites FeS2 is a mineral but not an ore of iron; it is used to obtain SO2.",
+   "mcqs": [
+    {
+     "question_bn": "ম্যাগনেটাইটের সংকেত কোনটি?",
+     "question_en": "Which is the formula of magnetite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Fe2O3",
+       "en": "Fe2O3"
+      },
+      {
+       "id": "b",
+       "bn": "Fe3O4",
+       "en": "Fe3O4"
+      },
+      {
+       "id": "c",
+       "bn": "FeCO3",
+       "en": "FeCO3"
+      },
+      {
+       "id": "d",
+       "bn": "FeS2",
+       "en": "FeS2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ম্যাগনেটাইট Fe3O4, এতে প্রায় ৭০% লৌহ থাকে।",
+     "explanation_en": "Magnetite is Fe3O4 containing about 70% iron.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি লৌহের আকরিক নয়?",
+     "question_en": "Which is NOT an ore of iron?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইডেরাইট",
+       "en": "Siderite"
+      },
+      {
+       "id": "b",
+       "bn": "লিমোনাইট",
+       "en": "Limonite"
+      },
+      {
+       "id": "c",
+       "bn": "আয়রন পাইরাইটস",
+       "en": "Iron pyrites"
+      },
+      {
+       "id": "d",
+       "bn": "হিমাটাইট",
+       "en": "Haematite"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "FeS2 থেকে লৌহ নিষ্কাশন করা হয় না; SO2 উৎপাদনে ব্যবহৃত হয়।",
+     "explanation_en": "Iron is not extracted from FeS2; it is used to make SO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাইডেরাইটের রাসায়নিক সংকেত কী?",
+     "question_en": "What is the formula of siderite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "FeCO3",
+       "en": "FeCO3"
+      },
+      {
+       "id": "b",
+       "bn": "Fe3O4",
+       "en": "Fe3O4"
+      },
+      {
+       "id": "c",
+       "bn": "2Fe2O3.3H2O",
+       "en": "2Fe2O3.3H2O"
+      },
+      {
+       "id": "d",
+       "bn": "FeS2",
+       "en": "FeS2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সাইডেরাইট বা স্প্যাথোজ হলো FeCO3।",
+     "explanation_en": "Siderite (spathose) is FeCO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ব্রাউন হিমাটাইট কোনটি?",
+     "question_en": "Brown haematite is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Fe2O3",
+       "en": "Fe2O3"
+      },
+      {
+       "id": "b",
+       "bn": "Fe3O4",
+       "en": "Fe3O4"
+      },
+      {
+       "id": "c",
+       "bn": "2Fe2O3.3H2O (লিমোনাইট)",
+       "en": "2Fe2O3.3H2O (limonite)"
+      },
+      {
+       "id": "d",
+       "bn": "FeCO3",
+       "en": "FeCO3"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "লিমোনাইট বা ব্রাউন হিমাটাইট হলো 2Fe2O3.3H2O।",
+     "explanation_en": "Limonite = brown haematite = 2Fe2O3.3H2O.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.15",
+   "title_bn": "আকরিক থেকে লৌহ নিষ্কাশন: ঢালাই লৌহ উৎপাদন",
+   "title_en": "Extraction of iron: manufacture of cast iron",
+   "notes_bn": "দুই ধাপ: (১) আকরিকের তাপজারণ/ভস্মীকরণ, (২) বাত্যাচুল্লিতে কার্বন বিজারণ।\nভস্মীকরণে পানি, S, As ইত্যাদি দূর হয়; FeCO3 → FeO → Fe2O3।\nবাত্যাচুল্লিতে আকরিক : কোক : চুনাপাথর = ৮:৪:১ (ওজন অনুপাত)।\nউপরে (400–900°C) Fe2O3 + 3CO → 2Fe + 3CO2; মধ্যে (900–1000°C) CaCO3 → CaO + CO2, CaO + SiO2 → CaSiO3 (ধাতুমল)।\nনিচে (১৩০০–১৪০০°C) P2O5, MnO2, SiO2 বিজারিত হয়ে P, Mn, Si লৌহে মেশে; C + O2 → CO2 (ΔH = −395 kJ), CO2 + C → 2CO (ΔH = +172 kJ)।\nঢালাই লৌহে ২–৪.৫% C, ১–১.৫% Si, ০.৪% Mn, ০.১% P থাকে।",
+   "notes_en": "Two stages: (1) calcination/roasting of the ore, (2) carbon reduction in a blast furnace.\nRoasting removes moisture, S, As; FeCO3 -> FeO -> Fe2O3.\nCharge ratio ore:coke:limestone = 8:4:1 by weight.\nTop zone (400-900 C): Fe2O3 + 3CO -> 2Fe + 3CO2; middle (900-1000 C): CaCO3 -> CaO + CO2, CaO + SiO2 -> CaSiO3 (slag).\nBottom (1300-1400 C): P, Mn, Si oxides reduced and dissolve in iron; C + O2 -> CO2 (dH = -395 kJ), CO2 + C -> 2CO (dH = +172 kJ).\nCast iron: 2-4.5% C, 1-1.5% Si, 0.4% Mn, 0.1% P.",
+   "mcqs": [
+    {
+     "question_bn": "বাত্যাচুল্লিতে ধাতুমল কোনটি?",
+     "question_en": "What is the slag in the blast furnace?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaO",
+       "en": "CaO"
+      },
+      {
+       "id": "b",
+       "bn": "CaSiO3",
+       "en": "CaSiO3"
+      },
+      {
+       "id": "c",
+       "bn": "FeSiO3",
+       "en": "FeSiO3"
+      },
+      {
+       "id": "d",
+       "bn": "CaCO3",
+       "en": "CaCO3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CaO সিলিকা SiO2-এর সাথে বিক্রিয়া করে ধাতুমল CaSiO3 গঠন করে।",
+     "explanation_en": "CaO combines with SiO2 to form the slag CaSiO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বাত্যাচুল্লিতে আকরিক, কোক ও চুনাপাথরের ওজন অনুপাত কত?",
+     "question_en": "Weight ratio ore : coke : limestone in the furnace?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "8:4:1",
+       "en": "8:4:1"
+      },
+      {
+       "id": "b",
+       "bn": "4:8:1",
+       "en": "4:8:1"
+      },
+      {
+       "id": "c",
+       "bn": "1:4:8",
+       "en": "1:4:8"
+      },
+      {
+       "id": "d",
+       "bn": "4:1:8",
+       "en": "4:1:8"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে অনুপাত ৮:৪:১।",
+     "explanation_en": "The book gives 8:4:1.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "চুল্লির উপরের অংশে (400–900°C) প্রধান বিজারক কোনটি?",
+     "question_en": "Main reducing agent in the upper zone (400-900 C)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C",
+       "en": "C"
+      },
+      {
+       "id": "b",
+       "bn": "CO",
+       "en": "CO"
+      },
+      {
+       "id": "c",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "d",
+       "bn": "CaO",
+       "en": "CaO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উর্ধ্বগামী CO আয়রন অক্সাইডকে Fe-তে বিজারিত করে।",
+     "explanation_en": "Rising CO reduces iron oxides to Fe.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ভস্মীকরণে FeCO3 থেকে শেষ পর্যন্ত কী উৎপন্ন হয়?",
+     "question_en": "Final product from FeCO3 on roasting in air?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "FeO",
+       "en": "FeO"
+      },
+      {
+       "id": "b",
+       "bn": "Fe3O4",
+       "en": "Fe3O4"
+      },
+      {
+       "id": "c",
+       "bn": "Fe2O3",
+       "en": "Fe2O3"
+      },
+      {
+       "id": "d",
+       "bn": "Fe",
+       "en": "Fe"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "FeCO3 → FeO + CO2, তারপর 4FeO + O2 → 2Fe2O3।",
+     "explanation_en": "FeCO3 -> FeO + CO2, then 4FeO + O2 -> 2Fe2O3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CO2 + C → 2CO বিক্রিয়ার ΔH কত (বইয়ের মান)?",
+     "question_en": "dH of CO2 + C -> 2CO (book value)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−395 kJ",
+       "en": "-395 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "+172 kJ",
+       "en": "+172 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "−172 kJ",
+       "en": "-172 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "+395 kJ",
+       "en": "+395 kJ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে এই বিক্রিয়া তাপহারী, ΔH = +172 kJ।",
+     "explanation_en": "The book gives it as endothermic, dH = +172 kJ.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.16",
+   "title_bn": "লৌহের যৌগসমূহ",
+   "title_en": "Compounds of iron",
+   "notes_bn": "Fe(26) এর বিন্যাস 3d6 4s2; সাধারণ জারণ অবস্থা +2 (ফেরাস) ও +3 (ফেরিক)।\nFe3+ এর বিন্যাস 3d5 (অর্ধপূর্ণ) হওয়ায় ফেরিক যৌগ সাধারণত বেশি স্থিতিশীল।\nফেরাস লবণ হালকা সবুজ, বিজারণধর্মী (O3, HNO3, KMnO4 ইত্যাদি দ্বারা জারিত হয়ে ফেরিক হয়); ফেরিক লবণ হলুদ/বাদামি, আর্দ্রবিশ্লেষিত হয় (FeCl3 + 3H2O ⇌ Fe(OH)3 + 3HCl), তাই কিছু অ্যাসিড যোগ করে রাখা হয়।\nফেরিক লবণ মৃদু জারক (SnCl2, SO2, H2S কে জারিত করে)।\nনির্জল FeCl2: Fe + 2HCl(g) → FeCl2 + H2; নির্জল FeCl3: Fe + Cl2 (900°C) → কালো FeCl3; ব্যবহার: ওষুধ, PCB তৈরি, জৈব বিক্রিয়ায় প্রভাবক।",
+   "notes_en": "Fe(26) = 3d6 4s2; common oxidation states +2 (ferrous) and +3 (ferric).\nFe3+ is 3d5 (half-filled), so ferric compounds are usually more stable.\nFerrous salts: pale green, reducing (oxidised by O3, HNO3, KMnO4 etc.). Ferric salts: yellow/brown, hydrolyse (FeCl3 + 3H2O <=> Fe(OH)3 + 3HCl) so some acid is added to solutions; they are mild oxidants (oxidise SnCl2, SO2, H2S).\nAnhydrous FeCl2: Fe + 2HCl(g) -> FeCl2 + H2. Anhydrous FeCl3: Fe + Cl2 at 900 C, black solid; used in medicine, PCB making, catalyst in organic reactions.",
+   "mcqs": [
+    {
+     "question_bn": "Fe3+ আয়নের d-অরবিটালের বিন্যাস কোনটি?",
+     "question_en": "d-configuration of Fe3+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3d6",
+       "en": "3d6"
+      },
+      {
+       "id": "b",
+       "bn": "3d5",
+       "en": "3d5"
+      },
+      {
+       "id": "c",
+       "bn": "3d4",
+       "en": "3d4"
+      },
+      {
+       "id": "d",
+       "bn": "3d7",
+       "en": "3d7"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Fe: 3d6 4s2; তিনটি ইলেকট্রন গেলে 3d5।",
+     "explanation_en": "Fe 3d6 4s2 loses three electrons giving 3d5.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি বিজারণধর্মী?",
+     "question_en": "Which is a reducing agent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেরাস লবণ",
+       "en": "Ferrous salt"
+      },
+      {
+       "id": "b",
+       "bn": "ফেরিক লবণ",
+       "en": "Ferric salt"
+      },
+      {
+       "id": "c",
+       "bn": "K2Cr2O7",
+       "en": "K2Cr2O7"
+      },
+      {
+       "id": "d",
+       "bn": "KMnO4",
+       "en": "KMnO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Fe2+ সহজে Fe3+ এ জারিত হয়।",
+     "explanation_en": "Fe2+ is easily oxidised to Fe3+.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "FeCl3 এর জলীয় দ্রবণ কেমন?",
+     "question_en": "The aqueous solution of FeCl3 is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্ষারধর্মী",
+       "en": "basic"
+      },
+      {
+       "id": "b",
+       "bn": "অম্লধর্মী",
+       "en": "acidic"
+      },
+      {
+       "id": "c",
+       "bn": "নিরপেক্ষ",
+       "en": "neutral"
+      },
+      {
+       "id": "d",
+       "bn": "উভধর্মী",
+       "en": "amphoteric"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আর্দ্রবিশ্লেষণে Fe(OH)3 ও HCl উৎপন্ন হয়।",
+     "explanation_en": "Hydrolysis gives Fe(OH)3 and HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নির্জল FeCl3 প্রস্তুতিতে লৌহ গুঁড়ার সাথে কোন গ্যাস ও তাপমাত্রা লাগে?",
+     "question_en": "Anhydrous FeCl3 is made from iron powder with:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুষ্ক Cl2, 900°C",
+       "en": "dry Cl2, 900 C"
+      },
+      {
+       "id": "b",
+       "bn": "HCl, 750°C",
+       "en": "HCl, 750 C"
+      },
+      {
+       "id": "c",
+       "bn": "শুষ্ক Cl2, 100°C",
+       "en": "dry Cl2, 100 C"
+      },
+      {
+       "id": "d",
+       "bn": "H2, 900°C",
+       "en": "H2, 900 C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2Fe + 3Cl2 → 2FeCl3 (900°C)।",
+     "explanation_en": "2Fe + 3Cl2 -> 2FeCl3 at 900 C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "750°C এর বেশি তাপে FeCl3 কী দেয়?",
+     "question_en": "FeCl3 above 750 C gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Fe + Cl2",
+       "en": "Fe + Cl2"
+      },
+      {
+       "id": "b",
+       "bn": "FeCl2 + Cl2",
+       "en": "FeCl2 + Cl2"
+      },
+      {
+       "id": "c",
+       "bn": "Fe2O3 + HCl",
+       "en": "Fe2O3 + HCl"
+      },
+      {
+       "id": "d",
+       "bn": "FeCl2 + HCl",
+       "en": "FeCl2 + HCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2FeCl3 → 2FeCl2 + Cl2।",
+     "explanation_en": "2FeCl3 -> 2FeCl2 + Cl2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.17",
+   "title_bn": "লৌহের শনাক্তকরণ পরীক্ষা",
+   "title_en": "Identification tests for iron",
+   "notes_bn": "শুষ্ক পরীক্ষা (কাঠ কয়লা): লবণ + Na2CO3 কাঠ কয়লার গর্তে গরম করলে চুম্বক-আকৃষ্ট ধূসর অবশেষ (Fe গুঁড়া)।\nNH4OH: সবুজ অধঃক্ষেপ Fe(OH)2 → Fe2+; বাদামি অধঃক্ষেপ Fe(OH)3 → Fe3+।\nKSCN: রক্ত লাল বর্ণ [FeSCN(H2O)5]Cl2 → Fe3+; Fe2+ এ রং হয় না।\nK3[Fe(CN)6]: গাঢ় নীল (প্রুশিয়ান ব্লু) → Fe2+; হালকা সবুজ/বাদামি → Fe3+।",
+   "notes_en": "Dry test (charcoal): salt + Na2CO3 heated in a charcoal cavity gives a grey magnetic residue of Fe.\nNH4OH: green Fe(OH)2 -> Fe2+; brown Fe(OH)3 -> Fe3+.\nKSCN: blood-red [FeSCN(H2O)5]Cl2 -> Fe3+; no colour with Fe2+.\nK3[Fe(CN)6]: deep blue (Prussian blue) -> Fe2+; pale green/brown -> Fe3+.",
+   "mcqs": [
+    {
+     "question_bn": "Fe3+ দ্রবণে KSCN যোগ করলে কী বর্ণ হয়?",
+     "question_en": "Colour on adding KSCN to Fe3+ solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রক্ত লাল",
+       "en": "blood red"
+      },
+      {
+       "id": "b",
+       "bn": "নীল",
+       "en": "blue"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ",
+       "en": "green"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণহীন",
+       "en": "colourless"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "[FeSCN(H2O)5]2+ জটিল গঠিত হয়।",
+     "explanation_en": "The complex [FeSCN(H2O)5]2+ forms.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NH4OH যোগে সবুজ অধঃক্ষেপ পড়লে কোন আয়ন আছে?",
+     "question_en": "A green ppt with NH4OH indicates:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Fe3+",
+       "en": "Fe3+"
+      },
+      {
+       "id": "b",
+       "bn": "Fe2+",
+       "en": "Fe2+"
+      },
+      {
+       "id": "c",
+       "bn": "Cu2+",
+       "en": "Cu2+"
+      },
+      {
+       "id": "d",
+       "bn": "Ni2+",
+       "en": "Ni2+"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Fe(OH)2 সবুজ।",
+     "explanation_en": "Fe(OH)2 is green.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Fe2+ দ্রবণে K3[Fe(CN)6] যোগে কী পাওয়া যায়?",
+     "question_en": "Fe2+ with K3[Fe(CN)6] gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাদামি অধঃক্ষেপ",
+       "en": "brown ppt"
+      },
+      {
+       "id": "b",
+       "bn": "প্রুশিয়ান ব্লু",
+       "en": "Prussian blue"
+      },
+      {
+       "id": "c",
+       "bn": "রক্ত লাল দ্রবণ",
+       "en": "blood-red solution"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন নেই",
+       "en": "no change"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "গাঢ় নীল KFe[Fe(CN)6] অধঃক্ষেপ।",
+     "explanation_en": "Deep blue KFe[Fe(CN)6] precipitate.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কাঠ কয়লা পরীক্ষায় লৌহের উপস্থিতি কীভাবে বোঝা যায়?",
+     "question_en": "In the charcoal test, iron is indicated by:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা অবশেষ",
+       "en": "white residue"
+      },
+      {
+       "id": "b",
+       "bn": "লাল পুঁতি",
+       "en": "red bead"
+      },
+      {
+       "id": "c",
+       "bn": "চুম্বক-আকৃষ্ট ধূসর অবশেষ",
+       "en": "grey residue attracted by a magnet"
+      },
+      {
+       "id": "d",
+       "bn": "নীল পুঁতি",
+       "en": "blue bead"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "FeO কার্বন দ্বারা Fe-তে বিজারিত হয়, যা চুম্বকে আকৃষ্ট হয়।",
+     "explanation_en": "FeO is reduced by carbon to Fe, which is attracted by a magnet.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.18",
+   "title_bn": "ফেরাস লবণ ও ফেরিক লবণের পারস্পরিক পরিবর্তন",
+   "title_en": "Interconversion of ferrous and ferric salts",
+   "notes_bn": "ফেরাস → ফেরিক (জারণ): গাঢ় HNO3, Cl2, অম্লীয় KMnO4 দ্বারা।\n6FeSO4 + 3H2SO4 + 2HNO3 → 3Fe2(SO4)3 + 4H2O + 2NO; 2FeCl2 + Cl2 → 2FeCl3।\n10FeSO4 + 2KMnO4 + 8H2SO4 → 5Fe2(SO4)3 + K2SO4 + 2MnSO4 + 8H2O।\nফেরিক → ফেরাস (বিজারণ): জিংক + HCl (নাসেন্ট H), H2S, SO2।\n2FeCl3 + H2S → 2FeCl2 + 2HCl + S; 2FeCl3 + 2H2O + SO2 → 2FeCl2 + 2HCl + H2SO4।",
+   "notes_en": "Ferrous -> ferric (oxidation): conc. HNO3, Cl2, acidified KMnO4.\n6FeSO4 + 3H2SO4 + 2HNO3 -> 3Fe2(SO4)3 + 4H2O + 2NO; 2FeCl2 + Cl2 -> 2FeCl3.\n10FeSO4 + 2KMnO4 + 8H2SO4 -> 5Fe2(SO4)3 + K2SO4 + 2MnSO4 + 8H2O.\nFerric -> ferrous (reduction): Zn + HCl (nascent H), H2S, SO2.\n2FeCl3 + H2S -> 2FeCl2 + 2HCl + S; 2FeCl3 + 2H2O + SO2 -> 2FeCl2 + 2HCl + H2SO4.",
+   "mcqs": [
+    {
+     "question_bn": "FeCl2 দ্রবণে Cl2 চালনা করলে কী হয়?",
+     "question_en": "Passing Cl2 into FeCl2 solution gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "FeCl3",
+       "en": "FeCl3"
+      },
+      {
+       "id": "b",
+       "bn": "Fe",
+       "en": "Fe"
+      },
+      {
+       "id": "c",
+       "bn": "FeO",
+       "en": "FeO"
+      },
+      {
+       "id": "d",
+       "bn": "Fe(OH)2",
+       "en": "Fe(OH)2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2FeCl2 + Cl2 → 2FeCl3।",
+     "explanation_en": "2FeCl2 + Cl2 -> 2FeCl3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "FeCl3 দ্রবণে H2S চালনায় কোন পদার্থ অধঃক্ষিপ্ত হয়?",
+     "question_en": "H2S passed into FeCl3 solution deposits:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সালফার",
+       "en": "sulphur"
+      },
+      {
+       "id": "b",
+       "bn": "FeS",
+       "en": "FeS"
+      },
+      {
+       "id": "c",
+       "bn": "Fe2S3",
+       "en": "Fe2S3"
+      },
+      {
+       "id": "d",
+       "bn": "কিছুই না",
+       "en": "nothing"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2FeCl3 + H2S → 2FeCl2 + 2HCl + S।",
+     "explanation_en": "2FeCl3 + H2S -> 2FeCl2 + 2HCl + S.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "10FeSO4 + 2KMnO4 + 8H2SO4 বিক্রিয়ায় উৎপন্ন Fe2(SO4)3 এর মোল সংখ্যা কত?",
+     "question_en": "Moles of Fe2(SO4)3 formed in 10FeSO4 + 2KMnO4 + 8H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "10",
+       "en": "10"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সমীকরণে 5Fe2(SO4)3 পাওয়া যায়।",
+     "explanation_en": "The balanced equation gives 5Fe2(SO4)3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি ফেরিক লবণকে ফেরাস লবণে রূপান্তর করে?",
+     "question_en": "Which converts ferric to ferrous salt?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় HNO3",
+       "en": "conc. HNO3"
+      },
+      {
+       "id": "b",
+       "bn": "Cl2",
+       "en": "Cl2"
+      },
+      {
+       "id": "c",
+       "bn": "SO2",
+       "en": "SO2"
+      },
+      {
+       "id": "d",
+       "bn": "অম্লীয় KMnO4",
+       "en": "acidified KMnO4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "SO2 বিজারক; বাকিগুলো জারক।",
+     "explanation_en": "SO2 is a reductant; the rest are oxidants.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.19",
+   "title_bn": "কোবাল্টের অবস্থান বা উৎস",
+   "title_en": "Occurrence of cobalt",
+   "notes_bn": "কোবাল্ট প্রকৃতিতে মুক্ত অবস্থায় পাওয়া যায় না; প্রায়ই Fe, Ni এর সাথে আর্সেনিক ও সালফারের আকরিক হিসেবে থাকে।\nপ্রধান আকরিক: স্মল্টাইট (Co, Ni, Fe)As2, কোবাল্টাইট (Co, As)S, লিনাইট (Fe, Co, Ni)3S4।",
+   "notes_en": "Cobalt is not found free; it occurs with Fe, Ni as arsenide/sulphide ores.\nMain ores: smaltite (Co,Ni,Fe)As2, cobaltite (Co,As)S, linnaeite (Fe,Co,Ni)3S4.",
+   "mcqs": [
+    {
+     "question_bn": "কোবাল্টাইটের সংকেত কী?",
+     "question_en": "Formula of cobaltite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(Co,As)S",
+       "en": "(Co,As)S"
+      },
+      {
+       "id": "b",
+       "bn": "(Co,Ni,Fe)As2",
+       "en": "(Co,Ni,Fe)As2"
+      },
+      {
+       "id": "c",
+       "bn": "(Fe,Co,Ni)3S4",
+       "en": "(Fe,Co,Ni)3S4"
+      },
+      {
+       "id": "d",
+       "bn": "NiS",
+       "en": "NiS"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কোবাল্টাইট বা কোবাল্ট গ্ল্যান্স (Co, As)S।",
+     "explanation_en": "Cobaltite (cobalt glance) is (Co,As)S.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোবাল্টের আকরিক কোনটি?",
+     "question_en": "Which is an ore of cobalt?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "স্মল্টাইট",
+       "en": "Smaltite"
+      },
+      {
+       "id": "b",
+       "bn": "ম্যালাকাইট",
+       "en": "Malachite"
+      },
+      {
+       "id": "c",
+       "bn": "ম্যাগনেটাইট",
+       "en": "Magnetite"
+      },
+      {
+       "id": "d",
+       "bn": "পেন্টল্যান্ডাইট",
+       "en": "Pentlandite"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "স্মল্টাইট বা স্পাইস কোবাল্ট (Co,Ni,Fe)As2।",
+     "explanation_en": "Smaltite (speiss cobalt) is (Co,Ni,Fe)As2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "স্মল্টাইটে সালফার না আর্সেনিক আছে?",
+     "question_en": "Smaltite contains which non-metal as anion?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আর্সেনিক",
+       "en": "arsenic"
+      },
+      {
+       "id": "b",
+       "bn": "সালফার",
+       "en": "sulphur"
+      },
+      {
+       "id": "c",
+       "bn": "অক্সিজেন",
+       "en": "oxygen"
+      },
+      {
+       "id": "d",
+       "bn": "ক্লোরিন",
+       "en": "chlorine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সংকেত (Co,Ni,Fe)As2।",
+     "explanation_en": "Formula (Co,Ni,Fe)As2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.20",
+   "title_bn": "আকরিক থেকে কোবাল্ট নিষ্কাশন",
+   "title_en": "Extraction of cobalt from ores",
+   "notes_bn": "কোবাল্টাইট ও স্পাইস কোবাল্ট থেকে নিষ্কাশন জটিল।\n১. গাঢ়ীকরণ: তেল ফেনা ভাসমান পদ্ধতি।\n২. তাপজারণ: S → SO2, As → As2O3 (দূরীভূত); FeS → FeO।\n৩. বিগলন: সিলিকা ও চুনাপাথর যোগে বাত্যাচুল্লিতে ধাতুমল (CaSiO3, FeSiO3) সরে; নিচে Co, Ni, Cu এর সালফাইড/আর্সেনাইডের মিশ্রণ 'স্পাইস'।\n৪. স্পাইসকে NaCl সহ তাপজারণে ধাতুর ক্লোরাইড; Fe ও Cu আলাদা (FeCO3, CuCO3)।\n৫. Ni–Co পৃথকীকরণ: ব্লিচিং পাউডার দ্বারা CoCl2 → Co(OH)3 অধঃক্ষিপ্ত, NiCl2 দ্রবণে থাকে।\n৬. Co(OH)3 পোড়ালে Co3O4; Co3O4 + 4C → 3Co + 4CO।",
+   "notes_en": "Extraction from cobaltite and speiss cobalt is complex.\n1. Concentration by froth flotation.\n2. Roasting: S -> SO2, As -> As2O3 removed; FeS -> FeO.\n3. Smelting with silica and limestone: slag (CaSiO3, FeSiO3) removed; a molten mixture of Co/Ni/Cu sulphides/arsenides ('speiss') sinks.\n4. Speiss roasted with NaCl gives metal chlorides; Fe and Cu removed (FeCO3, CuCO3).\n5. Ni-Co separation: bleaching powder precipitates Co(OH)3, NiCl2 stays in solution.\n6. Co(OH)3 ignited -> Co3O4; Co3O4 + 4C -> 3Co + 4CO.",
+   "mcqs": [
+    {
+     "question_bn": "কোবাল্ট নিষ্কাশনে সালফাইড আকরিক গাঢ় করার পদ্ধতি কোনটি?",
+     "question_en": "Method used to concentrate sulphide ores of cobalt?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তেল ফেনা ভাসমান পদ্ধতি",
+       "en": "froth flotation"
+      },
+      {
+       "id": "b",
+       "bn": "চুম্বকীয় পৃথকীকরণ",
+       "en": "magnetic separation"
+      },
+      {
+       "id": "c",
+       "bn": "তড়িৎ বিশ্লেষণ",
+       "en": "electrolysis"
+      },
+      {
+       "id": "d",
+       "bn": "ধৌতকরণ",
+       "en": "gravity washing"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সালফাইড আকরিক তেল ফেনায় ভাসে।",
+     "explanation_en": "Sulphide ores float in the oil froth.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তাপজারণে আর্সেনিক কোন যৌগরূপে দূর হয়?",
+     "question_en": "In roasting, arsenic is removed as:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "As2O3",
+       "en": "As2O3"
+      },
+      {
+       "id": "b",
+       "bn": "AsH3",
+       "en": "AsH3"
+      },
+      {
+       "id": "c",
+       "bn": "As2S3",
+       "en": "As2S3"
+      },
+      {
+       "id": "d",
+       "bn": "As",
+       "en": "As"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "4As + 3O2 → 2As2O3।",
+     "explanation_en": "4As + 3O2 -> 2As2O3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Ni ও Co পৃথক করতে CoCl2 দ্রবণে কী ব্যবহার করা হয়?",
+     "question_en": "To separate Co from Ni, CoCl2 solution is treated with:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কলিচুন ও ব্লিচিং পাউডার",
+       "en": "slaked lime and bleaching powder"
+      },
+      {
+       "id": "b",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "H2S",
+       "en": "H2S"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বন মনোক্সাইড",
+       "en": "CO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Co(OH)3 অধঃক্ষিপ্ত হয়, Ni দ্রবণে থাকে।",
+     "explanation_en": "Co(OH)3 precipitates; Ni stays dissolved.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Co3O4 থেকে Co ধাতু পেতে কী ব্যবহৃত হয়?",
+     "question_en": "Co3O4 is reduced to Co using:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বন",
+       "en": "carbon"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "O2",
+       "en": "O2"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl",
+       "en": "NaCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Co3O4 + 4C → 3Co + 4CO।",
+     "explanation_en": "Co3O4 + 4C -> 3Co + 4CO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "12Co(OH)3 তাপ দিলে Co3O4 এর কত মোল পাওয়া যায়?",
+     "question_en": "Moles of Co3O4 from 12Co(OH)3 on heating?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "12",
+       "en": "12"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "12Co(OH)3 → 4Co3O4 + 18H2O + O2।",
+     "explanation_en": "12Co(OH)3 -> 4Co3O4 + 18H2O + O2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.21",
+   "title_bn": "কোবাল্ট শনাক্তকরণ পরীক্ষা",
+   "title_en": "Identification tests for cobalt",
+   "notes_bn": "শুষ্ক (বোরাক্স বিড): বোরাক্স বিডে কোবাল্ট লবণ গরম করলে উত্তপ্ত ও শীতল উভয় অবস্থায় নীল বিড (Co(BO2)2 ও NaCoBO3 এর মিশ্রণ)।\nভেজা পরীক্ষা: CoCl2 দ্রবণে NaHCO3 ও অল্প ব্রোমিন জল দিয়ে ২–৩ মিনিট ফুটালে সবুজ Na3[Co(CO3)3] উৎপন্ন হয়।",
+   "notes_en": "Dry (borax bead): cobalt salt gives a blue bead both hot and cold (Co(BO2)2 and NaCoBO3).\nWet test: CoCl2 with NaHCO3 and a little bromine water, boiled 2-3 min, gives green Na3[Co(CO3)3].",
+   "mcqs": [
+    {
+     "question_bn": "বোরাক্স বিড পরীক্ষায় কোবাল্টের বর্ণ কী?",
+     "question_en": "Borax bead colour for cobalt?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নীল",
+       "en": "blue"
+      },
+      {
+       "id": "b",
+       "bn": "সবুজ",
+       "en": "green"
+      },
+      {
+       "id": "c",
+       "bn": "লালচে বাদামি",
+       "en": "reddish brown"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণহীন",
+       "en": "colourless"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Co(BO2)2 ও NaCoBO3 এর নীল বিড।",
+     "explanation_en": "Blue bead of Co(BO2)2 and NaCoBO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোবাল্টের ভেজা পরীক্ষায় কোন সবুজ যৌগ পাওয়া যায়?",
+     "question_en": "Green compound in the wet test of Co2+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na3[Co(CO3)3]",
+       "en": "Na3[Co(CO3)3]"
+      },
+      {
+       "id": "b",
+       "bn": "Co(OH)3",
+       "en": "Co(OH)3"
+      },
+      {
+       "id": "c",
+       "bn": "CoO",
+       "en": "CoO"
+      },
+      {
+       "id": "d",
+       "bn": "NaCoBO3",
+       "en": "NaCoBO3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaHCO3 ও Br2 জলে জারিত Co3+ কার্বনেট জটিল।",
+     "explanation_en": "Oxidised Co3+ carbonate complex.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Co(NO3)2 তাপে বিয়োজিত হয়ে কী দেয়?",
+     "question_en": "Heating Co(NO3)2 gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CoO, NO2, O2",
+       "en": "CoO, NO2, O2"
+      },
+      {
+       "id": "b",
+       "bn": "Co, NO2",
+       "en": "Co, NO2"
+      },
+      {
+       "id": "c",
+       "bn": "Co2O3, N2",
+       "en": "Co2O3, N2"
+      },
+      {
+       "id": "d",
+       "bn": "CoCO3",
+       "en": "CoCO3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2Co(NO3)2 → 2CoO + 4NO2 + O2।",
+     "explanation_en": "2Co(NO3)2 -> 2CoO + 4NO2 + O2.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "3.22",
+   "title_bn": "নিকেলের অবস্থান বা উৎস",
+   "title_en": "Occurrence of nickel",
+   "notes_bn": "নিকেল মুক্ত অবস্থায় পাওয়া যায় না।\nআকরিক: পেন্টল্যান্ডাইট (Ni,Cu,Fe)S, স্মল্টাইট (Ni,Co,Fe)As2, মিলেরাইট NiS, নিকোলাইট NiAs, নিকেল গ্ল্যান্স NiAsS, গার্নিয়েরাইট (Ni,Mg)SiO3.xH2O।\nপেন্টল্যান্ডাইট সবচেয়ে গুরুত্বপূর্ণ আকরিক।",
+   "notes_en": "Nickel is not found free.\nOres: pentlandite (Ni,Cu,Fe)S, smaltite (Ni,Co,Fe)As2, millerite NiS, nicolite NiAs, nickel glance NiAsS, garnierite (Ni,Mg)SiO3.xH2O.\nPentlandite is the most important ore.",
+   "mcqs": [
+    {
+     "question_bn": "নিকেলের সবচেয়ে গুরুত্বপূর্ণ আকরিক কোনটি?",
+     "question_en": "Most important ore of nickel?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পেন্টল্যান্ডাইট",
+       "en": "Pentlandite"
+      },
+      {
+       "id": "b",
+       "bn": "মিলেরাইট",
+       "en": "Millerite"
+      },
+      {
+       "id": "c",
+       "bn": "নিকোলাইট",
+       "en": "Nicolite"
+      },
+      {
+       "id": "d",
+       "bn": "গার্নিয়েরাইট",
+       "en": "Garnierite"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে পেন্টল্যান্ডাইটকে প্রধান বলা হয়েছে।",
+     "explanation_en": "The book names pentlandite as the chief ore.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মিলেরাইটের সংকেত কী?",
+     "question_en": "Formula of millerite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NiS",
+       "en": "NiS"
+      },
+      {
+       "id": "b",
+       "bn": "NiAs",
+       "en": "NiAs"
+      },
+      {
+       "id": "c",
+       "bn": "NiAsS",
+       "en": "NiAsS"
+      },
+      {
+       "id": "d",
+       "bn": "(Ni,Cu,Fe)S",
+       "en": "(Ni,Cu,Fe)S"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিলেরাইট = NiS।",
+     "explanation_en": "Millerite = NiS.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিকোলাইটের সংকেত কী?",
+     "question_en": "Formula of nicolite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NiAs",
+       "en": "NiAs"
+      },
+      {
+       "id": "b",
+       "bn": "NiS",
+       "en": "NiS"
+      },
+      {
+       "id": "c",
+       "bn": "NiAsS",
+       "en": "NiAsS"
+      },
+      {
+       "id": "d",
+       "bn": "(Ni,Mg)SiO3.xH2O",
+       "en": "(Ni,Mg)SiO3.xH2O"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নিকোলাইট NiAs; NiAsS হলো নিকেল গ্ল্যান্স।",
+     "explanation_en": "Nicolite is NiAs; NiAsS is nickel glance.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.23",
+   "title_bn": "আকরিক থেকে নিকেল নিষ্কাশন",
+   "title_en": "Extraction of nickel from ores",
+   "notes_bn": "পেন্টল্যান্ডাইট থেকে: ১. তেল ফেনা ভাসমান পদ্ধতিতে গাঢ়ীকরণ ও তাপজারণ; ২. সিলিকা ও কোকসহ বাত্যাচুল্লিতে বিগলন (FeSiO3, CaSiO3 ধাতুমল); ৩. বেসিমার চুল্লিতে সিলিকাসহ জারণ—Fe সিলিকেটরূপে দূর; অবশিষ্ট 'নিকেল ম্যাট' (প্রায় 55% Ni, 25–30% Cu, 14–17% S, 0.1–0.5% Fe)।\n৪. মন্ড প্রক্রিয়া: ম্যাট পুড়িয়ে অক্সাইড; 80°C এ 15% H2SO4 দিয়ে CuO দূর (CuSO4); বিজারণ টাওয়ারে 300–350°C এ ওয়াটার গ্যাস (CO+H2) দ্বারা NiO → Ni; উদ্বায়ীকরণ টাওয়ারে 50–80°C এ CO দিয়ে Ni(CO)4; বিয়োজন টাওয়ারে 180°C এ Ni(CO)4 → Ni + 4CO (প্রায় 98% Ni)।\n৫. বিশুদ্ধকরণ: 25°C এ NiSO4.(NH4)2SO4.6H2O দ্রবণে তড়িৎ বিশ্লেষণ; অবিশুদ্ধ Ni অ্যানোড, বিশুদ্ধ Ni ক্যাথোড; ক্যাথোডে Ni2+ + 2e → Ni।",
+   "notes_en": "From pentlandite: 1. froth flotation and roasting; 2. smelting with silica and coke in a blast furnace (FeSiO3, CaSiO3 slag); 3. Bessemer converter with silica removes Fe as silicate; the residue is 'nickel matte' (~55% Ni, 25-30% Cu, 14-17% S, 0.1-0.5% Fe).\n4. Mond's process: matte roasted to oxides; CuO removed with 15% H2SO4 at 80 C; NiO reduced in a reduction tower at 300-350 C with water gas (CO+H2); volatilisation tower at 50-80 C with CO gives Ni(CO)4; decomposition tower at 180 C: Ni(CO)4 -> Ni + 4CO (~98% Ni).\n5. Refining: electrolysis at 25 C in NiSO4.(NH4)2SO4.6H2O; impure Ni anode, pure Ni cathode; Ni2+ + 2e -> Ni.",
+   "mcqs": [
+    {
+     "question_bn": "মন্ড প্রক্রিয়ায় বিশুদ্ধ নিকেল পেতে কোন যৌগ গঠিত হয়?",
+     "question_en": "Which volatile compound forms in Mond's process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ni(CO)4",
+       "en": "Ni(CO)4"
+      },
+      {
+       "id": "b",
+       "bn": "NiCl2",
+       "en": "NiCl2"
+      },
+      {
+       "id": "c",
+       "bn": "NiS",
+       "en": "NiS"
+      },
+      {
+       "id": "d",
+       "bn": "NiSO4",
+       "en": "NiSO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Ni + 4CO → Ni(CO)4 (50–80°C)।",
+     "explanation_en": "Ni + 4CO -> Ni(CO)4 at 50-80 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Ni(CO)4 কত তাপমাত্রায় বিয়োজিত হয়?",
+     "question_en": "Ni(CO)4 decomposes at about:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "180°C",
+       "en": "180 C"
+      },
+      {
+       "id": "b",
+       "bn": "50°C",
+       "en": "50 C"
+      },
+      {
+       "id": "c",
+       "bn": "300°C",
+       "en": "300 C"
+      },
+      {
+       "id": "d",
+       "bn": "80°C",
+       "en": "80 C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিয়োজন টাওয়ার 180°C।",
+     "explanation_en": "Decomposition tower is at 180 C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NiO কে Ni-তে বিজারিত করতে কী ব্যবহৃত হয়?",
+     "question_en": "NiO is reduced to Ni by:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ওয়াটার গ্যাস (CO+H2)",
+       "en": "water gas (CO+H2)"
+      },
+      {
+       "id": "b",
+       "bn": "Cl2",
+       "en": "Cl2"
+      },
+      {
+       "id": "c",
+       "bn": "H2SO4",
+       "en": "H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl",
+       "en": "NaCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "300–350°C এ H2 দ্বারা NiO → Ni।",
+     "explanation_en": "At 300-350 C, NiO + H2 -> Ni + H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিকেল ম্যাটের প্রধান উপাদান কোনটি?",
+     "question_en": "Main constituents of nickel matte?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NiS ও CuS",
+       "en": "NiS and CuS"
+      },
+      {
+       "id": "b",
+       "bn": "NiO ও FeO",
+       "en": "NiO and FeO"
+      },
+      {
+       "id": "c",
+       "bn": "NiCl2 ও CuCl2",
+       "en": "NiCl2 and CuCl2"
+      },
+      {
+       "id": "d",
+       "bn": "Ni ও Fe",
+       "en": "Ni and Fe"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ম্যাট প্রধানত NiS, CuS ও অল্প FeS।",
+     "explanation_en": "Matte is mainly NiS, CuS and a little FeS.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মন্ড প্রক্রিয়ায় কপার অক্সাইড কীভাবে দূর করা হয়?",
+     "question_en": "How is CuO removed in Mond's process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "80°C এ 15% H2SO4 দিয়ে ধৌত করে",
+       "en": "washing with 15% H2SO4 at 80 C"
+      },
+      {
+       "id": "b",
+       "bn": "CO দিয়ে",
+       "en": "with CO"
+      },
+      {
+       "id": "c",
+       "bn": "তড়িৎ বিশ্লেষণে",
+       "en": "by electrolysis"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl দিয়ে",
+       "en": "with NaCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CuO + H2SO4 → CuSO4 + H2O।",
+     "explanation_en": "CuO + H2SO4 -> CuSO4 + H2O.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.24",
+   "title_bn": "নিকেল শনাক্তকরণ পরীক্ষা",
+   "title_en": "Identification tests for nickel",
+   "notes_bn": "শুষ্ক (বোরাক্স বিড): উত্তপ্ত ও শীতল উভয় অবস্থায় লালচে বাদামি বিড (Ni(BO2)2 ও NaNiBO3)।\nভেজা: NiCl2 দ্রবণে NH4OH দিয়ে ক্ষারীয় করে ডাইমিথাইল গ্লাইঅক্সাইম যোগে লাল অধঃক্ষেপ।",
+   "notes_en": "Dry (borax bead): reddish-brown bead hot and cold (Ni(BO2)2 and NaNiBO3).\nWet: NiCl2 solution made ammoniacal with NH4OH, then dimethylglyoxime gives a red precipitate.",
+   "mcqs": [
+    {
+     "question_bn": "নিকেলের বোরাক্স বিডের বর্ণ কী?",
+     "question_en": "Borax bead colour for nickel?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লালচে বাদামি",
+       "en": "reddish brown"
+      },
+      {
+       "id": "b",
+       "bn": "নীল",
+       "en": "blue"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ",
+       "en": "green"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণহীন",
+       "en": "colourless"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Ni(BO2)2 ও NaNiBO3।",
+     "explanation_en": "Ni(BO2)2 and NaNiBO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Ni2+ এর ভেজা পরীক্ষায় কোন বিকারক ব্যবহৃত হয়?",
+     "question_en": "Reagent for the wet test of Ni2+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডাইমিথাইল গ্লাইঅক্সাইম",
+       "en": "dimethylglyoxime"
+      },
+      {
+       "id": "b",
+       "bn": "KSCN",
+       "en": "KSCN"
+      },
+      {
+       "id": "c",
+       "bn": "NaHCO3 ও Br2",
+       "en": "NaHCO3 and Br2"
+      },
+      {
+       "id": "d",
+       "bn": "K3[Fe(CN)6]",
+       "en": "K3[Fe(CN)6]"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH4OH-এ ক্ষারীয় দ্রবণে লাল অধঃক্ষেপ।",
+     "explanation_en": "Red ppt in ammoniacal solution.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিকেল-DMG অধঃক্ষেপের বর্ণ কী?",
+     "question_en": "Colour of the Ni-DMG precipitate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল",
+       "en": "red"
+      },
+      {
+       "id": "b",
+       "bn": "নীল",
+       "en": "blue"
+      },
+      {
+       "id": "c",
+       "bn": "সাদা",
+       "en": "white"
+      },
+      {
+       "id": "d",
+       "bn": "সবুজ",
+       "en": "green"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নিকেল ডাইমিথাইল গ্লাইঅক্সাইম লাল।",
+     "explanation_en": "Nickel dimethylglyoxime is red.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "3.25",
+   "title_bn": "কপারের অবস্থান বা উৎস",
+   "title_en": "Occurrence of copper",
+   "notes_bn": "কপার মৌলিক (প্রায় 99.9% বিশুদ্ধ) ও যৌগ উভয় অবস্থায় পাওয়া যায়।\nআকরিক: কপার গ্ল্যান্স Cu2S, কপার পাইরাইটস CuFeS2 (2–3% Cu), ম্যালাকাইট CuCO3.Cu(OH)2, অ্যাজুরাইট 2CuCO3.Cu(OH)2, মেলাকোনাইট CuO, ক্রাইসোকোলা CuSiO3.2H2O।\nকপার পাইরাইটস সবচেয়ে বেশি পাওয়া যায় ও প্রধান আকরিক।",
+   "notes_en": "Copper occurs native (about 99.9% pure) and combined.\nOres: copper glance Cu2S, copper pyrites CuFeS2 (2-3% Cu), malachite CuCO3.Cu(OH)2, azurite 2CuCO3.Cu(OH)2, melaconite CuO, chrysocolla CuSiO3.2H2O.\nCopper pyrites is the most abundant, main ore.",
+   "mcqs": [
+    {
+     "question_bn": "কপারের প্রধান আকরিক কোনটি?",
+     "question_en": "Principal ore of copper?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কপার পাইরাইটস",
+       "en": "copper pyrites"
+      },
+      {
+       "id": "b",
+       "bn": "ম্যালাকাইট",
+       "en": "malachite"
+      },
+      {
+       "id": "c",
+       "bn": "কপার গ্ল্যান্স",
+       "en": "copper glance"
+      },
+      {
+       "id": "d",
+       "bn": "ক্রাইসোকোলা",
+       "en": "chrysocolla"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সবচেয়ে বেশি পাওয়া যায়।",
+     "explanation_en": "Most abundant.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ম্যালাকাইটের সংকেত কোনটি?",
+     "question_en": "Formula of malachite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CuCO3.Cu(OH)2",
+       "en": "CuCO3.Cu(OH)2"
+      },
+      {
+       "id": "b",
+       "bn": "2CuCO3.Cu(OH)2",
+       "en": "2CuCO3.Cu(OH)2"
+      },
+      {
+       "id": "c",
+       "bn": "Cu2S",
+       "en": "Cu2S"
+      },
+      {
+       "id": "d",
+       "bn": "CuO",
+       "en": "CuO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যাজুরাইট 2CuCO3.Cu(OH)2।",
+     "explanation_en": "Azurite is 2CuCO3.Cu(OH)2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কপার পাইরাইটসে কপারের শতকরা পরিমাণ কত?",
+     "question_en": "Percentage of Cu in copper pyrites ore?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "২–৩%",
+       "en": "2-3%"
+      },
+      {
+       "id": "b",
+       "bn": "২০–৩০%",
+       "en": "20-30%"
+      },
+      {
+       "id": "c",
+       "bn": "৪০%",
+       "en": "40%"
+      },
+      {
+       "id": "d",
+       "bn": "৯৮%",
+       "en": "98%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী 2–3%।",
+     "explanation_en": "2-3% as per the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CuSiO3.2H2O কোন আকরিক?",
+     "question_en": "CuSiO3.2H2O is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্রাইসোকোলা",
+       "en": "chrysocolla"
+      },
+      {
+       "id": "b",
+       "bn": "মেলাকোনাইট",
+       "en": "melaconite"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাজুরাইট",
+       "en": "azurite"
+      },
+      {
+       "id": "d",
+       "bn": "কপার গ্ল্যান্স",
+       "en": "copper glance"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্রাইসোকোলা।",
+     "explanation_en": "Chrysocolla.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.26",
+   "title_bn": "আকরিক থেকে কপার নিষ্কাশন",
+   "title_en": "Extraction of copper from ores",
+   "notes_bn": "১. গাঢ়ীকরণ: ফেনা ভাসমান পদ্ধতি; Cu 20–30%।\n২. তাপজারণ: 2CuFeS2 + O2 → Cu2S + 2FeS + SO2; মিশ্রণে প্রায় 40% Cu।\n৩. বিগলন: বাত্যাচুল্লিতে সিলিকা (SiO2) সহ; FeO + SiO2 → FeSiO3 (ধাতুমল)। প্রাপ্ত FeS ও Cu2S মিশ্রণ 'কপার ম্যাট' (প্রায় 50% Cu)।\n৪. বেসিমার কনভার্টারে ম্যাটকে সিলিকাসহ বায়ু দিয়ে জারণ: 2FeS + 3O2 → 2FeO + 2SO2, FeO + SiO2 → FeSiO3; পরে 2Cu2S + 3O2 → 2Cu2O + 2SO2 এবং 2Cu2O + Cu2S → 6Cu + SO2 (স্বজারণ-বিজারণ)।\nফলে ফোসকা-যুক্ত 'ব্লিস্টার কপার' (98% Cu)।\nবিশুদ্ধকরণ: ব্লিস্টার কপার অ্যানোড, বিশুদ্ধ কপার ক্যাথোড, 15% CuSO4 দ্রবণ; ক্যাথোডে Cu2+ + 2e → Cu; 99.98% বিশুদ্ধ; অ্যানোড মাড়ে Ag, Au।",
+   "notes_en": "1. Concentration by froth flotation raises Cu to 20-30%.\n2. Roasting: 2CuFeS2 + O2 -> Cu2S + 2FeS + SO2; mixture ~40% Cu.\n3. Smelting with silica in a blast furnace: FeO + SiO2 -> FeSiO3 (slag); the FeS + Cu2S mixture is 'copper matte' (~50% Cu).\n4. Bessemer converter, air with silica: 2FeS + 3O2 -> 2FeO + 2SO2, FeO + SiO2 -> FeSiO3; then 2Cu2S + 3O2 -> 2Cu2O + 2SO2 and 2Cu2O + Cu2S -> 6Cu + SO2 (auto-reduction).\nThe blistered product is 'blister copper' (98% Cu).\nRefining: blister Cu anode, pure Cu cathode, 15% CuSO4 solution; Cu2+ + 2e -> Cu; 99.98% pure; Ag, Au collect in anode mud.",
+   "mcqs": [
+    {
+     "question_bn": "ব্লিস্টার কপারে কপারের শতকরা পরিমাণ কত?",
+     "question_en": "Cu content of blister copper?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৯৮%",
+       "en": "98%"
+      },
+      {
+       "id": "b",
+       "bn": "৫০%",
+       "en": "50%"
+      },
+      {
+       "id": "c",
+       "bn": "৪০%",
+       "en": "40%"
+      },
+      {
+       "id": "d",
+       "bn": "৯৯.৯৮%",
+       "en": "99.98%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ব্লিস্টার কপার 98% Cu।",
+     "explanation_en": "Blister copper is 98% Cu.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কপার ম্যাট কী?",
+     "question_en": "What is copper matte?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "FeS ও Cu2S এর মিশ্রণ",
+       "en": "a mixture of FeS and Cu2S"
+      },
+      {
+       "id": "b",
+       "bn": "CuO ও SiO2",
+       "en": "CuO and SiO2"
+      },
+      {
+       "id": "c",
+       "bn": "Cu ও Fe",
+       "en": "Cu and Fe"
+      },
+      {
+       "id": "d",
+       "bn": "CuSO4 দ্রবণ",
+       "en": "CuSO4 solution"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রায় 50% Cu।",
+     "explanation_en": "About 50% Cu.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেসিমার কনভার্টারে Cu2O ও Cu2S বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "Cu2O reacts with Cu2S in the converter to give:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu ও SO2",
+       "en": "Cu and SO2"
+      },
+      {
+       "id": "b",
+       "bn": "CuO ও S",
+       "en": "CuO and S"
+      },
+      {
+       "id": "c",
+       "bn": "CuS ও O2",
+       "en": "CuS and O2"
+      },
+      {
+       "id": "d",
+       "bn": "Cu2SO4",
+       "en": "Cu2SO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2Cu2O + Cu2S → 6Cu + SO2।",
+     "explanation_en": "2Cu2O + Cu2S -> 6Cu + SO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ব্লিস্টার কপারের বিশুদ্ধকরণে ইলেক্ট্রোলাইট কোনটি?",
+     "question_en": "Electrolyte for refining blister copper?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "15% CuSO4 দ্রবণ",
+       "en": "15% CuSO4 solution"
+      },
+      {
+       "id": "b",
+       "bn": "NiSO4",
+       "en": "NiSO4"
+      },
+      {
+       "id": "c",
+       "bn": "গলিত CuCl2",
+       "en": "molten CuCl2"
+      },
+      {
+       "id": "d",
+       "bn": "HCl",
+       "en": "HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যানোড অবিশুদ্ধ Cu, ক্যাথোড বিশুদ্ধ Cu।",
+     "explanation_en": "Impure Cu anode, pure Cu cathode.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ঢালাইয়ের সময় ব্লিস্টার কপারে ফোসকা পড়ে কেন?",
+     "question_en": "Why does blister copper show blisters?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দ্রবীভূত SO2 বের হয়ে",
+       "en": "dissolved SO2 escapes on cooling"
+      },
+      {
+       "id": "b",
+       "bn": "CO2 বের হয়ে",
+       "en": "CO2 escapes"
+      },
+      {
+       "id": "c",
+       "bn": "Cu2O গঠনে",
+       "en": "Cu2O formation"
+      },
+      {
+       "id": "d",
+       "bn": "জলীয় বাষ্পে",
+       "en": "water vapour"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গলিত কপারে SO2 দ্রবীভূত থাকে।",
+     "explanation_en": "Molten copper holds dissolved SO2.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "3.15",
+   "stimulus_bn": "একটি বাত্যাচুল্লিতে হিমাটাইট, কোক ও চুনাপাথর মিশ্রণ দেওয়া হয়। চুল্লির উপরে, মাঝে ও নিচে তাপমাত্রা ভিন্ন এবং প্রতিটি অংশে ভিন্ন বিক্রিয়া ঘটে।",
+   "stimulus_en": "A blast furnace is charged with haematite, coke and limestone. Temperature and reactions differ at the top, middle and bottom zones.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ধাতুমল কী?",
+     "question_en": "What is slag?",
+     "model_answer_bn": "গলিত ধাতুমল হলো CaSiO3, যা CaO ও SiO2 বিক্রিয়ায় তৈরি হয় এবং লৌহের উপর ভাসে।",
+     "model_answer_en": "Slag is molten CaSiO3 formed from CaO and SiO2, floating over the iron."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "চুল্লির উপরের অংশে কী বিক্রিয়া ঘটে?",
+     "question_en": "What happens in the upper zone?",
+     "model_answer_bn": "400–900°C এ CO দ্বারা Fe2O3 ও Fe3O4 বিজারিত হয়ে স্পঞ্জ লৌহ হয়: Fe2O3 + 3CO → 2Fe + 3CO2।",
+     "model_answer_en": "At 400-900 C CO reduces Fe2O3 and Fe3O4 to sponge iron: Fe2O3 + 3CO -> 2Fe + 3CO2."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "মাঝের অংশে চুনাপাথরের ভূমিকা সমীকরণসহ লেখো।",
+     "question_en": "Write the role of limestone in the middle zone with equations.",
+     "model_answer_bn": "CaCO3 → CaO + CO2; CaO + SiO2 → CaSiO3(l); এতে SiO2 অপদ্রব্য ধাতুমলরূপে সরে যায়।",
+     "model_answer_en": "CaCO3 -> CaO + CO2; CaO + SiO2 -> CaSiO3(l); the silica impurity is removed as slag."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "নিচের অংশে ফসফরাস ও সিলিকন কীভাবে লৌহে মেশে এবং ঢালাই লৌহে এদের পরিমাণ কত?",
+     "question_en": "How do P and Si enter the iron at the bottom, and what are their amounts in cast iron?",
+     "model_answer_bn": "P2O5 + 5C → 2P + 5CO, SiO2 + 2C → Si + 2CO; P, Si গলিত লৌহে শোষিত হয়। ঢালাই লৌহে প্রায় 1–1.5% Si ও 0.1% P (সাথে 2–4.5% C, 0.4% Mn) থাকে।",
+     "model_answer_en": "P2O5 + 5C -> 2P + 5CO and SiO2 + 2C -> Si + 2CO; P and Si dissolve in the molten iron. Cast iron has ~1-1.5% Si and 0.1% P (with 2-4.5% C, 0.4% Mn)."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.17",
+   "stimulus_bn": "দুটি পরীক্ষানলে যথাক্রমে FeSO4 ও FeCl3 দ্রবণ আছে। শিক্ষার্থী প্রতিটিতে একই বিকারক দিয়ে ভিন্ন ফল পেল।",
+   "stimulus_en": "Two test tubes contain FeSO4 and FeCl3 solutions. A student adds the same reagents and gets different results.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "রক্ত লাল বর্ণ কোন বিকারকে কোন আয়ন শনাক্ত করে?",
+     "question_en": "Which reagent gives a blood-red colour and with which ion?",
+     "model_answer_bn": "KSCN দ্রবণ, Fe3+ আয়ন।",
+     "model_answer_en": "KSCN solution, with Fe3+."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "NH4OH যোগে প্রতি নলে কী অধঃক্ষেপ পড়বে?",
+     "question_en": "What ppt forms in each tube with NH4OH?",
+     "model_answer_bn": "FeSO4: সবুজ Fe(OH)2; FeCl3: বাদামি Fe(OH)3।",
+     "model_answer_en": "FeSO4: green Fe(OH)2; FeCl3: brown Fe(OH)3."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "K3[Fe(CN)6] যোগে প্রতি নলে কী দেখা যাবে?",
+     "question_en": "What is seen with K3[Fe(CN)6] in each tube?",
+     "model_answer_bn": "FeSO4 এ গাঢ় নীল প্রুশিয়ান ব্লু; FeCl3 এ হালকা সবুজ/বাদামি বর্ণ।",
+     "model_answer_en": "FeSO4: deep Prussian blue; FeCl3: pale green/brown colour."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "কাঠ কয়লা পরীক্ষায় লৌহ লবণ থেকে লৌহ গুঁড়া তৈরির সমীকরণগুলো লেখো এবং এটি কীভাবে শনাক্ত হয় ব্যাখ্যা করো।",
+     "question_en": "Write the equations by which iron powder forms in the charcoal test and explain how it is identified.",
+     "model_answer_bn": "FeSO4 + Na2CO3 → FeCO3 + Na2SO4; FeCO3 → FeO + CO2; FeO + C → Fe + CO। উৎপন্ন ধূসর লৌহ গুঁড়া চুম্বকে আকৃষ্ট হয়।",
+     "model_answer_en": "FeSO4 + Na2CO3 -> FeCO3 + Na2SO4; FeCO3 -> FeO + CO2; FeO + C -> Fe + CO. The grey iron powder is attracted by a magnet."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.26",
+   "stimulus_bn": "কপার পাইরাইটস আকরিক থেকে কপার নিষ্কাশনের একটি কারখানায় ম্যাট থেকে ব্লিস্টার কপার ও পরে বিশুদ্ধ কপার তৈরি হয়।",
+   "stimulus_en": "A plant extracts copper from copper pyrites, converting matte to blister copper and then to pure copper.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ব্লিস্টার কপার কী?",
+     "question_en": "What is blister copper?",
+     "model_answer_bn": "বেসিমার কনভার্টার থেকে প্রাপ্ত ফোসকাযুক্ত প্রায় 98% বিশুদ্ধ কপার।",
+     "model_answer_en": "About 98% pure copper with blisters from the Bessemer converter."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "কপার ম্যাট কী দিয়ে গঠিত?",
+     "question_en": "What is copper matte made of?",
+     "model_answer_bn": "FeS ও Cu2S এর মিশ্রণ, প্রায় 50% Cu।",
+     "model_answer_en": "A mixture of FeS and Cu2S, ~50% Cu."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "কনভার্টারে Cu2S থেকে Cu পাওয়ার সমীকরণ লেখো।",
+     "question_en": "Write the equations giving Cu from Cu2S in the converter.",
+     "model_answer_bn": "2Cu2S + 3O2 → 2Cu2O + 2SO2; 2Cu2O + Cu2S → 6Cu + SO2।",
+     "model_answer_en": "2Cu2S + 3O2 -> 2Cu2O + 2SO2; 2Cu2O + Cu2S -> 6Cu + SO2."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ব্লিস্টার কপারের তড়িৎ বিশ্লেষণ ব্যাখ্যা করো; অ্যানোড মাড়ে কী জমে?",
+     "question_en": "Explain electrolytic refining of blister copper; what collects in the anode mud?",
+     "model_answer_bn": "অ্যানোড ব্লিস্টার কপার, ক্যাথোড বিশুদ্ধ কপার, ইলেক্ট্রোলাইট 15% CuSO4। অ্যানোডে Cu → Cu2+ + 2e, ক্যাথোডে Cu2+ + 2e → Cu; 99.98% বিশুদ্ধ। অ্যানোড মাড়ে Ag ও Au জমে।",
+     "model_answer_en": "Anode: blister Cu, cathode: pure Cu, electrolyte 15% CuSO4. Anode: Cu -> Cu2+ + 2e; cathode: Cu2+ + 2e -> Cu; 99.98% pure. Ag and Au collect in the anode mud."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 180-193 readable. Section 3.15 sub-point 3.15(1) (cast iron uses) refers to another section and is skipped; 3.27-3.29 (copper reactions/uses/tests) are outside this chunk's assigned sections. 3.22 minor: stray formula spacing in scan."
+}

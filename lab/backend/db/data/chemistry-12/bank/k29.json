@@ -1,0 +1,2005 @@
+{
+ "chapter_no": 10,
+ "topics": [
+  {
+   "section_no": "10.1",
+   "title_bn": "ভূমিকা",
+   "title_en": "Introduction",
+   "notes_bn": "অ্যামোনিয়ার এক বা একাধিক H পরমাণু অ্যালকাইল/অ্যারাইল মূলক দ্বারা প্রতিস্থাপিত হলে অ্যামিন পাওয়া যায়।\nউদাহরণ: মিথাইল অ্যামিন, ডাইমিথাইল অ্যামিন, ট্রাইমিথাইল অ্যামিন, ফিনাইল অ্যামিন (অ্যানিলিন)।\nশুধু অ্যালকাইল মূলক থাকলে অ্যালিফেটিক অ্যামিন; অ্যারাইল (বা অ্যারাইল ও অ্যালকাইল) থাকলে অ্যারোমেটিক অ্যামিন।\nN পরমাণুতে একজোড়া নিঃসঙ্গ ইলেকট্রন থাকে।",
+   "notes_en": "Amines are derived from NH3 by replacing one or more H atoms with alkyl/aryl groups.\nExamples: methylamine, dimethylamine, trimethylamine, phenylamine (aniline).\nOnly alkyl groups: aliphatic amine; aryl (or aryl+alkyl): aromatic amine.\nThe N atom carries a lone pair.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যামিনকে কোন যৌগের জৈব ব্যুৎপন্ন বলা যায়?",
+     "question_en": "Amines are organic derivatives of which compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO2",
+       "en": "CO2"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামোনিয়া",
+       "en": "Ammonia"
+      },
+      {
+       "id": "c",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "d",
+       "bn": "পানি",
+       "en": "Water"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NH3-এর H পরমাণু অ্যালকাইল/অ্যারাইল মূলক দ্বারা প্রতিস্থাপিত হয়ে অ্যামিন তৈরি হয়।",
+     "explanation_en": "Replacing H of NH3 by alkyl/aryl groups gives amines.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি অ্যারোমেটিক অ্যামিন?",
+     "question_en": "Which is an aromatic amine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথাইল অ্যামিন",
+       "en": "Methylamine"
+      },
+      {
+       "id": "b",
+       "bn": "ডাইমিথাইল অ্যামিন",
+       "en": "Dimethylamine"
+      },
+      {
+       "id": "c",
+       "bn": "ফিনাইল অ্যামিন",
+       "en": "Phenylamine"
+      },
+      {
+       "id": "d",
+       "bn": "ট্রাইমিথাইল অ্যামিন",
+       "en": "Trimethylamine"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ফিনাইল (অ্যারাইল) মূলকযুক্ত অ্যামিন অ্যারোমেটিক।",
+     "explanation_en": "Phenylamine contains an aryl group so it is aromatic.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফিনাইল অ্যামিনের বাণিজ্যিক নাম কী?",
+     "question_en": "What is the commercial name of phenylamine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "b",
+       "bn": "টলুইডিন",
+       "en": "Toluidine"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজাইল অ্যামিন",
+       "en": "Benzylamine"
+      },
+      {
+       "id": "d",
+       "bn": "পাইরিডিন",
+       "en": "Pyridine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফিনাইল অ্যামিন বাণিজ্যিকভাবে অ্যানিলিন নামে পরিচিত।",
+     "explanation_en": "Phenylamine is commercially called aniline.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগে N পরমাণুতে নিঃসঙ্গ ইলেকট্রন জোড় থাকায় অ্যামিনের ক্ষারধর্ম দেখা যায়, এর সঠিক কারণ কোনটি?",
+     "question_en": "Amines show basic character mainly because:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N-এ নিঃসঙ্গ ইলেকট্রন জোড় আছে",
+       "en": "N has a lone pair"
+      },
+      {
+       "id": "b",
+       "bn": "N-এ ধনাত্মক চার্জ আছে",
+       "en": "N carries a positive charge"
+      },
+      {
+       "id": "c",
+       "bn": "C-N বন্ধন আয়নিক",
+       "en": "C-N bond is ionic"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকাইল মূলক অম্লীয়",
+       "en": "alkyl group is acidic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নিঃসঙ্গ জোড় H+ গ্রহণ করে, তাই অ্যামিন ক্ষার।",
+     "explanation_en": "The lone pair accepts H+, making amines bases.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.2",
+   "title_bn": "অ্যামিনের শ্রেণীবিভাগ",
+   "title_en": "Classification of Amines",
+   "notes_bn": "গঠন অনুসারে: অ্যালিফেটিক, অ্যারোমেটিক ও বিষম চাক্রিক অ্যামিন (সাইক্লোইথিলিন অ্যামিন, পাইরোলিডিন, পাইরোল, পিরিডিন)।\nN-এ যুক্ত অ্যালকাইল/অ্যারাইল সংখ্যায়: 1° (RNH2, একযোজী -NH2), 2° (R2NH), 3° (R3N)।\nকোয়ার্টারনারি অ্যামোনিয়াম লবণ [R4N]X: N-এ নিঃসঙ্গ জোড় নেই, তাই ক্ষারধর্মী নয়।\nঅ্যামিনো মূলক সংখ্যায়: মনো-, ডাই-, পলিঅ্যামিন (যেমন 1,2-ডাইঅ্যামিনো ইথেন)।",
+   "notes_en": "By structure: aliphatic, aromatic, heterocyclic amines (cycloethyleneamine, pyrrolidine, pyrrole, pyridine).\nBy alkyl/aryl groups on N: 1° (RNH2), 2° (R2NH), 3° (R3N).\nQuaternary ammonium salt [R4N]X has no lone pair on N so it is not basic.\nBy number of amino groups: mono-, di-, polyamines (e.g. 1,2-diaminoethane).",
+   "mcqs": [
+    {
+     "question_bn": "(CH3)2NH কোন শ্রেণীর অ্যামিন?",
+     "question_en": "(CH3)2NH is which class of amine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রাইমারি",
+       "en": "Primary"
+      },
+      {
+       "id": "b",
+       "bn": "সেকেন্ডারি",
+       "en": "Secondary"
+      },
+      {
+       "id": "c",
+       "bn": "টারশিয়ারি",
+       "en": "Tertiary"
+      },
+      {
+       "id": "d",
+       "bn": "কোয়ার্টারনারি",
+       "en": "Quaternary"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "N-এ দুটি অ্যালকাইল মূলক ও একটি H আছে, তাই 2°।",
+     "explanation_en": "N bears two alkyl groups and one H: 2°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ট্রাইমিথাইল অ্যামিনের N-এ কয়টি অ্যালকাইল মূলক যুক্ত?",
+     "question_en": "How many alkyl groups are attached to N in trimethylamine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "3° অ্যামিনে তিনটি মূলক থাকে।",
+     "explanation_en": "A 3° amine has three groups.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি বিষম চাক্রিক অ্যারোমেটিক অ্যামিন?",
+     "question_en": "Which is a heterocyclic aromatic amine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পাইরোলিডিন",
+       "en": "Pyrrolidine"
+      },
+      {
+       "id": "b",
+       "bn": "পিরিডিন",
+       "en": "Pyridine"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "Ethylamine"
+      },
+      {
+       "id": "d",
+       "bn": "সাইক্লোইথিলিন অ্যামিন",
+       "en": "Cycloethyleneamine"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পাইরোল ও পিরিডিন অ্যারোমেটিক বিষম চাক্রিক; পাইরোলিডিন অ্যালিফেটিক।",
+     "explanation_en": "Pyrrole and pyridine are aromatic heterocycles; pyrrolidine is aliphatic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "[R4N]X লবণ 1°, 2°, 3° অ্যামিনের মতো ক্ষারধর্মী নয় কেন?",
+     "question_en": "Why is [R4N]X not basic like 1°, 2°, 3° amines?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N-এ নিঃসঙ্গ ইলেকট্রন জোড় নেই",
+       "en": "No lone pair on N"
+      },
+      {
+       "id": "b",
+       "bn": "এতে H নেই",
+       "en": "It has no hydrogen"
+      },
+      {
+       "id": "c",
+       "bn": "এটি জৈব নয়",
+       "en": "It is not organic"
+      },
+      {
+       "id": "d",
+       "bn": "এতে হ্যালোজেন আছে",
+       "en": "It has a halogen"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "চারটি বন্ধনে N-এর জোড় ব্যবহৃত, ফলে প্রোটন গ্রহণ সম্ভব নয়।",
+     "explanation_en": "All of N's electrons are in bonds, so it cannot accept a proton.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.3",
+   "title_bn": "প্রাণিদেহে অ্যামিনের গুরুত্ব",
+   "title_en": "Role of Amines in Animal Body",
+   "notes_bn": "স্নায়ুতন্ত্রের উত্তেজনায় বিভিন্ন অ্যামিন (যেমন অ্যাড্রেনালিন) নিঃসৃত হয়।\nবেনাড্রিল (3° অ্যামিন) অ্যালার্জি চিকিৎসায় ব্যবহৃত হয়।\nসালফানিলামাইড (জীবাণুনাশক), অ্যামফেটামিন (উদ্দীপক), পেথিডিন (পেইন কিলার), লিব্রিয়াম (নিদ্রাকারক) অ্যামিনো মূলকযুক্ত ওষুধ।\nঅ্যামিনো অ্যাসিডে -NH2 ও -COOH থাকে; RNA ও DNA-র ক্ষারক অংশ অ্যামিন।",
+   "notes_en": "Amines such as adrenaline are released on nerve stimulation.\nBenadryl (a 3° amine) is used for allergy.\nSulphanilamide (antibacterial), amphetamine (stimulant), pethidine (painkiller), librium (sedative) contain amino groups.\nAmino acids carry -NH2 and -COOH; the bases of RNA and DNA are amines.",
+   "mcqs": [
+    {
+     "question_bn": "স্নায়ু থেকে নিঃসৃত অ্যামিন কোনটি?",
+     "question_en": "Which amine is released from nerves?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাড্রেনালিন",
+       "en": "Adrenaline"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "c",
+       "bn": "মিথাইল অরেঞ্জ",
+       "en": "Methyl orange"
+      },
+      {
+       "id": "d",
+       "bn": "নাইলন",
+       "en": "Nylon"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "স্নায়বিক দুশ্চিন্তায় অ্যাড্রেনালিন নিঃসৃত হয়।",
+     "explanation_en": "Adrenaline is released from nerves under stimulation.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালার্জির চিকিৎসায় ব্যবহৃত বেনাড্রিল কোন শ্রেণীর অ্যামিন?",
+     "question_en": "Benadryl, used for allergy, is which class of amine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1°",
+       "en": "1°"
+      },
+      {
+       "id": "b",
+       "bn": "2°",
+       "en": "2°"
+      },
+      {
+       "id": "c",
+       "bn": "3°",
+       "en": "3°"
+      },
+      {
+       "id": "d",
+       "bn": "কোয়ার্টারনারি",
+       "en": "Quaternary"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে বেনাড্রিলকে 3° অ্যামিন বলা হয়েছে।",
+     "explanation_en": "The book describes benadryl as a 3° amine.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সালফানিলামাইডের কাজ কী?",
+     "question_en": "What is the function of sulphanilamide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উদ্দীপক",
+       "en": "Stimulant"
+      },
+      {
+       "id": "b",
+       "bn": "জীবাণুনাশক",
+       "en": "Antibacterial"
+      },
+      {
+       "id": "c",
+       "bn": "নিদ্রাকারক",
+       "en": "Sedative"
+      },
+      {
+       "id": "d",
+       "bn": "পেইন কিলার",
+       "en": "Painkiller"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সালফানিলামাইড জীবাণুনাশক।",
+     "explanation_en": "Sulphanilamide is an antibacterial.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "10.4",
+   "title_bn": "অ্যালিফেটিক অ্যামিনের নামকরণ",
+   "title_en": "Nomenclature of Aliphatic Amines",
+   "notes_bn": "সাধারণ পদ্ধতি: অ্যালকাইল মূলকের নামের পর 'অ্যামিন' (যেমন ইথাইল অ্যামিন, আইসো-প্রোপাইল অ্যামিন)।\nIUPAC: 1° অ্যামিন = অ্যামিনো অ্যালকেন; দীর্ঘতম শিকলে -NH2 ধরে সংখ্যায়ন (1-অ্যামিনো প্রোপেন)।\n2°/3° অ্যামিনে N-অ্যালকাইল/N,N-ডাইঅ্যালকাইল 'অ্যামিনো'-র আগে বসে (1-(N-মিথাইল অ্যামিনো) বিউটেন)।\n-OH/-COOH থাকলে অগ্রাধিকার তালিকা মানা হয়।\nঅ্যারোমেটিক: ফিনাইল অ্যামিন/অ্যানিলিন; N-মিথাইল অ্যানিলিন; 4-মিথাইল অ্যানিলিন (প্যারাটলুইডিন)।",
+   "notes_en": "Common system: alkyl name + 'amine' (ethylamine, isopropylamine).\nIUPAC: 1° amine = aminoalkane; number the longest chain bearing -NH2 (1-aminopropane).\nFor 2°/3° amines, N-alkyl / N,N-dialkyl prefixes precede 'amino' (1-(N-methylamino)butane).\nIf -OH/-COOH present, priority order applies.\nAromatic: phenylamine/aniline; N-methylaniline; 4-methylaniline (p-toluidine).",
+   "mcqs": [
+    {
+     "question_bn": "CH3-CH2-NH2 এর সাধারণ নাম কী?",
+     "question_en": "Common name of CH3-CH2-NH2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথাইল অ্যামিন",
+       "en": "Methylamine"
+      },
+      {
+       "id": "b",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "Ethylamine"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপাইল অ্যামিন",
+       "en": "Propylamine"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথাইল মূলক + অ্যামিন।",
+     "explanation_en": "Ethyl group + amine.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH3CH2CH2NH2 এর IUPAC নাম কী?",
+     "question_en": "IUPAC name of CH3CH2CH2NH2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2-অ্যামিনো প্রোপেন",
+       "en": "2-Aminopropane"
+      },
+      {
+       "id": "b",
+       "bn": "1-অ্যামিনো প্রোপেন",
+       "en": "1-Aminopropane"
+      },
+      {
+       "id": "c",
+       "bn": "1-অ্যামিনো ইথেন",
+       "en": "1-Aminoethane"
+      },
+      {
+       "id": "d",
+       "bn": "1-অ্যামিনো বিউটেন",
+       "en": "1-Aminobutane"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তিন কার্বন শিকলের C-1-এ -NH2।",
+     "explanation_en": "Three-carbon chain with -NH2 on C-1.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "(CH3)3N এর সাধারণ নাম কী?",
+     "question_en": "Common name of (CH3)3N?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডাইমিথাইল অ্যামিন",
+       "en": "Dimethylamine"
+      },
+      {
+       "id": "b",
+       "bn": "ইথাইল মিথাইল অ্যামিন",
+       "en": "Ethylmethylamine"
+      },
+      {
+       "id": "c",
+       "bn": "ট্রাইমিথাইল অ্যামিন",
+       "en": "Trimethylamine"
+      },
+      {
+       "id": "d",
+       "bn": "আইসো-প্রোপাইল অ্যামিন",
+       "en": "Isopropylamine"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "তিনটি মিথাইল মূলক যুক্ত।",
+     "explanation_en": "Three methyl groups on N.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH3-CH2-CH2-CH2-NH-CH3 এর IUPAC নাম কোনটি (বইয়ের পদ্ধতিতে)?",
+     "question_en": "IUPAC name of CH3CH2CH2CH2NHCH3 (book method)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1-(N-মিথাইল অ্যামিনো) বিউটেন",
+       "en": "1-(N-methylamino)butane"
+      },
+      {
+       "id": "b",
+       "bn": "2-(N-মিথাইল অ্যামিনো) বিউটেন",
+       "en": "2-(N-methylamino)butane"
+      },
+      {
+       "id": "c",
+       "bn": "N-বিউটাইল অ্যামিনো মিথেন",
+       "en": "N-butylaminomethane"
+      },
+      {
+       "id": "d",
+       "bn": "1-অ্যামিনো পেন্টেন",
+       "en": "1-Aminopentane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিউটেন শিকলের C-1-এ NHCH3।",
+     "explanation_en": "NHCH3 sits on C-1 of butane.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C6H5-NH-CH3 এর নাম কী?",
+     "question_en": "Name of C6H5-NH-CH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N-মিথাইল অ্যানিলিন",
+       "en": "N-methylaniline"
+      },
+      {
+       "id": "b",
+       "bn": "N,N-ডাইমিথাইল অ্যানিলিন",
+       "en": "N,N-dimethylaniline"
+      },
+      {
+       "id": "c",
+       "bn": "প্যারাটলুইডিন",
+       "en": "p-toluidine"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজাইল অ্যামিন",
+       "en": "Benzylamine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "N-এ একটি মিথাইল; 2° অ্যারোমেটিক অ্যামিন।",
+     "explanation_en": "One methyl on N: 2° aromatic amine.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.5",
+   "title_bn": "অ্যামিনের সমাণুতা",
+   "title_en": "Isomerism of Amines",
+   "notes_bn": "চেইন সমাণুতা: C4H11N-এ 1-অ্যামিনো বিউটেন ও 2-মিথাইল-1-অ্যামিনো প্রোপেন।\nঅবস্থান সমাণুতা: 1-অ্যামিনো বিউটেন ও 2-অ্যামিনো বিউটেন।\nমেটামারিজম: ডাইইথাইল অ্যামিন ও মিথাইল-প্রোপাইল অ্যামিন।\nশ্রেণী সমাণুতা: C3H9N-এর n-প্রোপাইল অ্যামিন (1°), ইথাইল মিথাইল অ্যামিন (2°), ট্রাইমিথাইল অ্যামিন (3°)।\nC7H9N-এর ৪টি অ্যারোমেটিক সমাণু (2-,3-,4-অ্যামিনো টলুইন, N-মিথাইল অ্যানিলিন) ও ১টি বেনজাইল অ্যামিন।",
+   "notes_en": "Chain isomers of C4H11N: 1-aminobutane and 2-methyl-1-aminopropane.\nPosition isomers: 1-aminobutane and 2-aminobutane.\nMetamerism: diethylamine and methylpropylamine.\nFunctional class isomers of C3H9N: n-propylamine (1°), ethylmethylamine (2°), trimethylamine (3°).\nC7H9N: four aromatic isomers (2-,3-,4-aminotoluene, N-methylaniline) plus one benzylamine.",
+   "mcqs": [
+    {
+     "question_bn": "C3H9N সংকেতের অ্যামিন সমাণু কয় শ্রেণীর হয়?",
+     "question_en": "C3H9N amine isomers belong to how many classes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "1°, 2° ও 3° তিন শ্রেণী।",
+     "explanation_en": "1°, 2° and 3°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডাইইথাইল অ্যামিন ও মিথাইল প্রোপাইল অ্যামিন কী ধরনের সমাণু?",
+     "question_en": "Diethylamine and methylpropylamine are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চেইন",
+       "en": "Chain"
+      },
+      {
+       "id": "b",
+       "bn": "অবস্থান",
+       "en": "Position"
+      },
+      {
+       "id": "c",
+       "bn": "মেটামার",
+       "en": "Metamers"
+      },
+      {
+       "id": "d",
+       "bn": "শ্রেণী",
+       "en": "Functional"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N-এ যুক্ত অ্যালকাইল মূলক ভিন্ন—মেটামারিজম।",
+     "explanation_en": "Different alkyl groups on N: metamerism.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C7H9N-এর কয়টি অ্যারোমেটিক সমাণু বইয়ে দেখানো হয়েছে?",
+     "question_en": "How many aromatic isomers of C7H9N does the book show?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "৪",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "৫",
+       "en": "5"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "৪টি অ্যারোমেটিক ও ১টি বেনজাইল অ্যামিন।",
+     "explanation_en": "Four aromatic plus benzylamine.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1-অ্যামিনো বিউটেন ও 2-অ্যামিনো বিউটেন কোন সমাণু?",
+     "question_en": "1-Aminobutane and 2-aminobutane are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চেইন",
+       "en": "Chain"
+      },
+      {
+       "id": "b",
+       "bn": "অবস্থান",
+       "en": "Position"
+      },
+      {
+       "id": "c",
+       "bn": "মেটামার",
+       "en": "Metamers"
+      },
+      {
+       "id": "d",
+       "bn": "কার্যকরী মূলক",
+       "en": "Functional"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "-NH2 এর অবস্থান ভিন্ন।",
+     "explanation_en": "Different position of -NH2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.6",
+   "title_bn": "অ্যামিনসমূহের সাধারণ প্রস্তুত প্রণালী",
+   "title_en": "General Methods of Preparation of Amines",
+   "notes_bn": "অ্যালকাইল হ্যালাইড + NH3 (আবদ্ধ পাত্রে, চাপ ও তাপ) → 1°, 2°, 3° অ্যামিন ও 4° লবণের মিশ্রণ।\nঅ্যালকেন নাইট্রাইল LiAlH4 দ্বারা বিজারিত হয়ে 1° অ্যামিন; আইসোনাইট্রাইল থেকে 2° অ্যামিন।\nনাইট্রোঅ্যালকেন + Sn/HCl (বা H2/Ni) → 1° অ্যামিন (CH3NO2 → CH3NH2)।\nঅ্যারোমেটিক: বেনজ্যামাইড + Br2 + NaOH (হফম্যান) → অ্যানিলিন; নাইট্রোবেনজিন + Sn/HCl → অ্যানিলিন; ক্লোরোবেনজিন + NH3 (Cu2O, 200°C, 500 atm); অ্যানিলিন + CH3I → 2°, 3°।",
+   "notes_en": "Alkyl halide + NH3 (sealed vessel, heat) gives a mixture of 1°, 2°, 3° amines and a 4° salt.\nNitriles reduced by LiAlH4 give 1° amines; isonitriles give 2° amines.\nNitroalkane + Sn/HCl gives 1° amine (CH3NO2 to CH3NH2).\nAromatic: benzamide + Br2 + NaOH (Hofmann); nitrobenzene + Sn/HCl; chlorobenzene + NH3 (Cu2O, 200°C, 500 atm); aniline + CH3I gives 2°, 3° amines.",
+   "mcqs": [
+    {
+     "question_bn": "LiAlH4 দ্বারা অ্যালকেন নাইট্রাইল বিজারণে কোন অ্যামিন পাওয়া যায়?",
+     "question_en": "Reduction of an alkane nitrile with LiAlH4 gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1° অ্যামিন",
+       "en": "1° amine"
+      },
+      {
+       "id": "b",
+       "bn": "2° অ্যামিন",
+       "en": "2° amine"
+      },
+      {
+       "id": "c",
+       "bn": "3° অ্যামিন",
+       "en": "3° amine"
+      },
+      {
+       "id": "d",
+       "bn": "4° লবণ",
+       "en": "4° salt"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "R-CN → R-CH2-NH2।",
+     "explanation_en": "R-CN to R-CH2-NH2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নাইট্রোমিথেনকে Sn/HCl দ্বারা বিজারিত করলে কী পাওয়া যায়?",
+     "question_en": "Reduction of nitromethane with Sn/HCl gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "Ethylamine"
+      },
+      {
+       "id": "b",
+       "bn": "মিথাইল অ্যামিন",
+       "en": "Methylamine"
+      },
+      {
+       "id": "c",
+       "bn": "ডাইমিথাইল অ্যামিন",
+       "en": "Dimethylamine"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH3NO2 + 6[H] → CH3NH2 + 2H2O।",
+     "explanation_en": "CH3NO2 + 6[H] gives CH3NH2 + 2H2O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হফম্যান ক্ষুদ্রাংশকরণে মূল অ্যামাইডের চেয়ে অ্যামিনে কার্বন সংখ্যা কেমন?",
+     "question_en": "In Hofmann degradation the amine has ___ than the amide:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একটি কম",
+       "en": "one carbon less"
+      },
+      {
+       "id": "b",
+       "bn": "একটি বেশি",
+       "en": "one carbon more"
+      },
+      {
+       "id": "c",
+       "bn": "সমান",
+       "en": "same"
+      },
+      {
+       "id": "d",
+       "bn": "দুটি কম",
+       "en": "two less"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CO2 হিসেবে একটি C বাদ যায়।",
+     "explanation_en": "One carbon is lost as carbonate/CO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরোবেনজিন থেকে অ্যানিলিন তৈরিতে অনুঘটক ও শর্ত কী?",
+     "question_en": "Conditions for making aniline from chlorobenzene and NH3:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu2O, ~200°C, ~500 atm",
+       "en": "Cu2O, ~200°C, ~500 atm"
+      },
+      {
+       "id": "b",
+       "bn": "Ni, 25°C, 1 atm",
+       "en": "Ni, 25°C, 1 atm"
+      },
+      {
+       "id": "c",
+       "bn": "Pd, 100°C",
+       "en": "Pd, 100°C"
+      },
+      {
+       "id": "d",
+       "bn": "LiAlH4, ইথার",
+       "en": "LiAlH4, ether"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 500 atm ও 200°C-এ Cu2O দেওয়া আছে।",
+     "explanation_en": "Book gives Cu2O at 200°C and 500 atm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যানিলিন থেকে N,N-ডাইমিথাইল অ্যানিলিন পেতে কয় মোল CH3I লাগে?",
+     "question_en": "Moles of CH3I needed to convert aniline to N,N-dimethylaniline:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ধাপে ধাপে দুটি H মিথাইল দ্বারা প্রতিস্থাপিত হয়।",
+     "explanation_en": "Two N-H hydrogens are replaced stepwise.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.7",
+   "title_bn": "পরীক্ষাগারে মিথাইল অ্যামিন প্রস্তুতি",
+   "title_en": "Lab Preparation of Methylamine",
+   "notes_bn": "মূলনীতি: ইথান্যামাইড + Br2 + KOH (গরম) → CH3NH2 + 2KBr + K2CO3 + 2H2O (হফম্যান ডিগ্রেডেশন)।\n20 g ইথান্যামাইড, 18 mL Br2, 10% KOH দিয়ে হলুদ বর্ণ ধীরে, পরে 100 mL 40% KOH।\nনির্গত গ্যাস HCl দ্রবণে শোষণ → CH3NH2·HCl; KOH-সহযোগে বিশুদ্ধ মিথাইল অ্যামিন।\nমেকানিজম: KOH+Br2 → KOBr; N-ব্রোমো অ্যামাইড → iso-সায়ানেট CH3N=C=O → আর্দ্র বিশ্লেষণে অ্যামিন + CO2।",
+   "notes_en": "Principle: ethanamide + Br2 + KOH (heat) gives CH3NH2 (Hofmann degradation).\n20 g ethanamide, 18 mL Br2, 10% KOH, then 100 mL 40% KOH.\nGas absorbed in HCl gives CH3NH2.HCl; treat with KOH to liberate methylamine.\nMechanism: KOBr, N-bromoamide, iso-cyanate CH3N=C=O, hydrolysis to amine + CO2.",
+   "mcqs": [
+    {
+     "question_bn": "পরীক্ষাগারে মিথাইল অ্যামিন তৈরির কাঁচামাল কোনটি?",
+     "question_en": "Starting amide for lab methylamine:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথান্যামাইড",
+       "en": "Ethanamide"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজ্যামাইড",
+       "en": "Benzamide"
+      },
+      {
+       "id": "c",
+       "bn": "ইউরিয়া",
+       "en": "Urea"
+      },
+      {
+       "id": "d",
+       "bn": "মিথান্যামাইড",
+       "en": "Methanamide"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH3CONH2 থেকে একটি C কমে CH3NH2।",
+     "explanation_en": "CH3CONH2 loses one C to give CH3NH2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "এ বিক্রিয়ার মধ্যবর্তী যৌগ কোনটি?",
+     "question_en": "Intermediate in the reaction:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "iso-সায়ানেট",
+       "en": "iso-cyanate"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রাইল",
+       "en": "Nitrile"
+      },
+      {
+       "id": "c",
+       "bn": "ডায়াজোনিয়াম",
+       "en": "Diazonium"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "N-ব্রোমো অ্যামাইড থেকে CH3-N=C=O।",
+     "explanation_en": "CH3-N=C=O forms from N-bromoamide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নির্গত মিথাইল অ্যামিন গ্যাস কীসে শোষিত হয়?",
+     "question_en": "Methylamine gas is absorbed in:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCl দ্রবণ",
+       "en": "HCl solution"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "H2SO4 গাঢ়",
+       "en": "conc. H2SO4 only"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH3NH2·HCl লবণ গঠিত হয়।",
+     "explanation_en": "It forms CH3NH2.HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সমীকরণ CH3CONH2 + Br2 + 4KOH-এ বিক্রিয়াজাত K2CO3-র মোল সংখ্যা কত?",
+     "question_en": "Moles of K2CO3 in CH3CONH2 + Br2 + 4KOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সমীকরণ: ... + 2KBr + K2CO3 + 2H2O।",
+     "explanation_en": "Book equation gives 1 K2CO3.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.8",
+   "title_bn": "পরীক্ষাগারে ফিনাইল অ্যামিন বা অ্যানিলিন প্রস্তুতি",
+   "title_en": "Lab Preparation of Aniline",
+   "notes_bn": "নাইট্রোবেনজিন + Sn + গাঢ় HCl (≈70°C) → অ্যানিলিন; Sn + 4HCl → SnCl4 + 4[H]।\n25 g নাইট্রোবেনজিন, 45 g টিন, 100 mL গাঢ় HCl; তাপমাত্রা 70°C-এর বেশি যেন না যায়।\nশেষে 100°C-এ আধ ঘণ্টা রিফ্লাক্স; জটিল যৌগ (C6H5NH3)2[SnCl6]।\nগাঢ় NaOH (70%) দিয়ে অ্যানিলিন মুক্ত করে স্টিম পাতন; পরে দ্রাবক নিষ্কাশন ও পাতনে 183–184°C-এ বিশুদ্ধ অ্যানিলিন।",
+   "notes_en": "Nitrobenzene + Sn + conc. HCl (~70°C) gives aniline; Sn + 4HCl gives SnCl4 + 4[H].\n25 g nitrobenzene, 45 g tin, 100 mL conc. HCl; keep below 70°C.\nThen reflux ~100°C for half an hour; complex (C6H5NH3)2[SnCl6] forms.\nConc. NaOH liberates aniline, steam distillation, extraction, final distillation at 183-184°C.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যানিলিন প্রস্তুতিতে বিজারক মিশ্রণ কোনটি?",
+     "question_en": "Reducing mixture for aniline prep:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Sn + গাঢ় HCl",
+       "en": "Sn + conc. HCl"
+      },
+      {
+       "id": "b",
+       "bn": "Zn + NaOH",
+       "en": "Zn + NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "Cu + HNO3",
+       "en": "Cu + HNO3"
+      },
+      {
+       "id": "d",
+       "bn": "Na + ইথার",
+       "en": "Na + ether"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Sn + HCl থেকে জায়মান হাইড্রোজেন।",
+     "explanation_en": "Nascent hydrogen from Sn + HCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বিশুদ্ধ অ্যানিলিনের পাতনের তাপমাত্রা কত (বইয়ে)?",
+     "question_en": "Final distillation temperature of aniline in the book:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "183–184°C",
+       "en": "183-184°C"
+      },
+      {
+       "id": "b",
+       "bn": "78°C",
+       "en": "78°C"
+      },
+      {
+       "id": "c",
+       "bn": "100°C",
+       "en": "100°C"
+      },
+      {
+       "id": "d",
+       "bn": "65°C",
+       "en": "65°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 183–184°C-এ পাতিত তরল বিশুদ্ধ অ্যানিলিন।",
+     "explanation_en": "Book: 183-184°C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জটিল লবণ থেকে অ্যানিলিন মুক্ত করতে কী যোগ করা হয়?",
+     "question_en": "What liberates aniline from the complex?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় NaOH",
+       "en": "Conc. NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্ষার অ্যানিলিনিয়াম লবণ থেকে অ্যামিন মুক্ত করে।",
+     "explanation_en": "Alkali frees the amine from its salt.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাসিড যোগের সময় ফ্লাস্ক ঠান্ডা পানিতে রাখা হয় কেন?",
+     "question_en": "Why is the flask kept in cold water during acid addition?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপমাত্রা অনিয়ন্ত্রিত না বাড়ে",
+       "en": "temperature does not rise above ~70°C"
+      },
+      {
+       "id": "b",
+       "bn": "Sn গলে যায়",
+       "en": "Sn melts"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিলিন দ্রবীভূত হয়",
+       "en": "aniline dissolves"
+      },
+      {
+       "id": "d",
+       "bn": "HCl বাষ্প হয়",
+       "en": "HCl evaporates"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিক্রিয়া তাপমোচী; ফ্লাস্ক ঠান্ডা পানিতে রাখা হয়।",
+     "explanation_en": "Flask is kept in cold water to hold temperature at about 70°C.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.9",
+   "title_bn": "অ্যালিফেটিক অ্যামিনের ভৌত ধর্ম",
+   "title_en": "Physical Properties of Aliphatic (and Aromatic) Amines",
+   "notes_bn": "CH3NH2 ও C2H5NH2 গ্যাস; পরেরগুলো মাছের ন্যায় গন্ধযুক্ত তরল।\nআণবিক ভর বাড়লে স্ফুটনাঙ্ক বাড়ে; কিন্তু অনুরূপ অ্যালকোহলের চেয়ে কম (N-এর তড়িৎঋণাত্মকতা কম, H-বন্ধন দুর্বল)। C2H5OH 78.3°C, C2H5NH2 17°C; CH3OH 65°C, CH3NH2 −7°C।\n1° ও 2° অ্যামিন আন্তঃআণবিক H-বন্ধন করে; 3° অ্যামিন পারে না।\nনিম্ন অ্যামিন পানিতে দ্রবণীয়; আকার বাড়লে দ্রাব্যতা কমে। অ্যারোমেটিক অ্যামিন বর্ণহীন তরল/কঠিন, বাতাসে বাদামি হয়; অ্যানিলিনের স্ফুটনাঙ্ক 184°C।",
+   "notes_en": "CH3NH2 and C2H5NH2 are gases; higher ones are fishy-smelling liquids.\nBoiling point rises with mass but is lower than the corresponding alcohol (N less electronegative, weaker H-bond): C2H5OH 78.3°C vs C2H5NH2 17°C; CH3OH 65°C vs CH3NH2 -7°C.\n1° and 2° amines form intermolecular H-bonds; 3° cannot.\nLower amines dissolve in water; solubility falls with size. Aromatic amines are colourless but darken in air; aniline bp 184°C.",
+   "mcqs": [
+    {
+     "question_bn": "ইথাইল অ্যামিনের স্ফুটনাঙ্ক (বইয়ের সারণি অনুযায়ী) কত?",
+     "question_en": "Boiling point of ethylamine (book table)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "17°C",
+       "en": "17°C"
+      },
+      {
+       "id": "b",
+       "bn": "78.3°C",
+       "en": "78.3°C"
+      },
+      {
+       "id": "c",
+       "bn": "−7°C",
+       "en": "-7°C"
+      },
+      {
+       "id": "d",
+       "bn": "65°C",
+       "en": "65°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সারণি ১০.৩: C2H5NH2 = 17°C।",
+     "explanation_en": "Table: C2H5NH2 = 17°C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন অ্যামিন আন্তঃআণবিক হাইড্রোজেন বন্ধন গঠন করতে পারে না?",
+     "question_en": "Which amine cannot form intermolecular H-bonds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1°",
+       "en": "1°"
+      },
+      {
+       "id": "b",
+       "bn": "2°",
+       "en": "2°"
+      },
+      {
+       "id": "c",
+       "bn": "3°",
+       "en": "3°"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলো পারে",
+       "en": "All can"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "3° অ্যামিনে N-H নেই।",
+     "explanation_en": "No N-H in a 3° amine.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যামিনের স্ফুটনাঙ্ক অনুরূপ অ্যালকোহলের চেয়ে কম কেন?",
+     "question_en": "Why are amines' boiling points lower than alcohols'?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N-এর তড়িৎঋণাত্মকতা O-এর চেয়ে কম, তাই H-বন্ধন দুর্বল",
+       "en": "N is less electronegative than O so H-bonds are weaker"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামিনের আণবিক ভর বেশি",
+       "en": "Amines have higher mass"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামিন আয়নিক",
+       "en": "Amines are ionic"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামিনে H নেই",
+       "en": "Amines lack H"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "O-এর তড়িৎঋণাত্মকতা 3.5, N-এর 3.0।",
+     "explanation_en": "O = 3.5, N = 3.0.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটির স্ফুটনাঙ্ক সর্বোচ্চ?",
+     "question_en": "Highest boiling point:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3NH2",
+       "en": "CH3NH2"
+      },
+      {
+       "id": "b",
+       "bn": "(CH3)2NH",
+       "en": "(CH3)2NH"
+      },
+      {
+       "id": "c",
+       "bn": "C2H5NH2",
+       "en": "C2H5NH2"
+      },
+      {
+       "id": "d",
+       "bn": "C2H5OH",
+       "en": "C2H5OH"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "সারণি অনুযায়ী 78.3°C — অ্যালকোহল সর্বোচ্চ।",
+     "explanation_en": "78.3°C per table.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.10",
+   "title_bn": "অ্যামিনসমূহের রাসায়নিক ধর্ম",
+   "title_en": "Chemical Properties of Amines",
+   "notes_bn": "ক্ষারধর্মিতা: pKb — NH3 4.74 (Kb 1.8×10⁻⁵), CH3NH2 3.36 (4.4×10⁻⁴), (CH3)2NH 3.23 (6.0×10⁻⁴), (CH3)3N 4.22, C6H5NH2 9.4 (4.1×10⁻¹⁰)। pKb কম = বেশি ক্ষারধর্মী।\nজলীয় দ্রবণে ক্ষারধর্মিতা ক্রম: 2° > 1° > 3° (3°-এ স্টেরিক বাধা); +I ফলে CH3NH2 > NH3; C2H5NH2 (pKb 3.30) > CH3NH2। অ্যানিলিন দুর্বল ক্ষার—নিঃসঙ্গ জোড় বেনজিন বলয়ে ডিলোকালাইজড।\nখনিজ অ্যাসিডের সাথে লবণ: C6H5NH2 + HCl → C6H5NH3Cl; NaOH দিয়ে অ্যামিন ফেরত।\nঅ্যালকাইলেশন (CH3I), অ্যাসাইলেশন (CH3COCl; 3° অ্যামিন বিক্রিয়া দেয় না)।\nHNO2: 1° অ্যালিফেটিক → N2 + অ্যালকোহল; 2° → হলুদ N-নাইট্রোসো তেল; 3° → লবণ; অ্যারোমেটিক 1° (0–5°C) → ডায়াজোনিয়াম, উষ্ণ হলে ফেনল + N2; অ্যারোমেটিক 3° → p-নাইট্রোসো।\nকার্বিল অ্যামিন: 1° অ্যামিন + CHCl3 + অ্যালকোহলীয় KOH, তাপ → দুর্গন্ধযুক্ত আইসোসায়ানাইড।\nজারণ: অ্যানিলিন → p-বেনজোকুইনোন (K2Cr2O7), অ্যাজোবেনজিন (KMnO4/KOH), নাইট্রোবেনজিন (H2O2)।\nবলয়ে প্রতিস্থাপন: Br2 জল → 2,4,6-ট্রাইব্রোমো অ্যানিলিন (সাদা অধঃক্ষেপ); মনো-ব্রোমোর জন্য আগে অ্যাসিটাইলেশন; নাইট্রেশনে মেটা-নাইট্রো অ্যানিলিন (অ্যানিলিনিয়াম আয়ন মেটা নির্দেশক); সালফোনেশন 180–200°C → সালফানিলিক অ্যাসিড (জুইটার আয়ন), সালফানিলামাইড প্রস্তুতি।",
+   "notes_en": "Basicity: pKb NH3 4.74 (Kb 1.8e-5), CH3NH2 3.36 (4.4e-4), (CH3)2NH 3.23 (6.0e-4), (CH3)3N 4.22, aniline 9.4 (4.1e-10). Lower pKb = stronger base.\nOrder in water: 2° > 1° > 3° (steric hindrance in 3°); +I effect makes CH3NH2 > NH3; ethylamine (pKb 3.30) > methylamine. Aniline is weak because the lone pair delocalises into the ring.\nSalts with mineral acids (C6H5NH3Cl); NaOH regenerates the amine.\nAlkylation (CH3I); acylation (CH3COCl; 3° amines do not react).\nHNO2: aliphatic 1° gives N2 + alcohol; 2° gives yellow N-nitroso oil; 3° gives salt; aromatic 1° at 0-5°C gives diazonium, warm gives phenol + N2; aromatic 3° gives p-nitroso.\nCarbylamine test: 1° amine + CHCl3 + alc. KOH, heat gives foul-smelling isocyanide.\nOxidation: aniline to p-benzoquinone (K2Cr2O7), azobenzene (KMnO4/KOH), nitrobenzene (H2O2).\nRing substitution: Br2 water gives 2,4,6-tribromoaniline (white ppt); acetylate first for mono-bromo; nitration gives meta-nitroaniline (anilinium ion is meta-directing); sulphonation at 180-200°C gives sulphanilic acid (zwitterion); route to sulphanilamide.",
+   "mcqs": [
+    {
+     "question_bn": "কোন যৌগের pKb সর্বনিম্ন (সবচেয়ে বেশি ক্ষারধর্মী)?",
+     "question_en": "Which has the lowest pKb (strongest base)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "b",
+       "bn": "CH3NH2",
+       "en": "CH3NH2"
+      },
+      {
+       "id": "c",
+       "bn": "(CH3)2NH",
+       "en": "(CH3)2NH"
+      },
+      {
+       "id": "d",
+       "bn": "C6H5NH2",
+       "en": "C6H5NH2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "(CH3)2NH-এর pKb 3.23, সর্বনিম্ন।",
+     "explanation_en": "(CH3)2NH has pKb 3.23, the lowest.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কার্বিল অ্যামিন পরীক্ষা কোন অ্যামিনকে শনাক্ত করে?",
+     "question_en": "Carbylamine test identifies:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1° অ্যামিন",
+       "en": "1° amine"
+      },
+      {
+       "id": "b",
+       "bn": "2° অ্যামিন",
+       "en": "2° amine"
+      },
+      {
+       "id": "c",
+       "bn": "3° অ্যামিন",
+       "en": "3° amine"
+      },
+      {
+       "id": "d",
+       "bn": "সব অ্যামিন",
+       "en": "all amines"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শুধু 1° অ্যামিন আইসোসায়ানাইড দেয়।",
+     "explanation_en": "Only 1° amines give isocyanides.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যানিলিন + Br2 জল → কী পাওয়া যায়?",
+     "question_en": "Aniline + Br2 water gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2,4,6-ট্রাইব্রোমো অ্যানিলিন",
+       "en": "2,4,6-tribromoaniline"
+      },
+      {
+       "id": "b",
+       "bn": "4-ব্রোমো অ্যানিলিন",
+       "en": "4-bromoaniline"
+      },
+      {
+       "id": "c",
+       "bn": "মেটা-ব্রোমো অ্যানিলিন",
+       "en": "m-bromoaniline"
+      },
+      {
+       "id": "d",
+       "bn": "ব্রোমোবেনজিন",
+       "en": "bromobenzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "-NH2 বলয়কে অত্যন্ত সক্রিয় করে।",
+     "explanation_en": "-NH2 strongly activates the ring.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ডাইমিথাইল অ্যামিন ও ট্রাইমিথাইল অ্যামিনের মধ্যে কোনটি দুর্বল ক্ষার এবং কেন?",
+     "question_en": "Which is weaker, (CH3)2NH or (CH3)3N, and why?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(CH3)3N—স্টেরিক বাধা",
+       "en": "(CH3)3N: steric hindrance"
+      },
+      {
+       "id": "b",
+       "bn": "(CH3)2NH—স্টেরিক বাধা",
+       "en": "(CH3)2NH: steric hindrance"
+      },
+      {
+       "id": "c",
+       "bn": "(CH3)3N—+I নেই",
+       "en": "(CH3)3N: no +I"
+      },
+      {
+       "id": "d",
+       "bn": "দুটোই সমান",
+       "en": "Equal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তিনটি মিথাইল N-কে ঘিরে প্রোটন আগমনে বাধা দেয়।",
+     "explanation_en": "Three methyls hinder proton approach.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1° অ্যালিফেটিক অ্যামিন HNO2-এর সাথে বিক্রিয়ায় কোন গ্যাস দেয়?",
+     "question_en": "1° aliphatic amine + HNO2 evolves:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N2",
+       "en": "N2"
+      },
+      {
+       "id": "b",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "c",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "d",
+       "bn": "CO2",
+       "en": "CO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বুদবুদাকারে N2 ও অ্যালকোহল।",
+     "explanation_en": "N2 bubbles and alcohol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যানিলিন CH3NH2-এর চেয়ে দুর্বল ক্ষার—সঠিক ব্যাখ্যা কোনটি?",
+     "question_en": "Aniline is weaker than CH3NH2 because:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N-এর নিঃসঙ্গ জোড় বেনজিন বলয়ের π-ইলেকট্রনের সাথে ডিলোকালাইজড",
+       "en": "N lone pair delocalised into the ring"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানিলিনে N নেই",
+       "en": "no N"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিলিন অম্লীয়",
+       "en": "aniline acidic"
+      },
+      {
+       "id": "d",
+       "bn": "বলয় +I দেয়",
+       "en": "ring gives +I"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফলে প্রোটন গ্রহণ ক্ষমতা কমে (pKb 9.4)।",
+     "explanation_en": "Reduces proton acceptance (pKb 9.4).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "অ্যানিলিনের নাইট্রেশনে (গাঢ় HNO3 + H2SO4) প্রধানত মেটা-নাইট্রো পাওয়া যায়—কারণ?",
+     "question_en": "Meta-nitroaniline forms in direct nitration because:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানিলিনিয়াম আয়ন মেটা নির্দেশক",
+       "en": "anilinium ion is meta-directing"
+      },
+      {
+       "id": "b",
+       "bn": "-NH2 মেটা নির্দেশক",
+       "en": "-NH2 is meta-directing"
+      },
+      {
+       "id": "c",
+       "bn": "বলয় নিষ্ক্রিয়",
+       "en": "ring is inactive"
+      },
+      {
+       "id": "d",
+       "bn": "তাপ কম",
+       "en": "low temperature"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যাসিডে -NH3+ গঠিত হয়।",
+     "explanation_en": "-NH3+ forms in acid.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "একটি অ্যামিনের Kb = 4.4×10⁻⁴ হলে pKb প্রায় কত (log 4.4 ≈ 0.64)?",
+     "question_en": "If Kb = 4.4×10⁻⁴, pKb ≈ (log 4.4 ≈ 0.64)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3.36",
+       "en": "3.36"
+      },
+      {
+       "id": "b",
+       "bn": "4.64",
+       "en": "4.64"
+      },
+      {
+       "id": "c",
+       "bn": "0.64",
+       "en": "0.64"
+      },
+      {
+       "id": "d",
+       "bn": "10.64",
+       "en": "10.64"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "pKb = −log(4.4×10⁻⁴) = 4 − 0.64 = 3.36 (বইয়ের মানের সাথে মেলে)।",
+     "explanation_en": "pKb = 4 - 0.64 = 3.36, matching the book.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "10.11",
+   "title_bn": "কতগুলো অ্যামিনের ব্যবহার",
+   "title_en": "Uses of Some Amines",
+   "notes_bn": "মিথাইল অ্যামিন: হিমায়ক, চামড়া শিল্পে লোমনাশক, রঞ্জক, ওষুধ, কীটনাশক (কোলিনক্লোরাইড) প্রস্তুতি।\nইথাইল অ্যামিন: ইমালশন, রঞ্জক ও দ্রাবক হিসেবে।\nডাইমিথাইল অ্যামিন: চামড়ায় লোমনাশক, রাবার ভলকেনাইজেশনে।\nহেক্সামিথিলিন ডাইঅ্যামিন H2N-(CH2)6-NH2: নাইলন 6:6 তৈরিতে।\nঅ্যানিলিন: রঞ্জক, ওষুধ (সালফা-ড্রাগ), হাইড্রোকুইনোল, অ্যাসিটানিলাইড; N-মিথাইল অ্যানিলিন: মিথাইল অরেঞ্জ।",
+   "notes_en": "Methylamine: refrigerant, dehairing in tanning, dyes, drugs, insecticides.\nEthylamine: emulsions, dyes, solvent.\nDimethylamine: dehairing, rubber vulcanisation.\nHexamethylenediamine H2N-(CH2)6-NH2: nylon 6:6.\nAniline: dyes, sulpha drugs, hydroquinone, acetanilide; N-methylaniline: methyl orange.",
+   "mcqs": [
+    {
+     "question_bn": "নাইলন 6:6 তৈরিতে কোন ডাইঅ্যামিন লাগে?",
+     "question_en": "Diamine used for nylon 6:6:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হেক্সামিথিলিন ডাইঅ্যামিন",
+       "en": "Hexamethylenediamine"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিলিন ডাইঅ্যামিন",
+       "en": "Ethylenediamine"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "d",
+       "bn": "মিথাইল অ্যামিন",
+       "en": "Methylamine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "H2N-(CH2)6-NH2।",
+     "explanation_en": "H2N-(CH2)6-NH2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন অ্যামিন হিমায়ক ও লোমনাশক হিসেবে ব্যবহৃত হয়?",
+     "question_en": "Which amine is used as refrigerant and dehairing agent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথাইল অ্যামিন",
+       "en": "Methylamine"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      },
+      {
+       "id": "c",
+       "bn": "পিরিডিন",
+       "en": "Pyridine"
+      },
+      {
+       "id": "d",
+       "bn": "ফিনাইল অ্যামিন",
+       "en": "Phenylamine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে (ক) মিথাইল অ্যামিন।",
+     "explanation_en": "Methylamine per the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথাইল অরেঞ্জ কোন যৌগ থেকে তৈরি হয়?",
+     "question_en": "Methyl orange is made from:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N,N-ডাইমিথাইল অ্যানিলিন",
+       "en": "N,N-dimethylaniline"
+      },
+      {
+       "id": "b",
+       "bn": "ইথাইল অ্যামিন",
+       "en": "Ethylamine"
+      },
+      {
+       "id": "c",
+       "bn": "নাইলন",
+       "en": "Nylon"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রঞ্জক ও মিথাইল অরেঞ্জে N-মিথাইল/ডাইমিথাইল অ্যানিলিন ব্যবহৃত।",
+     "explanation_en": "N-methyl aniline derivatives are used for methyl orange.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "10.12",
+   "title_bn": "ডায়াজোনিয়াম লবণের সংজ্ঞা",
+   "title_en": "Definition of Diazonium Salts",
+   "notes_bn": "1° অ্যারোমেটিক অ্যামিনকে 0–5°C-এ HCl/H2SO4-এ দ্রবীভূত করে NaNO2 যোগ করলে ডায়াজোনিয়াম লবণ হয়।\nসাধারণ সংকেত Ar-N≡N⁺X⁻ (দুটি N পরমাণু, ধনাত্মক আয়ন; X⁻ = Cl⁻, HSO4⁻)।\nএই প্রক্রিয়ার নাম ডায়াজোটাইজেশন।\nNaNO2 + HCl → HNO2 + NaCl।\nঅ্যানিলিন + HNO2 + HCl (0–5°C) → বেনজিন ডায়াজোনিয়াম ক্লোরাইড + 2H2O।",
+   "notes_en": "Dissolving a 1° aromatic amine in HCl/H2SO4 at 0-5°C and adding NaNO2 gives a diazonium salt.\nGeneral formula Ar-N≡N+ X- (two N atoms; X- = Cl-, HSO4-).\nThe process is diazotisation.\nNaNO2 + HCl gives HNO2 + NaCl.\nAniline + HNO2 + HCl (0-5°C) gives benzenediazonium chloride + 2H2O.",
+   "mcqs": [
+    {
+     "question_bn": "ডায়াজোটাইজেশনের তাপমাত্রা কত?",
+     "question_en": "Temperature for diazotisation:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0–5°C",
+       "en": "0-5°C"
+      },
+      {
+       "id": "b",
+       "bn": "25°C",
+       "en": "25°C"
+      },
+      {
+       "id": "c",
+       "bn": "50°C",
+       "en": "50°C"
+      },
+      {
+       "id": "d",
+       "bn": "100°C",
+       "en": "100°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নিম্ন তাপমাত্রায় ডায়াজোনিয়াম লবণ স্থায়ী।",
+     "explanation_en": "Diazonium salt is stable at low temperature.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডায়াজোনিয়াম লবণের সাধারণ সংকেত কোনটি?",
+     "question_en": "General formula of diazonium salt:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ar-N≡N⁺X⁻",
+       "en": "Ar-N≡N+ X-"
+      },
+      {
+       "id": "b",
+       "bn": "Ar-NH2",
+       "en": "Ar-NH2"
+      },
+      {
+       "id": "c",
+       "bn": "Ar-N=O",
+       "en": "Ar-N=O"
+      },
+      {
+       "id": "d",
+       "bn": "Ar-NO2",
+       "en": "Ar-NO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুটি যুক্ত N-এর ধনাত্মক মূলক।",
+     "explanation_en": "Positive group of two linked N.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডায়াজোটাইজেশনে HNO2 কীভাবে উৎপন্ন হয়?",
+     "question_en": "How is HNO2 generated in diazotisation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaNO2 + HCl থেকে",
+       "en": "From NaNO2 + HCl"
+      },
+      {
+       "id": "b",
+       "bn": "HNO3 বিজারণে",
+       "en": "Reducing HNO3"
+      },
+      {
+       "id": "c",
+       "bn": "NH3 জারণে",
+       "en": "Oxidising NH3"
+      },
+      {
+       "id": "d",
+       "bn": "N2 + H2O থেকে",
+       "en": "From N2 + H2O"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaNO2 + HCl → HNO2 + NaCl।",
+     "explanation_en": "NaNO2 + HCl gives HNO2 + NaCl.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "10.13",
+   "title_bn": "পরীক্ষাগারে বেনজিন ডায়াজোনিয়াম ক্লোরাইড প্রস্তুতি",
+   "title_en": "Lab Preparation of Benzenediazonium Chloride",
+   "notes_bn": "অ্যানিলিনকে অতিরিক্ত গাঢ় HCl-এ দ্রবীভূত করে বরফে 5°C-এর নিচে ঠান্ডা করা হয়, তারপর NaNO2 দ্রবণ ধীরে যোগ।\nবইয়ের পরিমাণ: 25 mL গাঢ় HCl + ~75 mL পানি, 10 mL ফিনাইল অ্যামিন, 8 g NaNO2 (25 mL পানিতে)।\nতাপমাত্রা কোনোক্রমে 10°C-এর বেশি নয়; বেশি হলে ফেনল ও N2 গঠিত হয়।\nস্টার্চ-আয়োডাইড কাগজ নীল হলে বুঝতে হবে ডায়াজোটাইজেশন শেষ ও মুক্ত HNO2 আছে।\nদ্রবণ হালকা হলুদ; ব্যবহারে জলীয় দ্রবণই ব্যবহৃত হয় (শুষ্ক লবণ বিস্ফোরক)।",
+   "notes_en": "Dissolve aniline in excess conc. HCl, cool in ice below 5°C, add NaNO2 solution slowly.\nQuantities: 25 mL conc. HCl + ~75 mL water, 10 mL phenylamine, 8 g NaNO2 in 25 mL water.\nTemperature must not exceed 10°C; above that phenol and N2 form.\nStarch-iodide paper turning blue shows diazotisation is complete (excess HNO2).\nSolution is pale yellow; used in aqueous solution (dry salt is explosive).",
+   "mcqs": [
+    {
+     "question_bn": "স্টার্চ-আয়োডাইড কাগজ নীল হওয়া কী নির্দেশ করে?",
+     "question_en": "Starch-iodide paper turning blue indicates:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডায়াজোটাইজেশন সম্পূর্ণ, মুক্ত HNO2 আছে",
+       "en": "diazotisation complete; free HNO2 present"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়া শুরু হয়নি",
+       "en": "reaction not started"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিলিন অতিরিক্ত",
+       "en": "excess aniline"
+      },
+      {
+       "id": "d",
+       "bn": "তাপমাত্রা কম",
+       "en": "low temperature"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের ভাষ্য অনুযায়ী।",
+     "explanation_en": "As stated in the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "তাপমাত্রা বেশি হলে কী ঘটে?",
+     "question_en": "If temperature is too high:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডায়াজোনিয়াম লবণ বিয়োজিত হয়ে ফেনল ও N2 হয়",
+       "en": "salt decomposes giving phenol and N2"
+      },
+      {
+       "id": "b",
+       "bn": "আরও লবণ হয়",
+       "en": "more salt forms"
+      },
+      {
+       "id": "c",
+       "bn": "কিছু হয় না",
+       "en": "nothing"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন ফিরে আসে",
+       "en": "aniline returns"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তাপমাত্রা 10°C-এর বেশি হলে লবণ ফেনা ও N2 ছাড়ে।",
+     "explanation_en": "Above 10°C it decomposes with N2 evolution.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রস্তুতিতে কতটুকু NaNO2 নেওয়া হয় (বইয়ের প্রণালী)?",
+     "question_en": "Mass of NaNO2 used (book procedure):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "8 g",
+       "en": "8 g"
+      },
+      {
+       "id": "b",
+       "bn": "18 g",
+       "en": "18 g"
+      },
+      {
+       "id": "c",
+       "bn": "25 g",
+       "en": "25 g"
+      },
+      {
+       "id": "d",
+       "bn": "80 g",
+       "en": "80 g"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "25 mL পানিতে 8 g NaNO2।",
+     "explanation_en": "8 g NaNO2 in 25 mL water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কেন শুষ্ক ডায়াজোনিয়াম লবণের বদলে জলীয় দ্রবণ ব্যবহার হয়?",
+     "question_en": "Why is the aqueous solution used instead of dry salt?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুষ্ক লবণ তাপ/আঘাতে বিস্ফোরিত হয়",
+       "en": "dry salt explodes on heat/shock"
+      },
+      {
+       "id": "b",
+       "bn": "দ্রবণ সস্তা",
+       "en": "cheaper"
+      },
+      {
+       "id": "c",
+       "bn": "লবণ গ্যাস",
+       "en": "salt is a gas"
+      },
+      {
+       "id": "d",
+       "bn": "রং বদলায়",
+       "en": "colour"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বিস্ফোরণের কথা বলা আছে।",
+     "explanation_en": "Book mentions explosion hazard.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "10.5",
+   "stimulus_bn": "একজন শিক্ষার্থী C3H9N আণবিক সংকেতের তিনটি যৌগ আঁকল: A (CH3CH2CH2NH2), B (CH3NHC2H5), C ((CH3)3N)।",
+   "stimulus_en": "A student drew three compounds of formula C3H9N: A (CH3CH2CH2NH2), B (CH3NHC2H5), C ((CH3)3N).",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "অ্যামিন কী?",
+     "question_en": "What is an amine?",
+     "model_answer_bn": "অ্যামোনিয়ার H পরমাণু অ্যালকাইল/অ্যারাইল মূলক দ্বারা প্রতিস্থাপিত হলে যে যৌগ পাওয়া যায় তা অ্যামিন।",
+     "model_answer_en": "A compound formed by replacing H of NH3 with alkyl/aryl groups."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "A, B, C কোন শ্রেণীর অ্যামিন ব্যাখ্যা করো।",
+     "question_en": "Classify A, B, C and explain.",
+     "model_answer_bn": "A = 1° (N-এ একটি অ্যালকাইল), B = 2° (দুটি), C = 3° (তিনটি)।",
+     "model_answer_en": "A is 1° (one alkyl on N), B is 2° (two), C is 3° (three)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "A, B, C-এর IUPAC/সাধারণ নাম লেখো এবং কোনটি হাইড্রোজেন বন্ধন করতে পারে না তা বলো।",
+     "question_en": "Name A, B, C and state which cannot form H-bonds.",
+     "model_answer_bn": "A = n-প্রোপাইল অ্যামিন (1-অ্যামিনো প্রোপেন), B = ইথাইল মিথাইল অ্যামিন, C = ট্রাইমিথাইল অ্যামিন। C-তে N-H নেই বলে আন্তঃআণবিক H-বন্ধন গঠন করে না।",
+     "model_answer_en": "A = n-propylamine (1-aminopropane), B = ethylmethylamine, C = trimethylamine. C has no N-H, so no intermolecular H-bonding."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "এরা কোন ধরনের সমাণু? আরও একটি ভিন্ন ধরনের সমাণু উদাহরণসহ দেখাও।",
+     "question_en": "What kind of isomers are they? Give another type of isomerism with an example.",
+     "model_answer_bn": "এরা শ্রেণী (কার্যকরী মূলক) সমাণু। মেটামারিজম: ডাইইথাইল অ্যামিন ও মিথাইল প্রোপাইল অ্যামিন (C4H11N)।",
+     "model_answer_en": "They are functional-class isomers. Metamerism example: diethylamine and methylpropylamine (C4H11N)."
+    }
+   ]
+  },
+  {
+   "topic_section": "10.10",
+   "stimulus_bn": "অ্যামোনিয়া (pKb 4.74), মিথাইল অ্যামিন (pKb 3.36) এবং অ্যানিলিন (pKb 9.4)-এর জলীয় দ্রবণ নিয়ে পরীক্ষা করা হলো। অ্যানিলিনের সাথে Br2 জল মেশানো হলো।",
+   "stimulus_en": "Aqueous solutions of ammonia (pKb 4.74), methylamine (pKb 3.36) and aniline (pKb 9.4) were studied; Br2 water was added to aniline.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "pKb কাকে বলে?",
+     "question_en": "Define pKb.",
+     "model_answer_bn": "pKb = −log Kb।",
+     "model_answer_en": "pKb = -log Kb."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "তিনটি যৌগকে ক্ষারধর্মিতার ক্রমে সাজাও।",
+     "question_en": "Arrange in order of basicity.",
+     "model_answer_bn": "CH3NH2 > NH3 > C6H5NH2 (pKb যত কম, ক্ষারত্ব তত বেশি)।",
+     "model_answer_en": "CH3NH2 > NH3 > C6H5NH2 (lower pKb, stronger base)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Br2 জলের সাথে অ্যানিলিনের বিক্রিয়ার সমীকরণ ও পর্যবেক্ষণ লেখো।",
+     "question_en": "Write the equation and observation for aniline + Br2 water.",
+     "model_answer_bn": "C6H5NH2 + 3Br2 → 2,4,6-Br3C6H2NH2 (সাদা অধঃক্ষেপ) + 3HBr।",
+     "model_answer_en": "C6H5NH2 + 3Br2 gives 2,4,6-tribromoaniline (white ppt) + 3HBr."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "মিথাইল অ্যামিন কেন NH3-এর চেয়ে ও অ্যানিলিন কেন দুর্বল ক্ষার ব্যাখ্যা করো। মনো-ব্রোমো অ্যানিলিন পেতে কী করবে?",
+     "question_en": "Explain why methylamine is stronger than NH3 and aniline is weaker. How to obtain mono-bromoaniline?",
+     "model_answer_bn": "CH3-এর +I প্রভাবে N-এ ইলেকট্রন ঘনত্ব বাড়ে, প্রোটন গ্রহণ সহজ। অ্যানিলিনে N-এর নিঃসঙ্গ জোড় বেনজিন বলয়ে ডিলোকালাইজড হয়। প্রথমে অ্যাসিটাইলেশন করে অ্যাসিটানিলাইড, তারপর Br2 জল ও আর্দ্র বিশ্লেষণে 4-ব্রোমো অ্যানিলিন।",
+     "model_answer_en": "+I of CH3 raises electron density on N; in aniline the lone pair is delocalised into the ring. Acetylate to acetanilide, brominate, then hydrolyse to get 4-bromoaniline."
+    }
+   ]
+  },
+  {
+   "topic_section": "10.13",
+   "stimulus_bn": "অ্যানিলিন, গাঢ় HCl ও NaNO2 দ্রবণ ব্যবহার করে একটি দ্রবণ তৈরি করা হলো এবং তাপমাত্রা 5°C-এর নিচে রাখা হলো। পরে দ্রবণটি 40–50°C-এ উত্তপ্ত করা হলো।",
+   "stimulus_en": "Aniline, conc. HCl and NaNO2 solution were mixed below 5°C; the solution was later heated to 40-50°C.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ডায়াজোটাইজেশন কী?",
+     "question_en": "What is diazotisation?",
+     "model_answer_bn": "1° অ্যারোমেটিক অ্যামিন থেকে ডায়াজোনিয়াম লবণ তৈরির প্রক্রিয়া।",
+     "model_answer_en": "Formation of a diazonium salt from a 1° aromatic amine."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "তাপমাত্রা নিম্নে রাখা হয় কেন?",
+     "question_en": "Why is low temperature maintained?",
+     "model_answer_bn": "উচ্চ তাপে লবণ বিয়োজিত হয়ে ফেনল ও N2 গঠন করে।",
+     "model_answer_en": "At higher temperature the salt decomposes to phenol and N2."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "প্রথম ধাপের বিক্রিয়াটি সমীকরণসহ লেখো এবং শেষ ধাপে উৎপন্ন যৌগ কী?",
+     "question_en": "Write the first-stage equation and the product on heating.",
+     "model_answer_bn": "C6H5NH2 + NaNO2 + 2HCl → C6H5N2+Cl- + NaCl + 2H2O; উত্তপ্ত করলে ফেনল + N2 + HCl।",
+     "model_answer_en": "C6H5NH2 + NaNO2 + 2HCl gives C6H5N2+Cl- + NaCl + 2H2O; heating gives phenol + N2 + HCl."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "বেনজিন ডায়াজোনিয়াম আয়ন অ্যালকাইল ডায়াজোনিয়াম আয়নের চেয়ে স্থিতিশীল কেন? এ থেকে ক্লোরোবেনজিন কীভাবে পাওয়া যায়?",
+     "question_en": "Why is benzenediazonium more stable than alkyldiazonium? How to get chlorobenzene from it?",
+     "model_answer_bn": "বেনজিন বলয়ের π-ইলেকট্রনের সাথে অনুরণনে C-N বন্ধন দৃঢ় হয়। Cu2Cl2/HCl-সহ 100°C-এ (স্যান্ডমেয়ার) বা Cu চূর্ণ ও HCl (গ্যাটারম্যান) দ্বারা ক্লোরোবেনজিন + N2।",
+     "model_answer_en": "Resonance with ring π electrons stabilises it. Sandmeyer (Cu2Cl2/HCl, 100°C) or Gattermann (Cu/HCl) gives chlorobenzene + N2."
+    }
+   ]
+  }
+ ],
+ "notes": "All 28 pages (pdf 557-584) read; pdf 557 is exam MCQ page of previous chapter (skipped). Sections 10.14-10.15 and diazonium reactions (pdf 583-584) belong to later chunk and were not covered. Printed page numbers = pdf-15."
+}

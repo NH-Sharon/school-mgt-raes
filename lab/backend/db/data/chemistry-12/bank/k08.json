@@ -1,0 +1,1877 @@
+{
+ "chapter_no": 3,
+ "topics": [
+  {
+   "section_no": "3.1",
+   "title_bn": "ভূমিকা",
+   "title_en": "Introduction: d-block elements and transition metals",
+   "notes_bn": "d-ব্লক মৌল: যেসব মৌলের শেষ ইলেকট্রন সর্বশেষের আগের স্তরের d-অরবিটালে প্রবেশ করে।\nসাধারণ বহিঃস্থ ইলেকট্রন বিন্যাস (n-1)d¹⁻¹⁰ ns¹⁻²।\nউদাহরণ: Sc(21) = [Ar]3d¹4s²; Fe(26) = [Ar]3d⁶4s²।\n3d-ব্লক (Sc–Zn) = ১ম অবস্থান্তর সিরিজ; 4d (Y–Cd), 5d (La, Hf–Hg), 6d (Ac, Rf–)।\nCr = 3d⁵4s¹ ও Cu = 3d¹⁰4s¹ (অর্ধপূর্ণ/পূর্ণ d অরবিটালের অধিক স্থায়িত্বের কারণে ব্যতিক্রম)।\nআধুনিক সংজ্ঞায় অবস্থান্তর মৌল: যার কোনো সুস্থিত আয়নে d অরবিটাল আংশিক পূর্ণ। Sc ও Zn d-ব্লক মৌল কিন্তু অবস্থান্তর মৌল নয় (Sc³⁺ = 3d⁰, Zn²⁺ = 3d¹⁰)।\nFe²⁺ = 3d⁶, Fe³⁺ = 3d⁵; তাই Fe অবস্থান্তর মৌল।\n3d মৌলগুলোর ধর্মে মিল: ফলপ্রদ নিউক্লিয়ার চার্জ প্রায় একই, পরমাণুর আকার ও প্রথম আয়নীকরণ শক্তি মোটামুটি একরকম।",
+   "notes_en": "d-block: the last electron enters the d-orbital of the penultimate shell; general outer configuration (n-1)d1-10 ns1-2.\nSc(21)=[Ar]3d1 4s2; Fe(26)=[Ar]3d6 4s2. 3d series (Sc-Zn) is the first transition series.\nCr = 3d5 4s1 and Cu = 3d10 4s1 are exceptions (extra stability of half-filled/filled d).\nModern definition: a transition metal has a partially filled d subshell in at least one stable ion. Sc (Sc3+ = 3d0) and Zn (Zn2+ = 3d10) are d-block but not transition metals.\nFe2+ = 3d6, Fe3+ = 3d5, so Fe is a transition metal.\n3d elements resemble each other because effective nuclear charge, size and first ionisation energy are roughly alike.",
+   "mcqs": [
+    {
+     "question_bn": "d-ব্লক মৌলের সাধারণ বহিঃস্থ ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "What is the general outer electronic configuration of d-block elements?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ns¹⁻² np¹⁻⁶",
+       "en": "ns¹⁻² np¹⁻⁶"
+      },
+      {
+       "id": "b",
+       "bn": "(n-1)d¹⁻¹⁰ ns¹⁻²",
+       "en": "(n-1)d¹⁻¹⁰ ns¹⁻²"
+      },
+      {
+       "id": "c",
+       "bn": "(n-2)f¹⁻¹⁴ ns²",
+       "en": "(n-2)f¹⁻¹⁴ ns²"
+      },
+      {
+       "id": "d",
+       "bn": "ns² np⁶",
+       "en": "ns² np⁶"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "d-ব্লক মৌলে শেষ ইলেকট্রন (n-1)d অরবিটালে প্রবেশ করে; বহিঃস্থ s-তে ১ বা ২টি ইলেকট্রন থাকে।",
+     "explanation_en": "The last electron enters the (n-1)d orbital while ns holds 1 or 2 electrons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Cr(24) এর সঠিক ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Which is the correct configuration of Cr(24)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[Ar]3d⁴4s²",
+       "en": "[Ar]3d⁴4s²"
+      },
+      {
+       "id": "b",
+       "bn": "[Ar]3d⁵4s¹",
+       "en": "[Ar]3d⁵4s¹"
+      },
+      {
+       "id": "c",
+       "bn": "[Ar]3d⁶",
+       "en": "[Ar]3d⁶"
+      },
+      {
+       "id": "d",
+       "bn": "[Ar]3d⁴4s¹4p¹",
+       "en": "[Ar]3d⁴4s¹4p¹"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অর্ধপূর্ণ 3d⁵ এর অধিক স্থায়িত্বের জন্য একটি 4s ইলেকট্রন 3d-তে যায়।",
+     "explanation_en": "One 4s electron moves to 3d to give the more stable half-filled 3d5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি d-ব্লক মৌল হলেও অবস্থান্তর মৌল নয়?",
+     "question_en": "Which is a d-block element but not a transition metal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Fe",
+       "en": "Fe"
+      },
+      {
+       "id": "b",
+       "bn": "Cu",
+       "en": "Cu"
+      },
+      {
+       "id": "c",
+       "bn": "Zn",
+       "en": "Zn"
+      },
+      {
+       "id": "d",
+       "bn": "Ni",
+       "en": "Ni"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Zn²⁺ এর d অরবিটাল পূর্ণ (3d¹⁰); তাই আংশিক পূর্ণ d-যুক্ত সুস্থিত আয়ন নেই।",
+     "explanation_en": "Zn2+ has a full 3d10 subshell, so it has no stable ion with partly filled d orbitals.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Fe³⁺ আয়নের 3d অরবিটালে কয়টি ইলেকট্রন থাকে এবং ইলেকট্রন বিন্যাস কেমন?",
+     "question_en": "How many 3d electrons does Fe3+ have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৪টি",
+       "en": "4"
+      },
+      {
+       "id": "b",
+       "bn": "৫টি (3d⁵, সবগুলো অযুগ্ম)",
+       "en": "5 (3d5, all unpaired)"
+      },
+      {
+       "id": "c",
+       "bn": "৬টি",
+       "en": "6"
+      },
+      {
+       "id": "d",
+       "bn": "১০টি",
+       "en": "10"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Fe = 3d⁶4s²; তিনটি ইলেকট্রন (2টি 4s, 1টি 3d) ত্যাগে Fe³⁺ = 3d⁵।",
+     "explanation_en": "Fe = 3d6 4s2; losing two 4s and one 3d electron gives 3d5.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.2",
+   "title_bn": "প্রথম অবস্থান্তর মৌলসমূহের ভৌত ধর্ম (ও রাসায়নিক ধর্ম)",
+   "title_en": "Physical (and chemical) properties of first transition metals",
+   "notes_bn": "ভৌত ধর্ম: শক্ত ধাতব প্রকৃতি, তাপ-বিদ্যুৎ সুপরিবাহী; গলনাঙ্ক-স্ফুটনাঙ্ক s-ব্লক অপেক্ষা বেশি (s ও d ইলেকট্রন ধাতব বন্ধনে অংশ নেয়)। গলনাঙ্ক V এ সর্বাধিক (1900°C), Mn এ হঠাৎ কম (1245°C)।\nচৌম্বকত্ব: অযুগ্ম d-ইলেকট্রন থাকলে প্যারাম্যাগনেটিক; Fe, Co, Ni ফেরোম্যাগনেটিক; Zn ডায়াম্যাগনেটিক।\nজারণ অবস্থা: পরিবর্তনশীল (Cr: +2,+3,+6; Mn: +2…+7; Fe: +2,+3); Sc এ কেবল +3, Zn এ +2; Mn এ সর্বোচ্চ +7; Cu এর +1 ও +2।\nপ্রভাবক: Fe (হেবার), Pt (অসওয়াল্ড), V₂O₅ (স্পর্শ পদ্ধতি, 450°C), Ni (হাইড্রোজেনেশন)। অসমসত্ত্ব ও সমসত্ত্ব প্রভাবন।\nজটিল আয়ন: লিগ্যান্ড নিঃসঙ্গ ইলেকট্রন যুগল দেয়; সন্নিবেশ সংখ্যা সাধারণত 2, 4, 6; [Cu(NH₃)₄]²⁺ (sp²d/dsp² বর্গাকার), [Fe(CN)₆]⁴⁻ (d²sp³ অষ্টতলকীয়), Ni(CO)₄ (sp³ চতুস্তলকীয়)।\nরঙিন যৌগ: অপূর্ণ d-অরবিটালে d–d স্থানান্তরে দৃশ্যমান আলো শোষণ; Sc³⁺, Cu⁺, Zn²⁺ বর্ণহীন। অ্যামোনিয়ায় Cu(OH)₂ দ্রবীভূত হয়ে গাঢ় নীল [Cu(NH₃)₄]²⁺।\nইস্পাত: Fe + ~1% C; সংকর ইস্পাত (ক্রোমিয়াম, ম্যাঙ্গানিজ, নিকেল, টাইটেনিয়াম ইত্যাদি) আলাদা ব্যবহার।",
+   "notes_en": "Physical: hard, good conductors; melting/boiling points above s-block (both s and d electrons in metallic bonding). Melting point peaks at V (1900 C), drops sharply at Mn (1245 C).\nMagnetism: unpaired d electrons give paramagnetism; Fe, Co, Ni are ferromagnetic; Zn is diamagnetic.\nOxidation states vary (Cr +2,+3,+6; Mn +2 to +7; Fe +2,+3); Sc only +3, Zn only +2, Mn max +7, Cu +1/+2.\nCatalysts: Fe (Haber), Pt (Ostwald), V2O5 (Contact, 450 C), Ni (hydrogenation); heterogeneous and homogeneous catalysis.\nComplexes: ligands donate lone pairs; coordination number usually 2, 4, 6; [Cu(NH3)4]2+ square planar (dsp2/sp2d), [Fe(CN)6]4- octahedral (d2sp3), Ni(CO)4 tetrahedral (sp3).\nColour arises from d-d transitions; Sc3+, Cu+, Zn2+ are colourless. Cu(OH)2 dissolves in excess NH3 to deep blue [Cu(NH3)4]2+.\nSteel: iron + ~1% C; alloy steels use Cr, Mn, Ni, Ti etc.",
+   "mcqs": [
+    {
+     "question_bn": "নিচের কোন ধাতুটি ফেরোম্যাগনেটিক?",
+     "question_en": "Which metal is ferromagnetic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Zn",
+       "en": "Zn"
+      },
+      {
+       "id": "b",
+       "bn": "Cu",
+       "en": "Cu"
+      },
+      {
+       "id": "c",
+       "bn": "Fe",
+       "en": "Fe"
+      },
+      {
+       "id": "d",
+       "bn": "Sc",
+       "en": "Sc"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Fe, Co ও Ni ফেরোম্যাগনেটিক; Zn ডায়াম্যাগনেটিক।",
+     "explanation_en": "Fe, Co and Ni are ferromagnetic; Zn is diamagnetic.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সারণি অনুযায়ী 3d ধাতুগুলোর মধ্যে কোনটির গলনাঙ্ক সর্বাধিক?",
+     "question_en": "From the table, which 3d metal has the highest melting point?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Sc (1539°C)",
+       "en": "Sc (1539°C)"
+      },
+      {
+       "id": "b",
+       "bn": "Cr (1875°C)",
+       "en": "Cr (1875°C)"
+      },
+      {
+       "id": "c",
+       "bn": "V (1900°C)",
+       "en": "V (1900°C)"
+      },
+      {
+       "id": "d",
+       "bn": "Cu (1085°C)",
+       "en": "Cu (1085°C)"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সারণিতে V এর গলনাঙ্ক 1900°C, যা সর্বোচ্চ।",
+     "explanation_en": "V (1900 C) is the highest in the table.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "স্পর্শ পদ্ধতিতে SO₂ থেকে SO₃ প্রস্তুতিতে ব্যবহৃত প্রভাবক কোনটি?",
+     "question_en": "Which catalyst is used to convert SO2 to SO3 in the Contact process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Fe",
+       "en": "Fe"
+      },
+      {
+       "id": "b",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "c",
+       "bn": "V₂O₅",
+       "en": "V₂O₅"
+      },
+      {
+       "id": "d",
+       "bn": "Ni",
+       "en": "Ni"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "450°C তাপমাত্রায় V₂O₅ প্রভাবক হিসেবে ব্যবহৃত হয়।",
+     "explanation_en": "V2O5 is the catalyst at 450 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "[Fe(CN)₆]⁴⁻ আয়নে Fe এর জারণ সংখ্যা কত?",
+     "question_en": "What is the oxidation number of Fe in [Fe(CN)6]4-?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+1",
+       "en": "+1"
+      },
+      {
+       "id": "b",
+       "bn": "+2",
+       "en": "+2"
+      },
+      {
+       "id": "c",
+       "bn": "+3",
+       "en": "+3"
+      },
+      {
+       "id": "d",
+       "bn": "+4",
+       "en": "+4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "x + 6(−1) = −4, তাই x = +2।",
+     "explanation_en": "x + 6(-1) = -4 gives x = +2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "[Cu(NH₃)₄]²⁺ জটিল আয়নে Cu এর সন্নিবেশ সংখ্যা ও জ্যামিতি কী?",
+     "question_en": "What are the coordination number and geometry in [Cu(NH3)4]2+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৪; সমতলীয় বর্গাকার",
+       "en": "4; square planar"
+      },
+      {
+       "id": "b",
+       "bn": "৬; অষ্টতলকীয়",
+       "en": "6; octahedral"
+      },
+      {
+       "id": "c",
+       "bn": "৪; চতুস্তলকীয়",
+       "en": "4; tetrahedral"
+      },
+      {
+       "id": "d",
+       "bn": "২; রৈখিক",
+       "en": "2; linear"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "চারটি NH₃ লিগ্যান্ড; আয়নটি প্যারাম্যাগনেটিক, বর্গাকার (sp²d/dsp²)।",
+     "explanation_en": "Four NH3 ligands; the ion is paramagnetic and square planar.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Ni(CO)₄ এ Ni এর সংকরণ ও আকৃতি কী?",
+     "question_en": "What are the hybridisation and shape in Ni(CO)4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "d²sp³; অষ্টতলকীয় / octahedral",
+       "en": "d²sp³; অষ্টতলকীয় / octahedral"
+      },
+      {
+       "id": "b",
+       "bn": "sp³; চতুস্তলকীয় / tetrahedral",
+       "en": "sp³; চতুস্তলকীয় / tetrahedral"
+      },
+      {
+       "id": "c",
+       "bn": "dsp²; বর্গাকার / square planar",
+       "en": "dsp²; বর্গাকার / square planar"
+      },
+      {
+       "id": "d",
+       "bn": "sp; রৈখিক / linear",
+       "en": "sp; রৈখিক / linear"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "চারটি CO লিগ্যান্ড প্রদত্ত ইলেকট্রন যুগলে sp³ সংকরণ; Ni(0) যৌগটি ডায়াম্যাগনেটিক।",
+     "explanation_en": "Four CO ligands, sp3 hybridisation; the compound is diamagnetic.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনটি বর্ণহীন জলীয় আয়ন?",
+     "question_en": "Which aqueous ion is colourless?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu²⁺",
+       "en": "Cu²⁺"
+      },
+      {
+       "id": "b",
+       "bn": "Fe²⁺",
+       "en": "Fe²⁺"
+      },
+      {
+       "id": "c",
+       "bn": "Zn²⁺",
+       "en": "Zn²⁺"
+      },
+      {
+       "id": "d",
+       "bn": "Cr³⁺",
+       "en": "Cr³⁺"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Zn²⁺ এ d¹⁰ হওয়ায় d–d স্থানান্তর সম্ভব নয়, তাই বর্ণহীন।",
+     "explanation_en": "Zn2+ is d10, so no d-d transition is possible.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CuSO₄ দ্রবণে অল্প NH₄OH দিলে হালকা নীল অধঃক্ষেপ পড়ে; অতিরিক্ত NH₄OH দিলে কী ঘটে?",
+     "question_en": "Light blue precipitate forms with a little NH4OH on CuSO4. What happens with excess?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অধঃক্ষেপ অপরিবর্তিত থাকে",
+       "en": "Precipitate remains"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় নীল [Cu(NH₃)₄]²⁺ দ্রবণ তৈরি হয়",
+       "en": "Deep blue [Cu(NH3)4]2+ solution forms"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ অধঃক্ষেপ তৈরি হয়",
+       "en": "Green precipitate forms"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণহীন দ্রবণ হয়",
+       "en": "Colourless solution forms"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cu(OH)₂ অতিরিক্ত অ্যামোনিয়ায় টেট্রাঅ্যামিন কপার(II) জটিল আয়ন গঠন করে।",
+     "explanation_en": "Cu(OH)2 forms the tetraamminecopper(II) complex in excess ammonia.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.3",
+   "title_bn": "অবস্থান্তর ধাতু নিষ্কাশন পদ্ধতি",
+   "title_en": "Methods of extraction of transition metals",
+   "notes_bn": "অবস্থান্তর ধাতু প্রধানত সালফাইড ও অক্সাইড খনিজরূপে পাওয়া যায়; কম সক্রিয় (Cu, Au, Pt) মুক্ত অবস্থায় মেলে।\nআকরিক: যে খনিজ থেকে সহজে ও লাভজনকভাবে ধাতু নিষ্কাশন করা যায় (যেমন ম্যাগনেটাইট Fe₃O₄)।\nধাপ: ১) আকরিক গাঢ়করণ (ধৌতকরণ; সালফাইডে তেল-ফেনা ভাসমান), ২) তাপজারণ (সালফাইড → অক্সাইড), ৩) বিজারণ।\nকার্বন/CO বিজারণ: Fe₂O₃ + 3CO → 2Fe + 3CO₂; ZnS-এর তাপজারণে ZnO, পরে ZnO + C → Zn + CO।\nCuFeS₂ থেকে Cu: তাপজারণ, পরে 2Cu₂O + Cu₂S → 6Cu + SO₂ (স্ববিজারণ)।\nসক্রিয় ধাতু (Na, Mg, Al) দ্বারা ক্লোরাইড/অক্সাইড বিজারণ; Al দ্বারা হলে থার্মিট বিজারণ (TiO₂ → TiCl₄ → Ti; V₂O₃ + 2Al → 2V + Al₂O₃)।\nপ্রাপ্ত ধাতুর বিশোধন তড়িৎ বিশ্লেষণে (Cu, Ag, Cr)।",
+   "notes_en": "Transition metals occur mainly as sulphides and oxides; unreactive ones (Cu, Au, Pt) occur free.\nOre = mineral from which a metal can be extracted easily and economically (e.g. magnetite Fe3O4).\nSteps: 1) concentration (washing; froth flotation for sulphides), 2) roasting (sulphide to oxide), 3) reduction.\nCarbon/CO reduction: Fe2O3 + 3CO -> 2Fe + 3CO2; ZnS roasted to ZnO then ZnO + C -> Zn + CO.\nCu from CuFeS2: roasting, then 2Cu2O + Cu2S -> 6Cu + SO2 (self-reduction).\nChlorides/oxides can be reduced by active metals (Na, Mg, Al); with Al it is thermite reduction (TiO2 -> TiCl4 -> Ti; V2O3 + 2Al -> 2V + Al2O3).\nCrude metals are refined electrolytically (Cu, Ag, Cr).",
+   "mcqs": [
+    {
+     "question_bn": "সালফাইড আকরিকের গাঢ়করণে কোন পদ্ধতি ব্যবহৃত হয়?",
+     "question_en": "Which method concentrates sulphide ores?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তেল-ফেনা ভাসমান",
+       "en": "Froth flotation"
+      },
+      {
+       "id": "b",
+       "bn": "বিদ্যুৎ বিশ্লেষণ",
+       "en": "Electrolysis"
+      },
+      {
+       "id": "c",
+       "bn": "থার্মিট",
+       "en": "Thermite process"
+      },
+      {
+       "id": "d",
+       "bn": "স্ববিজারণ",
+       "en": "Self-reduction"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সালফাইড আকরিক তেল-ফেনা ভাসমান পদ্ধতিতে খনিজমল থেকে আলাদা করা হয়।",
+     "explanation_en": "Sulphide ores are separated from gangue by oil-froth flotation.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তাপজারণ (roasting) এ সালফাইড আকরিক কীভাবে পরিবর্তিত হয়?",
+     "question_en": "What happens to a sulphide ore on roasting?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অক্সাইডে রূপান্তরিত হয় ও SO₂ তৈরি হয়",
+       "en": "Converted to oxide with release of SO2"
+      },
+      {
+       "id": "b",
+       "bn": "সরাসরি ধাতুতে বিজারিত হয়",
+       "en": "Directly reduced to metal"
+      },
+      {
+       "id": "c",
+       "bn": "ক্লোরাইডে পরিণত হয়",
+       "en": "Converted to chloride"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন হয় না",
+       "en": "No change"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বায়ুর উপস্থিতিতে উত্তপ্ত করলে সালফাইড অক্সাইড হয়, যেমন 2ZnS + 3O₂ → 2ZnO + 2SO₂।",
+     "explanation_en": "Heating in air gives the oxide, e.g. 2ZnS + 3O2 -> 2ZnO + 2SO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Fe₂O₃(s) + 3CO(g) → ? সঠিক বিক্রিয়া কোনটি?",
+     "question_en": "Complete: Fe2O3(s) + 3CO(g) ->",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2Fe + 3CO₂",
+       "en": "2Fe + 3CO₂"
+      },
+      {
+       "id": "b",
+       "bn": "2FeO + 3C",
+       "en": "2FeO + 3C"
+      },
+      {
+       "id": "c",
+       "bn": "Fe + 3CO₂",
+       "en": "Fe + 3CO₂"
+      },
+      {
+       "id": "d",
+       "bn": "2Fe + 3C",
+       "en": "2Fe + 3C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CO বিজারক; Fe₂O₃ থেকে 2Fe ও 3CO₂ পাওয়া যায় (পরমাণু সংখ্যা মিলে)।",
+     "explanation_en": "CO reduces Fe2O3 to 2Fe with 3CO2; the atoms balance.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আকরিক থেকে ধাতু নিষ্কাশনে Al দ্বারা ধাতব অক্সাইড বিজারণকে কী বলা হয়?",
+     "question_en": "What is reduction of a metal oxide by aluminium called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্যালসিনেশন",
+       "en": "Calcination"
+      },
+      {
+       "id": "b",
+       "bn": "থার্মিট বিজারণ",
+       "en": "Thermite reduction"
+      },
+      {
+       "id": "c",
+       "bn": "তাপজারণ",
+       "en": "Roasting"
+      },
+      {
+       "id": "d",
+       "bn": "বিশোধন",
+       "en": "Refining"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Al গুঁড়া দ্বারা অক্সাইডের বিজারণ থার্মিট বিজারণ।",
+     "explanation_en": "Reduction of an oxide by Al powder is thermite reduction.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.4",
+   "title_bn": "টাইটেনিয়ামের অবস্থান",
+   "title_en": "Occurrence of titanium",
+   "notes_bn": "টাইটেনিয়াম ভূত্বকের অন্যতম সাধারণ ধাতু; মৌলের প্রাচুর্যে নবম (0.6%)।\nঅ্যাপোলো-১১ এর আনা চন্দ্রপৃষ্ঠের খণ্ডে 7–12% TiO₂ পাওয়া গেছে।\nপ্রধান আকরিক: রুটাইল (TiO₂) ও ইলমেনাইট (FeTiO₃ বা FeO·TiO₂)।",
+   "notes_en": "Titanium is among the common metals in the crust; ninth most abundant element (0.6%).\nMoon rock brought by Apollo-11 contained 7-12% TiO2.\nMain ores: rutile (TiO2) and ilmenite (FeTiO3 or FeO.TiO2).",
+   "mcqs": [
+    {
+     "question_bn": "টাইটেনিয়ামের দুটি প্রধান আকরিক কোনগুলো?",
+     "question_en": "What are the two main ores of titanium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রুটাইল ও ইলমেনাইট",
+       "en": "Rutile and ilmenite"
+      },
+      {
+       "id": "b",
+       "bn": "ম্যাগনেটাইট ও সাইডেরাইট",
+       "en": "Magnetite and siderite"
+      },
+      {
+       "id": "c",
+       "bn": "পাইরোলুসাইট ও ব্রাউনাইট",
+       "en": "Pyrolusite and braunite"
+      },
+      {
+       "id": "d",
+       "bn": "ক্রোমাইট ও ক্রোকোইট",
+       "en": "Chromite and crocoite"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রুটাইল TiO₂ এবং ইলমেনাইট FeTiO₃।",
+     "explanation_en": "Rutile is TiO2 and ilmenite is FeTiO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইলমেনাইটের সংকেত কোনটি?",
+     "question_en": "What is the formula of ilmenite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TiO₂",
+       "en": "TiO₂"
+      },
+      {
+       "id": "b",
+       "bn": "FeTiO₃",
+       "en": "FeTiO₃"
+      },
+      {
+       "id": "c",
+       "bn": "FeCr₂O₄",
+       "en": "FeCr₂O₄"
+      },
+      {
+       "id": "d",
+       "bn": "Fe₃O₄",
+       "en": "Fe₃O₄"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইলমেনাইট = FeO·TiO₂ = FeTiO₃।",
+     "explanation_en": "Ilmenite = FeO.TiO2 = FeTiO3.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "3.5",
+   "title_bn": "আকরিক থেকে টাইটেনিয়াম ধাতু নিষ্কাশন",
+   "title_en": "Extraction of titanium from its ore",
+   "notes_bn": "দুই ধাপ: (ক) আকরিক থেকে TiCl₄ উৎপাদন, (খ) TiCl₄ থেকে Ti।\nক্লোরিন পদ্ধতি: চূর্ণ ইলমেনাইট + কোক 360°C এ উত্তপ্ত করে শুষ্ক Cl₂ চালনা: 2FeTiO₃ + 3C + 7Cl₂ → 2FeCl₃ + 2TiCl₄ + 3CO₂। TiCl₄ (b.p. 136°C) বাষ্প শীতল করে তরল করা হয়; আংশিক পাতনে পৃথক।\nক্রল পদ্ধতি: নিষ্ক্রিয় আর্গন পরিবেশে গলিত Mg (m.p. 712°C) দ্বারা TiCl₄ বিজারণ (~1025°C): TiCl₄ + 2Mg → Ti + 2MgCl₂। টাইটেনিয়াম স্পঞ্জ (m.p. 1668°C) পাওয়া যায়, লঘু HCl দিয়ে Mg ও MgCl₂ দূর করা হয়।\nবিকল্প: সোডিয়াম দ্বারা বিজারণ TiCl₄ + 4Na → Ti + 4NaCl।\nবিশুদ্ধকরণ: TiI₄ উৎপাদন করে গরম টাংস্টেন ফিলামেন্টে বিয়োজন।",
+   "notes_en": "Two stages: (a) ore to TiCl4, (b) TiCl4 to Ti.\nChlorination: powdered ilmenite + coke at 360 C with dry Cl2: 2FeTiO3 + 3C + 7Cl2 -> 2FeCl3 + 2TiCl4 + 3CO2; TiCl4 (b.p. 136 C) is condensed and separated by fractional distillation.\nKroll process: TiCl4 + 2Mg -> Ti + 2MgCl2 in inert argon at ~1025 C (Mg m.p. 712 C); titanium sponge (m.p. 1668 C) is leached with dilute HCl.\nAlternative: TiCl4 + 4Na -> Ti + 4NaCl.\nPurification: make TiI4 and decompose on a hot tungsten filament.",
+   "mcqs": [
+    {
+     "question_bn": "ক্রল পদ্ধতিতে TiCl₄ কে কোন ধাতু দ্বারা বিজারিত করা হয়?",
+     "question_en": "In the Kroll process TiCl4 is reduced by which metal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na",
+       "en": "Na"
+      },
+      {
+       "id": "b",
+       "bn": "Mg",
+       "en": "Mg"
+      },
+      {
+       "id": "c",
+       "bn": "Al",
+       "en": "Al"
+      },
+      {
+       "id": "d",
+       "bn": "Fe",
+       "en": "Fe"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আর্গন পরিবেশে গলিত ম্যাগনেসিয়াম ব্যবহৃত হয়।",
+     "explanation_en": "Molten magnesium in an argon atmosphere is used.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্রল পদ্ধতিতে নিষ্ক্রিয় আর্গন ব্যবহারের কারণ কী?",
+     "question_en": "Why is argon used in the Kroll process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ti ও Mg কে বায়ুর সঙ্গে বিক্রিয়া থেকে রক্ষা করতে",
+       "en": "To prevent Ti and Mg reacting with air"
+      },
+      {
+       "id": "b",
+       "bn": "তাপমাত্রা কমাতে",
+       "en": "To lower temperature"
+      },
+      {
+       "id": "c",
+       "bn": "প্রভাবক হিসেবে",
+       "en": "As a catalyst"
+      },
+      {
+       "id": "d",
+       "bn": "MgCl₂ দ্রবীভূত করতে",
+       "en": "To dissolve MgCl2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উচ্চ তাপমাত্রায় Mg ও Ti বায়ুর O₂/N₂ এর সঙ্গে বিক্রিয়া করত; নিষ্ক্রিয় পরিবেশ তা রোধ করে।",
+     "explanation_en": "Hot Mg and Ti would react with air; the inert atmosphere prevents this.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "TiCl₄ এর স্ফুটনাঙ্ক কত?",
+     "question_en": "What is the boiling point of TiCl4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "136°C",
+       "en": "136°C"
+      },
+      {
+       "id": "b",
+       "bn": "360°C",
+       "en": "360°C"
+      },
+      {
+       "id": "c",
+       "bn": "712°C",
+       "en": "712°C"
+      },
+      {
+       "id": "d",
+       "bn": "1668°C",
+       "en": "1668°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে TiCl₄ এর b.p. 136°C দেওয়া আছে; 360°C ক্লোরিনেশনের তাপমাত্রা।",
+     "explanation_en": "The book gives 136 C; 360 C is the chlorination temperature.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অতি বিশুদ্ধ টাইটেনিয়াম পেতে কোন যৌগের তাপীয় বিয়োজন ঘটানো হয়?",
+     "question_en": "Thermal decomposition of which compound gives very pure titanium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TiCl₄",
+       "en": "TiCl₄"
+      },
+      {
+       "id": "b",
+       "bn": "TiO₂",
+       "en": "TiO₂"
+      },
+      {
+       "id": "c",
+       "bn": "TiI₄",
+       "en": "TiI₄"
+      },
+      {
+       "id": "d",
+       "bn": "TiS₂",
+       "en": "TiS₂"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "আয়োডিনের বিক্রিয়ায় TiI₄ তৈরি করে গরম টাংস্টেন ফিলামেন্টে বিয়োজিত করা হয়।",
+     "explanation_en": "TiI4 is formed with iodine and decomposed on a hot tungsten filament.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.6",
+   "title_bn": "ভ্যানাডিয়ামের অবস্থান বা উৎস",
+   "title_en": "Occurrence of vanadium",
+   "notes_bn": "ভ্যানাডিয়াম ভূত্বকে প্রায় 0.02%।\nপ্রধান আকরিক: ভ্যানাডিনাইট 3Pb₃(VO₄)₂·PbCl₂ (লেড ক্লোরো অর্থো ভ্যানাডেট), কারনোটাইট K₂O·2UO₃·V₂O₅·3H₂O (পটাসিয়াম ইউরেনিল ভ্যানাডেট), পেট্রোনাইট V₂S₅·3CuS।",
+   "notes_en": "Vanadium makes up about 0.02% of the crust.\nMain ores: vanadinite 3Pb3(VO4)2.PbCl2, carnotite K2O.2UO3.V2O5.3H2O (potassium uranyl vanadate), patronite V2S5.3CuS.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি ভ্যানাডিয়ামের আকরিক?",
+     "question_en": "Which is an ore of vanadium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পাইরোলুসাইট / Pyrolusite",
+       "en": "পাইরোলুসাইট / Pyrolusite"
+      },
+      {
+       "id": "b",
+       "bn": "কারনোটাইট / Carnotite",
+       "en": "কারনোটাইট / Carnotite"
+      },
+      {
+       "id": "c",
+       "bn": "ক্রোমাইট / Chromite",
+       "en": "ক্রোমাইট / Chromite"
+      },
+      {
+       "id": "d",
+       "bn": "রুটাইল / Rutile",
+       "en": "রুটাইল / Rutile"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কারনোটাইট পটাসিয়াম ইউরেনিল ভ্যানাডেট।",
+     "explanation_en": "Carnotite is potassium uranyl vanadate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পেট্রোনাইটের সংকেত কোনটি?",
+     "question_en": "What is the formula of patronite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "V₂S₅·3CuS",
+       "en": "V₂S₅·3CuS"
+      },
+      {
+       "id": "b",
+       "bn": "Pb₅(VO₄)₃Cl",
+       "en": "Pb₅(VO₄)₃Cl"
+      },
+      {
+       "id": "c",
+       "bn": "MnO₂",
+       "en": "MnO₂"
+      },
+      {
+       "id": "d",
+       "bn": "FeO·Cr₂O₃",
+       "en": "FeO·Cr₂O₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পেট্রোনাইট V₂S₅·3CuS।",
+     "explanation_en": "Patronite is V2S5.3CuS.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "3.7",
+   "title_bn": "আকরিক থেকে ভ্যানাডিয়াম ধাতু নিষ্কাশন",
+   "title_en": "Extraction of vanadium from its ore",
+   "notes_bn": "ভ্যানাডিনাইট থেকে: চূর্ণ আকরিক + গাঢ় HCl → PbCl₂ অদ্রবণীয় (অধঃপড়ে), VO₂Cl দ্রবীভূত। দ্রবণে NH₄Cl দিলে NH₄VO₃ অধঃক্ষিপ্ত; উত্তপ্ত করে 2NH₄VO₃ → V₂O₅ + 2NH₃ + H₂O।\nকারনোটাইট থেকে: Na₂CO₃ দিয়ে গলিয়ে Na₄UO₂(CO₃)₃ ও Na₃VO₄; Na₃VO₄ + NH₄Cl → NH₄VO₃ → V₂O₅।\nV₂O₅ + 5Ca → 2V + 5CaO (900–950°C); CaCl₂ বিগলনকারী (মার্দেনান্ড রিচ পদ্ধতি) — মোটামুটি বিশুদ্ধ V।\nবিশুদ্ধ V: V₂O₅ কে H₂ বা C দিয়ে V₂O₃ এ বিজারণ; V₂O₃ + 2Al → Al₂O₃ + 2V (থার্মিট, প্রায় 99% বিশুদ্ধ)। উচ্চ তাপমাত্রায় V, O₂, N₂, C এর সঙ্গে বিক্রিয়া করে বলে বিশুদ্ধ V তৈরি কঠিন।",
+   "notes_en": "From vanadinite: powdered ore + conc. HCl; PbCl2 stays undissolved, VO2Cl dissolves; NH4Cl precipitates NH4VO3, which on heating gives V2O5 (2NH4VO3 -> V2O5 + 2NH3 + H2O).\nFrom carnotite: fuse with Na2CO3 to give Na4UO2(CO3)3 and Na3VO4; Na3VO4 + NH4Cl -> NH4VO3 -> V2O5.\nV2O5 + 5Ca -> 2V + 5CaO at 900-950 C with CaCl2 as flux (Mardenand Rich) gives fairly pure V.\nPure V: reduce V2O5 to V2O3 with H2 or C, then V2O3 + 2Al -> Al2O3 + 2V (thermite, ~99% pure). Pure V is hard to make since V reacts with O2, N2 and C when hot.",
+   "mcqs": [
+    {
+     "question_bn": "ভ্যানাডিনাইটকে গাঢ় HCl দিয়ে বিক্রিয়ায় কোন যৌগ অদ্রবণীয় থাকে?",
+     "question_en": "On treating vanadinite with conc. HCl, which compound stays undissolved?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "VO₂Cl",
+       "en": "VO₂Cl"
+      },
+      {
+       "id": "b",
+       "bn": "PbCl₂",
+       "en": "PbCl₂"
+      },
+      {
+       "id": "c",
+       "bn": "NH₄VO₃",
+       "en": "NH₄VO₃"
+      },
+      {
+       "id": "d",
+       "bn": "V₂O₅",
+       "en": "V₂O₅"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "PbCl₂ অধঃক্ষিপ্ত থাকে, VO₂Cl দ্রবীভূত হয়।",
+     "explanation_en": "PbCl2 remains as a solid while VO2Cl dissolves.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "V₂O₅ থেকে ক্যালসিয়াম দ্বারা V প্রস্তুতির সমীকরণ কোনটি?",
+     "question_en": "Which is the equation for V2O5 reduction by calcium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "V₂O₅ + 5Ca → 2V + 5CaO",
+       "en": "V₂O₅ + 5Ca → 2V + 5CaO"
+      },
+      {
+       "id": "b",
+       "bn": "V₂O₅ + 3Ca → 2V + 3CaO",
+       "en": "V₂O₅ + 3Ca → 2V + 3CaO"
+      },
+      {
+       "id": "c",
+       "bn": "V₂O₅ + Ca → V + CaO",
+       "en": "V₂O₅ + Ca → V + CaO"
+      },
+      {
+       "id": "d",
+       "bn": "V₂O₅ + 2Ca → V + 2CaO₂",
+       "en": "V₂O₅ + 2Ca → V + 2CaO₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পরমাণু সমতা: 5 O ↔ 5CaO; V 2টি।",
+     "explanation_en": "Atoms balance: 5 O gives 5 CaO and 2 V.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মার্দেনান্ড রিচ পদ্ধতিতে CaCl₂ কেন মেশানো হয়?",
+     "question_en": "Why is CaCl2 added in the Mardenand Rich method?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaO কে বিগলিত করে V চুনকে আলাদা করতে",
+       "en": "As a flux to dissolve CaO and free the metal"
+      },
+      {
+       "id": "b",
+       "bn": "প্রভাবকরূপে",
+       "en": "As a catalyst"
+      },
+      {
+       "id": "c",
+       "bn": "V₂O₅ বিজারণ করতে",
+       "en": "To reduce V2O5"
+      },
+      {
+       "id": "d",
+       "bn": "ক্লোরিন তৈরি করতে",
+       "en": "To produce chlorine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CaCl₂ বিগলনকারী হিসেবে উৎপন্ন CaO কে দ্রবীভূত করে।",
+     "explanation_en": "CaCl2 acts as a flux dissolving the CaO formed.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রায় 99% বিশুদ্ধ V কোন পদ্ধতিতে পাওয়া যায়?",
+     "question_en": "By which route is ~99% pure vanadium obtained?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "V₂O₃ এর Al দ্বারা থার্মিট বিজারণ",
+       "en": "Thermite reduction of V2O3 with Al"
+      },
+      {
+       "id": "b",
+       "bn": "V₂O₅ এর CO দ্বারা বিজারণ",
+       "en": "CO reduction of V2O5"
+      },
+      {
+       "id": "c",
+       "bn": "সরাসরি তাপজারণ",
+       "en": "Direct roasting"
+      },
+      {
+       "id": "d",
+       "bn": "তড়িৎ বিশ্লেষণ",
+       "en": "Electrolysis of water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "V₂O₃ + 2Al → Al₂O₃ + 2V।",
+     "explanation_en": "V2O3 + 2Al -> Al2O3 + 2V.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.8",
+   "title_bn": "ক্রোমিয়ামের অবস্থান বা উৎস",
+   "title_en": "Occurrence of chromium",
+   "notes_bn": "প্রধান আকরিক ক্রোমাইট FeO·Cr₂O₃ (ক্রোম আয়রন স্টোন)।\nঅন্যান্য: ক্রোম ওকার (Cr₂O₃), ক্রোকোইট (PbCrO₄, লেড ক্রোমেট)।\nক্রোমাইট থেকে ক্রোমিয়াম-সংকর (ফেরোক্রোম) বা বিশুদ্ধ Cr নিষ্কাশন করা হয়।",
+   "notes_en": "Main ore: chromite FeO.Cr2O3 (chrome iron stone).\nOthers: chrome ochre (Cr2O3), crocoite (PbCrO4, lead chromate).\nChromite gives either a chromium-iron alloy (ferrochrome) or pure Cr.",
+   "mcqs": [
+    {
+     "question_bn": "ক্রোমিয়ামের প্রধান আকরিক কোনটি?",
+     "question_en": "What is the main ore of chromium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "FeO·Cr₂O₃",
+       "en": "FeO·Cr₂O₃"
+      },
+      {
+       "id": "b",
+       "bn": "PbCrO₄",
+       "en": "PbCrO₄"
+      },
+      {
+       "id": "c",
+       "bn": "Cr₂O₃",
+       "en": "Cr₂O₃"
+      },
+      {
+       "id": "d",
+       "bn": "MnO₂",
+       "en": "MnO₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্রোমাইট (FeO·Cr₂O₃) প্রধান আকরিক।",
+     "explanation_en": "Chromite is the principal ore.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্রোকোইট কোন যৌগ?",
+     "question_en": "Crocoite is which compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "PbCrO₄",
+       "en": "PbCrO₄"
+      },
+      {
+       "id": "b",
+       "bn": "Cr₂O₃",
+       "en": "Cr₂O₃"
+      },
+      {
+       "id": "c",
+       "bn": "K₂CrO₄",
+       "en": "K₂CrO₄"
+      },
+      {
+       "id": "d",
+       "bn": "FeCr₂O₄",
+       "en": "FeCr₂O₄"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্রোকোইট = লেড ক্রোমেট PbCrO₄।",
+     "explanation_en": "Crocoite is lead chromate, PbCrO4.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "3.9",
+   "title_bn": "ফেরোক্রোম উৎপাদন",
+   "title_en": "Manufacture of ferrochrome",
+   "notes_bn": "ইস্পাত শিল্পের জন্য Cr কে আয়রনের সংকর (ফেরোক্রোম) হিসেবে নিষ্কাশন করা হয়।\nক্রোমাইট আকরিক ধৌতকরণে খনিজমল দূর করে গাঢ় করা হয়, পরে বৈদ্যুতিক চুল্লিতে কার্বন দ্বারা বিজারণ: FeO·Cr₂O₃ + 4C → Fe·2Cr + 4CO।\nফেরোক্রোম: প্রায় 65% Cr ও 35% Fe; মরিচাহীন ইস্পাত তৈরিতে ব্যবহৃত।",
+   "notes_en": "For steel making, Cr is extracted as ferrochrome (Cr-Fe alloy).\nChromite is concentrated by washing, then reduced with carbon in an electric furnace: FeO.Cr2O3 + 4C -> Fe.2Cr + 4CO.\nFerrochrome: ~65% Cr and 35% Fe; used for stainless steels.",
+   "mcqs": [
+    {
+     "question_bn": "ফেরোক্রোমে Cr ও Fe এর আনুমানিক শতকরা পরিমাণ কত?",
+     "question_en": "Approximate Cr and Fe percentages in ferrochrome?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "35% Cr, 65% Fe",
+       "en": "35% Cr, 65% Fe"
+      },
+      {
+       "id": "b",
+       "bn": "65% Cr, 35% Fe",
+       "en": "65% Cr, 35% Fe"
+      },
+      {
+       "id": "c",
+       "bn": "50% Cr, 50% Fe",
+       "en": "50% Cr, 50% Fe"
+      },
+      {
+       "id": "d",
+       "bn": "90% Cr, 10% Fe",
+       "en": "90% Cr, 10% Fe"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী 65% Cr ও 35% Fe।",
+     "explanation_en": "As given: 65% Cr and 35% Fe.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফেরোক্রোম উৎপাদনে ক্রোমাইটকে কীসের সাহায্যে বিজারিত করা হয়?",
+     "question_en": "What reduces chromite in ferrochrome production?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বন / Carbon",
+       "en": "কার্বন / Carbon"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালুমিনিয়াম / Aluminium",
+       "en": "অ্যালুমিনিয়াম / Aluminium"
+      },
+      {
+       "id": "c",
+       "bn": "হাইড্রোজেন / Hydrogen",
+       "en": "হাইড্রোজেন / Hydrogen"
+      },
+      {
+       "id": "d",
+       "bn": "সোডিয়াম / Sodium",
+       "en": "সোডিয়াম / Sodium"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "FeO·Cr₂O₃ + 4C → Fe·2Cr + 4CO।",
+     "explanation_en": "FeO.Cr2O3 + 4C -> Fe.2Cr + 4CO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "FeO·Cr₂O₃ + 4C → Fe·2Cr + 4CO সমীকরণে কয় মোল CO উৎপন্ন হয় 1 mol ক্রোমাইট থেকে?",
+     "question_en": "How many moles of CO form per mole of chromite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "চারটি O (1+3) কার্বনের চার পরমাণুর সঙ্গে 4CO দেয়।",
+     "explanation_en": "All four O atoms (1 + 3) leave with 4 C as 4CO.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.10",
+   "title_bn": "আকরিক থেকে ক্রোমিয়াম ধাতু নিষ্কাশন",
+   "title_en": "Extraction of chromium from its ores",
+   "notes_bn": "ধাপ ১: গাঁড়ীকরণ ও তাপজারণ: চূর্ণ ক্রোমাইট + Na₂CO₃ + চুন, অতিরিক্ত বায়ুতে পরাবর্তক চুল্লিতে: 4FeO·Cr₂O₃ + 8Na₂CO₃ + 7O₂ → 8Na₂CrO₄ + 2Fe₂O₃ + 8CO₂।\nধাপ ২: Na₂CrO₄ কে জলে দ্রবীভূত করে H₂SO₄ দিলে Na₂Cr₂O₇: 2Na₂CrO₄ + H₂SO₄ → Na₂Cr₂O₇ + Na₂SO₄ + H₂O।\nধাপ ৩: Na₂Cr₂O₇ + 2NH₄Cl → (NH₄)₂Cr₂O₇ → Cr₂O₃ + N₂ + 4H₂O; অথবা কার্বন দ্বারা NaCrO₂ → Cr₂O₃।\nধাপ ৪: গোল্ডশ্মিট থার্মিট: Cr₂O₃ + 2Al → 2Cr + Al₂O₃ (প্রায় 99.5% বিশুদ্ধ Cr); প্রজ্বলন মিশ্রণ KClO₃, BaO₂, Mg।",
+   "notes_en": "Step 1: roast powdered chromite with Na2CO3 and lime in excess air in a reverberatory furnace: 4FeO.Cr2O3 + 8Na2CO3 + 7O2 -> 8Na2CrO4 + 2Fe2O3 + 8CO2.\nStep 2: dissolve Na2CrO4 in water and add H2SO4: 2Na2CrO4 + H2SO4 -> Na2Cr2O7 + Na2SO4 + H2O.\nStep 3: reduce dichromate: with NH4Cl gives (NH4)2Cr2O7 which heats to Cr2O3 + N2 + 4H2O; or with charcoal via NaCrO2 to Cr2O3.\nStep 4: Goldschmidt thermite: Cr2O3 + 2Al -> 2Cr + Al2O3 (~99.5% Cr); ignition mixture KClO3, BaO2, Mg.",
+   "mcqs": [
+    {
+     "question_bn": "ক্রোমাইট থেকে Na₂CrO₄ প্রস্তুতিতে কোন রাসায়নিক ব্যবহৃত হয়?",
+     "question_en": "Which reagent converts chromite to Na2CrO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na₂CO₃ ও বায়ু / Na2CO3 and air",
+       "en": "Na₂CO₃ ও বায়ু / Na2CO3 and air"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH ও H₂",
+       "en": "NaOH ও H₂"
+      },
+      {
+       "id": "d",
+       "bn": "Cl₂",
+       "en": "Cl₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Na₂CO₃ ও O₂ এর সঙ্গে উত্তপ্ত করে সোডিয়াম ক্রোমেট পাওয়া যায়।",
+     "explanation_en": "Heating with Na2CO3 and O2 gives sodium chromate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Na₂CrO₄ থেকে Na₂Cr₂O₇ পেতে কী যোগ করা হয়?",
+     "question_en": "What is added to Na2CrO4 to make Na2Cr2O7?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂SO₄",
+       "en": "H₂SO₄"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "NH₃",
+       "en": "NH₃"
+      },
+      {
+       "id": "d",
+       "bn": "Al",
+       "en": "Al"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অম্লীয় করলে ক্রোমেট ডাইক্রোমেটে পরিণত হয়।",
+     "explanation_en": "Acidifying converts chromate to dichromate.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "থার্মিট পদ্ধতিতে Cr₂O₃ এর সঙ্গে কোন ধাতু মিশিয়ে ক্রোমিয়াম পাওয়া যায়?",
+     "question_en": "Which metal is mixed with Cr2O3 in thermite to give chromium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Mg",
+       "en": "Mg"
+      },
+      {
+       "id": "b",
+       "bn": "Al",
+       "en": "Al"
+      },
+      {
+       "id": "c",
+       "bn": "Fe",
+       "en": "Fe"
+      },
+      {
+       "id": "d",
+       "bn": "Zn",
+       "en": "Zn"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cr₂O₃ + 2Al → 2Cr + Al₂O₃।",
+     "explanation_en": "Cr2O3 + 2Al -> 2Cr + Al2O3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "4[FeO·Cr₂O₃] + 8Na₂CO₃ + 7O₂ → 8Na₂CrO₄ + 2Fe₂O₃ + x CO₂ এ x কত?",
+     "question_en": "In 4[FeO.Cr2O3] + 8Na2CO3 + 7O2 -> 8Na2CrO4 + 2Fe2O3 + xCO2, find x.",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "b",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "c",
+       "bn": "8",
+       "en": "8"
+      },
+      {
+       "id": "d",
+       "bn": "16",
+       "en": "16"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "8Na₂CO₃ থেকে 8C আছে, তাই 8CO₂।",
+     "explanation_en": "8 Na2CO3 supply 8 C, so x = 8.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.11",
+   "title_bn": "ম্যাঙ্গানিজের অবস্থান বা উৎস",
+   "title_en": "Occurrence of manganese",
+   "notes_bn": "ম্যাঙ্গানিজ মৌলিক অবস্থায় থাকে না; ভূত্বকে 0.085%, যৌগরূপে।\nপ্রধান আকরিক: পাইরোলুসাইট MnO₂, ম্যাঙ্গানাইট Mn₂O₃·H₂O, ব্রুনাইট Mn₂O₃, হস্ম্যানাইট Mn₃O₄।",
+   "notes_en": "Mn does not occur free; ~0.085% of the crust as compounds.\nOres: pyrolusite MnO2, manganite Mn2O3.H2O, braunite Mn2O3, hausmannite Mn3O4.",
+   "mcqs": [
+    {
+     "question_bn": "ম্যাঙ্গানিজের প্রধান আকরিক কোনটি?",
+     "question_en": "Which is the main ore of manganese?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পাইরোলুসাইট / Pyrolusite (MnO₂)",
+       "en": "পাইরোলুসাইট / Pyrolusite (MnO₂)"
+      },
+      {
+       "id": "b",
+       "bn": "ক্রোমাইট / Chromite",
+       "en": "ক্রোমাইট / Chromite"
+      },
+      {
+       "id": "c",
+       "bn": "রুটাইল / Rutile",
+       "en": "রুটাইল / Rutile"
+      },
+      {
+       "id": "d",
+       "bn": "ভ্যানাডিনাইট / Vanadinite",
+       "en": "ভ্যানাডিনাইট / Vanadinite"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পাইরোলুসাইট MnO₂ প্রধান আকরিক।",
+     "explanation_en": "Pyrolusite (MnO2) is the main ore.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হস্ম্যানাইটের সংকেত কোনটি?",
+     "question_en": "What is the formula of hausmannite?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MnO₂",
+       "en": "MnO₂"
+      },
+      {
+       "id": "b",
+       "bn": "Mn₂O₃",
+       "en": "Mn₂O₃"
+      },
+      {
+       "id": "c",
+       "bn": "Mn₃O₄",
+       "en": "Mn₃O₄"
+      },
+      {
+       "id": "d",
+       "bn": "Mn₂O₃·H₂O",
+       "en": "Mn₂O₃·H₂O"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "হস্ম্যানাইট Mn₃O₄।",
+     "explanation_en": "Hausmannite is Mn3O4.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "3.12",
+   "title_bn": "আকরিক থেকে ম্যাঙ্গানিজ নিষ্কাশন",
+   "title_en": "Extraction of manganese from its ore",
+   "notes_bn": "অ্যালুমিনো থার্মিট পদ্ধতি: ধৌত গাঢ় পাইরোলুসাইট বায়ুতে প্রবল উত্তপ্ত → 3MnO₂ → Mn₃O₄ + O₂। Mn₃O₄ + Al চূর্ণ মিশ্রণ পোর্সেলিন ক্রুসিবলে, বেরিয়াম পারঅক্সাইড ও Mg দিয়ে প্রজ্বলন: 3Mn₃O₄ + 8Al → 9Mn + 4Al₂O₃। মোটামুটি বিশুদ্ধ Mn।\nতড়িৎ বিশ্লেষণ: MnO₂ + গাঢ় HCl → MnCl₂ দ্রবণ; পারদ ক্যাথোডে তড়িৎ বিশ্লেষণে Mn-Hg অ্যামালগাম; নিম্নচাপে পারদ পাতিত করলে বিশুদ্ধ Mn।",
+   "notes_en": "Alumino-thermite: washed pyrolusite is strongly heated in air: 3MnO2 -> Mn3O4 + O2. Mn3O4 with Al powder in a porcelain crucible, ignited with BaO2 and Mg: 3Mn3O4 + 8Al -> 9Mn + 4Al2O3 (fairly pure Mn).\nElectrolytic: MnO2 + conc. HCl gives MnCl2 solution; electrolysis with a mercury cathode gives Mn-Hg amalgam; distilling Hg under reduced pressure leaves pure Mn.",
+   "mcqs": [
+    {
+     "question_bn": "3MnO₂ তাপ → ? বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "Heating 3MnO2 gives which products?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Mn₃O₄ + O₂",
+       "en": "Mn₃O₄ + O₂"
+      },
+      {
+       "id": "b",
+       "bn": "Mn + O₂",
+       "en": "Mn + O₂"
+      },
+      {
+       "id": "c",
+       "bn": "Mn₂O₃ + O₂",
+       "en": "Mn₂O₃ + O₂"
+      },
+      {
+       "id": "d",
+       "bn": "MnO + O₂",
+       "en": "MnO + O₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পাইরোলুসাইট বিয়োজিত হয়ে Mn₃O₄ ও O₂ দেয়।",
+     "explanation_en": "MnO2 decomposes to Mn3O4 and O2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "3Mn₃O₄ + 8Al → ? সমীকরণে Mn ও Al₂O₃ এর মোল অনুপাত কত?",
+     "question_en": "In 3Mn3O4 + 8Al -> ?, what is the Mn : Al2O3 mole ratio?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "9 : 4",
+       "en": "9 : 4"
+      },
+      {
+       "id": "b",
+       "bn": "3 : 4",
+       "en": "3 : 4"
+      },
+      {
+       "id": "c",
+       "bn": "9 : 8",
+       "en": "9 : 8"
+      },
+      {
+       "id": "d",
+       "bn": "1 : 1",
+       "en": "1 : 1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "9Mn + 4Al₂O₃ উৎপন্ন হয়।",
+     "explanation_en": "9 Mn and 4 Al2O3 form.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "তড়িৎ বিশ্লেষণ পদ্ধতিতে Mn নিষ্কাশনে ক্যাথোড হিসেবে কী ব্যবহৃত হয়?",
+     "question_en": "Which cathode is used in electrolytic extraction of Mn?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্ল্যাটিনাম / Pt",
+       "en": "প্ল্যাটিনাম / Pt"
+      },
+      {
+       "id": "b",
+       "bn": "পারদ / Mercury",
+       "en": "পারদ / Mercury"
+      },
+      {
+       "id": "c",
+       "bn": "গ্রাফাইট / Graphite",
+       "en": "গ্রাফাইট / Graphite"
+      },
+      {
+       "id": "d",
+       "bn": "কপার / Copper",
+       "en": "কপার / Copper"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পারদ ক্যাথোডে Mn-Hg অ্যামালগাম গঠিত হয়।",
+     "explanation_en": "A mercury cathode forms Mn-Hg amalgam.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Mn-Hg অ্যামালগাম থেকে বিশুদ্ধ Mn পেতে কী করা হয়?",
+     "question_en": "How is pure Mn obtained from Mn-Hg amalgam?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিম্নচাপে পারদ পাতন",
+       "en": "Distil Hg under reduced pressure"
+      },
+      {
+       "id": "b",
+       "bn": "HCl যোগ",
+       "en": "Add HCl"
+      },
+      {
+       "id": "c",
+       "bn": "Al যোগ",
+       "en": "Add Al"
+      },
+      {
+       "id": "d",
+       "bn": "ঠান্ডা করা",
+       "en": "Cool it"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বায়ুশূন্য পাত্রে পারদ পাতিত হয়ে বিশুদ্ধ Mn অবশিষ্ট থাকে।",
+     "explanation_en": "Hg distils off in a vacuum leaving pure Mn.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.13",
+   "title_bn": "ম্যাঙ্গানিজ, ক্রোমিয়াম ও ভ্যানাডিয়ামের বিভিন্ন জারণ অবস্থা ও তাদের রূপান্তর পদ্ধতি",
+   "title_en": "Oxidation states of Mn, Cr, V and their interconversions",
+   "notes_bn": "Mn: +2,+3,+4,+6,+7; Mn²⁺ সবচেয়ে সুস্থিত (3d⁵), হালকা গোলাপি। অক্সাইড: MnO ক্ষারীয়, Mn₂O₃ মৃদু ক্ষারীয়, MnO₂ উভধর্মী, MnO₃ ও Mn₂O₇ অম্লধর্মী। MnO₄²⁻ সবুজ, MnO₄⁻ গাঢ় বেগুনি।\nউদাহরণ: MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O; 3MnO₄²⁻ + 4H⁺ → 2MnO₄⁻ + MnO₂ + 2H₂O; MnO₄⁻ + 8H⁺ + 5e → Mn²⁺ + 4H₂O।\nCr: +2,+3,+6; Cr³⁺ সবচেয়ে সুস্থিত। CrO ক্ষারীয়, Cr₂O₃ উভধর্মী, CrO₃ অম্লীয়। CrO₄²⁻ হলুদ, Cr₂O₇²⁻ কমলা: 2CrO₄²⁻ + 2H⁺ ⇌ Cr₂O₇²⁻ + H₂O; Cr₂O₇²⁻ + 14H⁺ + 6e → 2Cr³⁺ + 7H₂O।\nV: +2,+3,+4,+5; +4 সবচেয়ে সুস্থিত। রঙ: VO₂⁺ হলুদ, VO²⁺ নীল, V³⁺ সবুজ, V²⁺ বেগুনি; VO₃⁻/VO₄³⁻ বর্ণহীন।\nV₂O₅ + 6HCl → 2VOCl₂ + Cl₂ + 3H₂O (জারক ধর্ম); V₂O₅ + 3Na₂CO₃-এর ক্ষারীয় বিক্রিয়ায় Na₃VO₄।\nনিম্ন জারণ অবস্থার অক্সাইড ক্ষারীয়, উচ্চ জারণ অবস্থায় অম্লীয়; উচ্চ জারণ অবস্থার অক্সো-আয়ন শক্তিশালী জারক (প্রমাণ দ্রবণ: KMnO₄, K₂Cr₂O₇)।",
+   "notes_en": "Mn: +2,+3,+4,+6,+7; Mn2+ is most stable (3d5), pale pink. Oxides: MnO basic, Mn2O3 weakly basic, MnO2 amphoteric, MnO3 and Mn2O7 acidic. MnO4(2-) green, MnO4(-) deep purple.\nExamples: MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O; 3MnO4(2-) + 4H+ -> 2MnO4(-) + MnO2 + 2H2O; MnO4(-) + 8H+ + 5e -> Mn2+ + 4H2O.\nCr: +2,+3,+6; Cr3+ is most stable. CrO basic, Cr2O3 amphoteric, CrO3 acidic. CrO4(2-) yellow, Cr2O7(2-) orange: 2CrO4(2-) + 2H+ <-> Cr2O7(2-) + H2O; Cr2O7(2-) + 14H+ + 6e -> 2Cr3+ + 7H2O.\nV: +2,+3,+4,+5; +4 is most stable. Colours: VO2+ (dioxo) yellow, VO2+ (oxo) blue, V3+ green, V2+ violet; VO3-/VO4(3-) colourless.\nV2O5 + 6HCl -> 2VOCl2 + Cl2 + 3H2O (oxidising); with alkali it behaves as an acid giving vanadates.\nLower oxidation state oxides are basic, higher are acidic; high-oxidation-state oxoanions are strong oxidants (standard solutions: KMnO4, K2Cr2O7).",
+   "mcqs": [
+    {
+     "question_bn": "সবচেয়ে সুস্থিত Mn এর জারণ অবস্থা (সরল আয়ন) কোনটি?",
+     "question_en": "Which simple ion state is most stable for Mn?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Mn²⁺",
+       "en": "Mn²⁺"
+      },
+      {
+       "id": "b",
+       "bn": "Mn³⁺",
+       "en": "Mn³⁺"
+      },
+      {
+       "id": "c",
+       "bn": "Mn⁴⁺",
+       "en": "Mn⁴⁺"
+      },
+      {
+       "id": "d",
+       "bn": "Mn⁷⁺",
+       "en": "Mn⁷⁺"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Mn²⁺ = 3d⁵ অর্ধপূর্ণ; সবচেয়ে সুস্থিত।",
+     "explanation_en": "Mn2+ has the half-filled 3d5 and is most stable.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "KMnO₄ দ্রবণের বর্ণ কেমন?",
+     "question_en": "What is the colour of KMnO4 solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় বেগুনি",
+       "en": "Deep purple"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ",
+       "en": "Yellow"
+      },
+      {
+       "id": "d",
+       "bn": "নীল",
+       "en": "Blue"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "MnO₄⁻ (Mn⁷⁺) গাঢ় বেগুনি।",
+     "explanation_en": "MnO4- (Mn7+) is deep purple.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি অম্লধর্মী অক্সাইড?",
+     "question_en": "Which is an acidic oxide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MnO",
+       "en": "MnO"
+      },
+      {
+       "id": "b",
+       "bn": "CrO",
+       "en": "CrO"
+      },
+      {
+       "id": "c",
+       "bn": "CrO₃",
+       "en": "CrO₃"
+      },
+      {
+       "id": "d",
+       "bn": "Cr₂O₃",
+       "en": "Cr₂O₃"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CrO₃ অম্লধর্মী; CrO ক্ষারধর্মী, Cr₂O₃ উভধর্মী।",
+     "explanation_en": "CrO3 is acidic; CrO is basic and Cr2O3 amphoteric.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি ক্রোমেট (VI) আয়ন ও তার বর্ণ?",
+     "question_en": "Which pair gives chromate(VI) ion and its colour?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CrO₄²⁻, হলুদ",
+       "en": "CrO4(2-), yellow"
+      },
+      {
+       "id": "b",
+       "bn": "Cr₂O₇²⁻, হলুদ",
+       "en": "Cr2O7(2-), yellow"
+      },
+      {
+       "id": "c",
+       "bn": "CrO₄²⁻, কমলা",
+       "en": "CrO4(2-), orange"
+      },
+      {
+       "id": "d",
+       "bn": "CrO₄²⁻, সবুজ",
+       "en": "CrO4(2-), green"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্রোমেট হলুদ; ডাইক্রোমেট কমলা।",
+     "explanation_en": "Chromate is yellow; dichromate is orange.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি অ্যাসিড মাধ্যমে Cr₂O₇²⁻ এর বিজারণ অর্ধ-বিক্রিয়া?",
+     "question_en": "Which is the half-reaction of Cr2O7(2-) reduction in acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cr₂O₇²⁻ + 14H⁺ + 6e → 2Cr³⁺ + 7H₂O",
+       "en": "Cr₂O₇²⁻ + 14H⁺ + 6e → 2Cr³⁺ + 7H₂O"
+      },
+      {
+       "id": "b",
+       "bn": "Cr₂O₇²⁻ + 8H⁺ + 3e → 2Cr³⁺ + 4H₂O",
+       "en": "Cr₂O₇²⁻ + 8H⁺ + 3e → 2Cr³⁺ + 4H₂O"
+      },
+      {
+       "id": "c",
+       "bn": "Cr₂O₇²⁻ + 14H⁺ + 3e → Cr³⁺ + 7H₂O",
+       "en": "Cr₂O₇²⁻ + 14H⁺ + 3e → Cr³⁺ + 7H₂O"
+      },
+      {
+       "id": "d",
+       "bn": "Cr₂O₇²⁻ + 6e → 2Cr³⁺",
+       "en": "Cr₂O₇²⁻ + 6e → 2Cr³⁺"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "চার্জ: −2 + 14 − 6 = +6 = 2(+3); O: 7 ও 7 মেলে।",
+     "explanation_en": "Charge: -2 + 14 - 6 = +6 = 2(+3); oxygen also balances.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন ভ্যানাডিয়াম আয়ন সবুজ বর্ণের?",
+     "question_en": "Which vanadium ion is green?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "V²⁺",
+       "en": "V²⁺"
+      },
+      {
+       "id": "b",
+       "bn": "V³⁺",
+       "en": "V³⁺"
+      },
+      {
+       "id": "c",
+       "bn": "VO²⁺",
+       "en": "VO²⁺"
+      },
+      {
+       "id": "d",
+       "bn": "VO₂⁺",
+       "en": "VO₂⁺"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "V³⁺ সবুজ; V²⁺ বেগুনি, VO²⁺ নীল, VO₂⁺ হলুদ।",
+     "explanation_en": "V3+ is green; V2+ violet, VO2+ blue, VO2(+) yellow.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সবুজ MnO₄²⁻ আয়ন অম্লীয় মাধ্যমে বিক্রিয়ায় কী উৎপন্ন করে?",
+     "question_en": "What forms when green MnO4(2-) is acidified?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MnO₄⁻ ও MnO₂",
+       "en": "MnO4- and MnO2"
+      },
+      {
+       "id": "b",
+       "bn": "Mn²⁺ ও O₂",
+       "en": "Mn2+ and O2"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু MnO₂",
+       "en": "Only MnO2"
+      },
+      {
+       "id": "d",
+       "bn": "Mn ধাতু",
+       "en": "Mn metal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অসামঞ্জস্যতা: 3MnO₄²⁻ + 4H⁺ → 2MnO₄⁻ + MnO₂ + 2H₂O।",
+     "explanation_en": "Disproportionation: 3MnO4(2-) + 4H+ -> 2MnO4- + MnO2 + 2H2O.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ভ্যানাডিয়ামের সবচেয়ে সুস্থিত জারণ অবস্থা কোনটি?",
+     "question_en": "Which is the most stable oxidation state of vanadium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+2",
+       "en": "+2"
+      },
+      {
+       "id": "b",
+       "bn": "+3",
+       "en": "+3"
+      },
+      {
+       "id": "c",
+       "bn": "+4",
+       "en": "+4"
+      },
+      {
+       "id": "d",
+       "bn": "+5",
+       "en": "+5"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে V(+4) সবচেয়ে সুস্থিত বলা আছে।",
+     "explanation_en": "The book states V(+4) is the most stable.",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "3.1",
+   "stimulus_bn": "একটি ছাত্র 3d-ব্লকের চারটি মৌল Cr, Fe, Zn ও Sc এর ইলেকট্রন বিন্যাস এবং তাদের আয়নের ধর্ম নিয়ে কাজ করছে। সে লক্ষ করল কিছু মৌল d-ব্লকভুক্ত হলেও অবস্থান্তর মৌল নয়।",
+   "stimulus_en": "A student studies the 3d elements Cr, Fe, Zn and Sc and notes that some d-block elements are not transition metals.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "d-ব্লক মৌলের সংজ্ঞা দাও।",
+     "question_en": "Define a d-block element.",
+     "model_answer_bn": "যে মৌলের শেষ ইলেকট্রন সর্বশেষের আগের শক্তিস্তরের d অরবিটালে প্রবেশ করে।",
+     "model_answer_en": "An element whose last electron enters the d orbital of the penultimate shell."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "Cr এর ইলেকট্রন বিন্যাস 3d⁵4s¹ কেন?",
+     "question_en": "Why is the configuration of Cr 3d5 4s1?",
+     "model_answer_bn": "অর্ধপূর্ণ d⁵ বিন্যাস অধিক স্থায়ী, তাই 4s এর একটি ইলেকট্রন 3d-তে যায়।",
+     "model_answer_en": "The half-filled d5 arrangement is more stable, so one 4s electron moves to 3d."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Fe, Fe²⁺ ও Fe³⁺ এর ইলেকট্রন বিন্যাস লেখো।",
+     "question_en": "Write configurations of Fe, Fe2+ and Fe3+.",
+     "model_answer_bn": "Fe = [Ar]3d⁶4s²; Fe²⁺ = [Ar]3d⁶; Fe³⁺ = [Ar]3d⁵।",
+     "model_answer_en": "Fe = [Ar]3d6 4s2; Fe2+ = [Ar]3d6; Fe3+ = [Ar]3d5."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "Zn ও Sc d-ব্লক মৌল হয়েও অবস্থান্তর মৌল নয় কেন? Fe কেন অবস্থান্তর মৌল? ব্যাখ্যা করো।",
+     "question_en": "Why are Zn and Sc d-block but not transition metals, while Fe is? Explain.",
+     "model_answer_bn": "Sc³⁺ এ d ইলেকট্রন নেই (3d⁰) এবং Zn²⁺ এ d অরবিটাল পূর্ণ (3d¹⁰); তাই আংশিক পূর্ণ d-যুক্ত সুস্থিত আয়ন নেই। Fe²⁺ (3d⁶) ও Fe³⁺ (3d⁵) এ d আংশিক পূর্ণ, তাই Fe অবস্থান্তর মৌল।",
+     "model_answer_en": "Sc3+ is 3d0 and Zn2+ is 3d10, so neither has a stable ion with a partly filled d subshell. Fe2+ (3d6) and Fe3+ (3d5) do, so Fe is a transition metal."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.5",
+   "stimulus_bn": "একটি কারখানায় ইলমেনাইট আকরিক থেকে টাইটেনিয়াম ধাতু প্রস্তুত করা হয়। প্রথমে আকরিক কোক ও Cl₂ এর সঙ্গে 360°C এ বিক্রিয়া করানো হয়, পরে প্রাপ্ত তরল যৌগকে আর্গন পরিবেশে গলিত Mg এর সঙ্গে 1025°C এ উত্তপ্ত করা হয়।",
+   "stimulus_en": "A plant makes titanium from ilmenite: the ore reacts with coke and Cl2 at 360 C, then the liquid product is heated with molten Mg in argon at 1025 C.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ইলমেনাইটের সংকেত লেখো।",
+     "question_en": "Write the formula of ilmenite.",
+     "model_answer_bn": "FeTiO₃ (FeO·TiO₂)।",
+     "model_answer_en": "FeTiO3 (FeO.TiO2)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রথম ধাপে উৎপন্ন যৌগের নাম ও স্ফুটনাঙ্ক কত?",
+     "question_en": "Name the compound formed in step 1 and its boiling point.",
+     "model_answer_bn": "টাইটেনিয়াম টেট্রাক্লোরাইড TiCl₄; স্ফুটনাঙ্ক 136°C।",
+     "model_answer_en": "Titanium tetrachloride, TiCl4; b.p. 136 C."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "দ্বিতীয় ধাপের সমীকরণ লেখো এবং আর্গন পরিবেশের কারণ বলো।",
+     "question_en": "Write the equation of step 2 and state why argon is used.",
+     "model_answer_bn": "TiCl₄ + 2Mg → Ti + 2MgCl₂। উচ্চ তাপমাত্রায় Ti ও Mg বায়ুর সঙ্গে বিক্রিয়া করে, নিষ্ক্রিয় আর্গন তা প্রতিরোধ করে।",
+     "model_answer_en": "TiCl4 + 2Mg -> Ti + 2MgCl2. Hot Ti and Mg would react with air; inert argon prevents this."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "প্রাপ্ত টাইটেনিয়াম স্পঞ্জ থেকে Mg ও MgCl₂ কীভাবে দূর করা হয় এবং আরও বিশুদ্ধ Ti পেতে কী করা যায় ব্যাখ্যা করো।",
+     "question_en": "Explain how Mg and MgCl2 are removed from the sponge and how still purer Ti is obtained.",
+     "model_answer_bn": "লঘু HCl মিশিয়ে অবিক্রিয় Mg ও MgCl₂ পৃথক করা হয়। আরও বিশুদ্ধ Ti-র জন্য আয়োডিনের সঙ্গে TiI₄ তৈরি করে বায়ুশূন্য পরিবেশে বৈদ্যুতিকভাবে উত্তপ্ত টাংস্টেন ফিলামেন্টে এর বাষ্প চালনা করে বিয়োজিত করা হয়।",
+     "model_answer_en": "Dilute HCl removes unreacted Mg and MgCl2. For purer Ti, TiI4 is made with iodine and its vapour is decomposed on an electrically heated tungsten filament in vacuum."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.13",
+   "stimulus_bn": "একটি পরীক্ষাগারে সবুজ বর্ণের K₂MnO₄ দ্রবণে CO₂ চালনা করলে দ্রবণ গাঢ় বেগুনি হয় এবং কালো অধঃক্ষেপ পড়ে। অন্য একটি পাত্রে K₂CrO₄ এর হলুদ দ্রবণে লঘু H₂SO₄ যোগে কমলা দ্রবণ পাওয়া গেল।",
+   "stimulus_en": "Passing CO2 into green K2MnO4 solution gives a deep purple solution and black precipitate. In another vessel, yellow K2CrO4 turns orange on adding dilute H2SO4.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "গাঢ় বেগুনি আয়নটির নাম ও সংকেত লেখো।",
+     "question_en": "Name and give the formula of the purple ion.",
+     "model_answer_bn": "পারম্যাঙ্গানেট আয়ন, MnO₄⁻।",
+     "model_answer_en": "Permanganate ion, MnO4-."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "কালো অধঃক্ষেপটি কী এবং এতে Mn এর জারণ অবস্থা কত?",
+     "question_en": "What is the black precipitate and the oxidation state of Mn in it?",
+     "model_answer_bn": "MnO₂; Mn এর জারণ অবস্থা +4।",
+     "model_answer_en": "MnO2; Mn is +4."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "দ্বিতীয় বিক্রিয়ার আয়নিক সমীকরণ লেখো এবং Cr এর জারণ সংখ্যা উভয় আয়নে বলো।",
+     "question_en": "Write the ionic equation of the second reaction and state Cr's oxidation number in both ions.",
+     "model_answer_bn": "2CrO₄²⁻ + 2H⁺ → Cr₂O₇²⁻ + H₂O; উভয়ে Cr = +6।",
+     "model_answer_en": "2CrO4(2-) + 2H+ -> Cr2O7(2-) + H2O; Cr is +6 in both."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "প্রথম বিক্রিয়াটিকে অসামঞ্জস্যতা বিক্রিয়া বলা হয় কেন? সমীকরণসহ ব্যাখ্যা করো।",
+     "question_en": "Why is the first reaction a disproportionation? Explain with equation.",
+     "model_answer_bn": "3MnO₄²⁻ + 4H⁺ → 2MnO₄⁻ + MnO₂ + 2H₂O। একই আয়ন Mn⁶⁺ থেকে একই সঙ্গে জারিত হয়ে Mn⁷⁺ (MnO₄⁻) এবং বিজারিত হয়ে Mn⁴⁺ (MnO₂) উৎপন্ন করে, তাই এটি অসামঞ্জস্যতা।",
+     "model_answer_en": "3MnO4(2-) + 4H+ -> 2MnO4- + MnO2 + 2H2O. The same Mn(+6) is simultaneously oxidised to +7 (MnO4-) and reduced to +4 (MnO2), so it is disproportionation."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages PDF 150-182 read. Pages 150 (chapter cover) and 181-182 (iron, section 3.14-3.16, outside assigned sections) not used. Section 3.2 notes also draw on chemical-property pages (printed p.142-150: oxidation states, catalysis, complexes, colour, hydroxides). Sc3+ colourless by absence of d electrons; some small OCR-like print on pages (e.g. Ti3+ colour) was avoided."
+}

@@ -1,0 +1,1941 @@
+{
+ "chapter_no": 5,
+ "topics": [
+  {
+   "section_no": "5.27",
+   "title_bn": "ইথেন, ইথিন ও ইথাইন গ্যাস মিশ্রণ থেকে পৃথকীকরণ",
+   "title_en": "Separation of ethane, ethene and ethyne from their mixture",
+   "notes_bn": "১) মিশ্রণকে অ্যামোনিয়াযুক্ত কিউপ্রাস ক্লোরাইড দ্রবণে চালনা করলে ইথাইন শোষিত হয়ে লাল কপার কার্বাইড অধঃক্ষেপ দেয়; ইথেন ও ইথিন বেরিয়ে যায়।\nলাল অধঃক্ষেপকে লঘু HCl দিয়ে উত্তপ্ত করলে ইথাইন ফিরে পাওয়া যায়।\n২) অবশিষ্ট গ্যাস গাঢ় H2SO4 এ চালনা করলে ইথিন শোষিত হয়ে ইথাইল হাইড্রোজেন সালফেট (25°C) গঠন করে; ইথেন বুদবুদ আকারে বের হয়, পানি অপসারণে সংগ্রহ করা হয়।\n৩) ইথাইল হাইড্রোজেন সালফেটকে 160°C এ উত্তপ্ত করলে ইথিন ফিরে আসে।",
+   "notes_en": "1) Pass the mixture through ammoniacal cuprous chloride: ethyne is absorbed as red copper carbide precipitate; ethane and ethene pass out.\nHeating the red precipitate with dilute HCl regenerates ethyne.\n2) Pass the remaining gas through conc. H2SO4: ethene is absorbed as ethyl hydrogen sulfate (25°C); ethane escapes and is collected by downward displacement of water.\n3) Heating ethyl hydrogen sulfate at 160°C regenerates ethene.",
+   "mcqs": [
+    {
+     "question_bn": "ইথেন, ইথিন ও ইথাইনের মিশ্রণ থেকে প্রথমে কোন গ্যাস অ্যামোনিয়াযুক্ত কিউপ্রাস ক্লোরাইডে শোষিত হয়?",
+     "question_en": "Which gas of the ethane/ethene/ethyne mixture is first absorbed by ammoniacal cuprous chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইন",
+       "en": "Ethyne"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলো",
+       "en": "All of them"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ইথাইনের অম্লধর্মী H থাকায় লাল কপার কার্বাইড অধঃক্ষেপ গঠন করে।",
+     "explanation_en": "Ethyne has acidic H and forms a red copper carbide precipitate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথাইন শোষণের পর অবশিষ্ট ইথেন-ইথিন মিশ্রণ গাঢ় H2SO4 এ চালনা করলে কী ঘটে?",
+     "question_en": "What happens when the remaining ethane-ethene mixture is passed through conc. H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন শোষিত হয়",
+       "en": "Ethane is absorbed"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিন শোষিত হয়ে ইথাইল হাইড্রোজেন সালফেট গঠন করে",
+       "en": "Ethene is absorbed forming ethyl hydrogen sulfate"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ই শোষিত হয়",
+       "en": "Both absorbed"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই শোষিত হয় না",
+       "en": "Neither absorbed"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথিন যুক্ত বিক্রিয়ায় H2SO4 এর সাথে CH3CH2OSO3H গঠন করে; ইথেন বিক্রিয়া করে না।",
+     "explanation_en": "Ethene undergoes addition with H2SO4 giving CH3CH2OSO3H; ethane does not react.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথাইল হাইড্রোজেন সালফেট থেকে ইথিন ফিরে পেতে কত তাপমাত্রায় উত্তপ্ত করা হয়?",
+     "question_en": "At what temperature is ethyl hydrogen sulfate heated to regenerate ethene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "25°C",
+       "en": "25°C"
+      },
+      {
+       "id": "b",
+       "bn": "100°C",
+       "en": "100°C"
+      },
+      {
+       "id": "c",
+       "bn": "160°C",
+       "en": "160°C"
+      },
+      {
+       "id": "d",
+       "bn": "500°C",
+       "en": "500°C"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে 160°C এ উত্তপ্ত করে ইথিন ও H2SO4 ফিরে পাওয়ার কথা বলা আছে।",
+     "explanation_en": "The book heats it at 160°C to give back ethene and H2SO4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথাইন, ইথিন, ইথেন মিশ্রণ পৃথকীকরণের সঠিক ক্রম কোনটি?",
+     "question_en": "What is the correct order of separation of the mixture?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় H2SO4, তারপর কিউপ্রাস ক্লোরাইড",
+       "en": "conc. H2SO4 first, then cuprous chloride"
+      },
+      {
+       "id": "b",
+       "bn": "কিউপ্রাস ক্লোরাইড (ইথাইন), তারপর গাঢ় H2SO4 (ইথিন), অবশেষে ইথেন",
+       "en": "Cuprous chloride (ethyne), then conc. H2SO4 (ethene), finally ethane left"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু গাঢ় H2SO4",
+       "en": "Only conc. H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু পানি",
+       "en": "Only water"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথাইন প্রথমে অপসারিত হয়, পরে ইথিন; ইথেন অপরিবর্তিত থাকে।",
+     "explanation_en": "Ethyne is removed first, then ethene; ethane remains unchanged.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.28",
+   "title_bn": "অ্যালকেন, অ্যালকিন ও অ্যালকাইনের তুলনা",
+   "title_en": "Comparison of alkane, alkene and alkyne",
+   "notes_bn": "সাধারণ সংকেত: অ্যালকেন CnH2n+2, অ্যালকিন CnH2n, অ্যালকাইন CnH2n-2।\nসংকরণ: sp3 / sp2 / sp; আকৃতি: চতুস্তলকীয় / ত্রিকোণীয় সমতলীয় / সরলরৈখিক।\nবন্ধন কোণ: 109.5° / 120° / 180°।\nC–C দূরত্ব: 0.154 / 0.134 / 0.120 nm; বন্ধনশক্তি: 347 / 612 / 812 kJ/mol।\nঅ্যালকেন কম সক্রিয় (প্রতিস্থাপন); অ্যালকিন ও অ্যালকাইন যুত বিক্রিয়া, জারণ, পলিমারকরণ দেয়।",
+   "notes_en": "General formula: alkane CnH2n+2, alkene CnH2n, alkyne CnH2n-2.\nHybridisation sp3 / sp2 / sp; shape tetrahedral / trigonal planar / linear.\nBond angle 109.5° / 120° / 180°.\nC–C length 0.154 / 0.134 / 0.120 nm; bond energy 347 / 612 / 812 kJ/mol.\nAlkanes are least reactive (substitution); alkenes and alkynes undergo addition, oxidation, polymerisation.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকাইনের কার্বন-কার্বন বন্ধন দূরত্ব কত?",
+     "question_en": "What is the C–C bond length in alkynes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.154 nm",
+       "en": "0.154 nm"
+      },
+      {
+       "id": "b",
+       "bn": "0.134 nm",
+       "en": "0.134 nm"
+      },
+      {
+       "id": "c",
+       "bn": "0.120 nm",
+       "en": "0.120 nm"
+      },
+      {
+       "id": "d",
+       "bn": "0.139 nm",
+       "en": "0.139 nm"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ের সারণি অনুযায়ী অ্যালকাইনে 0.120 nm।",
+     "explanation_en": "Per the book's table, 0.120 nm for alkynes.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকিনের কার্বনের সংকরণ ও বন্ধন কোণ কোনটি?",
+     "question_en": "Hybridisation and bond angle of alkene carbon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp3, 109.5°",
+       "en": "sp3, 109.5°"
+      },
+      {
+       "id": "b",
+       "bn": "sp2, 120°",
+       "en": "sp2, 120°"
+      },
+      {
+       "id": "c",
+       "bn": "sp, 180°",
+       "en": "sp, 180°"
+      },
+      {
+       "id": "d",
+       "bn": "sp2, 180°",
+       "en": "sp2, 180°"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যালকিন sp2 সংকরিত, ত্রিকোণীয় সমতলীয়, 120°।",
+     "explanation_en": "Alkenes are sp2, trigonal planar, 120°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটির বন্ধন শক্তি সর্বাধিক?",
+     "question_en": "Which has the highest C–C bond energy?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকেন (347)",
+       "en": "Alkane (347)"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালকিন (612)",
+       "en": "Alkene (612)"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকাইন (812)",
+       "en": "Alkyne (812)"
+      },
+      {
+       "id": "d",
+       "bn": "সবার সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ত্রিবন্ধনের শক্তি 812 kJ/mol, সর্বোচ্চ।",
+     "explanation_en": "Triple bond energy is 812 kJ/mol, the highest.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকাইনের সাধারণ সংকেত অনুযায়ী n=3 হলে অণুর H সংখ্যা কত?",
+     "question_en": "For an alkyne with n=3 (CnH2n-2), how many H atoms?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "d",
+       "bn": "8",
+       "en": "8"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2×3−2=4; C3H4 (প্রোপাইন)।",
+     "explanation_en": "2×3−2 = 4; C3H4 (propyne).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.29",
+   "title_bn": "ভূমিকা (অ্যারোমেটিক হাইড্রোকার্বন)",
+   "title_en": "Introduction to aromatic hydrocarbons",
+   "notes_bn": "'অ্যারোমা' গ্রিক শব্দ, অর্থ সুমিষ্ট গন্ধ। সুগন্ধি যৌগগুলোর কাঠামোতে বেনজিনয়েড বলয় (লসমিট, 1861)।\nপরে দেখা গেল সব অ্যারোমেটিক যৌগ সুগন্ধি নয় এবং কিছু (যেমন পিরিডিন) বেনজিনয়েড না হয়েও একই ধর্ম দেখায়।\nবেনজিন ও অনুরূপ ধর্মবিশিষ্ট বলয়াকার সমধর্মী যৌগ অ্যারোমেটিক; উদাহরণ: বেনজিন, টলুইন, ফেনল, পিরিডিন, ফিউরান।\nহাকেল নিয়ম: সমতলীয় বলয়াকার সংযুক্ত যৌগে (4n+2) সংখ্যক π-ইলেকট্রন থাকলে অ্যারোমেটিক। বেনজিনে 6π (n=1)।",
+   "notes_en": "'Aroma' is Greek for sweet smell; fragrant compounds were found to contain a benzenoid ring (Loschmidt, 1861).\nLater, not all aromatic compounds were fragrant, and some (e.g. pyridine) behave aromatically without a benzenoid ring.\nBenzene-like cyclic stable compounds are aromatic: benzene, toluene, phenol, pyridine, furan.\nHuckel rule: a planar cyclic conjugated system with (4n+2) pi electrons is aromatic; benzene has 6 pi (n=1).",
+   "mcqs": [
+    {
+     "question_bn": "'অ্যারোমা' শব্দটি কোন ভাষার?",
+     "question_en": "'Aroma' comes from which language?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ল্যাটিন",
+       "en": "Latin"
+      },
+      {
+       "id": "b",
+       "bn": "গ্রিক",
+       "en": "Greek"
+      },
+      {
+       "id": "c",
+       "bn": "ফরাসি",
+       "en": "French"
+      },
+      {
+       "id": "d",
+       "bn": "জার্মান",
+       "en": "German"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে অ্যারোমা গ্রিক শব্দ।",
+     "explanation_en": "The book states aroma is Greek.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হাকেল নিয়ম অনুযায়ী অ্যারোমেটিক যৌগে π-ইলেকট্রন সংখ্যা কত?",
+     "question_en": "By Huckel's rule, aromatic compounds have how many pi electrons?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4n",
+       "en": "4n"
+      },
+      {
+       "id": "b",
+       "bn": "4n+2",
+       "en": "4n+2"
+      },
+      {
+       "id": "c",
+       "bn": "2n",
+       "en": "2n"
+      },
+      {
+       "id": "d",
+       "bn": "4n−2",
+       "en": "4n−2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "(4n+2) সংখ্যক সঞ্চরণশীল π ইলেকট্রন।",
+     "explanation_en": "(4n+2) delocalised pi electrons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজিনে হাকেল নিয়মে n এর মান কত?",
+     "question_en": "What is n for benzene in Huckel's rule?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "b",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "c",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "d",
+       "bn": "3",
+       "en": "3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "6 = 4×1+2, তাই n=1।",
+     "explanation_en": "6 = 4×1+2, so n=1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি বেনজিনয়েড বলয় না থেকেও অ্যারোমেটিক?",
+     "question_en": "Which is aromatic without a benzenoid ring?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "b",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "d",
+       "bn": "পিরিডিন",
+       "en": "Pyridine"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "পিরিডিন হেটারো অ্যারোমেটিক, বলয়ে 6টি সঞ্চরণশীল ইলেকট্রন।",
+     "explanation_en": "Pyridine is heteroaromatic with six delocalised electrons in the ring.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.30",
+   "title_bn": "অ্যারিনস্ ও বেনজিনের সমগোত্রক",
+   "title_en": "Arenes and homologues of benzene",
+   "notes_bn": "এক বা একাধিক বেনজিনয়েড বলয়যুক্ত অ্যারোমেটিক হাইড্রোকার্বনকে অ্যারিন বলে: বেনজিন, বেনজিনের অ্যালকাইল জাতক, ন্যাফথালিন, অ্যানথ্রাসিন প্রভৃতি পলিনিউক্লিয়ার হাইড্রোকার্বন।\nবেনজিনের এক বা একাধিক H অ্যালকাইল মূলক দ্বারা প্রতিস্থাপিত হলে সমগোত্রক গঠিত হয়।\nউদাহরণ: টলুইন (মিথাইল বেনজিন), ইথাইল বেনজিন, জাইলিন (o-, m-, p-)।\no-জাইলিন = 1,2-ডাইমিথাইল বেনজিন।",
+   "notes_en": "Aromatic hydrocarbons with one or more benzenoid rings are arenes: benzene, alkylbenzenes, naphthalene, anthracene and other polynuclear hydrocarbons.\nReplacing one or more H of benzene by alkyl groups gives homologues.\nExamples: toluene (methylbenzene), ethylbenzene, xylenes (o-, m-, p-).\no-Xylene = 1,2-dimethylbenzene.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি বেনজিনের সমগোত্রক?",
+     "question_en": "Which is a homologue of benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ন্যাফথালিন",
+       "en": "Naphthalene"
+      },
+      {
+       "id": "b",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "c",
+       "bn": "পিরিডিন",
+       "en": "Pyridine"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানথ্রাসিন",
+       "en": "Anthracene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "টলুইন বেনজিনের মিথাইল জাতক।",
+     "explanation_en": "Toluene is a methyl derivative of benzene.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "জাইলিনের কয়টি সমাণু (o-, m-, p-) বইয়ে দেখানো হয়েছে?",
+     "question_en": "How many xylene isomers does the book show?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "o-, m- ও p- তিনটি।",
+     "explanation_en": "Three: o-, m- and p-.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "o-জাইলিনের নাম কী?",
+     "question_en": "Another name for o-xylene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথাইল বেনজিন",
+       "en": "Methylbenzene"
+      },
+      {
+       "id": "b",
+       "bn": "1,2-ডাইমিথাইল বেনজিন",
+       "en": "1,2-Dimethylbenzene"
+      },
+      {
+       "id": "c",
+       "bn": "1,4-ডাইমিথাইল বেনজিন",
+       "en": "1,4-Dimethylbenzene"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল বেনজিন",
+       "en": "Ethylbenzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অর্থো = 1,2 অবস্থান।",
+     "explanation_en": "Ortho means 1,2 positions.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি পলিনিউক্লিয়ার অ্যারিন কিন্তু বেনজিনের সমগোত্রক নয়?",
+     "question_en": "Which is a polynuclear arene but not a homologue of benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "b",
+       "bn": "ইথাইল বেনজিন",
+       "en": "Ethylbenzene"
+      },
+      {
+       "id": "c",
+       "bn": "ন্যাফথালিন",
+       "en": "Naphthalene"
+      },
+      {
+       "id": "d",
+       "bn": "p-জাইলিন",
+       "en": "p-Xylene"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ন্যাফথালিনে দুটি যুক্ত বলয়; অ্যালকাইল প্রতিস্থাপিত নয়।",
+     "explanation_en": "Naphthalene has two fused rings, not simply alkyl-substituted benzene.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.31",
+   "title_bn": "অ্যারোমেটিক নিউক্লিয়াস ও পার্শ্বশিকল",
+   "title_en": "Aromatic nucleus and side chain",
+   "notes_bn": "অ্যালকাইল প্রতিস্থাপিত বেনজিনে অ্যালকাইল মূলক বা অ্যালিফেটিক অংশ হলো পার্শ্বশিকল; ছয় কার্বনের বেনজিন বলয় অ্যারোমেটিক নিউক্লিয়াস।\nউদাহরণ: টলুইনে –CH3 পার্শ্বশিকল।\nপার্শ্বশিকল অ্যালিফেটিক যৌগের মতো বিক্রিয়া করে; নিউক্লিয়াস বেনজিনের মতো ধর্ম ও অ্যারোমেটিসিটি দেখায়।",
+   "notes_en": "In an alkyl-substituted benzene the alkyl (aliphatic) part is the side chain; the six-carbon benzene ring is the aromatic nucleus.\nExample: in toluene the –CH3 is the side chain.\nThe side chain reacts like aliphatic compounds; the nucleus shows benzene-like properties and aromaticity.",
+   "mcqs": [
+    {
+     "question_bn": "টলুইনে পার্শ্বশিকল কোনটি?",
+     "question_en": "What is the side chain in toluene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন বলয়",
+       "en": "Benzene ring"
+      },
+      {
+       "id": "b",
+       "bn": "–CH3",
+       "en": "–CH3"
+      },
+      {
+       "id": "c",
+       "bn": "–OH",
+       "en": "–OH"
+      },
+      {
+       "id": "d",
+       "bn": "–H",
+       "en": "–H"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মিথাইল মূলক পার্শ্বশিকল।",
+     "explanation_en": "The methyl group is the side chain.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যারোমেটিক নিউক্লিয়াস বলতে কী বোঝায়?",
+     "question_en": "What is the aromatic nucleus?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকাইল অংশ",
+       "en": "Alkyl part"
+      },
+      {
+       "id": "b",
+       "bn": "ছয় কার্বনের বেনজিন বলয়",
+       "en": "Six-carbon benzene ring"
+      },
+      {
+       "id": "c",
+       "bn": "সরল শিকল",
+       "en": "Straight chain"
+      },
+      {
+       "id": "d",
+       "bn": "হ্যালোজেন",
+       "en": "Halogen"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সংজ্ঞা অনুযায়ী বেনজিন বলয়টিই নিউক্লিয়াস।",
+     "explanation_en": "By definition the benzene ring is the nucleus.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পার্শ্বশিকল কীরূপ আচরণ করে?",
+     "question_en": "How does the side chain behave?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যারোমেটিকের মতো",
+       "en": "Like aromatic"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালিফেটিক যৌগের মতো",
+       "en": "Like aliphatic compounds"
+      },
+      {
+       "id": "c",
+       "bn": "নিষ্ক্রিয়",
+       "en": "Inert"
+      },
+      {
+       "id": "d",
+       "bn": "ধাতুর মতো",
+       "en": "Like a metal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পার্শ্বশিকল অ্যালিফেটিকের মতো বিক্রিয়ায় অংশ নেয়।",
+     "explanation_en": "It undergoes reactions like aliphatic compounds.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজাইল অ্যালকোহলে (C6H5CH2OH) পার্শ্বশিকল কোনটি?",
+     "question_en": "In C6H5CH2OH what is the side chain?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H5",
+       "en": "C6H5"
+      },
+      {
+       "id": "b",
+       "bn": "–CH2OH",
+       "en": "–CH2OH"
+      },
+      {
+       "id": "c",
+       "bn": "–OH শুধু",
+       "en": "–OH only"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটি নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বলয়ের বাইরের –CH2OH অংশ পার্শ্বশিকল।",
+     "explanation_en": "The –CH2OH outside the ring is the side chain.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.32",
+   "title_bn": "অ্যারোমেটিক যৌগের উৎস",
+   "title_en": "Sources of aromatic compounds",
+   "notes_bn": "উদ্ভিদ ও প্রাণীদেহ ভূগর্ভে অধিক চাপ ও তাপে কয়লা (coal) ও পেট্রোলিয়ামে পরিণত হয়।\nকয়লা ও পেট্রোলিয়ামই অ্যারোমেটিক যৌগের প্রধান উৎস।\nকয়লা বা পেট্রোলিয়ামে বেনজিন সরাসরি পাওয়া যায় না; কয়লার বিধ্বংসী পাতনের উপাদান থেকে পাওয়া যায়।",
+   "notes_en": "Plant and animal remains, under pressure and heat underground, turn into coal and petroleum.\nCoal and petroleum are the chief sources of aromatic compounds.\nBenzene is not found directly in coal; it is obtained from products of destructive distillation of coal.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যারোমেটিক যৌগের প্রধান উৎস কোনটি?",
+     "question_en": "Main source of aromatic compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কয়লা ও পেট্রোলিয়াম",
+       "en": "Coal and petroleum"
+      },
+      {
+       "id": "b",
+       "bn": "বায়ু",
+       "en": "Air"
+      },
+      {
+       "id": "c",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "d",
+       "bn": "লবণ",
+       "en": "Salt"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে কয়লা ও পেট্রোলিয়ামকে প্রধান উৎস বলা হয়েছে।",
+     "explanation_en": "The book names coal and petroleum.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কয়লা কীভাবে গঠিত হয়?",
+     "question_en": "How is coal formed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উদ্ভিদ-প্রাণী ভূগর্ভে চাপ ও তাপে",
+       "en": "Plants/animals under pressure and heat underground"
+      },
+      {
+       "id": "b",
+       "bn": "খনিজ গলে",
+       "en": "Melting minerals"
+      },
+      {
+       "id": "c",
+       "bn": "সমুদ্রের লবণ থেকে",
+       "en": "From sea salt"
+      },
+      {
+       "id": "d",
+       "bn": "আগ্নেয়গিরি থেকে",
+       "en": "From volcano only"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উদ্ভিদ ও প্রাণীদেহ প্রাকৃতিক কারণে ভূ-গর্ভে চাপ-তাপে কয়লায় পরিণত হয়।",
+     "explanation_en": "Plant/animal remains convert to coal under pressure/heat.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজিন কীভাবে কয়লা থেকে পাওয়া যায়?",
+     "question_en": "How is benzene obtained from coal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সরাসরি কয়লায় আছে",
+       "en": "Directly present in coal"
+      },
+      {
+       "id": "b",
+       "bn": "বিধ্বংসী পাতনের উপাদান থেকে",
+       "en": "From products of destructive distillation"
+      },
+      {
+       "id": "c",
+       "bn": "কয়লা পানিতে গুলে",
+       "en": "Dissolving coal in water"
+      },
+      {
+       "id": "d",
+       "bn": "কয়লা পুড়িয়ে ছাই থেকে",
+       "en": "From ash"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কয়লায় বেনজিন সরাসরি নেই।",
+     "explanation_en": "Benzene is not directly present in coal.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "5.33",
+   "title_bn": "কয়লার বিধ্বংসী পাতন বা অন্তর্ধূম পাতন",
+   "title_en": "Destructive distillation of coal",
+   "notes_bn": "বায়ুর অনুপস্থিতিতে বিটুমিনাস কয়লাকে রিটর্টে 900°–1100°C এ উত্তপ্ত করলে উদ্বায়ী উপাদান পাতিত হয়, কঠিন কোক থাকে।\nপ্রাপ্ত পদার্থ: কোল গ্যাস (17%), আলকাতরা (4–5%), অ্যামোনিয়াক্যাল লিকার (8–10%), কোক (70%)।\nআলকাতরা নিচের ঘন কালো স্তর (আঃ গুরুত্ব 1.1–1.2); উপরে অ্যামোনিয়াক্যাল লিকার।\nকোল গ্যাস: H2 47%, CH4 36%, CO 8%, CO2 2%, N2 3%, অ্যারোমেটিক হাইড্রোকার্বন 4%।\nআলকাতরা অ্যারোমেটিক যৌগের প্রধান উৎস।",
+   "notes_en": "Heating bituminous coal at 900–1100°C in a retort without air drives off volatiles leaving coke.\nProducts: coal gas 17%, coal tar 4–5%, ammoniacal liquor 8–10%, coke 70%.\nCoal tar is the lower dense black layer (sp. gr. 1.1–1.2); ammoniacal liquor floats above.\nCoal gas: H2 47%, CH4 36%, CO 8%, CO2 2%, N2 3%, aromatic hydrocarbons 4%.\nCoal tar is the chief source of aromatics.",
+   "mcqs": [
+    {
+     "question_bn": "কয়লার বিধ্বংসী পাতনে কোক কত শতাংশ পাওয়া যায়?",
+     "question_en": "What percentage of coke is obtained in destructive distillation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "17%",
+       "en": "17%"
+      },
+      {
+       "id": "b",
+       "bn": "70%",
+       "en": "70%"
+      },
+      {
+       "id": "c",
+       "bn": "8–10%",
+       "en": "8–10%"
+      },
+      {
+       "id": "d",
+       "bn": "4–5%",
+       "en": "4–5%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে কোক 70%।",
+     "explanation_en": "The book gives coke as 70%.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বিধ্বংসী পাতন কোন তাপমাত্রায় করা হয়?",
+     "question_en": "At what temperature is the destructive distillation done?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "100–200°C",
+       "en": "100–200°C"
+      },
+      {
+       "id": "b",
+       "bn": "400°C",
+       "en": "400°C"
+      },
+      {
+       "id": "c",
+       "bn": "900–1100°C",
+       "en": "900–1100°C"
+      },
+      {
+       "id": "d",
+       "bn": "2000°C",
+       "en": "2000°C"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "900°–1100°C।",
+     "explanation_en": "900–1100°C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোল গ্যাসে সর্বাধিক উপাদান কোনটি?",
+     "question_en": "Largest component of coal gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH4",
+       "en": "CH4"
+      },
+      {
+       "id": "b",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "c",
+       "bn": "CO",
+       "en": "CO"
+      },
+      {
+       "id": "d",
+       "bn": "N2",
+       "en": "N2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H2 = 47%, CH4 = 36%।",
+     "explanation_en": "H2 is 47% vs CH4 36%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোল গ্যাসে H2, CH4, CO, CO2, N2 ও অ্যারোমেটিক মিলে মোট কত শতাংশ?",
+     "question_en": "Total % of listed constituents of coal gas (H2 47, CH4 36, CO 8, CO2 2, N2 3, aromatics 4)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "98%",
+       "en": "98%"
+      },
+      {
+       "id": "b",
+       "bn": "100%",
+       "en": "100%"
+      },
+      {
+       "id": "c",
+       "bn": "96%",
+       "en": "96%"
+      },
+      {
+       "id": "d",
+       "bn": "90%",
+       "en": "90%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "47+36+8+2+3+4 = 100।",
+     "explanation_en": "47+36+8+2+3+4 = 100.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.34",
+   "title_bn": "আলকাতরা বা কোলটারের আংশিক পাতন",
+   "title_en": "Fractional distillation of coal tar",
+   "notes_bn": "আলকাতরায় অম্লীয়, ক্ষারীয় ও নিরপেক্ষ তিন শ্রেণির জৈব যৌগ থাকে। লৌহ রিটর্টে 400°C পর্যন্ত আংশিক পাতন করলে পিচ অবশিষ্ট থাকে।\nভগ্নাংশ: লঘু তৈল (170°C পর্যন্ত, 5%, বেনজিন, টলুইন, জাইলিন, ফেনল, পিরিডিন, অ্যানিলিন); মধ্যম তৈল (171–230°C, 7.5%, ফেনল, ক্রিসল, ন্যাফথালিন); ভারী তৈল (231–270°C, 10%, ক্রিসল, ন্যাফথালিন, কুইনোলিন); সবুজ তৈল (271–400°C, 20%, অ্যানথ্রাসিন, ফিনানথ্রিন); পিচ (57.5%)।",
+   "notes_en": "Coal tar has acidic, basic and neutral organic compounds. Fractional distillation in an iron retort up to 400°C leaves pitch.\nFractions: light oil (up to 170°C, 5%: benzene, toluene, xylene, phenol, pyridine, aniline); middle oil (171–230°C, 7.5%: phenol, cresol, naphthalene); heavy oil (231–270°C, 10%: cresol, naphthalene, quinoline); green oil (271–400°C, 20%: anthracene, phenanthrene); pitch (57.5%).",
+   "mcqs": [
+    {
+     "question_bn": "আলকাতরার কোন অংশ সর্বাধিক (শতকরা)?",
+     "question_en": "Largest fraction of coal tar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লঘু তৈল",
+       "en": "Light oil"
+      },
+      {
+       "id": "b",
+       "bn": "ভারী তৈল",
+       "en": "Heavy oil"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ তৈল",
+       "en": "Green oil"
+      },
+      {
+       "id": "d",
+       "bn": "পিচ",
+       "en": "Pitch"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "পিচ 57.5%।",
+     "explanation_en": "Pitch is 57.5%.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লঘু তৈল কত তাপমাত্রা পর্যন্ত পাতিত হয়?",
+     "question_en": "Light oil distils up to what temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "100°C",
+       "en": "100°C"
+      },
+      {
+       "id": "b",
+       "bn": "170°C",
+       "en": "170°C"
+      },
+      {
+       "id": "c",
+       "bn": "230°C",
+       "en": "230°C"
+      },
+      {
+       "id": "d",
+       "bn": "400°C",
+       "en": "400°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "170°C পর্যন্ত, 5%।",
+     "explanation_en": "Up to 170°C, 5%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যানথ্রাসিন কোন তৈলে পাওয়া যায়?",
+     "question_en": "Anthracene is found in which oil?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লঘু",
+       "en": "Light"
+      },
+      {
+       "id": "b",
+       "bn": "মধ্যম",
+       "en": "Middle"
+      },
+      {
+       "id": "c",
+       "bn": "ভারী",
+       "en": "Heavy"
+      },
+      {
+       "id": "d",
+       "bn": "সবুজ",
+       "en": "Green"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "সবুজ তৈল (271–400°C)।",
+     "explanation_en": "Green oil (271–400°C).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "লঘু, মধ্যম, ভারী ও সবুজ তৈল মিলে আলকাতরার শতকরা কত?",
+     "question_en": "Combined % of light, middle, heavy and green oils?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "42.5%",
+       "en": "42.5%"
+      },
+      {
+       "id": "b",
+       "bn": "57.5%",
+       "en": "57.5%"
+      },
+      {
+       "id": "c",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "d",
+       "bn": "37.5%",
+       "en": "37.5%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "5+7.5+10+20 = 42.5 (পিচ 57.5)।",
+     "explanation_en": "5+7.5+10+20 = 42.5 (pitch 57.5).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.35",
+   "title_bn": "আলকাতরা বা কোলটার বা লঘু তৈল থেকে বেনজিন পৃথকীকরণ",
+   "title_en": "Extraction of benzene from coal tar or light oil",
+   "notes_bn": "লঘু তৈলে নিরপেক্ষ (বেনজিন, টলুইন, জাইলিন), ক্ষারীয় (অ্যানিলিন, পিরিডিন, থায়োফিন) ও অম্লীয় (ফেনল) যৌগ থাকে।\nগাঢ় H2SO4 দিয়ে ক্ষারীয় এবং 10% NaOH দিয়ে ফেনল দূর করে বারবার পানিতে ধুতে হয়।\n70°–110°C এ আংশিক পাতনে 90% বেনজল (84% বেনজিন, 13% টলুইন, 3% জাইলিন); পুনরায় পাতনে 80°–82°C এ প্রায় 99% বিশুদ্ধ বেনজিন।\nবিশোধন: থায়োফিন (0.5%) গাঢ় H2SO4 দিয়ে ঝাঁকিয়ে দূর; শীতল করে (5–4°C) বেনজিন কেলাস, নির্জল CaCl2 দিয়ে শুষ্ক করে 80.4°C এ পাতন।\n90% বেনজলের পাতনে 108–110°C এ টলুইন পাওয়া যায়।",
+   "notes_en": "Light oil contains neutral (benzene, toluene, xylene), basic (aniline, pyridine, thiophene) and acidic (phenol) compounds.\nWash with conc. H2SO4 to remove bases and 10% NaOH to remove phenol, then wash with water.\nFractional distillation at 70–110°C gives 90% benzol (84% benzene, 13% toluene, 3% xylene); redistilling at 80–82°C gives about 99% pure benzene.\nPurification: thiophene (0.5%) removed by shaking with cold conc. H2SO4; cooling to 5–4°C crystallises benzene; dry with anhydrous CaCl2 and distil at 80.4°C.\n90% benzol fractionated at 108–110°C gives toluene.",
+   "mcqs": [
+    {
+     "question_bn": "লঘু তৈল থেকে ক্ষারীয় যৌগ দূর করতে কী ব্যবহৃত হয়?",
+     "question_en": "What removes basic compounds from light oil?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10% NaOH",
+       "en": "10% NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় H2SO4",
+       "en": "Conc. H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "d",
+       "bn": "HCl গ্যাস",
+       "en": "HCl gas"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যানিলিনের মতো ক্ষার H2SO4 এ লবণ গঠন করে।",
+     "explanation_en": "Bases like aniline form salts with H2SO4.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফেনল দূর করতে কোনটি ব্যবহৃত হয়?",
+     "question_en": "What removes phenol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় H2SO4",
+       "en": "Conc. H2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "10% NaOH",
+       "en": "10% NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "CaCl2",
+       "en": "CaCl2"
+      },
+      {
+       "id": "d",
+       "bn": "সোডালাইম",
+       "en": "Soda lime"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফেনল NaOH এর সাথে দ্রবণীয় সোডিয়াম ফিনেট গঠন করে।",
+     "explanation_en": "Phenol forms soluble sodium phenate with NaOH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "90% বেনজলে বেনজিনের পরিমাণ কত?",
+     "question_en": "Benzene content of 90% benzol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "84%",
+       "en": "84%"
+      },
+      {
+       "id": "b",
+       "bn": "13%",
+       "en": "13%"
+      },
+      {
+       "id": "c",
+       "bn": "3%",
+       "en": "3%"
+      },
+      {
+       "id": "d",
+       "bn": "99%",
+       "en": "99%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "84% বেনজিন, 13% টলুইন, 3% জাইলিন।",
+     "explanation_en": "84% benzene, 13% toluene, 3% xylene.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজিনে অপদ্রব্য থায়োফিন কীভাবে দূর হয়?",
+     "question_en": "How is the thiophene impurity removed from benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শীতল গাঢ় H2SO4 দিয়ে ঝাঁকিয়ে",
+       "en": "Shaking with cold conc. H2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH দিয়ে",
+       "en": "With NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু পানি দিয়ে",
+       "en": "With water only"
+      },
+      {
+       "id": "d",
+       "bn": "Zn দিয়ে",
+       "en": "With Zn"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে থায়োফিন গাঢ় H2SO4 এর সাথে মিশ্রণ ঝাঁকিয়ে দূর করা হয়।",
+     "explanation_en": "The book removes thiophene by shaking with conc. H2SO4.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.36",
+   "title_bn": "পেট্রোলিয়াম থেকে বেনজিন ও টলুইনের উৎপাদন",
+   "title_en": "Manufacture of benzene and toluene from petroleum",
+   "notes_bn": "অ্যারোমেটিকরণ বা রিফরমিং: পেট্রোলের (35–175°C ভগ্নাংশ) n-হেক্সেন, n-হেপ্টেন, n-অক্টেন প্রভৃতিকে Pt-Al বা V2O5/Mo অক্সাইড প্রভাবকে 10–20 atm ও প্রায় 500°C এ উত্তপ্ত করা হয়।\nচক্রীকরণ → ডিহাইড্রোজেনেশন: n-হেক্সেন → সাইক্লোহেক্সেন → বেনজিন + 3H2; n-হেপ্টেন → টলুইন; n-অক্টেন → জাইলিন।\nহাইড্রো-ডিঅ্যালকাইলেশন: টলুইন + H2 → বেনজিন + CH4 (Pt/Al2O3, 600°C); জাইলিন + H2 → বেনজিন + C2H6।\nবর্তমানে বাণিজ্যিক বেনজিনের 90% পেট্রোলিয়াম থেকে।",
+   "notes_en": "Aromatisation/reforming: petrol (35–175°C fraction) alkanes such as n-hexane, n-heptane, n-octane are heated with Pt-Al or V2O5/Mo oxide catalyst at 10–20 atm and about 500°C.\nCyclisation then dehydrogenation: n-hexane -> cyclohexane -> benzene + 3H2; n-heptane -> toluene; n-octane -> xylene.\nHydro-dealkylation: toluene + H2 -> benzene + CH4 (Pt/Al2O3, 600°C); xylene + H2 -> benzene + C2H6.\nAbout 90% of commercial benzene now comes from petroleum.",
+   "mcqs": [
+    {
+     "question_bn": "n-হেক্সেনকে অ্যারোমেটিকরণ করলে কী পাওয়া যায়?",
+     "question_en": "Aromatisation of n-hexane gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "c",
+       "bn": "জাইলিন",
+       "en": "Xylene"
+      },
+      {
+       "id": "d",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "n-হেক্সেন → সাইক্লোহেক্সেন → বেনজিন + 3H2।",
+     "explanation_en": "n-hexane -> cyclohexane -> benzene + 3H2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "n-হেপ্টেন থেকে কোন অ্যারোমেটিক যৌগ উৎপন্ন হয়?",
+     "question_en": "Aromatic from n-heptane?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "b",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "c",
+       "bn": "ন্যাফথালিন",
+       "en": "Naphthalene"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মিথাইল সাইক্লোহেক্সেন হয়ে টলুইন।",
+     "explanation_en": "Via methylcyclohexane to toluene.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রিফরমিং বিক্রিয়ার সাধারণ চাপ ও তাপমাত্রা কত?",
+     "question_en": "Typical pressure and temperature of reforming?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1 atm, 100°C",
+       "en": "1 atm, 100°C"
+      },
+      {
+       "id": "b",
+       "bn": "10–20 atm, 500°C",
+       "en": "10–20 atm, 500°C"
+      },
+      {
+       "id": "c",
+       "bn": "100 atm, 25°C",
+       "en": "100 atm, 25°C"
+      },
+      {
+       "id": "d",
+       "bn": "5 atm, 1000°C",
+       "en": "5 atm, 1000°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "10–20 atm চাপে প্রায় 500°C।",
+     "explanation_en": "10–20 atm and about 500°C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টলুইন + H2 → ? (Pt/Al2O3, 600°C)",
+     "question_en": "Toluene + H2 -> ? (Pt/Al2O3, 600°C)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন + CH4",
+       "en": "Benzene + CH4"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিন + C2H6",
+       "en": "Benzene + C2H6"
+      },
+      {
+       "id": "c",
+       "bn": "জাইলিন",
+       "en": "Xylene"
+      },
+      {
+       "id": "d",
+       "bn": "সাইক্লোহেক্সেন",
+       "en": "Cyclohexane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিথাইল মূলক CH4 রূপে অপসারিত; জাইলিন হলে C2H6।",
+     "explanation_en": "Methyl is lost as CH4; xylene would give C2H6.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.37",
+   "title_bn": "পরীক্ষাগারে বেনজিন প্রস্তুত পদ্ধতি",
+   "title_en": "Laboratory preparation of benzene",
+   "notes_bn": "১) সোডিয়াম বেনজোয়েট ও সোডালাইমের (1:3) মিশ্রণকে কাচের রিটর্টে তীব্রভাবে উত্তপ্ত করলে CO2 অপসারিত হয়ে বেনজিন বাষ্প ও Na2CO3 উৎপন্ন হয়।\nC6H5COONa + NaOH(CaO) → C6H6 + Na2CO3\nবাষ্প বরফ-শীতল গ্রাহক পাত্রে ঘনীভূত হয়। সতর্কতা: বেনজিন বাষ্প দাহ্য; ধীরে সমভাবে উত্তপ্ত করতে হবে।\n২) ফেনলকে জিংক গুঁড়ার সাথে উত্তপ্ত করলে বেনজিন ও ZnO পাওয়া যায়।",
+   "notes_en": "1) A 1:3 mixture of sodium benzoate and soda lime is strongly heated in a glass retort: CO2 is removed giving benzene vapour and Na2CO3.\nC6H5COONa + NaOH(CaO) -> C6H6 + Na2CO3\nThe vapour condenses in an ice-cooled receiver. Precaution: benzene vapour is flammable; heat slowly and evenly.\n2) Heating phenol with zinc dust gives benzene and ZnO.",
+   "mcqs": [
+    {
+     "question_bn": "সোডিয়াম বেনজোয়েট ও সোডালাইম উত্তপ্ত করলে কী উৎপন্ন হয়?",
+     "question_en": "Heating sodium benzoate with soda lime gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল",
+       "en": "Phenol"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজোয়িক এসিড",
+       "en": "Benzoic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বেনজিন ও Na2CO3।",
+     "explanation_en": "Benzene and Na2CO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফেনল থেকে বেনজিন প্রস্তুতিতে কোন বিকারক ব্যবহৃত হয়?",
+     "question_en": "Which reagent converts phenol to benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Zn গুঁড়া",
+       "en": "Zn dust"
+      },
+      {
+       "id": "b",
+       "bn": "Na",
+       "en": "Na"
+      },
+      {
+       "id": "c",
+       "bn": "AlCl3",
+       "en": "AlCl3"
+      },
+      {
+       "id": "d",
+       "bn": "H2SO4",
+       "en": "H2SO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফেনল + Zn → বেনজিন + ZnO।",
+     "explanation_en": "Phenol + Zn -> benzene + ZnO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সোডিয়াম বেনজোয়েট : সোডালাইম অনুপাত কত?",
+     "question_en": "Ratio of sodium benzoate : soda lime?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1:1",
+       "en": "1:1"
+      },
+      {
+       "id": "b",
+       "bn": "1:3",
+       "en": "1:3"
+      },
+      {
+       "id": "c",
+       "bn": "3:1",
+       "en": "3:1"
+      },
+      {
+       "id": "d",
+       "bn": "2:1",
+       "en": "2:1"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "1:3।",
+     "explanation_en": "1:3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এই বিক্রিয়ায় বেনজিন সংগ্রহ পাত্র বরফে রাখা হয় কেন?",
+     "question_en": "Why is the receiver ice-cooled?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাষ্প ঘনীভূত করতে",
+       "en": "To condense vapour"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়া ত্বরান্বিত করতে",
+       "en": "To speed reaction"
+      },
+      {
+       "id": "c",
+       "bn": "ZnO গঠনে",
+       "en": "To form ZnO"
+      },
+      {
+       "id": "d",
+       "bn": "প্রভাবক হিসেবে",
+       "en": "As catalyst"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বেনজিন বাষ্পকে তরলে পরিণত করতে এবং বাষ্প বেরিয়ে যাওয়া রোধে।",
+     "explanation_en": "To condense benzene vapour and prevent escape.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.38",
+   "title_bn": "পরীক্ষাগারে টলুইন বা মিথাইল বেনজিন প্রস্তুতি",
+   "title_en": "Laboratory preparation of toluene",
+   "notes_bn": "১) উর্জ-ফিটিগ বিক্রিয়া: ব্রোমো বেনজিন ও মিথাইল ব্রোমাইডের (1:1) মিশ্রণে শুষ্ক ইথারে সোডিয়াম ধাতু যোগ করলে টলুইন উৎপন্ন হয়।\nC6H5Br + 2Na + CH3Br → C6H5CH3 + 2NaBr\nপদ্ধতি: বিন্দুপাতি ফানেল থেকে ফোঁটা ফোঁটা মিশ্রণ যোগ; পরে আংশিক পাতনে 110°C এ বিশুদ্ধ টলুইন। সতর্কতা: ধীরে যোগ; বেশি উত্তপ্ত হলে ফানেল বন্ধ।\n২) ফ্রিডেল-ক্রাফট অ্যালকাইলেশন: বেনজিন + CH3Cl (শুষ্ক AlCl3, উত্তপ্ত) → টলুইন + HCl। মিশ্রণ 5°C এর নিচে বরফ-পানিতে ঢাললে বেনজিন জমে যায়, টলুইন তরল; 110°C এ পাতন।",
+   "notes_en": "1) Wurtz-Fittig reaction: bromobenzene + methyl bromide (1:1) with sodium in dry ether gives toluene.\nC6H5Br + 2Na + CH3Br -> C6H5CH3 + 2NaBr\nMethod: add mixture dropwise from a dropping funnel; fractionally distil, toluene at 110°C. Precaution: add slowly; pause if flask gets too hot.\n2) Friedel-Crafts alkylation: benzene + CH3Cl (dry AlCl3, heat) -> toluene + HCl. Pour into ice water below 5°C: benzene solidifies, toluene stays liquid; distil at 110°C.",
+   "mcqs": [
+    {
+     "question_bn": "টলুইন প্রস্তুতির উর্জ-ফিটিগ বিক্রিয়ায় কোন ধাতু লাগে?",
+     "question_en": "Which metal is used in Wurtz-Fittig preparation of toluene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Zn",
+       "en": "Zn"
+      },
+      {
+       "id": "b",
+       "bn": "Na",
+       "en": "Na"
+      },
+      {
+       "id": "c",
+       "bn": "Cu",
+       "en": "Cu"
+      },
+      {
+       "id": "d",
+       "bn": "Mg",
+       "en": "Mg"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শুষ্ক ইথারে সোডিয়াম।",
+     "explanation_en": "Sodium in dry ether.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফ্রিডেল-ক্রাফট বিক্রিয়ায় প্রভাবক কোনটি?",
+     "question_en": "Catalyst in Friedel-Crafts preparation of toluene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুষ্ক AlCl3",
+       "en": "Anhydrous AlCl3"
+      },
+      {
+       "id": "b",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "c",
+       "bn": "গাঢ় H2SO4",
+       "en": "Conc. H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "ZnO",
+       "en": "ZnO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শুষ্ক অ্যালুমিনিয়াম ক্লোরাইড।",
+     "explanation_en": "Anhydrous aluminium chloride.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বিশুদ্ধ টলুইন কত তাপমাত্রায় পাতিত হয়?",
+     "question_en": "At what temperature is pure toluene collected?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "80°C",
+       "en": "80°C"
+      },
+      {
+       "id": "b",
+       "bn": "110°C",
+       "en": "110°C"
+      },
+      {
+       "id": "c",
+       "bn": "160°C",
+       "en": "160°C"
+      },
+      {
+       "id": "d",
+       "bn": "5°C",
+       "en": "5°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 110°C।",
+     "explanation_en": "110°C per the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বিক্রিয়া শেষে বরফ-পানিতে (5°C এর নিচে) ঢাললে বেনজিন ও টলুইন কীভাবে পৃথক হয়?",
+     "question_en": "How do benzene and toluene separate after pouring into ice water below 5°C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন কঠিন জমে যায়, টলুইন তরল থাকে",
+       "en": "Benzene solidifies, toluene stays liquid"
+      },
+      {
+       "id": "b",
+       "bn": "টলুইন জমে, বেনজিন তরল",
+       "en": "Toluene solidifies, benzene liquid"
+      },
+      {
+       "id": "c",
+       "bn": "উভয় জমে",
+       "en": "Both solidify"
+      },
+      {
+       "id": "d",
+       "bn": "উভয় তরল",
+       "en": "Both liquid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বেনজিনের গলনাঙ্ক 5.4°C, তাই জমে যায়।",
+     "explanation_en": "Benzene (m.p. 5.4°C) freezes; toluene remains liquid.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Wurtz-Fittig এ 1 mol C6H5Br থেকে 1 mol টলুইন পেতে কত mol Na দরকার (সমীকরণ অনুযায়ী)?",
+     "question_en": "Moles of Na needed per mole of toluene by the equation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C6H5Br + 2Na + CH3Br → C6H5CH3 + 2NaBr।",
+     "explanation_en": "C6H5Br + 2Na + CH3Br -> C6H5CH3 + 2NaBr.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.39",
+   "title_bn": "বেনজিনের ভৌত ধর্ম",
+   "title_en": "Physical properties of benzene",
+   "notes_bn": "বেনজিন বিশেষ গন্ধযুক্ত বর্ণহীন উদ্বায়ী তরল।\nগলনাঙ্ক 5.4°C, স্ফুটনাঙ্ক 80.4°C; আপেক্ষিক গুরুত্ব 0.88।\nপানি অপেক্ষা হালকা ও পানিতে অদ্রবণীয়; অ্যালকোহল, ইথার, পেট্রোল প্রভৃতির সাথে যেকোনো অনুপাতে মিশে।\nচর্বি, মোম, সালফার, রেজিন, আয়োডিন প্রভৃতির ভালো দ্রাবক।\nসহজ দাহ্য; দহনে কালো ধোঁয়াযুক্ত শিখা।",
+   "notes_en": "Benzene is a colourless volatile liquid with a characteristic smell.\nm.p. 5.4°C, b.p. 80.4°C; sp. gr. 0.88.\nLighter than water and insoluble in it; miscible in any ratio with alcohol, ether, petrol, etc.\nGood solvent for fats, waxes, sulfur, resins, iodine.\nHighly flammable; burns with a sooty flame.",
+   "mcqs": [
+    {
+     "question_bn": "বেনজিনের স্ফুটনাঙ্ক কত?",
+     "question_en": "Boiling point of benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5.4°C",
+       "en": "5.4°C"
+      },
+      {
+       "id": "b",
+       "bn": "80.4°C",
+       "en": "80.4°C"
+      },
+      {
+       "id": "c",
+       "bn": "110°C",
+       "en": "110°C"
+      },
+      {
+       "id": "d",
+       "bn": "100°C",
+       "en": "100°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "স্ফুটনাঙ্ক 80.4°C।",
+     "explanation_en": "b.p. 80.4°C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজিন দহনে কেমন শিখা দেয়?",
+     "question_en": "What flame does benzene give on burning?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নীল",
+       "en": "Blue"
+      },
+      {
+       "id": "b",
+       "bn": "কালো ধোঁয়াযুক্ত",
+       "en": "Sooty"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "d",
+       "bn": "শিখাহীন",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বনের উচ্চ শতাংশের কারণে ধোঁয়াযুক্ত শিখা।",
+     "explanation_en": "Sooty flame due to high carbon content.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বেনজিন ও পানি মেশালে কী দেখা যায়?",
+     "question_en": "What is seen on mixing benzene and water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন নিচে থাকে",
+       "en": "Benzene below"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিন ওপরে ভাসে, মিশে না",
+       "en": "Benzene floats above, immiscible"
+      },
+      {
+       "id": "c",
+       "bn": "সম্পূর্ণ মিশে যায়",
+       "en": "Fully miscible"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়া করে",
+       "en": "Reacts"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আপেক্ষিক গুরুত্ব 0.88 < 1, পানিতে অদ্রবণীয়।",
+     "explanation_en": "Sp. gr. 0.88 <1 and insoluble in water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন তাপমাত্রায় বেনজিন কঠিন কেলাসিত হয়?",
+     "question_en": "Below what temperature does benzene freeze?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5.4°C",
+       "en": "5.4°C"
+      },
+      {
+       "id": "b",
+       "bn": "0°C",
+       "en": "0°C"
+      },
+      {
+       "id": "c",
+       "bn": "80.4°C",
+       "en": "80.4°C"
+      },
+      {
+       "id": "d",
+       "bn": "−5°C",
+       "en": "−5°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গলনাঙ্ক 5.4°C।",
+     "explanation_en": "Melting point 5.4°C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনজিনের স্ফুটনাঙ্ক ও গলনাঙ্কের পার্থক্য কত?",
+     "question_en": "Difference between b.p. and m.p. of benzene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "65°C",
+       "en": "65°C"
+      },
+      {
+       "id": "b",
+       "bn": "75°C",
+       "en": "75°C"
+      },
+      {
+       "id": "c",
+       "bn": "85.8°C",
+       "en": "85.8°C"
+      },
+      {
+       "id": "d",
+       "bn": "80°C",
+       "en": "80°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "80.4−5.4 = 75°C।",
+     "explanation_en": "80.4 - 5.4 = 75°C.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "5.33",
+   "stimulus_bn": "একটি রিটর্টে 1000 kg বিটুমিনাস কয়লা বায়ুর অনুপস্থিতিতে 1000°C এ উত্তপ্ত করা হলো। বইয়ের শতকরা হার অনুযায়ী কোক, আলকাতরা ও অ্যামোনিয়াক্যাল লিকার পাওয়া গেল। আলকাতরাকে আবার আংশিক পাতন করে বিভিন্ন তৈল সংগ্রহ করা হলো।",
+   "stimulus_en": "1000 kg of bituminous coal is heated at 1000°C in a retort without air. Coke, coal tar and ammoniacal liquor are obtained in the book's percentages. The tar is then fractionally distilled to collect oils.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "কয়লার বিধ্বংসী পাতন কী?",
+     "question_en": "What is destructive distillation of coal?",
+     "model_answer_bn": "বায়ুর অনুপস্থিতিতে কয়লাকে উচ্চ তাপে বিয়োজিত করে উদ্বায়ী উপাদান পাতিত করার প্রক্রিয়া।",
+     "model_answer_en": "Heating coal strongly in absence of air to decompose it and distil volatile products."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "কোল গ্যাসের উপাদানগুলো উল্লেখ করো।",
+     "question_en": "State the constituents of coal gas.",
+     "model_answer_bn": "H2 47%, CH4 36%, CO 8%, CO2 2%, N2 3% এবং অ্যারোমেটিক হাইড্রোকার্বন 4%।",
+     "model_answer_en": "H2 47%, CH4 36%, CO 8%, CO2 2%, N2 3%, aromatic hydrocarbons 4%."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "1000 kg কয়লা থেকে কত kg কোক ও কত kg অ্যামোনিয়াক্যাল লিকার (সর্বোচ্চ) পাওয়া যাবে?",
+     "question_en": "How much coke and (maximum) ammoniacal liquor from 1000 kg coal?",
+     "model_answer_bn": "কোক = 1000×70% = 700 kg; লিকার = 1000×10% = 100 kg (সর্বোচ্চ, পরিসর 80–100 kg)।",
+     "model_answer_en": "Coke = 1000 x 70% = 700 kg; liquor max = 1000 x 10% = 100 kg (range 80-100 kg)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "আলকাতরা কেন অ্যারোমেটিক যৌগের প্রধান উৎস? আংশিক পাতনে কোন তৈল থেকে বেনজিন ও কোনটি থেকে অ্যানথ্রাসিন পাওয়া যায় ব্যাখ্যা করো।",
+     "question_en": "Why is coal tar the main source of aromatics? Which oil gives benzene and which gives anthracene?",
+     "model_answer_bn": "আলকাতরায় শত শত অ্যারোমেটিক যৌগ থাকে। লঘু তৈলে (170°C পর্যন্ত) বেনজিন, টলুইন ইত্যাদি এবং সবুজ তৈলে (271–400°C) অ্যানথ্রাসিন পাওয়া যায়।",
+     "model_answer_en": "Tar contains hundreds of aromatic compounds. Light oil (up to 170°C) holds benzene, toluene, etc.; green oil (271-400°C) holds anthracene."
+    }
+   ]
+  },
+  {
+   "topic_section": "5.37",
+   "stimulus_bn": "একটি ছাত্র পরীক্ষাগারে সোডিয়াম বেনজোয়েট ও সোডালাইমের মিশ্রণ থেকে বেনজিন প্রস্তুত করল এবং বেনজিনকে প্রায় 1 mL আলকাতরার লঘু তৈল থেকে বিশুদ্ধ করার চেষ্টা করল।",
+   "stimulus_en": "A student prepared benzene in the lab from sodium benzoate and soda lime, and tried to purify benzene from light oil of coal tar.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "বেনজিনের স্ফুটনাঙ্ক কত?",
+     "question_en": "What is the boiling point of benzene?",
+     "model_answer_bn": "80.4°C।",
+     "model_answer_en": "80.4°C."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "বেনজিন প্রস্তুতির সমীকরণ লেখো।",
+     "question_en": "Write the equation for the preparation.",
+     "model_answer_bn": "C6H5COONa + NaOH(CaO) → C6H6 + Na2CO3 (উত্তপ্ত করে)।",
+     "model_answer_en": "C6H5COONa + NaOH(CaO) -> C6H6 + Na2CO3 on heating."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "লঘু তৈল থেকে অ্যানিলিন ও ফেনল কীভাবে দূর করা হয়?",
+     "question_en": "How are aniline and phenol removed from light oil?",
+     "model_answer_bn": "গাঢ় H2SO4 অ্যানিলিনকে অ্যানিলিনিয়াম সালফেট রূপে এবং 10% NaOH ফেনলকে সোডিয়াম ফিনেট রূপে দ্রবণীয় করে; পরে পানিতে ধোয়া হয়।",
+     "model_answer_en": "Conc. H2SO4 converts aniline into soluble anilinium sulfate; 10% NaOH converts phenol into sodium phenate; then wash with water."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "প্রস্তুত বেনজিনে থায়োফিন থাকলে তা কীভাবে দূর করবে এবং চূড়ান্ত বিশুদ্ধ বেনজিন কীভাবে পাবে ব্যাখ্যা করো।",
+     "question_en": "If the benzene contains thiophene, how will you remove it and obtain pure benzene?",
+     "model_answer_bn": "শীতল গাঢ় H2SO4 এর সাথে ঝাঁকিয়ে থায়োফিন দূর করা হয়; পৃথক স্তরকে নির্জল CaCl2 দিয়ে শুষ্ক করে 80.4°C এ পাতন করলে বিশুদ্ধ বেনজিন পাওয়া যায়।",
+     "model_answer_en": "Shake with cold conc. H2SO4 to remove thiophene; separate, dry with anhydrous CaCl2 and distil at 80.4°C."
+    }
+   ]
+  },
+  {
+   "topic_section": "5.36",
+   "stimulus_bn": "একটি শিল্প প্রতিষ্ঠান পেট্রোলের n-হেক্সেন ও n-হেপ্টেনকে 500°C ও 15 atm এ Pt-Al/V2O5 প্রভাবকের উপস্থিতিতে উত্তপ্ত করে অ্যারোমেটিক যৌগ উৎপাদন করে।",
+   "stimulus_en": "A plant heats n-hexane and n-heptane of petrol at 500°C and 15 atm with a Pt-Al/V2O5 catalyst to make aromatic compounds.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "এই প্রক্রিয়াকে কী বলে?",
+     "question_en": "What is this process called?",
+     "model_answer_bn": "অ্যারোমেটিকরণ বা রিফরমিং।",
+     "model_answer_en": "Aromatisation or reforming."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "n-হেক্সেন থেকে বেনজিন উৎপাদনের ধাপগুলো লেখো।",
+     "question_en": "Write the steps from n-hexane to benzene.",
+     "model_answer_bn": "n-হেক্সেন → (চক্রীকরণ) সাইক্লোহেক্সেন → (হাইড্রোজেন অপসারণ) বেনজিন + 3H2।",
+     "model_answer_en": "n-hexane -> (cyclisation) cyclohexane -> (dehydrogenation) benzene + 3H2."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "n-হেপ্টেন থেকে প্রাপ্ত যৌগের নাম ও গঠন লেখো এবং তা থেকে বেনজিন পেতে কী করবে?",
+     "question_en": "Name the product from n-heptane and show how to convert it to benzene.",
+     "model_answer_bn": "টলুইন (C6H5CH3)। Pt/Al2O3 এ 600°C এ H2 দিয়ে বিক্রিয়ায় বেনজিন + CH4।",
+     "model_answer_en": "Toluene (C6H5CH3). React with H2 over Pt/Al2O3 at 600°C to get benzene + CH4."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "n-অক্টেন থেকে জাইলিনের সমাণু ও জাইলিন থেকে বেনজিন পাওয়ার প্রক্রিয়া বিশ্লেষণ করো।",
+     "question_en": "Analyse xylene isomers from n-octane and conversion of xylene to benzene.",
+     "model_answer_bn": "n-অক্টেন → ডাইমিথাইল সাইক্লোহেক্সেন → o- ও p-জাইলিন + 3H2। জাইলিন + H2 → বেনজিন + C2H6 (হাইড্রো-ডিঅ্যালকাইলেশন, 600°C)।",
+     "model_answer_en": "n-octane -> dimethylcyclohexane -> o- and p-xylene + 3H2. Xylene + H2 -> benzene + C2H6 (hydro-dealkylation, 600°C)."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 303-313 read fully; p.314 (5.40 chemical properties) is beyond assigned sections, not used. All readable. Section 5.28 numbering/oddities: alkene vs alkyne tests (5.26) on p.289 not covered by assigned sections."
+}

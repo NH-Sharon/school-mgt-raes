@@ -1,0 +1,2101 @@
+{
+ "chapter_no": 5,
+ "topics": [
+  {
+   "section_no": "5.14",
+   "title_bn": "অ্যালকিনের ভৌত ধর্ম",
+   "title_en": "Physical properties of alkenes",
+   "notes_bn": "প্রথম তিনটি সদস্য (ইথিলিন, প্রোপিলিন, বিউটিলিন, C2–C4) সাধারণ অবস্থায় গ্যাসীয়।\nC5 থেকে C15 পর্যন্ত তরল, এর পরের সদস্যগুলো কঠিন।\nইথিলিনের মৃদু সুগন্ধ আছে, অন্যগুলো প্রায় বর্ণহীন ও গন্ধহীন।\nপানিতে অদ্রবণীয়, কিন্তু ইথার, অ্যালকোহল ইত্যাদি জৈব দ্রাবকে দ্রবণীয়।\nআণবিক ভর বাড়লে গলনাঙ্ক ও স্ফুটনাঙ্ক বাড়ে; শাখাযুক্ত অ্যালকিনের মান সরল শৃঙ্খলের চেয়ে কম।\nঘনত্ব 0.566 থেকে বেড়ে 0.8-এর মধ্যে থাকে, অর্থাৎ পানির চেয়ে হালকা।",
+   "notes_en": "The first three members (C2–C4) are gases; C5–C15 are liquids; higher ones are solids.\nEthylene has a faint pleasant smell; others are mostly colourless/odourless.\nInsoluble in water but soluble in organic solvents (ether, alcohol).\nMelting/boiling points rise with molar mass; branched isomers have lower values.\nDensity rises from 0.566 and stays below 0.8, so alkenes are lighter than water.",
+   "mcqs": [
+    {
+     "question_bn": "কোন অ্যালকিনটি সাধারণ তাপমাত্রায় তরল?",
+     "question_en": "Which alkene is a liquid at ordinary temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিলিন",
+       "en": "ইথিলিন"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপিলিন",
+       "en": "প্রোপিলিন"
+      },
+      {
+       "id": "c",
+       "bn": "বিউটিলিন",
+       "en": "বিউটিলিন"
+      },
+      {
+       "id": "d",
+       "bn": "C5–C15 পরিসরের অ্যালকিন",
+       "en": "C5–C15 পরিসরের অ্যালকিন"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "C2–C4 গ্যাস, C5–C15 তরল।",
+     "explanation_en": "C2–C4 are gases while C5–C15 are liquids.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকিনের ঘনত্ব সম্পর্কে সঠিক কোনটি?",
+     "question_en": "Which statement about the density of alkenes is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানির চেয়ে বেশি",
+       "en": "পানির চেয়ে বেশি"
+      },
+      {
+       "id": "b",
+       "bn": "পানির সমান",
+       "en": "পানির সমান"
+      },
+      {
+       "id": "c",
+       "bn": "পানির চেয়ে হালকা",
+       "en": "পানির চেয়ে হালকা"
+      },
+      {
+       "id": "d",
+       "bn": "1.5-এর বেশি",
+       "en": "1.5-এর বেশি"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ঘনত্ব 0.566 থেকে 0.8-এর মধ্যে, তাই পানির চেয়ে হালকা।",
+     "explanation_en": "Density lies between 0.566 and 0.8, so lighter than water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকিন কোন দ্রাবকে দ্রবণীয়?",
+     "question_en": "In which solvent are alkenes soluble?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানি",
+       "en": "পানি"
+      },
+      {
+       "id": "b",
+       "bn": "ইথার",
+       "en": "ইথার"
+      },
+      {
+       "id": "c",
+       "bn": "লঘু HCl",
+       "en": "লঘু HCl"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH দ্রবণ",
+       "en": "NaOH দ্রবণ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যালকিন পানিতে অদ্রবণীয়; জৈব দ্রাবক ইথার/অ্যালকোহলে দ্রবণীয়।",
+     "explanation_en": "Alkenes are insoluble in water but dissolve in organic solvents like ether.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকিন সমগোত্রীয় শ্রেণিতে আণবিক ভর বাড়ালে কী ঘটে?",
+     "question_en": "What happens to alkenes as molar mass increases down the series?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গলনাঙ্ক ও স্ফুটনাঙ্ক কমে",
+       "en": "গলনাঙ্ক ও স্ফুটনাঙ্ক কমে"
+      },
+      {
+       "id": "b",
+       "bn": "গলনাঙ্ক ও স্ফুটনাঙ্ক বাড়ে",
+       "en": "গলনাঙ্ক ও স্ফুটনাঙ্ক বাড়ে"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু ঘনত্ব কমে",
+       "en": "শুধু ঘনত্ব কমে"
+      },
+      {
+       "id": "d",
+       "bn": "পানিতে দ্রবণীয়তা বাড়ে",
+       "en": "পানিতে দ্রবণীয়তা বাড়ে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আণবিক ভর বৃদ্ধির সঙ্গে গলনাঙ্ক ও স্ফুটনাঙ্ক বৃদ্ধি পায়।",
+     "explanation_en": "Melting and boiling points increase with molar mass.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সমান কার্বনবিশিষ্ট দুটি অ্যালকিন সমাণুর মধ্যে কোনটির স্ফুটনাঙ্ক কম?",
+     "question_en": "Of two isomeric alkenes with the same carbon number, which has the lower boiling point?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শাখাযুক্ত সমাণু",
+       "en": "শাখাযুক্ত সমাণু"
+      },
+      {
+       "id": "b",
+       "bn": "সরল শৃঙ্খলের সমাণু",
+       "en": "সরল শৃঙ্খলের সমাণু"
+      },
+      {
+       "id": "c",
+       "bn": "দুটির সমান",
+       "en": "দুটির সমান"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যাসীয়টি সর্বদা বেশি",
+       "en": "গ্যাসীয়টি সর্বদা বেশি"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শাখাযুক্ত অ্যালকিনের গলনাঙ্ক ও স্ফুটনাঙ্ক সরল সমাণুর চেয়ে কম।",
+     "explanation_en": "Branched alkenes have lower m.p./b.p. than straight-chain isomers.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.15",
+   "title_bn": "অ্যালকিনের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of alkenes (reactivity)",
+   "notes_bn": "অ্যালকিনের কার্যকরী মূলক C=C দ্বিবন্ধন: একটি σ ও একটি π বন্ধন (sp2–sp2 ওভারল্যাপ)।\nC–C বন্ধন শক্তি 347 kJ/mol, C=C 612 kJ/mol; তাই π বন্ধন শক্তি = 612 − 347 = 265 kJ/mol।\nπ বন্ধন দুর্বল ও π ইলেকট্রন সহজে সঞ্চরণশীল, তাই ইলেকট্রোফিল সহজেই আক্রমণ করে।\nপ্রধান বিক্রিয়া: ইলেকট্রোফিলিক যুত বিক্রিয়া।\nশ্রেণি: (১) যুত, (২) জারণ, (৩) পলিমারকরণ।",
+   "notes_en": "Functional group: C=C, one sigma and one pi bond (sp2–sp2 overlap).\nBond energies: C–C 347, C=C 612 kJ/mol, so the pi bond is 612 − 347 = 265 kJ/mol.\nWeak, mobile pi electrons make alkenes attack-prone to electrophiles.\nCharacteristic reaction: electrophilic addition.\nMain classes: addition, oxidation, polymerisation.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকিনের কার্যকরী মূলক কোনটি?",
+     "question_en": "What is the functional group of alkenes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C–C",
+       "en": "C–C"
+      },
+      {
+       "id": "b",
+       "bn": "C=C",
+       "en": "C=C"
+      },
+      {
+       "id": "c",
+       "bn": "C≡C",
+       "en": "C≡C"
+      },
+      {
+       "id": "d",
+       "bn": "C–H",
+       "en": "C–H"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বন-কার্বন দ্বিবন্ধনই কার্যকরী মূলক।",
+     "explanation_en": "The C=C double bond is the functional group.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকিনের π বন্ধন শক্তি কত? (C=C = 612, C–C = 347 kJ/mol)",
+     "question_en": "What is the pi bond energy of an alkene? (C=C = 612, C–C = 347 kJ/mol)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "959 kJ/mol",
+       "en": "959 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "265 kJ/mol",
+       "en": "265 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "347 kJ/mol",
+       "en": "347 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "612 kJ/mol",
+       "en": "612 kJ/mol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "612 − 347 = 265 kJ/mol।",
+     "explanation_en": "612 − 347 = 265 kJ/mol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকিনের প্রধান বিক্রিয়ার ধরন কোনটি?",
+     "question_en": "What is the characteristic reaction type of alkenes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিউক্লিওফিলিক প্রতিস্থাপন",
+       "en": "নিউক্লিওফিলিক প্রতিস্থাপন"
+      },
+      {
+       "id": "b",
+       "bn": "ইলেকট্রোফিলিক যুত",
+       "en": "ইলেকট্রোফিলিক যুত"
+      },
+      {
+       "id": "c",
+       "bn": "মুক্তমূলক প্রতিস্থাপন",
+       "en": "মুক্তমূলক প্রতিস্থাপন"
+      },
+      {
+       "id": "d",
+       "bn": "অপসারণ",
+       "en": "অপসারণ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "π ইলেকট্রন সমৃদ্ধ হওয়ায় ইলেকট্রোফিলিক যুত ঘটে।",
+     "explanation_en": "Electron-rich pi bond leads to electrophilic addition.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকিনের C=C বন্ধনে কার্বনের সংকরণ কী?",
+     "question_en": "What hybridisation do the carbons in C=C of alkenes have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp3",
+       "en": "sp3"
+      },
+      {
+       "id": "b",
+       "bn": "sp2",
+       "en": "sp2"
+      },
+      {
+       "id": "c",
+       "bn": "sp",
+       "en": "sp"
+      },
+      {
+       "id": "d",
+       "bn": "dsp2",
+       "en": "dsp2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দ্বিবন্ধনযুক্ত কার্বন sp2 সংকরিত।",
+     "explanation_en": "Doubly bonded carbons are sp2 hybridised.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.16",
+   "title_bn": "অ্যালকিনের ব্যবহার",
+   "title_en": "Uses of alkenes",
+   "notes_bn": "ইথিলিন: প্রচুর পরিমাণে ইথাইল অ্যালকোহল উৎপাদনে ব্যবহৃত হয়।\nঅক্সি-ইথিলিন শিখা ধাতব পদার্থ কাটা ও জোড়া লাগাতে ব্যবহৃত হয়।\nকাঁচা ফল (কলা, টমেটো) কৃত্রিমভাবে পাকাতে ইথিলিন ব্যবহৃত হয়।\nইথিলিন ডাইক্লোরাইড, ইথিলিন অক্সাইড, মাস্টার্ড গ্যাস, ফরম্যালডিহাইড, টেফলন, পলিথিন তৈরিতে লাগে; তরল ইথিলিন চেতনানাশক।\nপ্রোপিলিন থেকে পলিপ্রোপিলিন, আইসো-প্রোপাইল অ্যালকোহল, অ্যাসিটোন, অ্যালকাইল ক্লোরাইড তৈরি হয়।",
+   "notes_en": "Ethylene: manufacture of ethyl alcohol; oxy-ethylene flame for cutting/welding metals; ripening raw fruit (banana, tomato).\nRaw material for ethylene dichloride, ethylene oxide, mustard gas, formaldehyde, Teflon, polythene; liquid ethylene is an anaesthetic.\nPropylene: polypropylene, isopropyl alcohol, acetone, alkyl chlorides.",
+   "mcqs": [
+    {
+     "question_bn": "কাঁচা ফল পাকাতে কোন গ্যাস ব্যবহৃত হয়?",
+     "question_en": "Which gas is used to ripen raw fruit?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথেন",
+       "en": "মিথেন"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিলিন",
+       "en": "ইথিলিন"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসিটিলিন",
+       "en": "অ্যাসিটিলিন"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপেন",
+       "en": "প্রোপেন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথিলিন কৃত্রিমভাবে কলা, টমেটো পাকায়।",
+     "explanation_en": "Ethylene ripens bananas and tomatoes artificially.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পলিপ্রোপিলিনের মনোমার কোনটি?",
+     "question_en": "What is the monomer of polypropylene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিলিন",
+       "en": "ইথিলিন"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপিলিন",
+       "en": "প্রোপিলিন"
+      },
+      {
+       "id": "c",
+       "bn": "স্টাইরিন",
+       "en": "স্টাইরিন"
+      },
+      {
+       "id": "d",
+       "bn": "ভিনাইল ক্লোরাইড",
+       "en": "ভিনাইল ক্লোরাইড"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রোপিলিনের পলিমার পলিপ্রোপিলিন।",
+     "explanation_en": "Propylene polymerises to polypropylene.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অক্সি-ইথিলিন শিখার ব্যবহার কী?",
+     "question_en": "What is oxy-ethylene flame used for?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফল পাকানো",
+       "en": "ফল পাকানো"
+      },
+      {
+       "id": "b",
+       "bn": "ধাতব পদার্থ কাটা ও জোড়া",
+       "en": "ধাতব পদার্থ কাটা ও জোড়া"
+      },
+      {
+       "id": "c",
+       "bn": "চেতনানাশক",
+       "en": "চেতনানাশক"
+      },
+      {
+       "id": "d",
+       "bn": "সার তৈরি",
+       "en": "সার তৈরি"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এই শিখা ধাতব পদার্থ কাটা ও জোড়া লাগানোর কাজে লাগে।",
+     "explanation_en": "It is used for cutting and joining metals.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "তরল ইথিলিন বর্তমানে কী হিসেবে ব্যবহৃত হয়?",
+     "question_en": "How is liquid ethylene used nowadays?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চেতনানাশক",
+       "en": "চেতনানাশক"
+      },
+      {
+       "id": "b",
+       "bn": "দ্রাবক",
+       "en": "দ্রাবক"
+      },
+      {
+       "id": "c",
+       "bn": "জ্বালানি",
+       "en": "জ্বালানি"
+      },
+      {
+       "id": "d",
+       "bn": "নিদাহক",
+       "en": "নিদাহক"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথারের পরিবর্তে তরল ইথিলিন চেতনানাশক হিসেবে ব্যবহৃত হয়।",
+     "explanation_en": "Liquid ethylene is used as an anaesthetic instead of ether.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোপিলিন থেকে কোনটি বাণিজ্যিকভাবে পাওয়া যায়?",
+     "question_en": "Which is commercially obtained from propylene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসিটোন",
+       "en": "অ্যাসিটোন"
+      },
+      {
+       "id": "b",
+       "bn": "মিথানল",
+       "en": "মিথানল"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজিন",
+       "en": "বেনজিন"
+      },
+      {
+       "id": "d",
+       "bn": "টেফলন",
+       "en": "টেফলন"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রোপিলিন থেকে আইসো-প্রোপাইল অ্যালকোহল, অ্যাসিটোন তৈরি হয়।",
+     "explanation_en": "Isopropyl alcohol and acetone are made from propylene.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.17",
+   "title_bn": "অ্যালকিনাইল (Alkenyl Radical)",
+   "title_en": "Alkenyl radicals",
+   "notes_bn": "অ্যালকিন অণু থেকে একটি H পরমাণু সরালে যে একযোজী মূলক তৈরি হয়, তাকে অ্যালকিনাইল মূলক বলে।\nনামকরণ: অ্যালকিনের শেষের 'e' বাদ দিয়ে 'yl' যোগ।\nব্যতিক্রম: ইথিন থেকে ভিনাইল (CH2=CH–) এবং প্রোপিন থেকে অ্যালাইল মূলক।",
+   "notes_en": "An alkenyl radical is the monovalent group formed by removing one H atom from an alkene.\nNaming: drop the final 'e' of the alkene and add 'yl'.\nSpecial names: vinyl (CH2=CH–) from ethene; allyl from propene.",
+   "mcqs": [
+    {
+     "question_bn": "ইথিন থেকে সৃষ্ট অ্যালকিনাইল মূলকের নাম কী?",
+     "question_en": "What is the alkenyl radical derived from ethene called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল",
+       "en": "ইথাইল"
+      },
+      {
+       "id": "b",
+       "bn": "ভিনাইল",
+       "en": "ভিনাইল"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালাইল",
+       "en": "অ্যালাইল"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানাইল",
+       "en": "ইথানাইল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH2=CH– মূলকের নাম ভিনাইল।",
+     "explanation_en": "CH2=CH– is the vinyl radical.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকিনাইল মূলক তৈরি হয়—",
+     "question_en": "An alkenyl radical forms by—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকিন থেকে একটি H অপসারণে",
+       "en": "অ্যালকিন থেকে একটি H অপসারণে"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালকেন থেকে দুটি H অপসারণে",
+       "en": "অ্যালকেন থেকে দুটি H অপসারণে"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকিনে H যোগে",
+       "en": "অ্যালকিনে H যোগে"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকাইন থেকে H অপসারণে",
+       "en": "অ্যালকাইন থেকে H অপসারণে"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একটি H সরালে একযোজী অ্যালকিনাইল মূলক হয়।",
+     "explanation_en": "Removing one H gives a monovalent alkenyl radical.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রোপিন থেকে সৃষ্ট মূলকের নাম কী?",
+     "question_en": "What is the radical derived from propene called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ভিনাইল",
+       "en": "ভিনাইল"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালাইল",
+       "en": "অ্যালাইল"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপাইল",
+       "en": "প্রোপাইল"
+      },
+      {
+       "id": "d",
+       "bn": "মিথাইল",
+       "en": "মিথাইল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রোপিন থেকে সৃষ্ট মূলককে অ্যালাইল মূলক বলে।",
+     "explanation_en": "The radical from propene is allyl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকিনাইল মূলকের নামকরণে অ্যালকিনের শেষ অংশে কী পরিবর্তন হয়?",
+     "question_en": "How is the alkenyl name formed from the alkene name?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "'e' বাদ দিয়ে 'yl' যোগ",
+       "en": "'e' বাদ দিয়ে 'yl' যোগ"
+      },
+      {
+       "id": "b",
+       "bn": "'ene' এর স্থলে 'ane'",
+       "en": "'ene' এর স্থলে 'ane'"
+      },
+      {
+       "id": "c",
+       "bn": "'e' এর স্থলে 'ol'",
+       "en": "'e' এর স্থলে 'ol'"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন নেই",
+       "en": "কোনো পরিবর্তন নেই"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শেষের 'e' বাদ দিয়ে 'yl' যোগ করা হয়।",
+     "explanation_en": "Drop the terminal 'e' and add 'yl'.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.18",
+   "title_bn": "ভূমিকা : অ্যালকাইন",
+   "title_en": "Introduction: Alkyne",
+   "notes_bn": "অ্যালকাইন অসম্পৃক্ত হাইড্রোকার্বনের দ্বিতীয় সমগোত্রীয় শ্রেণি; সাধারণ সংকেত CnH2n−2।\nপ্রথম সদস্য ইথাইন (অ্যাসিটিলিন) HC≡CH; এরপর প্রোপাইন ও বিউটাইন।\nমূলক: ইথাইনাইল HC≡C–, প্রোপানাইল CH3C≡C–, 2-প্রোপাইনাইল HC≡C–CH2–।\nকার্বন-কার্বন ত্রিবন্ধন তাদের কার্যকরী মূলক।",
+   "notes_en": "Alkynes are the second homologous series of unsaturated hydrocarbons; general formula CnH2n−2.\nFirst member ethyne (acetylene) HC≡CH, followed by propyne and butyne.\nRadicals: ethynyl HC≡C–, propynyl, 2-propynyl HC≡C–CH2–.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকাইনের সাধারণ সংকেত কোনটি?",
+     "question_en": "What is the general formula of alkynes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CnH2n+2",
+       "en": "CnH2n+2"
+      },
+      {
+       "id": "b",
+       "bn": "CnH2n",
+       "en": "CnH2n"
+      },
+      {
+       "id": "c",
+       "bn": "CnH2n−2",
+       "en": "CnH2n−2"
+      },
+      {
+       "id": "d",
+       "bn": "CnHn",
+       "en": "CnHn"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অ্যালকাইনের সংকেত CnH2n−2।",
+     "explanation_en": "Alkynes have formula CnH2n−2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকাইনের প্রথম সদস্য কোনটি?",
+     "question_en": "Which is the first member of alkynes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথাইন",
+       "en": "মিথাইন"
+      },
+      {
+       "id": "b",
+       "bn": "ইথাইন",
+       "en": "ইথাইন"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপাইন",
+       "en": "প্রোপাইন"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটাইন",
+       "en": "বিউটাইন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রথম সদস্য ইথাইন বা অ্যাসিটিলিন।",
+     "explanation_en": "Ethyne (acetylene) is the first member.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "n = 3 হলে অ্যালকাইনের আণবিক সংকেত কী?",
+     "question_en": "What is the molecular formula of the alkyne with n = 3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C3H8",
+       "en": "C3H8"
+      },
+      {
+       "id": "b",
+       "bn": "C3H6",
+       "en": "C3H6"
+      },
+      {
+       "id": "c",
+       "bn": "C3H4",
+       "en": "C3H4"
+      },
+      {
+       "id": "d",
+       "bn": "C3H2",
+       "en": "C3H2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CnH2n−2 এ n=3 হলে C3H4 (প্রোপাইন)।",
+     "explanation_en": "For n=3, C3H4 (propyne).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HC≡C– মূলকটির নাম কী?",
+     "question_en": "What is the name of the HC≡C– group?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইনাইল",
+       "en": "ইথাইনাইল"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানাইল",
+       "en": "ইথানাইল"
+      },
+      {
+       "id": "c",
+       "bn": "ভিনাইল",
+       "en": "ভিনাইল"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপানাইল",
+       "en": "প্রোপানাইল"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথাইন − e + yl = ইথাইনাইল।",
+     "explanation_en": "ethyne − e + yl = ethynyl.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.19",
+   "title_bn": "পরীক্ষাগারে অ্যালকাইন প্রস্তুতি",
+   "title_en": "Laboratory preparation of alkyne",
+   "notes_bn": "মূলনীতি: ক্যালসিয়াম কার্বাইড (CaC2) এর ওপর পানি যোগ করলে আর্দ্র বিশ্লেষণে ইথাইন ও Ca(OH)2 উৎপন্ন হয়।\nCaC2 + 2H2O → HC≡CH + Ca(OH)2\nফ্লাস্কে কিছু বালি ও CaC2 টুকরো নিয়ে বিন্দুপাতী ফানেলে পানি যোগ করা হয়; গ্যাস পানির নিম্নমুখী অপসারণে সংগৃহীত হয়।\nপ্রথম দিকের গ্যাসে বায়ু মেশানো থাকে বলে তা ছেড়ে দিতে হয়।\nবিশুদ্ধিকরণ: অপদ্রব্য NH3, H2S, AsH3, PH3 – H2SO4 মিশ্রিত CuSO4 দ্রবণ দিয়ে ধুয়ে P2O5 দিয়ে শুকানো হয়।",
+   "notes_en": "CaC2 + 2H2O → C2H2 + Ca(OH)2 (hydrolysis of calcium carbide).\nWater is dripped from a dropping funnel onto CaC2 (with sand) in a flask; gas collected by downward displacement of water.\nFirst gas contains air and is discarded.\nPurification: impurities NH3, H2S, AsH3, PH3 are removed by acidified CuSO4 solution, then dried over P2O5.",
+   "mcqs": [
+    {
+     "question_bn": "পরীক্ষাগারে অ্যাসিটিলিন কোন বিক্রিয়ায় তৈরি হয়?",
+     "question_en": "Which reaction gives acetylene in the lab?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaC2 + পানি",
+       "en": "CaC2 + পানি"
+      },
+      {
+       "id": "b",
+       "bn": "CaCO3 + HCl",
+       "en": "CaCO3 + HCl"
+      },
+      {
+       "id": "c",
+       "bn": "Zn + HCl",
+       "en": "Zn + HCl"
+      },
+      {
+       "id": "d",
+       "bn": "C2H5OH + H2SO4",
+       "en": "C2H5OH + H2SO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CaC2 + 2H2O → C2H2 + Ca(OH)2।",
+     "explanation_en": "CaC2 + 2H2O → C2H2 + Ca(OH)2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CaC2 এর আর্দ্র বিশ্লেষণে ইথাইনের সঙ্গে আর কী উৎপন্ন হয়?",
+     "question_en": "What is formed with ethyne in the hydrolysis of CaC2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaO",
+       "en": "CaO"
+      },
+      {
+       "id": "b",
+       "bn": "Ca(OH)2",
+       "en": "Ca(OH)2"
+      },
+      {
+       "id": "c",
+       "bn": "CaCO3",
+       "en": "CaCO3"
+      },
+      {
+       "id": "d",
+       "bn": "CaCl2",
+       "en": "CaCl2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উপজাত ক্যালসিয়াম হাইড্রক্সাইড।",
+     "explanation_en": "Calcium hydroxide is the by-product.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাসিটিলিন বিশুদ্ধ করতে কোনটি ব্যবহৃত হয়?",
+     "question_en": "What is used to purify acetylene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2SO4 মিশ্রিত CuSO4 দ্রবণ",
+       "en": "H2SO4 মিশ্রিত CuSO4 দ্রবণ"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH দ্রবণ",
+       "en": "NaOH দ্রবণ"
+      },
+      {
+       "id": "c",
+       "bn": "কনসেন্ট্রেটেড HNO3",
+       "en": "কনসেন্ট্রেটেড HNO3"
+      },
+      {
+       "id": "d",
+       "bn": "ব্রোমিন পানি",
+       "en": "ব্রোমিন পানি"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অম্লীয় CuSO4 NH3 শোষণ করে এবং H2S, PH3, AsH3 অধঃক্ষিপ্ত করে।",
+     "explanation_en": "Acidified CuSO4 absorbs NH3 and precipitates H2S, PH3, AsH3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাসিটিলিন প্রস্তুতিতে প্রথমে নির্গত গ্যাস সংগ্রহ না করার কারণ কী?",
+     "question_en": "Why is the first gas not collected?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এতে বায়ু মেশানো থাকে",
+       "en": "এতে বায়ু মেশানো থাকে"
+      },
+      {
+       "id": "b",
+       "bn": "এটি বিষাক্ত",
+       "en": "এটি বিষাক্ত"
+      },
+      {
+       "id": "c",
+       "bn": "এটি পানিতে দ্রবীভূত",
+       "en": "এটি পানিতে দ্রবীভূত"
+      },
+      {
+       "id": "d",
+       "bn": "এতে CO2 থাকে",
+       "en": "এতে CO2 থাকে"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফ্লাস্কের বায়ু প্রথমে বের হয়ে আসে।",
+     "explanation_en": "Air in the flask comes out first.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্যাস বিশুদ্ধ করার শেষ ধাপে শুষ্ক করতে কী ব্যবহৃত হয়?",
+     "question_en": "Which drying agent is used in the last purification step?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P2O5",
+       "en": "P2O5"
+      },
+      {
+       "id": "b",
+       "bn": "CaCl2 দ্রবণ",
+       "en": "CaCl2 দ্রবণ"
+      },
+      {
+       "id": "c",
+       "bn": "H2O",
+       "en": "H2O"
+      },
+      {
+       "id": "d",
+       "bn": "CuSO4 দ্রবণ",
+       "en": "CuSO4 দ্রবণ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নির্গত গ্যাসকে নির্জল P2O5 এর ভেতর দিয়ে চালনা করা হয়।",
+     "explanation_en": "The gas is passed over anhydrous P2O5.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.20",
+   "title_bn": "অ্যালকাইনের শিল্পোৎপাদন",
+   "title_en": "Manufacture of alkyne",
+   "notes_bn": "ডাইহ্যালো অ্যালকেন থেকে দুই অণু HX অপসারণ: ভিসিনাল বা জেমিনাল ডাইহ্যালাইডকে অ্যালকোহলীয় KOH সহ উত্তপ্ত করলে অ্যালকাইন, KX ও পানি পাওয়া যায়।\nR–CHX–CH2X + 2KOH(alc) → R–C≡CH + 2KX + 2H2O\nউদাহরণ: ইথিলিন + Br2 (CCl4) → 1,2-ডাইব্রোমো ইথেন; এরপর অ্যালকোহলীয় KOH → অ্যাসিটিলিন + 2KBr + 2H2O।",
+   "notes_en": "Dehydrohalogenation (loss of 2 HX) of vicinal or geminal dihalides with alcoholic KOH gives alkynes.\nExample: ethylene + Br2 → 1,2-dibromoethane; then 2KOH (alc.) → HC≡CH + 2KBr + 2H2O.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকাইন প্রস্তুতিতে ডাইহ্যালাইডের সঙ্গে কোন বিকারক ব্যবহৃত হয়?",
+     "question_en": "Which reagent converts a dihalide to an alkyne?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জলীয় NaOH",
+       "en": "জলীয় NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালকোহলীয় KOH",
+       "en": "অ্যালকোহলীয় KOH"
+      },
+      {
+       "id": "c",
+       "bn": "লঘু H2SO4",
+       "en": "লঘু H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "Zn গুঁড়া",
+       "en": "Zn গুঁড়া"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যালকোহলীয় KOH দুই অণু HX অপসারণ করে।",
+     "explanation_en": "Alcoholic KOH removes two HX.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "1,2-ডাইব্রোমো ইথেন + 2KOH(alc) থেকে কী পাওয়া যায়?",
+     "question_en": "1,2-dibromoethane + 2KOH(alc) gives—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথিলিন",
+       "en": "ইথিলিন"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসিটিলিন",
+       "en": "অ্যাসিটিলিন"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "d",
+       "bn": "ইথেন",
+       "en": "ইথেন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুই অণু HBr অপসারিত হয়ে HC≡CH উৎপন্ন হয়।",
+     "explanation_en": "Two HBr are eliminated to give HC≡CH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথিলিন থেকে অ্যাসিটিলিনের ধাপ দুটি কী?",
+     "question_en": "What are the two steps from ethylene to acetylene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Br2 যোগ, তারপর alc. KOH",
+       "en": "Br2 যোগ, তারপর alc. KOH"
+      },
+      {
+       "id": "b",
+       "bn": "HCl যোগ, তারপর Zn",
+       "en": "HCl যোগ, তারপর Zn"
+      },
+      {
+       "id": "c",
+       "bn": "H2 যোগ, তারপর KOH",
+       "en": "H2 যোগ, তারপর KOH"
+      },
+      {
+       "id": "d",
+       "bn": "ওজোন যোগ, তারপর পানি",
+       "en": "ওজোন যোগ, তারপর পানি"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রথমে 1,2-ডাইব্রোমো ইথেন, পরে HBr অপসারণ।",
+     "explanation_en": "First 1,2-dibromoethane, then HBr removal.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1 মোল ডাইহ্যালাইড থেকে অ্যালকাইন তৈরিতে কত মোল KOH লাগে?",
+     "question_en": "How many moles of KOH are needed per mole of dihalide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুই অণু HX অপসারণে 2KOH লাগে।",
+     "explanation_en": "2 KOH for removing 2 HX.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.21",
+   "title_bn": "অ্যালকাইনের ভৌত ধর্ম",
+   "title_en": "Physical properties of alkynes",
+   "notes_bn": "প্রথম তিনটি সদস্য (C2–C4) গ্যাস; C5–C12 তরল; এরপর কঠিন। বর্ণহীন ও গন্ধহীন।\nপানিতে কার্যত অদ্রবণীয়, জৈব দ্রাবকে দ্রবণীয়।\nগলনাঙ্ক ও স্ফুটনাঙ্ক সমসংখ্যক কার্বনের অ্যালকেন ও অ্যালকিনের চেয়ে একটু বেশি।\nঘনত্ব আণবিক ভরের সঙ্গে বাড়ে; পানির চেয়ে হালকা, তবে অ্যালকেন ও অ্যালকিনের চেয়ে একটু বেশি।",
+   "notes_en": "First three (C2–C4) gases; C5–C12 liquids; higher solids; colourless, odourless.\nPractically insoluble in water; soluble in organic solvents.\nm.p. and b.p. slightly higher than alkanes/alkenes with equal carbon number.\nDensity rises with molar mass; lighter than water but slightly denser than alkanes and alkenes.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকাইনের কোন সদস্যগুলো গ্যাসীয়?",
+     "question_en": "Which alkynes are gases?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C2–C4",
+       "en": "C2–C4"
+      },
+      {
+       "id": "b",
+       "bn": "C5–C8",
+       "en": "C5–C8"
+      },
+      {
+       "id": "c",
+       "bn": "C10–C12",
+       "en": "C10–C12"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলো",
+       "en": "সবগুলো"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রথম তিনটি সদস্য গ্যাস।",
+     "explanation_en": "First three members are gases.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকাইন পানিতে কেমন?",
+     "question_en": "How do alkynes behave in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সহজে দ্রবণীয়",
+       "en": "সহজে দ্রবণীয়"
+      },
+      {
+       "id": "b",
+       "bn": "কার্যত অদ্রবণীয়",
+       "en": "কার্যত অদ্রবণীয়"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়া করে",
+       "en": "বিক্রিয়া করে"
+      },
+      {
+       "id": "d",
+       "bn": "দ্রবণীয় ও অম্লীয়",
+       "en": "দ্রবণীয় ও অম্লীয়"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পানিতে অদ্রবণীয়, জৈব দ্রাবকে দ্রবণীয়।",
+     "explanation_en": "Insoluble in water, soluble in organic solvents.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সমান কার্বনযুক্ত যৌগের মধ্যে কার স্ফুটনাঙ্ক সবচেয়ে বেশি?",
+     "question_en": "Among compounds of equal carbon number, which has the highest boiling point?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকেন",
+       "en": "অ্যালকেন"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালকিন",
+       "en": "অ্যালকিন"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকাইন",
+       "en": "অ্যালকাইন"
+      },
+      {
+       "id": "d",
+       "bn": "সবার সমান",
+       "en": "সবার সমান"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অ্যালকাইনের স্ফুটনাঙ্ক অ্যালকেন ও অ্যালকিন থেকে একটু বেশি।",
+     "explanation_en": "Alkynes boil slightly higher than alkanes and alkenes.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকাইনের তরল সদস্যগুলোর কার্বন সংখ্যা কত?",
+     "question_en": "What carbon range are the liquid alkynes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C2–C4",
+       "en": "C2–C4"
+      },
+      {
+       "id": "b",
+       "bn": "C5–C12",
+       "en": "C5–C12"
+      },
+      {
+       "id": "c",
+       "bn": "C13–C20",
+       "en": "C13–C20"
+      },
+      {
+       "id": "d",
+       "bn": "C1–C3",
+       "en": "C1–C3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C5 থেকে C12 তরল।",
+     "explanation_en": "C5–C12 are liquids.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "5.22",
+   "title_bn": "অ্যালকাইনের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of alkynes",
+   "notes_bn": "ত্রিবন্ধন = ১টি σ + ২টি π। তবু অ্যালকাইন ইলেকট্রোফিলের প্রতি অ্যালকিনের চেয়ে কম সক্রিয়, কারণ sp সংকরিত কার্বনের s-চরিত্র বেশি বলে π ইলেকট্রন নিউক্লিয়াসের কাছে শক্তভাবে আবদ্ধ।\nযুত বিক্রিয়া দুধাপে: প্রথমে অ্যালকিন, পরে অ্যালকেন (বিকারক দ্বিগুণ লাগে)।\nH2: Ni/150–180°C এ ইথাইন → ইথিন → ইথেন; Pd/BaSO4 এ 25°C এ থামে ইথিনে।\nX2: ডাইহ্যালাইড, পরে টেট্রাহ্যালাইড (ব্রোমিন দ্রবণের লাল রং দূর)।\nHX: মারকনিকভ নিয়মে ভিনাইল ক্লোরাইড, পরে জেম-ডাইহ্যালাইড (HgCl2, 200–250°C)।\nHOX: ইনল হয়ে ডাইহ্যালো কিটোন/অ্যালডিহাইড।\nপানি (2% Hg2+, 20% H2SO4, 60–75°C): ইথাইন → ইথানাল; প্রোপাইন → অ্যাসিটোন।\nKOH/180°C এ অ্যালকোহল দিয়ে ভিনাইল ইথার; অ্যাসিটিক এসিড দিয়ে ভিনাইল অ্যাসিটেট (ভাইনাইলেশন)।\nজারণ: KMnO4 এ ত্রিবন্ধন ভেঙে কার্বক্সিলিক এসিড (অ্যালকাইন-1 → RCOOH + CO2; ইথাইন → অক্সালিক এসিড); ওজোনিঅলাইসিস: ত্রিবন্ধনের অবস্থান নির্ণয়।\nপলিমারকরণ: Cu2Cl2/NH4Cl এ ভিনাইল অ্যাসিটিলিন; 3HC≡CH → C6H6 (400–500°C/450°C)।",
+   "notes_en": "Triple bond = 1 sigma + 2 pi; alkynes are less reactive than alkenes towards electrophiles because high s-character of sp carbons holds the pi electrons tightly.\nAddition occurs in two stages (alkene then alkane) and needs twice the reagent.\nH2: Ni 150–180°C gives ethene then ethane; Pd/BaSO4 at 25°C stops at ethene.\nX2: dihalide then tetrahalide; HX: Markovnikov, giving vinyl halide then gem-dihalide; HOX via enol.\nHydration (2% Hg2+, 20% H2SO4, 60–75°C): ethyne gives ethanal; propyne gives acetone.\nAlcohols/acids add to acetylene giving vinyl ethers/esters (vinylation).\nOxidation with KMnO4 cleaves the triple bond to acids; ozonolysis locates the triple bond.\nPolymerisation: vinyl acetylene (Cu2Cl2/NH4Cl); benzene from 3 C2H2 at ~450°C.",
+   "mcqs": [
+    {
+     "question_bn": "পানি যুক্ত করলে অ্যাসিটিলিন থেকে কী উৎপন্ন হয়? (Hg2+/H2SO4)",
+     "question_en": "What does acetylene give on hydration (Hg2+/H2SO4)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানাল",
+       "en": "ইথানাল"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসিটোন",
+       "en": "অ্যাসিটোন"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিলিন গ্লাইকল",
+       "en": "ইথিলিন গ্লাইকল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইথাইন → ভিনাইল অ্যালকোহল → অ্যাসিটালডিহাইড (ইথানাল)।",
+     "explanation_en": "Ethyne → vinyl alcohol → acetaldehyde (ethanal).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রোপাইনের হাইড্রেশনে কোন যৌগ পাওয়া যায়?",
+     "question_en": "Hydration of propyne gives—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোপানাল",
+       "en": "প্রোপানাল"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসিটোন",
+       "en": "অ্যাসিটোন"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপানল-1",
+       "en": "প্রোপানল-1"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোপিলিন গ্লাইকল",
+       "en": "প্রোপিলিন গ্লাইকল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মিথাইল ভিনাইল অ্যালকোহল পুনর্বিন্যাসে অ্যাসিটোন দেয়।",
+     "explanation_en": "Rearrangement of methyl vinyl alcohol gives acetone.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন প্রভাবকে অ্যাসিটিলিন + H2 বিক্রিয়া ইথিলিনে থামে?",
+     "question_en": "Which catalyst stops acetylene hydrogenation at ethene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ni",
+       "en": "Ni"
+      },
+      {
+       "id": "b",
+       "bn": "Pd ও BaSO4",
+       "en": "Pd ও BaSO4"
+      },
+      {
+       "id": "c",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "d",
+       "bn": "Cr2O3",
+       "en": "Cr2O3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "BaSO4 বিষরূপে Pd এর ক্ষমতা কমিয়ে বিক্রিয়া প্রথম ধাপে থামায়।",
+     "explanation_en": "BaSO4 poisons Pd, halting at the first stage.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাসিটিলিন + 2Br2 (CCl4) এর উৎপাদ কোনটি?",
+     "question_en": "Product of acetylene + 2Br2 (CCl4)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1,2-ডাইব্রোমো ইথিন",
+       "en": "1,2-ডাইব্রোমো ইথিন"
+      },
+      {
+       "id": "b",
+       "bn": "1,1,2,2-টেট্রাব্রোমো ইথেন",
+       "en": "1,1,2,2-টেট্রাব্রোমো ইথেন"
+      },
+      {
+       "id": "c",
+       "bn": "ব্রোমো ইথেন",
+       "en": "ব্রোমো ইথেন"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিলিন ব্রোমাইড",
+       "en": "ইথিলিন ব্রোমাইড"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুই ধাপে টেট্রাব্রোমাইড (CHBr2–CHBr2) হয়।",
+     "explanation_en": "Two steps give CHBr2–CHBr2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্ষারীয় KMnO4 দ্বারা ইথাইন জারিত হলে কী উৎপন্ন হয়?",
+     "question_en": "Oxidation of ethyne by alkaline KMnO4 gives—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অক্সালিক এসিড",
+       "en": "অক্সালিক এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "ফরমিক এসিড",
+       "en": "ফরমিক এসিড"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসিটিক এসিড",
+       "en": "অ্যাসিটিক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটোন",
+       "en": "অ্যাসিটোন"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HOOC–COOH (ইথেন ডাইওয়িক এসিড) উৎপন্ন হয়।",
+     "explanation_en": "Oxalic acid (ethanedioic acid) forms.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ওজোনাইডের আর্দ্র বিশ্লেষণে শুধু ইথানোয়িক এসিড পাওয়া গেলে মূল অ্যালকাইন কোনটি?",
+     "question_en": "If ozonolysis gives only ethanoic acid, the alkyne is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিউটাইন-1",
+       "en": "বিউটাইন-1"
+      },
+      {
+       "id": "b",
+       "bn": "বিউটাইন-2",
+       "en": "বিউটাইন-2"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপাইন",
+       "en": "প্রোপাইন"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইন",
+       "en": "ইথাইন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিউটাইন-2 ভেঙে 2 অণু CH3COOH দেয়।",
+     "explanation_en": "Butyne-2 gives two molecules of CH3COOH.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.23",
+   "title_bn": "অ্যালকাইন-1 যেমন, ইথাইন এর অম্লধর্মিতা",
+   "title_en": "Acidic character of alkyne-1 and ethyne",
+   "notes_bn": "ত্রিবন্ধনযুক্ত কার্বনের H পরমাণু সামান্য অম্লধর্মী; কেবল অ্যালকাইন-1 (–C≡C–H) এ আছে।\nকারণ: ইথেন → ইথিলিন → অ্যাসিটিলিনে C–H বন্ধনে s-চরিত্র বাড়ে (sp3, sp2, sp), তাই H+ ছাড়ার ক্ষমতা বাড়ে।\nতরল NH3 এ Na সহ বিক্রিয়ায় সোডিয়াম অ্যাসিটিলাইড + H2।\nAg(NH3)2NO3 এর সাথে সিলভার অ্যাসিটিলাইডের সাদা অধঃক্ষেপ; Cu(NH3)2Cl এর সাথে কপার অ্যাসিটিলাইডের লাল অধঃক্ষেপ।\nউদাহরণ: HC≡CH + 2Ag(NH3)2NO3 → AgC≡CAg + 2NH4NO3 + 2NH3।",
+   "notes_en": "Only the H on a triple-bonded carbon (alkyne-1, –C≡C–H) is weakly acidic; s-character in C–H rises from alkane to alkene to alkyne.\nWith Na in liquid NH3: sodium acetylide + H2.\nAmmoniacal AgNO3 gives white silver acetylide; ammoniacal Cu2Cl2 gives red copper acetylide.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যাসিটিলিন অম্লধর্মী কেন?",
+     "question_en": "Why is acetylene acidic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp কার্বনে s-চরিত্র বেশি, তাই C–H এর H সহজে প্রোটন হিসেবে যায়",
+       "en": "sp কার্বনে s-চরিত্র বেশি, তাই C–H এর H সহজে প্রোটন হিসেবে যায়"
+      },
+      {
+       "id": "b",
+       "bn": "দ্বিবন্ধন আছে",
+       "en": "দ্বিবন্ধন আছে"
+      },
+      {
+       "id": "c",
+       "bn": "অক্সিজেন আছে",
+       "en": "অক্সিজেন আছে"
+      },
+      {
+       "id": "d",
+       "bn": "সংকরণ sp3",
+       "en": "সংকরণ sp3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "s-চরিত্র বৃদ্ধিতে প্রোটন-দান ক্ষমতা বাড়ে।",
+     "explanation_en": "Higher s-character increases proton-donating ability.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাসিটিলিন + অ্যামোনিয়াযুক্ত AgNO3 এ কী দেখা যায়?",
+     "question_en": "Acetylene + ammoniacal AgNO3 shows—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা অধঃক্ষেপ",
+       "en": "সাদা অধঃক্ষেপ"
+      },
+      {
+       "id": "b",
+       "bn": "লাল অধঃক্ষেপ",
+       "en": "লাল অধঃক্ষেপ"
+      },
+      {
+       "id": "c",
+       "bn": "নীল রং",
+       "en": "নীল রং"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন নয়",
+       "en": "কোনো পরিবর্তন নয়"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সাদা সিলভার অ্যাসিটিলাইড।",
+     "explanation_en": "White silver acetylide ppt.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যামোনিয়াযুক্ত Cu2Cl2 এর সঙ্গে ইথাইনের বিক্রিয়ায় অধঃক্ষেপের রং কী?",
+     "question_en": "Colour of ppt from ethyne + ammoniacal Cu2Cl2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা",
+       "en": "সাদা"
+      },
+      {
+       "id": "b",
+       "bn": "লাল",
+       "en": "লাল"
+      },
+      {
+       "id": "c",
+       "bn": "কালো",
+       "en": "কালো"
+      },
+      {
+       "id": "d",
+       "bn": "নীল",
+       "en": "নীল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কপার অ্যাসিটিলাইড লাল বর্ণের।",
+     "explanation_en": "Copper acetylide is red.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "তরল NH3 এ Na সহ ইথাইনের বিক্রিয়ায় গ্যাসীয় উপজাত কী?",
+     "question_en": "Gaseous by-product of ethyne + Na in liq. NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O2",
+       "en": "O2"
+      },
+      {
+       "id": "b",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "c",
+       "bn": "CO2",
+       "en": "CO2"
+      },
+      {
+       "id": "d",
+       "bn": "N2",
+       "en": "N2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সোডিয়াম অ্যাসিটিলাইডের সাথে H2 উৎপন্ন হয়।",
+     "explanation_en": "H2 is released along with sodium acetylide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি অম্লধর্ম দেখায়?",
+     "question_en": "Which shows acidic behaviour with ammoniacal AgNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিউটাইন-2",
+       "en": "বিউটাইন-2"
+      },
+      {
+       "id": "b",
+       "bn": "বিউটাইন-1",
+       "en": "বিউটাইন-1"
+      },
+      {
+       "id": "c",
+       "bn": "বিউটিন-1",
+       "en": "বিউটিন-1"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটেন",
+       "en": "বিউটেন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শুধু টার্মিনাল ≡C–H যুক্ত অ্যালকাইন-1।",
+     "explanation_en": "Only terminal alkyne-1 with ≡C–H.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.24",
+   "title_bn": "অ্যালকাইনের ব্যবহার",
+   "title_en": "Uses of alkyne",
+   "notes_bn": "অক্সি-অ্যাসিটিলিন শিখা ধাতু গলানো ও জোড়া দেওয়ায় ব্যবহৃত; তাপমাত্রা প্রায় 3500°C; 2C2H2 + 5O2 → 4CO2 + 2H2O + তাপ।\nকৃত্রিম রাবার, প্লাস্টিক উৎপাদন; অ্যাসিটালডিহাইড, অ্যাসিটিক এসিড, অক্সালিক এসিড, টেট্রাক্লোরো ইথেন প্রস্তুতিতে প্রারম্ভিক পদার্থ।\nজ্বালানি হিসেবেও ব্যবহৃত।",
+   "notes_en": "Oxy-acetylene flame (~3500°C) for welding/cutting metals; 2C2H2 + 5O2 → 4CO2 + 2H2O + heat.\nUsed for synthetic rubber, plastics, acetaldehyde, acetic acid, oxalic acid, tetrachloroethane; also as fuel.",
+   "mcqs": [
+    {
+     "question_bn": "অক্সি-অ্যাসিটিলিন শিখার তাপমাত্রা কত?",
+     "question_en": "Temperature of oxy-acetylene flame?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রায় 1000°C",
+       "en": "প্রায় 1000°C"
+      },
+      {
+       "id": "b",
+       "bn": "প্রায় 2000°C",
+       "en": "প্রায় 2000°C"
+      },
+      {
+       "id": "c",
+       "bn": "প্রায় 3500°C",
+       "en": "প্রায় 3500°C"
+      },
+      {
+       "id": "d",
+       "bn": "প্রায় 5000°C",
+       "en": "প্রায় 5000°C"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "প্রায় 3500°C।",
+     "explanation_en": "About 3500°C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাসিটিলিনের ব্যবহার কোনটি?",
+     "question_en": "Which is a use of acetylene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ধাতু জোড়া",
+       "en": "ধাতু জোড়া"
+      },
+      {
+       "id": "b",
+       "bn": "ফল পাকানো",
+       "en": "ফল পাকানো"
+      },
+      {
+       "id": "c",
+       "bn": "চেতনানাশক",
+       "en": "চেতনানাশক"
+      },
+      {
+       "id": "d",
+       "bn": "সার",
+       "en": "সার"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অক্সি-অ্যাসিটিলিন শিখা ধাতু জোড়ায়।",
+     "explanation_en": "Oxy-acetylene flame welds metals.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাসিটিলিনের পূর্ণ দহনের সমীকরণে O2 এর সহগ (2C2H2 + ? O2)?",
+     "question_en": "Coefficient of O2 in 2C2H2 + ?O2 → 4CO2 + 2H2O?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "7",
+       "en": "7"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "O পরমাণু 8+2=10, তাই 5O2।",
+     "explanation_en": "Total O = 8+2 = 10, so 5 O2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অক্সি-অ্যাসিটিলিন শিখার বর্ণ কেমন?",
+     "question_en": "Flame colour of oxy-acetylene?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নীলাভ শিখা",
+       "en": "নীলাভ শিখা"
+      },
+      {
+       "id": "b",
+       "bn": "কালো ধোঁয়া",
+       "en": "কালো ধোঁয়া"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ",
+       "en": "হলুদ"
+      },
+      {
+       "id": "d",
+       "bn": "লাল",
+       "en": "লাল"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নীলাভ শিখা উৎপন্ন হয়।",
+     "explanation_en": "A bluish flame forms.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.25",
+   "title_bn": "অ্যালকাইন-1 ও অ্যালকাইন-2 এর মধ্যে পার্থক্যকরণ",
+   "title_en": "Distinguishing alkyne-1 from alkyne-2",
+   "notes_bn": "অ্যালকাইন-1 (যেমন ইথাইন, প্রোপাইন, বিউটাইন-1) এর ত্রিবন্ধনযুক্ত কার্বনে H থাকে; অ্যালকাইন-2 (যেমন বিউটাইন-2) এ থাকে না।\nপরীক্ষা ১: অ্যামোনিয়াযুক্ত AgNO3 — বিউটাইন-1 এ সাদা অধঃক্ষেপ, বিউটাইন-2 এ নয়।\nপরীক্ষা ২: অ্যামোনিয়াযুক্ত Cu2Cl2 — বিউটাইন-1 এ লাল অধঃক্ষেপ, বিউটাইন-2 এ নয়।",
+   "notes_en": "Alkyne-1 has H on a triple-bonded carbon; alkyne-2 does not.\nAmmoniacal AgNO3: white ppt with butyne-1, none with butyne-2.\nAmmoniacal Cu2Cl2: red ppt with butyne-1, none with butyne-2.",
+   "mcqs": [
+    {
+     "question_bn": "বিউটাইন-1 ও বিউটাইন-2 পার্থক্য করতে কোনটি ব্যবহার করবে?",
+     "question_en": "Which reagent distinguishes butyne-1 from butyne-2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ব্রোমিন পানি",
+       "en": "ব্রোমিন পানি"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামোনিয়াযুক্ত AgNO3",
+       "en": "অ্যামোনিয়াযুক্ত AgNO3"
+      },
+      {
+       "id": "c",
+       "bn": "লঘু H2SO4",
+       "en": "লঘু H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "ক্ষারীয় KMnO4",
+       "en": "ক্ষারীয় KMnO4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শুধু বিউটাইন-1 সাদা অধঃক্ষেপ দেয়।",
+     "explanation_en": "Only butyne-1 gives a white ppt.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বিউটাইন-2 অ্যামোনিয়াযুক্ত Cu2Cl2 এর সঙ্গে কী দেয়?",
+     "question_en": "Butyne-2 with ammoniacal Cu2Cl2 gives—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল অধঃক্ষেপ",
+       "en": "লাল অধঃক্ষেপ"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা অধঃক্ষেপ",
+       "en": "সাদা অধঃক্ষেপ"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো বিক্রিয়া নেই",
+       "en": "কোনো বিক্রিয়া নেই"
+      },
+      {
+       "id": "d",
+       "bn": "নীল দ্রবণ",
+       "en": "নীল দ্রবণ"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "টার্মিনাল H না থাকায় বিক্রিয়া হয় না।",
+     "explanation_en": "No terminal H so no reaction.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি অ্যামোনিয়াযুক্ত AgNO3 এর সঙ্গে সাদা অধঃক্ষেপ দেয়?",
+     "question_en": "Which gives white ppt with ammoniacal AgNO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3C≡CCH3",
+       "en": "CH3C≡CCH3"
+      },
+      {
+       "id": "b",
+       "bn": "CH3CH2C≡CH",
+       "en": "CH3CH2C≡CH"
+      },
+      {
+       "id": "c",
+       "bn": "CH3CH=CHCH3",
+       "en": "CH3CH=CHCH3"
+      },
+      {
+       "id": "d",
+       "bn": "CH3CH2CH2CH3",
+       "en": "CH3CH2CH2CH3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিউটাইন-1 এ ≡C–H আছে।",
+     "explanation_en": "Butyne-1 has ≡C–H.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যালকাইন-1 ও অ্যালকাইন-2 এর পার্থক্যের মূল কারণ কী?",
+     "question_en": "What is the basis of the difference?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ত্রিবন্ধনযুক্ত কার্বনে H এর উপস্থিতি",
+       "en": "ত্রিবন্ধনযুক্ত কার্বনে H এর উপস্থিতি"
+      },
+      {
+       "id": "b",
+       "bn": "কার্বন সংখ্যা",
+       "en": "কার্বন সংখ্যা"
+      },
+      {
+       "id": "c",
+       "bn": "আণবিক ভর",
+       "en": "আণবিক ভর"
+      },
+      {
+       "id": "d",
+       "bn": "শাখা",
+       "en": "শাখা"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "≡C–H এর অম্লধর্মিতা।",
+     "explanation_en": "Acidity of ≡C–H.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.26",
+   "title_bn": "অ্যালকিন-1 ও অ্যালকাইন-1 এর পার্থক্যকরণ",
+   "title_en": "Distinguishing alkene-1 from alkyne-1",
+   "notes_bn": "ব্রোমিন-CCl4: উভয়েই লাল রং দূর করে — পার্থক্য হয় না।\nবেয়ার পরীক্ষা (ক্ষারীয় KMnO4): উভয়েই বিবর্ণ/গোলাপী রং দূর করে — পার্থক্য হয় না।\nঅ্যামোনিয়াযুক্ত AgNO3: অ্যালকাইন-1 সাদা অধঃক্ষেপ; অ্যালকিন-1 বিক্রিয়াহীন।\nঅ্যামোনিয়াযুক্ত Cu2Cl2: অ্যালকাইন-1 লাল অধঃক্ষেপ; অ্যালকিন-1 বিক্রিয়াহীন।",
+   "notes_en": "Bromine/CCl4 and Baeyer's reagent do not distinguish them (both decolourise).\nAmmoniacal AgNO3 (white ppt) and ammoniacal Cu2Cl2 (red ppt) are positive only for alkyne-1.",
+   "mcqs": [
+    {
+     "question_bn": "ইথিন ও ইথাইন কোন বিকারক দিয়ে আলাদা করা যায়?",
+     "question_en": "Which reagent distinguishes ethene from ethyne?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Br2/CCl4",
+       "en": "Br2/CCl4"
+      },
+      {
+       "id": "b",
+       "bn": "বেয়ার বিকারক",
+       "en": "বেয়ার বিকারক"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামোনিয়াযুক্ত AgNO3",
+       "en": "অ্যামোনিয়াযুক্ত AgNO3"
+      },
+      {
+       "id": "d",
+       "bn": "H2/Ni",
+       "en": "H2/Ni"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "শুধু ইথাইন সাদা অধঃক্ষেপ দেয়।",
+     "explanation_en": "Only ethyne gives a white ppt.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ব্রোমিন-CCl4 দ্রবণ ইথিন ও ইথাইন উভয়ের সাথে কী করে?",
+     "question_en": "How does Br2/CCl4 respond to both ethene and ethyne?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল রং দূর হয়",
+       "en": "লাল রং দূর হয়"
+      },
+      {
+       "id": "b",
+       "bn": "অধঃক্ষেপ",
+       "en": "অধঃক্ষেপ"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো পরিবর্তন নেই",
+       "en": "কোনো পরিবর্তন নেই"
+      },
+      {
+       "id": "d",
+       "bn": "সবুজ হয়",
+       "en": "সবুজ হয়"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুটোই অসম্পৃক্ত বলে বর্ণহীন হয়।",
+     "explanation_en": "Both are unsaturated and decolourise it.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্ষারীয় KMnO4 এর গোলাপী রং বিবর্ণ করে—",
+     "question_en": "Alkaline KMnO4 pink colour is discharged by—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুধু ইথিন",
+       "en": "শুধু ইথিন"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু ইথাইন",
+       "en": "শুধু ইথাইন"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিন ও ইথাইন উভয়ে",
+       "en": "ইথিন ও ইথাইন উভয়ে"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "কোনোটিই নয়"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বেয়ার পরীক্ষা অসম্পৃক্ততার সাধারণ পরীক্ষা।",
+     "explanation_en": "Baeyer's test is a general unsaturation test.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কপার অ্যাসিটিলাইড অধঃক্ষেপ কী রঙের?",
+     "question_en": "Colour of the copper acetylide ppt?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল",
+       "en": "লাল"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা",
+       "en": "সাদা"
+      },
+      {
+       "id": "c",
+       "bn": "কালো",
+       "en": "কালো"
+      },
+      {
+       "id": "d",
+       "bn": "হলুদ",
+       "en": "হলুদ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "লাল অধঃক্ষেপ।",
+     "explanation_en": "Red ppt.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "5.22",
+   "stimulus_bn": "একটি গ্যাসীয় যৌগ X পরীক্ষাগারে CaC2 ও পানি থেকে প্রস্তুত করা হলো। X লাল ব্রোমিন-CCl4 দ্রবণকে বর্ণহীন করে এবং অ্যামোনিয়াযুক্ত AgNO3 এ সাদা অধঃক্ষেপ দেয়।",
+   "stimulus_en": "Gas X is made in the lab from CaC2 and water. It decolourises red Br2/CCl4 and gives a white ppt with ammoniacal AgNO3.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "X এর নাম কী?",
+     "question_en": "Name X.",
+     "model_answer_bn": "ইথাইন বা অ্যাসিটিলিন।",
+     "model_answer_en": "Ethyne (acetylene)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "X প্রস্তুতির সমীকরণ লেখো এবং কীভাবে বিশুদ্ধ করা হয় ব্যাখ্যা করো।",
+     "question_en": "Write the preparation equation and explain purification.",
+     "model_answer_bn": "CaC2 + 2H2O → C2H2 + Ca(OH)2। অম্লীয় CuSO4 দ্রবণ দিয়ে NH3, H2S, PH3, AsH3 সরিয়ে P2O5 দিয়ে শুকানো হয়।",
+     "model_answer_en": "CaC2 + 2H2O → C2H2 + Ca(OH)2; acidified CuSO4 removes NH3, H2S, PH3, AsH3; then dried over P2O5."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "X এ অতিরিক্ত ব্রোমিন বিক্রিয়ার উৎপাদ ও সমীকরণ লেখো।",
+     "question_en": "Give the product and equation of X with excess bromine.",
+     "model_answer_bn": "HC≡CH + 2Br2 → CHBr2–CHBr2 (1,1,2,2-টেট্রাব্রোমো ইথেন); প্রথমে ইথাইন ডাইব্রোমাইড হয়।",
+     "model_answer_en": "HC≡CH + 2Br2 → CHBr2–CHBr2 (1,1,2,2-tetrabromoethane), via ethyne dibromide."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "X ও ইথিলিনের মধ্যে কোন পরীক্ষায় পার্থক্য করা যায়? ব্যাখ্যা করো এবং X এর অম্লধর্মিতার কারণ দাও।",
+     "question_en": "Which test distinguishes X from ethylene? Explain and give the reason for X's acidity.",
+     "model_answer_bn": "অ্যামোনিয়াযুক্ত AgNO3 বা Cu2Cl2 পরীক্ষা; X সাদা/লাল অধঃক্ষেপ দেয়, ইথিলিন দেয় না। sp কার্বনে s-চরিত্র বেশি বলে C–H এর H অম্লীয়।",
+     "model_answer_en": "Ammoniacal AgNO3 or Cu2Cl2 test; X gives white/red ppt, ethylene does not. Higher s-character of sp carbon makes the C–H acidic."
+    }
+   ]
+  },
+  {
+   "topic_section": "5.15",
+   "stimulus_bn": "প্রোপিনের সঙ্গে HBr বিক্রিয়া করানো হলো—একবার সাধারণ অবস্থায় এবং একবার সামান্য পারঅক্সাইডের উপস্থিতিতে।",
+   "stimulus_en": "Propene is reacted with HBr, once normally and once in the presence of a trace of peroxide.",
+   "difficulty": "hard",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "মারকনিকভের নিয়ম কী?",
+     "question_en": "State Markovnikov's rule.",
+     "model_answer_bn": "অপ্রতিসম অ্যালকিনে অপ্রতিসম বিকারক যুক্ত হলে বিকারকের ঋণাত্মক অংশ কম H-যুক্ত কার্বনে যুক্ত হয়।",
+     "model_answer_en": "In addition of an unsymmetrical reagent to an unsymmetrical alkene, the negative part attaches to the carbon with fewer hydrogens."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "সাধারণ অবস্থায় প্রধান উৎপাদ কী ও কেন?",
+     "question_en": "What is the main product normally and why?",
+     "model_answer_bn": "iso-প্রোপাইল ব্রোমাইড (প্রায় 90%), কারণ H+ বেশি H-যুক্ত কার্বনে যুক্ত হয়ে স্থিতিশীল 2° কার্বোক্যাটায়ন গঠন করে।",
+     "model_answer_en": "Isopropyl bromide (~90%) because H+ adds to the carbon with more H, forming a stable 2° carbocation."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "পারঅক্সাইডের উপস্থিতিতে প্রধান উৎপাদ কী? এই নিয়মটির নাম কী?",
+     "question_en": "What is the main product with peroxide and what is the effect called?",
+     "model_answer_bn": "n-প্রোপাইল ব্রোমাইড (প্রায় 99.1%); খারাসের পারঅক্সাইড প্রভাব বা বিপরীত মারকনিকভ নিয়ম।",
+     "model_answer_en": "n-propyl bromide (~99.1%); Kharasch peroxide effect / anti-Markovnikov rule."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "পারঅক্সাইড প্রভাবের কৌশল ধাপে ধাপে ব্যাখ্যা করো।",
+     "question_en": "Explain the mechanism of the peroxide effect step by step.",
+     "model_answer_bn": "১) পারঅক্সাইড থেকে RO· ফ্রি-রেডিক্যাল, তা HBr থেকে Br· তৈরি করে। ২) Br· প্রোপিনে আক্রমণ করে অধিক স্থিতিশীল 2° ফ্রি-রেডিক্যাল গঠন করে। ৩) এটি HBr থেকে H নিয়ে n-প্রোপাইল ব্রোমাইড ও নতুন Br· তৈরি করে, শৃঙ্খল চলতে থাকে।",
+     "model_answer_en": "1) Peroxide gives RO· which generates Br· from HBr. 2) Br· attacks propene forming the more stable 2° free radical. 3) It abstracts H from HBr to give n-propyl bromide and a new Br·, continuing the chain."
+    }
+   ]
+  },
+  {
+   "topic_section": "5.15",
+   "stimulus_bn": "একজন শিক্ষার্থী একটি অজানা অ্যালকিন A কে ওজোনের সাথে বিক্রিয়ায় ওজোনাইড করে Zn/H2O সহ আর্দ্র বিশ্লেষণ করে প্রোপানাল ও ফরম্যালডিহাইড পেল। অন্য একটি ইথিলিন নমুনাকে লঘু ক্ষারীয় KMnO4 এর সাথে বিক্রিয়া করানো হলো।",
+   "stimulus_en": "A student ozonises an unknown alkene A and hydrolyses with Zn/H2O, obtaining propanal and formaldehyde. Another ethylene sample is treated with cold dilute alkaline KMnO4.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ওজোনোলাইসিস কী?",
+     "question_en": "What is ozonolysis?",
+     "model_answer_bn": "অসম্পৃক্ত হাইড্রোকার্বনে ওজোন যুক্ত করে ওজোনাইড গঠন ও পরে আর্দ্র বিশ্লেষণ।",
+     "model_answer_en": "Addition of ozone to form an ozonide followed by hydrolytic cleavage."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "Zn এর ভূমিকা কী?",
+     "question_en": "What is the role of Zn?",
+     "model_answer_bn": "উৎপন্ন H2O2 কে নষ্ট করে, ফলে অ্যালডিহাইড কার্বক্সিলিক এসিডে জারিত হয় না।",
+     "model_answer_en": "It destroys H2O2 so the aldehydes are not oxidised to acids."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "A এর নাম ও গঠন নির্ণয় করো।",
+     "question_en": "Identify A.",
+     "model_answer_bn": "বিউটিন-1 (CH3CH2CH=CH2); ওজোনাইড থেকে CH3CH2CHO + HCHO পাওয়া যায়।",
+     "model_answer_en": "But-1-ene (CH3CH2CH=CH2), giving CH3CH2CHO + HCHO."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ইথিলিন + লঘু ক্ষারীয় KMnO4 এর উৎপাদ ও পর্যবেক্ষণ লেখো; এটি কোন পরীক্ষা?",
+     "question_en": "Give the product and observation of ethylene with cold dilute alkaline KMnO4; name the test.",
+     "model_answer_bn": "ইথিলিন গ্লাইকল (ইথেন-1,2-ডাইঅল) উৎপন্ন হয় এবং KMnO4 এর গোলাপী রং দূর হয়। এটি বেয়ার পরীক্ষা, অসম্পৃক্ততা শনাক্তকরণ।",
+     "model_answer_en": "Ethylene glycol (ethane-1,2-diol) forms and pink KMnO4 colour disappears. This is Baeyer's test for unsaturation."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 281-305 readable. Page 305 starts section 5.28-5.29 (outside task). Sections 5.15 notes cover mechanisms/ozonolysis/polymerisation per pages 268-278; some 5.15 MCQs not included for polymerisation detail."
+}

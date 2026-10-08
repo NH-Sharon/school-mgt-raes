@@ -1,0 +1,2229 @@
+{
+ "chapter_no": 12,
+ "topics": [
+  {
+   "section_no": "12.1",
+   "title_bn": "ভূমিকা",
+   "title_en": "Introduction",
+   "notes_bn": "প্রকৃতিতে জৈব যৌগ সাধারণত বিশুদ্ধ অবস্থায় পাওয়া যায় না; একাধিক যৌগ মিশ্রিত থাকে।\nপরীক্ষাগারে তৈরি যৌগেও অন্য উৎপাদ বা বিক্রিয়কের মিশ্রণ থাকে।\nগঠন নির্ণয়ের জন্য বিশুদ্ধিকরণ, আঙ্গিক বিশ্লেষণ, মাত্রিক বিশ্লেষণ, আণবিক ভর নির্ণয়, স্থূল ও আণবিক সংকেত এবং কার্যকরী মূলক শনাক্তকরণ দরকার।\nবিশুদ্ধ যৌগকে অপরিবর্তিত রেখে মিশ্রণ থেকে ভৌত পদ্ধতিতে আলাদা করাই বিশোধন।\nবিশোধনের ভিত্তি: কেলাস গঠন, বাষ্পীয়তা, পানিতে দ্রাব্যতা বনাম জৈব দ্রাবকে দ্রবণীয়তা, ঊর্ধ্বপাতন ইত্যাদি।",
+   "notes_en": "Natural/lab-made organic compounds occur mixed with other substances.\nStructure work needs purification, qualitative and quantitative analysis, molar mass, empirical/molecular formula and functional-group tests.\nPurification separates the compound unchanged from impurities by physical properties: crystal formation, volatility, solubility in water vs organic solvent, sublimation.",
+   "mcqs": [
+    {
+     "question_bn": "প্রকৃতিতে জৈব যৌগ সাধারণত কীভাবে পাওয়া যায়?",
+     "question_en": "How do organic compounds usually occur in nature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একক বিশুদ্ধ অবস্থায়",
+       "en": "As single pure substances"
+      },
+      {
+       "id": "b",
+       "bn": "অন্য যৌগের সঙ্গে মিশ্রিত অবস্থায়",
+       "en": "Mixed with other compounds"
+      },
+      {
+       "id": "c",
+       "bn": "কেবল গ্যাসীয় অবস্থায়",
+       "en": "Only in the gaseous state"
+      },
+      {
+       "id": "d",
+       "bn": "কেবল আয়নিক অবস্থায়",
+       "en": "Only in the ionic state"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রকৃতিতে একাধিক যৌগ মিশ্রিত থাকে।",
+     "explanation_en": "Several compounds occur mixed together.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "জৈব যৌগের বিশোধন কোন ধর্মের ওপর ভিত্তি করে করা হয়?",
+     "question_en": "Purification of organic compounds is based on which kind of properties?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ভৌত ধর্ম",
+       "en": "Physical properties"
+      },
+      {
+       "id": "b",
+       "bn": "নিউক্লীয় ধর্ম",
+       "en": "Nuclear properties"
+      },
+      {
+       "id": "c",
+       "bn": "কেবল তড়িৎ ধর্ম",
+       "en": "Only electrical properties"
+      },
+      {
+       "id": "d",
+       "bn": "রাসায়নিক বিক্রিয়ায় যৌগ নষ্ট করা",
+       "en": "Destroying the compound chemically"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "যৌগকে অপরিবর্তিত রেখে ভৌত পদ্ধতিতে পৃথক করা হয়।",
+     "explanation_en": "The compound is separated unchanged by physical methods.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি বিশোধনের ভিত্তি নয়?",
+     "question_en": "Which is NOT a basis of purification?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কেলাস গঠন",
+       "en": "Crystal formation"
+      },
+      {
+       "id": "b",
+       "bn": "বাষ্পীয়তা",
+       "en": "Volatility"
+      },
+      {
+       "id": "c",
+       "bn": "ঊর্ধ্বপাতন",
+       "en": "Sublimation"
+      },
+      {
+       "id": "d",
+       "bn": "যৌগের রাসায়নিক পরিবর্তন ঘটানো",
+       "en": "Chemically changing the compound"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "বিশোধনে নির্দিষ্ট যৌগ অপরিবর্তিত থাকে।",
+     "explanation_en": "The target compound must remain unchanged.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি বিশোধন পদ্ধতি নয়, বরং গঠন নির্ণয়ের ধাপ?",
+     "question_en": "Which is a structure-determination step rather than a purification method?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কেলাসন",
+       "en": "Crystallisation"
+      },
+      {
+       "id": "b",
+       "bn": "পাতন",
+       "en": "Distillation"
+      },
+      {
+       "id": "c",
+       "bn": "স্থূল সংকেত নির্ণয়",
+       "en": "Finding the empirical formula"
+      },
+      {
+       "id": "d",
+       "bn": "ঊর্ধ্বপাতন",
+       "en": "Sublimation"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "স্থূল ও আণবিক সংকেত নির্ণয় গঠন নির্ণয়ের ধাপ, বিশোধন পদ্ধতি নয়।",
+     "explanation_en": "Empirical formula is a structure-determination step, not a purification method.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.2",
+   "title_bn": "জৈব যৌগের বিশোধন",
+   "title_en": "Purification of organic compounds",
+   "notes_bn": "কঠিন যৌগ: কেলাসন, আংশিক কেলাসন, ঊর্ধ্বপাতন, বাষ্প পাতন, দ্রাবক নিষ্কাশন।\nতরল যৌগ: পাতন, আংশিক পাতন, বাষ্প পাতন, নিম্নচাপ পাতন, দ্রাবক নিষ্কাশন।\nগ্যাসীয় যৌগ: শোষণ পদ্ধতি এবং তরলীকরণ ও পাতন।\nএছাড়া ক্রোমাটোগ্রাফি দিয়েও পৃথকীকরণ, বিশোধন ও শনাক্তকরণ করা হয়।",
+   "notes_en": "Solids: crystallisation, fractional crystallisation, sublimation, steam distillation, solvent extraction.\nLiquids: distillation, fractional, steam, reduced-pressure distillation, solvent extraction.\nGases: absorption; liquefaction and distillation.\nChromatography also separates, purifies and identifies compounds.",
+   "mcqs": [
+    {
+     "question_bn": "কঠিন জৈব যৌগ বিশোধনের একটি পদ্ধতি কোনটি?",
+     "question_en": "Which is a method for purifying solid organic compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কেলাসন",
+       "en": "Crystallisation"
+      },
+      {
+       "id": "b",
+       "bn": "নিম্নচাপ পাতন",
+       "en": "Reduced-pressure distillation"
+      },
+      {
+       "id": "c",
+       "bn": "তরলীকরণ",
+       "en": "Liquefaction"
+      },
+      {
+       "id": "d",
+       "bn": "শোষণ পদ্ধতি",
+       "en": "Absorption method"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কেলাসন কঠিন যৌগের পদ্ধতি।",
+     "explanation_en": "Crystallisation is for solids.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তরল জৈব যৌগের জন্য কোনটি প্রযোজ্য?",
+     "question_en": "Which applies to liquid compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ঊর্ধ্বপাতন",
+       "en": "Sublimation"
+      },
+      {
+       "id": "b",
+       "bn": "কেলাসন",
+       "en": "Crystallisation"
+      },
+      {
+       "id": "c",
+       "bn": "নিম্নচাপ পাতন",
+       "en": "Distillation under reduced pressure"
+      },
+      {
+       "id": "d",
+       "bn": "আংশিক কেলাসন",
+       "en": "Fractional crystallisation"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "নিম্নচাপ পাতন তরলের জন্য।",
+     "explanation_en": "Reduced-pressure distillation is for liquids.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গ্যাসীয় জৈব যৌগ বিশোধনের পদ্ধতি কোনটি?",
+     "question_en": "Which method purifies gaseous organic compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তরলীকরণ ও পাতন",
+       "en": "Liquefaction and distillation"
+      },
+      {
+       "id": "b",
+       "bn": "কেলাসন",
+       "en": "Crystallisation"
+      },
+      {
+       "id": "c",
+       "bn": "ঊর্ধ্বপাতন",
+       "en": "Sublimation"
+      },
+      {
+       "id": "d",
+       "bn": "সক্সলেট নিষ্কাশন",
+       "en": "Soxhlet extraction"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গ্যাসের ক্ষেত্রে শোষণ বা তরলীকরণ ও পাতন ব্যবহৃত হয়।",
+     "explanation_en": "For gases: absorption, or liquefaction and distillation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন পদ্ধতিটি কঠিন ও তরল উভয় প্রকার যৌগের বিশোধনে তালিকাভুক্ত?",
+     "question_en": "Which method is listed for both solids and liquids?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কেলাসন",
+       "en": "Crystallisation"
+      },
+      {
+       "id": "b",
+       "bn": "বাষ্প পাতন",
+       "en": "Steam distillation"
+      },
+      {
+       "id": "c",
+       "bn": "ঊর্ধ্বপাতন",
+       "en": "Sublimation"
+      },
+      {
+       "id": "d",
+       "bn": "আংশিক কেলাসন",
+       "en": "Fractional crystallisation"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বাষ্প পাতন এবং দ্রাবক নিষ্কাশন দুই শ্রেণির তালিকাতেই আছে।",
+     "explanation_en": "Steam distillation (and solvent extraction) appear in both lists.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.3",
+   "title_bn": "কেলাসন",
+   "title_en": "Crystallisation",
+   "notes_bn": "মূলনীতি: এমন দ্রাবক নেওয়া হয় যাতে যৌগ উষ্ণ অবস্থায় দ্রবীভূত হয় ও ঠান্ডায় অল্প দ্রবীভূত থাকে; অপদ্রব্য ভেজাল দ্রবণীয় নয় বা ঠান্ডায়ও দ্রবীভূত থাকে।\nদ্রাবক: ইথার, পেট্রোলিয়াম ইথার, CS₂, মিথানল, ইথানল, ইথাইল অ্যাসিটেট, অ্যাসিটিক এসিড, ক্লোরোফরম, বেনজিন।\nসম্পৃক্ত দ্রবণ তৈরি → উষ্ণ অবস্থায় পরিস্রাবণ (উষ্ণপানির জ্যাকেটযুক্ত ফানেল) → শীতলকরণে কেলাস → বুকনার ফানেল ও শোষণ পাম্পে পৃথকীকরণ।\nকেলাস বিশুদ্ধ দ্রাবকে ধুয়ে নেওয়া হয়; বারবার কেলাসনে গলনাঙ্ক একই হলে যৌগ বিশুদ্ধ।\nউদাহরণ: সামুদ্রিক লবণাক্ত পানি থেকে খাদ্য লবণ (NaCl)।",
+   "notes_en": "Dissolve the solid in a solvent that dissolves it hot but poorly cold; impurities stay undissolved or stay in solution.\nMake a saturated hot solution, filter hot (jacketed funnel), cool to get crystals, separate with a Buchner funnel and suction pump.\nWash with pure cold solvent; repeat until the melting point stops changing, then the compound is pure.\nExample: table salt from sea water.",
+   "mcqs": [
+    {
+     "question_bn": "কেলাসনের জন্য আদর্শ দ্রাবকে যৌগ কেমন হওয়া উচিত?",
+     "question_en": "In an ideal crystallisation solvent the compound should be:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ঠান্ডায় ও গরমে উভয়েই খুব দ্রবণীয়",
+       "en": "Very soluble both cold and hot"
+      },
+      {
+       "id": "b",
+       "bn": "গরমে দ্রবণীয়, ঠান্ডায় অল্প দ্রবণীয়",
+       "en": "Soluble hot, sparingly soluble cold"
+      },
+      {
+       "id": "c",
+       "bn": "গরমে অদ্রবণীয়",
+       "en": "Insoluble hot"
+      },
+      {
+       "id": "d",
+       "bn": "কেবল ঠান্ডায় দ্রবণীয়",
+       "en": "Soluble only cold"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উষ্ণ অবস্থায় দ্রবীভূত হয়ে ঠান্ডায় কেলাস হিসেবে আলাদা হয়।",
+     "explanation_en": "It dissolves hot and crystallises on cooling.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কেলাসনের পর দ্রুত পরিস্রাবণ বৃদ্ধির জন্য কোন সরঞ্জাম ব্যবহার হয়?",
+     "question_en": "Which apparatus speeds filtration of crystals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লিবিগ শীতক",
+       "en": "Liebig condenser"
+      },
+      {
+       "id": "b",
+       "bn": "বুকনার ফানেল ও শোষণ পাম্প",
+       "en": "Buchner funnel and suction pump"
+      },
+      {
+       "id": "c",
+       "bn": "সক্সলেট যন্ত্র",
+       "en": "Soxhlet apparatus"
+      },
+      {
+       "id": "d",
+       "bn": "ক্লেইজেন ফ্লাস্ক",
+       "en": "Claisen flask"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নিম্নচাপে বুকনার ফানেলে পরিস্রাবণ দ্রুত হয়।",
+     "explanation_en": "Suction filtration with a Buchner funnel is faster.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উষ্ণ দ্রবণ পরিস্রাবণে উষ্ণপানির ফানেল কেন ব্যবহার হয়?",
+     "question_en": "Why is a hot-water jacketed funnel used for hot filtration?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফিল্টার কাগজে কেলাস জমা আটকাতে",
+       "en": "To prevent crystals forming on the filter paper"
+      },
+      {
+       "id": "b",
+       "bn": "দ্রাবক বাষ্প করতে",
+       "en": "To evaporate the solvent"
+      },
+      {
+       "id": "c",
+       "bn": "যৌগ ভাঙতে",
+       "en": "To decompose the compound"
+      },
+      {
+       "id": "d",
+       "bn": "দ্রবণ ঘন করতে",
+       "en": "To concentrate the solution"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ঠান্ডা হলে কেলাস ফিল্টার কাগজের ওপর জমে যেত।",
+     "explanation_en": "Cooling would deposit crystals on the paper.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বারবার কেলাসনের পর কখন যৌগকে বিশুদ্ধ ধরা হয়?",
+     "question_en": "When is the compound judged pure after repeated crystallisation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কেলাসের রং বদলালে",
+       "en": "When colour changes"
+      },
+      {
+       "id": "b",
+       "bn": "গলনাঙ্ক প্রতিবারই একই থাকলে",
+       "en": "When the melting point is the same each time"
+      },
+      {
+       "id": "c",
+       "bn": "আয়তন কমলে",
+       "en": "When volume decreases"
+      },
+      {
+       "id": "d",
+       "bn": "কেলাস ছোট হলে",
+       "en": "When crystals get smaller"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পরপর দুবার একই গলনাঙ্ক বিশুদ্ধতার ইঙ্গিত।",
+     "explanation_en": "A constant melting point indicates purity.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.4",
+   "title_bn": "আংশিক কেলাসন",
+   "title_en": "Fractional crystallisation",
+   "notes_bn": "দুই বা তার বেশি কঠিন পদার্থের মিশ্রণ দ্রাব্যতার পার্থক্যের ভিত্তিতে আলাদা করা হয়।\nকম দ্রবণীয় যৌগটি আগে কেলাস হিসেবে পড়ে; পরিস্রুত আরও গাঢ় করে ঠান্ডা করলে অপরটি কেলাসিত হয়।\nদ্রাব্যতার পার্থক্য যত বেশি, পৃথকীকরণ তত সুবিধাজনক।\nদ্রাবক: পানি, অ্যালকোহল, ইথার, অ্যাসিটোন, বেনজিন।\nউদাহরণ: চিনি শিল্পে কেলাসিত চিনিকে জলীয় দ্রবণ থেকে বিশোধন।",
+   "notes_en": "Separates mixtures of solids using differing solubility: the less soluble crystallises first; the filtrate is concentrated and cooled to get the other.\nBigger solubility difference gives easier separation. Solvents: water, alcohol, ether, acetone, benzene.\nExample: refining sugar crystals.",
+   "mcqs": [
+    {
+     "question_bn": "আংশিক কেলাসন কোন ধর্মের ওপর নির্ভর করে?",
+     "question_en": "Fractional crystallisation depends on difference in:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গলনাঙ্ক",
+       "en": "Melting point"
+      },
+      {
+       "id": "b",
+       "bn": "দ্রাব্যতা",
+       "en": "Solubility"
+      },
+      {
+       "id": "c",
+       "bn": "ঘনত্ব",
+       "en": "Density"
+      },
+      {
+       "id": "d",
+       "bn": "স্ফুটনাঙ্ক",
+       "en": "Boiling point"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দ্রাব্যতার পার্থক্যে আলাদা করা হয়।",
+     "explanation_en": "It uses the solubility difference.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "A ও B মিশ্রণে B এর দ্রাব্যতা বেশি হলে ঠান্ডা করলে কোনটি আগে কেলাস হয়?",
+     "question_en": "In a mixture of A and B where B is more soluble, which crystallises first on cooling the concentrated solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "A",
+       "en": "A"
+      },
+      {
+       "id": "b",
+       "bn": "B",
+       "en": "B"
+      },
+      {
+       "id": "c",
+       "bn": "উভয় একসঙ্গে",
+       "en": "Both together"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই না",
+       "en": "Neither"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কম দ্রাব্য A আগে পড়ে।",
+     "explanation_en": "The less soluble A separates first.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আংশিক কেলাসনের একটি ব্যবহার কোনটি?",
+     "question_en": "A use of fractional crystallisation is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চিনি বিশোধন",
+       "en": "Refining sugar"
+      },
+      {
+       "id": "b",
+       "bn": "পেট্রোলিয়াম বিশোধন",
+       "en": "Refining petroleum"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লিসারিন বিশোধন",
+       "en": "Purifying glycerol"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন বিশোধন",
+       "en": "Purifying aniline"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে চিনি শিল্পের উদাহরণ আছে।",
+     "explanation_en": "The book cites sugar refining.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দুটি যৌগের দ্রাব্যতার পার্থক্য কম হলে কী ঘটে?",
+     "question_en": "If solubilities of two compounds are close, then:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পৃথকীকরণ সহজ",
+       "en": "Separation is easy"
+      },
+      {
+       "id": "b",
+       "bn": "পৃথকীকরণ কঠিন",
+       "en": "Separation is harder"
+      },
+      {
+       "id": "c",
+       "bn": "যৌগ ঊর্ধ্বপাতিত হয়",
+       "en": "They sublime"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়া ঘটে",
+       "en": "They react"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পার্থক্য যত বেশি তত সুবিধা, তাই কম হলে কঠিন।",
+     "explanation_en": "Larger difference helps; small makes it hard.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.5",
+   "title_bn": "ঊর্ধ্বপাতন",
+   "title_en": "Sublimation",
+   "notes_bn": "যে কঠিন পদার্থের গলনাঙ্কের নিচে বাষ্পচাপ বায়ুচাপের চেয়ে বেশি, তা তাপে সরাসরি বাষ্প হয় এবং শীতল করলে সরাসরি কঠিন হয়।\nকঠিন → (তাপ) বাষ্প → (শীতলকরণ) কঠিন।\nউদ্ভূত কঠিনকে উৎক্ষেপ (sublimate) বলে।\nউদাহরণ: কর্পূর, ন্যাফথালিন, বেনজোয়িক এসিড।\nপদ্ধতি: মিশ্রণ গোলতলী ফ্লাস্কে, মুখে পানিশীতক; উত্তপ্ত করলে উৎক্ষেপ শীতকের গায়ে জমে। নিম্নচাপেও করা যায় (শোষণ পাম্পসহ)।",
+   "notes_en": "A solid with vapour pressure above atmospheric pressure below its melting point goes directly to vapour and back to solid on cooling.\nThe collected solid is the sublimate. Examples: camphor, naphthalene, benzoic acid.\nHeat the mixture in a round flask fitted with a water-cooled finger; pure sublimate deposits on it. Can be done under reduced pressure.",
+   "mcqs": [
+    {
+     "question_bn": "ঊর্ধ্বপাতনে কঠিন পদার্থ কোন ধাপে পরিবর্তিত হয়?",
+     "question_en": "In sublimation a solid changes:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কঠিন→তরল→বাষ্প",
+       "en": "Solid→liquid→vapour"
+      },
+      {
+       "id": "b",
+       "bn": "কঠিন→বাষ্প→কঠিন",
+       "en": "Solid→vapour→solid"
+      },
+      {
+       "id": "c",
+       "bn": "তরল→কঠিন",
+       "en": "Liquid→solid"
+      },
+      {
+       "id": "d",
+       "bn": "বাষ্প→তরল",
+       "en": "Vapour→liquid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তরল দশা ছাড়াই সরাসরি বাষ্প হয়।",
+     "explanation_en": "It skips the liquid phase.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি ঊর্ধ্বপাতিত হয়?",
+     "question_en": "Which sublimes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "b",
+       "bn": "ন্যাফথালিন",
+       "en": "Naphthalene"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "d",
+       "bn": "সুক্রোজ",
+       "en": "Sucrose"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কর্পূর, ন্যাফথালিন, বেনজোয়িক এসিড উল্লেখযোগ্য।",
+     "explanation_en": "Naphthalene is among the book's examples.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ঊর্ধ্বপাতনের জন্য কঠিন পদার্থের কোন শর্ত প্রয়োজন?",
+     "question_en": "Required condition for sublimation:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গলনাঙ্কের নিচে বাষ্পচাপ বায়ুচাপ অপেক্ষা বেশি",
+       "en": "Vapour pressure above atmospheric pressure below melting point"
+      },
+      {
+       "id": "b",
+       "bn": "অত্যন্ত উচ্চ গলনাঙ্ক",
+       "en": "Extremely high m.p."
+      },
+      {
+       "id": "c",
+       "bn": "পানিতে দ্রবণীয়",
+       "en": "Soluble in water"
+      },
+      {
+       "id": "d",
+       "bn": "তরল দশায় স্থিতি",
+       "en": "Stable as liquid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এটিই মূলনীতি।",
+     "explanation_en": "This is the basic principle.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিম্নচাপে ঊর্ধ্বপাতনে শোষণ পাম্প কী করে?",
+     "question_en": "In reduced-pressure sublimation the suction pump:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফ্লাস্কের বায়ুচাপ কমায়",
+       "en": "Lowers the pressure in the flask"
+      },
+      {
+       "id": "b",
+       "bn": "পানি যোগায়",
+       "en": "Supplies water"
+      },
+      {
+       "id": "c",
+       "bn": "তাপ দেয়",
+       "en": "Provides heat"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যাস যোগ করে",
+       "en": "Adds gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বায়ুচাপ কমলে ঊর্ধ্বপাতন সহজ হয়।",
+     "explanation_en": "Lower pressure helps sublimation.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.6",
+   "title_bn": "পাতন",
+   "title_en": "Distillation",
+   "notes_bn": "স্ফুটনাঙ্কে বিয়োজিত না হয়ে বাষ্পীভূত হয়, শীতল করলে একই তরল ফেরত দেয় — এমন তরলকে উদ্বায়ী বলে।\nতাপে বাষ্প করে ঘনীভূত করার প্রক্রিয়াই পাতন।\nব্যবহার: (১) অনুদ্বায়ী কঠিন ও তরল থেকে উদ্বায়ী তরল, (২) স্ফুটনাঙ্ক ব্যবধান 40°C এর বেশি এমন দুই তরল পৃথক করা।\nযন্ত্র: পাতন ফ্লাস্ক, থার্মোমিটার, লিবিগ শীতক, গ্রাহক পাত্র।\nস্ফুটনাঙ্ক 100–120°C এর ওপরে হলে পানিশীতকের বদলে বায়ুশীতক ব্যবহার হয়।",
+   "notes_en": "Distillation = vaporising a volatile liquid and condensing it back.\nUsed to separate a volatile liquid from non-volatile solids/liquids, and two liquids whose boiling points differ by more than 40 degC.\nApparatus: flask, thermometer, Liebig condenser, receiver. For b.p. above ~100-120 degC an air condenser replaces the water condenser.",
+   "mcqs": [
+    {
+     "question_bn": "সাধারণ পাতনে দুই তরল পৃথক করা যায় যদি স্ফুটনাঙ্কের পার্থক্য কত হয়?",
+     "question_en": "Simple distillation separates two liquids if their b.p. difference exceeds:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5°C",
+       "en": "5 degC"
+      },
+      {
+       "id": "b",
+       "bn": "10°C",
+       "en": "10 degC"
+      },
+      {
+       "id": "c",
+       "bn": "40°C",
+       "en": "40 degC"
+      },
+      {
+       "id": "d",
+       "bn": "1°C",
+       "en": "1 degC"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে 40°C এর বেশি ব্যবধানের কথা বলা আছে।",
+     "explanation_en": "The book states more than 40 degC.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পাতনে লিবিগ শীতকের কাজ কী?",
+     "question_en": "The Liebig condenser:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাষ্পকে ঘনীভূত করে",
+       "en": "Condenses the vapour"
+      },
+      {
+       "id": "b",
+       "bn": "তরলকে গরম করে",
+       "en": "Heats the liquid"
+      },
+      {
+       "id": "c",
+       "bn": "চাপ কমায়",
+       "en": "Lowers pressure"
+      },
+      {
+       "id": "d",
+       "bn": "তরল মেশায়",
+       "en": "Mixes liquids"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ঠান্ডা পানির প্রবাহে বাষ্প তরল হয়।",
+     "explanation_en": "Cold water condenses the vapour.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "থার্মোমিটারের বাল্ব কোথায় রাখা হয়?",
+     "question_en": "Where is the thermometer bulb placed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তরলে ডুবিয়ে",
+       "en": "Dipped in the liquid"
+      },
+      {
+       "id": "b",
+       "bn": "পার্শ্বনলের মুখ বরাবর",
+       "en": "Level with the side-arm opening"
+      },
+      {
+       "id": "c",
+       "bn": "গ্রাহক পাত্রে",
+       "en": "In the receiver"
+      },
+      {
+       "id": "d",
+       "bn": "শীতকের মধ্যে",
+       "en": "Inside the condenser"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বাষ্পের তাপমাত্রা মাপার জন্য পার্শ্বনলের মুখ বরাবর।",
+     "explanation_en": "To measure vapour temperature at the side-arm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "100–120°C এর ওপরে স্ফুটনাঙ্কের তরল পাতনে কোন শীতক ব্যবহার করা ভালো?",
+     "question_en": "For liquids boiling above 100-120 degC which condenser is used?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানি শীতক",
+       "en": "Water-cooled Liebig"
+      },
+      {
+       "id": "b",
+       "bn": "বায়ুশীতক",
+       "en": "Air condenser"
+      },
+      {
+       "id": "c",
+       "bn": "ফ্র্যাকশন কলাম",
+       "en": "Fractionating column"
+      },
+      {
+       "id": "d",
+       "bn": "সক্সলেট",
+       "en": "Soxhlet"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পানিশীতকে কাচ ফাটার ভয় থাকে, তাই বায়ুশীতক।",
+     "explanation_en": "Air condenser is used at such high temperatures.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.7",
+   "title_bn": "আংশিক পাতন",
+   "title_en": "Fractional distillation",
+   "notes_bn": "স্ফুটনাঙ্কের ব্যবধান 40°C এর কম হলে পাতন ফ্লাস্ক ও শীতকের মাঝে অংশ কলাম (fractionation column) বসানো হয়।\nউদাহরণ: A (স্ফুটনাঙ্ক 85°C) ও B (100°C): কলামে কম উদ্বায়ী B এর বাষ্প ঘনীভূত হয়ে ফ্লাস্কে ফেরে, বেশি উদ্বায়ী A উপরে উঠে শীতকে ঘনীভূত হয়ে গ্রাহক পাত্রে জমে।\nপরে দুই তরল আলাদাভাবে পুনঃপাতন করে বিশুদ্ধ করা হয়।\nশিল্পে: পেট্রোলিয়াম বিশোধন, রেকটিফাইড স্পিরিট, আলকাতরার আংশিক পাতন, লঘু তেল থেকে বেনজিন-টলুইন-জাইলিন।",
+   "notes_en": "Used when boiling points differ by less than 40 degC; a fractionating column sits between flask and condenser.\nExample A (b.p. 85) and B (100): less volatile B condenses in the column and drains back; more volatile A passes to the condenser and receiver.\nIndustrial uses: petroleum refining, rectified spirit, coal tar fractions, benzene/toluene/xylene from light oil.",
+   "mcqs": [
+    {
+     "question_bn": "আংশিক পাতন কখন ব্যবহার করা হয়?",
+     "question_en": "Fractional distillation is used when b.p. difference is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "40°C এর বেশি",
+       "en": "More than 40 degC"
+      },
+      {
+       "id": "b",
+       "bn": "40°C এর কম",
+       "en": "Less than 40 degC"
+      },
+      {
+       "id": "c",
+       "bn": "শূন্য",
+       "en": "Zero for solids"
+      },
+      {
+       "id": "d",
+       "bn": "100°C এর বেশি",
+       "en": "More than 100 degC"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ব্যবধান কম হলে অংশ কলাম লাগে।",
+     "explanation_en": "A column is needed when the gap is small.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "A (85°C) ও B (100°C) মিশ্রণ আংশিক পাতনে গ্রাহক পাত্রে প্রথমে কী জমে?",
+     "question_en": "In fractional distillation of A (b.p. 85) and B (100) the receiver first gets:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রধানত B",
+       "en": "Mostly B"
+      },
+      {
+       "id": "b",
+       "bn": "প্রধানত A",
+       "en": "Mostly A"
+      },
+      {
+       "id": "c",
+       "bn": "সমান মিশ্রণ",
+       "en": "Equal mixture"
+      },
+      {
+       "id": "d",
+       "bn": "কিছুই না",
+       "en": "Nothing"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "A বেশি উদ্বায়ী, তাই কলাম পেরিয়ে আগে আসে।",
+     "explanation_en": "A is more volatile so it reaches the condenser first.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আংশিক পাতনের একটি শিল্প ব্যবহার কোনটি?",
+     "question_en": "An industrial use of fractional distillation:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পেট্রোলিয়াম বিশোধন",
+       "en": "Petroleum refining"
+      },
+      {
+       "id": "b",
+       "bn": "চিনি বিশোধন",
+       "en": "Sugar refining"
+      },
+      {
+       "id": "c",
+       "bn": "নারিকেল তেল নিষ্কাশন",
+       "en": "Coconut oil extraction"
+      },
+      {
+       "id": "d",
+       "bn": "গ্লিসারিন নিম্নচাপ পাতন",
+       "en": "Glycerol vacuum distillation"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে পেট্রোলিয়াম বিশোধন উল্লেখ আছে।",
+     "explanation_en": "The book lists petroleum refining.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অংশ কলামে কম উদ্বায়ী উপাদানের বাষ্পের কী হয়?",
+     "question_en": "In the column the vapour of the less volatile component:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ঘনীভূত হয়ে নিচে ফ্লাস্কে ফেরে",
+       "en": "Condenses and flows back to the flask"
+      },
+      {
+       "id": "b",
+       "bn": "সরাসরি গ্রাহকে যায়",
+       "en": "Goes straight to the receiver"
+      },
+      {
+       "id": "c",
+       "bn": "কঠিন হয়ে যায়",
+       "en": "Solidifies"
+      },
+      {
+       "id": "d",
+       "bn": "বিয়োজিত হয়",
+       "en": "Decomposes"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কলামের বালবে ঘনীভূত হয়ে নেমে আসে।",
+     "explanation_en": "It condenses in the column bulbs and drains back.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.8",
+   "title_bn": "বাষ্প পাতন বা স্টিম পাতন",
+   "title_en": "Steam distillation",
+   "notes_bn": "যে জৈব যৌগ পানিতে অদ্রবণীয়, স্টিমে উদ্বায়ী এবং ফুটন্ত পানিতে বিয়োজিত হয় না, তাকে স্টিম প্রবাহে পৃথক করা হয়।\nযৌগটি 100°C এর নিচে ফোটে, কারণ যৌগের বাষ্পচাপ P₁ ও জলীয় বাষ্পচাপ P₂ এর যোগফল বায়ুমণ্ডলীয় চাপ P এর সমান: P = P₁ + P₂।\nযন্ত্র: স্টিম উৎপাদক, পাতন ফ্লাস্ক, লিবিগ শীতক, গ্রাহক ফ্লাস্ক; পৃথকীকরণ ফানেলে পানি থেকে আলাদা।\nব্যবহার: ফুলের নির্যাস, ইউক্যালিপটাস তেল, সুগন্ধি তেল, অ্যানিলিন বিশোধন।",
+   "notes_en": "For compounds insoluble in water, volatile in steam, and stable in boiling water.\nThe mixture boils when P1 + P2 = P (atmospheric), hence below 100 degC.\nApparatus: steam generator, flask, Liebig condenser, receiver, separating funnel to split the oil from water.\nUses: flower essences, eucalyptus oil, aniline purification.",
+   "mcqs": [
+    {
+     "question_bn": "বাষ্প পাতনে মিশ্রণ কখন ফোটে?",
+     "question_en": "In steam distillation the mixture boils when:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P₁ = P",
+       "en": "P1 = P"
+      },
+      {
+       "id": "b",
+       "bn": "P₂ = P",
+       "en": "P2 = P"
+      },
+      {
+       "id": "c",
+       "bn": "P₁ + P₂ = P",
+       "en": "P1 + P2 = P"
+      },
+      {
+       "id": "d",
+       "bn": "P₁ − P₂ = P",
+       "en": "P1 - P2 = P"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "মোট বাষ্পচাপ বায়ুচাপের সমান হলে ফোটে।",
+     "explanation_en": "Boiling occurs when total vapour pressure equals atmospheric pressure.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বাষ্প পাতন করা যায় কোন যৌগে?",
+     "question_en": "Which compound suits steam distillation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানিতে দ্রবণীয় ও অনুদ্বায়ী",
+       "en": "Water-soluble, non-volatile"
+      },
+      {
+       "id": "b",
+       "bn": "পানিতে অদ্রবণীয় ও স্টিমে উদ্বায়ী",
+       "en": "Water-insoluble, steam-volatile"
+      },
+      {
+       "id": "c",
+       "bn": "কেবল গ্যাসীয়",
+       "en": "Only gases"
+      },
+      {
+       "id": "d",
+       "bn": "পানিতে বিয়োজিত হয় এমন",
+       "en": "Decomposing in water"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এটিই শর্ত।",
+     "explanation_en": "This is the requirement.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বাষ্প পাতনের একটি উদাহরণ কোনটি?",
+     "question_en": "An example of steam distillation use:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানিলিন বিশোধন",
+       "en": "Purifying aniline"
+      },
+      {
+       "id": "b",
+       "bn": "লবণ আহরণ",
+       "en": "Getting salt"
+      },
+      {
+       "id": "c",
+       "bn": "চিনি বিশোধন",
+       "en": "Refining sugar"
+      },
+      {
+       "id": "d",
+       "bn": "গ্লিসারিন বিশোধন",
+       "en": "Purifying glycerol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যানিলিন বাষ্প পাতনে বিশুদ্ধ করা হয়।",
+     "explanation_en": "Aniline is purified by steam distillation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বাষ্প পাতনে যৌগটি 100°C এর নিচে ফোটে কেন?",
+     "question_en": "Why does the mixture boil below 100 degC?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানির স্ফুটনাঙ্ক কমে যায়",
+       "en": "Water's b.p. itself drops"
+      },
+      {
+       "id": "b",
+       "bn": "দুটি বাষ্পচাপ যোগ হয়ে মোট চাপ বায়ুচাপের সমান হয়",
+       "en": "The two vapour pressures add to atmospheric pressure sooner"
+      },
+      {
+       "id": "c",
+       "bn": "চাপ বেড়ে যায়",
+       "en": "Pressure rises"
+      },
+      {
+       "id": "d",
+       "bn": "তাপ বেশি লাগে",
+       "en": "More heat is supplied"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "P₁+P₂=P হতে তুলনামূলক কম তাপমাত্রা লাগে।",
+     "explanation_en": "P1+P2 reaches P at a lower temperature.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.9",
+   "title_bn": "নিম্নচাপ পাতন বা অনুপ্রেষ পাতন",
+   "title_en": "Distillation under reduced pressure",
+   "notes_bn": "তরলের উপরের চাপ কমলে স্ফুটনাঙ্ক কমে। যে তরল স্বাভাবিক স্ফুটনাঙ্কে বিয়োজিত হয়, তাকে নিম্নচাপে কম তাপমাত্রায় পাতিত করা হয়।\nদুই মুখযুক্ত ক্লেইজেন ফ্লাস্ক, ম্যানোমিটার, ভ্যাকুয়াম বা পানি পাম্প ব্যবহৃত হয়।\nউদাহরণ: গ্লিসারিন 760 mm Hg এ 290°C এ আংশিক বিয়োজিত হয়; 12 mm Hg চাপে 180°C এ বিয়োজনহীন পাতিত হয়।\nসাবান শিল্পে বর্জ্য লাই থেকে গ্লিসারিন নিম্নচাপে পাতন; ইথাইল অ্যাসিটেট, ইথাইল ম্যালোনেট, ফিনাইল হাইড্রাজিনেও ব্যবহৃত।",
+   "notes_en": "Lowering pressure lowers the boiling point, so liquids that decompose at their normal b.p. are distilled at low pressure and temperature.\nApparatus: Claisen flask, manometer, vacuum/water pump.\nExample: glycerol decomposes near 290 degC at 760 mm Hg but distils undecomposed at 180 degC and 12 mm Hg. Used for glycerol from spent lye in soap making.",
+   "mcqs": [
+    {
+     "question_bn": "নিম্নচাপ পাতনে কোন ফ্লাস্ক ব্যবহার হয়?",
+     "question_en": "Which flask is used in reduced-pressure distillation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লেইজেন ফ্লাস্ক",
+       "en": "Claisen flask"
+      },
+      {
+       "id": "b",
+       "bn": "বুকনার ফ্লাস্ক",
+       "en": "Buchner flask"
+      },
+      {
+       "id": "c",
+       "bn": "কনিক্যাল ফ্লাস্ক",
+       "en": "Conical flask"
+      },
+      {
+       "id": "d",
+       "bn": "সক্সলেট ফ্লাস্ক",
+       "en": "Soxhlet flask"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুই মুখযুক্ত ক্লেইজেন ফ্লাস্ক।",
+     "explanation_en": "A two-necked Claisen flask.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "চাপ কমালে তরলের স্ফুটনাঙ্ক কী হয়?",
+     "question_en": "Reducing pressure makes the boiling point:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাড়ে",
+       "en": "Rise"
+      },
+      {
+       "id": "b",
+       "bn": "কমে",
+       "en": "Fall"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত",
+       "en": "Stay same"
+      },
+      {
+       "id": "d",
+       "bn": "শূন্য হয়",
+       "en": "Become zero"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বাইরের চাপ কমলে কম তাপমাত্রায় বাষ্পচাপ সমান হয়।",
+     "explanation_en": "Lower external pressure means boiling at lower temperature.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গ্লিসারিনকে 12 mm Hg চাপে কত তাপমাত্রায় পাতিত করা হয়?",
+     "question_en": "At 12 mm Hg glycerol distils at:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "290°C",
+       "en": "290 degC"
+      },
+      {
+       "id": "b",
+       "bn": "180°C",
+       "en": "180 degC"
+      },
+      {
+       "id": "c",
+       "bn": "100°C",
+       "en": "100 degC"
+      },
+      {
+       "id": "d",
+       "bn": "338°C",
+       "en": "338 degC"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 12 mm Hg ও 180°C উল্লেখ আছে।",
+     "explanation_en": "The book gives 180 degC at 12 mm Hg.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন শিল্পে নিম্নচাপ পাতন ব্যবহৃত হয়?",
+     "question_en": "Reduced-pressure distillation is used industrially in:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাবান শিল্পের বর্জ্য লাই থেকে গ্লিসারিন",
+       "en": "Glycerol from spent lye in soap industry"
+      },
+      {
+       "id": "b",
+       "bn": "সুগন্ধি তেল আহরণ",
+       "en": "Perfume oil extraction"
+      },
+      {
+       "id": "c",
+       "bn": "লবণ আহরণ",
+       "en": "Salt extraction"
+      },
+      {
+       "id": "d",
+       "bn": "কর্পূর শোধন",
+       "en": "Camphor purification"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গ্লিসারিন বিয়োজিত হয় বলে নিম্নচাপে পাতন।",
+     "explanation_en": "Glycerol decomposes, so vacuum distillation is used.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.10",
+   "title_bn": "দ্রাবক নিষ্কাশন",
+   "title_en": "Solvent extraction",
+   "notes_bn": "জৈব যৌগ জৈব দ্রাবকে (ইথার, ক্লোরোফরম, বেনজিন, পেট্রোলিয়াম ইথার) পানির তুলনায় বেশি দ্রবণীয়; তাই জলীয় দ্রবণ থেকে যৌগকে জৈব দ্রাবক দিয়ে নিষ্কাশন করা যায়। দ্রাবক পানিতে অদ্রবণীয় হতে হবে।\nজলীয় দ্রবণ: পৃথকীকরণ ফানেলে ইথার মিশিয়ে ঝাঁকিয়ে স্তর আলাদা করা হয়; ইথার স্তর হালকা (ওপরে); তা CaCl₂ দিয়ে শুষ্ক করে পাতন করা হয়।\nক্লোরোফর্ম–অ্যালকোহল মিশ্রণে পানি মেশালে ভারী ক্লোরোফরম নিচে আসে, অ্যালকোহল পানির স্তরে থাকে।\nকঠিন থেকে নিষ্কাশন: সক্সলেট যন্ত্র (পাতন ফ্লাস্ক, থিম্বল, সাইফন, শীতক) — গাছের পাতা, বাকল, শস্যবীজ থেকে; পেট্রোল দিয়ে নারিকেল তেল।",
+   "notes_en": "Organic compounds dissolve better in an immiscible organic solvent (ether, chloroform, benzene, petroleum ether) than in water.\nAqueous solution: shake with ether in a separating funnel; the ether layer is on top; dry it with CaCl2 and distil.\nSolids: Soxhlet extractor (flask, thimble with siphon tube, condenser) for leaves, bark, seeds; e.g. coconut oil using petrol.",
+   "mcqs": [
+    {
+     "question_bn": "পৃথকীকরণ ফানেলে ইথার ও জলীয় দ্রবণ মেশালে কোন স্তর ওপরে থাকে?",
+     "question_en": "In a separating funnel with ether and an aqueous solution, the upper layer is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথার",
+       "en": "Ether"
+      },
+      {
+       "id": "b",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "c",
+       "bn": "উভয় মিশে যায়",
+       "en": "Both mix"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো স্তর হয় না",
+       "en": "No layers"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথার হালকা স্তর।",
+     "explanation_en": "Ether is the lighter layer.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কঠিন পদার্থ থেকে জৈব যৌগ নিষ্কাশনে কোন যন্ত্র ব্যবহৃত হয়?",
+     "question_en": "Which apparatus extracts compounds from solids?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সক্সলেট যন্ত্র",
+       "en": "Soxhlet extractor"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লেইজেন ফ্লাস্ক",
+       "en": "Claisen flask"
+      },
+      {
+       "id": "c",
+       "bn": "বুকনার ফানেল",
+       "en": "Buchner funnel"
+      },
+      {
+       "id": "d",
+       "bn": "লিবিগ শীতক শুধু",
+       "en": "Liebig condenser alone"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সক্সলেটে দ্রাবক বারবার আবর্তিত হয়।",
+     "explanation_en": "Solvent cycles repeatedly in a Soxhlet.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্লোরোফর্ম ও অ্যালকোহলের মিশ্রণে পানি মিশিয়ে ঝাঁকালে কী ঘটে?",
+     "question_en": "Shaking chloroform-alcohol mixture with water:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকোহল নিচে, ক্লোরোফরম পানিতে",
+       "en": "Alcohol sinks, chloroform dissolves"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরোফরম নিচের স্তরে, অ্যালকোহল পানি স্তরে",
+       "en": "Chloroform forms the lower layer; alcohol goes into water"
+      },
+      {
+       "id": "c",
+       "bn": "সব এক স্তর",
+       "en": "All one layer"
+      },
+      {
+       "id": "d",
+       "bn": "ক্লোরোফরম ওপরে",
+       "en": "Chloroform on top"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্লোরোফরম ভারী ও পানিতে অদ্রবণীয়।",
+     "explanation_en": "Chloroform is dense and immiscible with water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিষ্কাশনের পর ইথার স্তর শুষ্ক করতে কী ব্যবহৃত হয়?",
+     "question_en": "The ether layer is dried using:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিরুদক CaCl₂",
+       "en": "Anhydrous CaCl2"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় H₂SO₄",
+       "en": "Conc. H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl দ্রবণ",
+       "en": "NaCl solution"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে নিরুদক ক্যালসিয়াম ক্লোরাইডের কথা আছে।",
+     "explanation_en": "The book uses anhydrous calcium chloride.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সক্সলেট যন্ত্রে থিম্বল কী দিয়ে তৈরি?",
+     "question_en": "The thimble in a Soxhlet is made of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কাচ",
+       "en": "Glass"
+      },
+      {
+       "id": "b",
+       "bn": "পুরু ফিল্টার কাগজ",
+       "en": "Thick filter paper"
+      },
+      {
+       "id": "c",
+       "bn": "ধাতু",
+       "en": "Metal"
+      },
+      {
+       "id": "d",
+       "bn": "রবার",
+       "en": "Rubber"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "চূর্ণ নমুনা ফিল্টার কাগজের থিম্বলে ভরা হয়।",
+     "explanation_en": "The powdered sample sits in a filter-paper thimble.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.11",
+   "title_bn": "ক্রোমাটোগ্রাফী",
+   "title_en": "Chromatography",
+   "notes_bn": "1903 সালে রুশ বিজ্ঞানী সোয়েট (Tswett) রঞ্জক ক্লোরোফিল পৃথক করতে উদ্ভাবন করেন (chroma = রং, graph = চিত্রণ)।\nএকটি স্থির দশা ও একটি চলনশীল দশা; উপাদানের অধিশোষণ বা বণ্টন সহগের পার্থক্যে পৃথক হয়।\nশ্রেণি: অধিশোষণ — কলাম, পাতলা স্তর (TLC) (স্থির: কঠিন, চলনশীল: তরল); বণ্টন — পেপার (তরল/তরল), গ্যাস (তরল/গ্যাস)।\nঅধিশোষণ ক্রম: –COOH > –OH > –NH₂ > –CHO > –CO– > C=C > –Cl।\nকলাম: অ্যালুমিনা ভরা বুরেট নল; ধৌতকরণ = ইলিউশন, দ্রাবক = ইলিউয়েন্ট।\nTLC: গ্লাস প্লেটে সিলিকা জেল, প্রায় 0.25 mm পুরু স্তর, ফোঁটা প্রান্ত থেকে ~2.5 cm ওপরে।\nহোয়াটম্যান ফিল্টার কাগজ পানি শোষণ করে স্থির মাধ্যম হয়; চলনশীল দ্রাবক প্রোপানল বা অ্যাসিটোন।\nRf = উপাদান কর্তৃক অতিক্রান্ত দূরত্ব ÷ দ্রাবক কর্তৃক অতিক্রান্ত দূরত্ব। যেমন X এর Rf = a/c, Y এর Rf = b/c।\nRf এর একক নেই (দুই দূরত্বের অনুপাত) ও মান 1 এর কম।\nRf দিয়ে উপাদান শনাক্ত করা যায়; দ্রাবক বদলালে Rf বদলায়।\nব্যবহার: অ্যামিনো এসিড, লিপিড, স্টেরয়েড, হরমোন, নিউক্লিওসাইড ইত্যাদির পৃথকীকরণ।",
+   "notes_en": "Invented by Tswett (1903) to separate plant pigments.\nA stationary phase and a mobile phase; separation depends on adsorption or partition coefficient.\nAdsorption types: column, TLC (solid stationary). Partition types: paper (liquid/liquid), gas (liquid/gas).\nAdsorption order of groups: COOH > OH > NH2 > CHO > CO > C=C > Cl.\nColumn: alumina in a burette tube; washing out bands = elution, solvent = eluent. TLC: silica gel layer ~0.25 mm, spot ~2.5 cm above the edge.\nWhatman filter paper holds water as the stationary phase; propanol/acetone is the mobile solvent.\nRf = distance moved by component / distance moved by solvent front (X: a/c, Y: b/c).\nRf has no unit and is less than 1; it identifies components and changes with solvent.",
+   "mcqs": [
+    {
+     "question_bn": "ক্রোমাটোগ্রাফী কে উদ্ভাবন করেন?",
+     "question_en": "Who invented chromatography?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোয়েট",
+       "en": "Tswett"
+      },
+      {
+       "id": "b",
+       "bn": "লিবিগ",
+       "en": "Liebig"
+      },
+      {
+       "id": "c",
+       "bn": "লেসাইন",
+       "en": "Lassaigne"
+      },
+      {
+       "id": "d",
+       "bn": "সক্সলেট",
+       "en": "Soxhlet"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1903 সালে রুশ বিজ্ঞানী সোয়েট।",
+     "explanation_en": "Russian scientist Tswett, 1903.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কলাম ক্রোমাটোগ্রাফীতে স্থির ও চলনশীল দশা কী?",
+     "question_en": "In column chromatography the stationary and mobile phases are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কঠিন, তরল",
+       "en": "Solid, liquid"
+      },
+      {
+       "id": "b",
+       "bn": "তরল, তরল",
+       "en": "Liquid, liquid"
+      },
+      {
+       "id": "c",
+       "bn": "তরল, গ্যাস",
+       "en": "Liquid, gas"
+      },
+      {
+       "id": "d",
+       "bn": "কঠিন, গ্যাস",
+       "en": "Solid, gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যালুমিনা কঠিন, দ্রাবক তরল।",
+     "explanation_en": "Alumina is solid, solvent is liquid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি বণ্টন ক্রোমাটোগ্রাফী?",
+     "question_en": "Which is partition chromatography?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কলাম",
+       "en": "Column"
+      },
+      {
+       "id": "b",
+       "bn": "TLC",
+       "en": "TLC"
+      },
+      {
+       "id": "c",
+       "bn": "পেপার",
+       "en": "Paper"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "পেপার ও গ্যাস ক্রোমাটোগ্রাফী বণ্টন প্রকৃতির।",
+     "explanation_en": "Paper and gas chromatography are partition types.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন মূলক সবচেয়ে বেশি অধিশোষিত হয়?",
+     "question_en": "Which group is adsorbed most strongly?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–Cl",
+       "en": "-Cl"
+      },
+      {
+       "id": "b",
+       "bn": "–COOH",
+       "en": "-COOH"
+      },
+      {
+       "id": "c",
+       "bn": "–CHO",
+       "en": "-CHO"
+      },
+      {
+       "id": "d",
+       "bn": "C=C",
+       "en": "C=C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "যত পোলার তত বেশি অধিশোষণ; –COOH সর্বোচ্চ।",
+     "explanation_en": "More polar, more adsorption; -COOH is highest.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "TLC প্লেটে নমুনার ফোঁটা প্রান্ত থেকে কত ওপরে দেওয়া হয়?",
+     "question_en": "On a TLC plate the sample spot is placed about ... above the edge:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2.5 cm",
+       "en": "2.5 cm"
+      },
+      {
+       "id": "b",
+       "bn": "0.25 mm",
+       "en": "0.25 mm"
+      },
+      {
+       "id": "c",
+       "bn": "10 cm",
+       "en": "10 cm"
+      },
+      {
+       "id": "d",
+       "bn": "0.5 mm",
+       "en": "0.5 mm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রান্ত থেকে প্রায় 2.5 cm ওপরে; 0.25 mm হলো স্তরের পুরুত্ব।",
+     "explanation_en": "About 2.5 cm; 0.25 mm is the layer thickness.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Rf মানের সংজ্ঞা কী?",
+     "question_en": "Rf is defined as:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দ্রাবকের দূরত্ব ÷ উপাদানের দূরত্ব",
+       "en": "Solvent distance / component distance"
+      },
+      {
+       "id": "b",
+       "bn": "উপাদানের দূরত্ব ÷ দ্রাবকের দূরত্ব",
+       "en": "Component distance / solvent distance"
+      },
+      {
+       "id": "c",
+       "bn": "উপাদান × দ্রাবক",
+       "en": "Component x solvent"
+      },
+      {
+       "id": "d",
+       "bn": "দ্রাবকের দূরত্ব − উপাদানের",
+       "en": "Solvent − component"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এটিই সংজ্ঞা।",
+     "explanation_en": "This is the definition.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Rf মানের একক কী?",
+     "question_en": "The unit of Rf is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "cm",
+       "en": "cm"
+      },
+      {
+       "id": "b",
+       "bn": "mm",
+       "en": "mm"
+      },
+      {
+       "id": "c",
+       "bn": "একক নেই",
+       "en": "None"
+      },
+      {
+       "id": "d",
+       "bn": "mol",
+       "en": "mol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "দুই দূরত্বের অনুপাত।",
+     "explanation_en": "It is a ratio of two distances.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দ্রাবক 8 cm ও উপাদান 6 cm উঠলে Rf কত?",
+     "question_en": "If the solvent moves 8 cm and a component 6 cm, Rf =",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.75",
+       "en": "0.75"
+      },
+      {
+       "id": "b",
+       "bn": "1.33",
+       "en": "1.33"
+      },
+      {
+       "id": "c",
+       "bn": "0.48",
+       "en": "0.48"
+      },
+      {
+       "id": "d",
+       "bn": "2",
+       "en": "2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "6/8 = 0.75 (derived).",
+     "explanation_en": "6/8 = 0.75 (derived from the formula).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Rf মানের মান সর্বদা 1 এর কম কেন?",
+     "question_en": "Why is Rf always less than 1?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উপাদান দ্রাবকের চেয়ে ধীরে চলে",
+       "en": "The component moves slower than the solvent"
+      },
+      {
+       "id": "b",
+       "bn": "উপাদান দ্রাবকের চেয়ে দ্রুত চলে",
+       "en": "The component moves faster"
+      },
+      {
+       "id": "c",
+       "bn": "কাগজ ছোট",
+       "en": "Paper is short"
+      },
+      {
+       "id": "d",
+       "bn": "ভর বেশি",
+       "en": "Mass is high"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দ্রাবক-সম্মুখ উপাদানের আগে থাকে।",
+     "explanation_en": "The solvent front is ahead of the spots.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.12",
+   "title_bn": "জৈব যৌগের বিশুদ্ধতার পরীক্ষা",
+   "title_en": "Criteria of purity",
+   "notes_bn": "বিশুদ্ধতার মানদণ্ড: গলনাঙ্ক, স্ফুটনাঙ্ক, ঘনত্ব, প্রতিসরাঙ্ক, দানাদার বা কেলাস গঠন।\nঅবিশুদ্ধ কঠিনের গলনাঙ্ক প্রকৃত মানের চেয়ে কয়েক ডিগ্রি কম; অবিশুদ্ধ তরলের স্ফুটনাঙ্ক কয়েক ডিগ্রি বেশি।\nগলনাঙ্ক: কঠিন ও তরল সহাবস্থানের তাপমাত্রা (যেমন বেনজোয়িক এসিড 121°C)। স্ফুটনাঙ্ক: বাষ্পচাপ বায়ুচাপের সমান হওয়ার তাপমাত্রা (মিথানল 65.5°C)।\nগলনাঙ্ক নির্ণয়: কৈশিক নলে নমুনা, ঘন H₂SO₄ বা গ্লিসারিনে ডোবানো থার্মোমিটার; 1°C ব্যবধানে গললে বিশুদ্ধ, 2–3°C ব্যবধান হলে অবিশুদ্ধ।\nস্ফুটনাঙ্ক: সাধারণ পাতন (বেশি তরল) বা সিবোলোওফ পদ্ধতি (অল্প তরল)।",
+   "notes_en": "Purity criteria: melting point, boiling point, density, refractive index, crystalline form.\nImpure solids melt a few degrees lower; impure liquids boil a few degrees higher.\nPure benzoic acid m.p. 121 degC; methanol b.p. 65.5 degC.\nM.p. by capillary in a conc. H2SO4 or glycerol bath: sharp melting means pure, a 2-3 degC range means impure.\nB.p. by ordinary distillation (large sample) or Siwoloboff (small sample).",
+   "mcqs": [
+    {
+     "question_bn": "বিশুদ্ধ বেনজোয়িক এসিডের গলনাঙ্ক কত?",
+     "question_en": "Melting point of pure benzoic acid:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "65.5°C",
+       "en": "65.5 degC"
+      },
+      {
+       "id": "b",
+       "bn": "121°C",
+       "en": "121 degC"
+      },
+      {
+       "id": "c",
+       "bn": "290°C",
+       "en": "290 degC"
+      },
+      {
+       "id": "d",
+       "bn": "338°C",
+       "en": "338 degC"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 121°C দেওয়া।",
+     "explanation_en": "121 degC per the book.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অবিশুদ্ধ কঠিনের গলনাঙ্ক বিশুদ্ধের তুলনায়:",
+     "question_en": "Compared with pure solid the impure solid's m.p. is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেশি",
+       "en": "Higher"
+      },
+      {
+       "id": "b",
+       "bn": "কম",
+       "en": "Lower"
+      },
+      {
+       "id": "c",
+       "bn": "একই",
+       "en": "Same"
+      },
+      {
+       "id": "d",
+       "bn": "অনির্ণেয়",
+       "en": "Undefined"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কয়েক ডিগ্রি কম।",
+     "explanation_en": "A few degrees lower.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি বিশুদ্ধতার মানদণ্ড নয়?",
+     "question_en": "Which is NOT a criterion of purity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রতিসরাঙ্ক",
+       "en": "Refractive index"
+      },
+      {
+       "id": "b",
+       "bn": "স্ফুটনাঙ্ক",
+       "en": "Boiling point"
+      },
+      {
+       "id": "c",
+       "bn": "গন্ধহীনতা",
+       "en": "Absence of smell only"
+      },
+      {
+       "id": "d",
+       "bn": "ঘনত্ব",
+       "en": "Density"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ের তালিকায় গন্ধহীনতা নেই।",
+     "explanation_en": "Not in the book's list.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অল্প পরিমাণ তরলের স্ফুটনাঙ্ক নির্ণয়ে কোন পদ্ধতি?",
+     "question_en": "For a small quantity of liquid b.p. is determined by:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সিবোলোওফ পদ্ধতি",
+       "en": "Siwoloboff method"
+      },
+      {
+       "id": "b",
+       "bn": "সাধারণ পাতন",
+       "en": "Ordinary distillation"
+      },
+      {
+       "id": "c",
+       "bn": "সক্সলেট",
+       "en": "Soxhlet"
+      },
+      {
+       "id": "d",
+       "bn": "ক্রোমাটোগ্রাফী",
+       "en": "Chromatography"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অল্প তরলের জন্য সিবোলোওফ।",
+     "explanation_en": "Siwoloboff is used for small samples.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নমুনা 2–3°C ব্যবধানে গললে সিদ্ধান্ত কী?",
+     "question_en": "If the sample melts over a 2-3 degC range the sample is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিশুদ্ধ",
+       "en": "Pure"
+      },
+      {
+       "id": "b",
+       "bn": "অবিশুদ্ধ",
+       "en": "Impure"
+      },
+      {
+       "id": "c",
+       "bn": "গ্যাসীয়",
+       "en": "Gaseous"
+      },
+      {
+       "id": "d",
+       "bn": "ঊর্ধ্বপাতী",
+       "en": "Sublimable"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিশুদ্ধ যৌগ প্রায় 1°C এর মধ্যে গলে।",
+     "explanation_en": "Pure compounds melt within about 1 degC.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "12.13",
+   "title_bn": "জৈব যৌগের আঙ্গিক বিশ্লেষণ",
+   "title_en": "Qualitative analysis of organic compounds",
+   "notes_bn": "C ও H: শুষ্ক যৌগ + CuO গরম করলে CO₂ ও H₂O; পানি নিরুদক CuSO₄ কে নীল করে, CO₂ চুনের পানি ঘোলা করে।\nN, S, X: লেসাইন পদ্ধতি — Na সহ গলালে NaCN, Na₂S, NaX, (N ও S একত্রে) NaCNS। ভেজাল দ্রবণ = মূল দ্রবণ।\nN: FeSO₄ + NaOH + HCl + FeCl₃ → প্রুশিয়ান ব্লু (Fe₄[Fe(CN)₆]₃)।\nN ও S একত্রে: অম্ল + FeCl₃ → রক্তলাল [Fe(CNS)]Cl₂।\nS: লেড অ্যাসিটেটে কালো PbS বা নাইট্রোপ্রুসাইডে বেগুনি।\nহ্যালোজেন: লঘু HNO₃ ফুটিয়ে + AgNO₃: AgCl সাদা (NH₄OH এ দ্রবণীয়), AgBr ঈষৎ হলুদ (আংশিক), AgI হলুদ (অদ্রবণীয়)।\nLi, K ব্যবহার্য নয়; হাইড্রাজিন ও ডায়াজো যৌগে N পরীক্ষা কাজ করে না।",
+   "notes_en": "C, H: heat with CuO; water turns anhydrous CuSO4 blue; CO2 turns lime water milky.\nLassaigne: fuse with Na to get NaCN, Na2S, NaX, NaCNS; aqueous extract is the sodium extract.\nN: FeSO4, NaOH, HCl, FeCl3 give Prussian blue. N+S: red [Fe(CNS)]Cl2. S: black PbS with lead acetate, or violet with nitroprusside.\nHalogens: boil with dil. HNO3, add AgNO3: AgCl white soluble in NH4OH, AgBr pale yellow partly soluble, AgI yellow insoluble.\nLi, K unsuitable; hydrazine and diazo compounds fail the N test.",
+   "mcqs": [
+    {
+     "question_bn": "জৈব যৌগে কার্বন ও হাইড্রোজেন শনাক্তে কোনটি ব্যবহৃত হয়?",
+     "question_en": "C and H in an organic compound are detected using:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CuO",
+       "en": "CuO"
+      },
+      {
+       "id": "b",
+       "bn": "AgNO₃",
+       "en": "AgNO3"
+      },
+      {
+       "id": "c",
+       "bn": "FeCl₃",
+       "en": "FeCl3"
+      },
+      {
+       "id": "d",
+       "bn": "Na",
+       "en": "Na"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কিউপ্রিক অক্সাইড দিয়ে জারণ।",
+     "explanation_en": "Oxidation by cupric oxide.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লেসাইন পরীক্ষায় কোন ধাতু ব্যবহৃত হয়?",
+     "question_en": "The metal used in Lassaigne's test is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Li",
+       "en": "Li"
+      },
+      {
+       "id": "b",
+       "bn": "K",
+       "en": "K"
+      },
+      {
+       "id": "c",
+       "bn": "Na",
+       "en": "Na"
+      },
+      {
+       "id": "d",
+       "bn": "Ca",
+       "en": "Ca"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Na সক্রিয় এবং সহজে ব্যবহারযোগ্য; Li, K নয়।",
+     "explanation_en": "Sodium is used; Li and K are unsuitable.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N ও S একত্রে থাকলে লেসাইন পরীক্ষায় কোন যৌগ গঠিত হয়?",
+     "question_en": "When N and S are both present Lassaigne's fusion gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCN ও Na₂S আলাদা শুধু",
+       "en": "Only NaCN and Na2S"
+      },
+      {
+       "id": "b",
+       "bn": "NaCNS",
+       "en": "NaCNS"
+      },
+      {
+       "id": "c",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "d",
+       "bn": "Na₂SO₄",
+       "en": "Na2SO4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সোডিয়াম থায়োসায়ানেট (NaCNS) গঠিত হয়।",
+     "explanation_en": "Sodium thiocyanate forms.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মূল দ্রবণে N শনাক্ত করার ফল কী?",
+     "question_en": "A positive nitrogen test gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা অধঃক্ষেপ",
+       "en": "White precipitate"
+      },
+      {
+       "id": "b",
+       "bn": "প্রুশিয়ান ব্লু / নীল",
+       "en": "Prussian blue"
+      },
+      {
+       "id": "c",
+       "bn": "কালো অধঃক্ষেপ",
+       "en": "Black precipitate"
+      },
+      {
+       "id": "d",
+       "bn": "রক্ত লাল",
+       "en": "Blood red"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফেরিক ফেরোসায়ানাইড গাঢ় নীল।",
+     "explanation_en": "Ferric ferrocyanide is deep blue.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সালফারের উপস্থিতিতে লেড অ্যাসিটেট দ্রবণে কী গঠিত হয়?",
+     "question_en": "Sulphur with lead acetate gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "PbS কালো",
+       "en": "Black PbS"
+      },
+      {
+       "id": "b",
+       "bn": "AgCl সাদা",
+       "en": "White AgCl"
+      },
+      {
+       "id": "c",
+       "bn": "প্রুশিয়ান ব্লু",
+       "en": "Prussian blue"
+      },
+      {
+       "id": "d",
+       "bn": "বেগুনি দ্রবণ",
+       "en": "Violet solution only"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Na₂S + (CH₃COO)₂Pb → PbS।",
+     "explanation_en": "Na2S + lead acetate gives PbS.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মূল দ্রবণে AgNO₃ দিয়ে সাদা অধঃক্ষেপ লঘু HNO₃-এ অদ্রবণীয় কিন্তু NH₄OH-এ সহজে দ্রবণীয় হলে কী থাকে?",
+     "question_en": "A white AgNO3 precipitate insoluble in dil. HNO3 but easily soluble in NH4OH shows:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Br",
+       "en": "Br"
+      },
+      {
+       "id": "b",
+       "bn": "Cl",
+       "en": "Cl"
+      },
+      {
+       "id": "c",
+       "bn": "I",
+       "en": "I"
+      },
+      {
+       "id": "d",
+       "bn": "S",
+       "en": "S"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "AgCl অ্যামোনিয়ায় দ্রবণীয়।",
+     "explanation_en": "AgCl dissolves in ammonia.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "হ্যালোজেন পরীক্ষার আগে মূল দ্রবণ লঘু HNO₃ দিয়ে ফোটানো হয় কেন?",
+     "question_en": "Why boil the sodium extract with dil. HNO3 before the halogen test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CN⁻ ও S²⁻ দূর করতে",
+       "en": "To remove CN- and S2-"
+      },
+      {
+       "id": "b",
+       "bn": "Na বাড়াতে",
+       "en": "To add Na"
+      },
+      {
+       "id": "c",
+       "bn": "রং বদলাতে",
+       "en": "To change colour"
+      },
+      {
+       "id": "d",
+       "bn": "Ag দ্রবীভূত করতে",
+       "en": "To dissolve Ag"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নতুবা Ag₂S ইত্যাদি অধঃক্ষেপ বিভ্রান্ত করে।",
+     "explanation_en": "Otherwise Ag2S/AgCN precipitates would confuse the test.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "12.3",
+   "stimulus_bn": "রিমা একটি অশুদ্ধ কঠিন যৌগকে গরম ইথানলে দ্রবীভূত করে উষ্ণ অবস্থায় ফানেলে ছেঁকে পরে ঠান্ডা করে কেলাস পেল। কেলাস শুকিয়ে গলনাঙ্ক নিল 121°C; পুনরায় কেলাসনের পরও একই পেল।",
+   "stimulus_en": "Rima dissolved an impure solid in hot ethanol, filtered it hot, and cooled to obtain crystals. The crystals melted at 121 degC and again at 121 degC after recrystallisation.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "কেলাসনের মূলনীতি কী?",
+     "question_en": "State the principle of crystallisation.",
+     "model_answer_bn": "যৌগ উষ্ণ দ্রাবকে দ্রবণীয় এবং ঠান্ডা দ্রাবকে অল্প দ্রবণীয়, ফলে ঠান্ডা করলে কেলাস পৃথক হয়।",
+     "model_answer_en": "The compound dissolves in hot solvent but sparingly in cold, so crystals separate on cooling."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "উষ্ণ দ্রবণ ছাঁকতে উষ্ণ পানির জ্যাকেটযুক্ত ফানেল কেন দরকার?",
+     "question_en": "Why is a hot-water jacketed funnel needed?",
+     "model_answer_bn": "ঠান্ডা হলে কেলাস ফিল্টার কাগজে জমে ক্ষতি হত; ফানেল উষ্ণ রাখলে তা হয় না।",
+     "model_answer_en": "Cooling would deposit crystals on the paper; the jacket keeps the solution hot."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "121°C গলনাঙ্ক দেখে রিমা কী সিদ্ধান্ত নেবে ও কেন?",
+     "question_en": "What should Rima conclude from the 121 degC result and why?",
+     "model_answer_bn": "পরপর একই গলনাঙ্ক, তাই যৌগ বিশুদ্ধ; এই মান বিশুদ্ধ বেনজোয়িক এসিডের গলনাঙ্কের সমান।",
+     "model_answer_en": "The constant m.p. shows purity; 121 degC matches pure benzoic acid."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "যদি গলনাঙ্ক 2–3°C ব্যবধানে ও কম পাওয়া যেত, কী বোঝাত এবং পরবর্তী ধাপ কী হত?",
+     "question_en": "If the m.p. were lower and spread over 2-3 degC what would it indicate and what next?",
+     "model_answer_bn": "অবিশুদ্ধ; পুনরায় বিশুদ্ধ দ্রাবকে কেলাসন করে গলনাঙ্ক স্থির না হওয়া পর্যন্ত চালাতে হত।",
+     "model_answer_en": "Impure; recrystallise from fresh solvent until the melting point becomes constant."
+    }
+   ]
+  },
+  {
+   "topic_section": "12.9",
+   "stimulus_bn": "একটি সাবান কারখানার বর্জ্য লাই থেকে গ্লিসারিন আলাদা করা হবে। গ্লিসারিন 760 mm Hg এ 290°C এ আংশিক বিয়োজিত হয়।",
+   "stimulus_en": "A soap factory wants to recover glycerol from spent lye. At 760 mm Hg glycerol partly decomposes at 290 degC.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "নিম্নচাপ পাতনে কোন ফ্লাস্ক ব্যবহৃত হয়?",
+     "question_en": "Name the flask used in reduced-pressure distillation.",
+     "model_answer_bn": "ক্লেইজেন ফ্লাস্ক।",
+     "model_answer_en": "Claisen flask."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "চাপ কমালে স্ফুটনাঙ্ক কমে কেন?",
+     "question_en": "Why does lowering pressure lower the boiling point?",
+     "model_answer_bn": "বাইরের চাপ কমলে কম বাষ্পচাপেই তরল ফোটে, তাই কম তাপমাত্রা লাগে।",
+     "model_answer_en": "Boiling needs vapour pressure equal to external pressure, which is reached at a lower temperature."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "কারখানার জন্য উপযুক্ত পাতন পদ্ধতি ও শর্ত লিখ।",
+     "question_en": "Give the suitable method and conditions.",
+     "model_answer_bn": "নিম্নচাপ পাতন; যেমন 12 mm Hg চাপে প্রায় 180°C এ গ্লিসারিন বিয়োজন ছাড়া পাতিত হয়।",
+     "model_answer_en": "Reduced-pressure distillation, e.g. about 180 degC at 12 mm Hg without decomposition."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "সাধারণ পাতন কেন অনুপযুক্ত এবং বাষ্প পাতনও কেন এখানে মুখ্য পদ্ধতি নয় বিশ্লেষণ কর।",
+     "question_en": "Analyse why simple distillation is unsuitable here.",
+     "model_answer_bn": "সাধারণ পাতনে 290°C এ গ্লিসারিন আংশিক বিয়োজিত হয়ে ক্ষতি হয়; তাই চাপ কমিয়ে স্ফুটনাঙ্ক নামানো হয়।",
+     "model_answer_en": "Simple distillation at 290 degC causes partial decomposition, so pressure is reduced to lower the b.p."
+    }
+   ]
+  },
+  {
+   "topic_section": "12.13",
+   "stimulus_bn": "একটি জৈব যৌগের লেসাইন মূল দ্রবণে FeSO₄, NaOH দিয়ে ফুটিয়ে HCl দিয়ে অম্ল করে FeCl₃ যোগ করলে নীল বর্ণ এল; আলাদা নমুনায় লঘু HNO₃ ফুটিয়ে AgNO₃ দিলে সাদা অধঃক্ষেপ পড়ল যা NH₄OH এ দ্রবীভূত হল।",
+   "stimulus_en": "The Lassaigne extract of a compound gave a blue colour with FeSO4/NaOH/HCl/FeCl3; another portion boiled with dil. HNO3 and treated with AgNO3 gave a white precipitate soluble in NH4OH.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "লেসাইন পরীক্ষায় কোন ধাতু ব্যবহার হয়?",
+     "question_en": "Which metal is used in Lassaigne's test?",
+     "model_answer_bn": "সোডিয়াম (Na)।",
+     "model_answer_en": "Sodium."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "লঘু HNO₃ দিয়ে ফোটানো হয় কেন?",
+     "question_en": "Why is the extract boiled with dil. HNO3?",
+     "model_answer_bn": "CN⁻ ও S²⁻ দূর করার জন্য, নতুবা তারা Ag⁺ এর সঙ্গে অধঃক্ষেপ দিয়ে বিভ্রান্ত করত।",
+     "model_answer_en": "To remove CN- and S2-, which would otherwise precipitate with Ag+."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "যৌগে কোন কোন মৌল আছে? প্রমাণসহ লিখ।",
+     "question_en": "Which elements are present? Justify.",
+     "model_answer_bn": "নীল রং (প্রুশিয়ান ব্লু) = নাইট্রোজেন; সাদা অধঃক্ষেপ NH₄OH এ দ্রবণীয় = ক্লোরিন।",
+     "model_answer_en": "Blue (Prussian blue) = nitrogen; white precipitate soluble in NH4OH = chlorine."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "নাইট্রোজেন পরীক্ষার সম্ভাব্য বিক্রিয়াগুলো লিখে নীল যৌগটির সংকেত দাও এবং যৌগটি হাইড্রাজিন হলে ফল কী হত?",
+     "question_en": "Write the key reactions of the N test, the formula of the blue compound, and the result if the compound were hydrazine.",
+     "model_answer_bn": "2Na+2H₂O→2NaOH+H₂; FeSO₄+2NaOH→Fe(OH)₂+Na₂SO₄; 6NaCN+Fe(OH)₂→Na₄[Fe(CN)₆]+2NaOH; 3Na₄[Fe(CN)₆]+4FeCl₃→Fe₄[Fe(CN)₆]₃+12NaCl। নীল যৌগ Fe₄[Fe(CN)₆]₃। হাইড্রাজিনে N থাকলেও পরীক্ষা কাজ করে না, কারণ গলানোর আগেই বিয়োজিত হয়ে N₂ বেরিয়ে যায়।",
+     "model_answer_en": "2Na+2H2O->2NaOH+H2; FeSO4+2NaOH->Fe(OH)2+Na2SO4; 6NaCN+Fe(OH)2->Na4[Fe(CN)6]+2NaOH; 3Na4[Fe(CN)6]+4FeCl3->Fe4[Fe(CN)6]3+12NaCl. Blue compound Fe4[Fe(CN)6]3. Hydrazine fails: it decomposes before NaCN forms, losing N2."
+    }
+   ]
+  }
+ ],
+ "notes": "All 18 PDF pages read and readable (pdf 638 is the previous chapter's MCQ page; skipped). Pages 639-655 content used; 12.13 ends printed p.639 where 12.14 starts (out of scope). Paper chromatography/Rf (printed p.634) is merged into 12.11. Air-condenser dimensions on printed p.628 were garbled and omitted. MCQ derived numbers: Rf 6/8=0.75."
+}

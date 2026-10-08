@@ -1,0 +1,1973 @@
+{
+ "chapter_no": 11,
+ "topics": [
+  {
+   "section_no": "11.14",
+   "title_bn": "α-অ্যামাইনো এসিডের ধর্ম",
+   "title_en": "Properties of α-amino acids",
+   "notes_bn": "সাধারণত বর্ণহীন কেলাসাকার, মিষ্টি বা তিক্ত; পানিতে দ্রবণীয়, অ্যালকোহলে নয়; গলনাঙ্ক প্রায় 200°C-এর ঊর্ধ্বে।\n-COOH থেকে H⁺ গিয়ে -NH₂-তে যুক্ত হয়ে অন্তঃলবণ জুইটার আয়ন (⁺H₃N-CHR-COO⁻) গঠিত হয়।\nঅম্লীয় মাধ্যমে ক্যাটায়ন (-NH₃⁺), ক্ষারীয় মাধ্যমে অ্যানায়ন (-COO⁻); যে pH-এ নিষ্ক্রিয় থাকে তা আইসো-ইলেকট্রিক pH (IpH)। যেমন লাইসিন 9.7, এলানিন 6.1, গ্লাইসিন 6.0, সিরিন 5.7, অ্যাসপারটিক এসিড 2.8।\nইলেকট্রোফোরেসিসে অম্লীয় দ্রবণে ক্যাটায়ন ক্যাথোডে, ক্ষারীয় দ্রবণে অ্যানায়ন অ্যানোডে যায়।\nঅম্ল ধর্ম: NaOH-এর সাথে লবণ; অ্যালকোহল+শুষ্ক HCl-এ এস্টার। ক্ষার ধর্ম: CH₃COCl-এ অ্যাসাইলকরণ, CH₃I-এ মিথাইলকরণ।\nHNO₂ (NaNO₂+HCl)-এর সাথে বিক্রিয়ায় -OH যুক্ত এসিড ও N₂ উৎপন্ন হয়; N₂-এর অর্ধেক অ্যামাইনো এসিড থেকে, অর্ধেক HNO₂ থেকে।",
+   "notes_en": "Colourless crystalline, sweet or bitter, soluble in water but not alcohol, m.p. above ~200°C.\nThe -COOH proton transfers to -NH₂, giving the zwitterion (internal salt) ⁺H₃N-CHR-COO⁻.\nAcidic medium gives a cation (-NH₃⁺), basic medium an anion (-COO⁻); the pH at which it is electrically neutral is the isoelectric pH (IpH): lysine 9.7, alanine 6.1, glycine 6.0, serine 5.7, aspartic acid 2.8.\nElectrophoresis: cation moves to cathode (acidic), anion to anode (basic).\nAcidic reactions: salt with NaOH, ester with alcohol/dry HCl. Basic reactions: acylation with CH₃COCl, methylation with CH₃I.\nWith HNO₂ they give a hydroxy acid plus N₂, half the N₂ coming from the amino acid.",
+   "mcqs": [
+    {
+     "question_bn": "জুইটার আয়ন কী?",
+     "question_en": "What is a zwitterion?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুধু ধনাত্মক আয়ন",
+       "en": "Only a positive ion"
+      },
+      {
+       "id": "b",
+       "bn": "একই অণুতে ধনাত্মক ও ঋণাত্মক চার্জযুক্ত আয়ন",
+       "en": "An ion with both positive and negative charges in the same molecule"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু ঋণাত্মক আয়ন",
+       "en": "Only a negative ion"
+      },
+      {
+       "id": "d",
+       "bn": "নিরপেক্ষ কোনো চার্জহীন অণু",
+       "en": "A molecule with no charge at all"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "-COOH থেকে H⁺ -NH₂-তে গেলে একই অণুতে ⁺NH₃ ও COO⁻ থাকে।",
+     "explanation_en": "H⁺ moves from -COOH to -NH₂, leaving ⁺NH₃ and COO⁻ in one molecule.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যামাইনো এসিডের অম্লীয় দ্রবণে বিদ্যুৎ চালনা করলে কোন আয়ন কোন তড়িৎদ্বারে যায়?",
+     "question_en": "On passing current through an acidic amino acid solution, which ion goes to which electrode?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানায়ন, ক্যাথোডে",
+       "en": "Anion to cathode"
+      },
+      {
+       "id": "b",
+       "bn": "ক্যাটায়ন, ক্যাথোডে",
+       "en": "Cation to cathode"
+      },
+      {
+       "id": "c",
+       "bn": "ক্যাটায়ন, অ্যানোডে",
+       "en": "Cation to anode"
+      },
+      {
+       "id": "d",
+       "bn": "জুইটার আয়ন, অ্যানোডে",
+       "en": "Zwitterion to anode"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অম্লীয় দ্রবণে ধনাত্মক ক্যাটায়ন থাকে যা ক্যাথোডে যায়।",
+     "explanation_en": "The acidic solution holds the cation, which migrates to the cathode.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটির আইসো-ইলেকট্রিক pH সবচেয়ে বেশি?",
+     "question_en": "Which has the highest isoelectric pH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লাইসিন",
+       "en": "Glycine"
+      },
+      {
+       "id": "b",
+       "bn": "এলানিন",
+       "en": "Alanine"
+      },
+      {
+       "id": "c",
+       "bn": "লাইসিন",
+       "en": "Lysine"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসপারটিক এসিড",
+       "en": "Aspartic acid"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ের মান: লাইসিন 9.7, এলানিন 6.1, গ্লাইসিন 6.0, অ্যাসপারটিক এসিড 2.8।",
+     "explanation_en": "Book values: lysine 9.7, alanine 6.1, glycine 6.0, aspartic acid 2.8.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্লাইসিনের সাথে HNO₂ বিক্রিয়ায় উৎপন্ন N₂ গ্যাসের উৎস কোনটি?",
+     "question_en": "What is the source of the N₂ evolved when glycine reacts with HNO₂?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সম্পূর্ণ অ্যামাইনো এসিড থেকে",
+       "en": "Entirely from the amino acid"
+      },
+      {
+       "id": "b",
+       "bn": "সম্পূর্ণ HNO₂ থেকে",
+       "en": "Entirely from HNO₂"
+      },
+      {
+       "id": "c",
+       "bn": "অর্ধেক অ্যামাইনো এসিড ও অর্ধেক HNO₂ থেকে",
+       "en": "Half from the amino acid, half from HNO₂"
+      },
+      {
+       "id": "d",
+       "bn": "বাতাস থেকে",
+       "en": "From air"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ের মতে N₂-এর অর্ধেক অ্যামাইনো এসিড থেকে, অর্ধেক HNO₂ থেকে আসে।",
+     "explanation_en": "As per the book, half of the N₂ comes from each reactant.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.15",
+   "title_bn": "পেপটাইড বন্ধন ও প্রোটিন",
+   "title_en": "Peptide linkage and protein",
+   "notes_bn": "কার্বক্সিলিক এসিড ও অ্যামিনের বিক্রিয়ায় অ্যামাইড (-CONH-) হয়।\nএকটি অ্যামাইনো এসিডের -COOH ও অপরটির α-NH₂ থেকে H₂O অপসারিত হয়ে যে -CONH- বন্ধন হয় তা পেপটাইড বন্ধন।\nদুটি, তিনটি, চারটি অ্যামাইনো এসিড যুক্ত হলে যথাক্রমে ডাইপেপটাইড, ট্রাইপেপটাইড, টেট্রাপেপটাইড; প্রায় 50টি বা বেশি হলে পলিপেপটাইড। উদাহরণ: গ্লাইসিন+এলানিন → ডাইপেপটাইড+H₂O।\nপলিপেপটাইডে অ্যামাইনো এসিডের সংখ্যা 100–400 হলে তা প্রোটিন; এক প্রান্তে মুক্ত -NH₂ ও অপর প্রান্তে মুক্ত -COOH থাকে।\nপ্রোটিন জুইটার আয়ন রূপে থাকে এবং আলোক সক্রিয়।",
+   "notes_en": "A carboxylic acid plus an amine gives an amide (-CONH-).\nLoss of water between the -COOH of one amino acid and the α-NH₂ of another forms the peptide bond (-CONH-).\nTwo, three, four residues give di-, tri-, tetrapeptide; about 50 or more gives a polypeptide. e.g. glycine + alanine -> dipeptide + H₂O.\nA polypeptide of 100-400 amino acid units is a protein, with free -NH₂ at one end and free -COOH at the other.\nProteins exist as zwitterions and are optically active.",
+   "mcqs": [
+    {
+     "question_bn": "পেপটাইড বন্ধন কোনটি?",
+     "question_en": "Which is the peptide bond?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "-CO-O-",
+       "en": "-CO-O-"
+      },
+      {
+       "id": "b",
+       "bn": "-CONH-",
+       "en": "-CONH-"
+      },
+      {
+       "id": "c",
+       "bn": "-C-O-C-",
+       "en": "-C-O-C-"
+      },
+      {
+       "id": "d",
+       "bn": "-N=N-",
+       "en": "-N=N-"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পেপটাইড বন্ধন একটি দ্বিযোজী অ্যামাইড বন্ধন -CONH-।",
+     "explanation_en": "The peptide bond is the amide linkage -CONH-.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "দুটি অ্যামাইনো এসিড যুক্ত হয়ে ডাইপেপটাইড গঠনকালে কী উপজাত হয়?",
+     "question_en": "What is eliminated when two amino acids form a dipeptide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO₂",
+       "en": "CO₂"
+      },
+      {
+       "id": "b",
+       "bn": "NH₃",
+       "en": "NH₃"
+      },
+      {
+       "id": "c",
+       "bn": "H₂O",
+       "en": "H₂O"
+      },
+      {
+       "id": "d",
+       "bn": "HCl",
+       "en": "HCl"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "একটির -COOH ও অপরটির -NH₂ থেকে এক অণু পানি অপসারিত হয়।",
+     "explanation_en": "One molecule of water is lost from -COOH and -NH₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "চারটি অ্যামাইনো এসিড পেপটাইড বন্ধনে যুক্ত হলে কতটি পেপটাইড বন্ধন ও কত অণু পানি উৎপন্ন হয়?",
+     "question_en": "When four amino acids join linearly, how many peptide bonds form and how many water molecules are released?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4টি ও 4 অণু",
+       "en": "4 and 4"
+      },
+      {
+       "id": "b",
+       "bn": "3টি ও 3 অণু",
+       "en": "3 and 3"
+      },
+      {
+       "id": "c",
+       "bn": "3টি ও 4 অণু",
+       "en": "3 and 4"
+      },
+      {
+       "id": "d",
+       "bn": "4টি ও 3 অণু",
+       "en": "4 and 3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "n সংখ্যক অ্যামাইনো এসিডে (n−1)টি বন্ধন ও (n−1) অণু পানি; n=4 হলে 3 ও 3। (টেট্রাপেপটাইড)",
+     "explanation_en": "n residues give (n-1) bonds and (n-1) waters; for n=4 it is 3 and 3 (tetrapeptide).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বইয়ের সংজ্ঞা অনুযায়ী প্রোটিন বলা হয় যখন পলিপেপটাইডে অ্যামাইনো এসিড একক থাকে –",
+     "question_en": "By the book, a polypeptide is called a protein when it has –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2–10টি",
+       "en": "2-10 units"
+      },
+      {
+       "id": "b",
+       "bn": "10–50টি",
+       "en": "10-50 units"
+      },
+      {
+       "id": "c",
+       "bn": "100–400টি",
+       "en": "100-400 units"
+      },
+      {
+       "id": "d",
+       "bn": "1000-এর বেশি",
+       "en": "over 1000 units"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে একশ থেকে চারশ অণু থাকলে পলিমারটি প্রোটিন।",
+     "explanation_en": "The book says 100 to 400 units make the polymer a protein.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "11.16",
+   "title_bn": "প্রোটিন ও অ্যামাইনো এসিড শনাক্তকরণ",
+   "title_en": "Identification of proteins and amino acids",
+   "notes_bn": "নিনহাইড্রিন পরীক্ষা: α-অ্যামাইনো এসিড, ডাইপেপটাইড ও প্রোটিনের লঘু জলীয় দ্রবণ নিনহাইড্রিনসহ উত্তপ্ত করলে গাঢ় নীল-বেগুনি বর্ণ (Ruhemann's purple) হয়।\nবিক্রিয়ায় অ্যামাইনো এসিড থেকে অ্যালডিহাইড, CO₂ ও NH₃ উৎপন্ন হয়; নিনহাইড্রিন হাইড্রিনডেনটিনে বিজারিত হয়।\nবাই-ইউরেট পরীক্ষা: দুই বা ততোধিক পেপটাইড বন্ধনযুক্ত যৌগ (পলিপেপটাইড, ট্রাইপেপটাইড) ক্ষারীয় দ্রবণে CuSO₄-এর সাথে বেগুনি বর্ণ দেয়; জটিল Cu²⁺ আয়ন গঠনের জন্য।\nপ্রোটিন ও অ্যামাইনো এসিড পৃথকীকরণে পেপার ক্রোমাটোগ্রাফি, ইলেকট্রোফোরেসিস ও আয়ন বিনিময়ও ব্যবহৃত হয়।",
+   "notes_en": "Ninhydrin test: dilute aqueous solutions of α-amino acids, dipeptides or proteins heated with ninhydrin give a deep blue-violet colour (Ruhemann's purple); the amino acid yields an aldehyde, CO₂ and NH₃.\nBiuret test: compounds with two or more peptide bonds (polypeptides, tripeptides) with alkaline CuSO₄ give a violet colour due to a Cu²⁺ complex.\nPaper chromatography, electrophoresis and ion exchange also separate/identify amino acids.",
+   "mcqs": [
+    {
+     "question_bn": "নিনহাইড্রিন পরীক্ষায় কী বর্ণ উৎপন্ন হয়?",
+     "question_en": "What colour forms in the ninhydrin test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল",
+       "en": "Red"
+      },
+      {
+       "id": "b",
+       "bn": "হলুদ",
+       "en": "Yellow"
+      },
+      {
+       "id": "c",
+       "bn": "গাঢ় নীল-বেগুনি",
+       "en": "Deep blue-violet"
+      },
+      {
+       "id": "d",
+       "bn": "সবুজ",
+       "en": "Green"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "রুহেম্যানের পার্পল নামক নীল-বেগুনি বর্ণ হয়।",
+     "explanation_en": "Ruhemann's purple, a blue-violet colour, forms.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বাই-ইউরেট পরীক্ষা কোন যৌগে ইতিবাচক?",
+     "question_en": "Which compound gives a positive biuret test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লাইসিন",
+       "en": "Glycine"
+      },
+      {
+       "id": "b",
+       "bn": "ট্রাইপেপটাইড",
+       "en": "A tripeptide"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটিক এসিড",
+       "en": "Acetic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুই বা ততোধিক পেপটাইড বন্ধন থাকলে Cu²⁺-এর সাথে জটিল বেগুনি যৌগ হয়।",
+     "explanation_en": "Two or more peptide bonds form a violet Cu²⁺ complex.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বাই-ইউরেট পরীক্ষার বিকারক কোনটি?",
+     "question_en": "The reagent for the biuret test is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিনহাইড্রিন",
+       "en": "Ninhydrin"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষারীয় দ্রবণে CuSO₄",
+       "en": "CuSO₄ in alkaline solution"
+      },
+      {
+       "id": "c",
+       "bn": "AgNO₃",
+       "en": "AgNO₃"
+      },
+      {
+       "id": "d",
+       "bn": "ব্রোমিন পানি",
+       "en": "Bromine water"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্ষারীয় দ্রবণে কপার(II) সালফেট ব্যবহৃত হয়।",
+     "explanation_en": "Copper(II) sulphate in alkaline solution is used.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিনহাইড্রিন বিক্রিয়ায় α-অ্যামাইনো এসিড থেকে নিচের কোনগুলো উৎপন্ন হয়?",
+     "question_en": "Which products come from the α-amino acid in the ninhydrin reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালডিহাইড, CO₂, NH₃",
+       "en": "Aldehyde, CO₂, NH₃"
+      },
+      {
+       "id": "b",
+       "bn": "এস্টার, H₂O",
+       "en": "Ester, H₂O"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকোহল, N₂",
+       "en": "Alcohol, N₂"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামাইড, HCl",
+       "en": "Amide, HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সমীকরণে R-CHO, CO₂ ও NH₃ উৎপন্ন হয়।",
+     "explanation_en": "The book's equation gives R-CHO, CO₂ and NH₃.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.17",
+   "title_bn": "প্রোটিনের গঠন",
+   "title_en": "Structure of proteins",
+   "notes_bn": "প্রাইমারি গঠন: পলিপেপটাইড শিকলে অ্যামাইনো এসিডের ক্রমবিন্যাস (N-প্রান্ত থেকে C-প্রান্ত)। এতে সামান্য পরিবর্তনে জৈব ক্রিয়া বদলায়; হিমোগ্লোবিনে glu-এর স্থলে val হলে সিকল সেল অ্যানিমিয়া।\nসেকেন্ডারি গঠন: >C=O ও -NH- এর মধ্যে H-বন্ধনে α-হেলিক্স (উল, নখ, চুল) বা β-ভাঁজযুক্ত শিট (পেশি, রেশম/তন্তুময় প্রোটিন)।\nটারসিয়ারি গঠন: হেলিক্স আরও ভাঁজ হয়ে গোলাকার (গ্লোবিউলার) আকার; বন্ধন: H-বন্ধন, লবণ-সেতু (-COO⁻ ও -NH₃⁺), সিস্টিনের ডাইসালফাইড বন্ধন। উদাহরণ: অ্যালবুমিন, হিমোগ্লোবিন, মায়োগ্লোবিন, কেসিন।\nস্বভাব বিচ্যুতি (denaturation): তাপ, এসিড বা ক্ষারে টারসিয়ারি গঠন নষ্ট হয়ে প্রোটিন অদ্রবণীয় হয়; ডিম সেদ্ধ করলে অ্যালবুমিন জমাট বাঁধে।",
+   "notes_en": "Primary structure: the amino acid sequence of the polypeptide (N-terminus to C-terminus); a single change alters function, e.g. val replacing glu in haemoglobin causes sickle cell anaemia.\nSecondary: H-bonds between >C=O and -NH- give the α-helix (wool, nails, hair) or β-pleated sheet (muscle, silk-type fibrous proteins).\nTertiary: further folding into a globular shape held by H-bonds, salt bridges (-COO⁻/-NH₃⁺) and cystine disulphide bonds; e.g. albumin, haemoglobin, myoglobin, casein.\nDenaturation: heat, acid or alkali destroys the tertiary structure and the protein becomes insoluble, e.g. boiled egg albumin coagulates.",
+   "mcqs": [
+    {
+     "question_bn": "সিকল সেল অ্যানিমিয়ার কারণ কোনটি?",
+     "question_en": "What causes sickle cell anaemia?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হিমোগ্লোবিনে glu-এর জায়গায় val",
+       "en": "val replacing glu in haemoglobin"
+      },
+      {
+       "id": "b",
+       "bn": "DNA-তে থাইমিনের অনুপস্থিতি",
+       "en": "Absence of thymine in DNA"
+      },
+      {
+       "id": "c",
+       "bn": "এনজাইমের pH বৃদ্ধি",
+       "en": "Rise in enzyme pH"
+      },
+      {
+       "id": "d",
+       "bn": "RNA-তে ইউরাসিল",
+       "en": "Uracil in RNA"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রাইমারি গঠনে একটি অ্যামাইনো এসিডের পরিবর্তন এই রোগ ঘটায়।",
+     "explanation_en": "A single amino-acid change in the primary structure causes it.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "α-হেলিক্স গঠনে কোন বন্ধন ভূমিকা রাখে?",
+     "question_en": "Which bonding holds the α-helix?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আয়নিক বন্ধন",
+       "en": "Ionic bond"
+      },
+      {
+       "id": "b",
+       "bn": ">C=O ও -NH- এর মধ্যে H-বন্ধন",
+       "en": "H-bonds between >C=O and -NH-"
+      },
+      {
+       "id": "c",
+       "bn": "ডাইসালফাইড বন্ধন",
+       "en": "Disulphide bond"
+      },
+      {
+       "id": "d",
+       "bn": "ধাতব বন্ধন",
+       "en": "Metallic bond"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সেকেন্ডারি গঠন H-বন্ধনের ফল।",
+     "explanation_en": "Secondary structure arises from H-bonding.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি টারসিয়ারি (গ্লোবিউলার) প্রোটিন?",
+     "question_en": "Which is a tertiary (globular) protein?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উল",
+       "en": "Wool"
+      },
+      {
+       "id": "b",
+       "bn": "ডিমের অ্যালবুমিন",
+       "en": "Egg albumin"
+      },
+      {
+       "id": "c",
+       "bn": "নখ",
+       "en": "Nail"
+      },
+      {
+       "id": "d",
+       "bn": "চুল",
+       "en": "Hair"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উল, নখ, চুল α-কেরাটিন (তন্তুময়); অ্যালবুমিন টারসিয়ারি।",
+     "explanation_en": "Wool, nail and hair are fibrous α-keratin; albumin is tertiary.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ডিম সেদ্ধ করলে সাদা অংশ জমাট বাঁধার কারণ –",
+     "question_en": "Egg white coagulates on boiling because –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রাইমারি গঠন নষ্ট হয়",
+       "en": "the primary structure breaks"
+      },
+      {
+       "id": "b",
+       "bn": "টারসিয়ারি গঠন নষ্ট হয়ে স্বভাব বিচ্যুতি ঘটে",
+       "en": "the tertiary structure is lost (denaturation)"
+      },
+      {
+       "id": "c",
+       "bn": "পানি বিয়োজিত হয়",
+       "en": "water decomposes"
+      },
+      {
+       "id": "d",
+       "bn": "পেপটাইড বন্ধন নতুন গঠিত হয়",
+       "en": "new peptide bonds form"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তাপে অ্যালবুমিনের ত্রিমাত্রিক গঠন নষ্ট হয়ে সরলরৈখিক হয়ে জমাট বাঁধে।",
+     "explanation_en": "Heat destroys albumin's 3-D structure so it becomes linear and coagulates.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.18",
+   "title_bn": "নিউক্লিয়োপ্রোটিন ও নিউক্লিক এসিড",
+   "title_en": "Nucleoproteins and nucleic acids",
+   "notes_bn": "নিউক্লিয়োপ্রোটিন: প্রোটিন ও নিউক্লিক এসিডের যুগ্মপ্রোটিন, জীবিত কোষের অন্যতম প্রধান উপাদান; লঘু HCl-এ আর্দ্রবিশ্লেষণে নিউক্লিক এসিড ও প্রোটিন (প্রোটামিন+হিস্টোন) দেয়।\nনিউক্লিক এসিড: কোষের নিউক্লিয়াস ও সাইটোপ্লাজমে থাকা পলিমার; বংশগতি সংরক্ষণ, প্রোটিন ও এনজাইম সংশ্লেষণে ভূমিকা রাখে। প্রকৃতিতে অম্লধর্মী।\nদুই প্রকার: DNA (ডিঅক্সিরাইবোনিউক্লিক এসিড) ও RNA (রাইবোনিউক্লিক এসিড)।\nDNA অণুর আণবিক ভর প্রায় 60 লক্ষ–160 লক্ষ, থাকে নিউক্লিয়াসে; RNA-এর ভর প্রায় 20,000–40,000, থাকে সাইটোপ্লাজমে।\nআর্দ্রবিশ্লেষণে প্রতি নিউক্লিয়োটাইডে এক অণু ক্ষারক, এক অণু পেন্টোজ চিনি ও এক অণু H₃PO₄ পাওয়া যায়।",
+   "notes_en": "Nucleoprotein: a conjugated protein of simple protein plus nucleic acid, a key cell constituent; mild acid/HCl hydrolysis gives nucleic acid and protein (protamine + histone).\nNucleic acids: polymers in nucleus and cytoplasm that conserve heredity and direct protein/enzyme synthesis; acidic in nature.\nTwo types: DNA (deoxyribonucleic acid) and RNA (ribonucleic acid).\nDNA: mol. mass ~60-160 lakh, in the nucleus; RNA: ~20,000-40,000, in the cytoplasm.\nEach nucleotide hydrolyses to one base, one pentose sugar and one H₃PO₄.",
+   "mcqs": [
+    {
+     "question_bn": "নিউক্লিয়োপ্রোটিন কী দিয়ে গঠিত?",
+     "question_en": "What is a nucleoprotein made of?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোটিন ও নিউক্লিক এসিড",
+       "en": "Protein and nucleic acid"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু লিপিড",
+       "en": "Lipid only"
+      },
+      {
+       "id": "c",
+       "bn": "শর্করা ও লিপিড",
+       "en": "Carbohydrate and lipid"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু ধাতব আয়ন",
+       "en": "Metal ions only"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এটি সরল প্রোটিন ও নিউক্লিক এসিডের যুগ্মপ্রোটিন।",
+     "explanation_en": "It is a conjugated protein of protein and nucleic acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি সাধারণত সাইটোপ্লাজমে বেশি থাকে?",
+     "question_en": "Which is mainly found in the cytoplasm?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "DNA",
+       "en": "DNA"
+      },
+      {
+       "id": "b",
+       "bn": "RNA",
+       "en": "RNA"
+      },
+      {
+       "id": "c",
+       "bn": "হিস্টোন",
+       "en": "Histone"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "RNA অণু ছোট ও সাইটোপ্লাজমে থাকে; DNA নিউক্লিয়াসে।",
+     "explanation_en": "RNA is in the cytoplasm; DNA in the nucleus.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিউক্লিক এসিডের আর্দ্রবিশ্লেষণে প্রতি নিউক্লিয়োটাইড থেকে কী কী পাওয়া যায়?",
+     "question_en": "Hydrolysis of one nucleotide gives –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2 ক্ষারক, 1 চিনি, 1 ফসফেট",
+       "en": "2 bases, 1 sugar, 1 phosphate"
+      },
+      {
+       "id": "b",
+       "bn": "1 ক্ষারক, 1 পেন্টোজ চিনি, 1 H₃PO₄",
+       "en": "1 base, 1 pentose sugar, 1 H₃PO₄"
+      },
+      {
+       "id": "c",
+       "bn": "1 ক্ষারক, 2 চিনি",
+       "en": "1 base, 2 sugars"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু অ্যামাইনো এসিড",
+       "en": "Amino acids only"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে এক অণু ক্ষারক, এক অণু পেন্টোজ ও এক অণু ফসফরিক এসিডের কথা আছে।",
+     "explanation_en": "One base, one pentose, one phosphoric acid.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "DNA ও RNA-এর আণবিক ভর সম্পর্কে সঠিক কোনটি?",
+     "question_en": "Which statement on molecular mass is right?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RNA-এর ভর DNA-এর চেয়ে বেশি",
+       "en": "RNA is heavier than DNA"
+      },
+      {
+       "id": "b",
+       "bn": "দুটির ভর সমান",
+       "en": "Both are equal"
+      },
+      {
+       "id": "c",
+       "bn": "DNA-এর ভর RNA-এর চেয়ে বহুগুণ বেশি",
+       "en": "DNA is many times heavier than RNA"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো তুলনা সম্ভব নয়",
+       "en": "Cannot compare"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "DNA ~60–160 লক্ষ, RNA ~20,000–40,000।",
+     "explanation_en": "DNA ~6-16 million vs RNA 20,000-40,000.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.19",
+   "title_bn": "নিউক্লিক এসিডের পেন্টোজ চিনি",
+   "title_en": "Pentose sugars of nucleic acids",
+   "notes_bn": "নিউক্লিক এসিডের নিউক্লিয়োটাইডে β-D-রাইবোজ বা β-D-2-ডিঅক্সিরাইবোজ থাকে।\nRNA-এ চিনি β-D-রাইবোজ; DNA-এ β-D-2-ডিঅক্সিরাইবোজ (2′ কার্বনে -OH-এর বদলে H)।\nউভয়ই পঞ্চভুজ β-D-ফিউরানোজ চক্রাকার গঠনে থাকে; D-রাইবোজের 1নং C ও 4নং C-এর -OH-এর যুক্ত হয়ে চক্র গঠিত হয়।\nβ-D-রাইবোজ বেশি স্থিতিশীল বলে RNA ও DNA গঠনে ব্যবহৃত।",
+   "notes_en": "Nucleotides contain β-D-ribose or β-D-2-deoxyribose.\nRNA has β-D-ribose; DNA has β-D-2-deoxyribose (H instead of -OH at C-2′).\nBoth exist as five-membered β-D-furanose rings.\nβ-D-ribose is the more stable form, so it is used in RNA and DNA.",
+   "mcqs": [
+    {
+     "question_bn": "RNA-এর চিনি কোনটি?",
+     "question_en": "Sugar in RNA is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "β-D-রাইবোজ",
+       "en": "β-D-ribose"
+      },
+      {
+       "id": "b",
+       "bn": "β-D-2-ডিঅক্সিরাইবোজ",
+       "en": "β-D-2-deoxyribose"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্রুক্টোজ",
+       "en": "Fructose"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "RNA = রাইবো নিউক্লিক এসিড।",
+     "explanation_en": "RNA = ribonucleic acid, with ribose.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "DNA-এর চিনিতে 2′ কার্বনে কী থাকে?",
+     "question_en": "In DNA's sugar, what is at the 2′ carbon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "-OH",
+       "en": "-OH"
+      },
+      {
+       "id": "b",
+       "bn": "-H",
+       "en": "-H"
+      },
+      {
+       "id": "c",
+       "bn": "-CH₃",
+       "en": "-CH₃"
+      },
+      {
+       "id": "d",
+       "bn": "-NH₂",
+       "en": "-NH₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ডিঅক্সি অর্থ একটি O কম; 2′ কার্বনে H থাকে।",
+     "explanation_en": "'Deoxy' means one O less; H sits at C-2′.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিউক্লিক এসিডের চিনির চক্র কত সদস্যবিশিষ্ট?",
+     "question_en": "The sugar ring in nucleic acids has how many members?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "৪",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "৫",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "৬",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ফিউরানোজ চক্র পঞ্চভুজ।",
+     "explanation_en": "The furanose ring is five-membered.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি ফিউরানোজ গঠনের বৈশিষ্ট্য?",
+     "question_en": "Which describes the furanose form?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ছয় সদস্যবিশিষ্ট চক্র",
+       "en": "Six-membered ring"
+      },
+      {
+       "id": "b",
+       "bn": "পাঁচ সদস্যবিশিষ্ট চক্র যাতে একটি O আছে",
+       "en": "Five-membered ring containing one O"
+      },
+      {
+       "id": "c",
+       "bn": "সরলশৃঙ্খল",
+       "en": "Open chain"
+      },
+      {
+       "id": "d",
+       "bn": "তিন সদস্যের চক্র",
+       "en": "Three-membered ring"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পাঁচটি পরমাণুর মধ্যে একটি অক্সিজেন থাকে ও চারটি কার্বন থাকে।",
+     "explanation_en": "Four carbons and one oxygen make the five-membered ring.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.20",
+   "title_bn": "পিরিমিডিন ক্ষারক ও পিউরিন ক্ষারক",
+   "title_en": "Pyrimidine and purine bases",
+   "notes_bn": "উভয় নিউক্লিক এসিডে মোট চারটি ক্ষারক: দুটি পিউরিন ও দুটি পিরিমিডিন।\nRNA: অ্যাডিনিন (A), গুয়ানিন (G), সাইটোসিন (C), ইউরাসিল (U)। DNA-তে ইউরাসিলের বদলে থাইমিন (T)।\nপিরিমিডিন ক্ষারক (C, U, T) পিরিমিডিন চক্রের জাত; RNA-তে C ও U, DNA-তে C ও T।\nপিউরিন ক্ষারক: অ্যাডিনিন (A) ও গুয়ানিন (G) (6-অ্যামাইনো পিউরিন ও 2-অ্যামাইনো-6-হাইড্রক্সি পিউরিন)।\nপিউরিন বিপাকে শেষ যৌগ ইউরিক এসিড, মূত্রের সাথে পরিত্যক্ত; বাত রোগে দেহে বেশি জমে।",
+   "notes_en": "Each nucleic acid has four bases: two purines and two pyrimidines.\nRNA: A, G, C, U. DNA: A, G, C, T (thymine replaces uracil).\nPyrimidines (C, U, T) derive from the pyrimidine ring; RNA has C and U, DNA has C and T.\nPurines: adenine (A, 6-aminopurine) and guanine (G, 2-amino-6-hydroxypurine).\nUric acid is the end product of purine metabolism, excreted in urine; it accumulates in gout.",
+   "mcqs": [
+    {
+     "question_bn": "DNA-তে থাকে না কোন ক্ষারক?",
+     "question_en": "Which base is absent from DNA?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাডিনিন",
+       "en": "Adenine"
+      },
+      {
+       "id": "b",
+       "bn": "থাইমিন",
+       "en": "Thymine"
+      },
+      {
+       "id": "c",
+       "bn": "ইউরাসিল",
+       "en": "Uracil"
+      },
+      {
+       "id": "d",
+       "bn": "গুয়ানিন",
+       "en": "Guanine"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "DNA-তে ইউরাসিলের স্থলে থাইমিন থাকে।",
+     "explanation_en": "Thymine replaces uracil in DNA.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি পিউরিন ক্ষারক?",
+     "question_en": "Which is a purine base?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইটোসিন",
+       "en": "Cytosine"
+      },
+      {
+       "id": "b",
+       "bn": "থাইমিন",
+       "en": "Thymine"
+      },
+      {
+       "id": "c",
+       "bn": "গুয়ানিন",
+       "en": "Guanine"
+      },
+      {
+       "id": "d",
+       "bn": "ইউরাসিল",
+       "en": "Uracil"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "A ও G পিউরিন; C, U, T পিরিমিডিন।",
+     "explanation_en": "A and G are purines; C, U, T are pyrimidines.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "RNA-তে কোন দুটি পিরিমিডিন ক্ষারক থাকে?",
+     "question_en": "Which two pyrimidine bases occur in RNA?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C ও T",
+       "en": "C and T"
+      },
+      {
+       "id": "b",
+       "bn": "C ও U",
+       "en": "C and U"
+      },
+      {
+       "id": "c",
+       "bn": "A ও G",
+       "en": "A and G"
+      },
+      {
+       "id": "d",
+       "bn": "T ও U",
+       "en": "T and U"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "RNA-তে সাইটোসিন ও ইউরাসিল।",
+     "explanation_en": "RNA has cytosine and uracil.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মানবদেহে পিউরিন বিপাকের শেষ যৌগ কোনটি?",
+     "question_en": "The end product of purine metabolism in humans is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইউরিয়া",
+       "en": "Urea"
+      },
+      {
+       "id": "b",
+       "bn": "ইউরিক এসিড",
+       "en": "Uric acid"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামোনিয়া",
+       "en": "Ammonia"
+      },
+      {
+       "id": "d",
+       "bn": "CO₂",
+       "en": "CO₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ইউরিক এসিডকে শেষ যৌগ বলা হয়েছে, বাতরোগে তা জমে।",
+     "explanation_en": "Uric acid; excess deposits cause gout.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.21",
+   "title_bn": "নিউক্লিয়োসাইড",
+   "title_en": "Nucleosides",
+   "notes_bn": "নিউক্লিয়োসাইড = একটি পিরিমিডিন বা পিউরিন ক্ষারক + একটি পেন্টোজ চিনি; গ্লাইকোসাইড যৌগ।\nনিউক্লিয়োটাইডের মৃদু আর্দ্রবিশ্লেষণে নিউক্লিয়োসাইড ও H₃PO₄ পাওয়া যায়; অর্থাৎ নিউক্লিয়োটাইড = নিউক্লিয়োসাইডের ফসফেট এস্টার।\nপিরিমিডিনে ক্ষারকের N-1 এবং পিউরিনে N-9-এর H, চিনির 1′ কার্বনের -OH-এর সাথে পানি অপসারণ করে β-N-গ্লাইকোসাইড বন্ধন গড়ে।\nরাইবোজ ও 2-ডিঅক্সিরাইবোজ থেকে গঠিতগুলো যথাক্রমে রাইবোসাইড ও ডিঅক্সিরাইবোসাইড। উদাহরণ: ইউরিডিন (ইউরাসিল রাইবোসাইড), ডিঅক্সি-অ্যাডিনোসিন।",
+   "notes_en": "Nucleoside = purine/pyrimidine base + pentose sugar (a glycoside).\nMild hydrolysis of a nucleotide gives a nucleoside and H₃PO₄, so a nucleotide is a phosphate ester of a nucleoside.\nThe H on N-1 (pyrimidine) or N-9 (purine) condenses with the 1′-OH of the sugar, forming a β-N-glycosidic bond.\nWith ribose gives ribosides, with 2-deoxyribose gives deoxyribosides, e.g. uridine, deoxyadenosine.",
+   "mcqs": [
+    {
+     "question_bn": "নিউক্লিয়োসাইড কী নিয়ে গঠিত?",
+     "question_en": "A nucleoside consists of –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্ষারক + চিনি",
+       "en": "base + sugar"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষারক + ফসফেট",
+       "en": "base + phosphate"
+      },
+      {
+       "id": "c",
+       "bn": "চিনি + ফসফেট",
+       "en": "sugar + phosphate"
+      },
+      {
+       "id": "d",
+       "bn": "ক্ষারক + চিনি + ফসফেট",
+       "en": "base + sugar + phosphate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফসফেট যুক্ত হলে নিউক্লিয়োটাইড।",
+     "explanation_en": "Adding phosphate gives a nucleotide.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পিউরিন নিউক্লিয়োসাইডে ক্ষারকের কোন N চিনির সাথে যুক্ত থাকে?",
+     "question_en": "In a purine nucleoside, which N attaches to the sugar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N-1",
+       "en": "N-1"
+      },
+      {
+       "id": "b",
+       "bn": "N-3",
+       "en": "N-3"
+      },
+      {
+       "id": "c",
+       "bn": "N-7",
+       "en": "N-7"
+      },
+      {
+       "id": "d",
+       "bn": "N-9",
+       "en": "N-9"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "পিউরিনে N-9, পিরিমিডিনে N-1।",
+     "explanation_en": "N-9 for purines, N-1 for pyrimidines.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিউক্লিয়োসাইডে ক্ষারক ও চিনিকে যুক্তকারী বন্ধন –",
+     "question_en": "The linkage between base and sugar is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পেপটাইড",
+       "en": "peptide"
+      },
+      {
+       "id": "b",
+       "bn": "ডাইসালফাইড",
+       "en": "disulphide"
+      },
+      {
+       "id": "c",
+       "bn": "β-N-গ্লাইকোসাইড",
+       "en": "β-N-glycosidic"
+      },
+      {
+       "id": "d",
+       "bn": "ফসফোডাইএস্টার",
+       "en": "phosphodiester"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "চিনির 1′ C ও ক্ষারকের N-এর মধ্যে।",
+     "explanation_en": "Between sugar C-1′ and base N.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইউরিডিন কোন ধরনের নিউক্লিয়োসাইড?",
+     "question_en": "Uridine is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "থাইমিন ডিঅক্সিরাইবোসাইড",
+       "en": "thymine deoxyriboside"
+      },
+      {
+       "id": "b",
+       "bn": "ইউরাসিল রাইবোসাইড",
+       "en": "uracil riboside"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাডিনিন রাইবোসাইড",
+       "en": "adenine riboside"
+      },
+      {
+       "id": "d",
+       "bn": "সাইটোসিন ফসফেট",
+       "en": "cytosine phosphate"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ইউরাসিল ও β-D-রাইবোজ সংযুক্ত হয়েছে।",
+     "explanation_en": "It is uracil joined to β-D-ribose.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.22",
+   "title_bn": "নিউক্লিয়োটাইড",
+   "title_en": "Nucleotides",
+   "notes_bn": "নিউক্লিয়োটাইড হলো নিউক্লিক এসিডের মনোমার বা ক্ষুদ্রতম গাঠনিক একক; এক অণু ক্ষারক, এক অণু পেন্টোজ চিনি ও ফসফরিক এসিড।\nরাইবোজ থাকলে রাইবোনিউক্লিয়োটাইড (RNA), 2-ডিঅক্সিরাইবোজ থাকলে ডিঅক্সিরাইবোনিউক্লিয়োটাইড (DNA)।\nফসফেট চিনির 5′ (বা 3′/2′) C-এর সাথে এস্টার বন্ধনে যুক্ত। কাঠামো: ক্ষারক–চিনি–ফসফেট।\nনামকরণ ক্ষারক অনুযায়ী: অ্যাডিনিন নিউক্লিয়োটাইড = এডিনোসিন-5′-ফসফেট = AMP; ইউরাসিলেরটি UMP; ডিঅক্সিরূপ dAMP।",
+   "notes_en": "A nucleotide is the monomer (smallest structural unit) of nucleic acids: one base, one pentose and phosphoric acid.\nWith ribose it is a ribonucleotide (RNA); with 2-deoxyribose a deoxyribonucleotide (DNA).\nPhosphate is esterified to the sugar's 5′ (or 3′/2′) carbon; layout is base-sugar-phosphate.\nNamed after the base: adenine nucleotide = adenosine-5′-phosphate = AMP; uracil gives UMP; deoxy form dAMP.",
+   "mcqs": [
+    {
+     "question_bn": "AMP-এর পূর্ণরূপ কী?",
+     "question_en": "What does AMP stand for?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাডিনোসিন মনোফসফেট",
+       "en": "Adenosine monophosphate"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইনো মিথাইল প্রোটিন",
+       "en": "Amino methyl protein"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাডিনিন মিথাইল ফসফেট",
+       "en": "Adenine methyl phosphate"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালানিন মনোপেপটাইড",
+       "en": "Alanine monopeptide"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যাডিনিন নিউক্লিয়োটাইড = এডিনোসিন মনোফসফেট।",
+     "explanation_en": "Adenine nucleotide = adenosine monophosphate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিউক্লিয়োটাইডে ফসফেট চিনির কোন কার্বনের সাথে সাধারণত যুক্ত দেখানো হয়েছে?",
+     "question_en": "Phosphate is shown attached to which sugar carbon?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1′",
+       "en": "1′"
+      },
+      {
+       "id": "b",
+       "bn": "5′",
+       "en": "5′"
+      },
+      {
+       "id": "c",
+       "bn": "4′ O",
+       "en": "ring O"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "AMP/UMP-এর চিত্রে ফসফেট 5′-CH₂-এ যুক্ত।",
+     "explanation_en": "In AMP/UMP figures it is on the 5′ CH₂.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিউক্লিয়োটাইডের সঠিক গঠন ক্রম কোনটি?",
+     "question_en": "Correct composition of a nucleotide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্ষারক + অ্যামাইনো এসিড",
+       "en": "Base + amino acid"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষারক + পেন্টোজ + ফসফেট",
+       "en": "Base + pentose + phosphate"
+      },
+      {
+       "id": "c",
+       "bn": "দুটি চিনি + ফসফেট",
+       "en": "Two sugars + phosphate"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু ফসফেট",
+       "en": "Phosphate only"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তিনটি উপাদান।",
+     "explanation_en": "Three components.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "dAMP-এর 'd' কী নির্দেশ করে?",
+     "question_en": "What does 'd' in dAMP indicate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডাইমার",
+       "en": "dimer"
+      },
+      {
+       "id": "b",
+       "bn": "ডিঅক্সিরাইবোজ চিনি",
+       "en": "deoxyribose sugar"
+      },
+      {
+       "id": "c",
+       "bn": "ডাবল হেলিক্স",
+       "en": "double helix"
+      },
+      {
+       "id": "d",
+       "bn": "ডিস্যাকারাইড",
+       "en": "disaccharide"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ডিঅক্সিঅ্যাডিনিলিক এসিড = dAMP।",
+     "explanation_en": "dAMP is deoxyadenylic acid, with deoxyribose.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.23",
+   "title_bn": "পলিনিউক্লিয়োটাইড শিকল: DNA ও RNA",
+   "title_en": "Polynucleotide chain: DNA and RNA",
+   "notes_bn": "অসংখ্য নিউক্লিয়োটাইড এনজাইমের প্রভাবে সরলরৈখিক পলিনিউক্লিয়োটাইড শিকল গঠন করে।\nপাশাপাশি দুই নিউক্লিয়োটাইডে প্রথমটির চিনির 5′ C-এর সাথে দ্বিতীয়টির 3′ C ফসফেট দ্বারা ডাইএস্টার (ফসফোডাইএস্টার) বন্ধনে যুক্ত থাকে।\nDNA শিকলের ক্ষারক A, C, G, T এবং চিনি β-D-2-ডিঅক্সিরাইবোজ।\nRNA শিকলের ক্ষারক A, C, G, U এবং চিনি β-D-রাইবোজ।\nDNA শিকলে ক্ষারকের ক্রম (সিকুয়েন্স) জেনেটিক তথ্য বহন করে; সম্পূরক শিকলে A↔T ও G↔C।",
+   "notes_en": "Countless nucleotides link under enzymes into a linear polynucleotide chain.\nPhosphate bridges the 5′ C of one sugar and the 3′ C of the next, forming a phosphodiester linkage.\nDNA: bases A, C, G, T; sugar β-D-2-deoxyribose.\nRNA: bases A, C, G, U; sugar β-D-ribose.\nThe base sequence carries genetic information; the complementary strand pairs A with T and G with C.",
+   "mcqs": [
+    {
+     "question_bn": "পলিনিউক্লিয়োটাইডে দুই নিউক্লিয়োটাইডের মধ্যে কোন বন্ধন?",
+     "question_en": "Which linkage joins two nucleotides?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পেপটাইড",
+       "en": "Peptide"
+      },
+      {
+       "id": "b",
+       "bn": "ফসফোডাইএস্টার",
+       "en": "Phosphodiester"
+      },
+      {
+       "id": "c",
+       "bn": "আয়নিক",
+       "en": "Ionic"
+      },
+      {
+       "id": "d",
+       "bn": "গ্লাইকোসাইড",
+       "en": "Glycosidic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "5′ C ও 3′ C ফসফেট সেতুতে যুক্ত।",
+     "explanation_en": "Phosphate bridges 5′ and 3′ carbons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "DNA শিকলে ক্ষারক চারটি কী কী?",
+     "question_en": "The four bases in a DNA chain are –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "A, U, G, C",
+       "en": "A, U, G, C"
+      },
+      {
+       "id": "b",
+       "bn": "A, T, G, C",
+       "en": "A, T, G, C"
+      },
+      {
+       "id": "c",
+       "bn": "A, T, U, C",
+       "en": "A, T, U, C"
+      },
+      {
+       "id": "d",
+       "bn": "G, C, U, T",
+       "en": "G, C, U, T"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "থাইমিন DNA-এ।",
+     "explanation_en": "Thymine is in DNA.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "DNA শিকলের একপাশের ক্রম ACGT হলে সম্পূরক শিকলের ক্রম –",
+     "question_en": "If one DNA strand reads ACGT, the complementary strand reads –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ACGT",
+       "en": "ACGT"
+      },
+      {
+       "id": "b",
+       "bn": "TGCA",
+       "en": "TGCA"
+      },
+      {
+       "id": "c",
+       "bn": "UGCA",
+       "en": "UGCA"
+      },
+      {
+       "id": "d",
+       "bn": "CATG",
+       "en": "CATG"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "A–T, C–G, G–C, T–A; বইয়ে TGCA দেখানো আছে।",
+     "explanation_en": "A-T, C-G, G-C, T-A, giving TGCA (as in the book).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "RNA শিকলের সাথে DNA শিকলের ক্ষারকগত পার্থক্য –",
+     "question_en": "Base difference between RNA and DNA chain –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RNA-তে থাইমিনের বদলে ইউরাসিল",
+       "en": "uracil in RNA instead of thymine"
+      },
+      {
+       "id": "b",
+       "bn": "RNA-তে গুয়ানিন নেই",
+       "en": "RNA lacks guanine"
+      },
+      {
+       "id": "c",
+       "bn": "DNA-তে অ্যাডিনিন নেই",
+       "en": "DNA lacks adenine"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পার্থক্য নেই",
+       "en": "No difference"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "RNA: A, C, G, U।",
+     "explanation_en": "RNA: A, C, G, U.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.25",
+   "title_bn": "DNA-এর সেকেন্ডারি গঠনচিত্র",
+   "title_en": "Secondary structure of DNA",
+   "notes_bn": "ওয়াটসন ও ক্রিক X-ray অপবর্তনের তথ্যে DNA-এর আণবিক গঠন (জোড়া কুণ্ডলী) প্রস্তাব করেন।\nদুটি বিপরীতমুখী সর্পিল পলিনিউক্লিয়োটাইড শিকল H-বন্ধনে যুক্ত হয়ে ডাবল হেলিক্স গঠন করে; শিকল দুটি সমান্তরাল অথচ বিপরীত অভিমুখী (3′→5′ ও 5′→3′)।\nক্ষারক জোড়া: A–T-এর মধ্যে 2টি এবং C–G-এর মধ্যে 3টি H-বন্ধন।\nপ্রতি পূর্ণ প্যাঁচের দৈর্ঘ্য 34 Å, তাতে 10টি নিউক্লিয়োটাইড; পাশাপাশি দুটির দূরত্ব 3.4 Å।\nDNA-কে প্যাঁচানো সিঁড়ির মতো ভাবা যায়: ক্ষারক জোড়া ধাপ, চিনি-ফসফেট খুঁটি।",
+   "notes_en": "Watson and Crick, from X-ray diffraction data, proposed the double-helix model.\nTwo antiparallel polynucleotide strands (3′→5′ and 5′→3′) are H-bonded into a double helix.\nBase pairs: A-T with two H-bonds, C-G with three.\nOne full turn is 34 Å and holds 10 nucleotides; spacing between adjacent pairs is 3.4 Å.\nLike a twisted ladder: base pairs are steps, sugar-phosphate backbones are rails.",
+   "mcqs": [
+    {
+     "question_bn": "DNA-এর ডাবল হেলিক্স মডেল কারা প্রস্তাব করেন?",
+     "question_en": "Who proposed the DNA double-helix model?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ওয়াটসন ও ক্রিক",
+       "en": "Watson and Crick"
+      },
+      {
+       "id": "b",
+       "bn": "মেন্ডেল",
+       "en": "Mendel"
+      },
+      {
+       "id": "c",
+       "bn": "সেঞ্জার",
+       "en": "Sanger"
+      },
+      {
+       "id": "d",
+       "bn": "ফিশার",
+       "en": "Fischer"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ওয়াটসন ও ক্রিকের নাম আছে।",
+     "explanation_en": "The book credits Watson and Crick.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "A–T ও C–G জোড়ায় যথাক্রমে কতটি H-বন্ধন?",
+     "question_en": "Number of H-bonds in A-T and C-G pairs respectively?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3 ও 2",
+       "en": "3 and 2"
+      },
+      {
+       "id": "b",
+       "bn": "2 ও 3",
+       "en": "2 and 3"
+      },
+      {
+       "id": "c",
+       "bn": "2 ও 2",
+       "en": "2 and 2"
+      },
+      {
+       "id": "d",
+       "bn": "3 ও 3",
+       "en": "3 and 3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "A–T = 2, C–G = 3।",
+     "explanation_en": "A-T = 2, C-G = 3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "DNA-এর এক পূর্ণ প্যাঁচে নিউক্লিয়োটাইড সংখ্যা ও দৈর্ঘ্য –",
+     "question_en": "Nucleotides and length per full turn of DNA –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10টি, 34 Å",
+       "en": "10, 34 Å"
+      },
+      {
+       "id": "b",
+       "bn": "20টি, 34 Å",
+       "en": "20, 34 Å"
+      },
+      {
+       "id": "c",
+       "bn": "10টি, 3.4 Å",
+       "en": "10, 3.4 Å"
+      },
+      {
+       "id": "d",
+       "bn": "34টি, 10 Å",
+       "en": "34, 10 Å"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "10 × 3.4 Å = 34 Å।",
+     "explanation_en": "10 x 3.4 Å = 34 Å.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "DNA-এর দুই শিকল সম্পর্কে সঠিক –",
+     "question_en": "DNA strands are –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একই অভিমুখী",
+       "en": "parallel same direction"
+      },
+      {
+       "id": "b",
+       "bn": "সমান্তরাল কিন্তু বিপরীত অভিমুখী",
+       "en": "parallel but opposite in direction"
+      },
+      {
+       "id": "c",
+       "bn": "একটি অপরটির সাথে সংযোগহীন",
+       "en": "unconnected"
+      },
+      {
+       "id": "d",
+       "bn": "সমযোজী বন্ধনে যুক্ত",
+       "en": "joined by covalent bonds"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শিকল দুটি 3′→5′ ও 5′→3′ অভিমুখী, H-বন্ধনে যুক্ত।",
+     "explanation_en": "They run 3′→5′ and 5′→3′, joined by H-bonds.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.26",
+   "title_bn": "DNA-এর জৈবিক ভূমিকা",
+   "title_en": "Biological functions of DNA",
+   "notes_bn": "প্রধান দুই ভূমিকা: (i) অনুলিপিকরণ (replication), (ii) প্রোটিন সংশ্লেষণে নির্দেশনা।\nঅনুলিপিকরণ: কোষ বিভাজনে (ইন্টারফেজ) H-বন্ধন ভেঙে শিকল দুটি আলাদা হয়, প্রতিটি টেমপ্লেট হিসেবে সম্পূরক নতুন শিকল গঠন করে; DNA পলিমারেজ এনজাইম ও Mg²⁺ লাগে; নতুন নিউক্লিয়োটাইড 3′ প্রান্তে যুক্ত হয়।\nফলাফল: দুটি নতুন DNA, প্রতিটিতে একটি পুরাতন ও একটি নতুন শিকল; তাই অর্ধ-রক্ষণশীল।\nপ্রোটিন সংশ্লেষণ: DNA থেকে mRNA তৈরি (ট্রান্সক্রিপশন), সেখানে T-এর স্থলে U; ট্রিপলেট (তিনটি ক্ষারক) এক অ্যামাইনো এসিড নির্দেশ করে।\nDNA → (রেপ্লিকেশন) DNA → (ট্রান্সক্রিপশন) mRNA → (ট্রান্সলেশন) প্রোটিন।",
+   "notes_en": "Two main roles: replication and directing protein synthesis.\nReplication: during cell division the H-bonds break, strands separate and each acts as a template for a complementary new strand, with DNA polymerase and Mg²⁺; nucleotides are added at the 3′ end.\nResult: two DNA molecules, each with one old and one new strand (semi-conservative).\nProtein synthesis: mRNA is made from DNA (transcription), with U in place of T; each triplet codes one amino acid.\nDNA -> (replication) DNA -> (transcription) mRNA -> (translation) protein.",
+   "mcqs": [
+    {
+     "question_bn": "DNA-এর অনুলিপিকরণে কোন এনজাইম কাজ করে?",
+     "question_en": "Which enzyme works in DNA replication?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "DNA পলিমারেজ",
+       "en": "DNA polymerase"
+      },
+      {
+       "id": "b",
+       "bn": "ডায়াস্টেজ",
+       "en": "Diastase"
+      },
+      {
+       "id": "c",
+       "bn": "জাইমেজ",
+       "en": "Zymase"
+      },
+      {
+       "id": "d",
+       "bn": "ট্রিপসিন",
+       "en": "Trypsin"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নতুন শিকল DNA পলিমারেজ গঠন করে।",
+     "explanation_en": "DNA polymerase builds the new strand.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অনুলিপিকরণকে অর্ধ-রক্ষণশীল বলা হয় কেন?",
+     "question_en": "Why is replication semi-conservative?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রতি নতুন DNA-তে একটি পুরাতন শিকল থাকে",
+       "en": "each new DNA keeps one old strand"
+      },
+      {
+       "id": "b",
+       "bn": "সব শিকল নতুন হয়",
+       "en": "all strands are new"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো শিকল ভাঙে না",
+       "en": "no strand separates"
+      },
+      {
+       "id": "d",
+       "bn": "RNA তৈরি হয়",
+       "en": "RNA is formed"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মাতৃ হেলিক্সের একটি শিকল প্রতিটি কন্যায় যায়।",
+     "explanation_en": "One parent strand passes to each daughter.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মূল DNA-তে ক্রম ATGC হলে নতুন সম্পূরক শিকলের ক্রম –",
+     "question_en": "If the template reads ATGC, the new strand is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TACG",
+       "en": "TACG"
+      },
+      {
+       "id": "b",
+       "bn": "ATGC",
+       "en": "ATGC"
+      },
+      {
+       "id": "c",
+       "bn": "UACG",
+       "en": "UACG"
+      },
+      {
+       "id": "d",
+       "bn": "CGTA",
+       "en": "CGTA"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "A-T, T-A, G-C, C-G।",
+     "explanation_en": "A-T, T-A, G-C, C-G.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের প্রক্রিয়ার সঠিক ক্রম –",
+     "question_en": "Correct flow of information –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোটিন → mRNA → DNA",
+       "en": "Protein -> mRNA -> DNA"
+      },
+      {
+       "id": "b",
+       "bn": "DNA → mRNA → প্রোটিন",
+       "en": "DNA -> mRNA -> protein"
+      },
+      {
+       "id": "c",
+       "bn": "mRNA → DNA → প্রোটিন",
+       "en": "mRNA -> DNA -> protein"
+      },
+      {
+       "id": "d",
+       "bn": "DNA → প্রোটিন → mRNA",
+       "en": "DNA -> protein -> mRNA"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ট্রান্সক্রিপশনের পর ট্রান্সলেশন।",
+     "explanation_en": "Transcription then translation.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.27",
+   "title_bn": "প্রোটিন সংশ্লেষণে নিউক্লিক এসিডের ভূমিকা",
+   "title_en": "Role of nucleic acids in protein synthesis",
+   "notes_bn": "প্রোটিন সংশ্লেষণ সাইটোপ্লাজমে রাইবোসোমে ঘটে। RNA তিন প্রকার: বার্তাবহ mRNA, ট্রান্সফার tRNA ও রাইবোসোমাল rRNA।\nট্রান্সক্রিপশন: DNA টেমপ্লেট থেকে RNA পলিমারেজ দ্বারা mRNA তৈরি; থাইমিনের বদলে ইউরাসিল (U)।\nmRNA-র তিনটি ক্ষারকের ক্রম একটি কোডন যা এক অ্যামাইনো এসিড নির্দেশ করে। 4×4×4 = 64 ট্রিপলেটের 61টি অ্যামাইনো এসিডের কোড, বাকি 3টি (যেমন ATT, ATC, ACT) সমাপ্তি সংকেত।\nঅ্যামাইনো এসিড + tRNA + ATP → অ্যামাইনো অ্যাসাইল-tRNA + AMP (এনজাইম সংশ্লেষক); tRNA অ্যান্টিকোডন দ্বারা mRNA-র কোডনে বসে অ্যামাইনো এসিড আনে।\nট্রান্সলেশন: mRNA-র কোডন অনুযায়ী অ্যামাইনো এসিড যুক্ত হয়ে পলিপেপটাইড হয়। উদাহরণ: AAA = ফিনাইল অ্যালানিন, CAA = ভ্যালিন।\nজিন = নির্দিষ্ট প্রোটিনের কোড বহনকারী DNA খণ্ড।",
+   "notes_en": "Protein synthesis occurs on ribosomes in the cytoplasm. Three RNAs: messenger (mRNA), transfer (tRNA), ribosomal (rRNA).\nTranscription: mRNA is made on a DNA template by RNA polymerase, with uracil (U) in place of thymine.\nA triplet of mRNA bases is a codon specifying one amino acid. Of 4x4x4 = 64 triplets, 61 code amino acids and 3 (e.g. ATT, ATC, ACT) signal stop.\nAmino acid + tRNA + ATP -> aminoacyl-tRNA + AMP; the tRNA anticodon pairs with the mRNA codon, delivering its amino acid.\nTranslation: amino acids join in codon order to build the polypeptide, e.g. AAA = phenylalanine, CAA = valine.\nA gene is the DNA segment coding one protein.",
+   "mcqs": [
+    {
+     "question_bn": "প্রোটিন সংশ্লেষণের স্থান কোনটি?",
+     "question_en": "Site of protein synthesis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রাইবোসোম",
+       "en": "Ribosome"
+      },
+      {
+       "id": "b",
+       "bn": "নিউক্লিয়োলাস",
+       "en": "Nucleolus"
+      },
+      {
+       "id": "c",
+       "bn": "কোষপ্রাচীর",
+       "en": "Cell wall"
+      },
+      {
+       "id": "d",
+       "bn": "মাইটোকন্ড্রিয়ার ঝিল্লি",
+       "en": "Mitochondrial membrane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রাইবোসোম প্রোটিনের কারখানা।",
+     "explanation_en": "Ribosome is the protein factory.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "mRNA-র তিনটি ক্ষারকের ক্রমকে কী বলে?",
+     "question_en": "A group of three bases on mRNA is called –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জিন",
+       "en": "gene"
+      },
+      {
+       "id": "b",
+       "bn": "কোডন",
+       "en": "codon"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোমোটার",
+       "en": "promoter"
+      },
+      {
+       "id": "d",
+       "bn": "এক্সন",
+       "en": "exon"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কোডন এক অ্যামাইনো এসিড চিহ্নিত করে।",
+     "explanation_en": "A codon specifies one amino acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "64টি সম্ভাব্য ট্রিপলেটের মধ্যে কতটি অ্যামাইনো এসিডের কোড বহন করে?",
+     "question_en": "How many of the 64 triplets code for amino acids?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "64",
+       "en": "64"
+      },
+      {
+       "id": "b",
+       "bn": "61",
+       "en": "61"
+      },
+      {
+       "id": "c",
+       "bn": "20",
+       "en": "20"
+      },
+      {
+       "id": "d",
+       "bn": "3",
+       "en": "3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "64 − 3 সমাপ্তি সংকেত = 61।",
+     "explanation_en": "64 - 3 stop signals = 61.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "tRNA-র কাজ কোনটি?",
+     "question_en": "Function of tRNA?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "DNA অনুলিপি তৈরি",
+       "en": "copy DNA"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইনো এসিড বহন করে mRNA-র কোডনে নিয়ে আসা",
+       "en": "carry amino acid to the mRNA codon"
+      },
+      {
+       "id": "c",
+       "bn": "লিপিড সংশ্লেষণ",
+       "en": "synthesise lipid"
+      },
+      {
+       "id": "d",
+       "bn": "রাইবোসোম গঠন",
+       "en": "form ribosomes"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যান্টিকোডন কোডনের সাথে জোড়া বাঁধে।",
+     "explanation_en": "Its anticodon pairs with the codon.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সক্রিয় অ্যামাইনো এসিড তৈরির সমীকরণে বিক্রিয়ার উপজাত –",
+     "question_en": "In activation of an amino acid the by-product nucleotide is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ADP",
+       "en": "ADP"
+      },
+      {
+       "id": "b",
+       "bn": "AMP",
+       "en": "AMP"
+      },
+      {
+       "id": "c",
+       "bn": "dAMP",
+       "en": "dAMP"
+      },
+      {
+       "id": "d",
+       "bn": "UMP",
+       "en": "UMP"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যামাইনো এসিড + tRNA + ATP → অ্যামাইনোঅ্যাসাইল-tRNA + AMP।",
+     "explanation_en": "Amino acid + tRNA + ATP gives aminoacyl-tRNA + AMP.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "DNA টেমপ্লেটে ক্রম TAC হলে mRNA কোডন –",
+     "question_en": "Template DNA triplet TAC gives mRNA codon –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ATG",
+       "en": "ATG"
+      },
+      {
+       "id": "b",
+       "bn": "AUG",
+       "en": "AUG"
+      },
+      {
+       "id": "c",
+       "bn": "UAC",
+       "en": "UAC"
+      },
+      {
+       "id": "d",
+       "bn": "TAC",
+       "en": "TAC"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "T→A, A→U, C→G; mRNA-তে থাইমিন নেই।",
+     "explanation_en": "T->A, A->U, C->G; no T in mRNA.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "11.14",
+   "stimulus_bn": "একটি গবেষণাগারে গ্লাইসিনের জলীয় দ্রবণ নিয়ে প্রথমে HCl, পরে NaOH যোগ করে তড়িৎ চালনা করা হলো।",
+   "stimulus_en": "In a lab, a glycine solution is first treated with HCl, then with NaOH, and current is passed through each.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "জুইটার আয়ন কী?",
+     "question_en": "What is a zwitterion?",
+     "model_answer_bn": "একই অণুতে ধনাত্মক (-NH₃⁺) ও ঋণাত্মক (-COO⁻) চার্জযুক্ত আয়ন।",
+     "model_answer_en": "An ion with both -NH₃⁺ and -COO⁻ in one molecule."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "আইসো-ইলেকট্রিক pH বলতে কী বোঝ?",
+     "question_en": "What is meant by isoelectric pH?",
+     "model_answer_bn": "যে pH-এ অ্যামাইনো এসিড তড়িৎক্ষেত্রে কোনো দিকে যায় না ও জুইটার আয়ন হিসেবে নিষ্ক্রিয় থাকে, গ্লাইসিনের জন্য 6.0।",
+     "model_answer_en": "The pH at which the amino acid shows no net migration; for glycine 6.0."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "HCl ও NaOH দ্রবণে গ্লাইসিন কোন আয়নরূপে থাকবে এবং কোন তড়িৎদ্বারে যাবে?",
+     "question_en": "In HCl and NaOH which form does glycine take and where does it migrate?",
+     "model_answer_bn": "HCl-এ ক্যাটায়ন (⁺H₃N-CH₂-COOH) → ক্যাথোড; NaOH-এ অ্যানায়ন (H₂N-CH₂-COO⁻) → অ্যানোড।",
+     "model_answer_en": "Cation in HCl goes to the cathode; anion in NaOH goes to the anode."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "গ্লাইসিনকে (ক) NaOH ও (খ) CH₃I-এর সাথে বিক্রিয়ার সমীকরণ লিখে অম্ল ও ক্ষার ধর্ম ব্যাখ্যা কর।",
+     "question_en": "Write equations of glycine with NaOH and CH₃I and explain its acidic and basic character.",
+     "model_answer_bn": "(ক) H₂N-CH₂-COOH + NaOH → H₂N-CH₂-COONa + H₂O (অম্লধর্ম, -COOH); (খ) H₂N-CH₂-COOH + 2CH₃I → (CH₃)₂N-CH₂-COOH + 2HI (ক্ষারধর্ম, -NH₂)।",
+     "model_answer_en": "(a) with NaOH forms the sodium salt: the -COOH acts as an acid; (b) with CH₃I gives N,N-dimethylglycine: the -NH₂ acts as a base."
+    }
+   ]
+  },
+  {
+   "topic_section": "11.17",
+   "stimulus_bn": "একজন রোগীর রক্তে হিমোগ্লোবিনের একটি অ্যামাইনো এসিড (glu) পরিবর্তিত হয়ে val হয়েছে এবং সে রক্তশূন্যতায় ভুগছে। অন্যদিকে ডিম সেদ্ধ করলে সাদা অংশ জমাট বাঁধে।",
+   "stimulus_en": "A patient's haemoglobin has glu replaced by val and he suffers from anaemia. Separately, boiling an egg makes the white coagulate.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "প্রোটিনের প্রাইমারি গঠন কী?",
+     "question_en": "What is the primary structure of a protein?",
+     "model_answer_bn": "পলিপেপটাইড শিকলে অ্যামাইনো এসিডের ক্রমবিন্যাস।",
+     "model_answer_en": "The amino acid sequence of the polypeptide chain."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "রোগটির নাম লেখ এবং কেন হয় তা ব্যাখ্যা কর।",
+     "question_en": "Name the disease and explain its cause.",
+     "model_answer_bn": "সিকল সেল অ্যানিমিয়া; প্রাইমারি গঠনে একটি অ্যামাইনো এসিডের পরিবর্তনে হিমোগ্লোবিন অক্সিজেন বহনে অক্ষম হয়।",
+     "model_answer_en": "Sickle cell anaemia; one change in the primary structure impairs oxygen transport."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "ডিম সেদ্ধ করলে সাদা অংশ জমাট বাঁধে কেন?",
+     "question_en": "Why does egg white coagulate on boiling?",
+     "model_answer_bn": "তাপে অ্যালবুমিনের টারসিয়ারি গঠন নষ্ট হয়ে (স্বভাব বিচ্যুতি) সরলরৈখিক হয় ও অদ্রবণীয় জমাট বাঁধে।",
+     "model_answer_en": "Heat denatures albumin's tertiary structure, giving an insoluble coagulum."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "প্রোটিনের সেকেন্ডারি ও টারসিয়ারি গঠনের পার্থক্য বিশ্লেষণ কর।",
+     "question_en": "Analyse the difference between secondary and tertiary structure.",
+     "model_answer_bn": "সেকেন্ডারি: >C=O ও -NH-এর H-বন্ধনে α-হেলিক্স/β-শিট (তন্তুময়, উল-নখ-রেশম)। টারসিয়ারি: হেলিক্সের আরও ভাঁজ, H-বন্ধন, লবণ-সেতু ও ডাইসালফাইড বন্ধন দ্বারা গোলাকার আকার (অ্যালবুমিন, হিমোগ্লোবিন)।",
+     "model_answer_en": "Secondary: H-bonded α-helix or β-sheet (fibrous). Tertiary: further folding held by H-bonds, salt bridges and disulphide bonds into a globular shape."
+    }
+   ]
+  },
+  {
+   "topic_section": "11.25",
+   "stimulus_bn": "একটি DNA খণ্ডের একটি শিকলের ক্রম 5′-ACGT-3′।",
+   "stimulus_en": "One strand of a DNA segment reads 5′-ACGT-3′.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "DNA-এর সুগারটির নাম কী?",
+     "question_en": "Name the sugar of DNA.",
+     "model_answer_bn": "β-D-2-ডিঅক্সিরাইবোজ।",
+     "model_answer_en": "β-D-2-deoxyribose."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "সম্পূরক শিকলের ক্রম লেখ।",
+     "question_en": "Write the complementary strand sequence.",
+     "model_answer_bn": "TGCA (A–T, C–G, G–C, T–A)।",
+     "model_answer_en": "TGCA (A-T, C-G, G-C, T-A)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "এই খণ্ডের দুই শিকলের মধ্যে মোট কতটি H-বন্ধন থাকবে?",
+     "question_en": "Total H-bonds between the two strands?",
+     "model_answer_bn": "A–T 2 + C–G 3 + G–C 3 + T–A 2 = 10টি।",
+     "model_answer_en": "2 + 3 + 3 + 2 = 10 H-bonds."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "কোষ বিভাজনে এই DNA-র অনুলিপিকরণ প্রক্রিয়া ব্যাখ্যা কর।",
+     "question_en": "Explain replication of this DNA in cell division.",
+     "model_answer_bn": "H-বন্ধন ভেঙে শিকল আলাদা; প্রতিটি টেমপ্লেট; DNA পলিমারেজ ও Mg²⁺ দ্বারা 3′ প্রান্তে সম্পূরক নিউক্লিয়োটাইড যুক্ত; দুটি DNA, প্রতিটিতে একটি পুরাতন ও একটি নতুন শিকল (অর্ধ-রক্ষণশীল)।",
+     "model_answer_en": "H-bonds break, each strand templates a new one via DNA polymerase and Mg²⁺ adding nucleotides at 3′; two DNAs each with one old and one new strand (semi-conservative)."
+    }
+   ]
+  }
+ ],
+ "notes": "All 19 pages (613-631) read; all readable. Printed p.598-616 = pdf 613-631 (offset 15). Pages 11.28/11.29 (comparison tables) skipped as outside assigned sections. 11.24 not assigned. Section 11.17.1 enzyme content (printed 604-605) not assigned a topic; not covered."
+}

@@ -1,0 +1,2325 @@
+{
+ "chapter_no": 11,
+ "topics": [
+  {
+   "section_no": "11.1",
+   "title_bn": "ভূমিকা",
+   "title_en": "Introduction to natural polymers and biomolecules",
+   "notes_bn": "প্রাকৃতিক পলিমার দেহগঠন, খাদ্য, বংশগতি ও জৈব বিক্রিয়ায় ভূমিকা রাখে।\nতিন বৃহৎ শ্রেণি: পলিস্যাকারাইড (স্টার্চ, সেলুলোজ), প্রোটিন, নিউক্লিক এসিড (RNA, DNA)।\nপলিস্যাকারাইডের একক গ্লুকোজ; সাধারণ সংকেত (C6H10O5)n; আর্দ্রবিশ্লেষণে গ্লুকোজ মেলে।\nপ্রোটিন আর্দ্রবিশ্লেষণে অ্যামাইনো এসিড দেয়; নিউক্লিক এসিড আর্দ্রবিশ্লেষণে ক্ষারক, পেন্টোজ চিনি ও H3PO4 দেয়।\nবায়ো-অণু গঠনে মূলত ছয়টি মৌল: C, H, O, N, P, S (কোষের প্রায় 99% ভর)।\nএনজাইমের প্রভাবে মনোমার ঘনীভবনে পলিমার হয় (H2O বের হয়); আর্দ্রবিশ্লেষণে ভেঙে মনোমার ফেরে।\nব্যাকটেরিয়া কোষে পানি 70%, প্রোটিন 15%, DNA 1%, RNA 6%, পলিস্যাকারাইড 2%।",
+   "notes_en": "Natural polymers build the body, supply food, carry heredity and act as catalysts.\nThree classes: polysaccharides (starch, cellulose), proteins, nucleic acids (DNA, RNA).\nPolysaccharide monomer = glucose, general formula (C6H10O5)n.\nProtein hydrolysis gives amino acids; nucleic acid hydrolysis gives bases, pentose sugar and H3PO4.\nSix elements (C,H,O,N,P,S) make ~99% of cell mass.\nEnzymatic condensation (loses H2O) forms polymers; hydrolysis reverses it.\nBacterial cell: water 70%, protein 15%, DNA 1%, RNA 6%, polysaccharide 2%.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি প্রাকৃতিক পলিমার?",
+     "question_en": "Which is a natural polymer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "স্টার্চ",
+       "en": "Starch"
+      },
+      {
+       "id": "b",
+       "bn": "পলিথিন",
+       "en": "Polythene"
+      },
+      {
+       "id": "c",
+       "bn": "PVC",
+       "en": "PVC"
+      },
+      {
+       "id": "d",
+       "bn": "নাইলন",
+       "en": "Nylon"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "স্টার্চ উদ্ভিদজ প্রাকৃতিক পলিস্যাকারাইড।",
+     "explanation_en": "Starch is a natural polysaccharide of plants.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পলিস্যাকারাইডের আর্দ্রবিশ্লেষণে কী পাওয়া যায়?",
+     "question_en": "Hydrolysis of a polysaccharide gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামাইনো এসিড",
+       "en": "Amino acids"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "c",
+       "bn": "পিউরিন",
+       "en": "Purine"
+      },
+      {
+       "id": "d",
+       "bn": "ফসফোলিপিড",
+       "en": "Phospholipid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পলিস্যাকারাইডের একক গ্লুকোজ।",
+     "explanation_en": "The monomer of polysaccharides is glucose.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ব্যাকটেরিয়া কোষে কোন উপাদানের শতকরা ভর সবচেয়ে বেশি?",
+     "question_en": "Which component has the largest mass percentage in a bacterial cell?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোটিন",
+       "en": "Protein"
+      },
+      {
+       "id": "b",
+       "bn": "DNA",
+       "en": "DNA"
+      },
+      {
+       "id": "c",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "d",
+       "bn": "RNA",
+       "en": "RNA"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সারণি অনুযায়ী পানি 70%, প্রোটিন 15%।",
+     "explanation_en": "Per the table water is 70%, protein 15%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিউক্লিক এসিডের আর্দ্রবিশ্লেষণে নিচের কোনগুলো পাওয়া যায়?",
+     "question_en": "Hydrolysis of a nucleic acid gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্ষারক, পেন্টোজ চিনি ও H3PO4",
+       "en": "Bases, pentose sugar and H3PO4"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু অ্যামাইনো এসিড",
+       "en": "Only amino acids"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু গ্লুকোজ",
+       "en": "Only glucose"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্যাটি এসিড ও গ্লিসারল",
+       "en": "Fatty acids and glycerol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সমীকরণ: নিউক্লিক এসিড + H2O → ক্ষারক + পেন্টোজ + H3PO4।",
+     "explanation_en": "As per the book's equation.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.2",
+   "title_bn": "পলিস্যাকারাইড ও গ্লুকোজ",
+   "title_en": "Polysaccharides and glucose",
+   "notes_bn": "উদ্ভিদের প্রধান পলিস্যাকারাইড স্টার্চ ও সেলুলোজ; এদের একক গ্লুকোজ (C6H12O6)।\nসালোকসংশ্লেষ: 6CO2 + 6H2O → C6H12O6 + 6O2 (ক্লোরোফিল, সৌরশক্তি)।\nঘনীভবনে: nC6H12O6 → (C6H10O5)n + nH2O; স্টার্চে n = 1200–6000, সেলুলোজে n = 300–3000।\nপ্রাণীদেহে অতিরিক্ত গ্লুকোজ যকৃতে গ্লাইকোজেন (প্রাণিজ স্টার্চ, n = 6000–30000) হিসেবে জমে।\nরক্তে স্বাভাবিক গ্লুকোজ 80–140 mg/100 mL; ইনসুলিন কমে গেলে ডায়াবেটিস মেলিটাস।",
+   "notes_en": "Starch and cellulose are the main plant polysaccharides; monomer = glucose (C6H12O6).\nPhotosynthesis: 6CO2 + 6H2O -> C6H12O6 + 6O2 (chlorophyll, sunlight).\nCondensation: nC6H12O6 -> (C6H10O5)n + nH2O; starch n=1200-6000, cellulose n=300-3000.\nExcess glucose in animals is stored in the liver as glycogen (animal starch, n=6000-30000).\nNormal blood glucose 80-140 mg/100 mL; low insulin causes diabetes mellitus.",
+   "mcqs": [
+    {
+     "question_bn": "সালোকসংশ্লেষে কোন মনোস্যাকারাইড তৈরি হয়?",
+     "question_en": "Which monosaccharide forms in photosynthesis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সুক্রোজ",
+       "en": "Sucrose"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "c",
+       "bn": "মল্টোজ",
+       "en": "Maltose"
+      },
+      {
+       "id": "d",
+       "bn": "ল্যাকটোজ",
+       "en": "Lactose"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CO2 ও পানি থেকে গ্লুকোজ (C6H12O6) তৈরি হয়।",
+     "explanation_en": "CO2 and water yield glucose.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রাণীদেহে গ্লুকোজ কোন রূপে সঞ্চিত থাকে?",
+     "question_en": "In what form is glucose stored in animals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সেলুলোজ",
+       "en": "Cellulose"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইলোজ",
+       "en": "Amylose"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লাইকোজেন",
+       "en": "Glycogen"
+      },
+      {
+       "id": "d",
+       "bn": "ডেক্সট্রিন",
+       "en": "Dextrin"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "গ্লাইকোজেনকে প্রাণিজ স্টার্চ বলে।",
+     "explanation_en": "Glycogen is animal starch.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বইয়ের মতে স্টার্চের (C6H10O5)n এ n এর মান কত?",
+     "question_en": "Per the book, n in starch (C6H10O5)n is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "300–3000",
+       "en": "300-3000"
+      },
+      {
+       "id": "b",
+       "bn": "1200–6000",
+       "en": "1200-6000"
+      },
+      {
+       "id": "c",
+       "bn": "6000–30000",
+       "en": "6000-30000"
+      },
+      {
+       "id": "d",
+       "bn": "10–200",
+       "en": "10-200"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "স্টার্চে n = 1200–6000; সেলুলোজে 300–3000।",
+     "explanation_en": "Starch 1200-6000; cellulose 300-3000.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রক্তে স্বাভাবিক গ্লুকোজ মাত্রা কত?",
+     "question_en": "Normal blood glucose level is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "8–14 mg/100 mL",
+       "en": "8-14 mg/100 mL"
+      },
+      {
+       "id": "b",
+       "bn": "80–140 mg/100 mL",
+       "en": "80-140 mg/100 mL"
+      },
+      {
+       "id": "c",
+       "bn": "800–1400 mg/100 mL",
+       "en": "800-1400 mg/100 mL"
+      },
+      {
+       "id": "d",
+       "bn": "0.8 mg/100 mL",
+       "en": "0.8 mg/100 mL"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 80–140 mg/100 mL দেওয়া।",
+     "explanation_en": "Given as 80-140 mg/100 mL.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন গ্রন্থির হরমোন ঘাটতিতে রক্তে গ্লুকোজ বেড়ে ডায়াবেটিস হয়?",
+     "question_en": "Deficiency of which hormone raises blood sugar causing diabetes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইনসুলিন",
+       "en": "Insulin"
+      },
+      {
+       "id": "b",
+       "bn": "হিমোগ্লোবিন",
+       "en": "Haemoglobin"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইলেজ",
+       "en": "Amylase"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাড্রিনালিন",
+       "en": "Adrenaline"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অগ্ন্যাশয়ের বিটা কোষের ইনসুলিন কমলে ব্লাড সুগার বাড়ে।",
+     "explanation_en": "Less insulin from pancreatic beta cells raises blood sugar.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.3",
+   "title_bn": "কার্বহাইড্রেটের শ্রেণীবিভাগ",
+   "title_en": "Classification of carbohydrates",
+   "notes_bn": "সংজ্ঞা: আর্দ্রবিশ্লেষণে পলিহাইড্রক্সি অ্যালডিহাইড বা কিটোন দেয় এমন যৌগ।\nভৌত ধর্মে: শর্করা/সুগার (দানাদার, দ্রবণীয়, মিষ্টি; যেমন গ্লুকোজ, ফ্রুক্টোজ, সুক্রোজ) ও অশর্করা (স্টার্চ, সেলুলোজ)।\nগঠনে: মনোস্যাকারাইড (আর্দ্রবিশ্লেষিত হয় না, (CH2O)n, n=3–6), ডাইস্যাকারাইড (C12H22O11 → দুই মনোস্যাকারাইড), পলিস্যাকারাইড ((C6H10O5)n)।\nসুক্রোজ + H2O → গ্লুকোজ + ফ্রুক্টোজ; মল্টোজ → 2 গ্লুকোজ।\nগ্লুকোজ পেন্টাহাইড্রক্সি অ্যালডিহাইড (অ্যালডোহেক্সোজ), ফ্রুক্টোজ পেন্টাহাইড্রক্সি কিটোন (কিটোহেক্সোজ)।",
+   "notes_en": "Carbohydrate: gives polyhydroxy aldehyde/ketone on hydrolysis.\nBy physical properties: sugars (crystalline, soluble, sweet: glucose, fructose, sucrose) and non-sugars (starch, cellulose).\nBy structure: monosaccharides (not hydrolysable, (CH2O)n, n=3-6), disaccharides (C12H22O11 -> two monosaccharides), polysaccharides ((C6H10O5)n).\nSucrose + H2O -> glucose + fructose; maltose -> 2 glucose.\nGlucose = aldohexose; fructose = ketohexose.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি অশর্করা?",
+     "question_en": "Which is a non-sugar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সুক্রোজ",
+       "en": "Sucrose"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "c",
+       "bn": "স্টার্চ",
+       "en": "Starch"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্রুক্টোজ",
+       "en": "Fructose"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "স্টার্চ দানাদার নয়, পানিতে অদ্রবণীয়, মিষ্টি নয়।",
+     "explanation_en": "Starch is non-crystalline, insoluble and not sweet.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মনোস্যাকারাইডের সাধারণ সংকেতে n এর মান কত?",
+     "question_en": "n in the general formula (CH2O)n of monosaccharides ranges:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1–2",
+       "en": "1-2"
+      },
+      {
+       "id": "b",
+       "bn": "3–6",
+       "en": "3-6"
+      },
+      {
+       "id": "c",
+       "bn": "7–10",
+       "en": "7-10"
+      },
+      {
+       "id": "d",
+       "bn": "12–20",
+       "en": "12-20"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে n = 3–6।",
+     "explanation_en": "Book gives n = 3-6.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সুক্রোজের আর্দ্রবিশ্লেষণে কী পাওয়া যায়?",
+     "question_en": "Hydrolysis of sucrose gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2 অণু গ্লুকোজ",
+       "en": "2 glucose"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লুকোজ ও ফ্রুক্টোজ",
+       "en": "Glucose and fructose"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ ও গ্যালাক্টোজ",
+       "en": "Glucose and galactose"
+      },
+      {
+       "id": "d",
+       "bn": "2 অণু ফ্রুক্টোজ",
+       "en": "2 fructose"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সুক্রোজ → গ্লুকোজ + ফ্রুক্টোজ।",
+     "explanation_en": "Sucrose -> glucose + fructose.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি ডাইস্যাকারাইড নয়?",
+     "question_en": "Which is NOT a disaccharide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মল্টোজ",
+       "en": "Maltose"
+      },
+      {
+       "id": "b",
+       "bn": "ল্যাকটোজ",
+       "en": "Lactose"
+      },
+      {
+       "id": "c",
+       "bn": "সুক্রোজ",
+       "en": "Sucrose"
+      },
+      {
+       "id": "d",
+       "bn": "গ্লাইকোজেন",
+       "en": "Glycogen"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "গ্লাইকোজেন পলিস্যাকারাইড।",
+     "explanation_en": "Glycogen is a polysaccharide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্লুকোজ ও ফ্রুক্টোজ যথাক্রমে কোন ধরনের যৌগ?",
+     "question_en": "Glucose and fructose are respectively:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কিটোহেক্সোজ ও অ্যালডোহেক্সোজ",
+       "en": "Ketohexose and aldohexose"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালডোহেক্সোজ ও কিটোহেক্সোজ",
+       "en": "Aldohexose and ketohexose"
+      },
+      {
+       "id": "c",
+       "bn": "দুটিই অ্যালডোহেক্সোজ",
+       "en": "Both aldohexoses"
+      },
+      {
+       "id": "d",
+       "bn": "দুটিই কিটোহেক্সোজ",
+       "en": "Both ketohexoses"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "গ্লুকোজে –CHO, ফ্রুক্টোজে >C=O।",
+     "explanation_en": "Glucose has -CHO, fructose has C=O.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.4",
+   "title_bn": "মনোস্যাকারাইড",
+   "title_en": "Monosaccharides",
+   "notes_bn": "সরলতম কার্বহাইড্রেট; আর্দ্রবিশ্লেষণে সরলতর হয় না; প্রকৃতিতে প্রায় বিশটি; নামের শেষে '-ওজ'।\nঅ্যালডিহাইড মূলক থাকলে অ্যালডোজ (গ্লুকোজ), কিটোনিক মূলক থাকলে কিটোজ (ফ্রুক্টোজ)।\nকার্বন সংখ্যা অনুযায়ী ট্রায়োজ, টেট্রোজ, পেন্টোজ, হেক্সোজ।\nসাধারণ পেন্টোজ রাইবোজ (n=5); হেক্সোজ গ্লুকোজ ও ফ্রুক্টোজ।\nরাইবোজ = টেট্রাহাইড্রক্সি পেন্টানাল; গ্লুকোজ = পেন্টাহাইড্রক্সি হেক্সানাল; ফ্রুক্টোজ = পেন্টাহাইড্রক্সি হেক্সানোন-2।",
+   "notes_en": "Simplest carbohydrates; cannot be hydrolysed further; ~20 occur naturally; names end in '-ose'.\nAldehyde group = aldose (glucose); ketone group = ketose (fructose).\nClassified by carbon count: triose, tetrose, pentose, hexose.\nCommon pentose: ribose; common hexoses: glucose, fructose.\nRibose = tetrahydroxy pentanal; glucose = pentahydroxy hexanal; fructose = pentahydroxy hexan-2-one.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি কিটোজ?",
+     "question_en": "Which is a ketose?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "b",
+       "bn": "রাইবোজ",
+       "en": "Ribose"
+      },
+      {
+       "id": "c",
+       "bn": "ফ্রুক্টোজ",
+       "en": "Fructose"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যালাক্টোজ",
+       "en": "Galactose"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ফ্রুক্টোজে C2 এ কিটোন মূলক আছে।",
+     "explanation_en": "Fructose has a ketone group at C2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রাইবোজ কোন শ্রেণির মনোস্যাকারাইড?",
+     "question_en": "Ribose is a:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পেন্টোজ",
+       "en": "Pentose"
+      },
+      {
+       "id": "b",
+       "bn": "হেক্সোজ",
+       "en": "Hexose"
+      },
+      {
+       "id": "c",
+       "bn": "ট্রায়োজ",
+       "en": "Triose"
+      },
+      {
+       "id": "d",
+       "bn": "টেট্রোজ",
+       "en": "Tetrose"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রাইবোজে 5টি কার্বন (n=5)।",
+     "explanation_en": "Ribose has five carbons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফ্রুক্টোজের IUPAC ধরনের বর্ণনা কোনটি?",
+     "question_en": "Which describes fructose?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পেন্টাহাইড্রক্সি হেক্সানাল",
+       "en": "Pentahydroxy hexanal"
+      },
+      {
+       "id": "b",
+       "bn": "পেন্টাহাইড্রক্সি হেক্সানোন-2",
+       "en": "Pentahydroxy hexan-2-one"
+      },
+      {
+       "id": "c",
+       "bn": "টেট্রাহাইড্রক্সি পেন্টানাল",
+       "en": "Tetrahydroxy pentanal"
+      },
+      {
+       "id": "d",
+       "bn": "ডাইহাইড্রক্সি প্রোপানাল",
+       "en": "Dihydroxy propanal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের বর্ণনা।",
+     "explanation_en": "As in the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্লুকোজ অণুতে হাইড্রক্সিল (–OH) মূলকের সংখ্যা কত?",
+     "question_en": "Number of –OH groups in an open-chain glucose molecule:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "6",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "পেন্টাহাইড্রক্সি = 5টি –OH।",
+     "explanation_en": "Pentahydroxy = five OH groups.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগে অ্যালডিহাইড মূলক থাকে এবং কার্বন 5টি?",
+     "question_en": "Which has an aldehyde group and five carbons?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রাইবোজ",
+       "en": "Ribose"
+      },
+      {
+       "id": "b",
+       "bn": "ফ্রুক্টোজ",
+       "en": "Fructose"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "d",
+       "bn": "সুক্রোজ",
+       "en": "Sucrose"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রাইবোজ অ্যালডোপেন্টোজ।",
+     "explanation_en": "Ribose is an aldopentose.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.5",
+   "title_bn": "গ্লুকোজ অণুর গঠন ও ফিশার সংকেত",
+   "title_en": "Structure of glucose and Fischer's formula",
+   "notes_bn": "আণবিক সংকেত C6H12O6।\nHI দিয়ে বিজারণে n-হেক্সেন (C6H14) → 6 কার্বনের শাখাহীন শিকল।\nঅ্যাসিটিক অ্যানহাইড্রাইডে পেন্টাঅ্যাসিটেট → 5টি –OH।\nব্রোমিন পানিতে জারণে গ্লুকোনিক এসিড; ফেলিং/টলেন বিক্রিয়া → –CHO মূলক (এক প্রান্তে)।\nচেইন গঠন: CH2OH–CHOH–CHOH–CHOH–CHOH–CHO (বেয়ার)।\nঅপ্রতিসম কার্বন 4টি (C2–C5) → সমাণু 2^4 = 16টি; এমিল ফিশার D-গ্লুকোজ কনফিগারেশন নির্ণয় করেন (ফিশার অভিক্ষেপ)।",
+   "notes_en": "Molecular formula C6H12O6.\nHI reduction gives n-hexane -> unbranched 6-carbon chain.\nAcetic anhydride gives pentaacetate -> five -OH groups.\nBromine water gives gluconic acid; Fehling/Tollens tests -> -CHO group at chain end.\nOpen chain (Baeyer): CH2OH-(CHOH)4-CHO.\nFour asymmetric carbons (C2-C5) -> 2^4 = 16 stereoisomers; Emil Fischer fixed the D-glucose configuration (Fischer projection).",
+   "mcqs": [
+    {
+     "question_bn": "গ্লুকোজ অণুতে অপ্রতিসম কার্বন কয়টি?",
+     "question_en": "Number of asymmetric carbons in glucose:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "5",
+       "en": "5"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "C2, C3, C4, C5।",
+     "explanation_en": "C2-C5.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গ্লুকোজের সম্ভাব্য সমাণুর সংখ্যা কত?",
+     "question_en": "Number of stereoisomers of glucose:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "8",
+       "en": "8"
+      },
+      {
+       "id": "b",
+       "bn": "16",
+       "en": "16"
+      },
+      {
+       "id": "c",
+       "bn": "24",
+       "en": "24"
+      },
+      {
+       "id": "d",
+       "bn": "32",
+       "en": "32"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2^4 = 16।",
+     "explanation_en": "2^4 = 16.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লোহিত ফসফরাসের উপস্থিতিতে গাঢ় HI দিয়ে গ্লুকোজ বিজারণে কী উৎপন্ন হয়?",
+     "question_en": "Reduction of glucose with conc. HI/red P gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লুকোনিক এসিড",
+       "en": "Gluconic acid"
+      },
+      {
+       "id": "b",
+       "bn": "n-হেক্সেন",
+       "en": "n-Hexane"
+      },
+      {
+       "id": "c",
+       "bn": "আইসোহেক্সেন",
+       "en": "Isohexane"
+      },
+      {
+       "id": "d",
+       "bn": "সরবিটল",
+       "en": "Sorbitol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এতে প্রমাণ হয় 6C শাখাহীন শিকল।",
+     "explanation_en": "This shows a straight 6-carbon chain.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ব্রোমিন পানির বিক্রিয়ায় গ্লুকোজ থেকে কোনটি পাওয়া যায়?",
+     "question_en": "Bromine water oxidises glucose to:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লুকোনিক এসিড",
+       "en": "Gluconic acid"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লুকারিক এসিড",
+       "en": "Saccharic acid"
+      },
+      {
+       "id": "c",
+       "bn": "টারটারিক এসিড",
+       "en": "Tartaric acid"
+      },
+      {
+       "id": "d",
+       "bn": "সাইট্রিক এসিড",
+       "en": "Citric acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে C6H12O7 গ্লুকোনিক এসিড উৎপন্ন বলা হয়েছে।",
+     "explanation_en": "The book names gluconic acid (C6H12O7).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাসিটিক অ্যানহাইড্রাইডের সাথে গ্লুকোজ পেন্টাঅ্যাসিটেট দেয়; এটি কী প্রমাণ করে?",
+     "question_en": "Glucose forms a pentaacetate with acetic anhydride; this shows:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1টি –OH আছে",
+       "en": "One OH"
+      },
+      {
+       "id": "b",
+       "bn": "3টি –OH আছে",
+       "en": "Three OH"
+      },
+      {
+       "id": "c",
+       "bn": "5টি –OH আছে",
+       "en": "Five OH"
+      },
+      {
+       "id": "d",
+       "bn": "6টি –OH আছে",
+       "en": "Six OH"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "পেন্টা = 5টি অ্যাসিটেট = 5টি –OH।",
+     "explanation_en": "Penta = 5 acetyl groups = 5 OH.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.6",
+   "title_bn": "D ও L-শ্রেণীর গ্লুকোজ",
+   "title_en": "D- and L-glucose",
+   "notes_bn": "ফিশার অভিক্ষেপে কার্বনিল মূলক উপরে রেখে সবচেয়ে নিচের অপ্রতিসম কার্বনের –OH ডানে থাকলে D, বামে থাকলে L।\nগ্লুকোজে সবচেয়ে দূরবর্তী অপ্রতিসম কার্বন C5।\nD- ও L- সমাণু পরস্পর দর্পণ প্রতিবিম্ব।\nবড় হাতের D/L স্টেরিক কনফিগারেশন বোঝায়; ছোট হাতের d (+) ও l (−) আলোক সক্রিয়তা ও ঘূর্ণনের দিক (দক্ষিণাবর্ত/বামাবর্ত) বোঝায়।",
+   "notes_en": "In the Fischer projection (carbonyl on top), if the -OH on the lowest (farthest) asymmetric carbon is on the right it is D; on the left, L.\nIn glucose that carbon is C5.\nD- and L- forms are mirror images.\nCapital D/L = steric configuration; small d(+)/l(-) = optical rotation direction (dextro/laevo).",
+   "mcqs": [
+    {
+     "question_bn": "গ্লুকোজে D/L নির্ধারণে কোন কার্বন দেখা হয়?",
+     "question_en": "Which carbon decides D/L in glucose?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C1",
+       "en": "C1"
+      },
+      {
+       "id": "b",
+       "bn": "C2",
+       "en": "C2"
+      },
+      {
+       "id": "c",
+       "bn": "C5",
+       "en": "C5"
+      },
+      {
+       "id": "d",
+       "bn": "C6",
+       "en": "C6"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সবচেয়ে দূরবর্তী অপ্রতিসম কার্বন C5।",
+     "explanation_en": "C5 is the farthest asymmetric carbon.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "D-গ্লুকোজে C5 এর –OH ফিশার অভিক্ষেপে কোন দিকে থাকে?",
+     "question_en": "In D-glucose the C5 -OH lies on the:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডানে",
+       "en": "Right"
+      },
+      {
+       "id": "b",
+       "bn": "বামে",
+       "en": "Left"
+      },
+      {
+       "id": "c",
+       "bn": "উপরে",
+       "en": "Top"
+      },
+      {
+       "id": "d",
+       "bn": "নিচে",
+       "en": "Bottom"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ডানে থাকলে D।",
+     "explanation_en": "Right = D.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "D- ও L-গ্লুকোজের সম্পর্ক কী?",
+     "question_en": "D- and L-glucose are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অভিন্ন",
+       "en": "Identical"
+      },
+      {
+       "id": "b",
+       "bn": "দর্পণ প্রতিবিম্ব",
+       "en": "Mirror images"
+      },
+      {
+       "id": "c",
+       "bn": "কাঠামো সমাণু",
+       "en": "Structural isomers"
+      },
+      {
+       "id": "d",
+       "bn": "ক্রিয়াশীল মূলক সমাণু",
+       "en": "Functional isomers"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে পরস্পর দর্পণ প্রতিবিম্ব বলা হয়েছে।",
+     "explanation_en": "Stated as mirror images.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ছোট হাতের 'd' বা (+) চিহ্ন কী নির্দেশ করে?",
+     "question_en": "What does small 'd' or (+) indicate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বামাবর্ত ঘূর্ণন",
+       "en": "Laevo rotation"
+      },
+      {
+       "id": "b",
+       "bn": "দক্ষিণাবর্ত ঘূর্ণন",
+       "en": "Dextro rotation"
+      },
+      {
+       "id": "c",
+       "bn": "D-কনফিগারেশন",
+       "en": "D configuration"
+      },
+      {
+       "id": "d",
+       "bn": "L-কনফিগারেশন",
+       "en": "L configuration"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "d/(+) = দক্ষিণাবর্ত আলোক সক্রিয়তা।",
+     "explanation_en": "d/(+) = dextrorotatory.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "D ও d এর পার্থক্য কোনটি সঠিক?",
+     "question_en": "Which correctly distinguishes D from d?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "D আলোক ঘূর্ণন, d কনফিগারেশন",
+       "en": "D optical rotation, d configuration"
+      },
+      {
+       "id": "b",
+       "bn": "D স্টেরিক কনফিগারেশন, d আলোক ঘূর্ণনের দিক",
+       "en": "D steric configuration, d rotation direction"
+      },
+      {
+       "id": "c",
+       "bn": "দুটোই একই",
+       "en": "Same"
+      },
+      {
+       "id": "d",
+       "bn": "D বামাবর্ত, d দক্ষিণাবর্ত",
+       "en": "D laevo, d dextro"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের বর্ণনা অনুযায়ী।",
+     "explanation_en": "As per the book.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.7",
+   "title_bn": "D-গ্লুকোজের সাইক্লিক বা চাক্রিক গঠন",
+   "title_en": "Cyclic structure of D-glucose",
+   "notes_bn": "চেইন গঠন ব্যাখ্যা করতে পারে না: শিফ বিকারকে বর্ণ, দুটি স্টেরিও সমাণু (α, β), মিউটারোটেশন।\nমিউটারোটেশন: α-গ্লুকোজের আপেক্ষিক ঘূর্ণন +113°, β-এর +19°; দীর্ঘক্ষণ রাখলে উভয়ই +53° হয়।\nহেমি অ্যাসিটাল গঠনে (C1 ও C5–OH) ছয় সদস্যবিশিষ্ট পাইরানোজ রিং (হাওয়ার্থ গঠন)।\nচক্রায়নে C1 নতুন অপ্রতিসম কার্বন (অ্যানোমারিক কার্বন); α ও β অ্যানোমার।\nসাম্যে: α ≈ 36%, মুক্তশিকল ≈ 0.02%, β ≈ 64%।",
+   "notes_en": "Open-chain form cannot explain: no Schiff's test colour, two stereoisomers (alpha, beta), mutarotation.\nMutarotation: specific rotation alpha +113 deg, beta +19 deg; either settles at +53 deg.\nHemiacetal formation (C1 with C5-OH) gives six-membered pyranose ring (Haworth).\nC1 becomes a new asymmetric (anomeric) carbon; alpha and beta are anomers.\nEquilibrium: alpha ~36%, open chain ~0.02%, beta ~64%.",
+   "mcqs": [
+    {
+     "question_bn": "মিউটারোটেশনে সাম্যাবস্থায় আপেক্ষিক ঘূর্ণন কত?",
+     "question_en": "At mutarotation equilibrium the specific rotation is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+113°",
+       "en": "+113 deg"
+      },
+      {
+       "id": "b",
+       "bn": "+19°",
+       "en": "+19 deg"
+      },
+      {
+       "id": "c",
+       "bn": "+53°",
+       "en": "+53 deg"
+      },
+      {
+       "id": "d",
+       "bn": "0°",
+       "en": "0 deg"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "উভয় সমাণু +53° এ পৌঁছায়।",
+     "explanation_en": "Both settle at +53 deg.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "α-D-গ্লুকোজের আপেক্ষিক ঘূর্ণন কত?",
+     "question_en": "Specific rotation of alpha-D-glucose:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+19°",
+       "en": "+19 deg"
+      },
+      {
+       "id": "b",
+       "bn": "+113°",
+       "en": "+113 deg"
+      },
+      {
+       "id": "c",
+       "bn": "+53°",
+       "en": "+53 deg"
+      },
+      {
+       "id": "d",
+       "bn": "-113°",
+       "en": "-113 deg"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "α = +113°, β = +19°।",
+     "explanation_en": "alpha = +113, beta = +19.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গ্লুকোজের চাক্রিক গঠনে সৃষ্ট নতুন অপ্রতিসম কার্বনকে কী বলে?",
+     "question_en": "The new asymmetric carbon in cyclic glucose is called:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কাইরাল কার্বন C5",
+       "en": "Chiral C5"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানোমারিক কার্বন",
+       "en": "Anomeric carbon"
+      },
+      {
+       "id": "c",
+       "bn": "কার্বনিল কার্বন",
+       "en": "Carbonyl carbon"
+      },
+      {
+       "id": "d",
+       "bn": "মিথাইল কার্বন",
+       "en": "Methyl carbon"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C1 কে অ্যানোমারিক কার্বন বলে।",
+     "explanation_en": "C1 is the anomeric carbon.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাম্যাবস্থায় কোন রূপ সবচেয়ে বেশি থাকে?",
+     "question_en": "Which form predominates at equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "α-D-গ্লুকোজ",
+       "en": "alpha-D"
+      },
+      {
+       "id": "b",
+       "bn": "β-D-গ্লুকোজ",
+       "en": "beta-D"
+      },
+      {
+       "id": "c",
+       "bn": "মুক্তশিকল",
+       "en": "Open chain"
+      },
+      {
+       "id": "d",
+       "bn": "সবাই সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "β ≈ 64%, α ≈ 36%, মুক্তশিকল 0.02%।",
+     "explanation_en": "beta ~64%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্লুকোজের হাওয়ার্থ চাক্রিক গঠনকে 'পাইরানোজ' বলা হয় কেন?",
+     "question_en": "Why is the Haworth ring called pyranose?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পাঁচ কার্বন ও এক অক্সিজেনযুক্ত ছয়-সদস্য রিং পাইরানের মতো",
+       "en": "Six-membered ring of 5 C + 1 O resembles pyran"
+      },
+      {
+       "id": "b",
+       "bn": "এতে নাইট্রোজেন আছে",
+       "en": "Contains nitrogen"
+      },
+      {
+       "id": "c",
+       "bn": "চার সদস্য রিং",
+       "en": "Four-membered ring"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিনের মতো",
+       "en": "Like benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পাইরান + ওজ = পাইরানোজ।",
+     "explanation_en": "pyran + ose = pyranose.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.8",
+   "title_bn": "চিনির বিজারণ ক্ষমতা",
+   "title_en": "Reducing property of sugars",
+   "notes_bn": "যে কার্বহাইড্রেট ফেলিং ও টলেন বিকারককে বিজারিত করে সেটি বিজারক চিনি; অন্যরা অবিজারক।\nসুক্রোজ ছাড়া সব ডাইস্যাকারাইড ও মনোস্যাকারাইড বিজারক চিনি।\nবিজারক চিনিতে –CHO বা সহজে জারণযোগ্য সেকেন্ডারি অ্যালকোহলিক (–CHOH–) মূলক থাকে।\nফেলিং পরীক্ষা: গ্লুকোজ + Cu(OH)2 (গাঢ় নীল) → Cu2O (লাল অধঃক্ষেপ) + গ্লুকোনেট।\nবেনেডিক্ট দ্রবণে সোডিয়াম সাইট্রেট থাকে; টলেন: Ag+ → Ag (রৌপ্য দর্পণ)।",
+   "notes_en": "Sugars that reduce Fehling's and Tollens' reagents are reducing sugars.\nAll mono- and disaccharides except sucrose are reducing.\nThey contain -CHO or an easily oxidised secondary alcohol group (-CHOH-).\nFehling's test: glucose + Cu(OH)2 (deep blue) -> Cu2O red precipitate + gluconate.\nBenedict's solution uses sodium citrate; Tollens' gives silver mirror.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি অবিজারক চিনি?",
+     "question_en": "Which is a non-reducing sugar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "b",
+       "bn": "ফ্রুক্টোজ",
+       "en": "Fructose"
+      },
+      {
+       "id": "c",
+       "bn": "সুক্রোজ",
+       "en": "Sucrose"
+      },
+      {
+       "id": "d",
+       "bn": "মল্টোজ",
+       "en": "Maltose"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সুক্রোজই একমাত্র অবিজারক ডাইস্যাকারাইড।",
+     "explanation_en": "Sucrose is the only non-reducing disaccharide.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফেলিং পরীক্ষায় গ্লুকোজ দিলে কী অধঃক্ষেপ পড়ে?",
+     "question_en": "Glucose with Fehling's gives a precipitate of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CuO (কালো)",
+       "en": "CuO (black)"
+      },
+      {
+       "id": "b",
+       "bn": "Cu2O (লাল)",
+       "en": "Cu2O (red)"
+      },
+      {
+       "id": "c",
+       "bn": "Ag",
+       "en": "Ag"
+      },
+      {
+       "id": "d",
+       "bn": "Cu(OH)2 (নীল)",
+       "en": "Cu(OH)2 (blue)"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কিউপ্রাস অক্সাইডের লালচে অধঃক্ষেপ।",
+     "explanation_en": "Reddish cuprous oxide.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টলেন বিকারকের সাথে গ্লুকোজ গরম করলে কী দেখা যায়?",
+     "question_en": "Heating glucose with Tollens' reagent gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাল অধঃক্ষেপ",
+       "en": "Red ppt"
+      },
+      {
+       "id": "b",
+       "bn": "সিলভার দর্পণ",
+       "en": "Silver mirror"
+      },
+      {
+       "id": "c",
+       "bn": "নীল বর্ণ",
+       "en": "Blue colour"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন নেই",
+       "en": "No change"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Ag+ বিজারিত হয়ে Ag।",
+     "explanation_en": "Ag+ reduced to Ag.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফ্রুক্টোজ বিজারক চিনি কেন?",
+     "question_en": "Why is fructose a reducing sugar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–CHO আছে",
+       "en": "Has -CHO"
+      },
+      {
+       "id": "b",
+       "bn": "C3 এ সেকেন্ডারি অ্যালকোহলিক মূলক কিটোনের পাশে আছে",
+       "en": "Has secondary alcoholic group next to C=O at C3"
+      },
+      {
+       "id": "c",
+       "bn": "COOH আছে",
+       "en": "Has COOH"
+      },
+      {
+       "id": "d",
+       "bn": "এটি ডাইস্যাকারাইড",
+       "en": "Disaccharide"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বনিল মূলকের পার্শ্বে C3 এ –CHOH–।",
+     "explanation_en": "-CHOH- at C3 beside carbonyl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বেনেডিক্ট ও ফেলিং দ্রবণের পার্থক্য কী?",
+     "question_en": "Benedict's differs from Fehling's in using:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোডিয়াম সাইট্রেট, টারট্রেটের বদলে",
+       "en": "Sodium citrate instead of tartrate"
+      },
+      {
+       "id": "b",
+       "bn": "AgNO3",
+       "en": "AgNO3"
+      },
+      {
+       "id": "c",
+       "bn": "H2SO4",
+       "en": "H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "I2",
+       "en": "I2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সোডিয়াম সাইট্রেটের কথা বলা আছে।",
+     "explanation_en": "Sodium citrate replaces Rochelle salt.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.9",
+   "title_bn": "ডাইস্যাকারাইড",
+   "title_en": "Disaccharides",
+   "notes_bn": "গুরুত্বপূর্ণ তিনটি: সুক্রোজ, মল্টোজ, ল্যাকটোজ; সংকেত C12H22O11।\nদুই মনোস্যাকারাইড ঘনীভবনে (এক অণু H2O বের হয়ে) C–O–C গ্লাইকোসাইড বন্ধন গঠন করে।\nα-গ্লাইকোসাইড বন্ধন: α-D-গ্লুকোজের C1 ও অপরটির C4; স্টার্চে ও মল্টোজে।\nβ-গ্লাইকোসাইড বন্ধন: β-D-গ্লুকোজের C1 ও অপরের C4; সেলুলোজে।\nমল্টোজ = গ্লুকোজ + গ্লুকোজ; সুক্রোজ = গ্লুকোজ + ফ্রুক্টোজ; ল্যাকটোজ = গ্লুকোজ + গ্যালাক্টোজ।",
+   "notes_en": "Three important ones: sucrose, maltose, lactose; formula C12H22O11.\nTwo monosaccharides condense (losing H2O) giving a C-O-C glycosidic bond.\nAlpha-glycosidic bond: C1 of alpha-D-glucose to C4 of another; seen in maltose/starch.\nBeta-glycosidic bond: C1 of beta-D-glucose to C4 of another; seen in cellulose.\nMaltose = glucose+glucose; sucrose = glucose+fructose; lactose = glucose+galactose.",
+   "mcqs": [
+    {
+     "question_bn": "ল্যাকটোজ কোন দুই মনোস্যাকারাইড দিয়ে গঠিত?",
+     "question_en": "Lactose consists of:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লুকোজ + ফ্রুক্টোজ",
+       "en": "Glucose+fructose"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লুকোজ + গ্যালাক্টোজ",
+       "en": "Glucose+galactose"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ + গ্লুকোজ",
+       "en": "Glucose+glucose"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্রুক্টোজ + গ্যালাক্টোজ",
+       "en": "Fructose+galactose"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ল্যাকটোজ = গ্লুকোজ + গ্যালাক্টোজ।",
+     "explanation_en": "As stated.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডাইস্যাকারাইডের সংকেত কোনটি?",
+     "question_en": "Formula of disaccharides:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H12O6",
+       "en": "C6H12O6"
+      },
+      {
+       "id": "b",
+       "bn": "C12H22O11",
+       "en": "C12H22O11"
+      },
+      {
+       "id": "c",
+       "bn": "C12H24O12",
+       "en": "C12H24O12"
+      },
+      {
+       "id": "d",
+       "bn": "(C6H10O5)n",
+       "en": "(C6H10O5)n"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সবগুলোর সংকেত C12H22O11।",
+     "explanation_en": "All are C12H22O11.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মল্টোজে দুই গ্লুকোজ কোন বন্ধনে যুক্ত?",
+     "question_en": "Two glucose units in maltose are linked by:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "α-গ্লাইকোসাইড",
+       "en": "alpha-glycosidic"
+      },
+      {
+       "id": "b",
+       "bn": "β-গ্লাইকোসাইড",
+       "en": "beta-glycosidic"
+      },
+      {
+       "id": "c",
+       "bn": "পেপটাইড",
+       "en": "Peptide"
+      },
+      {
+       "id": "d",
+       "bn": "হাইড্রোজেন",
+       "en": "Hydrogen bond only"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "α-D-গ্লুকোজের C1 ও C4 এর মাধ্যমে।",
+     "explanation_en": "Via C1 and C4 of alpha-D-glucose.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দুই মনোস্যাকারাইড যুক্ত হয়ে ডাইস্যাকারাইড তৈরিতে কী ঘটে?",
+     "question_en": "On forming a disaccharide from two monosaccharides:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO2 বের হয়",
+       "en": "CO2 lost"
+      },
+      {
+       "id": "b",
+       "bn": "এক অণু পানি বের হয়",
+       "en": "One water molecule lost"
+      },
+      {
+       "id": "c",
+       "bn": "এক অণু পানি যুক্ত হয়",
+       "en": "One water added"
+      },
+      {
+       "id": "d",
+       "bn": "O2 বের হয়",
+       "en": "O2 lost"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ঘনীভবন বিক্রিয়া।",
+     "explanation_en": "Condensation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্লাইকোসাইড বন্ধন কোনটি?",
+     "question_en": "The glycosidic bond is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C–N–C",
+       "en": "C-N-C"
+      },
+      {
+       "id": "b",
+       "bn": "C–O–C",
+       "en": "C-O-C"
+      },
+      {
+       "id": "c",
+       "bn": "C–S–C",
+       "en": "C-S-C"
+      },
+      {
+       "id": "d",
+       "bn": "O–O",
+       "en": "O-O"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মনোস্যাকারাইডদের C–O–C বন্ধন।",
+     "explanation_en": "C-O-C linkage.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.10",
+   "title_bn": "বিভিন্ন পলিস্যাকারাইডের গঠন",
+   "title_en": "Structures of polysaccharides: starch, glycogen, cellulose",
+   "notes_bn": "তিন শ্রেণি: স্টার্চ, গ্লাইকোজেন, সেলুলোজ।\nস্টার্চ = 10–20% অ্যামাইলোজ + 80–90% অ্যামাইলোপেকটিন।\nঅ্যামাইলোজ: α-D-গ্লুকোজের সরল শিকল (60–300 একক), α(1→4) বন্ধন, পানিতে দ্রবণীয়, আয়োডিনে গাঢ় নীল।\nঅ্যামাইলোপেকটিন: 24–30 একক শিকল α(1→4); শাখা C1–C6 দ্বারা, পানিতে অদ্রবণীয় (ফুলে ওঠে), আয়োডিনের সাথে নীল নয়।\nস্টার্চ ও গ্লাইকোজেন ফেলিং বিজারিত করে না; আর্দ্রবিশ্লেষণ: স্টার্চ → ডেক্সট্রিন → মল্টোজ → গ্লুকোজ।\nগ্লাইকোজেনে 6000–30000 গ্লুকোজ, 1,4 ও 1,6-α বন্ধন; আয়োডিনে বাদামি-লাল।\nসেলুলোজ: β-D-গ্লুকোজ (300–3000) β(1→4) বন্ধনে সরল শিকল; পানিতে অদ্রবণীয়, শুধু গরু-ছাগলের পরিপাকে ভাঙে; আয়োডিনে রং নেই।",
+   "notes_en": "Three classes: starch, glycogen, cellulose.\nStarch = 10-20% amylose + 80-90% amylopectin.\nAmylose: linear alpha-D-glucose chain (60-300 units), alpha(1-4), water-soluble, deep blue with iodine.\nAmylopectin: 24-30 unit chains alpha(1-4) with C1-C6 branches; swells in water, no blue with iodine.\nStarch/glycogen do not reduce Fehling's; hydrolysis: starch -> dextrin -> maltose -> glucose.\nGlycogen: 6000-30000 glucose, 1,4 and 1,6 alpha links; red-brown with iodine.\nCellulose: beta-D-glucose (300-3000) beta(1-4) linear, insoluble, digested only by ruminants; no colour with iodine.",
+   "mcqs": [
+    {
+     "question_bn": "স্টার্চ আয়োডিন দ্রবণে কী বর্ণ দেয়?",
+     "question_en": "Starch with iodine gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় নীল",
+       "en": "Deep blue"
+      },
+      {
+       "id": "b",
+       "bn": "লাল",
+       "en": "Red"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণহীন",
+       "en": "Colourless"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যামাইলোজের কারণে।",
+     "explanation_en": "Due to amylose.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি শাখাযুক্ত পলিমার?",
+     "question_en": "Which is branched?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামাইলোজ",
+       "en": "Amylose"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইলোপেকটিন",
+       "en": "Amylopectin"
+      },
+      {
+       "id": "c",
+       "bn": "সেলুলোজ",
+       "en": "Cellulose"
+      },
+      {
+       "id": "d",
+       "bn": "মল্টোজ",
+       "en": "Maltose"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C1–C6 বন্ধনে শাখা।",
+     "explanation_en": "Branches via C1-C6.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সেলুলোজে গ্লুকোজ এককগুলো কোন বন্ধনে যুক্ত?",
+     "question_en": "Glucose units in cellulose are joined by:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "α(1→4)",
+       "en": "alpha(1-4)"
+      },
+      {
+       "id": "b",
+       "bn": "β(1→4)",
+       "en": "beta(1-4)"
+      },
+      {
+       "id": "c",
+       "bn": "α(1→6)",
+       "en": "alpha(1-6)"
+      },
+      {
+       "id": "d",
+       "bn": "পেপটাইড",
+       "en": "Peptide"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "β-গ্লাইকোসাইড বন্ধন।",
+     "explanation_en": "Beta-glycosidic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "স্টার্চে অ্যামাইলোপেকটিনের শতকরা পরিমাণ কত?",
+     "question_en": "Amylopectin share in starch:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10–20%",
+       "en": "10-20%"
+      },
+      {
+       "id": "b",
+       "bn": "80–90%",
+       "en": "80-90%"
+      },
+      {
+       "id": "c",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "d",
+       "bn": "100%",
+       "en": "100%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যামাইলোজ 10–20%।",
+     "explanation_en": "Amylose is 10-20%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "স্টার্চের আর্দ্রবিশ্লেষণের সঠিক ক্রম কোনটি?",
+     "question_en": "Correct hydrolysis order of starch:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডেক্সট্রিন→মল্টোজ→গ্লুকোজ",
+       "en": "Dextrin->maltose->glucose"
+      },
+      {
+       "id": "b",
+       "bn": "মল্টোজ→ডেক্সট্রিন→গ্লুকোজ",
+       "en": "Maltose->dextrin->glucose"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ→মল্টোজ→ডেক্সট্রিন",
+       "en": "Glucose->maltose->dextrin"
+      },
+      {
+       "id": "d",
+       "bn": "সুক্রোজ→গ্লুকোজ",
+       "en": "Sucrose->glucose"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সমীকরণ।",
+     "explanation_en": "As in the book.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "মানুষ ঘাস হজম করতে পারে না কেন?",
+     "question_en": "Humans cannot digest grass cellulose because:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "β-বন্ধন ভাঙার এনজাইম নেই",
+       "en": "No enzyme to break beta-linkage"
+      },
+      {
+       "id": "b",
+       "bn": "α-বন্ধন ভাঙার এনজাইম নেই",
+       "en": "No enzyme for alpha-linkage"
+      },
+      {
+       "id": "c",
+       "bn": "সেলুলোজ তরল",
+       "en": "Cellulose is liquid"
+      },
+      {
+       "id": "d",
+       "bn": "গ্লুকোজ নেই",
+       "en": "No glucose"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মানুষের এনজাইম শুধু α-বন্ধন ভাঙে।",
+     "explanation_en": "Human enzymes cleave only alpha links.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.11",
+   "title_bn": "প্রোটিন ও প্রোটিনের গুরুত্ব",
+   "title_en": "Proteins and their importance",
+   "notes_bn": "প্রোটিন: নাইট্রোজেনযুক্ত জটিল জৈব যৌগ, অসংখ্য অ্যামাইনো এসিড পেপটাইড বন্ধনে যুক্ত (পলিঅ্যামাইড)।\nপ্রোটিন আর্দ্রবিশ্লেষণে (এসিড/ক্ষার/এনজাইম) অ্যামাইনো এসিড দেয়।\nগুরুত্ব: কোষের উপাদান, খাদ্য, এনজাইম, বাহক (হিমোগ্লোবিন), হরমোন (ইনসুলিন), অ্যান্টিবডি, ভাইরাস প্রোটিন।\nএনজাইম জৈব প্রভাবক—বিশেষ গঠনের গ্লোবিউলার প্রোটিন।",
+   "notes_en": "Protein: complex nitrogenous organic compound of many amino acids joined by peptide bonds (polyamide).\nHydrolysis (acid/base/enzyme) gives amino acids.\nImportance: cell constituent, food, enzymes, carriers (haemoglobin), hormones (insulin), antibodies, viral proteins.\nEnzymes are biocatalysts: globular proteins.",
+   "mcqs": [
+    {
+     "question_bn": "প্রোটিনের মনোমার কোনটি?",
+     "question_en": "Monomer of protein:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইনো এসিড",
+       "en": "Amino acid"
+      },
+      {
+       "id": "c",
+       "bn": "নিউক্লিওটাইড",
+       "en": "Nucleotide"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্যাটি এসিড",
+       "en": "Fatty acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের সংজ্ঞা।",
+     "explanation_en": "By definition.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইনসুলিন কোন ধরনের প্রোটিন?",
+     "question_en": "Insulin is a:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এনজাইম",
+       "en": "Enzyme"
+      },
+      {
+       "id": "b",
+       "bn": "হরমোন প্রোটিন",
+       "en": "Hormone protein"
+      },
+      {
+       "id": "c",
+       "bn": "বাহক",
+       "en": "Carrier"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যান্টিবডি",
+       "en": "Antibody"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হরমোন-জাতীয় প্রোটিন; গ্লুকোজ বিপাক নিয়ন্ত্রণ।",
+     "explanation_en": "Hormone protein.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হিমোগ্লোবিন প্রোটিনের ভূমিকা কী?",
+     "question_en": "Role of haemoglobin:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাহক",
+       "en": "Carrier"
+      },
+      {
+       "id": "b",
+       "bn": "এনজাইম",
+       "en": "Enzyme"
+      },
+      {
+       "id": "c",
+       "bn": "হরমোন",
+       "en": "Hormone"
+      },
+      {
+       "id": "d",
+       "bn": "প্রতিরোধ",
+       "en": "Immunity"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রক্তে অক্সিজেন বহন।",
+     "explanation_en": "Carries oxygen in blood.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোটিনের আর্দ্রবিশ্লেষণ কিসের মাধ্যমে ঘটানো যায়?",
+     "question_en": "Protein hydrolysis can be done by:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুধু এসিড",
+       "en": "Acid only"
+      },
+      {
+       "id": "b",
+       "bn": "এসিড, ক্ষার বা এনজাইম",
+       "en": "Acid, alkali or enzyme"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু আলো",
+       "en": "Light only"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু তাপ",
+       "en": "Heat only"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে তিনটিই উল্লেখ।",
+     "explanation_en": "All three are listed.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "11.12",
+   "title_bn": "অ্যামাইনো এসিড বা সরল প্রোটিনের একক",
+   "title_en": "Amino acids: units of simple proteins",
+   "notes_bn": "সাধারণ সংকেত H2N–CH(R)–COOH; α-কার্বনে –NH2 থাকায় α-অ্যামাইনো এসিড।\nR = H গ্লাইসিন, R = CH3 এলানিন, R = CH2SH সিস্টিন।\nগ্লাইসিন ছাড়া সব অ্যামাইনো এসিডে কাইরাল কেন্দ্র (D ও L)।\nL-: কাইরাল কেন্দ্রের উপরে COOH, –NH2 বামে; প্রকৃতির প্রায় সব L।\nগ্লাইসিন আলোক নিষ্ক্রিয়।\nএসেনসিয়াল (১০টি): val, leu, ileu, phe, lys, thr, met, try, arg, his; বাকিগুলো নন-এসেনসিয়াল (gly, ala, tyr, ser, pro, asn, cys, gln, glu, asp)।\nশ্রেণি: অপোলার, পোলার নিরপেক্ষ, অম্লধর্মী (asp, glu), ক্ষারধর্মী (lys, arg, his)। প্রোলিন সেকেন্ডারি অ্যামিন।",
+   "notes_en": "General formula H2N-CH(R)-COOH; amino group on alpha carbon.\nR=H glycine, R=CH3 alanine, R=CH2SH cysteine.\nAll except glycine have a chiral centre (D and L forms).\nL-: COOH on top, -NH2 on the left of the chiral centre; nearly all natural ones are L.\nGlycine is optically inactive.\nTen essential: val, leu, ileu, phe, lys, thr, met, try, arg, his; others non-essential.\nClasses: non-polar, neutral polar, acidic (asp, glu), basic (lys, arg, his). Proline is a secondary amine.",
+   "mcqs": [
+    {
+     "question_bn": "কোন অ্যামাইনো এসিড আলোক নিষ্ক্রিয়?",
+     "question_en": "Which amino acid is optically inactive?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এলানিন",
+       "en": "Alanine"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লাইসিন",
+       "en": "Glycine"
+      },
+      {
+       "id": "c",
+       "bn": "ভ্যালিন",
+       "en": "Valine"
+      },
+      {
+       "id": "d",
+       "bn": "লিউসিন",
+       "en": "Leucine"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "গ্লাইসিনে (R = H) কাইরাল কার্বন নেই।",
+     "explanation_en": "No chiral carbon (R=H).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি অত্যাবশ্যকীয় অ্যামাইনো এসিড?",
+     "question_en": "Essential amino acid:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লাইসিন",
+       "en": "Glycine"
+      },
+      {
+       "id": "b",
+       "bn": "এলানিন",
+       "en": "Alanine"
+      },
+      {
+       "id": "c",
+       "bn": "ভ্যালিন",
+       "en": "Valine"
+      },
+      {
+       "id": "d",
+       "bn": "সিরিন",
+       "en": "Serine"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ভ্যালিন তালিকার প্রথমে।",
+     "explanation_en": "Valine is listed essential.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি অম্লধর্মী অ্যামাইনো এসিড?",
+     "question_en": "Acidic amino acid:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাইসিন",
+       "en": "Lysine"
+      },
+      {
+       "id": "b",
+       "bn": "এসপারটিক এসিড",
+       "en": "Aspartic acid"
+      },
+      {
+       "id": "c",
+       "bn": "আরজিনিন",
+       "en": "Arginine"
+      },
+      {
+       "id": "d",
+       "bn": "হিস্টিডিন",
+       "en": "Histidine"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অম্লধর্মী: asp, glu।",
+     "explanation_en": "Acidic: asp, glu.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি ক্ষারধর্মী?",
+     "question_en": "Basic amino acid:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লুটামিক এসিড",
+       "en": "Glutamic acid"
+      },
+      {
+       "id": "b",
+       "bn": "সিরিন",
+       "en": "Serine"
+      },
+      {
+       "id": "c",
+       "bn": "লাইসিন",
+       "en": "Lysine"
+      },
+      {
+       "id": "d",
+       "bn": "এলানিন",
+       "en": "Alanine"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ক্ষারধর্মী: lys, arg, his।",
+     "explanation_en": "Basic: lys, arg, his.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি সেকেন্ডারি অ্যামিন, প্রাইমারি নয়?",
+     "question_en": "Which is a secondary amine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোলিন",
+       "en": "Proline"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লাইসিন",
+       "en": "Glycine"
+      },
+      {
+       "id": "c",
+       "bn": "ভ্যালিন",
+       "en": "Valine"
+      },
+      {
+       "id": "d",
+       "bn": "সিস্টিন",
+       "en": "Cysteine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সারণিতে প্রোলিনকে সেকেন্ডারি অ্যামিন বলা হয়েছে।",
+     "explanation_en": "Table says proline is secondary.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "L-অ্যামাইনো এসিডের ফিশার অভিক্ষেপে –NH2 কোথায় থাকে (COOH উপরে)?",
+     "question_en": "In the Fischer projection (COOH on top) -NH2 in L-amino acids is on:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডানে",
+       "en": "Right"
+      },
+      {
+       "id": "b",
+       "bn": "বামে",
+       "en": "Left"
+      },
+      {
+       "id": "c",
+       "bn": "উপরে",
+       "en": "Top"
+      },
+      {
+       "id": "d",
+       "bn": "নিচে",
+       "en": "Bottom"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বামে হলে L।",
+     "explanation_en": "Left = L.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.13",
+   "title_bn": "α-অ্যামাইনো এসিড সংশ্লেষণ",
+   "title_en": "Synthesis of alpha-amino acids",
+   "notes_bn": "১) আলফা হ্যালো এসিডের অ্যামিনেশন: ClCH2COOH + অতিরিক্ত NH3 (50°C) → H2NCH2COONH4 → লঘু HCl → গ্লাইসিন।\nα-ব্রোমো প্রোপিয়োনিক এসিড → একইভাবে এলানিন।\nα-হ্যালো এসিড প্রস্তুতি: RCH2COOH + X2 (লোহিত P) (HVZ ধরনের)।\n২) স্ট্রেকার সংশ্লেষণ: অ্যালডিহাইড + HCN → সায়ানোহাইড্রিন → NH3 → α-অ্যামাইনো নাইট্রাইল → H+/H2O → α-অ্যামাইনো এসিড।\nHCHO → গ্লাইসিন; CH3CHO → এলানিন; মিথিয়োনিন প্রোপেনাল ও মিথাইল থায়ো অ্যালকোহল থেকে।",
+   "notes_en": "1) Amination of alpha-halo acids: ClCH2COOH + excess NH3 (50 C) -> H2NCH2COONH4 -> dilute HCl -> glycine.\nalpha-Bromopropionic acid -> alanine similarly.\nalpha-Halo acids made by X2 with a carboxylic acid in presence of red P.\n2) Strecker synthesis: aldehyde + HCN -> cyanohydrin -> NH3 -> alpha-amino nitrile -> H+/H2O -> alpha-amino acid.\nHCHO -> glycine; CH3CHO -> alanine; methionine from propenal + methyl mercaptan.",
+   "mcqs": [
+    {
+     "question_bn": "স্ট্রেকার সংশ্লেষণে ফর্মালডিহাইড থেকে কোন অ্যামাইনো এসিড পাওয়া যায়?",
+     "question_en": "Strecker synthesis from formaldehyde gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এলানিন",
+       "en": "Alanine"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লাইসিন",
+       "en": "Glycine"
+      },
+      {
+       "id": "c",
+       "bn": "ভ্যালিন",
+       "en": "Valine"
+      },
+      {
+       "id": "d",
+       "bn": "সিরিন",
+       "en": "Serine"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "HCHO → গ্লাইসিন।",
+     "explanation_en": "HCHO -> glycine.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাসিটালডিহাইড থেকে স্ট্রেকার পদ্ধতিতে কী পাওয়া যায়?",
+     "question_en": "Acetaldehyde via Strecker gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লাইসিন",
+       "en": "Glycine"
+      },
+      {
+       "id": "b",
+       "bn": "এলানিন",
+       "en": "Alanine"
+      },
+      {
+       "id": "c",
+       "bn": "মিথিয়োনিন",
+       "en": "Methionine"
+      },
+      {
+       "id": "d",
+       "bn": "সিস্টিন",
+       "en": "Cysteine"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH3CHO → এলানিন।",
+     "explanation_en": "CH3CHO -> alanine.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্লোরো অ্যাসিটিক এসিড + অতিরিক্ত NH3 (50°C) এর পর লঘু HCl দিলে কী পাওয়া যায়?",
+     "question_en": "ClCH2COOH + excess NH3 (50 C) then dilute HCl gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এলানিন",
+       "en": "Alanine"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লাইসিন",
+       "en": "Glycine"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসিটামাইড",
+       "en": "Acetamide"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটিক এসিড",
+       "en": "Acetic acid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের উদাহরণ।",
+     "explanation_en": "Book example.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "স্ট্রেকার সংশ্লেষণের ধাপের সঠিক ক্রম কোনটি?",
+     "question_en": "Correct Strecker sequence:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালডিহাইড→সায়ানোহাইড্রিন→অ্যামাইনো নাইট্রাইল→অ্যামাইনো এসিড",
+       "en": "Aldehyde->cyanohydrin->aminonitrile->amino acid"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইনো এসিড→নাইট্রাইল→অ্যালডিহাইড",
+       "en": "Amino acid->nitrile->aldehyde"
+      },
+      {
+       "id": "c",
+       "bn": "নাইট্রাইল→অ্যালডিহাইড",
+       "en": "Nitrile->aldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালডিহাইড→অ্যামাইড",
+       "en": "Aldehyde->amide"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HCN যোগ, NH3 দিয়ে –OH প্রতিস্থাপন, আর্দ্রবিশ্লেষণ।",
+     "explanation_en": "HCN addition, NH3 substitution, hydrolysis.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পরিকল্পনা: ভ্যালিন প্রস্তুতিতে স্ট্রেকার পদ্ধতিতে কোন অ্যালডিহাইড লাগবে (ভ্যালিনে R = CH(CH3)2)?",
+     "question_en": "Which aldehyde gives valine (R = CH(CH3)2) by Strecker?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(CH3)2CHCHO",
+       "en": "(CH3)2CHCHO"
+      },
+      {
+       "id": "b",
+       "bn": "CH3CHO",
+       "en": "CH3CHO"
+      },
+      {
+       "id": "c",
+       "bn": "HCHO",
+       "en": "HCHO"
+      },
+      {
+       "id": "d",
+       "bn": "CH3CH2CHO",
+       "en": "CH3CH2CHO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যালডিহাইডের R-CHO এর R-ই অ্যামাইনো এসিডের R হয়।",
+     "explanation_en": "The aldehyde's R becomes the amino acid's R.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "11.7",
+   "stimulus_bn": "একজন ছাত্র নতুন তৈরি α-D-গ্লুকোজের জলীয় দ্রবণের ঘূর্ণন মাপল +113°; কিছুক্ষণ পর মান +53° এ স্থির হল। এই ঘটনা চেইন গঠনে ব্যাখ্যা করা যায় না।",
+   "stimulus_en": "A student measures the rotation of a freshly prepared aqueous solution of alpha-D-glucose as +113 deg; after a while it settles at +53 deg. The open-chain structure cannot explain this.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "অ্যানোমার কী?",
+     "question_en": "What are anomers?",
+     "model_answer_bn": "যে সমাণুরা শুধু C1 এর কনফিগারেশনে ভিন্ন, যেমন α- ও β-D-গ্লুকোজ।",
+     "model_answer_en": "Isomers differing only in configuration at C1, e.g. alpha- and beta-D-glucose."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "মিউটারোটেশন ব্যাখ্যা কর।",
+     "question_en": "Explain mutarotation.",
+     "model_answer_bn": "α (+113°) ও β (+19°) গ্লুকোজের জলীয় দ্রবণে মুক্তশিকল রূপের মাধ্যমে পরস্পরে রূপান্তর ঘটে, ফলে আপেক্ষিক ঘূর্ণন স্বতঃস্ফূর্তভাবে +53° এ স্থির হয়।",
+     "model_answer_en": "In water alpha (+113) and beta (+19) interconvert via the open-chain form, so rotation spontaneously settles at +53 deg."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "সাম্যাবস্থায় α ও β রূপের আনুমানিক শতকরা পরিমাণ কত ও কোনটি বেশি স্থিতিশীল?",
+     "question_en": "What are the approximate equilibrium percentages of alpha and beta, and which is more stable?",
+     "model_answer_bn": "α ≈ 36%, β ≈ 64%, মুক্তশিকল ≈ 0.02%। β বেশি সুস্থিত।",
+     "model_answer_en": "alpha ~36%, beta ~64%, open chain ~0.02%; beta is more stable."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "হেমি অ্যাসিটাল গঠনের মাধ্যমে কীভাবে গ্লুকোজের চাক্রিক গঠন সৃষ্টি হয় এবং এতে নতুন কোন সমাণুতা সৃষ্টি হয় বিশ্লেষণ কর।",
+     "question_en": "Analyse how hemiacetal formation gives cyclic glucose and what new isomerism results.",
+     "model_answer_bn": "C5 এর –OH, C1 এর –CHO এর সাথে অন্তঃআণবিক বিক্রিয়ায় হেমি অ্যাসিটাল গঠন করে ছয় সদস্যের পাইরানোজ রিং তৈরি করে। এতে C1 নতুন অপ্রতিসম (অ্যানোমারিক) কার্বন হয় ও α ও β অ্যানোমার সৃষ্টি হয়।",
+     "model_answer_en": "The C5 -OH adds intramolecularly to the C1 -CHO forming a hemiacetal and a six-membered pyranose ring. C1 becomes a new asymmetric (anomeric) carbon giving alpha and beta anomers."
+    }
+   ]
+  },
+  {
+   "topic_section": "11.10",
+   "stimulus_bn": "একটি স্টার্চ দ্রবণে আয়োডিন যোগ করলে গাঢ় নীল বর্ণ হল। অন্য একটি সেলুলোজ নমুনায় একই পরীক্ষায় কোনো রং হল না।",
+   "stimulus_en": "Iodine added to a starch solution gives deep blue; a cellulose sample shows no colour in the same test.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "স্টার্চের দুটি উপাদান কী কী?",
+     "question_en": "Name the two components of starch.",
+     "model_answer_bn": "অ্যামাইলোজ ও অ্যামাইলোপেকটিন।",
+     "model_answer_en": "Amylose and amylopectin."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "নীল বর্ণের কারণ ব্যাখ্যা কর।",
+     "question_en": "Explain the blue colour.",
+     "model_answer_bn": "পেঁচানো অ্যামাইলোজ শিকলের ফাঁকা স্থানে আয়োডিন অণু আবদ্ধ হয়ে জটিল যৌগ গঠন করে, যা আলোর শক্তি শোষণ করে নীল বর্ণ দেয়।",
+     "model_answer_en": "Iodine is trapped in the helix of amylose forming a complex that absorbs light, giving blue."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "মানুষ স্টার্চ হজম করে কিন্তু সেলুলোজ করে না কেন?",
+     "question_en": "Why do humans digest starch but not cellulose?",
+     "model_answer_bn": "স্টার্চে α(1→4) বন্ধন যা মানুষের এনজাইম ভাঙতে পারে; সেলুলোজে β(1→4) বন্ধন যা ভাঙার এনজাইম নেই।",
+     "model_answer_en": "Starch has alpha(1-4) bonds that human enzymes cleave; cellulose has beta(1-4) bonds which humans lack enzymes for."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "অ্যামাইলোজ ও অ্যামাইলোপেকটিনের চারটি পার্থক্য লেখ।",
+     "question_en": "Give four differences between amylose and amylopectin.",
+     "model_answer_bn": "১) অ্যামাইলোজ সরল শিকল (60–300 একক), অ্যামাইলোপেকটিন শাখাযুক্ত। ২) অ্যামাইলোজ 10–20%, অ্যামাইলোপেকটিন 80–90%। ৩) অ্যামাইলোজ পানিতে দ্রবণীয়, অ্যামাইলোপেকটিন ফুলে ওঠে। ৪) আয়োডিনে অ্যামাইলোজ নীল, অ্যামাইলোপেকটিন নীল দেয় না।",
+     "model_answer_en": "1) Amylose linear (60-300 units), amylopectin branched. 2) 10-20% vs 80-90%. 3) Amylose soluble, amylopectin swells. 4) Amylose blue with iodine, amylopectin not."
+    }
+   ]
+  },
+  {
+   "topic_section": "11.13",
+   "stimulus_bn": "একটি ল্যাবে ফর্মালডিহাইড থেকে HCN ও NH3 ব্যবহার করে একটি α-অ্যামাইনো এসিড প্রস্তুত করা হল।",
+   "stimulus_en": "A lab prepares an alpha-amino acid from formaldehyde using HCN and NH3.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "এই পদ্ধতির নাম কী?",
+     "question_en": "Name the method.",
+     "model_answer_bn": "স্ট্রেকার সংশ্লেষণ।",
+     "model_answer_en": "Strecker synthesis."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "উৎপন্ন অ্যামাইনো এসিড কী ও কেন আলোক নিষ্ক্রিয়?",
+     "question_en": "What amino acid forms, and why is it optically inactive?",
+     "model_answer_bn": "গ্লাইসিন; এতে R = H হওয়ায় কাইরাল কার্বন নেই।",
+     "model_answer_en": "Glycine; R = H so no chiral carbon."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "ধাপগুলোর সমীকরণ লেখ।",
+     "question_en": "Write the step equations.",
+     "model_answer_bn": "HCHO + HCN → HOCH2CN; HOCH2CN + NH3 → H2NCH2CN + H2O; H2NCH2CN + 2H2O → H2NCH2COOH + NH3 (H+)।",
+     "model_answer_en": "HCHO + HCN -> HOCH2CN; + NH3 -> H2NCH2CN + H2O; + 2H2O (H+) -> H2NCH2COOH + NH3."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "একই পদ্ধতিতে এলানিন তৈরি করতে চাইলে কোন অ্যালডিহাইড লাগবে এবং বিকল্প কোন পদ্ধতিতে এলানিন তৈরি যায়?",
+     "question_en": "Which aldehyde gives alanine by this method, and what alternative route makes alanine?",
+     "model_answer_bn": "CH3CHO। বিকল্প: α-ব্রোমো প্রোপিয়োনিক এসিডকে অতিরিক্ত NH3 সহ 50°C এ উত্তপ্ত করে অ্যামোনিয়াম লবণ ও তারপর লঘু HCl দিয়ে আর্দ্রবিশ্লেষণ।",
+     "model_answer_en": "CH3CHO. Alternative: heat alpha-bromopropionic acid with excess NH3 at 50 C, then dilute HCl."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 597-615 readable. p.597 (printed 582) and p.609 (printed 594 partly) comparisons used; p.597 is MCQ answer page (skipped). Section 11.13 synthesis topics partially extended on p.615 (printed 600 covers 11.14, not in scope)."
+}

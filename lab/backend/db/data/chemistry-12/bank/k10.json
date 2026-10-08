@@ -1,0 +1,1321 @@
+{
+ "chapter_no": 3,
+ "topics": [
+  {
+   "section_no": "3.27",
+   "title_bn": "কপারের বিক্রিয়াসমূহ",
+   "title_en": "Reactions of copper",
+   "notes_bn": "কপার তড়িৎ রাসায়নিক সারিতে হাইড্রোজেনের নিচে থাকে, তাই লঘু অ্যাসিড থেকে H2 বের করে না।\nগাঢ় HNO3 এর সাথে: Cu + 4HNO3 → Cu(NO3)2 + 2NO2 + 2H2O।\nগাঢ় H2SO4 এর সাথে: Cu + 2H2SO4 → CuSO4 + SO2 + 2H2O।\nজলে দ্রবীভূত Cu(II) লবণ নীল টেট্রা অ্যাকুয়া কপার(II) আয়ন [Cu(H2O)4]2+ গঠন করে।\nযৌগের রূপান্তর: Cu2+ + OH− → নীল Cu(OH)2; তাপে কালো CuO; আরও তাপে লাল Cu2O।\nCl− যোগে সবুজ [CuCl4]2−; I− যোগে সাদা CuI; S2− যোগে কালো CuS; CO3 2− যোগে সবুজ Cu(OH)2·CuCO3; NH3 যোগে গাঢ় নীল [Cu(NH3)4]2+।",
+   "notes_en": "Cu is below H in the series, so it does not liberate H2 from dilute acids.\nWith conc. HNO3: Cu + 4HNO3 -> Cu(NO3)2 + 2NO2 + 2H2O.\nWith conc. H2SO4: Cu + 2H2SO4 -> CuSO4 + SO2 + 2H2O.\nAqueous Cu(II) salts contain blue [Cu(H2O)4]2+.\nConversions: OH- gives blue Cu(OH)2; heating gives black CuO, then red Cu2O.\nCl- gives green [CuCl4]2-; I- white CuI; S2- black CuS; CO3 2- green Cu(OH)2.CuCO3; NH3 deep blue [Cu(NH3)4]2+.",
+   "mcqs": [
+    {
+     "question_bn": "গাঢ় H2SO4 এর সাথে কপারের বিক্রিয়ায় কোন গ্যাস উৎপন্ন হয়?",
+     "question_en": "Which gas is evolved when Cu reacts with conc. H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "b",
+       "bn": "SO2",
+       "en": "SO2"
+      },
+      {
+       "id": "c",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "d",
+       "bn": "O2",
+       "en": "O2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিক্রিয়াটি Cu + 2H2SO4 → CuSO4 + SO2 + 2H2O।",
+     "explanation_en": "Cu + 2H2SO4 -> CuSO4 + SO2 + 2H2O, so SO2 forms.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গাঢ় নাইট্রিক অ্যাসিডের সাথে কপারের বিক্রিয়ায় কোন বর্ণের গ্যাস বের হয়?",
+     "question_en": "Cu with conc. HNO3 gives a gas of which kind?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO2",
+       "en": "NO2"
+      },
+      {
+       "id": "b",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "c",
+       "bn": "SO2",
+       "en": "SO2"
+      },
+      {
+       "id": "d",
+       "bn": "CO2",
+       "en": "CO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Cu + 4HNO3 → Cu(NO3)2 + 2NO2 + 2H2O; NO2 উৎপন্ন হয়।",
+     "explanation_en": "NO2 is produced: Cu + 4HNO3 -> Cu(NO3)2 + 2NO2 + 2H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Cu2+ দ্রবণে NH3 যোগ করলে অতিরিক্ত মাত্রায় কোন জটিল আয়ন গঠিত হয়?",
+     "question_en": "Excess NH3 added to Cu2+ solution gives which complex ion?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[Cu(H2O)4]2+",
+       "en": "[Cu(H2O)4]2+"
+      },
+      {
+       "id": "b",
+       "bn": "[CuCl4]2−",
+       "en": "[CuCl4]2-"
+      },
+      {
+       "id": "c",
+       "bn": "[Cu(NH3)4]2+",
+       "en": "[Cu(NH3)4]2+"
+      },
+      {
+       "id": "d",
+       "bn": "Cu(OH)2",
+       "en": "Cu(OH)2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ের চিত্র অনুযায়ী NH3 যোগে গাঢ় নীল [Cu(NH3)4]2+ তৈরি হয়।",
+     "explanation_en": "Per the book's scheme, NH3 gives deep blue [Cu(NH3)4]2+.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কপার(II) লবণের জলীয় দ্রবণে I− আয়ন যোগ করলে কোন বর্ণের অধঃক্ষেপ পড়ে?",
+     "question_en": "Adding I- to aqueous Cu(II) gives a precipitate of what colour?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কালো",
+       "en": "Black"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা (CuI)",
+       "en": "White (CuI)"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "d",
+       "bn": "নীল",
+       "en": "Blue"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের পরিবর্তন চিত্রে I− থেকে সাদা CuI পাওয়া যায়।",
+     "explanation_en": "The scheme shows I- giving white CuI.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.28",
+   "title_bn": "কপারের ব্যবহার",
+   "title_en": "Uses of copper",
+   "notes_bn": "কপার তাপ ও বিদ্যুৎ সুপরিবাহী: বৈদ্যুতিক তার/ক্যাবল, ইলেক্ট্রোপ্লেটিং, থালা-বাসন।\nব্রাস: Cu (60–80%) + Zn (40–20%)।\nজার্মান সিলভার: Cu (30–50%), Zn (35–40%), Ni (35–10%)।\nব্রোঞ্জ: Cu (75–90%) + Sn (25–10%)।\nমোনেল মেটাল: Cu 30%, Ni 67%, Fe ও Mn 3%। সিলিকা ব্রোঞ্জ: Cu 97%, Sn 2%, Si 1%।\nসোয়েটজারের বিকারক: Cu(OH)2 কে NH4OH এ দ্রবীভূত করে পাওয়া যায়; সেলুলোজ দ্রবীভূত করে, রেয়ন ও কৃত্রিম সিল্ক তৈরিতে লাগে।",
+   "notes_en": "Cu is an excellent heat/electric conductor: cables, electroplating, utensils.\nBrass: Cu 60-80%, Zn 40-20%.\nGerman silver: Cu 30-50%, Zn 35-40%, Ni 35-10%.\nBronze: Cu 75-90%, Sn 25-10%.\nMonel: Cu 30%, Ni 67%, Fe and Mn 3%. Silicon bronze: Cu 97%, Sn 2%, Si 1%.\nSchweitzer's reagent: Cu(OH)2 dissolved in NH4OH; dissolves cellulose, used for rayon/artificial silk.",
+   "mcqs": [
+    {
+     "question_bn": "ব্রোঞ্জ কোন কোন ধাতুর সংকর?",
+     "question_en": "Bronze is an alloy of which metals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu ও Zn",
+       "en": "Cu and Zn"
+      },
+      {
+       "id": "b",
+       "bn": "Cu ও Sn",
+       "en": "Cu and Sn"
+      },
+      {
+       "id": "c",
+       "bn": "Cu ও Ni",
+       "en": "Cu and Ni"
+      },
+      {
+       "id": "d",
+       "bn": "Zn ও Sn",
+       "en": "Zn and Sn"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ব্রোঞ্জ হলো কপার (75–90%) ও টিন (25–10%) এর সংকর।",
+     "explanation_en": "Bronze = Cu (75-90%) + Sn (25-10%).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মোনেল মেটালে নিকেলের পরিমাণ প্রায় কত?",
+     "question_en": "Approximate Ni content of Monel metal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "30%",
+       "en": "30%"
+      },
+      {
+       "id": "b",
+       "bn": "67%",
+       "en": "67%"
+      },
+      {
+       "id": "c",
+       "bn": "3%",
+       "en": "3%"
+      },
+      {
+       "id": "d",
+       "bn": "97%",
+       "en": "97%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মোনেল মেটাল: Cu 30%, Ni 67%, Fe ও Mn 3%।",
+     "explanation_en": "Monel: Cu 30%, Ni 67%, Fe+Mn 3%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সোয়েটজারের বিকারক কোনটি?",
+     "question_en": "What is Schweitzer's reagent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu(OH)2 এর NH4OH দ্রবণ",
+       "en": "Cu(OH)2 dissolved in NH4OH"
+      },
+      {
+       "id": "b",
+       "bn": "CuSO4 এর HCl দ্রবণ",
+       "en": "CuSO4 in HCl"
+      },
+      {
+       "id": "c",
+       "bn": "Zn(OH)2 এর NaOH দ্রবণ",
+       "en": "Zn(OH)2 in NaOH"
+      },
+      {
+       "id": "d",
+       "bn": "CuO এর জলীয় দ্রবণ",
+       "en": "Aqueous CuO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Cu(OH)2 অতিরিক্ত NH4OH এ গাঢ় নীল [Cu(NH3)4]2+ দ্রবণ গঠন করে, এটিই সোয়েটজারের বিকারক।",
+     "explanation_en": "Cu(OH)2 in excess NH4OH gives deep blue [Cu(NH3)4]2+ solution, Schweitzer's reagent.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সোয়েটজারের বিকারকের একটি ব্যবহার কী?",
+     "question_en": "One use of Schweitzer's reagent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইস্পাত গ্যালভানাইজিং",
+       "en": "Galvanising steel"
+      },
+      {
+       "id": "b",
+       "bn": "সেলুলোজ দ্রবীভূত করে রেয়ন তৈরি",
+       "en": "Dissolving cellulose to make rayon"
+      },
+      {
+       "id": "c",
+       "bn": "সালফিউরিক অ্যাসিড তৈরি",
+       "en": "Making sulphuric acid"
+      },
+      {
+       "id": "d",
+       "bn": "কাচ রঙিন করা",
+       "en": "Colouring glass"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এটি সেলুলোজ, তুলা ও কাগজ দ্রবীভূত করে রেয়ন ও কৃত্রিম সিল্ক প্রস্তুতিতে ব্যবহৃত হয়।",
+     "explanation_en": "It dissolves cellulose and is used to make rayon/artificial silk.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.29",
+   "title_bn": "কপারের শনাক্তকরণ পরীক্ষা",
+   "title_en": "Identification test for copper",
+   "notes_bn": "শুষ্ক পরীক্ষা (কাঠ কয়লা): লবণ + দ্বিগুণ Na2CO3 মিশিয়ে কাঠ কয়লার গর্তে ব্লোপাইপ শিখায় উত্তপ্ত করলে লালচে কপার গুঁড়া পড়ে থাকে।\nCuSO4 + Na2CO3 → CuCO3 + Na2SO4; CuCO3 → CuO + CO2; CuO + C → Cu + CO।\nসিক্ত পরীক্ষা: Cu2+ দ্রবণে পটাসিয়াম ফেরোসায়ানাইড K4[Fe(CN)6] যোগ করলে লালচে বাদামী অধঃক্ষেপ Cu2[Fe(CN)6]।\n2CuSO4 + K4[Fe(CN)6] → Cu2[Fe(CN)6] + 2K2SO4।",
+   "notes_en": "Dry (charcoal) test: salt + 2x Na2CO3 heated in a charcoal cavity with a Bunsen flame leaves reddish Cu residue.\nCuSO4 + Na2CO3 -> CuCO3 + Na2SO4; CuCO3 -> CuO + CO2; CuO + C -> Cu + CO.\nWet test: add K4[Fe(CN)6] to Cu2+ solution, a reddish-brown precipitate Cu2[Fe(CN)6] forms.\n2CuSO4 + K4[Fe(CN)6] -> Cu2[Fe(CN)6] + 2K2SO4.",
+   "mcqs": [
+    {
+     "question_bn": "কপারের সিক্ত পরীক্ষায় কোন বিকারক ব্যবহার করা হয়?",
+     "question_en": "Which reagent is used in the wet test for Cu2+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "K4[Fe(CN)6]",
+       "en": "K4[Fe(CN)6]"
+      },
+      {
+       "id": "b",
+       "bn": "কোবাল্ট নাইট্রেট",
+       "en": "Cobalt nitrate"
+      },
+      {
+       "id": "c",
+       "bn": "H2S",
+       "en": "H2S"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH ও অতিরিক্ত NaOH",
+       "en": "NaOH, then excess"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Cu2+ পটাসিয়াম ফেরোসায়ানাইডের সাথে লালচে বাদামী অধঃক্ষেপ দেয়।",
+     "explanation_en": "K4[Fe(CN)6] gives a reddish-brown precipitate with Cu2+.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কাঠ কয়লা পরীক্ষায় কপার লবণ থেকে কী পাওয়া যায়?",
+     "question_en": "In the charcoal test a copper salt leaves what?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা অবশেষ",
+       "en": "White residue"
+      },
+      {
+       "id": "b",
+       "bn": "লালচে কপার গুঁড়া",
+       "en": "Reddish copper powder"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ অবশেষ",
+       "en": "Green residue"
+      },
+      {
+       "id": "d",
+       "bn": "কিছুই না",
+       "en": "Nothing"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CuO কাঠ কয়লার কার্বন দ্বারা বিজারিত হয়ে লালচে Cu গুঁড়া দেয়।",
+     "explanation_en": "CuO is reduced by charcoal to reddish Cu.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "শুষ্ক পরীক্ষায় কপার কার্বনেট তাপে ভেঙে কী উৎপন্ন করে?",
+     "question_en": "On heating, CuCO3 in the dry test gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu ও CO2",
+       "en": "Cu and CO2"
+      },
+      {
+       "id": "b",
+       "bn": "CuO ও CO2",
+       "en": "CuO and CO2"
+      },
+      {
+       "id": "c",
+       "bn": "CuS ও O2",
+       "en": "CuS and O2"
+      },
+      {
+       "id": "d",
+       "bn": "Cu2O ও CO",
+       "en": "Cu2O and CO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CuCO3 → CuO + CO2।",
+     "explanation_en": "CuCO3 -> CuO + CO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "2CuSO4 + K4[Fe(CN)6] → ? বিক্রিয়ায় কপারের উৎপন্ন যৌগ কোনটি?",
+     "question_en": "Copper product of 2CuSO4 + K4[Fe(CN)6]?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu2[Fe(CN)6]",
+       "en": "Cu2[Fe(CN)6]"
+      },
+      {
+       "id": "b",
+       "bn": "Cu[Fe(CN)6]",
+       "en": "Cu[Fe(CN)6]"
+      },
+      {
+       "id": "c",
+       "bn": "CuFe",
+       "en": "CuFe"
+      },
+      {
+       "id": "d",
+       "bn": "Cu(CN)2",
+       "en": "Cu(CN)2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সমীকরণে Cu2[Fe(CN)6] ও 2K2SO4 পাওয়া যায়; চার্জ সাম্য: 2Cu2+ বনাম [Fe(CN)6]4−।",
+     "explanation_en": "Book: Cu2[Fe(CN)6] + 2K2SO4; 2 Cu2+ balance [Fe(CN)6]4-.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.30",
+   "title_bn": "জিংকের অবস্থান বা উৎস",
+   "title_en": "Occurrence of zinc",
+   "notes_bn": "জিংক মধ্যম সক্রিয় ধাতু; প্রকৃতিতে অক্সাইড, সালফাইড ও কার্বনেট রূপে থাকে।\nজিংক ব্লেন্ড (জিংক সালফাইড) ZnS।\nক্যালামাইন (জিংক কার্বনেট) ZnCO3।\nজিনসাইট (জিংক অক্সাইড) ZnO।",
+   "notes_en": "Zn is a moderately active metal found as oxide, sulphide and carbonate.\nZinc blende: ZnS.\nCalamine: ZnCO3.\nZincite: ZnO.",
+   "mcqs": [
+    {
+     "question_bn": "জিংক ব্লেন্ডের সংকেত কোনটি?",
+     "question_en": "Formula of zinc blende?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ZnS",
+       "en": "ZnS"
+      },
+      {
+       "id": "b",
+       "bn": "ZnCO3",
+       "en": "ZnCO3"
+      },
+      {
+       "id": "c",
+       "bn": "ZnO",
+       "en": "ZnO"
+      },
+      {
+       "id": "d",
+       "bn": "ZnSO4",
+       "en": "ZnSO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "জিংক ব্লেন্ড = ZnS।",
+     "explanation_en": "Zinc blende = ZnS.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্যালামাইন কী?",
+     "question_en": "Calamine is?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ZnO",
+       "en": "ZnO"
+      },
+      {
+       "id": "b",
+       "bn": "ZnCO3",
+       "en": "ZnCO3"
+      },
+      {
+       "id": "c",
+       "bn": "ZnS",
+       "en": "ZnS"
+      },
+      {
+       "id": "d",
+       "bn": "CuFeS2",
+       "en": "CuFeS2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্যালামাইন হলো জিংক কার্বনেট।",
+     "explanation_en": "Calamine is zinc carbonate.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জিনসাইট কোন যৌগ?",
+     "question_en": "Zincite is which compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জিংক সালফাইড",
+       "en": "Zinc sulphide"
+      },
+      {
+       "id": "b",
+       "bn": "জিংক কার্বনেট",
+       "en": "Zinc carbonate"
+      },
+      {
+       "id": "c",
+       "bn": "জিংক অক্সাইড",
+       "en": "Zinc oxide"
+      },
+      {
+       "id": "d",
+       "bn": "জিংক সালফেট",
+       "en": "Zinc sulphate"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "জিনসাইট = ZnO।",
+     "explanation_en": "Zincite = ZnO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি জিংকের আকরিক নয়?",
+     "question_en": "Which is NOT a zinc ore?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জিংক ব্লেন্ড",
+       "en": "Zinc blende"
+      },
+      {
+       "id": "b",
+       "bn": "ক্যালামাইন",
+       "en": "Calamine"
+      },
+      {
+       "id": "c",
+       "bn": "জিনসাইট",
+       "en": "Zincite"
+      },
+      {
+       "id": "d",
+       "bn": "কপার পাইরাইটস",
+       "en": "Copper pyrites"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "কপার পাইরাইটস কপারের আকরিক, বাকিগুলো জিংকের।",
+     "explanation_en": "Copper pyrites is a Cu ore; the rest are Zn ores.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.31",
+   "title_bn": "আকরিক থেকে জিংক নিষ্কাশন",
+   "title_en": "Extraction of zinc from its ores",
+   "notes_bn": "আকরিক: জিংক ব্লেন্ড বা ক্যালামাইন। গাঢ়ীকরণ: গুঁড়া করে তেল-ফেনা ভাসমান পদ্ধতি।\nতাপজারণ: বহুতাক বিশিষ্ট চুল্লিতে ~900°C তাপে: ZnCO3 → ZnO + CO2; 2ZnS + 3O2 → 2ZnO + 2SO2। SO2 থেকে H2SO4 তৈরি হয়।\nবিজারণ: ZnO + কোক মিশিয়ে চীনা মাটির রিটর্টে ~1350°C তাপে প্রায় 24 ঘন্টা উত্তপ্ত: ZnO + C → Zn(বাষ্প) + CO।\nজিংক বাষ্প গ্রাহক শীতকে ঘনীভূত হয়; কিছু অংশ ZnO ও Zn এর মিশ্রণ জিংক-ডাস্ট।\nঅবিশুদ্ধ জিংক (97–98%) = স্পেল্টার; বিদ্যুৎ বিশ্লেষণে 99.95% বিশুদ্ধ জিংক।\nতড়িৎ বিশ্লেষণ: তড়িৎ বিশ্লেষ্য 15% ZnSO4; অ্যানোড অবিশুদ্ধ জিংক, ক্যাথোড বিশুদ্ধ জিংক পাত।",
+   "notes_en": "Ores: zinc blende or calamine; concentrated by froth flotation.\nRoasting at ~900 C in a multi-hearth furnace: ZnCO3 -> ZnO + CO2; 2ZnS + 3O2 -> 2ZnO + 2SO2 (SO2 used for H2SO4).\nReduction: ZnO + coke in clay retorts at ~1350 C for ~24 h: ZnO + C -> Zn(vapour) + CO.\nVapour condenses in the receiver; part forms zinc dust (ZnO + Zn).\nCrude zinc (97-98%) is spelter; electrolysis gives 99.95% Zn.\nElectrolyte 15% ZnSO4; impure Zn anode, pure Zn cathode.",
+   "mcqs": [
+    {
+     "question_bn": "জিংক ব্লেন্ডের তাপজারণে কোন গ্যাস উৎপন্ন হয় যা H2SO4 তৈরিতে ব্যবহৃত হয়?",
+     "question_en": "Which gas from roasting zinc blende is used for H2SO4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO",
+       "en": "CO"
+      },
+      {
+       "id": "b",
+       "bn": "SO2",
+       "en": "SO2"
+      },
+      {
+       "id": "c",
+       "bn": "CO2",
+       "en": "CO2"
+      },
+      {
+       "id": "d",
+       "bn": "NO2",
+       "en": "NO2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2ZnS + 3O2 → 2ZnO + 2SO2।",
+     "explanation_en": "2ZnS + 3O2 -> 2ZnO + 2SO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "স্পেল্টারে জিংকের পরিমাণ কত?",
+     "question_en": "Zinc content of spelter?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "50–60%",
+       "en": "50-60%"
+      },
+      {
+       "id": "b",
+       "bn": "97–98%",
+       "en": "97-98%"
+      },
+      {
+       "id": "c",
+       "bn": "99.95%",
+       "en": "99.95%"
+      },
+      {
+       "id": "d",
+       "bn": "40%",
+       "en": "40%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অবিশুদ্ধ জিংক বা স্পেল্টারে 97–98% জিংক থাকে।",
+     "explanation_en": "Spelter contains 97-98% Zn.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জিংক অক্সাইডের বিজারণে ব্যবহৃত বিজারক কোনটি?",
+     "question_en": "Reducing agent used for ZnO?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কোক কার্বন",
+       "en": "Coke (carbon)"
+      },
+      {
+       "id": "b",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "c",
+       "bn": "Al",
+       "en": "Al"
+      },
+      {
+       "id": "d",
+       "bn": "SO2",
+       "en": "SO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ZnO + C → Zn(vap) + CO।",
+     "explanation_en": "ZnO + C -> Zn(vap) + CO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জিংক বিশুদ্ধকরণের তড়িৎ বিশ্লেষণে বিশুদ্ধ জিংক কোথায় জমা হয় এবং কোন তড়িৎ বিশ্লেষ্য ব্যবহৃত হয়?",
+     "question_en": "In zinc electro-refining, where does pure Zn deposit and which electrolyte is used?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানোড; ZnSO4",
+       "en": "Anode; ZnSO4"
+      },
+      {
+       "id": "b",
+       "bn": "ক্যাথোড; 15% ZnSO4",
+       "en": "Cathode; 15% ZnSO4"
+      },
+      {
+       "id": "c",
+       "bn": "ক্যাথোড; CuSO4",
+       "en": "Cathode; CuSO4"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানোড; ZnCl2",
+       "en": "Anode; ZnCl2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্যাথোডে Zn2+ + 2e → Zn জমা হয়; তড়িৎ বিশ্লেষ্য 15% ZnSO4।",
+     "explanation_en": "Zn2+ + 2e- -> Zn at the cathode; electrolyte is 15% ZnSO4.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.32",
+   "title_bn": "জিংকের বিক্রিয়াসমূহ",
+   "title_en": "Reactions of zinc",
+   "notes_bn": "জিংক ও Zn2+ এর d অরবিটাল পূর্ণ (d10), তাই জিংক প্রকৃত অবস্থান্তর মৌল নয়; এর ধর্ম গ্রুপ-IIA থেকে ভিন্ন।\nলঘু অ্যাসিডের সাথে: Zn + 2H+ + 6H2O → [Zn(H2O)6]2+ + H2।\nক্ষার দ্রবণের সাথে: Zn + 2OH− + 2H2O → [Zn(OH)4]2− (জিংকেট) + H2।",
+   "notes_en": "Zn and Zn2+ have full d orbitals (d10), so Zn is not a true transition metal; it differs from Group IIA metals.\nWith dilute acid: Zn + 2H+ + 6H2O -> [Zn(H2O)6]2+ + H2.\nWith alkali: Zn + 2OH- + 2H2O -> [Zn(OH)4]2- (zincate) + H2.",
+   "mcqs": [
+    {
+     "question_bn": "লঘু অ্যাসিডের সাথে জিংকের বিক্রিয়ায় কোন গ্যাস পাওয়া যায়?",
+     "question_en": "Gas from Zn with dilute acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "b",
+       "bn": "O2",
+       "en": "O2"
+      },
+      {
+       "id": "c",
+       "bn": "SO2",
+       "en": "SO2"
+      },
+      {
+       "id": "d",
+       "bn": "NO2",
+       "en": "NO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Zn হাইড্রোজেন গ্যাস ও [Zn(H2O)6]2+ দেয়।",
+     "explanation_en": "Zn gives H2 and [Zn(H2O)6]2+.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্ষার দ্রবণের সাথে জিংকের বিক্রিয়ায় কোন আয়ন গঠিত হয়?",
+     "question_en": "Ion formed with Zn and alkali?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[Zn(H2O)6]2+",
+       "en": "[Zn(H2O)6]2+"
+      },
+      {
+       "id": "b",
+       "bn": "[Zn(OH)4]2−",
+       "en": "[Zn(OH)4]2-"
+      },
+      {
+       "id": "c",
+       "bn": "ZnO22+",
+       "en": "ZnO2 2+"
+      },
+      {
+       "id": "d",
+       "bn": "Zn+",
+       "en": "Zn+"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "জিংকেট আয়ন [Zn(OH)4]2− এবং H2 উৎপন্ন হয়।",
+     "explanation_en": "Zincate [Zn(OH)4]2- and H2 form.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জিংক কেন অবস্থান্তর মৌল নয়?",
+     "question_en": "Why is Zn not a transition element?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এর d অরবিটাল (Zn2+ এও) পূর্ণ",
+       "en": "Its d orbitals (also in Zn2+) are full"
+      },
+      {
+       "id": "b",
+       "bn": "এটি তরল",
+       "en": "It is a liquid"
+      },
+      {
+       "id": "c",
+       "bn": "এর d অরবিটাল শূন্য",
+       "en": "d orbitals are empty"
+      },
+      {
+       "id": "d",
+       "bn": "এটি অধাতু",
+       "en": "It is a non-metal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Zn ও Zn2+ উভয়েরই d অরবিটাল ইলেকট্রনে পূর্ণ।",
+     "explanation_en": "Both Zn and Zn2+ have completely filled d orbitals.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Zn + 2OH− + 2H2O → [Zn(OH)4]2− + X; X কী?",
+     "question_en": "In Zn + 2OH- + 2H2O -> [Zn(OH)4]2- + X, X is?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O2",
+       "en": "O2"
+      },
+      {
+       "id": "b",
+       "bn": "H2",
+       "en": "H2"
+      },
+      {
+       "id": "c",
+       "bn": "H2O2",
+       "en": "H2O2"
+      },
+      {
+       "id": "d",
+       "bn": "ZnO",
+       "en": "ZnO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের সমীকরণ অনুযায়ী H2 গ্যাস উৎপন্ন হয়; হাইড্রোজেন পরমাণু সাম্য মিলে।",
+     "explanation_en": "Per the book, H2 is evolved; H atoms balance (4 H on left).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.33",
+   "title_bn": "জিংকের যৌগসমূহ ও তাদের পরিবর্তন",
+   "title_en": "Compounds of zinc and their conversion",
+   "notes_bn": "Zn অ্যাসিডের সাথে বিক্রিয়ায় H2 ও হেক্সাঅ্যাকুয়া জিংক(II) আয়ন [Zn(H2O)6]2+ দেয়।\nHCO3− → সাদা ZnCO3; তাপে ZnO (ঠান্ডায় সাদা, গরমে হলুদ)।\nCO3 2− → সাদা ZnCO3·2Zn(OH)2।\nS2− → সাদা ZnS।\nCN− → বর্ণহীন [Zn(CN)4]2−; NH3 → বর্ণহীন [Zn(NH3)4]2+।",
+   "notes_en": "Zn with acids gives H2 and [Zn(H2O)6]2+.\nHCO3- gives white ZnCO3; heating gives ZnO (white cold, yellow hot).\nCO3 2- gives white ZnCO3.2Zn(OH)2.\nS2- gives white ZnS.\nCN- gives colourless [Zn(CN)4]2-; NH3 gives colourless [Zn(NH3)4]2+.",
+   "mcqs": [
+    {
+     "question_bn": "ZnO গরম অবস্থায় কোন বর্ণের হয়?",
+     "question_en": "Colour of ZnO when hot?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা",
+       "en": "White"
+      },
+      {
+       "id": "b",
+       "bn": "হলুদ",
+       "en": "Yellow"
+      },
+      {
+       "id": "c",
+       "bn": "কালো",
+       "en": "Black"
+      },
+      {
+       "id": "d",
+       "bn": "লাল",
+       "en": "Red"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ZnO ঠান্ডায় সাদা ও গরমে হলুদ।",
+     "explanation_en": "ZnO is white cold, yellow hot.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Zn2+ দ্রবণে S2− যোগ করলে কী পাওয়া যায়?",
+     "question_en": "Zn2+ with S2- gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কালো ZnS",
+       "en": "Black ZnS"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা ZnS",
+       "en": "White ZnS"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ ZnS",
+       "en": "Yellow ZnS"
+      },
+      {
+       "id": "d",
+       "bn": "বর্ণহীন দ্রবণ",
+       "en": "Colourless solution"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ZnS সাদা অধঃক্ষেপ।",
+     "explanation_en": "ZnS is a white precipitate.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "[Zn(NH3)4]2+ আয়নের বর্ণ কেমন?",
+     "question_en": "Colour of [Zn(NH3)4]2+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় নীল",
+       "en": "Deep blue"
+      },
+      {
+       "id": "b",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "c",
+       "bn": "বর্ণহীন",
+       "en": "Colourless"
+      },
+      {
+       "id": "d",
+       "bn": "লাল",
+       "en": "Red"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে এটি বর্ণহীন জটিল আয়ন; Cu এর অ্যামিন জটিল গাঢ় নীল।",
+     "explanation_en": "Colourless in the book; Cu's ammine complex is the deep blue one.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ZnCO3 তাপে বিয়োজিত হলে কী উৎপন্ন হয়?",
+     "question_en": "Heating ZnCO3 gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Zn ও CO2",
+       "en": "Zn and CO2"
+      },
+      {
+       "id": "b",
+       "bn": "ZnO ও CO2",
+       "en": "ZnO and CO2"
+      },
+      {
+       "id": "c",
+       "bn": "ZnS ও O2",
+       "en": "ZnS and O2"
+      },
+      {
+       "id": "d",
+       "bn": "ZnO ও CO",
+       "en": "ZnO and CO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ZnCO3 → ZnO + CO2।",
+     "explanation_en": "ZnCO3 -> ZnO + CO2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.34",
+   "title_bn": "জিংকের ব্যবহার",
+   "title_en": "Uses of zinc",
+   "notes_bn": "জিংক প্রধানত ইস্পাত গ্যালভানাইজিং (মরিচা রোধে) এ ব্যবহৃত হয়।\nব্রাস: Cu (60–80%) + Zn (40–20%)।\nজার্মান সিলভার: Cu (30–50%), Zn (35–40%), Ni (35–10%)।\nগান-মেটাল: Cu 88%, Zn 2%, Sn 10%; গান, কামান, যন্ত্রাংশ, পাম্পের পিস্টন, গিয়ার, বল-বিয়ারিং এ ব্যবহৃত।",
+   "notes_en": "Zn is mainly used to galvanise steel.\nBrass: Cu 60-80%, Zn 40-20%.\nGerman silver: Cu 30-50%, Zn 35-40%, Ni 35-10%.\nGun-metal: Cu 88%, Zn 2%, Sn 10%, used for guns, cannon, pump pistons, gears, ball bearings.",
+   "mcqs": [
+    {
+     "question_bn": "জিংকের প্রধান ব্যবহার কী?",
+     "question_en": "Main use of zinc?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইস্পাত গ্যালভানাইজিং",
+       "en": "Galvanising steel"
+      },
+      {
+       "id": "b",
+       "bn": "তার তৈরি",
+       "en": "Making wires"
+      },
+      {
+       "id": "c",
+       "bn": "ছবি আঁকা",
+       "en": "Painting"
+      },
+      {
+       "id": "d",
+       "bn": "কাচ তৈরি",
+       "en": "Glass making"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "জিংক প্রধানত ইস্পাত গ্যালভানাইজিং এ ব্যবহৃত হয়।",
+     "explanation_en": "Zn is mainly used for galvanising steel.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গান-মেটালে কপারের পরিমাণ কত?",
+     "question_en": "Cu content of gun-metal?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "88%",
+       "en": "88%"
+      },
+      {
+       "id": "b",
+       "bn": "10%",
+       "en": "10%"
+      },
+      {
+       "id": "c",
+       "bn": "2%",
+       "en": "2%"
+      },
+      {
+       "id": "d",
+       "bn": "60%",
+       "en": "60%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গান-মেটাল: Cu 88%, Zn 2%, Sn 10%।",
+     "explanation_en": "Gun-metal: Cu 88%, Zn 2%, Sn 10%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ব্রাসে জিংকের পরিমাণ কত?",
+     "question_en": "Zn content of brass?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "40–20%",
+       "en": "40-20%"
+      },
+      {
+       "id": "b",
+       "bn": "75–90%",
+       "en": "75-90%"
+      },
+      {
+       "id": "c",
+       "bn": "2%",
+       "en": "2%"
+      },
+      {
+       "id": "d",
+       "bn": "67%",
+       "en": "67%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ব্রাস: Cu 60–80%, Zn 40–20%।",
+     "explanation_en": "Brass: Cu 60-80%, Zn 40-20%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "জার্মান সিলভারের উপাদান কোনটি?",
+     "question_en": "German silver contains?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu, Zn, Ni",
+       "en": "Cu, Zn, Ni"
+      },
+      {
+       "id": "b",
+       "bn": "Cu, Sn",
+       "en": "Cu, Sn"
+      },
+      {
+       "id": "c",
+       "bn": "Cu, Zn, Sn",
+       "en": "Cu, Zn, Sn"
+      },
+      {
+       "id": "d",
+       "bn": "Cu, Ni, Mn",
+       "en": "Cu, Ni, Mn"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "জার্মান সিলভার = Cu + Zn + Ni।",
+     "explanation_en": "German silver = Cu + Zn + Ni (distinct from gun-metal's Sn).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.35",
+   "title_bn": "জিংকের শনাক্তকরণ পরীক্ষা",
+   "title_en": "Identification test for zinc",
+   "notes_bn": "শুষ্ক পরীক্ষা (কোবাল্ট নাইট্রেট): লবণ + দ্বিগুণ Na2CO3 কাঠ কয়লার গর্তে উত্তপ্ত করলে সাদা অবশেষ ZnO; তাতে Co(NO3)2 দ্রবণ ফেলে আবার তাপ দিলে সবুজ CoZnO2 (রীনম্যান গ্রিন)।\nসিক্ত পরীক্ষা ১: K4[Fe(CN)6] যোগে সাদা অধঃক্ষেপ Zn2[Fe(CN)6]।\nসিক্ত পরীক্ষা ২: NaOH যোগে সাদা Zn(OH)2; অতিরিক্ত NaOH এ দ্রবীভূত হয়ে Na2ZnO2 (সোডিয়াম জিংকেট); H2S চালনায় সাদা ZnS।",
+   "notes_en": "Dry test (cobalt nitrate): salt + 2x Na2CO3 in a charcoal cavity gives white ZnO; moistening with Co(NO3)2 and reheating gives green CoZnO2 (Rinmann's green).\nWet test 1: K4[Fe(CN)6] gives white Zn2[Fe(CN)6].\nWet test 2: NaOH gives white Zn(OH)2, dissolving in excess as Na2ZnO2; H2S then gives white ZnS.",
+   "mcqs": [
+    {
+     "question_bn": "রীনম্যান গ্রিন কোন যৌগ?",
+     "question_en": "Rinmann's green is?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CoZnO2",
+       "en": "CoZnO2"
+      },
+      {
+       "id": "b",
+       "bn": "ZnS",
+       "en": "ZnS"
+      },
+      {
+       "id": "c",
+       "bn": "Cu2O",
+       "en": "Cu2O"
+      },
+      {
+       "id": "d",
+       "bn": "Zn(OH)2",
+       "en": "Zn(OH)2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ZnO ও CoO যুক্ত হয়ে সবুজ CoZnO2 তৈরি হয়।",
+     "explanation_en": "ZnO and CoO combine to give green CoZnO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "জিংক লবণে K4[Fe(CN)6] যোগ করলে কী পাওয়া যায়?",
+     "question_en": "Zn2+ with K4[Fe(CN)6] gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লালচে বাদামী অধঃক্ষেপ",
+       "en": "Reddish-brown precipitate"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা অধঃক্ষেপ",
+       "en": "White precipitate"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ দ্রবণ",
+       "en": "Green solution"
+      },
+      {
+       "id": "d",
+       "bn": "গাঢ় নীল দ্রবণ",
+       "en": "Deep blue solution"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Zn2[Fe(CN)6] সাদা অধঃক্ষেপ; Cu এর ক্ষেত্রে লালচে বাদামী।",
+     "explanation_en": "Zn2[Fe(CN)6] is white; Cu gives reddish-brown.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Zn(OH)2 অতিরিক্ত NaOH এ দ্রবীভূত হয়ে কী গঠন করে?",
+     "question_en": "Zn(OH)2 in excess NaOH forms?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ZnO",
+       "en": "ZnO"
+      },
+      {
+       "id": "b",
+       "bn": "Na2ZnO2",
+       "en": "Na2ZnO2"
+      },
+      {
+       "id": "c",
+       "bn": "ZnS",
+       "en": "ZnS"
+      },
+      {
+       "id": "d",
+       "bn": "Zn",
+       "en": "Zn"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Zn(OH)2 + 2NaOH → Na2ZnO2 + 2H2O (সোডিয়াম জিংকেট)।",
+     "explanation_en": "Zn(OH)2 + 2NaOH -> Na2ZnO2 + 2H2O (sodium zincate).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সোডিয়াম জিংকেট দ্রবণে H2S চালনা করলে কী ঘটে?",
+     "question_en": "H2S passed into sodium zincate solution gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা ZnS অধঃক্ষেপ",
+       "en": "White ZnS precipitate"
+      },
+      {
+       "id": "b",
+       "bn": "কালো CuS",
+       "en": "Black CuS"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো পরিবর্তন নেই",
+       "en": "No change"
+      },
+      {
+       "id": "d",
+       "bn": "সবুজ CoZnO2",
+       "en": "Green CoZnO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Na2ZnO2 + 2H2S → ZnS + Na2S + 2H2O।",
+     "explanation_en": "Na2ZnO2 + 2H2S -> ZnS + Na2S + 2H2O.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "3.31",
+   "stimulus_bn": "একটি কারখানায় জিংক ব্লেন্ড আকরিক গুঁড়া করে তেল-ফেনা পদ্ধতিতে গাঢ় করা হয়। এরপর বহুতাক চুল্লিতে ~900°C এ তাপজারণ করে উৎপন্ন অক্সাইডকে কোকসহ চীনা মাটির রিটর্টে ~1350°C এ উত্তপ্ত করা হয়। প্রাপ্ত অবিশুদ্ধ ধাতু পরে বিদ্যুৎ বিশ্লেষণে বিশুদ্ধ করা হয়।",
+   "stimulus_en": "A plant crushes zinc blende and concentrates it by froth flotation. It is roasted at ~900 C in a multi-hearth furnace, and the oxide is heated with coke in clay retorts at ~1350 C. The crude metal is then electro-refined.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "স্পেল্টার কী?",
+     "question_en": "What is spelter?",
+     "model_answer_bn": "বিজারণে প্রাপ্ত অবিশুদ্ধ জিংক (97–98% Zn) কে স্পেল্টার বলে।",
+     "model_answer_en": "Crude zinc (97-98% Zn) from reduction is spelter."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "তাপজারণের সময় সৃষ্ট গ্যাসটির একটি ব্যবহার লেখো।",
+     "question_en": "Name a use of the gas formed during roasting.",
+     "model_answer_bn": "তাপজারণে SO2 উৎপন্ন হয় (2ZnS + 3O2 → 2ZnO + 2SO2); এটি স্পর্শ পদ্ধতিতে সালফিউরিক অ্যাসিড উৎপাদনে ব্যবহৃত হয়।",
+     "model_answer_en": "SO2 forms (2ZnS + 3O2 -> 2ZnO + 2SO2) and is used to make sulphuric acid."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "বিজারণ ধাপের বিক্রিয়াটি লিখে জিংক কীভাবে সংগৃহীত হয় ব্যাখ্যা করো।",
+     "question_en": "Write the reduction step and explain how zinc is collected.",
+     "model_answer_bn": "ZnO + C → Zn(বাষ্প) + CO। জিংক বাষ্প গ্রাহক শীতকে ঘনীভূত হয়ে তরল জিংক জমা হয়; কিছু অংশ ZnO এর সাথে জিংক-ডাস্ট তৈরি করে।",
+     "model_answer_en": "ZnO + C -> Zn(vapour) + CO. Vapour condenses in the receiver as molten zinc; some forms zinc dust with ZnO."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "বিদ্যুৎ বিশ্লেষণে জিংক বিশুদ্ধকরণের প্রক্রিয়া বিক্রিয়াসহ বিশ্লেষণ করো।",
+     "question_en": "Analyse the electro-refining of zinc with reactions.",
+     "model_answer_bn": "তড়িৎ বিশ্লেষ্য 15% ZnSO4, অ্যানোড স্পেল্টার দণ্ড, ক্যাথোড বিশুদ্ধ জিংক পাত। অ্যানোড: Zn → Zn2+ + 2e−; ক্যাথোড: Zn2+ + 2e− → Zn। বিশুদ্ধ জিংক (99.95%) ক্যাথোডে জমে; অপদ্রব্য অ্যানোড-মাড হিসেবে নিচে পড়ে।",
+     "model_answer_en": "Electrolyte 15% ZnSO4, impure spelter anode, pure Zn cathode. Anode: Zn -> Zn2+ + 2e-; cathode: Zn2+ + 2e- -> Zn. 99.95% Zn deposits at cathode; impurities fall as anode mud."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.35",
+   "stimulus_bn": "একজন ছাত্র দুটি অজানা সাদা/নীল লবণ X ও Y পেল। X এর দ্রবণে NaOH যোগ করলে সাদা অধঃক্ষেপ পড়ে যা অতিরিক্ত NaOH এ দ্রবীভূত হয়। Y এর দ্রবণ নীল এবং K4[Fe(CN)6] যোগে লালচে বাদামী অধঃক্ষেপ দেয়।",
+   "stimulus_en": "A student has two unknown salts X and Y. X solution gives a white precipitate with NaOH that dissolves in excess. Y solution is blue and gives a reddish-brown precipitate with K4[Fe(CN)6].",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "রীনম্যান গ্রিন এর সংকেত লেখো।",
+     "question_en": "Write the formula of Rinmann's green.",
+     "model_answer_bn": "CoZnO2।",
+     "model_answer_en": "CoZnO2."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "X ও Y কোন ধাতব আয়ন নির্দেশ করে?",
+     "question_en": "Which metal ions do X and Y indicate?",
+     "model_answer_bn": "X হলো Zn2+ (সাদা Zn(OH)2, অতিরিক্ত NaOH এ জিংকেট); Y হলো Cu2+ (নীল দ্রবণ, লালচে বাদামী Cu2[Fe(CN)6])।",
+     "model_answer_en": "X is Zn2+ (white Zn(OH)2 dissolving to zincate); Y is Cu2+ (blue, reddish-brown Cu2[Fe(CN)6])."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "X এর শুষ্ক পরীক্ষা (কোবাল্ট নাইট্রেট) বিক্রিয়াসহ লেখো।",
+     "question_en": "Describe the dry cobalt nitrate test for X with equations.",
+     "model_answer_bn": "ZnSO4 + Na2CO3 → ZnCO3 + Na2SO4; ZnCO3 → ZnO + CO2; Co(NO3)2 এর বিয়োজনে CoO; CoO + ZnO → CoZnO2 (সবুজ)।",
+     "model_answer_en": "ZnSO4 + Na2CO3 -> ZnCO3 + Na2SO4; ZnCO3 -> ZnO + CO2; Co(NO3)2 gives CoO; CoO + ZnO -> green CoZnO2."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "X এর সাথে H2S দিয়ে নিশ্চিতকরণ পরীক্ষার ধাপ ও সমীকরণ ব্যাখ্যা করো এবং Y থেকে পার্থক্য দেখাও।",
+     "question_en": "Explain the NaOH/H2S confirmation of X with equations and distinguish it from Y.",
+     "model_answer_bn": "ZnSO4 + 2NaOH → Zn(OH)2 + Na2SO4; Zn(OH)2 + 2NaOH → Na2ZnO2 + 2H2O; Na2ZnO2 + 2H2S → ZnS(সাদা) + Na2S + 2H2O। Y (Cu2+) ফেরোসায়ানাইডে লালচে বাদামী, X সাদা অধঃক্ষেপ দেয়; Cu2+ দ্রবণ নীল, Zn2+ বর্ণহীন।",
+     "model_answer_en": "ZnSO4 + 2NaOH -> Zn(OH)2 + Na2SO4; Zn(OH)2 + 2NaOH -> Na2ZnO2 + 2H2O; Na2ZnO2 + 2H2S -> white ZnS + Na2S + 2H2O. With ferrocyanide Cu2+ gives reddish-brown, Zn2+ white; Cu2+ is blue, Zn2+ colourless."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 191-197 read; later pages are chapter summary/exam questions and were skipped. Printed p.177 = PDF 192. Page-quality good."
+}

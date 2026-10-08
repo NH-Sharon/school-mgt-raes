@@ -1,0 +1,2069 @@
+{
+ "chapter_no": 9,
+ "topics": [
+  {
+   "section_no": "9.14",
+   "title_bn": "ভূমিকা : এসিড জাতক",
+   "title_en": "Introduction: Acid derivatives",
+   "notes_bn": "কার্বক্সিলিক এসিডের –OH মূলকের বদলে –X, –OR, –NH₂ বা RCOO– বসালে এসিড জাতক পাওয়া যায়।\n–X → অ্যাসাইল হ্যালাইড; –OR → এস্টার; –NH₂ → এসিড অ্যামাইড; RCOO– → এসিড অ্যানহাইড্রাইড।\nপ্রত্যেক জাতকে অ্যাসাইল মূলক (RCO–) থাকে।\nPCl₅ দিয়ে অ্যাসাইল ক্লোরাইড, P₂O₅ দিয়ে দুই অণু এসিড থেকে অ্যানহাইড্রাইড তৈরি হয়।\nজাতকগুলোর অণুতে কার্বনাইল মূলকের কারণে ডাইপোল-ডাইপোল আকর্ষণ আছে; ফুটনাঙ্ক সমাণবিক ভরের এসিডের চেয়ে কম (অ্যামাইড বাদে)।\nঅ্যামাইডের (HCONH₂ বাদে) নিম্ন সদস্যও কঠিন; হাইড্রোজেন বন্ধন থাকায় গলনাঙ্ক বেশি এবং পানিতে দ্রবণীয়।",
+   "notes_en": "Replacing –OH of a carboxylic acid by –X, –OR, –NH2 or RCOO– gives acid derivatives: acyl halide, ester, amide, anhydride.\nAll contain the acyl group RCO–.\nPCl5 converts acid to acyl chloride; P2O5 dehydrates two acid molecules to an anhydride.\nDerivatives cannot H-bond among themselves, so their boiling points are lower than acids of similar mass (except amides).\nAmides (except HCONH2) are solids with high m.p. and are water soluble due to H-bonding.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি কার্বক্সিলিক এসিডের জাতক নয়?",
+     "question_en": "Which is NOT a derivative of a carboxylic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RCOCl",
+       "en": "RCOCl"
+      },
+      {
+       "id": "b",
+       "bn": "RCOOR'",
+       "en": "RCOOR'"
+      },
+      {
+       "id": "c",
+       "bn": "RCONH₂",
+       "en": "RCONH₂"
+      },
+      {
+       "id": "d",
+       "bn": "R–CH₂OH",
+       "en": "R–CH₂OH"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "R–CH₂OH অ্যালকোহল, এসিড জাতক নয়।",
+     "explanation_en": "R–CH2OH is an alcohol, not an acid derivative.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "এসিডের –OH মূলককে –NH₂ দিয়ে প্রতিস্থাপন করলে কী পাওয়া যায়?",
+     "question_en": "Replacing –OH of an acid by –NH₂ gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "b",
+       "bn": "এসিড অ্যামাইড",
+       "en": "Acid amide"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসাইল ক্লোরাইড",
+       "en": "Acyl chloride"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানহাইড্রাইড",
+       "en": "Anhydride"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "–NH₂ প্রতিস্থাপনে এসিড অ্যামাইড হয়।",
+     "explanation_en": "–NH2 substitution gives an acid amide.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কেন এসিড ক্লোরাইড, এস্টার ইত্যাদির ফুটনাঙ্ক সমাণবিক ভরের এসিডের চেয়ে কম?",
+     "question_en": "Why do acid chlorides and esters boil lower than acids of similar mass?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এদের অণুতে কার্বনাইল মূলক নেই",
+       "en": "They lack carbonyl group"
+      },
+      {
+       "id": "b",
+       "bn": "এরা নিজেদের মধ্যে হাইড্রোজেন বন্ধন গঠন করতে পারে না",
+       "en": "They cannot form H-bonds among themselves"
+      },
+      {
+       "id": "c",
+       "bn": "এরা আয়নিক যৌগ",
+       "en": "They are ionic"
+      },
+      {
+       "id": "d",
+       "bn": "এদের আণবিক ভর কম",
+       "en": "Their molecular mass is smaller"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হাইড্রোজেনযুক্ত –OH/–NH নেই, তাই শুধু ডাইপোল আকর্ষণ থাকে।",
+     "explanation_en": "No O–H/N–H, so only dipole attraction operates.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন জাতকের নিম্ন সদস্যও কক্ষ তাপমাত্রায় কঠিন (ফরমামাইড বাদে)?",
+     "question_en": "Which derivative's lower members are solid at room temperature (except formamide)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এস্টার",
+       "en": "Esters"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসাইল ক্লোরাইড",
+       "en": "Acyl chlorides"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইড",
+       "en": "Amides"
+      },
+      {
+       "id": "d",
+       "bn": "এসিড অ্যানহাইড্রাইড (নিম্ন)",
+       "en": "Lower anhydrides"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অ্যামাইডে –CONH₂-এ দুটি H থাকায় বেশি হাইড্রোজেন বন্ধন হয়, তাই কঠিন।",
+     "explanation_en": "Amides have two N–H and form more H-bonds, hence solids.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দুই অণু RCOOH থেকে P₂O₅ দিয়ে পানি অপসারণে কী উৎপন্ন হয়?",
+     "question_en": "Dehydrating two RCOOH molecules with P₂O₅ gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসাইল ক্লোরাইড",
+       "en": "Acyl chloride"
+      },
+      {
+       "id": "d",
+       "bn": "(RCO)₂O",
+       "en": "(RCO)₂O"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "দুই অণু এসিড থেকে এক অণু পানি গেলে অ্যানহাইড্রাইড হয়।",
+     "explanation_en": "Loss of one water from two acid molecules gives anhydride.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.15",
+   "title_bn": "কার্বক্সিলিক এসিডের জাতকসমূহের সক্রিয়তা",
+   "title_en": "Reactivity of carboxylic acid derivatives",
+   "notes_bn": "সক্রিয়তার ক্রম: RCOCl > (RCO)₂O > RCO₂R' > RCONH₂।\nপ্রবাহচিত্রে তীরের দিকে (অধিক সক্রিয় থেকে কম সক্রিয়) সরাসরি রূপান্তর সম্ভব; উল্টো দিকে সরাসরি নয়।\nসব জাতকের কার্বনাইল কার্বনে আংশিক ধনাত্মক চার্জ (C^δ+) থাকে, তাই নিউক্লিওফাইল আক্রমণ করে (নিউক্লিওফিলিক প্রতিস্থাপন)।\nCl-এর –I প্রভাবে অ্যাসাইল ক্লোরাইডে C^δ+ বেশি, তাই সবচেয়ে সক্রিয়।\nঅ্যামাইডে N-এর নিঃসঙ্গ ইলেকট্রন যুগল ডিলোকালাইজড থাকায় প্রোটন গ্রহণ কঠিন; অ্যামাইড অ্যামোনিয়ার চেয়ে দুর্বল ক্ষার।\nপানি/লঘু এসিড/ক্ষারে আর্দ্র বিশ্লেষণে সবগুলো মূল জৈব এসিড দেয়।",
+   "notes_en": "Reactivity order: RCOCl > (RCO)2O > RCO2R' > RCONH2.\nA more reactive derivative can be converted directly into a less reactive one, not the reverse.\nCarbonyl carbon carries partial positive charge, so nucleophiles attack (nucleophilic substitution).\nCl's –I effect makes acyl chloride's carbon most positive, hence most reactive.\nIn amides the N lone pair is delocalised, so amides are weaker bases than ammonia.\nAll derivatives hydrolyse to the parent acid.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বক্সিলিক এসিড জাতকের সক্রিয়তার সঠিক ক্রম কোনটি?",
+     "question_en": "Correct order of reactivity of acid derivatives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RCONH₂ > RCO₂R' > (RCO)₂O > RCOCl",
+       "en": "RCONH₂ > RCO₂R' > (RCO)₂O > RCOCl"
+      },
+      {
+       "id": "b",
+       "bn": "RCOCl > (RCO)₂O > RCO₂R' > RCONH₂",
+       "en": "RCOCl > (RCO)₂O > RCO₂R' > RCONH₂"
+      },
+      {
+       "id": "c",
+       "bn": "(RCO)₂O > RCOCl > RCONH₂ > RCO₂R'",
+       "en": "(RCO)₂O > RCOCl > RCONH₂ > RCO₂R'"
+      },
+      {
+       "id": "d",
+       "bn": "RCO₂R' > RCOCl > RCONH₂ > (RCO)₂O",
+       "en": "RCO₂R' > RCOCl > RCONH₂ > (RCO)₂O"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্রম: অ্যাসাইল ক্লোরাইড > অ্যানহাইড্রাইড > এস্টার > অ্যামাইড।",
+     "explanation_en": "Acyl chloride > anhydride > ester > amide.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি সবচেয়ে কম সক্রিয়?",
+     "question_en": "Which is least reactive?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসাইল ক্লোরাইড",
+       "en": "Acyl chloride"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানহাইড্রাইড",
+       "en": "Anhydride"
+      },
+      {
+       "id": "c",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "অ্যামাইডে ইলেকট্রন ডিলোকালাইজেশনে কার্বনাইল কার্বনের ধনাত্মকতা কম।",
+     "explanation_en": "Amide is least reactive due to N lone-pair delocalisation.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাসাইল ক্লোরাইড সবচেয়ে সক্রিয় কেন?",
+     "question_en": "Why is acyl chloride the most reactive?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl-এর ইলেকট্রন আকর্ষণে কার্বনাইল C-এর ধনাত্মক চার্জ বেশি",
+       "en": "Cl withdraws electrons, raising C^δ+ of carbonyl carbon"
+      },
+      {
+       "id": "b",
+       "bn": "Cl ইলেকট্রন দান করে",
+       "en": "Cl donates electrons"
+      },
+      {
+       "id": "c",
+       "bn": "হাইড্রোজেন বন্ধন আছে",
+       "en": "It has H-bonding"
+      },
+      {
+       "id": "d",
+       "bn": "এটি আয়নিক",
+       "en": "It is ionic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Cl-এর –I প্রভাবে কার্বনাইল কার্বন আরও ইলেকট্রন-ঘাটতি হয়।",
+     "explanation_en": "Cl's –I effect makes the carbonyl carbon more electron-deficient.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রবাহচিত্র অনুযায়ী RCOCl থেকে সরাসরি কোনটি প্রস্তুত করা যায় না?",
+     "question_en": "Per the flow chart, which cannot be made directly from the less reactive one?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RCOCl, RCONH₂ থেকে",
+       "en": "RCOCl from RCONH₂"
+      },
+      {
+       "id": "b",
+       "bn": "RCONH₂, RCOCl থেকে",
+       "en": "RCONH₂ from RCOCl"
+      },
+      {
+       "id": "c",
+       "bn": "এস্টার, RCOCl থেকে",
+       "en": "Ester from RCOCl"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানহাইড্রাইড, RCOCl থেকে",
+       "en": "Anhydride from RCOCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কম সক্রিয় জাতক থেকে বেশি সক্রিয় জাতক সরাসরি হয় না; এজন্য আগে RCO₂H করতে হয়।",
+     "explanation_en": "A less reactive derivative cannot be converted directly to a more reactive one; go via RCO2H.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যামাইড অ্যামোনিয়ার চেয়ে দুর্বল ক্ষার কেন?",
+     "question_en": "Why is amide a weaker base than ammonia?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N-এর নিঃসঙ্গ জোড় ইলেকট্রন কার্বনাইলের সঙ্গে ডিলোকালাইজড",
+       "en": "N lone pair is delocalised over carbonyl"
+      },
+      {
+       "id": "b",
+       "bn": "N নেই",
+       "en": "No nitrogen"
+      },
+      {
+       "id": "c",
+       "bn": "এতে O বেশি",
+       "en": "More O atoms"
+      },
+      {
+       "id": "d",
+       "bn": "এটি অম্লীয়",
+       "en": "It is acidic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ডিলোকালাইজেশনে প্রোটন গ্রহণ সহজ নয়।",
+     "explanation_en": "Delocalisation makes the lone pair less available for protonation.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.16",
+   "title_bn": "অ্যাসাইল ক্লোরাইডের সাধারণ প্রস্তুত প্রণালী",
+   "title_en": "General preparation of acyl chlorides",
+   "notes_bn": "জৈব এসিডের সঙ্গে PCl₃, PCl₅ বা SOCl₂ বিক্রিয়ায় অ্যাসাইল ক্লোরাইড হয়।\n3RCOOH + PCl₃ → 3RCOCl + H₃PO₃; RCOOH + PCl₅ → RCOCl + POCl₃ + HCl; RCOOH + SOCl₂ → RCOCl + SO₂ + HCl।\nCH₃COCl (ফুটনাঙ্ক 52°C) প্রস্তুতিতে PCl₃ (H₃PO₃ ফুটনাঙ্ক 200°C) উপযুক্ত, কারণ পাতনে সহজে পৃথক হয়।\nউচ্চ ফুটনাঙ্কের ক্লোরাইডে PCl₅ ব্যবহার (POCl₃ ফুটনাঙ্ক 107°C)।\nSOCl₂ সর্বোত্তম, কারণ উপজাত SO₂ ও HCl গ্যাস, ফলে বিশুদ্ধ ক্লোরাইড পাওয়া যায়।\nআরোমেটিক: বেনজয়িক এসিড + PCl₅ → বেনজয়াইল ক্লোরাইড।",
+   "notes_en": "Carboxylic acids react with PCl3, PCl5 or SOCl2 to give acyl chlorides.\n3RCOOH + PCl3 -> 3RCOCl + H3PO3; RCOOH + PCl5 -> RCOCl + POCl3 + HCl; RCOOH + SOCl2 -> RCOCl + SO2 + HCl.\nFor CH3COCl (b.p. 52 C) PCl3 is used since H3PO3 (b.p. 200 C) separates by distillation.\nPCl5 suits higher-boiling chlorides (POCl3 b.p. 107 C).\nSOCl2 is best: by-products SO2 and HCl are gases, leaving pure acyl chloride.\nBenzoic acid + PCl5 gives benzoyl chloride.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যাসাইল ক্লোরাইড প্রস্তুতির সর্বোত্তম বিকারক কোনটি?",
+     "question_en": "Best reagent for acyl chloride preparation:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "PCl₃",
+       "en": "PCl₃"
+      },
+      {
+       "id": "b",
+       "bn": "PCl₅",
+       "en": "PCl₅"
+      },
+      {
+       "id": "c",
+       "bn": "SOCl₂",
+       "en": "SOCl₂"
+      },
+      {
+       "id": "d",
+       "bn": "HCl",
+       "en": "HCl"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "SOCl₂-এ উপজাত গ্যাসীয় SO₂ ও HCl, তাই বিশুদ্ধ ক্লোরাইড মেলে।",
+     "explanation_en": "By-products SO2 and HCl are gaseous, so product is pure.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "RCOOH + SOCl₂ বিক্রিয়ার উৎপাদ কী?",
+     "question_en": "Products of RCOOH + SOCl₂:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RCOCl + SO₂ + HCl",
+       "en": "RCOCl + SO2 + HCl"
+      },
+      {
+       "id": "b",
+       "bn": "RCOCl + H₃PO₃",
+       "en": "RCOCl + H3PO3"
+      },
+      {
+       "id": "c",
+       "bn": "RCOCl + POCl₃",
+       "en": "RCOCl + POCl3"
+      },
+      {
+       "id": "d",
+       "bn": "RCOOR + HCl",
+       "en": "RCOOR + HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "SOCl₂ থেকে SO₂ ও HCl গ্যাস বের হয়।",
+     "explanation_en": "SOCl2 gives SO2 and HCl gas.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানোয়িক এসিড থেকে ইথানোয়িল ক্লোরাইড প্রস্তুতিতে PCl₃ উপযুক্ত কেন?",
+     "question_en": "Why is PCl₃ suited for preparing ethanoyl chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₃PO₃-এর ফুটনাঙ্ক (200°C) ক্লোরাইডের (52°C) চেয়ে অনেক বেশি",
+       "en": "H3PO3 (200 C) boils far above CH3COCl (52 C)"
+      },
+      {
+       "id": "b",
+       "bn": "PCl₃ গ্যাস",
+       "en": "PCl3 is a gas"
+      },
+      {
+       "id": "c",
+       "bn": "H₃PO₃ গ্যাস",
+       "en": "H3PO3 is a gas"
+      },
+      {
+       "id": "d",
+       "bn": "POCl₃ উৎপন্ন হয়",
+       "en": "POCl3 forms"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফুটনাঙ্কের বড় পার্থক্যে পাতনে সহজে পৃথক হয়।",
+     "explanation_en": "Large b.p. difference allows easy separation by distillation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন ক্ষেত্রে PCl₅ ব্যবহার সুবিধাজনক?",
+     "question_en": "When is PCl₅ preferred?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরাইডের ফুটনাঙ্ক অধিক হলে (উপজাত POCl₃ 107°C)",
+       "en": "When the acyl chloride has high b.p. (POCl3 b.p. 107 C)"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরাইড অত্যন্ত উদ্বায়ী হলে",
+       "en": "For very volatile chlorides"
+      },
+      {
+       "id": "c",
+       "bn": "কখনোই নয়",
+       "en": "Never"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু ফরমিক এসিডে",
+       "en": "Only for formic acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "POCl₃ (107°C) কম ফুটনাঙ্কের হওয়ায় উচ্চ ফুটনাঙ্কের ক্লোরাইড অবশিষ্ট থাকে।",
+     "explanation_en": "Low-boiling POCl3 distils off, leaving the high-boiling acyl chloride.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.17",
+   "title_bn": "অ্যাসাইল ক্লোরাইডের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of acyl chlorides",
+   "notes_bn": "নিউক্লিওফিলিক প্রতিস্থাপন (অ্যাসাইলেশন): H-যুক্ত মূলক (–OH, –NH₂) RCO– দ্বারা প্রতিস্থাপিত হয়; CH₃CO– হলে অ্যাসিটাইলেশন।\nআর্দ্র বিশ্লেষণ: CH₃COCl + H₂O → CH₃COOH + HCl।\nঅ্যালকোহল/ফেনলের সঙ্গে এস্টার (HCl পিরিডিন দিয়ে অপসারিত): CH₃COCl + C₂H₅OH → CH₃COOC₂H₅ + HCl।\nঅ্যামোনিয়া, 1°/2° অ্যামিনের সঙ্গে অ্যামাইড: CH₃COCl + NH₃ → CH₃CONH₂ + HCl।\nরোজেনমুন্ড বিজারণ: RCOCl + H₂ (Pd, BaSO₄) → RCHO + HCl (BaSO₄ প্রভাবক বিষ)।\nLiAlH₄/শুষ্ক ইথারে বিজারণে 1° অ্যালকোহল: CH₃COCl → CH₃CH₂OH।\nআরোমেটিক অ্যাসাইল ক্লোরাইড অ্যালিফেটিকের চেয়ে কম সক্রিয়, কারণ বেনজিন বলয়ের π-ইলেকট্রন C^δ+ কমায়।",
+   "notes_en": "Nucleophilic substitution (acylation): active-H groups (–OH, –NH2) get RCO–; with CH3CO– it is acetylation.\nHydrolysis: CH3COCl + H2O -> CH3COOH + HCl.\nWith alcohols/phenol: esters (HCl removed by pyridine): CH3COCl + C2H5OH -> CH3COOC2H5 + HCl.\nWith NH3, 1 and 2 amines: amides: CH3COCl + NH3 -> CH3CONH2 + HCl.\nRosenmund reduction: RCOCl + H2 (Pd, BaSO4) -> RCHO + HCl; BaSO4 poisons the catalyst.\nLiAlH4 in dry ether reduces to 1 alcohol.\nAromatic acyl chlorides are less reactive than aliphatic ones because ring pi electrons reduce C^δ+.",
+   "mcqs": [
+    {
+     "question_bn": "রোজেনমুন্ড বিজারণে RCOCl থেকে কী পাওয়া যায়?",
+     "question_en": "Rosenmund reduction converts RCOCl to:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকোহল",
+       "en": "Alcohol"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      },
+      {
+       "id": "c",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "d",
+       "bn": "কিটোন",
+       "en": "Ketone"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Pd–BaSO₄ ও H₂-এ RCHO পাওয়া যায়।",
+     "explanation_en": "H2/Pd–BaSO4 gives RCHO.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH₃COCl + NH₃ বিক্রিয়ার প্রধান জৈব উৎপাদ?",
+     "question_en": "Main organic product of CH₃COCl + NH₃:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃COOH",
+       "en": "CH3COOH"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃CONH₂",
+       "en": "CH3CONH2"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃CH₂OH",
+       "en": "CH3CH2OH"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃COOCH₃",
+       "en": "CH3COOCH3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যামোনোলাইসিসে ইথান্যামাইড হয়।",
+     "explanation_en": "Ammonolysis gives ethanamide.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH₃COCl-কে LiAlH₄/শুষ্ক ইথারে বিজারিত করলে কী হয়?",
+     "question_en": "Reducing CH₃COCl with LiAlH₄ in dry ether gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানোয়িক এসিড",
+       "en": "Ethanoic acid"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শক্তিশালী বিজারকে 1° অ্যালকোহল (CH₃CH₂OH) হয়।",
+     "explanation_en": "Strong reductant gives the primary alcohol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফেনলের সঙ্গে CH₃COCl বিক্রিয়ায় (NaOH) কী উৎপন্ন হয়?",
+     "question_en": "Phenol + CH₃COCl (NaOH) gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফিনাইল ইথানোয়েট",
+       "en": "Phenyl ethanoate"
+      },
+      {
+       "id": "b",
+       "bn": "ইথাইল ইথানোয়েট",
+       "en": "Ethyl ethanoate"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজোয়িক এসিড",
+       "en": "Benzoic acid"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন",
+       "en": "Aniline"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফেনলের –OH-এর H, CH₃CO– দ্বারা প্রতিস্থাপিত হয়ে এস্টার।",
+     "explanation_en": "Phenolic H replaced by CH3CO- gives the ester.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রোজেনমুন্ড বিজারণে BaSO₄-এর ভূমিকা কী?",
+     "question_en": "Role of BaSO₄ in Rosenmund reduction:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রভাবক বিষ হিসেবে Pd-এর সক্রিয়তা কমিয়ে অ্যালডিহাইডে থামানো",
+       "en": "Poison that lowers Pd activity so reaction stops at aldehyde"
+      },
+      {
+       "id": "b",
+       "bn": "দ্রাবক",
+       "en": "Solvent"
+      },
+      {
+       "id": "c",
+       "bn": "বিজারক",
+       "en": "Reducing agent"
+      },
+      {
+       "id": "d",
+       "bn": "জারক",
+       "en": "Oxidant"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পূর্ণ বিজারণ ঠেকাতে প্রভাবক বিষ ব্যবহৃত হয়।",
+     "explanation_en": "Catalyst poison prevents further reduction.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.18",
+   "title_bn": "ভূমিকা (এসিড অ্যানহাইড্রাইড)",
+   "title_en": "Introduction (Acid anhydride)",
+   "notes_bn": "সাধারণ সংকেত (RCO)₂O, অর্থাৎ R–CO–O–CO–R।\nনিরুদক P₂O₅ সহ উত্তপ্ত করলে দুই অণু জৈব এসিড থেকে এক অণু পানি অপসারিত হয়ে অ্যানহাইড্রাইড হয়।\n2RCOOH → (RCO)₂O + H₂O (P₂O₅, Δ)।\nঅ্যানহাইড্রাইড এসিড জাতকের একটি শ্রেণি, অ্যাসাইল মূলকযুক্ত।\nউদ্বায়ী ও গন্ধযুক্ত; আরোমেটিক অ্যানহাইড্রাইড কঠিন।",
+   "notes_en": "General formula (RCO)2O i.e. R-CO-O-CO-R.\nHeating two molecules of a carboxylic acid with dehydrating agent P2O5 removes one water to give the anhydride.\n2RCOOH -> (RCO)2O + H2O (P2O5, heat).\nIt is an acyl-containing acid derivative.\nAnhydrides are volatile, pungent; aromatic ones are solids.",
+   "mcqs": [
+    {
+     "question_bn": "এসিড অ্যানহাইড্রাইডের সাধারণ সংকেত কোনটি?",
+     "question_en": "General formula of acid anhydride:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RCOOR'",
+       "en": "RCOOR'"
+      },
+      {
+       "id": "b",
+       "bn": "(RCO)₂O",
+       "en": "(RCO)₂O"
+      },
+      {
+       "id": "c",
+       "bn": "RCOCl",
+       "en": "RCOCl"
+      },
+      {
+       "id": "d",
+       "bn": "RCONH₂",
+       "en": "RCONH₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুই অ্যাসাইল মূলক O দ্বারা যুক্ত।",
+     "explanation_en": "Two acyl groups joined through O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যানহাইড্রাইড প্রস্তুতিতে নিরুদক কোনটি?",
+     "question_en": "Dehydrating agent for anhydride formation:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P₂O₅",
+       "en": "P₂O₅"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "LiAlH₄",
+       "en": "LiAlH₄"
+      },
+      {
+       "id": "d",
+       "bn": "PCl₃",
+       "en": "PCl₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "P₂O₅ পানি অপসারণ করে।",
+     "explanation_en": "P2O5 removes water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "দুই অণু CH₃COOH থেকে P₂O₅ দিয়ে কত অণু পানি যায়?",
+     "question_en": "How many water molecules are lost from 2 CH₃COOH with P₂O₅?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "০",
+       "en": "0"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একটি অণু H₂O অপসারিত হয়ে (CH₃CO)₂O হয়।",
+     "explanation_en": "One H2O is lost giving (CH3CO)2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগে R–CO–O–CO–R বন্ধন বিন্যাস আছে?",
+     "question_en": "Which compound contains R–CO–O–CO–R?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানহাইড্রাইড",
+       "en": "Anhydride"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসাইল ক্লোরাইড",
+       "en": "Acyl chloride"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এটি অ্যানহাইড্রাইডের কাঠামো।",
+     "explanation_en": "This is the anhydride structure.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.19",
+   "title_bn": "এসিড অ্যানহাইড্রাইডের সাধারণ প্রস্তুতপ্রণালী",
+   "title_en": "General preparation of acid anhydrides",
+   "notes_bn": "১। অ্যাসাইল ক্লোরাইড + জৈব এসিডের সোডিয়াম লবণ, পাতন: RCOCl + RCOONa → (RCO)₂O + NaCl; CH₃COCl + CH₃COONa → (CH₃CO)₂O + NaCl।\n২। কার্বক্সিলিক এসিড + P₂O₅ সহ পাতন: 2RCOOH → (RCO)₂O + H₂O।\n৩। শিল্পে ইথানোয়িক অ্যানহাইড্রাইড: অ্যাসিটিলিন + গ্লাসিয়াল CH₃COOH (HgSO₄) → ইথিলিডিন ইথানোয়েট CH₃CH(CH₃COO)₂।\nএকে ZnCl₂ বা গাঢ় H₂SO₄ দিয়ে পাতনে (CH₃CO)₂O (ফুটনাঙ্ক 123.9°C) ও CH₃CHO (21°C) পাওয়া যায়।",
+   "notes_en": "1. Acyl chloride + sodium salt of the acid, heated: CH3COCl + CH3COONa -> (CH3CO)2O + NaCl.\n2. Carboxylic acid distilled with P2O5: 2RCOOH -> (RCO)2O + H2O.\n3. Industrial ethanoic anhydride: acetylene + glacial CH3COOH (HgSO4) gives ethylidene ethanoate CH3CH(CH3COO)2.\nDistilling it with ZnCl2 or conc. H2SO4 gives (CH3CO)2O (b.p. 123.9 C) and CH3CHO (b.p. 21 C).",
+   "mcqs": [
+    {
+     "question_bn": "CH₃COCl + CH₃COONa উত্তপ্ত করলে কী পাওয়া যায়?",
+     "question_en": "Heating CH₃COCl with CH₃COONa gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "b",
+       "bn": "(CH₃CO)₂O + NaCl",
+       "en": "(CH3CO)2O + NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃CONH₂",
+       "en": "CH3CONH2"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃CHO",
+       "en": "CH3CHO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cl ও Na বেরিয়ে NaCl, অবশিষ্ট অংশ অ্যানহাইড্রাইড।",
+     "explanation_en": "NaCl leaves, remaining parts join into anhydride.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "শিল্পে ইথানোয়িক অ্যানহাইড্রাইড তৈরিতে কাঁচামাল কোনটি?",
+     "question_en": "Starting material for industrial ethanoic anhydride:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইন",
+       "en": "Ethyne"
+      },
+      {
+       "id": "b",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "c",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথাইন + CH₃COOH (HgSO₄) → ইথিলিডিন ইথানোয়েট।",
+     "explanation_en": "Ethyne + CH3COOH (HgSO4) gives ethylidene ethanoate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথিলিডিন ইথানোয়েটের পাতনে (ZnCl₂/H₂SO₄) কোন দুটি যৌগ পাওয়া যায়?",
+     "question_en": "Distilling ethylidene ethanoate gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানহাইড্রাইড ও ইথানাল",
+       "en": "Anhydride and ethanal"
+      },
+      {
+       "id": "b",
+       "bn": "এস্টার ও ইথানল",
+       "en": "Ester and ethanol"
+      },
+      {
+       "id": "c",
+       "bn": "এসিড ও পানি",
+       "en": "Acid and water"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিন ও CO₂",
+       "en": "Ethene and CO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "(CH₃CO)₂O ও CH₃CHO পাওয়া যায়।",
+     "explanation_en": "(CH3CO)2O and CH3CHO form.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথানোয়িক অ্যানহাইড্রাইড ও ইথানালের ফুটনাঙ্ক যথাক্রমে (বই অনুযায়ী)?",
+     "question_en": "Boiling points of ethanoic anhydride and ethanal (book):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "123.9°C, 21°C",
+       "en": "123.9 C, 21 C"
+      },
+      {
+       "id": "b",
+       "bn": "21°C, 123.9°C",
+       "en": "21 C, 123.9 C"
+      },
+      {
+       "id": "c",
+       "bn": "52°C, 200°C",
+       "en": "52 C, 200 C"
+      },
+      {
+       "id": "d",
+       "bn": "100°C, 78°C",
+       "en": "100 C, 78 C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বড় পার্থক্যে পাতনে পৃথক করা যায়।",
+     "explanation_en": "The large difference allows separation by distillation.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.20",
+   "title_bn": "এসিড অ্যানহাইড্রাইডের রাসায়নিক বিক্রিয়া",
+   "title_en": "Chemical reactions of acid anhydrides",
+   "notes_bn": "অ্যাসাইল ক্লোরাইডের মত বিক্রিয়া করে, তবে ধীরগতিতে (RCOO– মূলক Cl-এর চেয়ে কম ইলেকট্রন আকর্ষী)।\nঅ্যাসাইলেশনে উপযোগী: CH₃COCl ও (CH₃CO)₂O।\nআর্দ্র বিশ্লেষণ: (RCO)₂O + H₂O → 2RCOOH।\nঅ্যালকোহল: → এস্টার + এসিড (CH₃CO)₂O + C₂H₅OH → CH₃COOC₂H₅ + CH₃COOH।\nফেনল (NaOH/পিরিডিন): ফিনাইল ইথানোয়েট + CH₃COOH।\nNH₃: (CH₃CO)₂O + NH₃ → CH₃CONH₂ + CH₃COOH; প্রাইমারি/সেকেন্ডারি অ্যামিনে N-প্রতিস্থাপিত অ্যামাইড।\nবিজারণ: LiAlH₄ → 2RCH₂OH + H₂O; Na–Hg/পানি → ইথানাল + পানি।",
+   "notes_en": "React like acyl chlorides but more slowly because RCOO- is less electron-withdrawing than Cl.\nGood acylating agents: CH3COCl and (CH3CO)2O.\nHydrolysis: (RCO)2O + H2O -> 2RCOOH.\nAlcohol: ester + acid (CH3CO)2O + C2H5OH -> CH3COOC2H5 + CH3COOH.\nPhenol (NaOH/pyridine): phenyl ethanoate + CH3COOH.\nNH3: (CH3CO)2O + NH3 -> CH3CONH2 + CH3COOH; 1/2 amines give N-substituted amides.\nReduction: LiAlH4 -> 2RCH2OH + H2O; Na-Hg/water -> ethanal + water.",
+   "mcqs": [
+    {
+     "question_bn": "(CH₃CO)₂O + H₂O (তাপ) বিক্রিয়ার উৎপাদ?",
+     "question_en": "Products of (CH₃CO)₂O + H₂O (heat):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2CH₃COOH",
+       "en": "2 CH3COOH"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃CHO",
+       "en": "CH3CHO"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃COOC₂H₅",
+       "en": "CH3COOC2H5"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃CONH₂",
+       "en": "CH3CONH2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আর্দ্র বিশ্লেষণে দুই অণু এসিড।",
+     "explanation_en": "Hydrolysis gives two acid molecules.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানোয়িক অ্যানহাইড্রাইড + C₂H₅OH থেকে কী পাওয়া যায়?",
+     "question_en": "(CH₃CO)₂O + C₂H₅OH gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথাইল ইথানোয়েট + ইথানোয়িক এসিড",
+       "en": "Ethyl ethanoate + ethanoic acid"
+      },
+      {
+       "id": "b",
+       "bn": "ইথাইল ইথানোয়েট + HCl",
+       "en": "Ethyl ethanoate + HCl"
+      },
+      {
+       "id": "c",
+       "bn": "ইথান্যামাইড",
+       "en": "Ethanamide"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানাল",
+       "en": "Ethanal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যানহাইড্রাইডের বিক্রিয়ায় উপজাত এসিড হয়, HCl নয়।",
+     "explanation_en": "The by-product is the acid, not HCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যানহাইড্রাইড অ্যাসাইল ক্লোরাইডের চেয়ে ধীর কেন?",
+     "question_en": "Why are anhydrides slower than acyl chlorides?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RCOO– মূলক Cl-এর চেয়ে কম ইলেকট্রন আকর্ষী, তাই C^δ+ কম",
+       "en": "RCOO- is less electron-withdrawing than Cl, so C^δ+ is smaller"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানহাইড্রাইড আয়নিক",
+       "en": "They are ionic"
+      },
+      {
+       "id": "c",
+       "bn": "এতে হাইড্রোজেন বন্ধন",
+       "en": "H-bonding"
+      },
+      {
+       "id": "d",
+       "bn": "আকারে ছোট",
+       "en": "Smaller size"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কম ধনাত্মক চার্জে নিউক্লিওফাইল আক্রমণ ধীর।",
+     "explanation_en": "Smaller positive charge slows nucleophilic attack.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যানহাইড্রাইডকে অ্যামোনিয়াসহ উত্তপ্ত করলে কী হয়?",
+     "question_en": "Heating an anhydride with NH₃ gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামাইড + কার্বক্সিলিক এসিড",
+       "en": "Amide + carboxylic acid"
+      },
+      {
+       "id": "b",
+       "bn": "এস্টার + পানি",
+       "en": "Ester + water"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামাইড + HCl",
+       "en": "Amide + HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "(RCO)₂O + NH₃ → RCONH₂ + RCOOH।",
+     "explanation_en": "(RCO)2O + NH3 -> RCONH2 + RCOOH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Na–Hg/পানি দ্বারা (CH₃CO)₂O বিজারণে উৎপাদ?",
+     "question_en": "Reduction of (CH₃CO)₂O with Na–Hg/water gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানাল ও পানি",
+       "en": "Ethanal and water"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল ও পানি",
+       "en": "Ethanol and water"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানোয়িক এসিড",
+       "en": "Ethanoic acid"
+      },
+      {
+       "id": "d",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মৃদু বিজারকে অ্যালডিহাইড; LiAlH₄-এ অ্যালকোহল।",
+     "explanation_en": "Mild reductant gives aldehyde; LiAlH4 gives alcohol.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.21",
+   "title_bn": "এসিড ক্লোরাইড ও অ্যানহাইড্রাইডের বিক্রিয়াসমূহ",
+   "title_en": "Reactions of acid chlorides and anhydrides (summary)",
+   "notes_bn": "RCOCl ও (RCO)₂O একই ধরনের বিক্রিয়া দেয়।\nH₂O → RCO₂H; ROH → এস্টার RCO₂R'; ArONa → RCO₂Ar।\nNH₃, RNH₂, R₂NH → যথাক্রমে RCONH₂, RCONHR', RCONR₂'।\nH₂, Pd/Pt, Δ → RCH₂OH (অ্যালকোহল)।\nফ্রিডেল-ক্র্যাফটস বিক্রিয়া (ArH + AlCl₃) → ArCOR (কিটোন)।\nRCO₂Na-কে RCOCl-সহ পাতন করলে (RCO)₂O পাওয়া যায়।",
+   "notes_en": "RCOCl and (RCO)2O give similar reactions.\nH2O -> RCO2H; ROH -> ester; ArONa -> aryl ester.\nNH3, RNH2, R2NH -> RCONH2, RCONHR', RCONR2'.\nH2 with Pd/Pt, heat -> primary alcohol.\nFriedel-Crafts (ArH + AlCl3) -> ketone ArCOR.\nDistilling RCO2Na with RCOCl gives the anhydride.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যাসাইল ক্লোরাইড + ArH (AlCl₃) থেকে কী পাওয়া যায়?",
+     "question_en": "Acyl chloride + ArH (AlCl₃) gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কিটোন",
+       "en": "Ketone"
+      },
+      {
+       "id": "b",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "d",
+       "bn": "এসিড",
+       "en": "Acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফ্রিডেল-ক্র্যাফটস অ্যাসাইলেশনে ArCOR।",
+     "explanation_en": "Friedel–Crafts acylation gives ArCOR.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "RCOCl + R'OH থেকে কী পাওয়া যায়?",
+     "question_en": "RCOCl + R'OH gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "c",
+       "bn": "কিটোন",
+       "en": "Ketone"
+      },
+      {
+       "id": "d",
+       "bn": "ইথার",
+       "en": "Ether"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যালকোহলের সঙ্গে এস্টার।",
+     "explanation_en": "Ester forms with alcohols.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "RCOCl-এর সঙ্গে R₂NH বিক্রিয়ায় উৎপাদ?",
+     "question_en": "RCOCl with R₂NH gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RCONH₂",
+       "en": "RCONH2"
+      },
+      {
+       "id": "b",
+       "bn": "RCONHR",
+       "en": "RCONHR"
+      },
+      {
+       "id": "c",
+       "bn": "RCONR₂",
+       "en": "RCONR2"
+      },
+      {
+       "id": "d",
+       "bn": "RCOOR",
+       "en": "RCOOR"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সেকেন্ডারি অ্যামিনে N,N-ডাই-প্রতিস্থাপিত অ্যামাইড।",
+     "explanation_en": "A secondary amine gives an N,N-disubstituted amide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "RCO₂Na ও RCOCl একত্রে পাতন করলে কী?",
+     "question_en": "Distilling RCO₂Na with RCOCl gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(RCO)₂O",
+       "en": "(RCO)2O"
+      },
+      {
+       "id": "b",
+       "bn": "RCHO",
+       "en": "RCHO"
+      },
+      {
+       "id": "c",
+       "bn": "RCOOR",
+       "en": "RCOOR"
+      },
+      {
+       "id": "d",
+       "bn": "RCH₂OH",
+       "en": "RCH2OH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যানহাইড্রাইড প্রস্তুতির পদ্ধতি।",
+     "explanation_en": "Method for anhydride preparation.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.22",
+   "title_bn": "অ্যাসাইল হ্যালাইডের ব্যবহার",
+   "title_en": "Uses of acyl halides",
+   "notes_bn": "জৈব যৌগে অ্যাসিটাইল বা ইথানোয়িল মূলক ঢোকাতে (অ্যাসিটাইলেশন) অ্যাসিটাইল ক্লোরাইড প্রধান বিকারক।\nইথানোয়িক অ্যানহাইড্রাইড, ইথান্যামাইড, অ্যাসিটোফেনোন, অ্যাসপিরিন ইত্যাদি প্রস্তুতিতে ব্যবহৃত।\nজৈব যৌগে –OH মূলকের উপস্থিতি ও সংখ্যা নির্ণয়ে ব্যবহৃত হয়।\nবেনজোয়িল ক্লোরাইড কাঁদুনে গ্যাস প্রস্তুতিতে এবং অ্যালকোহল ও অ্যামিনে C₆H₅CO– মূলক ঢোকাতে ব্যবহৃত।",
+   "notes_en": "Acetyl chloride is the main reagent for acetylation (introducing the CH3CO group).\nUsed to prepare ethanoic anhydride, ethanamide, acetophenone, aspirin etc.\nUsed to detect and count -OH groups in organic compounds.\nBenzoyl chloride is used to make tear gas and to introduce C6H5CO- into alcohols and amines.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যাসিটাইলেশনের প্রধান বিকারক?",
+     "question_en": "Main acetylating reagent:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসিটাইল ক্লোরাইড",
+       "en": "Acetyl chloride"
+      },
+      {
+       "id": "b",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইন",
+       "en": "Ethyne"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH",
+       "en": "NaOH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃COCl দ্বারা CH₃CO– মূলক ঢোকে।",
+     "explanation_en": "CH3COCl introduces the CH3CO group.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কাঁদুনে গ্যাস প্রস্তুতিতে ব্যবহৃত অ্যাসাইল হ্যালাইড?",
+     "question_en": "Acyl halide used for tear gas:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজোয়িল ক্লোরাইড",
+       "en": "Benzoyl chloride"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসিটাইল ক্লোরাইড",
+       "en": "Acetyl chloride"
+      },
+      {
+       "id": "c",
+       "bn": "ফরমাইল ক্লোরাইড",
+       "en": "Formyl chloride"
+      },
+      {
+       "id": "d",
+       "bn": "মিথাইল ক্লোরাইড",
+       "en": "Methyl chloride"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বেনজোয়িল ক্লোরাইডের উল্লেখ।",
+     "explanation_en": "Book names benzoyl chloride.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাসাইল ক্লোরাইড দিয়ে জৈব যৌগে কী নির্ণয় করা যায়?",
+     "question_en": "Acyl chlorides help determine in an organic compound:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–OH মূলকের উপস্থিতি ও সংখ্যা",
+       "en": "Presence and number of –OH groups"
+      },
+      {
+       "id": "b",
+       "bn": "দ্বিবন্ধন",
+       "en": "Double bonds"
+      },
+      {
+       "id": "c",
+       "bn": "আণবিক ভর",
+       "en": "Molar mass"
+      },
+      {
+       "id": "d",
+       "bn": "হ্যালোজেন",
+       "en": "Halogen"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যাসিটাইলেশনের মাধ্যমে।",
+     "explanation_en": "Via acetylation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি অ্যাসিটাইল ক্লোরাইড থেকে প্রস্তুত করা হয়?",
+     "question_en": "Which is prepared using acetyl chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসিটোফেনোন",
+       "en": "Acetophenone"
+      },
+      {
+       "id": "b",
+       "bn": "মিথেন",
+       "en": "Methane"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিন",
+       "en": "Ethene"
+      },
+      {
+       "id": "d",
+       "bn": "গ্লিসারিন",
+       "en": "Glycerol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী অ্যাসিটোফেনোন প্রস্তুতিতে ব্যবহৃত।",
+     "explanation_en": "The book lists acetophenone.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.23",
+   "title_bn": "ইথানোয়িক অ্যানহাইড্রাইডের ব্যবহার",
+   "title_en": "Uses of ethanoic anhydride",
+   "notes_bn": "অ্যাসিটাইলেশনের বিকারক হিসেবে ব্যবহৃত।\nঅ্যাসপিরিন (অ্যাসিটাইল স্যালিসাইলিক এসিড) প্রস্তুতিতে ব্যবহৃত: স্যালিসাইলিক এসিড (2-হাইড্রক্সি বেনজোয়িক এসিড)-এর এস্টার, ব্যথানাশক।\nস্যালিসাইলিক এসিড পাকস্থলীর ক্ষতি করে; অ্যাসপিরিন পাকস্থলীর অম্লীয় পরিবেশে অপরিবর্তিত থাকে, ক্ষারীয় পরিবেশে (অন্ত্রে) সোডিয়াম স্যালিসাইলেটরূপে আর্দ্র বিশ্লেষিত হয়ে রক্তে শোষিত হয়।\nঅ্যাসিটেট রেয়ন শিল্পে সেলুলোজের দ্রাবক: সেলুলোজ অ্যাসিটেট দ্রবণ ছিদ্র দিয়ে এসিড দ্রবণে স্প্রে করে ফেব্রিক ও কৃত্রিম সিল্ক সুতা।",
+   "notes_en": "Used as an acetylating reagent.\nKey to making aspirin (acetylsalicylic acid), an ester of salicylic acid (2-hydroxybenzoic acid) and an analgesic.\nSalicylic acid harms the stomach; aspirin stays intact in acidic stomach, hydrolyses to sodium salicylate in basic medium and is absorbed into blood.\nIn acetate rayon: solvent for cellulose; cellulose acetate solution is sprayed through holes into acid bath to give artificial silk thread.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যাসপিরিনের রাসায়নিক নাম?",
+     "question_en": "Chemical name of aspirin:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসিটাইল স্যালিসাইলিক এসিড",
+       "en": "Acetylsalicylic acid"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজোয়িক এসিড",
+       "en": "Benzoic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ফিনাইল ইথানোয়েট",
+       "en": "Phenyl ethanoate"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল ইথানোয়েট",
+       "en": "Ethyl ethanoate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "স্যালিসাইলিক এসিডের অ্যাসিটাইল জাতক।",
+     "explanation_en": "It is the acetyl derivative of salicylic acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যাসিটেট রেয়ন শিল্পে ইথানোয়িক অ্যানহাইড্রাইডের ভূমিকা?",
+     "question_en": "Role in acetate rayon industry:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সেলুলোজের দ্রাবক/অ্যাসিটাইলেশন",
+       "en": "Converts/dissolves cellulose as cellulose acetate"
+      },
+      {
+       "id": "b",
+       "bn": "রঞ্জক",
+       "en": "Dye"
+      },
+      {
+       "id": "c",
+       "bn": "বিজারক",
+       "en": "Reductant"
+      },
+      {
+       "id": "d",
+       "bn": "প্রভাবক",
+       "en": "Catalyst"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অদ্রবণীয় সেলুলোজ দ্রবণীয় সেলুলোজ অ্যাসিটেটে পরিণত হয়।",
+     "explanation_en": "Insoluble cellulose becomes soluble cellulose acetate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "স্যালিসাইলিক এসিডের চেয়ে অ্যাসপিরিন কেন ওষুধ হিসেবে ভাল?",
+     "question_en": "Why is aspirin preferred over salicylic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পাকস্থলীকে কম ক্ষতি করে, কারণ অম্লীয় পরিবেশে অপরিবর্তিত থাকে",
+       "en": "It is unchanged in acidic stomach, so it harms it less"
+      },
+      {
+       "id": "b",
+       "bn": "বেশি অম্লীয়",
+       "en": "More acidic"
+      },
+      {
+       "id": "c",
+       "bn": "বেশি ক্ষারীয়",
+       "en": "More basic"
+      },
+      {
+       "id": "d",
+       "bn": "পানিতে অদ্রবণীয়",
+       "en": "Insoluble in water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অন্ত্রের ক্ষারীয় পরিবেশে সোডিয়াম স্যালিসাইলেট হয়ে শোষিত হয়।",
+     "explanation_en": "It hydrolyses only in the basic medium and is then absorbed.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাসপিরিন কী ধরনের যৌগ?",
+     "question_en": "Aspirin is a(n):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এস্টার",
+       "en": "Ester"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      },
+      {
+       "id": "d",
+       "bn": "ইথার",
+       "en": "Ether"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী স্যালিসাইলিক এসিড ও ইথানোয়িক অ্যানহাইড্রাইডের এস্টার।",
+     "explanation_en": "Book calls it an ester of salicylic acid and ethanoic anhydride.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "9.24",
+   "title_bn": "ভূমিকা (এস্টার)",
+   "title_en": "Introduction (Ester)",
+   "notes_bn": "কার্বক্সিলিক এসিডের –OH মূলক অ্যালকক্সি (R'O–) দ্বারা প্রতিস্থাপিত হলে এস্টার (R–COOR')। R, R' অ্যালকাইল বা অ্যারাইল।\nএস্টারের ফলের মত মনোরম গন্ধ আছে; অধিকাংশ ফল ও ফুলের সুগন্ধ বিভিন্ন এস্টারের কারণে।\nউদাহরণ: পাকা কলায় অ্যামাইল অ্যাসিটেট; আনারসে n-বিউটাইল বিউটারেট; জাম/পীচে ইথাইল বিউটারেট; কমলায় অক্টাইল অ্যাসিটেট; নাশপাতিতে 3-মিথাইল বিউটাইল ইথানোয়েট; আপেলে আইসোঅ্যামাইল আইসোভ্যালারেট; জেসমিন ফুলে বেনজাইল অ্যাসিটেট।",
+   "notes_en": "Replacing –OH of a carboxylic acid with an alkoxy group R'O- gives an ester R-COOR' (R, R' alkyl or aryl).\nEsters have pleasant fruity odours; most fruit and flower fragrances are esters.\nExamples: banana - amyl acetate; pineapple - n-butyl butyrate; plum/peach - ethyl butyrate; orange - octyl acetate; pear - 3-methylbutyl ethanoate; apple - isoamyl isovalerate; jasmine - benzyl acetate.",
+   "mcqs": [
+    {
+     "question_bn": "এস্টারের সাধারণ সংকেত?",
+     "question_en": "General formula of ester:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "R–COOH",
+       "en": "R–COOH"
+      },
+      {
+       "id": "b",
+       "bn": "R–COOR'",
+       "en": "R–COOR'"
+      },
+      {
+       "id": "c",
+       "bn": "R–COCl",
+       "en": "R–COCl"
+      },
+      {
+       "id": "d",
+       "bn": "R–CONH₂",
+       "en": "R–CONH₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "–OH-এর স্থলে –OR'।",
+     "explanation_en": "–OR' replaces –OH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পাকা কলার সুগন্ধের জন্য দায়ী এস্টার?",
+     "question_en": "Ester responsible for banana smell:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামাইল অ্যাসিটেট",
+       "en": "Amyl acetate"
+      },
+      {
+       "id": "b",
+       "bn": "অক্টাইল অ্যাসিটেট",
+       "en": "Octyl acetate"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজাইল অ্যাসিটেট",
+       "en": "Benzyl acetate"
+      },
+      {
+       "id": "d",
+       "bn": "ইথাইল বিউটারেট",
+       "en": "Ethyl butyrate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের তালিকা অনুযায়ী।",
+     "explanation_en": "As listed in the book.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন এস্টার জেসমিন ফুলে থাকে?",
+     "question_en": "Which ester is found in jasmine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজাইল অ্যাসিটেট",
+       "en": "Benzyl acetate"
+      },
+      {
+       "id": "b",
+       "bn": "অক্টাইল অ্যাসিটেট",
+       "en": "Octyl acetate"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইল অ্যাসিটেট",
+       "en": "Amyl acetate"
+      },
+      {
+       "id": "d",
+       "bn": "n-বিউটাইল বিউটারেট",
+       "en": "n-Butyl butyrate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃CO.OCH₂C₆H₅।",
+     "explanation_en": "CH3CO.OCH2C6H5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আনারস ও কমলার সুগন্ধি এস্টার যথাক্রমে?",
+     "question_en": "Esters of pineapple and orange respectively:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "n-বিউটাইল বিউটারেট, অক্টাইল অ্যাসিটেট",
+       "en": "n-butyl butyrate, octyl acetate"
+      },
+      {
+       "id": "b",
+       "bn": "অক্টাইল অ্যাসিটেট, n-বিউটাইল বিউটারেট",
+       "en": "octyl acetate, n-butyl butyrate"
+      },
+      {
+       "id": "c",
+       "bn": "ইথাইল বিউটারেট, অ্যামাইল অ্যাসিটেট",
+       "en": "ethyl butyrate, amyl acetate"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজাইল অ্যাসিটেট, অ্যামাইল অ্যাসিটেট",
+       "en": "benzyl acetate, amyl acetate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের তালিকা: আনারস – n-বিউটাইল বিউটারেট, কমলা – অক্টাইল অ্যাসিটেট।",
+     "explanation_en": "Per the book: pineapple - n-butyl butyrate, orange - octyl acetate.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.25",
+   "title_bn": "এস্টারের সাধারণ প্রস্তুত প্রণালী",
+   "title_en": "General preparation of esters",
+   "notes_bn": "১। অ্যালকোহল + কার্বক্সিলিক এসিড, শুষ্ক HCl গ্যাস সহ সমমোলার মিশ্রণ উত্তপ্ত: RCOOH + R'OH ⇌ RCOOR' + H₂O।\nCH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O; C₆H₅COOH + C₂H₅OH → C₆H₅COOC₂H₅ + H₂O।\n২। অ্যালকোহল + অ্যাসাইল ক্লোরাইড/অ্যানহাইড্রাইড: RCOCl + R'OH → RCOOR' + HCl; (RCO)₂O + R'OH → RCOOR' + RCOOH (অধিক সুবিধাজনক)।\n৩। ফেনলের এস্টার: ফেনল + CH₃COCl (NaOH) বা (CH₃CO)₂O (পিরিডিন) → ফিনাইল ইথানোয়েট। ফেনল + C₆H₅COCl (পিরিডিন) → ফিনাইল বেনজোয়েট + HCl।\nফেনলের সঙ্গে সরাসরি এসিড বিক্রিয়ায় এস্টার হয় না; ক্ষারীয় মাধ্যম দরকার।",
+   "notes_en": "1. Alcohol + carboxylic acid, equimolar, heated with dry HCl: RCOOH + R'OH <-> RCOOR' + H2O.\nCH3COOH + C2H5OH -> CH3COOC2H5 + H2O; C6H5COOH + C2H5OH -> C6H5COOC2H5 + H2O.\n2. Alcohol + acyl chloride or anhydride (more convenient): RCOCl + R'OH -> RCOOR' + HCl; (RCO)2O + R'OH -> RCOOR' + RCOOH.\n3. Phenyl esters: phenol + CH3COCl (NaOH) or (CH3CO)2O (pyridine) -> phenyl ethanoate; phenol + C6H5COCl (pyridine) -> phenyl benzoate + HCl.\nPhenol does not form esters directly with acids; a basic medium is needed.",
+   "mcqs": [
+    {
+     "question_bn": "ইথাইল ইথানোয়েট প্রস্তুতির বিকারক?",
+     "question_en": "Reagents for ethyl ethanoate:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃COOH + C₂H₅OH + শুষ্ক HCl",
+       "en": "CH3COOH + C2H5OH + dry HCl"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃CHO + H₂",
+       "en": "CH3CHO + H2"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃COOH + NH₃",
+       "en": "CH3COOH + NH3"
+      },
+      {
+       "id": "d",
+       "bn": "C₂H₅OH + Na",
+       "en": "C2H5OH + Na"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এসটারিফিকেশন।",
+     "explanation_en": "Esterification.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফিনাইল বেনজোয়েট প্রস্তুতিতে ফেনলের সঙ্গে কী বিক্রিয়া করে (পিরিডিন)?",
+     "question_en": "Phenyl benzoate is made from phenol and (pyridine):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজোয়িল ক্লোরাইড",
+       "en": "Benzoyl chloride"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজোয়িক এসিড",
+       "en": "Benzoic acid"
+      },
+      {
+       "id": "c",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "C₆H₅OH + C₆H₅COCl → C₆H₅COOC₆H₅ + HCl।",
+     "explanation_en": "C6H5OH + C6H5COCl -> C6H5COOC6H5 + HCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যালকোহল + অ্যানহাইড্রাইড বিক্রিয়ায় এস্টারের সঙ্গে আর কী উৎপন্ন হয়?",
+     "question_en": "Alcohol + anhydride gives ester plus:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বক্সিলিক এসিড",
+       "en": "Carboxylic acid"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "(RCO)₂O + R'OH → RCOOR' + RCOOH।",
+     "explanation_en": "(RCO)2O + R'OH -> RCOOR' + RCOOH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফেনলের এস্টার প্রস্তুতিতে কোন বিকারক সরাসরি ব্যবহার করা হয় না?",
+     "question_en": "For phenyl esters, which is not used directly with phenol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বক্সিলিক এসিড",
+       "en": "Carboxylic acid"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসাইল ক্লোরাইড",
+       "en": "Acyl chloride"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানহাইড্রাইড",
+       "en": "Anhydride"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজোয়িল ক্লোরাইড",
+       "en": "Benzoyl chloride"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এসিডের সঙ্গে ফেনল সরাসরি এস্টার দেয় না; ক্ষারীয় মাধ্যমে ক্লোরাইড/অ্যানহাইড্রাইড লাগে।",
+     "explanation_en": "Phenol needs acyl chloride/anhydride in a basic medium.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "9.26",
+   "title_bn": "এস্টারের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of esters",
+   "notes_bn": "এস্টার অ্যাসাইল ক্লোরাইড ও অ্যানহাইড্রাইডের চেয়ে কম সক্রিয়; নিউক্লিওফিলিক প্রতিস্থাপন ধীর।\nআর্দ্র বিশ্লেষণ: খনিজ এসিড (H⁺) এ সাম্যাবস্থা: CH₃CO₂C₂H₅ + H₂O ⇌ CH₃CO₂H + C₂H₅OH।\nক্ষারীয় মাধ্যমে (NaOH) দ্রুত ও সম্পূর্ণ: RCO₂R' + NaOH → RCO₂Na + R'OH; OH⁻ প্রভাবক, উৎপন্ন এসিড লবণ হয়ে সাম্যাবস্থা সরায়।\nঅ্যামোনোলিসিস: এস্টার + NH₃ → অ্যামাইড + অ্যালকোহল (CH₃COOC₂H₅ → CH₃CONH₂ + C₂H₅OH)।\nপ্রাইমারি অ্যামিনে N-প্রতিস্থাপিত, সেকেন্ডারি অ্যামিনে N,N-ডাই-প্রতিস্থাপিত অ্যামাইড।\nবিজারণ: LiAlH₄/ইথার → 1° অ্যালকোহল দুটি (CH₃COOC₂H₅ → 2C₂H₅OH); প্রভাবক সহ H₂-এ দীর্ঘ শিকল অ্যালকোহল (মিথাইল লরেট → লরাইল অ্যালকোহল, Cu-ক্রোমাইট, 300°C, 300 atm), ডিটারজেন্টে ব্যবহার।",
+   "notes_en": "Esters are less reactive than acyl chlorides and anhydrides; nucleophilic substitution is slow.\nHydrolysis in mineral acid is an equilibrium: CH3CO2C2H5 + H2O <-> CH3CO2H + C2H5OH.\nIn alkali (NaOH) it is fast and complete: RCO2R' + NaOH -> RCO2Na + R'OH; salt formation removes the acid.\nAmmonolysis: ester + NH3 -> amide + alcohol; 1 amines give N-substituted, 2 amines N,N-disubstituted amides.\nReduction: LiAlH4/ether gives two alcohols (CH3COOC2H5 -> 2C2H5OH); catalytic H2 gives long-chain alcohols (methyl laurate -> lauryl alcohol, Cu-chromite, 300 C, 300 atm), used for detergents.",
+   "mcqs": [
+    {
+     "question_bn": "ক্ষারীয় মাধ্যমে এস্টারের আর্দ্র বিশ্লেষণে উৎপন্ন হয়?",
+     "question_en": "Alkaline hydrolysis of an ester gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বক্সিলেট লবণ ও অ্যালকোহল",
+       "en": "Carboxylate salt and alcohol"
+      },
+      {
+       "id": "b",
+       "bn": "এসিড ও অ্যালকোহল সাম্য",
+       "en": "Acid and alcohol in equilibrium"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামাইড",
+       "en": "Amide"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালডিহাইড",
+       "en": "Aldehyde"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "RCO₂Na + R'OH।",
+     "explanation_en": "RCO2Na + R'OH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথাইল ইথানোয়েট + NH₃ থেকে কী পাওয়া যায়?",
+     "question_en": "Ethyl ethanoate + NH₃ gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথান্যামাইড ও ইথানল",
+       "en": "Ethanamide and ethanol"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানোয়িক এসিড",
+       "en": "Ethanoic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামোনিয়াম ইথানোয়েট",
+       "en": "Ammonium ethanoate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যামোনোলিসিস।",
+     "explanation_en": "Ammonolysis.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "LiAlH₄ দ্বারা CH₃COOC₂H₅ বিজারণে উৎপাদ?",
+     "question_en": "LiAlH₄ reduction of CH₃COOC₂H₅ gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দুই অণু ইথানল",
+       "en": "Two molecules of ethanol"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানাল",
+       "en": "Ethanal"
+      },
+      {
+       "id": "c",
+       "bn": "ইথানোয়িক এসিড",
+       "en": "Ethanoic acid"
+      },
+      {
+       "id": "d",
+       "bn": "ইথেন",
+       "en": "Ethane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "RCH₂OH + R'OH, এখানে উভয় C₂H₅OH।",
+     "explanation_en": "RCH2OH + R'OH; both are C2H5OH here.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্ষারীয় আর্দ্র বিশ্লেষণ এসিড মাধ্যমের চেয়ে সম্পূর্ণ হয় কেন?",
+     "question_en": "Why is alkaline hydrolysis more complete than acid hydrolysis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উৎপন্ন এসিড লবণ হয়ে সাম্যাবস্থা অগ্রমুখী হয়",
+       "en": "Acid is removed as its salt, driving the reaction forward"
+      },
+      {
+       "id": "b",
+       "bn": "এস্টার কমে যায়",
+       "en": "Ester decreases"
+      },
+      {
+       "id": "c",
+       "bn": "তাপ বেশি",
+       "en": "More heat"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকোহল গ্যাস",
+       "en": "Alcohol is a gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সমস্ত ক্ষার ব্যবহৃত হয়ে লবণ উৎপন্ন হয়।",
+     "explanation_en": "Salt formation consumes the acid, shifting equilibrium.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথাইল লরেটকে Cu-ক্রোমাইট ও H₂ দ্বারা (300°C, 300 atm) বিজারণে উৎপন্ন হয়?",
+     "question_en": "Methyl laurate + H₂ (Cu-chromite, 300°C, 300 atm) gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লরাইল অ্যালকোহল ও মিথানল",
+       "en": "Lauryl alcohol and methanol"
+      },
+      {
+       "id": "b",
+       "bn": "লরিক এসিড ও মিথানল",
+       "en": "Lauric acid and methanol"
+      },
+      {
+       "id": "c",
+       "bn": "লরাইল ক্লোরাইড",
+       "en": "Lauryl chloride"
+      },
+      {
+       "id": "d",
+       "bn": "মিথেন",
+       "en": "Methane"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃(CH₂)₁₀COOCH₃ + 2H₂ → CH₃(CH₂)₁₀CH₂OH + CH₃OH।",
+     "explanation_en": "CH3(CH2)10COOCH3 + 2H2 -> CH3(CH2)10CH2OH + CH3OH.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "9.16",
+   "stimulus_bn": "রাহিম ল্যাবে ইথানোয়িক এসিড থেকে ইথানোয়িল ক্লোরাইড (X) প্রস্তুত করল। X-কে ইথানল ও অ্যামোনিয়ার সঙ্গে আলাদাভাবে বিক্রিয়া করিয়ে Y ও Z পেল এবং সোডিয়াম ইথানোয়েটের সঙ্গে উত্তপ্ত করে W পেল।",
+   "stimulus_en": "Rahim prepared ethanoyl chloride (X) from ethanoic acid. X reacted separately with ethanol and ammonia to give Y and Z, and heated with sodium ethanoate to give W.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "অ্যাসাইল মূলক কী?",
+     "question_en": "What is an acyl group?",
+     "model_answer_bn": "RCO– মূলককে অ্যাসাইল মূলক বলে।",
+     "model_answer_en": "The RCO– group."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "X প্রস্তুতিতে SOCl₂ কেন উত্তম?",
+     "question_en": "Why is SOCl₂ preferred for preparing X?",
+     "model_answer_bn": "উপজাত SO₂ ও HCl গ্যাস হওয়ায় বেরিয়ে যায়, ফলে X বিশুদ্ধ থাকে।",
+     "model_answer_en": "By-products SO2 and HCl escape as gases, leaving pure X."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Y, Z ও W-এর সংকেত ও নাম লেখো।",
+     "question_en": "Give formula and names of Y, Z and W.",
+     "model_answer_bn": "Y = CH₃COOC₂H₅ (ইথাইল ইথানোয়েট); Z = CH₃CONH₂ (ইথান্যামাইড); W = (CH₃CO)₂O (ইথানোয়িক অ্যানহাইড্রাইড)।",
+     "model_answer_en": "Y = CH3COOC2H5 (ethyl ethanoate); Z = CH3CONH2 (ethanamide); W = (CH3CO)2O (ethanoic anhydride)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "X, W ও Y-এর সক্রিয়তার ক্রম বিশ্লেষণ করো এবং X-কে সরাসরি Y থেকে কেন পাওয়া যায় না ব্যাখ্যা করো।",
+     "question_en": "Analyse the reactivity order of X, W and Y, and explain why X cannot be obtained directly from Y.",
+     "model_answer_bn": "ক্রম X > W > Y। Cl-এর –I প্রভাবে X-এর কার্বনাইল কার্বনে ধনাত্মক চার্জ সর্বাধিক; RCOO– কম আকর্ষী; OR ইলেকট্রন ঘাটতি আরও কমায়। কম সক্রিয় জাতক থেকে বেশি সক্রিয় জাতক সরাসরি হয় না; আগে এসিডে আর্দ্র বিশ্লেষণ করে PCl₃/SOCl₂ দিয়ে X করতে হয়।",
+     "model_answer_en": "Order X > W > Y. Cl's –I effect gives X the largest C^δ+; RCOO– withdraws less; OR reduces it further. A less reactive derivative cannot convert directly to a more reactive one; hydrolyse to the acid first, then use PCl3/SOCl2 to make X."
+    }
+   ]
+  },
+  {
+   "topic_section": "9.20",
+   "stimulus_bn": "একটি ওষুধ কারখানায় স্যালিসাইলিক এসিডকে ইথানোয়িক অ্যানহাইড্রাইড দিয়ে বিক্রিয়া করিয়ে ব্যথানাশক ওষুধ A তৈরি করা হয়। কারখানার পাশে অ্যাসিটেট রেয়ন শিল্পেও একই অ্যানহাইড্রাইড লাগে।",
+   "stimulus_en": "A pharmaceutical plant treats salicylic acid with ethanoic anhydride to make an analgesic A. A nearby acetate rayon mill also uses the same anhydride.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "A-এর নাম কী?",
+     "question_en": "Name A.",
+     "model_answer_bn": "অ্যাসপিরিন (অ্যাসিটাইল স্যালিসাইলিক এসিড)।",
+     "model_answer_en": "Aspirin (acetylsalicylic acid)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "অ্যানহাইড্রাইডের আর্দ্র বিশ্লেষণের সমীকরণ লেখো।",
+     "question_en": "Write the hydrolysis equation of the anhydride.",
+     "model_answer_bn": "(CH₃CO)₂O + H₂O → 2CH₃COOH (তাপ)।",
+     "model_answer_en": "(CH3CO)2O + H2O -> 2CH3COOH (heat)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "ইথানোয়িক অ্যানহাইড্রাইড ইথানল ও অ্যামোনিয়ার সঙ্গে কী বিক্রিয়া করে? সমীকরণ দাও।",
+     "question_en": "Give equations for ethanoic anhydride with ethanol and with ammonia.",
+     "model_answer_bn": "(CH₃CO)₂O + C₂H₅OH → CH₃COOC₂H₅ + CH₃COOH; (CH₃CO)₂O + NH₃ → CH₃CONH₂ + CH₃COOH।",
+     "model_answer_en": "(CH3CO)2O + C2H5OH -> CH3COOC2H5 + CH3COOH; (CH3CO)2O + NH3 -> CH3CONH2 + CH3COOH."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "স্যালিসাইলিক এসিডের চেয়ে A কেন নিরাপদ এবং রেয়ন শিল্পে অ্যানহাইড্রাইড কীভাবে কাজে লাগে ব্যাখ্যা করো।",
+     "question_en": "Explain why A is safer than salicylic acid and how the anhydride is used in rayon production.",
+     "model_answer_bn": "A পাকস্থলীর অম্লীয় পরিবেশে অপরিবর্তিত থাকে বলে পাকস্থলীর ক্ষতি কম; ক্ষারীয় পরিবেশে সোডিয়াম স্যালিসাইলেট হয়ে রক্তে শোষিত হয়। রেয়নে অদ্রবণীয় সেলুলোজ জৈব দ্রাবকে দ্রবণীয় সেলুলোজ অ্যাসিটেটে পরিণত হয়; সেটি ছিদ্র দিয়ে এসিডে স্প্রে করে সুতা হয়।",
+     "model_answer_en": "A stays unchanged in the acidic stomach, harming it less, and hydrolyses to sodium salicylate in basic medium to be absorbed. In rayon, insoluble cellulose is converted into soluble cellulose acetate, which is sprayed through holes into acid to form thread."
+    }
+   ]
+  },
+  {
+   "topic_section": "9.26",
+   "stimulus_bn": "ইথাইল ইথানোয়েট একটি ফলের সুগন্ধে ব্যবহৃত এস্টার। একজন ছাত্র এটিকে (i) লঘু HCl ও (ii) NaOH দ্রবণ দিয়ে আর্দ্র বিশ্লেষণ করল এবং (iii) LiAlH₄ দ্বারা বিজারণ করল।",
+   "stimulus_en": "Ethyl ethanoate is an ester used in fruity flavours. A student hydrolysed it with (i) dilute HCl and (ii) NaOH solution, and (iii) reduced it with LiAlH4.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "এস্টারের সাধারণ সংকেত লেখো।",
+     "question_en": "Write the general formula of esters.",
+     "model_answer_bn": "R–COOR'।",
+     "model_answer_en": "R–COOR'."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "(i) ও (ii)-এর উৎপাদ লেখো।",
+     "question_en": "Write the products of (i) and (ii).",
+     "model_answer_bn": "(i) CH₃COOH ও C₂H₅OH (সাম্য); (ii) CH₃COONa ও C₂H₅OH।",
+     "model_answer_en": "(i) CH3COOH and C2H5OH (equilibrium); (ii) CH3COONa and C2H5OH."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "(iii)-এর সমীকরণ লেখো এবং এস্টারকে অ্যামোনিয়ার সঙ্গে বিক্রিয়ায় কী হয় লেখো।",
+     "question_en": "Write the equation for (iii) and the reaction of the ester with ammonia.",
+     "model_answer_bn": "CH₃COOC₂H₅ + 4[H] → 2C₂H₅OH (LiAlH₄, ইথার); CH₃COOC₂H₅ + NH₃ → CH₃CONH₂ + C₂H₅OH।",
+     "model_answer_en": "CH3COOC2H5 + 4[H] -> 2C2H5OH (LiAlH4, ether); CH3COOC2H5 + NH3 -> CH3CONH2 + C2H5OH."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ক্ষারীয় আর্দ্র বিশ্লেষণ কেন এসিড মাধ্যমের চেয়ে দ্রুত ও সম্পূর্ণ এবং এস্টার অ্যাসাইল ক্লোরাইডের চেয়ে কম সক্রিয় কেন বিশ্লেষণ করো।",
+     "question_en": "Analyse why alkaline hydrolysis is faster and more complete than acid hydrolysis, and why esters are less reactive than acyl chlorides.",
+     "model_answer_bn": "OH⁻ প্রভাবকরূপে কাজ করে এবং উৎপন্ন এসিড লবণ হয়ে সাম্যাবস্থা থেকে সরে যায়, তাই বিক্রিয়া সম্পূর্ণ হয়। এস্টারে OR মূলক ইলেকট্রন দিয়ে কার্বনাইল কার্বনের ধনাত্মক চার্জ কমায়, Cl-এর মত টানে না; তাই নিউক্লিওফিলিক আক্রমণ ধীর।",
+     "model_answer_en": "OH- acts as catalyst and the acid is removed as its salt, so the reaction goes to completion. In esters the OR group lowers C^δ+ of the carbonyl carbon whereas Cl increases it, so nucleophilic attack is slower."
+    }
+   ]
+  }
+ ],
+ "notes": "All 16 pages (PDF 519-534, printed 504-519) readable. Sections 9.27-9.30 (printed 518-519: ester summary, uses, polyesters, oils & fats) lie outside assigned sections and were not covered. Section 9.14 page includes physical properties 9.14.1 which was folded into notes."
+}

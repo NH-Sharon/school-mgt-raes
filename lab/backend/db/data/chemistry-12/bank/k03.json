@@ -1,0 +1,1909 @@
+{
+ "chapter_no": 1,
+ "topics": [
+  {
+   "section_no": "1.27",
+   "title_bn": "নাইট্রেট লবণ",
+   "title_en": "Nitrate salts",
+   "notes_bn": "HNO₃-এর লবণকে নাইট্রেট লবণ বলে, যেমন NaNO₃, NH₄NO₃।\nধাতু, ধাতব অক্সাইড, হাইড্রক্সাইড বা কার্বনেটের সাথে HNO₃ বিক্রিয়া করে নাইট্রেট তৈরি হয়।\nসব নাইট্রেট কেলাসাকার ও পানিতে দ্রবণীয়; একমাত্র ব্যতিক্রম বিসমাথ অক্সি নাইট্রেট (BiONO₃)।\nতাপে বিযোজন: 2NaNO₃ → 2NaNO₂ + O₂; NH₄NO₃ → N₂O + 2H₂O; 2AgNO₃ (450°C) → 2AgNO₂ + O₂, আরও গরমে Ag + NO₂ + O₂।\nভারী ধাতুর নাইট্রেট (Cu, Pb) → ধাতব অক্সাইড + NO₂ + O₂।\nসব নাইট্রেট বলয় পরীক্ষা দেয়; NaNO₃ + Pb → NaNO₂ + PbO (NaNO₂ ডায়াজো লবণ প্রস্তুতিতে ব্যবহৃত)।",
+   "notes_en": "Nitrate salts are salts of HNO3 (NaNO3, NH4NO3), made from HNO3 with metals, oxides, hydroxides or carbonates.\nAll are crystalline and water-soluble; the one exception is bismuth oxynitrate (BiONO3).\nHeating: 2NaNO3 -> 2NaNO2 + O2; NH4NO3 -> N2O + 2H2O; AgNO3 at 450 C gives AgNO2 + O2, further heating Ag + NO2 + O2.\nHeavy-metal nitrates (Cu, Pb) -> metal oxide + NO2 + O2.\nAll give the ring test; NaNO3 + Pb -> NaNO2 + PbO (NaNO2 is used for diazonium salts).",
+   "mcqs": [
+    {
+     "question_bn": "কোন নাইট্রেট লবণ পানিতে অদ্রবণীয়?",
+     "question_en": "Which nitrate salt is insoluble in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaNO₃",
+       "en": "NaNO3"
+      },
+      {
+       "id": "b",
+       "bn": "BiONO₃",
+       "en": "BiONO3"
+      },
+      {
+       "id": "c",
+       "bn": "Cu(NO₃)₂",
+       "en": "Cu(NO3)2"
+      },
+      {
+       "id": "d",
+       "bn": "NH₄NO₃",
+       "en": "NH4NO3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের মতে একমাত্র ব্যতিক্রম বিসমাথ অক্সি নাইট্রেট।",
+     "explanation_en": "The book gives bismuth oxynitrate as the only exception.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NH₄NO₃ কে উত্তপ্ত করলে কোন গ্যাস পাওয়া যায়?",
+     "question_en": "Heating NH4NO3 gives which gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N₂O",
+       "en": "N2O"
+      },
+      {
+       "id": "b",
+       "bn": "NO₂",
+       "en": "NO2"
+      },
+      {
+       "id": "c",
+       "bn": "O₂",
+       "en": "O2"
+      },
+      {
+       "id": "d",
+       "bn": "NH₃",
+       "en": "NH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH₄NO₃ → N₂O + 2H₂O।",
+     "explanation_en": "NH4NO3 -> N2O + 2H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Cu(NO₃)₂ উত্তপ্ত করলে কী কী উৎপন্ন হয়?",
+     "question_en": "What forms on heating Cu(NO3)2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CuO, NO₂, O₂",
+       "en": "CuO, NO2, O2"
+      },
+      {
+       "id": "b",
+       "bn": "Cu, NO₂, O₂",
+       "en": "Cu, NO2, O2"
+      },
+      {
+       "id": "c",
+       "bn": "Cu(NO₂)₂ ও O₂",
+       "en": "Cu(NO2)2 and O2"
+      },
+      {
+       "id": "d",
+       "bn": "CuO ও N₂O",
+       "en": "CuO and N2O"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ভারী ধাতুর নাইট্রেট ধাতব অক্সাইড, NO₂ ও O₂ দেয়।",
+     "explanation_en": "Heavy-metal nitrates give oxide, NO2 and O2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "450°C-এ AgNO₃ উত্তপ্ত করলে কোনটি পাওয়া যায়?",
+     "question_en": "On heating AgNO3 at 450 C, the product is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "AgNO₂ ও O₂",
+       "en": "AgNO2 and O2"
+      },
+      {
+       "id": "b",
+       "bn": "Ag₂O ও NO₂",
+       "en": "Ag2O and NO2"
+      },
+      {
+       "id": "c",
+       "bn": "Ag ও N₂O",
+       "en": "Ag and N2O"
+      },
+      {
+       "id": "d",
+       "bn": "AgNO₂ ও N₂O",
+       "en": "AgNO2 and N2O"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "450°C-এ সিলভার নাইট্রাইট ও অক্সিজেন; আরও গরমে Ag, NO₂, O₂।",
+     "explanation_en": "At 450 C: silver nitrite + O2; more heat gives Ag, NO2, O2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.28",
+   "title_bn": "নাইট্রেট মূলকের পরীক্ষা",
+   "title_en": "Test for nitrate",
+   "notes_bn": "শুষ্ক পরীক্ষা: নাইট্রেট লবণ, কপার কুচি ও গাঢ় H₂SO₄ উত্তপ্ত করলে বাদামি NO₂ গ্যাস বের হয়।\nসিক্ত পরীক্ষা (বলয় পরীক্ষা): নাইট্রেট দ্রবণে সদ্য প্রস্তুত FeSO₄ দ্রবণ মিশিয়ে টেস্টটিউবের গা বেয়ে সাবধানে গাঢ় H₂SO₄ দিলে দুই স্তরের সংযোগস্থলে বাদামি বলয় হয়।\nবলয়ের যৌগ: পেন্টা অ্যাকুয়া নাইট্রোসো-আয়রন (II) সালফেট, [Fe(NO)(H₂O)₅]SO₄।\nগাঢ় H₂SO₄ + নাইট্রেট → HNO₃; লঘু HNO₃ FeSO₄-কে Fe₂(SO₄)₃ করে নিজে NO হয়; NO অবশিষ্ট Fe²⁺-এর সাথে বলয় গঠন করে।\nFeSO₄ দ্রবণ সদ্য তৈরি করতে হয়, কারণ রেখে দিলে বাতাসের O₂-এ ফেরিক সালফেট হয়ে যায়।",
+   "notes_en": "Dry test: nitrate + Cu turnings + conc. H2SO4, heated, gives brown NO2.\nRing test: add freshly prepared FeSO4 to the nitrate solution, then run conc. H2SO4 slowly down the tube wall; a brown ring forms at the interface.\nRing compound: pentaaquanitrosoiron(II) sulfate, [Fe(NO)(H2O)5]SO4.\nConc. H2SO4 liberates HNO3; dilute HNO3 oxidises Fe2+ to Fe3+ and is itself reduced to NO, which binds remaining Fe2+ to give the ring.\nFeSO4 must be fresh because standing in air oxidises it to ferric sulfate.",
+   "mcqs": [
+    {
+     "question_bn": "বলয় পরীক্ষায় বলয়ের রং কী?",
+     "question_en": "What colour is the ring in the ring test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাদামি",
+       "en": "Brown"
+      },
+      {
+       "id": "b",
+       "bn": "নীল",
+       "en": "Blue"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "d",
+       "bn": "লাল",
+       "en": "Red"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পেন্টা অ্যাকুয়া নাইট্রোসো-আয়রন (II) সালফেট বাদামি।",
+     "explanation_en": "The nitrosoiron(II) complex is brown.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বলয় পরীক্ষায় কোন দ্রবণ সদ্য প্রস্তুত করা আবশ্যক?",
+     "question_en": "Which solution must be freshly prepared for the ring test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "FeSO₄",
+       "en": "FeSO4"
+      },
+      {
+       "id": "b",
+       "bn": "NaNO₃",
+       "en": "NaNO3"
+      },
+      {
+       "id": "c",
+       "bn": "H₂SO₄",
+       "en": "H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "CuSO₄",
+       "en": "CuSO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রেখে দিলে Fe²⁺ বাতাসে ফেরিক সালফেটে জারিত হয়।",
+     "explanation_en": "Standing Fe2+ is oxidised by air to ferric sulfate.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইট্রেটের শুষ্ক পরীক্ষায় কোন গ্যাস নির্গত হয়?",
+     "question_en": "Which gas evolves in the dry test for nitrate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO₂",
+       "en": "NO2"
+      },
+      {
+       "id": "b",
+       "bn": "NH₃",
+       "en": "NH3"
+      },
+      {
+       "id": "c",
+       "bn": "SO₂",
+       "en": "SO2"
+      },
+      {
+       "id": "d",
+       "bn": "H₂",
+       "en": "H2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কপার ও গাঢ় H₂SO₄-এর সাথে উত্তপ্ত করলে বাদামি NO₂ বের হয়।",
+     "explanation_en": "Heating with Cu and conc. H2SO4 gives brown NO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বলয় গঠনে কোন গ্যাস FeSO₄-এর সাথে বিক্রিয়া করে?",
+     "question_en": "Which gas reacts with FeSO4 to form the ring?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "b",
+       "bn": "NO₂",
+       "en": "NO2"
+      },
+      {
+       "id": "c",
+       "bn": "N₂O",
+       "en": "N2O"
+      },
+      {
+       "id": "d",
+       "bn": "NH₃",
+       "en": "NH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "লঘু HNO₃ বিজারিত হয়ে NO দেয়; NO + FeSO₄ → [Fe(NO)(H₂O)₅]SO₄।",
+     "explanation_en": "Dilute HNO3 is reduced to NO, which combines with FeSO4.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.29",
+   "title_bn": "সার হিসেবে নাইট্রেট লবণের গুরুত্ব",
+   "title_en": "Nitrates as fertilizers",
+   "notes_bn": "নাইট্রেট লবণ পানিতে দ্রবীভূত হয়ে মাটিতে সহজে মিশে যায় এবং উদ্ভিদ মূল দিয়ে শোষণ করে।\nব্যবহৃত সার: (১) Ca(NO₃)₂, (২) বেসিক ক্যালসিয়াম নাইট্রেট Ca(NO₃)₂·CaO, (৩) CAN, Ca(NO₃)₂·NH₄NO₃, (৪) NaNO₃ বা চিলি সল্টপিটার।\nএদের মধ্যে ক্যালসিয়াম অ্যামোনিয়াম নাইট্রেট (CAN) সর্বোত্তম; এতে ২০% নাইট্রোজেন থাকে।\nউদ্ভিদের বৃদ্ধির জন্য নাইট্রোজেন সার অপরিহার্য; ধান জাতীয় শস্যে অন্য সারের চেয়ে বেশি দরকার।",
+   "notes_en": "Nitrates dissolve in water, mix into soil easily and are absorbed by roots.\nFertilizers: Ca(NO3)2, basic calcium nitrate Ca(NO3)2.CaO, CAN Ca(NO3)2.NH4NO3, and NaNO3 (Chile saltpetre).\nCAN is the best of these, with 20% nitrogen, staying dissolved in soil for direct plant uptake.\nNitrogen fertilizer is essential for plant growth; cereals need more of it than other fertilizers.",
+   "mcqs": [
+    {
+     "question_bn": "কোন নাইট্রেট সার সর্বোত্তম বলে বিবেচিত?",
+     "question_en": "Which nitrate fertilizer is considered best?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CAN",
+       "en": "CAN"
+      },
+      {
+       "id": "b",
+       "bn": "NaNO₃",
+       "en": "NaNO3"
+      },
+      {
+       "id": "c",
+       "bn": "Ca(NO₃)₂",
+       "en": "Ca(NO3)2"
+      },
+      {
+       "id": "d",
+       "bn": "BiONO₃",
+       "en": "BiONO3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CAN-এ ২০% N থাকে ও সহজে শোষিত হয়।",
+     "explanation_en": "CAN has 20% N and is readily absorbed.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CAN-এর সংকেত কোনটি?",
+     "question_en": "The formula of CAN is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ca(NO₃)₂·NH₄NO₃",
+       "en": "Ca(NO3)2.NH4NO3"
+      },
+      {
+       "id": "b",
+       "bn": "Ca(NO₃)₂·CaO",
+       "en": "Ca(NO3)2.CaO"
+      },
+      {
+       "id": "c",
+       "bn": "NaNO₃",
+       "en": "NaNO3"
+      },
+      {
+       "id": "d",
+       "bn": "NH₄NO₃",
+       "en": "NH4NO3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CAN = ক্যালসিয়াম অ্যামোনিয়াম নাইট্রেট।",
+     "explanation_en": "CAN = calcium ammonium nitrate.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "চিলি সল্টপিটার কোনটি?",
+     "question_en": "Chile saltpetre is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaNO₃",
+       "en": "NaNO3"
+      },
+      {
+       "id": "b",
+       "bn": "KNO₃",
+       "en": "KNO3"
+      },
+      {
+       "id": "c",
+       "bn": "Ca(NO₃)₂",
+       "en": "Ca(NO3)2"
+      },
+      {
+       "id": "d",
+       "bn": "NH₄NO₃",
+       "en": "NH4NO3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সোডিয়াম নাইট্রেটকে চিলি সল্টপিটার বলে।",
+     "explanation_en": "Sodium nitrate is Chile saltpetre.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইট্রেট সার সরাসরি উদ্ভিদের কাজে লাগার কারণ কোনটি?",
+     "question_en": "Why can plants use nitrate fertilizer directly?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানিতে দ্রবীভূত অবস্থায় মূল দিয়ে শোষিত হয়",
+       "en": "It is dissolved in water and absorbed by roots"
+      },
+      {
+       "id": "b",
+       "bn": "মাটিতে অদ্রবণীয় থাকে",
+       "en": "It stays insoluble in soil"
+      },
+      {
+       "id": "c",
+       "bn": "বাতাস থেকে N₂ ফিক্স করে",
+       "en": "It fixes N2 from air"
+      },
+      {
+       "id": "d",
+       "bn": "ক্ষারীয় বলে",
+       "en": "Because it is basic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নাইট্রেট দ্রবণীয়, তাই উদ্ভিদ মূল দ্বারা শোষণ করে।",
+     "explanation_en": "Being soluble, nitrates are absorbed by roots.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.30",
+   "title_bn": "ফসফরাসের অক্সাইড",
+   "title_en": "Oxides of phosphorus",
+   "notes_bn": "ফসফরাসের চারটি সুস্থিত অক্সাইড; জারণ সংখ্যা +3, +4, +5, +6।\nP₂O₃ বা P₄O₆ (ফসফরাস ট্রাইঅক্সাইড), P₂O₄ বা P₈O₁₆, P₂O₅ বা P₄O₁₀ (পেন্টঅক্সাইড), P₂O₆ বা PO₃।\nবাষ্পঘনত্ব অনুযায়ী আণবিক সংকেত P₄O₆ ও P₄O₁₀।\nP₂O₃-কে ফসফরাস অ্যানহাইড্রাইড এবং P₂O₅-কে ফসফরিক অ্যানহাইড্রাইড বলা হয়।\nP₄O₆-এ ৪টি P চতুস্তলকের শীর্ষে; ৬টি P–O–P বন্ধন; প্রতি P-এ একটি নিঃসঙ্গ জোড়। P₄O₁₀-এ ঐ নিঃসঙ্গ জোড় দিয়ে ৪টি O-এর সাথে সন্নিবেশ বন্ধন হয়।",
+   "notes_en": "Phosphorus forms four stable oxides with oxidation states +3, +4, +5, +6.\nP2O3 (P4O6), P2O4 (P8O16), P2O5 (P4O10), P2O6 (PO3).\nVapour density gives molecular formulas P4O6 and P4O10.\nP2O3 is called phosphorous anhydride and P2O5 phosphoric anhydride.\nIn P4O6 four P atoms sit at tetrahedron corners joined by six P-O-P bonds; each P keeps a lone pair. In P4O10 these lone pairs form coordinate bonds to four extra O atoms.",
+   "mcqs": [
+    {
+     "question_bn": "ফসফরাস ট্রাইঅক্সাইডের প্রকৃত আণবিক সংকেত কোনটি?",
+     "question_en": "The true molecular formula of phosphorus trioxide is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P₄O₆",
+       "en": "P4O6"
+      },
+      {
+       "id": "b",
+       "bn": "P₂O₃",
+       "en": "P2O3"
+      },
+      {
+       "id": "c",
+       "bn": "P₄O₁₀",
+       "en": "P4O10"
+      },
+      {
+       "id": "d",
+       "bn": "PO₃",
+       "en": "PO3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বাষ্পঘনত্ব অনুসারে সংকেত P₄O₆।",
+     "explanation_en": "Vapour density shows P4O6.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "P₄O₁₀-এ P-এর জারণ সংখ্যা কত?",
+     "question_en": "Oxidation state of P in P4O10?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+5",
+       "en": "+5"
+      },
+      {
+       "id": "b",
+       "bn": "+3",
+       "en": "+3"
+      },
+      {
+       "id": "c",
+       "bn": "+4",
+       "en": "+4"
+      },
+      {
+       "id": "d",
+       "bn": "+6",
+       "en": "+6"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "P₂O₅ বা P₄O₁₀-এ P = +5।",
+     "explanation_en": "P is +5 in P2O5/P4O10.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "P₄O₆ অণুতে P–O–P বন্ধনের সংখ্যা কত?",
+     "question_en": "How many P-O-P bonds are in P4O6?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৬",
+       "en": "6"
+      },
+      {
+       "id": "b",
+       "bn": "৪",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "১০",
+       "en": "10"
+      },
+      {
+       "id": "d",
+       "bn": "১২",
+       "en": "12"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "৪টি P চতুস্তলকের ৬টি কিনারায় ৬টি O দ্বারা যুক্ত।",
+     "explanation_en": "Six O atoms bridge the six edges of the P4 tetrahedron.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "P₄O₁₀ গঠনে P₄O₆-এর নিঃসঙ্গ ইলেকট্রন জোড় কী কাজ করে?",
+     "question_en": "In forming P4O10 from P4O6, the lone pairs on P:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৪টি O-এর সাথে সন্নিবেশ বন্ধন গঠন করে",
+       "en": "Form coordinate bonds with four O atoms"
+      },
+      {
+       "id": "b",
+       "bn": "P–P বন্ধন গঠন করে",
+       "en": "Form P-P bonds"
+      },
+      {
+       "id": "c",
+       "bn": "আয়নিক বন্ধন গঠন করে",
+       "en": "Form ionic bonds"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো কাজ করে না",
+       "en": "Do nothing"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের বর্ণনা অনুযায়ী ৪টি O-এর সাথে সন্নিবেশ বন্ধন হয়।",
+     "explanation_en": "Per the book, they form coordinate bonds to four O atoms.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.31",
+   "title_bn": "ফসফরাস ট্রাইঅক্সাইড",
+   "title_en": "Phosphorus trioxide, P2O3 (P4O6)",
+   "notes_bn": "প্রস্তুতি: শ্বেত ফসফরাসকে সীমিত বাতাসে ধীরে উত্তপ্ত করলে P₂O₃ হয় (4P + 3O₂ → 2P₂O₃)।\nধর্ম: বরফের মতো সাদা দানাদার মোমের মতো পদার্থ; রসুনের মতো গন্ধ; বিষাক্ত; গলনাঙ্ক 20.8°C, স্ফুটনাঙ্ক 170°C; বাষ্পঘনত্ব 110।\nএটি অম্লধর্মী অক্সাইড, ফসফরাস এসিডের অ্যানহাইড্রাইড।\nশীতল পানিতে: P₂O₃ + 3H₂O → 2H₃PO₃।\nউত্তপ্ত পানিতে: 2P₂O₃ + 6H₂O → PH₃ + 3H₃PO₄।\nউত্তপ্ত NaOH-এ: 2P₂O₃ + 9NaOH → 3Na₃PO₄ + PH₃ + 3H₂O।",
+   "notes_en": "Prepared by slowly heating white phosphorus in limited air: 4P + 3O2 -> 2P2O3.\nWhite waxy crystalline solid, garlic-like smell, poisonous; m.p. 20.8 C, b.p. 170 C; vapour density 110.\nAcidic oxide, anhydride of phosphorous acid.\nCold water: P2O3 + 3H2O -> 2H3PO3.\nHot water: 2P2O3 + 6H2O -> PH3 + 3H3PO4.\nHot NaOH: 2P2O3 + 9NaOH -> 3Na3PO4 + PH3 + 3H2O.",
+   "mcqs": [
+    {
+     "question_bn": "শীতল পানির সাথে P₂O₃ বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "Cold water with P2O3 gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₃PO₃",
+       "en": "H3PO3"
+      },
+      {
+       "id": "b",
+       "bn": "H₃PO₄",
+       "en": "H3PO4"
+      },
+      {
+       "id": "c",
+       "bn": "HPO₃",
+       "en": "HPO3"
+      },
+      {
+       "id": "d",
+       "bn": "PH₃ মাত্র",
+       "en": "PH3 only"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "P₂O₃ + 3H₂O → 2H₃PO₃।",
+     "explanation_en": "P2O3 + 3H2O -> 2H3PO3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "উত্তপ্ত পানির সাথে P₂O₃ বিক্রিয়ায় কোন গ্যাস পাওয়া যায়?",
+     "question_en": "Hot water with P2O3 evolves which gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "PH₃",
+       "en": "PH3"
+      },
+      {
+       "id": "b",
+       "bn": "H₂",
+       "en": "H2"
+      },
+      {
+       "id": "c",
+       "bn": "SO₂",
+       "en": "SO2"
+      },
+      {
+       "id": "d",
+       "bn": "NH₃",
+       "en": "NH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2P₂O₃ + 6H₂O → PH₃ + 3H₃PO₄।",
+     "explanation_en": "2P2O3 + 6H2O -> PH3 + 3H3PO4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "P₂O₃-এর বাষ্পঘনত্ব 110 হলে আণবিক ভর কত এবং সংকেত কী? (P=31, O=16)",
+     "question_en": "If vapour density of P2O3 is 110, the molecular mass and formula are: (P=31, O=16)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "220, P₄O₆",
+       "en": "220, P4O6"
+      },
+      {
+       "id": "b",
+       "bn": "110, P₂O₃",
+       "en": "110, P2O3"
+      },
+      {
+       "id": "c",
+       "bn": "220, P₂O₃",
+       "en": "220, P2O3"
+      },
+      {
+       "id": "d",
+       "bn": "440, P₈O₁₂",
+       "en": "440, P8O12"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আণবিক ভর = 2×110 = 220 = 4×31 + 6×16 = 124+96, তাই P₄O₆।",
+     "explanation_en": "M = 2 x 110 = 220 = 4(31)+6(16), so P4O6.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "P₂O₃ + NaOH (উত্তপ্ত) বিক্রিয়ার ফসফরাসযুক্ত দুটি উৎপাদ কী?",
+     "question_en": "P-containing products of hot NaOH with P2O3 are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na₃PO₄ ও PH₃",
+       "en": "Na3PO4 and PH3"
+      },
+      {
+       "id": "b",
+       "bn": "NaPO₃ ও PH₃",
+       "en": "NaPO3 and PH3"
+      },
+      {
+       "id": "c",
+       "bn": "Na₃PO₃ ও P",
+       "en": "Na3PO3 and P"
+      },
+      {
+       "id": "d",
+       "bn": "Na₃PO₄ ও P₄",
+       "en": "Na3PO4 and P4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সমীকরণ: 2P₂O₃ + 9NaOH → 3Na₃PO₄ + PH₃ + 3H₂O।",
+     "explanation_en": "Book equation gives Na3PO4 and PH3.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.32",
+   "title_bn": "ফসফরাস পেন্টঅক্সাইড",
+   "title_en": "Phosphorus pentoxide, P2O5 (P4O10)",
+   "notes_bn": "প্রস্তুতি: শ্বেত বা লোহিত ফসফরাসকে অতিরিক্ত বাতাস/অক্সিজেনে জ্বালালে: 4P + 5O₂ → 2P₂O₅।\nগন্ধহীন সাদা পাউডার; তীব্র পানিগ্রাহী; 250°C-এর উপরে ঊর্ধ্বপাতিত হয়।\nঠান্ডা পানির সাথে মেটা ফসফরিক এসিড (HPO₃) হয় (হিস হিস শব্দ); ফুটন্ত পানিতে H₃PO₄ হয়।\nক্ষার: ঠান্ডায় NaPO₃, গরমে Na₃PO₄।\nশক্তিশালী নিরুদক: HNO₃ থেকে N₂O₅ ও H₂SO₄ থেকে SO₃ তৈরি করে নিজে HPO₃ হয়।\nব্যবহার: নিরুদক ও ফসফরিক এসিড প্রস্তুতি।",
+   "notes_en": "Made by burning white/red phosphorus in excess air or oxygen: 4P + 5O2 -> 2P2O5.\nOdourless white powder, strongly hygroscopic, sublimes above 250 C.\nCold water gives metaphosphoric acid HPO3 (hissing); boiling water gives H3PO4.\nWith alkali: NaPO3 (cold) or Na3PO4 (hot).\nPowerful dehydrating agent: converts HNO3 to N2O5 and H2SO4 to SO3, itself becoming HPO3.\nUses: dehydrating agent, making phosphoric acid.",
+   "mcqs": [
+    {
+     "question_bn": "P₂O₅ কে আর্দ্র বিশ্লেষণ করলে (ফুটন্ত পানি) কোন এসিড হয়?",
+     "question_en": "Boiling P2O5 with water gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₃PO₄",
+       "en": "H3PO4"
+      },
+      {
+       "id": "b",
+       "bn": "H₃PO₃",
+       "en": "H3PO3"
+      },
+      {
+       "id": "c",
+       "bn": "H₃PO₂",
+       "en": "H3PO2"
+      },
+      {
+       "id": "d",
+       "bn": "PH₃",
+       "en": "PH3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HPO₃ + H₂O → H₃PO₄; সামগ্রিক P₂O₅ + 3H₂O → 2H₃PO₄।",
+     "explanation_en": "P2O5 + 3H2O (hot) -> 2H3PO4.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "P₂O₅ গাঢ় H₂SO₄ থেকে পানি শোষণ করলে কোন গ্যাস/যৌগ গঠিত হয়?",
+     "question_en": "P2O5 dehydrating conc. H2SO4 produces:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SO₃",
+       "en": "SO3"
+      },
+      {
+       "id": "b",
+       "bn": "SO₂",
+       "en": "SO2"
+      },
+      {
+       "id": "c",
+       "bn": "H₂S",
+       "en": "H2S"
+      },
+      {
+       "id": "d",
+       "bn": "S",
+       "en": "S"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "P₂O₅ + H₂SO₄ → SO₃ + 2HPO₃।",
+     "explanation_en": "P2O5 + H2SO4 -> SO3 + 2HPO3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ঠান্ডা NaOH দ্রবণের সাথে P₂O₅ বিক্রিয়ায় উৎপন্ন লবণ কোনটি?",
+     "question_en": "Cold NaOH with P2O5 gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaPO₃",
+       "en": "NaPO3"
+      },
+      {
+       "id": "b",
+       "bn": "Na₃PO₄",
+       "en": "Na3PO4"
+      },
+      {
+       "id": "c",
+       "bn": "Na₂HPO₄",
+       "en": "Na2HPO4"
+      },
+      {
+       "id": "d",
+       "bn": "NaH₂PO₄",
+       "en": "NaH2PO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শীতল অবস্থায় NaPO₃, গরমে Na₃PO₄।",
+     "explanation_en": "Cold gives NaPO3; hot gives Na3PO4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "P₂O₅ কে ফসফরিক অ্যানহাইড্রাইড বলার কারণ কী?",
+     "question_en": "Why is P2O5 called phosphoric anhydride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানির সাথে অর্থো ফসফরিক এসিড (H₃PO₄) দেয়",
+       "en": "It gives orthophosphoric acid with water"
+      },
+      {
+       "id": "b",
+       "bn": "এটি ফসফরাস এসিড দেয়",
+       "en": "It gives phosphorous acid"
+      },
+      {
+       "id": "c",
+       "bn": "এটি PH₃ দেয়",
+       "en": "It gives PH3"
+      },
+      {
+       "id": "d",
+       "bn": "এটি ক্ষারীয়",
+       "en": "It is basic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উত্তপ্ত পানিতে HPO₃ থেকে H₃PO₄ গঠিত হয়।",
+     "explanation_en": "Hydration ends in H3PO4.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.33",
+   "title_bn": "ফসফরাসের অক্সো এসিডসমূহ",
+   "title_en": "Oxo acids of phosphorus",
+   "notes_bn": "H₃PO₂ ফসফিনিক বা হাইপো ফসফরাস এসিড, P-এর জারণ সংখ্যা +1।\nH₃PO₃ ফসফোনিক বা অর্থো ফসফরাস এসিড, P = +3।\nH₃PO₄ অর্থো ফসফরিক (V) এসিড, P = +5।\nH₄P₂O₇ পাইরো ফসফরিক (V) এসিড, P = +5।\nHPO₃ মেটা ফসফরিক (V) এসিড, P = +5।",
+   "notes_en": "H3PO2: phosphinic (hypophosphorous) acid, P = +1.\nH3PO3: phosphonic (orthophosphorous) acid, P = +3.\nH3PO4: orthophosphoric(V) acid, P = +5.\nH4P2O7: pyrophosphoric(V) acid, P = +5.\nHPO3: metaphosphoric(V) acid, P = +5.",
+   "mcqs": [
+    {
+     "question_bn": "H₃PO₃-এ P-এর জারণ সংখ্যা কত?",
+     "question_en": "Oxidation state of P in H3PO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+3",
+       "en": "+3"
+      },
+      {
+       "id": "b",
+       "bn": "+1",
+       "en": "+1"
+      },
+      {
+       "id": "c",
+       "bn": "+5",
+       "en": "+5"
+      },
+      {
+       "id": "d",
+       "bn": "+4",
+       "en": "+4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সারণি: H₃PO₃ → +3।",
+     "explanation_en": "Per the book's table, +3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "H₃PO₂-এর নাম কী?",
+     "question_en": "H3PO2 is named:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফসফিনিক এসিড",
+       "en": "Phosphinic acid"
+      },
+      {
+       "id": "b",
+       "bn": "ফসফোনিক এসিড",
+       "en": "Phosphonic acid"
+      },
+      {
+       "id": "c",
+       "bn": "মেটা ফসফরিক এসিড",
+       "en": "Metaphosphoric acid"
+      },
+      {
+       "id": "d",
+       "bn": "পাইরো ফসফরিক এসিড",
+       "en": "Pyrophosphoric acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "H₃PO₂ = ফসফিনিক বা হাইপো ফসফরাস এসিড।",
+     "explanation_en": "H3PO2 is phosphinic (hypophosphorous) acid.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন এসিডে P-এর জারণ সংখ্যা +5 নয়?",
+     "question_en": "In which acid is P not +5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₃PO₃",
+       "en": "H3PO3"
+      },
+      {
+       "id": "b",
+       "bn": "H₃PO₄",
+       "en": "H3PO4"
+      },
+      {
+       "id": "c",
+       "bn": "HPO₃",
+       "en": "HPO3"
+      },
+      {
+       "id": "d",
+       "bn": "H₄P₂O₇",
+       "en": "H4P2O7"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "H₃PO₃-এ P = +3।",
+     "explanation_en": "H3PO3 has P = +3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H₄P₂O₇-এ P-এর জারণ সংখ্যা গণনা করলে পাওয়া যায়:",
+     "question_en": "Calculated oxidation state of P in H4P2O7:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+5",
+       "en": "+5"
+      },
+      {
+       "id": "b",
+       "bn": "+4",
+       "en": "+4"
+      },
+      {
+       "id": "c",
+       "bn": "+7",
+       "en": "+7"
+      },
+      {
+       "id": "d",
+       "bn": "+3",
+       "en": "+3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "4(+1)+2x+7(−2)=0 ⇒ 2x=10 ⇒ x=+5।",
+     "explanation_en": "4(+1)+2x-14=0 gives x = +5.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.34",
+   "title_bn": "ফসফোনিক এসিড বা অর্থো ফসফরাস এসিড",
+   "title_en": "Phosphonic (orthophosphorous) acid, H3PO3",
+   "notes_bn": "প্রস্তুতি: P₂O₃ + 3H₂O → 2H₃PO₃; PCl₃ + 3H₂O → H₃PO₃ + 3HCl।\nগঠন: O=P(OH)₂H — একটি P–H বন্ধনসহ।\nমধ্যম শক্তির দ্বিক্ষারীয় (diprotic) এসিড; দুই শ্রেণির লবণ দেয়।\nবিজারক: CuSO₄ থেকে Cu এবং AgNO₃ থেকে Ag বিজারিত করে, নিজে H₃PO₄ হয়।\nCuSO₄ + H₃PO₃ + H₂O → Cu + H₃PO₄ + H₂SO₄; 2AgNO₃ + H₃PO₃ + H₂O → 2Ag + H₃PO₄ + 2HNO₃।",
+   "notes_en": "Prepared by P2O3 + 3H2O -> 2H3PO3 or PCl3 + 3H2O -> H3PO3 + 3HCl.\nStructure O=P(OH)2H, one P-H bond.\nModerately strong diprotic acid.\nReducing agent: reduces Cu2+ (CuSO4) to Cu and Ag+ (AgNO3) to Ag, itself oxidised to H3PO4.\nCuSO4 + H3PO3 + H2O -> Cu + H3PO4 + H2SO4; 2AgNO3 + H3PO3 + H2O -> 2Ag + H3PO4 + 2HNO3.",
+   "mcqs": [
+    {
+     "question_bn": "H₃PO₃ কত ক্ষারীয়?",
+     "question_en": "H3PO3 is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দ্বিক্ষারীয়",
+       "en": "Dibasic (diprotic)"
+      },
+      {
+       "id": "b",
+       "bn": "একক্ষারীয়",
+       "en": "Monobasic"
+      },
+      {
+       "id": "c",
+       "bn": "ত্রিক্ষারীয়",
+       "en": "Tribasic"
+      },
+      {
+       "id": "d",
+       "bn": "চতুঃক্ষারীয়",
+       "en": "Tetrabasic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে একে ডাইপ্রোটিক বলা হয়েছে।",
+     "explanation_en": "The book calls it diprotic.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "PCl₃ আর্দ্র বিশ্লেষণে কী পাওয়া যায়?",
+     "question_en": "Hydrolysis of PCl3 gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₃PO₃ ও HCl",
+       "en": "H3PO3 and HCl"
+      },
+      {
+       "id": "b",
+       "bn": "H₃PO₄ ও HCl",
+       "en": "H3PO4 and HCl"
+      },
+      {
+       "id": "c",
+       "bn": "PH₃ ও Cl₂",
+       "en": "PH3 and Cl2"
+      },
+      {
+       "id": "d",
+       "bn": "P₂O₃ ও HCl",
+       "en": "P2O3 and HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "PCl₃ + 3H₂O → H₃PO₃ + 3HCl।",
+     "explanation_en": "PCl3 + 3H2O -> H3PO3 + 3HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H₃PO₃ AgNO₃ দ্রবণের সাথে বিক্রিয়ায় কী উৎপন্ন করে?",
+     "question_en": "H3PO3 with AgNO3 solution gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ag ও H₃PO₄",
+       "en": "Ag and H3PO4"
+      },
+      {
+       "id": "b",
+       "bn": "Ag₃PO₄ মাত্র",
+       "en": "Ag3PO4 only"
+      },
+      {
+       "id": "c",
+       "bn": "AgCl",
+       "en": "AgCl"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো বিক্রিয়া নেই",
+       "en": "No reaction"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "H₃PO₃ বিজারক; Ag⁺ → Ag।",
+     "explanation_en": "H3PO3 is a reductant; Ag+ -> Ag.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H₃PO₃ কেন বিজারক?",
+     "question_en": "Why is H3PO3 a reducing agent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P (+3) জারিত হয়ে +5 অবস্থায় (H₃PO₄) যেতে পারে",
+       "en": "P(+3) is oxidised to P(+5) as H3PO4"
+      },
+      {
+       "id": "b",
+       "bn": "এর P বিজারিত হয়",
+       "en": "Its P is reduced"
+      },
+      {
+       "id": "c",
+       "bn": "এটি ক্ষারীয়",
+       "en": "It is basic"
+      },
+      {
+       "id": "d",
+       "bn": "এটি Cu²⁺ দ্বারা জারিত হয় না",
+       "en": "It is not oxidised by Cu2+"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিক্রিয়ায় H₃PO₃ → H₃PO₄ (জারণ)।",
+     "explanation_en": "In the reactions H3PO3 becomes H3PO4.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.35",
+   "title_bn": "ফসফরিক (V) এসিড বা অর্থো ফসফরিক এসিড",
+   "title_en": "Phosphoric(V) acid, H3PO4",
+   "notes_bn": "শিল্পোৎপাদন: অস্থিভস্মে (প্রায় ৮০% Ca₃(PO₄)₂) বা রক ফসফেটে অর্ধ গাঢ় H₂SO₄ মিশিয়ে ফুটালে; Ca₃(PO₄)₂ + 3H₂SO₄ → 2H₃PO₄ + 3CaSO₄; পরিস্রাবণে CaSO₄ আলাদা, ঘন করে ৮৫% সিরাপ পাওয়া যায়।\nল্যাবরেটরি: P₂O₅ + 3H₂O → 2H₃PO₄।\nবর্ণহীন কেলাসাকার, পানিগ্রাহী; H-বন্ধনের কারণে আঠালো।\nদুর্বল ত্রিক্ষারীয় এসিড; NaOH-এর সাথে NaH₂PO₄, Na₂HPO₄, Na₃PO₄ — তিন শ্রেণির লবণ।\nব্যবহার: প্রায় ৯০% DAP সার তৈরিতে; ইস্পাতে মরিচারোধ (Fe³⁺ + H₃PO₄ → FePO₄); স্নায়ুর দুর্বলতার ওষুধ।",
+   "notes_en": "Industrial: bone ash (~80% Ca3(PO4)2) or rock phosphate boiled with half-conc. H2SO4: Ca3(PO4)2 + 3H2SO4 -> 2H3PO4 + 3CaSO4; CaSO4 filtered off, solution concentrated to 85% syrup.\nLab: P2O5 + 3H2O -> 2H3PO4.\nColourless crystalline, hygroscopic; syrupy due to hydrogen bonding.\nWeak tribasic acid giving NaH2PO4, Na2HPO4 and Na3PO4.\nUses: ~90% goes to DAP fertilizer; rust-proofing of steel (Fe3+ -> iron(III) phosphate); medicine for nerve weakness.",
+   "mcqs": [
+    {
+     "question_bn": "H₃PO₄ কত ক্ষারীয় এসিড?",
+     "question_en": "H3PO4 is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ত্রিক্ষারীয়",
+       "en": "Tribasic"
+      },
+      {
+       "id": "b",
+       "bn": "একক্ষারীয়",
+       "en": "Monobasic"
+      },
+      {
+       "id": "c",
+       "bn": "দ্বিক্ষারীয়",
+       "en": "Dibasic"
+      },
+      {
+       "id": "d",
+       "bn": "অক্ষারীয়",
+       "en": "Non-basic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অণুতে তিনটি –OH মূলক আছে।",
+     "explanation_en": "It has three –OH groups.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অস্থিভস্মে সাধারণত প্রায় কত শতাংশ ক্যালসিয়াম ফসফেট থাকে?",
+     "question_en": "Approximately what % calcium phosphate does bone ash contain?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৮০%",
+       "en": "80%"
+      },
+      {
+       "id": "b",
+       "bn": "৩০%",
+       "en": "30%"
+      },
+      {
+       "id": "c",
+       "bn": "৫০%",
+       "en": "50%"
+      },
+      {
+       "id": "d",
+       "bn": "১০০%",
+       "en": "100%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের মতে প্রায় ৮০%।",
+     "explanation_en": "The book states about 80%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাধারণত 'সোডিয়াম ফসফেট' বলতে বোঝায়:",
+     "question_en": "'Sodium phosphate' usually means:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na₂HPO₄",
+       "en": "Na2HPO4"
+      },
+      {
+       "id": "b",
+       "bn": "Na₃PO₄",
+       "en": "Na3PO4"
+      },
+      {
+       "id": "c",
+       "bn": "NaH₂PO₄",
+       "en": "NaH2PO4"
+      },
+      {
+       "id": "d",
+       "bn": "NaPO₃",
+       "en": "NaPO3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের মতে সেকেন্ডারি সোডিয়াম ফসফেট, Na₂HPO₄·12H₂O।",
+     "explanation_en": "Per the book, secondary sodium phosphate Na2HPO4.12H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H₃PO₄-এর মোট উৎপাদনের কত অংশ সার (DAP) প্রস্তুতিতে ব্যবহৃত হয়?",
+     "question_en": "What share of H3PO4 output goes into DAP fertilizer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রায় ৯০%",
+       "en": "About 90%"
+      },
+      {
+       "id": "b",
+       "bn": "প্রায় ১০%",
+       "en": "About 10%"
+      },
+      {
+       "id": "c",
+       "bn": "প্রায় ৫০%",
+       "en": "About 50%"
+      },
+      {
+       "id": "d",
+       "bn": "প্রায় ২৫%",
+       "en": "About 25%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে প্রায় ৯০% বলা আছে।",
+     "explanation_en": "The book says about 90%.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.36",
+   "title_bn": "সার হিসেবে ফসফরাস যৌগ",
+   "title_en": "Phosphorus compounds as fertilizers",
+   "notes_bn": "দ্রবণীয় ফসফেট লবণ, বিশেষত প্রাইমারি Ca ফসফেট Ca(H₂PO₄)₂, সার হিসেবে ব্যবহৃত।\nক্যালসিয়াম সুপার ফসফেট: Ca(H₂PO₄)₂·H₂O ও জিপসাম মিশ্রণ; ফসফেট খনিজে H₂SO₄ দিয়ে তৈরি; ১৬–২০% P₂O₅।\nটিএসপি: Ca(H₂PO₄)₂; ফসফেট খনিজে H₃PO₄ দিয়ে: Ca₃(PO₄)₂ + 4H₃PO₄ → 3Ca(H₂PO₄)₂; জিপসাম নেই; ৪২–৪৬% P₂O₅।\nফসফেটিক স্ল্যাগ: Ca₃(PO₄)₂ + CaSiO₃; ১৪–২২% P₂O₅, ~৪০% চুন।\nক্যালসিয়াম সুপার ফসফেট নাইট্রেট: Ca(H₂PO₄)₂ + 2Ca(NO₃)₂। DAP: (NH₄)₂HPO₄; ২০–৩০% P, ১৬–১৮% N।",
+   "notes_en": "Soluble phosphates, mainly primary calcium phosphate Ca(H2PO4)2, are fertilizers.\nCalcium superphosphate: Ca(H2PO4)2.H2O + gypsum, from rock phosphate + H2SO4; 16-20% P2O5.\nTSP: Ca(H2PO4)2 made with H3PO4: Ca3(PO4)2 + 4H3PO4 -> 3Ca(H2PO4)2; no gypsum; 42-46% P2O5.\nPhosphatic slag: Ca3(PO4)2 + CaSiO3; 14-22% P2O5, ~40% lime.\nCalcium superphosphate nitrate: Ca(H2PO4)2 + 2Ca(NO3)2.\nDAP: (NH4)2HPO4; 20-30% P and 16-18% N.",
+   "mcqs": [
+    {
+     "question_bn": "টিএসপি-এর পূর্ণরূপ কী?",
+     "question_en": "TSP stands for:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ট্রিপল সুপার ফসফেট",
+       "en": "Triple super phosphate"
+      },
+      {
+       "id": "b",
+       "bn": "টেট্রা সোডিয়াম ফসফেট",
+       "en": "Tetra sodium phosphate"
+      },
+      {
+       "id": "c",
+       "bn": "ট্রাইসোডিয়াম ফসফেট",
+       "en": "Trisodium phosphate"
+      },
+      {
+       "id": "d",
+       "bn": "টোটাল সুপার ফসফেট",
+       "en": "Total super phosphate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "TSP = Triple Super Phosphate।",
+     "explanation_en": "TSP = triple super phosphate.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "TSP-তে P₂O₅-এর পরিমাণ প্রায় কত?",
+     "question_en": "Approx. P2O5 content of TSP?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৪২–৪৬%",
+       "en": "42-46%"
+      },
+      {
+       "id": "b",
+       "bn": "১৬–২০%",
+       "en": "16-20%"
+      },
+      {
+       "id": "c",
+       "bn": "১৪–২২%",
+       "en": "14-22%"
+      },
+      {
+       "id": "d",
+       "bn": "৮০%",
+       "en": "80%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী ৪২–৪৬%।",
+     "explanation_en": "Per the book 42-46%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "DAP-এর সংকেত কোনটি?",
+     "question_en": "The formula of DAP is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(NH₄)₂HPO₄",
+       "en": "(NH4)2HPO4"
+      },
+      {
+       "id": "b",
+       "bn": "NH₄H₂PO₄",
+       "en": "NH4H2PO4"
+      },
+      {
+       "id": "c",
+       "bn": "(NH₄)₃PO₄",
+       "en": "(NH4)3PO4"
+      },
+      {
+       "id": "d",
+       "bn": "Ca(H₂PO₄)₂",
+       "en": "Ca(H2PO4)2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "6H₃PO₄ + 12NH₃ → 6(NH₄)₂HPO₄।",
+     "explanation_en": "6H3PO4 + 12NH3 -> 6(NH4)2HPO4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাধারণ সুপার ফসফেটের তুলনায় TSP-র একটি সুবিধা কী?",
+     "question_en": "An advantage of TSP over ordinary superphosphate is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জিপসাম নেই ও মনোক্যালসিয়াম ফসফেট তিনগুণ",
+       "en": "No gypsum and about three times the monocalcium phosphate"
+      },
+      {
+       "id": "b",
+       "bn": "বেশি জিপসাম",
+       "en": "More gypsum"
+      },
+      {
+       "id": "c",
+       "bn": "কম P₂O₅",
+       "en": "Less P2O5"
+      },
+      {
+       "id": "d",
+       "bn": "মাটিতে অদ্রবণীয়",
+       "en": "Insoluble in soil"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে তিনগুণ মনোক্যালসিয়াম ফসফেট ও জিপসামমুক্ত বলা আছে।",
+     "explanation_en": "Book: triple monocalcium phosphate, free of gypsum.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.37",
+   "title_bn": "কৃষি বিজ্ঞানে নাইট্রোজেন ও ফসফরাস যৌগের গুরুত্ব",
+   "title_en": "Importance of N and P compounds in agriculture",
+   "notes_bn": "নাইট্রোজেন সার উদ্ভিদের বৃদ্ধির জন্য, ফসফরাস সার ফসলের মূল বৃদ্ধির জন্য এবং পটাশ (KCl) ফুল ফল ধারণে ভূমিকা রাখে।\nনাইট্রোজেন ও ফসফরাস যৌগ রাসায়নিক সার হিসেবে বহুল ব্যবহৃত।\nনাইট্রোজেন সারের মধ্যে ইউরিয়া সর্বোত্তম; 170–200°C ও 100–300 atm-এ NH₃ ও CO₂ থেকে তৈরি।\n2NH₃ + CO₂ ⇌ H₂N·COO·NH₄ ⇌ H₂N·CO·NH₂ + H₂O।\nঅন্যান্য: Ca(NO₃)₂, বেসিক ক্যালসিয়াম নাইট্রেট, CAN, NaNO₃।\nফসফরাস সার: SP (~20% P₂O₅) ও TSP (~46% P₂O₅); SP: 2Ca₃(PO₄)₂ + 6H₂SO₄ → 6CaSO₄ + 4H₃PO₄; TSP: Ca₃(PO₄)₂ + 4H₃PO₄ → 3Ca(H₂PO₄)₂।",
+   "notes_en": "N fertilizer promotes plant growth; P fertilizer promotes crop root growth; potash (KCl) helps flowering and fruiting.\nUrea is the best nitrogen fertilizer; made from NH3 and CO2 at 170-200 C and 100-300 atm via ammonium carbamate.\n2NH3 + CO2 <-> H2N.COO.NH4 <-> H2N.CO.NH2 + H2O.\nOther N fertilizers: Ca(NO3)2, basic calcium nitrate, CAN, NaNO3.\nP fertilizers: SP (~20% P2O5) and TSP (~46% P2O5); SP: 2Ca3(PO4)2 + 6H2SO4 -> 6CaSO4 + 4H3PO4; TSP: Ca3(PO4)2 + 4H3PO4 -> 3Ca(H2PO4)2.",
+   "mcqs": [
+    {
+     "question_bn": "ইউরিয়া সার তৈরিতে কোন দুটি বিক্রিয়ক ব্যবহৃত হয়?",
+     "question_en": "Urea is made from:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₃ ও CO₂",
+       "en": "NH3 and CO2"
+      },
+      {
+       "id": "b",
+       "bn": "N₂ ও H₂",
+       "en": "N2 and H2"
+      },
+      {
+       "id": "c",
+       "bn": "NH₃ ও HNO₃",
+       "en": "NH3 and HNO3"
+      },
+      {
+       "id": "d",
+       "bn": "CO ও H₂",
+       "en": "CO and H2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যামোনিয়া ও কার্বন ডাইঅক্সাইড থেকে।",
+     "explanation_en": "From ammonia and CO2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইউরিয়া প্রস্তুতির শর্ত কোনটি?",
+     "question_en": "Conditions for urea manufacture:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "170–200°C ও 100–300 atm",
+       "en": "170-200 C, 100-300 atm"
+      },
+      {
+       "id": "b",
+       "bn": "25°C ও 1 atm",
+       "en": "25 C, 1 atm"
+      },
+      {
+       "id": "c",
+       "bn": "450°C ও 200 atm",
+       "en": "450 C, 200 atm"
+      },
+      {
+       "id": "d",
+       "bn": "100°C ও 1 atm",
+       "en": "100 C, 1 atm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের মতে 170–200°C, 100–300 atm।",
+     "explanation_en": "As given in the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইউরিয়া তৈরির মধ্যবর্তী যৌগ কোনটি?",
+     "question_en": "The intermediate in urea formation is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামোনিয়াম কার্বামেট",
+       "en": "Ammonium carbamate"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যামোনিয়াম কার্বনেট",
+       "en": "Ammonium carbonate"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যামোনিয়াম নাইট্রেট",
+       "en": "Ammonium nitrate"
+      },
+      {
+       "id": "d",
+       "bn": "ক্যালসিয়াম সায়ানামাইড",
+       "en": "Calcium cyanamide"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রথমে কার্বামেট, পরে এক অণু পানি বিমুক্ত হয়ে ইউরিয়া।",
+     "explanation_en": "Carbamate forms first, then loses water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বর্তমানে কৃষিতে TSP বেশি ব্যবহৃত হওয়ার কারণ:",
+     "question_en": "Why is TSP used more now than SP?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TSP-তে P₂O₅ বেশি (~46% বনাম ~20%)",
+       "en": "TSP has more P2O5 (~46% vs ~20%)"
+      },
+      {
+       "id": "b",
+       "bn": "TSP-তে নাইট্রোজেন থাকে",
+       "en": "It contains N"
+      },
+      {
+       "id": "c",
+       "bn": "এটি সস্তা জিপসাম",
+       "en": "It is cheap gypsum"
+      },
+      {
+       "id": "d",
+       "bn": "এটি পানিতে অদ্রবণীয়",
+       "en": "It is insoluble"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে SP 20% ও TSP 46% P₂O₅ বলা আছে।",
+     "explanation_en": "Book: SP 20%, TSP 46% P2O5.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.38",
+   "title_bn": "গ্রুপ-VIA মৌল : অক্সিজেন ও সালফার",
+   "title_en": "Group VIA elements: oxygen and sulfur",
+   "notes_bn": "গ্রুপ-VIA-এ পাঁচটি মৌল: অক্সিজেন (O), সালফার (S), সেলেনিয়াম (Se), টেলুরিয়াম (Te), পোলোনিয়াম (Po)।\nPo তেজস্ক্রিয় ও অস্থায়ী; মাদাম কুরি আবিষ্কার করেন, তাঁর মাতৃভূমি পোল্যান্ডের নামে নাম।\nঅধিকাংশ ধাতু অক্সাইড বা সালফাইড রূপে থাকে, তাই এদের চ্যালকোজেন (আকরিক উৎপন্নকারী) বলা হয়।\nইলেকট্রন বিন্যাস: O = 1s² 2s² 2p⁴; S = [Ne] 3s² 3p⁴; Se 4s²4p⁴; Te 5s²5p⁴; Po 6s²6p⁴।\nসর্বশেষ কক্ষপথে ৬টি ইলেকট্রন (ns²np⁴)।",
+   "notes_en": "Group VIA has five elements: O, S, Se, Te, Po.\nPo is radioactive and unstable; discovered by Madame Curie and named after her homeland Poland.\nMost metals occur as oxides/sulfides, so the group is called chalcogens (ore-formers).\nConfigurations: O 1s2 2s2 2p4; S [Ne]3s2 3p4; Se 4s2 4p4; Te 5s2 5p4; Po 6s2 6p4.\nAll have six valence electrons (ns2 np4).",
+   "mcqs": [
+    {
+     "question_bn": "গ্রুপ-VIA-এর মৌলসমূহের যোজ্যতা স্তরের ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Valence configuration of group VIA:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ns²np⁴",
+       "en": "ns2np4"
+      },
+      {
+       "id": "b",
+       "bn": "ns²np³",
+       "en": "ns2np3"
+      },
+      {
+       "id": "c",
+       "bn": "ns²np⁵",
+       "en": "ns2np5"
+      },
+      {
+       "id": "d",
+       "bn": "ns²np⁶",
+       "en": "ns2np6"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সর্বশেষ কক্ষপথে ৬টি ইলেকট্রন।",
+     "explanation_en": "Six valence electrons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন মৌলটি তেজস্ক্রিয়?",
+     "question_en": "Which is radioactive?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Po",
+       "en": "Po"
+      },
+      {
+       "id": "b",
+       "bn": "S",
+       "en": "S"
+      },
+      {
+       "id": "c",
+       "bn": "Se",
+       "en": "Se"
+      },
+      {
+       "id": "d",
+       "bn": "O",
+       "en": "O"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পোলোনিয়াম তেজস্ক্রিয় ও অস্থায়ী।",
+     "explanation_en": "Polonium is radioactive.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গ্রুপ-VIA মৌলকে চ্যালকোজেন বলা হয় কেন?",
+     "question_en": "Why are group VIA elements called chalcogens?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অধিকাংশ ধাতু এদের অক্সাইড বা সালফাইড আকরিকরূপে থাকে",
+       "en": "Most metal ores are oxides or sulfides of them"
+      },
+      {
+       "id": "b",
+       "bn": "এরা সবাই গ্যাস",
+       "en": "All are gases"
+      },
+      {
+       "id": "c",
+       "bn": "এরা তেজস্ক্রিয়",
+       "en": "All are radioactive"
+      },
+      {
+       "id": "d",
+       "bn": "এরা নিষ্ক্রিয়",
+       "en": "They are inert"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "চ্যালকোজেন = আকরিক উৎপন্নকারী।",
+     "explanation_en": "Chalcogen = ore-forming.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সালফারের (Z=16) সর্বশেষ কক্ষপথের ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Outer configuration of S (Z=16):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3s²3p⁴",
+       "en": "3s2 3p4"
+      },
+      {
+       "id": "b",
+       "bn": "3s²3p⁶",
+       "en": "3s2 3p6"
+      },
+      {
+       "id": "c",
+       "bn": "3s¹3p⁵",
+       "en": "3s1 3p5"
+      },
+      {
+       "id": "d",
+       "bn": "2s²2p⁴",
+       "en": "2s2 2p4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "S = 1s²2s²2p⁶3s²3p⁴।",
+     "explanation_en": "S = 1s2 2s2 2p6 3s2 3p4.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "1.39",
+   "title_bn": "গ্রুপ-VIA মৌলসমূহের পর্যায়ভিত্তিক ধর্ম",
+   "title_en": "Periodic properties of group VIA",
+   "notes_bn": "ভৌত অবস্থা: O গ্যাস; S, Se, Te, Po কঠিন; নিচে গেলে আন্তঃআণবিক শক্তি বাড়ে।\nগলনাঙ্ক/স্ফুটনাঙ্ক: O −219/−183°C; S 113/444°C; সাধারণত পারমাণবিক সংখ্যার সাথে বৃদ্ধি পায়।\nপারমাণবিক ব্যাসার্ধ (nm): O 0.074, S 0.104, Se 0.114, Te 0.137, Po 0.152 — নিচে বাড়ে।\nআয়নীকরণ শক্তি (kJ mol⁻¹): O 1323, S 1007, Se 948, Te 876, Po 820 — নিচে কমে।\nতড়িৎ ঋণাত্মকতা: O 3.5, S 2.44, Se 2.40, Te 2.1, Po 2.0 — নিচে কমে।",
+   "notes_en": "Physical state: O is a gas; S, Se, Te, Po are solids as intermolecular forces grow down the group.\nMelting/boiling points: O -219/-183 C; S 113/444 C; generally increase with atomic number.\nAtomic radius (nm): O 0.074, S 0.104, Se 0.114, Te 0.137, Po 0.152 (increases).\nIonization energy (kJ/mol): O 1323, S 1007, Se 948, Te 876, Po 820 (decreases).\nElectronegativity: O 3.5, S 2.44, Se 2.40, Te 2.1, Po 2.0 (decreases).",
+   "mcqs": [
+    {
+     "question_bn": "গ্রুপ-VIA-এ নিচের দিকে আয়নীকরণ শক্তি কীভাবে পরিবর্তিত হয়?",
+     "question_en": "Down group VIA, ionization energy:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হ্রাস পায়",
+       "en": "Decreases"
+      },
+      {
+       "id": "b",
+       "bn": "বৃদ্ধি পায়",
+       "en": "Increases"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত",
+       "en": "Unchanged"
+      },
+      {
+       "id": "d",
+       "bn": "এলোমেলো",
+       "en": "Irregular"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "O 1323 থেকে Po 820 kJ/mol।",
+     "explanation_en": "From 1323 (O) to 820 (Po) kJ/mol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন মৌলের তড়িৎ ঋণাত্মকতা সবচেয়ে বেশি?",
+     "question_en": "Highest electronegativity in group VIA:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O",
+       "en": "O"
+      },
+      {
+       "id": "b",
+       "bn": "S",
+       "en": "S"
+      },
+      {
+       "id": "c",
+       "bn": "Se",
+       "en": "Se"
+      },
+      {
+       "id": "d",
+       "bn": "Te",
+       "en": "Te"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "O = 3.5।",
+     "explanation_en": "O = 3.5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "S-এর পারমাণবিক ব্যাসার্ধ কত?",
+     "question_en": "Atomic radius of S?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.104 nm",
+       "en": "0.104 nm"
+      },
+      {
+       "id": "b",
+       "bn": "0.074 nm",
+       "en": "0.074 nm"
+      },
+      {
+       "id": "c",
+       "bn": "0.114 nm",
+       "en": "0.114 nm"
+      },
+      {
+       "id": "d",
+       "bn": "0.137 nm",
+       "en": "0.137 nm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সারণি অনুযায়ী 0.104 nm।",
+     "explanation_en": "Table value 0.104 nm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "S-এর তুলনায় O-এর আয়নীকরণ শক্তি বেশি এবং তার কারণ:",
+     "question_en": "O has higher IE than S because:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O-এর ব্যাসার্ধ ছোট, ফলে বহিঃস্থ ইলেকট্রন নিউক্লিয়াসের কাছে",
+       "en": "O is smaller, so outer electrons are closer to the nucleus"
+      },
+      {
+       "id": "b",
+       "bn": "O-এর ব্যাসার্ধ বড়",
+       "en": "O is larger"
+      },
+      {
+       "id": "c",
+       "bn": "O কঠিন",
+       "en": "O is a solid"
+      },
+      {
+       "id": "d",
+       "bn": "O-এর নিউক্লিয়াস নেই",
+       "en": "No reason"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ছোট আকারে ইলেকট্রন দৃঢ়ভাবে আবদ্ধ: 1323 বনাম 1007 kJ/mol।",
+     "explanation_en": "Smaller size holds electrons tighter: 1323 vs 1007.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "1.28",
+   "stimulus_bn": "একটি পরীক্ষাগারে অজানা লবণের দ্রবণে সদ্য প্রস্তুত FeSO₄ মিশিয়ে টেস্টটিউবের গা বেয়ে গাঢ় H₂SO₄ ঢালা হলো। দুই স্তরের সংযোগস্থলে বাদামি বলয় দেখা গেল। আরেকটি টেস্টটিউবে একই লবণ, কপার কুচি ও গাঢ় H₂SO₄ উত্তপ্ত করা হলো।",
+   "stimulus_en": "Fresh FeSO4 was added to an unknown salt solution and conc. H2SO4 was run down the tube wall; a brown ring formed at the junction. In another tube the same salt, copper turnings and conc. H2SO4 were heated.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "বলয়ের যৌগের নাম কী?",
+     "question_en": "Name the ring compound.",
+     "model_answer_bn": "পেন্টা অ্যাকুয়া নাইট্রোসো-আয়রন (II) সালফেট।",
+     "model_answer_en": "Pentaaquanitrosoiron(II) sulfate."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "FeSO₄ সদ্য প্রস্তুত করতে হয় কেন?",
+     "question_en": "Why must FeSO₄ be freshly prepared?",
+     "model_answer_bn": "রেখে দিলে বাতাসের O₂ ও পানির সাথে Fe²⁺ জারিত হয়ে ফেরিক সালফেট হয়, ফলে বলয় গঠন হবে না।",
+     "model_answer_en": "On standing, air oxidises Fe2+ to ferric sulfate, so no ring would form."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "দ্বিতীয় টেস্টটিউবে কী পর্যবেক্ষণ হবে? সমীকরণসহ লেখো।",
+     "question_en": "What is observed in the second tube? Give the equation.",
+     "model_answer_bn": "বাদামি NO₂ গ্যাস নির্গত হয়। NaNO₃ + H₂SO₄ + Cu → NaHSO₄ + Cu(NO₃)₂ + NO₂ + H₂O (বইয়ের বিক্রিয়া)।",
+     "model_answer_en": "Brown NO2 gas evolves: NaNO3 + H2SO4 + Cu -> NaHSO4 + Cu(NO3)2 + NO2 + H2O (as in the book)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "বলয় গঠনের ধাপগুলো ব্যাখ্যা করো।",
+     "question_en": "Explain the steps leading to ring formation.",
+     "model_answer_bn": "গাঢ় H₂SO₄ নাইট্রেট থেকে HNO₃ মুক্ত করে। লঘু HNO₃ Fe²⁺-কে Fe³⁺ করে এবং নিজে NO-তে বিজারিত হয় (2HNO₃ + 3H₂SO₄ + 6FeSO₄ → 3Fe₂(SO₄)₃ + 4H₂O + 2NO)। NO অবশিষ্ট FeSO₄-এর সাথে যুক্ত হয়ে বাদামি [Fe(NO)(H₂O)₅]SO₄ বলয় গঠন করে।",
+     "model_answer_en": "Conc. H2SO4 liberates HNO3 from the nitrate. Dilute HNO3 oxidises Fe2+ to Fe3+ and is reduced to NO (2HNO3 + 3H2SO4 + 6FeSO4 -> 3Fe2(SO4)3 + 4H2O + 2NO). NO then binds remaining FeSO4 to give the brown [Fe(NO)(H2O)5]SO4 ring."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.35",
+   "stimulus_bn": "একটি কারখানায় অস্থিভস্মে অর্ধ গাঢ় H₂SO₄ মিশিয়ে ফুটানো হয়, ছেঁকে CaSO₄ আলাদা করে দ্রবণ ঘন করে ৮৫% সিরাপ পাওয়া যায়। এই এসিড দিয়ে ডাইঅ্যামোনিয়াম ফসফেট সার তৈরি হয়।",
+   "stimulus_en": "A factory boils bone ash with half-concentrated H2SO4, filters off CaSO4 and concentrates the filtrate to an 85% syrup. The acid is used to make diammonium phosphate fertilizer.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "এসিডটির নাম ও সংকেত লেখো।",
+     "question_en": "Name the acid and give its formula.",
+     "model_answer_bn": "অর্থো ফসফরিক (V) এসিড, H₃PO₄।",
+     "model_answer_en": "Orthophosphoric(V) acid, H3PO4."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "শিল্প প্রস্তুতির সমীকরণ লেখো।",
+     "question_en": "Write the industrial preparation equation.",
+     "model_answer_bn": "Ca₃(PO₄)₂ + 3H₂SO₄ → 2H₃PO₄ + 3CaSO₄।",
+     "model_answer_en": "Ca3(PO4)2 + 3H2SO4 -> 2H3PO4 + 3CaSO4."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "এসিডটির লবণ কত শ্রেণির হতে পারে? NaOH-এর সাথে বিক্রিয়ায় দেখাও।",
+     "question_en": "How many classes of salts can it form? Show with NaOH.",
+     "model_answer_bn": "তিন শ্রেণি: H₃PO₄ + NaOH → NaH₂PO₄ + H₂O; + 2NaOH → Na₂HPO₄ + 2H₂O; + 3NaOH → Na₃PO₄ + 3H₂O; কারণ এটি ত্রিক্ষারীয়।",
+     "model_answer_en": "Three: with 1, 2, 3 NaOH it gives NaH2PO4, Na2HPO4 and Na3PO4, because it is tribasic."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "DAP প্রস্তুতির সমীকরণসহ এর গুরুত্ব বিশ্লেষণ করো।",
+     "question_en": "Give the DAP preparation equation and discuss its significance.",
+     "model_answer_bn": "6H₃PO₄ + 12NH₃ → 6(NH₄)₂HPO₄। DAP-তে ২০–৩০% P ও ১৬–১৮% N থাকে, একই সাথে দুটি পুষ্টি উপাদান দেয় এবং অম্লীয়, ক্ষারীয় ও প্রশম মাটিতে কার্যকর। প্রায় ৯০% H₃PO₄ এই সার তৈরিতে যায়।",
+     "model_answer_en": "6H3PO4 + 12NH3 -> 6(NH4)2HPO4. DAP carries 20-30% P and 16-18% N, supplies two nutrients at once and works in acidic, alkaline and neutral soils. About 90% of H3PO4 goes into such fertilizer."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.36",
+   "stimulus_bn": "কৃষক রহিম ধানের জমিতে ইউরিয়া ও টিএসপি সার ব্যবহার করেন। তিনি জানেন টিএসপি ও সাধারণ সুপার ফসফেট দুটোই ফসফেট খনিজ থেকে তৈরি।",
+   "stimulus_en": "Farmer Rahim applies urea and TSP to his paddy field. TSP and ordinary superphosphate are both made from phosphate minerals.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "টিএসপি-এর পূর্ণরূপ কী?",
+     "question_en": "What is the full form of TSP?",
+     "model_answer_bn": "ট্রিপল সুপার ফসফেট।",
+     "model_answer_en": "Triple super phosphate."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "টিএসপি-কে ‘ট্রিপল’ বলা হয় কেন?",
+     "question_en": "Why is TSP called 'triple'?",
+     "model_answer_bn": "সাধারণ সুপার ফসফেটের তুলনায় এতে তিনগুণ মনোক্যালসিয়াম ফসফেট থাকে।",
+     "model_answer_en": "It contains about three times as much monocalcium phosphate as ordinary superphosphate."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "টিএসপি প্রস্তুতির সমীকরণ লেখো এবং এর P₂O₅ শতাংশ উল্লেখ করো।",
+     "question_en": "Write the TSP preparation equation and give its P2O5 content.",
+     "model_answer_bn": "Ca₃(PO₄)₂ + 4H₃PO₄ → 3Ca(H₂PO₄)₂; P₂O₅ প্রায় ৪২–৪৬%।",
+     "model_answer_en": "Ca3(PO4)2 + 4H3PO4 -> 3Ca(H2PO4)2; P2O5 about 42-46%."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ইউরিয়া ও টিএসপি-র ভূমিকা তুলনা করো এবং কেন বর্তমানে টিএসপি বেশি ব্যবহৃত তা ব্যাখ্যা করো।",
+     "question_en": "Compare the roles of urea and TSP and explain why TSP is now preferred over ordinary SP.",
+     "model_answer_bn": "ইউরিয়া নাইট্রোজেন জোগায় যা উদ্ভিদের বৃদ্ধির জন্য অপরিহার্য; টিএসপি ফসফরাস জোগায় যা ফসলের মূল বৃদ্ধির জন্য প্রয়োজন। সাধারণ সুপার ফসফেটে প্রায় ২০% P₂O₅ থাকে, আর টিএসপি-তে প্রায় ৪৬%, এবং এতে জিপসাম থাকে না; তাই অল্প সারে বেশি ফসফরাস মেলে।",
+     "model_answer_en": "Urea supplies nitrogen, essential for plant growth; TSP supplies phosphorus for root growth. SP has about 20% P2O5 against about 46% in TSP, which also has no gypsum, so more phosphorus is delivered per unit of fertilizer."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 43-53 readable. Printed p.28 (pdf 43) contains aqua regia/Devarda material of 1.25-1.26, skipped (outside assigned sections). Book states P2O3 b.p. 170 C in text."
+}

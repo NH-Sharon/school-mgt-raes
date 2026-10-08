@@ -1,0 +1,2421 @@
+{
+ "chapter_no": 6,
+ "topics": [
+  {
+   "section_no": "6.2",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের শ্রেণীবিভাগ",
+   "title_en": "Classification of halogeno alkanes",
+   "notes_bn": "হ্যালোজেনো অ্যালকেন তিন প্রকার: প্রাইমারি (1°), সেকেন্ডারি (2°) ও টারসিয়ারি (3°)।\n1°-এ একযোজী –CH₂X, 2°-এ দ্বিযোজী >CHX এবং 3°-এ ত্রিযোজী ≡C–X মূলক থাকে।\nউদাহরণ: CH₃Cl ও CH₃CH₂Br (1°); আইসোপ্রোপাইল ক্লোরাইড (2°); টার্শিয়ারি বিউটাইল ক্লোরাইড (3°)।\nদুটি হ্যালোজেনযুক্ত অ্যালকেন = ডাইহ্যালোজেনো অ্যালকেন, সাধারণ সংকেত CnH2nX2।\nজেম (gem) ডাইহ্যালাইড: দুটি হ্যালোজেন একই কার্বনে (অ্যালকিলিডিন হ্যালাইড), যেমন CH₃CHBr₂ (1,1-ডাইব্রোমো ইথেন)।\nভিসিন্যাল (vic) ডাইহ্যালাইড: পাশাপাশি দুই কার্বনে (অ্যালকিলিন হ্যালাইড), যেমন ClCH₂CH₂Cl (1,2-ডাইক্লোরো ইথেন)।",
+   "notes_en": "Haloalkanes are primary (1°, –CH2X), secondary (2°, >CHX) or tertiary (3°, ≡C–X).\nExamples: CH3Cl, CH3CH2Br (1°); isopropyl chloride (2°); t-butyl chloride (3°).\nDihaloalkanes have general formula CnH2nX2.\nGem dihalide: both halogens on the same carbon (alkylidene halide), e.g. CH3CHBr2.\nVic dihalide: halogens on adjacent carbons (alkylene halide), e.g. ClCH2CH2Cl (1,2-dichloroethane).",
+   "mcqs": [
+    {
+     "question_bn": "আইসোপ্রোপাইল ক্লোরাইড কোন শ্রেণির হ্যালোজেনো অ্যালকেন?",
+     "question_en": "Isopropyl chloride belongs to which class of haloalkane?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রাইমারি",
+       "en": "Primary"
+      },
+      {
+       "id": "b",
+       "bn": "সেকেন্ডারি",
+       "en": "Secondary"
+      },
+      {
+       "id": "c",
+       "bn": "টারসিয়ারি",
+       "en": "Tertiary"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None of these"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH₃–CHCl–CH₃ এ হ্যালোজেনযুক্ত কার্বনে দুটি অ্যালকিল মূলক থাকায় এটি 2°।",
+     "explanation_en": "The carbon bearing Cl carries two alkyl groups, so it is secondary.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সেকেন্ডারি হ্যালোজেনো অ্যালকেনে কোন মূলক থাকে?",
+     "question_en": "Which group is present in a secondary haloalkane?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–CH₂X",
+       "en": "–CH₂X"
+      },
+      {
+       "id": "b",
+       "bn": "≡C–X",
+       "en": "≡C–X"
+      },
+      {
+       "id": "c",
+       "bn": "দ্বিযোজী >CHX",
+       "en": "দ্বিযোজী >CHX"
+      },
+      {
+       "id": "d",
+       "bn": "–CX₃",
+       "en": "–CX₃"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2° হ্যালাইডে দ্বিযোজী >CHX মূলক থাকে।",
+     "explanation_en": "A 2° halide has the divalent >CHX group.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি জেম (gem) ডাইহ্যালাইড?",
+     "question_en": "Which of the following is a gem dihalide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ClCH₂–CH₂Cl",
+       "en": "ClCH₂–CH₂Cl"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃CHBr₂",
+       "en": "CH₃CHBr₂"
+      },
+      {
+       "id": "c",
+       "bn": "BrCH₂–CHBr–CH₃",
+       "en": "BrCH₂–CHBr–CH₃"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃–CHCl–CH₂Cl",
+       "en": "CH₃–CHCl–CH₂Cl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "জেম ডাইহ্যালাইডে দুটি হ্যালোজেন একই কার্বনে থাকে; CH₃CHBr₂ এ দুটি Br একই কার্বনে।",
+     "explanation_en": "In a gem dihalide both halogens sit on one carbon; CH3CHBr2 fits.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ভিসিন্যাল ডাইহ্যালাইড সাধারণত কোন যৌগ থেকে উৎপন্ন হয় এবং তার নাম কীরূপ হয়?",
+     "question_en": "From which compound type is a vicinal dihalide derived and how is it named?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকিন; অ্যালকিলিন হ্যালাইড",
+       "en": "অ্যালকিন; অ্যালকিলিন হ্যালাইড"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালকিন; অ্যালকিলিডিন হ্যালাইড",
+       "en": "অ্যালকিন; অ্যালকিলিডিন হ্যালাইড"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যালকেন; অ্যালকিলিন হ্যালাইড",
+       "en": "অ্যালকেন; অ্যালকিলিন হ্যালাইড"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকোহল; অ্যালকিলিডিন হ্যালাইড",
+       "en": "অ্যালকোহল; অ্যালকিলিডিন হ্যালাইড"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ভিস ডাইহ্যালাইড অ্যালকিন থেকে উৎপন্ন হয় ও অ্যালকিনের নামানুসারে অ্যালকিলিন হ্যালাইড নামে পরিচিত (যেমন ইথিলিন ডাইক্লোরাইড)।",
+     "explanation_en": "Vic dihalides arise from alkenes and are named after the alkene as alkylene halides (e.g. ethylene dichloride).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.3",
+   "title_bn": "ইউপ্যাক পদ্ধতিতে নামকরণ",
+   "title_en": "IUPAC naming of haloalkanes",
+   "notes_bn": "দীর্ঘতম কার্বন শৃঙ্খলকে মূল অ্যালকেন ধরা হয়।\nহ্যালোজেনকে প্রতিস্থাপক ধরে ফ্লোরো (F), ক্লোরো (Cl), ব্রোমো (Br), আয়োডো (I) শব্দে অ্যালকেনের নামের আগে বসানো হয়।\nপ্রতিস্থাপকের অবস্থান নির্দেশক সংখ্যা যথাসম্ভব ক্ষুদ্রতম রাখা হয়।\nএকাধিক প্রতিস্থাপক ইংরেজি নামের বর্ণমালা ক্রমে সাজানো হয়।\nউদাহরণ: CH₃CHBrCH₃ = 2-ব্রোমো প্রোপেন; CH₃CHBrCH₂CH₂Cl = 3-ব্রোমো-1-ক্লোরো বিউটেন।\nজটিল উদাহরণ: 5-ব্রোমো-1-ক্লোরো-3-আয়োডো-2-মিথাইল পেন্টেন।",
+   "notes_en": "The longest carbon chain is the parent alkane.\nHalogens are prefixes: fluoro, chloro, bromo, iodo, placed before the alkane name.\nLocants are kept as low as possible.\nSubstituents are listed alphabetically by English name.\nExamples: CH3CHBrCH3 = 2-bromopropane; CH3CHBrCH2CH2Cl = 3-bromo-1-chlorobutane.\n5-Bromo-1-chloro-3-iodo-2-methylpentane shows alphabetical ordering.",
+   "mcqs": [
+    {
+     "question_bn": "CH₃CHBrCH₃ এর ইউপ্যাক নাম কী?",
+     "question_en": "What is the IUPAC name of CH3CHBrCH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1-ব্রোমো প্রোপেন",
+       "en": "1-ব্রোমো প্রোপেন"
+      },
+      {
+       "id": "b",
+       "bn": "2-ব্রোমো প্রোপেন",
+       "en": "2-ব্রোমো প্রোপেন"
+      },
+      {
+       "id": "c",
+       "bn": "2-ব্রোমো বিউটেন",
+       "en": "2-ব্রোমো বিউটেন"
+      },
+      {
+       "id": "d",
+       "bn": "ব্রোমো ইথেন",
+       "en": "ব্রোমো ইথেন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তিন কার্বনের শৃঙ্খলের মাঝের কার্বনে Br আছে।",
+     "explanation_en": "Br is on the middle carbon of a three-carbon chain.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইউপ্যাক নামকরণে একাধিক প্রতিস্থাপকের ক্রম কীভাবে নির্ধারিত হয়?",
+     "question_en": "How are multiple substituents ordered in IUPAC names?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইংরেজি নামের বর্ণানুক্রমে",
+       "en": "ইংরেজি নামের বর্ণানুক্রমে"
+      },
+      {
+       "id": "b",
+       "bn": "পারমাণবিক সংখ্যার ঊর্ধ্বক্রমে",
+       "en": "পারমাণবিক সংখ্যার ঊর্ধ্বক্রমে"
+      },
+      {
+       "id": "c",
+       "bn": "আকারের বৃহত্তম থেকে ক্ষুদ্রতম",
+       "en": "আকারের বৃহত্তম থেকে ক্ষুদ্রতম"
+      },
+      {
+       "id": "d",
+       "bn": "যে কোনো ক্রমে",
+       "en": "যে কোনো ক্রমে"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হ্যালোজেনসমূহ ইংরেজি নামের বর্ণমালা ক্রমে সাজানো হয়।",
+     "explanation_en": "Prefixes are arranged alphabetically by their English names.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH₃–CHBr–CH₂–CH₂–Cl এর সঠিক ইউপ্যাক নাম কোনটি?",
+     "question_en": "Correct IUPAC name of CH3–CHBr–CH2–CH2–Cl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2-ব্রোমো-4-ক্লোরো বিউটেন",
+       "en": "2-ব্রোমো-4-ক্লোরো বিউটেন"
+      },
+      {
+       "id": "b",
+       "bn": "3-ব্রোমো-1-ক্লোরো বিউটেন",
+       "en": "3-ব্রোমো-1-ক্লোরো বিউটেন"
+      },
+      {
+       "id": "c",
+       "bn": "1-ক্লোরো-3-ব্রোমো বিউটেন",
+       "en": "1-ক্লোরো-3-ব্রোমো বিউটেন"
+      },
+      {
+       "id": "d",
+       "bn": "4-ক্লোরো-2-ব্রোমো বিউটেন",
+       "en": "4-ক্লোরো-2-ব্রোমো বিউটেন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cl দিক থেকে গণনা করলে অবস্থান 1,3 (ক্ষুদ্রতম); নামে ব্রোমো আগে (b < c)। বইয়ের উদাহরণে এটি 3-ব্রোমো-1-ক্লোরো বিউটেন।",
+     "explanation_en": "Locants 1,3 are lowest numbering from the Cl end; bromo precedes chloro alphabetically.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Cl–CH₂–CH(CH₃)–CHI–CH₂–CH₂–Br যৌগে (মূল শৃঙ্খল পেন্টেন) নামে প্রতিস্থাপকের ক্রম কী হবে?",
+     "question_en": "In 5-bromo-1-chloro-3-iodo-2-methylpentane, what is the order of prefixes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ব্রোমো, ক্লোরো, আয়োডো, মিথাইল",
+       "en": "ব্রোমো, ক্লোরো, আয়োডো, মিথাইল"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরো, ব্রোমো, আয়োডো, মিথাইল",
+       "en": "ক্লোরো, ব্রোমো, আয়োডো, মিথাইল"
+      },
+      {
+       "id": "c",
+       "bn": "মিথাইল, ব্রোমো, ক্লোরো, আয়োডো",
+       "en": "মিথাইল, ব্রোমো, ক্লোরো, আয়োডো"
+      },
+      {
+       "id": "d",
+       "bn": "আয়োডো, ক্লোরো, ব্রোমো, মিথাইল",
+       "en": "আয়োডো, ক্লোরো, ব্রোমো, মিথাইল"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বর্ণানুক্রমে b, c, i, m: ব্রোমো-ক্লোরো-আয়োডো-মিথাইল।",
+     "explanation_en": "Alphabetical: bromo, chloro, iodo, methyl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বইয়ের নিয়মে নামকরণে মূল শৃঙ্খল নির্বাচনের ভিত্তি কী?",
+     "question_en": "What is the basis for choosing the parent chain?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দীর্ঘতম কার্বন শৃঙ্খল",
+       "en": "দীর্ঘতম কার্বন শৃঙ্খল"
+      },
+      {
+       "id": "b",
+       "bn": "সবচেয়ে ছোট শৃঙ্খল",
+       "en": "সবচেয়ে ছোট শৃঙ্খল"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু শাখাহীন শৃঙ্খল",
+       "en": "শুধু শাখাহীন শৃঙ্খল"
+      },
+      {
+       "id": "d",
+       "bn": "হ্যালোজেনবিহীন শৃঙ্খল",
+       "en": "হ্যালোজেনবিহীন শৃঙ্খল"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দীর্ঘতম কার্বন শৃঙ্খলকে মূল অ্যালকেন ধরা হয়।",
+     "explanation_en": "The longest carbon chain is the parent alkane.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.4",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের সমাণুতা",
+   "title_en": "Isomerism of haloalkanes",
+   "notes_bn": "হ্যালোজেনো অ্যালকেন অবস্থান সমাণুতা ও চেইন সমাণুতা দেখায়।\nঅবস্থান সমাণুতা: একই কার্বন শিকলে হ্যালোজেনের অবস্থান ভিন্ন, যেমন 1-ক্লোরো বিউটেন ও 2-ক্লোরো বিউটেন।\nচেইন সমাণুতা: কার্বন শিকলে শাখা থাকলে, প্রাইমারি ও টারসিয়ারি হ্যালাইডের মধ্যে দেখা যায়।\nC₄H₉Cl এর সমাণু: n-বিউটাইল ক্লোরাইড (1-ক্লোরো বিউটেন), iso-বিউটাইল ক্লোরাইড (1-ক্লোরো-2-মিথাইল প্রোপেন), t-বিউটাইল ক্লোরাইড (2-ক্লোরো-2-মিথাইল প্রোপেন)।",
+   "notes_en": "Haloalkanes show position and chain isomerism.\nPosition isomers: 1-chlorobutane and 2-chlorobutane.\nChain isomerism arises when the carbon skeleton is branched.\nC4H9Cl examples: n-butyl chloride (1-chlorobutane), iso-butyl chloride (1-chloro-2-methylpropane), t-butyl chloride (2-chloro-2-methylpropane).",
+   "mcqs": [
+    {
+     "question_bn": "1-ক্লোরো বিউটেন ও 2-ক্লোরো বিউটেন কোন ধরনের সমাণু?",
+     "question_en": "1-Chlorobutane and 2-chlorobutane are what kind of isomers?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অবস্থান সমাণু",
+       "en": "অবস্থান সমাণু"
+      },
+      {
+       "id": "b",
+       "bn": "চেইন সমাণু",
+       "en": "চেইন সমাণু"
+      },
+      {
+       "id": "c",
+       "bn": "কার্যকরী মূলক সমাণু",
+       "en": "কার্যকরী মূলক সমাণু"
+      },
+      {
+       "id": "d",
+       "bn": "জ্যামিতিক সমাণু",
+       "en": "জ্যামিতিক সমাণু"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একই শিকলে Cl এর অবস্থান ভিন্ন।",
+     "explanation_en": "Same chain, different position of Cl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "t-বিউটাইল ক্লোরাইডের ইউপ্যাক নাম কী?",
+     "question_en": "IUPAC name of t-butyl chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1-ক্লোরো বিউটেন",
+       "en": "1-ক্লোরো বিউটেন"
+      },
+      {
+       "id": "b",
+       "bn": "1-ক্লোরো-2-মিথাইল প্রোপেন",
+       "en": "1-ক্লোরো-2-মিথাইল প্রোপেন"
+      },
+      {
+       "id": "c",
+       "bn": "2-ক্লোরো-2-মিথাইল প্রোপেন",
+       "en": "2-ক্লোরো-2-মিথাইল প্রোপেন"
+      },
+      {
+       "id": "d",
+       "bn": "2-ক্লোরো বিউটেন",
+       "en": "2-ক্লোরো বিউটেন"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "(CH₃)₃CCl এর নাম 2-ক্লোরো-2-মিথাইল প্রোপেন।",
+     "explanation_en": "(CH3)3CCl is 2-chloro-2-methylpropane.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C₄H₉Cl এর শাখাযুক্ত কোন যৌগটি প্রাইমারি হ্যালাইড?",
+     "question_en": "Which branched C4H9Cl is a primary halide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "iso-বিউটাইল ক্লোরাইড",
+       "en": "iso-বিউটাইল ক্লোরাইড"
+      },
+      {
+       "id": "b",
+       "bn": "t-বিউটাইল ক্লোরাইড",
+       "en": "t-বিউটাইল ক্লোরাইড"
+      },
+      {
+       "id": "c",
+       "bn": "2-ক্লোরো বিউটেন",
+       "en": "2-ক্লোরো বিউটেন"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "কোনোটিই নয়"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "iso-বিউটাইল ক্লোরাইড (CH₃)₂CHCH₂Cl এ Cl যুক্ত কার্বন –CH₂Cl, অর্থাৎ 1°।",
+     "explanation_en": "In (CH3)2CHCH2Cl the C–Cl carbon is CH2, i.e. primary.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "n-বিউটাইল ও iso-বিউটাইল ক্লোরাইডের মধ্যে সম্পর্ক কী?",
+     "question_en": "Relationship between n-butyl and iso-butyl chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চেইন সমাণু",
+       "en": "চেইন সমাণু"
+      },
+      {
+       "id": "b",
+       "bn": "একই যৌগ",
+       "en": "একই যৌগ"
+      },
+      {
+       "id": "c",
+       "bn": "অবস্থান সমাণু",
+       "en": "অবস্থান সমাণু"
+      },
+      {
+       "id": "d",
+       "bn": "হোমোলগ",
+       "en": "হোমোলগ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একই আণবিক সংকেত C₄H₉Cl, কিন্তু কার্বন শিকল সরল ও শাখাযুক্ত, তাই চেইন সমাণু।",
+     "explanation_en": "Same formula, straight vs branched skeleton: chain isomers.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.5",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের সাধারণ প্রস্তুত পদ্ধতি",
+   "title_en": "General preparation of haloalkanes",
+   "notes_bn": "অ্যালকোহল + HX → R–X + H₂O (ZnCl₂ অনার্দ্র লুইস এসিডরূপে; গাঢ় H₂SO₄ অপসারণকারী)।\nঅ্যালকোহলের সক্রিয়তা 3°>2°>1°; HX এর HI>HBr>HCl। RBr এ 48% HBr + গাঢ় H₂SO₄, RI এ 57% HI (H₂SO₄ লাগে না)।\nPCl₅ দিয়ে R–Cl + POCl₃ + HCl; PX₃ দিয়ে 3ROH + PX₃ → 3RX + H₃PO₃। লাল P + Br₂/I₂ থেকে PBr₃/PI₃ উৎপন্ন করেও ব্যবহৃত হয়।\nঅ্যালকিন + HX → অ্যালকাইল হ্যালাইড (HX সক্রিয়তা HI>HBr>HCl>HF), যেমন প্রোপিন + HBr → 2-ব্রোমো প্রোপেন।\nঅ্যালকেন + Cl₂/Br₂ (400°C বা UV) প্রতিস্থাপন: CH₄ → CH₃Cl → CH₂Cl₂ → CHCl₃ → CCl₄।\nল্যাবে CH₃I: মিথানল + লাল P + I₂ (CH₃OH:P:I₂ = 31:10:123) → PI₃ → CH₃I; লঘু NaOH দিয়ে ধুয়ে CaCl₂ সহ 42.3°C এ পাতন।\nC₂H₅Br: ইথানল + KBr + গাঢ় H₂SO₄ (46:120:100 অনুপাত) ~40°C এ উত্তপ্ত; বিশুদ্ধ C₂H₅Br ফুটনাঙ্ক 38.1°C।",
+   "notes_en": "Alcohol + HX gives R–X + H2O (anhydrous ZnCl2 as Lewis acid; conc. H2SO4 removes water).\nAlcohol reactivity 3°>2°>1°; HX reactivity HI>HBr>HCl. RBr: 48% HBr + conc. H2SO4; RI: 57% HI, no H2SO4.\nPCl5 gives RCl + POCl3 + HCl; PX3 gives 3ROH + PX3 -> 3RX + H3PO3.\nAlkene + HX gives alkyl halide, e.g. propene + HBr -> 2-bromopropane.\nAlkane + Cl2/Br2 (400 C or UV) gives substitution products stepwise to CCl4.\nLab CH3I: methanol + red P + I2 (31:10:123), washed with dil. NaOH, distilled over CaCl2 at 42.3 C.\nC2H5Br: ethanol + KBr + conc. H2SO4 (46:120:100) heated ~40 C; b.p. 38.1 C.",
+   "mcqs": [
+    {
+     "question_bn": "অ্যালকোহল থেকে অ্যালকাইল ক্লোরাইড প্রস্তুতিতে অনার্দ্র ZnCl₂ এর ভূমিকা কী?",
+     "question_en": "Role of anhydrous ZnCl2 in preparing alkyl chlorides from alcohols?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লুইস এসিড",
+       "en": "লুইস এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষার",
+       "en": "ক্ষার"
+      },
+      {
+       "id": "c",
+       "bn": "জারক",
+       "en": "জারক"
+      },
+      {
+       "id": "d",
+       "bn": "বিজারক",
+       "en": "বিজারক"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে অনার্দ্র ZnCl₂ কে লুইস এসিডরূপে কাজ করে বলা হয়েছে।",
+     "explanation_en": "The book states it acts as a Lewis acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "HX এর সক্রিয়তার সঠিক ক্রম কোনটি?",
+     "question_en": "Correct reactivity order of HX?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCl>HBr>HI",
+       "en": "HCl>HBr>HI"
+      },
+      {
+       "id": "b",
+       "bn": "HI>HBr>HCl",
+       "en": "HI>HBr>HCl"
+      },
+      {
+       "id": "c",
+       "bn": "HBr>HI>HCl",
+       "en": "HBr>HI>HCl"
+      },
+      {
+       "id": "d",
+       "bn": "HI>HCl>HBr",
+       "en": "HI>HCl>HBr"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের ক্রম HI > HBr > HCl।",
+     "explanation_en": "Book order is HI > HBr > HCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "3CH₃CH₂OH + PX₃ বিক্রিয়ায় অতিরিক্ত উৎপাদ কী?",
+     "question_en": "Extra product in 3ROH + PX3 reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "POCl₃",
+       "en": "POCl₃"
+      },
+      {
+       "id": "b",
+       "bn": "H₃PO₃",
+       "en": "H₃PO₃"
+      },
+      {
+       "id": "c",
+       "bn": "H₃PO₄",
+       "en": "H₃PO₄"
+      },
+      {
+       "id": "d",
+       "bn": "HX",
+       "en": "HX"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "3ROH + PX₃ → 3RX + H₃PO₃ (ফসফোনিক এসিড)।",
+     "explanation_en": "3ROH + PX3 -> 3RX + H3PO3 (phosphonic acid).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "PCl₅ দ্বারা অ্যালকোহল থেকে অ্যালকাইল ক্লোরাইড তৈরিতে উপজাত পদার্থ কোনটি?",
+     "question_en": "By-products of ROH + PCl5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "POCl₃ ও HCl",
+       "en": "POCl₃ ও HCl"
+      },
+      {
+       "id": "b",
+       "bn": "H₃PO₃ ও HCl",
+       "en": "H₃PO₃ ও HCl"
+      },
+      {
+       "id": "c",
+       "bn": "H₃PO₄ ও Cl₂",
+       "en": "H₃PO₄ ও Cl₂"
+      },
+      {
+       "id": "d",
+       "bn": "P₂O₅ ও HCl",
+       "en": "P₂O₅ ও HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "R–OH + PCl₅ → R–Cl + POCl₃ + HCl।",
+     "explanation_en": "ROH + PCl5 -> RCl + POCl3 + HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোপিন + HBr → প্রধান উৎপাদ কী?",
+     "question_en": "Main product of propene + HBr?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1-ব্রোমো প্রোপেন",
+       "en": "1-ব্রোমো প্রোপেন"
+      },
+      {
+       "id": "b",
+       "bn": "2-ব্রোমো প্রোপেন",
+       "en": "2-ব্রোমো প্রোপেন"
+      },
+      {
+       "id": "c",
+       "bn": "ব্রোমো ইথেন",
+       "en": "ব্রোমো ইথেন"
+      },
+      {
+       "id": "d",
+       "bn": "1,2-ডাইব্রোমো প্রোপেন",
+       "en": "1,2-ডাইব্রোমো প্রোপেন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের উদাহরণ: CH₃CH=CH₂ + HBr → CH₃CHBrCH₃ (2-ব্রোমো প্রোপেন)।",
+     "explanation_en": "Book example gives CH3CHBrCH3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ল্যাবে CH₃I প্রস্তুতিতে CH₃OH : P : I₂ এর অনুপাত কত?",
+     "question_en": "Ratio CH3OH : P : I2 in lab CH3I preparation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "46 : 120 : 100",
+       "en": "46 : 120 : 100"
+      },
+      {
+       "id": "b",
+       "bn": "31 : 10 : 123",
+       "en": "31 : 10 : 123"
+      },
+      {
+       "id": "c",
+       "bn": "31 : 123 : 10",
+       "en": "31 : 123 : 10"
+      },
+      {
+       "id": "d",
+       "bn": "10 : 31 : 123",
+       "en": "10 : 31 : 123"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের অনুপাত 31:10:123।",
+     "explanation_en": "The book gives 31:10:123.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ল্যাবে C₂H₅Br প্রস্তুতিতে ইথানল, KBr ও গাঢ় H₂SO₄ মিশ্রণ প্রায় কোন তাপমাত্রায় উত্তপ্ত করা হয় এবং বিশুদ্ধ C₂H₅Br এর ফুটনাঙ্ক কত?",
+     "question_en": "Heating temperature and b.p. of pure C2H5Br?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "40°C; 38.1°C",
+       "en": "40°C; 38.1°C"
+      },
+      {
+       "id": "b",
+       "bn": "65°C; 42.3°C",
+       "en": "65°C; 42.3°C"
+      },
+      {
+       "id": "c",
+       "bn": "40°C; 42.3°C",
+       "en": "40°C; 42.3°C"
+      },
+      {
+       "id": "d",
+       "bn": "62°C; 38.1°C",
+       "en": "62°C; 38.1°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিশ্রণ ~40°C এ উত্তপ্ত হয়; C₂H₅Br ফুটনাঙ্ক 38.1°C।",
+     "explanation_en": "Mixture heated ~40 C; b.p. of C2H5Br is 38.1 C.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.6",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের ভৌত ধর্ম",
+   "title_en": "Physical properties of haloalkanes",
+   "notes_bn": "নিম্নতর সদস্য (CH₃F, CH₃Cl, CH₃Br, C₂H₅Cl) গ্যাসীয়; CH₃I সহ C₁₈ পর্যন্ত অন্যরা তরল। বিশুদ্ধ অবস্থায় বর্ণহীন।\nতড়িৎঋণাত্মকতা: F=4.0, Cl=3.0, Br=2.8, I=2.5; C=2.5। C–X বন্ধন পোলার, ডাইপোল-ডাইপোল আকর্ষণ থাকে।\nসমআণবিক ভরের অ্যালকেনের তুলনায় ফ্লোরো ও ক্লোরো অ্যালকেনের স্ফুটনাঙ্ক বেশি, কিন্তু ব্রোমো ও আয়োডোর কম।\nস্ফুটনাঙ্ক: CH₃F −14.2°C, CH₃Cl −24.0°C, CH₃Br 4.6°C, C₂H₅Cl 13°C, C₂H₅Br 38.1°C, CH₃I 42.3°C, C₃H₇Cl 46.4°C, C₄H₉Br 101.6°C।\nস্ফুটনাঙ্ক ক্রম RI > RBr > RCl > RF। পানিতে অদ্রবণীয়, জৈব দ্রাবকে দ্রবণীয়। আয়োডাইড ও ব্রোমাইড পানির চেয়ে ভারী; ফ্লোরাইড ও ক্লোরাইড হালকা।",
+   "notes_en": "Lower members (CH3F, CH3Cl, CH3Br, C2H5Cl) are gases; CH3I and others up to C18 are liquids; colourless when pure.\nElectronegativity: F 4.0, Cl 3.0, Br 2.8, I 2.5, C 2.5, so C–X bonds are polar.\nFluoro and chloro alkanes boil higher than alkanes of similar mass; bromo and iodo ones boil lower.\nB.p.: CH3Cl -24.0 C, CH3Br 4.6 C, C2H5Br 38.1 C, CH3I 42.3 C, C4H9Br 101.6 C.\nOrder of b.p.: RI > RBr > RCl > RF. Insoluble in water; iodides and bromides denser than water, fluorides and chlorides lighter.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি সাধারণ অবস্থায় গ্যাসীয়?",
+     "question_en": "Which is a gas under ordinary conditions?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃I",
+       "en": "CH₃I"
+      },
+      {
+       "id": "b",
+       "bn": "C₂H₅Br",
+       "en": "C₂H₅Br"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃Cl",
+       "en": "CH₃Cl"
+      },
+      {
+       "id": "d",
+       "bn": "C₄H₉Br",
+       "en": "C₄H₉Br"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CH₃Cl এর স্ফুটনাঙ্ক −24.0°C, তাই গ্যাস।",
+     "explanation_en": "CH3Cl boils at -24.0 C, hence a gas.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "RF, RCl, RBr, RI (অনুরূপ অ্যালকাইল) এর স্ফুটনাঙ্কের সঠিক ক্রম কোনটি?",
+     "question_en": "Boiling point order of RF, RCl, RBr, RI?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "RF > RCl > RBr > RI",
+       "en": "RF > RCl > RBr > RI"
+      },
+      {
+       "id": "b",
+       "bn": "RI > RBr > RCl > RF",
+       "en": "RI > RBr > RCl > RF"
+      },
+      {
+       "id": "c",
+       "bn": "RCl > RF > RBr > RI",
+       "en": "RCl > RF > RBr > RI"
+      },
+      {
+       "id": "d",
+       "bn": "RBr > RI > RCl > RF",
+       "en": "RBr > RI > RCl > RF"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আণবিক ভর বাড়লে ভ্যান্ডার ওয়ালস বল বাড়ে; ক্রম RI > RBr > RCl > RF।",
+     "explanation_en": "Higher molar mass raises van der Waals forces: RI > RBr > RCl > RF.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হ্যালোজেনো অ্যালকেন পানিতে অদ্রবণীয় কারণ—",
+     "question_en": "Haloalkanes are insoluble in water because—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানির সাথে হাইড্রোজেন বন্ধন গঠন করে না",
+       "en": "পানির সাথে হাইড্রোজেন বন্ধন গঠন করে না"
+      },
+      {
+       "id": "b",
+       "bn": "পানির চেয়ে হালকা",
+       "en": "পানির চেয়ে হালকা"
+      },
+      {
+       "id": "c",
+       "bn": "আয়নিক যৌগ",
+       "en": "আয়নিক যৌগ"
+      },
+      {
+       "id": "d",
+       "bn": "অম্লীয়",
+       "en": "অম্লীয়"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এরা পানির সাথে H-বন্ধন গঠন করে না, ফলে পানিতে অদ্রবণীয়।",
+     "explanation_en": "They cannot form hydrogen bonds with water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C–X বন্ধন সবচেয়ে কম পোলার কোন ক্ষেত্রে (বইয়ের তড়িৎঋণাত্মকতা অনুযায়ী)?",
+     "question_en": "Which C–X bond is least polar (per book electronegativities)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C–F",
+       "en": "C–F"
+      },
+      {
+       "id": "b",
+       "bn": "C–Cl",
+       "en": "C–Cl"
+      },
+      {
+       "id": "c",
+       "bn": "C–Br",
+       "en": "C–Br"
+      },
+      {
+       "id": "d",
+       "bn": "C–I",
+       "en": "C–I"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "C = 2.5 ও I = 2.5, পার্থক্য প্রায় শূন্য।",
+     "explanation_en": "C and I both 2.5, so almost no difference.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সমআণবিক ভরের অ্যালকেনের তুলনায় কোন জোড়ার স্ফুটনাঙ্ক কম?",
+     "question_en": "Which pair boils lower than alkanes of comparable molar mass?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফ্লোরো ও ক্লোরো অ্যালকেন",
+       "en": "ফ্লোরো ও ক্লোরো অ্যালকেন"
+      },
+      {
+       "id": "b",
+       "bn": "ব্রোমো ও আয়োডো অ্যালকেন",
+       "en": "ব্রোমো ও আয়োডো অ্যালকেন"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু ফ্লোরো",
+       "en": "শুধু ফ্লোরো"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলো বেশি",
+       "en": "সবগুলো বেশি"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে বলা হয়েছে ব্রোমো ও আয়োডো অ্যালকেনের স্ফুটনাঙ্ক সমআণবিক ভরের অ্যালকেনের চেয়ে কম।",
+     "explanation_en": "Bromo and iodo alkanes have lower b.p. than alkanes of similar mass.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.7",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের বন্ধন প্রকৃতি",
+   "title_en": "Nature of bonding in haloalkanes",
+   "notes_bn": "সব বন্ধন σ; কার্বন sp³ সংকর। CH₃Cl এ কার্বনের তিনটি sp³ অরবিটাল H এর 1s এর সাথে এবং একটি Cl এর 3p_z এর সাথে অধিক্রমিত; আকৃতি চতুস্তলকীয়, বন্ধন কোণ H–C–Cl ≈ 109.5°।\nসক্রিয়তা নির্ভর করে C–X পোলারায়ন ও বন্ধন এনথালপির ওপর। C–X এর কার্বন δ+, তাই নিউক্লিওফাইল দ্বারা আক্রান্ত হয়।\nগড় বন্ধন শক্তি (kJ/mol): C–F 467, C–Cl 346, C–Br 290, C–I 228।\nC–F শক্তিশালী কারণ 2sp³ ও 2p_z একই শক্তিস্তরের অরবিটাল; C–Cl, C–Br, C–I এ 3p, 4p, 5p এর সাথে অধিক্রমণ কম।\nবন্ধন বিয়োজন সহজ: C–I > C–Br > C–Cl > C–F। সক্রিয়তা R–I > R–Br > R–Cl; ফ্লোরো অ্যালকেন প্রায় নিষ্ক্রিয়।",
+   "notes_en": "All bonds are sigma; carbon is sp3. CH3Cl is tetrahedral with H–C–Cl angle about 109.5 degrees.\nReactivity depends on C–X polarisation and bond enthalpy; the carbon is delta+ and attacked by nucleophiles.\nBond energies (kJ/mol): C–F 467, C–Cl 346, C–Br 290, C–I 228.\nC–F overlap is between 2sp3 and 2p, same shell, so it is strongest; for Cl, Br, I overlap with 3p, 4p, 5p is poorer.\nEase of cleavage: C–I > C–Br > C–Cl > C–F; reactivity R–I > R–Br > R–Cl, fluoroalkanes nearly inert.",
+   "mcqs": [
+    {
+     "question_bn": "CH₃Cl এ H–C–Cl বন্ধন কোণ প্রায় কত?",
+     "question_en": "Approximate H–C–Cl angle in CH3Cl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "90°",
+       "en": "90°"
+      },
+      {
+       "id": "b",
+       "bn": "109.5°",
+       "en": "109.5°"
+      },
+      {
+       "id": "c",
+       "bn": "120°",
+       "en": "120°"
+      },
+      {
+       "id": "d",
+       "bn": "180°",
+       "en": "180°"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বন sp³, গঠন চতুস্তলকীয়।",
+     "explanation_en": "sp3 carbon, tetrahedral.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন বন্ধনটির শক্তি সর্বাধিক?",
+     "question_en": "Which bond has the highest energy?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C–Cl",
+       "en": "C–Cl"
+      },
+      {
+       "id": "b",
+       "bn": "C–Br",
+       "en": "C–Br"
+      },
+      {
+       "id": "c",
+       "bn": "C–I",
+       "en": "C–I"
+      },
+      {
+       "id": "d",
+       "bn": "C–F",
+       "en": "C–F"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "C–F 467 kJ/mol, সর্বোচ্চ।",
+     "explanation_en": "C–F, 467 kJ/mol, is highest.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হ্যালোজেনো অ্যালকেনের সক্রিয়তার সঠিক ক্রম কোনটি?",
+     "question_en": "Correct order of reactivity of haloalkanes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "R–F > R–Cl > R–Br > R–I",
+       "en": "R–F > R–Cl > R–Br > R–I"
+      },
+      {
+       "id": "b",
+       "bn": "R–I > R–Br > R–Cl > R–F",
+       "en": "R–I > R–Br > R–Cl > R–F"
+      },
+      {
+       "id": "c",
+       "bn": "R–Cl > R–Br > R–I > R–F",
+       "en": "R–Cl > R–Br > R–I > R–F"
+      },
+      {
+       "id": "d",
+       "bn": "R–Br > R–I > R–F > R–Cl",
+       "en": "R–Br > R–I > R–F > R–Cl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "C–I বন্ধন শক্তি সর্বনিম্ন (228), তাই R–I সর্বাধিক সক্রিয়।",
+     "explanation_en": "C–I has the lowest energy (228), so R–I is most reactive.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C–F বন্ধন সবচেয়ে শক্তিশালী হওয়ার কারণ কী?",
+     "question_en": "Why is the C–F bond strongest?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2sp³ ও F এর 2p_z একই শক্তিস্তরের, অধিক্রমণ বেশি",
+       "en": "2sp³ ও F এর 2p_z একই শক্তিস্তরের, অধিক্রমণ বেশি"
+      },
+      {
+       "id": "b",
+       "bn": "F এর আকার সবচেয়ে বড়",
+       "en": "F এর আকার সবচেয়ে বড়"
+      },
+      {
+       "id": "c",
+       "bn": "F এর তড়িৎঋণাত্মকতা কম",
+       "en": "F এর তড়িৎঋণাত্মকতা কম"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বন sp² সংকর",
+       "en": "কার্বন sp² সংকর"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একই (দ্বিতীয়) শক্তিস্তরের অরবিটালের অধিক্রমণ সর্বাধিক।",
+     "explanation_en": "Both orbitals are in the 2nd shell, giving maximum overlap.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C–Cl বন্ধন শক্তি 346 এবং C–Br 290 kJ/mol। 1 mol CH₃–Br এর C–Br বন্ধন ভাঙতে C–Cl এর তুলনায় কত kJ কম লাগে (বইয়ের মান)?",
+     "question_en": "How many kJ less is needed to break C–Br than C–Cl per mole (book values)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "56 kJ",
+       "en": "56 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "118 kJ",
+       "en": "118 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "177 kJ",
+       "en": "177 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "637 kJ",
+       "en": "637 kJ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "346 − 290 = 56 kJ/mol।",
+     "explanation_en": "346 - 290 = 56 kJ/mol.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.8",
+   "title_bn": "হ্যালোজেনো অ্যালকেনের রাসায়নিক বিক্রিয়া",
+   "title_en": "Chemical reactions of haloalkanes",
+   "notes_bn": "C–I এর বন্ধন শক্তি সর্বনিম্ন (228 kJ/mol) তাই আয়োডো অ্যালকেন সর্বাধিক সক্রিয়; R–F প্রায় নিষ্ক্রিয়। তিন শ্রেণির বিক্রিয়া: নিউক্লিওফিলিক প্রতিস্থাপন, β-অপসারণ, ধাতুর সাথে বিক্রিয়া।\nSN1: দুই ধাপ (কার্বোক্যাটায়ন), প্রথম ক্রম, 3° ও পোলার দ্রাবকে সহজ; ক্রম 3°>2°>1°>CH₃X। SN2: এক ধাপ, অস্থায়ী জটিল, দ্বিতীয় ক্রম (হার = k[RX][Nu]), 1° এ সহজ; ক্রম CH₃X>1°>2°>3°।\nপ্রতিস্থাপন: KOH/aq → অ্যালকোহল; KCN (অ্যালকোহল) → R–CN (আর্দ্রবিশ্লেষণে –COOH, বিজারণে অ্যামিন); AgCN → আইসো-সায়ানাইড; NaOC₂H₅ → ইথার (উইলিয়ামসন); R–COOAg → এস্টার; NH₃ (চাপে) → 1° অ্যামিন।\nঅপসারণ (E1/E2): alc. KOH দিয়ে HX অপসারিত হয়ে অ্যালকিন; সাইজেফ সূত্র: বেশি প্রতিস্থাপিত অ্যালকিন প্রধান (2-ব্রোমো বিউটেন → 2-বিউটিন 80%, 1-বিউটিন 20%)।\nগ্রিগনার্ড: RX + Mg (শুষ্ক ইথার) → RMgX; পানি → অ্যালকেন; HCHO → 1° অ্যালকোহল; অন্য অ্যালডিহাইড → 2°; কিটোন → 3°; CO₂ → কার্বক্সিলিক এসিড।\nউর্টজ: 2RX + 2Na (শুষ্ক ইথার) → R–R + 2NaX।",
+   "notes_en": "C–I has the lowest bond energy (228 kJ/mol), so iodoalkanes are most reactive; R–F is almost inert. Reaction classes: nucleophilic substitution, beta-elimination, reaction with metals.\nSN1: two steps via carbocation, first order, favoured for 3° and polar solvents (3°>2°>1°>CH3X). SN2: one step, transition state, second order, rate = k[RX][Nu], favoured for 1° (CH3X>1°>2°>3°).\nSubstitution: aq. KOH gives alcohol; alcoholic KCN gives nitrile (hydrolysis to acid, reduction to amine); AgCN gives isocyanide; NaOC2H5 gives ether (Williamson); RCOOAg gives ester; NH3 under pressure gives 1° amine.\nElimination (E1/E2) with alc. KOH gives alkene; Saytzeff: more substituted alkene predominates (2-bromobutane gives 2-butene 80%, 1-butene 20%).\nGrignard: RX + Mg (dry ether) gives RMgX; with water gives alkane; HCHO gives 1° alcohol; other aldehydes 2°; ketones 3°; CO2 gives carboxylic acid.\nWurtz: 2RX + 2Na (dry ether) gives R–R.",
+   "mcqs": [
+    {
+     "question_bn": "কোন হ্যালোজেনো অ্যালকেন সর্বাধিক সক্রিয়?",
+     "question_en": "Which haloalkane is most reactive?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "R–F",
+       "en": "R–F"
+      },
+      {
+       "id": "b",
+       "bn": "R–Cl",
+       "en": "R–Cl"
+      },
+      {
+       "id": "c",
+       "bn": "R–Br",
+       "en": "R–Br"
+      },
+      {
+       "id": "d",
+       "bn": "R–I",
+       "en": "R–I"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "C–I বন্ধন শক্তি সর্বনিম্ন (228 kJ/mol)।",
+     "explanation_en": "C–I has the lowest bond energy.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "SN2 বিক্রিয়া কোন ক্রমের?",
+     "question_en": "What is the order of an SN2 reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শূন্য",
+       "en": "শূন্য"
+      },
+      {
+       "id": "b",
+       "bn": "প্রথম",
+       "en": "প্রথম"
+      },
+      {
+       "id": "c",
+       "bn": "দ্বিতীয়",
+       "en": "দ্বিতীয়"
+      },
+      {
+       "id": "d",
+       "bn": "তৃতীয়",
+       "en": "তৃতীয়"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "হার = k[RX][Nu], তাই দ্বিতীয় ক্রম।",
+     "explanation_en": "Rate depends on [RX] and [Nu]: second order.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথানল দ্রবণে KCN এর সাথে CH₃I এর বিক্রিয়ায় প্রধান উৎপাদ কী?",
+     "question_en": "Main product of CH3I with alcoholic KCN?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃NC",
+       "en": "CH₃NC"
+      },
+      {
+       "id": "b",
+       "bn": "CH₃CN",
+       "en": "CH₃CN"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃OH",
+       "en": "CH₃OH"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃NH₂",
+       "en": "CH₃NH₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আয়নিক KCN থেকে প্রধানত অ্যালকাইল সায়ানাইড (CH₃CN) পাওয়া যায়; AgCN হলে আইসো-সায়ানাইড।",
+     "explanation_en": "Ionic KCN gives mainly the cyanide; AgCN would give the isocyanide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টারসিয়ারি বিউটাইল ক্লোরাইডের জলীয় আর্দ্রবিশ্লেষণ কোন মেকানিজমে ঘটে?",
+     "question_en": "By which mechanism does t-butyl chloride hydrolyse in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SN1",
+       "en": "SN1"
+      },
+      {
+       "id": "b",
+       "bn": "SN2",
+       "en": "SN2"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু E2",
+       "en": "শুধু E2"
+      },
+      {
+       "id": "d",
+       "bn": "গ্রিগনার্ড",
+       "en": "গ্রিগনার্ড"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "3° হ্যালাইড পোলার দ্রাবকে কার্বোক্যাটায়ন গঠন করে SN1 পথে যায়; হার = k[(CH₃)₃CCl]।",
+     "explanation_en": "3° halide in polar solvent: carbocation, SN1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাইজেফ সূত্র অনুযায়ী 2-ব্রোমো বিউটেন + alc. KOH থেকে প্রধান উৎপাদ কোনটি?",
+     "question_en": "By Saytzeff rule, main product of 2-bromobutane + alc. KOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1-বিউটিন",
+       "en": "1-বিউটিন"
+      },
+      {
+       "id": "b",
+       "bn": "2-বিউটিন",
+       "en": "2-বিউটিন"
+      },
+      {
+       "id": "c",
+       "bn": "বিউটেন",
+       "en": "বিউটেন"
+      },
+      {
+       "id": "d",
+       "bn": "বিউটানল-2",
+       "en": "বিউটানল-2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অধিক প্রতিস্থাপিত 2-বিউটিন প্রধান (80%), 1-বিউটিন 20%।",
+     "explanation_en": "The more substituted 2-butene predominates (80%).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH₃MgI + HCHO, তারপর H₂O (আর্দ্রবিশ্লেষণ) থেকে কী উৎপন্ন হয়?",
+     "question_en": "CH3MgI + HCHO then H2O gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "b",
+       "bn": "2-প্রোপানল",
+       "en": "2-প্রোপানল"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপানোন",
+       "en": "প্রোপানোন"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানোয়িক এসিড",
+       "en": "ইথানোয়িক এসিড"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মিথান্যাল এর সাথে 1° অ্যালকোহল (ইথানল) তৈরি হয়।",
+     "explanation_en": "Methanal gives a primary alcohol, ethanol.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "CH₃CH₂Cl + 2Na + ClCH₂CH₃ (শুষ্ক ইথার) → উৎপাদ?",
+     "question_en": "CH3CH2Cl + 2Na + ClCH2CH3 (dry ether) gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথেন",
+       "en": "ইথেন"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোপেন",
+       "en": "প্রোপেন"
+      },
+      {
+       "id": "c",
+       "bn": "n-বিউটেন",
+       "en": "n-বিউটেন"
+      },
+      {
+       "id": "d",
+       "bn": "ইথিলিন",
+       "en": "ইথিলিন"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "উর্টজ বিক্রিয়ায় দুটি ইথাইল মূলক যুক্ত হয়ে CH₃CH₂CH₂CH₃।",
+     "explanation_en": "Wurtz coupling joins two ethyl groups.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নিচের কোনটি SN1 ও SN2 এর পার্থক্য হিসাবে সঠিক?",
+     "question_en": "Which statement correctly distinguishes SN1 and SN2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SN1 এক ধাপ, SN2 দুই ধাপ",
+       "en": "SN1 এক ধাপ, SN2 দুই ধাপ"
+      },
+      {
+       "id": "b",
+       "bn": "SN1 তে 3° সহজ, SN2 তে 1° সহজ",
+       "en": "SN1 তে 3° সহজ, SN2 তে 1° সহজ"
+      },
+      {
+       "id": "c",
+       "bn": "SN1 দ্বিতীয় ক্রম",
+       "en": "SN1 দ্বিতীয় ক্রম"
+      },
+      {
+       "id": "d",
+       "bn": "SN2 তে কার্বোক্যাটায়ন গঠিত হয়",
+       "en": "SN2 তে কার্বোক্যাটায়ন গঠিত হয়"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "SN1: 3° সক্রিয়, SN2: 1° সক্রিয়।",
+     "explanation_en": "SN1 favours 3°, SN2 favours 1°.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.9",
+   "title_bn": "পলিহ্যালোজেনো যৌগ",
+   "title_en": "Polyhalogeno compounds",
+   "notes_bn": "কার্বনের সাথে একের বেশি হ্যালোজেন যুক্ত যৌগকে পলিহ্যালোজেনো যৌগ বলে: ক্লোরোফরম, টেট্রাক্লোরো মিথেন, ক্লোরোফ্লোরো কার্বন (CFC) ইত্যাদি।\nমিথেনের তিনটি H, Cl/Br/I দ্বারা প্রতিস্থাপিত হলে হ্যালোফরম (CHX₃) পাওয়া যায়: ক্লোরোফরম CHCl₃, ব্রোমোফরম CHBr₃, আয়োডোফরম CHI₃।",
+   "notes_en": "Compounds with more than one halogen on carbon are polyhalogeno compounds: chloroform, tetrachloromethane, CFCs etc.\nReplacing three H of methane by Cl, Br or I gives haloforms CHX3: chloroform CHCl3, bromoform CHBr3, iodoform CHI3.",
+   "mcqs": [
+    {
+     "question_bn": "আয়োডোফরমের সংকেত কোনটি?",
+     "question_en": "Formula of iodoform?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₃I",
+       "en": "CH₃I"
+      },
+      {
+       "id": "b",
+       "bn": "CH₂I₂",
+       "en": "CH₂I₂"
+      },
+      {
+       "id": "c",
+       "bn": "CHI₃",
+       "en": "CHI₃"
+      },
+      {
+       "id": "d",
+       "bn": "CI₄",
+       "en": "CI₄"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "মিথেনের তিনটি H আয়োডিন দ্বারা প্রতিস্থাপিত: CHI₃।",
+     "explanation_en": "Three H of methane replaced by I: CHI3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হ্যালোফরমের সাধারণ সংকেত কী?",
+     "question_en": "General formula of haloforms?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₂X₂",
+       "en": "CH₂X₂"
+      },
+      {
+       "id": "b",
+       "bn": "CHX₃",
+       "en": "CHX₃"
+      },
+      {
+       "id": "c",
+       "bn": "CX₄",
+       "en": "CX₄"
+      },
+      {
+       "id": "d",
+       "bn": "CH₃X",
+       "en": "CH₃X"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মিথেনের তিন H প্রতিস্থাপিত হলে CHX₃।",
+     "explanation_en": "Three H replaced: CHX3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি পলিহ্যালোজেনো যৌগ নয়?",
+     "question_en": "Which is NOT a polyhalogeno compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CHBr₃",
+       "en": "CHBr₃"
+      },
+      {
+       "id": "b",
+       "bn": "CCl₄",
+       "en": "CCl₄"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃Cl",
+       "en": "CH₃Cl"
+      },
+      {
+       "id": "d",
+       "bn": "CHCl₃",
+       "en": "CHCl₃"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CH₃Cl এ মাত্র একটি হ্যালোজেন।",
+     "explanation_en": "CH3Cl has only one halogen.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথেনের তিনটি H কে ব্রোমিন দ্বারা প্রতিস্থাপন করলে যে যৌগ পাওয়া যায় তার নাম ও সংকেত কী?",
+     "question_en": "Name and formula when three H of methane are replaced by Br?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ব্রোমোফরম, CHBr₃",
+       "en": "ব্রোমোফরম, CHBr₃"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরোফরম, CHCl₃",
+       "en": "ক্লোরোফরম, CHCl₃"
+      },
+      {
+       "id": "c",
+       "bn": "ব্রোমো মিথেন, CH₃Br",
+       "en": "ব্রোমো মিথেন, CH₃Br"
+      },
+      {
+       "id": "d",
+       "bn": "কার্বন টেট্রাব্রোমাইড, CBr₄",
+       "en": "কার্বন টেট্রাব্রোমাইড, CBr₄"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তিন Br ⇒ CHBr₃, ব্রোমোফরম।",
+     "explanation_en": "Three Br gives CHBr3, bromoform.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "6.10",
+   "title_bn": "ক্লোরোফরম (CHCl₃)",
+   "title_en": "Chloroform (CHCl3)",
+   "notes_bn": "প্রস্তুতি: ইথানল + ব্লিচিং পাউডার + পানি উত্তপ্ত (62–65°C)। ব্লিচিং পাউডার থেকে Cl₂ আসে।\nধাপ: (1) CH₃CH₂OH + Cl₂ → CH₃CHO + 2HCl; (2) CH₃CHO + 3Cl₂ → CCl₃CHO (ক্লোরাল) + 3HCl; (3) 2CCl₃CHO + Ca(OH)₂ → 2CHCl₃ + (HCOO)₂Ca।\nবিশুদ্ধকরণ: লঘু NaOH দিয়ে ধুয়ে Cl₂ ও HCl দূর, পানিতে ধোয়া, CaCl₂ দিয়ে শুষ্ক, 62°C এ পাতন।\nঅ্যাসিটোন থেকেও হয়: CH₃COCH₃ + 3Cl₂ → CCl₃COCH₃ + 3HCl; তারপর Ca(OH)₂ সহ CHCl₃ ও ক্যালসিয়াম অ্যাসিটেট।\nআয়োডোফরম (6.10.1): ইথানল/প্রোপানোন + I₂ + NaOH (প্রায় 50°C), হলুদ অধঃক্ষেপ; CH₃CH₂OH + 4I₂ + 6NaOH → CHI₃ + HCOONa + 5NaI + 5H₂O। গলনাঙ্ক 119°C।",
+   "notes_en": "Preparation: ethanol + bleaching powder + water heated at 62–65 C.\nSteps: ethanol -> acetaldehyde (CH3CHO) -> chloral CCl3CHO; chloral + Ca(OH)2 -> 2CHCl3 + calcium formate.\nPurification: wash with dil. NaOH, then water, dry over CaCl2, distil at 62 C.\nAcetone route: CH3COCH3 -> trichloroacetone CCl3COCH3 -> CHCl3 + calcium acetate.\nIodoform: ethanol or propanone + I2 + NaOH (~50 C) gives yellow CHI3, m.p. 119 C; CH3CH2OH + 4I2 + 6NaOH -> CHI3 + HCOONa + 5NaI + 5H2O.",
+   "mcqs": [
+    {
+     "question_bn": "ইথানল থেকে ক্লোরোফরম প্রস্তুতিতে কোন বিকারক ব্যবহৃত হয়?",
+     "question_en": "Which reagent is used with ethanol to prepare chloroform?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ব্লিচিং পাউডার ও পানি",
+       "en": "ব্লিচিং পাউডার ও পানি"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু HCl",
+       "en": "শুধু HCl"
+      },
+      {
+       "id": "c",
+       "bn": "KMnO₄",
+       "en": "KMnO₄"
+      },
+      {
+       "id": "d",
+       "bn": "Na ধাতু",
+       "en": "Na ধাতু"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ব্লিচিং পাউডার থেকে ক্লোরিন তৈরি হয়।",
+     "explanation_en": "Bleaching powder supplies chlorine.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্লোরোফরম প্রস্তুতিতে ইথানলের ক্লোরিনেশনে প্রথমে কোন যৌগ তৈরি হয়?",
+     "question_en": "First compound formed from ethanol in chloroform synthesis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরাল",
+       "en": "ক্লোরাল"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাসিটালডিহাইড",
+       "en": "অ্যাসিটালডিহাইড"
+      },
+      {
+       "id": "c",
+       "bn": "ক্যালসিয়াম ফরমেট",
+       "en": "ক্যালসিয়াম ফরমেট"
+      },
+      {
+       "id": "d",
+       "bn": "ফসজিন",
+       "en": "ফসজিন"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH₃CH₂OH + Cl₂ → CH₃CHO + 2HCl।",
+     "explanation_en": "Ethanol is first oxidised to acetaldehyde.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্লোরাল (CCl₃CHO) এর ক্ষারীয় বিশ্লেষণে কী পাওয়া যায়?",
+     "question_en": "Alkaline hydrolysis of chloral gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CHCl₃ ও ক্যালসিয়াম ফরমেট",
+       "en": "CHCl₃ ও ক্যালসিয়াম ফরমেট"
+      },
+      {
+       "id": "b",
+       "bn": "CCl₄",
+       "en": "CCl₄"
+      },
+      {
+       "id": "c",
+       "bn": "CH₃CHO",
+       "en": "CH₃CHO"
+      },
+      {
+       "id": "d",
+       "bn": "CHI₃",
+       "en": "CHI₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2CCl₃CHO + Ca(OH)₂ → 2CHCl₃ + (HCOO)₂Ca।",
+     "explanation_en": "2CCl3CHO + Ca(OH)2 -> 2CHCl3 + (HCOO)2Ca.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আয়োডোফরমের রং ও গলনাঙ্ক কী?",
+     "question_en": "Colour and m.p. of iodoform?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হলুদ, 119°C",
+       "en": "হলুদ, 119°C"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা, 62°C",
+       "en": "সাদা, 62°C"
+      },
+      {
+       "id": "c",
+       "bn": "বর্ণহীন, 77°C",
+       "en": "বর্ণহীন, 77°C"
+      },
+      {
+       "id": "d",
+       "bn": "লাল, 112°C",
+       "en": "লাল, 112°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হলুদ অধঃক্ষেপ, গলনাঙ্ক 119°C।",
+     "explanation_en": "Yellow, m.p. 119 C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোপানোন থেকে ক্লোরোফরম প্রস্তুতিতে মধ্যবর্তী যৌগ কোনটি?",
+     "question_en": "Intermediate when chloroform is made from propanone?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ট্রাইক্লোরো প্রোপানোন",
+       "en": "ট্রাইক্লোরো প্রোপানোন"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরাল",
+       "en": "ক্লোরাল"
+      },
+      {
+       "id": "c",
+       "bn": "ফসজিন",
+       "en": "ফসজিন"
+      },
+      {
+       "id": "d",
+       "bn": "ক্লোরোপিক্রিন",
+       "en": "ক্লোরোপিক্রিন"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CH₃COCH₃ + 3Cl₂ → CCl₃COCH₃ + 3HCl।",
+     "explanation_en": "Propanone gives trichloropropanone first.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "CH₃CH₂OH + 4I₂ + 6NaOH বিক্রিয়ায় 1 mol CHI₃ এর সাথে কত mol NaI উৎপন্ন হয়?",
+     "question_en": "Moles of NaI per mole CHI3 in CH3CH2OH + 4I2 + 6NaOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "6",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সমীকরণ অনুযায়ী 5NaI।",
+     "explanation_en": "The balanced equation shows 5NaI.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.11",
+   "title_bn": "ক্লোরোফরমের রাসায়নিক ধর্ম",
+   "title_en": "Chemical properties of chloroform",
+   "notes_bn": "জারণ: আলো ও বায়ুতে CHCl₃ → বিষাক্ত ফসজিন (COCl₂) + HCl: 2CHCl₃ + O₂ → 2COCl₂ + 2HCl।\nবিশুদ্ধতা পরীক্ষা: AgNO₃ দ্রবণে ফোঁটা দিলে বিশুদ্ধ CHCl₃ এ সাদা AgCl অধঃক্ষেপ পড়ে না; অবিশুদ্ধ হলে HCl থেকে AgCl পড়ে।\nসংরক্ষণ: অস্বচ্ছ বাদামি বোতলে, মুখ পর্যন্ত ভরে; 1% ইথানল মেশানো হয় (ফসজিন → ডাইইথাইল কার্বনেট)।\nবিজারণ: Zn + পানি → CH₄ + 3HCl; Zn/HCl ও অ্যালকোহলে → CH₂Cl₂ + HCl।\nক্ষারীয় বিশ্লেষণ: CHCl₃ + 4NaOH → HCOONa + 3NaCl + 2H₂O।\nগাঢ় HNO₃ → ক্লোরোপিক্রিন CCl₃NO₂ (কাঁদুনে গ্যাস, স্ফুটনাঙ্ক 112°C)।\nঘনীভবন: অ্যাসিটোন + CHCl₃ (লঘু KOH) → ক্লোরিটোন (চেতনানাশক, নিদ্রাজনক)।\nকার্বিল অ্যামিন (6.12 এ): অ্যানিলিন + CHCl₃ + alc. KOH → ফিনাইল আইসোসায়ানাইড (উগ্র গন্ধ)।",
+   "notes_en": "Oxidation: in light and air, 2CHCl3 + O2 -> 2COCl2 (phosgene) + 2HCl.\nPurity test: pure CHCl3 gives no white AgCl with AgNO3 solution.\nStorage: dark brown bottles filled to the brim; about 1% ethanol added to convert phosgene into diethyl carbonate.\nReduction: Zn + water gives CH4 + 3HCl; Zn/HCl in alcohol gives CH2Cl2.\nAlkaline hydrolysis: CHCl3 + 4NaOH -> HCOONa + 3NaCl + 2H2O.\nConc. HNO3 gives chloropicrin CCl3NO2 (tear gas, b.p. 112 C).\nCondensation with acetone (dil. KOH) gives chloretone (hypnotic).\nCarbylamine test: aniline + CHCl3 + alc. KOH gives foul-smelling phenyl isocyanide.",
+   "mcqs": [
+    {
+     "question_bn": "ক্লোরোফরম আলো ও বাতাসে জারিত হলে কোন বিষাক্ত গ্যাস উৎপন্ন হয়?",
+     "question_en": "Which toxic gas forms when chloroform is oxidised in light and air?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফসজিন (COCl₂)",
+       "en": "ফসজিন (COCl₂)"
+      },
+      {
+       "id": "b",
+       "bn": "CO₂",
+       "en": "CO₂"
+      },
+      {
+       "id": "c",
+       "bn": "Cl₂ শুধু",
+       "en": "Cl₂ শুধু"
+      },
+      {
+       "id": "d",
+       "bn": "CH₄",
+       "en": "CH₄"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2CHCl₃ + O₂ → 2COCl₂ + 2HCl।",
+     "explanation_en": "Phosgene COCl2 forms.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্লোরোফরম কোন বোতলে সংরক্ষণ করা হয়?",
+     "question_en": "In which bottle is chloroform stored?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "স্বচ্ছ কাচ",
+       "en": "স্বচ্ছ কাচ"
+      },
+      {
+       "id": "b",
+       "bn": "অস্বচ্ছ বাদামি, মুখ পর্যন্ত ভরা",
+       "en": "অস্বচ্ছ বাদামি, মুখ পর্যন্ত ভরা"
+      },
+      {
+       "id": "c",
+       "bn": "প্লাস্টিকের খোলা",
+       "en": "প্লাস্টিকের খোলা"
+      },
+      {
+       "id": "d",
+       "bn": "অর্ধেক ভরা সবুজ",
+       "en": "অর্ধেক ভরা সবুজ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আলো ও বায়ু প্রবেশ রোধ করতে।",
+     "explanation_en": "To exclude light and air.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্লোরোফরমে 1% ইথানল মেশানোর কারণ কী?",
+     "question_en": "Why add 1% ethanol to chloroform?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফসজিনকে ডাইইথাইল কার্বনেটে রূপান্তর করে নিরাপদ করতে",
+       "en": "ফসজিনকে ডাইইথাইল কার্বনেটে রূপান্তর করে নিরাপদ করতে"
+      },
+      {
+       "id": "b",
+       "bn": "স্ফুটনাঙ্ক বাড়াতে",
+       "en": "স্ফুটনাঙ্ক বাড়াতে"
+      },
+      {
+       "id": "c",
+       "bn": "রং দিতে",
+       "en": "রং দিতে"
+      },
+      {
+       "id": "d",
+       "bn": "গন্ধ বাড়াতে",
+       "en": "গন্ধ বাড়াতে"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "COCl₂ + 2C₂H₅OH → (C₂H₅)₂CO₃ + 2HCl।",
+     "explanation_en": "Phosgene is converted to harmless diethyl carbonate.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অবিশুদ্ধ ক্লোরোফরমে AgNO₃ দ্রবণ যোগ করলে কী দেখা যায়?",
+     "question_en": "Adding AgNO3 to impure chloroform gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা অধঃক্ষেপ",
+       "en": "সাদা অধঃক্ষেপ"
+      },
+      {
+       "id": "b",
+       "bn": "হলুদ অধঃক্ষেপ",
+       "en": "হলুদ অধঃক্ষেপ"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো পরিবর্তন নয়",
+       "en": "কোনো পরিবর্তন নয়"
+      },
+      {
+       "id": "d",
+       "bn": "নীল দ্রবণ",
+       "en": "নীল দ্রবণ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উৎপন্ন HCl থেকে সাদা AgCl পড়ে।",
+     "explanation_en": "HCl present precipitates white AgCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরোফরম গাঢ় HNO₃ এর সাথে উত্তপ্ত হলে কোন যৌগ হয়?",
+     "question_en": "Chloroform heated with conc. HNO3 gives?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরোপিক্রিন",
+       "en": "ক্লোরোপিক্রিন"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরিটোন",
+       "en": "ক্লোরিটোন"
+      },
+      {
+       "id": "c",
+       "bn": "ফরমিক এসিড",
+       "en": "ফরমিক এসিড"
+      },
+      {
+       "id": "d",
+       "bn": "নাইট্রোবেনজিন",
+       "en": "নাইট্রোবেনজিন"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CCl₃NO₂ (কাঁদুনে গ্যাস)।",
+     "explanation_en": "Chloropicrin CCl3NO2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CHCl₃ + 4NaOH (alc.) বিক্রিয়ায় 1 mol CHCl₃ থেকে কত mol NaCl উৎপন্ন হয়?",
+     "question_en": "Moles NaCl from 1 mol CHCl3 + 4NaOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CHCl₃ + 4NaOH → HCOONa + 3NaCl + 2H₂O।",
+     "explanation_en": "The equation gives 3NaCl.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ক্লোরিটোন কোন দুটি পদার্থের ঘনীভবনে হয় ও এর ব্যবহার কী?",
+     "question_en": "Chloretone is formed from which pair and used as?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসিটোন ও CHCl₃; চেতনানাশক/নিদ্রাজনক",
+       "en": "অ্যাসিটোন ও CHCl₃; চেতনানাশক/নিদ্রাজনক"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল ও CCl₄; দ্রাবক",
+       "en": "ইথানল ও CCl₄; দ্রাবক"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যানিলিন ও CHCl₃; রং",
+       "en": "অ্যানিলিন ও CHCl₃; রং"
+      },
+      {
+       "id": "d",
+       "bn": "মিথানল ও Cl₂; ফ্রিজ গ্যাস",
+       "en": "মিথানল ও Cl₂; ফ্রিজ গ্যাস"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "লঘু KOH এ অ্যাসিটোন + CHCl₃ → ক্লোরিটোন।",
+     "explanation_en": "Acetone + CHCl3 with dil. KOH.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.12",
+   "title_bn": "ক্লোরোফরম শনাক্তকরণ : কার্বিল অ্যামিন বিক্রিয়া",
+   "title_en": "Chloroform test: carbylamine reaction",
+   "notes_bn": "ক্লোরোফরম ও অ্যালকোহলীয় KOH এর সাথে অ্যানিলিন মিশিয়ে 60°–70°C এ উত্তপ্ত করলে উগ্র দুর্গন্ধযুক্ত ফিনাইল আইসোসায়ানাইড (কার্বিল অ্যামিন) উৎপন্ন হয়।\nC₆H₅NH₂ + CHCl₃ + 3KOH → C₆H₅NC + 3KCl + 3H₂O।\nএটি ক্লোরোফরমের নিশ্চিতকরণ পরীক্ষা।",
+   "notes_en": "Warm (60–70 C) chloroform, aniline and alcoholic KOH: foul-smelling phenyl isocyanide (carbylamine) forms.\nC6H5NH2 + CHCl3 + 3KOH -> C6H5NC + 3KCl + 3H2O.\nThis is the confirmatory test for chloroform.",
+   "mcqs": [
+    {
+     "question_bn": "কার্বিল অ্যামিন বিক্রিয়ায় কোন যৌগ উৎপন্ন হয়?",
+     "question_en": "Which compound forms in the carbylamine reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফিনাইল আইসোসায়ানাইড",
+       "en": "ফিনাইল আইসোসায়ানাইড"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রোবেনজিন",
+       "en": "নাইট্রোবেনজিন"
+      },
+      {
+       "id": "c",
+       "bn": "ফেনল",
+       "en": "ফেনল"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিলিন হাইড্রোক্লোরাইড",
+       "en": "অ্যানিলিন হাইড্রোক্লোরাইড"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যানিলিন + CHCl₃ + KOH → C₆H₅NC।",
+     "explanation_en": "Phenyl isocyanide forms.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কার্বিল অ্যামিন পরীক্ষায় ব্যবহৃত অ্যামিন কোনটি (বইয়ের উদাহরণ)?",
+     "question_en": "Which amine does the book use in the carbylamine test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানিলিন",
+       "en": "অ্যানিলিন"
+      },
+      {
+       "id": "b",
+       "bn": "ট্রাইমিথাইল অ্যামিন",
+       "en": "ট্রাইমিথাইল অ্যামিন"
+      },
+      {
+       "id": "c",
+       "bn": "ডাইইথাইল অ্যামিন",
+       "en": "ডাইইথাইল অ্যামিন"
+      },
+      {
+       "id": "d",
+       "bn": "ইউরিয়া",
+       "en": "ইউরিয়া"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে অ্যানিলিন ব্যবহৃত।",
+     "explanation_en": "Aniline.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "এই পরীক্ষার ইতিবাচক ফলাফলের লক্ষণ কী?",
+     "question_en": "Positive sign of this test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উগ্র দুর্গন্ধ",
+       "en": "উগ্র দুর্গন্ধ"
+      },
+      {
+       "id": "b",
+       "bn": "লাল অধঃক্ষেপ",
+       "en": "লাল অধঃক্ষেপ"
+      },
+      {
+       "id": "c",
+       "bn": "নীল রং",
+       "en": "নীল রং"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো গন্ধ নেই",
+       "en": "কোনো গন্ধ নেই"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আইসোসায়ানাইডের উগ্র গন্ধ।",
+     "explanation_en": "Offensive smell of isocyanide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C₆H₅NH₂ + CHCl₃ + 3KOH বিক্রিয়ায় 1 mol কার্বিল অ্যামিনের সাথে কত mol KCl উৎপন্ন হয়?",
+     "question_en": "Moles KCl per mole carbylamine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "3KCl।",
+     "explanation_en": "Three KCl are produced.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.13",
+   "title_bn": "ক্লোরোফরমের ব্যবহার",
+   "title_en": "Uses of chloroform",
+   "notes_bn": "অস্ত্রোপচারে চেতনানাশক; তবে লিভারের ক্ষতি করে এবং anaesthetic ও lethal ডোজের পার্থক্য কম বলে এখন কম ব্যবহৃত।\nদ্রাবক: চর্বি, রেজিন, রাবার, মোম, তেল।\nপচন নিবারক: উদ্ভিজ্জ/প্রাণী নমুনা সংরক্ষণ।\nবিকারক ও দ্রাবকরূপে পরীক্ষাগারে।\nক্লোরোপিক্রিন তৈরি ও ওষুধ সুগন্ধময় করতে।",
+   "notes_en": "Anaesthetic in surgery; but damages liver and has a narrow gap between anaesthetic and lethal dose, so less used now.\nSolvent for fats, resins, rubber, wax, oils.\nPreservative for specimens.\nLab reagent and solvent.\nUsed to make chloropicrin and to flavour medicines.",
+   "mcqs": [
+    {
+     "question_bn": "ক্লোরোফরমের একটি ব্যবহার কোনটি?",
+     "question_en": "A use of chloroform?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চেতনানাশক",
+       "en": "চেতনানাশক"
+      },
+      {
+       "id": "b",
+       "bn": "জ্বালানি",
+       "en": "জ্বালানি"
+      },
+      {
+       "id": "c",
+       "bn": "সার",
+       "en": "সার"
+      },
+      {
+       "id": "d",
+       "bn": "রঞ্জক",
+       "en": "রঞ্জক"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অস্ত্রোপচারে চেতনানাশক।",
+     "explanation_en": "Anaesthetic.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "চেতনানাশকরূপে ক্লোরোফরমের ক্ষেত্রে কোন অঙ্গের ক্ষতি হয়?",
+     "question_en": "Which organ is damaged by chloroform anaesthesia?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লিভার",
+       "en": "লিভার"
+      },
+      {
+       "id": "b",
+       "bn": "ফুসফুস",
+       "en": "ফুসফুস"
+      },
+      {
+       "id": "c",
+       "bn": "হৃৎপিণ্ড শুধু",
+       "en": "হৃৎপিণ্ড শুধু"
+      },
+      {
+       "id": "d",
+       "bn": "কিডনি শুধু",
+       "en": "কিডনি শুধু"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে লিভারের ক্ষতির কথা বলা হয়েছে।",
+     "explanation_en": "The book mentions liver damage.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরোফরম চেতনানাশকরূপে কম ব্যবহৃত হওয়ার কারণ কোনটি?",
+     "question_en": "Why is chloroform less used as an anaesthetic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "anaesthetic ও lethal ডোজের পার্থক্য কম",
+       "en": "anaesthetic ও lethal ডোজের পার্থক্য কম"
+      },
+      {
+       "id": "b",
+       "bn": "দামি",
+       "en": "দামি"
+      },
+      {
+       "id": "c",
+       "bn": "বর্ণহীন",
+       "en": "বর্ণহীন"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যাসীয়",
+       "en": "গ্যাসীয়"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ডোজের পার্থক্য কম হওয়ায় মৃত্যুঝুঁকি বেশি।",
+     "explanation_en": "Narrow dose gap raises death risk.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্লোরোফরম কোন যৌগ উৎপাদনে ব্যবহৃত হয়?",
+     "question_en": "Chloroform is used to make which compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরোপিক্রিন",
+       "en": "ক্লোরোপিক্রিন"
+      },
+      {
+       "id": "b",
+       "bn": "ইথানল",
+       "en": "ইথানল"
+      },
+      {
+       "id": "c",
+       "bn": "ফ্রিয়ন-12",
+       "en": "ফ্রিয়ন-12"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "বেনজিন"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ক্লোরোপিক্রিন উৎপাদনের কথা আছে।",
+     "explanation_en": "Chloropicrin.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "6.14",
+   "title_bn": "কার্বন টেট্রাক্লোরাইড বা পাইরিন CCl₄",
+   "title_en": "Carbon tetrachloride (pyrene), CCl4",
+   "notes_bn": "প্রস্তুতি: (1) CH₄ + 4Cl₂ (আলো) → CCl₄ + 4HCl; (2) CS₂ + 3Cl₂ (শুষ্ক AlCl₃) → CCl₄ + S₂Cl₂।\nপাতন: CCl₄ স্ফুটনাঙ্ক 77°C, S₂Cl₂ 138°C; NaOH দ্রবণে ঝাঁকিয়ে পুনরায় পাতন করে বিশুদ্ধ CCl₄।\nব্যবহার: অদাহ্য উত্তম দ্রাবক (তেল বীজ থেকে তেল নিষ্কাশন; তেল, চর্বি, রাবার, মোম); রেশম-পশমি বস্ত্রের ড্রাই ওয়াশ; স্টোভ, টাইলস ইত্যাদি পরিষ্কার; পোকামাকড় ও হুক ওয়ার্ম ধ্বংস; ফ্রিয়ন উৎপাদন।",
+   "notes_en": "Preparation: CH4 + 4Cl2 (light) -> CCl4 + 4HCl; or CS2 + 3Cl2 (dry AlCl3) -> CCl4 + S2Cl2.\nPurification: CCl4 b.p. 77 C, S2Cl2 b.p. 138 C; shake with NaOH and re-distil.\nUses: non-flammable solvent (oil extraction from seeds, fats, rubber, wax); dry cleaning of silk and wool; cleaning stoves, tiles; killing insects and hook worm; manufacture of freon.",
+   "mcqs": [
+    {
+     "question_bn": "CCl₄ এর স্ফুটনাঙ্ক কত?",
+     "question_en": "Boiling point of CCl4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "77°C",
+       "en": "77°C"
+      },
+      {
+       "id": "b",
+       "bn": "62°C",
+       "en": "62°C"
+      },
+      {
+       "id": "c",
+       "bn": "138°C",
+       "en": "138°C"
+      },
+      {
+       "id": "d",
+       "bn": "112°C",
+       "en": "112°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে CCl₄ স্ফুটনাঙ্ক 77°C।",
+     "explanation_en": "77 C.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CS₂ থেকে CCl₄ প্রস্তুতিতে প্রভাবক কোনটি?",
+     "question_en": "Catalyst for making CCl4 from CS2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুষ্ক AlCl₃",
+       "en": "শুষ্ক AlCl₃"
+      },
+      {
+       "id": "b",
+       "bn": "Ni",
+       "en": "Ni"
+      },
+      {
+       "id": "c",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "d",
+       "bn": "H₂SO₄",
+       "en": "H₂SO₄"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CS₂ + 3Cl₂ → CCl₄ + S₂Cl₂ (AlCl₃)।",
+     "explanation_en": "Dry AlCl3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CS₂ থেকে CCl₄ প্রস্তুতিতে CCl₄ থেকে S₂Cl₂ কীভাবে আলাদা করা হয়?",
+     "question_en": "How is S2Cl2 separated from CCl4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আংশিক পাতন (স্ফুটনাঙ্ক 77 ও 138°C)",
+       "en": "আংশিক পাতন (স্ফুটনাঙ্ক 77 ও 138°C)"
+      },
+      {
+       "id": "b",
+       "bn": "ছাঁকন",
+       "en": "ছাঁকন"
+      },
+      {
+       "id": "c",
+       "bn": "স্ফটিকীকরণ",
+       "en": "স্ফটিকীকরণ"
+      },
+      {
+       "id": "d",
+       "bn": "দ্রবীভূতকরণ",
+       "en": "দ্রবীভূতকরণ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "স্ফুটনাঙ্কের ব্যবধান কাজে লাগানো হয়।",
+     "explanation_en": "Fractional distillation using b.p. 77 vs 138 C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CCl₄ এর একটি ব্যবহার কোনটি?",
+     "question_en": "A use of CCl4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রেশম ও পশমি বস্ত্রের ড্রাই ওয়াশ",
+       "en": "রেশম ও পশমি বস্ত্রের ড্রাই ওয়াশ"
+      },
+      {
+       "id": "b",
+       "bn": "চেতনানাশক",
+       "en": "চেতনানাশক"
+      },
+      {
+       "id": "c",
+       "bn": "ফল পাকানো",
+       "en": "ফল পাকানো"
+      },
+      {
+       "id": "d",
+       "bn": "রং তৈরি",
+       "en": "রং তৈরি"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ড্রাই ওয়াশের উল্লেখ আছে।",
+     "explanation_en": "Dry cleaning silk and wool.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথেন থেকে CCl₄ তৈরিতে 1 mol CH₄ এর জন্য কত mol Cl₂ লাগে?",
+     "question_en": "Moles Cl2 per mole CH4 for CCl4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "CH₄ + 4Cl₂ → CCl₄ + 4HCl।",
+     "explanation_en": "Four Cl2.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "6.8",
+   "stimulus_bn": "একটি ল্যাবে ব্রোমোইথেন (C₂H₅Br) ও টারসিয়ারি বিউটাইল ক্লোরাইডকে ভিন্ন ভিন্ন অবস্থায় বিক্রিয়া করানো হলো। প্রথমটিতে জলীয় KOH ও দ্বিতীয়টিতে জল ব্যবহার করা হয়; এছাড়া C₂H₅Br কে শুষ্ক ইথারে Mg এর সাথে বিক্রিয়া করানো হয় এবং উৎপন্ন দ্রবণে HCHO যোগ করা হয়।",
+   "stimulus_en": "In a lab, bromoethane and t-butyl chloride are reacted under different conditions: the first with aqueous KOH, the second with water. Bromoethane is also treated with Mg in dry ether and the product is reacted with HCHO.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "SN2 কী?",
+     "question_en": "What is SN2?",
+     "model_answer_bn": "দ্বিআণবিক নিউক্লিওফিলিক প্রতিস্থাপন বিক্রিয়া, যার হার RX ও নিউক্লিওফাইল উভয়ের ঘনমাত্রার ওপর নির্ভর করে।",
+     "model_answer_en": "Bimolecular nucleophilic substitution whose rate depends on both [RX] and the nucleophile."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "টারসিয়ারি বিউটাইল ক্লোরাইড কেন SN1 পথে বিক্রিয়া করে ব্যাখ্যা করো।",
+     "question_en": "Explain why t-butyl chloride reacts by SN1.",
+     "model_answer_bn": "3° হ্যালাইড ধীরে বিয়োজিত হয়ে স্থিতিশীল কার্বোক্যাটায়ন দেয়; পোলার দ্রাবক (পানি) এটি সহজ করে এবং শাখাযুক্ত অ্যালকিল মূলকের ইলেকট্রনিক প্রভাবে কার্বোক্যাটায়ন স্থায়ী হয়।",
+     "model_answer_en": "A 3° halide ionises slowly to a stable carbocation; polar solvent water assists and the branched alkyl groups stabilise the cation."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "C₂H₅Br ও জলীয় KOH এর বিক্রিয়ার সমীকরণ ও হারের রাশিমালা লেখো এবং বিক্রিয়ার ক্রম বলো।",
+     "question_en": "Write the equation and rate expression for C2H5Br with aqueous KOH and state the order.",
+     "model_answer_bn": "C₂H₅Br + KOH(aq) → C₂H₅OH + KBr; হার = k[RX][OH⁻]; দ্বিতীয় ক্রম।",
+     "model_answer_en": "C2H5Br + KOH(aq) -> C2H5OH + KBr; rate = k[RX][OH-]; second order."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "C₂H₅Br থেকে Mg ও HCHO ব্যবহার করে কীভাবে প্রোপানল-1 পাওয়া যায় ধাপে ধাপে দেখাও এবং বিক্রিয়াটি কীভাবে ইথানলের প্রাইমারি অ্যালকোহল প্রস্তুতির সাথে তুলনীয় লেখো।",
+     "question_en": "Show stepwise how Grignard chemistry converts C2H5Br with Mg and HCHO into a primary alcohol and compare with the ethanol case in the book.",
+     "model_answer_bn": "C₂H₅Br + Mg → C₂H₅MgBr (শুষ্ক ইথার); C₂H₅MgBr + HCHO → C₂H₅CH₂OMgBr; H₂O → C₂H₅CH₂OH (প্রোপানল-1) + Mg(OH)Br। বইয়ের CH₃MgI + HCHO → ইথানল এর মতোই; HCHO যেকোনো গ্রিগনার্ড বিকারক থেকে 1° অ্যালকোহল দেয়, শিকল এক কার্বন বাড়ে।",
+     "model_answer_en": "C2H5Br + Mg -> C2H5MgBr; + HCHO -> C2H5CH2OMgBr; H2O -> propan-1-ol + Mg(OH)Br. As with CH3MgI + HCHO giving ethanol, HCHO gives a 1 degree alcohol and extends the chain by one carbon."
+    }
+   ]
+  },
+  {
+   "topic_section": "6.10",
+   "stimulus_bn": "একটি হাসপাতালে পুরনো একটি বোতলে রাখা ক্লোরোফরম আলোতে রাখায় ফসজিন তৈরি হয়েছে বলে সন্দেহ করা হলো। শিক্ষার্থী নমুনায় AgNO₃ দ্রবণ ঢেলে পরীক্ষা করল এবং পরে ইথানল থেকে ব্লিচিং পাউডার দিয়ে নতুন ক্লোরোফরম তৈরির পরিকল্পনা করল।",
+   "stimulus_en": "Chloroform in an old bottle exposed to light is suspected to contain phosgene. A student tests with AgNO3 and later plans to make fresh chloroform from ethanol and bleaching powder.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ফসজিনের সংকেত লেখো।",
+     "question_en": "Write the formula of phosgene.",
+     "model_answer_bn": "COCl₂",
+     "model_answer_en": "COCl2"
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "ক্লোরোফরম অস্বচ্ছ বাদামি বোতলে কেন রাখা হয়?",
+     "question_en": "Why is chloroform kept in dark brown bottles?",
+     "model_answer_bn": "আলো ও বায়ুর উপস্থিতিতে ক্লোরোফরম জারিত হয়ে বিষাক্ত ফসজিন ও HCl দেয়; বাদামি বোতল আলো আটকায়।",
+     "model_answer_en": "Light and air oxidise it to toxic phosgene and HCl; a brown bottle blocks light."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "AgNO₃ পরীক্ষার ফলাফল ও সমীকরণ ব্যাখ্যা করো।",
+     "question_en": "Explain the AgNO3 test result with equations.",
+     "model_answer_bn": "2CHCl₃ + O₂ → 2COCl₂ + 2HCl; HCl + AgNO₃ → AgCl (সাদা) + HNO₃। সাদা অধঃক্ষেপ পড়লে নমুনা অবিশুদ্ধ; বিশুদ্ধ হলে পড়ে না।",
+     "model_answer_en": "2CHCl3 + O2 -> 2COCl2 + 2HCl; HCl + AgNO3 -> AgCl (white) + HNO3. A white precipitate indicates impure chloroform."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ইথানল থেকে ক্লোরোফরম প্রস্তুতির ধাপগুলো সমীকরণসহ লেখো এবং সংরক্ষণে 1% ইথানল যোগ করার যুক্তি দাও।",
+     "question_en": "Give the steps (with equations) of preparing chloroform from ethanol and justify adding 1% ethanol on storage.",
+     "model_answer_bn": "CH₃CH₂OH + Cl₂ → CH₃CHO + 2HCl; CH₃CHO + 3Cl₂ → CCl₃CHO + 3HCl; 2CCl₃CHO + Ca(OH)₂ → 2CHCl₃ + (HCOO)₂Ca। ইথানল ফসজিনকে নিরাপদ ডাইইথাইল কার্বনেটে পরিণত করে: COCl₂ + 2C₂H₅OH → (C₂H₅)₂CO₃ + 2HCl।",
+     "model_answer_en": "CH3CH2OH + Cl2 -> CH3CHO + 2HCl; CH3CHO + 3Cl2 -> CCl3CHO + 3HCl; 2CCl3CHO + Ca(OH)2 -> 2CHCl3 + (HCOO)2Ca. Ethanol converts phosgene to safe diethyl carbonate."
+    }
+   ]
+  },
+  {
+   "topic_section": "6.5",
+   "stimulus_bn": "একজন শিক্ষার্থী ল্যাবে লাল ফসফরাস, আয়োডিন ও মিথানল ব্যবহার করে আয়োডো মিথেন প্রস্তুত করছে এবং আলাদাভাবে প্রোপিন থেকে একটি ব্রোমাইড তৈরি করছে।",
+   "stimulus_en": "A student prepares iodomethane from red phosphorus, iodine and methanol, and separately makes a bromide from propene.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "আয়োডো মিথেনের সংকেত কী?",
+     "question_en": "Formula of iodomethane?",
+     "model_answer_bn": "CH₃I",
+     "model_answer_en": "CH3I"
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "CH₃I প্রস্তুতিতে প্রথমে কোন যৌগ গঠিত হয়?",
+     "question_en": "What forms first in CH3I preparation?",
+     "model_answer_bn": "লাল P ও I₂ বিক্রিয়ায় ফসফরাস ট্রাইআয়োডাইড (PI₃): 2P + 3I₂ → 2PI₃।",
+     "model_answer_en": "Phosphorus triiodide: 2P + 3I2 -> 2PI3."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "মিথানল ও PI₃ এর বিক্রিয়ার সমীকরণ লেখো এবং বিশুদ্ধ CH₃I পাওয়ার ধাপ বলো।",
+     "question_en": "Write methanol + PI3 and state how pure CH3I is obtained.",
+     "model_answer_bn": "3CH₃OH + PI₃ → 3CH₃I + H₃PO₃। লঘু NaOH দিয়ে ধুয়ে পৃথকীকরণ ফানেলে CH₃I আলাদা, CaCl₂ সহ 42.3°C এ পাতন।",
+     "model_answer_en": "3CH3OH + PI3 -> 3CH3I + H3PO3. Wash with dil. NaOH, separate, distil over CaCl2 at 42.3 C."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "প্রোপিন থেকে ব্রোমাইড তৈরির বিক্রিয়া লেখো ও উৎপাদের IUPAC নাম দাও। কেন অ্যালকোহল থেকে RBr তৈরিতে গাঢ় H₂SO₄ ব্যবহৃত হয় তা ব্যাখ্যা করো।",
+     "question_en": "Write propene + HBr and name the product; explain why conc. H2SO4 is used in making RBr from alcohol.",
+     "model_answer_bn": "CH₃CH=CH₂ + HBr → CH₃CHBrCH₃ (2-ব্রোমো প্রোপেন)। অ্যালকোহল + HX উভমুখী বিক্রিয়া; গাঢ় H₂SO₄ উৎপন্ন পানি অপসারণ করে বিক্রিয়াকে সম্মুখে এগিয়ে দেয়।",
+     "model_answer_en": "CH3CH=CH2 + HBr -> CH3CHBrCH3 (2-bromopropane). The reaction is reversible; conc. H2SO4 removes water and drives it forward."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 350-371 readable. Sections 6.15/6.16 (printed p.355-356) are outside the assigned range and not covered. Iodoform temperature (about 50 C) read from body text; arrow label low-res."
+}

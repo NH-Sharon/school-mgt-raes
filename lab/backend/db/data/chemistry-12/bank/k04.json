@@ -1,0 +1,1909 @@
+{
+ "chapter_no": 1,
+ "topics": [
+  {
+   "section_no": "1.40",
+   "title_bn": "অক্সিজেন ও সালফারের পর্যায়ভিত্তিক রাসায়নিক ধর্ম",
+   "title_en": "Periodic chemical properties of O and S",
+   "notes_bn": "দুটিরই যোজ্যতা স্তরে ৬টি ইলেকট্রন; ধাতুর সাথে ২টি ইলেকট্রন গ্রহণ করে O²⁻/S²⁻ আয়নিক যৌগ (Na₂O, Na₂S) গঠন করে।\nঅধাতুর সাথে সমযোজী যৌগ: O-এর সমযোজ্যতা 2, S-এর 2, 4, 6 (খালি 3d অরবিটাল থাকায়); O-এর 2য় স্তরে d-অরবিটাল নেই।\nH₂O ও H₂S-এ sp³ সংকরণ; একাকী জোড় বিকর্ষণে বন্ধন কোণ কমে: ∠HOH=104.5°, ∠HSH=92.6°।\nজারণ সংখ্যা: O সাধারণত −2 (H₂O₂-এ −1, F₂O-তে +2); S-এর −2, +2, +4, +6 (SCl₂, SF₄/SO₂, SF₆/SO₃)।\nSF₆ গঠিত হয় (S-এ 3s¹3p³3d²; অষ্টতলক), কিন্তু OF₆ হয় না।\nO₂-এর দ্বিবন্ধন বিয়োজন শক্তি 498 kJ/mol, তাই কক্ষ তাপমাত্রায় নিষ্ক্রিয়; S₈ মুকুটাকৃতি, S–S শক্তি 264 kJ/mol, কোণ 105°।\nহাইড্রাইড: H₂O তরল (H-বন্ধন), H₂S গ্যাস; Ka: H₂O 1×10⁻¹⁴, H₂S 1.1×10⁻⁷; S₂Cl₂ রাবারের ভলকানাইজেশনে ব্যবহৃত; SF₆ উচ্চ ভোল্টেজ ইনসুলেটর।",
+   "notes_en": "Both have 6 valence electrons; with metals they gain 2 e⁻ to give ionic O²⁻/S²⁻ (Na₂O, Na₂S).\nCovalency: O = 2; S = 2, 4, 6 (empty 3d orbitals); O has no d-orbital in shell 2.\nH₂O and H₂S are sp³; lone-pair repulsion gives ∠HOH 104.5°, ∠HSH 92.6°.\nOxidation states: O mostly −2 (−1 in H₂O₂, +2 in F₂O); S −2, +2, +4, +6.\nSF₆ exists (octahedral) but OF₆ does not.\nO=O dissociation energy 498 kJ/mol (O₂ inert at room T); S₈ crown, S–S 264 kJ/mol, angle 105°.\nH₂O liquid, H₂S gas; Ka 1×10⁻¹⁴ vs 1.1×10⁻⁷; S₂Cl₂ used in vulcanisation; SF₆ gas insulator.",
+   "mcqs": [
+    {
+     "question_bn": "সালফার SF₆ গঠন করতে পারে কিন্তু অক্সিজেন OF₆ গঠন করতে পারে না, কারণ—",
+     "question_en": "Sulphur forms SF₆ but oxygen cannot form OF₆ because—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O-এর তড়িৎ ঋণাত্মকতা কম",
+       "en": "O has lower electronegativity"
+      },
+      {
+       "id": "b",
+       "bn": "O-এর যোজ্যতা স্তরে (2য় স্তরে) d-অরবিটাল নেই",
+       "en": "O has no d-orbital in its valence shell (shell 2)"
+      },
+      {
+       "id": "c",
+       "bn": "O-এর পারমাণবিক ভর কম",
+       "en": "O has smaller atomic mass"
+      },
+      {
+       "id": "d",
+       "bn": "O দ্বিপরমাণুক",
+       "en": "O is diatomic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2য় স্তরে d-অরবিটাল না থাকায় অষ্টক সম্প্রসারণ সম্ভব নয়; S-এ 3d আছে।",
+     "explanation_en": "No d-orbital in shell 2, so no octet expansion; S has 3d orbitals.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "H₂O₂-এ অক্সিজেনের জারণ সংখ্যা কত?",
+     "question_en": "What is the oxidation number of oxygen in H₂O₂?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−2",
+       "en": "−2"
+      },
+      {
+       "id": "b",
+       "bn": "−1",
+       "en": "−1"
+      },
+      {
+       "id": "c",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "d",
+       "bn": "+2",
+       "en": "+2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H₂O₂-এ O–O বন্ধন থাকায় প্রতি O-এর জারণ সংখ্যা −1।",
+     "explanation_en": "H₂O₂ has an O–O bond, so each O is −1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগে সালফারের জারণ সংখ্যা +6?",
+     "question_en": "In which compound is sulphur's oxidation number +6?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SF₄",
+       "en": "SF₄"
+      },
+      {
+       "id": "b",
+       "bn": "SO₂",
+       "en": "SO₂"
+      },
+      {
+       "id": "c",
+       "bn": "SCl₂",
+       "en": "SCl₂"
+      },
+      {
+       "id": "d",
+       "bn": "SF₆",
+       "en": "SF₆"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "SF₆-এ S +6; SF₄ ও SO₂-এ +4; SCl₂-এ +2।",
+     "explanation_en": "S is +6 in SF₆; +4 in SF₄/SO₂; +2 in SCl₂.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি সঠিক নয়?",
+     "question_en": "Which statement is NOT correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂O-এর Ka ≈ 1×10⁻¹⁴, H₂S-এর ≈ 1.1×10⁻⁷",
+       "en": "Ka of H₂O ≈ 1×10⁻¹⁴, of H₂S ≈ 1.1×10⁻⁷"
+      },
+      {
+       "id": "b",
+       "bn": "S₂Cl₂ রাবারের ভলকানাইজেশনে ব্যবহৃত",
+       "en": "S₂Cl₂ is used in vulcanisation of rubber"
+      },
+      {
+       "id": "c",
+       "bn": "SF₆ গ্যাসীয় ও নিষ্ক্রিয়, ইনসুলেটর হিসেবে ব্যবহৃত",
+       "en": "SF₆ is a gaseous inert insulator"
+      },
+      {
+       "id": "d",
+       "bn": "O₂ অণুর দ্বিবন্ধন বিয়োজন শক্তি 264 kJ/mol",
+       "en": "O=O dissociation energy is 264 kJ/mol"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "264 kJ/mol হলো S–S বন্ধন শক্তি; O=O-এর 498 kJ/mol।",
+     "explanation_en": "264 kJ/mol is S–S; O=O is 498 kJ/mol.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.41",
+   "title_bn": "অক্সিজেন ও সালফারের মধ্যে তুলনা",
+   "title_en": "Comparison between oxygen and sulphur",
+   "notes_bn": "সাদৃশ্য: উভয়ের ns²np⁴ বিন্যাস; IA/IIA ধাতুর সাথে আয়নিক (O²⁻, S²⁻), অধাতুর সাথে সমযোজী যৌগ; স্থায়ী হাইড্রাইড H₂O, H₂S ও অস্থায়ী H₂O₂, H₂S₂।\nউভয়ই সক্রিয় অধাতু, বহুরূপী; উত্তপ্ত অবস্থায় কার্বনের সাথে CO₂, CS₂ গঠন করে; Na₂O ও Na₂S আর্দ্র বিশ্লেষিত হয়।\nবৈসাদৃশ্য: O বর্ণহীন গ্যাস, S হলুদ কঠিন; অণু O₂/O₃ বনাম S₈।\nসমযোজ্যতা O-এর সর্বোচ্চ 2, S-এর 2, 4, 6; O-এর জারণ সংখ্যা সাধারণত −2, S-এর −2, +2, +4, +6।\nH₂O তরল (হাইড্রোজেন বন্ধন), H₂S গ্যাস; H₂S দুর্বল এসিড, H₂O প্রোটন দাতা ও গ্রহীতা উভয়ই।\nO-এর বহুরূপতা মনোট্রপিক (O₃→O₂), S-এর এনানশিওট্রপিক।\nআয়নের ব্যাস: O²⁻ 0.28 nm, S²⁻ 0.368 nm; S²⁻ বেশি পোলারায়িত হয়।",
+   "notes_en": "Similarities: ns²np⁴; ionic with IA/IIA metals, covalent with non-metals; stable hydrides H₂O, H₂S, unstable H₂O₂, H₂S₂; both reactive non-metals with allotropes; burn with C to CO₂/CS₂; Na₂O and Na₂S hydrolyse.\nDifferences: O colourless gas, S yellow solid; O₂/O₃ vs S₈.\nMax covalency O 2, S 2/4/6; oxidation states O mostly −2, S −2, +2, +4, +6.\nH₂O liquid (H-bonding), H₂S gas; H₂S weak acid, H₂O both proton donor and acceptor.\nO allotropy monotropic, S enantiotropic.\nIon diameter O²⁻ 0.28 nm, S²⁻ 0.368 nm; S²⁻ is more polarised.",
+   "mcqs": [
+    {
+     "question_bn": "অক্সিজেন ও সালফারের যোজ্যতা স্তরের ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Valence-shell configuration common to O and S is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ns²np²",
+       "en": "ns²np²"
+      },
+      {
+       "id": "b",
+       "bn": "ns²np⁴",
+       "en": "ns²np⁴"
+      },
+      {
+       "id": "c",
+       "bn": "ns²np⁶",
+       "en": "ns²np⁶"
+      },
+      {
+       "id": "d",
+       "bn": "ns²np³",
+       "en": "ns²np³"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "গ্রুপ VIA-এর সব মৌলের ns²np⁴।",
+     "explanation_en": "Group VIA elements are ns²np⁴.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "O-এর বহুরূপতাকে কী বলা হয়?",
+     "question_en": "Allotropy of oxygen is called—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এনানশিওট্রপিক",
+       "en": "enantiotropic"
+      },
+      {
+       "id": "b",
+       "bn": "মনোট্রপিক",
+       "en": "monotropic"
+      },
+      {
+       "id": "c",
+       "bn": "ডাইমরফিক",
+       "en": "dimorphic"
+      },
+      {
+       "id": "d",
+       "bn": "আইসোমরফিক",
+       "en": "isomorphic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "O₃ শুধু O₂-এর দিকেই পরিবর্তিত হয়; একমুখী।",
+     "explanation_en": "O₃ changes only toward O₂ (one direction).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অক্সিজেন ও সালফারের তুলনায় কোনটি সঠিক?",
+     "question_en": "Which comparison is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O-এর সর্বোচ্চ সমযোজ্যতা 2, S-এর 6",
+       "en": "Max covalency O = 2, S = 6"
+      },
+      {
+       "id": "b",
+       "bn": "উভয়ের হাইড্রাইড গ্যাস",
+       "en": "Both hydrides are gases"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ের বহুরূপতা মনোট্রপিক",
+       "en": "Both allotropies are monotropic"
+      },
+      {
+       "id": "d",
+       "bn": "S²⁻ আয়ন O²⁻-এর চেয়ে ছোট",
+       "en": "S²⁻ is smaller than O²⁻"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "S-এ 3d অরবিটাল থাকায় 4, 6 যোজ্যতা সম্ভব।",
+     "explanation_en": "S has 3d orbitals, allowing 4 and 6.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি O ও S-এর সাদৃশ্য নয়?",
+     "question_en": "Which is NOT a similarity of O and S?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বনের সাথে CO₂/CS₂ গঠন",
+       "en": "form CO₂/CS₂ with carbon"
+      },
+      {
+       "id": "b",
+       "bn": "উভয়ের বহুরূপতা আছে",
+       "en": "both show allotropy"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ের হাইড্রাইড তরল",
+       "en": "both hydrides are liquids"
+      },
+      {
+       "id": "d",
+       "bn": "IA ধাতুর সাথে আয়নিক যৌগ",
+       "en": "ionic compounds with IA metals"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "H₂O তরল, H₂S গ্যাস।",
+     "explanation_en": "H₂O is liquid, H₂S is gas.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "1.42",
+   "title_bn": "অক্সিজেনের অবস্থান, উৎপাদন ও ব্যবহার",
+   "title_en": "Occurrence, production and uses of oxygen",
+   "notes_bn": "বায়ুতে প্রায় 21% অক্সিজেন; শ্বসনের জন্য অপরিহার্য; পানিতে অল্প দ্রবীভূত, তাই জলজ প্রাণী তা শ্বাসে ব্যবহার করে।\nO₂ বর্ণহীন দ্বিপরমাণুক গ্যাস; গলনাঙ্ক −219°C, স্ফুটনাঙ্ক −183°C; একমাত্র নিষ্ক্রিয় মৌল বাদে প্রায় সব মৌলের সাথে যৌগ গঠন করে।\nউৎপাদন: তরল বায়ুর আংশিক পাতন; −196°C-এ N₂ আগে গ্যাস হয়ে বের হয়, −183°C-এ O₂ বের হয়।\nব্যবহার: ইস্পাত তৈরিতে কার্বন ইত্যাদি অপদ্রব্য জারণ; অক্সি-অ্যাসিটিলিন শিখায় ধাতু কাটা/ঝালাই (C₂H₂ পূর্ণ দহন); হাসপাতালে কৃত্রিম শ্বাস-প্রশ্বাসে সিলিন্ডার।",
+   "notes_en": "Air contains about 21% O₂; essential for respiration; slightly soluble in water, used by aquatic life.\nColourless diatomic gas; m.p. −219°C, b.p. −183°C; combines with almost all elements (except inert gases).\nIndustrial production: fractional distillation of liquid air — N₂ (b.p. −196°C) leaves first, O₂ at −183°C.\nUses: steel making (oxidising impurities), oxy-acetylene flame for cutting/welding, medical breathing cylinders.",
+   "mcqs": [
+    {
+     "question_bn": "বায়ুতে আয়তনে প্রায় কত শতাংশ অক্সিজেন আছে?",
+     "question_en": "Approximately what percentage of air is oxygen?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "78%",
+       "en": "78%"
+      },
+      {
+       "id": "b",
+       "bn": "21%",
+       "en": "21%"
+      },
+      {
+       "id": "c",
+       "bn": "1%",
+       "en": "1%"
+      },
+      {
+       "id": "d",
+       "bn": "50%",
+       "en": "50%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বায়ুর প্রায় 21% অক্সিজেন।",
+     "explanation_en": "Air is about 21% oxygen.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "শিল্পে অক্সিজেন উৎপাদনের পদ্ধতি কোনটি?",
+     "question_en": "Industrial method for producing oxygen?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তরল বায়ুর আংশিক পাতন",
+       "en": "fractional distillation of liquid air"
+      },
+      {
+       "id": "b",
+       "bn": "পানির তড়িৎ বিশ্লেষণ",
+       "en": "electrolysis of water"
+      },
+      {
+       "id": "c",
+       "bn": "KClO₃ উত্তপ্তকরণ",
+       "en": "heating KClO₃"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্রাস পদ্ধতি",
+       "en": "Frasch process"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তরল বায়ু থেকে আংশিক পাতনে N₂ ও O₂ পৃথক করা হয়।",
+     "explanation_en": "N₂ and O₂ are separated by fractional distillation of liquid air.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "তরল বায়ুর আংশিক পাতনে কোন গ্যাস আগে পৃথক হয়?",
+     "question_en": "In fractional distillation of liquid air, which gas separates first?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নাইট্রোজেন (−196°C)",
+       "en": "nitrogen (−196°C)"
+      },
+      {
+       "id": "b",
+       "bn": "অক্সিজেন (−183°C)",
+       "en": "oxygen (−183°C)"
+      },
+      {
+       "id": "c",
+       "bn": "একসাথে",
+       "en": "both together"
+      },
+      {
+       "id": "d",
+       "bn": "CO₂",
+       "en": "CO₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "N₂-এর স্ফুটনাঙ্ক কম (−196°C), তাই আগে গ্যাসরূপে বের হয়।",
+     "explanation_en": "N₂ has the lower boiling point (−196°C), so it boils off first.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অক্সি-অ্যাসিটিলিন শিখা উৎপন্ন হয় কীসের পূর্ণ দহনে?",
+     "question_en": "Oxy-acetylene flame is produced by complete combustion of—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C₂H₄",
+       "en": "C₂H₄"
+      },
+      {
+       "id": "b",
+       "bn": "CH₄",
+       "en": "CH₄"
+      },
+      {
+       "id": "c",
+       "bn": "C₂H₂",
+       "en": "C₂H₂"
+      },
+      {
+       "id": "d",
+       "bn": "C₂H₆",
+       "en": "C₂H₆"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অ্যাসিটিলিন (ইথাইন, C₂H₂) O₂-এ পুড়ে উচ্চ তাপের শিখা দেয়, যা ধাতু কাটা ও ঝালাইয়ে ব্যবহৃত।",
+     "explanation_en": "Acetylene (C₂H₂) burns in O₂ giving a hot flame for cutting and welding.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.43",
+   "title_bn": "সালফারের অবস্থান, নিষ্কাশন ও ব্যবহার",
+   "title_en": "Occurrence, extraction and uses of sulphur",
+   "notes_bn": "মুক্ত অবস্থায় (লুসিয়ানা ও টেক্সাসের গভীর খনি) এবং ধাতব সালফাইড/সালফেট (ক্যালসিয়াম সালফেট, ম্যাগনেসিয়াম সালফেট) রূপে পাওয়া যায়।\nনিষ্কাশন: ফ্রাস প্রণালী; একটির ভেতর একটি তিনটি সমকেন্দ্রিক নল খনিতে ঢোকানো হয়।\nসবচেয়ে বড় নল দিয়ে প্রায় 160°C-এ ও প্রায় 10 atm চাপে অতি উত্তপ্ত পানি-বাষ্প গিয়ে সালফার গলায়; সবচেয়ে ভেতরের নল দিয়ে উষ্ণ বায়ু চালালে গলিত সালফার মাঝের নল দিয়ে উঠে আসে; বিশুদ্ধতা প্রায় 99.5%।\nব্যবহার: H₂SO₄ উৎপাদনে SO₂; CS₂ প্রস্তুতি; রাবারের ভলকানাইজেশন; দিয়াশলাই, বারুদ; কাগজ শিল্পে Ca(HSO₃)₂; সালফা ড্রাগ; রঞ্জক শিল্প।",
+   "notes_en": "Found native (Louisiana, Texas) and as metal sulphides and sulphates (CaSO₄, MgSO₄).\nFrasch process: three concentric pipes sunk into the deposit.\nSuperheated water at ~160°C and ~10 atm melts the sulphur; hot air in the innermost pipe forces molten sulphur up the middle pipe; purity ~99.5%.\nUses: H₂SO₄ (via SO₂), CS₂, vulcanisation of rubber, matches, gunpowder, paper (Ca(HSO₃)₂), sulpha drugs, dyes.",
+   "mcqs": [
+    {
+     "question_bn": "সালফার নিষ্কাশনের ফ্রাস প্রণালীতে কয়টি সমকেন্দ্রিক নল ব্যবহৃত হয়?",
+     "question_en": "How many concentric pipes are used in the Frasch process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "২",
+       "en": "২"
+      },
+      {
+       "id": "b",
+       "bn": "৩",
+       "en": "৩"
+      },
+      {
+       "id": "c",
+       "bn": "৪",
+       "en": "৪"
+      },
+      {
+       "id": "d",
+       "bn": "১",
+       "en": "১"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তিনটি নল: বাইরেরটি দিয়ে উত্তপ্ত পানি, ভেতরেরটি দিয়ে বায়ু, মাঝেরটি দিয়ে সালফার উঠে।",
+     "explanation_en": "Three pipes: hot water outside, air inside, sulphur through the middle one.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফ্রাস প্রণালীতে সালফার গলাতে ব্যবহৃত উত্তপ্ত পানির তাপমাত্রা প্রায় কত?",
+     "question_en": "Approximate temperature of superheated water in the Frasch process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "100°C",
+       "en": "100°C"
+      },
+      {
+       "id": "b",
+       "bn": "160°C",
+       "en": "160°C"
+      },
+      {
+       "id": "c",
+       "bn": "444°C",
+       "en": "444°C"
+      },
+      {
+       "id": "d",
+       "bn": "95.6°C",
+       "en": "95.6°C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রায় 160°C তাপমাত্রা ও প্রায় 10 atm চাপে।",
+     "explanation_en": "About 160°C at about 10 atm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফ্রাস প্রণালীতে প্রাপ্ত সালফারের বিশুদ্ধতা প্রায়—",
+     "question_en": "Purity of sulphur from the Frasch process is about—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "b",
+       "bn": "90%",
+       "en": "90%"
+      },
+      {
+       "id": "c",
+       "bn": "99.5%",
+       "en": "99.5%"
+      },
+      {
+       "id": "d",
+       "bn": "75%",
+       "en": "75%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "প্রায় 99.5% বিশুদ্ধ।",
+     "explanation_en": "About 99.5% pure.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফ্রাস প্রণালীতে গলিত সালফারকে মাটির উপরে তুলে আনার জন্য কী ব্যবহৃত হয়?",
+     "question_en": "In the Frasch process, what raises the molten sulphur to the surface?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সবচেয়ে বাইরের নলের পানি",
+       "en": "water in outermost pipe"
+      },
+      {
+       "id": "b",
+       "bn": "সবচেয়ে ভেতরের নল দিয়ে চালিত উষ্ণ বায়ু",
+       "en": "hot air through innermost pipe"
+      },
+      {
+       "id": "c",
+       "bn": "পাম্প দিয়ে ভ্যাকুয়াম",
+       "en": "a vacuum pump"
+      },
+      {
+       "id": "d",
+       "bn": "CO₂ গ্যাস",
+       "en": "CO₂ gas"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উষ্ণ বায়ু গলিত সালফারকে ফেনিল করে মাঝের নল দিয়ে উপরে তোলে।",
+     "explanation_en": "Hot air pushes the molten sulphur up the middle pipe.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.44",
+   "title_bn": "অক্সিজেন ও সালফার মৌলের বহুরূপতা",
+   "title_en": "Allotropy of oxygen and sulphur",
+   "notes_bn": "একই মৌলের একাধিক ভৌত রূপে থাকাকে বহুরূপতা বলে। অক্সিজেনের রূপ: ডাইঅক্সিজেন O₂ ও ওজোন O₃।\n3O₂ → 2O₃, ΔH = +142 kJ/mol; O₃ কম স্থায়ী, স্বতঃস্ফূর্তভাবে O₂-তে ফেরে—তাই একমুখী বা মনোট্রপিক।\nবায়ুমণ্ডলের ঊর্ধ্বস্তরে UV শোষণ করে O₂ থেকে O₃ গঠিত হয়। O₃ অণুতে বন্ধন কোণ 117°, অনুরণন গঠন।\nসালফারের ৬টি রূপ: দানাদার—রম্বিক (α) ও মনোক্লিনিক (β); অদানাদার—প্লাস্টিক (γ), দুগ্ধ (δ); তরল—ল্যামডা (λ), মিউ (μ)।\nরম্বিক ও মনোক্লিনিক উভয়ই S₈; রম্বিক 95.6°C-এর নিচে স্থায়ী, মনোক্লিনিক ওপরে; উভয় দিকে পরিবর্তন সম্ভব, তাই এনানশিওট্রপিক।",
+   "notes_en": "Allotropy: an element existing in more than one physical form. Oxygen: O₂ and ozone O₃.\n3O₂ → 2O₃, ΔH = +142 kJ/mol; O₃ is less stable and reverts to O₂ — monotropic.\nUV in the upper atmosphere converts O₂ to O₃; O₃ has bond angle 117° with resonance.\nSulphur has six forms: crystalline — rhombic (α), monoclinic (β); amorphous — plastic (γ), milk (δ); liquid — λ, μ.\nRhombic and monoclinic are both S₈; rhombic is stable below 95.6°C, monoclinic above; change occurs in both directions — enantiotropic.",
+   "mcqs": [
+    {
+     "question_bn": "সালফারের রম্বিক ও মনোক্লিনিক রূপের পারস্পরিক রূপান্তর তাপমাত্রা কত?",
+     "question_en": "Transition temperature between rhombic and monoclinic sulphur?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "95.6°C",
+       "en": "95.6°C"
+      },
+      {
+       "id": "b",
+       "bn": "113°C",
+       "en": "113°C"
+      },
+      {
+       "id": "c",
+       "bn": "444°C",
+       "en": "444°C"
+      },
+      {
+       "id": "d",
+       "bn": "160°C",
+       "en": "160°C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "95.6°C-এর নিচে রম্বিক, ওপরে মনোক্লিনিক স্থায়ী।",
+     "explanation_en": "Rhombic below 95.6°C, monoclinic above.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ওজোন গঠনের বিক্রিয়ার ΔH কত?",
+     "question_en": "ΔH for 3O₂ → 2O₃ is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−142 kJ/mol",
+       "en": "−142 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "+142 kJ/mol",
+       "en": "+142 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "d",
+       "bn": "+498 kJ/mol",
+       "en": "+498 kJ/mol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিক্রিয়াটি তাপশোষী, ΔH = +142 kJ/mol।",
+     "explanation_en": "The reaction is endothermic, ΔH = +142 kJ/mol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সালফারের কোনটি অদানাদার রূপ?",
+     "question_en": "Which of the following is an amorphous form of sulphur?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রম্বিক",
+       "en": "rhombic"
+      },
+      {
+       "id": "b",
+       "bn": "মনোক্লিনিক",
+       "en": "monoclinic"
+      },
+      {
+       "id": "c",
+       "bn": "প্লাস্টিক (γ)",
+       "en": "plastic (γ)"
+      },
+      {
+       "id": "d",
+       "bn": "ল্যামডা (λ)",
+       "en": "lambda (λ)"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "প্লাস্টিক (γ) ও দুগ্ধ (δ) অদানাদার; λ ও μ তরল রূপ।",
+     "explanation_en": "Plastic (γ) and milk (δ) are amorphous; λ and μ are liquid forms.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অক্সিজেনের বহুরূপতাকে মনোট্রপিক বলা হয় কেন?",
+     "question_en": "Why is oxygen's allotropy called monotropic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O₃ কেবল O₂-এর দিকে স্বতঃস্ফূর্তভাবে পরিবর্তিত হয়",
+       "en": "O₃ changes spontaneously only towards O₂"
+      },
+      {
+       "id": "b",
+       "bn": "উভয় দিকে পরিবর্তন সম্ভব",
+       "en": "change occurs in both directions"
+      },
+      {
+       "id": "c",
+       "bn": "তিনটি রূপ আছে",
+       "en": "it has three forms"
+      },
+      {
+       "id": "d",
+       "bn": "O₃-এর কোণ 117°",
+       "en": "O₃ has angle 117°"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একমুখী পরিবর্তনকে মনোট্রপিক বলে; দুইমুখী হলে এনানশিওট্রপিক।",
+     "explanation_en": "One-way change is monotropic; two-way is enantiotropic.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.45",
+   "title_bn": "পর্যায় সারণিতে O ও S এর অবস্থান ও বন্ধন গঠন",
+   "title_en": "Position of O and S in the periodic table and bond formation",
+   "notes_bn": "গ্রুপ VIA-এর মৌল অষ্টক পূর্ণ করতে ২টি ইলেকট্রন গ্রহণ বা শেয়ার করে।\nআয়নিক বন্ধন: 2Na + O → 2Na⁺ + O²⁻ (Na₂O); O²⁻ গঠন তাপশোষী (দ্বিতীয় ইলেকট্রন সংযোজনে), কিন্তু ল্যাটিস এনথালপি ক্ষতিপূরণ করে।\nসালফাইড আয়ন (S²⁻) আকারে বড় ও সহজে পোলারায়িত হয়, তাই সালফাইডে সমযোজী ধর্ম অক্সাইডের চেয়ে বেশি; শুধু গ্রুপ IA ও IIA ধাতু সালফারের সাথে আয়নিক যৌগ গঠন করে।\nসমযোজী বন্ধন: O ও S উভয়ের sp³ সংকরণ; দুই অর্ধপূর্ণ sp³ অরবিটাল H-এর 1s-এর সাথে অধিক্রমণ করে H₂O ও H₂S গঠন করে।",
+   "notes_en": "Group VIA elements complete their octet by gaining or sharing 2 electrons.\nIonic: 2Na + O → 2Na⁺ + O²⁻ (Na₂O); forming O²⁻ is endothermic overall for the second electron gain but is compensated by lattice enthalpy.\nS²⁻ is large and easily polarised, so sulphides are more covalent than oxides; only group IA and IIA metals form ionic sulphides.\nCovalent: O and S are sp³ hybridised; two half-filled sp³ orbitals overlap with H 1s to give H₂O and H₂S.",
+   "mcqs": [
+    {
+     "question_bn": "Na₂O-তে কোন ধরনের বন্ধন বিদ্যমান?",
+     "question_en": "What bond is present in Na₂O?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আয়নিক",
+       "en": "ionic"
+      },
+      {
+       "id": "b",
+       "bn": "সমযোজী",
+       "en": "covalent"
+      },
+      {
+       "id": "c",
+       "bn": "ধাতব",
+       "en": "metallic"
+      },
+      {
+       "id": "d",
+       "bn": "সন্নিবেশ",
+       "en": "coordinate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Na ইলেকট্রন ত্যাগ করে Na⁺ এবং O ২টি গ্রহণ করে O²⁻ গঠন করে।",
+     "explanation_en": "Na loses an electron to give Na⁺; O gains two to give O²⁻.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "H₂O ও H₂S গঠনে O ও S-এর সংকরণ কোনটি?",
+     "question_en": "Hybridisation of O and S in H₂O and H₂S?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp",
+       "en": "sp"
+      },
+      {
+       "id": "b",
+       "bn": "sp²",
+       "en": "sp²"
+      },
+      {
+       "id": "c",
+       "bn": "sp³",
+       "en": "sp³"
+      },
+      {
+       "id": "d",
+       "bn": "sp³d²",
+       "en": "sp³d²"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "দুটিতেই sp³; দুটি অর্ধপূর্ণ অরবিটাল H-এর সাথে বন্ধন গড়ে।",
+     "explanation_en": "Both are sp³; two half-filled orbitals bond with H.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সালফাইডে সমযোজী ধর্ম অক্সাইডের চেয়ে বেশি কেন?",
+     "question_en": "Why are sulphides more covalent than oxides?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "S²⁻ আকারে বড় ও সহজে পোলারায়িত",
+       "en": "S²⁻ is larger and more easily polarised"
+      },
+      {
+       "id": "b",
+       "bn": "S²⁻ ছোট",
+       "en": "S²⁻ is smaller"
+      },
+      {
+       "id": "c",
+       "bn": "S-এর ঋণাত্মকতা O-এর চেয়ে বেশি",
+       "en": "S is more electronegative than O"
+      },
+      {
+       "id": "d",
+       "bn": "S-এ d-অরবিটাল নেই",
+       "en": "S has no d-orbitals"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বড় S²⁻ আয়নের ইলেকট্রন মেঘ ক্যাটায়ন সহজে বিকৃত করে।",
+     "explanation_en": "The large S²⁻ cloud is easily distorted by cations.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন ধাতুগুলো সালফারের সাথে আয়নিক যৌগ গঠন করে?",
+     "question_en": "Which metals form ionic compounds with sulphur?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুধু গ্রুপ IA ও IIA",
+       "en": "only group IA and IIA"
+      },
+      {
+       "id": "b",
+       "bn": "সব ধাতু",
+       "en": "all metals"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু ট্রানজিশন ধাতু",
+       "en": "only transition metals"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো ধাতু নয়",
+       "en": "no metals"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অন্য ধাতুর সালফাইড অধিক সমযোজী।",
+     "explanation_en": "Other metal sulphides are largely covalent.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.46",
+   "title_bn": "অক্সিজেন ও সালফারের বিভিন্ন যৌগসমূহ",
+   "title_en": "Different compounds of oxygen and sulphur",
+   "notes_bn": "অক্সিজেন বেশিরভাগ ধাতু ও অধাতুর সাথে বিক্রিয়া করে ধাতব অক্সাইড (ক্ষারকীয়, উভধর্মী) ও অধাতব অক্সাইড (অম্লধর্মী, নিরপেক্ষ) গঠন করে।\nউত্তপ্ত অবস্থায় সালফার অধিকাংশ ধাতুর সাথে ধাতব সালফাইড গঠন করে; উত্তপ্ত সালফার অধাতু (ফ্লোরিন, ক্লোরিন, অক্সিজেন, কার্বন) এর সাথেও যুক্ত হয়।\nগাঢ় এসিডে জারিত হয়: S + 6HNO₃(গাঢ়) → H₂SO₄ + 6NO₂ + 2H₂O; S + 2H₂SO₄(গাঢ়) → 3SO₂ + 2H₂O।\nসালফারের অক্সো এসিড: H₂SO₄, H₂SO₃; হাইড্রাসিড: হাইড্রোসালফিউরিক এসিড H₂S ইত্যাদি।",
+   "notes_en": "O reacts with most metals/non-metals giving metal oxides (basic, amphoteric) and non-metal oxides (acidic, neutral).\nWhen heated, S combines with most metals to form sulphides, and with F, Cl, O, C.\nConc. acids oxidise S: S + 6HNO₃(conc) → H₂SO₄ + 6NO₂ + 2H₂O; S + 2H₂SO₄(conc) → 3SO₂ + 2H₂O.\nOxo-acids: H₂SO₄, H₂SO₃; hydracid: H₂S.",
+   "mcqs": [
+    {
+     "question_bn": "গাঢ় HNO₃-এর সাথে সালফার বিক্রিয়ায় সালফারের উৎপাদ কোনটি?",
+     "question_en": "Sulphur reacts with conc. HNO₃ to give sulphur-containing product—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SO₂",
+       "en": "SO₂"
+      },
+      {
+       "id": "b",
+       "bn": "H₂S",
+       "en": "H₂S"
+      },
+      {
+       "id": "c",
+       "bn": "H₂SO₄",
+       "en": "H₂SO₄"
+      },
+      {
+       "id": "d",
+       "bn": "SO₃",
+       "en": "SO₃"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "S + 6HNO₃ → H₂SO₄ + 6NO₂ + 2H₂O।",
+     "explanation_en": "S + 6HNO₃ → H₂SO₄ + 6NO₂ + 2H₂O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "S + 2H₂SO₄(গাঢ়) বিক্রিয়ায় উৎপন্ন SO₂-এর মোল সংখ্যা কত?",
+     "question_en": "Moles of SO₂ formed in S + 2H₂SO₄(conc) → ?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "6",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "S + 2H₂SO₄ → 3SO₂ + 2H₂O।",
+     "explanation_en": "S + 2H₂SO₄ → 3SO₂ + 2H₂O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সালফারের কোনটি অক্সো এসিড?",
+     "question_en": "Which is an oxo-acid of sulphur?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂S",
+       "en": "H₂S"
+      },
+      {
+       "id": "b",
+       "bn": "H₂SO₃",
+       "en": "H₂SO₃"
+      },
+      {
+       "id": "c",
+       "bn": "SF₆",
+       "en": "SF₆"
+      },
+      {
+       "id": "d",
+       "bn": "FeS",
+       "en": "FeS"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H₂SO₃ ও H₂SO₄ সালফারের অক্সো এসিড; H₂S হাইড্রাসিড।",
+     "explanation_en": "H₂SO₃ and H₂SO₄ are oxo-acids; H₂S is a hydracid.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গাঢ় HNO₃ দ্বারা সালফার জারণে সালফারের জারণ সংখ্যার পরিবর্তন কত?",
+     "question_en": "Change in oxidation number of sulphur when oxidised by conc. HNO₃ to H₂SO₄?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0 থেকে +6",
+       "en": "0 to +6"
+      },
+      {
+       "id": "b",
+       "bn": "0 থেকে +4",
+       "en": "0 to +4"
+      },
+      {
+       "id": "c",
+       "bn": "−2 থেকে +6",
+       "en": "−2 to +6"
+      },
+      {
+       "id": "d",
+       "bn": "0 থেকে −2",
+       "en": "0 to −2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মৌলিক S (0) → H₂SO₄-এ +6।",
+     "explanation_en": "Elemental S (0) → +6 in H₂SO₄.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.47",
+   "title_bn": "অক্সাইডসমূহ",
+   "title_en": "Oxides",
+   "notes_bn": "অক্সিজেনের দ্বিমৌল যৌগকে অক্সাইড বলে। নয় প্রকার: অম্লীয়, ক্ষারকীয়, উভধর্মী, নিরপেক্ষ, পার, পলি, সুপার, সাব, মিশ্র/যৌগিক।\nঅম্লীয় (অধাতব): CO₂, SO₂, SO₃, N₂O₅, P₂O₅—পানির সাথে এসিড, ক্ষারের সাথে লবণ। ক্ষারকীয় (ধাতব): Na₂O, MgO, CaO—এসিডের সাথে লবণ ও পানি।\nউভধর্মী: ZnO, Al₂O₃, PbO, SnO—এসিড ও ক্ষার উভয়ের সাথে বিক্রিয়া; ZnO + 2HCl → ZnCl₂ + H₂O; ZnO + 2NaOH → Na₂ZnO₂ + H₂O।\nনিরপেক্ষ: H₂O, CO, N₂O, NO। পার অক্সাইড (O₂²⁻, O–O বন্ধন): Na₂O₂, BaO₂, H₂O₂—লঘু এসিডে H₂O₂ দেয়।\nপলি অক্সাইড (MnO₂, PbO₂): গাঢ় HCl-এ Cl₂, গাঢ় H₂SO₄-এ O₂ দেয়। সুপার অক্সাইড (O₂⁻): KO₂। সাব অক্সাইড: Pb₂O।\nমিশ্র অক্সাইড: Fe₃O₄ = FeO + Fe₂O₃; Pb₃O₄ = 2PbO + PbO₂; Fe₃O₄ + 8HCl → FeCl₂ + 2FeCl₃ + 4H₂O।\nCO রক্তের হিমোগ্লোবিনের সাথে যুক্ত হয়ে অক্সিজেন বহন বাধা দেয়—তাই ‘নীরব ঘাতক’।",
+   "notes_en": "Oxide = binary compound of oxygen. Nine types: acidic, basic, amphoteric, neutral, per-, poly-, super-, sub-, mixed.\nAcidic (non-metal): CO₂, SO₂, SO₃, N₂O₅, P₂O₅ — acid with water, salt with base. Basic (metal): Na₂O, MgO, CaO — salt + water with acid.\nAmphoteric: ZnO, Al₂O₃, PbO, SnO react with both acids and bases; ZnO + 2HCl → ZnCl₂ + H₂O; ZnO + 2NaOH → Na₂ZnO₂ + H₂O.\nNeutral: H₂O, CO, N₂O, NO. Peroxides (O₂²⁻, O–O): Na₂O₂, BaO₂, H₂O₂ — give H₂O₂ with dilute acid.\nPoly-oxides (MnO₂, PbO₂): conc. HCl gives Cl₂, conc. H₂SO₄ gives O₂. Super-oxide (O₂⁻): KO₂. Sub-oxide: Pb₂O.\nMixed: Fe₃O₄ = FeO + Fe₂O₃; Pb₃O₄ = 2PbO + PbO₂; Fe₃O₄ + 8HCl → FeCl₂ + 2FeCl₃ + 4H₂O.\nCO binds haemoglobin, blocking O₂ transport — the 'silent killer'.",
+   "mcqs": [
+    {
+     "question_bn": "নিচের কোনটি উভধর্মী অক্সাইড?",
+     "question_en": "Which is an amphoteric oxide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO₂",
+       "en": "CO₂"
+      },
+      {
+       "id": "b",
+       "bn": "ZnO",
+       "en": "ZnO"
+      },
+      {
+       "id": "c",
+       "bn": "Na₂O",
+       "en": "Na₂O"
+      },
+      {
+       "id": "d",
+       "bn": "NO",
+       "en": "NO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ZnO এসিড ও ক্ষার উভয়ের সাথে বিক্রিয়া করে লবণ ও পানি দেয়।",
+     "explanation_en": "ZnO reacts with both acids and bases to give salt and water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Na₂O₂ কোন ধরনের অক্সাইড?",
+     "question_en": "Na₂O₂ is which type of oxide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সুপার অক্সাইড",
+       "en": "super oxide"
+      },
+      {
+       "id": "b",
+       "bn": "পার অক্সাইড",
+       "en": "peroxide"
+      },
+      {
+       "id": "c",
+       "bn": "পলি অক্সাইড",
+       "en": "poly oxide"
+      },
+      {
+       "id": "d",
+       "bn": "নিরপেক্ষ",
+       "en": "neutral"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Na₂O₂-এ O₂²⁻ (O–O বন্ধন) আছে; লঘু এসিডে H₂O₂ দেয়।",
+     "explanation_en": "It contains O₂²⁻ (O–O bond) and gives H₂O₂ with dilute acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "MnO₂-কে গাঢ় HCl-এর সাথে উত্তপ্ত করলে কোন গ্যাস উৎপন্ন হয়?",
+     "question_en": "Heating MnO₂ with conc. HCl liberates—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O₂",
+       "en": "O₂"
+      },
+      {
+       "id": "b",
+       "bn": "H₂",
+       "en": "H₂"
+      },
+      {
+       "id": "c",
+       "bn": "Cl₂",
+       "en": "Cl₂"
+      },
+      {
+       "id": "d",
+       "bn": "H₂O₂",
+       "en": "H₂O₂"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "পলি অক্সাইড: MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O।",
+     "explanation_en": "Poly-oxide: MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Fe₃O₄ লঘু HCl-এ ফেরাস ও ফেরিক ক্লোরাইড উৎপন্ন করে। FeCl₃ ও FeCl₂-এর মোল অনুপাত কত?",
+     "question_en": "Fe₃O₄ + 8HCl gives FeCl₂ and FeCl₃. FeCl₃ : FeCl₂ mole ratio?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1:1",
+       "en": "1:1"
+      },
+      {
+       "id": "b",
+       "bn": "2:1",
+       "en": "2:1"
+      },
+      {
+       "id": "c",
+       "bn": "1:2",
+       "en": "1:2"
+      },
+      {
+       "id": "d",
+       "bn": "3:1",
+       "en": "3:1"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Fe₃O₄ + 8HCl → FeCl₂ + 2FeCl₃ + 4H₂O; তাই FeCl₃ : FeCl₂ = 2:1।",
+     "explanation_en": "Fe₃O₄ + 8HCl → FeCl₂ + 2FeCl₃ + 4H₂O gives 2:1.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.48",
+   "title_bn": "অক্সাইডসমূহের অর্থনৈতিক গুরুত্ব",
+   "title_en": "Economic importance of oxides",
+   "notes_bn": "ধাতব আকরিক: Fe₂O₃ (হেমাটাইট), Cr₂O₃ (ক্রোমাইট), MnO₂ (পাইরোলুসাইট) কার্বন দ্বারা বিজারিত হয়ে ধাতু দেয়: Fe₂O₃ + 3C → 2Fe + 3CO।\nকোরান্ডাম (Al₂O₃): ~98% Al₂O₃ + 1.5% Fe₃O₄ + 0.5% TiO₂ হলে নীল নীলকান্তমণি (sapphire); ~97.5% Al₂O₃ + 2.5% Cr₂O₃ হলে লাল রুবি।\nসিমেন্টে: CaO 62%, SiO₂ 22%, Al₂O₃ 7.5%, Fe₂O₃ 2.5%, MgO 2.5%, SO₃ 1.5%।\nএসিড শিল্প: SO₃ + H₂O → H₂SO₄; 3NO₂ + H₂O → 2HNO₃ + NO।\nজ্বালানি: প্রডিউসার গ্যাস (2CO + N₂), ওয়াটার গ্যাস (H₂ + CO)।\nZnO (চাইনিজ হোয়াইট—H₂S-এ কালো হয় না), CaO, Cu₂O, CuO, Na₂O₂, PbO, Pb₃O₄ (রেড লেড), Fe₂O₃ (রুজ), Fe₃O₄, MgO-এর বহুবিধ শিল্প ব্যবহার আছে। অধাতব অক্সাইডের মধ্যে SiO₂ সবচেয়ে বেশি ব্যবহৃত (কাচ, পোর্সেলিন, ইট)।",
+   "notes_en": "Ores: Fe₂O₃ (haematite), Cr₂O₃ (chromite), MnO₂ (pyrolusite) are reduced by carbon: Fe₂O₃ + 3C → 2Fe + 3CO.\nCorundum (Al₂O₃): ~98% Al₂O₃ with 1.5% Fe₃O₄ and 0.5% TiO₂ is blue sapphire; ~97.5% Al₂O₃ with 2.5% Cr₂O₃ is red ruby.\nCement: CaO 62%, SiO₂ 22%, Al₂O₃ 7.5%, Fe₂O₃ 2.5%, MgO 2.5%, SO₃ 1.5%.\nAcids: SO₃ + H₂O → H₂SO₄; 3NO₂ + H₂O → 2HNO₃ + NO.\nFuels: producer gas (2CO + N₂), water gas (H₂ + CO).\nZnO (Chinese white, does not blacken with H₂S), CaO, Cu₂O, CuO, Na₂O₂, PbO, red lead Pb₃O₄, Fe₂O₃ (rouge), Fe₃O₄, MgO have many uses. SiO₂ is the most widely used non-metal oxide (glass, porcelain, bricks).",
+   "mcqs": [
+    {
+     "question_bn": "সিমেন্টে সবচেয়ে বেশি পরিমাণে কোন অক্সাইড থাকে?",
+     "question_en": "Which oxide is present in the largest proportion in cement?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SiO₂",
+       "en": "SiO₂"
+      },
+      {
+       "id": "b",
+       "bn": "CaO",
+       "en": "CaO"
+      },
+      {
+       "id": "c",
+       "bn": "Al₂O₃",
+       "en": "Al₂O₃"
+      },
+      {
+       "id": "d",
+       "bn": "MgO",
+       "en": "MgO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CaO প্রায় 62%।",
+     "explanation_en": "CaO is about 62%.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রুবি পাথরে লাল বর্ণ কোন অক্সাইডের কারণে?",
+     "question_en": "The red colour of ruby is due to—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Fe₃O₄",
+       "en": "Fe₃O₄"
+      },
+      {
+       "id": "b",
+       "bn": "TiO₂",
+       "en": "TiO₂"
+      },
+      {
+       "id": "c",
+       "bn": "Cr₂O₃",
+       "en": "Cr₂O₃"
+      },
+      {
+       "id": "d",
+       "bn": "SO₃",
+       "en": "SO₃"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Al₂O₃-এর সাথে প্রায় 2.5% Cr₂O₃ মিশ্রিত থাকে।",
+     "explanation_en": "About 2.5% Cr₂O₃ mixed with Al₂O₃.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ZnO কে সাদা রঙের জন্য সীসা-সাদার চেয়ে অধিক পছন্দ করার কারণ কী?",
+     "question_en": "Why is ZnO preferred over white lead as a white pigment?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂S-এ কালো হয় না (ZnS সাদা)",
+       "en": "does not blacken with H₂S (ZnS is white)"
+      },
+      {
+       "id": "b",
+       "bn": "দামে সস্তা বলে",
+       "en": "it is cheaper"
+      },
+      {
+       "id": "c",
+       "bn": "পানিতে দ্রবীভূত",
+       "en": "it dissolves in water"
+      },
+      {
+       "id": "d",
+       "bn": "উচ্চ ঘনত্ব",
+       "en": "higher density"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ZnS সাদা বলে H₂S-এর সংস্পর্শে রং নষ্ট হয় না।",
+     "explanation_en": "ZnS is white, so the colour is unaffected by H₂S.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোরান্ডামে ~98% Al₂O₃, 1.5% Fe₃O₄ ও 0.5% TiO₂ থাকলে পাথরটির নাম কী?",
+     "question_en": "Corundum with ~98% Al₂O₃, 1.5% Fe₃O₄, 0.5% TiO₂ is called—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রুবি",
+       "en": "ruby"
+      },
+      {
+       "id": "b",
+       "bn": "নীলকান্ত মণি (sapphire)",
+       "en": "sapphire"
+      },
+      {
+       "id": "c",
+       "bn": "পোর্সেলিন",
+       "en": "porcelain"
+      },
+      {
+       "id": "d",
+       "bn": "লোডস্টোন",
+       "en": "lodestone"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এর বর্ণ নীল।",
+     "explanation_en": "It is blue sapphire.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.49",
+   "title_bn": "সালফাইডসমূহ",
+   "title_en": "Sulphides",
+   "notes_bn": "ধাতুর সাথে সালফার আয়নিক/সমযোজী বন্ধনে ধাতব সালফাইড গঠন করে; খনিজরূপে পাওয়া যায়।\nK₂S, Na₂S পানিতে দ্রবণীয়; CaS, MgS, ZnS, FeS, PbS, CuS পানিতে অদ্রবণীয়। অম্লীয় দ্রবণে এগুলোর মধ্যে PbS ও CuS অদ্রবণীয় (অধঃক্ষিপ্ত হয়)।\nK₂S/Na₂S: 2NaOH + H₂S → Na₂S + 2H₂O; শিল্পে Na₂SO₄ + 4C → Na₂S + 4CO; ব্যবহার—স্থায়ী রং, চামড়া থেকে লোম দূর করা।\nCaS: Na₂SO₄ + 4C + CaCO₃ → Na₂CO₃ + CaS + 4CO (প্রায় 1000°C); উৎপন্ন মিশ্রণ ‘ব্ল্যাক অ্যাশ’; 0.01% বিসমাথ থাকলে CaS অনুপ্রভ (phosphorescent)।\nZnS (জিংক ব্লেন্ড) সাদা, খনিতে পাওয়া যায়। FeS: Fe + S → FeS (56:32 অনুপাত); H₂S প্রস্তুতিতে ব্যবহৃত। FeS₂ আয়রন পাইরাইটস।\nখনিজ সালফাইড আকরিক: কপার পাইরাইটস Cu₂S·Fe₂S₃, আয়রন পাইরাইটস FeS₂, জিংক ব্লেন্ড ZnS, গ্যালেনা PbS, সিনাবার HgS, অর্পিমেন্ট As₂S₃।",
+   "notes_en": "Metals form ionic/covalent sulphides; many occur as minerals.\nK₂S, Na₂S are water-soluble; CaS, MgS, ZnS, FeS, PbS, CuS are insoluble. PbS and CuS are insoluble even in acidic solution and precipitate.\nK₂S/Na₂S: 2NaOH + H₂S → Na₂S + 2H₂O; industrially Na₂SO₄ + 4C → Na₂S + 4CO. Uses: fast dyes, dehairing hides.\nCaS: Na₂SO₄ + 4C + CaCO₃ → Na₂CO₃ + CaS + 4CO (~1000°C); product is black ash; CaS with 0.01% Bi is phosphorescent.\nZnS (zinc blende) is white; FeS from Fe + S (56:32 ratio), used to make H₂S; FeS₂ is iron pyrites.\nSulphide ores: copper pyrites Cu₂S·Fe₂S₃, iron pyrites FeS₂, zinc blende ZnS, galena PbS, cinnabar HgS, orpiment As₂S₃.",
+   "mcqs": [
+    {
+     "question_bn": "কোন সালফাইড পানিতে দ্রবণীয়?",
+     "question_en": "Which sulphide is soluble in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CuS",
+       "en": "CuS"
+      },
+      {
+       "id": "b",
+       "bn": "PbS",
+       "en": "PbS"
+      },
+      {
+       "id": "c",
+       "bn": "Na₂S",
+       "en": "Na₂S"
+      },
+      {
+       "id": "d",
+       "bn": "ZnS",
+       "en": "ZnS"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "K₂S ও Na₂S পানিতে দ্রবণীয়।",
+     "explanation_en": "K₂S and Na₂S dissolve in water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সিনাবারের সংকেত কোনটি?",
+     "question_en": "The formula of cinnabar is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HgS",
+       "en": "HgS"
+      },
+      {
+       "id": "b",
+       "bn": "PbS",
+       "en": "PbS"
+      },
+      {
+       "id": "c",
+       "bn": "ZnS",
+       "en": "ZnS"
+      },
+      {
+       "id": "d",
+       "bn": "FeS₂",
+       "en": "FeS₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সিনাবার = HgS; গ্যালেনা = PbS।",
+     "explanation_en": "Cinnabar = HgS; galena = PbS.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "‘ব্ল্যাক অ্যাশ’ কোন দুটি যৌগের মিশ্রণ?",
+     "question_en": "Black ash is a mixture of—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na₂CO₃ ও CaS",
+       "en": "Na₂CO₃ and CaS"
+      },
+      {
+       "id": "b",
+       "bn": "Na₂S ও NaCl",
+       "en": "Na₂S and NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "FeS ও FeS₂",
+       "en": "FeS and FeS₂"
+      },
+      {
+       "id": "d",
+       "bn": "ZnS ও PbS",
+       "en": "ZnS and PbS"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Na₂SO₄ + 4C + CaCO₃ → Na₂CO₃ + CaS + 4CO।",
+     "explanation_en": "From Na₂SO₄ + 4C + CaCO₃ → Na₂CO₃ + CaS + 4CO.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Fe ও S-এর কোন ভর অনুপাতের মিশ্রণ উত্তপ্ত করলে FeS পাওয়া যায় (বইয়ের তথ্য অনুযায়ী)?",
+     "question_en": "Fe : S mass ratio heated to make FeS (per the book)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "56 : 32",
+       "en": "56 : 32"
+      },
+      {
+       "id": "b",
+       "bn": "56 : 64",
+       "en": "56 : 64"
+      },
+      {
+       "id": "c",
+       "bn": "32 : 56",
+       "en": "32 : 56"
+      },
+      {
+       "id": "d",
+       "bn": "1 : 1",
+       "en": "1 : 1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে লৌহ গুঁড়া ও সালফার গুঁড়া 56 : 32 অনুপাতে উত্তপ্ত করা হয়।",
+     "explanation_en": "Iron and sulphur powders are heated in a 56 : 32 ratio.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.50",
+   "title_bn": "সালফাইড আকরিকের অর্থনৈতিক গুরুত্ব",
+   "title_en": "Economic importance of sulphide ores",
+   "notes_bn": "কপার পাইরাইটস (Cu₂S·Fe₂S₃) থেকে কপার ধাতু নিষ্কাশন।\nআয়রন পাইরাইটস FeS₂ থেকে SO₂ উৎপাদন (লৌহ নিষ্কাশন নয়): 4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂; পরে 2SO₂ + O₂ → 2SO₃ এবং SO₃ + H₂O → H₂SO₄।\nজিংক ব্লেন্ড ZnS থেকে জিংক: 2ZnS + 3O₂ → 2ZnO + 2SO₂; ZnO + C → Zn + CO।\nগ্যালেনা PbS থেকে লেড: 2PbS + 3O₂ → 2PbO + 2SO₂; PbO + C → Pb + CO।\nসিনাবার HgS থেকে পারদ: 2HgS + 3O₂ → 2HgO + 2SO₂; HgO + C → Hg + CO।\nউপজাত SO₂-কে কোক দিয়ে বিজারিত করে সালফার পাওয়া যায়: SO₂ + C → CO₂ + S।",
+   "notes_en": "Copper pyrites (Cu₂S·Fe₂S₃) gives copper.\nIron pyrites FeS₂ is used to make SO₂ (not to extract iron): 4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂; then 2SO₂ + O₂ → 2SO₃, SO₃ + H₂O → H₂SO₄.\nZinc blende: 2ZnS + 3O₂ → 2ZnO + 2SO₂; ZnO + C → Zn + CO.\nGalena: 2PbS + 3O₂ → 2PbO + 2SO₂; PbO + C → Pb + CO.\nCinnabar: 2HgS + 3O₂ → 2HgO + 2SO₂; HgO + C → Hg + CO.\nBy-product SO₂ can be reduced with coke to sulphur: SO₂ + C → CO₂ + S.",
+   "mcqs": [
+    {
+     "question_bn": "গ্যালেনা থেকে কোন ধাতু নিষ্কাশিত হয়?",
+     "question_en": "Which metal is extracted from galena?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Zn",
+       "en": "Zn"
+      },
+      {
+       "id": "b",
+       "bn": "Hg",
+       "en": "Hg"
+      },
+      {
+       "id": "c",
+       "bn": "Pb",
+       "en": "Pb"
+      },
+      {
+       "id": "d",
+       "bn": "Cu",
+       "en": "Cu"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "গ্যালেনা = PbS।",
+     "explanation_en": "Galena = PbS gives lead.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "আয়রন পাইরাইটসের প্রধান শিল্প ব্যবহার কোনটি?",
+     "question_en": "Main industrial use of iron pyrites?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লৌহ নিষ্কাশন",
+       "en": "extraction of iron"
+      },
+      {
+       "id": "b",
+       "bn": "SO₂ ও পরে H₂SO₄ উৎপাদন",
+       "en": "production of SO₂ and then H₂SO₄"
+      },
+      {
+       "id": "c",
+       "bn": "পারদ উৎপাদন",
+       "en": "mercury production"
+      },
+      {
+       "id": "d",
+       "bn": "সিমেন্ট তৈরি",
+       "en": "cement making"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "FeS₂ থেকে লৌহ নিষ্কাশন করা হয় না; SO₂ তৈরির উৎস।",
+     "explanation_en": "Iron is not extracted from FeS₂; it is a source of SO₂.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "4FeS₂ + 11O₂ → 2Fe₂O₃ + xSO₂। x-এর মান কত?",
+     "question_en": "4FeS₂ + 11O₂ → 2Fe₂O₃ + xSO₂. Value of x?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "b",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "c",
+       "bn": "8",
+       "en": "8"
+      },
+      {
+       "id": "d",
+       "bn": "11",
+       "en": "11"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "S পরমাণু 4×2=8, তাই 8SO₂; O: 6+16=22=11×2 ✓।",
+     "explanation_en": "S atoms = 8, so 8SO₂; O balance 6 + 16 = 22 ✓.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সিনাবার থেকে পারদ পাওয়ার ধাপগুলোর সঠিক ক্রম কোনটি?",
+     "question_en": "Correct steps for mercury from cinnabar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HgS → O₂-তে উত্তপ্ত → HgO → C দ্বারা বিজারণ → Hg",
+       "en": "HgS heated in O₂ → HgO → reduced by C → Hg"
+      },
+      {
+       "id": "b",
+       "bn": "HgS → H₂-এ বিজারণ → Hg",
+       "en": "HgS reduced by H₂ → Hg"
+      },
+      {
+       "id": "c",
+       "bn": "HgS + HCl → Hg",
+       "en": "HgS + HCl → Hg"
+      },
+      {
+       "id": "d",
+       "bn": "HgS তড়িৎ বিশ্লেষণ",
+       "en": "electrolysis of HgS"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2HgS + 3O₂ → 2HgO + 2SO₂; HgO + C → Hg + CO।",
+     "explanation_en": "2HgS + 3O₂ → 2HgO + 2SO₂; then HgO + C → Hg + CO.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.51",
+   "title_bn": "সালফারের অক্সাইডসমূহ",
+   "title_en": "Oxides of sulphur",
+   "notes_bn": "সালফারের দুটি প্রধান অক্সাইড: সালফার ডাইঅক্সাইড (সালফার (IV) অক্সাইড) SO₂ এবং সালফার ট্রাইঅক্সাইড (সালফার (VI) অক্সাইড) SO₃।\nSO₂-এ S-এর জারণ সংখ্যা +4, SO₃-এ +6; দুটিই অম্লীয় অক্সাইড।\nSO₃ গঠন: SO₂-কে প্ল্যাটিনাইজড অ্যাসবেস্টসের প্রভাবে 450–500°C-এ O₂-এর সাথে বিক্রিয়া: 2SO₂ + O₂ ⇌ 2SO₃।\nএকে হিমমিশ্রণে ঠান্ডা করলে সূচালো কেলাসরূপে জমে। SO₃ পানির সাথে H₂SO₄ দেয়।",
+   "notes_en": "Two main oxides: sulphur dioxide (sulphur(IV) oxide) SO₂ and sulphur trioxide (sulphur(VI) oxide) SO₃.\nS is +4 in SO₂ and +6 in SO₃; both are acidic oxides.\nSO₃ is made by passing SO₂ and O₂ over platinised asbestos at 450–500°C: 2SO₂ + O₂ ⇌ 2SO₃.\nCooled in a freezing mixture it forms needle-like crystals; SO₃ + H₂O → H₂SO₄.",
+   "mcqs": [
+    {
+     "question_bn": "সালফার ট্রাইঅক্সাইডে সালফারের জারণ সংখ্যা কত?",
+     "question_en": "Oxidation number of S in SO₃?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+2",
+       "en": "+2"
+      },
+      {
+       "id": "b",
+       "bn": "+4",
+       "en": "+4"
+      },
+      {
+       "id": "c",
+       "bn": "+6",
+       "en": "+6"
+      },
+      {
+       "id": "d",
+       "bn": "−2",
+       "en": "−2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "SO₃ = সালফার (VI) অক্সাইড।",
+     "explanation_en": "SO₃ is sulphur(VI) oxide.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "2SO₂ + O₂ → 2SO₃ বিক্রিয়ার প্রভাবক ও তাপমাত্রা (বইয়ের তথ্য)?",
+     "question_en": "Catalyst and temperature for 2SO₂ + O₂ → 2SO₃ (book)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Pt (অ্যাসবেস্টসে), 450–500°C",
+       "en": "Pt on asbestos, 450–500°C"
+      },
+      {
+       "id": "b",
+       "bn": "Fe, 450°C",
+       "en": "Fe, 450°C"
+      },
+      {
+       "id": "c",
+       "bn": "Ni, 200°C",
+       "en": "Ni, 200°C"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো প্রভাবক নেই",
+       "en": "no catalyst"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্ল্যাটিনাইজড অ্যাসবেস্টস, প্রায় 450–500°C।",
+     "explanation_en": "Platinised asbestos at about 450–500°C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SO₂ ও SO₃ সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which statement about SO₂ and SO₃ is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দুটিই অম্লীয় অক্সাইড",
+       "en": "both are acidic oxides"
+      },
+      {
+       "id": "b",
+       "bn": "দুটিই ক্ষারকীয়",
+       "en": "both are basic"
+      },
+      {
+       "id": "c",
+       "bn": "SO₂ উভধর্মী",
+       "en": "SO₂ is amphoteric"
+      },
+      {
+       "id": "d",
+       "bn": "SO₃ নিরপেক্ষ",
+       "en": "SO₃ is neutral"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুটিই অধাতব অম্লীয় অক্সাইড।",
+     "explanation_en": "Both are acidic non-metal oxides.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SO₃ ও পানির বিক্রিয়ায় কী উৎপন্ন হয়?",
+     "question_en": "SO₃ with water gives—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂SO₃",
+       "en": "H₂SO₃"
+      },
+      {
+       "id": "b",
+       "bn": "H₂SO₄",
+       "en": "H₂SO₄"
+      },
+      {
+       "id": "c",
+       "bn": "H₂S",
+       "en": "H₂S"
+      },
+      {
+       "id": "d",
+       "bn": "SO₂",
+       "en": "SO₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "SO₃ + H₂O → H₂SO₄।",
+     "explanation_en": "SO₃ + H₂O → H₂SO₄.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.52",
+   "title_bn": "সালফার ডাইঅক্সাইড SO₂",
+   "title_en": "Sulphur dioxide (SO₂): sources, preparation, physical properties",
+   "notes_bn": "উৎস: S + O₂ → SO₂; আয়রন পাইরাইটস বা কপার পাইরাইটস ভাজলে (4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂); ক্রুড অয়েলের H₂S জারণ; সিমেন্ট তৈরিতে CaSO₄ + SiO₂ + C → CaSiO₃ + CO + SO₂।\nসাধারণ প্রস্তুতি: সালফাইট লবণ + লঘু এসিড: SO₃²⁻ + 2H⁺ → SO₂ + H₂O; বায়ুর চেয়ে ভারী, তাই বায়ুর ঊর্ধ্বমুখী অপসারণে সংগ্রহ।\nগবেষণাগারে: কপার কুচি + গাঢ় H₂SO₄ উত্তপ্ত করে: Cu + 2H₂SO₄ → CuSO₄ + 2H₂O + SO₂; শুষ্ক করতে গাঢ় H₂SO₄-এর ওয়াশ বোতল।\nধর্ম: বর্ণহীন, ঝাঁঝালো গন্ধযুক্ত শ্বাসরোধক গ্যাস; পানিতে অতি দ্রবণীয় (H₂SO₃ গঠন); আপেক্ষিক ঘনত্ব = 64/2 = 32 বনাম বায়ু 14.4, অর্থাৎ বায়ুর প্রায় 2.2 গুণ ভারী; সহজে তরল হয়।\nগঠন: বাঁকা, ∠OSO = 120°; S-এর অষ্টক সম্প্রসারিত (d-অরবিটাল ব্যবহার করে 10টি ইলেকট্রন)।",
+   "notes_en": "Sources: burning S in air; roasting iron/copper pyrites (4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂); oxidation of H₂S from crude oil; cement-making CaSO₄ + SiO₂ + C → CaSiO₃ + CO + SO₂.\nGeneral preparation: sulphite + dilute acid: SO₃²⁻ + 2H⁺ → SO₂ + H₂O; heavier than air, collected by upward displacement of air.\nLab: copper turnings + conc. H₂SO₄ heated: Cu + 2H₂SO₄ → CuSO₄ + 2H₂O + SO₂; dried by conc. H₂SO₄ wash bottle.\nProperties: colourless, pungent, suffocating gas; very soluble in water (forms H₂SO₃); relative density 64/2 = 32 vs air 14.4, about 2.2 times heavier; easily liquefied.\nStructure: bent, ∠OSO 120°; S has an expanded octet (uses d-orbitals).",
+   "mcqs": [
+    {
+     "question_bn": "গবেষণাগারে SO₂ প্রস্তুতিতে কোন বিকারকদ্বয় ব্যবহৃত হয়?",
+     "question_en": "Reagents for lab preparation of SO₂ in the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কপার কুচি ও গাঢ় H₂SO₄",
+       "en": "copper turnings and conc. H₂SO₄"
+      },
+      {
+       "id": "b",
+       "bn": "জিংক ও লঘু HCl",
+       "en": "zinc and dilute HCl"
+      },
+      {
+       "id": "c",
+       "bn": "Na₂CO₃ ও HCl",
+       "en": "Na₂CO₃ and HCl"
+      },
+      {
+       "id": "d",
+       "bn": "FeS ও লঘু H₂SO₄",
+       "en": "FeS and dil. H₂SO₄"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Cu + 2H₂SO₄(গাঢ়) → CuSO₄ + 2H₂O + SO₂।",
+     "explanation_en": "Cu + 2H₂SO₄(conc) → CuSO₄ + 2H₂O + SO₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "SO₂ গ্যাস কীভাবে সংগৃহীত হয়?",
+     "question_en": "SO₂ is collected by—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বায়ুর ঊর্ধ্বমুখী অপসারণ",
+       "en": "upward displacement of air"
+      },
+      {
+       "id": "b",
+       "bn": "নিম্নমুখী অপসারণ",
+       "en": "downward displacement of air"
+      },
+      {
+       "id": "c",
+       "bn": "পানির অপসারণ",
+       "en": "displacement of water"
+      },
+      {
+       "id": "d",
+       "bn": "পারদের উপর",
+       "en": "over mercury only"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "SO₂ বায়ুর চেয়ে ভারী, তাই গ্যাসজারে নিচে জমে বায়ু ঊর্ধ্বমুখে অপসারিত হয়।",
+     "explanation_en": "It is heavier than air, so it collects below, pushing air upward.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SO₂-এর আণবিক ভর 64। বায়ুর আপেক্ষিক ঘনত্ব 14.4 ধরলে SO₂ বায়ুর প্রায় কত গুণ ভারী?",
+     "question_en": "With SO₂ molar mass 64 and air relative density 14.4, SO₂ is about how many times heavier than air?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.5",
+       "en": "1.5"
+      },
+      {
+       "id": "b",
+       "bn": "2.2",
+       "en": "2.2"
+      },
+      {
+       "id": "c",
+       "bn": "4.4",
+       "en": "4.4"
+      },
+      {
+       "id": "d",
+       "bn": "3.2",
+       "en": "3.2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "SO₂-এর ঘনত্ব = 64/2 = 32; 32/14.4 ≈ 2.2।",
+     "explanation_en": "Density = 64/2 = 32; 32/14.4 ≈ 2.2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SO₂ অণুতে সালফারের যোজ্যতা স্তরে মোট ইলেকট্রন সংখ্যা কত (সম্প্রসারিত অষ্টক)?",
+     "question_en": "Total electrons around S in SO₂ (expanded octet)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৮",
+       "en": "৮"
+      },
+      {
+       "id": "b",
+       "bn": "১০",
+       "en": "১০"
+      },
+      {
+       "id": "c",
+       "bn": "১২",
+       "en": "১২"
+      },
+      {
+       "id": "d",
+       "bn": "৬",
+       "en": "৬"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে S-এর d-অরবিটালে ইলেকট্রন স্থানান্তরিত হয়ে দশটি ইলেকট্রন গ্রহণ করে দেখানো হয়েছে।",
+     "explanation_en": "The book shows S accommodating ten electrons via d-orbital promotion.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "1.40",
+   "stimulus_bn": "রাকিব দেখল, গ্রুপ VIA-এর O ও S উভয়ই হাইড্রাইড গঠন করে—H₂O তরল ও H₂S গ্যাস। আবার সালফার SF₄ ও SF₆ গঠন করে, কিন্তু অক্সিজেনের কোনো OF₆ নেই।",
+   "stimulus_en": "Rakib notes that O and S both form hydrides — H₂O a liquid and H₂S a gas. Sulphur forms SF₄ and SF₆, but there is no OF₆.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "∠HOH-এর মান কত?",
+     "question_en": "What is the value of ∠HOH?",
+     "model_answer_bn": "104.5°",
+     "model_answer_en": "104.5°"
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "O₂ কক্ষ তাপমাত্রায় নিষ্ক্রিয় কেন?",
+     "question_en": "Why is O₂ inert at room temperature?",
+     "model_answer_bn": "O=O দ্বিবন্ধনের বিয়োজন শক্তি 498 kJ/mol খুব বেশি, তাই কক্ষ তাপমাত্রায় ভাঙে না।",
+     "model_answer_en": "The O=O double bond dissociation energy (498 kJ/mol) is very high, so it does not break at room temperature."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "SF₆ গঠনে S-এর ইলেকট্রন বিন্যাস দেখাও এবং জারণ সংখ্যা নির্ণয় কর।",
+     "question_en": "Show the electron arrangement of S in SF₆ and find its oxidation number.",
+     "model_answer_bn": "S: 3s¹3p³3d² (ছয়টি বিজোড় ইলেকট্রন) ছয়টি F-এর সাথে বন্ধন; জারণ সংখ্যা +6।",
+     "model_answer_en": "S uses 3s¹3p³3d² (six unpaired electrons) bonding with six F; oxidation number +6."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "H₂O তরল অথচ H₂S গ্যাস—ব্যাখ্যা কর এবং OF₆ না হওয়ার কারণ বিশ্লেষণ কর।",
+     "question_en": "Explain why H₂O is a liquid while H₂S is a gas, and analyse why OF₆ cannot form.",
+     "model_answer_bn": "O ছোট ও অধিক ঋণাত্মক (3.5) তাই H₂O অণুতে H-বন্ধন গঠিত হয়, S (2.44) তা পারে না। OF₆ হয় না কারণ O-এর যোজ্যতা স্তরে (2য় স্তর) d-অরবিটাল নেই, অষ্টক সম্প্রসারণ অসম্ভব।",
+     "model_answer_en": "O is small and more electronegative (3.5) so H₂O forms H-bonds; S (2.44) does not. OF₆ cannot form since shell 2 of O has no d-orbitals, so the octet cannot expand."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.47",
+   "stimulus_bn": "একটি পরীক্ষাগারে ZnO, Na₂O₂, MnO₂ ও Fe₃O₄ নমুনা আছে। শিক্ষার্থী সব নমুনায় লঘু ও গাঢ় এসিড যোগ করে বিক্রিয়া পর্যবেক্ষণ করল।",
+   "stimulus_en": "A lab holds samples of ZnO, Na₂O₂, MnO₂ and Fe₃O₄. A student adds dilute and conc. acids to each and observes the reactions.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "পার অক্সাইড কাকে বলে?",
+     "question_en": "What is a peroxide?",
+     "model_answer_bn": "যে অক্সাইডে সাধারণ অক্সাইডের চেয়ে বেশি অক্সিজেন থাকে এবং লঘু এসিডের সাথে H₂O₂ উৎপন্ন করে।",
+     "model_answer_en": "An oxide with more oxygen than the normal oxide that gives H₂O₂ with dilute acid."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "ZnO-কে উভধর্মী বলা হয় কেন?",
+     "question_en": "Why is ZnO called amphoteric?",
+     "model_answer_bn": "ZnO এসিড (HCl)-এর সাথে ক্ষারকরূপে এবং ক্ষার (NaOH)-এর সাথে এসিডরূপে বিক্রিয়া করে লবণ ও পানি দেয়।",
+     "model_answer_en": "It reacts as a base with HCl and as an acid with NaOH, giving salt and water each time."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "MnO₂ গাঢ় HCl ও Fe₃O₄ HCl-এর সাথে কী উৎপন্ন করে? সমীকরণ লেখ।",
+     "question_en": "Write equations for MnO₂ with conc. HCl and Fe₃O₄ with HCl.",
+     "model_answer_bn": "MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O; Fe₃O₄ + 8HCl → FeCl₂ + 2FeCl₃ + 4H₂O।",
+     "model_answer_en": "MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O; Fe₃O₄ + 8HCl → FeCl₂ + 2FeCl₃ + 4H₂O."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "Na₂O₂, MnO₂ ও Fe₃O₄ কোন কোন শ্রেণির অক্সাইড? আচরণ তুলনা কর।",
+     "question_en": "Classify Na₂O₂, MnO₂ and Fe₃O₄ and compare their behaviour with acids.",
+     "model_answer_bn": "Na₂O₂ পার অক্সাইড (লঘু এসিডে H₂O₂), MnO₂ পলি অক্সাইড (গাঢ় HCl-এ Cl₂), Fe₃O₄ মিশ্র অক্সাইড (দুটি লবণ FeCl₂ ও FeCl₃)। প্রতিটির এসিড-বিক্রিয়ার উৎপাদ ভিন্ন।",
+     "model_answer_en": "Na₂O₂ peroxide (H₂O₂ with dilute acid), MnO₂ poly-oxide (Cl₂ with conc. HCl), Fe₃O₄ mixed oxide (gives two salts FeCl₂ and FeCl₃). Each gives a different product."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.50",
+   "stimulus_bn": "একটি কারখানায় আয়রন পাইরাইটস FeS₂ ভাজা হয় এবং উৎপন্ন গ্যাস থেকে সালফিউরিক এসিড তৈরি হয়।",
+   "stimulus_en": "A factory roasts iron pyrites FeS₂ and makes sulphuric acid from the gas produced.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "আয়রন পাইরাইটসের সংকেত লেখ।",
+     "question_en": "Write the formula of iron pyrites.",
+     "model_answer_bn": "FeS₂",
+     "model_answer_en": "FeS₂"
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "ভাজার সমীকরণ লেখ।",
+     "question_en": "Write the roasting equation.",
+     "model_answer_bn": "4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂",
+     "model_answer_en": "4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂"
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "SO₂ থেকে H₂SO₄ পাওয়ার ধাপগুলো সমীকরণসহ লেখ।",
+     "question_en": "Give the steps from SO₂ to H₂SO₄ with equations.",
+     "model_answer_bn": "2SO₂ + O₂ → 2SO₃ (Pt, 450–500°C); SO₃ + H₂O → H₂SO₄।",
+     "model_answer_en": "2SO₂ + O₂ → 2SO₃ (Pt, 450–500°C); SO₃ + H₂O → H₂SO₄."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "FeS₂ থেকে লোহা নিষ্কাশন করা হয় না কেন? বইয়ের ভিত্তিতে ব্যাখ্যা কর এবং উপজাত SO₂ কীভাবে সালফারে রূপান্তর করা যায় তা লেখ।",
+     "question_en": "Why is iron not extracted from FeS₂? Explain per the book and show how by-product SO₂ can give sulphur.",
+     "model_answer_bn": "FeS₂ থেকে লৌহ নিষ্কাশন অর্থনৈতিকভাবে লাভজনক নয়; এটি SO₂-এর উৎস হিসেবে ব্যবহৃত। উপজাত SO₂ কোক দিয়ে বিজারিত করলে সালফার পাওয়া যায়: SO₂ + C → CO₂ + S।",
+     "model_answer_en": "Iron is not extracted from FeS₂; it serves as a source of SO₂. By-product SO₂ reduced by coke gives sulphur: SO₂ + C → CO₂ + S."
+    }
+   ]
+  }
+ ],
+ "notes": "All 17 PDF pages (51-67) readable. Section 1.40 spans printed pp.37-40 (1.38/1.39 belong to an earlier chunk). Exam-question pages not present in range. 1.52 covers sources, preparation, physical properties and structure only; chemical properties (1.53) are in the next chunk. The book's statement of '89% O in earth crust' on p.41 was ambiguous and omitted."
+}

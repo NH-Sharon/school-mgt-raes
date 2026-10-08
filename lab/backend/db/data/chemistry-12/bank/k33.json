@@ -1,0 +1,578 @@
+{
+ "chapter_no": 11,
+ "topics": [
+  {
+   "section_no": "11.28",
+   "title_bn": "DNA এবং RNA এর মধ্যে পার্থক্য",
+   "title_en": "Differences between DNA and RNA",
+   "notes_bn": "DNA = ডিঅক্সিরাইবোনিউক্লিক এসিড; RNA = রাইবোনিউক্লিক এসিড।\nDNA তে β-D-2-ডিঅক্সিরাইবোজ চিনি; ক্ষারক A, G, C, থাইমিন। RNA তে β-D-রাইবোজ; ক্ষারক A, G, C, ইউরাসিল।\nDNA: দুই শিকলের দ্বিহেলিক্স। RNA: একটি শিকল, ভাঁজ করে কাঠামো।\nDNA প্রজাতি বৈশিষ্ট্য ও বংশগতি নিয়ন্ত্রণ করে; RNA প্রোটিন সংশ্লেষণে ভূমিকা রাখে।\nDNA নিউক্লিয়াসে বেশি, RNA সাইটোপ্লাজমে বেশি।\nক্ষারীয় দ্রবণে DNA বেশি স্থিতিশীল, RNA দ্রুত আর্দ্রবিশ্লেষিত হয়।\nশিফস বিকারক (SO₂ দ্বারা বর্ণহীন ম্যাজেন্টা) এর বেগুনি বর্ণ DNA ফিরিয়ে আনে, RNA আনে না।",
+   "notes_en": "DNA = deoxyribonucleic acid; RNA = ribonucleic acid.\nDNA: β-D-2-deoxyribose, bases A, G, C, thymine. RNA: β-D-ribose, bases A, G, C, uracil.\nDNA is a double helix of two chains; RNA is a single folded chain.\nDNA controls species traits and heredity; RNA helps protein synthesis.\nDNA mostly in nucleus; RNA mostly in cytoplasm.\nIn alkali DNA is more stable; RNA hydrolyses rapidly.\nDNA restores the violet colour of Schiff's reagent; RNA does not.",
+   "mcqs": [
+    {
+     "question_bn": "DNA এর পূর্ণরূপ কোনটি?",
+     "question_en": "What is the full form of DNA?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রাইবোনিউক্লিক এসিড",
+       "en": "Ribonucleic acid"
+      },
+      {
+       "id": "b",
+       "bn": "ডিঅক্সিরাইবোনিউক্লিক এসিড",
+       "en": "Deoxyribonucleic acid"
+      },
+      {
+       "id": "c",
+       "bn": "ডাইনাইট্রোজেনিক এসিড",
+       "en": "Dinitrogenic acid"
+      },
+      {
+       "id": "d",
+       "bn": "ডিঅক্সিরাইবোজ নিউক্লিওসাইড",
+       "en": "Deoxyribose nucleoside"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "DNA হল ডিঅক্সিরাইবোনিউক্লিক এসিড; RNA হল রাইবোনিউক্লিক এসিড।",
+     "explanation_en": "DNA is deoxyribonucleic acid, whereas RNA is ribonucleic acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "DNA তে কোন শর্করা থাকে?",
+     "question_en": "Which sugar is present in DNA?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "β-D-রাইবোজ",
+       "en": "β-D-ribose"
+      },
+      {
+       "id": "b",
+       "bn": "β-D-2-ডিঅক্সিরাইবোজ",
+       "en": "β-D-2-deoxyribose"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্রুক্টোজ",
+       "en": "Fructose"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "DNA তে β-D-2-ডিঅক্সিরাইবোজ চিনি থাকে, RNA তে β-D-রাইবোজ।",
+     "explanation_en": "DNA contains β-D-2-deoxyribose; RNA contains β-D-ribose.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন ক্ষারকটি শুধু RNA তে থাকে, DNA তে থাকে না?",
+     "question_en": "Which base is found in RNA but not in DNA?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "থাইমিন",
+       "en": "Thymine"
+      },
+      {
+       "id": "b",
+       "bn": "ইউরাসিল",
+       "en": "Uracil"
+      },
+      {
+       "id": "c",
+       "bn": "গুয়ানিন",
+       "en": "Guanine"
+      },
+      {
+       "id": "d",
+       "bn": "সাইটোসিন",
+       "en": "Cytosine"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "RNA তে ইউরাসিল থাকে, DNA তে এর পরিবর্তে থাইমিন থাকে।",
+     "explanation_en": "RNA has uracil; DNA has thymine in its place.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "DNA এর কাঠামো কোনটি?",
+     "question_en": "What is the structure of DNA?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একটি পলিনিউক্লিওটাইড শিকল",
+       "en": "A single polynucleotide chain"
+      },
+      {
+       "id": "b",
+       "bn": "দুটি পেঁচানো পলিনিউক্লিওটাইড শিকলের দ্বিহেলিক্স",
+       "en": "Double helix of two coiled polynucleotide chains"
+      },
+      {
+       "id": "c",
+       "bn": "সরল পেপটাইড শিকল",
+       "en": "A simple peptide chain"
+      },
+      {
+       "id": "d",
+       "bn": "চক্রীয় শর্করা",
+       "en": "A cyclic sugar"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "DNA দুটি পেঁচানো পলিনিউক্লিওটাইড শিকলের দ্বিহেলিক্স গঠন।",
+     "explanation_en": "DNA is a double helix of two coiled polynucleotide chains.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোষের কোথায় DNA অপেক্ষাকৃত বেশি থাকে?",
+     "question_en": "Where in the cell is DNA found in relatively larger amount?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইটোপ্লাজমে",
+       "en": "Cytoplasm"
+      },
+      {
+       "id": "b",
+       "bn": "নিউক্লিয়াসে",
+       "en": "Nucleus"
+      },
+      {
+       "id": "c",
+       "bn": "কোষ প্রাচীরে",
+       "en": "Cell wall"
+      },
+      {
+       "id": "d",
+       "bn": "ভ্যাকুওলে",
+       "en": "Vacuole"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "DNA নিউক্লিয়াসে বেশি, RNA সাইটোপ্লাজমে বেশি থাকে।",
+     "explanation_en": "DNA is mostly in the nucleus; RNA mostly in the cytoplasm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্ষারীয় দ্রবণে DNA ও RNA এর আচরণ সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which is correct about DNA and RNA in alkaline solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উভয়ই সমান দ্রুত আর্দ্রবিশ্লেষিত হয়",
+       "en": "Both hydrolyse equally fast"
+      },
+      {
+       "id": "b",
+       "bn": "DNA দ্রুত, RNA ধীরে আর্দ্রবিশ্লেষিত হয়",
+       "en": "DNA hydrolyses fast, RNA slowly"
+      },
+      {
+       "id": "c",
+       "bn": "DNA বেশি স্থিতিশীল, RNA দ্রুত আর্দ্রবিশ্লেষিত হয়",
+       "en": "DNA is more stable; RNA hydrolyses rapidly"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই আর্দ্রবিশ্লেষিত হয় না",
+       "en": "Neither hydrolyses"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ক্ষারীয় দ্রবণে DNA বেশি স্থিতিশীল; RNA দ্রুত আর্দ্রবিশ্লেষিত হয়।",
+     "explanation_en": "In alkali DNA is more stable while RNA is hydrolysed rapidly.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "শিফস বিকারকের বর্ণ কীভাবে তৈরি হয় এবং কোনটি তা পুনরুদ্ধার করে?",
+     "question_en": "How is Schiff's reagent made colourless, and which restores its colour?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ম্যাজেন্টা দ্রবণে SO₂ চালনায় বর্ণহীন; DNA এর ডিঅক্সিরাইবোজ-এর অ্যালডিহাইড বেগুনি বর্ণ ফিরিয়ে আনে",
+       "en": "Colourless by SO₂ in magenta solution; DNA's deoxyribose aldehyde restores violet colour"
+      },
+      {
+       "id": "b",
+       "bn": "ম্যাজেন্টা দ্রবণে SO₂ চালনায় বর্ণহীন; RNA বেগুনি বর্ণ ফিরিয়ে আনে",
+       "en": "Colourless by SO₂ in magenta solution; RNA restores violet colour"
+      },
+      {
+       "id": "c",
+       "bn": "ম্যাজেন্টা দ্রবণে HCl চালনায় বর্ণহীন; DNA বর্ণ ফিরিয়ে আনে",
+       "en": "Colourless by HCl; DNA restores colour"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন হয় না",
+       "en": "No change occurs"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের মতে DNA শিফস বিকারকের বেগুনি বর্ণ পুনরুদ্ধার করে, RNA করে না।",
+     "explanation_en": "Per the book, DNA restores the violet colour of Schiff's reagent; RNA does not.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনটি প্রোটিন সংশ্লেষণে সরাসরি ভূমিকা রাখে, কিন্তু বংশগতির ধারা নিয়ন্ত্রণ করে না?",
+     "question_en": "Which takes part in protein synthesis but does not control heredity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "DNA",
+       "en": "DNA"
+      },
+      {
+       "id": "b",
+       "bn": "RNA",
+       "en": "RNA"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ই",
+       "en": "Both"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "Neither"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "RNA বংশগতির ধারার সাথে সংশ্লিষ্ট নয়, প্রোটিন সংশ্লেষণে প্রয়োজনীয়; DNA বংশগতি নিয়ন্ত্রণ করে।",
+     "explanation_en": "RNA is not involved in heredity but is needed for protein synthesis; DNA controls heredity.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "11.29",
+   "title_bn": "প্রোটিন ও নিউক্লিক এসিডের মধ্যে পার্থক্য",
+   "title_en": "Distinction between proteins and nucleic acids",
+   "notes_bn": "প্রোটিন = α-অ্যামাইনো এসিডের পলিপেপটাইড পলিমার; নিউক্লিক এসিড = নিউক্লিওটাইডের পলিমার।\nপ্রোটিনে পেপটাইড (–CONH–) বন্ধন; নিউক্লিক এসিডে ফসফেট এস্টার যুক্ত নিউক্লিওটাইড।\nপ্রোটিনের গঠন: প্রাইমারি সরল শিকল; সেকেন্ডারি α-হেলিক্স (H-বন্ধন); টারসিয়ারিতে সল্ট ব্রিজ ও ডাইসালফাইড বন্ধন থাকতে পারে।\nপ্রোটিন দেহগঠনের উৎস: এনজাইম, হরমোন, এন্টিবডি, রক্ত, মাংস। DNA বংশগতি নিয়ন্ত্রণ করে; mRNA DNA এর নির্দেশ বহন করে।\nউৎস: উদ্ভিজ্জ ও প্রাণিজ প্রোটিন; DNA ও RNA উভয় কোষেই থাকে।\nআর্দ্রবিশ্লেষণ: প্রোটিন → অ্যামাইনো এসিড; নিউক্লিক এসিড → ৩টি পিরিমিডিন ক্ষারক, ২টি পিউরিন ক্ষারক, পেন্টোজ চিনি ও H₃PO₄।",
+   "notes_en": "Protein = polypeptide polymer of α-amino acids; nucleic acid = polymer of nucleotides.\nProtein has peptide (–CONH–) bonds; nucleic acid has nucleotides joined by phosphate esters.\nProtein structure: primary simple chain; secondary α-helix (H-bonds); tertiary may have salt bridges and disulfide bonds.\nProteins: enzymes, hormones, antibodies, blood, flesh. DNA controls heredity; mRNA carries DNA's message.\nSources: plant and animal proteins; DNA and RNA in both cell types.\nHydrolysis: protein gives amino acids; nucleic acid gives 3 pyrimidine bases, 2 purine bases, pentose sugar and H₃PO₄.",
+   "mcqs": [
+    {
+     "question_bn": "প্রোটিন কোন মনোমারের পলিমার?",
+     "question_en": "Protein is a polymer of which monomer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "α-অ্যামাইনো এসিড",
+       "en": "α-Amino acid"
+      },
+      {
+       "id": "b",
+       "bn": "নিউক্লিওটাইড",
+       "en": "Nucleotide"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্যাটি এসিড",
+       "en": "Fatty acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রোটিন α-অ্যামাইনো এসিডের পলিপেপটাইড পলিমার।",
+     "explanation_en": "Protein is a polypeptide polymer of α-amino acids.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিউক্লিক এসিড (RNA ও DNA) কোন মনোমারের পলিমার?",
+     "question_en": "Nucleic acids are polymers of which unit?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামাইনো এসিড",
+       "en": "Amino acid"
+      },
+      {
+       "id": "b",
+       "bn": "নিউক্লিওটাইড",
+       "en": "Nucleotide"
+      },
+      {
+       "id": "c",
+       "bn": "মনোস্যাকারাইড",
+       "en": "Monosaccharide"
+      },
+      {
+       "id": "d",
+       "bn": "গ্লিসারল",
+       "en": "Glycerol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "RNA ও DNA যথাক্রমে রাইবো ও ডিঅক্সিরাইবো নিউক্লিওটাইডের পলিনিউক্লিওটাইড।",
+     "explanation_en": "RNA and DNA are polynucleotides of ribo- and deoxyribonucleotides.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রোটিনে অ্যামাইনো এসিডগুলো কোন বন্ধন দ্বারা যুক্ত থাকে?",
+     "question_en": "Which linkage joins amino acids in protein?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পেপটাইড বন্ধন (–CONH–)",
+       "en": "Peptide bond (–CONH–)"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লাইকোসাইড বন্ধন",
+       "en": "Glycosidic bond"
+      },
+      {
+       "id": "c",
+       "bn": "এস্টার বন্ধন",
+       "en": "Ester bond"
+      },
+      {
+       "id": "d",
+       "bn": "আয়নিক বন্ধন",
+       "en": "Ionic bond"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রোটিনে α-অ্যামাইনো এসিডগুলো পেপটাইড (–CONH–) বন্ধন দ্বারা যুক্ত।",
+     "explanation_en": "Amino acids in proteins are linked by peptide (–CONH–) bonds.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লঘু HCl দিয়ে অম্লীয় আর্দ্রবিশ্লেষণে নিউক্লিক এসিড থেকে কী পাওয়া যায়?",
+     "question_en": "Acid hydrolysis of nucleic acid gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "২০টি অ্যামাইনো এসিড",
+       "en": "20 amino acids"
+      },
+      {
+       "id": "b",
+       "bn": "তিনটি পিরিমিডিন ক্ষারক, দুটি পিউরিন ক্ষারক, পেন্টোজ চিনি ও H₃PO₄",
+       "en": "Three pyrimidine bases, two purine bases, a pentose sugar and H₃PO₄"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু গ্লুকোজ",
+       "en": "Glucose only"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্যাটি এসিড ও গ্লিসারল",
+       "en": "Fatty acids and glycerol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের সারণি অনুযায়ী নিউক্লিক এসিডের আর্দ্রবিশ্লেষণে এই উপাদানগুলো পাওয়া যায়।",
+     "explanation_en": "As given in the book's table, these are the hydrolysis products.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোটিনের অম্লীয় আর্দ্রবিশ্লেষণে পাওয়া যায়:",
+     "question_en": "Acid hydrolysis of protein gives:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পিউরিন ক্ষারক",
+       "en": "Purine bases"
+      },
+      {
+       "id": "b",
+       "bn": "বিভিন্ন প্রকার RCH(NH₂)COOH অ্যামাইনো এসিড",
+       "en": "Various amino acids RCH(NH₂)COOH"
+      },
+      {
+       "id": "c",
+       "bn": "ফসফরিক এসিড",
+       "en": "Phosphoric acid"
+      },
+      {
+       "id": "d",
+       "bn": "পেন্টোজ চিনি",
+       "en": "Pentose sugar"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রোটিন আর্দ্রবিশ্লেষণে মূলত বিভিন্ন অ্যামাইনো এসিড পাওয়া যায়।",
+     "explanation_en": "Protein hydrolysis mainly gives different amino acids.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি প্রোটিন ও নিউক্লিক এসিডের মধ্যে সঠিক পার্থক্য?",
+     "question_en": "Which is a correct difference between protein and nucleic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোটিনে ফসফেট এস্টার বন্ধন থাকে, নিউক্লিক এসিডে পেপটাইড বন্ধন",
+       "en": "Protein has phosphate ester links, nucleic acid peptide links"
+      },
+      {
+       "id": "b",
+       "bn": "প্রোটিনে পেপটাইড বন্ধন থাকে, নিউক্লিক এসিড ফসফেট এস্টার যুক্ত নিউক্লিওটাইডের পলিমার",
+       "en": "Protein has peptide links; nucleic acid is a polymer of nucleotides with phosphate esters"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ই একই মনোমারের পলিমার",
+       "en": "Both are polymers of the same monomer"
+      },
+      {
+       "id": "d",
+       "bn": "নিউক্লিক এসিডে নাইট্রোজেন থাকে না",
+       "en": "Nucleic acids contain no nitrogen"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রোটিন পেপটাইড বন্ধনযুক্ত; নিউক্লিক এসিড ফসফেট এস্টারযুক্ত নিউক্লিওটাইডের পলিমার।",
+     "explanation_en": "Protein has peptide bonds; nucleic acid is a polymer of nucleotides joined through phosphate esters.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রোটিন ও নিউক্লিক এসিডের উৎস সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which statement about sources is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোটিন ও নিউক্লিক এসিড উভয়ই শুধু প্রাণীতে থাকে",
+       "en": "Both only in animals"
+      },
+      {
+       "id": "b",
+       "bn": "উদ্ভিজ্জ ও প্রাণিজ প্রোটিন আছে; RNA ও DNA উদ্ভিদ ও প্রাণিকোষ উভয়ে থাকে",
+       "en": "Plant and animal proteins exist; RNA and DNA occur in both plant and animal cells"
+      },
+      {
+       "id": "c",
+       "bn": "নিউক্লিক এসিড শুধু উদ্ভিদে থাকে",
+       "en": "Nucleic acids only in plants"
+      },
+      {
+       "id": "d",
+       "bn": "প্রোটিন শুধু উদ্ভিদে থাকে",
+       "en": "Proteins only in plants"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের মতে প্রোটিনের উৎস উদ্ভিদ ও প্রাণী; RNA ও DNA উভয় কোষেই থাকে।",
+     "explanation_en": "The book states proteins come from plants and animals; RNA and DNA are in both kinds of cells.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি DNA এর নির্দেশ বহন করে রাইবোসোমে নিয়ে যায়?",
+     "question_en": "Which carries DNA's instructions to the ribosome?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোটিন",
+       "en": "Protein"
+      },
+      {
+       "id": "b",
+       "bn": "বার্তাবহ RNA (mRNA)",
+       "en": "Messenger RNA (mRNA)"
+      },
+      {
+       "id": "c",
+       "bn": "এনজাইম",
+       "en": "Enzyme"
+      },
+      {
+       "id": "d",
+       "bn": "ফসফেট",
+       "en": "Phosphate"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "DNA এর নির্দেশ বহন করে বার্তাবহ RNA বা mRNA।",
+     "explanation_en": "mRNA carries the instructions of DNA.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "11.28",
+   "stimulus_bn": "একজন শিক্ষার্থী দুটি নমুনা X ও Y পেল। X এ ডিঅক্সিরাইবোজ চিনি ও থাইমিন আছে এবং এটি দ্বিহেলিক্স গঠনের; Y তে রাইবোজ চিনি ও ইউরাসিল আছে এবং এটি একক শিকলবিশিষ্ট।",
+   "stimulus_en": "A student obtains two samples X and Y. X contains deoxyribose and thymine and is a double helix; Y contains ribose and uracil and is single-stranded.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "DNA এর পূর্ণরূপ লিখ।",
+     "question_en": "Write the full form of DNA.",
+     "model_answer_bn": "ডিঅক্সিরাইবোনিউক্লিক এসিড।",
+     "model_answer_en": "Deoxyribonucleic acid."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "X ও Y কে শনাক্ত কর।",
+     "question_en": "Identify X and Y.",
+     "model_answer_bn": "X হল DNA (ডিঅক্সিরাইবোজ, থাইমিন, দ্বিহেলিক্স); Y হল RNA (রাইবোজ, ইউরাসিল, একক শিকল)।",
+     "model_answer_en": "X is DNA (deoxyribose, thymine, double helix); Y is RNA (ribose, uracil, single chain)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "X ও Y কে শিফস বিকারক দিয়ে কীভাবে আলাদা করবে ব্যাখ্যা কর।",
+     "question_en": "Explain how Schiff's reagent can distinguish X and Y.",
+     "model_answer_bn": "ম্যাজেন্টা দ্রবণে SO₂ চালনায় বর্ণহীন শিফস বিকারক তৈরি হয়। X (DNA) এর সাথে এটি বেগুনি বর্ণ পুনরুদ্ধার করে, Y (RNA) এর সাথে করে না।",
+     "model_answer_en": "Passing SO₂ into magenta solution gives colourless Schiff's reagent. X (DNA) restores its violet colour; Y (RNA) does not."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "কোষে X ও Y এর অবস্থান ও জৈবিক ভূমিকার তুলনা কর।",
+     "question_en": "Compare the location and biological roles of X and Y in the cell.",
+     "model_answer_bn": "X (DNA) নিউক্লিয়াসে বেশি থাকে ও প্রজাতি বৈশিষ্ট্য ও বংশগতি নিয়ন্ত্রণ করে। Y (RNA) সাইটোপ্লাজমে বেশি থাকে, বংশগতির সাথে সংশ্লিষ্ট নয় কিন্তু প্রোটিন সংশ্লেষণে ভূমিকা রাখে। ক্ষারীয় দ্রবণে X বেশি স্থিতিশীল, Y দ্রুত আর্দ্রবিশ্লেষিত হয়।",
+     "model_answer_en": "X (DNA) is mostly in the nucleus and controls species traits and heredity. Y (RNA) is mostly in the cytoplasm, is not tied to heredity but is needed for protein synthesis. In alkali X is more stable while Y hydrolyses rapidly."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 629-632 read (printed 614-617); 11.28 on printed p.615, 11.29 on p.616. PDF pages 633-640 are exercise/question-bank pages, skipped. All pages readable."
+}
