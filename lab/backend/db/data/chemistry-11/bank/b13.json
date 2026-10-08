@@ -1,0 +1,1093 @@
+{
+ "chapter_no": 4,
+ "topics": [
+  {
+   "section_no": "4.14",
+   "title_bn": "বিক্রিয়ার সাম্যধ্রুবক, Kc ও Kp",
+   "title_en": "Equilibrium Constant, Kc and Kp",
+   "notes_bn": "উভয়মুখী বিক্রিয়া A+B ⇌ C+D তে সাম্যাবস্থায় সম্মুখ ও পশ্চাৎ বিক্রিয়ার হার সমান: k1[A][B] = k2[C][D]; তাই k1/k2 = K = [C][D]/[A][B]।\naA+bB ⇌ lL+mM এর জন্য Kc = [L]^l[M]^m / [A]^a[B]^b (ঘনমাত্রা mol/L এ)।\nগ্যাসীয় বিক্রিয়ায় আংশিক চাপ দিয়ে Kp = (PL)^l(PM)^m / (PA)^a(PB)^b।\nকঠিন পদার্থের সক্রিয় ভর 1 ধরা হয়, তাই Kc/Kp রাশিতে কঠিন পদার্থ আসে না (যেমন C(s)+CO2 ⇌ 2CO এ Kc = [CO]²/[CO2])।\nKc = 1 হলে সাম্যে বিক্রিয়ক ও উৎপাদের মোল সংখ্যা সমান; Kc > 1 হলে উৎপাদ বেশি; Kc < 1 হলে উৎপাদ কম।\nKc বা Kp কখনো শূন্য বা অসীম হয় না। K এর মান কেবল তাপমাত্রার উপর নির্ভর করে।\nΔG° = −RT lnK = −2.303 RT logK; R = 8.314 J mol⁻¹K⁻¹।",
+   "notes_en": "At equilibrium of A+B ⇌ C+D the forward and reverse rates are equal: k1[A][B] = k2[C][D], so K = k1/k2 = [C][D]/[A][B].\nFor aA+bB ⇌ lL+mM: Kc = [L]^l[M]^m/[A]^a[B]^b (molar concentrations).\nFor gases use partial pressures: Kp = (PL)^l(PM)^m/(PA)^a(PB)^b.\nPure solids have activity 1 and are left out (C(s)+CO2 ⇌ 2CO: Kc = [CO]^2/[CO2]).\nKc = 1: equal moles of reactants and products at equilibrium; Kc > 1: products favoured; Kc < 1: reactants favoured.\nKc and Kp are never zero or infinite. K depends only on temperature.\nΔG° = -RT lnK = -2.303 RT logK; R = 8.314 J mol^-1 K^-1.",
+   "mcqs": [
+    {
+     "question_bn": "N2(g) + 3H2(g) ⇌ 2NH3(g) বিক্রিয়ার Kc এর সঠিক রাশি কোনটি?",
+     "question_en": "Which is the correct Kc expression for N2(g) + 3H2(g) ⇌ 2NH3(g)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[NH3]/([N2][H2])",
+       "en": "[NH3]/([N2][H2])"
+      },
+      {
+       "id": "b",
+       "bn": "[NH3]²/([N2][H2]³)",
+       "en": "[NH3]^2/([N2][H2]^3)"
+      },
+      {
+       "id": "c",
+       "bn": "[N2][H2]³/[NH3]²",
+       "en": "[N2][H2]^3/[NH3]^2"
+      },
+      {
+       "id": "d",
+       "bn": "2[NH3]/([N2]+3[H2])",
+       "en": "2[NH3]/([N2]+3[H2])"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সহগ ঘাত হিসেবে বসে: উৎপাদের ঘাত 2 এবং H2 এর ঘাত 3; উৎপাদ লবে।",
+     "explanation_en": "Coefficients become exponents; the product goes in the numerator.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সাম্যাবস্থায় Kc > 1 হলে কী বোঝায়?",
+     "question_en": "What does Kc > 1 indicate at equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উৎপাদের মোল সংখ্যা বিক্রিয়কের চেয়ে বেশি",
+       "en": "Product moles exceed reactant moles"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়ক বেশি থাকে",
+       "en": "Reactants predominate"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়া শুরুই হয়নি",
+       "en": "The reaction has not started"
+      },
+      {
+       "id": "d",
+       "bn": "সম্মুখ বিক্রিয়া বন্ধ",
+       "en": "The forward reaction has stopped"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Kc > 1 হলে সাম্যে উৎপাদ বেশি থাকে, অর্থাৎ 50% এর বেশি বিক্রিয়ক উৎপাদে রূপান্তরিত।",
+     "explanation_en": "Kc > 1 means more product than reactant at equilibrium (over 50% conversion).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Na2CO3(s) + SO2(g) + ½O2(g) ⇌ Na2SO4(s) + CO2(g) বিক্রিয়ার Kc কত?",
+     "question_en": "What is Kc for Na2CO3(s) + SO2(g) + ½O2(g) ⇌ Na2SO4(s) + CO2(g)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[CO2]/([SO2][O2]^½)",
+       "en": "[CO2]/([SO2][O2]^1/2)"
+      },
+      {
+       "id": "b",
+       "bn": "[Na2SO4][CO2]/([Na2CO3][SO2][O2]^½)",
+       "en": "[Na2SO4][CO2]/([Na2CO3][SO2][O2]^1/2)"
+      },
+      {
+       "id": "c",
+       "bn": "[CO2]/([SO2][O2])",
+       "en": "[CO2]/([SO2][O2])"
+      },
+      {
+       "id": "d",
+       "bn": "[SO2][O2]^½/[CO2]",
+       "en": "[SO2][O2]^1/2/[CO2]"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কঠিন Na2CO3 ও Na2SO4 রাশিতে আসে না; ½ সহগ O2 এর ঘাত হয়।",
+     "explanation_en": "Solids are omitted; the 1/2 coefficient becomes the exponent of [O2].",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H2(g) + Cl2(g) ⇌ 2HCl(g) বিক্রিয়ার Kp এর রাশি কোনটি?",
+     "question_en": "What is the Kp expression for H2(g) + Cl2(g) ⇌ 2HCl(g)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(P_HCl)²/(P_H2 × P_Cl2)",
+       "en": "(P_HCl)^2/(P_H2 × P_Cl2)"
+      },
+      {
+       "id": "b",
+       "bn": "P_HCl/(P_H2 × P_Cl2)",
+       "en": "P_HCl/(P_H2 × P_Cl2)"
+      },
+      {
+       "id": "c",
+       "bn": "(P_H2 × P_Cl2)/(P_HCl)²",
+       "en": "(P_H2 × P_Cl2)/(P_HCl)^2"
+      },
+      {
+       "id": "d",
+       "bn": "2P_HCl/(P_H2 + P_Cl2)",
+       "en": "2P_HCl/(P_H2 + P_Cl2)"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আংশিক চাপের সহগ-ঘাত রাশি: উৎপাদ HCl এর ঘাত 2।",
+     "explanation_en": "Partial-pressure ratio with exponent 2 for HCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "2SO2(g) + O2(g) ⇌ 2SO3(g) বিক্রিয়ায় Kc = 82 L mol⁻¹ এবং T = 500 K। R = 0.082 L atm mol⁻¹K⁻¹ ধরে Kp কত?",
+     "question_en": "For 2SO2(g) + O2(g) ⇌ 2SO3(g), Kc = 82 L mol^-1 and T = 500 K. Taking R = 0.082 L atm mol^-1 K^-1, what is Kp?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2 atm⁻¹",
+       "en": "2 atm^-1"
+      },
+      {
+       "id": "b",
+       "bn": "82 atm⁻¹",
+       "en": "82 atm^-1"
+      },
+      {
+       "id": "c",
+       "bn": "3362 atm⁻¹",
+       "en": "3362 atm^-1"
+      },
+      {
+       "id": "d",
+       "bn": "0.5 atm⁻¹",
+       "en": "0.5 atm^-1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Δn = 2 − 3 = −1; Kp = Kc(RT)^−1 = 82/(0.082×500) = 82/41 = 2 atm⁻¹।",
+     "explanation_en": "Δn = -1, so Kp = Kc/(RT) = 82/(0.082×500) = 82/41 = 2 atm^-1.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "CS2(g) + 4H2(g) ⇌ CH4(g) + 2H2S(g) বিক্রিয়ায় 900°C এ Kc = 0.28। R = 0.0821 L atm mol⁻¹K⁻¹ হলে Kp প্রায় কত?",
+     "question_en": "For CS2(g) + 4H2(g) ⇌ CH4(g) + 2H2S(g), Kc = 0.28 at 900°C. With R = 0.0821 L atm mol^-1 K^-1, Kp is about?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2.6 × 10³",
+       "en": "2.6 × 10^3"
+      },
+      {
+       "id": "b",
+       "bn": "3.02 × 10⁻⁵",
+       "en": "3.02 × 10^-5"
+      },
+      {
+       "id": "c",
+       "bn": "2.9 × 10⁻³",
+       "en": "2.9 × 10^-3"
+      },
+      {
+       "id": "d",
+       "bn": "27",
+       "en": "27"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Δn = 3 − 5 = −2, T = 1173 K, RT = 96.30; Kp = 0.28 × (96.30)⁻² = 0.28/9274 ≈ 3.02 × 10⁻⁵।",
+     "explanation_en": "Δn = 3 - 5 = -2, T = 1173 K, RT = 96.30; Kp = 0.28/(96.30)^2 = 0.28/9274 ≈ 3.02 × 10^-5.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.15",
+   "title_bn": "সাম্যধ্রুবকের বৈশিষ্ট্য",
+   "title_en": "Characteristics of Equilibrium Constant",
+   "notes_bn": "নির্দিষ্ট তাপমাত্রায় প্রতিটি বিক্রিয়ার K এর মান নির্দিষ্ট; তাপমাত্রা বদলালে K বদলায়। তাপহারী বিক্রিয়ায় তাপমাত্রা বাড়লে K বাড়ে, তাপোৎপাদীতে K কমে।\nK চাপ, আয়তন, প্রারম্ভিক ঘনমাত্রা বা প্রভাবকের উপর নির্ভর করে না (প্রভাবক সম্মুখ ও পশ্চাৎ উভয় হার সমানভাবে বাড়ায়)।\nসমীকরণ যেভাবে লেখা হয় K সেভাবেই নির্ভর করে: A2+B2 ⇌ 2AB এর K1 হলে ½A2+½B2 ⇌ AB এর K2 = K1^½; Kp2 = (Kp1)^½।\nবিপরীত বিক্রিয়ার K = 1/K (reciprocal): PCl5 ⇌ PCl3+Cl2 এ Kp, উল্টো বিক্রিয়ায় Kp' = 1/Kp।\nবিক্রিয়া দুই বা ততোধিক ধাপে হলে Kp = Kp1 × Kp2।\nΔG° = −RT lnK: ΔG° = 0 হলে K = 1; ΔG° ঋণাত্মক হলে K > 1 (সম্মুখ বিক্রিয়া স্বতঃস্ফূর্ত); ধনাত্মক হলে K < 1।\nK নির্ভর করে না: পাত্রের আয়তন, কোন দিক থেকে সাম্য এসেছে, নিষ্ক্রিয় গ্যাস, বিক্রিয়ার গতি।",
+   "notes_en": "K has a fixed value for a reaction at a given temperature; it changes with temperature (increases with T for endothermic, decreases for exothermic reactions).\nK is independent of pressure, volume, initial concentrations and catalyst (a catalyst speeds up forward and reverse equally).\nK depends on how the equation is written: if A2+B2 ⇌ 2AB has K1, then 1/2A2+1/2B2 ⇌ AB has K2 = K1^1/2.\nReverse reaction has K' = 1/K (PCl5 ⇌ PCl3+Cl2).\nFor a multi-step reaction the overall K is the product of the step constants (Kp = Kp1 × Kp2).\nΔG° = -RT lnK: ΔG° = 0 gives K = 1; negative ΔG° gives K > 1 (forward spontaneous); positive gives K < 1.\nK does not depend on vessel volume, direction of approach, inert gas, or reaction rate.",
+   "mcqs": [
+    {
+     "question_bn": "কোন বিষয়টির পরিবর্তনে সাম্যধ্রুবক K এর মান বদলায়?",
+     "question_en": "Which change alters the value of the equilibrium constant K?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চাপ",
+       "en": "Pressure"
+      },
+      {
+       "id": "b",
+       "bn": "প্রভাবকের উপস্থিতি",
+       "en": "Presence of a catalyst"
+      },
+      {
+       "id": "c",
+       "bn": "তাপমাত্রা",
+       "en": "Temperature"
+      },
+      {
+       "id": "d",
+       "bn": "প্রারম্ভিক ঘনমাত্রা",
+       "en": "Initial concentration"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "নির্দিষ্ট বিক্রিয়ার K শুধু তাপমাত্রার উপর নির্ভরশীল।",
+     "explanation_en": "K of a given reaction depends only on temperature.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রমাণ মুক্ত শক্তি পরিবর্তন ΔG° = 0 হলে সাম্যধ্রুবক K কত?",
+     "question_en": "If the standard free energy change ΔG° = 0, what is K?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "b",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "c",
+       "bn": "∞",
+       "en": "∞"
+      },
+      {
+       "id": "d",
+       "bn": "−1",
+       "en": "−1"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "0 = −2.303RT logK ⇒ logK = 0 ⇒ K = 1।",
+     "explanation_en": "0 = -2.303RT logK, so logK = 0 and K = 1.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রভাবক ব্যবহার করলে সাম্যধ্রুবকের মান কী হয়?",
+     "question_en": "What happens to the equilibrium constant when a catalyst is used?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাড়ে",
+       "en": "Increases"
+      },
+      {
+       "id": "b",
+       "bn": "কমে",
+       "en": "Decreases"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত থাকে",
+       "en": "Remains unchanged"
+      },
+      {
+       "id": "d",
+       "bn": "শূন্য হয়",
+       "en": "Becomes zero"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "প্রভাবক সম্মুখ ও পশ্চাৎ বিক্রিয়ার হার সমানভাবে বাড়ায়, তাই K বদলায় না; শুধু সাম্য দ্রুত আসে।",
+     "explanation_en": "A catalyst speeds up forward and reverse reactions equally, so K is unchanged; equilibrium is reached faster.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনো তাপমাত্রায় A ⇌ B এর K = 0.25 হলে B ⇌ A এর K কত?",
+     "question_en": "If K = 0.25 for A ⇌ B at some temperature, what is K for B ⇌ A?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.25",
+       "en": "0.25"
+      },
+      {
+       "id": "b",
+       "bn": "0.5",
+       "en": "0.5"
+      },
+      {
+       "id": "c",
+       "bn": "0.0625",
+       "en": "0.0625"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "বিপরীত বিক্রিয়ার K = 1/K = 1/0.25 = 4।",
+     "explanation_en": "Reverse reaction K' = 1/K = 1/0.25 = 4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N2(g) + 3H2(g) ⇌ 2NH3(g) এর Kp = 100 atm⁻² (কল্পিত মান) হলে ½N2 + 3/2H2 ⇌ NH3 এর Kp কত?",
+     "question_en": "If Kp = 100 atm^-2 (hypothetical value) for N2(g) + 3H2(g) ⇌ 2NH3(g), what is Kp for 1/2N2 + 3/2H2 ⇌ NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10 atm⁻¹",
+       "en": "10 atm^-1"
+      },
+      {
+       "id": "b",
+       "bn": "50 atm⁻¹",
+       "en": "50 atm^-1"
+      },
+      {
+       "id": "c",
+       "bn": "10⁴ atm⁻⁴",
+       "en": "10^4 atm^-4"
+      },
+      {
+       "id": "d",
+       "bn": "0.01 atm⁻¹",
+       "en": "0.01 atm^-1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সমীকরণ অর্ধেক করলে Kp2 = (Kp1)^½ = √100 = 10; একক atm⁻¹।",
+     "explanation_en": "Halving the equation gives Kp2 = (Kp1)^1/2 = sqrt(100) = 10 atm^-1.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "N2(g)+O2(g) ⇌ 2NO(g) এর Kp1 = 8 এবং 2NO(g)+O2(g) ⇌ 2NO2(g) এর Kp2 = 0.25 হলে N2(g)+2O2(g) ⇌ 2NO2(g) এর Kp কত?",
+     "question_en": "If Kp1 = 8 for N2+O2 ⇌ 2NO and Kp2 = 0.25 for 2NO+O2 ⇌ 2NO2, what is Kp for N2+2O2 ⇌ 2NO2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "8.25",
+       "en": "8.25"
+      },
+      {
+       "id": "c",
+       "bn": "32",
+       "en": "32"
+      },
+      {
+       "id": "d",
+       "bn": "0.03",
+       "en": "0.03"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুই ধাপের যোগফল বিক্রিয়ার Kp = Kp1 × Kp2 = 8 × 0.25 = 2।",
+     "explanation_en": "The overall reaction is the sum of steps: Kp = Kp1 × Kp2 = 8 × 0.25 = 2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.16",
+   "title_bn": "সাম্যধ্রুবকের গুরুত্ব",
+   "title_en": "Importance of Equilibrium Constant",
+   "notes_bn": "K এর মান থেকে বোঝা যায় বিক্রিয়া সাম্যে পৌঁছানোর সময় কতটা এগিয়েছে: K বড় হলে উৎপাদ বেশি, K ছোট হলে উৎপাদ কম।\nউদাহরণ: 2CO+O2 ⇌ 2CO2 এ 1000 K এ Kc = 2.3×10²² (বিক্রিয়া প্রায় সম্পূর্ণ); 2NO2 ⇌ N2+2O2 এ 248 K এ Kc = 6.7×10⁻¹⁶ (উৎপাদ অতি সামান্য)।\nK জানা থাকলে প্রারম্ভিক ঘনমাত্রা থেকে সাম্য ঘনমাত্রা নির্ণয় করা যায়।\nবিক্রিয়ক বা উৎপাদ যোগ/অপসারণে সাম্য কোন দিকে সরবে তা K এর মান ধ্রুব রাখার শর্ত থেকে বোঝা যায়। যেমন N2O4 ⇌ 2NO2 এ NO2 যোগ করলে সাম্য বামে সরে।\nবিক্রিয়ার কোশেন্ট Qc = যেকোনো মুহূর্তের [উৎপাদ]/[বিক্রিয়ক] (সহগ-ঘাতসহ)। Qc = Kc: সাম্য; Qc < Kc: বাম থেকে ডানে অগ্রসর; Qc > Kc: ডান থেকে বামে অগ্রসর।\nগ্যাসের জন্য Qp আংশিক চাপ দিয়ে।",
+   "notes_en": "K shows how far a reaction has gone when equilibrium is reached: large K means mostly products, small K means mostly reactants.\nExamples: 2CO+O2 ⇌ 2CO2 has Kc = 2.3×10^22 at 1000 K (nearly complete); 2NO2 ⇌ N2+2O2 has Kc = 6.7×10^-16 at 248 K (almost no products).\nWith K known, equilibrium concentrations can be calculated from initial amounts.\nThe direction of shift on adding/removing a species follows from keeping K constant (adding NO2 to N2O4 ⇌ 2NO2 shifts left).\nReaction quotient Qc = same expression as Kc using concentrations at any instant. Qc = Kc: equilibrium; Qc < Kc: proceeds forward; Qc > Kc: proceeds backward.\nQp is the same using partial pressures.",
+   "mcqs": [
+    {
+     "question_bn": "Qc < Kc হলে বিক্রিয়াটি কোন দিকে অগ্রসর হয়?",
+     "question_en": "In which direction does a reaction proceed when Qc < Kc?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাম থেকে ডানে",
+       "en": "Left to right (forward)"
+      },
+      {
+       "id": "b",
+       "bn": "ডান থেকে বামে",
+       "en": "Right to left (backward)"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো দিকে নয়",
+       "en": "Neither direction"
+      },
+      {
+       "id": "d",
+       "bn": "প্রথমে ডানে পরে বামে",
+       "en": "First right then left"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Qc ছোট মানে উৎপাদ কম; উৎপাদ বাড়ার জন্য সম্মুখ বিক্রিয়া ঘটবে।",
+     "explanation_en": "A small Qc means too little product, so the forward reaction occurs.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনো মুহূর্তে Qc = Kc হলে বিক্রিয়াটি—",
+     "question_en": "If Qc = Kc at some instant, the reaction is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাম্যাবস্থায় আছে",
+       "en": "At equilibrium"
+      },
+      {
+       "id": "b",
+       "bn": "বামদিকে অগ্রসর হবে",
+       "en": "Moving left"
+      },
+      {
+       "id": "c",
+       "bn": "ডানদিকে অগ্রসর হবে",
+       "en": "Moving right"
+      },
+      {
+       "id": "d",
+       "bn": "থেমে গেছে ও পুনরায় শুরু হবে না",
+       "en": "Stopped for good"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Qc = Kc মানে সাম্য অবস্থা; নিট বিক্রিয়া শূন্য।",
+     "explanation_en": "Qc = Kc means the system is at equilibrium; net change is zero.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N2O4(g) ⇌ 2NO2(g) সাম্যে স্থির তাপমাত্রা ও আয়তনে NO2 যোগ করলে কী ঘটবে?",
+     "question_en": "At constant T and V, what happens when NO2 is added to the equilibrium N2O4(g) ⇌ 2NO2(g)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাম্য ডানে সরে, N2O4 এর বিয়োজন বাড়ে",
+       "en": "Shifts right; more N2O4 dissociates"
+      },
+      {
+       "id": "b",
+       "bn": "সাম্য বামে সরে, N2O4 এর বিয়োজন কমে",
+       "en": "Shifts left; dissociation of N2O4 decreases"
+      },
+      {
+       "id": "c",
+       "bn": "Kc বাড়ে",
+       "en": "Kc increases"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো পরিবর্তন হয় না",
+       "en": "No change"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Kc ধ্রুব রাখতে হরে N2O4 বাড়াতে হয়, তাই সাম্য বামে সরে।",
+     "explanation_en": "To keep Kc fixed, [N2O4] in the denominator must increase, so equilibrium shifts left.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "2CO + O2 ⇌ 2CO2 এর 1000 K এ Kc = 2.3 × 10²² হলে কী বোঝা যায়?",
+     "question_en": "Kc = 2.3 × 10^22 at 1000 K for 2CO + O2 ⇌ 2CO2 indicates—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিক্রিয়া প্রায় সম্পূর্ণ হয়",
+       "en": "The reaction is nearly complete"
+      },
+      {
+       "id": "b",
+       "bn": "প্রায় কোনো উৎপাদ হয় না",
+       "en": "Almost no product forms"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়ক ও উৎপাদ সমান",
+       "en": "Reactants and products are equal"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়া ঘটে না",
+       "en": "No reaction occurs"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অত্যন্ত বড় K মানে সাম্যে বিক্রিয়কের খুব সামান্য অবশিষ্ট থাকে।",
+     "explanation_en": "A very large K means very little reactant remains at equilibrium.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "2NO + O2 ⇌ 2NO2 এর Kc = 6.9 × 10⁵ L mol⁻¹। 5 L পাত্রে 0.06 mol NO, 1.0 mol O2, 0.80 mol NO2 থাকলে Qc ও দিক কী?",
+     "question_en": "For 2NO + O2 ⇌ 2NO2, Kc = 6.9 × 10^5 L mol^-1. A 5 L vessel contains 0.06 mol NO, 1.0 mol O2, 0.80 mol NO2. What are Qc and the direction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Qc ≈ 889; সম্মুখ দিকে",
+       "en": "Qc ≈ 889; forward"
+      },
+      {
+       "id": "b",
+       "bn": "Qc ≈ 889; পশ্চাৎ দিকে",
+       "en": "Qc ≈ 889; backward"
+      },
+      {
+       "id": "c",
+       "bn": "Qc ≈ 6.9 × 10⁵; সাম্য",
+       "en": "Qc ≈ 6.9 × 10^5; at equilibrium"
+      },
+      {
+       "id": "d",
+       "bn": "Qc ≈ 0.89; পশ্চাৎ দিকে",
+       "en": "Qc ≈ 0.89; backward"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "[NO]=0.012, [O2]=0.2, [NO2]=0.16 M। Qc = 0.16²/(0.012²×0.2) = 0.0256/(2.88×10⁻⁵) ≈ 889 < Kc, তাই সম্মুখ দিকে।",
+     "explanation_en": "[NO]=0.012, [O2]=0.2, [NO2]=0.16 M. Qc = 0.16^2/(0.012^2 × 0.2) = 0.0256/2.88e-5 ≈ 889 < Kc, so forward.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "N2 + 3H2 ⇌ 2NH3 এর Kc = 0.50 mol⁻² L²। কোনো মুহূর্তে [N2] = 1.0, [H2] = 2.0, [NH3] = 2.0 mol/L হলে বিক্রিয়াটির অবস্থা কী?",
+     "question_en": "For N2 + 3H2 ⇌ 2NH3, Kc = 0.50 mol^-2 L^2. At some instant [N2] = 1.0, [H2] = 2.0, [NH3] = 2.0 mol/L. What is the state?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সম্মুখ দিকে অগ্রসর",
+       "en": "Proceeding forward"
+      },
+      {
+       "id": "b",
+       "bn": "পশ্চাৎ দিকে অগ্রসর",
+       "en": "Proceeding backward"
+      },
+      {
+       "id": "c",
+       "bn": "সাম্যাবস্থায়",
+       "en": "At equilibrium"
+      },
+      {
+       "id": "d",
+       "bn": "নির্ণয় করা যায় না",
+       "en": "Cannot be determined"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Qc = 2.0²/(1.0 × 2.0³) = 4/8 = 0.50 = Kc, তাই সাম্যাবস্থা।",
+     "explanation_en": "Qc = 2.0^2/(1.0 × 2.0^3) = 4/8 = 0.50 = Kc, so at equilibrium.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.17",
+   "title_bn": "Kp ও Kc এর গাণিতিক রাশিমালা প্রতিপাদন",
+   "title_en": "Derivation of Mathematical Expressions for Kp and Kc",
+   "notes_bn": "বিয়োজন মাত্রা α = বিয়োজিত মোল সংখ্যা / মোট (প্রারম্ভিক) মোল সংখ্যা। যেমন 20 mol থেকে 5 mol বিয়োজিত হলে α = 5/20 = 0.25 (25%)।\nPCl5 ⇌ PCl3 + Cl2: a mol PCl5 থেকে শুরু; সাম্যে (a−α), α, α; মোট (a+α) mol। Kp = α²P/(a²−α²) (a = 1 হলে α²P/(1−α²)); Kc = α²/((a−α)V)।\nআংশিক চাপ = মোট চাপ × মোল ভগ্নাংশ।\nN2O4 ⇌ 2NO2: সাম্যে (a−α), 2α; মোট (a+α)। Kp = 4α²P/(a²−α²); Kc = 4α²/((a−α)V)।\nউদাহরণ: 70°C এ PCl5 25% বিয়োজিত, P = 1.75 atm ⇒ Kp = (0.25)²/(1−0.25²) × 1.75 = 0.1167 atm; Kc = Kp/(RT) ≈ 4.148×10⁻³ mol L⁻¹।\nH2 + I2 ⇌ 2HI: Kc = 4x²/((a−x)(b−x)); Δn = 0 তাই Kp = Kc, চাপ বা আয়তন নির্ভর নয়। উদাহরণ: 12.5 mol H2 ও 4.5 mol I2 থেকে 8 mol HI ⇒ Kc = 15.058।\nHI এর বিয়োজন 2HI ⇌ H2+I2: Kc = α²/(4(1−α)²) (Kp = Kc)।\nN2+3H2 ⇌ 2NH3 সংশ্লেষে (a−x), (b−3x), 2x: Kc = 4x²V²/((a−x)(b−3x)³)।\nএস্টারীকরণ CH3COOH + C2H5OH ⇌ CH3COOC2H5 + H2O: Kc = x²/((a−x)(b−x)) (আয়তন কাটা যায়)।\nসাম্যে বাইরে থেকে PCl5 যোগ করলে Kc ধ্রুব রাখতে সাম্য ডানে; PCl3/Cl2 যোগ করলে বামে।",
+   "notes_en": "Degree of dissociation α = moles dissociated / total initial moles (20 mol with 5 mol dissociated gives α = 0.25, i.e. 25%).\nPCl5 ⇌ PCl3 + Cl2: start a mol; at equilibrium (a-α), α, α; total (a+α). Kp = α²P/(a²-α²) (for a = 1: α²P/(1-α²)); Kc = α²/((a-α)V).\nPartial pressure = total pressure × mole fraction.\nN2O4 ⇌ 2NO2: (a-α), 2α; total (a+α). Kp = 4α²P/(a²-α²); Kc = 4α²/((a-α)V).\nExample: PCl5 25% dissociated at 70°C, P = 1.75 atm gives Kp = 0.0625/0.9375 × 1.75 = 0.1167 atm; Kc = Kp/RT ≈ 4.148e-3 mol/L.\nH2 + I2 ⇌ 2HI: Kc = 4x²/((a-x)(b-x)); Δn = 0 so Kp = Kc, independent of pressure/volume. Example: 12.5 mol H2 and 4.5 mol I2 giving 8 mol HI: Kc = 15.058.\nHI dissociation 2HI ⇌ H2 + I2: Kc = α²/(4(1-α)²), Kp = Kc.\nNH3 synthesis (a-x), (b-3x), 2x: Kc = 4x²V²/((a-x)(b-3x)^3).\nEsterification: Kc = x²/((a-x)(b-x)) (volume cancels).\nAdding PCl5 to the equilibrium shifts it forward; adding PCl3 or Cl2 shifts it backward (Kc constant).",
+   "mcqs": [
+    {
+     "question_bn": "বিয়োজন মাত্রা (α) কী?",
+     "question_en": "What is the degree of dissociation (α)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিয়োজিত মোল সংখ্যা / মোট মোল সংখ্যা",
+       "en": "Moles dissociated / total initial moles"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়ার তাপ / মোল সংখ্যা",
+       "en": "Heat of reaction / moles"
+      },
+      {
+       "id": "c",
+       "bn": "উৎপাদের মোল / বিক্রিয়কের মোল",
+       "en": "Moles of product / moles of reactant"
+      },
+      {
+       "id": "d",
+       "bn": "সাম্যে মোট চাপ / আংশিক চাপ",
+       "en": "Total pressure / partial pressure"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "α = বিয়োজিত মোল সংখ্যা ÷ প্রারম্ভিক মোট মোল সংখ্যা; এটি ভগ্নাংশ।",
+     "explanation_en": "α is the fraction of initial moles that dissociated.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "1 mol PCl5 শুরুতে নিয়ে α মাত্রায় বিয়োজিত হলে সাম্যে মোট মোল সংখ্যা কত?",
+     "question_en": "If 1 mol PCl5 dissociates to the extent α, what is the total number of moles at equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1 − α",
+       "en": "1 − α"
+      },
+      {
+       "id": "b",
+       "bn": "1 + α",
+       "en": "1 + α"
+      },
+      {
+       "id": "c",
+       "bn": "1 + 2α",
+       "en": "1 + 2α"
+      },
+      {
+       "id": "d",
+       "bn": "2α",
+       "en": "2α"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "(1−α) + α + α = 1+α।",
+     "explanation_en": "(1-α) + α + α = 1 + α.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "PCl5 ⇌ PCl3 + Cl2 এ α = 0.5 হলে সাম্য মিশ্রণে PCl5 এর মোল ভগ্নাংশ কত?",
+     "question_en": "In PCl5 ⇌ PCl3 + Cl2 with α = 0.5, what is the mole fraction of PCl5 at equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.5",
+       "en": "0.5"
+      },
+      {
+       "id": "b",
+       "bn": "1/3",
+       "en": "1/3"
+      },
+      {
+       "id": "c",
+       "bn": "2/3",
+       "en": "2/3"
+      },
+      {
+       "id": "d",
+       "bn": "0.25",
+       "en": "0.25"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মোল ভগ্নাংশ = (1−α)/(1+α) = 0.5/1.5 = 1/3।",
+     "explanation_en": "Mole fraction = (1-α)/(1+α) = 0.5/1.5 = 1/3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1 mol CH3COOH ও 1 mol C2H5OH মিশিয়ে সাম্যে 2/3 mol এস্টার পাওয়া গেল। Kc কত?",
+     "question_en": "1 mol CH3COOH and 1 mol C2H5OH are mixed and 2/3 mol of ester is present at equilibrium. What is Kc?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "1/4",
+       "en": "1/4"
+      },
+      {
+       "id": "d",
+       "bn": "9",
+       "en": "9"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Kc = x²/((a−x)(b−x)) = (2/3)²/(1/3)² = (4/9)/(1/9) = 4।",
+     "explanation_en": "Kc = x^2/((a-x)(b-x)) = (4/9)/(1/9) = 4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "70°C এ PCl5 25% বিয়োজিত এবং মোট চাপ 1.75 atm হলে Kp কত?",
+     "question_en": "PCl5 is 25% dissociated at 70°C with total pressure 1.75 atm. What is Kp?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.1167 atm",
+       "en": "0.1167 atm"
+      },
+      {
+       "id": "b",
+       "bn": "0.0625 atm",
+       "en": "0.0625 atm"
+      },
+      {
+       "id": "c",
+       "bn": "0.467 atm",
+       "en": "0.467 atm"
+      },
+      {
+       "id": "d",
+       "bn": "1.75 atm",
+       "en": "1.75 atm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Kp = α²P/(1−α²) = 0.0625 × 1.75/0.9375 = 0.1167 atm।",
+     "explanation_en": "Kp = α^2 P/(1-α^2) = 0.0625 × 1.75/0.9375 = 0.1167 atm.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "H2 ও I2 এর 12.5 mol ও 4.5 mol থেকে বিক্রিয়ায় সাম্যে 8 mol HI পাওয়া গেল। H2(g)+I2(g) ⇌ 2HI(g) এর Kc কত?",
+     "question_en": "From 12.5 mol H2 and 4.5 mol I2, 8 mol HI is present at equilibrium. What is Kc for H2(g)+I2(g) ⇌ 2HI(g)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "15.06",
+       "en": "15.06"
+      },
+      {
+       "id": "b",
+       "bn": "2.78 × 10⁻²",
+       "en": "2.78 × 10^-2"
+      },
+      {
+       "id": "c",
+       "bn": "64",
+       "en": "64"
+      },
+      {
+       "id": "d",
+       "bn": "1.88",
+       "en": "1.88"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অবশিষ্ট H2 = 12.5−4 = 8.5 mol, I2 = 4.5−4 = 0.5 mol; আয়তন কাটা যায়: Kc = 8²/(8.5×0.5) = 64/4.25 = 15.06।",
+     "explanation_en": "H2 left = 8.5 mol, I2 left = 0.5 mol; volume cancels: Kc = 64/(8.5×0.5) = 64/4.25 = 15.06.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.18",
+   "title_bn": "Kp ও Kc এর মধ্যে সম্পর্ক ও তাৎপর্য",
+   "title_en": "Relation and Significance of Kp and Kc",
+   "notes_bn": "আদর্শ গ্যাসে P = CRT। আংশিক চাপ বসিয়ে পাওয়া যায়: Kp = Kc (RT)^Δn।\nΔn = (গ্যাসীয় উৎপাদের মোট মোল) − (গ্যাসীয় বিক্রিয়কের মোট মোল); কঠিন/তরল গণনায় ধরা হয় না।\nΔn = 0 ⇒ Kp = Kc (H2+I2 ⇌ 2HI); Δn > 0 ⇒ Kp > Kc (PCl5 ⇌ PCl3+Cl2); Δn < 0 ⇒ Kp < Kc (N2+3H2 ⇌ 2NH3, Δn = −2; 2SO2+O2 ⇌ 2SO3, Δn = −1, Kp = Kc/RT)।\nCaCO3(s) ⇌ CaO(s)+CO2(g): Δn = 1, Kp = Kc·RT, Kc = [CO2]।\nউদাহরণ: CS2+4H2 ⇌ CH4+2H2S, Kc = 0.28, 900°C ⇒ Kp = 0.28×(0.0821×1173)⁻² = 3.019×10⁻⁵।\nএকক: Kp = (atm)^Δn; Kc = (mol L⁻¹)^Δn; Δn = 0 হলে K একক-বিহীন। N2+3H2 ⇌ 2NH3: Kc = mol⁻²L², Kp = atm⁻²।\nKc এর সংজ্ঞা: সম্মুখ ও পশ্চাৎ হার ধ্রুবকের অনুপাত; উৎপাদ ও বিক্রিয়কের মোলার ঘনমাত্রার গুণফলের অনুপাত; Kp গ্যাসীয় সাম্যে আংশিক চাপ ব্যবহার করে।",
+   "notes_en": "For ideal gases P = CRT; substituting into Kp gives Kp = Kc (RT)^Δn.\nΔn = (moles of gaseous products) - (moles of gaseous reactants); solids and liquids are not counted.\nΔn = 0: Kp = Kc (H2+I2 ⇌ 2HI); Δn > 0: Kp > Kc (PCl5 ⇌ PCl3+Cl2); Δn < 0: Kp < Kc (N2+3H2 ⇌ 2NH3, Δn = -2; 2SO2+O2 ⇌ 2SO3, Δn = -1 so Kp = Kc/RT).\nCaCO3(s) ⇌ CaO(s)+CO2(g): Δn = 1, Kp = Kc·RT, Kc = [CO2].\nExample: CS2+4H2 ⇌ CH4+2H2S, Kc = 0.28 at 900°C: Kp = 0.28 × (0.0821×1173)^-2 = 3.019e-5.\nUnits: Kp = (atm)^Δn; Kc = (mol/L)^Δn; if Δn = 0, K has no unit. For N2+3H2 ⇌ 2NH3: Kc in mol^-2 L^2, Kp in atm^-2.\nKc is the ratio of forward/reverse rate constants, equivalently the ratio of product to reactant concentration products; Kp uses partial pressures for gaseous equilibria.",
+   "mcqs": [
+    {
+     "question_bn": "Kp ও Kc এর সম্পর্ক কোনটি?",
+     "question_en": "Which is the relation between Kp and Kc?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Kp = Kc (RT)^Δn",
+       "en": "Kp = Kc (RT)^Δn"
+      },
+      {
+       "id": "b",
+       "bn": "Kp = Kc / (RT)^Δn",
+       "en": "Kp = Kc / (RT)^Δn"
+      },
+      {
+       "id": "c",
+       "bn": "Kp = Kc × Δn",
+       "en": "Kp = Kc × Δn"
+      },
+      {
+       "id": "d",
+       "bn": "Kp = Kc + RT",
+       "en": "Kp = Kc + RT"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "P = CRT বসিয়ে Kp = Kc(RT)^Δn পাওয়া যায়।",
+     "explanation_en": "Substituting P = CRT gives Kp = Kc(RT)^Δn.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N2(g) + 3H2(g) ⇌ 2NH3(g) বিক্রিয়ায় Δn এর মান কত?",
+     "question_en": "What is Δn for N2(g) + 3H2(g) ⇌ 2NH3(g)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+2",
+       "en": "+2"
+      },
+      {
+       "id": "b",
+       "bn": "−2",
+       "en": "−2"
+      },
+      {
+       "id": "c",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "d",
+       "bn": "−4",
+       "en": "−4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Δn = 2 − (1+3) = −2।",
+     "explanation_en": "Δn = 2 - (1+3) = -2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন বিক্রিয়ায় Kp = Kc?",
+     "question_en": "In which reaction is Kp = Kc?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "PCl5 ⇌ PCl3 + Cl2",
+       "en": "PCl5 ⇌ PCl3 + Cl2"
+      },
+      {
+       "id": "b",
+       "bn": "N2 + 3H2 ⇌ 2NH3",
+       "en": "N2 + 3H2 ⇌ 2NH3"
+      },
+      {
+       "id": "c",
+       "bn": "H2 + I2 ⇌ 2HI",
+       "en": "H2 + I2 ⇌ 2HI"
+      },
+      {
+       "id": "d",
+       "bn": "2SO2 + O2 ⇌ 2SO3",
+       "en": "2SO2 + O2 ⇌ 2SO3"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "H2+I2 ⇌ 2HI এ Δn = 2 − 2 = 0, তাই (RT)⁰ = 1।",
+     "explanation_en": "For H2 + I2 ⇌ 2HI, Δn = 0, so (RT)^0 = 1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N2(g) + 3H2(g) ⇌ 2NH3(g) এর Kp এর একক কী?",
+     "question_en": "What is the unit of Kp for N2(g) + 3H2(g) ⇌ 2NH3(g)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "atm²",
+       "en": "atm^2"
+      },
+      {
+       "id": "b",
+       "bn": "atm⁻²",
+       "en": "atm^-2"
+      },
+      {
+       "id": "c",
+       "bn": "mol⁻² L²",
+       "en": "mol^-2 L^2"
+      },
+      {
+       "id": "d",
+       "bn": "একক নেই",
+       "en": "No unit"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Kp = (atm)^Δn = atm⁻²; mol⁻²L² হলো Kc এর একক।",
+     "explanation_en": "Kp = (atm)^Δn = atm^-2; mol^-2 L^2 is the unit of Kc.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "2SO2(g) + O2(g) ⇌ 2SO3(g) এ Kc = 82 L mol⁻¹, T = 500 K, R = 0.082 L atm mol⁻¹K⁻¹। Kp কত?",
+     "question_en": "For 2SO2(g) + O2(g) ⇌ 2SO3(g), Kc = 82 L mol^-1, T = 500 K, R = 0.082 L atm mol^-1 K^-1. What is Kp?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2 atm⁻¹",
+       "en": "2 atm^-1"
+      },
+      {
+       "id": "b",
+       "bn": "82 atm⁻¹",
+       "en": "82 atm^-1"
+      },
+      {
+       "id": "c",
+       "bn": "0.5 atm⁻¹",
+       "en": "0.5 atm^-1"
+      },
+      {
+       "id": "d",
+       "bn": "3362 atm⁻¹",
+       "en": "3362 atm^-1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Δn = −1; Kp = Kc/RT = 82/(0.082×500) = 82/41 = 2 atm⁻¹।",
+     "explanation_en": "Δn = -1; Kp = Kc/RT = 82/41 = 2 atm^-1.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "CaCO3(s) ⇌ CaO(s) + CO2(g) বিক্রিয়ায় Kc ও Kp সম্পর্কে কোনটি সঠিক?",
+     "question_en": "For CaCO3(s) ⇌ CaO(s) + CO2(g), which statement is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Kp = Kc, Δn = 0",
+       "en": "Kp = Kc, Δn = 0"
+      },
+      {
+       "id": "b",
+       "bn": "Kp = Kc·RT, Kc এর একক mol L⁻¹",
+       "en": "Kp = Kc·RT, and the unit of Kc is mol L^-1"
+      },
+      {
+       "id": "c",
+       "bn": "Kp = Kc/RT, Kc এর একক mol⁻¹ L",
+       "en": "Kp = Kc/RT, and the unit of Kc is mol^-1 L"
+      },
+      {
+       "id": "d",
+       "bn": "Kp = Kc·(RT)², Kc একক-বিহীন",
+       "en": "Kp = Kc·(RT)^2, and Kc is unitless"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শুধু CO2 গ্যাসীয়: Δn = 1; Kc = [CO2] (mol L⁻¹), Kp = Kc(RT)¹ = Kc·RT।",
+     "explanation_en": "Only CO2 is gaseous: Δn = 1; Kc = [CO2] (mol/L), Kp = Kc·RT.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "4.17",
+   "stimulus_bn": "একটি 5 L বদ্ধ পাত্রে 1 mol PCl5 গ্যাস নিয়ে 250°C (523 K) তাপমাত্রায় উত্তপ্ত করা হলো। সাম্য স্থাপিত হলে মিশ্রণের মোট চাপ 2 atm এবং বিয়োজন মাত্রা α = 0.4 পাওয়া গেল। (R = 0.082 L atm mol⁻¹K⁻¹)",
+   "stimulus_en": "1 mol of PCl5 gas is heated in a 5 L closed vessel at 250°C (523 K). At equilibrium the total pressure is 2 atm and the degree of dissociation is α = 0.4. (R = 0.082 L atm mol^-1 K^-1)",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "বিয়োজন মাত্রা কী?",
+     "question_en": "What is the degree of dissociation?",
+     "model_answer_bn": "কোনো পদার্থের প্রারম্ভিক মোট মোল সংখ্যার যে ভগ্নাংশ বিয়োজিত হয় তাকে বিয়োজন মাত্রা (α) বলে।",
+     "model_answer_en": "The fraction of the initial moles of a substance that has dissociated."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "PCl5 এর বিয়োজনে Kp ও Kc এর মান সমান হয় না কেন?",
+     "question_en": "Why are Kp and Kc not equal for PCl5 dissociation?",
+     "model_answer_bn": "PCl5 ⇌ PCl3 + Cl2 এ Δn = 2 − 1 = 1 ≠ 0। Kp = Kc(RT)^Δn অনুসারে Kp = Kc·RT, তাই Kp ≠ Kc।",
+     "model_answer_en": "Here Δn = 2 - 1 = 1 ≠ 0. Since Kp = Kc(RT)^Δn, Kp = Kc·RT and hence Kp ≠ Kc."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "উক্ত তাপমাত্রায় বিক্রিয়াটির Kp নির্ণয় কর।",
+     "question_en": "Calculate Kp for the reaction at this temperature.",
+     "model_answer_bn": "সাম্যে PCl5 = 0.6, PCl3 = 0.4, Cl2 = 0.4 mol; মোট = 1.4 mol। Kp = α²P/(1−α²) = (0.16 × 2)/0.84 = 0.381 atm।",
+     "model_answer_en": "At equilibrium PCl5 = 0.6, PCl3 = 0.4, Cl2 = 0.4 mol; total 1.4 mol. Kp = α^2 P/(1-α^2) = (0.16 × 2)/0.84 = 0.381 atm."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "উদ্দীপকের তাপমাত্রায় Kc এর মান নির্ণয় কর এবং স্থির আয়তন ও তাপমাত্রায় সাম্য মিশ্রণে কিছু PCl3 যোগ করলে PCl5 এর বিয়োজন মাত্রা ও Kc এর কী পরিবর্তন হবে ব্যাখ্যা কর।",
+     "question_en": "Calculate Kc at this temperature, and explain what happens to the degree of dissociation and to Kc if some PCl3 is added at constant volume and temperature.",
+     "model_answer_bn": "Kc = Kp/(RT) = 0.381/(0.082 × 523) = 0.381/42.89 ≈ 8.9 × 10⁻³ mol L⁻¹। PCl3 যোগ করলে Kc এর লব বাড়ে; Kc ধ্রুব রাখতে PCl3 ও Cl2 যুক্ত হয়ে PCl5 গঠন করে, সাম্য বামে সরে ও বিয়োজন মাত্রা কমে। Kc এর মান তাপমাত্রা অপরিবর্তিত থাকায় অপরিবর্তিত থাকে।",
+     "model_answer_en": "Kc = Kp/RT = 0.381/(0.082 × 523) = 0.381/42.89 ≈ 8.9 × 10^-3 mol/L. Adding PCl3 raises the numerator of Kc; to keep Kc constant PCl3 and Cl2 combine to form PCl5, so equilibrium shifts left and α decreases. Kc stays the same because temperature is unchanged."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.16",
+   "stimulus_bn": "400°C তাপমাত্রায় N2(g) + 3H2(g) ⇌ 2NH3(g) বিক্রিয়ার Kc = 0.50 mol⁻² L²। একটি 1 L পাত্রে কোনো মুহূর্তে [N2] = 1 mol/L, [H2] = 2 mol/L এবং [NH3] = 3 mol/L পাওয়া গেল।",
+   "stimulus_en": "For N2(g) + 3H2(g) ⇌ 2NH3(g) at 400°C, Kc = 0.50 mol^-2 L^2. In a 1 L vessel at some instant [N2] = 1 mol/L, [H2] = 2 mol/L and [NH3] = 3 mol/L.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "সাম্যধ্রুবক কাকে বলে?",
+     "question_en": "What is the equilibrium constant?",
+     "model_answer_bn": "নির্দিষ্ট তাপমাত্রায় উভমুখী বিক্রিয়ার সাম্যাবস্থায় উৎপাদের মোলার ঘনমাত্রার (সহগ-ঘাতসহ) গুণফল ও বিক্রিয়কের মোলার ঘনমাত্রার গুণফলের অনুপাতের ধ্রুব মানকে সাম্যধ্রুবক বলে।",
+     "model_answer_en": "At a given temperature, the constant ratio of the product of equilibrium concentrations of products to that of reactants (each raised to its coefficient)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "বিক্রিয়ার কোশেন্ট Qc ও Kc এর পার্থক্য লেখ।",
+     "question_en": "Distinguish between Qc and Kc.",
+     "model_answer_bn": "Qc যেকোনো মুহূর্তের ঘনমাত্রা দিয়ে নির্ণীত এবং পরিবর্তনশীল; Kc কেবল সাম্যাবস্থার ঘনমাত্রা দিয়ে নির্ণীত এবং নির্দিষ্ট তাপমাত্রায় ধ্রুব। দুটির রাশিমালা একই।",
+     "model_answer_en": "Qc uses concentrations at any instant and varies; Kc uses equilibrium concentrations and is constant at a fixed temperature. Both have the same expression."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "উদ্দীপকের মুহূর্তে Qc নির্ণয় করে বিক্রিয়াটি কোন দিকে অগ্রসর হবে নির্ধারণ কর।",
+     "question_en": "Calculate Qc at that instant and decide the direction in which the reaction will proceed.",
+     "model_answer_bn": "Qc = [NH3]²/([N2][H2]³) = 9/(1 × 8) = 1.125 mol⁻²L²। Qc > Kc (0.50), তাই বিক্রিয়া ডান থেকে বামে অগ্রসর হবে (NH3 বিয়োজিত হবে)।",
+     "model_answer_en": "Qc = [NH3]^2/([N2][H2]^3) = 9/(1 × 8) = 1.125 mol^-2 L^2. Since Qc > Kc (0.50), the reaction proceeds from right to left (NH3 decomposes)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "সাম্য স্থাপনের পর স্থির তাপমাত্রা ও আয়তনে আরও H2 যোগ করলে এবং প্রভাবক ব্যবহার করলে Kc ও NH3 এর পরিমাণের কী পরিবর্তন ঘটবে বিশ্লেষণ কর।",
+     "question_en": "After equilibrium is reached, analyse the effect on Kc and on the amount of NH3 of (i) adding more H2 and (ii) using a catalyst, at constant temperature and volume.",
+     "model_answer_bn": "H2 যোগ করলে Qc < Kc হয় (হরের H2³ বাড়ে), ফলে সম্মুখ বিক্রিয়া ঘটে ও NH3 বাড়ে; কিন্তু Kc অপরিবর্তিত থাকে কারণ তাপমাত্রা অপরিবর্তিত। প্রভাবক সম্মুখ ও পশ্চাৎ হার সমানভাবে বাড়ায়, তাই Kc ও সাম্য মিশ্রণের গঠন বদলায় না; শুধু সাম্য দ্রুত আসে।",
+     "model_answer_en": "Adding H2 makes Qc < Kc (H2^3 in the denominator rises), so the forward reaction occurs and NH3 increases; Kc is unchanged because T is unchanged. A catalyst raises forward and reverse rates equally, so neither Kc nor the equilibrium composition changes; equilibrium is just reached faster."
+    }
+   ]
+  }
+ ],
+ "notes": "Printed page = PDF index + 2. Read PDF pages 463-496 fully; 497-500 (exam MCQ/CQ continuation pages) not opened. Book errata: worked example for 2SO2+O2 <=> 2SO3 (75% conversion, P=6.5 atm) prints Kp = 6.23077 atm^-1 but the correct value from its own data is 12.46 atm^-1 (factor-2 error in simplification) - not used in MCQs. Section 4.14 heading numerals appear as Bangla digits; chapter number 4 used throughout."
+}

@@ -1,0 +1,1285 @@
+{
+ "chapter_no": 3,
+ "topics": [
+  {
+   "section_no": "3.3",
+   "title_bn": "পর্যায়বৃত্ত ধর্ম",
+   "title_en": "Periodic Properties",
+   "notes_bn": "মৌলের ইলেকট্রন বিন্যাস (বিশেষত সর্বশেষ কক্ষ) পরিবর্তনের সাথে ধর্মের যে পুনরাবৃত্তি ঘটে তা-ই পর্যায়বৃত্ত ধর্ম।\nআয়নিকরণ বিভব: গ্যাসীয় বিচ্ছিন্ন নিরপেক্ষ পরমাণু থেকে সবচেয়ে শিথিলভাবে আবদ্ধ ইলেকট্রন সরানোর শক্তি; গ্রুপে নিচে কমে, পর্যায়ে ডানে বাড়ে (Mg>Al, N>O ব্যতিক্রম)। 1 eV = 96.49 kJ/mol।\nইলেকট্রন আসক্তি: একটি করে ইলেকট্রন গ্রহণে নির্গত শক্তি; Cl (−349) > F (−329) kJ/mol; নিষ্ক্রিয় গ্যাসের মান ধনাত্মক/শূন্য।\nতড়িৎ ঋণাত্মকতা: শেয়ারকৃত ইলেকট্রন নিজের দিকে টানার ক্ষমতা; F সর্বোচ্চ; মূলিকেন: (IP+EA)/5.6 (eV); পার্থক্য 1.7 → ~50% আয়নিক।\nগলনাঙ্ক/স্ফুটনাঙ্ক: 1 নং গ্রুপে নিচে কমে, 17 নং গ্রুপে নিচে বাড়ে।\nব্যাসার্ধ: সমযোজী, ধাতব, ভ্যান্ডার ওয়ালস্ (ক্রম vdW > ধাতব > সমযোজী); পর্যায়ে ডানে কমে, গ্রুপে নিচে বাড়ে; ক্যাটায়ন ছোট, অ্যানায়ন বড়।\nযোজ্যতা: তৃতীয় পর্যায়ে অক্সিজেনভিত্তিক 1 থেকে 7; ধাতব ধর্ম পর্যায়ে ডানে কমে।",
+   "notes_en": "Periodic properties recur as the outer-shell electron configuration repeats.\nIonisation potential: energy to remove the most loosely held electron from a gaseous atom; falls down a group, rises across a period (exceptions Mg>Al, N>O). 1 eV = 96.49 kJ/mol.\nElectron affinity: energy released on adding one electron; Cl (−349) > F (−329) kJ/mol; noble gases are zero/positive.\nElectronegativity: pull on shared electrons; F is highest; Mulliken (IP+EA)/5.6 (eV); difference 1.7 ~ 50% ionic.\nM.p./b.p.: fall down group 1, rise down group 17.\nRadii: covalent, metallic, van der Waals (vdW > metallic > covalent); decrease across a period, increase down a group; cations smaller, anions larger.\nValency: oxygen-based 1 to 7 across period 3; metallic character decreases left to right.",
+   "mcqs": [
+    {
+     "question_bn": "গ্যাসীয় অবস্থায় কোনো মৌলের এক মোল বিচ্ছিন্ন নিরপেক্ষ পরমাণু থেকে সবচেয়ে শিথিলভাবে আবদ্ধ একটি করে ইলেকট্রন সরিয়ে নিতে যে শক্তি লাগে তাকে কী বলে?",
+     "question_en": "The energy needed to remove the most loosely bound electron from each atom in one mole of isolated gaseous atoms is called—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলেকট্রন আসক্তি",
+       "en": "Electron affinity"
+      },
+      {
+       "id": "b",
+       "bn": "আয়নিকরণ বিভব",
+       "en": "Ionisation potential"
+      },
+      {
+       "id": "c",
+       "bn": "তড়িৎ ঋণাত্মকতা",
+       "en": "Electronegativity"
+      },
+      {
+       "id": "d",
+       "bn": "পারমাণবিক ব্যাসার্ধ",
+       "en": "Atomic radius"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "এটাই আয়নিকরণ বিভবের সংজ্ঞা; এটি তাপগ্রাহী প্রক্রিয়া (ΔH ধনাত্মক)।",
+     "explanation_en": "This is the definition of ionisation potential; the process is endothermic (positive ΔH).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Li, Na, K, Rb ও Cs-এর মধ্যে কোনটির প্রথম আয়নিকরণ বিভব সবচেয়ে কম?",
+     "question_en": "Among Li, Na, K, Rb and Cs, which has the lowest first ionisation potential?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Li",
+       "en": "Li"
+      },
+      {
+       "id": "b",
+       "bn": "Na",
+       "en": "Na"
+      },
+      {
+       "id": "c",
+       "bn": "Rb",
+       "en": "Rb"
+      },
+      {
+       "id": "d",
+       "bn": "Cs",
+       "en": "Cs"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "গ্রুপে উপর থেকে নিচে গেলে আকার বাড়ে, আয়নিকরণ বিভব কমে; Cs-এর মান 376 kJ mol⁻¹ (Li 520, Na 496, K 418, Rb 403)।",
+     "explanation_en": "IP falls down a group as size grows; Cs is lowest at 376 kJ/mol (Li 520, Na 496, K 418, Rb 403).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তৃতীয় পর্যায়ে Mg-এর (737 kJ mol⁻¹) আয়নিকরণ বিভব Al-এর (577 kJ mol⁻¹) চেয়ে বেশি কেন?",
+     "question_en": "Why is the ionisation potential of Mg (737 kJ/mol) higher than that of Al (577 kJ/mol) in period 3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Mg-এর পারমাণবিক সংখ্যা বেশি",
+       "en": "Mg has the higher atomic number"
+      },
+      {
+       "id": "b",
+       "bn": "Mg-এর 3s পূর্ণ ও সুস্থিত, Al-এর 3p-তে একটিমাত্র ইলেকট্রন সহজে বের হয়",
+       "en": "Mg has a stable filled 3s, while Al's lone 3p electron leaves easily"
+      },
+      {
+       "id": "c",
+       "bn": "Al-এর আকার Mg-এর চেয়ে ছোট",
+       "en": "Al is smaller than Mg"
+      },
+      {
+       "id": "d",
+       "bn": "Mg-এর ইলেকট্রন সংখ্যা কম",
+       "en": "Mg has fewer electrons"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হুন্ডের নিয়ম অনুযায়ী পূর্ণ উপকক্ষ বেশি সুস্থিত; তাই 3s থেকে ইলেকট্রন সরাতে বেশি শক্তি লাগে।",
+     "explanation_en": "By Hund's rule a filled sub-shell is more stable, so more energy is needed to remove a 3s electron.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N (1402 kJ mol⁻¹) ও O (1314 kJ mol⁻¹)-এর আয়নিকরণ বিভব সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which is correct about the ionisation potentials of N (1402 kJ/mol) and O (1314 kJ/mol)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O > N, কারণ O-এর নিউক্লিয়ার চার্জ বেশি",
+       "en": "O > N because O has the larger nuclear charge"
+      },
+      {
+       "id": "b",
+       "bn": "N > O, কারণ N-এর অর্ধপূর্ণ p³ বিন্যাস সুস্থিত",
+       "en": "N > O because N's half-filled p³ configuration is stable"
+      },
+      {
+       "id": "c",
+       "bn": "N = O, কারণ একই পর্যায়ে",
+       "en": "N = O because they are in the same period"
+      },
+      {
+       "id": "d",
+       "bn": "N < O, কারণ N-এর আকার বড়",
+       "en": "N < O because N is larger"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অর্ধপূর্ণ 2p³ সুস্থিত, তাই N থেকে ইলেকট্রন সরানো কঠিন; পর্যায় সারণিতে O ডানে থাকলেও এর মান কম।",
+     "explanation_en": "Half-filled 2p³ is stable, so removing an electron from N is harder, even though O lies to its right.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "17 নং গ্রুপের মৌলগুলোর মধ্যে ইলেকট্রন আসক্তির সঠিক ক্রম কোনটি?",
+     "question_en": "Which is the correct order of electron affinity among the group-17 elements?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F > Cl > Br > I",
+       "en": "F > Cl > Br > I"
+      },
+      {
+       "id": "b",
+       "bn": "Cl > F > Br > I > At",
+       "en": "Cl > F > Br > I > At"
+      },
+      {
+       "id": "c",
+       "bn": "I > Br > Cl > F",
+       "en": "I > Br > Cl > F"
+      },
+      {
+       "id": "d",
+       "bn": "Br > Cl > F > I",
+       "en": "Br > Cl > F > I"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cl-এর আসক্তি 349, F-এর 329 kJ mol⁻¹; F-এর ক্ষুদ্র 2p উপকক্ষে ইলেকট্রন-ইলেকট্রন বিকর্ষণ বেশি, তাই মান কম।",
+     "explanation_en": "Cl = 349, F = 329 kJ/mol; the compact 2p sub-shell of F has more electron-electron repulsion, lowering its value.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সবচেয়ে বেশি তড়িৎ ঋণাত্মক মৌল কোনটি?",
+     "question_en": "Which element is the most electronegative?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O",
+       "en": "O"
+      },
+      {
+       "id": "b",
+       "bn": "Cl",
+       "en": "Cl"
+      },
+      {
+       "id": "c",
+       "bn": "F",
+       "en": "F"
+      },
+      {
+       "id": "d",
+       "bn": "N",
+       "en": "N"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "পর্যায় সারণিতে ডানে ও উপরে গেলে তড়িৎ ঋণাত্মকতা বাড়ে; F-এর মান সর্বাধিক (4.1, বইয়ের পাউলিং স্কেল)।",
+     "explanation_en": "Electronegativity rises to the right and upward; F has the highest value (4.1 in the book's Pauling data).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "দুটি মৌলের তড়িৎ ঋণাত্মকতার পার্থক্য 1.7 হলে বন্ধনটিতে আয়নিক ধর্ম প্রায় কত শতাংশ?",
+     "question_en": "If the electronegativity difference between two elements is 1.7, the bond has about what percentage of ionic character?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10%",
+       "en": "10%"
+      },
+      {
+       "id": "b",
+       "bn": "25%",
+       "en": "25%"
+      },
+      {
+       "id": "c",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "d",
+       "bn": "90%",
+       "en": "90%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ের সারণি অনুযায়ী পার্থক্য 1.1 → 25%, 1.7 → 50%, 2.3 → 75%।",
+     "explanation_en": "From the book's table: difference 1.1 → 25%, 1.7 → 50%, 2.3 → 75%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "17 নং গ্রুপে F থেকে At-এর দিকে গেলে গলনাঙ্ক ও স্ফুটনাঙ্কের মান কেমন পরিবর্তিত হয়?",
+     "question_en": "How do the melting and boiling points change from F to At in group 17?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হ্রাস পায়",
+       "en": "Decrease"
+      },
+      {
+       "id": "b",
+       "bn": "বৃদ্ধি পায়",
+       "en": "Increase"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত থাকে",
+       "en": "Remain constant"
+      },
+      {
+       "id": "d",
+       "bn": "প্রথমে বাড়ে পরে কমে",
+       "en": "Rise then fall"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পারমাণবিক সংখ্যা বাড়ার সাথে মান বাড়ে (F −233 °C থেকে At 302 °C গলনাঙ্ক); এটি 1 নং গ্রুপের ক্ষার ধাতুর বিপরীত প্রবণতা।",
+     "explanation_en": "Values rise with atomic number (m.p. −233 °C for F to 302 °C for At); opposite to the group-1 alkali metals.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HCl অণুতে আন্তঃনিউক্লিয়াস দূরত্ব 136 pm এবং H-এর সমযোজী ব্যাসার্ধ 37 pm হলে Cl-এর সমযোজী ব্যাসার্ধ কত?",
+     "question_en": "In HCl the internuclear distance is 136 pm and the covalent radius of H is 37 pm. What is the covalent radius of Cl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "173 pm",
+       "en": "173 pm"
+      },
+      {
+       "id": "b",
+       "bn": "99 pm",
+       "en": "99 pm"
+      },
+      {
+       "id": "c",
+       "bn": "68 pm",
+       "en": "68 pm"
+      },
+      {
+       "id": "d",
+       "bn": "136 pm",
+       "en": "136 pm"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "136 − 37 = 99 pm (সমযোজী ব্যাসার্ধ = বন্ধন দূরত্ব − অপর পরমাণুর ব্যাসার্ধ)।",
+     "explanation_en": "136 − 37 = 99 pm (bond length minus the other atom's radius).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "একই মৌলের ক্ষেত্রে তিন ধরনের ব্যাসার্ধের সঠিক ক্রম কোনটি?",
+     "question_en": "What is the correct order of the three kinds of radius for the same element?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সমযোজী > ধাতব > ভ্যান্ডার ওয়ালস্",
+       "en": "covalent > metallic > van der Waals"
+      },
+      {
+       "id": "b",
+       "bn": "ধাতব > ভ্যান্ডার ওয়ালস্ > সমযোজী",
+       "en": "metallic > van der Waals > covalent"
+      },
+      {
+       "id": "c",
+       "bn": "ভ্যান্ডার ওয়ালস্ > ধাতব > সমযোজী",
+       "en": "van der Waals > metallic > covalent"
+      },
+      {
+       "id": "d",
+       "bn": "ভ্যান্ডার ওয়ালস্ > সমযোজী > ধাতব",
+       "en": "van der Waals > covalent > metallic"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে: ভ্যান্ডার ওয়ালস্ ব্যাসার্ধ > ধাতব ব্যাসার্ধ > সমযোজী ব্যাসার্ধ (যেমন Na: ধাতব 186, সমযোজী 157 pm)।",
+     "explanation_en": "The book gives r(vdW) > r(metallic) > r(covalent); e.g. for Na metallic 186 pm vs covalent 157 pm.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "মূলিকেন সূত্রে তড়িৎ ঋণাত্মকতা = (IP + EA)/5.6 (eV এককে)। কোনো মৌলের IP = 8.0 eV ও EA = 3.2 eV হলে এর তড়িৎ ঋণাত্মকতা কত?",
+     "question_en": "By Mulliken's formula, electronegativity = (IP + EA)/5.6 (in eV). If IP = 8.0 eV and EA = 3.2 eV, what is the electronegativity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.0",
+       "en": "1.0"
+      },
+      {
+       "id": "b",
+       "bn": "2.0",
+       "en": "2.0"
+      },
+      {
+       "id": "c",
+       "bn": "2.9",
+       "en": "2.9"
+      },
+      {
+       "id": "d",
+       "bn": "5.6",
+       "en": "5.6"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "(8.0 + 3.2)/5.6 = 11.2/5.6 = 2.0 (গণনাকৃত মান; উদাহরণের সংখ্যা প্রশ্নকারীর)।",
+     "explanation_en": "(8.0 + 3.2)/5.6 = 11.2/5.6 = 2.0 (derived; the input values are illustrative).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Cl পরমাণু (ব্যাসার্ধ 99 pm) ও Cl⁻ আয়নের ব্যাসার্ধের তুলনায় কোনটি সঠিক?",
+     "question_en": "Which is correct on comparing Cl (99 pm) with Cl⁻?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl⁻ বড় (≈181 pm), কারণ ইলেকট্রনের ওপর নিউক্লিয়াসের আকর্ষণ কমে",
+       "en": "Cl⁻ is larger (≈181 pm) because nuclear attraction per electron falls"
+      },
+      {
+       "id": "b",
+       "bn": "Cl⁻ ছোট, কারণ একটি ইলেকট্রন বেড়েছে",
+       "en": "Cl⁻ is smaller because an electron was added"
+      },
+      {
+       "id": "c",
+       "bn": "দুটির আকার সমান",
+       "en": "Both are the same size"
+      },
+      {
+       "id": "d",
+       "bn": "Cl⁻ ছোট, কারণ প্রোটন বেড়েছে",
+       "en": "Cl⁻ is smaller because protons increased"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যানায়নে ইলেকট্রন বেশি কিন্তু নিউক্লিয়ার চার্জ একই; আকর্ষণ কমে ও ইলেকট্রন-বিকর্ষণ বাড়ে, তাই আকার বড় হয়।",
+     "explanation_en": "An anion has more electrons but the same nuclear charge; attraction weakens and repulsion grows, so it is larger.",
+     "difficulty": "basic"
+    }
+   ]
+  },
+  {
+   "section_no": "3.4",
+   "title_bn": "আয়নিকরণ শক্তি, ইলেকট্রন আসক্তি, তড়িৎ ঋণাত্মকতার উপর বিভিন্ন নিয়ামকের প্রভাব",
+   "title_en": "Factors Affecting IP, Electron Affinity and Electronegativity",
+   "notes_bn": "আয়নিকরণ শক্তির নিয়ামক: পরমাণুর আকার, ইলেকট্রন বিন্যাস (পূর্ণ/অর্ধপূর্ণ উপকক্ষ সুস্থিত — Be>B, N>O, Mg>Al), উপকক্ষ সংখ্যা, আচ্ছাদন প্রভাব, আবরণী প্রভাব (s>p>d>f)।\nআয়নিকরণ শক্তি: পরমাণু আকার বাড়লে কমে; আকার কমলে বাড়ে।\nইলেকট্রন আসক্তি: আকার ছোট হলে বেশি; গ্রুপে নিচে কমে (Li −60 থেকে Cs −46 kJ/mol); পূর্ণ বা অর্ধপূর্ণ বিন্যাসে (Be, N, Mg) কম।\nতড়িৎ ঋণাত্মকতা: আকার ছোট হলে বেশি (Li 0.98 … Cs 0.79); IP ও EA উভয় উচ্চ হলে তড়িৎ ঋণাত্মকতাও উচ্চ (হ্যালোজেন)।",
+   "notes_en": "IP depends on atomic size, electron configuration (filled/half-filled sub-shells are stable: Be>B, N>O, Mg>Al), number of sub-shells, shielding and screening (s>p>d>f).\nIP falls as size grows, rises as size shrinks.\nEA is greater for smaller atoms; falls down a group (Li −60 to Cs −46 kJ/mol); low for filled/half-filled configurations (Be, N, Mg).\nElectronegativity is higher for smaller atoms (Li 0.98 ... Cs 0.79) and when both IP and EA are high (halogens).",
+   "mcqs": [
+    {
+     "question_bn": "আচ্ছাদন প্রভাব (shielding effect) বৃদ্ধি পেলে আয়নিকরণ বিভবের কী হয়?",
+     "question_en": "What happens to ionisation potential when the shielding effect increases?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বৃদ্ধি পায়",
+       "en": "Increases"
+      },
+      {
+       "id": "b",
+       "bn": "হ্রাস পায়",
+       "en": "Decreases"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত থাকে",
+       "en": "Unchanged"
+      },
+      {
+       "id": "d",
+       "bn": "শূন্য হয়ে যায়",
+       "en": "Becomes zero"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মধ্যবর্তী স্তরের ইলেকট্রন নিউক্লিয়াসের আকর্ষণ কমায়, ফলে বহিঃস্থ ইলেকট্রন সহজে সরে ও আয়নিকরণ বিভব কমে।",
+     "explanation_en": "Inner-shell electrons weaken the nuclear pull, so the outer electron leaves more easily and IP falls.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "একই প্রধান শক্তিস্তরে আবরণী প্রভাবের সঠিক ক্রম কোনটি?",
+     "question_en": "What is the correct order of the screening (shielding) ability of orbitals in the same shell?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "f > d > p > s",
+       "en": "f > d > p > s"
+      },
+      {
+       "id": "b",
+       "bn": "s > p > d > f",
+       "en": "s > p > d > f"
+      },
+      {
+       "id": "c",
+       "bn": "p > s > f > d",
+       "en": "p > s > f > d"
+      },
+      {
+       "id": "d",
+       "bn": "d > f > s > p",
+       "en": "d > f > s > p"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী আবরণী ক্ষমতার ক্রম s > p > d > f; s-অরবিটালের ইলেকট্রন সবচেয়ে বেশি আবরণ দেয়।",
+     "explanation_en": "The book gives screening order s > p > d > f; s electrons shield the most.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1 নং গ্রুপে Li থেকে Cs-এর দিকে ইলেকট্রন আসক্তির মান (−60 থেকে −46 kJ mol⁻¹) কমার কারণ কী?",
+     "question_en": "Why does electron affinity fall from Li to Cs in group 1 (−60 to −46 kJ/mol)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিউক্লিয়াসের চার্জ কমে যায়",
+       "en": "Nuclear charge decreases"
+      },
+      {
+       "id": "b",
+       "bn": "পরমাণুর আকার বাড়ায় নিউক্লিয়াসের আকর্ষণ কমে",
+       "en": "Atomic size grows so nuclear attraction weakens"
+      },
+      {
+       "id": "c",
+       "bn": "ইলেকট্রন সংখ্যা কমে যায়",
+       "en": "The number of electrons decreases"
+      },
+      {
+       "id": "d",
+       "bn": "যোজ্যতা বদলে যায়",
+       "en": "Valency changes"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উপকক্ষের সংখ্যা বাড়ায় আগত ইলেকট্রন নিউক্লিয়াস থেকে দূরে থাকে এবং আকর্ষণ কমে।",
+     "explanation_en": "More shells keep the incoming electron further from the nucleus, so attraction and EA fall.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Li, Na, K, Rb, Cs-এর মধ্যে কোনটির তড়িৎ ঋণাত্মকতা সবচেয়ে বেশি?",
+     "question_en": "Which of Li, Na, K, Rb and Cs has the highest electronegativity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Li (0.98)",
+       "en": "Li (0.98)"
+      },
+      {
+       "id": "b",
+       "bn": "Na (0.93)",
+       "en": "Na (0.93)"
+      },
+      {
+       "id": "c",
+       "bn": "K (0.82)",
+       "en": "K (0.82)"
+      },
+      {
+       "id": "d",
+       "bn": "Cs (0.79)",
+       "en": "Cs (0.79)"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আকার যত ছোট, নিউক্লিয়াস ইলেকট্রনকে তত বেশি আকর্ষণ করে; Li সবচেয়ে ছোট, তাই মান সর্বোচ্চ।",
+     "explanation_en": "The smaller the atom, the stronger its pull on shared electrons; Li is smallest, so it is highest.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হ্যালোজেনগুলোর তড়িৎ ঋণাত্মকতা উচ্চ হওয়ার প্রধান কারণ কী?",
+     "question_en": "What is the main reason halogens have high electronegativity?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এদের আয়নিকরণ বিভব ও ইলেকট্রন আসক্তি উভয়ই উচ্চ",
+       "en": "Both their ionisation potential and electron affinity are high"
+      },
+      {
+       "id": "b",
+       "bn": "এদের পারমাণবিক আকার বড়",
+       "en": "Their atomic size is large"
+      },
+      {
+       "id": "c",
+       "bn": "এরা নিষ্ক্রিয়",
+       "en": "They are inert"
+      },
+      {
+       "id": "d",
+       "bn": "এদের ইলেকট্রন সংখ্যা কম",
+       "en": "They have few electrons"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "যেসব মৌলের আয়নিকরণ বিভব ও ইলেকট্রন আসক্তি উভয়ই উচ্চ তাদের তড়িৎ ঋণাত্মকতাও উচ্চ।",
+     "explanation_en": "Elements with high IP and high EA have high electronegativity.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Be (1s²2s²)-এর প্রথম আয়নিকরণ বিভব B-এর চেয়ে বেশি—এর কারণ কোনটি?",
+     "question_en": "Be (1s²2s²) has a higher first ionisation potential than B. Which is the reason?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Be-এর পূর্ণ 2s উপকক্ষ অপেক্ষাকৃত সুস্থিত",
+       "en": "Be's filled 2s sub-shell is relatively stable"
+      },
+      {
+       "id": "b",
+       "bn": "B-এর নিউক্লিয়াসে প্রোটন বেশি",
+       "en": "B has more protons"
+      },
+      {
+       "id": "c",
+       "bn": "Be-এর আকার B-এর চেয়ে বড়",
+       "en": "Be is bigger than B"
+      },
+      {
+       "id": "d",
+       "bn": "B-এর পূর্ণ উপকক্ষ আছে",
+       "en": "B has a filled sub-shell"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Be-এর পূর্ণ s-উপকক্ষ সুস্থিত; B-এর 2p¹ ইলেকট্রন সহজে সরে (B ≈ 800–801, Be ≈ 900 kJ mol⁻¹)।",
+     "explanation_en": "Be has a stable filled s sub-shell while B's lone 2p electron is easily removed (B ≈ 800, Be ≈ 900 kJ/mol).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.5",
+   "title_bn": "মৌলের অক্সাইডের অম্ল-ক্ষারক ধর্ম",
+   "title_en": "Acid-Base Properties of Oxides",
+   "notes_bn": "পর্যায়ে বামে থেকে ডানে ধাতব ধর্ম কমে ও অধাতব ধর্ম বাড়ে; তাই অক্সাইড ক্ষারীয় → উভধর্মী → অম্লীয় হয়।\n2য় পর্যায়: Li₂O ক্ষারীয়; BeO ও B₂O₃ উভধর্মী; CO₂, N₂O₃, N₂O₅ অম্লীয়; CO ও NO প্রশম।\n3য় পর্যায়: Na₂O (খুব শক্তিশালী ক্ষার), MgO (দুর্বল ক্ষার), Al₂O₃ (উভধর্মী), SiO₂, P₄O₁₀, SO₃, Cl₂O₇ (ক্রমে অধিক অম্লীয়)।\nপানির সাথে: SO₃ → H₂SO₄; SO₂ → H₂SO₃; Cl₂O₇ → HClO₄; N₂O₃ → 2HNO₂; P₄O₁₀ → H₃PO₄।\nBeO উভধর্মী (ক্ষুদ্র আকার, উচ্চ IP, ক্যাটায়নের উচ্চ পোলারায়ন)।\nSO₃ > SO₂ অম্লীয়তায় (S-এর জারণ মান +6 বনাম +4)।",
+   "notes_en": "Across a period metallic character falls and non-metallic rises, so oxides go basic → amphoteric → acidic.\nPeriod 2: Li₂O basic; BeO and B₂O₃ amphoteric; CO₂, N₂O₃, N₂O₅ acidic; CO and NO neutral.\nPeriod 3: Na₂O (very strong base), MgO (weak base), Al₂O₃ (amphoteric), then SiO₂, P₄O₁₀, SO₃, Cl₂O₇ increasingly acidic.\nWith water: SO₃ → H₂SO₄; SO₂ → H₂SO₃; Cl₂O₇ → HClO₄; N₂O₃ → 2HNO₂; P₄O₁₀ → H₃PO₄.\nBeO is amphoteric (small size, high IP, strong cation polarisation).\nSO₃ is more acidic than SO₂ (S oxidation state +6 vs +4).",
+   "mcqs": [
+    {
+     "question_bn": "পর্যায় সারণিতে বাম থেকে ডানে গেলে মৌলের অক্সাইডের প্রকৃতি সাধারণভাবে কেমন পরিবর্তিত হয়?",
+     "question_en": "Across a period from left to right, how does the nature of the oxides generally change?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্ষারীয় থেকে অম্লীয়",
+       "en": "Basic to acidic"
+      },
+      {
+       "id": "b",
+       "bn": "অম্লীয় থেকে ক্ষারীয়",
+       "en": "Acidic to basic"
+      },
+      {
+       "id": "c",
+       "bn": "সবসময় ক্ষারীয়",
+       "en": "Always basic"
+      },
+      {
+       "id": "d",
+       "bn": "সবসময় উভধর্মী",
+       "en": "Always amphoteric"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ধাতব ধর্ম হ্রাস ও অধাতব ধর্ম বৃদ্ধির কারণে অক্সাইড ক্ষারীয় থেকে উভধর্মী হয়ে অম্লীয় হয়।",
+     "explanation_en": "Metallic character falls and non-metallic character rises, so oxides go basic → amphoteric → acidic.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CO ও NO কোন ধরনের অক্সাইড?",
+     "question_en": "What type of oxides are CO and NO?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অম্লীয়",
+       "en": "Acidic"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষারীয়",
+       "en": "Basic"
+      },
+      {
+       "id": "c",
+       "bn": "প্রশম",
+       "en": "Neutral"
+      },
+      {
+       "id": "d",
+       "bn": "উভধর্মী",
+       "en": "Amphoteric"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে CO ও NO-কে প্রশম অক্সাইড বলা হয়েছে।",
+     "explanation_en": "The book classes CO and NO as neutral oxides.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তৃতীয় পর্যায়ের Na₂O, MgO, Al₂O₃, SiO₂, P₄O₁₀, SO₃, Cl₂O₇-এর মধ্যে সবচেয়ে শক্তিশালী অম্লীয় অক্সাইড কোনটি?",
+     "question_en": "Among the oxides of period 3, which is the strongest acidic oxide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SiO₂",
+       "en": "SiO₂"
+      },
+      {
+       "id": "b",
+       "bn": "P₄O₁₀",
+       "en": "P₄O₁₀"
+      },
+      {
+       "id": "c",
+       "bn": "SO₃",
+       "en": "SO₃"
+      },
+      {
+       "id": "d",
+       "bn": "Cl₂O₇",
+       "en": "Cl₂O₇"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "বইয়ের সারণিতে Cl₂O₇ কে খুব শক্তিশালী অম্লীয় (VSA) বলা হয়েছে; পানির সাথে পারক্লোরিক অ্যাসিড HClO₄ দেয়।",
+     "explanation_en": "The table lists Cl₂O₇ as very strongly acidic; with water it gives perchloric acid, HClO₄.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দ্বিতীয় গ্রুপের (মৃত্তিকা ক্ষার ধাতু) অক্সাইডগুলোর মধ্যে কোনটি উভধর্মী?",
+     "question_en": "Which oxide of the group-2 elements is amphoteric?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "BeO",
+       "en": "BeO"
+      },
+      {
+       "id": "b",
+       "bn": "MgO",
+       "en": "MgO"
+      },
+      {
+       "id": "c",
+       "bn": "CaO",
+       "en": "CaO"
+      },
+      {
+       "id": "d",
+       "bn": "BaO",
+       "en": "BaO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "BeO অ্যাসিড (HCl) ও ক্ষার (NaOH) উভয়ের সাথে বিক্রিয়া করে লবণ গঠন করে; অন্যগুলো ক্ষারীয়।",
+     "explanation_en": "BeO reacts with both HCl and NaOH to give salts; the other group-2 oxides are basic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SO₃ ও SO₂-এর মধ্যে SO₃ অধিক অম্লীয়—কারণ কী?",
+     "question_en": "SO₃ is more acidic than SO₂. Why?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "SO₃-এ S-এর জারণ মান +6, SO₂-তে +4",
+       "en": "S has oxidation number +6 in SO₃ versus +4 in SO₂"
+      },
+      {
+       "id": "b",
+       "bn": "SO₃ পানিতে অদ্রবণীয়",
+       "en": "SO₃ is insoluble in water"
+      },
+      {
+       "id": "c",
+       "bn": "SO₂-তে অক্সিজেন বেশি",
+       "en": "SO₂ has more oxygen"
+      },
+      {
+       "id": "d",
+       "bn": "SO₃ ক্ষার ধাতুর যৌগ",
+       "en": "SO₃ is an alkali-metal compound"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের নোট অনুযায়ী উচ্চ জারণ মানের কারণে SO₃ অধিক অম্লীয়; এটি পানিতে H₂SO₄ দেয়।",
+     "explanation_en": "Per the book's note, the higher oxidation state of S makes SO₃ more acidic; it forms H₂SO₄ in water.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "BeO উভধর্মী হওয়ার কারণ হিসেবে বইয়ে কোনটি উল্লেখ আছে?",
+     "question_en": "Which reason does the book give for BeO being amphoteric?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Be-এর আকার বড় ও আয়নিকরণ বিভব কম",
+       "en": "Be is large with low IP"
+      },
+      {
+       "id": "b",
+       "bn": "Be-এর ক্ষুদ্র আকার, উচ্চ আয়নিকরণ বিভব ও ক্যাটায়নের উচ্চ পোলারায়ন",
+       "en": "Be's small size, high IP and strong polarising power of its cation"
+      },
+      {
+       "id": "c",
+       "bn": "Be-এর যোজ্যতা 1",
+       "en": "Be has valency 1"
+      },
+      {
+       "id": "d",
+       "bn": "Be অধাতু",
+       "en": "Be is a non-metal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ক্ষুদ্র আকার, উচ্চ আয়নিকরণ বিভব, ক্যাটায়নের উচ্চ পোলারায়ন ও শূন্য d অরবিটালকে কারণ বলা হয়েছে।",
+     "explanation_en": "The book cites small size, high IP, high cation polarisation and the absence of d orbitals.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "N₂O₃-কে “নাইট্রাস অ্যানহাইড্রাইড” বলা হয় কেন?",
+     "question_en": "Why is N₂O₃ called “nitrous anhydride”?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানির সাথে বিক্রিয়ায় নাইট্রাস অ্যাসিড HNO₂ দেয়",
+       "en": "It gives nitrous acid, HNO₂, with water"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষারের সাথে বিক্রিয়া করে না",
+       "en": "It does not react with alkali"
+      },
+      {
+       "id": "c",
+       "bn": "এটি প্রশম অক্সাইড",
+       "en": "It is a neutral oxide"
+      },
+      {
+       "id": "d",
+       "bn": "এটি HNO₃ উৎপন্ন করে",
+       "en": "It gives HNO₃"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "H₂O + N₂O₃ → 2HNO₂; এটি অম্লধর্মী অক্সাইড।",
+     "explanation_en": "H₂O + N₂O₃ → 2HNO₂; it is an acidic oxide.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "3.6",
+   "title_bn": "ব্যবহারিক : মৌলের দ্রবণীয় অক্সাইডের অম্ল-ক্ষার প্রকৃতি নির্ণয়",
+   "title_en": "Practical: Acid-Base Nature of Soluble Oxides",
+   "notes_bn": "pH = −log[H⁺]; pH < 7 অম্লীয়, pH > 7 ক্ষারীয়।\nমূলনীতি: অক্সাইড পানিতে দ্রবীভূত করে 1 M দ্রবণ তৈরি করে pH মিটারে pH মাপা হয়; লিটমাসও ব্যবহার করা যায়।\nNa₂O: 62 g/mol; 100 mL 1 M NaOH-এর জন্য 4 g NaOH দরকার, অর্থাৎ 3.1 g Na₂O।\nCaO: 5.6 g CaO পানিতে Ca(OH)₂ দেয়; লাল লিটমাস নীল হয়, pH ≈ 13.3 → ক্ষারীয়।\nCO₂: CaCO₃ + HCl দ্বারা প্রস্তুত; পানিতে H₂CO₃ গঠন করে, pH ≈ 4–5 → অম্লীয় অক্সাইড।",
+   "notes_en": "pH = −log[H⁺]; pH < 7 is acidic, pH > 7 is basic.\nPrinciple: dissolve the oxide in water, prepare a 1 M solution and measure pH with a meter; litmus also works.\nNa₂O: 62 g/mol; 100 mL of 1 M NaOH needs 4 g NaOH, i.e. 3.1 g Na₂O.\nCaO: 5.6 g CaO gives Ca(OH)₂; red litmus turns blue, pH ≈ 13.3 → basic.\nCO₂: made from CaCO₃ + HCl; forms H₂CO₃ in water, pH ≈ 4–5 → acidic oxide.",
+   "mcqs": [
+    {
+     "question_bn": "কোনো দ্রবণের pH-এর সংজ্ঞা কোনটি?",
+     "question_en": "Which expresses the pH of a solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "pH = −log[H⁺]",
+       "en": "pH = −log[H⁺]"
+      },
+      {
+       "id": "b",
+       "bn": "pH = log[OH⁻]",
+       "en": "pH = log[OH⁻]"
+      },
+      {
+       "id": "c",
+       "bn": "pH = [H⁺]",
+       "en": "pH = [H⁺]"
+      },
+      {
+       "id": "d",
+       "bn": "pH = 14 + log[H⁺]",
+       "en": "pH = 14 + log[H⁺]"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে pH = −log[H⁺] (বা −log[H₃O⁺]) দেওয়া আছে।",
+     "explanation_en": "The book defines pH = −log[H⁺] (or −log[H₃O⁺]).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CaO-এর জলীয় দ্রবণে লাল লিটমাস কাগজ কী বর্ণ ধারণ করে এবং দ্রবণের প্রকৃতি কী?",
+     "question_en": "What colour does red litmus turn in aqueous CaO, and what is the nature of the solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নীল; ক্ষারীয়",
+       "en": "Blue; basic"
+      },
+      {
+       "id": "b",
+       "bn": "লাল থাকে; অম্লীয়",
+       "en": "Stays red; acidic"
+      },
+      {
+       "id": "c",
+       "bn": "বর্ণহীন; প্রশম",
+       "en": "Colourless; neutral"
+      },
+      {
+       "id": "d",
+       "bn": "নীল; অম্লীয়",
+       "en": "Blue; acidic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CaO পানিতে Ca(OH)₂ দেয়, OH⁻ আয়ন লাল লিটমাসকে নীল করে; pH প্রায় 13.3 (>7)।",
+     "explanation_en": "CaO gives Ca(OH)₂ and OH⁻ turns red litmus blue; pH ≈ 13.3 (> 7).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পরীক্ষায় 1 M NaOH-এর 100 mL দ্রবণ তৈরির জন্য কত গ্রাম Na₂O (আণবিক ভর 62) পানিতে দ্রবীভূত করতে হয়? (Na₂O + H₂O → 2NaOH)",
+     "question_en": "How many grams of Na₂O (molar mass 62) must be dissolved to make 100 mL of 1 M NaOH? (Na₂O + H₂O → 2NaOH)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "6.2 g",
+       "en": "6.2 g"
+      },
+      {
+       "id": "b",
+       "bn": "3.1 g",
+       "en": "3.1 g"
+      },
+      {
+       "id": "c",
+       "bn": "1.55 g",
+       "en": "1.55 g"
+      },
+      {
+       "id": "d",
+       "bn": "4.0 g",
+       "en": "4.0 g"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "100 mL 1 M-এ NaOH = 4 g; 62 g Na₂O → 80 g NaOH, তাই 4 × 62/80 = 3.1 g।",
+     "explanation_en": "100 mL of 1 M needs 4 g NaOH; 62 g Na₂O gives 80 g NaOH, so 4 × 62/80 = 3.1 g.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CaCO₃-এ HCl যোগ করে প্রাপ্ত CO₂ পানিতে চালনা করলে pH কেমন হয় ও সিদ্ধান্ত কী?",
+     "question_en": "When CO₂ from CaCO₃ + HCl is passed into water, what is the pH and conclusion?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "pH 7-এর বেশি; ক্ষারীয়",
+       "en": "pH above 7; basic"
+      },
+      {
+       "id": "b",
+       "bn": "pH ≈ 4–5 (7-এর কম); CO₂ অম্লীয় অক্সাইড",
+       "en": "pH ≈ 4–5 (below 7); CO₂ is an acidic oxide"
+      },
+      {
+       "id": "c",
+       "bn": "pH ঠিক 7; প্রশম",
+       "en": "pH exactly 7; neutral"
+      },
+      {
+       "id": "d",
+       "bn": "pH 13; ক্ষারীয়",
+       "en": "pH 13; basic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻; H⁺ সৃষ্টি হওয়ায় নীল লিটমাস লাল হয়।",
+     "explanation_en": "CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻; the H⁺ turns blue litmus red.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.7",
+   "title_bn": "শিক্ষার্থীর কাজ : মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধনের সম্পর্ক",
+   "title_en": "Relation Between Periodic Properties and Chemical Bonding",
+   "notes_bn": "পর্যায়বৃত্ত ধর্মের মধ্যে আয়নিকরণ বিভব, তড়িৎ ঋণাত্মকতা, ইলেকট্রন আসক্তি, পারমাণবিক ব্যাসার্ধ, গলনাঙ্ক ও স্ফুটনাঙ্ক বিশেষ গুরুত্বপূর্ণ।\nআয়নিক বন্ধন: ধাতুর নিম্ন IP, অধাতুর উচ্চ EA ও উচ্চ ল্যাটিস শক্তি দরকার; যৌগ পোলার, উচ্চ গলনাঙ্ক, গলিত অবস্থায় পরিবাহী।\nসমযোজী বন্ধন: ইলেকট্রন জোড় শেয়ার; একক (−), দ্বি (=) ও ত্রি (≡) বন্ধন; যেমন H₂, O=C=O, N≡N।\nতড়িৎ ঋণাত্মকতার পার্থক্য: >1.7 আয়নিক, 0.5–1.7 পোলার সমযোজী, <0.5 অপোলার।\nফাজানের নিয়ম: ক্যাটায়নের চার্জ বেশি ও আকার ছোট, অ্যানায়ন বড় হলে সমযোজী ধর্ম বাড়ে; NaCl 815 > MgCl₂ 714 > AlCl₃ 190 °C; CaF₂ 1392 থেকে CaI₂ 575 °C।",
+   "notes_en": "Key periodic properties: ionisation potential, electronegativity, electron affinity, atomic radius, melting and boiling points.\nIonic bond needs low-IP metal, high-EA non-metal and high lattice energy; ionic compounds are polar, high-melting and conduct when molten.\nCovalent bond: sharing of electron pairs; single (−), double (=), triple (≡), e.g. H₂, O=C=O, N≡N.\nElectronegativity difference: >1.7 ionic, 0.5–1.7 polar covalent, <0.5 non-polar.\nFajans' rules: higher cation charge, smaller cation and larger anion increase covalent character; NaCl 815 > MgCl₂ 714 > AlCl₃ 190 °C; CaF₂ 1392 to CaI₂ 575 °C.",
+   "mcqs": [
+    {
+     "question_bn": "রাসায়নিক বন্ধন প্রধানত কত প্রকার (বইয়ের শ্রেণিবিভাগ অনুযায়ী)?",
+     "question_en": "Into which three types is chemical bonding classified in the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আয়নিক, সমযোজী, সন্নিবেশ",
+       "en": "Ionic, covalent, coordinate"
+      },
+      {
+       "id": "b",
+       "bn": "আয়নিক, ধাতব, হাইড্রোজেন",
+       "en": "Ionic, metallic, hydrogen"
+      },
+      {
+       "id": "c",
+       "bn": "সিগমা, পাই, ডেল্টা",
+       "en": "Sigma, pi, delta"
+      },
+      {
+       "id": "d",
+       "bn": "সমযোজী, ধাতব, ভ্যান্ডার ওয়ালস্",
+       "en": "Covalent, metallic, van der Waals"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে তড়িৎযোজী (আয়নিক), সমযোজী ও সন্নিবেশ বন্ধন—এই তিন প্রকার বলা হয়েছে।",
+     "explanation_en": "The book names electrovalent (ionic), covalent and coordinate bonds.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "আয়নিক বন্ধন গঠনের প্রয়োজনীয় শর্ত কোনটি?",
+     "question_en": "Which is a required condition for ionic bond formation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ধাতুর উচ্চ আয়নিকরণ বিভব",
+       "en": "High IP of the metal"
+      },
+      {
+       "id": "b",
+       "bn": "অধাতুর নিম্ন ইলেকট্রন আসক্তি",
+       "en": "Low EA of the non-metal"
+      },
+      {
+       "id": "c",
+       "bn": "ধাতুর নিম্ন আয়নিকরণ বিভব, অধাতুর উচ্চ ইলেকট্রন আসক্তি ও উচ্চ ল্যাটিস শক্তি",
+       "en": "Low IP of metal, high EA of non-metal and high lattice energy"
+      },
+      {
+       "id": "d",
+       "bn": "উভয় মৌলের একই তড়িৎ ঋণাত্মকতা",
+       "en": "Equal electronegativity of both"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ের তিনটি শর্ত: ধাতুর নিম্ন IP, অধাতুর উচ্চ EA, যৌগের উচ্চ ল্যাটিস শক্তি।",
+     "explanation_en": "The book's three conditions: low IP of metal, high EA of non-metal, high lattice energy.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি আয়নিক যৌগের বৈশিষ্ট্য?",
+     "question_en": "Which is a property of ionic compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিম্ন গলনাঙ্ক",
+       "en": "Low melting point"
+      },
+      {
+       "id": "b",
+       "bn": "গলিত অবস্থায় তড়িৎ পরিবাহী",
+       "en": "Conduct electricity when molten"
+      },
+      {
+       "id": "c",
+       "bn": "অপোলার দ্রাবকে সহজে দ্রবণীয়",
+       "en": "Readily soluble in non-polar solvents"
+      },
+      {
+       "id": "d",
+       "bn": "অণুর গঠন দিক-নির্দেশক",
+       "en": "Directional molecular structure"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আয়নিক যৌগ পোলার, উচ্চ গলনাঙ্ক-স্ফুটনাঙ্কবিশিষ্ট এবং বিগলিত অবস্থায় ও দ্রবণে তড়িৎ পরিবাহী।",
+     "explanation_en": "Ionic compounds are polar, have high m.p./b.p. and conduct when molten or in solution.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NH₃, CH₄ ও H₂O অণুতে বন্ধন ইলেকট্রন জোড়ের সংখ্যা যথাক্রমে কত?",
+     "question_en": "How many bonding electron pairs are in NH₃, CH₄ and H₂O respectively?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3, 4, 2",
+       "en": "3, 4, 2"
+      },
+      {
+       "id": "b",
+       "bn": "4, 3, 2",
+       "en": "4, 3, 2"
+      },
+      {
+       "id": "c",
+       "bn": "2, 4, 3",
+       "en": "2, 4, 3"
+      },
+      {
+       "id": "d",
+       "bn": "3, 2, 4",
+       "en": "3, 2, 4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে CH₄-এ চারটি, NH₃-এ তিনটি ও H₂O-তে দুটি বন্ধন ইলেকট্রন জোড় উল্লেখ আছে।",
+     "explanation_en": "The book states CH₄ has four, NH₃ three and H₂O two bonding pairs.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দুটি পরমাণুর তড়িৎ ঋণাত্মকতার পার্থক্য কত হলে বন্ধন আয়নিক প্রকৃতির হয়?",
+     "question_en": "At what electronegativity difference does a bond become ionic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.5-এর কম",
+       "en": "Less than 0.5"
+      },
+      {
+       "id": "b",
+       "bn": "0.5 থেকে 1.7-এর মধ্যে",
+       "en": "Between 0.5 and 1.7"
+      },
+      {
+       "id": "c",
+       "bn": "1.7-এর বেশি",
+       "en": "More than 1.7"
+      },
+      {
+       "id": "d",
+       "bn": "ঠিক শূন্য",
+       "en": "Exactly zero"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "পার্থক্য 1.7-এর বেশি হলে আয়নিক, 0.5-এর কম হলে অপোলার সমযোজী, মাঝামাঝি হলে পোলার সমযোজী।",
+     "explanation_en": "Above 1.7 is ionic, below 0.5 is non-polar covalent, in between is polar covalent.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফাজানের নিয়ম অনুযায়ী NaCl, MgCl₂ ও AlCl₃-এর গলনাঙ্কের (815, 714, 190 °C) ক্রম কমার কারণ কী?",
+     "question_en": "By Fajans' rule, why do the melting points of NaCl, MgCl₂ and AlCl₃ (815, 714, 190 °C) decrease?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্যাটায়নের চার্জ বাড়ায় পোলারায়ন ক্ষমতা বাড়ে ও সমযোজী ধর্ম বাড়ে",
+       "en": "Higher cation charge increases polarisation and covalent character"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যানায়নের আকার কমে",
+       "en": "The anion becomes smaller"
+      },
+      {
+       "id": "c",
+       "bn": "ক্যাটায়নের আকার বাড়ে",
+       "en": "The cation becomes larger"
+      },
+      {
+       "id": "d",
+       "bn": "ক্লোরিনের সংখ্যা কমে",
+       "en": "The number of Cl atoms decreases"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Na⁺ < Mg²⁺ < Al³⁺ ক্রমে চার্জ বাড়ে ও আকার কমে, তাই অ্যানায়নের বিকৃতি বাড়ে এবং গলনাঙ্ক কমে।",
+     "explanation_en": "Cation charge rises (Na⁺ < Mg²⁺ < Al³⁺) and size falls, increasing anion distortion and lowering the m.p.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "CaF₂, CaCl₂, CaBr₂, CaI₂-এর মধ্যে কোনটির সমযোজী ধর্ম সবচেয়ে বেশি ও কেন?",
+     "question_en": "Which of CaF₂, CaCl₂, CaBr₂, CaI₂ has the most covalent character, and why?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaF₂, কারণ F⁻ সবচেয়ে ছোট",
+       "en": "CaF₂, since F⁻ is smallest"
+      },
+      {
+       "id": "b",
+       "bn": "CaCl₂, কারণ Cl সবচেয়ে ঋণাত্মক",
+       "en": "CaCl₂, since Cl is most electronegative"
+      },
+      {
+       "id": "c",
+       "bn": "CaBr₂, কারণ মধ্যবর্তী",
+       "en": "CaBr₂, because it is intermediate"
+      },
+      {
+       "id": "d",
+       "bn": "CaI₂, কারণ I⁻ সবচেয়ে বড় ও সহজে পোলারায়িত হয়",
+       "en": "CaI₂, since I⁻ is largest and most easily polarised"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "অ্যানায়ন যত বড়, বিকৃতি তত বেশি; তাই CaF₂ থেকে CaI₂ পর্যন্ত সমযোজী ধর্ম বাড়ে (গলনাঙ্ক 1392 থেকে 575 °C)।",
+     "explanation_en": "The larger the anion, the greater its distortion; covalent character rises from CaF₂ to CaI₂ (m.p. 1392 to 575 °C).",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "3.3",
+   "difficulty": "medium",
+   "stimulus_bn": "তৃতীয় পর্যায়ের কয়েকটি মৌলের প্রথম আয়নিকরণ বিভব (kJ mol⁻¹): Na 495, Mg 737, Al 577, Si 785, P 1062, S 999, Cl 1254, Ar 1579। পারমাণবিক ব্যাসার্ধ (pm): Na 190, Mg 138, Al 126, Si 117, P 110, S 104, Cl 99। (Na = 23)",
+   "stimulus_en": "First ionisation potentials (kJ/mol) of some period-3 elements: Na 495, Mg 737, Al 577, Si 785, P 1062, S 999, Cl 1254, Ar 1579. Atomic radii (pm): Na 190, Mg 138, Al 126, Si 117, P 110, S 104, Cl 99. (Na = 23)",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "আয়নিকরণ বিভব কী?",
+     "question_en": "What is ionisation potential?",
+     "model_answer_bn": "গ্যাসীয় অবস্থায় কোনো মৌলের এক মোল বিচ্ছিন্ন নিরপেক্ষ পরমাণু থেকে সবচেয়ে শিথিলভাবে আবদ্ধ একটি করে ইলেকট্রন সরিয়ে একক ধনাত্মক আয়নে পরিণত করতে প্রয়োজনীয় শক্তি।",
+     "model_answer_en": "The energy needed to remove the most loosely bound electron from each atom in one mole of isolated gaseous atoms, forming unipositive ions."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "Mg-এর আয়নিকরণ বিভব Al-এর চেয়ে বেশি কেন?",
+     "question_en": "Why is Mg's ionisation potential higher than Al's?",
+     "model_answer_bn": "Mg-এর 3s উপকক্ষ পূর্ণ ও সুস্থিত। Al-এর 3p-তে একটিমাত্র ইলেকট্রন থাকায় তা সরাতে কম শক্তি লাগে (737 > 577)।",
+     "model_answer_en": "Mg has a filled, stable 3s sub-shell, whereas Al's single 3p electron is removed with less energy (737 > 577)."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "0.23 g গ্যাসীয় Na পরমাণুকে Na⁺ আয়নে পরিণত করতে কত kJ শক্তি লাগবে?",
+     "question_en": "How much energy (kJ) is needed to convert 0.23 g of gaseous Na atoms to Na⁺?",
+     "model_answer_bn": "Na-এর মোল = 0.23/23 = 0.01 mol। শক্তি = 0.01 × 495 = 4.95 kJ।",
+     "model_answer_en": "Moles of Na = 0.23/23 = 0.01 mol. Energy = 0.01 × 495 = 4.95 kJ."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "Na থেকে Cl পর্যন্ত পারমাণবিক ব্যাসার্ধ কমে এবং আয়নিকরণ বিভব সাধারণভাবে বাড়ে—ব্যাখ্যা কর। Mg ও P-এর ব্যতিক্রম কোথায়, কারণসহ লেখ।",
+     "question_en": "Explain why radius falls and IP generally rises from Na to Cl. Identify the irregularities (Mg/Al and P/S) with reasons.",
+     "model_answer_bn": "একই পর্যায়ে পারমাণবিক সংখ্যা বাড়লে ইলেকট্রন একই কক্ষে যুক্ত হয়, কিন্তু নিউক্লিয়াসের ধনাত্মক চার্জ বাড়ে; ফলে আকর্ষণ বাড়ে, ব্যাসার্ধ কমে (190 → 99 pm) এবং ইলেকট্রন সরানো কঠিন হয়ে IP বাড়ে। ব্যতিক্রম: Al (577) < Mg (737) কারণ Mg-এর 3s পূর্ণ; S (999) < P (1062) কারণ P-এর 3p³ অর্ধপূর্ণ ও সুস্থিত।",
+     "model_answer_en": "Across a period electrons enter the same shell while nuclear charge rises, so attraction increases, radius falls (190 → 99 pm) and IP rises. Exceptions: Al (577) < Mg (737) because Mg's 3s is filled; S (999) < P (1062) because P's 3p³ is half-filled and stable."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.7",
+   "difficulty": "medium",
+   "stimulus_bn": "NaCl, MgCl₂ ও AlCl₃-এর গলনাঙ্ক যথাক্রমে 815 °C, 714 °C ও 190 °C। K ও Cl-এর তড়িৎ ঋণাত্মকতা যথাক্রমে 0.8 ও 3.0।",
+   "stimulus_en": "The melting points of NaCl, MgCl₂ and AlCl₃ are 815 °C, 714 °C and 190 °C respectively. The electronegativities of K and Cl are 0.8 and 3.0.",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "পোলারায়ন কী?",
+     "question_en": "What is polarisation?",
+     "model_answer_bn": "ক্যাটায়নের আকর্ষণে অ্যানায়নের ইলেকট্রন মেঘের বিকৃতি ঘটাকে পোলারায়ন বলে।",
+     "model_answer_en": "Distortion of an anion's electron cloud by the attraction of a cation is called polarisation."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "আয়নিক যৌগের গলনাঙ্ক উচ্চ হয় কেন?",
+     "question_en": "Why do ionic compounds have high melting points?",
+     "model_answer_bn": "আয়নিক যৌগে বিপরীত আয়নের মধ্যে প্রবল স্থিরতাড়িত আকর্ষণ ও উচ্চ ল্যাটিস শক্তি থাকে, তা ভাঙতে বেশি তাপ লাগে।",
+     "model_answer_en": "Strong electrostatic attraction between oppositely charged ions and high lattice energy require much heat to break."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "KCl-এর বন্ধনের প্রকৃতি ও আয়নিক ধর্মের শতকরা পরিমাণ নির্ণয় কর (বইয়ের সারণি অনুযায়ী)।",
+     "question_en": "Determine the nature of the bond in KCl and its approximate percentage of ionic character (using the book's table).",
+     "model_answer_bn": "তড়িৎ ঋণাত্মকতার পার্থক্য = 3.0 − 0.8 = 2.2, যা 1.7-এর বেশি, তাই বন্ধন আয়নিক। বইয়ের সারণি অনুযায়ী প্রায় 71–72% আয়নিক ধর্ম।",
+     "model_answer_en": "Difference = 3.0 − 0.8 = 2.2 > 1.7, so the bond is ionic; the book's data give about 71–72% ionic character."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ফাজানের নিয়মের আলোকে NaCl > MgCl₂ > AlCl₃ ক্রমে গলনাঙ্ক কমার কারণ বিশ্লেষণ কর।",
+     "question_en": "Analyse, using Fajans' rules, why the melting point falls in the order NaCl > MgCl₂ > AlCl₃.",
+     "model_answer_bn": "Na⁺, Mg²⁺, Al³⁺ ক্রমে ক্যাটায়নের চার্জ বাড়ে ও আকার কমে, ফলে পোলারায়ন ক্ষমতা বাড়ে। Cl⁻ অধিক বিকৃত হয়, যৌগে সমযোজী ধর্ম বাড়ে এবং আয়নিক ধর্ম কমে। তাই AlCl₃ প্রায় সমযোজী (190 °C) আর NaCl সবচেয়ে আয়নিক (815 °C)।",
+     "model_answer_en": "From Na⁺ to Mg²⁺ to Al³⁺ cation charge rises and size falls, increasing polarising power. Cl⁻ is distorted more, so covalent character grows and ionic character falls; AlCl₃ is nearly covalent (190 °C) while NaCl is the most ionic (815 °C)."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 290-338 readable. PDF index differs from printed page: printed 292-331 match PDF; printed 335 (section 3.7) is PDF 333, so PDF 333-336 covered 3.7. PDF 328-332 are exercises (skipped except for checking). 3.3 content spans PDF 292-314. PDF 337-338 belong to 3.8 and were not used."
+}

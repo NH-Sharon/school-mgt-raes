@@ -1,0 +1,2781 @@
+{
+ "chapter_no": 4,
+ "topics": [
+  {
+   "section_no": "4.1",
+   "title_bn": "রাসায়নিক বিক্রিয়া ও গ্রিন কেমিস্ট্রি",
+   "title_en": "Chemical Reaction & Green Chemistry",
+   "notes_bn": "গ্রিন কেমিস্ট্রি: যে রসায়নে দূষণ কম হয় এমন প্রক্রিয়া ও উৎপাদন পদ্ধতি নিয়ে গবেষণা করা হয়; একে টেকসই রসায়নও বলা হয়।\nশতকরা এটম ইকনমি (%AE) = (কাঙ্ক্ষিত উৎপাদের ভর ÷ সব উৎপাদের মোট ভর) × 100।\nই-ফ্যাক্টর = মোট বর্জ্যের ভর ÷ উৎপাদের মোট ভর; মান যত কম, পদ্ধতি তত পরিবেশবান্ধব।\nউদাহরণ: 2NH₃ + NaOCl → N₂H₄ + NaCl + H₂O এ AE = 32/108.5 × 100 = 29.49%; গ্লুকোজ → 2C₂H₅OH + 2CO₂ এ AE = 92/180 × 100 = 51.11%।\nগ্রিন কেমিস্ট্রির ১২টি নীতি আছে, যেমন বর্জ্য প্রতিরোধ, সহজ পদ্ধতি, প্রভাবকের ব্যবহার, নবায়নযোগ্য কাঁচামাল, দুর্ঘটনা প্রতিরোধ।\nCFC ওজোন স্তরের ক্ষতি করে; 1987 সালের মন্ট্রিয়ল চুক্তি; বিকল্প HCFC (জীবনকাল 2–10 বছর, CFC প্রায় 100 বছর)।\nCFC-abc নিয়মে a = C সংখ্যা − 1, b = H সংখ্যা + 1, c = F সংখ্যা। যেমন CCl₃F = CFC-11।\nSuper critical CO₂ (31.25°C, 72.9 atm) CFC-র বদলে ব্যবহৃত হয়; অ্যাসিড বৃষ্টিতে অ্যাসিডের শক্তি H₂SO₄ > HNO₃ > H₂CO₃।",
+   "notes_en": "Green chemistry studies processes and production methods that cause little pollution; it is also called sustainable chemistry.\n% atom economy = (mass of desired product / total mass of all products) x 100.\nE-factor = total mass of waste / mass of product; lower is greener.\nExamples: 2NH3 + NaOCl -> N2H4 + NaCl + H2O gives AE = 32/108.5 x 100 = 29.49%; glucose -> 2C2H5OH + 2CO2 gives 92/180 x 100 = 51.11%.\nThere are 12 green chemistry principles, e.g. waste prevention, easy process, use of catalysts, renewable feedstock, accident prevention.\nCFCs damage the ozone layer (Montreal Protocol, 1987); HCFCs are substitutes (lifetime 2-10 years vs about 100 years for CFCs).\nCFC-abc rule: a = C atoms - 1, b = H atoms + 1, c = F atoms. E.g. CCl3F = CFC-11.\nSuper critical CO2 (31.25 C, 72.9 atm) replaces CFC; acid strength in acid rain: H2SO4 > HNO3 > H2CO3.",
+   "mcqs": [
+    {
+     "question_bn": "শিল্পে %AE কীসের মাধ্যমে নির্ধারিত হয়?",
+     "question_en": "How is the percent atom economy (%AE) calculated?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কাঙ্ক্ষিত উৎপাদের ভর ÷ সব উৎপাদের মোট ভর × 100",
+       "en": "Mass of desired product / total mass of all products x 100"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়কের ভর ÷ বর্জ্যের ভর × 100",
+       "en": "Mass of reactant / mass of waste x 100"
+      },
+      {
+       "id": "c",
+       "bn": "বর্জ্যের ভর ÷ উৎপাদের ভর",
+       "en": "Mass of waste / mass of product"
+      },
+      {
+       "id": "d",
+       "bn": "উৎপাদের ভর − বিক্রিয়কের ভর",
+       "en": "Mass of product - mass of reactant"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "এটম ইকনমি হলো কাঙ্ক্ষিত উৎপাদের ভর ও সব উৎপাদের মোট ভরের অনুপাতের 100 গুণ।",
+     "explanation_en": "Atom economy is 100 times the ratio of desired product mass to total mass of all products.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গ্রিন কেমিস্ট্রিকে আর কী নামে ডাকা হয়?",
+     "question_en": "By what other name is green chemistry known?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টেকসই রসায়ন",
+       "en": "Sustainable chemistry"
+      },
+      {
+       "id": "b",
+       "bn": "কঠিন রসায়ন",
+       "en": "Solid-state chemistry"
+      },
+      {
+       "id": "c",
+       "bn": "কেলাস রসায়ন",
+       "en": "Crystal chemistry"
+      },
+      {
+       "id": "d",
+       "bn": "তেজস্ক্রিয় রসায়ন",
+       "en": "Radiochemistry"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে গ্রিন কেমিস্ট্রিকে টেকসই কেমিস্ট্রি বা টেকসই রসায়ন বলা হয়েছে।",
+     "explanation_en": "The book calls green chemistry 'Sustainable Chemistry'.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ই-ফ্যাক্টরের মান কম হলে শিল্প পদ্ধতি সম্পর্কে কী বোঝা যায়?",
+     "question_en": "What does a low E-factor indicate about an industrial process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেশি বর্জ্য তৈরি হয়",
+       "en": "It produces more waste"
+      },
+      {
+       "id": "b",
+       "bn": "পদ্ধতিটি বেশি পরিবেশবান্ধব",
+       "en": "The process is more environmentally friendly"
+      },
+      {
+       "id": "c",
+       "bn": "উৎপাদন একেবারেই হয় না",
+       "en": "No product is formed"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়া উভমুখী",
+       "en": "The reaction is reversible"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "E-factor = বর্জ্য ÷ উৎপাদ; মান যত কম, পদ্ধতি তত মানসম্মত ও গ্রিন কেমিস্ট্রিসম্মত।",
+     "explanation_en": "E-factor = waste / product; a smaller value means a more acceptable, greener process.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CCl₃F যৌগের CFC-abc সংকেত কোনটি?",
+     "question_en": "What is the CFC-abc code of CCl3F?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CFC-11",
+       "en": "CFC-11"
+      },
+      {
+       "id": "b",
+       "bn": "CFC-12",
+       "en": "CFC-12"
+      },
+      {
+       "id": "c",
+       "bn": "CFC-13",
+       "en": "CFC-13"
+      },
+      {
+       "id": "d",
+       "bn": "CFC-115",
+       "en": "CFC-115"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "a = 1−1 = 0, b = 0+1 = 1, c = 1; তাই CFC-011 বা CFC-11।",
+     "explanation_en": "a = 1-1 = 0, b = 0+1 = 1, c = 1, so CFC-011 or CFC-11.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH₃CH₂Br + NaOH → CH₃CH₂OH + NaBr বিক্রিয়ায় (মোলার ভর: ইথানল 46, NaBr 103) ইথানল উৎপাদনের এটম ইকনমি কত?",
+     "question_en": "In CH3CH2Br + NaOH -> CH3CH2OH + NaBr (molar mass: ethanol 46, NaBr 103), what is the atom economy for ethanol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "46%",
+       "en": "46%"
+      },
+      {
+       "id": "b",
+       "bn": "30.87%",
+       "en": "30.87%"
+      },
+      {
+       "id": "c",
+       "bn": "69.13%",
+       "en": "69.13%"
+      },
+      {
+       "id": "d",
+       "bn": "51.11%",
+       "en": "51.11%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "AE = 46/(46+103) × 100 = 46/149 × 100 = 30.87%।",
+     "explanation_en": "AE = 46/(46+103) x 100 = 46/149 x 100 = 30.87%.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ওজোন স্তর রক্ষায় CFC-র বিকল্প হিসেবে HCFC ব্যবহারের সবচেয়ে বড় সুবিধা কোনটি?",
+     "question_en": "What is the main advantage of using HCFCs in place of CFCs to protect the ozone layer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCFC-র জীবনকাল মাত্র 2–10 বছর, CFC-র প্রায় 100 বছর",
+       "en": "HCFCs live only 2-10 years, whereas CFCs live about 100 years"
+      },
+      {
+       "id": "b",
+       "bn": "HCFC তৈরির খরচ কম",
+       "en": "HCFCs are cheaper to make"
+      },
+      {
+       "id": "c",
+       "bn": "HCFC-তে H–C বন্ধন নেই",
+       "en": "HCFCs have no H-C bond"
+      },
+      {
+       "id": "d",
+       "bn": "HCFC গ্যাস নয়",
+       "en": "HCFCs are not gases"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "HCFC-তে H–C বন্ধন থাকায় ট্রপোস্ফিয়ারে OH মূলকের সাথে বিক্রিয়া করে ভেঙে যায়, তাই জীবনকাল কম; উৎপাদন খরচ বরং বেশি।",
+     "explanation_en": "The H-C bond lets HCFCs react with OH radicals in the troposphere, so their lifetime is short; their production cost is actually higher.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.2",
+   "title_bn": "বিক্রিয়ার দিক – একমুখী ও উভমুখী বিক্রিয়া",
+   "title_en": "Direction of Reaction: Irreversible & Reversible",
+   "notes_bn": "একমুখী বিক্রিয়া: বিক্রিয়ক শুধু উৎপাদে পরিণত হয়, বিপরীত দিকে হয় না; একসময় সম্পূর্ণ হয়; ΔG < 0; তীর চিহ্ন (→)। যেমন CH₄ দহন, NaOH + HCl, CuSO₄ + Fe।\nউভমুখী বিক্রিয়া: সম্মুখ ও পশ্চাৎ দুই দিকেই একসাথে চলে, বিক্রিয়া শেষ হয় না; ΔG = 0; চিহ্ন (⇌)। যেমন H₂ + I₂ ⇌ 2HI (450°C), N₂ + 3H₂ ⇌ 2NH₃ (ΔH = −92.38 kJ), CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O।\nউভমুখী বিক্রিয়াকে একমুখী করার উপায়: খোলা পাত্রে বিক্রিয়া, উৎপাদ অধঃক্ষেপ করা (NaCl + AgNO₃ → AgCl↓), উৎপাদ অপসারণ (এস্টার + NaOH)।\nCaCO₃ ⇌ CaO + CO₂ আবদ্ধ পাত্রে উভমুখী, খোলা পাত্রে একমুখী।",
+   "notes_en": "Irreversible: reactants turn into products only; goes to completion; delta G < 0; shown by an arrow. E.g. CH4 combustion, NaOH + HCl, CuSO4 + Fe.\nReversible: proceeds in both directions at once, never completes; delta G = 0; shown by the double arrow. E.g. H2 + I2 <-> 2HI (450 C), N2 + 3H2 <-> 2NH3 (dH = -92.38 kJ), CuSO4.5H2O <-> CuSO4 + 5H2O.\nMaking a reversible reaction irreversible: open vessel, precipitating a product (NaCl + AgNO3 -> AgCl), removing a product (ester + NaOH).\nCaCO3 <-> CaO + CO2 is reversible in a closed vessel but irreversible in an open one.",
+   "mcqs": [
+    {
+     "question_bn": "একমুখী বিক্রিয়ায় মুক্তশক্তির পরিবর্তন (ΔG) কেমন হয়?",
+     "question_en": "What is the free energy change (delta G) of an irreversible reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔG > 0",
+       "en": "dG > 0"
+      },
+      {
+       "id": "b",
+       "bn": "ΔG = 0",
+       "en": "dG = 0"
+      },
+      {
+       "id": "c",
+       "bn": "ΔG < 0",
+       "en": "dG < 0"
+      },
+      {
+       "id": "d",
+       "bn": "সবসময় ধ্রুবক",
+       "en": "Always constant"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "একমুখী বিক্রিয়ায় মুক্তশক্তি হ্রাস পায়, অর্থাৎ ΔG < 0।",
+     "explanation_en": "In an irreversible reaction free energy decreases, i.e. dG < 0.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি উভমুখী বিক্রিয়া?",
+     "question_en": "Which of the following is a reversible reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH₄ + 2O₂ → CO₂ + 2H₂O",
+       "en": "CH4 + 2O2 -> CO2 + 2H2O"
+      },
+      {
+       "id": "b",
+       "bn": "H₂ + I₂ ⇌ 2HI",
+       "en": "H2 + I2 <-> 2HI"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH + HCl → NaCl + H₂O",
+       "en": "NaOH + HCl -> NaCl + H2O"
+      },
+      {
+       "id": "d",
+       "bn": "C + O₂ → CO₂",
+       "en": "C + O2 -> CO2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "450°C এ H₂ ও I₂ থেকে HI তৈরি এবং HI ভেঙে H₂ ও I₂ হয়, তাই এটি উভমুখী।",
+     "explanation_en": "At 450 C HI forms from H2 and I2 and also decomposes back, so it is reversible.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "উভমুখী বিক্রিয়ায় ΔG-এর মান এবং বিক্রিয়ার শেষ অবস্থা সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which statement about delta G and the final state of a reversible reaction is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔG ঋণাত্মক ও বিক্রিয়া সম্পূর্ণ হয়",
+       "en": "dG negative and reaction goes to completion"
+      },
+      {
+       "id": "b",
+       "bn": "ΔG শূন্য ও বিক্রিয়া সম্পূর্ণ হয় না",
+       "en": "dG zero and reaction does not go to completion"
+      },
+      {
+       "id": "c",
+       "bn": "ΔG ধনাত্মক ও বিক্রিয়া সম্পূর্ণ হয়",
+       "en": "dG positive and reaction goes to completion"
+      },
+      {
+       "id": "d",
+       "bn": "ΔG অসীম",
+       "en": "dG is infinite"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উভমুখী বিক্রিয়ায় সাম্যাবস্থায় ΔG = 0 এবং বিক্রিয়ক ও উৎপাদ দুটিই থাকে।",
+     "explanation_en": "In a reversible reaction at equilibrium dG = 0 and both reactants and products remain.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NaCl দ্রবণে AgNO₃ যোগ করলে বিক্রিয়া একমুখী হয় কেন?",
+     "question_en": "Why does adding AgNO3 to NaCl solution give an irreversible reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "AgCl অধঃক্ষিপ্ত হয়ে দ্রবণ থেকে সরে যায়",
+       "en": "AgCl precipitates and leaves the solution"
+      },
+      {
+       "id": "b",
+       "bn": "তাপ উৎপন্ন হয়",
+       "en": "Heat is produced"
+      },
+      {
+       "id": "c",
+       "bn": "চাপ বাড়ে",
+       "en": "Pressure increases"
+      },
+      {
+       "id": "d",
+       "bn": "NaNO₃ গ্যাস হয়ে যায়",
+       "en": "NaNO3 becomes a gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উৎপাদ AgCl অধঃক্ষিপ্ত হয়ে বিক্রিয়ার ক্ষেত্র থেকে সরে যায়, ফলে বিপরীত বিক্রিয়া ঘটতে পারে না।",
+     "explanation_en": "The product AgCl precipitates out, so the backward reaction cannot occur.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CaCO₃(s) ⇌ CaO(s) + CO₂(g) বিক্রিয়াটি 800°C এ খোলা পাত্রে একমুখী হয় কেন?",
+     "question_en": "Why is CaCO3(s) <-> CaO(s) + CO2(g) irreversible in an open vessel at 800 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO₂ গ্যাস বেরিয়ে যায়, পশ্চাৎমুখী বিক্রিয়া ঘটতে পারে না",
+       "en": "CO2 escapes, so the backward reaction cannot occur"
+      },
+      {
+       "id": "b",
+       "bn": "CaO বিক্রিয়া করে না",
+       "en": "CaO does not react"
+      },
+      {
+       "id": "c",
+       "bn": "তাপমাত্রা কমে যায়",
+       "en": "The temperature falls"
+      },
+      {
+       "id": "d",
+       "bn": "CaCO₃ গ্যাস",
+       "en": "CaCO3 is a gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গ্যাসীয় উৎপাদ CO₂ বিক্রিয়াক্ষেত্র থেকে অপসারিত হলে বিক্রিয়া একমুখী হয়ে যায়।",
+     "explanation_en": "When the gaseous product CO2 is removed from the reaction site, the reaction becomes irreversible.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ইথানল ও ইথানয়িক অ্যাসিড থেকে এস্টার তৈরির উভমুখী বিক্রিয়ায় NaOH যোগ করলে কী হয়?",
+     "question_en": "What happens when NaOH is added to the reversible ester-forming reaction of ethanol and ethanoic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিক্রিয়া আরও উভমুখী হয়",
+       "en": "The reaction becomes more reversible"
+      },
+      {
+       "id": "b",
+       "bn": "এস্টার NaOH-এর সাথে বিক্রিয়া করে ইথানল ও সোডিয়াম ইথানয়েট দেয়, ফলে বিক্রিয়া একমুখী হয়",
+       "en": "The ester reacts with NaOH giving ethanol and sodium ethanoate, making the reaction irreversible"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো পরিবর্তন হয় না",
+       "en": "Nothing changes"
+      },
+      {
+       "id": "d",
+       "bn": "এস্টার বেশি তৈরি হয়",
+       "en": "More ester forms"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "উৎপাদ এস্টার সরে যাওয়ায় বিপরীত বিক্রিয়া ঘটতে পারে না, তাই একমুখী হয়ে যায়।",
+     "explanation_en": "Because the ester product is removed, the reverse reaction cannot occur and the reaction becomes irreversible.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.3",
+   "title_bn": "বিক্রিয়ার গতি বা হার",
+   "title_en": "Rate of a Reaction",
+   "notes_bn": "একক সময়ে বিক্রিয়কের ঘনমাত্রা হ্রাস বা উৎপাদের ঘনমাত্রা বৃদ্ধিকে বিক্রিয়ার হার বলে।\nA → B এর জন্য হার = −Δ[A]/Δt = +Δ[B]/Δt; ঋণাত্মক চিহ্ন বোঝায় বিক্রিয়কের ঘনমাত্রা কমছে।\nসাধারণ বিক্রিয়া aA + bB → mM + nN এ হার = −(1/a)d[A]/dt = −(1/b)d[B]/dt = (1/m)d[M]/dt = (1/n)d[N]/dt।\nএকক: mol L⁻¹ s⁻¹ (বা mol dm⁻³ s⁻¹)।\nউদাহরণ: [A] 0.275 থেকে 0.125 M হলো 320 s এ, গড় হার = 0.15/320 = 4.6875 × 10⁻⁴ mol L⁻¹ s⁻¹।\n2N₂O₅ ⇌ 4NO₂ + O₂ এ 6 s এ NO₂ 3.0 × 10⁻³ mol L⁻¹ বাড়লে হার = (1/4)(3.0 × 10⁻³/6) = 1.25 × 10⁻⁴ mol L⁻¹ s⁻¹।\nসময়ের সাথে হার কমে কারণ ভরক্রিয়া সূত্র অনুযায়ী হার বিক্রিয়কের ঘনমাত্রার সমানুপাতিক।",
+   "notes_en": "Rate of reaction = decrease in reactant concentration (or increase in product concentration) per unit time.\nFor A -> B: rate = -d[A]/dt = +d[B]/dt; the minus sign shows reactant concentration falling.\nFor aA + bB -> mM + nN: rate = -(1/a)d[A]/dt = -(1/b)d[B]/dt = (1/m)d[M]/dt = (1/n)d[N]/dt.\nUnit: mol L-1 s-1 (or mol dm-3 s-1).\nExample: [A] falls from 0.275 to 0.125 M in 320 s: average rate = 0.15/320 = 4.6875 x 10^-4 mol L-1 s-1.\nFor 2N2O5 <-> 4NO2 + O2, if [NO2] rises 3.0 x 10^-3 in 6 s, rate = (1/4)(3.0 x 10^-3/6) = 1.25 x 10^-4 mol L-1 s-1.\nRate falls with time because it is proportional to reactant concentration (mass action).",
+   "mcqs": [
+    {
+     "question_bn": "বিক্রিয়ার হারের একক কোনটি?",
+     "question_en": "Which is the unit of reaction rate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "mol L⁻¹ s⁻¹",
+       "en": "mol L⁻¹ s⁻¹"
+      },
+      {
+       "id": "b",
+       "bn": "mol L s⁻¹",
+       "en": "mol L s⁻¹"
+      },
+      {
+       "id": "c",
+       "bn": "mol⁻¹ L s",
+       "en": "mol⁻¹ L s"
+      },
+      {
+       "id": "d",
+       "bn": "L s mol⁻¹",
+       "en": "L s mol⁻¹"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হার = ঘনমাত্রা ÷ সময়, তাই একক mol L⁻¹ s⁻¹।",
+     "explanation_en": "Rate = concentration / time, hence mol L-1 s-1.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "A → B বিক্রিয়ায় বিক্রিয়ক A-এর হ্রাসের হার কোনটি দ্বারা প্রকাশিত হয়?",
+     "question_en": "Which expression gives the rate for A -> B using reactant A?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−Δ[A]/Δt",
+       "en": "−Δ[A]/Δt"
+      },
+      {
+       "id": "b",
+       "bn": "+Δ[A]/Δt",
+       "en": "+Δ[A]/Δt"
+      },
+      {
+       "id": "c",
+       "bn": "Δt/Δ[A]",
+       "en": "Δt/Δ[A]"
+      },
+      {
+       "id": "d",
+       "bn": "[A]×Δt",
+       "en": "[A]×Δt"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিক্রিয়কের ঘনমাত্রা কমে বলে হারের রাশিতে ঋণাত্মক চিহ্ন বসে।",
+     "explanation_en": "Reactant concentration decreases, so a minus sign is used.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "2NO₂ → 2NO + O₂ বিক্রিয়ার হার কোনটি?",
+     "question_en": "What is the rate expression for 2NO2 -> 2NO + O2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−Δ[NO₂]/Δt",
+       "en": "−Δ[NO₂]/Δt"
+      },
+      {
+       "id": "b",
+       "bn": "−Δ[NO₂]/(2Δt)",
+       "en": "−Δ[NO₂]/(2Δt)"
+      },
+      {
+       "id": "c",
+       "bn": "+Δ[O₂]/(2Δt)",
+       "en": "+Δ[O₂]/(2Δt)"
+      },
+      {
+       "id": "d",
+       "bn": "−2Δ[NO₂]/Δt",
+       "en": "−2Δ[NO₂]/Δt"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হার = −(1/2)Δ[NO₂]/Δt = (1/2)Δ[NO]/Δt = Δ[O₂]/Δt; তাই −Δ[NO₂]/(2Δt) সঠিক।",
+     "explanation_en": "Rate = -(1/2)d[NO2]/dt = (1/2)d[NO]/dt = d[O2]/dt, so -d[NO2]/(2dt) is correct.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি বিক্রিয়ায় বিক্রিয়কের ঘনমাত্রা 0.65 M থেকে 0.525 M হলো 10 মিনিটে। গড় হার কত mol L⁻¹ min⁻¹?",
+     "question_en": "A reactant concentration falls from 0.65 M to 0.525 M in 10 min. What is the average rate in mol L-1 min-1?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.25 × 10⁻²",
+       "en": "1.25 × 10⁻²"
+      },
+      {
+       "id": "b",
+       "bn": "1.25 × 10⁻¹",
+       "en": "1.25 × 10⁻¹"
+      },
+      {
+       "id": "c",
+       "bn": "6.5 × 10⁻²",
+       "en": "6.5 × 10⁻²"
+      },
+      {
+       "id": "d",
+       "bn": "5.25 × 10⁻²",
+       "en": "5.25 × 10⁻²"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হার = (0.65 − 0.525)/10 = 0.125/10 = 1.25 × 10⁻² mol L⁻¹ min⁻¹।",
+     "explanation_en": "Rate = (0.65 - 0.525)/10 = 0.125/10 = 1.25 x 10^-2 mol L-1 min-1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "2N₂O₅ ⇌ 4NO₂ + O₂ বিক্রিয়ায় 6 s এ NO₂-এর ঘনমাত্রা 3.0 × 10⁻³ mol L⁻¹ বাড়লে বিক্রিয়ার হার কত?",
+     "question_en": "In 2N2O5 <-> 4NO2 + O2, [NO2] rises by 3.0 x 10^-3 mol L-1 in 6 s. What is the reaction rate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5.0 × 10⁻⁴",
+       "en": "5.0 × 10⁻⁴"
+      },
+      {
+       "id": "b",
+       "bn": "1.25 × 10⁻⁴",
+       "en": "1.25 × 10⁻⁴"
+      },
+      {
+       "id": "c",
+       "bn": "2.0 × 10⁻³",
+       "en": "2.0 × 10⁻³"
+      },
+      {
+       "id": "d",
+       "bn": "1.25 × 10⁻³",
+       "en": "1.25 × 10⁻³"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হার = (1/4) × (3.0 × 10⁻³/6) = 1.25 × 10⁻⁴ mol L⁻¹ s⁻¹।",
+     "explanation_en": "Rate = (1/4) x (3.0 x 10^-3 / 6) = 1.25 x 10^-4 mol L-1 s-1.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "N₂ + 3H₂ → 2NH₃ বিক্রিয়ায় H₂ যদি 0.06 mol L⁻¹ s⁻¹ হারে ব্যবহৃত হয়, তবে NH₃ কী হারে উৎপন্ন হবে?",
+     "question_en": "In N2 + 3H2 -> 2NH3, if H2 is consumed at 0.06 mol L-1 s-1, at what rate does NH3 form?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.09",
+       "en": "0.09"
+      },
+      {
+       "id": "b",
+       "bn": "0.04",
+       "en": "0.04"
+      },
+      {
+       "id": "c",
+       "bn": "0.06",
+       "en": "0.06"
+      },
+      {
+       "id": "d",
+       "bn": "0.12",
+       "en": "0.12"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হার সম্পর্ক: (1/3)(−d[H₂]/dt) = (1/2)(d[NH₃]/dt); সুতরাং NH₃ = 0.06 × 2/3 = 0.04 mol L⁻¹ s⁻¹।",
+     "explanation_en": "From (1/3)(-d[H2]/dt) = (1/2)(d[NH3]/dt): NH3 rate = 0.06 x 2/3 = 0.04 mol L-1 s-1.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.4",
+   "title_bn": "হার ধ্রুবকের বৈশিষ্ট্য",
+   "title_en": "Characteristics of Rate Constant",
+   "notes_bn": "হার ধ্রুবক (K): বিক্রিয়কের ঘনমাত্রা একক (1 mol L⁻¹) হলে বিক্রিয়ার হার ও K সমান হয়।\nবৈশিষ্ট্য: নির্দিষ্ট তাপমাত্রায় ধ্রুবক; তাপমাত্রা বদলালে মান বদলায়; বিক্রিয়কের ঘনমাত্রার উপর নির্ভর করে না; K বেশি মানে বিক্রিয়া দ্রুত।\nহার = K[A]ᵃ[B]ᵇ; বিক্রিয়ার ক্রম = a + b (পরীক্ষালব্ধ ঘাতের যোগফল)।\nশূন্য ক্রম: হার = K (যেমন সূর্যালোকে H₂ + Cl₂ → 2HCl); প্রথম ক্রম: N₂O₅ → N₂O₄ + ½O₂; দ্বিতীয় ক্রম: H₂ + I₂ → 2HI; তৃতীয় ক্রম: 2NO + O₂ → 2NO₂।\nআণবিকত্ব: বিক্রিয়ায় অংশগ্রহণকারী সর্বোচ্চ অণু/পরমাণু/আয়ন সংখ্যা; সবসময় পূর্ণসংখ্যা, শূন্য হয় না; PCl₅ → PCl₃ + Cl₂ এক-আণবিক।\nছদ্ম-একাণবিক বিক্রিয়া: ক্রম 1 কিন্তু আণবিকত্ব 2, যেমন মিথাইল ইথানয়েটের অম্লীয় আর্দ্রবিশ্লেষণ।",
+   "notes_en": "Rate constant (K): equals the reaction rate when every reactant concentration is unity (1 mol/L).\nProperties: constant at a fixed temperature; changes with temperature; independent of reactant concentration; a larger K means a faster reaction.\nRate = K[A]^a[B]^b; order = a + b (sum of experimentally found exponents).\nZero order: rate = K (e.g. H2 + Cl2 -> 2HCl in sunlight); first order: N2O5 -> N2O4 + 1/2 O2; second order: H2 + I2 -> 2HI; third order: 2NO + O2 -> 2NO2.\nMolecularity: the number of molecules/atoms/ions taking part; always a whole number, never zero; PCl5 -> PCl3 + Cl2 is unimolecular.\nPseudo-unimolecular reaction: order 1 but molecularity 2, e.g. acid hydrolysis of methyl ethanoate.",
+   "mcqs": [
+    {
+     "question_bn": "কোন রাশির উপর হার ধ্রুবকের মান নির্ভর করে না?",
+     "question_en": "On which quantity does the rate constant NOT depend?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপমাত্রা",
+       "en": "Temperature"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়কের ঘনমাত্রা",
+       "en": "Reactant concentration"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়ার প্রকৃতি",
+       "en": "Nature of the reaction"
+      },
+      {
+       "id": "d",
+       "bn": "প্রভাবক",
+       "en": "Catalyst"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নির্দিষ্ট তাপমাত্রায় হার ধ্রুবক ঘনমাত্রার উপর নির্ভর করে না।",
+     "explanation_en": "At a given temperature the rate constant is independent of concentration.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "একটি বিক্রিয়ার হার = K[A]²[B] হলে বিক্রিয়ার ক্রম কত?",
+     "question_en": "If rate = K[A]^2[B], what is the order of the reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "0",
+       "en": "0"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ক্রম = ঘাতের যোগফল = 2 + 1 = 3।",
+     "explanation_en": "Order = sum of exponents = 2 + 1 = 3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "শূন্য ক্রম বিক্রিয়ার ক্ষেত্রে কোনটি সঠিক?",
+     "question_en": "Which is true for a zero-order reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হার বিক্রিয়কের ঘনমাত্রার উপর নির্ভর করে না",
+       "en": "Rate does not depend on reactant concentration"
+      },
+      {
+       "id": "b",
+       "bn": "হার ঘনমাত্রার বর্গের সমানুপাতিক",
+       "en": "Rate is proportional to concentration squared"
+      },
+      {
+       "id": "c",
+       "bn": "হার ঘনমাত্রার সমানুপাতিক",
+       "en": "Rate is proportional to concentration"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়া ঘটে না",
+       "en": "No reaction occurs"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শূন্য ক্রমে হার = K C⁰ = K, ঘনমাত্রার উপর নির্ভর নেই।",
+     "explanation_en": "For zero order, rate = K C^0 = K, independent of concentration.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বিক্রিয়ার আণবিকত্ব সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which statement about molecularity is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এটি শূন্য হতে পারে",
+       "en": "It can be zero"
+      },
+      {
+       "id": "b",
+       "bn": "এটি সবসময় পূর্ণসংখ্যা",
+       "en": "It is always a whole number"
+      },
+      {
+       "id": "c",
+       "bn": "এটি ভগ্নাংশ হতে পারে",
+       "en": "It can be a fraction"
+      },
+      {
+       "id": "d",
+       "bn": "এটি পরীক্ষা থেকে নির্ণয় করতে হয়",
+       "en": "It is found only experimentally"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আণবিকত্ব সবসময় পূর্ণসংখ্যা, কখনো শূন্য হয় না; ক্রম পরীক্ষালব্ধ।",
+     "explanation_en": "Molecularity is always a whole number and never zero; order is experimental.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথাইল ইথানয়েটের অম্লীয় আর্দ্রবিশ্লেষণ ছদ্ম-একাণবিক বিক্রিয়া কেন?",
+     "question_en": "Why is acid hydrolysis of methyl ethanoate called pseudo-unimolecular?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্রম 1, কিন্তু আণবিকত্ব 2",
+       "en": "Order is 1 but molecularity is 2"
+      },
+      {
+       "id": "b",
+       "bn": "ক্রম 2, আণবিকত্ব 1",
+       "en": "Order is 2 but molecularity is 1"
+      },
+      {
+       "id": "c",
+       "bn": "ক্রম ও আণবিকত্ব দুটোই 0",
+       "en": "Both order and molecularity are 0"
+      },
+      {
+       "id": "d",
+       "bn": "এটি উভমুখী নয়",
+       "en": "It is not reversible"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পানি প্রচুর থাকায় তার ঘনমাত্রা বদলায় না; হার কেবল এস্টারের উপর নির্ভর করে (প্রথম ক্রম) যদিও দুই অণু অংশ নেয়।",
+     "explanation_en": "Water is in large excess, so rate depends only on the ester (first order) although two molecules take part.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনটি তৃতীয় ক্রম বিক্রিয়ার উদাহরণ?",
+     "question_en": "Which is an example of a third-order reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2NO + O₂ → 2NO₂",
+       "en": "2NO + O₂ → 2NO₂"
+      },
+      {
+       "id": "b",
+       "bn": "N₂O₅ → N₂O₄ + ½O₂",
+       "en": "N₂O₅ → N₂O₄ + ½O₂"
+      },
+      {
+       "id": "c",
+       "bn": "H₂ + I₂ → 2HI",
+       "en": "H₂ + I₂ → 2HI"
+      },
+      {
+       "id": "d",
+       "bn": "H₂ + Cl₂ → 2HCl (সূর্যালোকে)",
+       "en": "H2 + Cl2 -> 2HCl (in sunlight)"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2NO + O₂ → 2NO₂ বইয়ে তৃতীয় ক্রম বিক্রিয়ার উদাহরণ।",
+     "explanation_en": "2NO + O2 -> 2NO2 is the book's third-order example.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.5",
+   "title_bn": "বিক্রিয়ার গতির উপর তাপমাত্রা, চাপ ও ঘনত্বের প্রভাব",
+   "title_en": "Effect of Temperature, Pressure & Concentration on Rate",
+   "notes_bn": "তাপোৎপাদী বিক্রিয়ায় ΔH ঋণাত্মক; তাপহারী বিক্রিয়ায় ΔH ধনাত্মক। তাপমাত্রা বাড়ালে উভমুখী তাপোৎপাদী বিক্রিয়া পশ্চাৎমুখী, তাপহারী বিক্রিয়া সম্মুখমুখী হয়।\nতাপমাত্রা প্রতি 10°C বাড়লে সাধারণত বিক্রিয়ার হার প্রায় দ্বিগুণ হয়। 10°C বৃদ্ধিতে হার ধ্রুবকের অনুপাতকে তাপমাত্রার গুণাঙ্ক বলে।\nআরহেনিয়াস সমীকরণ: K = A e^(−Eₐ/RT); log K = −(Eₐ/2.303R)(1/T) + log A। log K বনাম 1/T লেখচিত্র সরলরেখা, ঢাল = −Eₐ/2.303R।\nদুই তাপমাত্রায়: log(K₂/K₁) = (Eₐ/2.303R)·(T₂−T₁)/(T₁T₂)। কক্ষ তাপমাত্রায় বেশিরভাগ বিক্রিয়ার Eₐ ≈ 55 kJ mol⁻¹।\nসক্রিয়ণ শক্তি: বিক্রিয়ক অণুর গড় শক্তির চেয়ে যে সর্বনিম্ন অতিরিক্ত শক্তি পেলে অণু বিক্রিয়ায় অংশ নিতে পারে।\nচাপ: উৎপাদের মোল সংখ্যা বেশি হলে (PCl₅ ⇌ PCl₃ + Cl₂) চাপ বাড়ালে পশ্চাৎমুখী; কম হলে (N₂ + 3H₂ ⇌ 2NH₃) সম্মুখমুখী; সমান হলে (H₂ + I₂ ⇌ 2HI) কোনো প্রভাব নেই।\nঘনমাত্রা: A + B ⇌ AB এ Rf = k[A][B]; উভয়ের ঘনমাত্রা দ্বিগুণ করলে সম্মুখ হার 4 গুণ হয়।",
+   "notes_en": "Exothermic reactions have negative dH; endothermic reactions have positive dH. Raising temperature shifts a reversible exothermic reaction backward and an endothermic one forward.\nRate roughly doubles for every 10 C rise; the ratio K(t+10)/K(t) is the temperature coefficient.\nArrhenius: K = A e^(-Ea/RT); log K = -(Ea/2.303R)(1/T) + log A. The log K vs 1/T plot is a straight line with slope -Ea/2.303R.\nTwo temperatures: log(K2/K1) = (Ea/2.303R)(T2-T1)/(T1T2). At room temperature most reactions have Ea about 55 kJ/mol.\nActivation energy: minimum extra energy over the average that molecules must gain to react.\nPressure: more product moles (PCl5 <-> PCl3 + Cl2): raising pressure shifts backward; fewer (N2 + 3H2 <-> 2NH3): forward; equal (H2 + I2 <-> 2HI): no effect.\nConcentration: for A + B <-> AB, Rf = k[A][B]; doubling both gives 4 times the forward rate.",
+   "mcqs": [
+    {
+     "question_bn": "আরহেনিয়াস সমীকরণটি কোনটি?",
+     "question_en": "Which is the Arrhenius equation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "K = A e^(−Eₐ/RT)",
+       "en": "K = A e^(−Eₐ/RT)"
+      },
+      {
+       "id": "b",
+       "bn": "K = A e^(RT/Eₐ)",
+       "en": "K = A e^(RT/Eₐ)"
+      },
+      {
+       "id": "c",
+       "bn": "K = Eₐ/RT",
+       "en": "K = Eₐ/RT"
+      },
+      {
+       "id": "d",
+       "bn": "K = A ln(Eₐ/RT)",
+       "en": "K = A ln(Eₐ/RT)"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সমীকরণ K = A·e^(−Eₐ/RT)।",
+     "explanation_en": "The book's equation is K = A e^(-Ea/RT).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সাধারণভাবে 10°C তাপমাত্রা বাড়ালে বিক্রিয়ার হার কত গুণ হয়?",
+     "question_en": "By roughly what factor does a 10 C rise increase the reaction rate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অর্ধেক",
+       "en": "Half"
+      },
+      {
+       "id": "b",
+       "bn": "দ্বিগুণ",
+       "en": "Double"
+      },
+      {
+       "id": "c",
+       "bn": "10 গুণ",
+       "en": "10 times"
+      },
+      {
+       "id": "d",
+       "bn": "অপরিবর্তিত",
+       "en": "Unchanged"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সাধারণভাবে প্রতি 10°C বৃদ্ধিতে বেগ প্রায় দ্বিগুণ হয়।",
+     "explanation_en": "Typically the rate roughly doubles per 10 C rise.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "log K বনাম 1/T লেখচিত্রের ঢাল কত?",
+     "question_en": "What is the slope of the log K vs 1/T plot?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Eₐ/2.303R",
+       "en": "Eₐ/2.303R"
+      },
+      {
+       "id": "b",
+       "bn": "−Eₐ/2.303R",
+       "en": "−Eₐ/2.303R"
+      },
+      {
+       "id": "c",
+       "bn": "−2.303R/Eₐ",
+       "en": "−2.303R/Eₐ"
+      },
+      {
+       "id": "d",
+       "bn": "log A",
+       "en": "log A"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "log K = −(Eₐ/2.303R)(1/T) + log A; y = mx + c এর সাথে তুলনা করলে m = −Eₐ/2.303R।",
+     "explanation_en": "Comparing log K = -(Ea/2.303R)(1/T) + log A with y = mx + c gives m = -Ea/2.303R.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) সাম্যে আবদ্ধ পাত্রে চাপ বাড়ালে বিক্রিয়া কোন দিকে যাবে?",
+     "question_en": "In PCl5(g) <-> PCl3(g) + Cl2(g) at equilibrium, which way does the reaction shift when pressure is raised?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পশ্চাৎমুখী (বামে)",
+       "en": "Backward (left)"
+      },
+      {
+       "id": "b",
+       "bn": "সম্মুখমুখী (ডানে)",
+       "en": "Forward (right)"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো দিকে নয়",
+       "en": "Neither"
+      },
+      {
+       "id": "d",
+       "bn": "ঘনমাত্রা শূন্য হয়",
+       "en": "Concentration becomes zero"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উৎপাদের মোল সংখ্যা (2) বিক্রিয়কের (1) চেয়ে বেশি, তাই চাপ বাড়ালে বিক্রিয়া বামে সরে।",
+     "explanation_en": "Products (2 mol) outnumber reactants (1 mol), so higher pressure shifts it left.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Eₐ = 55 kJ mol⁻¹ হলে 27°C থেকে 37°C এ উন্নীত করলে K₂/K₁ প্রায় কত? (R = 8.314 J mol⁻¹ K⁻¹)",
+     "question_en": "For Ea = 55 kJ/mol, what is K2/K1 when temperature is raised from 27 C to 37 C? (R = 8.314 J/mol/K)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রায় 1.0",
+       "en": "About 1.0"
+      },
+      {
+       "id": "b",
+       "bn": "প্রায় 2",
+       "en": "About 2"
+      },
+      {
+       "id": "c",
+       "bn": "প্রায় 4",
+       "en": "About 4"
+      },
+      {
+       "id": "d",
+       "bn": "প্রায় 10",
+       "en": "About 10"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "log(K₂/K₁) = 55000/(2.303×8.314) × 10/(300×310) = 0.30887; K₂/K₁ ≈ 2.04 ≈ 2।",
+     "explanation_en": "log(K2/K1) = 55000/(2.303 x 8.314) x 10/(300 x 310) = 0.30887, so K2/K1 about 2.04, i.e. about 2.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "A + B ⇌ AB বিক্রিয়ায় A ও B উভয়ের ঘনমাত্রা দ্বিগুণ করলে সম্মুখ বিক্রিয়ার হার কত গুণ হবে?",
+     "question_en": "In A + B <-> AB, by what factor does the forward rate change if both [A] and [B] are doubled?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2 গুণ",
+       "en": "2 times"
+      },
+      {
+       "id": "b",
+       "bn": "3 গুণ",
+       "en": "3 times"
+      },
+      {
+       "id": "c",
+       "bn": "4 গুণ",
+       "en": "4 times"
+      },
+      {
+       "id": "d",
+       "bn": "8 গুণ",
+       "en": "8 times"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Rf = k[A][B]; [A], [B] দ্বিগুণ হলে Rf = k(2[A])(2[B]) = 4 × আগের হার।",
+     "explanation_en": "Rf = k[A][B]; with both doubled, Rf = k(2[A])(2[B]) = 4 times the original.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.6",
+   "title_bn": "প্রভাবক ও এর প্রকারভেদ",
+   "title_en": "Catalyst & Its Classification",
+   "notes_bn": "জে. জে. বার্জেলিয়াস 1835 সালে দেখান যে কিছু পদার্থ নিজে বিক্রিয়ায় অংশ না নিয়েও বিক্রিয়ার হার বাড়ায় বা কমায়; এদের প্রভাবক বলে।\nপ্রভাবক এমন পদার্থ যা বিক্রিয়ার হার বদলায় কিন্তু বিক্রিয়ার শেষে ভর ও রাসায়নিক সংযুক্তিতে অপরিবর্তিত থাকে।\nউদাহরণ: N₂ + 3H₂ → 2NH₃ এ Fe; 2H₂ + O₂ → 2H₂O এ Pt; 2SO₂ + O₂ → 2SO₃ এ NO।\nবৈশিষ্ট্য: শুধু হার বদলায়, শুরু করে না; কার্যকারিতা নির্দিষ্ট; সামান্য পরিমাণই যথেষ্ট; সক্রিয়ণ শক্তি কমিয়ে বিকল্প পথ তৈরি করে; উভমুখী বিক্রিয়ায় সাম্যাবস্থার অবস্থান বদলায় না।\nপ্রকারভেদ: (ক) ধনাত্মক, (খ) ঋণাত্মক, (গ) অটো প্রভাবক, (ঘ) আবিষ্ট প্রভাবক; এছাড়া প্রভাবক সহায়ক ও প্রভাবক বিষ।",
+   "notes_en": "J. J. Berzelius showed in 1835 that some substances change a reaction rate without themselves being consumed; these are catalysts.\nA catalyst changes the rate but is unchanged in mass and chemical composition at the end.\nExamples: Fe in N2 + 3H2 -> 2NH3; Pt in 2H2 + O2 -> 2H2O; NO in 2SO2 + O2 -> 2SO3.\nProperties: only changes rate, cannot start a reaction; specific; tiny amounts suffice; lowers activation energy via an alternative path; does not shift the equilibrium position of a reversible reaction.\nTypes: (a) positive, (b) negative, (c) autocatalyst, (d) induced catalyst; also promoter and catalyst poison.",
+   "mcqs": [
+    {
+     "question_bn": "কোন বিজ্ঞানী প্রথম প্রভাবক ও প্রভাবনের ধারণা দেন বলে বইয়ে উল্লেখ আছে?",
+     "question_en": "Which scientist is named in the book for early work on catalysis (1835)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জে. জে. বার্জেলিয়াস",
+       "en": "J. J. Berzelius"
+      },
+      {
+       "id": "b",
+       "bn": "আরহেনিয়াস",
+       "en": "Arrhenius"
+      },
+      {
+       "id": "c",
+       "bn": "লা-শাতেলিয়ার",
+       "en": "Le Chatelier"
+      },
+      {
+       "id": "d",
+       "bn": "গুল্ডবার্গ",
+       "en": "Guldberg"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বার্জেলিয়াস 1835 সালে প্রভাবকের ভূমিকা পরীক্ষা করে দেখান।",
+     "explanation_en": "Berzelius demonstrated the role of such substances in 1835.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হেবার পদ্ধতিতে NH₃ উৎপাদনে প্রভাবক কোনটি?",
+     "question_en": "What is the catalyst in the Haber synthesis of NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Pt",
+       "en": "Pt"
+      },
+      {
+       "id": "b",
+       "bn": "Fe",
+       "en": "Fe"
+      },
+      {
+       "id": "c",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "d",
+       "bn": "MnO₂",
+       "en": "MnO₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "N₂ + 3H₂ → 2NH₃ বিক্রিয়ায় Fe প্রভাবক।",
+     "explanation_en": "Fe is the catalyst for N2 + 3H2 -> 2NH3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রভাবক সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which statement about catalysts is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিক্রিয়ার শেষে প্রভাবকের ভর ও রাসায়নিক সংযুক্তি অপরিবর্তিত থাকে",
+       "en": "Its mass and chemical composition are unchanged at the end"
+      },
+      {
+       "id": "b",
+       "bn": "প্রভাবক সাম্যাবস্থার অবস্থান বদলে দেয়",
+       "en": "It shifts the equilibrium position"
+      },
+      {
+       "id": "c",
+       "bn": "প্রভাবক অনেক বেশি পরিমাণে লাগে",
+       "en": "It is needed in large amounts"
+      },
+      {
+       "id": "d",
+       "bn": "একই প্রভাবক সব বিক্রিয়ায় কাজ করে",
+       "en": "The same catalyst works for all reactions"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রভাবক কার্যত অপরিবর্তিত থাকে, অল্প পরিমাণ যথেষ্ট ও কার্যকারিতা নির্দিষ্ট।",
+     "explanation_en": "A catalyst is unchanged, small amounts suffice and it is specific.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সক্রিয়ণ শক্তির সাথে প্রভাবকের সম্পর্ক কোনটি?",
+     "question_en": "How does a catalyst relate to activation energy?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সক্রিয়ণ শক্তি কমিয়ে বিকল্প পথ তৈরি করে",
+       "en": "It lowers activation energy through an alternative path"
+      },
+      {
+       "id": "b",
+       "bn": "সক্রিয়ণ শক্তি বাড়ায়",
+       "en": "It raises activation energy"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো সম্পর্ক নেই",
+       "en": "No relation"
+      },
+      {
+       "id": "d",
+       "bn": "সক্রিয়ণ শক্তি শূন্য করে",
+       "en": "It makes it zero"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রভাবক বিক্রিয়ার সক্রিয়ণ শক্তি হ্রাস বা বৃদ্ধি করে বিকল্প পথ তৈরি করে (ধনাত্মক হলে হ্রাস)।",
+     "explanation_en": "A catalyst opens an alternative path; a positive catalyst lowers the activation energy.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বইয়ের শ্রেণিবিভাগ অনুসারে প্রভাবের ধরনের ভিত্তিতে প্রভাবক কয় ভাগে বিভক্ত?",
+     "question_en": "By nature of action, into how many classes does the book divide catalysts?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "5",
+       "en": "5"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ধনাত্মক, ঋণাত্মক, অটো এবং আবিষ্ট – এই চার ভাগ।",
+     "explanation_en": "Positive, negative, auto and induced – four classes.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "উভমুখী বিক্রিয়ায় প্রভাবক যোগ করলে কী ঘটে?",
+     "question_en": "What happens when a catalyst is added to a reversible reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাম্যাবস্থার অবস্থান বদলে যায়",
+       "en": "The equilibrium position changes"
+      },
+      {
+       "id": "b",
+       "bn": "সাম্য দ্রুত আসে কিন্তু অবস্থান বদলায় না",
+       "en": "Equilibrium is reached faster but its position is unchanged"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়া থেমে যায়",
+       "en": "The reaction stops"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু সম্মুখ বিক্রিয়া ত্বরান্বিত হয়",
+       "en": "Only the forward reaction speeds up"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রভাবক উভয় দিকের গতিবেগ সমানভাবে প্রভাবিত করে; তাই সাম্য দ্রুত আসে, অবস্থান বদলায় না।",
+     "explanation_en": "It affects both directions equally, so equilibrium is reached sooner without changing its position.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.7",
+   "title_bn": "বিক্রিয়ার গতির উপর প্রভাবকের প্রভাব",
+   "title_en": "Effect of Catalyst on Rate of Reaction",
+   "notes_bn": "ধনাত্মক প্রভাবক বিক্রিয়ার হার বাড়ায়: 2KClO₃ →(MnO₂) 2KCl + 3O₂।\nঋণাত্মক প্রভাবক হার কমায়: H₂O₂ বিয়োজনে লঘু H₂SO₄/গ্লিসারিন; Na₂SO₃ জারণে গ্লিসারিন; খাদ্য সংরক্ষণে সোডিয়াম বেনজয়েট।\nঅটো প্রভাবক: উৎপাদ নিজেই প্রভাবক; KMnO₄ ও অক্সালিক অ্যাসিড বিক্রিয়ায় উৎপন্ন Mn²⁺; এস্টারের আর্দ্রবিশ্লেষণে উৎপন্ন অ্যাসিড।\nআবিষ্ট প্রভাবক: Na₂SO₃ + O₂ বিক্রিয়ায় Na₃AsO₃ একা জারিত হয় না, কিন্তু Na₂SO₃-এর সাথে থাকলে জারিত হয়।\nপ্রভাবক সহায়ক (প্রমোটার): Mo, Fe-এর ক্ষমতা বাড়ায়। প্রভাবক বিষ: SO₃ উৎপাদনে Pt-এর বিষ As₂O₃।\nসমসত্ত্ব প্রভাবক: বিক্রিয়ক ও প্রভাবকের ভৌত অবস্থা একই (প্রকোষ্ঠ প্রণালীতে NO)। অসমসত্ত্ব: ভিন্ন (Fe, Pt/V₂O₅)।\nএনজাইম: জৈব প্রভাবক, জটিল প্রোটিন; সাধারণত pH ≈ 7 ও 25–37°C এ বেশি কার্যকর; যেমন ডায়াস্টেজ, ইনভার্টেজ, জাইমেজ।",
+   "notes_en": "Positive catalyst raises the rate: 2KClO3 -(MnO2)-> 2KCl + 3O2.\nNegative catalyst lowers the rate: dilute H2SO4 or glycerine in H2O2 decomposition; glycerine in Na2SO3 oxidation; sodium benzoate in food preservation.\nAutocatalyst: a product acts as catalyst, e.g. Mn2+ in KMnO4 + oxalic acid; the acid formed in ester hydrolysis.\nInduced catalyst: Na3AsO3 is not oxidised alone but is oxidised along with Na2SO3.\nPromoter: Mo increases the power of Fe. Catalyst poison: As2O3 poisons Pt in SO3 production.\nHomogeneous catalyst: same phase as reactants (NO in lead-chamber process); heterogeneous: different phase (Fe, Pt/V2O5).\nEnzymes: biological catalysts (complex proteins), most active near pH 7 and 25-37 C; e.g. diastase, invertase, zymase.",
+   "mcqs": [
+    {
+     "question_bn": "KClO₃-এর তাপীয় বিয়োজনে কোনটি ধনাত্মক প্রভাবক?",
+     "question_en": "Which is the positive catalyst in thermal decomposition of KClO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MnO₂",
+       "en": "MnO₂"
+      },
+      {
+       "id": "b",
+       "bn": "Fe",
+       "en": "Fe"
+      },
+      {
+       "id": "c",
+       "bn": "As₂O₃",
+       "en": "As₂O₃"
+      },
+      {
+       "id": "d",
+       "bn": "গ্লিসারিন / Glycerine",
+       "en": "গ্লিসারিন / Glycerine"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "MnO₂ KClO₃ বিয়োজন ত্বরান্বিত করে।",
+     "explanation_en": "MnO2 speeds up KClO3 decomposition.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "KMnO₄ ও অক্সালিক অ্যাসিড বিক্রিয়ায় অটো প্রভাবক কোনটি?",
+     "question_en": "In the KMnO4 + oxalic acid reaction, what is the autocatalyst?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MnSO₄ থেকে উৎপন্ন Mn²⁺",
+       "en": "Mn2+ from MnSO4"
+      },
+      {
+       "id": "b",
+       "bn": "K₂SO₄",
+       "en": "K₂SO₄"
+      },
+      {
+       "id": "c",
+       "bn": "H₂O",
+       "en": "H₂O"
+      },
+      {
+       "id": "d",
+       "bn": "CO₂",
+       "en": "CO₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উৎপন্ন MnSO₄-এর Mn²⁺ আয়ন নিজেই প্রভাবক হয়।",
+     "explanation_en": "Mn2+ from the MnSO4 product catalyses the reaction.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Na₂SO₃-এর বায়ু জারণে গ্লিসারিন কীভাবে কাজ করে?",
+     "question_en": "How does glycerine act in the air oxidation of Na2SO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ঋণাত্মক প্রভাবক",
+       "en": "Negative catalyst"
+      },
+      {
+       "id": "b",
+       "bn": "ধনাত্মক প্রভাবক",
+       "en": "Positive catalyst"
+      },
+      {
+       "id": "c",
+       "bn": "প্রভাবক সহায়ক",
+       "en": "Promoter"
+      },
+      {
+       "id": "d",
+       "bn": "এনজাইম",
+       "en": "Enzyme"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গ্লিসারিনের উপস্থিতিতে বিক্রিয়ার গতি হ্রাস পায়।",
+     "explanation_en": "Glycerine slows the reaction down.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হেবার পদ্ধতিতে Mo-এর ভূমিকা কী?",
+     "question_en": "What is the role of Mo in the Haber process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রভাবক সহায়ক (প্রমোটার)",
+       "en": "Promoter"
+      },
+      {
+       "id": "b",
+       "bn": "প্রভাবক বিষ",
+       "en": "Catalyst poison"
+      },
+      {
+       "id": "c",
+       "bn": "ঋণাত্মক প্রভাবক",
+       "en": "Negative catalyst"
+      },
+      {
+       "id": "d",
+       "bn": "অটো প্রভাবক",
+       "en": "Autocatalyst"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সামান্য Mo লোহার প্রভাব ক্ষমতা বহুগুণ বাড়ায়।",
+     "explanation_en": "A little Mo greatly increases the power of iron.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SO₂ ও O₂ থেকে SO₃ উৎপাদনে Pt-এর সাথে As₂O₃ থাকলে কী হয়?",
+     "question_en": "What happens when As2O3 is present with Pt in making SO3 from SO2 and O2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Pt-এর কার্যকারিতা কমে বা বন্ধ হয় (প্রভাবক বিষ)",
+       "en": "Pt activity drops or stops (catalyst poison)"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়া দ্রুত হয়",
+       "en": "The reaction speeds up"
+      },
+      {
+       "id": "c",
+       "bn": "SO₃ বিয়োজিত হয়",
+       "en": "SO3 decomposes"
+      },
+      {
+       "id": "d",
+       "bn": "কিছুই হয় না",
+       "en": "Nothing happens"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "As₂O₃ প্রভাবক বিষ হিসেবে Pt-এর ধনাত্মক প্রভাব নষ্ট করে।",
+     "explanation_en": "As2O3 is a catalyst poison that destroys the positive effect of Pt.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Na₃AsO₃ একা বায়ুতে জারিত হয় না, কিন্তু Na₂SO₃-এর সাথে জারিত হয় – এখানে Na₂SO₃ কোন ধরনের প্রভাবক?",
+     "question_en": "Na3AsO3 is not oxidised alone but is oxidised along with Na2SO3. What type of catalyst is Na2SO3 here?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আবিষ্ট প্রভাবক",
+       "en": "Induced catalyst"
+      },
+      {
+       "id": "b",
+       "bn": "অটো প্রভাবক",
+       "en": "Autocatalyst"
+      },
+      {
+       "id": "c",
+       "bn": "প্রভাবক বিষ",
+       "en": "Catalyst poison"
+      },
+      {
+       "id": "d",
+       "bn": "সমসত্ত্ব প্রভাবক",
+       "en": "Homogeneous catalyst"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একটি বিক্রিয়ক অন্যটির বিক্রিয়া ঘটাতে সাহায্য করলে একে আবিষ্ট প্রভাবক বলে।",
+     "explanation_en": "When one reaction induces another that would not occur alone, it acts as an induced catalyst.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.8",
+   "title_bn": "রাসায়নিক বিক্রিয়ার সাম্যাবস্থা",
+   "title_en": "Equilibrium in Chemical Reaction",
+   "notes_bn": "সাম্যাবস্থা: উভমুখী বিক্রিয়ায় যে অবস্থায় সম্মুখ বিক্রিয়ার হার ও পশ্চাৎমুখী বিক্রিয়ার হার সমান হয়।\nশুরুতে সম্মুখ হার বেশি, পরে কমে; পশ্চাৎ হার বাড়ে; একসময় দুটি সমান হয় এবং বিক্রিয়ক-উৎপাদের ঘনমাত্রা স্থির থাকে।\nবৈশিষ্ট্য: আবদ্ধ পাত্র লাগে; গতিশীল সাম্য; উভয় দিক থেকে পৌঁছানো যায়; বিক্রিয়া অসম্পূর্ণ; সংযুক্তি স্থির; প্রভাবক শুধু দ্রুত সাম্যে আনে; মুক্তশক্তির পরিবর্তন ΔG = 0।\nউদাহরণ: আবদ্ধ পাত্রে 450°C এ H₂ + I₂ ⇌ 2HI এ প্রায় 80% বিক্রিয়ক উৎপাদে রূপান্তরিত, প্রায় 20% থেকে যায়।\nসমসত্ত্ব সাম্য: সব পদার্থ একই দশায় (N₂ + 3H₂ ⇌ 2NH₃)। অসমসত্ত্ব সাম্য: ভিন্ন দশা (CaCO₃ ⇌ CaO + CO₂)।",
+   "notes_en": "Equilibrium: in a reversible reaction, the state where the forward rate equals the backward rate.\nInitially the forward rate is high and falls; the backward rate rises; at equilibrium they are equal and concentrations stay constant.\nFeatures: needs a closed vessel; dynamic; reachable from both sides; reaction is incomplete; composition constant; a catalyst only speeds up reaching it; free energy change dG = 0.\nExample: in a closed vessel at 450 C, H2 + I2 <-> 2HI converts about 80% of reactants, leaving about 20%.\nHomogeneous equilibrium: all species in one phase (N2 + 3H2 <-> 2NH3). Heterogeneous: different phases (CaCO3 <-> CaO + CO2).",
+   "mcqs": [
+    {
+     "question_bn": "সাম্যাবস্থায় কোনটি সত্য?",
+     "question_en": "Which is true at equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সম্মুখ হার = পশ্চাৎ হার",
+       "en": "Forward rate = backward rate"
+      },
+      {
+       "id": "b",
+       "bn": "সম্মুখ হার শূন্য",
+       "en": "Forward rate is zero"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়ক শেষ হয়ে যায়",
+       "en": "Reactants are used up"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়া থেমে যায়",
+       "en": "The reaction stops"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সাম্যাবস্থার সংজ্ঞা: দুই বিপরীত বিক্রিয়ার হার সমান।",
+     "explanation_en": "By definition, the two opposing rates are equal.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সাম্যাবস্থায় পৌঁছাতে বিক্রিয়াটি কোন পাত্রে করতে হয়?",
+     "question_en": "In what kind of vessel must a reaction be carried out to reach equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আবদ্ধ পাত্র",
+       "en": "Closed vessel"
+      },
+      {
+       "id": "b",
+       "bn": "খোলা পাত্র",
+       "en": "Open vessel"
+      },
+      {
+       "id": "c",
+       "bn": "ধাতব চামচ",
+       "en": "Metal spoon"
+      },
+      {
+       "id": "d",
+       "bn": "যেকোনো পাত্র",
+       "en": "Any vessel"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিক্রিয়াটি আবদ্ধ পাত্রে করা হলে তবেই সাম্যাবস্থা আসে।",
+     "explanation_en": "Equilibrium is attained only in a closed vessel.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সাম্যাবস্থায় মুক্তশক্তির পরিবর্তন কত?",
+     "question_en": "What is the free energy change at equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔG > 0",
+       "en": "ΔG > 0"
+      },
+      {
+       "id": "b",
+       "bn": "ΔG < 0",
+       "en": "ΔG < 0"
+      },
+      {
+       "id": "c",
+       "bn": "ΔG = 0",
+       "en": "ΔG = 0"
+      },
+      {
+       "id": "d",
+       "bn": "ΔG = ∞",
+       "en": "ΔG = ∞"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সাম্যাবস্থায় ΔG = 0।",
+     "explanation_en": "At equilibrium dG = 0.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি অসমসত্ত্ব সাম্য?",
+     "question_en": "Which of the following is a heterogeneous equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+       "en": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)"
+      },
+      {
+       "id": "b",
+       "bn": "CaCO₃(s) ⇌ CaO(s) + CO₂(g)",
+       "en": "CaCO₃(s) ⇌ CaO(s) + CO₂(g)"
+      },
+      {
+       "id": "c",
+       "bn": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+       "en": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)"
+      },
+      {
+       "id": "d",
+       "bn": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+       "en": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CaCO₃ কঠিন, CO₂ গ্যাস – ভিন্ন দশা।",
+     "explanation_en": "CaCO3 is solid and CO2 is gas, so phases differ.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আবদ্ধ পাত্রে H₂ ও I₂ 450°C এ সাম্যে পৌঁছালে প্রায় কত শতাংশ বিক্রিয়ক HI-এ পরিণত হয়?",
+     "question_en": "When H2 and I2 reach equilibrium at 450 C in a closed vessel, about what percent of the reactants forms HI?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "20%",
+       "en": "20%"
+      },
+      {
+       "id": "b",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "c",
+       "bn": "80%",
+       "en": "80%"
+      },
+      {
+       "id": "d",
+       "bn": "100%",
+       "en": "100%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে প্রায় 80% রূপান্তর এবং প্রায় 20% প্রাথমিক ঘনমাত্রা অবশিষ্ট থাকার কথা বলা আছে।",
+     "explanation_en": "The book states about 80% conversion with about 20% of the initial concentration left.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "সাম্যাবস্থাকে 'গতিশীল' বলার কারণ কোনটি?",
+     "question_en": "Why is equilibrium described as dynamic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দুই দিকের বিক্রিয়াই সমান হারে চলতে থাকে",
+       "en": "Both forward and backward reactions keep going at equal rates"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়া সম্পূর্ণ থেমে যায়",
+       "en": "The reaction stops completely"
+      },
+      {
+       "id": "c",
+       "bn": "তাপমাত্রা বাড়তে থাকে",
+       "en": "Temperature keeps rising"
+      },
+      {
+       "id": "d",
+       "bn": "চাপ ক্রমাগত বদলায়",
+       "en": "Pressure keeps changing"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বাইরে থেকে স্থির মনে হলেও উভয় দিকে বিক্রিয়া সমান হারে ঘটে।",
+     "explanation_en": "It looks static but both reactions continue at equal rates.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.9",
+   "title_bn": "সাম্যাবস্থার গতিশীলতা",
+   "title_en": "Dynamic Nature of Equilibrium",
+   "notes_bn": "সাম্যাবস্থায় প্রতি সেকেন্ডে যত বিক্রিয়ক উৎপাদে পরিণত হয়, ঠিক ততই উৎপাদ বিক্রিয়কে ফিরে আসে; তাই সাম্য স্থির নয়, গতিশীল।\nপ্রমাণ: Ag(s) + Fe³⁺ ⇌ Ag⁺ + Fe²⁺ সাম্যে তেজস্ক্রিয় Ag যোগ করলে কিছুক্ষণ পর দ্রবণে তেজস্ক্রিয় Ag⁺ পাওয়া যায়; অর্থাৎ সাম্যেও উভয় বিক্রিয়া চলে।\nΔG = ΔH − TΔS; সাম্যে ΔG = 0।\nপ্রমাণ মুক্তশক্তি ও সাম্যধ্রুবক: ΔG° = −RT ln Kp।\nউদাহরণ: PCl₅ ⇌ PCl₃ + Cl₂, Kp = 1.85 × 10⁶ (25°C) হলে ΔG° = −35.753 kJ mol⁻¹, ঋণাত্মক তাই সাম্য উৎপাদের দিকে।\n2SO₃ ⇌ 2SO₂ + O₂ এ ΔG° = +140 kJ mol⁻¹ হলে Kp = 2.909 × 10⁻²⁵ (25°C)।",
+   "notes_en": "At equilibrium, as much reactant forms product per second as product reverts to reactant; equilibrium is dynamic, not static.\nProof: add radioactive Ag to the Ag + Fe3+ equilibrium; radioactive Ag+ soon appears in solution, so both reactions continue at equilibrium.\ndG = dH - T dS; at equilibrium dG = 0.\nStandard free energy and equilibrium constant: dG0 = -RT ln Kp.\nExample: PCl5 <-> PCl3 + Cl2 with Kp = 1.85 x 10^6 (25 C) gives dG0 = -35.753 kJ/mol; negative, so equilibrium lies toward products.\nFor 2SO3 <-> 2SO2 + O2 with dG0 = +140 kJ/mol, Kp = 2.909 x 10^-25 at 25 C.",
+   "mcqs": [
+    {
+     "question_bn": "সাম্যের গতিশীলতা প্রমাণে বইয়ে কী যোগ করা হয়েছে?",
+     "question_en": "What was added to demonstrate the dynamic nature of equilibrium in the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তেজস্ক্রিয় Ag",
+       "en": "Radioactive Ag"
+      },
+      {
+       "id": "b",
+       "bn": "অতিরিক্ত পানি",
+       "en": "Extra water"
+      },
+      {
+       "id": "c",
+       "bn": "প্রভাবক",
+       "en": "A catalyst"
+      },
+      {
+       "id": "d",
+       "bn": "ঠান্ডা বরফ",
+       "en": "Cold ice"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সাম্যে তেজস্ক্রিয় Ag যোগ করে পরে দ্রবণে তেজস্ক্রিয় Ag⁺ পাওয়া যায়।",
+     "explanation_en": "Radioactive Ag added to the equilibrium later shows up as radioactive Ag+ in solution.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রমাণ মুক্তশক্তি ও সাম্যধ্রুবকের সম্পর্কটি কোনটি?",
+     "question_en": "Which relation links standard free energy and the equilibrium constant?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔG° = −RT ln Kp",
+       "en": "ΔG° = −RT ln Kp"
+      },
+      {
+       "id": "b",
+       "bn": "ΔG° = RT Kp",
+       "en": "ΔG° = RT Kp"
+      },
+      {
+       "id": "c",
+       "bn": "ΔG° = Kp/RT",
+       "en": "ΔG° = Kp/RT"
+      },
+      {
+       "id": "d",
+       "bn": "ΔG° = T ln Kp",
+       "en": "ΔG° = T ln Kp"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ΔG° = −RT ln Kp ব্যবহার করা হয়েছে।",
+     "explanation_en": "The book uses dG0 = -RT ln Kp.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ΔG° ঋণাত্মক হলে সাম্যাবস্থার অবস্থান কোন দিকে থাকে?",
+     "question_en": "If dG0 is negative, toward which side does the equilibrium lie?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উৎপাদের দিকে",
+       "en": "Toward products"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়কের দিকে",
+       "en": "Toward reactants"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো দিকে নয়",
+       "en": "Neither"
+      },
+      {
+       "id": "d",
+       "bn": "সমান",
+       "en": "Equal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ΔG° < 0 হলে বিক্রিয়া স্বতঃস্ফূর্ত এবং সাম্য উৎপাদের দিকে সরে।",
+     "explanation_en": "dG0 < 0 means spontaneous and equilibrium shifts to the product side.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "2SO₃ ⇌ 2SO₂ + O₂ বিক্রিয়ায় ΔG° = +140 kJ mol⁻¹ হলে 25°C এ Kp-এর মান কেমন হবে?",
+     "question_en": "For 2SO3 <-> 2SO2 + O2 with dG0 = +140 kJ/mol, what is Kp at 25 C like?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অত্যন্ত ছোট (≈ 10⁻²⁵)",
+       "en": "Very small (about 10^-25)"
+      },
+      {
+       "id": "b",
+       "bn": "1 এর সমান",
+       "en": "Equal to 1"
+      },
+      {
+       "id": "c",
+       "bn": "অত্যন্ত বড়",
+       "en": "Very large"
+      },
+      {
+       "id": "d",
+       "bn": "ঋণাত্মক",
+       "en": "Negative"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ln Kp = −140000/(8.314×298) ≈ −56.5; Kp = 2.909 × 10⁻²⁵।",
+     "explanation_en": "ln Kp = -140000/(8.314 x 298) = about -56.5, giving Kp = 2.909 x 10^-25.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "25°C এ Ca(s) + Cl₂(g) → CaCl₂(s) এ ΔH = −795 kJ mol⁻¹, ΔS = −150 J mol⁻¹ K⁻¹ হলে ΔG কত?",
+     "question_en": "For Ca + Cl2 -> CaCl2 at 25 C with dH = -795 kJ/mol and dS = -150 J/mol/K, what is dG?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−750.3 kJ mol⁻¹",
+       "en": "−750.3 kJ mol⁻¹"
+      },
+      {
+       "id": "b",
+       "bn": "−840 kJ mol⁻¹",
+       "en": "−840 kJ mol⁻¹"
+      },
+      {
+       "id": "c",
+       "bn": "+750 kJ mol⁻¹",
+       "en": "+750 kJ mol⁻¹"
+      },
+      {
+       "id": "d",
+       "bn": "−795 kJ mol⁻¹",
+       "en": "−795 kJ mol⁻¹"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ΔG = ΔH − TΔS = −795 − 298×(−0.150) = −795 + 44.7 ≈ −750 kJ mol⁻¹; স্বতঃস্ফূর্ত।",
+     "explanation_en": "dG = dH - T dS = -795 - 298(-0.150) = -795 + 44.7 = about -750 kJ/mol; spontaneous.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "একটি বিক্রিয়ায় ΔH ও ΔS উভয়ই ঋণাত্মক এবং |ΔH| = T|ΔS| হলে সাম্য সম্পর্কে কী বলা যায়?",
+     "question_en": "If dH and dS are both negative and |dH| = T|dS|, what can be said about equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔG = 0, বিক্রিয়া সাম্যাবস্থায়",
+       "en": "dG = 0, the reaction is at equilibrium"
+      },
+      {
+       "id": "b",
+       "bn": "ΔG > 0, অস্বতঃস্ফূর্ত",
+       "en": "dG > 0, non-spontaneous"
+      },
+      {
+       "id": "c",
+       "bn": "ΔG < 0, সম্পূর্ণ একমুখী",
+       "en": "dG < 0, fully irreversible"
+      },
+      {
+       "id": "d",
+       "bn": "ΔG অসংজ্ঞায়িত",
+       "en": "dG undefined"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ΔG = ΔH − TΔS = 0 হলে সিস্টেম সাম্যাবস্থায় থাকে।",
+     "explanation_en": "If dG = dH - T dS = 0 the system is at equilibrium.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.10",
+   "title_bn": "লা-শাতেলিয়ারের নীতি",
+   "title_en": "Le Chatelier's Principle",
+   "notes_bn": "সাম্যাবস্থা তাপমাত্রা, চাপ ও ঘনমাত্রার উপর নির্ভরশীল; বাইরের অবস্থা না বদলালে সাম্য চিরকাল অপরিবর্তিত থাকে।\nলা-শাতেলিয়ারের নীতি: সাম্যাবস্থায় থাকা কোনো উভমুখী বিক্রিয়ায় তাপমাত্রা, চাপ বা ঘনমাত্রার মতো কোনো নিয়ামক বদলালে সাম্যের অবস্থান এমনভাবে বাম বা ডানে সরে যায় যাতে পরিবর্তনের ফল প্রশমিত হয়।\nসিস্টেম পরিবর্তনের ফলাফলকে প্রতিরোধ করতে চেষ্টা করে।\nতাপমাত্রার পরিবর্তনে সাম্য ধ্রুবকের মান বদলায়; চাপ বা ঘনমাত্রার পরিবর্তনে সাম্যের অবস্থান বদলায় কিন্তু সাম্য ধ্রুবক বদলায় না।",
+   "notes_en": "Equilibrium depends on temperature, pressure and concentration; if conditions stay unchanged, it persists forever.\nLe Chatelier's principle: if a factor such as temperature, pressure or concentration of a system at equilibrium is changed, the equilibrium shifts left or right so as to counteract the change.\nThe system tries to oppose the effect of the change.\nA temperature change alters the equilibrium constant; pressure or concentration changes shift the position but not the constant.",
+   "mcqs": [
+    {
+     "question_bn": "লা-শাতেলিয়ারের নীতি কীসের সাথে সম্পর্কিত?",
+     "question_en": "What does Le Chatelier's principle deal with?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাম্যাবস্থার উপর বাহ্যিক পরিবর্তনের প্রভাব",
+       "en": "The effect of external changes on equilibrium"
+      },
+      {
+       "id": "b",
+       "bn": "পরমাণুর গঠন",
+       "en": "Atomic structure"
+      },
+      {
+       "id": "c",
+       "bn": "তড়িৎ বিশ্লেষণ",
+       "en": "Electrolysis"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যাসের ব্যাপন",
+       "en": "Gas diffusion"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নীতিটি সাম্যে তাপমাত্রা, চাপ, ঘনমাত্রা পরিবর্তনের ফল ব্যাখ্যা করে।",
+     "explanation_en": "It explains the effect of changing temperature, pressure or concentration on equilibrium.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লা-শাতেলিয়ারের নীতি অনুযায়ী সাম্যে পরিবর্তন ঘটালে সিস্টেম কী করে?",
+     "question_en": "According to Le Chatelier, how does a system respond to a change imposed on equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পরিবর্তনের ফল প্রশমিত করার দিকে সরে",
+       "en": "Shifts to counteract the change"
+      },
+      {
+       "id": "b",
+       "bn": "পরিবর্তনকে বাড়ায়",
+       "en": "Amplifies the change"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়া বন্ধ করে",
+       "en": "Stops reacting"
+      },
+      {
+       "id": "d",
+       "bn": "কিছুই করে না",
+       "en": "Does nothing"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সিস্টেম পরিবর্তনজনিত ফলাফল প্রতিরোধ করতে চায়।",
+     "explanation_en": "The system resists the effect of the change.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন নিয়ামক পরিবর্তনে সাম্য ধ্রুবকের মান বদলায়?",
+     "question_en": "Changing which factor alters the value of the equilibrium constant?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপমাত্রা",
+       "en": "Temperature"
+      },
+      {
+       "id": "b",
+       "bn": "চাপ",
+       "en": "Pressure"
+      },
+      {
+       "id": "c",
+       "bn": "ঘনমাত্রা",
+       "en": "Concentration"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলোই",
+       "en": "All of them"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তাপমাত্রা ছাড়া চাপ/ঘনমাত্রার পরিবর্তনে সাম্য ধ্রুবকের মান বদলায় না।",
+     "explanation_en": "Only temperature changes the constant; pressure and concentration do not.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "লা-শাতেলিয়ারের নীতি কে প্রস্তাব করেন?",
+     "question_en": "Who proposed the principle named in this section?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হেনরি লুইস লা-শাতেলিয়ার",
+       "en": "Henri Louis Le Chatelier"
+      },
+      {
+       "id": "b",
+       "bn": "আরহেনিয়াস",
+       "en": "Arrhenius"
+      },
+      {
+       "id": "c",
+       "bn": "বার্জেলিয়াস",
+       "en": "Berzelius"
+      },
+      {
+       "id": "d",
+       "bn": "গুল্ডবার্গ",
+       "en": "Guldberg"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নীতিটি বিজ্ঞানী লা-শাতেলিয়ারের নামে।",
+     "explanation_en": "The principle is named after Henri Louis Le Chatelier.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সাম্যে থাকা A + B ⇌ C + D তে বিক্রিয়ক A যোগ করলে সাম্য কোন দিকে সরবে?",
+     "question_en": "Adding reactant A to A + B <-> C + D at equilibrium shifts it which way?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডানে (উৎপাদের দিকে)",
+       "en": "Right (toward products)"
+      },
+      {
+       "id": "b",
+       "bn": "বামে",
+       "en": "Left"
+      },
+      {
+       "id": "c",
+       "bn": "সরবে না",
+       "en": "No shift"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়া থেমে যাবে",
+       "en": "The reaction stops"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অতিরিক্ত A-এর প্রভাব প্রশমিত করতে বিক্রিয়া A ব্যবহার করে ডানে সরে।",
+     "explanation_en": "To reduce the extra A, the system consumes it by shifting right.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নিচের কোনটির পরিবর্তনে সাম্যের অবস্থান বদলায় কিন্তু সাম্য ধ্রুবক অপরিবর্তিত থাকে?",
+     "question_en": "A change in which factor shifts the equilibrium position without changing the equilibrium constant?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ঘনমাত্রা",
+       "en": "Concentration"
+      },
+      {
+       "id": "b",
+       "bn": "তাপমাত্রা",
+       "en": "Temperature"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ই",
+       "en": "Both"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "Neither"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ঘনমাত্রা পরিবর্তনে অবস্থান সরে কিন্তু K অপরিবর্তিত থাকে; তাপমাত্রা K বদলায়।",
+     "explanation_en": "Concentration shifts the position but leaves K unchanged; temperature changes K.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.11",
+   "title_bn": "বিক্রিয়ার সাম্যাবস্থার উপর তাপমাত্রা, চাপ ও ঘনমাত্রার প্রভাব",
+   "title_en": "Effect of Temperature, Pressure & Concentration on Equilibrium",
+   "notes_bn": "তাপমাত্রা: তাপোৎপাদী বিক্রিয়ায় (যেমন N₂ + 3H₂ ⇌ 2NH₃, ΔH = −92 kJ) তাপমাত্রা বাড়ালে সাম্য বামে সরে, Kc কমে; কমালে ডানে সরে, Kc বাড়ে। তাপহারী বিক্রিয়ায় (N₂O₄ ⇌ 2NO₂, ΔH = +57 kJ) উল্টো।\nভ্যান্ট হফ সমীকরণ: log Kp = −(ΔH/2.303R)(1/T) + ধ্রুবক; তাপহারীর জন্য ঢাল ঋণাত্মক, তাপোৎপাদীর জন্য ধনাত্মক।\nচাপ: উৎপাদের মোল বেশি হলে (PCl₅, N₂O₄ বিয়োজন) চাপ বাড়ালে সাম্য বামে; কম হলে (NH₃, SO₃ উৎপাদন) ডানে; সমান হলে (H₂ + I₂ ⇌ 2HI) প্রভাব নেই।\nঘনমাত্রা: বিক্রিয়ক যোগ করলে সম্মুখ বিক্রিয়া, উৎপাদ যোগ করলে পশ্চাৎ বিক্রিয়া; Kc বা Kp অপরিবর্তিত।\nতাপমাত্রা সাম্যে পৌঁছানোর গতিও বাড়ায় এবং Kp-কেও প্রভাবিত করে; প্রভাবক শুধু দ্রুত সাম্যে আনে।",
+   "notes_en": "Temperature: for exothermic reactions (N2 + 3H2 <-> 2NH3, dH = -92 kJ), raising T shifts left and lowers Kc; lowering T shifts right and raises Kc. Endothermic reactions (N2O4 <-> 2NO2, dH = +57 kJ) behave oppositely.\nVan't Hoff equation: log Kp = -(dH/2.303R)(1/T) + constant; slope is negative for endothermic, positive for exothermic reactions.\nPressure: more product moles (PCl5, N2O4 decomposition) - raising pressure shifts left; fewer (NH3, SO3 formation) - shifts right; equal (H2 + I2 <-> 2HI) - no effect.\nConcentration: adding reactant favours the forward reaction, adding product the backward; Kc or Kp unchanged.\nTemperature also speeds attainment of equilibrium and changes Kp; a catalyst only speeds attainment.",
+   "mcqs": [
+    {
+     "question_bn": "N₂ + 3H₂ ⇌ 2NH₃ (ΔH = −92 kJ) এ তাপমাত্রা বাড়ালে সাম্য কোন দিকে সরে?",
+     "question_en": "In N2 + 3H2 <-> 2NH3 (dH = -92 kJ), which way does equilibrium shift when temperature is raised?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বামে (NH₃ কমে)",
+       "en": "Left (less NH3)"
+      },
+      {
+       "id": "b",
+       "bn": "ডানে (NH₃ বাড়ে)",
+       "en": "Right (more NH3)"
+      },
+      {
+       "id": "c",
+       "bn": "সরে না",
+       "en": "No shift"
+      },
+      {
+       "id": "d",
+       "bn": "প্রথমে ডানে পরে বামে",
+       "en": "Right then left"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তাপোৎপাদী বিক্রিয়ায় তাপমাত্রা বাড়ালে পশ্চাৎমুখী হয়ে NH₃ বিয়োজিত হয়।",
+     "explanation_en": "For an exothermic reaction, heating drives the backward reaction and NH3 dissociates.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N₂ + 3H₂ ⇌ 2NH₃ এ চাপ বাড়ালে NH₃ উৎপাদন কীভাবে বদলায়?",
+     "question_en": "How does raising pressure change NH3 formation in N2 + 3H2 <-> 2NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাড়ে",
+       "en": "Increases"
+      },
+      {
+       "id": "b",
+       "bn": "কমে",
+       "en": "Decreases"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত",
+       "en": "Unchanged"
+      },
+      {
+       "id": "d",
+       "bn": "শূন্য হয়",
+       "en": "Becomes zero"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিক্রিয়ক 4 মোল, উৎপাদ 2 মোল; চাপ বাড়লে সাম্য ডানে সরে।",
+     "explanation_en": "Reactants 4 mol, products 2 mol; higher pressure shifts it right.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N₂O₄(g) ⇌ 2NO₂(g), ΔH = +57 kJ mol⁻¹ এ তাপমাত্রা বাড়ালে কী ঘটে?",
+     "question_en": "In N2O4(g) <-> 2NO2(g), dH = +57 kJ/mol, what happens on raising temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাম্য ডানে সরে ও Kc বাড়ে",
+       "en": "Equilibrium shifts right and Kc increases"
+      },
+      {
+       "id": "b",
+       "bn": "সাম্য বামে সরে ও Kc কমে",
+       "en": "Equilibrium shifts left and Kc decreases"
+      },
+      {
+       "id": "c",
+       "bn": "Kc অপরিবর্তিত",
+       "en": "Kc unchanged"
+      },
+      {
+       "id": "d",
+       "bn": "কিছুই ঘটে না",
+       "en": "Nothing happens"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তাপহারী বিক্রিয়ায় তাপমাত্রা বাড়লে সম্মুখমুখী হয় ও সাম্যধ্রুবক বাড়ে।",
+     "explanation_en": "For an endothermic reaction, heating favours the forward reaction and raises K.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H₂(g) + I₂(g) ⇌ 2HI(g) সাম্যে চাপ বাড়ালে কী প্রভাব পড়ে?",
+     "question_en": "What is the effect of raising pressure on H2(g) + I2(g) <-> 2HI(g) at equilibrium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কোনো প্রভাব নেই",
+       "en": "No effect"
+      },
+      {
+       "id": "b",
+       "bn": "ডানে সরে",
+       "en": "Shifts right"
+      },
+      {
+       "id": "c",
+       "bn": "বামে সরে",
+       "en": "Shifts left"
+      },
+      {
+       "id": "d",
+       "bn": "Kc বাড়ে",
+       "en": "Kc increases"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিক্রিয়ক ও উৎপাদের মোল সংখ্যা সমান (2 = 2), তাই আয়তন বদলায় না।",
+     "explanation_en": "Reactant and product moles are equal (2 = 2), so volume does not change.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "PCl₅ ⇌ PCl₃ + Cl₂ সাম্যে আবদ্ধ পাত্রে বাইরে থেকে Cl₂ যোগ করলে কী ঘটে?",
+     "question_en": "What happens when Cl2 is added externally to the PCl5 <-> PCl3 + Cl2 equilibrium in a closed vessel?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাম্য বামে সরে, PCl₅ বাড়ে; Kp অপরিবর্তিত",
+       "en": "Equilibrium shifts left, more PCl5; Kp unchanged"
+      },
+      {
+       "id": "b",
+       "bn": "সাম্য ডানে সরে",
+       "en": "Shifts right"
+      },
+      {
+       "id": "c",
+       "bn": "Kp বাড়ে",
+       "en": "Kp increases"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়া থামে",
+       "en": "Reaction stops"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উৎপাদ যোগ করলে পশ্চাৎ বিক্রিয়া ঘটে; নির্দিষ্ট তাপমাত্রায় Kp স্থির।",
+     "explanation_en": "Adding a product drives the backward reaction; Kp stays fixed at a given temperature.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "log Kp বনাম 1/T লেখচিত্রে ঢাল ঋণাত্মক হলে বিক্রিয়াটি কী ধরনের?",
+     "question_en": "If the log Kp vs 1/T plot has a negative slope, what type of reaction is it?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপহারী",
+       "en": "Endothermic"
+      },
+      {
+       "id": "b",
+       "bn": "তাপোৎপাদী",
+       "en": "Exothermic"
+      },
+      {
+       "id": "c",
+       "bn": "প্রভাবক-নিয়ন্ত্রিত",
+       "en": "Catalyst-controlled"
+      },
+      {
+       "id": "d",
+       "bn": "শূন্য ক্রম",
+       "en": "Zero order"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ঢাল = −ΔH/2.303R; ঢাল ঋণাত্মক হলে ΔH ধনাত্মক, অর্থাৎ তাপহারী।",
+     "explanation_en": "Slope = -dH/2.303R; negative slope means positive dH, i.e. endothermic.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.12",
+   "title_bn": "শিল্প উৎপাদনে লা-শাতেলিয়ারের নীতির প্রয়োগ",
+   "title_en": "Application of Le Chatelier's Principle in Industry",
+   "notes_bn": "হেবার পদ্ধতিতে NH₃: N₂ + 3H₂ ⇌ 2NH₃, ΔH = −92.38 kJ; বিক্রিয়া তাপোৎপাদী, আয়তন সংকোচনশীল ও উভমুখী।\nশর্ত: উচ্চ চাপ (প্রায় 200 atm), তাপমাত্রা 450–500°C (নিম্ন তাপমাত্রায় বেগ খুব কম), প্রভাবক Fe ও প্রভাবক সহায়ক Mo; উৎপন্ন NH₃ সরিয়ে নেওয়া হয়।\nবিশ্বে প্রায় 80% সার NH₃ থেকে তৈরি; বছরে প্রায় 12 কোটি টন NH₃ উৎপন্ন হয়।\nস্পর্শ প্রণালীতে H₂SO₄: 2SO₂ + O₂ ⇌ 2SO₃, ΔH = −192.46 kJ; তাপোৎপাদী, আয়তন সংকোচনশীল।\nশর্ত: তাপমাত্রা 400–500°C, চাপ প্রায় 1.7 atm, প্রভাবক V₂O₅ বা Pt; SO₃ দ্রুত সরিয়ে 98% H₂SO₄-এ চালনা করে প্রথমে 100% H₂SO₄, পরে অলিয়াম (H₂S₂O₇) তৈরি।",
+   "notes_en": "Haber process: N2 + 3H2 <-> 2NH3, dH = -92.38 kJ; exothermic, volume-decreasing, reversible.\nConditions: high pressure (about 200 atm), 450-500 C (lower T is too slow), Fe catalyst with Mo promoter; NH3 is removed as formed.\nAbout 80% of fertilizer is made from NH3; about 12 crore (120 million) tonnes of NH3 are produced per year.\nContact process for H2SO4: 2SO2 + O2 <-> 2SO3, dH = -192.46 kJ; exothermic, volume-decreasing.\nConditions: 400-500 C, about 1.7 atm, V2O5 or Pt catalyst; SO3 is quickly removed and passed into 98% H2SO4 to give 100% H2SO4 and then oleum (H2S2O7).",
+   "mcqs": [
+    {
+     "question_bn": "হেবার পদ্ধতিতে NH₃ উৎপাদনে সাধারণত কত চাপ প্রয়োগ করা হয়?",
+     "question_en": "What pressure is typically applied in the Haber process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রায় 200 atm",
+       "en": "About 200 atm"
+      },
+      {
+       "id": "b",
+       "bn": "প্রায় 1 atm",
+       "en": "About 1 atm"
+      },
+      {
+       "id": "c",
+       "bn": "প্রায় 1.7 atm",
+       "en": "About 1.7 atm"
+      },
+      {
+       "id": "d",
+       "bn": "প্রায় 2 atm",
+       "en": "About 2 atm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 200 বায়ুচাপ উল্লেখ আছে।",
+     "explanation_en": "The book mentions 200 atm.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হেবার পদ্ধতিতে প্রভাবক ও প্রভাবক সহায়ক কী?",
+     "question_en": "What are the catalyst and promoter in the Haber process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Fe ও Mo",
+       "en": "Fe and Mo"
+      },
+      {
+       "id": "b",
+       "bn": "Pt ও As₂O₃",
+       "en": "Pt and As2O3"
+      },
+      {
+       "id": "c",
+       "bn": "V₂O₅ ও Mo",
+       "en": "V2O5 and Mo"
+      },
+      {
+       "id": "d",
+       "bn": "Ni ও Pd",
+       "en": "Ni and Pd"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Fe প্রভাবক এবং Mo প্রভাবক সহায়ক।",
+     "explanation_en": "Fe is the catalyst and Mo the promoter.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হেবার পদ্ধতিতে খুব নিম্ন তাপমাত্রা ব্যবহার করা হয় না কেন?",
+     "question_en": "Why is a very low temperature not used in the Haber process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিক্রিয়ার গতি খুব কমে যায়",
+       "en": "The reaction rate becomes too slow"
+      },
+      {
+       "id": "b",
+       "bn": "NH₃ বিয়োজিত হয়",
+       "en": "NH3 dissociates"
+      },
+      {
+       "id": "c",
+       "bn": "চাপ কমে",
+       "en": "Pressure falls"
+      },
+      {
+       "id": "d",
+       "bn": "প্রভাবক গলে যায়",
+       "en": "Catalyst melts"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "নিম্ন তাপমাত্রায় সাম্য ডানে সরে কিন্তু গতি খুব কম, তাই 450–500°C ব্যবহার করা হয়।",
+     "explanation_en": "Low T favours NH3 yield but is too slow, so 450-500 C is used.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "স্পর্শ প্রণালীতে 2SO₂ + O₂ ⇌ 2SO₃ এর জন্য কোন শর্ত উপযুক্ত?",
+     "question_en": "Which conditions suit 2SO2 + O2 <-> 2SO3 in the contact process?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "400–500°C, প্রায় 1.7 atm, V₂O₅/Pt",
+       "en": "400-500 C, about 1.7 atm, V2O5/Pt"
+      },
+      {
+       "id": "b",
+       "bn": "1000°C, 200 atm, Fe",
+       "en": "1000 C, 200 atm, Fe"
+      },
+      {
+       "id": "c",
+       "bn": "0°C, 1 atm, Ni",
+       "en": "0 C, 1 atm, Ni"
+      },
+      {
+       "id": "d",
+       "bn": "200°C, 0.1 atm, MnO₂",
+       "en": "200 C, 0.1 atm, MnO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে তাপমাত্রা 400–500°C, চাপ প্রায় 1.7 atm এবং V₂O₅ বা Pt প্রভাবক বলা হয়েছে।",
+     "explanation_en": "The book gives 400-500 C, about 1.7 atm and V2O5 or Pt.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হেবার পদ্ধতিতে উৎপন্ন NH₃ বারবার সরিয়ে ফেলা হয় কেন?",
+     "question_en": "Why is the NH3 formed in the Haber process continuously removed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাম্য ডানে সরে NH₃ উৎপাদন বাড়ানোর জন্য",
+       "en": "To shift equilibrium right and raise NH3 yield"
+      },
+      {
+       "id": "b",
+       "bn": "চাপ বাড়ানোর জন্য",
+       "en": "To increase pressure"
+      },
+      {
+       "id": "c",
+       "bn": "প্রভাবক রক্ষার জন্য",
+       "en": "To protect the catalyst"
+      },
+      {
+       "id": "d",
+       "bn": "তাপমাত্রা কমানোর জন্য",
+       "en": "To lower temperature"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "লা-শাতেলিয়ারের নীতি অনুযায়ী উৎপাদ সরালে বিক্রিয়া সম্মুখে চলে।",
+     "explanation_en": "By Le Chatelier, removing product drives the reaction forward.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "স্পর্শ প্রণালীতে SO₃ প্রথমে কোথায় চালনা করা হয় এবং শেষে কী পাওয়া যায়?",
+     "question_en": "In the contact process, where is SO3 first passed and what is finally obtained?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "98% H₂SO₄-এ; পরে অলিয়াম (H₂S₂O₇)",
+       "en": "Into 98% H2SO4; then oleum (H2S2O7)"
+      },
+      {
+       "id": "b",
+       "bn": "সরাসরি পানিতে; লঘু H₂SO₄",
+       "en": "Directly into water; dilute H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH-এ; Na₂SO₄",
+       "en": "Into NaOH; Na2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "Fe-তে; FeSO₄",
+       "en": "Over Fe; FeSO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "98% H₂SO₄-এ চালনা করে প্রথমে 100% H₂SO₄ এবং পরে অলিয়াম তৈরি হয়।",
+     "explanation_en": "Passing SO3 into 98% H2SO4 gives 100% H2SO4 first and then oleum.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.13",
+   "title_bn": "ভর-ক্রিয়া সূত্র",
+   "title_en": "Law of Mass Action",
+   "notes_bn": "গুল্ডবার্গ ও ভাগে (Guldberg & Waage) ভর-ক্রিয়া সূত্র উদ্ভাবন করেন।\nসূত্র: নির্দিষ্ট উষ্ণতায় কোনো নির্দিষ্ট মুহূর্তে রাসায়নিক বিক্রিয়ার হার, সেই মুহূর্তে উপস্থিত বিক্রিয়ক পদার্থগুলোর প্রত্যেকটির সক্রিয় ভরের সমানুপাতিক (গুণফলের সমানুপাতিক)।\nসক্রিয় ভর: দ্রবণে বিক্রিয়কের মোলার ঘনমাত্রা, [X] দিয়ে প্রকাশ; গ্যাসে আংশিক চাপ; কঠিন পদার্থের জন্য সক্রিয় ভর এক (unity) ধরা হয়।\nতাই A + B ⇌ AB এ সম্মুখ হার ∝ [A][B]।\nবিক্রিয়ার হার = প্রতি একক সময়ে বিক্রিয়কের হ্রাস বা উৎপাদের বৃদ্ধি।",
+   "notes_en": "Guldberg and Waage formulated the law of mass action.\nLaw: at a given temperature, the rate of a chemical reaction at any instant is proportional to the active mass of each reactant present at that instant (to their product).\nActive mass: molar concentration for solutions, written [X]; partial pressure for gases; taken as unity for solids.\nThus for A + B <-> AB, forward rate is proportional to [A][B].\nRate = decrease of reactant or increase of product per unit time.",
+   "mcqs": [
+    {
+     "question_bn": "ভর-ক্রিয়া সূত্র কারা উদ্ভাবন করেন?",
+     "question_en": "Who formulated the law of mass action?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গুল্ডবার্গ ও ভাগে",
+       "en": "Guldberg and Waage"
+      },
+      {
+       "id": "b",
+       "bn": "আরহেনিয়াস ও বার্জেলিয়াস",
+       "en": "Arrhenius and Berzelius"
+      },
+      {
+       "id": "c",
+       "bn": "লা-শাতেলিয়ার",
+       "en": "Le Chatelier"
+      },
+      {
+       "id": "d",
+       "bn": "ভ্যান্ট হফ",
+       "en": "Van't Hoff"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সি.এম. গুল্ডবার্গ ও পিটার ভাগে সূত্রটি উদ্ভাবন করেন।",
+     "explanation_en": "C. M. Guldberg and Peter Waage formulated it.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "দ্রবণে বিক্রিয়কের সক্রিয় ভর কীভাবে প্রকাশ করা হয়?",
+     "question_en": "How is the active mass of a reactant in solution expressed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মোলার ঘনমাত্রা [X]",
+       "en": "Molar concentration [X]"
+      },
+      {
+       "id": "b",
+       "bn": "আংশিক চাপ",
+       "en": "Partial pressure"
+      },
+      {
+       "id": "c",
+       "bn": "এক",
+       "en": "Unity"
+      },
+      {
+       "id": "d",
+       "bn": "পারমাণবিক সংখ্যা",
+       "en": "Atomic number"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দ্রবণে সক্রিয় ভর = প্রতি লিটারে বিক্রিয়কের মোল সংখ্যা।",
+     "explanation_en": "In solution, active mass = moles of reactant per litre.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কঠিন পদার্থের সক্রিয় ভর কত ধরা হয়?",
+     "question_en": "What is the active mass of a solid taken to be?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এক (unity)",
+       "en": "One (unity)"
+      },
+      {
+       "id": "b",
+       "bn": "শূন্য",
+       "en": "Zero"
+      },
+      {
+       "id": "c",
+       "bn": "মোলার ভরের সমান",
+       "en": "Equal to molar mass"
+      },
+      {
+       "id": "d",
+       "bn": "ঘনত্বের সমান",
+       "en": "Equal to density"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কঠিন বিক্রিয়কের ঘনমাত্রা বা সক্রিয় ভর এক ধরা হয়।",
+     "explanation_en": "The active mass of a solid is taken as one.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গ্যাসীয় সিস্টেমে সক্রিয় ভর কী?",
+     "question_en": "What is active mass in a gaseous system?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্যাসের আংশিক চাপ",
+       "en": "Partial pressure of the gas"
+      },
+      {
+       "id": "b",
+       "bn": "মোট চাপ",
+       "en": "Total pressure"
+      },
+      {
+       "id": "c",
+       "bn": "আয়তন",
+       "en": "Volume"
+      },
+      {
+       "id": "d",
+       "bn": "তাপমাত্রা",
+       "en": "Temperature"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আংশিক চাপ প্রতি একক আয়তনে উপস্থিত গ্রাম-অণু সংখ্যার সমানুপাতিক, তাই সক্রিয় ভর ধরা হয়।",
+     "explanation_en": "Partial pressure is proportional to moles per unit volume, so it is used as active mass.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "A + B ⇌ AB এ সম্মুখ হার Rf = k[A][B]। [A] তিনগুণ ও [B] অপরিবর্তিত হলে Rf কত গুণ হবে?",
+     "question_en": "In A + B <-> AB, Rf = k[A][B]. If [A] is tripled and [B] unchanged, how does Rf change?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3 গুণ",
+       "en": "3 times"
+      },
+      {
+       "id": "b",
+       "bn": "6 গুণ",
+       "en": "6 times"
+      },
+      {
+       "id": "c",
+       "bn": "9 গুণ",
+       "en": "9 times"
+      },
+      {
+       "id": "d",
+       "bn": "অপরিবর্তিত",
+       "en": "Unchanged"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Rf ∝ [A]; তাই [A] তিনগুণ হলে Rf-ও 3 গুণ।",
+     "explanation_en": "Rf is proportional to [A], so tripling [A] triples Rf.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "CaCO₃(s) ⇌ CaO(s) + CO₂(g) বিক্রিয়ায় ভর-ক্রিয়া সূত্র অনুযায়ী সম্মুখ হারে কোনটি গুরুত্বপূর্ণ ধরা হয় না?",
+     "question_en": "In CaCO3(s) <-> CaO(s) + CO2(g), which term is taken as constant (unity) in the mass action expression?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কঠিন CaCO₃-এর সক্রিয় ভর",
+       "en": "Active mass of solid CaCO3"
+      },
+      {
+       "id": "b",
+       "bn": "CO₂-এর আংশিক চাপ",
+       "en": "Partial pressure of CO2"
+      },
+      {
+       "id": "c",
+       "bn": "তাপমাত্রা",
+       "en": "Temperature"
+      },
+      {
+       "id": "d",
+       "bn": "আয়তন",
+       "en": "Volume"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কঠিন পদার্থের সক্রিয় ভর এক ধরা হয়, তাই CaCO₃ রাশিতে ধ্রুবক।",
+     "explanation_en": "Solids are given active mass one, so CaCO3 is a constant in the expression.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "4.1",
+   "stimulus_bn": "একটি কারখানা দুটি পদ্ধতিতে ইথানল তৈরির কথা ভাবছে। পদ্ধতি-১: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂। পদ্ধতি-২: CH₃CH₂Br + NaOH → CH₃CH₂OH + NaBr। (C₂H₅OH = 46, CO₂ = 44, NaBr = 103)",
+   "stimulus_en": "A factory is considering two routes to ethanol. Route 1: C6H12O6 -> 2C2H5OH + 2CO2. Route 2: CH3CH2Br + NaOH -> CH3CH2OH + NaBr. (C2H5OH = 46, CO2 = 44, NaBr = 103)",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "এটম ইকনমি কী?",
+     "question_en": "What is atom economy?",
+     "model_answer_bn": "কাঙ্ক্ষিত উৎপাদের ভর ও সব উৎপাদের মোট ভরের অনুপাতের 100 গুণকে এটম ইকনমি বলে।",
+     "model_answer_en": "Atom economy is 100 times the ratio of the mass of desired product to the total mass of all products."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "ই-ফ্যাক্টর কম হওয়া ভালো কেন ব্যাখ্যা কর।",
+     "question_en": "Explain why a low E-factor is desirable.",
+     "model_answer_bn": "ই-ফ্যাক্টর = বর্জ্যের ভর ÷ উৎপাদের ভর। মান কম মানে বর্জ্য কম, ফলে পদ্ধতি বেশি পরিবেশবান্ধব ও গ্রিন কেমিস্ট্রিসম্মত।",
+     "model_answer_en": "E-factor = mass of waste / mass of product. A lower value means less waste, so the process is more environmentally friendly and consistent with green chemistry."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "পদ্ধতি-১-এর এটম ইকনমি নির্ণয় কর।",
+     "question_en": "Calculate the atom economy of Route 1.",
+     "model_answer_bn": "AE = (2×46)/(2×46 + 2×44) × 100 = 92/180 × 100 = 51.11%।",
+     "model_answer_en": "AE = (2x46)/(2x46 + 2x44) x 100 = 92/180 x 100 = 51.11%."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "পদ্ধতি-২-এর AE নির্ণয় করে কোন পদ্ধতিটি গ্রিন কেমিস্ট্রির নীতির কাছাকাছি, যুক্তিসহ বিশ্লেষণ কর।",
+     "question_en": "Find AE for Route 2 and justify which route is closer to green chemistry principles.",
+     "model_answer_bn": "পদ্ধতি-২: AE = 46/(46+103) × 100 = 30.87%। পদ্ধতি-১-এর AE (51.11%) বেশি, অর্থাৎ বেশি অংশ কাঙ্ক্ষিত উৎপাদে যায় ও বর্জ্য কম; তাই পদ্ধতি-১ সর্বোচ্চ এটম ইকনমি নীতির কাছাকাছি।",
+     "model_answer_en": "Route 2: AE = 46/(46+103) x 100 = 30.87%. Route 1 has the higher AE (51.11%), so more atoms end up in the desired product and less waste forms; hence Route 1 is closer to the maximum atom-economy principle."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.3",
+   "stimulus_bn": "2N₂O₅(g) ⇌ 4NO₂(g) + O₂(g) বিক্রিয়ায় 6 সেকেন্ডে NO₂-এর ঘনমাত্রা 3.0 × 10⁻³ mol L⁻¹ বৃদ্ধি পেয়েছে।",
+   "stimulus_en": "In 2N2O5(g) <-> 4NO2(g) + O2(g), the concentration of NO2 increases by 3.0 x 10^-3 mol L-1 in 6 seconds.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "বিক্রিয়ার হার কাকে বলে?",
+     "question_en": "What is meant by rate of reaction?",
+     "model_answer_bn": "একক সময়ে বিক্রিয়কের ঘনমাত্রা হ্রাস বা উৎপাদের ঘনমাত্রা বৃদ্ধিকে বিক্রিয়ার হার বলে।",
+     "model_answer_en": "The decrease in reactant concentration or increase in product concentration per unit time."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "হারের রাশিতে ঋণাত্মক চিহ্ন ব্যবহার করা হয় কেন?",
+     "question_en": "Why is a negative sign used in a rate expression?",
+     "model_answer_bn": "বিক্রিয়কের ঘনমাত্রা সময়ের সাথে কমে, কিন্তু হার ধনাত্মক রাশি; তাই বিক্রিয়কের ক্ষেত্রে ঋণাত্মক চিহ্ন দেওয়া হয়।",
+     "model_answer_en": "A reactant concentration decreases with time while rate must be positive, so a minus sign is used for reactants."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "বিক্রিয়াটির গড় হার নির্ণয় কর।",
+     "question_en": "Calculate the average rate of the reaction.",
+     "model_answer_bn": "হার = (1/4)(Δ[NO₂]/Δt) = (1/4)(3.0 × 10⁻³/6) = 1.25 × 10⁻⁴ mol L⁻¹ s⁻¹।",
+     "model_answer_en": "Rate = (1/4)(d[NO2]/dt) = (1/4)(3.0 x 10^-3 / 6) = 1.25 x 10^-4 mol L-1 s-1."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "একই সময়ে N₂O₅-এর ব্যবহারের হার ও O₂ উৎপাদনের হার নির্ণয় করে সম্পর্কটি ব্যাখ্যা কর।",
+     "question_en": "Find the rate of N2O5 consumption and O2 formation in this period and explain the relationship.",
+     "model_answer_bn": "হার = −(1/2)d[N₂O₅]/dt = d[O₂]/dt। তাই O₂ উৎপাদনের হার = 1.25 × 10⁻⁴ এবং N₂O₅ ব্যবহারের হার = 2 × 1.25 × 10⁻⁴ = 2.5 × 10⁻⁴ mol L⁻¹ s⁻¹। সহগের কারণে বিভিন্ন পদার্থের হার ভিন্ন হলেও বিক্রিয়ার হার একই থাকে।",
+     "model_answer_en": "Rate = -(1/2)d[N2O5]/dt = d[O2]/dt. So O2 forms at 1.25 x 10^-4 and N2O5 is consumed at 2 x 1.25 x 10^-4 = 2.5 x 10^-4 mol L-1 s-1. Individual species rates differ by their coefficients while the reaction rate is the same."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.5",
+   "stimulus_bn": "একটি বিক্রিয়ার সক্রিয়ণ শক্তি 55 kJ mol⁻¹। বিক্রিয়াটি 27°C থেকে 37°C তাপমাত্রায় চালানো হলো। (R = 8.314 J mol⁻¹ K⁻¹)",
+   "stimulus_en": "A reaction has an activation energy of 55 kJ/mol. It is run first at 27 C and then at 37 C. (R = 8.314 J/mol/K)",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "সক্রিয়ণ শক্তি কী?",
+     "question_en": "What is activation energy?",
+     "model_answer_bn": "বিক্রিয়কের অণুগুলোর গড় শক্তির চেয়ে যে সর্বনিম্ন অতিরিক্ত শক্তি অর্জন করলে অণু বিক্রিয়ায় অংশগ্রহণের উপযুক্ত হয়, তাই সক্রিয়ণ শক্তি।",
+     "model_answer_en": "The minimum extra energy over the average that reactant molecules must gain to take part in the reaction."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "তাপমাত্রা বাড়ালে বিক্রিয়ার হার বাড়ে কেন?",
+     "question_en": "Why does raising temperature increase the rate?",
+     "model_answer_bn": "তাপমাত্রা বাড়লে অণুর গতিবেগ ও সংঘর্ষের হার বাড়ে এবং সক্রিয়ণ শক্তি অর্জনকারী সক্রিয় অণুর সংখ্যা বাড়ে, ফলে হার ধ্রুবক ও হার বাড়ে।",
+     "model_answer_en": "Higher temperature increases molecular speed and collision rate and the number of molecules reaching the activation energy, raising the rate constant and the rate."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "এই তাপমাত্রা পরিবর্তনে K₂/K₁ নির্ণয় কর।",
+     "question_en": "Calculate K2/K1 for this temperature change.",
+     "model_answer_bn": "log(K₂/K₁) = (55000/(2.303×8.314)) × (310−300)/(300×310) = 0.30887; K₂/K₁ = antilog(0.30887) ≈ 2.04 ≈ 2।",
+     "model_answer_en": "log(K2/K1) = (55000/(2.303 x 8.314)) x (310-300)/(300 x 310) = 0.30887; K2/K1 = antilog 0.30887 = about 2.04, i.e. about 2."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "log K বনাম 1/T লেখচিত্র এঁকে ঢাল থেকে Eₐ কীভাবে নির্ণয় করা যায় এবং এই বিক্রিয়ার ঢাল কত হবে ব্যাখ্যা কর।",
+     "question_en": "Explain how Ea is found from a log K vs 1/T plot and what the slope would be for this reaction.",
+     "model_answer_bn": "log K = −(Eₐ/2.303R)(1/T) + log A; লেখচিত্র নিম্নমুখী সরলরেখা, ঢাল = −Eₐ/2.303R, তাই Eₐ = −2.303 R × ঢাল। এখানে ঢাল = −55000/(2.303×8.314) ≈ −2.87 × 10³ K।",
+     "model_answer_en": "log K = -(Ea/2.303R)(1/T) + log A; the plot is a downward straight line with slope -Ea/2.303R, so Ea = -2.303 R x slope. Here slope = -55000/(2.303 x 8.314) = about -2.87 x 10^3 K."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.11",
+   "stimulus_bn": "হেবার পদ্ধতিতে NH₃ উৎপাদনের সমীকরণ: N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = −92.38 kJ। শিল্পে 450–500°C তাপমাত্রা, প্রায় 200 atm চাপ, Fe প্রভাবক ও Mo প্রভাবক সহায়ক ব্যবহার করা হয়।",
+   "stimulus_en": "Haber synthesis: N2(g) + 3H2(g) <-> 2NH3(g); dH = -92.38 kJ. Industry uses 450-500 C, about 200 atm, an Fe catalyst and Mo promoter.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "লা-শাতেলিয়ারের নীতিটি বিবৃত কর।",
+     "question_en": "State Le Chatelier's principle.",
+     "model_answer_bn": "সাম্যাবস্থায় থাকা উভমুখী বিক্রিয়ায় তাপমাত্রা, চাপ বা ঘনমাত্রা বদলালে সাম্যের অবস্থান এমনভাবে সরে যায় যাতে পরিবর্তনের ফল প্রশমিত হয়।",
+     "model_answer_en": "If a factor such as temperature, pressure or concentration of a reversible reaction at equilibrium is changed, the equilibrium shifts to counteract the change."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "উদ্দীপকের বিক্রিয়ায় চাপ বাড়ালে NH₃ উৎপাদন বাড়ে কেন?",
+     "question_en": "Why does raising pressure increase NH3 yield in this reaction?",
+     "model_answer_bn": "বিক্রিয়কের মোল 4 এবং উৎপাদের মোল 2; চাপ বাড়ালে সিস্টেম আয়তন (ও মোল সংখ্যা) কমানোর দিকে, অর্থাৎ ডানে সরে NH₃ বাড়ায়।",
+     "model_answer_en": "Reactants are 4 mol and products 2 mol; higher pressure shifts equilibrium toward fewer moles, i.e. right, increasing NH3."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "তাপমাত্রা 300 K থেকে 500 K করলে সাম্য ধ্রুবক ও NH₃-এর পরিমাণ কীভাবে বদলাবে ব্যাখ্যা কর।",
+     "question_en": "How do the equilibrium constant and NH3 amount change when temperature is raised from 300 K to 500 K?",
+     "model_answer_bn": "বিক্রিয়া তাপোৎপাদী; তাপমাত্রা বাড়লে সাম্য বামে সরে, তাই Kc কমে (বইয়ের তালিকায় 300 K এ 2.6 × 10⁸ থেকে 500 K এ 1.7 × 10² ) এবং সাম্যে NH₃ কমে।",
+     "model_answer_en": "The reaction is exothermic; raising temperature shifts equilibrium left, so Kc falls (the book's table shows 2.6 x 10^8 at 300 K and 1.7 x 10^2 at 500 K) and NH3 at equilibrium decreases."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "নিম্ন তাপমাত্রায় NH₃-এর পরিমাণ বেশি হলেও শিল্পে 450–500°C ও প্রভাবক ব্যবহার করা হয় কেন? যুক্তি দাও।",
+     "question_en": "Although low temperature gives more NH3, industry uses 450-500 C and a catalyst. Justify.",
+     "model_answer_bn": "নিম্ন তাপমাত্রায় সাম্য ডানে সরলেও বিক্রিয়ার গতি খুব কম হয়। তাই কার্যকর গতি পেতে 450–500°C রাখা হয় এবং Fe প্রভাবক (Mo সহায়কসহ) সাম্যের অবস্থান না বদলিয়ে দ্রুত সাম্যে পৌঁছাতে সাহায্য করে; NH₃ সরিয়ে নিলে উৎপাদনও বাড়ে।",
+     "model_answer_en": "At low temperature equilibrium favours NH3 but the rate is very slow. So 450-500 C gives a workable rate, and the Fe catalyst (with Mo promoter) helps reach equilibrium quickly without changing its position; removing NH3 further raises yield."
+    }
+   ]
+  }
+ ],
+ "notes": "All PDF pages 426-464 were readable. Book prints chapter number as 8 in some headers/section labels (e.g. 8.1) but sections were mapped to the task's 4.x numbering. Section 4.13 (printed p.466) is cut at the page boundary, so only the statement of the law of mass action and active-mass concept were covered. Exercise answers on the pages were not used for MCQs except where recomputed."
+}

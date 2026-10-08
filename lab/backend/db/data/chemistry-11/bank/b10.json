@@ -1,0 +1,2321 @@
+{
+ "chapter_no": 3,
+ "topics": [
+  {
+   "section_no": "3.17",
+   "title_bn": "নিঃসঙ্গ ইলেকট্রন জোড় ও লিগ্যান্ড",
+   "title_en": "Lone Pair Electrons and Ligands",
+   "notes_bn": "নিঃসঙ্গ ইলেকট্রন জোড়: পরমাণু/আয়নের যে ইলেকট্রন জোড় বন্ধন গঠনে অংশ নেয়নি। যেমন NH3, PH3, H2O, CO-তে আছে।\nনিঃসঙ্গ জোড়ধারী অণু/আয়ন/মূলক লুইস ক্ষার এবং লিগ্যান্ড; এরা সন্নিবেশ বন্ধনে দাতা।\nজটিল আয়নে কেন্দ্রীয় ধাতব আয়নের সাথে যুক্ত অণু/আয়নকে লিগ্যান্ড বলে; যেমন [Cu(NH3)4]2+ এ NH3।\nআধান অনুযায়ী তিন প্রকার: আধান নিরপেক্ষ (NH3, H2O, CO), ধনাত্মক (NO+, NO2+), ঋণাত্মক (CN-, Cl-, OH-)।\nদন্তুরতা অনুযায়ী: একযোজী (NH3, H2O, CN-), দ্বিযোজী (ইথিলিনডাইঅ্যামিন, অক্সালেট), ত্রিযোজী (ডাইইথিলিনট্রাইঅ্যামিন), চতুর্যোজী (ট্রাইইথিলিনটেট্রাঅ্যামিন), ষড়যোজী (EDTA)।\nনামকরণ: H2O = অ্যাকোয়া, NH3 = অ্যামিন, CO = কার্বোনাইল, CN- = সায়ানো, Cl- = ক্লোরো।",
+   "notes_en": "Lone pair: an electron pair on an atom/ion that is not used in bonding (e.g. in NH3, PH3, H2O, CO).\nAny species with a lone pair is a Lewis base and a ligand; it acts as donor in coordinate bonds.\nIn a complex ion the molecules/ions attached to the central metal ion are ligands, e.g. NH3 in [Cu(NH3)4]2+.\nBy charge: neutral (NH3, H2O, CO), positive (NO+, NO2+), negative (CN-, Cl-, OH-).\nBy denticity: mono (NH3, H2O, CN-), bi (ethylenediamine, oxalate), tri (dien), tetra (trien), hexadentate (EDTA).\nNames: H2O aqua, NH3 ammine, CO carbonyl, CN- cyano, Cl- chloro.",
+   "mcqs": [
+    {
+     "question_bn": "লিগ্যান্ড বলতে কী বোঝায়?",
+     "question_en": "What is a ligand?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিঃসঙ্গ ইলেকট্রন জোড়ধারী যেকোনো অণু, আয়ন বা মূলক",
+       "en": "Any molecule, ion or radical having a lone pair"
+      },
+      {
+       "id": "b",
+       "bn": "কেবল ধনাত্মক আয়ন",
+       "en": "Only a positive ion"
+      },
+      {
+       "id": "c",
+       "bn": "ইলেকট্রন শূন্য অরবিটালযুক্ত কেন্দ্রীয় ধাতু",
+       "en": "The central metal with empty orbitals"
+      },
+      {
+       "id": "d",
+       "bn": "আয়নিক যৌগের ক্যাটায়ন",
+       "en": "Cation of an ionic compound"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সংজ্ঞায় নিঃসঙ্গ জোড়ধারী অণু, আয়ন বা মূলককেই লিগ্যান্ড বলা হয়।",
+     "explanation_en": "The book defines a ligand as any species carrying a lone electron pair.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি আধান নিরপেক্ষ লিগ্যান্ড?",
+     "question_en": "Which is a neutral ligand?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CN-",
+       "en": "CN-"
+      },
+      {
+       "id": "b",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "c",
+       "bn": "NO2+",
+       "en": "NO2+"
+      },
+      {
+       "id": "d",
+       "bn": "OH-",
+       "en": "OH-"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NH3-এর আধান শূন্য; বাকিগুলো আহিত।",
+     "explanation_en": "NH3 has zero charge; the others are charged.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "H2O লিগ্যান্ডের নাম কী?",
+     "question_en": "What is the ligand name of H2O?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামিন",
+       "en": "Ammine"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যাকোয়া",
+       "en": "Aqua"
+      },
+      {
+       "id": "c",
+       "bn": "কার্বোনাইল",
+       "en": "Carbonyl"
+      },
+      {
+       "id": "d",
+       "bn": "হাইড্রোক্সো",
+       "en": "Hydroxo"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "জটিল যৌগে H2O-কে অ্যাকোয়া বলা হয়।",
+     "explanation_en": "H2O is named aqua in complexes.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি ধনাত্মক আধানযুক্ত লিগ্যান্ড?",
+     "question_en": "Which is a positively charged ligand?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO",
+       "en": "CO"
+      },
+      {
+       "id": "b",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "c",
+       "bn": "NO+",
+       "en": "NO+"
+      },
+      {
+       "id": "d",
+       "bn": "Cl-",
+       "en": "Cl-"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "NO+ (নাইট্রোসোনিয়াম) +1 আধানযুক্ত লিগ্যান্ড।",
+     "explanation_en": "NO+ (nitrosonium) carries +1 charge.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি দ্বিযোজী লিগ্যান্ড?",
+     "question_en": "Which is a bidentate ligand?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH3",
+       "en": "NH3"
+      },
+      {
+       "id": "b",
+       "bn": "H2O",
+       "en": "H2O"
+      },
+      {
+       "id": "c",
+       "bn": "CN-",
+       "en": "CN-"
+      },
+      {
+       "id": "d",
+       "bn": "NH2–CH2–CH2–NH2",
+       "en": "NH2–CH2–CH2–NH2"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "ইথিলিনডাইঅ্যামিনের দুটি N-এ দুটি নিঃসঙ্গ জোড় আছে।",
+     "explanation_en": "Ethylenediamine has two N atoms, each giving a lone pair.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি ষড়যোজী লিগ্যান্ডের উদাহরণ?",
+     "question_en": "Which is an example of a hexadentate ligand?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অক্সালেট আয়ন",
+       "en": "Oxalate ion"
+      },
+      {
+       "id": "b",
+       "bn": "EDTA আয়ন",
+       "en": "EDTA ion"
+      },
+      {
+       "id": "c",
+       "bn": "ইথিলিনডাইঅ্যামিন",
+       "en": "Ethylenediamine"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যামোনিয়া",
+       "en": "Ammonia"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "EDTA একসাথে ছয়টি নিঃসঙ্গ জোড় দান করতে পারে।",
+     "explanation_en": "EDTA can donate six lone pairs.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "[Cu(NH3)4]2+ আয়নে NH3 কেন লিগ্যান্ড হিসেবে কাজ করে?",
+     "question_en": "Why does NH3 act as a ligand in [Cu(NH3)4]2+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এর নিঃসঙ্গ ইলেকট্রন জোড় Cu2+-কে দান করে সন্নিবেশ বন্ধন গঠন করে",
+       "en": "Its lone pair is donated to Cu2+ forming coordinate bonds"
+      },
+      {
+       "id": "b",
+       "bn": "এর ইলেকট্রন শূন্য অরবিটাল আছে",
+       "en": "It has an empty orbital"
+      },
+      {
+       "id": "c",
+       "bn": "এটি ইলেকট্রন গ্রহণ করে",
+       "en": "It accepts electrons"
+      },
+      {
+       "id": "d",
+       "bn": "এটি আয়নিক বন্ধন গঠন করে",
+       "en": "It forms ionic bonds"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH3 লুইস ক্ষার; নিঃসঙ্গ জোড় দাতা হিসেবে ধাতব আয়নের সাথে যুক্ত হয়।",
+     "explanation_en": "NH3 is a Lewis base donating its lone pair to the metal ion.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.18",
+   "title_bn": "সন্নিবেশ সমযোজী বন্ধন",
+   "title_en": "Co-ordinate Covalent Bond",
+   "notes_bn": "যে সমযোজী বন্ধনের ইলেকট্রন জোড় কেবল একটি পরমাণু (দাতা) দেয় এবং অপর পরমাণু (গ্রহীতা) গ্রহণ করে, তাকে সন্নিবেশ বন্ধন বলে; দাতা থেকে গ্রহীতার দিকে তীর (→) দেওয়া হয়।\nশর্ত: দাতায় অন্তত একটি নিঃসঙ্গ জোড় এবং গ্রহীতায় অন্তত একটি ইলেকট্রনশূন্য অরবিটাল থাকতে হবে।\nউদাহরণ: NH4+ (NH3 + H+), H3O+ (H2O + H+), H3N→BF3, BF4-, H2SO4, CO, O3।\nজটিল আয়ন: [Fe(CN)6]4- এ Fe2+ d2sp3, [Ni(CN)4]2- এ Ni2+ dsp2 (বর্গাকার, ডায়াচুম্বকীয়); [NiCl4]2- ও Ni(CO)4 এ sp3 (চতুস্তলকীয়)। [NiCl4]2- এ দুটি অযুগ্ম ইলেকট্রন তাই প্যারাচুম্বকীয়, Ni(CO)4 ডায়াচুম্বকীয়।\nএকই যৌগে একাধিক বন্ধন: NH4Cl এ সমযোজী, সন্নিবেশ ও আয়নিক তিনটিই আছে; [Co(NH3)6]Cl3 এ 18টি N–H সমযোজী বন্ধন।\nআয়নিক, সমযোজী ও সন্নিবেশ তিন প্রকার বন্ধনযুক্ত যৌগ সাধারণত আয়নিক যৌগ ধরা হয়।",
+   "notes_en": "A coordinate covalent bond forms when one atom (donor) supplies both electrons of the shared pair and the other (acceptor) only receives them; shown by an arrow donor -> acceptor.\nNeeds: a lone pair on the donor and an empty orbital on the acceptor.\nExamples: NH4+ (NH3 + H+), H3O+, H3N->BF3, BF4-, H2SO4, CO, O3.\nComplexes: [Fe(CN)6]4- Fe2+ d2sp3; [Ni(CN)4]2- dsp2 (square planar, diamagnetic); [NiCl4]2- and Ni(CO)4 sp3 (tetrahedral); [NiCl4]2- has two unpaired electrons (paramagnetic), Ni(CO)4 is diamagnetic.\nSeveral bond types together: NH4Cl has covalent, coordinate and ionic bonds; [Co(NH3)6]Cl3 has 18 N-H covalent bonds.\nA compound with all three bond types is generally treated as ionic.",
+   "mcqs": [
+    {
+     "question_bn": "সন্নিবেশ সমযোজী বন্ধনে বন্ধন গঠনকারী ইলেকট্রন জোড় আসে—",
+     "question_en": "In a coordinate bond the bonding electron pair comes from—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দুই পরমাণু থেকে একটি করে",
+       "en": "One electron from each atom"
+      },
+      {
+       "id": "b",
+       "bn": "কেবল একটি পরমাণু থেকে",
+       "en": "One atom only"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো পরমাণু থেকে নয়",
+       "en": "Neither atom"
+      },
+      {
+       "id": "d",
+       "bn": "ক্যাটায়ন থেকে অ্যানায়নে স্থানান্তরিত হয়ে",
+       "en": "Transferred from cation to anion"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দাতা পরমাণু একাই উভয় ইলেকট্রন সরবরাহ করে।",
+     "explanation_en": "The donor atom alone supplies both electrons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NH4+ আয়নে সন্নিবেশ বন্ধনের সংখ্যা কত?",
+     "question_en": "How many coordinate bonds are in NH4+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "b",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তিনটি N–H সমযোজী; NH3-এর নিঃসঙ্গ জোড় H+ কে দিয়ে একটি সন্নিবেশ বন্ধন।",
+     "explanation_en": "Three N-H covalent bonds plus one coordinate bond to H+.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NH3 ও BF3 বিক্রিয়ায় গ্রহীতা কোনটি এবং কেন?",
+     "question_en": "In NH3 + BF3, which is the acceptor and why?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH3-এর N, কারণ তাতে নিঃসঙ্গ জোড় আছে",
+       "en": "N of NH3, it has a lone pair"
+      },
+      {
+       "id": "b",
+       "bn": "BF3-এর B, কারণ এতে অষ্টক অপূর্ণ (ছয়টি ইলেকট্রন)",
+       "en": "B of BF3, its octet is incomplete (six electrons)"
+      },
+      {
+       "id": "c",
+       "bn": "BF3-এর F",
+       "en": "F of BF3"
+      },
+      {
+       "id": "d",
+       "bn": "NH3-এর H",
+       "en": "H of NH3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "B-এর অষ্টকে দুটি ইলেকট্রন কম, তাই এটি জোড় গ্রহণ করে।",
+     "explanation_en": "B is two electrons short of an octet so it accepts the pair.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H3O+ গঠনে দাতা কোনটি?",
+     "question_en": "Which is the donor in forming H3O+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H+",
+       "en": "H+"
+      },
+      {
+       "id": "b",
+       "bn": "H2O-এর O",
+       "en": "O of H2O"
+      },
+      {
+       "id": "c",
+       "bn": "H2O-এর H",
+       "en": "H of H2O"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "O-এর নিঃসঙ্গ জোড় H+ কে দেওয়া হয়।",
+     "explanation_en": "O gives its lone pair to H+.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "[Fe(CN)6]4- আয়নে Fe2+ এর সংকরায়ন কোনটি?",
+     "question_en": "What is the hybridisation of Fe2+ in [Fe(CN)6]4-?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp3",
+       "en": "sp3"
+      },
+      {
+       "id": "b",
+       "bn": "dsp2",
+       "en": "dsp2"
+      },
+      {
+       "id": "c",
+       "bn": "d2sp3",
+       "en": "d2sp3"
+      },
+      {
+       "id": "d",
+       "bn": "sp3d",
+       "en": "sp3d"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ছয়টি CN- এর জন্য দুটি 3d, একটি 4s ও তিনটি 4p অরবিটাল ব্যবহৃত হয়।",
+     "explanation_en": "Two 3d, one 4s and three 4p orbitals accommodate six CN- ligands.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "[Ni(CN)4]2- এর আকৃতি ও চৌম্বক ধর্ম কী?",
+     "question_en": "What are the shape and magnetism of [Ni(CN)4]2-?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চতুস্তলকীয়, প্যারাচুম্বকীয়",
+       "en": "Tetrahedral, paramagnetic"
+      },
+      {
+       "id": "b",
+       "bn": "বর্গাকার, ডায়াচুম্বকীয়",
+       "en": "Square planar, diamagnetic"
+      },
+      {
+       "id": "c",
+       "bn": "বর্গাকার, প্যারাচুম্বকীয়",
+       "en": "Square planar, paramagnetic"
+      },
+      {
+       "id": "d",
+       "bn": "চতুস্তলকীয়, ডায়াচুম্বকীয়",
+       "en": "Tetrahedral, diamagnetic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শক্তিশালী CN- এ 3d ইলেকট্রন জোড় বাঁধে, dsp2 সংকরায়ন; অযুগ্ম ইলেকট্রন নেই।",
+     "explanation_en": "Strong CN- pairs the 3d electrons; dsp2 and no unpaired electrons.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "[NiCl4]2- প্যারাচুম্বকীয় কেন?",
+     "question_en": "Why is [NiCl4]2- paramagnetic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl- দুর্বল লিগ্যান্ড; 3d ইলেকট্রন জোড় বাঁধে না, দুটি অযুগ্ম ইলেকট্রন থাকে",
+       "en": "Cl- is weak; 3d electrons stay unpaired (two unpaired)"
+      },
+      {
+       "id": "b",
+       "bn": "কোনো অযুগ্ম ইলেকট্রন নেই",
+       "en": "No unpaired electrons"
+      },
+      {
+       "id": "c",
+       "bn": "dsp2 সংকরায়নের জন্য",
+       "en": "Due to dsp2 hybridisation"
+      },
+      {
+       "id": "d",
+       "bn": "এতে আয়নিক বন্ধন আছে",
+       "en": "It has ionic bonds"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুর্বল লিগ্যান্ডে 3d-তে দুটি অযুগ্ম ইলেকট্রন থাকে, সংকরায়ন sp3।",
+     "explanation_en": "With a weak ligand two 3d electrons remain unpaired; sp3.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন যৌগে সমযোজী, সন্নিবেশ ও আয়নিক—তিন প্রকার বন্ধনই আছে?",
+     "question_en": "Which compound has covalent, coordinate and ionic bonds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH4Cl",
+       "en": "NH4Cl"
+      },
+      {
+       "id": "b",
+       "bn": "O3",
+       "en": "O3"
+      },
+      {
+       "id": "c",
+       "bn": "CO",
+       "en": "CO"
+      },
+      {
+       "id": "d",
+       "bn": "NH3·BF3",
+       "en": "NH3·BF3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH4+ এ সমযোজী ও সন্নিবেশ এবং NH4+ ও Cl- এর মধ্যে আয়নিক বন্ধন।",
+     "explanation_en": "NH4+ has covalent+coordinate bonds and ionic bonding to Cl-.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "[Co(NH3)6]Cl3 এ মোট কয়টি N–H সমযোজী বন্ধন আছে?",
+     "question_en": "How many N-H covalent bonds are in [Co(NH3)6]Cl3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "b",
+       "bn": "12",
+       "en": "12"
+      },
+      {
+       "id": "c",
+       "bn": "18",
+       "en": "18"
+      },
+      {
+       "id": "d",
+       "bn": "24",
+       "en": "24"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "6 × 3 = 18।",
+     "explanation_en": "6 NH3 × 3 N-H = 18.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.19",
+   "title_bn": "সমযোজী বন্ধন ও সন্নিবেশ সমযোজী বন্ধনের তুলনা",
+   "title_en": "Covalent vs Co-ordinate Covalent Bond",
+   "notes_bn": "সমযোজী বন্ধনে দুই পরমাণুই ইলেকট্রন দেয়; সন্নিবেশ বন্ধনে কেবল দাতা দেয়।\nNH4+ এ তিনটি N–H সমযোজী ও একটি সন্নিবেশ বন্ধন; কিন্তু চারটি বন্ধন সমতুল্য, ∠H–N–H = 109.5° (CH4-এর মতো), আকৃতি চতুস্তলকীয়।\nসাদৃশ্য: উভয়ে ইলেকট্রন জোড় দুই পরমাণু সমভাবে ব্যবহার করে; উভয় বন্ধনই নির্দিষ্ট দিকে গঠিত (দিকধর্মী)।\nবৈসাদৃশ্য: সমযোজী বন্ধন পোলার বা অপোলার হতে পারে; সন্নিবেশ বন্ধন সবসময় পোলার (দাতা ধনাত্মক, গ্রহীতা ঋণাত্মক)।\nO3: দাতা O ধনাত্মক ও গ্রহীতা O ঋণাত্মক হওয়ায় O3 পোলার।\nযৌগ ও আয়নে সমযোজী-সন্নিবেশ উভয়: Al2Cl6, NH3, BF3, H3O+, CO, O3, SO4^2-, NH4+, N2O4, SO2।",
+   "notes_en": "Covalent bond: both atoms supply electrons; coordinate bond: only the donor does.\nNH4+ has three N-H covalent and one coordinate bond, yet all four are identical, angle 109.5° (like CH4), tetrahedral.\nSimilarities: pair shared equally by both atoms; both are directional.\nDifferences: covalent bonds can be polar or non-polar; a coordinate bond is always polar (donor positive, acceptor negative).\nO3: donor O positive, acceptor O negative, so O3 is polar.\nSpecies with both bond types: Al2Cl6, NH3, BF3, H3O+, CO, O3, SO4^2-, NH4+, N2O4, SO2.",
+   "mcqs": [
+    {
+     "question_bn": "NH4+ এ H–N–H বন্ধন কোণ কত?",
+     "question_en": "What is the H-N-H angle in NH4+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "104.5°",
+       "en": "104.5°"
+      },
+      {
+       "id": "b",
+       "bn": "107°",
+       "en": "107°"
+      },
+      {
+       "id": "c",
+       "bn": "109.5°",
+       "en": "109.5°"
+      },
+      {
+       "id": "d",
+       "bn": "120°",
+       "en": "120°"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "NH4+ চতুস্তলকীয়, CH4-এর মতো 109.5°।",
+     "explanation_en": "NH4+ is tetrahedral like CH4: 109.5°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সন্নিবেশ বন্ধন সবসময়—",
+     "question_en": "A coordinate bond is always—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অপোলার",
+       "en": "Non-polar"
+      },
+      {
+       "id": "b",
+       "bn": "পোলার",
+       "en": "Polar"
+      },
+      {
+       "id": "c",
+       "bn": "আয়নিক",
+       "en": "Ionic"
+      },
+      {
+       "id": "d",
+       "bn": "ধাতব",
+       "en": "Metallic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দাতা ধনাত্মক ও গ্রহীতা ঋণাত্মক আধানযুক্ত হয়।",
+     "explanation_en": "Donor gets positive and acceptor negative charge.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সমযোজী ও সন্নিবেশ বন্ধনের একটি সাদৃশ্য কোনটি?",
+     "question_en": "A similarity between covalent and coordinate bonds is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উভয়ে দুই পরমাণু থেকে ইলেকট্রন আসে",
+       "en": "Electrons come from both atoms"
+      },
+      {
+       "id": "b",
+       "bn": "উভয়ে সবসময় পোলার",
+       "en": "Both always polar"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ে ইলেকট্রন জোড় দুই পরমাণু সমভাবে ব্যবহার করে",
+       "en": "Both share the pair equally by the two atoms"
+      },
+      {
+       "id": "d",
+       "bn": "উভয়ে আয়ন গঠন করে",
+       "en": "Both form ions"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "উভয় বন্ধনে জোড়টি দুই পরমাণুর মধ্যে সমভাবে ব্যবহৃত হয়।",
+     "explanation_en": "In both bonds the pair is used equally by both atoms.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগে আয়নিক, সমযোজী ও সন্নিবেশ—তিন প্রকার বন্ধন আছে?",
+     "question_en": "Which has ionic, covalent and coordinate bonds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "BF3",
+       "en": "BF3"
+      },
+      {
+       "id": "b",
+       "bn": "K4[Fe(CN)6]",
+       "en": "K4[Fe(CN)6]"
+      },
+      {
+       "id": "c",
+       "bn": "O3",
+       "en": "O3"
+      },
+      {
+       "id": "d",
+       "bn": "N2O4",
+       "en": "N2O4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "K+ ও জটিল আয়নের মধ্যে আয়নিক; জটিল আয়নে সমযোজী ও সন্নিবেশ।",
+     "explanation_en": "Ionic between K+ and the complex; covalent+coordinate inside the complex.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "O3 অণু পোলার কেন?",
+     "question_en": "Why is O3 polar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সন্নিবেশ বন্ধনে দাতা O ধনাত্মক ও গ্রহীতা O ঋণাত্মক আধানযুক্ত হয়",
+       "en": "In the coordinate bond donor O is positive and acceptor O negative"
+      },
+      {
+       "id": "b",
+       "bn": "সব O পরমাণুর তড়িৎ ঋণাত্মকতা ভিন্ন",
+       "en": "O atoms have different electronegativity"
+      },
+      {
+       "id": "c",
+       "bn": "এতে আয়নিক বন্ধন আছে",
+       "en": "It has ionic bonds"
+      },
+      {
+       "id": "d",
+       "bn": "এটি রৈখিক",
+       "en": "It is linear"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সন্নিবেশ বন্ধন পোলার হওয়ায় অণুটিও পোলার।",
+     "explanation_en": "The coordinate bond is polar, hence the molecule is polar.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "NH4+ এর চারটি N–H বন্ধনের মধ্যে কোনো পার্থক্য থাকে না কেন?",
+     "question_en": "Why are the four N-H bonds in NH4+ indistinguishable?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চতুর্থ বন্ধনে আধান প্রশমিত হয় এবং চারটি sp3 বন্ধন সমতুল্য হয়ে যায়",
+       "en": "Charges balance and the four sp3 bonds become equivalent"
+      },
+      {
+       "id": "b",
+       "bn": "তিনটি বন্ধন আয়নিক",
+       "en": "Three bonds are ionic"
+      },
+      {
+       "id": "c",
+       "bn": "চতুর্থ বন্ধন দুর্বল",
+       "en": "The fourth is weaker"
+      },
+      {
+       "id": "d",
+       "bn": "N-এর সংকরায়ন sp2",
+       "en": "N is sp2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সংকরায়িত sp3 অরবিটাল সমতুল্য, আধান প্রশমিত হওয়ায় বন্ধন চারটি অভিন্ন।",
+     "explanation_en": "The sp3 orbitals are equivalent and charge is neutralised, so bonds are identical.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.20",
+   "title_bn": "পোলারিটি ও পোলারায়ন",
+   "title_en": "Polarity and Polarisation",
+   "notes_bn": "ভিন্ন তড়িৎ ঋণাত্মকতার দুই পরমাণুর বন্ধনে ইলেকট্রন মেঘ বেশি ঋণাত্মক পরমাণুর দিকে সরে যায়; এক প্রান্তে δ+ ও অন্য প্রান্তে δ- হয়, একে ডাইপোল বলে। যেমন HF, HCl, H2O পোলার অণু।\nক্যাটায়ন কর্তৃক অ্যানায়নের ইলেকট্রন মেঘের বিকৃতিকে পোলারায়ন বলে; ক্যাটায়নের এ ক্ষমতা পোলারায়ন ক্ষমতা।\nপোলারায়ন বাড়লে আয়নিক ধর্ম কমে ও সমযোজী ধর্ম বাড়ে।\nআয়নের আকার: ক্যাটায়ন যত ছোট ও অ্যানায়ন যত বড়, পোলারায়ন তত বেশি। LiCl > NaCl; LiI > LiCl (সমযোজী প্রকৃতি)।\nআয়নের আধান: আধান বেশি হলে পোলারায়ন বেশি; AlCl3 > MgCl2। ব্যাসার্ধ: Na+ 0.102 nm, Mg2+ 0.072 nm, Al3+ 0.054 nm।\nসর্বশেষ কক্ষে ইলেকট্রন সংখ্যা: 18 ইলেকট্রনযুক্ত ক্যাটায়নের (Cu+) পোলারায়ন 8 ইলেকট্রনযুক্ত (Na+) অপেক্ষা বেশি; CuCl এর সমযোজী ধর্ম NaCl অপেক্ষা বেশি।",
+   "notes_en": "In a bond between atoms of different electronegativity the electron cloud shifts toward the more electronegative atom, giving a dipole (delta+ / delta-). HF, HCl, H2O are polar.\nPolarisation is the distortion of an anion's electron cloud by a cation; the cation's ability is its polarising power.\nMore polarisation means less ionic and more covalent character.\nSize: smaller cation and larger anion give more polarisation. LiCl > NaCl; LiI > LiCl in covalent character.\nCharge: higher charge gives more polarisation; AlCl3 > MgCl2. Radii: Na+ 0.102, Mg2+ 0.072, Al3+ 0.054 nm.\nOuter shell: an 18-electron cation (Cu+) polarises more than an 8-electron one (Na+); CuCl is more covalent than NaCl.",
+   "mcqs": [
+    {
+     "question_bn": "পোলারায়ন বলতে বোঝায়—",
+     "question_en": "Polarisation means—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যানায়নের ইলেকট্রন মেঘের ক্যাটায়ন কর্তৃক বিকৃতি",
+       "en": "Distortion of the anion cloud by the cation"
+      },
+      {
+       "id": "b",
+       "bn": "পরমাণু থেকে ইলেকট্রনের সম্পূর্ণ অপসারণ",
+       "en": "Complete removal of an electron"
+      },
+      {
+       "id": "c",
+       "bn": "নিউক্লিয়াসের বিভাজন",
+       "en": "Splitting of a nucleus"
+      },
+      {
+       "id": "d",
+       "bn": "বন্ধন ভেঙে যাওয়া",
+       "en": "Bond breaking"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সংজ্ঞা অনুযায়ী ক্যাটায়ন অ্যানায়নের ইলেকট্রন মেঘ বিকৃত করে।",
+     "explanation_en": "The cation distorts the anion's electron cloud.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "HF অণু পোলার কেন?",
+     "question_en": "Why is HF polar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H ও F-এর তড়িৎ ঋণাত্মকতার পার্থক্য বেশি",
+       "en": "Large electronegativity difference between H and F"
+      },
+      {
+       "id": "b",
+       "bn": "উভয় পরমাণু একই",
+       "en": "Same atoms"
+      },
+      {
+       "id": "c",
+       "bn": "এতে আয়নিক ধাতু আছে",
+       "en": "It contains a metal"
+      },
+      {
+       "id": "d",
+       "bn": "এটি গ্যাসীয়",
+       "en": "It is a gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইলেকট্রন মেঘ F-এর দিকে সরে δ+ ও δ- সৃষ্টি করে।",
+     "explanation_en": "The cloud shifts toward F giving delta+ and delta-.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "LiCl ও NaCl-এর মধ্যে কোনটির সমযোজী প্রকৃতি বেশি?",
+     "question_en": "Which has more covalent character, LiCl or NaCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "b",
+       "bn": "LiCl",
+       "en": "LiCl"
+      },
+      {
+       "id": "c",
+       "bn": "সমান",
+       "en": "Equal"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "Neither"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Li+ ক্ষুদ্রতর, তাই Cl- কে বেশি পোলারিত করে।",
+     "explanation_en": "Smaller Li+ polarises Cl- more.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "AlCl3 এর সমযোজী ধর্ম MgCl2 অপেক্ষা বেশি কেন?",
+     "question_en": "Why is AlCl3 more covalent than MgCl2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Al3+ এর আধান বেশি ও আকার ছোট (0.054 nm)",
+       "en": "Al3+ has higher charge and smaller size (0.054 nm)"
+      },
+      {
+       "id": "b",
+       "bn": "Al3+ বড়",
+       "en": "Al3+ is larger"
+      },
+      {
+       "id": "c",
+       "bn": "Cl- ছোট",
+       "en": "Cl- is smaller"
+      },
+      {
+       "id": "d",
+       "bn": "Mg2+ এর আধান বেশি",
+       "en": "Mg2+ has higher charge"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আধান ঘনত্ব বেশি হওয়ায় পোলারায়ন ক্ষমতা বেশি।",
+     "explanation_en": "Higher charge density gives higher polarising power.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CuCl ও NaCl-এ ক্যাটায়ন Cu+ ও Na+; কোনটি বেশি সমযোজী এবং কারণ?",
+     "question_en": "Which of CuCl and NaCl is more covalent and why?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl, কারণ Na+ এ 8 ইলেকট্রন",
+       "en": "NaCl, Na+ has 8 electrons"
+      },
+      {
+       "id": "b",
+       "bn": "CuCl, কারণ Cu+ এর সর্বশেষ কক্ষে 18 ইলেকট্রন",
+       "en": "CuCl, Cu+ has 18 electrons in its outer shell"
+      },
+      {
+       "id": "c",
+       "bn": "দুটিই সমান",
+       "en": "Both equal"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl, কারণ Na+ বড়",
+       "en": "NaCl, Na+ is larger"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "18 ইলেকট্রন কাঠামো কার্যকর নিউক্লিয় আধান বাড়ায়, পোলারায়ন বেশি।",
+     "explanation_en": "18-electron shell raises effective nuclear charge and polarisation.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "LiI এর সমযোজী প্রকৃতি LiCl অপেক্ষা বেশি কেন?",
+     "question_en": "Why is LiI more covalent than LiCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "I- ছোট",
+       "en": "I- is smaller"
+      },
+      {
+       "id": "b",
+       "bn": "I- বড় হওয়ায় সহজে পোলারিত হয়",
+       "en": "Larger I- is more easily polarised"
+      },
+      {
+       "id": "c",
+       "bn": "Li+ বদলে যায়",
+       "en": "Li+ changes"
+      },
+      {
+       "id": "d",
+       "bn": "I- এর আধান বেশি",
+       "en": "I- has higher charge"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "একই ক্যাটায়নে বড় অ্যানায়নের ইলেকট্রন মেঘ বেশি বিকৃত হয়।",
+     "explanation_en": "With the same cation, a larger anion is distorted more.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.21",
+   "title_bn": "সমযোজী যৌগের আয়নিক বৈশিষ্ট্য",
+   "title_en": "Ionic Character of Covalent Compounds",
+   "notes_bn": "বন্ধনে আবদ্ধ দুই পরমাণুর তড়িৎ ঋণাত্মকতার পার্থক্য যত বেশি, আয়নিক বৈশিষ্ট্য তত বেশি।\nপার্থক্য শূন্য হলে বিশুদ্ধ সমযোজী (H2, Cl2, N2); পার্থক্য 0.5-এর কম হলে প্রায় অপোলার (CH4: 2.5 - 2.1 = 0.4)।\n0.5 থেকে 1.7-এর মধ্যে হলে পোলার সমযোজী (HCl: 3.0 - 2.1 = 0.9; H2O: 3.5 - 2.1 = 1.4)।\nপার্থক্য 1.7 হলে 50% আয়নিক ও 50% সমযোজী; 1.7-এর বেশি হলে মূলত আয়নিক।\nবইয়ের সারণি: পার্থক্য 0.1, 0.2, 0.6, 1.1, 1.7, 2.3, 3 হলে আয়নিক চরিত্র যথাক্রমে 0.5, 1, 10, 25, 50, 75, 90%।\nহাইড্রোজেন হ্যালাইডের ডাইপোল মোমেন্টের ক্রম: HF > HCl > HBr > HI।",
+   "notes_en": "The greater the electronegativity difference, the greater the ionic character.\nDifference 0: pure covalent (H2, Cl2, N2); below 0.5: nearly non-polar (CH4: 2.5 - 2.1 = 0.4).\n0.5 to 1.7: polar covalent (HCl: 3.0 - 2.1 = 0.9; H2O: 3.5 - 2.1 = 1.4).\nDifference 1.7: 50% ionic, 50% covalent; above 1.7 mainly ionic.\nBook table: difference 0.1, 0.2, 0.6, 1.1, 1.7, 2.3, 3 gives 0.5, 1, 10, 25, 50, 75, 90% ionic character.\nDipole moment order of hydrogen halides: HF > HCl > HBr > HI.",
+   "mcqs": [
+    {
+     "question_bn": "H2 অণুতে তড়িৎ ঋণাত্মকতার পার্থক্য কত?",
+     "question_en": "What is the electronegativity difference in H2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "b",
+       "bn": "0.5",
+       "en": "0.5"
+      },
+      {
+       "id": "c",
+       "bn": "1.7",
+       "en": "1.7"
+      },
+      {
+       "id": "d",
+       "bn": "3",
+       "en": "3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একই মৌলের পরমাণু, তাই 0; বিশুদ্ধ সমযোজী।",
+     "explanation_en": "Same element, so 0; pure covalent.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "HCl-এ H (2.1) ও Cl (3.0) এর পার্থক্য কত এবং অণুটি কী ধরনের?",
+     "question_en": "What is the H-Cl difference (2.1, 3.0) and the molecule type?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.9, পোলার",
+       "en": "0.9, polar"
+      },
+      {
+       "id": "b",
+       "bn": "0.4, অপোলার",
+       "en": "0.4, non-polar"
+      },
+      {
+       "id": "c",
+       "bn": "1.9, আয়নিক",
+       "en": "1.9, ionic"
+      },
+      {
+       "id": "d",
+       "bn": "0, অপোলার",
+       "en": "0, non-polar"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "3.0 - 2.1 = 0.9; 0.5 ও 1.7-এর মধ্যে বলে পোলার।",
+     "explanation_en": "3.0 - 2.1 = 0.9, between 0.5 and 1.7: polar.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "H2O-তে O (3.5) ও H (2.1) এর তড়িৎ ঋণাত্মকতার পার্থক্য কত?",
+     "question_en": "H2O: O = 3.5, H = 2.1. What is the difference?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.9",
+       "en": "0.9"
+      },
+      {
+       "id": "b",
+       "bn": "1.4",
+       "en": "1.4"
+      },
+      {
+       "id": "c",
+       "bn": "2.1",
+       "en": "2.1"
+      },
+      {
+       "id": "d",
+       "bn": "5.6",
+       "en": "5.6"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "3.5 - 2.1 = 1.4।",
+     "explanation_en": "3.5 - 2.1 = 1.4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কত তড়িৎ ঋণাত্মকতার পার্থক্যে বন্ধন 50% আয়নিক?",
+     "question_en": "At what difference is a bond 50% ionic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.5",
+       "en": "0.5"
+      },
+      {
+       "id": "b",
+       "bn": "1.1",
+       "en": "1.1"
+      },
+      {
+       "id": "c",
+       "bn": "1.7",
+       "en": "1.7"
+      },
+      {
+       "id": "d",
+       "bn": "3.0",
+       "en": "3.0"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বই অনুযায়ী 1.7 এ 50% আয়নিক ও 50% সমযোজী।",
+     "explanation_en": "The book gives 1.7 as 50% ionic.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH4-এ C (2.5) ও H (2.1) এর পার্থক্য বিবেচনায় C–H বন্ধন কেমন?",
+     "question_en": "With C 2.5 and H 2.1, the C-H bond is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অত্যন্ত পোলার",
+       "en": "Highly polar"
+      },
+      {
+       "id": "b",
+       "bn": "প্রায় অপোলার (পার্থক্য 0.4 < 0.5)",
+       "en": "Almost non-polar (0.4 < 0.5)"
+      },
+      {
+       "id": "c",
+       "bn": "আয়নিক",
+       "en": "Ionic"
+      },
+      {
+       "id": "d",
+       "bn": "50% আয়নিক",
+       "en": "50% ionic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পার্থক্য 0.5-এর কম হলে মোটামুটি অপোলার।",
+     "explanation_en": "Below 0.5 the bond is roughly non-polar.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হাইড্রোজেন হ্যালাইডের ডাইপোল মোমেন্টের সঠিক ক্রম কোনটি?",
+     "question_en": "Correct dipole moment order of hydrogen halides?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HI > HBr > HCl > HF",
+       "en": "HI > HBr > HCl > HF"
+      },
+      {
+       "id": "b",
+       "bn": "HF > HCl > HBr > HI",
+       "en": "HF > HCl > HBr > HI"
+      },
+      {
+       "id": "c",
+       "bn": "HCl > HF > HI > HBr",
+       "en": "HCl > HF > HI > HBr"
+      },
+      {
+       "id": "d",
+       "bn": "HF > HI > HCl > HBr",
+       "en": "HF > HI > HCl > HBr"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "F সবচেয়ে তড়িৎ ঋণাত্মক, তাই HF সবচেয়ে পোলার।",
+     "explanation_en": "F is most electronegative so HF is most polar.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "তড়িৎ ঋণাত্মকতার পার্থক্য 2.3 হলে বইয়ের সারণি অনুযায়ী আয়নিক চরিত্র কত?",
+     "question_en": "Per the book table, a difference of 2.3 gives what ionic character?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "25%",
+       "en": "25%"
+      },
+      {
+       "id": "b",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "c",
+       "bn": "75%",
+       "en": "75%"
+      },
+      {
+       "id": "d",
+       "bn": "90%",
+       "en": "90%"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সারণিতে 2.3 এর বিপরীতে 75%।",
+     "explanation_en": "The table lists 75% for 2.3.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.22",
+   "title_bn": "আয়নিক যৌগে সমযোজী বৈশিষ্ট্য",
+   "title_en": "Covalent Character in Ionic Compounds",
+   "notes_bn": "ফাজান (1923) কিছু শর্ত দিয়ে আয়নিক বন্ধনে সমযোজী বৈশিষ্ট্যের উপস্থিতি ব্যাখ্যা করেন।\nআয়নের চার্জ ঘনত্ব = চার্জ সংখ্যা / আয়নের আকার বা আয়তন। Li+ এর চার্জ ঘনত্ব Na+ থেকে বেশি, Na+ এর K+ থেকে বেশি।\nআয়ন বিকৃতি: ক্যাটায়ন অ্যানায়নের ইলেকট্রন মেঘকে নিজের দিকে টানে ও নিউক্লিয়াসকে বিকর্ষণ করে; ফলে ইলেকট্রন মেঘ দুই আয়নের মধ্যবর্তী অঞ্চলে ছড়িয়ে পড়ে, সমযোজী ধর্ম আসে।\nক্যাটায়নের পোলারায়ন ক্ষমতা φ = ক্যাটায়নের আধান / ক্যাটায়নের ব্যাসার্ধ (আয়নিক বিভব)। φ বড় হলে সমযোজী প্রকৃতি বেশি।\nতৃতীয় পর্যায়: φ(Na+) < φ(Mg2+) < φ(Al3+); সমযোজী প্রকৃতি AlCl3 > MgCl2 > NaCl।\nগ্রুপ-1: φ(Li+) > φ(Na+) > φ(K+); সমযোজী প্রকৃতি LiCl > NaCl > KCl।",
+   "notes_en": "Fajan (1923) proposed conditions explaining covalent character in ionic bonds.\nCharge density = charge number / ion size (or volume). Li+ has higher charge density than Na+, and Na+ higher than K+.\nDistortion: the cation attracts the anion's electron cloud and repels its nucleus, so the cloud spreads into the region between the ions giving covalent character.\nPolarising power phi = cation charge / cation radius (ionic potential). Larger phi means more covalent character.\nPeriod 3: phi(Na+) < phi(Mg2+) < phi(Al3+); covalent character AlCl3 > MgCl2 > NaCl.\nGroup 1: phi(Li+) > phi(Na+) > phi(K+); covalent character LiCl > NaCl > KCl.",
+   "mcqs": [
+    {
+     "question_bn": "আয়নিক বন্ধনে সমযোজী বৈশিষ্ট্য ব্যাখ্যার শর্ত কে প্রস্তাব করেন?",
+     "question_en": "Who proposed the rules for covalent character in ionic bonds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ভ্যান্ডার ওয়ালস",
+       "en": "Van der Waals"
+      },
+      {
+       "id": "b",
+       "bn": "ফাজান",
+       "en": "Fajan"
+      },
+      {
+       "id": "c",
+       "bn": "সিজউইক",
+       "en": "Sidgwick"
+      },
+      {
+       "id": "d",
+       "bn": "ম্যাক্সওয়েল",
+       "en": "Maxwell"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফাজান 1923 সালে শর্ত প্রস্তাব করেন।",
+     "explanation_en": "Fajan did so in 1923.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "আয়নের চার্জ ঘনত্ব কীভাবে নির্ণয় করা হয়?",
+     "question_en": "How is charge density found?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চার্জ সংখ্যা × আকার",
+       "en": "Charge x size"
+      },
+      {
+       "id": "b",
+       "bn": "চার্জ সংখ্যা ÷ আয়নের আকার",
+       "en": "Charge number / ion size"
+      },
+      {
+       "id": "c",
+       "bn": "আকার ÷ চার্জ",
+       "en": "Size / charge"
+      },
+      {
+       "id": "d",
+       "bn": "ভর ÷ আধান",
+       "en": "Mass / charge"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের সংজ্ঞা অনুযায়ী চার্জ সংখ্যাকে আকার দিয়ে ভাগ করা হয়।",
+     "explanation_en": "Charge number divided by size.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Li+ ও Na+ এর মধ্যে কোনটির চার্জ ঘনত্ব বেশি?",
+     "question_en": "Which has higher charge density, Li+ or Na+?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na+",
+       "en": "Na+"
+      },
+      {
+       "id": "b",
+       "bn": "Li+",
+       "en": "Li+"
+      },
+      {
+       "id": "c",
+       "bn": "সমান",
+       "en": "Equal"
+      },
+      {
+       "id": "d",
+       "bn": "নির্ণয় করা যায় না",
+       "en": "Cannot tell"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুটির আধান +1, কিন্তু Li+ ক্ষুদ্রতর।",
+     "explanation_en": "Same +1 charge but Li+ is smaller.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্যাটায়নের পোলারায়ন ক্ষমতা φ এর সূত্র কোনটি?",
+     "question_en": "Formula for polarising power phi?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "আধান × ব্যাসার্ধ",
+       "en": "charge x radius"
+      },
+      {
+       "id": "b",
+       "bn": "আধান ÷ ব্যাসার্ধ",
+       "en": "charge / radius"
+      },
+      {
+       "id": "c",
+       "bn": "ব্যাসার্ধ ÷ আধান",
+       "en": "radius / charge"
+      },
+      {
+       "id": "d",
+       "bn": "আধান + ব্যাসার্ধ",
+       "en": "charge + radius"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "φ = আধান / ক্যাটায়নের ব্যাসার্ধ।",
+     "explanation_en": "phi = charge / cation radius.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "তৃতীয় পর্যায়ের ক্যাটায়নগুলোর φ এর সঠিক ক্রম?",
+     "question_en": "Correct order of phi for period-3 cations?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na+ > Mg2+ > Al3+",
+       "en": "Na+ > Mg2+ > Al3+"
+      },
+      {
+       "id": "b",
+       "bn": "Al3+ > Mg2+ > Na+",
+       "en": "Al3+ > Mg2+ > Na+"
+      },
+      {
+       "id": "c",
+       "bn": "Mg2+ > Na+ > Al3+",
+       "en": "Mg2+ > Na+ > Al3+"
+      },
+      {
+       "id": "d",
+       "bn": "Na+ > Al3+ > Mg2+",
+       "en": "Na+ > Al3+ > Mg2+"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আধান বাড়ে ও আকার কমে, তাই Al3+ সর্বোচ্চ।",
+     "explanation_en": "Charge rises and size falls so Al3+ is highest.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "সমযোজী প্রকৃতির সঠিক ক্রম কোনটি?",
+     "question_en": "Correct order of covalent character?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl > MgCl2 > AlCl3",
+       "en": "NaCl > MgCl2 > AlCl3"
+      },
+      {
+       "id": "b",
+       "bn": "AlCl3 > MgCl2 > NaCl",
+       "en": "AlCl3 > MgCl2 > NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "MgCl2 > AlCl3 > NaCl",
+       "en": "MgCl2 > AlCl3 > NaCl"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl > AlCl3 > MgCl2",
+       "en": "NaCl > AlCl3 > MgCl2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "φ বাড়লে সমযোজী প্রকৃতি বাড়ে।",
+     "explanation_en": "Higher phi gives more covalent character.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.23",
+   "title_bn": "ফাজানের নীতি",
+   "title_en": "Fajan's Principles",
+   "notes_bn": "ক্যাটায়ন দ্বারা অ্যানায়নের পোলারায়ন যত বেশি, বন্ধন আদর্শ আয়নিক থেকে তত বিচ্যুত হয়ে সমযোজী বৈশিষ্ট্য পায়।\nনিয়ম: (1) ক্যাটায়নের আকার যত ছোট, (2) অ্যানায়নের আকার যত বড়, (3) আধানের পরিমাণ যত বেশি, (4) ক্যাটায়নে d ও f অরবিটালে ইলেকট্রন থাকলে পোলারায়ন বাড়ে।\nআকার: LiCl > NaCl > KCl > RbCl > CsCl (সমযোজী); BeCl2 গলনাঙ্ক 405°C, MgCl2 712, CaCl2 772, SrCl2 872, BaCl2 960°C। অ্যানায়ন: AgI > AgBr > AgCl > AgF; CaF2 1392°C, CaCl2 772, CaBr2 730, CaI2 575।\nআধান: AlCl3 > MgCl2 > NaCl; PbCl4 > PbCl2 (সমযোজী); SnCl2 আয়নিক, SnCl4 সমযোজী; FeCl3 অধিক সমযোজী (গলনাঙ্ক 306°C), FeCl2 (677°C)।\nd-অরবিটাল: NaCl 801°C বনাম Cu2Cl2 442°C; KCl 776°C বনাম AgCl 455°C।\nঅন্যান্য: PbCl4 আছে, PbI4 নেই; AgI হলুদ, PbI2 সোনালী হলুদ, PbCl2 সাদা; কার্বনেট বিয়োজন BeCO3 > MgCO3 > CaCO3 > SrCO3 > BaCO3 (সহজতা); অক্সাইড: Na2O, MgO ক্ষারক, Al2O3 উভধর্মী, SiO2 অম্লধর্মী।",
+   "notes_en": "The more a cation polarises an anion, the more the bond departs from ideal ionic and gains covalent character.\nRules: (1) smaller cation, (2) larger anion, (3) higher charges, (4) d/f electrons in the cation increase polarisation.\nSize: covalent LiCl > NaCl > KCl > RbCl > CsCl; melting points BeCl2 405, MgCl2 712, CaCl2 772, SrCl2 872, BaCl2 960 C. Anion: AgI > AgBr > AgCl > AgF; CaF2 1392, CaCl2 772, CaBr2 730, CaI2 575 C.\nCharge: AlCl3 > MgCl2 > NaCl; PbCl4 more covalent than PbCl2; SnCl2 ionic, SnCl4 covalent; FeCl3 more covalent (m.p. 306 C) than FeCl2 (677 C).\nd orbitals: NaCl 801 C vs Cu2Cl2 442 C; KCl 776 vs AgCl 455 C.\nOthers: PbCl4 exists, PbI4 does not; AgI yellow, PbI2 golden yellow, PbCl2 white; carbonate decomposes most easily BeCO3 > ... > BaCO3; Na2O, MgO basic, Al2O3 amphoteric, SiO2 acidic.",
+   "mcqs": [
+    {
+     "question_bn": "ফাজানের নীতি অনুযায়ী কোন ক্যাটায়ন অ্যানায়নকে বেশি পোলারিত করে?",
+     "question_en": "Per Fajan, which cation polarises an anion more?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বড় আকারের",
+       "en": "Large"
+      },
+      {
+       "id": "b",
+       "bn": "ছোট আকারের",
+       "en": "Small"
+      },
+      {
+       "id": "c",
+       "bn": "আধান শূন্য",
+       "en": "Zero charge"
+      },
+      {
+       "id": "d",
+       "bn": "আকার অপ্রাসঙ্গিক",
+       "en": "Size irrelevant"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্যাটায়ন ছোট হলে চার্জ ঘনত্ব বেশি হয়।",
+     "explanation_en": "A small cation has higher charge density.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন যৌগটির সমযোজী প্রকৃতি সর্বাধিক?",
+     "question_en": "Which has the greatest covalent character?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "LiCl",
+       "en": "LiCl"
+      },
+      {
+       "id": "b",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "KCl",
+       "en": "KCl"
+      },
+      {
+       "id": "d",
+       "bn": "CsCl",
+       "en": "CsCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গ্রুপে নিচে ক্যাটায়ন বড় হয়; LiCl সর্বাধিক সমযোজী।",
+     "explanation_en": "Cations grow down the group; LiCl is most covalent.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সিলভার হ্যালাইডগুলোর সমযোজী ধর্মের সঠিক ক্রম?",
+     "question_en": "Correct covalent order of silver halides?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "AgF > AgCl > AgBr > AgI",
+       "en": "AgF > AgCl > AgBr > AgI"
+      },
+      {
+       "id": "b",
+       "bn": "AgI > AgBr > AgCl > AgF",
+       "en": "AgI > AgBr > AgCl > AgF"
+      },
+      {
+       "id": "c",
+       "bn": "AgCl > AgF > AgI > AgBr",
+       "en": "AgCl > AgF > AgI > AgBr"
+      },
+      {
+       "id": "d",
+       "bn": "AgBr > AgI > AgF > AgCl",
+       "en": "AgBr > AgI > AgF > AgCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অ্যানায়ন যত বড় (I- সর্বোচ্চ), পোলারায়ন তত বেশি।",
+     "explanation_en": "The larger the anion (I-), the more polarisation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CaF2, CaCl2, CaBr2, CaI2 এর মধ্যে কোনটির গলনাঙ্ক সর্বনিম্ন?",
+     "question_en": "Lowest melting point among CaF2, CaCl2, CaBr2, CaI2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaF2 (1392°C)",
+       "en": "CaF2 (1392 C)"
+      },
+      {
+       "id": "b",
+       "bn": "CaCl2 (772°C)",
+       "en": "CaCl2 (772 C)"
+      },
+      {
+       "id": "c",
+       "bn": "CaBr2 (730°C)",
+       "en": "CaBr2 (730 C)"
+      },
+      {
+       "id": "d",
+       "bn": "CaI2 (575°C)",
+       "en": "CaI2 (575 C)"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "I- সবচেয়ে বড়, সবচেয়ে সমযোজী, তাই গলনাঙ্ক সর্বনিম্ন।",
+     "explanation_en": "I- is largest, most covalent, lowest m.p.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SnCl2 আয়নিক হলেও SnCl4 সমযোজী কেন?",
+     "question_en": "Why is SnCl4 covalent while SnCl2 is ionic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Sn4+ এর আধান বেশি, তাই পোলারায়ন ক্ষমতা বেশি",
+       "en": "Sn4+ has higher charge so greater polarising power"
+      },
+      {
+       "id": "b",
+       "bn": "Cl- বড় হয়ে যায়",
+       "en": "Cl- becomes larger"
+      },
+      {
+       "id": "c",
+       "bn": "Sn4+ বড়",
+       "en": "Sn4+ is bigger"
+      },
+      {
+       "id": "d",
+       "bn": "Sn2+ এ d ইলেকট্রন নেই",
+       "en": "Sn2+ has no d electrons"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "একই পরমাণুর ক্যাটায়নে আধান বাড়লে সমযোজী ধর্ম বাড়ে।",
+     "explanation_en": "Higher cationic charge increases covalent character.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "PbCl4 স্থায়ী কিন্তু PbI4 অস্তিত্বহীন কেন?",
+     "question_en": "Why does PbCl4 exist but PbI4 does not?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "I- আকারে বড়, Pb4+ I- কে এত বেশি পোলারিত করে যে I- জারিত হয়ে I2 হয় ও Pb4+ বিজারিত হয়ে Pb2+ হয়",
+       "en": "Large I- is so polarised by Pb4+ that it is oxidised to I2 and Pb4+ reduced to Pb2+"
+      },
+      {
+       "id": "b",
+       "bn": "Cl- বড়",
+       "en": "Cl- is larger"
+      },
+      {
+       "id": "c",
+       "bn": "Pb4+ আয়নিক",
+       "en": "Pb4+ is ionic"
+      },
+      {
+       "id": "d",
+       "bn": "PbI4 পানিতে দ্রবণীয়",
+       "en": "PbI4 dissolves"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2I- - 2e -> I2 এবং Pb4+ + 2e -> Pb2+।",
+     "explanation_en": "2I- - 2e -> I2; Pb4+ + 2e -> Pb2+.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "NaCl (801°C) এর গলনাঙ্ক Cu2Cl2 (442°C) অপেক্ষা বেশি কেন?",
+     "question_en": "Why does NaCl (801 C) melt higher than Cu2Cl2 (442 C)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cu+ এ d-অরবিটাল ইলেকট্রন (18 ইলেকট্রন) থাকায় পোলারায়ন বেশি, সমযোজী ধর্ম বেশি",
+       "en": "Cu+ with d electrons (18-electron shell) polarises more, more covalent"
+      },
+      {
+       "id": "b",
+       "bn": "Na+ ছোট",
+       "en": "Na+ is smaller"
+      },
+      {
+       "id": "c",
+       "bn": "Cl- আলাদা",
+       "en": "Cl- differs"
+      },
+      {
+       "id": "d",
+       "bn": "Cu+ বড় নয়",
+       "en": "Cu+ is not large"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "d ও f ইলেকট্রন আবরণ কম বলে পোলারায়ন বেশি।",
+     "explanation_en": "d electrons shield poorly so polarisation is higher.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন কার্বনেটটি সবচেয়ে সহজে (সর্বনিম্ন তাপমাত্রায়) বিয়োজিত হয়?",
+     "question_en": "Which carbonate decomposes most easily?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "BaCO3",
+       "en": "BaCO3"
+      },
+      {
+       "id": "b",
+       "bn": "SrCO3",
+       "en": "SrCO3"
+      },
+      {
+       "id": "c",
+       "bn": "CaCO3",
+       "en": "CaCO3"
+      },
+      {
+       "id": "d",
+       "bn": "BeCO3",
+       "en": "BeCO3"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "Be2+ সর্বাধিক পোলারায়ন করে; বিয়োজন তাপ: BeCO3 (100°C) থেকে BaCO3 (998°C)।",
+     "explanation_en": "Be2+ polarises most; 100 C for BeCO3 up to 998 C for BaCO3.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Na2O, MgO, Al2O3, SiO2 এর মধ্যে কোনটি উভধর্মী?",
+     "question_en": "Which of Na2O, MgO, Al2O3, SiO2 is amphoteric?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na2O",
+       "en": "Na2O"
+      },
+      {
+       "id": "b",
+       "bn": "MgO",
+       "en": "MgO"
+      },
+      {
+       "id": "c",
+       "bn": "Al2O3",
+       "en": "Al2O3"
+      },
+      {
+       "id": "d",
+       "bn": "SiO2",
+       "en": "SiO2"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বই অনুযায়ী Al2O3 উভধর্মী, SiO2 অম্লধর্মী।",
+     "explanation_en": "Per the book Al2O3 is amphoteric; SiO2 is acidic.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.24",
+   "title_bn": "লবণের বিভিন্ন ধর্মের উপর পোলারায়নের প্রভাব",
+   "title_en": "Effect of Polarisation on Properties of Salts",
+   "notes_bn": "পোলারায়ন বাড়লে সমযোজী ধর্ম বাড়ে, ফলে গলনাঙ্ক ও স্ফুটনাঙ্ক কমে। NaCl 801/1470°C, MgCl2 714/1412°C, AlCl3 140/178°C।\nপোলার দ্রাবকে (পানি) দ্রাব্যতা কমে। AgF দ্রবণীয়; AgCl, AgBr, AgI অদ্রবণীয়।\nবর্ণ: পোলারায়ন বাড়লে বর্ণ আসে। AgF, AgCl বর্ণহীন; AgBr হালকা হলুদ; AgI গাঢ় হলুদ; HgCl2 বর্ণহীন, HgI2 লাল; PbCl2 সাদা, PbI2 সোনালী হলুদ।\nতড়িৎ পরিবাহিতা: সমযোজী ধর্ম বাড়লে গলিত অবস্থায় পরিবাহিতা কমে (MgCl2 > BeCl2)।\nধাতব-অক্সিজেন বন্ধন: ক্যাটায়নের পোলারায়ন ক্ষমতা Si4+ > Al3+ > Mg2+ > Na+; Na2O, MgO শক্তিশালী ক্ষারক।\nধাতব কার্বনেটের স্থায়িত্ব পোলারায়ন বাড়লে কমে। অ্যানায়নের আধানে F- < O2- < N3- ক্রমে পোলারায়ন বাড়ে; NaF > Na2O > Na3N গলনাঙ্ক।",
+   "notes_en": "More polarisation means more covalent character, so lower melting and boiling points. NaCl 801/1470 C, MgCl2 714/1412 C, AlCl3 140/178 C.\nSolubility in polar solvents (water) falls. AgF dissolves; AgCl, AgBr, AgI do not.\nColour appears with polarisation: AgF, AgCl colourless; AgBr pale yellow; AgI deep yellow; HgCl2 colourless, HgI2 red; PbCl2 white, PbI2 golden yellow.\nConductivity of the melt falls as covalent character rises (MgCl2 > BeCl2).\nMetal-oxygen bond: polarising power Si4+ > Al3+ > Mg2+ > Na+; Na2O, MgO are strong bases.\nCarbonate stability falls with increasing polarisation. Anion charge: polarisation F- < O2- < N3-; melting NaF > Na2O > Na3N.",
+   "mcqs": [
+    {
+     "question_bn": "পোলারায়ন বৃদ্ধি পেলে গলনাঙ্ক ও স্ফুটনাঙ্ক—",
+     "question_en": "With more polarisation, melting and boiling points—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাড়ে",
+       "en": "Increase"
+      },
+      {
+       "id": "b",
+       "bn": "কমে",
+       "en": "Decrease"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত",
+       "en": "Unchanged"
+      },
+      {
+       "id": "d",
+       "bn": "প্রথমে বাড়ে পরে কমে",
+       "en": "Rise then fall"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সমযোজী ধর্ম বাড়ায় আন্তঃআণবিক আকর্ষণ কমে।",
+     "explanation_en": "Covalent character weakens attraction between particles.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি পানিতে দ্রবণীয়?",
+     "question_en": "Which dissolves in water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "AgF",
+       "en": "AgF"
+      },
+      {
+       "id": "b",
+       "bn": "AgCl",
+       "en": "AgCl"
+      },
+      {
+       "id": "c",
+       "bn": "AgBr",
+       "en": "AgBr"
+      },
+      {
+       "id": "d",
+       "bn": "AgI",
+       "en": "AgI"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "F- সবচেয়ে কম পোলারিত হয়।",
+     "explanation_en": "F- is least polarised.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NaCl, MgCl2, AlCl3 এর মধ্যে কোনটির স্ফুটনাঙ্ক সর্বনিম্ন?",
+     "question_en": "Lowest boiling point among NaCl, MgCl2, AlCl3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl (1470°C)",
+       "en": "NaCl (1470 C)"
+      },
+      {
+       "id": "b",
+       "bn": "MgCl2 (1412°C)",
+       "en": "MgCl2 (1412 C)"
+      },
+      {
+       "id": "c",
+       "bn": "AlCl3 (178°C)",
+       "en": "AlCl3 (178 C)"
+      },
+      {
+       "id": "d",
+       "bn": "সবার সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "AlCl3 সর্বাধিক সমযোজী।",
+     "explanation_en": "AlCl3 is most covalent.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HgCl2 বর্ণহীন হলেও HgI2 লাল কেন?",
+     "question_en": "Why is HgI2 red while HgCl2 is colourless?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "I- বড় হওয়ায় বেশি পোলারিত হয়",
+       "en": "Larger I- is polarised more"
+      },
+      {
+       "id": "b",
+       "bn": "Cl- বড়",
+       "en": "Cl- is larger"
+      },
+      {
+       "id": "c",
+       "bn": "Hg ভিন্ন",
+       "en": "Different Hg"
+      },
+      {
+       "id": "d",
+       "bn": "আয়নিক হওয়ায়",
+       "en": "It is ionic"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পোলারায়ন বাড়লে বর্ণ দেখা দেয়।",
+     "explanation_en": "More polarisation produces colour.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "LiCl, NaCl, KCl, RbCl, CsCl-এ ক্যাটায়নের আকার বাড়লে গলনাঙ্ক—",
+     "question_en": "Going LiCl to CsCl the melting point—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কমে",
+       "en": "Decreases"
+      },
+      {
+       "id": "b",
+       "bn": "বাড়ে",
+       "en": "Increases"
+      },
+      {
+       "id": "c",
+       "bn": "একই",
+       "en": "Same"
+      },
+      {
+       "id": "d",
+       "bn": "এলোমেলো",
+       "en": "Random"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের সারণি: LiCl < NaCl < KCl < RbCl < CsCl।",
+     "explanation_en": "Book table: LiCl < NaCl < KCl < RbCl < CsCl.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NaF, Na2O, Na3N এর মধ্যে কোনটির গলনাঙ্ক সর্বনিম্ন?",
+     "question_en": "Lowest melting point of NaF, Na2O, Na3N?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaF",
+       "en": "NaF"
+      },
+      {
+       "id": "b",
+       "bn": "Na2O",
+       "en": "Na2O"
+      },
+      {
+       "id": "c",
+       "bn": "Na3N",
+       "en": "Na3N"
+      },
+      {
+       "id": "d",
+       "bn": "সমান",
+       "en": "Equal"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N3- সবচেয়ে বেশি পোলারিত হয়, সবচেয়ে সমযোজী।",
+     "explanation_en": "N3- is polarised most; most covalent.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "BeCl2 এর গলিত অবস্থায় তড়িৎ পরিবাহিতা MgCl2 অপেক্ষা কম কেন?",
+     "question_en": "Why does molten BeCl2 conduct less than MgCl2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Be2+ ছোট বলে পোলারায়ন বেশি, সমযোজী ধর্ম বেশি",
+       "en": "Smaller Be2+ polarises more, more covalent"
+      },
+      {
+       "id": "b",
+       "bn": "Be2+ বড়",
+       "en": "Be2+ is larger"
+      },
+      {
+       "id": "c",
+       "bn": "BeCl2 আয়নিক",
+       "en": "BeCl2 is ionic"
+      },
+      {
+       "id": "d",
+       "bn": "Cl- নেই",
+       "en": "No Cl-"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সমযোজী ধর্ম বাড়লে পরিবাহিতা কমে।",
+     "explanation_en": "More covalent character lowers conductivity.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.25",
+   "title_bn": "শিক্ষার্থীর কাজ : পরীক্ষার মাধ্যমে পানির ডাইপোলের উপস্থিতি প্রমাণ",
+   "title_en": "Student Activity: Proving Dipole in Water",
+   "notes_bn": "ডাইপোল মোমেন্ট μ = δ × d (δ = আধান, d = দূরত্ব); এটি ভেক্টর, ধনাত্মক থেকে ঋণাত্মক মেরুর দিকে তীর।\nCGS একক ডিবাই (D); 1 D = 1.0 × 10^-18 esu cm। e = 4.8 × 10^-10 esu ও d = 1 Å (10^-8 cm) হলে μ = 4.8 D।\nদ্বিপরমাণুক মৌলিক অণু ও প্রতিসম অণুর μ = 0: CO2, BF3, CCl4, CH4, C6H6। H2O এর μ = 1.85 D (কোণ 104.5°, বাঁকা)।\n% আয়নিক = (পরীক্ষালব্ধ μ / সম্পূর্ণ আয়নিত μ) × 100। HCl: μ = 4.8×10^-10 × 1.27×10^-8 = 6.096 D; 1.03/6.096 × 100 = 16.89%।\nহ্যানে-স্মিথ: % আয়নিক = 16(XA - XB) + 3.5(XA - XB)^2। CCl4 এর C–Cl: 8.875%; HCl: 17.235%; CH4: 6.96%।\nপরীক্ষা: ব্যুরেটের পানির ধারার কাছে আহিত এবোনাইট দণ্ড আনলে ধারা বেঁকে যায়, প্রমাণ করে পানিতে ডাইপোল আছে।",
+   "notes_en": "Dipole moment mu = delta x d (charge x distance); a vector pointing from positive to negative pole.\nCGS unit Debye (D); 1 D = 1.0 x 10^-18 esu cm. With e = 4.8 x 10^-10 esu and d = 1 A (10^-8 cm), mu = 4.8 D.\nMu is zero for homonuclear diatomics and symmetric molecules: CO2, BF3, CCl4, CH4, C6H6. H2O: 1.85 D (bent, 104.5 deg).\n% ionic = (observed mu / fully ionic mu) x 100. HCl: mu = 4.8x10^-10 x 1.27x10^-8 = 6.096 D; 1.03/6.096 x 100 = 16.89%.\nHanney-Smith: % ionic = 16(XA - XB) + 3.5(XA - XB)^2. CCl4 C-Cl 8.875%; HCl 17.235%; CH4 6.96%.\nExperiment: a charged ebonite rod bends a stream of water from a burette, proving water has a dipole.",
+   "mcqs": [
+    {
+     "question_bn": "ডাইপোল মোমেন্টের সূত্র কোনটি?",
+     "question_en": "The formula for dipole moment is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "μ = δ × d",
+       "en": "mu = delta x d"
+      },
+      {
+       "id": "b",
+       "bn": "μ = δ / d",
+       "en": "mu = delta / d"
+      },
+      {
+       "id": "c",
+       "bn": "μ = δ + d",
+       "en": "mu = delta + d"
+      },
+      {
+       "id": "d",
+       "bn": "μ = d / δ",
+       "en": "mu = d / delta"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আধান ও দূরত্বের গুণফল।",
+     "explanation_en": "Product of charge and distance.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ডাইপোল মোমেন্টের CGS একক কোনটি?",
+     "question_en": "CGS unit of dipole moment?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কুলম্ব",
+       "en": "Coulomb"
+      },
+      {
+       "id": "b",
+       "bn": "ডিবাই",
+       "en": "Debye"
+      },
+      {
+       "id": "c",
+       "bn": "ওহম",
+       "en": "Ohm"
+      },
+      {
+       "id": "d",
+       "bn": "পাস্কাল",
+       "en": "Pascal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "1 D = 1.0 × 10^-18 esu cm।",
+     "explanation_en": "1 D = 1.0 x 10^-18 esu cm.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন অণুর ডাইপোল মোমেন্ট শূন্য?",
+     "question_en": "Which molecule has zero dipole moment?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2O",
+       "en": "H2O"
+      },
+      {
+       "id": "b",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "c",
+       "bn": "CO2",
+       "en": "CO2"
+      },
+      {
+       "id": "d",
+       "bn": "NH3",
+       "en": "NH3"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CO2 রৈখিক, প্রতিসম; C–O বন্ধন মোমেন্ট পরস্পর বাতিল হয়।",
+     "explanation_en": "CO2 is linear and symmetric; bond moments cancel.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CCl4 এ C–Cl বন্ধন পোলার হলেও অণু অপোলার কেন?",
+     "question_en": "Why is CCl4 non-polar despite polar C-Cl bonds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চতুস্তলকীয় প্রতিসম গঠনে বন্ধন মোমেন্টগুলো বাতিল হয়",
+       "en": "Tetrahedral symmetry cancels bond moments"
+      },
+      {
+       "id": "b",
+       "bn": "C ও Cl এর ঋণাত্মকতা সমান",
+       "en": "Same electronegativity"
+      },
+      {
+       "id": "c",
+       "bn": "বন্ধন আয়নিক",
+       "en": "Bonds are ionic"
+      },
+      {
+       "id": "d",
+       "bn": "Cl নিঃসঙ্গ জোড় দেয়",
+       "en": "Cl donates"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "যেকোনো দুটি C–Cl মোমেন্ট বাকি দুটির লব্ধির সমান ও বিপরীত।",
+     "explanation_en": "Any two moments are balanced by the other two.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H2O এর ডাইপোল মোমেন্ট ও আকৃতি কোনটি?",
+     "question_en": "Dipole moment and shape of H2O?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0 D, রৈখিক",
+       "en": "0 D, linear"
+      },
+      {
+       "id": "b",
+       "bn": "1.85 D, বাঁকা (কোণ প্রায় 104.5°)",
+       "en": "1.85 D, bent (about 104.5 deg)"
+      },
+      {
+       "id": "c",
+       "bn": "1.85 D, রৈখিক",
+       "en": "1.85 D, linear"
+      },
+      {
+       "id": "d",
+       "bn": "0 D, বাঁকা",
+       "en": "0 D, bent"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নিঃসঙ্গ জোড়ের বিকর্ষণে কোণ 104.5° ও μ = 1.85 D।",
+     "explanation_en": "Lone-pair repulsion gives 104.5 deg and mu = 1.85 D.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "e = 4.8 × 10^-10 esu ও d = 1 Å হলে ডাইপোল মোমেন্ট কত?",
+     "question_en": "With e = 4.8 x 10^-10 esu and d = 1 A, mu is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1 D",
+       "en": "1 D"
+      },
+      {
+       "id": "b",
+       "bn": "4.8 D",
+       "en": "4.8 D"
+      },
+      {
+       "id": "c",
+       "bn": "48 D",
+       "en": "48 D"
+      },
+      {
+       "id": "d",
+       "bn": "0.48 D",
+       "en": "0.48 D"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "4.8×10^-10 × 10^-8 = 4.8×10^-18 esu cm = 4.8 D।",
+     "explanation_en": "4.8e-10 x 1e-8 = 4.8e-18 esu cm = 4.8 D.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HCl এর d = 1.27 Å, পরীক্ষালব্ধ μ = 1.03 D। সম্পূর্ণ আয়নিত μ ও % আয়নিক চরিত্র কত?",
+     "question_en": "HCl: d = 1.27 A, observed mu = 1.03 D. Fully ionic mu and % ionic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "6.096 D, 16.89%",
+       "en": "6.096 D, 16.89%"
+      },
+      {
+       "id": "b",
+       "bn": "4.8 D, 21.5%",
+       "en": "4.8 D, 21.5%"
+      },
+      {
+       "id": "c",
+       "bn": "6.096 D, 59%",
+       "en": "6.096 D, 59%"
+      },
+      {
+       "id": "d",
+       "bn": "1.27 D, 81%",
+       "en": "1.27 D, 81%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "μ = 4.8×1.27 = 6.096 D; 1.03/6.096 × 100 ≈ 16.89%।",
+     "explanation_en": "mu = 4.8 x 1.27 = 6.096 D; 1.03/6.096 x 100 = 16.89%.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "হ্যানে-স্মিথ সূত্রে CCl4 এর C–Cl বন্ধনে আয়নিক চরিত্র কত? (C = 2.5, Cl = 3.0)",
+     "question_en": "Hanney-Smith: ionic character of C-Cl in CCl4 (C 2.5, Cl 3.0)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "8.875%",
+       "en": "8.875%"
+      },
+      {
+       "id": "b",
+       "bn": "16%",
+       "en": "16%"
+      },
+      {
+       "id": "c",
+       "bn": "0.875%",
+       "en": "0.875%"
+      },
+      {
+       "id": "d",
+       "bn": "17.235%",
+       "en": "17.235%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "16(0.5) + 3.5(0.25) = 8 + 0.875 = 8.875%।",
+     "explanation_en": "16(0.5) + 3.5(0.25) = 8.875%.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "পানির ধারার কাছে আহিত এবোনাইট দণ্ড আনলে ধারা বেঁকে যায়; এটি কী প্রমাণ করে?",
+     "question_en": "A charged ebonite rod bends a water stream. What does this prove?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানি আয়নিক",
+       "en": "Water is ionic"
+      },
+      {
+       "id": "b",
+       "bn": "পানিতে ডাইপোল আছে",
+       "en": "Water has a dipole"
+      },
+      {
+       "id": "c",
+       "bn": "পানি অপোলার",
+       "en": "Water is non-polar"
+      },
+      {
+       "id": "d",
+       "bn": "পানি পরিবাহী",
+       "en": "Water is a conductor"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ধারার ধনাত্মক ও ঋণাত্মক প্রান্ত দণ্ডের আধানে আকর্ষিত হয়।",
+     "explanation_en": "The stream's polar ends are attracted by the rod's charge.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "3.18",
+   "difficulty": "medium",
+   "stimulus_bn": "একটি ল্যাবে Ni (পারমাণবিক সংখ্যা 28) এর তিনটি যৌগ আছে: [Ni(CN)4]2-, [NiCl4]2- এবং Ni(CO)4। শিক্ষার্থী লক্ষ করল যে [NiCl4]2- চুম্বক দ্বারা আকৃষ্ট হয়, কিন্তু বাকি দুটি হয় না।",
+   "stimulus_en": "A lab holds three compounds of Ni (atomic number 28): [Ni(CN)4]2-, [NiCl4]2- and Ni(CO)4. A student notes that [NiCl4]2- is attracted by a magnet but the other two are not.",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "সন্নিবেশ সমযোজী বন্ধন কাকে বলে?",
+     "question_en": "What is a coordinate covalent bond?",
+     "model_answer_bn": "যে সমযোজী বন্ধনে ইলেকট্রন জোড় কেবল একটি পরমাণু (দাতা) সরবরাহ করে এবং অপর পরমাণু (গ্রহীতা) গ্রহণ করে।",
+     "model_answer_en": "A covalent bond whose shared pair is supplied by one atom (donor) only and accepted by the other (acceptor)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "CN- ও CO লিগ্যান্ড হিসেবে কীভাবে সন্নিবেশ বন্ধন গঠন করে ব্যাখ্যা কর।",
+     "question_en": "Explain how CN- and CO form coordinate bonds as ligands.",
+     "model_answer_bn": "CN- ও CO এর নিঃসঙ্গ ইলেকট্রন জোড় আছে। এগুলো দাতা হয়ে Ni-এর ইলেকট্রন শূন্য সংকরিত অরবিটালে জোড় দান করে সন্নিবেশ বন্ধন গঠন করে।",
+     "model_answer_en": "Each has a lone pair; as donors they give it into empty hybrid orbitals of Ni, forming coordinate bonds."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "[Ni(CN)4]2- ও [NiCl4]2- এর সংকরায়ন ও আকৃতি লেখ।",
+     "question_en": "Give the hybridisation and shape of [Ni(CN)4]2- and [NiCl4]2-.",
+     "model_answer_bn": "Ni2+ (3d8): শক্তিশালী CN- এ 3d এর অযুগ্ম ইলেকট্রন জোড় বাঁধে, dsp2 সংকরায়ন, বর্গাকার, ডায়াচুম্বকীয়। দুর্বল Cl- এ জোড় বাঁধে না, sp3 সংকরায়ন, চতুস্তলকীয়, দুটি অযুগ্ম ইলেকট্রন, প্যারাচুম্বকীয়।",
+     "model_answer_en": "Ni2+ (3d8): with strong CN- the 3d electrons pair up, dsp2, square planar, diamagnetic. With weak Cl- they do not pair, sp3, tetrahedral, two unpaired electrons, paramagnetic."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "Ni(CO)4 এর গঠন ব্যাখ্যা করে তিনটি যৌগের চৌম্বক ধর্মের পার্থক্যের কারণ বিশ্লেষণ কর।",
+     "question_en": "Explain the structure of Ni(CO)4 and analyse why the three differ in magnetism.",
+     "model_answer_bn": "Ni (3d8 4s2): শক্তিশালী CO এর প্রভাবে 3d ইলেকট্রন জোড় বাঁধে ও 4s ইলেকট্রন 3d-তে যায়; একটি 4s ও তিনটি 4p সংকরিত হয়ে sp3, চতুস্তলকীয়; অযুগ্ম ইলেকট্রন নেই, ডায়াচুম্বকীয়। লিগ্যান্ডের শক্তি অনুযায়ী অযুগ্ম ইলেকট্রনের উপস্থিতি ভিন্ন; তাই কেবল [NiCl4]2- এ অযুগ্ম ইলেকট্রন থাকায় প্যারাচুম্বকীয়, বাকি দুটি ডায়াচুম্বকীয়।",
+     "model_answer_en": "In Ni (3d8 4s2) strong CO pairs the 3d electrons and moves 4s electrons into 3d; one 4s and three 4p hybridise to sp3, tetrahedral, no unpaired electrons, diamagnetic. Ligand strength decides pairing; only [NiCl4]2- keeps unpaired electrons and is paramagnetic, the other two are diamagnetic."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.23",
+   "difficulty": "medium",
+   "stimulus_bn": "AlCl3, MgCl2 ও NaCl এর গলনাঙ্ক যথাক্রমে 140°C, 714°C ও 801°C। আবার AgF পানিতে দ্রবণীয় কিন্তু AgI অদ্রবণীয়।",
+   "stimulus_en": "The melting points of AlCl3, MgCl2 and NaCl are 140 C, 714 C and 801 C respectively. AgF dissolves in water but AgI does not.",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ফাজানের নীতি অনুযায়ী ক্যাটায়ন ও অ্যানায়নের আকার কেমন হলে সমযোজী ধর্ম বাড়ে?",
+     "question_en": "Per Fajan, what cation and anion sizes increase covalent character?",
+     "model_answer_bn": "ক্যাটায়ন ছোট ও অ্যানায়ন বড় হলে।",
+     "model_answer_en": "Small cation and large anion."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "AlCl3 এর গলনাঙ্ক NaCl অপেক্ষা কম কেন?",
+     "question_en": "Why is the melting point of AlCl3 lower than NaCl?",
+     "model_answer_bn": "Al3+ এর আধান বেশি ও আকার ছোট, তাই চার্জ ঘনত্ব ও পোলারায়ন ক্ষমতা বেশি; AlCl3 অধিক সমযোজী হওয়ায় গলনাঙ্ক কম।",
+     "model_answer_en": "Al3+ has higher charge and smaller size, so greater charge density and polarising power; AlCl3 is more covalent, hence lower m.p."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "AgF, AgCl, AgBr, AgI কে সমযোজী ধর্মের ক্রমে সাজাও ও দ্রবণীয়তার কারণ ব্যাখ্যা কর।",
+     "question_en": "Arrange AgF, AgCl, AgBr, AgI by covalent character and explain solubility.",
+     "model_answer_bn": "AgF < AgCl < AgBr < AgI। অ্যানায়ন যত বড়, পোলারায়ন তত বেশি। AgF এ F- সবচেয়ে কম বিকৃত হয়, তাই আয়নিক ও পানিতে দ্রবণীয়; AgI সমযোজী হওয়ায় পানিতে অদ্রবণীয়।",
+     "model_answer_en": "AgF < AgCl < AgBr < AgI. Larger anions are polarised more. F- is least distorted so AgF is ionic and soluble; AgI is covalent and insoluble."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "PbCl4 অস্তিত্বশীল কিন্তু PbI4 নয় কেন? সংশ্লিষ্ট সমীকরণসহ লেখ।",
+     "question_en": "Why does PbCl4 exist but PbI4 not? Include equations.",
+     "model_answer_bn": "I- এর আকার Cl- অপেক্ষা বড়, Pb4+ এর আধান বেশি হওয়ায় I- অত্যধিক পোলারিত হয়। ফলে I- ইলেকট্রন ত্যাগ করে I2 হয় এবং Pb4+ ইলেকট্রন নিয়ে Pb2+ হয়: 2I- - 2e -> I2; Pb4+ + 2e -> Pb2+। Cl- ছোট, পোলারায়ন কম, তাই PbCl4 টিকে থাকে।",
+     "model_answer_en": "I- is larger than Cl-, and Pb4+ has a high charge, so I- is heavily polarised. I- loses electrons to give I2 and Pb4+ gains them to become Pb2+: 2I- - 2e -> I2; Pb4+ + 2e -> Pb2+. Smaller Cl- is polarised less, so PbCl4 survives."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.25",
+   "difficulty": "medium",
+   "stimulus_bn": "HCl অণুতে বন্ধন দূরত্ব 1.27 Å এবং পরীক্ষালব্ধ ডাইপোল মোমেন্ট 1.03 D। H ও Cl এর তড়িৎ ঋণাত্মকতা যথাক্রমে 2.1 ও 3.0। (e = 4.8 × 10^-10 esu)",
+   "stimulus_en": "In HCl the bond length is 1.27 A and the observed dipole moment is 1.03 D. Electronegativities of H and Cl are 2.1 and 3.0 (e = 4.8 x 10^-10 esu).",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ডাইপোল মোমেন্ট কী?",
+     "question_en": "What is dipole moment?",
+     "model_answer_bn": "বিপরীত আধানের মান ও তাদের মধ্যবর্তী দূরত্বের গুণফল (μ = δ × d)।",
+     "model_answer_en": "The product of the magnitude of the opposite charges and the distance between them (mu = delta x d)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "CO2 এ প্রতিটি C–O বন্ধন পোলার হলেও ডাইপোল মোমেন্ট শূন্য কেন?",
+     "question_en": "Why is CO2's dipole moment zero though each C-O bond is polar?",
+     "model_answer_bn": "CO2 রৈখিক ও প্রতিসম; দুটি C–O বন্ধন মোমেন্ট সমান ও বিপরীতমুখী হওয়ায় বাতিল হয়ে লব্ধি শূন্য।",
+     "model_answer_en": "CO2 is linear and symmetric; the two equal and opposite bond moments cancel."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "HCl বন্ধনের শতকরা আয়নিক চরিত্র নির্ণয় কর।",
+     "question_en": "Calculate % ionic character of the HCl bond.",
+     "model_answer_bn": "সম্পূর্ণ আয়নিত μ = 4.8×10^-10 × 1.27×10^-8 = 6.096×10^-18 esu cm = 6.096 D। % আয়নিক = (1.03 / 6.096) × 100 = 16.89%।",
+     "model_answer_en": "Fully ionic mu = 4.8e-10 x 1.27e-8 = 6.096e-18 esu cm = 6.096 D. % ionic = (1.03 / 6.096) x 100 = 16.89%."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "হ্যানে-স্মিথ সূত্রে HCl এর আয়নিক চরিত্র নির্ণয় করে ফল তুলনা ও বিশ্লেষণ কর।",
+     "question_en": "Use Hanney-Smith for HCl, compare and analyse.",
+     "model_answer_bn": "% = 16(3.0 - 2.1) + 3.5(3.0 - 2.1)^2 = 14.4 + 2.835 = 17.235%। ডাইপোল পদ্ধতির 16.89% এর সাথে খুব কাছাকাছি; দুই পদ্ধতিতেই HCl প্রায় 17% আয়নিক, তাই HCl পোলার সমযোজী। ঋণাত্মকতার পার্থক্য 0.9, যা 0.5-1.7 এর মধ্যে।",
+     "model_answer_en": "% = 16(0.9) + 3.5(0.9)^2 = 14.4 + 2.835 = 17.235%. Very close to 16.89% from the dipole method; both give about 17% ionic, so HCl is polar covalent (difference 0.9 lies between 0.5 and 1.7)."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 363-394 readable. Printed p.365-366 (3.16 content) skipped. Book prints inconsistent HF % ionic (60% vs 43%) and a garbled dipole order for H2O/NH3/SO2; avoided in questions. AlCl3 'mp 575C' in text conflicts with its sublimation in the table; avoided. Last 2 PDF pages (printed 395-396) include 3.25.2 and start of 3.26 Van der Waals (not covered)."
+}

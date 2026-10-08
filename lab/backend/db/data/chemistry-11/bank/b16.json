@@ -1,0 +1,1696 @@
+{
+ "chapter_no": 5,
+ "topics": [
+  {
+   "section_no": "5.1",
+   "title_bn": "খাদ্য নিরাপত্তা ও রসায়ন",
+   "title_en": "Food Security and Chemistry",
+   "notes_bn": "যে পুষ্টিকর উপাদান গ্রহণ করে প্রাণী জীবন রক্ষা ও দেহের বৃদ্ধি ঘটায় তা খাদ্য। সুষম খাদ্যে আমিষ, শর্করা, খনিজ, ভিটামিন, চর্বি ও বিশুদ্ধ পানি থাকে।\nWHO-এর নির্দেশনায় ১৯৯৬ সালের World Food Summit-এ খাদ্য নিরাপত্তা সংজ্ঞায়িত: সবসময় সবার জন্য পর্যাপ্ত, স্বাস্থ্যসম্মত, নিরাপদ ও পুষ্টিকর খাদ্যের যোগান নিশ্চিত করা।\nখাদ্য নিরাপত্তার তিন ভিত্তি: (১) খাদ্যের পর্যাপ্ততা, (২) সহজলভ্যতা, (৩) সঠিক ব্যবহার।\nপর্যাপ্ততা: সার (ইউরিয়া H2N-CO-NH2, TSP Ca(H2PO4)2, DAP (NH4)2HPO4, MOP KCl), কীটনাশক ও লবণাক্ত-সহনশীল জাত উৎপাদন বাড়ায়। সালোকসংশ্লেষণ: 6CO2+6H2O → C6H12O6+6O2 (সূর্যালোক, ক্লোরোফিল)।\nসহজলভ্যতা: সংরক্ষণ, প্রক্রিয়াজাতকরণ ও বিপণনের মাধ্যমে পচনশীল খাদ্য (যেমন দুধ) সবার কাছে পৌঁছানো; ফরমালিনের অপব্যবহার ক্ষতিকর।\nসঠিক ব্যবহার: সঠিক রান্না, বিশুদ্ধ পানি সরবরাহ, দৈহিক সক্ষমতা ও সুষম খাদ্য গ্রহণ।\nখাদ্য নষ্ট হওয়ার তিন কারণ: অণুজীব (ঈস্ট, মোল্ড, ব্যাকটেরিয়া) দ্বারা পচন, এনজাইম ও বায়ুর অক্সিজেনে জারণ, ধাতব আয়নের প্রভাবে তেল-চর্বির জারণ। অণুজীবের এনজাইম থেকে নিঃসৃত বিষাক্ত উপাদান টক্সিন; টক্সিনযুক্ত খাদ্য খেয়ে অসুস্থতা ফুড পয়জনিং।\nবাংলাদেশ ২০১৫ সাল থেকে চাল রপ্তানিকারক দেশ।",
+   "notes_en": "Food = nutrient material taken by living things to sustain life and growth. Balanced diet: protein, carbohydrate, minerals, vitamins, fat, safe water.\nFood security (WHO, World Food Summit 1996): all people, at all times, have access to sufficient, safe, nutritious food.\nThree bases: sufficiency, access, utilization.\nSufficiency: fertilizers (urea H2N-CO-NH2, TSP Ca(H2PO4)2, DAP (NH4)2HPO4, MOP KCl), pesticides, salt-tolerant varieties. Photosynthesis: 6CO2+6H2O -> C6H12O6+6O2.\nAccess: preservation, processing, marketing of perishables such as milk; formalin misuse is harmful.\nUtilization: proper cooking, safe water, body's ability to use food, balanced diet.\nCauses of spoilage: microbes, enzymatic/air oxidation, metal-ion catalysed oxidation of fats. Toxin = poison from microbial enzymes; eating it = food poisoning.\nBangladesh has been a rice exporter since 2015.",
+   "mcqs": [
+    {
+     "question_bn": "WHO-এর নির্দেশনায় কত সালের World Food Summit-এ খাদ্য নিরাপত্তা সংজ্ঞায়িত হয়?",
+     "question_en": "In which year's World Food Summit was food security defined on WHO's guidance?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১৯৮৬",
+       "en": "1986"
+      },
+      {
+       "id": "b",
+       "bn": "১৯৯৬",
+       "en": "1996"
+      },
+      {
+       "id": "c",
+       "bn": "২০০৬",
+       "en": "2006"
+      },
+      {
+       "id": "d",
+       "bn": "২০১৫",
+       "en": "2015"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ১৯৯৬ সালের World Food Summit-এর কথা বলা হয়েছে।",
+     "explanation_en": "The book gives the 1996 World Food Summit.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "খাদ্য নিরাপত্তার ভিত্তি কয়টি?",
+     "question_en": "How many bases of food security are there?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দুটি",
+       "en": "Two"
+      },
+      {
+       "id": "b",
+       "bn": "তিনটি",
+       "en": "Three"
+      },
+      {
+       "id": "c",
+       "bn": "চারটি",
+       "en": "Four"
+      },
+      {
+       "id": "d",
+       "bn": "পাঁচটি",
+       "en": "Five"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পর্যাপ্ততা, সহজলভ্যতা ও সঠিক ব্যবহার - এই তিনটি।",
+     "explanation_en": "Sufficiency, access and utilization.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নাইট্রোজেন সমৃদ্ধ প্রধান বাণিজ্যিক সার কোনটি?",
+     "question_en": "Which is the main nitrogen-rich commercial fertilizer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TSP",
+       "en": "TSP"
+      },
+      {
+       "id": "b",
+       "bn": "MOP",
+       "en": "MOP"
+      },
+      {
+       "id": "c",
+       "bn": "ইউরিয়া",
+       "en": "Urea"
+      },
+      {
+       "id": "d",
+       "bn": "DAP",
+       "en": "DAP"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ইউরিয়া (H2N-CO-NH2) নাইট্রোজেন সমৃদ্ধ প্রধান সার।",
+     "explanation_en": "Urea (H2N-CO-NH2) is the main N-rich fertilizer.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পটাসিয়ামযুক্ত সার কোনটি?",
+     "question_en": "Which of these is a potassium fertilizer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "TSP",
+       "en": "TSP"
+      },
+      {
+       "id": "b",
+       "bn": "ইউরিয়া",
+       "en": "Urea"
+      },
+      {
+       "id": "c",
+       "bn": "DAP",
+       "en": "DAP"
+      },
+      {
+       "id": "d",
+       "bn": "KCl",
+       "en": "KCl"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "KCl (মিউরেট অব পটাশ) পটাসিয়াম সরবরাহ করে।",
+     "explanation_en": "KCl (muriate of potash) supplies potassium.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "খাদ্য নষ্ট হওয়ার প্রধান কারণ কোনটি নয়?",
+     "question_en": "Which is NOT a main cause of food spoilage?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অণুজীব দ্বারা পচন",
+       "en": "Decay by microorganisms"
+      },
+      {
+       "id": "b",
+       "bn": "বায়ুর অক্সিজেনে জারণ",
+       "en": "Oxidation by air oxygen"
+      },
+      {
+       "id": "c",
+       "bn": "ধাতব আয়নের প্রভাবে তেল-চর্বির জারণ",
+       "en": "Metal-ion promoted oxidation of oils/fats"
+      },
+      {
+       "id": "d",
+       "bn": "পানিতে দ্রবীভূত হওয়া",
+       "en": "Dissolving in water"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "পচন, জারণ ও ধাতব আয়ন - এই তিনটি কারণ; পানিতে দ্রবীভূত হওয়া কারণ নয়।",
+     "explanation_en": "The three causes are decay, oxidation and metal ions; dissolving in water is not one.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "খাদ্যে অণুজীবের এনজাইম থেকে নিঃসৃত বিষাক্ত উপাদান কী নামে পরিচিত এবং তা খেলে কী হয়?",
+     "question_en": "What is the poisonous substance released by microbial enzymes in food called, and what does eating it cause?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রিজারভেটিভ; খাদ্য সংরক্ষণ",
+       "en": "Preservative; preservation"
+      },
+      {
+       "id": "b",
+       "bn": "টক্সিন; ফুড পয়জনিং",
+       "en": "Toxin; food poisoning"
+      },
+      {
+       "id": "c",
+       "bn": "এমালসিফায়ার; স্থায়িত্ব বৃদ্ধি",
+       "en": "Emulsifier; stability"
+      },
+      {
+       "id": "d",
+       "bn": "কোয়াগুল্যান্ট; কোয়াগুলেশন",
+       "en": "Coagulant; coagulation"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিষাক্ত উপাদান টক্সিন; তা মিশ্রিত খাদ্য গ্রহণ ফুড পয়জনিং।",
+     "explanation_en": "The poison is a toxin; ingesting it is food poisoning.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.2",
+   "title_bn": "অনুমোদিত প্রিজারভেটিভস-এর খাদ্য সংরক্ষণ কৌশল",
+   "title_en": "Permitted Preservatives and Food Preservation Techniques",
+   "notes_bn": "প্রিজারভেটিভ: নির্দিষ্ট মাত্রায় খাদ্যে মিশিয়ে অণুজীবের আক্রমণ ও এনজাইম ক্রিয়া রোধ করে পুষ্টিমান ঠিক রেখে সংরক্ষণ বাড়ায় এমন উপাদান। FDA অনুমোদন দেয় (প্রতিষ্ঠা ১৯০৬)।\nপ্রাকৃতিক: লবণ (কিউরিং, ৭-৮% দ্রবণ), চিনি (৬০% ঘনমাত্রায় লবণের মতো কাজ করে), ভিনেগার (৬-১০% অ্যাসিটিক অ্যাসিড দ্রবণ), অ্যালকোহল, সরিষার তেল, মধু ইত্যাদি।\nকৃত্রিম প্রিজারভেটিভ তিন শ্রেণির: অ্যান্টি-মাইক্রোবিয়াল, অ্যান্টি-অক্সিডেন্ট, কিলেটিং এজেন্ট।\nঅ্যান্টি-মাইক্রোবিয়াল: বেনজোয়েট (সোডিয়াম বেনজোয়েট C6H5COONa, সর্বোচ্চ ০.১%), সরবিক অ্যাসিড C6H8O2 (০.০২৫-০.২০%, IUPAC: হেক্সা-2,4-ডাইইন-1-ওয়িক অ্যাসিড), নাইট্রাইট/নাইট্রেট (মাংসে, ০.১%), SO2/সালফাইট।\nঅ্যান্টি-অক্সিডেন্ট: BHA (C11H16O2, ১০০ ppm), BHT (C15H24O, ২০০ ppm), TBHQ (C10H14O2, ১০০ ppm), প্রোপাইল গ্যালেট (C10H12O5), সাইট্রিক অ্যাসিড (C6H8O7), ভিটামিন C ও E। এরা মুক্ত মূলকের চেইন বিক্রিয়া ঠেকায়।\nকিলেটিং এজেন্ট (EDTA, EDA, সাইট্রিক অ্যাসিড): ধাতব আয়নকে আবদ্ধ করে জারণ রোধ করে।\nফরমালিন: ৪০% H-CHO, ৮% CH3OH, ৫২% পানি; খাদ্যে ব্যবহার নিষিদ্ধ ও বিষাক্ত।\nপ্রিজারভেটিভ ছাড়া: শুষ্কীকরণ (পানি সক্রিয়তা aw কমানো; ব্যাকটেরিয়া aw>0.90, ঈস্ট >0.88, মোল্ড >0.80) ও কোল্ড স্টোরেজ (0-4 °C)। খাদ্য সংযোজন E-নম্বর পায় (সরবিটল E420, লেসিথিন E322)।",
+   "notes_en": "Preservative: substance added in permitted amount to stop microbial attack/enzyme action and prolong shelf life. FDA approves them (est. 1906).\nNatural: salt (curing, 7-8% brine), sugar (about 60% acts like salt), vinegar (6-10% acetic acid), alcohol, mustard oil, honey.\nArtificial classes: anti-microbial, anti-oxidant, chelating agents.\nAnti-microbial: benzoates (sodium benzoate, max 0.1%), sorbic acid C6H8O2 (0.025-0.20%; hexa-2,4-dienoic acid), nitrite/nitrate (meat, 0.1%), SO2/sulfites.\nAnti-oxidants: BHA (C11H16O2, 100 ppm), BHT (C15H24O, 200 ppm), TBHQ (C10H14O2, 100 ppm), propyl gallate (C10H12O5), citric acid, vitamins C and E; they break free-radical chain reactions.\nChelating agents (EDTA, EDA, citric acid) bind metal ions and stop oxidation.\nFormalin: 40% HCHO, 8% CH3OH, 52% water; toxic, banned in food.\nWithout preservatives: drying (lower water activity; bacteria need aw>0.90, yeast >0.88, mould >0.80) and cold storage (0-4 C). Additives get E-numbers (sorbitol E420, lecithin E322).",
+   "mcqs": [
+    {
+     "question_bn": "কোন পদ্ধতিতে খাদ্য লবণের ৭–৮% দ্রবণে সংরক্ষণ করা হয়?",
+     "question_en": "Preservation of food with about 7-8% salt solution is called:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কিউরিং",
+       "en": "Curing"
+      },
+      {
+       "id": "b",
+       "bn": "ব্লাঞ্চিং",
+       "en": "Blanching"
+      },
+      {
+       "id": "c",
+       "bn": "পাস্তুরায়ন",
+       "en": "Pasteurisation"
+      },
+      {
+       "id": "d",
+       "bn": "এগজস্টিং",
+       "en": "Exhausting"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "খাদ্য লবণের নির্দিষ্ট ঘনমাত্রার দ্রবণে সংরক্ষণকে কিউরিং বলে।",
+     "explanation_en": "Preserving with a defined salt solution is curing.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সোডিয়াম বেনজোয়েটের সংকেত কোনটি?",
+     "question_en": "What is the formula of sodium benzoate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C6H5COONa",
+       "en": "C6H5COONa"
+      },
+      {
+       "id": "b",
+       "bn": "CH3COONa",
+       "en": "CH3COONa"
+      },
+      {
+       "id": "c",
+       "bn": "C6H8O2",
+       "en": "C6H8O2"
+      },
+      {
+       "id": "d",
+       "bn": "C6H8O7",
+       "en": "C6H8O7"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সোডিয়াম বেনজোয়েট = C6H5-COONa।",
+     "explanation_en": "Sodium benzoate = C6H5-COONa.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "খাদ্যে বেনজোয়েটের অনুমোদিত সর্বোচ্চ মাত্রা প্রায় কত?",
+     "question_en": "What is the approximate maximum permitted level of benzoate in food?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "০.০১%",
+       "en": "0.01%"
+      },
+      {
+       "id": "b",
+       "bn": "০.১%",
+       "en": "0.1%"
+      },
+      {
+       "id": "c",
+       "bn": "১০%",
+       "en": "10%"
+      },
+      {
+       "id": "d",
+       "bn": "৪০%",
+       "en": "40%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে বেনজোয়েটের সীমা ০.১% বা তার নিচে বলা হয়েছে।",
+     "explanation_en": "The book limits benzoate to 0.1% or below.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন যৌগটি অ্যান্টি-অক্সিডেন্ট প্রিজারভেটিভ নয়?",
+     "question_en": "Which compound is NOT an anti-oxidant preservative?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "BHA",
+       "en": "BHA"
+      },
+      {
+       "id": "b",
+       "bn": "TBHQ",
+       "en": "TBHQ"
+      },
+      {
+       "id": "c",
+       "bn": "প্রোপাইল গ্যালেট",
+       "en": "Propyl gallate"
+      },
+      {
+       "id": "d",
+       "bn": "সোডিয়াম বেনজোয়েট",
+       "en": "Sodium benzoate"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "সোডিয়াম বেনজোয়েট অ্যান্টি-মাইক্রোবিয়াল প্রিজারভেটিভ।",
+     "explanation_en": "Sodium benzoate is an anti-microbial agent.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কিলেটিং এজেন্ট কীভাবে খাদ্যের নষ্ট হওয়া রোধ করে?",
+     "question_en": "How does a chelating agent prevent food spoilage?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ধাতব আয়নকে সন্নিবেশ বন্ধনে আবদ্ধ করে জারণে তাদের প্রভাব নষ্ট করে",
+       "en": "By binding metal ions through coordinate bonds, removing their oxidation-promoting effect"
+      },
+      {
+       "id": "b",
+       "bn": "খাদ্যের pH বাড়িয়ে",
+       "en": "By raising food pH"
+      },
+      {
+       "id": "c",
+       "bn": "খাদ্য থেকে পানি শোষণ করে",
+       "en": "By absorbing water from food"
+      },
+      {
+       "id": "d",
+       "bn": "অণুজীবকে খেয়ে ফেলে",
+       "en": "By eating microbes"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "EDTA ইত্যাদি ধাতব আয়নের সাথে জটিল যৌগ গঠন করে তাদের জারণ-প্রভাব বন্ধ করে।",
+     "explanation_en": "EDTA etc. form complexes with metal ions, blocking their oxidation effect.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন শর্তে অণুজীব বৃদ্ধি সবচেয়ে বেশি রোধ হয়? (পানি সক্রিয়তা aw)",
+     "question_en": "At which water activity (aw) is microbial growth best prevented?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "০.৯৫",
+       "en": "0.95"
+      },
+      {
+       "id": "b",
+       "bn": "০.৯০",
+       "en": "0.90"
+      },
+      {
+       "id": "c",
+       "bn": "০.৮৫",
+       "en": "0.85"
+      },
+      {
+       "id": "d",
+       "bn": "০.৬ এর নিচে",
+       "en": "Below 0.6"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "কৌটাজাত খাদ্যে aw ০.৬ এর নিচে রাখলে ব্যাকটেরিয়া, ঈস্ট, মোল্ড কিছুই জন্মায় না।",
+     "explanation_en": "With aw below 0.6 no bacteria, yeast or mould can grow.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.3",
+   "title_bn": "খাদ্য কৌটাজাতকরণ প্রণালি",
+   "title_en": "Process of Food Canning",
+   "notes_bn": "কৌটাজাতকরণ: খাদ্যকে জীবাণুমুক্ত করে বায়ুরোধী কৌটায় প্রিজারভেটিভসহ ভরে সংরক্ষণ করার আধুনিক পদ্ধতি; অণুজীব মরে যায় ও নতুন জন্মাতে পারে না।\nধাপ: কাঁচামাল সংগ্রহ → শ্রেণিবিন্যাস → ওজন → ধৌতকরণ → খোসা ছাড়ানো ও টুকরা করা → ব্লাঞ্চিং → কৌটায় ভরা → প্রিজারভেটিভ যোগ → এগজস্টিং → সিলিং → স্টেরিলাইজিং → ঠান্ডা করা → লেবেল → সংরক্ষণ।\nব্লাঞ্চিং: ফুটন্ত পানি/বাষ্পে ৫-১০ মিনিট উত্তপ্ত করা; এতে জীবাণু ও অবাঞ্ছিত গন্ধ যায়, আয়তন কমে।\nপ্রিজারভেটিভ: ফলে ৩০-৪০% চিনির দ্রবণ; শাকসবজিতে ১.৫-২.৫% লবণ দ্রবণ; মাছ-মাংসে ৭-১৫% লবণ দ্রবণ।\nএগজস্টিং: কৌটার ২/৩ অংশ পানিতে ডুবিয়ে ৯৫-১১০ °C এ ৫-৭ মিনিট উত্তপ্ত করে ভেতরের বায়ু বের করা।\nস্টেরিলাইজিং: অ্যাসিড বেশি খাদ্যে ৯০-১০০ °C এ প্রায় ৩০ মিনিট; অ্যাসিড কম খাদ্যে প্রায় ১২০ °C এ ১.৫-২.০ ঘণ্টা।\nগুরুত্ব: খাদ্য নিরাপত্তা, রপ্তানি ও বৈদেশিক মুদ্রা, শিল্প ও কর্মসংস্থান।\nফুড লেকার: কৌটার ভেতরে ধাতব দেয়ালে লাগানো আবরণ; প্রাকৃতিক (তেল, গাম, রেজিন) ও কৃত্রিম (ফেনলিক, ভিনাইল রেজিন); মাছের জন্য ZnO যুক্ত সালফার-প্রতিরোধী কৌটা।",
+   "notes_en": "Canning: sterilising food and sealing it with preservatives in an airtight can so microbes die and cannot enter.\nSteps: raw material -> grading -> weighing -> washing -> peeling/cutting -> blanching -> filling -> adding preservative -> exhausting -> sealing -> sterilising -> cooling -> labelling -> storage.\nBlanching: 5-10 min in boiling water/steam; kills germs, removes unwanted odour, shrinks volume.\nPreservative liquids: 30-40% sugar syrup for fruit; 1.5-2.5% salt brine for vegetables; 7-15% brine for fish/meat.\nExhausting: can immersed 2/3 in water at 95-110 C for 5-7 min to expel air.\nSterilising: acidic foods ~90-100 C for ~30 min; low-acid foods ~120 C for 1.5-2 h.\nImportance: food security, export earnings, industry and jobs.\nFood lacquer: coating inside metal can; natural (oil, gum, resin) or artificial (phenolic, vinyl resin); ZnO-containing sulphur-resistant cans for fish.",
+   "mcqs": [
+    {
+     "question_bn": "কৌটাজাতকরণে ব্লাঞ্চিং কত সময় ধরে করা হয়?",
+     "question_en": "How long is blanching carried out in canning?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৫-১০ মিনিট",
+       "en": "5-10 min"
+      },
+      {
+       "id": "b",
+       "bn": "৩০ সেকেন্ড",
+       "en": "30 s"
+      },
+      {
+       "id": "c",
+       "bn": "২ ঘণ্টা",
+       "en": "2 h"
+      },
+      {
+       "id": "d",
+       "bn": "১ দিন",
+       "en": "1 day"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ফুটন্ত পানি বা বাষ্পে ৫-১০ মিনিট উত্তপ্ত করা হয়।",
+     "explanation_en": "Heated 5-10 min in boiling water or steam.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফল কৌটাজাতকরণে সাধারণ প্রিজারভেটিভ দ্রবণ কোনটি?",
+     "question_en": "Which preservative solution is normally used for canning fruit?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১০% NaOH",
+       "en": "10% NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "৩০-৪০% চিনির দ্রবণ",
+       "en": "30-40% sugar syrup"
+      },
+      {
+       "id": "c",
+       "bn": "৭০% অ্যালকোহল",
+       "en": "70% alcohol"
+      },
+      {
+       "id": "d",
+       "bn": "৪০% ফরমালিন",
+       "en": "40% formalin"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফলে ৩০-৪০% চিনির দ্রবণ ব্যবহার হয়।",
+     "explanation_en": "Fruit uses 30-40% sugar syrup.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "এগজস্টিং-এর উদ্দেশ্য কী?",
+     "question_en": "What is the purpose of exhausting?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কৌটার ভিতরের বায়ু বের করা",
+       "en": "To remove air from inside the can"
+      },
+      {
+       "id": "b",
+       "bn": "ফলের খোসা ছাড়ানো",
+       "en": "To peel the fruit"
+      },
+      {
+       "id": "c",
+       "bn": "খাদ্য ঠান্ডা করা",
+       "en": "To cool the food"
+      },
+      {
+       "id": "d",
+       "bn": "লেবেল লাগানো",
+       "en": "To label"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উত্তপ্ত করে বায়ু বের করে দিলে সিলিংয়ের পর অণুজীব জন্মায় না।",
+     "explanation_en": "Heating drives out air so microbes cannot grow after sealing.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কৌটার কতটা অংশ পানিতে ডুবিয়ে এগজস্টিং করা হয়?",
+     "question_en": "What fraction of the can is immersed in water during exhausting?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১/২",
+       "en": "1/2"
+      },
+      {
+       "id": "b",
+       "bn": "১/৩",
+       "en": "1/3"
+      },
+      {
+       "id": "c",
+       "bn": "২/৩",
+       "en": "2/3"
+      },
+      {
+       "id": "d",
+       "bn": "সম্পূর্ণ",
+       "en": "Fully"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে কৌটার ২/৩ অংশ পানিতে ডুবানোর কথা আছে।",
+     "explanation_en": "The book says two-thirds immersed.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কম অ্যাসিডযুক্ত খাদ্যের স্টেরিলাইজেশন কীভাবে হয়?",
+     "question_en": "How are low-acid foods sterilised?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রায় ৯০ °C এ ১০ মিনিট",
+       "en": "About 90 C for 10 min"
+      },
+      {
+       "id": "b",
+       "bn": "প্রায় ১২০ °C এ ১.৫-২.০ ঘণ্টা",
+       "en": "About 120 C for 1.5-2.0 h"
+      },
+      {
+       "id": "c",
+       "bn": "০ °C এ ১ ঘণ্টা",
+       "en": "0 C for 1 h"
+      },
+      {
+       "id": "d",
+       "bn": "কক্ষ তাপমাত্রায় ১ দিন",
+       "en": "Room temp for 1 day"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কম অ্যাসিড খাদ্য (মাংস, মাছ) প্রায় ১২০ °C এ ১.৫-২.০ ঘণ্টা স্টেরিলাইজ করা হয়।",
+     "explanation_en": "Low-acid foods need ~120 C for 1.5-2.0 h.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মাছ কৌটাজাতকরণে সালফার-প্রতিরোধী কৌটায় কোন যৌগযুক্ত প্রলেপ ব্যবহৃত হয়?",
+     "question_en": "Which compound is in the lacquer of sulphur-resistant cans used for fish?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CaO",
+       "en": "CaO"
+      },
+      {
+       "id": "b",
+       "bn": "ZnO",
+       "en": "ZnO"
+      },
+      {
+       "id": "c",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "d",
+       "bn": "MgO",
+       "en": "MgO"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মাছের জন্য ZnO প্রলেপযুক্ত সালফার-প্রতিরোধী কৌটা ব্যবহার করা হয়।",
+     "explanation_en": "ZnO-coated sulphur-resistant cans are used for fish.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.4",
+   "title_bn": "খাদ্য কৌটাজাতকরণের মূলনীতি",
+   "title_en": "Principles of Food Canning",
+   "notes_bn": "মূলনীতি: কাঁচা খাদ্যে আর্দ্রতা ও বায়ুর অক্সিজেনে অণুজীব বাড়ে; অণুজীব স্টার্চ-প্রোটিনের পলিমার ভেঙে গাঁজন ঘটায় ও জৈব অ্যাসিড তৈরি করে। কৌটাজাতকরণ বায়ুশূন্য অবস্থা ও উপযুক্ত তাপে এদের ধ্বংস করে।\nপেয়ারা/আম/কাঁঠাল/আনারস: কৌটায় ১০ ভাগের ১ ভাগ খালি রেখে ৩০-৪০% চিনির দ্রবণ + 1.25×10^-3 % সোডিয়াম বেনজোয়েট + ০.২৫% সাইট্রিক অ্যাসিড; এগজস্টিং ৮৫-৯৫ °C এ ৫-৭ মিনিট; স্টেরিলাইজিং ৯০-১০০ °C এ প্রায় ৩০ মিনিট (কাঁঠালে ১০-১৫ মিনিট)।\nকচি ভুট্টা: ব্লাঞ্চিং ৫-৭ মিনিট; ক্যানিং তরল ২% লবণ + ৫% চিনি; এগজস্টিং ৮৫-৯০ °C এ ১০ মিনিট।\nমটরশুঁটি: ক্যানিং তরল ২% লবণ + ২.৫% চিনি; সবুজ রঙ রাখতে E-142 রঞ্জক; এগজস্টিং ৮৫-৯০ °C এ ১০ মিনিট; স্টেরিলাইজিং ৯০-১০০ °C এ ১০-১৫ মিনিট।\nবাঁশ কোরল: হলুদ গুঁড়া মিশিয়ে ফুটন্ত পানিতে ১০-১৫ মিনিট ব্লাঞ্চিং (তিক্ততা দূর); ক্যানিং তরল ৭-৮% লবণ + ৫% চিনি + ০.২৫% সাইট্রিক অ্যাসিড।\nসবজি মাটি থেকে অণুজীব বহন করে বলে কৌটাজাতের আগে ব্লাঞ্চিং জরুরি; এনজাইম ঠেকাতে অ্যাসকরবিক অ্যাসিড ব্যবহৃত হয়।\nকাঁচা মাছ: ৭-৮% লবণ দ্রবণে ১৫-২০ মিনিট ডুবানো, এগজস্টিং ৮-১০ মিনিট, সিলের পর ১১০-১১৫ °C এ প্রায় ১ ঘণ্টা স্টেরিলাইজেশন। মাংস: ২% লবণ ও ২% চিনি, ১২১ °C এ ১-১.৫ ঘণ্টা।",
+   "notes_en": "Principle: moisture and air oxygen let microbes grow and ferment starch/protein polymers, producing organic acids; canning removes air and applies heat to kill them.\nGuava/mango/jackfruit/pineapple: about 1/10 headspace; 30-40% sugar syrup + 1.25x10^-3 % sodium benzoate + 0.25% citric acid; exhausting 85-95 C for 5-7 min; sterilising 90-100 C for ~30 min (jackfruit 10-15 min).\nBaby corn: blanch 5-7 min; canning liquid 2% salt + 5% sugar; exhaust 85-90 C for 10 min.\nGreen peas: liquid 2% salt + 2.5% sugar; E-142 green colourant; exhaust 85-90 C for 10 min; sterilise 90-100 C for 10-15 min.\nBamboo shoot: blanch 10-15 min in boiling water with turmeric (removes bitterness); liquid 7-8% salt + 5% sugar + 0.25% citric acid.\nVegetables carry soil microbes so blanching is essential; ascorbic acid checks enzyme action.\nFish: 7-8% brine for 15-20 min, exhaust 8-10 min, sterilise 110-115 C for ~1 h after sealing. Meat: 2% salt + 2% sugar, 121 C for 1-1.5 h.",
+   "mcqs": [
+    {
+     "question_bn": "পেয়ারা কৌটাজাতকরণে ব্যবহৃত চিনির দ্রবণের ঘনমাত্রা কত?",
+     "question_en": "What sugar-syrup concentration is used for canning guava?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৩০-৪০%",
+       "en": "30-40%"
+      },
+      {
+       "id": "b",
+       "bn": "১-২%",
+       "en": "1-2%"
+      },
+      {
+       "id": "c",
+       "bn": "৭০-৮০%",
+       "en": "70-80%"
+      },
+      {
+       "id": "d",
+       "bn": "০.১%",
+       "en": "0.1%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পেয়ারার জন্য ৩০-৪০% চিনির দ্রবণ নেওয়া হয়।",
+     "explanation_en": "30-40% sugar syrup is used.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফল কৌটাজাতকরণে ব্যবহৃত অ্যাসিড কোনটি?",
+     "question_en": "Which acid is used in canning fruit?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাইট্রিক অ্যাসিড",
+       "en": "Citric acid"
+      },
+      {
+       "id": "b",
+       "bn": "সালফিউরিক অ্যাসিড",
+       "en": "Sulphuric acid"
+      },
+      {
+       "id": "c",
+       "bn": "নাইট্রিক অ্যাসিড",
+       "en": "Nitric acid"
+      },
+      {
+       "id": "d",
+       "bn": "HCl",
+       "en": "HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "০.২৫% সাইট্রিক অ্যাসিড দ্রবণ ব্যবহৃত হয়।",
+     "explanation_en": "0.25% citric acid is used.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সবজি কৌটাজাতকরণের আগে ব্লাঞ্চিং করা হয় কেন?",
+     "question_en": "Why are vegetables blanched before canning?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কারণ সবজি মাটি থেকে অণুজীব বহন করে",
+       "en": "Because vegetables carry soil microbes"
+      },
+      {
+       "id": "b",
+       "bn": "রঙ বদলানোর জন্য",
+       "en": "To change colour"
+      },
+      {
+       "id": "c",
+       "bn": "মিষ্টতা বাড়াতে",
+       "en": "To increase sweetness"
+      },
+      {
+       "id": "d",
+       "bn": "ওজন বাড়াতে",
+       "en": "To increase weight"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সবজিতে মাটির অণুজীব থাকে, তাই ব্লাঞ্চিং লাগে।",
+     "explanation_en": "Vegetables carry microbes from soil.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মটরশুঁটির সবুজ রঙ ধরে রাখতে কোন রঞ্জক মেশানো হয়?",
+     "question_en": "Which colourant keeps canned peas green?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "E-142",
+       "en": "E-142"
+      },
+      {
+       "id": "b",
+       "bn": "E-420",
+       "en": "E-420"
+      },
+      {
+       "id": "c",
+       "bn": "E-322",
+       "en": "E-322"
+      },
+      {
+       "id": "d",
+       "bn": "E-100",
+       "en": "E-100"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "মটরশুঁটিতে E-142 নামক সবুজ রঞ্জক মেশানো হয়।",
+     "explanation_en": "Green colourant E-142 is added.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বাঁশ কোরল ব্লাঞ্চিংয়ে হলুদ গুঁড়া মেশানোর উদ্দেশ্য কী?",
+     "question_en": "Why is turmeric added during blanching of bamboo shoots?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তিক্ততা দূর করা",
+       "en": "To remove bitterness"
+      },
+      {
+       "id": "b",
+       "bn": "লবণাক্ত করা",
+       "en": "To make it salty"
+      },
+      {
+       "id": "c",
+       "bn": "ঘন করা",
+       "en": "To thicken"
+      },
+      {
+       "id": "d",
+       "bn": "ঠান্ডা করা",
+       "en": "To cool"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা হয়েছে এতে বাঁশের তিক্ত স্বাদ অপসারিত হয়।",
+     "explanation_en": "The book says this removes the bitter taste.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কচি ভুট্টা ও মটরশুঁটির এগজস্টিং তাপমাত্রা ও সময় কত?",
+     "question_en": "What are the exhausting temperature and time for baby corn and peas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৮৫-৯০ °C, ১০ মিনিট",
+       "en": "85-90 C, 10 min"
+      },
+      {
+       "id": "b",
+       "bn": "৪০ °C, ১ মিনিট",
+       "en": "40 C, 1 min"
+      },
+      {
+       "id": "c",
+       "bn": "১২১ °C, ২ ঘণ্টা",
+       "en": "121 C, 2 h"
+      },
+      {
+       "id": "d",
+       "bn": "২০ °C, ১ ঘণ্টা",
+       "en": "20 C, 1 h"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুটিতেই ৮৫-৯০ °C এ ১০ মিনিট এগজস্টিং করা হয়।",
+     "explanation_en": "Both use 85-90 C for 10 min.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.5",
+   "title_bn": "ব্যবহারিক : টমেটো কৌটাজাতকরণ",
+   "title_en": "Practical: Canning of Tomatoes",
+   "notes_bn": "উপকরণ: পুষ্টিমানসম্পন্ন হালকা সবুজ বর্ণের পরিপক্ক টমেটো। রাসায়নিক: ৪-৫% চিনির দ্রবণ, ১০% NaCl দ্রবণ, সাইট্রিক অ্যাসিড, সোডিয়াম বেনজোয়েট।\nযন্ত্রপাতি: কৌটা, কড়াই, স্ট্যান্ড-ক্ল্যাম্প, বুনসেন বার্নার, ছুরি, বিকার, কাঁটা চামচ, ঝাঁঝরি।\nধাপ: সংগ্রহ ও ধোয়া, বোঁটা অপসারণ → টুকরা, বীজ অপসারণ → ২-৩ মিনিট ফুটন্ত পানিতে ব্লাঞ্চিং, পাতলা খোসা তুলে ফেলা।\nকৌটায় ভরা: উপরে প্রায় ১/২ ইঞ্চি খালি রেখে ক্যানিং তরল (১০% NaCl, ৪-৫% চিনি, ০.১% সোডিয়াম বেনজোয়েট, ০.২৫% সাইট্রিক অ্যাসিড)।\nএগজস্টিং: কৌটার ২/৩ অংশ পানিতে রেখে ৮০-৮৫ °C এ ১০ মিনিট; এরপর সিলিং।\nস্টেরিলাইজিং: ১০০ °C এ প্রায় ৩০ মিনিট ফুটিয়ে সব জীবাণু ধ্বংস; ঠান্ডা, লেবেল ও সংরক্ষণ।\nসাবধানতা: পরিপক্কতা অনুযায়ী তাপ-সময় ঠিক করা, সিলিংয়ে সতর্কতা, অনুমোদিত মাত্রার বেশি প্রিজারভেটিভ নয়।",
+   "notes_en": "Material: ripe, nutritious, light-green tomatoes. Chemicals: 4-5% sugar, 10% NaCl solution, citric acid, sodium benzoate.\nApparatus: cans, pan, stand-clamp, Bunsen burner, knife, beaker, fork, strainer.\nSteps: select/wash, remove stalk -> cut, remove seeds -> blanch 2-3 min in boiling water, peel the thin skin.\nFilling: leave ~1/2 inch headspace; canning liquid (10% NaCl, 4-5% sugar, 0.1% sodium benzoate, 0.25% citric acid).\nExhausting: 2/3 of can in water at 80-85 C for 10 min, then seal.\nSterilising: boil at 100 C for ~30 min to kill all germs; cool, label, store.\nPrecautions: set heat/time by maturity, careful sealing, no excess preservative.",
+   "mcqs": [
+    {
+     "question_bn": "টমেটো ব্লাঞ্চিং কত সময় করা হয়?",
+     "question_en": "How long are tomatoes blanched?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "২-৩ মিনিট",
+       "en": "2-3 min"
+      },
+      {
+       "id": "b",
+       "bn": "৩০ মিনিট",
+       "en": "30 min"
+      },
+      {
+       "id": "c",
+       "bn": "২ ঘণ্টা",
+       "en": "2 h"
+      },
+      {
+       "id": "d",
+       "bn": "১০ সেকেন্ড",
+       "en": "10 s"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "টুকরা টমেটো ২-৩ মিনিট ফুটন্ত পানিতে রাখা হয়।",
+     "explanation_en": "2-3 min in boiling water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টমেটো ক্যানিং তরলে NaCl দ্রবণের ঘনমাত্রা কত?",
+     "question_en": "What NaCl concentration is in the tomato canning liquid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১০%",
+       "en": "10%"
+      },
+      {
+       "id": "b",
+       "bn": "০.১%",
+       "en": "0.1%"
+      },
+      {
+       "id": "c",
+       "bn": "৪০%",
+       "en": "40%"
+      },
+      {
+       "id": "d",
+       "bn": "১%",
+       "en": "1%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্যানিং তরলে ১০% NaCl দ্রবণ ব্যবহৃত হয়।",
+     "explanation_en": "10% NaCl solution.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টমেটো কৌটায় উপরে কতটা জায়গা ফাঁকা রাখা হয়?",
+     "question_en": "How much headspace is left at the top of the tomato can?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রায় ১/২ ইঞ্চি",
+       "en": "About 1/2 inch"
+      },
+      {
+       "id": "b",
+       "bn": "১০ ইঞ্চি",
+       "en": "10 inch"
+      },
+      {
+       "id": "c",
+       "bn": "একদম নয়",
+       "en": "None"
+      },
+      {
+       "id": "d",
+       "bn": "অর্ধেক কৌটা",
+       "en": "Half the can"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কৌটার উপরে প্রায় ১/২ ইঞ্চি খালি রাখতে হয়।",
+     "explanation_en": "About 1/2 inch is left empty.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টমেটো এগজস্টিং কোন তাপমাত্রায় করা হয়?",
+     "question_en": "At what temperature is tomato exhausting done?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৮০-৮৫ °C",
+       "en": "80-85 C"
+      },
+      {
+       "id": "b",
+       "bn": "৩০ °C",
+       "en": "30 C"
+      },
+      {
+       "id": "c",
+       "bn": "১২০ °C",
+       "en": "120 C"
+      },
+      {
+       "id": "d",
+       "bn": "৫০০ °C",
+       "en": "500 C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কৌটা ২/৩ অংশ ডুবিয়ে ৮০-৮৫ °C এ ১০ মিনিট রাখা হয়।",
+     "explanation_en": "80-85 C for 10 min.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টমেটো ক্যানিং তরলে কোন সংরক্ষণ-রাসায়নিক ০.১% মাত্রায় মেশানো হয়?",
+     "question_en": "Which preservative is added at 0.1% in tomato canning liquid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোডিয়াম বেনজোয়েট",
+       "en": "Sodium benzoate"
+      },
+      {
+       "id": "b",
+       "bn": "ফরমালিন",
+       "en": "Formalin"
+      },
+      {
+       "id": "c",
+       "bn": "BHT",
+       "en": "BHT"
+      },
+      {
+       "id": "d",
+       "bn": "EDTA",
+       "en": "EDTA"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "০.১% সোডিয়াম বেনজোয়েট ও ০.২৫% সাইট্রিক অ্যাসিড।",
+     "explanation_en": "0.1% sodium benzoate and 0.25% citric acid.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "টমেটো কৌটাজাতকরণের সঠিক ধারাক্রম কোনটি?",
+     "question_en": "Which is the correct order for tomato canning?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ব্লাঞ্চিং → ক্যানিং তরল ভরা → এগজস্টিং → সিলিং → স্টেরিলাইজিং",
+       "en": "Blanching -> fill with liquid -> exhausting -> sealing -> sterilising"
+      },
+      {
+       "id": "b",
+       "bn": "স্টেরিলাইজিং → ব্লাঞ্চিং → সিলিং → এগজস্টিং",
+       "en": "Sterilising -> blanching -> sealing -> exhausting"
+      },
+      {
+       "id": "c",
+       "bn": "সিলিং → ব্লাঞ্চিং → ভরা → এগজস্টিং",
+       "en": "Sealing -> blanching -> filling -> exhausting"
+      },
+      {
+       "id": "d",
+       "bn": "এগজস্টিং → ব্লাঞ্চিং → ভরা",
+       "en": "Exhausting -> blanching -> filling"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ব্লাঞ্চিং, কৌটায় ভরা, এগজস্টিং-সিলিং, তারপর স্টেরিলাইজিং।",
+     "explanation_en": "Blanch, fill, exhaust-seal, then sterilise.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.6",
+   "title_bn": "সাসপেনশন ও কোয়াগুলেশন",
+   "title_en": "Suspension and Coagulation",
+   "notes_bn": "দ্রবণ তিন প্রকার: প্রকৃত দ্রবণ, কলয়েড দ্রবণ, সাসপেনশন।\nপ্রকৃত দ্রবণ: কণার ব্যাস প্রায় 10^-7 cm (1 nm) বা তার কম; স্বচ্ছ, সমসত্ত্ব, স্থায়ী; ফিল্টার ও পার্চমেন্ট কাগজ ভেদ করে; আলো বিচ্ছুরণ ও ব্রাউনীয় গতি নেই (যেমন NaCl-এর দ্রবণ)।\nকলয়েড: কণার ব্যাস 10^-7 cm থেকে 10^-5 cm (1-100 nm); অস্বচ্ছ, অসমসত্ত্ব কিন্তু স্থায়ী; ফিল্টার কাগজ ভেদ করে, পার্চমেন্ট কাগজ বা ঝিল্লি ভেদ করে না। উদাহরণ: স্টার্চ, জেলাটিন, অ্যালবুমিন, গাম। টমাস গ্রাহাম (১৮৬১) কলয়েড নামকরণ করেন।\nকলয়েডের ধরন: সল (কঠিন+তরল, যেমন পেইন্ট), জেল (তরল+কঠিন, যেমন দই, জেলি), ইমালশন (তরল+তরল, যেমন দুধ), ফোম (গ্যাস+তরল, সাবানের ফেনা), অ্যারোসল (কুয়াশা, ধোঁয়া)। ইমালশন: পানিতে তেল (দুধ) ও তেলে পানি (মাখন); স্থায়িত্বের জন্য ইমালশনকারক (কেইসিন, সাবান)।\nধর্ম: ব্রাউনীয় গতি (রবার্ট ব্রাউন, ১৮২৭) ও টিন্ডাল প্রভাব (আলো বিচ্ছুরণ)।\nকোয়াগুলেশন: কলয়েড কণার আধান প্রশমিত হয়ে অধঃক্ষিপ্ত হওয়া। উপায়: বিপরীত আধানের সল মেশানো, ফুটানো, তড়িৎচালন, বারবার ডায়ালাইসিস।\nহার্ডি-শুলজ সূত্র: কোয়াগুলেশনে বিপরীত আধানের আয়ন কার্যকর; আয়নের যোজ্যতা বেশি হলে ক্ষমতা বেশি। As2S3 (ঋণাত্মক): Al3+ > Ba2+ > Na+। Fe(OH)3 (ধনাত্মক): [Fe(CN)6]3- > SO4(2-) > Cl-।\nসাসপেনশন: কণা বড়, খালি চোখে/সাধারণ অণুবীক্ষণে দেখা যায়, ফিল্টার ও পার্চমেন্ট ভেদ করতে পারে না, অস্থায়ী; যেমন রক্ত, ঘোলা পানি।",
+   "notes_en": "Three solution types: true solution, colloidal solution, suspension.\nTrue solution: particles ~10^-7 cm (1 nm) or smaller; transparent, homogeneous, stable; pass filter and parchment; no light scattering or Brownian motion (e.g. NaCl solution).\nColloid: particle diameter 10^-7 to 10^-5 cm (1-100 nm); translucent/heterogeneous but stable; pass filter paper but not parchment/membranes. Examples: starch, gelatin, albumin, gum. Thomas Graham (1861) named colloids.\nTypes: sol (solid in liquid, paint), gel (liquid in solid, curd, jelly), emulsion (liquid in liquid, milk), foam (gas in liquid), aerosol (fog, smoke). Emulsions: oil-in-water (milk) and water-in-oil (butter); stabilised by emulsifiers (casein, soap).\nProperties: Brownian motion (Robert Brown, 1827) and Tyndall effect (light scattering).\nCoagulation: neutralising charge on colloidal particles so they aggregate and settle. Methods: mixing oppositely charged sols, boiling, electrophoresis, repeated dialysis.\nHardy-Schulze rule: ions of opposite charge cause coagulation; higher valency = stronger. As2S3 (negative): Al3+ > Ba2+ > Na+. Fe(OH)3 (positive): [Fe(CN)6]3- > SO4(2-) > Cl-.\nSuspension: large particles, visible to naked eye/ordinary microscope, cannot pass filter or parchment, unstable (settle); e.g. blood, muddy water.",
+   "mcqs": [
+    {
+     "question_bn": "কোনটি প্রকৃত দ্রবণের বৈশিষ্ট্য?",
+     "question_en": "Which is a property of a true solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টিন্ডাল প্রভাব দেখায়",
+       "en": "Shows Tyndall effect"
+      },
+      {
+       "id": "b",
+       "bn": "ব্রাউনীয় গতি দেখায় না",
+       "en": "Shows no Brownian motion"
+      },
+      {
+       "id": "c",
+       "bn": "অস্থায়ী",
+       "en": "Unstable"
+      },
+      {
+       "id": "d",
+       "bn": "পার্চমেন্ট কাগজ ভেদ করতে পারে না",
+       "en": "Cannot pass parchment paper"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রকৃত দ্রবণে আলো বিচ্ছুরণ ও ব্রাউনীয় গতি হয় না; কণা পার্চমেন্ট ভেদ করে।",
+     "explanation_en": "No scattering or Brownian motion; particles pass parchment.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "দুধ কোন ধরনের কলয়েড?",
+     "question_en": "What type of colloid is milk?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সল",
+       "en": "Sol"
+      },
+      {
+       "id": "b",
+       "bn": "জেল",
+       "en": "Gel"
+      },
+      {
+       "id": "c",
+       "bn": "ইমালশন",
+       "en": "Emulsion"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যারোসল",
+       "en": "Aerosol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "দুধ পানিতে তেলের ইমালশন।",
+     "explanation_en": "Milk is an oil-in-water emulsion.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কলয়েড কণার এলোমেলো গতিকে কী বলে?",
+     "question_en": "What is the random motion of colloidal particles called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টিন্ডাল প্রভাব",
+       "en": "Tyndall effect"
+      },
+      {
+       "id": "b",
+       "bn": "ব্রাউনীয় গতি",
+       "en": "Brownian motion"
+      },
+      {
+       "id": "c",
+       "bn": "কোয়াগুলেশন",
+       "en": "Coagulation"
+      },
+      {
+       "id": "d",
+       "bn": "ডায়ালাইসিস",
+       "en": "Dialysis"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "রবার্ট ব্রাউনের নামানুসারে ব্রাউনীয় গতি।",
+     "explanation_en": "Named after Robert Brown.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি কোয়াগুলেশনের পদ্ধতি নয়?",
+     "question_en": "Which is NOT a method of coagulation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তড়িৎচালন",
+       "en": "Electrophoresis"
+      },
+      {
+       "id": "b",
+       "bn": "ফুটানো",
+       "en": "Boiling"
+      },
+      {
+       "id": "c",
+       "bn": "বিপরীত আধানের সল মেশানো",
+       "en": "Mixing oppositely charged sols"
+      },
+      {
+       "id": "d",
+       "bn": "ফিল্টার কাগজে ছাঁকা",
+       "en": "Filtering through filter paper"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "ফিল্টার কাগজে ছাঁকা কোয়াগুলেশন নয়।",
+     "explanation_en": "Filtering is not a coagulation method.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ঋণাত্মক As2S3 সল কোয়াগুলেট করতে কোন আয়ন সবচেয়ে কার্যকর?",
+     "question_en": "Which ion is most effective in coagulating negative As2S3 sol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na+",
+       "en": "Na+"
+      },
+      {
+       "id": "b",
+       "bn": "Ba2+",
+       "en": "Ba2+"
+      },
+      {
+       "id": "c",
+       "bn": "Al3+",
+       "en": "Al3+"
+      },
+      {
+       "id": "d",
+       "bn": "Cl-",
+       "en": "Cl-"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "হার্ডি-শুলজ সূত্রে ধনাত্মক আয়নের যোজ্যতা বেশি হলে ক্ষমতা বেশি: Al3+ > Ba2+ > Na+।",
+     "explanation_en": "By Hardy-Schulze, higher valency is more effective: Al3+ > Ba2+ > Na+.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "As2S3 সলে কোনটির কত mmol লাগে - বইয়ের সারণি অনুযায়ী কোন বিবৃতি ঠিক?",
+     "question_en": "For As2S3, which needs more electrolyte: NaCl or AlCl3, per the book's table?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl, ৫২ mmol",
+       "en": "NaCl, 52 mmol"
+      },
+      {
+       "id": "b",
+       "bn": "AlCl3, ৫২ mmol",
+       "en": "AlCl3, 52 mmol"
+      },
+      {
+       "id": "c",
+       "bn": "NaCl, ০.০৯৩ mmol",
+       "en": "NaCl, 0.093 mmol"
+      },
+      {
+       "id": "d",
+       "bn": "সমান",
+       "en": "Equal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaCl-এ ৫২ mmol, AlCl3-এ ০.০৯৩ mmol লাগে; তাই Al3+ অনেক বেশি কার্যকর।",
+     "explanation_en": "NaCl needs 52 mmol vs 0.093 mmol for AlCl3, so Al3+ is far more effective.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.7",
+   "title_bn": "দুধের শতকরা সংযুক্তি",
+   "title_en": "Percentage Composition of Milk",
+   "notes_bn": "দুধ কলয়েড ও ইমালশন; প্রায় আদর্শ খাদ্য। pH 6.6-6.9; আপেক্ষিক গুরুত্ব 1.029-1.039।\nপানি প্রায় ৮৭-৮৮%; কঠিন উপাদান প্রায় ১২-১৩%।\nচর্বি (লিপিড): ক্ষুদ্র কণা আকারে; সাধারণত ৩.৫-৭.২%; প্রতি গ্রামে ৯ ক্যালরি।\nপ্রোটিন: কেইসিন (গরুর দুধের প্রোটিনের ৭৬-৮৬%), ল্যাক্ট অ্যালবুমিন, ল্যাক্টোগ্লোবুলিন; প্রতি গ্রামে ৪ ক্যালরি।\nকার্বোহাইড্রেট: ল্যাক্টোজ (গ্লুকোজ + গ্যালাক্টোজ, ডাই-স্যাকারাইড); প্রাণীর দুধে প্রায় ৪.৮%, মায়ের দুধে প্রায় ৭.১%; প্রতি গ্রামে ৪ ক্যালরি।\nখনিজ: Ca2+ (0.12%), K+ (0.13%), Na+ (0.05%), Mg2+ (0.02%), P (0.09%), Cl- (0.11%)। ভিটামিন A, B, C, D, E, K ইত্যাদি; ভিটামিন C কম, পাস্তুরায়নে নষ্ট হয়।\nএনজাইম: ক্যাটালেজ, লাইপেজ, অ্যামাইলেজ, গ্যালাক্টোজ, মিউকোলেজ। রঞ্জক: ক্যারোটিন ও জ্যান্থোফিল।\nবইয়ের সারণি (প্রতি ১০০ g): গরু 69 kcal (চর্বি 3.9), মহিষ 110 kcal (চর্বি 7.7), ছাগল 73, ভেড়া 109, উট 76।",
+   "notes_en": "Milk is a colloid/emulsion; nearly an ideal food. pH 6.6-6.9; specific gravity 1.029-1.039.\nWater ~87-88%; total solids ~12-13%.\nFat (lipid): tiny globules; typically 3.5-7.2%; 9 kcal/g.\nProtein: casein (76-86% of milk protein in cow), lactalbumin, lactoglobulin; 4 kcal/g.\nCarbohydrate: lactose (glucose + galactose, disaccharide); ~4.8% in animal milk, ~7.1% in mother's milk; 4 kcal/g.\nMinerals: Ca2+ 0.12%, K+ 0.13%, Na+ 0.05%, Mg2+ 0.02%, P 0.09%, Cl- 0.11%. Vitamins A, B, C, D, E, K; vitamin C is low and lost on pasteurisation.\nEnzymes: catalase, lipase, amylase, galactase, mucolase. Pigments: carotene, xanthophyll.\nBook table (per 100 g): cow 69 kcal (fat 3.9), buffalo 110 kcal (fat 7.7), goat 73, sheep 109, camel 76.",
+   "mcqs": [
+    {
+     "question_bn": "দুধে পানির পরিমাণ প্রায় কত?",
+     "question_en": "Approximately how much water does milk contain?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১০%",
+       "en": "10%"
+      },
+      {
+       "id": "b",
+       "bn": "৩০%",
+       "en": "30%"
+      },
+      {
+       "id": "c",
+       "bn": "৫০%",
+       "en": "50%"
+      },
+      {
+       "id": "d",
+       "bn": "৮৭-৮৮%",
+       "en": "87-88%"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "দুধে প্রায় ৮৭-৮৮% পানি থাকে।",
+     "explanation_en": "About 87-88% water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "দুধের প্রধান প্রোটিন কোনটি?",
+     "question_en": "What is the main protein in milk?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কেইসিন",
+       "en": "Casein"
+      },
+      {
+       "id": "b",
+       "bn": "কেরাটিন",
+       "en": "Keratin"
+      },
+      {
+       "id": "c",
+       "bn": "কোলাজেন",
+       "en": "Collagen"
+      },
+      {
+       "id": "d",
+       "bn": "হিমোগ্লোবিন",
+       "en": "Haemoglobin"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কেইসিন গরুর দুধের প্রোটিনের ৭৬-৮৬%।",
+     "explanation_en": "Casein is 76-86% of cow's milk protein.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "দুধের শর্করা কোনটি?",
+     "question_en": "Which is the carbohydrate of milk?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সুক্রোজ",
+       "en": "Sucrose"
+      },
+      {
+       "id": "b",
+       "bn": "ল্যাক্টোজ",
+       "en": "Lactose"
+      },
+      {
+       "id": "c",
+       "bn": "মল্টোজ",
+       "en": "Maltose"
+      },
+      {
+       "id": "d",
+       "bn": "স্টার্চ",
+       "en": "Starch"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুধের শর্করা ল্যাক্টোজ।",
+     "explanation_en": "Milk's sugar is lactose.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ল্যাক্টোজ কোন কোন মনোস্যাকারাইড দিয়ে গঠিত?",
+     "question_en": "Which monosaccharides form lactose?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্লুকোজ + ফ্রুক্টোজ",
+       "en": "Glucose + fructose"
+      },
+      {
+       "id": "b",
+       "bn": "গ্লুকোজ + গ্যালাক্টোজ",
+       "en": "Glucose + galactose"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ + গ্লুকোজ",
+       "en": "Glucose + glucose"
+      },
+      {
+       "id": "d",
+       "bn": "ফ্রুক্টোজ + গ্যালাক্টোজ",
+       "en": "Fructose + galactose"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "একটি গ্লুকোজ ও একটি গ্যালাক্টোজ অণু মিলে ল্যাক্টোজ।",
+     "explanation_en": "One glucose and one galactose.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "১০০ g গরুর দুধের শক্তিমান বইয়ের সারণি অনুসারে কত?",
+     "question_en": "Per the book's table, energy value of 100 g cow milk is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৬৯ kcal",
+       "en": "69 kcal"
+      },
+      {
+       "id": "b",
+       "bn": "১১০ kcal",
+       "en": "110 kcal"
+      },
+      {
+       "id": "c",
+       "bn": "৭৩ kcal",
+       "en": "73 kcal"
+      },
+      {
+       "id": "d",
+       "bn": "১০৯ kcal",
+       "en": "109 kcal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গরুর দুধ ৬৯ kcal/100 g; ১১০ মহিষের।",
+     "explanation_en": "Cow milk is 69 kcal; 110 is buffalo.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দুধে হলুদাভ রঙের কারণ কোন রঞ্জক?",
+     "question_en": "Which pigments give milk its yellowish tint?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্লোরোফিল",
+       "en": "Chlorophyll"
+      },
+      {
+       "id": "b",
+       "bn": "ক্যারোটিন ও জ্যান্থোফিল",
+       "en": "Carotene and xanthophyll"
+      },
+      {
+       "id": "c",
+       "bn": "হিমোগ্লোবিন",
+       "en": "Haemoglobin"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যান্থোসায়ানিন",
+       "en": "Anthocyanin"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্যারোটিন (কমলা) ও জ্যান্থোফিল (হলুদ)।",
+     "explanation_en": "Carotene and xanthophyll.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "5.8",
+   "title_bn": "দুধ থেকে মাখন পৃথকীকরণ",
+   "title_en": "Separation of Butter from Milk",
+   "notes_bn": "মাখন: দুধ থেকে পৃথকীকৃত স্নেহ উপাদানের ইমালশন, পানিতে তেল নয়, বরং স্নেহের মধ্যে পানির ইমালশন। প্রায় ৮০% স্নেহ, ১৬% পানি, ৪% দুগ্ধ প্রোটিন।\nধাপ: (১) pH নিয়ন্ত্রণ, (২) পাস্তুরায়ন, (৩) শীতলীকরণ, (৪) মন্থন।\npH: দুধের pH ৬.৯-৭.১ রাখা হয়; ৬.৫ এর নিচে মাখনের উৎপাদন কমে, ৫.০ এ প্রায় অসম্ভব। ল্যাক্টোব্যাকটেরিয়া ল্যাক্টোজ গাঁজিয়ে ল্যাক্টিক অ্যাসিড তৈরি করে, কেইসিন জমে যায়। NaHCO3 বা Na2CO3 দিয়ে pH ৬.৯-৭.১ এ রাখা হয়; দুধ ১০ °C এর নিচে ঠান্ডা করা হয়।\nপাস্তুরায়ন: ৯৫-১৪০ °C এ উত্তপ্ত করে অণুজীব ও এনজাইম ধ্বংস। উচ্চ তাপমাত্রা: ৭৪-৭৫ °C এ ১৫-১৬ সেকেন্ড। অতি উচ্চ তাপমাত্রা (ultra): ১৩৮-১৪০ °C এ ২ সেকেন্ড।\nশীতলীকরণ: পাস্তুরিত দুধ ঠান্ডা করা; গ্রীষ্মে ৭-১০ °C, শীতে ১০-১২ °C।\nমন্থন: সেন্ট্রিফিউজ করে ক্রিম ও ঘোল (butter milk) আলাদা করা; ক্রিম থেকে মাখন।\nগ্রীষ্মে ৪-৯ ঘণ্টা রাখলে ল্যাক্টিক অ্যাসিডে pH ৭ থেকে ৫ এর নিচে নামে; ফুটালে ছানা কাটে।\nঘরে মাখন: বাঁশের টুকরা দিয়ে তৈরি মন্থনদণ্ড ঘুরিয়ে (সেন্ট্রিফিউজের বিকল্প) মাখন ভেসে ওঠে।",
+   "notes_en": "Butter: emulsion of milk fat separated from milk; it is a water-in-fat emulsion. About 80% fat, 16% water, 4% milk protein.\nSteps: (1) pH control, (2) pasteurisation, (3) cooling, (4) churning.\npH: keep at 6.9-7.1; below 6.5 butter yield falls, at 5.0 it is nearly impossible. Lactobacilli ferment lactose to lactic acid, curdling casein. NaHCO3 or Na2CO3 keeps pH 6.9-7.1; milk is cooled below 10 C.\nPasteurisation: heating (95-140 C) kills microbes and enzymes. High temperature: 74-75 C for 15-16 s. Ultra: 138-140 C for 2 s.\nCooling: pasteurised milk is chilled; 7-10 C in summer, 10-12 C in winter.\nChurning: centrifuging separates cream and buttermilk; cream gives butter.\nIn summer, after 4-9 h pH drops from 7 to below 5; boiling curdles milk.\nHome method: a bamboo churning stick (centrifuge substitute) makes butter rise to the top.",
+   "mcqs": [
+    {
+     "question_bn": "মাখনে পানির পরিমাণ প্রায় কত?",
+     "question_en": "About how much water does butter contain?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৮০%",
+       "en": "80%"
+      },
+      {
+       "id": "b",
+       "bn": "১৬%",
+       "en": "16%"
+      },
+      {
+       "id": "c",
+       "bn": "৪%",
+       "en": "4%"
+      },
+      {
+       "id": "d",
+       "bn": "৫০%",
+       "en": "50%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মাখনে ৮০% স্নেহ, ১৬% পানি, ৪% প্রোটিন।",
+     "explanation_en": "80% fat, 16% water, 4% protein.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মাখন কোন ধরনের ইমালশন?",
+     "question_en": "What kind of emulsion is butter?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানিতে তেল",
+       "en": "Oil in water"
+      },
+      {
+       "id": "b",
+       "bn": "তেলে পানি",
+       "en": "Water in oil"
+      },
+      {
+       "id": "c",
+       "bn": "গ্যাসে তরল",
+       "en": "Liquid in gas"
+      },
+      {
+       "id": "d",
+       "bn": "কঠিনে গ্যাস",
+       "en": "Gas in solid"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মাখনে স্নেহের মধ্যে পানির ইমালশন থাকে।",
+     "explanation_en": "Water-in-fat emulsion.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মাখন তৈরির জন্য দুধের pH কত রাখা শ্রেয়?",
+     "question_en": "What milk pH is best for butter making?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৫.০",
+       "en": "5.0"
+      },
+      {
+       "id": "b",
+       "bn": "৬.৯-৭.১",
+       "en": "6.9-7.1"
+      },
+      {
+       "id": "c",
+       "bn": "৩.০",
+       "en": "3.0"
+      },
+      {
+       "id": "d",
+       "bn": "৯.০",
+       "en": "9.0"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুধের pH ৬.৯-৭.১ রাখা হয়।",
+     "explanation_en": "Keep pH 6.9-7.1.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "দুধের pH নিয়ন্ত্রণে কোন যৌগ যোগ করা হয়?",
+     "question_en": "Which compound is added to control milk pH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "b",
+       "bn": "NaHCO3",
+       "en": "NaHCO3"
+      },
+      {
+       "id": "c",
+       "bn": "ফরমালিন",
+       "en": "Formalin"
+      },
+      {
+       "id": "d",
+       "bn": "H2SO4",
+       "en": "H2SO4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NaHCO3 বা Na2CO3 অম্লত্ব কমায়।",
+     "explanation_en": "NaHCO3 or Na2CO3 reduces acidity.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অতি উচ্চ তাপমাত্রা পাস্তুরায়নে তাপমাত্রা ও সময় কত?",
+     "question_en": "Temperature and time in ultra-high-temperature pasteurisation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৭৪-৭৫ °C, ১৫-১৬ সেকেন্ড",
+       "en": "74-75 C, 15-16 s"
+      },
+      {
+       "id": "b",
+       "bn": "১৩৮-১৪০ °C, ২ সেকেন্ড",
+       "en": "138-140 C, 2 s"
+      },
+      {
+       "id": "c",
+       "bn": "৫০ °C, ১ ঘণ্টা",
+       "en": "50 C, 1 h"
+      },
+      {
+       "id": "d",
+       "bn": "১০ °C, ২ সেকেন্ড",
+       "en": "10 C, 2 s"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ultra পাস্তুরিত দুধ ১৩৮-১৪০ °C এ মাত্র ২ সেকেন্ড।",
+     "explanation_en": "138-140 C for 2 s.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দুধ গরমকালে রেখে দিলে ঘনীভূত হয়ে ছানা হয় কেন?",
+     "question_en": "Why does milk curdle when left standing in summer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ল্যাক্টোব্যাকটেরিয়া ল্যাক্টোজ থেকে ল্যাক্টিক অ্যাসিড তৈরি করে pH কমায়, কেইসিন জমে",
+       "en": "Lactobacilli make lactic acid from lactose, lowering pH and coagulating casein"
+      },
+      {
+       "id": "b",
+       "bn": "পানি বাষ্প হয়ে",
+       "en": "Water evaporates"
+      },
+      {
+       "id": "c",
+       "bn": "চর্বি জমে",
+       "en": "Fat solidifies"
+      },
+      {
+       "id": "d",
+       "bn": "লবণ মিশে",
+       "en": "Salt dissolves in it"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ল্যাক্টিক অ্যাসিডে pH কমে কেইসিন জমে ছানা তৈরি হয়।",
+     "explanation_en": "Lactic acid lowers pH and coagulates casein.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "5.3",
+   "stimulus_bn": "রহিম সাহেব একটি কারখানায় আম কৌটাজাত করেন। তিনি পাকা আম ধুয়ে টুকরা করে ফুটন্ত পানিতে রাখেন, কৌটায় ভরে ৩০-৪০% চিনির দ্রবণ ও সাইট্রিক অ্যাসিড দেন, কৌটার ২/৩ অংশ ৮৫-৯৫ °C পানিতে ৫-৭ মিনিট রেখে পরে সিল করেন ও ৯০-১০০ °C এ ৩০ মিনিট ফুটান।",
+   "stimulus_en": "Mr Rahim cans mangoes in a factory. He washes and cuts ripe mangoes, boils them in water, fills cans with 30-40% sugar syrup and citric acid, keeps 2/3 of the can in water at 85-95 C for 5-7 min, seals, then boils at 90-100 C for 30 min.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ব্লাঞ্চিং কী?",
+     "question_en": "What is blanching?",
+     "model_answer_bn": "খাদ্যকে ফুটন্ত পানি বা বাষ্পে ৫-১০ মিনিট উত্তপ্ত করার ধাপকে ব্লাঞ্চিং বলে।",
+     "model_answer_en": "Heating food in boiling water or steam for 5-10 minutes."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "কৌটাজাতকরণে এগজস্টিং কেন করা হয়?",
+     "question_en": "Why is exhausting done in canning?",
+     "model_answer_bn": "উত্তপ্ত করলে কৌটার ভেতরের বায়ু বের হয়ে যায়। বায়ু না থাকলে অণুজীব জন্মাতে পারে না এবং খাদ্য জারিত হয় না।",
+     "model_answer_en": "Heating expels air from the can; without air microbes cannot grow and the food does not oxidise."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "রহিম সাহেবের ব্যবহৃত ধাপগুলো চিহ্নিত করে ক্রম লেখো এবং কোন ধাপটি ছাড়া কৌটা নষ্ট হতে পারে বলো।",
+     "question_en": "Identify the canning steps Rahim used in order, and say which skipped step could spoil the can.",
+     "model_answer_bn": "ধাপ: ধৌতকরণ, টুকরা, ব্লাঞ্চিং, কৌটায় ভরা ও প্রিজারভেটিভ যোগ, এগজস্টিং, সিলিং, স্টেরিলাইজিং। স্টেরিলাইজিং বাদ গেলে অবশিষ্ট অণুজীব কৌটা নষ্ট করবে।",
+     "model_answer_en": "Washing, cutting, blanching, filling with preservative, exhausting, sealing, sterilising. Skipping sterilising leaves microbes that spoil the can."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "যদি একই পদ্ধতিতে গরুর মাংস কৌটাজাত করা হয়, তবে কী কী পরিবর্তন প্রয়োজন? যুক্তি দাও।",
+     "question_en": "If beef is canned by the same method, what changes are needed? Justify.",
+     "model_answer_bn": "মাংস কম অ্যাসিড খাদ্য, তাই চিনির বদলে ২% লবণ ও ২% চিনির দ্রবণ ব্যবহার, আর স্টেরিলাইজেশন প্রায় ১২১ °C এ ১-১.৫ ঘণ্টা করতে হবে, কারণ ৯০-১০০ °C এ সব অণুজীব ও স্পোর মরে না।",
+     "model_answer_en": "Meat is low-acid, so 2% salt and 2% sugar liquid is used and sterilisation must be about 121 C for 1-1.5 h, since 90-100 C does not kill all microbes."
+    }
+   ]
+  },
+  {
+   "topic_section": "5.6",
+   "stimulus_bn": "পানিতে NaCl, স্টার্চ ও বালি আলাদা আলাদা পাত্রে মেশানো হলো। একটি মিশ্রণ ফিল্টার কাগজ ও পার্চমেন্ট উভয়ই ভেদ করে; একটি শুধু ফিল্টার কাগজ ভেদ করে; অন্যটি কোনোটাই ভেদ করে না।",
+   "stimulus_en": "NaCl, starch and sand are mixed with water separately. One mixture passes both filter paper and parchment; one passes only filter paper; one passes neither.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "কোয়াগুলেশন কী?",
+     "question_en": "What is coagulation?",
+     "model_answer_bn": "কলয়েড কণার আধান প্রশমিত হয়ে কণাগুলো একত্র হয়ে অধঃক্ষিপ্ত হওয়ার প্রক্রিয়া।",
+     "model_answer_en": "Neutralisation of colloid particle charge so they aggregate and settle."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রকৃত দ্রবণ ও কলয়েডের দুটি পার্থক্য লেখো।",
+     "question_en": "Give two differences between a true solution and a colloid.",
+     "model_answer_bn": "প্রকৃত দ্রবণ সমসত্ত্ব ও স্বচ্ছ, আলো বিচ্ছুরণ করে না, ব্রাউনীয় গতি নেই; কলয়েড অসমসত্ত্ব, আলো বিচ্ছুরণ (টিন্ডাল) করে, ব্রাউনীয় গতি দেখায়।",
+     "model_answer_en": "True solution is homogeneous, transparent, no scattering, no Brownian motion; colloid is heterogeneous, scatters light (Tyndall), shows Brownian motion."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "উদ্দীপকের তিনটি মিশ্রণকে শনাক্ত করো।",
+     "question_en": "Identify the three mixtures in the stimulus.",
+     "model_answer_bn": "উভয় ভেদ করে: NaCl-এর প্রকৃত দ্রবণ; শুধু ফিল্টার ভেদ: স্টার্চের কলয়েড; কোনোটি নয়: বালির সাসপেনশন।",
+     "model_answer_en": "Passes both: NaCl true solution; only filter: starch colloid; neither: sand suspension."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ঋণাত্মক আধানযুক্ত As2S3 সলকে NaCl ও AlCl3 দিয়ে কোয়াগুলেট করলে কোনটি কম পরিমাণে কাজ করবে? হার্ডি-শুলজ সূত্রসহ ব্যাখ্যা করো।",
+     "question_en": "Which of NaCl and AlCl3 coagulates negative As2S3 sol in smaller amount? Explain using the Hardy-Schulze rule.",
+     "model_answer_bn": "AlCl3। হার্ডি-শুলজ সূত্রে বিপরীত (ধনাত্মক) আয়ন কার্যকর এবং যোজ্যতা বেশি হলে ক্ষমতা বেশি। Al3+ ত্রিযোজী, Na+ একযোজী; বইয়ের মানে AlCl3 লাগে ০.০৯৩ mmol, NaCl লাগে ৫২ mmol।",
+     "model_answer_en": "AlCl3. By the rule, oppositely charged ions act and higher valency is stronger. Al3+ is trivalent, Na+ monovalent; the book gives 0.093 mmol for AlCl3 vs 52 mmol for NaCl."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 588-635 read and legible. Pages 636-640 (5.9-5.11 butter draining, ghee, toiletries) outside assigned sections, skipped. Book gives inconsistent size ranges for colloid/suspension (1-100 nm vs 2-500 nm; suspension >1000 nm vs >500 nm); notes use 1-100 nm and MCQs avoid the ambiguous thresholds. Section 5.8 body is headed 'Coagulation' for churning in the book (typo); treated as churning. Page offset: PDF index = printed page + 2."
+}

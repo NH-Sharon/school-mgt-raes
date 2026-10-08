@@ -1,0 +1,1687 @@
+{
+ "chapter_no": 2,
+ "topics": [
+  {
+   "section_no": "2.1",
+   "title_bn": "রাদারফোর্ড পরমাণু মডেল",
+   "title_en": "Rutherford Atom Model",
+   "notes_bn": "থমসনের প্লাম পুডিং মডেলের পরীক্ষামূলক যাচাইয়ে রাদারফোর্ড ১৯১১ সালে পাতলা সোনার পাতে α-কণা (He²⁺) বিক্ষেপণ পরীক্ষা করেন।\nপ্রায় ৯৯% α-কণা সোজা বেরিয়ে যায়, অল্প কিছু বেঁকে যায়, প্রায় বিশ হাজারে একটি ফিরে আসে।\nসিদ্ধান্ত: পরমাণুর বেশির ভাগ স্থান ফাঁকা; কেন্দ্রে অতি ক্ষুদ্র, ঘন, ধনাত্মক ও ভারী নিউক্লিয়াস; প্রায় সব ভর সেখানে।\nনিউক্লিয়াসের ব্যাস প্রায় 10⁻⁶–10⁻⁵ nm; পরমাণুর ব্যাস নিউক্লিয়াসের প্রায় ১০০০০০ গুণ।\nইলেকট্রন নিউক্লিয়াসকে ঘিরে বৃত্তাকার পথে ঘোরে; কেন্দ্রমুখী (আকর্ষণ) ও কেন্দ্রবিমুখী বল সমান ও বিপরীত।\nসীমাবদ্ধতা: ম্যাক্সওয়েল অনুযায়ী ঘূর্ণনরত ইলেকট্রন শক্তি বিকিরণ করে নিউক্লিয়াসে পড়ে যেত; রেখা বর্ণালি ও ইলেকট্রনের কক্ষপথের আকার-আয়তন ব্যাখ্যা করতে পারে না।",
+   "notes_en": "Rutherford (1911) fired alpha particles (He2+) at thin gold foil to test Thomson's plum-pudding model.\nAbout 99% passed straight, a few deflected, about 1 in 20,000 bounced back.\nConclusions: atom is mostly empty space; tiny, dense, positive, heavy nucleus holds nearly all mass.\nNucleus diameter ~10^-6 to 10^-5 nm; atom is ~100,000 times wider.\nElectrons orbit the nucleus; centripetal attraction balances centrifugal force.\nLimitations: by Maxwell's theory the orbiting electron would radiate and spiral into the nucleus; cannot explain line spectra or orbit size/shape.",
+   "mcqs": [
+    {
+     "question_bn": "রাদারফোর্ড কোন পরীক্ষার মাধ্যমে পরমাণুর নিউক্লিয়াস আবিষ্কার করেন?",
+     "question_en": "Which experiment led Rutherford to the nucleus?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্যাথোড রশ্মি পরীক্ষা",
+       "en": "Cathode ray experiment"
+      },
+      {
+       "id": "b",
+       "bn": "সোনার পাতে α-কণা বিক্ষেপণ",
+       "en": "Alpha-particle scattering on gold foil"
+      },
+      {
+       "id": "c",
+       "bn": "তেলের ফোঁটা পরীক্ষা",
+       "en": "Oil-drop experiment"
+      },
+      {
+       "id": "d",
+       "bn": "ফটোইলেকট্রিক ক্রিয়া",
+       "en": "Photoelectric effect"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "রাদারফোর্ড ১৯১১ সালে সোনার পাতে α-কণা বিক্ষেপণ পরীক্ষা করে নিউক্লিয়াসের ধারণা পান।",
+     "explanation_en": "Rutherford's 1911 alpha scattering on gold foil revealed the nucleus.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "α-কণা কী?",
+     "question_en": "What is an alpha particle?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দ্বিধনাত্মক হিলিয়াম নিউক্লিয়াস (He²⁺)",
+       "en": "Doubly positive helium nucleus (He2+)"
+      },
+      {
+       "id": "b",
+       "bn": "ঋণাত্মক ইলেকট্রন",
+       "en": "Negative electron"
+      },
+      {
+       "id": "c",
+       "bn": "নিরপেক্ষ হিলিয়াম পরমাণু",
+       "en": "Neutral helium atom"
+      },
+      {
+       "id": "d",
+       "bn": "হাইড্রোজেন নিউক্লিয়াস",
+       "en": "Hydrogen nucleus"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হিলিয়াম পরমাণু থেকে দুটি ইলেকট্রন সরালে যে He²⁺ পাওয়া যায় তাই α-কণা।",
+     "explanation_en": "Removing two electrons from helium gives He2+, the alpha particle.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রায় ৯৯% α-কণা সোনার পাত ভেদ করে সোজা চলে যাওয়া কী প্রমাণ করে?",
+     "question_en": "Nearly 99% of alpha particles passing straight through gold foil shows that:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিউক্লিয়াস ঋণাত্মক",
+       "en": "The nucleus is negative"
+      },
+      {
+       "id": "b",
+       "bn": "পরমাণুর অধিকাংশ স্থান ফাঁকা",
+       "en": "Most of the atom is empty space"
+      },
+      {
+       "id": "c",
+       "bn": "ইলেকট্রন খুব ভারী",
+       "en": "Electrons are very heavy"
+      },
+      {
+       "id": "d",
+       "bn": "পরমাণু সুষম ধনাত্মক গোলক",
+       "en": "Atom is a uniform positive sphere"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বাধা না পেয়ে সোজা যাওয়ার অর্থ পরমাণুর ভেতরে বড় অংশ ফাঁকা।",
+     "explanation_en": "Undeflected passage implies most of the atom is empty.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রায় বিশ হাজার α-কণার মধ্যে একটি ফিরে আসা কী নির্দেশ করে?",
+     "question_en": "About one in twenty thousand alpha particles bouncing back indicates:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলেকট্রনের সংখ্যা বেশি",
+       "en": "Many electrons"
+      },
+      {
+       "id": "b",
+       "bn": "নিউক্লিয়াস ভারী, ধনাত্মক ও অতি ক্ষুদ্র",
+       "en": "A heavy, positive, very small nucleus"
+      },
+      {
+       "id": "c",
+       "bn": "পরমাণু আধানহীন নয়",
+       "en": "The atom is charged"
+      },
+      {
+       "id": "d",
+       "bn": "সোনার পাত স্বচ্ছ",
+       "en": "Gold foil is transparent"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সরাসরি ধাক্কা খেয়ে ফিরে আসতে হলে কেন্দ্র ভারী, ধনাত্মক ও অতি ছোট হতে হবে।",
+     "explanation_en": "Head-on rebounds need a heavy, positive, tiny centre.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রাদারফোর্ড মডেল অনুসারে পরমাণুর ব্যাস নিউক্লিয়াসের ব্যাসের প্রায় কত গুণ?",
+     "question_en": "In Rutherford's model, the atom's diameter is about how many times the nucleus's?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১০ গুণ",
+       "en": "10 times"
+      },
+      {
+       "id": "b",
+       "bn": "১০০ গুণ",
+       "en": "100 times"
+      },
+      {
+       "id": "c",
+       "bn": "১০০০ গুণ",
+       "en": "1,000 times"
+      },
+      {
+       "id": "d",
+       "bn": "১০০০০০ গুণ",
+       "en": "100,000 times"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "বইয়ে পরমাণুর ব্যাস নিউক্লিয়াসের তুলনায় প্রায় ১০০০০০ গুণ বড় বলা হয়েছে।",
+     "explanation_en": "The text states the atom is ~100,000 times wider than the nucleus.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "রাদারফোর্ড মডেলের একটি প্রধান সীমাবদ্ধতা কোনটি?",
+     "question_en": "A main limitation of Rutherford's model is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিউক্লিয়াসের অস্তিত্ব ব্যাখ্যা করতে পারে না",
+       "en": "It cannot explain the nucleus"
+      },
+      {
+       "id": "b",
+       "bn": "ঘূর্ণনরত ইলেকট্রন শক্তি বিকিরণ করে নিউক্লিয়াসে পড়ার কথা, ফলে স্থায়িত্ব ব্যাখ্যা হয় না",
+       "en": "A revolving electron should radiate energy and fall into the nucleus, so stability is unexplained"
+      },
+      {
+       "id": "c",
+       "bn": "পরমাণু আধান নিরপেক্ষ ব্যাখ্যা করে না",
+       "en": "It cannot explain neutrality"
+      },
+      {
+       "id": "d",
+       "bn": "α-কণা বিক্ষেপণ ব্যাখ্যা করতে পারে না",
+       "en": "It cannot explain alpha scattering"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ম্যাক্সওয়েলের তত্ত্বে আধানযুক্ত কণা বৃত্তাকার পথে ঘুরলে শক্তি হারায়, তাই কক্ষপথ ক্রমে ছোট হয়ে পতন ঘটার কথা।",
+     "explanation_en": "By Maxwell's theory a charged particle in circular motion loses energy and would spiral inward.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.2",
+   "title_bn": "বোর পরমাণু মডেল",
+   "title_en": "Bohr's Atom Model",
+   "notes_bn": "নীলস বোর (১৯১৩) প্ল্যাঙ্কের কোয়ান্টাম তত্ত্বের ভিত্তিতে মডেল দেন। ইলেকট্রন নির্দিষ্ট শক্তিস্তরে (n = 1, 2, 3 …) বৃত্তাকার কক্ষপথে ঘোরে।\nকৌণিক ভরবেগ: mvr = nh/2π (h = 6.626×10⁻³⁴ J s)। স্থায়ী কক্ষপথে ইলেকট্রন শক্তি শোষণ বা বিকিরণ করে না।\nশক্তিস্তর বদলালে ΔE = E₂ − E₁ = hν শোষিত বা বিকিরিত হয়; এ থেকেই রেখা বর্ণালি।\nH পরমাণুর ক্ষেত্রে: rₙ = n² × 0.5301 Å; Eₙ = −1313.315/n² kJ mol⁻¹ (E₁ = −1313.315, E₂ = −328.328); v = 2.1889×10⁶/n m s⁻¹। Z ধনাত্মক চার্জের আয়নে rₙ = n² × 5.29×10⁻¹¹/Z m, Eₙ = −1313.315 Z²/n² kJ mol⁻¹।\nডি-ব্রগলি (১৯২৪): λ = h/mv; কণা ও তরঙ্গ দ্বৈত প্রকৃতি। হাইজেনবার্গ: Δx·Δp ≥ h/4π। শ্রোডিঞ্জার (১৯২৬) তরঙ্গ সমীকরণ; ψ² দ্বারা ইলেকট্রন পাওয়ার সম্ভাবনা ঘনত্ব; ৯০–৯৫% সম্ভাবনার ত্রিমাত্রিক অঞ্চল = অরবিটাল।\nসীমাবদ্ধতা: একাধিক ইলেকট্রনের পরমাণুর বর্ণালি, জীমান ও স্টার্ক প্রভাব, সূক্ষ্ম রেখা ব্যাখ্যা করতে পারে না।",
+   "notes_en": "Bohr (1913) built on Planck's quantum theory: electrons move in circular orbits of fixed energy (n = 1, 2, 3...).\nAngular momentum mvr = nh/2pi (h = 6.626e-34 J s); no energy is radiated in a stationary orbit.\nJump between levels absorbs/emits dE = E2 - E1 = h*nu, giving line spectra.\nFor H: r_n = n^2 x 0.5301 A; E_n = -1313.315/n^2 kJ/mol (E1 = -1313.315, E2 = -328.328); v = 2.1889e6/n m/s. For one-electron ions: r_n = n^2 x 5.29e-11/Z m, E_n = -1313.315 Z^2/n^2 kJ/mol.\nde Broglie (1924): lambda = h/mv. Heisenberg: dx.dp >= h/4pi. Schrodinger (1926) wave equation; psi^2 = probability density; region with 90-95% chance = orbital.\nLimits: fails for multi-electron atoms, Zeeman and Stark effects, fine spectral lines.",
+   "mcqs": [
+    {
+     "question_bn": "বোরের মতে স্থায়ী কক্ষপথে ইলেকট্রনের কৌণিক ভরবেগ কত?",
+     "question_en": "According to Bohr, the angular momentum of an electron in a stable orbit is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "nh/2π",
+       "en": "nh/2π"
+      },
+      {
+       "id": "b",
+       "bn": "h/2πn",
+       "en": "h/2πn"
+      },
+      {
+       "id": "c",
+       "bn": "2πh/n",
+       "en": "2πh/n"
+      },
+      {
+       "id": "d",
+       "bn": "nh²/2π",
+       "en": "nh²/2π"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বোরের শর্ত: mvr = nh/2π, যেখানে n পূর্ণসংখ্যা।",
+     "explanation_en": "Bohr's condition: mvr = nh/2pi with n an integer.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "স্থায়ী কক্ষপথে আবর্তনকালে ইলেকট্রন সম্পর্কে বোরের ধারণা কোনটি?",
+     "question_en": "Bohr's view of an electron moving in a stationary orbit:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্রমাগত শক্তি বিকিরণ করে",
+       "en": "Continuously radiates energy"
+      },
+      {
+       "id": "b",
+       "bn": "শক্তি শোষণ বা বিকিরণ করে না",
+       "en": "Neither absorbs nor emits energy"
+      },
+      {
+       "id": "c",
+       "bn": "শক্তি বিকিরণ করে নিউক্লিয়াসে পড়ে",
+       "en": "Radiates and falls into nucleus"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু শক্তি শোষণ করে",
+       "en": "Only absorbs energy"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নির্দিষ্ট স্থায়ী কক্ষপথে ইলেকট্রনের মোট শক্তি স্থির থাকে।",
+     "explanation_en": "In a fixed stationary orbit the electron's total energy stays constant.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইলেকট্রন E₁ স্তর থেকে E₂ স্তরে (E₂ > E₁) উঠতে কত শক্তি শোষণ করে?",
+     "question_en": "How much energy does an electron absorb moving from E1 to a higher level E2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "E₁ + E₂",
+       "en": "E1 + E2"
+      },
+      {
+       "id": "b",
+       "bn": "hν = E₂ − E₁",
+       "en": "h*nu = E2 − E1"
+      },
+      {
+       "id": "c",
+       "bn": "E₁ − E₂",
+       "en": "E1 − E2"
+      },
+      {
+       "id": "d",
+       "bn": "E₁ × E₂",
+       "en": "E1 x E2"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শোষিত শক্তি শক্তিস্তরের পার্থক্যের সমান: ΔE = E₂ − E₁ = hν।",
+     "explanation_en": "Absorbed energy equals the level difference: dE = E2 − E1 = h*nu.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H পরমাণুর ৩য় বোর কক্ষপথের ব্যাসার্ধ কত?",
+     "question_en": "What is the radius of the 3rd Bohr orbit of hydrogen?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.53 Å",
+       "en": "0.53 Å"
+      },
+      {
+       "id": "b",
+       "bn": "2.12 Å",
+       "en": "2.12 Å"
+      },
+      {
+       "id": "c",
+       "bn": "4.77 Å",
+       "en": "4.77 Å"
+      },
+      {
+       "id": "d",
+       "bn": "8.48 Å",
+       "en": "8.48 Å"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "rₙ = n² × 0.5301 Å = 9 × 0.5301 = 4.77 Å।",
+     "explanation_en": "r_n = n^2 x 0.5301 A = 9 x 0.5301 = 4.77 A.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H পরমাণুর ২য় শক্তিস্তরে ইলেকট্রনের শক্তি (kJ mol⁻¹) কত?",
+     "question_en": "Energy of the electron in the 2nd level of H (kJ/mol):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−1313.315",
+       "en": "−1313.315"
+      },
+      {
+       "id": "b",
+       "bn": "−656.658",
+       "en": "−656.658"
+      },
+      {
+       "id": "c",
+       "bn": "−328.328",
+       "en": "−328.328"
+      },
+      {
+       "id": "d",
+       "bn": "−145.924",
+       "en": "−145.924"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "E₂ = −1313.315/2² = −1313.315/4 ≈ −328.328 kJ mol⁻¹।",
+     "explanation_en": "E2 = −1313.315/4 ≈ −328.328 kJ/mol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Li²⁺ আয়নের (Z = 3) ২য় কক্ষপথের ব্যাসার্ধ প্রায় কত? (rₙ = n²×5.29×10⁻¹¹/Z m)",
+     "question_en": "Approximate radius of the 2nd orbit of Li2+ (Z = 3)? (r_n = n^2 x 5.29e-11/Z m)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "211.6 pm",
+       "en": "211.6 pm"
+      },
+      {
+       "id": "b",
+       "bn": "105.8 pm",
+       "en": "105.8 pm"
+      },
+      {
+       "id": "c",
+       "bn": "70.5 pm",
+       "en": "70.5 pm"
+      },
+      {
+       "id": "d",
+       "bn": "23.5 pm",
+       "en": "23.5 pm"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "r₂ = 4 × 5.29×10⁻¹¹/3 ≈ 7.05×10⁻¹¹ m = 70.5 pm।",
+     "explanation_en": "r2 = 4 x 5.29e-11/3 ≈ 7.05e-11 m = 70.5 pm.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ডি-ব্রগলি সমীকরণ অনুযায়ী গতিশীল কণার তরঙ্গদৈর্ঘ্য কত?",
+     "question_en": "By de Broglie's equation the wavelength of a moving particle is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "λ = mv/h",
+       "en": "λ = mv/h"
+      },
+      {
+       "id": "b",
+       "bn": "λ = h/mv",
+       "en": "λ = h/mv"
+      },
+      {
+       "id": "c",
+       "bn": "λ = hmv",
+       "en": "λ = hmv"
+      },
+      {
+       "id": "d",
+       "bn": "λ = h/m²v",
+       "en": "λ = h/m²v"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "λ = h/mv; ভরবেগ বাড়লে তরঙ্গদৈর্ঘ্য কমে।",
+     "explanation_en": "lambda = h/mv; larger momentum means shorter wavelength.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "2.85×10⁷ m s⁻¹ বেগের ইলেকট্রনের (m = 9.109×10⁻³¹ kg) ডি-ব্রগলি তরঙ্গদৈর্ঘ্য প্রায় কত?",
+     "question_en": "de Broglie wavelength of an electron (m = 9.109e-31 kg) at 2.85e7 m/s is about:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2.55×10⁻¹¹ m",
+       "en": "2.55e-11 m"
+      },
+      {
+       "id": "b",
+       "bn": "2.55×10⁻⁹ m",
+       "en": "2.55e-9 m"
+      },
+      {
+       "id": "c",
+       "bn": "3.9×10⁻¹¹ m",
+       "en": "3.9e-11 m"
+      },
+      {
+       "id": "d",
+       "bn": "1.4×10⁻²⁸ m",
+       "en": "1.4e-28 m"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "λ = 6.626×10⁻³⁴/(9.109×10⁻³¹ × 2.85×10⁷) ≈ 2.55×10⁻¹¹ m।",
+     "explanation_en": "lambda = 6.626e-34/(9.109e-31 x 2.85e7) ≈ 2.55e-11 m.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "হাইজেনবার্গের অনিশ্চয়তা নীতির গাণিতিক রূপ কোনটি?",
+     "question_en": "The mathematical form of Heisenberg's uncertainty principle is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Δx·Δp ≥ h/4π",
+       "en": "dx·dp ≥ h/4pi"
+      },
+      {
+       "id": "b",
+       "bn": "Δx·Δp ≤ 4π/h",
+       "en": "dx·dp ≤ 4pi/h"
+      },
+      {
+       "id": "c",
+       "bn": "Δx + Δp = h",
+       "en": "dx + dp = h"
+      },
+      {
+       "id": "d",
+       "bn": "Δx/Δp ≥ h",
+       "en": "dx/dp ≥ h"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অবস্থান ও ভরবেগের অনিশ্চয়তার গুণফল h/4π-এর কম হতে পারে না।",
+     "explanation_en": "The product of uncertainties in position and momentum cannot be below h/4pi.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ψ² কী নির্দেশ করে?",
+     "question_en": "What does ψ² represent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলেকট্রনের ভর",
+       "en": "Electron mass"
+      },
+      {
+       "id": "b",
+       "bn": "কোনো স্থানে ইলেকট্রন পাওয়ার সম্ভাবনা ঘনত্ব",
+       "en": "Probability density of finding the electron at a point"
+      },
+      {
+       "id": "c",
+       "bn": "কক্ষপথের ব্যাসার্ধ",
+       "en": "Orbit radius"
+      },
+      {
+       "id": "d",
+       "bn": "ইলেকট্রনের স্পিন",
+       "en": "Electron spin"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ψ² এর মান বেশি যেখানে সেখানে ইলেকট্রন পাওয়ার সম্ভাবনা বেশি।",
+     "explanation_en": "Where psi^2 is large the electron is more likely to be found.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.3",
+   "title_bn": "কোয়ান্টাম সংখ্যা, বিভিন্ন উপস্তর এবং ইলেকট্রন ধারণ ক্ষমতা",
+   "title_en": "Quantum Numbers, Subshells and Electron Capacity",
+   "notes_bn": "চারটি কোয়ান্টাম সংখ্যা ইলেকট্রনের অবস্থা সম্পূর্ণভাবে প্রকাশ করে: প্রধান (n), সহকারী (l), চৌম্বক (m), স্পিন (s)।\nপ্রধান n = 1, 2, 3 … (K, L, M, N …) শক্তিস্তর ও আকার নির্ধারণ করে; স্তরে সর্বোচ্চ ইলেকট্রন 2n² (K=2, L=8, M=18, N=32)।\nসহকারী l = 0 থেকে (n − 1): l = 0, 1, 2, 3 ⇒ s, p, d, f; উপস্তরের সংখ্যা = n।\nচৌম্বক m = −l থেকে +l; মানের সংখ্যা (2l + 1): s=1, p=3, d=5, f=7 অরবিটাল; n তম স্তরে মোট অরবিটাল n²।\nস্পিন s = +½ বা −½ (উলেনবেক ও গুডস্মিথ)।\nউপস্তরে সর্বোচ্চ ইলেকট্রন = 2(2l + 1): s=2, p=6, d=10, f=14।",
+   "notes_en": "Four quantum numbers describe an electron: principal (n), subsidiary (l), magnetic (m), spin (s).\nn = 1, 2, 3... (K, L, M, N) gives energy/size; a shell holds up to 2n^2 electrons (K=2, L=8, M=18, N=32).\nl = 0 to (n−1): 0,1,2,3 = s,p,d,f; a shell has n subshells.\nm runs from −l to +l, i.e. (2l+1) values: s=1, p=3, d=5, f=7 orbitals; n^2 orbitals in shell n.\nSpin s = +1/2 or −1/2 (Uhlenbeck and Goudsmit).\nSubshell capacity = 2(2l+1): s=2, p=6, d=10, f=14.",
+   "mcqs": [
+    {
+     "question_bn": "প্রধান কোয়ান্টাম সংখ্যা n = 3 হলে সর্বোচ্চ কতটি ইলেকট্রন থাকতে পারে?",
+     "question_en": "Maximum electrons in the shell with n = 3:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "8",
+       "en": "8"
+      },
+      {
+       "id": "b",
+       "bn": "18",
+       "en": "18"
+      },
+      {
+       "id": "c",
+       "bn": "32",
+       "en": "32"
+      },
+      {
+       "id": "d",
+       "bn": "9",
+       "en": "9"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2n² = 2 × 3² = 18।",
+     "explanation_en": "2n^2 = 2 x 9 = 18.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "n = 3 হলে সহকারী কোয়ান্টাম সংখ্যা l-এর সম্ভাব্য মান কোনগুলো?",
+     "question_en": "For n = 3, the possible values of l are:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0, 1",
+       "en": "0, 1"
+      },
+      {
+       "id": "b",
+       "bn": "0, 1, 2",
+       "en": "0, 1, 2"
+      },
+      {
+       "id": "c",
+       "bn": "1, 2, 3",
+       "en": "1, 2, 3"
+      },
+      {
+       "id": "d",
+       "bn": "0, 1, 2, 3",
+       "en": "0, 1, 2, 3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "l = 0 থেকে (n − 1) = 2 পর্যন্ত।",
+     "explanation_en": "l ranges from 0 to n−1 = 2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "স্পিন কোয়ান্টাম সংখ্যা কারা প্রস্তাব করেন?",
+     "question_en": "Who introduced the spin quantum number?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বোর",
+       "en": "Bohr"
+      },
+      {
+       "id": "b",
+       "bn": "সোমারফিল্ড",
+       "en": "Sommerfeld"
+      },
+      {
+       "id": "c",
+       "bn": "উলেনবেক ও গুডস্মিথ",
+       "en": "Uhlenbeck and Goudsmit"
+      },
+      {
+       "id": "d",
+       "bn": "জীমান",
+       "en": "Zeeman"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ক্ষার ধাতুর সূক্ষ্ম রেখা ব্যাখ্যায় তাঁরা চতুর্থ কোয়ান্টাম সংখ্যা এনেছিলেন।",
+     "explanation_en": "They proposed it to explain fine lines of alkali metals.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "d উপস্তরে চৌম্বক কোয়ান্টাম সংখ্যা m-এর কয়টি মান সম্ভব?",
+     "question_en": "How many values of m are possible for a d subshell?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "৫",
+       "en": "5"
+      },
+      {
+       "id": "c",
+       "bn": "৭",
+       "en": "7"
+      },
+      {
+       "id": "d",
+       "bn": "১০",
+       "en": "10"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "l = 2 ⇒ m = −2, −1, 0, +1, +2, সংখ্যা 2l+1 = 5।",
+     "explanation_en": "l = 2 gives m = −2…+2, i.e. 2l+1 = 5 values.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "n = 4 স্তরে মোট অরবিটাল সংখ্যা কত?",
+     "question_en": "Total number of orbitals in the shell n = 4:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৪",
+       "en": "4"
+      },
+      {
+       "id": "b",
+       "bn": "৮",
+       "en": "8"
+      },
+      {
+       "id": "c",
+       "bn": "১৬",
+       "en": "16"
+      },
+      {
+       "id": "d",
+       "bn": "৩২",
+       "en": "32"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "মোট অরবিটাল = n² = 16 (1+3+5+7)।",
+     "explanation_en": "Orbitals = n^2 = 16 (1+3+5+7).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "f উপস্তরে সর্বোচ্চ কতটি ইলেকট্রন ধারণ করতে পারে?",
+     "question_en": "Maximum electrons in an f subshell:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৬",
+       "en": "6"
+      },
+      {
+       "id": "b",
+       "bn": "১০",
+       "en": "10"
+      },
+      {
+       "id": "c",
+       "bn": "১৪",
+       "en": "14"
+      },
+      {
+       "id": "d",
+       "bn": "১৮",
+       "en": "18"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2(2l+1) = 2 × 7 = 14।",
+     "explanation_en": "2(2l+1) = 2 x 7 = 14.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন কোয়ান্টাম সংখ্যা-সেটটি সম্ভব নয়?",
+     "question_en": "Which set of quantum numbers is NOT allowed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "n=2, l=1, m=0",
+       "en": "n=2, l=1, m=0"
+      },
+      {
+       "id": "b",
+       "bn": "n=3, l=2, m=−2",
+       "en": "n=3, l=2, m=−2"
+      },
+      {
+       "id": "c",
+       "bn": "n=2, l=2, m=0",
+       "en": "n=2, l=2, m=0"
+      },
+      {
+       "id": "d",
+       "bn": "n=4, l=3, m=+3",
+       "en": "n=4, l=3, m=+3"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "l-এর সর্বোচ্চ মান (n − 1); n = 2 হলে l = 2 হতে পারে না।",
+     "explanation_en": "l can be at most n−1, so l = 2 is impossible for n = 2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.4",
+   "title_bn": "কোয়ান্টাম উপস্তরের শক্তিক্রম এবং আকৃতি",
+   "title_en": "Energy Order and Shapes of Quantum Subshells",
+   "notes_bn": "অরবিট: নিউক্লিয়াসকে ঘিরে বৃত্তাকার নির্দিষ্ট পথ, ধারণ ক্ষমতা 2n²। অরবিটাল: তরঙ্গ বলবিদ্যা ভিত্তিক ত্রিমাত্রিক অঞ্চল যেখানে ইলেকট্রন পাওয়ার সম্ভাবনা ৯০–৯৫%; সর্বোচ্চ ২টি ইলেকট্রন।\ns অরবিটাল গোলাকার (l = 0, m = 0), দিকধর্মহীন; আকার n বাড়লে বাড়ে। ns অরবিটালে (n − 1) টি নোড।\np অরবিটাল ডাম্বেল আকৃতির (l = 1); px, py, pz পরস্পর 90° কোণে x, y, z অক্ষ বরাবর; প্রতিটির একটি নোডাল তল (px-এর yz তল)।\nd অরবিটাল পাঁচটি (dxy, dyz, dzx, dx²−y², dz²); নোডাল তল ২টি; f-এর ৩টি।\nসমশক্তি: 2px = 2py = 2pz। শক্তিক্রম: 1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f।",
+   "notes_en": "Orbit: fixed circular path around nucleus, capacity 2n^2. Orbital: 3-D region with 90-95% chance of finding the electron (wave mechanics); holds at most 2 electrons.\ns orbital is spherical (l = 0, m = 0), non-directional; grows with n; ns has (n−1) nodes.\np orbitals are dumbbell-shaped (l = 1); px, py, pz lie along x, y, z at 90 degrees; each has one nodal plane (yz for px).\nd has five orbitals (dxy, dyz, dzx, dx2-y2, dz2), 2 nodal planes; f has 3.\np orbitals of one subshell are degenerate. Energy order: 1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f.",
+   "mcqs": [
+    {
+     "question_bn": "s অরবিটালের আকৃতি কেমন?",
+     "question_en": "What is the shape of an s orbital?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ডাম্বেল",
+       "en": "Dumbbell"
+      },
+      {
+       "id": "b",
+       "bn": "গোলাকার",
+       "en": "Spherical"
+      },
+      {
+       "id": "c",
+       "bn": "ডাবল ডাম্বেল",
+       "en": "Double dumbbell"
+      },
+      {
+       "id": "d",
+       "bn": "বর্গাকার",
+       "en": "Square"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "s অরবিটাল সুষম গোলাকার, তাই এর কোনো দিক ধর্ম নেই।",
+     "explanation_en": "The s orbital is symmetric and spherical, hence non-directional.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "একটি অরবিটালে সর্বোচ্চ কতটি ইলেকট্রন থাকতে পারে?",
+     "question_en": "Maximum number of electrons in one orbital:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "৬",
+       "en": "6"
+      },
+      {
+       "id": "d",
+       "bn": "৮",
+       "en": "8"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রতিটি অরবিটালে বিপরীত স্পিনের সর্বোচ্চ দুটি ইলেকট্রন থাকে।",
+     "explanation_en": "An orbital holds at most two electrons of opposite spin.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "3s অরবিটালে নোড (পর্ব) সংখ্যা কত?",
+     "question_en": "How many nodes does a 3s orbital have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "০",
+       "en": "0"
+      },
+      {
+       "id": "b",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "c",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "d",
+       "bn": "৩",
+       "en": "3"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ns অরবিটালে (n − 1) টি নোড; n = 3 হলে ২টি।",
+     "explanation_en": "ns has (n−1) nodes; for n=3 that is 2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন সম্পর্ক অনুযায়ী 4s, 3d অপেক্ষা কম শক্তির?",
+     "question_en": "By which relation is 4s lower in energy than 3d?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4s এর (n+l) = 4 এবং 3d এর (n+l) = 5",
+       "en": "(n+l) of 4s is 4; of 3d is 5"
+      },
+      {
+       "id": "b",
+       "bn": "4s এর (n+l) = 5 এবং 3d এর (n+l) = 4",
+       "en": "(n+l) of 4s is 5; of 3d is 4"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ের (n+l) = 5",
+       "en": "Both have (n+l) = 5"
+      },
+      {
+       "id": "d",
+       "bn": "n বেশি তাই শক্তি কম",
+       "en": "Larger n means lower energy"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "(n+l) যার কম তার শক্তি কম; 4s এর মান 4, 3d এর 5।",
+     "explanation_en": "Lower (n+l) means lower energy; 4s gives 4 and 3d gives 5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন উপস্তরের প্রতিটি অরবিটালে নোডাল তলের সংখ্যা ২?",
+     "question_en": "In which subshell does each orbital have 2 nodal planes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "s",
+       "en": "s"
+      },
+      {
+       "id": "b",
+       "bn": "p",
+       "en": "p"
+      },
+      {
+       "id": "c",
+       "bn": "d",
+       "en": "d"
+      },
+      {
+       "id": "d",
+       "bn": "f",
+       "en": "f"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বই অনুসারে s এ ০, p এ ১, d এ ২ এবং f এ ৩টি নোডাল তল।",
+     "explanation_en": "Per the text: s 0, p 1, d 2, f 3 nodal planes.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "4d ও 5s এর মধ্যে কোনটির শক্তি কম?",
+     "question_en": "Which has lower energy, 4d or 5s?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4d, কারণ (n+l)=6",
+       "en": "4d, since (n+l)=6"
+      },
+      {
+       "id": "b",
+       "bn": "5s, কারণ (n+l)=5",
+       "en": "5s, since (n+l)=5"
+      },
+      {
+       "id": "c",
+       "bn": "দুটি সমান",
+       "en": "Both equal"
+      },
+      {
+       "id": "d",
+       "bn": "4d, কারণ n কম",
+       "en": "4d, since n is smaller"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "4d এর (n+l) = 6 ও 5s এর 5, তাই 5s আগে পূর্ণ হয়।",
+     "explanation_en": "(n+l) is 6 for 4d and 5 for 5s, so 5s fills first.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "px অরবিটালের নোডাল তল কোনটি?",
+     "question_en": "The nodal plane of a px orbital is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "xy তল",
+       "en": "xy plane"
+      },
+      {
+       "id": "b",
+       "bn": "yz তল",
+       "en": "yz plane"
+      },
+      {
+       "id": "c",
+       "bn": "zx তল",
+       "en": "zx plane"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো নোডাল তল নেই",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "px অরবিটাল x অক্ষ বরাবর; এর নোডাল তল yz।",
+     "explanation_en": "px lies along x; its nodal plane is yz.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.5",
+   "title_bn": "আউফবাউ নীতি",
+   "title_en": "Aufbau Principle",
+   "notes_bn": "আউফবাউ (জার্মান: building up): ইলেকট্রন প্রথমে সর্বনিম্ন শক্তির অরবিটালে ঢোকে, তা পূর্ণ হলে পরবর্তী উচ্চ শক্তির অরবিটালে যায়।\n(n + l) নীতি: যার (n + l) কম তার শক্তি কম; সমান হলে কম n এর অরবিটালের শক্তি কম। যেমন 4s = 4, 3d = 5, 4p = 5।\nক্রম: 1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f।\nউদাহরণ: Na(11) = 1s² 2s² 2p⁶ 3s¹; K(19) = …3p⁶ 4s¹; Zn(30) = …3d¹⁰ 4s²।\nব্যতিক্রম: Cr(24) = [Ar] 3d⁵ 4s¹, Cu(29) = [Ar] 3d¹⁰ 4s¹ (অর্ধপূর্ণ/পূর্ণ d বেশি স্থায়ী)।\nক্যাটায়নে ইলেকট্রন সর্বাহ্যিক কক্ষ থেকে আগে যায়: Fe²⁺ = …3d⁶। অ্যানায়নে ইলেকট্রন বাইরের স্তরে যোগ হয়: O²⁻ = 1s² 2s² 2p⁶। সমান ইলেকট্রন সংখ্যার কণা আইসোইলেকট্রনিক।",
+   "notes_en": "Aufbau (German: building up): electrons fill the lowest-energy orbitals first, then higher ones.\n(n + l) rule: lower (n + l) means lower energy; if equal, lower n is lower in energy. 4s = 4, 3d = 5, 4p = 5.\nOrder: 1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f.\nExamples: Na(11) = 1s2 2s2 2p6 3s1; K(19) = ...3p6 4s1; Zn(30) = ...3d10 4s2.\nExceptions: Cr(24) = [Ar]3d5 4s1, Cu(29) = [Ar]3d10 4s1 (half/fully filled d is more stable).\nCations lose outermost electrons first: Fe2+ = ...3d6. Anions add electrons to outer shell: O2- = 1s2 2s2 2p6. Species with equal electrons are isoelectronic.",
+   "mcqs": [
+    {
+     "question_bn": "'আউফবাউ' শব্দের অর্থ কী?",
+     "question_en": "What does 'Aufbau' mean?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বর্জন",
+       "en": "Exclusion"
+      },
+      {
+       "id": "b",
+       "bn": "উপরের দিকে গড়ে তোলা (building up)",
+       "en": "Building up"
+      },
+      {
+       "id": "c",
+       "bn": "সর্বোচ্চ বহুত্ব",
+       "en": "Maximum multiplicity"
+      },
+      {
+       "id": "d",
+       "bn": "অনিশ্চয়তা",
+       "en": "Uncertainty"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "আউফবাউ জার্মান শব্দ, অর্থ building up; অর্থাৎ নিম্ন থেকে উচ্চ শক্তির দিকে পূরণ।",
+     "explanation_en": "A German word meaning building up: filling from low to high energy.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Na(11) এর ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Electronic configuration of Na (Z = 11):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1s² 2s² 2p⁶ 3s¹",
+       "en": "1s2 2s2 2p6 3s1"
+      },
+      {
+       "id": "b",
+       "bn": "1s² 2s² 2p⁵ 3s²",
+       "en": "1s2 2s2 2p5 3s2"
+      },
+      {
+       "id": "c",
+       "bn": "1s² 2s² 2p⁶ 3p¹",
+       "en": "1s2 2s2 2p6 3p1"
+      },
+      {
+       "id": "d",
+       "bn": "1s² 2s¹ 2p⁶ 3s²",
+       "en": "1s2 2s1 2p6 3s2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "১১টি ইলেকট্রন আউফবাউ ক্রমে 1s²2s²2p⁶ এবং শেষটি 3s-এ।",
+     "explanation_en": "Eleven electrons fill 1s2 2s2 2p6 and the last goes to 3s.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Cr(24) এর প্রকৃত বিন্যাস কোনটি?",
+     "question_en": "The actual configuration of Cr (Z = 24) is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[Ar] 3d⁴ 4s²",
+       "en": "[Ar] 3d4 4s2"
+      },
+      {
+       "id": "b",
+       "bn": "[Ar] 3d⁵ 4s¹",
+       "en": "[Ar] 3d5 4s1"
+      },
+      {
+       "id": "c",
+       "bn": "[Ar] 3d⁶",
+       "en": "[Ar] 3d6"
+      },
+      {
+       "id": "d",
+       "bn": "[Ar] 4s² 4p⁴",
+       "en": "[Ar] 4s2 4p4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অর্ধপূর্ণ 3d⁵ বেশি স্থায়ী, তাই একটি 4s ইলেকট্রন 3d-তে যায়।",
+     "explanation_en": "Half-filled 3d5 is more stable, so one 4s electron moves to 3d.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Cu(29) এর প্রকৃত ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Actual configuration of Cu (Z = 29):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[Ar] 3d⁹ 4s²",
+       "en": "[Ar] 3d9 4s2"
+      },
+      {
+       "id": "b",
+       "bn": "[Ar] 3d¹⁰ 4s¹",
+       "en": "[Ar] 3d10 4s1"
+      },
+      {
+       "id": "c",
+       "bn": "[Ar] 3d¹⁰ 4s²",
+       "en": "[Ar] 3d10 4s2"
+      },
+      {
+       "id": "d",
+       "bn": "[Ar] 3d⁸ 4s³",
+       "en": "[Ar] 3d8 4s3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পূর্ণ 3d¹⁰ উপস্তর বেশি স্থায়ী, তাই 4s¹ থাকে।",
+     "explanation_en": "A full 3d10 subshell is more stable, leaving 4s1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Fe²⁺ (Fe এর পারমাণবিক সংখ্যা 26) এর ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Configuration of Fe2+ (Fe, Z = 26):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶",
+       "en": "1s2 2s2 2p6 3s2 3p6 3d6"
+      },
+      {
+       "id": "b",
+       "bn": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s²",
+       "en": "1s2 2s2 2p6 3s2 3p6 3d4 4s2"
+      },
+      {
+       "id": "c",
+       "bn": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹",
+       "en": "1s2 2s2 2p6 3s2 3p6 3d5 4s1"
+      },
+      {
+       "id": "d",
+       "bn": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁴",
+       "en": "1s2 2s2 2p6 3s2 3p6 4s2 3d4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্যাটায়নে সর্বাহ্যিক 4s এর দুটি ইলেকট্রন আগে যায়; বাকি 24টি: …3d⁶।",
+     "explanation_en": "Outermost 4s electrons leave first, giving 24 electrons: ...3d6.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নাইট্রেট আয়ন NO₃⁻ এ মোট ইলেকট্রন সংখ্যা কত? (N = 7, O = 8)",
+     "question_en": "Total electrons in the nitrate ion NO3− (N = 7, O = 8):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৩০",
+       "en": "30"
+      },
+      {
+       "id": "b",
+       "bn": "৩১",
+       "en": "31"
+      },
+      {
+       "id": "c",
+       "bn": "৩২",
+       "en": "32"
+      },
+      {
+       "id": "d",
+       "bn": "২৪",
+       "en": "24"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "7 + 3×8 + 1 = 32।",
+     "explanation_en": "7 + 3 x 8 + 1 = 32.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.6",
+   "title_bn": "হুন্ডের নীতি",
+   "title_en": "Hund's Principle",
+   "notes_bn": "ফ্রেডরিখ হুন্ড (জার্মান): সমশক্তিসম্পন্ন অরবিটালগুলো (p, d, f) যতক্ষণ খালি থাকে, ইলেকট্রন আগে একটি করে অযুগ্মভাবে ঢোকে এবং তাদের স্পিন একমুখী হয়; পরে জোড় বাঁধে।\nউদাহরণ: N(7) = 1s² 2s² 2px¹ 2py¹ 2pz¹ (৩টি অযুগ্ম); O(8) = 1s² 2s² 2px² 2py¹ 2pz¹ (২টি অযুগ্ম)।\nঅর্ধপূর্ণ বা সম্পূর্ণ পূর্ণ উপস্তর বেশি স্থায়ী: তাই Cr = [Ar] 3d⁵ 4s¹ এবং Cu = [Ar] 3d¹⁰ 4s¹।\nMn(25) 3d⁵ 4s² (৫টি অযুগ্ম); Fe(26) 3d⁶ 4s² (৪টি অযুগ্ম); Co(27) 3d⁷ 4s²; Ni(28) 3d⁸ 4s²।\nঅরবিটাল-বক্স চিত্রে ↑↓ জোড়, ↑ অযুগ্ম ইলেকট্রন বোঝায়।",
+   "notes_en": "Hund (German physicist): degenerate orbitals (p, d, f) are filled singly first with parallel spins before any pairing.\nN(7) = 1s2 2s2 2px1 2py1 2pz1 (3 unpaired); O(8) = 1s2 2s2 2px2 2py1 2pz1 (2 unpaired).\nHalf-filled or completely filled subshells are extra stable: Cr = [Ar]3d5 4s1, Cu = [Ar]3d10 4s1.\nMn(25) 3d5 4s2 (5 unpaired); Fe(26) 3d6 4s2 (4 unpaired); Co 3d7 4s2; Ni 3d8 4s2.\nIn box diagrams an up/down pair means paired, a single arrow means unpaired.",
+   "mcqs": [
+    {
+     "question_bn": "হুন্ডের নীতি কোন ক্ষেত্রে প্রযোজ্য?",
+     "question_en": "Hund's rule applies to:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একই s অরবিটালের ইলেকট্রনে",
+       "en": "Electrons in a single s orbital"
+      },
+      {
+       "id": "b",
+       "bn": "সমশক্তিসম্পন্ন একাধিক অরবিটালে ইলেকট্রন ভর্তির সময়",
+       "en": "Filling of several degenerate orbitals"
+      },
+      {
+       "id": "c",
+       "bn": "বিভিন্ন শক্তিস্তরের নিউক্লিয়াসে",
+       "en": "Nuclei of different shells"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু ক্যাটায়নে",
+       "en": "Cations only"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "s উপস্তরে মাত্র একটি অরবিটাল, তাই p, d, f এ নীতিটি কাজে লাগে।",
+     "explanation_en": "s has only one orbital, so the rule matters for p, d and f.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N(7) এর 2p উপস্তরে ইলেকট্রন কীভাবে থাকে?",
+     "question_en": "How are the electrons arranged in the 2p subshell of N (Z = 7)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একটি অরবিটালে ৩টি",
+       "en": "Three in one orbital"
+      },
+      {
+       "id": "b",
+       "bn": "একটি অরবিটালে ২টি, অন্যটিতে ১টি",
+       "en": "Two in one, one in another"
+      },
+      {
+       "id": "c",
+       "bn": "প্রতি অরবিটালে একটি, একমুখী স্পিন",
+       "en": "One each in three orbitals, parallel spin"
+      },
+      {
+       "id": "d",
+       "bn": "প্রতি অরবিটালে একটি, বিপরীত স্পিন",
+       "en": "One each, opposite spins"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2p³ এর তিনটি ইলেকট্রন 2px, 2py, 2pz-এ একটি করে একমুখী স্পিনে থাকে।",
+     "explanation_en": "The three 2p electrons occupy 2px, 2py, 2pz singly with parallel spin.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "O(8) পরমাণুতে অযুগ্ম ইলেকট্রন কয়টি?",
+     "question_en": "How many unpaired electrons does O (Z = 8) have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "০",
+       "en": "0"
+      },
+      {
+       "id": "b",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "c",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2p⁴ → 2px²2py¹2pz¹; অযুগ্ম ২টি।",
+     "explanation_en": "2p4 gives 2px2 2py1 2pz1: two unpaired.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Fe(26) এর ভূমিস্থ অবস্থায় অযুগ্ম ইলেকট্রন কয়টি?",
+     "question_en": "Unpaired electrons in ground-state Fe (Z = 26):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "৪",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "৬",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "3d⁶ 4s²: 3d-তে একটি জোড় ও চারটি অযুগ্ম।",
+     "explanation_en": "3d6 4s2: one pair and four unpaired in 3d.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Cr³⁺ (Cr = 24) এ অযুগ্ম ইলেকট্রন কয়টি?",
+     "question_en": "Unpaired electrons in Cr3+ (Cr, Z = 24):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "৪",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "৬",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Cr³⁺ এ ২১টি ইলেকট্রন: [Ar] 3d³, তিনটি অযুগ্ম।",
+     "explanation_en": "Cr3+ has 21 electrons: [Ar]3d3, three unpaired.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Mn²⁺ (Mn = 25) এ অযুগ্ম ইলেকট্রন কয়টি?",
+     "question_en": "Unpaired electrons in Mn2+ (Mn, Z = 25):",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৩",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "৪",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "৫",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "৭",
+       "en": "7"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Mn²⁺: [Ar] 3d⁵ (4s² আগে যায়) — পাঁচটি অযুগ্ম, অর্ধপূর্ণ।",
+     "explanation_en": "Mn2+: [Ar]3d5 after 4s2 is lost — five unpaired, half-filled.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.7",
+   "title_bn": "পাউলির বর্জন নীতি",
+   "title_en": "Pauli's Exclusion Principle",
+   "notes_bn": "ওলফগাঙ্গ পাউলি (১৯২৫): একই পরমাণুতে যেকোনো দুটি ইলেকট্রনের চারটি কোয়ান্টাম সংখ্যার মান কখনো একই হতে পারে না।\nদুটি ইলেকট্রনের n, l, m একই হলে s অবশ্যই ভিন্ন (+½ ও −½)। যেমন He-এর দুটি ইলেকট্রন: (1, 0, 0, +½) ও (1, 0, 0, −½)।\nফলে একটি অরবিটালে সর্বোচ্চ ২টি ইলেকট্রন, বিপরীত স্পিনে।\nউপস্তরের ধারণক্ষমতা: s = 2, p = 6, d = 10, f = 14।\nপ্রধান স্তরে সর্বাধিক ইলেকট্রন 2n²: n = 1, 2, 3, 4 এ যথাক্রমে 2, 8, 18, 32।",
+   "notes_en": "Pauli (1925): no two electrons in an atom can have the same set of all four quantum numbers.\nIf n, l, m match, s must differ (+1/2 vs −1/2); He's two electrons: (1,0,0,+1/2) and (1,0,0,−1/2).\nHence an orbital holds at most 2 electrons of opposite spin.\nSubshell capacity: s 2, p 6, d 10, f 14.\nShell capacity 2n^2: 2, 8, 18, 32 for n = 1 to 4.",
+   "mcqs": [
+    {
+     "question_bn": "পাউলির বর্জন নীতি অনুযায়ী কী সম্ভব নয়?",
+     "question_en": "According to Pauli's exclusion principle, which is impossible?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একই অরবিটালে দুটি ইলেকট্রন",
+       "en": "Two electrons in one orbital"
+      },
+      {
+       "id": "b",
+       "bn": "দুটি ইলেকট্রনের চারটি কোয়ান্টাম সংখ্যাই একই",
+       "en": "Two electrons with all four quantum numbers identical"
+      },
+      {
+       "id": "c",
+       "bn": "দুটি ইলেকট্রনের n একই",
+       "en": "Two electrons with same n"
+      },
+      {
+       "id": "d",
+       "bn": "দুটি ইলেকট্রনের s ভিন্ন",
+       "en": "Two electrons with different s"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "যেকোনো দুটি ইলেকট্রনের অন্তত একটি কোয়ান্টাম সংখ্যা ভিন্ন হতে হবে।",
+     "explanation_en": "At least one quantum number must differ for any two electrons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "1s অরবিটালের দুটি ইলেকট্রনের স্পিন কোয়ান্টাম সংখ্যা কত?",
+     "question_en": "Spin quantum numbers of the two electrons in a 1s orbital:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+½ ও +½",
+       "en": "+1/2 and +1/2"
+      },
+      {
+       "id": "b",
+       "bn": "+½ ও −½",
+       "en": "+1/2 and −1/2"
+      },
+      {
+       "id": "c",
+       "bn": "+1 ও −1",
+       "en": "+1 and −1"
+      },
+      {
+       "id": "d",
+       "bn": "0 ও 1",
+       "en": "0 and 1"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "n, l, m একই বলে s ভিন্ন, +½ ও −½।",
+     "explanation_en": "n, l, m are equal so s must differ: +1/2 and −1/2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "p উপস্তরে সর্বোচ্চ ইলেকট্রন সংখ্যা কত?",
+     "question_en": "Maximum electrons in a p subshell:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "২",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "৬",
+       "en": "6"
+      },
+      {
+       "id": "c",
+       "bn": "১০",
+       "en": "10"
+      },
+      {
+       "id": "d",
+       "bn": "১৪",
+       "en": "14"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তিনটি অরবিটাল × ২ = ৬।",
+     "explanation_en": "3 orbitals x 2 = 6.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "n = 4 প্রধান স্তরে সর্বোচ্চ ইলেকট্রন সংখ্যা কত?",
+     "question_en": "Maximum electrons in the n = 4 shell:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১৮",
+       "en": "18"
+      },
+      {
+       "id": "b",
+       "bn": "২৪",
+       "en": "24"
+      },
+      {
+       "id": "c",
+       "bn": "৩২",
+       "en": "32"
+      },
+      {
+       "id": "d",
+       "bn": "১৬",
+       "en": "16"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "2n² = 2 × 16 = 32 (2 + 6 + 10 + 14)।",
+     "explanation_en": "2n^2 = 32 (2 + 6 + 10 + 14).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি পরমাণুতে একটি ইলেকট্রনের সেট (n=2, l=1, m=0, s=+½)। একই অরবিটালের অপর ইলেকট্রনের সেট কোনটি?",
+     "question_en": "One electron has (n=2, l=1, m=0, s=+1/2). The other electron in the same orbital has:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(2, 1, 0, +½)",
+       "en": "(2, 1, 0, +1/2)"
+      },
+      {
+       "id": "b",
+       "bn": "(2, 1, 0, −½)",
+       "en": "(2, 1, 0, −1/2)"
+      },
+      {
+       "id": "c",
+       "bn": "(2, 1, 1, −½)",
+       "en": "(2, 1, 1, −1/2)"
+      },
+      {
+       "id": "d",
+       "bn": "(2, 0, 0, −½)",
+       "en": "(2, 0, 0, −1/2)"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "একই অরবিটাল মানে n, l, m একই; পাউলি অনুসারে s বিপরীত, −½।",
+     "explanation_en": "Same orbital means same n, l, m; Pauli requires s = −1/2.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন অরবিটাল-গ্রুপে ১০টি ইলেকট্রন থাকতে পারে?",
+     "question_en": "Which subshell can hold 10 electrons?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2p",
+       "en": "2p"
+      },
+      {
+       "id": "b",
+       "bn": "3d",
+       "en": "3d"
+      },
+      {
+       "id": "c",
+       "bn": "4f",
+       "en": "4f"
+      },
+      {
+       "id": "d",
+       "bn": "4s",
+       "en": "4s"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "d উপস্তরে ৫টি অরবিটাল, ৫ × ২ = ১০।",
+     "explanation_en": "d has 5 orbitals: 5 x 2 = 10.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "2.2",
+   "stimulus_bn": "একজন শিক্ষার্থী হিলিয়াম আয়ন He⁺ (Z = 2) নিয়ে কাজ করছে, যার একটি মাত্র ইলেকট্রন ২য় বোর কক্ষপথে আছে। সে জানে: rₙ = n² × 5.29×10⁻¹¹/Z m, Eₙ = −1313.315 × Z²/n² kJ mol⁻¹ এবং H পরমাণুর ১ম স্তরে E₁ = −1313.315 kJ mol⁻¹।",
+   "stimulus_en": "A student studies the helium ion He+ (Z = 2) whose single electron is in the 2nd Bohr orbit. Given: r_n = n^2 x 5.29e-11/Z m, E_n = −1313.315 x Z^2/n^2 kJ/mol, and H's E1 = −1313.315 kJ/mol.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "বোরের দ্বিতীয় প্রস্তাবনা (কৌণিক ভরবেগ সম্পর্কিত) লেখ।",
+     "question_en": "State Bohr's postulate about angular momentum.",
+     "model_answer_bn": "স্থায়ী কক্ষপথে ইলেকট্রনের কৌণিক ভরবেগ h/2π এর পূর্ণসংখ্যা গুণিতক: mvr = nh/2π।",
+     "model_answer_en": "The angular momentum of an electron in a stationary orbit is an integral multiple of h/2pi: mvr = nh/2pi."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "স্থায়ী কক্ষপথে ঘুরলেও ইলেকট্রন কেন শক্তি হারিয়ে নিউক্লিয়াসে পড়ে না ব্যাখ্যা কর।",
+     "question_en": "Explain why an electron in a stationary orbit does not lose energy and fall into the nucleus.",
+     "model_answer_bn": "বোরের মতে নির্দিষ্ট স্থায়ী কক্ষপথে ইলেকট্রন কোনো শক্তি শোষণ বা বিকিরণ করে না, ফলে মোট শক্তি স্থির থাকে। কেন্দ্রমুখী আকর্ষণ ও কেন্দ্রবিমুখী বল সমান ও বিপরীত হওয়ায় ইলেকট্রন কক্ষপথেই থাকে।",
+     "model_answer_en": "Bohr postulated that in a stationary orbit the electron neither absorbs nor emits energy, so total energy is constant. Centripetal attraction and centrifugal force balance, keeping it in orbit."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "He⁺ আয়নের ২য় কক্ষপথের ব্যাসার্ধ (pm এককে) ও ইলেকট্রনের শক্তি (kJ mol⁻¹) নির্ণয় কর।",
+     "question_en": "Calculate the radius (in pm) and electron energy (kJ/mol) of the 2nd orbit of He+.",
+     "model_answer_bn": "r₂ = 2² × 5.29×10⁻¹¹/2 = 1.058×10⁻¹⁰ m = 105.8 pm। E₂ = −1313.315 × 2²/2² = −1313.315 kJ mol⁻¹।",
+     "model_answer_en": "r2 = 4 x 5.29e-11/2 = 1.058e-10 m = 105.8 pm. E2 = −1313.315 x 4/4 = −1313.315 kJ/mol."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "He⁺ এর ২য় স্তরের ইলেকট্রনের শক্তি H পরমাণুর ১ম স্তরের শক্তির সমান কেন? এবং এই মডেল He পরমাণুর (দুই ইলেকট্রন) বর্ণালি ব্যাখ্যায় কেন ব্যর্থ — যুক্তি দাও।",
+     "question_en": "Why is the energy of the 2nd-level electron of He+ equal to that of H's 1st level? Why does the model fail for neutral He (two electrons)?",
+     "model_answer_bn": "শক্তি Z²/n² এর সমানুপাতিক; He⁺ ২য় স্তরে Z²/n² = 4/4 = 1, H ১ম স্তরে 1/1 = 1, তাই শক্তি সমান। বোর মডেল শুধু এক ইলেকট্রনবিশিষ্ট পরমাণু/আয়নের জন্য প্রযোজ্য; একাধিক ইলেকট্রনের পারস্পরিক বিকর্ষণ ও বর্ণালির সূক্ষ্ম রেখা এ মডেলে ব্যাখ্যা করা যায় না।",
+     "model_answer_en": "Energy depends on Z^2/n^2; for He+ n=2 it is 4/4 = 1 and for H n=1 it is 1, so energies are equal. Bohr's model works only for one-electron species; it cannot account for inter-electron repulsion and fine spectral lines of multi-electron atoms."
+    }
+   ]
+  },
+  {
+   "topic_section": "2.6",
+   "stimulus_bn": "আয়রন (Fe, পারমাণবিক সংখ্যা 26) আয়ন ও পরমাণুর ইলেকট্রন বিন্যাস নিয়ে আলোচনায় দেখা যায় Fe³⁺ আয়ন Fe²⁺ এর তুলনায় অধিক স্থায়ী। অন্যদিকে Cr(24) এর বিন্যাস প্রত্যাশিত [Ar] 3d⁴ 4s² না হয়ে [Ar] 3d⁵ 4s¹ হয়।",
+   "stimulus_en": "Discussing Fe (Z = 26) and its ions, Fe3+ is found more stable than Fe2+. Also, Cr (Z = 24) has [Ar]3d5 4s1 rather than the expected [Ar]3d4 4s2.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "হুন্ডের নীতিটি লেখ।",
+     "question_en": "State Hund's principle.",
+     "model_answer_bn": "সমশক্তিসম্পন্ন অরবিটালগুলো খালি থাকা পর্যন্ত ইলেকট্রন আগে একটি করে অযুগ্মভাবে একমুখী স্পিনে প্রবেশ করে, পরে জোড় বাঁধে।",
+     "model_answer_en": "Electrons enter degenerate orbitals singly with parallel spin until all are half-filled, then pair up."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "Cr এর বিন্যাস [Ar] 3d⁵ 4s¹ হওয়ার কারণ ব্যাখ্যা কর।",
+     "question_en": "Explain why Cr is [Ar]3d5 4s1.",
+     "model_answer_bn": "অর্ধপূর্ণ 3d⁵ উপস্তর অসম্পূর্ণ 3d⁴ এর চেয়ে বেশি স্থায়ী। তাই 4s এর একটি ইলেকট্রন 3d-তে নেমে এসে 3d-কে অর্ধপূর্ণ করে শক্তি কমায়।",
+     "model_answer_en": "A half-filled 3d5 subshell is more stable than 3d4, so one 4s electron drops to 3d, making it half-filled and lowering energy."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Fe এবং Fe³⁺ এর ইলেকট্রন বিন্যাস লিখ এবং প্রত্যেকটিতে অযুগ্ম ইলেকট্রন সংখ্যা বল।",
+     "question_en": "Write the configurations of Fe and Fe3+ and state the unpaired electrons in each.",
+     "model_answer_bn": "Fe: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s² (অযুগ্ম ৪টি)। Fe³⁺ (২৩টি ইলেকট্রন): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ (অযুগ্ম ৫টি)।",
+     "model_answer_en": "Fe: 1s2 2s2 2p6 3s2 3p6 3d6 4s2 (4 unpaired). Fe3+ (23 electrons): 1s2 2s2 2p6 3s2 3p6 3d5 (5 unpaired)."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "হুন্ডের নীতি ও পাউলির বর্জন নীতির আলোকে ব্যাখ্যা কর কেন Fe³⁺ আয়ন Fe²⁺ আয়নের চেয়ে বেশি স্থায়ী।",
+     "question_en": "Using Hund's and Pauli's principles, explain why Fe3+ is more stable than Fe2+.",
+     "model_answer_bn": "Fe²⁺ = [Ar] 3d⁶ এ একটি অরবিটালে জোড় বাঁধা (পাউলি অনুসারে বিপরীত স্পিন) ও ৪টি অযুগ্ম ইলেকট্রন থাকে। Fe³⁺ = [Ar] 3d⁵ এ হুন্ডের নীতি অনুযায়ী পাঁচটি 3d অরবিটালে একটি করে একমুখী স্পিনের ইলেকট্রন থাকে, অর্থাৎ উপস্তর অর্ধপূর্ণ। অর্ধপূর্ণ বিন্যাস অধিক স্থায়ী, তাই Fe³⁺ বেশি স্থায়ী।",
+     "model_answer_en": "Fe2+ = [Ar]3d6 has one paired orbital (opposite spins per Pauli) and 4 unpaired electrons. Fe3+ = [Ar]3d5 has one parallel-spin electron in each of the five 3d orbitals (Hund), i.e. a half-filled subshell. Half-filled configurations are extra stable, so Fe3+ is more stable."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 80-137 all readable. Page 80 (isotopes/isobars) and 136-137 (electromagnetic spectrum, sec. 2.8 in book) fall outside the assigned sections and were not used. Printed section numbers in the scan appear as 2.1-2.8 while subsection 2.4 appears as 2.8 in OCR-like headings; assigned numbering used."
+}

@@ -1,0 +1,2112 @@
+{
+ "chapter_no": 4,
+ "topics": [
+  {
+   "section_no": "4.29",
+   "title_bn": "ভর ও শক্তির নিত্যতা সূত্র",
+   "title_en": "Law of Conservation of Mass and Energy",
+   "notes_bn": "ভরের নিত্যতা সূত্র: পদার্থ সৃষ্টি বা ধ্বংস করা যায় না, এক অবস্থা থেকে অন্য অবস্থায় রূপান্তর করা যায় মাত্র। ১৭৭৪ সালে ফরাসি বিজ্ঞানী ল্যাভয়সিয়ে এটি আবিষ্কার করেন।\nযেকোনো রাসায়নিক বিক্রিয়ায় উৎপাদের মোট ভর = বিক্রিয়কের মোট ভর (M1+M2 = M3+M4+M5)।\nল্যান্ডোল্টের পরীক্ষা: H-আকৃতির নলের এক বাহুতে FeSO4, অন্যটিতে Ag2SO4 দ্রবণ নিয়ে সিল করে ভর মাপা হয়; মিশিয়ে 2FeSO4 + Ag2SO4 = 2Ag↓ + Fe2(SO4)3 বিক্রিয়ার পরও ভরের পরিবর্তন হয় না।\nশক্তির নিত্যতা সূত্র: শক্তিকে সৃষ্টি বা ধ্বংস করা যায় না, এক রূপ থেকে অন্য রূপে রূপান্তর করা যায়; মহাবিশ্বের মোট শক্তি ধ্রুবক।\nএক প্রকার শক্তির বিলোপ ঘটলে ঠিক সমপরিমাণ অন্য শক্তির আবির্ভাব ঘটে। এটি তাপগতিবিদ্যার প্রথম সূত্রের মাধ্যমেও প্রকাশ করা যায়।",
+   "notes_en": "Conservation of mass: matter can be neither created nor destroyed, only changed from one form to another (Lavoisier, 1774).\nIn any chemical reaction total mass of products = total mass of reactants (M1+M2 = M3+M4+M5).\nLandolt's experiment: FeSO4 and Ag2SO4 solutions in the two arms of a sealed H-tube are mixed; 2FeSO4 + Ag2SO4 = 2Ag(s) + Fe2(SO4)3 occurs with no change in total mass.\nConservation of energy: energy can be neither created nor destroyed, only converted between forms; total energy of the universe is constant.\nWhen one form of energy disappears an equal amount of another form appears (equivalent to the first law of thermodynamics).",
+   "mcqs": [
+    {
+     "question_bn": "ভরের নিত্যতা সূত্র কে আবিষ্কার করেন?",
+     "question_en": "Who discovered the law of conservation of mass?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ল্যাভয়সিয়ে",
+       "en": "Lavoisier"
+      },
+      {
+       "id": "b",
+       "bn": "হেস",
+       "en": "Hess"
+      },
+      {
+       "id": "c",
+       "bn": "ল্যান্ডোল্ট",
+       "en": "Landolt"
+      },
+      {
+       "id": "d",
+       "bn": "ডাল্টন",
+       "en": "Dalton"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "১৭৭৪ সালে ফরাসি বিজ্ঞানী ল্যাভয়সিয়ে এ সূত্র আবিষ্কার করেন।",
+     "explanation_en": "Lavoisier, a French scientist, discovered it in 1774.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "শক্তির নিত্যতা সূত্র অনুযায়ী শক্তি –",
+     "question_en": "According to the law of conservation of energy, energy –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সৃষ্টি করা যায় কিন্তু ধ্বংস করা যায় না",
+       "en": "can be created but not destroyed"
+      },
+      {
+       "id": "b",
+       "bn": "ধ্বংস করা যায় কিন্তু সৃষ্টি করা যায় না",
+       "en": "can be destroyed but not created"
+      },
+      {
+       "id": "c",
+       "bn": "এক রূপ থেকে অন্য রূপে রূপান্তরিত হয়",
+       "en": "can be converted from one form to another"
+      },
+      {
+       "id": "d",
+       "bn": "সবসময় তাপে রূপান্তরিত হয়",
+       "en": "is always converted to heat"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "শক্তি সৃষ্টি বা ধ্বংস হয় না, শুধু রূপান্তরিত হয়।",
+     "explanation_en": "Energy is neither created nor destroyed; it is only converted.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ল্যান্ডোল্টের পরীক্ষায় দ্রবণ মেশানোর আগে ও পরে মোট ভর মেপে কী পাওয়া যায়?",
+     "question_en": "What does Landolt's experiment show when the total mass is measured before and after mixing?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ভর বাড়ে",
+       "en": "Mass increases"
+      },
+      {
+       "id": "b",
+       "bn": "ভর কমে",
+       "en": "Mass decreases"
+      },
+      {
+       "id": "c",
+       "bn": "ভর অপরিবর্তিত থাকে",
+       "en": "Mass is unchanged"
+      },
+      {
+       "id": "d",
+       "bn": "ভর শূন্য হয়ে যায়",
+       "en": "Mass becomes zero"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "রৌপ্য অধঃক্ষেপ ও ফেরিক সালফেট তৈরি হলেও মোট ভরে কোনো পরিবর্তন হয় না।",
+     "explanation_en": "Although silver precipitates and ferric sulphate forms, total mass stays constant.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ল্যান্ডোল্টের পরীক্ষায় FeSO4 ও Ag2SO4 মেশালে কোন কোন উৎপাদ তৈরি হয়?",
+     "question_en": "Which products form when FeSO4 and Ag2SO4 are mixed in Landolt's experiment?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ag ধাতুর অধঃক্ষেপ ও Fe2(SO4)3",
+       "en": "Silver metal precipitate and Fe2(SO4)3"
+      },
+      {
+       "id": "b",
+       "bn": "Fe ধাতু ও Ag2(SO4)3",
+       "en": "Iron metal and Ag2(SO4)3"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু AgSO4",
+       "en": "Only AgSO4"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো নতুন পদার্থ হয় না",
+       "en": "No new substance forms"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2FeSO4 + Ag2SO4 = 2Ag↓ + Fe2(SO4)3।",
+     "explanation_en": "2FeSO4 + Ag2SO4 = 2Ag(s) + Fe2(SO4)3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি বিক্রিয়ায় বিক্রিয়ক A ও B এর ভর যথাক্রমে 10 g ও 6 g। উৎপাদ x ও y এর ভর 7 g ও 4 g এবং তৃতীয় উৎপাদ z। z এর ভর কত?",
+     "question_en": "In a reaction reactants A and B have masses 10 g and 6 g. Products x and y weigh 7 g and 4 g, and a third product z forms. What is the mass of z?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3 g",
+       "en": "3 g"
+      },
+      {
+       "id": "b",
+       "bn": "5 g",
+       "en": "5 g"
+      },
+      {
+       "id": "c",
+       "bn": "7 g",
+       "en": "7 g"
+      },
+      {
+       "id": "d",
+       "bn": "9 g",
+       "en": "9 g"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ভরের নিত্যতা: 10+6 = 16 = 7+4+z, তাই z = 5 g (গণনা করা মান)।",
+     "explanation_en": "Mass conservation: 10+6 = 16 = 7+4+z, so z = 5 g (derived calculation).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নিচের কোনটি ভর ও শক্তির নিত্যতা সূত্রের সাথে সংগতিপূর্ণ নয়?",
+     "question_en": "Which statement is NOT consistent with the laws of conservation of mass and energy?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপশক্তি কমলে সমপরিমাণ অন্য শক্তি বাড়ে",
+       "en": "When heat energy decreases an equal amount of another energy appears"
+      },
+      {
+       "id": "b",
+       "bn": "বিক্রিয়ায় উৎপাদের মোট ভর বিক্রিয়কের মোট ভরের সমান",
+       "en": "Total product mass equals total reactant mass"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়ায় কিছু পদার্থ সম্পূর্ণ ধ্বংস হয়ে যায়",
+       "en": "Some matter is completely destroyed in a reaction"
+      },
+      {
+       "id": "d",
+       "bn": "পদার্থ এক অবস্থা থেকে অন্য অবস্থায় রূপান্তরিত হতে পারে",
+       "en": "Matter may change from one state to another"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ভরের নিত্যতা সূত্র অনুসারে পদার্থ ধ্বংস হয় না, শুধু রূপান্তরিত হয়।",
+     "explanation_en": "By the law of conservation of mass matter is only transformed, not destroyed.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.30",
+   "title_bn": "তাপ রাসায়নিক সমীকরণ লেখার পদ্ধতি",
+   "title_en": "Writing Thermochemical Equations",
+   "notes_bn": "যে সমতাকৃত বিক্রিয়ায় বিক্রিয়ক ও উৎপাদের ভৌত অবস্থা এবং উৎপন্ন বা শোষিত তাপের পরিমাণ উল্লেখ থাকে, তাকে তাপ রাসায়নিক সমীকরণ বলে।\nIUPAC নিয়মে ভৌত অবস্থা: কঠিন (s), তরল (l), গ্যাস (g), জলীয় দ্রবণ (aq), সংকেতের ডান পাশে প্রথম বন্ধনীতে।\nতাপোৎপাদী বিক্রিয়া: হয় ডান পাশে '+' চিহ্নসহ তাপ (C + O2 → CO2 + 393.5 kJ), নতুবা ΔH = −393.5 kJ।\nতাপহারী বিক্রিয়া: হয় ডান পাশে '−' তাপ (H2 + I2 → 2HI − 53 kJ), নতুবা ΔH = +53 kJ।\nবিক্রিয়া উল্টালে ΔH এর মান একই কিন্তু চিহ্ন বিপরীত। সহগ গুণ/ভাগ করলে ΔH ও একই অনুপাতে গুণ/ভাগ হয় (2C + 2O2 → 2CO2; ΔH = −787 kJ)।\nশর্ত উল্লেখ না থাকলে ΔH প্রমাণ অবস্থায় (25 °C ও 1 atm) ধরা হয়।",
+   "notes_en": "A thermochemical equation is a balanced equation that states physical states and the heat released or absorbed.\nIUPAC states: s, l, g, aq written in brackets after the formula.\nExothermic: '+ heat' on the right (C + O2 → CO2 + 393.5 kJ) or ΔH = −393.5 kJ.\nEndothermic: '− heat' on the right (H2 + I2 → 2HI − 53 kJ) or ΔH = +53 kJ.\nReversing a reaction keeps the magnitude of ΔH but flips its sign; multiplying coefficients multiplies ΔH equally (2C + 2O2 → 2CO2, ΔH = −787 kJ).\nUnless otherwise stated, ΔH refers to standard conditions, 25 °C and 1 atm.",
+   "mcqs": [
+    {
+     "question_bn": "তাপ রাসায়নিক সমীকরণে IUPAC নিয়মে জলীয় দ্রবণ বোঝাতে কোন সংকেত ব্যবহৃত হয়?",
+     "question_en": "Which symbol denotes an aqueous solution in a thermochemical equation (IUPAC)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(l)",
+       "en": "(l)"
+      },
+      {
+       "id": "b",
+       "bn": "(aq)",
+       "en": "(aq)"
+      },
+      {
+       "id": "c",
+       "bn": "(s)",
+       "en": "(s)"
+      },
+      {
+       "id": "d",
+       "bn": "(g)",
+       "en": "(g)"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দ্রবীভূত পদার্থ বোঝাতে aq ব্যবহার হয়।",
+     "explanation_en": "aq is used for dissolved species.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তাপোৎপাদী বিক্রিয়ার ΔH এর চিহ্ন কী?",
+     "question_en": "What is the sign of ΔH for an exothermic reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ধনাত্মক",
+       "en": "Positive"
+      },
+      {
+       "id": "b",
+       "bn": "ঋণাত্মক",
+       "en": "Negative"
+      },
+      {
+       "id": "c",
+       "bn": "শূন্য",
+       "en": "Zero"
+      },
+      {
+       "id": "d",
+       "bn": "পরিবর্তনশীল",
+       "en": "Variable"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তাপ নির্গত হলে ΔH ঋণাত্মক লেখা হয়।",
+     "explanation_en": "ΔH is written negative when heat is released.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "C(s) + O2(g) → CO2(g) + 393.5 kJ কে ΔH দিয়ে লিখলে কোনটি সঠিক?",
+     "question_en": "Written with ΔH, C(s) + O2(g) → CO2(g) + 393.5 kJ becomes –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔH = +393.5 kJ",
+       "en": "ΔH = +393.5 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "ΔH = −393.5 kJ",
+       "en": "ΔH = −393.5 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "ΔH = −196.75 kJ",
+       "en": "ΔH = −196.75 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "ΔH = 0",
+       "en": "ΔH = 0"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ডান পাশে '+' তাপ মানে ΔH ঋণাত্মক, ΔH = −393.5 kJ।",
+     "explanation_en": "'+ heat' on the right corresponds to a negative ΔH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H2(g) + I2(g) → 2HI(g); ΔH = +53 kJ। বিপরীত বিক্রিয়া 2HI → H2 + I2 এর ΔH কত?",
+     "question_en": "H2(g) + I2(g) → 2HI(g); ΔH = +53 kJ. What is ΔH for 2HI → H2 + I2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+53 kJ",
+       "en": "+53 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "−53 kJ",
+       "en": "−53 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "+106 kJ",
+       "en": "+106 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "−26.5 kJ",
+       "en": "−26.5 kJ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিপরীত করলে ΔH এর চিহ্ন উল্টে যায়, মান একই থাকে।",
+     "explanation_en": "Reversing flips the sign of ΔH, magnitude unchanged.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C(s) + O2(g) → CO2(g); ΔH = −393.5 kJ। 3C(s) + 3O2(g) → 3CO2(g) এর ΔH কত?",
+     "question_en": "C(s) + O2(g) → CO2(g); ΔH = −393.5 kJ. What is ΔH for 3C(s) + 3O2(g) → 3CO2(g)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−131.2 kJ",
+       "en": "−131.2 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "−787 kJ",
+       "en": "−787 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "−1180.5 kJ",
+       "en": "−1180.5 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "+1180.5 kJ",
+       "en": "+1180.5 kJ"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সহগ ৩ গুণ হলে ΔH ও ৩ গুণ: 3 × (−393.5) = −1180.5 kJ (গণনা করা মান)।",
+     "explanation_en": "Coefficients ×3 so ΔH ×3: 3 × (−393.5) = −1180.5 kJ (derived).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনটি হাইড্রোজেন ও আয়োডিন থেকে HI গঠনের (তাপহারী, 53 kJ) সঠিক তাপ রাসায়নিক সমীকরণ?",
+     "question_en": "Which is the correct thermochemical equation for endothermic formation of HI (53 kJ absorbed)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2(g) + I2(g) → 2HI(g); ΔH = −53 kJ",
+       "en": "H2(g) + I2(g) → 2HI(g); ΔH = −53 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "H2(g) + I2(g) → 2HI(g); ΔH = +53 kJ",
+       "en": "H2(g) + I2(g) → 2HI(g); ΔH = +53 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "H2(g) + I2(g) + 53 kJ → 2HI(g) + 53 kJ",
+       "en": "H2(g) + I2(g) + 53 kJ → 2HI(g) + 53 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "2HI(g) → H2(g) + I2(g); ΔH = +53 kJ",
+       "en": "2HI(g) → H2(g) + I2(g); ΔH = +53 kJ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তাপ শোষিত হলে ΔH ধনাত্মক।",
+     "explanation_en": "Absorbed heat means ΔH is positive.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.31",
+   "title_bn": "তাপীয় পরিবর্তন (বিক্রিয়া তাপ, অবস্থা পরিবর্তন তাপ, পরমাণুকরণ তাপ, দ্রবণ তাপ, প্রশমন তাপ)",
+   "title_en": "Thermal Changes: Heats of Reaction, Phase Change, Atomisation, Solution, Neutralisation, Formation",
+   "notes_bn": "বিক্রিয়া তাপ: বিক্রিয়ায় শোষিত বা নির্গত তাপ। তাপোৎপাদী: বিক্রিয়কের অভ্যন্তরীণ শক্তি > উৎপাদের; Hp < HR, ΔH ঋণাত্মক (বন্ধন ভাঙার শক্তি < বন্ধন গঠনের শক্তি)। তাপহারী: বিপরীত, ΔH ধনাত্মক।\nস্থির চাপে Qp = ΔH; স্থির আয়তনে Qv = ΔE। সম্পর্ক: ΔH = ΔE + ΔnRT (Δn = উৎপাদের মোল − বিক্রিয়কের মোল); Δn ধনাত্মক হলে ΔH > ΔE।\nঅবস্থা পরিবর্তন: গলন তাপ (H2O(s) → H2O(l) = 6.0 kJ/mol, NaCl = 24.0, MgCl2 = 43.0), বাষ্পীভবন তাপ (H2O = 40.79 kJ/mol), ঊর্ধ্বপাতন তাপ (I2 = 62.0 kJ/mol)।\nপরমাণুকরণ তাপ: এক মোল গ্যাসীয় উপাদানকে মুক্ত গ্যাসীয় পরমাণুতে পরিণত করতে প্রয়োজনীয় তাপ (½H2→H = +218.0, ½O2→O = +249.2, ½Cl2→Cl = +121.1 kJ/mol)।\nদ্রবণ তাপ: 1 mol দ্রবকে এত দ্রাবকে দ্রবীভূত করা যাতে আরও দ্রাবক যোগে তাপ বদলায় না; অনার্দ্র CuSO4 এর ΔH = −66.04 kJ। প্রশমন তাপ: এসিড ও ক্ষারের বিক্রিয়ায় 1 mol পানি উৎপন্ন হওয়ার তাপ (HCl + NaOH = −57.24 kJ/mol)।\nপ্রমাণ সংগঠন তাপ ΔHf°: উপাদান মৌল থেকে 1 mol যৌগ গঠনের তাপ (25 °C, 1 atm); ΔHf° = উৎপাদের মোট − বিক্রিয়কের মোট; SATP-তে মৌলের সংগঠন তাপ শূন্য। উদাহরণ: C + O2 → CO2, −393.5 kJ/mol। উদাহরণ গণনা: ইথানয়িক এসিড −491.7, সুক্রোজ −2223.35 kJ/mol।",
+   "notes_en": "Heat of reaction = heat absorbed or released in a reaction. Exothermic: internal energy of reactants > products, Hp < HR, ΔH negative. Endothermic: opposite, ΔH positive.\nQp = ΔH (constant pressure); Qv = ΔE (constant volume); ΔH = ΔE + ΔnRT, so ΔH > ΔE when Δn > 0.\nPhase changes: fusion (ice 6.0, NaCl 24.0, MgCl2 43.0 kJ/mol), vaporisation (water 40.79 kJ/mol), sublimation (I2 62.0 kJ/mol).\nAtomisation heat: heat to convert 1 mol of a gaseous element into free gaseous atoms (½H2→H 218.0, ½O2→O 249.2, ½Cl2→Cl 121.1 kJ/mol).\nHeat of solution: heat change on dissolving 1 mol in so much solvent that further dilution gives no change; anhydrous CuSO4 gives −66.04 kJ. Neutralisation heat: heat for forming 1 mol water (HCl + NaOH = −57.24 kJ/mol).\nStandard heat of formation ΔHf°: heat change on forming 1 mol of compound from its elements at 25 °C, 1 atm; ΔHf° = Σproducts − Σreactants; zero for elements. E.g. CO2 −393.5; ethanoic acid −491.7; sucrose −2223.35 kJ/mol.",
+   "mcqs": [
+    {
+     "question_bn": "বিক্রিয়া তাপ কী?",
+     "question_en": "What is the heat of reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিক্রিয়ায় শোষিত বা নির্গত তাপের পরিমাণ",
+       "en": "The heat absorbed or released in a reaction"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু নির্গত তাপ",
+       "en": "Only the heat released"
+      },
+      {
+       "id": "c",
+       "bn": "বিক্রিয়ার সক্রিয়ন শক্তি",
+       "en": "The activation energy"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়ক মৌলের ভর",
+       "en": "The mass of reactants"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বিক্রিয়ায় যে পরিমাণ তাপ শোষিত বা নির্গত হয় তাই বিক্রিয়া তাপ।",
+     "explanation_en": "The amount of heat absorbed or released in a reaction.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তাপোৎপাদী বিক্রিয়ায় কোনটি সত্য?",
+     "question_en": "Which is true for an exothermic reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিক্রিয়কের অভ্যন্তরীণ শক্তি < উৎপাদের",
+       "en": "Internal energy of reactants < products"
+      },
+      {
+       "id": "b",
+       "bn": "Hp > HR",
+       "en": "Hp > HR"
+      },
+      {
+       "id": "c",
+       "bn": "ΔH ঋণাত্মক",
+       "en": "ΔH is negative"
+      },
+      {
+       "id": "d",
+       "bn": "বন্ধন ভাঙার শক্তি > বন্ধন গঠনের শক্তি",
+       "en": "Bond-breaking energy > bond-forming energy"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "তাপোৎপাদীতে Hp < HR, তাই ΔH ঋণাত্মক।",
+     "explanation_en": "In exothermic reactions Hp < HR so ΔH is negative.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "SATP-তে কোনো মৌলের প্রমাণ সংগঠন তাপ কত ধরা হয়?",
+     "question_en": "What is the standard heat of formation of an element at SATP?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শূন্য",
+       "en": "Zero"
+      },
+      {
+       "id": "b",
+       "bn": "+100 kJ/mol",
+       "en": "+100 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "−100 kJ/mol",
+       "en": "−100 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−393.5 kJ/mol",
+       "en": "−393.5 kJ/mol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পরম শক্তি নির্ণয় করা যায় না বলে IUPAC মৌলের সংগঠন তাপ শূন্য ধরে।",
+     "explanation_en": "IUPAC takes the formation heat of elements as zero.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "স্থির চাপ ও স্থির আয়তনে বিক্রিয়া তাপ যথাক্রমে –",
+     "question_en": "Heats of reaction at constant pressure and constant volume are respectively –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔE ও ΔH",
+       "en": "ΔE and ΔH"
+      },
+      {
+       "id": "b",
+       "bn": "ΔH ও ΔE",
+       "en": "ΔH and ΔE"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ই ΔH",
+       "en": "both ΔH"
+      },
+      {
+       "id": "d",
+       "bn": "উভয়ই ΔE",
+       "en": "both ΔE"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Qp = ΔH, Qv = ΔE।",
+     "explanation_en": "Qp = ΔH and Qv = ΔE.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন ক্ষেত্রে ΔH > ΔE হয়?",
+     "question_en": "When is ΔH > ΔE?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Δn ঋণাত্মক",
+       "en": "Δn negative"
+      },
+      {
+       "id": "b",
+       "bn": "Δn = 0",
+       "en": "Δn = 0"
+      },
+      {
+       "id": "c",
+       "bn": "Δn ধনাত্মক",
+       "en": "Δn positive"
+      },
+      {
+       "id": "d",
+       "bn": "কখনোই নয়",
+       "en": "Never"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ΔH = ΔE + ΔnRT; Δn ধনাত্মক হলে ΔH > ΔE।",
+     "explanation_en": "From ΔH = ΔE + ΔnRT, ΔH > ΔE if Δn > 0.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "1 mol বরফ গলাতে 6.0 kJ তাপ লাগে। 3 mol বরফ গলাতে কত তাপ লাগবে?",
+     "question_en": "Melting 1 mol of ice needs 6.0 kJ. How much heat is needed to melt 3 mol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2.0 kJ",
+       "en": "2.0 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "9.0 kJ",
+       "en": "9.0 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "18.0 kJ",
+       "en": "18.0 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "36.0 kJ",
+       "en": "36.0 kJ"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "3 × 6.0 = 18.0 kJ (গণনা করা মান)।",
+     "explanation_en": "3 × 6.0 = 18.0 kJ (derived).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোন মৌলের অর্ধ-অণু থেকে পরমাণু গঠনের পরমাণুকরণ তাপ সবচেয়ে বেশি?",
+     "question_en": "Which has the highest atomisation heat (from the half-molecule)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H (+218.0)",
+       "en": "H (+218.0)"
+      },
+      {
+       "id": "b",
+       "bn": "O (+249.2)",
+       "en": "O (+249.2)"
+      },
+      {
+       "id": "c",
+       "bn": "F (+79.1)",
+       "en": "F (+79.1)"
+      },
+      {
+       "id": "d",
+       "bn": "Cl (+121.1)",
+       "en": "Cl (+121.1)"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের সারণিতে ½O2 → O এর মান +249.2 kJ/mol, যা সর্বোচ্চ।",
+     "explanation_en": "In the book's table ½O2 → O = +249.2 kJ/mol, the largest.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অনার্দ্র CuSO4 পানিতে দ্রবীভূত করে CuSO4·5H2O গঠনে ΔH = −66.04 kJ। এ থেকে কী বোঝা যায়?",
+     "question_en": "Dissolving anhydrous CuSO4 to form CuSO4·5H2O has ΔH = −66.04 kJ. This shows the process is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপহারী",
+       "en": "endothermic"
+      },
+      {
+       "id": "b",
+       "bn": "তাপোৎপাদী",
+       "en": "exothermic"
+      },
+      {
+       "id": "c",
+       "bn": "তাপনিরপেক্ষ",
+       "en": "thermally neutral"
+      },
+      {
+       "id": "d",
+       "bn": "অসম্ভব",
+       "en": "impossible"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ΔH ঋণাত্মক হওয়ায় তাপ নির্গত হয়।",
+     "explanation_en": "Negative ΔH means heat is released.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "2H2 + O2 → 2H2O এর ΔH নির্ণয় কর। বন্ধন শক্তি: H–H 436, O=O 496, O–H 463 kJ/mol।",
+     "question_en": "Find ΔH for 2H2 + O2 → 2H2O. Bond energies: H–H 436, O=O 496, O–H 463 kJ/mol.",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−484 kJ",
+       "en": "−484 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "+484 kJ",
+       "en": "+484 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "−1368 kJ",
+       "en": "−1368 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "−242 kJ",
+       "en": "−242 kJ"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ভাঙা: 2×436 + 496 = 1368; গঠন: 4×463 = 1852; ΔH = 1368 − 1852 = −484 kJ।",
+     "explanation_en": "Broken: 2×436 + 496 = 1368; formed: 4×463 = 1852; ΔH = 1368 − 1852 = −484 kJ.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ইথানয়িক এসিডের প্রমাণ দহন তাপ −867 kJ/mol; CO2 ও H2O(l) এর সংগঠন তাপ −393.5 ও −285.85 kJ/mol। CH3COOH এর সংগঠন তাপ কত?",
+     "question_en": "Standard combustion heat of ethanoic acid is −867 kJ/mol; ΔHf of CO2 and H2O(l) are −393.5 and −285.85 kJ/mol. Find ΔHf of CH3COOH.",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−1358.7 kJ/mol",
+       "en": "−1358.7 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "−491.7 kJ/mol",
+       "en": "−491.7 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "+491.7 kJ/mol",
+       "en": "+491.7 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−2225.7 kJ/mol",
+       "en": "−2225.7 kJ/mol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2(−393.5) + 2(−285.85) = −1358.7; ΔHf = −1358.7 − (−867) = −491.7 kJ/mol।",
+     "explanation_en": "2(−393.5) + 2(−285.85) = −1358.7; ΔHf = −1358.7 − (−867) = −491.7 kJ/mol.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "একটি বিক্রিয়ায় ΔE = 100 kJ, Δn = +2 এবং RT = 2.5 kJ/mol হলে ΔH কত?",
+     "question_en": "For a reaction ΔE = 100 kJ, Δn = +2 and RT = 2.5 kJ/mol. What is ΔH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "95 kJ",
+       "en": "95 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "100 kJ",
+       "en": "100 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "105 kJ",
+       "en": "105 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "250 kJ",
+       "en": "250 kJ"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ΔH = ΔE + ΔnRT = 100 + 2×2.5 = 105 kJ (গণনা করা মান)।",
+     "explanation_en": "ΔH = ΔE + ΔnRT = 100 + 2×2.5 = 105 kJ (derived).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.32",
+   "title_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ",
+   "title_en": "Heat of Neutralisation of Strong Acids and Bases",
+   "notes_bn": "তীব্র এসিড ও তীব্র ক্ষার লঘু দ্রবণে 100% আয়নিত থাকে। মূল বিক্রিয়া: H⁺(aq) + OH⁻(aq) → H2O(l)।\nসকল তীব্র এসিড-তীব্র ক্ষারের প্রশমন তাপ প্রায় ধ্রুবক: −57.34 kJ/mol (HCl+NaOH −57.34, H2SO4+NaOH −57.44, HNO3+NaOH −57.35, HCl+KOH −57.43)।\nদুর্বল এসিড/ক্ষারে আংশিক আয়নন ঘটে; আয়নন শক্তি লাগায় প্রশমন তাপ কমে: CH3COOH + NaOH = −55.14 (≈2.2 kJ কম); CH3COOH + NH4OH = −50.4 kJ/mol।\nHF + NaOH এ মান −68.60 kJ/mol, অর্থাৎ 11.26 kJ বেশি, কারণ ক্ষুদ্র F⁻ আয়নের সাথে পানির দৃঢ় হাইড্রেশনে অতিরিক্ত তাপ নির্গত হয়।\nগণনা: নির্গত তাপ = প্রশমন তাপ × লিমিটিং বিক্রিয়কের মোল সংখ্যা (বিক্রিয়ায় উৎপন্ন পানির মোল ধরে)।",
+   "notes_en": "Strong acids and bases are 100% ionised in dilute solution; the net reaction is H⁺(aq) + OH⁻(aq) → H2O(l).\nSo all strong acid–strong base pairs give almost the same heat: −57.34 kJ/mol (HCl+NaOH −57.34, H2SO4+NaOH −57.44, HNO3+NaOH −57.35, HCl+KOH −57.43).\nWeak acids/bases ionise only partly; energy spent on ionisation lowers the value: CH3COOH+NaOH −55.14 (about 2.2 kJ less), CH3COOH+NH4OH −50.4 kJ/mol.\nHF+NaOH gives −68.60 kJ/mol, 11.26 kJ higher, because small F⁻ is strongly hydrated releasing extra heat.\nHeat released = neutralisation heat × moles of water formed (limiting reagent decides).",
+   "mcqs": [
+    {
+     "question_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপের প্রায় ধ্রুবক মান কত?",
+     "question_en": "What is the approximately constant neutralisation heat of strong acids and strong bases?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−57.34 kJ/mol",
+       "en": "−57.34 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "−55.14 kJ/mol",
+       "en": "−55.14 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "−68.60 kJ/mol",
+       "en": "−68.60 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−50.4 kJ/mol",
+       "en": "−50.4 kJ/mol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে প্রমাণ মান −57.34 kJ/mol।",
+     "explanation_en": "The book gives −57.34 kJ/mol.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তীব্র এসিড-ক্ষার প্রশমনের মূল আয়নিক বিক্রিয়া কোনটি?",
+     "question_en": "What is the net ionic reaction in strong acid–strong base neutralisation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H⁺ + OH⁻ → H2O",
+       "en": "H⁺ + OH⁻ → H2O"
+      },
+      {
+       "id": "b",
+       "bn": "Na⁺ + Cl⁻ → NaCl",
+       "en": "Na⁺ + Cl⁻ → NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "H⁺ + Cl⁻ → HCl",
+       "en": "H⁺ + Cl⁻ → HCl"
+      },
+      {
+       "id": "d",
+       "bn": "Na⁺ + OH⁻ → NaOH",
+       "en": "Na⁺ + OH⁻ → NaOH"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দর্শক আয়ন বাদ দিলে H⁺ ও OH⁻ মিলে পানি তৈরি হয়।",
+     "explanation_en": "Ignoring spectator ions, H⁺ and OH⁻ combine to form water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সব তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ ধ্রুবক হয় কেন?",
+     "question_en": "Why is neutralisation heat the same for all strong acid–strong base pairs?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সবগুলোর মোলার ভর সমান",
+       "en": "All have equal molar mass"
+      },
+      {
+       "id": "b",
+       "bn": "সবগুলো 100% আয়নিত, তাই মূল বিক্রিয়া একই (H⁺ + OH⁻ → H2O)",
+       "en": "All are 100% ionised so the net reaction is the same"
+      },
+      {
+       "id": "c",
+       "bn": "সবগুলো তাপহারী",
+       "en": "All are endothermic"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলো উভমুখী",
+       "en": "All are reversible"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সম্পূর্ণ আয়নিত হওয়ায় প্রকৃত বিক্রিয়া একই।",
+     "explanation_en": "Complete ionisation makes the effective reaction identical.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH3COOH ও NaOH এর প্রশমন তাপ −57.34 এর চেয়ে কম (−55.14) হয় কেন?",
+     "question_en": "Why is the neutralisation heat of CH3COOH with NaOH lower (−55.14) than −57.34?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3COOH তীব্র এসিড",
+       "en": "CH3COOH is a strong acid"
+      },
+      {
+       "id": "b",
+       "bn": "আয়নিত হতে কিছু শক্তি ব্যয় হয়",
+       "en": "Some energy is used up in ionising the weak acid"
+      },
+      {
+       "id": "c",
+       "bn": "NaOH দুর্বল ক্ষার",
+       "en": "NaOH is a weak base"
+      },
+      {
+       "id": "d",
+       "bn": "পানি উৎপন্ন হয় না",
+       "en": "No water is formed"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুর্বল এসিডের আংশিক আয়নের জন্য প্রায় 2.2 kJ শক্তি ব্যয় হয়।",
+     "explanation_en": "About 2.2 kJ goes to ionise the weak acid completely.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন জোড়ার প্রশমন তাপের মান সবচেয়ে কম (ঋণাত্মকতা কম)?",
+     "question_en": "Which pair gives the smallest magnitude of neutralisation heat?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCl + NaOH",
+       "en": "HCl + NaOH"
+      },
+      {
+       "id": "b",
+       "bn": "CH3COOH + NH4OH",
+       "en": "CH3COOH + NH4OH"
+      },
+      {
+       "id": "c",
+       "bn": "HNO3 + KOH",
+       "en": "HNO3 + KOH"
+      },
+      {
+       "id": "d",
+       "bn": "H2SO4 + NaOH",
+       "en": "H2SO4 + NaOH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুর্বল এসিড ও দুর্বল ক্ষারে −50.4 kJ/mol, যা সবচেয়ে কম।",
+     "explanation_en": "Weak acid with weak base gives −50.4 kJ/mol, the smallest.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HF ও NaOH এর প্রশমন তাপ −68.60 kJ/mol হয় কেন?",
+     "question_en": "Why is the neutralisation heat of HF with NaOH as high as −68.60 kJ/mol?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HF তীব্রতম এসিড",
+       "en": "HF is the strongest acid"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষুদ্র F⁻ আয়নের সাথে পানির দৃঢ় হাইড্রেশনে অতিরিক্ত তাপ নির্গত হয়",
+       "en": "Strong hydration of small F⁻ releases extra heat"
+      },
+      {
+       "id": "c",
+       "bn": "NaF অদ্রবণীয়",
+       "en": "NaF is insoluble"
+      },
+      {
+       "id": "d",
+       "bn": "HF পুরো আয়নিত নয় বলে",
+       "en": "Because HF is not ionised"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "F⁻ ছোট হওয়ায় চার্জ ঘনত্ব বেশি; অতিরিক্ত 11.26 kJ তাপ নির্গত হয়।",
+     "explanation_en": "High charge density of F⁻ gives extra hydration heat of 11.26 kJ.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "0.5 mol NaOH ও 0.5 mol HCl এর বিক্রিয়ায় কত তাপ নির্গত হবে? (ΔH = −57.24 kJ/mol)",
+     "question_en": "How much heat is released when 0.5 mol NaOH reacts with 0.5 mol HCl? (ΔH = −57.24 kJ/mol)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "57.24 kJ",
+       "en": "57.24 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "28.62 kJ",
+       "en": "28.62 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "114.48 kJ",
+       "en": "114.48 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "14.31 kJ",
+       "en": "14.31 kJ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "0.5 × 57.24 = 28.62 kJ (গণনা করা মান)।",
+     "explanation_en": "0.5 × 57.24 = 28.62 kJ (derived).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "0.6 mol CH3COOH ও 0.4 mol NaOH মিশালে (প্রশমন তাপ −55.2 kJ/mol) নির্গত তাপ কত?",
+     "question_en": "0.6 mol CH3COOH is mixed with 0.4 mol NaOH (neutralisation heat −55.2 kJ/mol). Heat released?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "33.12 kJ",
+       "en": "33.12 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "22.08 kJ",
+       "en": "22.08 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "55.2 kJ",
+       "en": "55.2 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "11.04 kJ",
+       "en": "11.04 kJ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NaOH লিমিটিং (0.4 mol): 55.2 × 0.4 = 22.08 kJ (গণনা করা মান)।",
+     "explanation_en": "NaOH is limiting (0.4 mol): 55.2 × 0.4 = 22.08 kJ (derived).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "100 mL 0.25 M H2SO4 ও 100 mL 0.4 M NaOH মিশালে কত তাপ নির্গত হবে? (ΔH = −57.24 kJ/mol)",
+     "question_en": "100 mL of 0.25 M H2SO4 is mixed with 100 mL of 0.4 M NaOH. Heat released? (ΔH = −57.24 kJ/mol)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.431 kJ",
+       "en": "1.431 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "2.2896 kJ",
+       "en": "2.2896 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "2.862 kJ",
+       "en": "2.862 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "5.724 kJ",
+       "en": "5.724 kJ"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H2SO4 = 0.025 mol, NaOH = 0.04 mol (লিমিটিং); 0.04 × 57.24 = 2.2896 kJ।",
+     "explanation_en": "H2SO4 = 0.025 mol, NaOH = 0.04 mol (limiting); 0.04 × 57.24 = 2.2896 kJ (derived).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.33",
+   "title_bn": "বিক্রিয়া তাপ ও বন্ধন শক্তি",
+   "title_en": "Heat of Reaction and Bond Energy",
+   "notes_bn": "প্রমাণ বিক্রিয়া তাপ 25 °C ও 1 atm এ পরিমাপ করা হয়; প্রারম্ভে ও শেষে একই তাপমাত্রা ও চাপ থাকতে হবে। দ্রবণ হলে 1 molar।\nবন্ধন ভাঙতে তাপ শোষিত হয় (ধনাত্মক, তাপহারী); বন্ধন গঠনে তাপ নির্গত হয় (ঋণাত্মক, তাপোৎপাদী)।\nগড় বন্ধন শক্তি: গ্যাসীয় অণুর একই প্রকার সব বন্ধন ভাঙার মোট শক্তির গড়। CH4: 1665.23 ÷ 4 = 416.31 kJ/mol। দ্বিপরমাণুক অণুর বন্ধন বিয়োজন শক্তি = বন্ধন শক্তি (H2 = 434 kJ/mol)।\nবন্ধন শক্তি = (ঊর্ধ্বপাতন তাপ + পরমাণুকরণ তাপ − গঠন তাপ) ÷ বন্ধন সংখ্যা।\nবিক্রিয়া তাপ ΔH = (বিক্রিয়কের ভাঙা বন্ধনের শক্তির যোগফল) − (উৎপাদের গঠিত বন্ধনের শক্তির যোগফল)।\nউদাহরণ: CH4 + Cl2 → CH3Cl + HCl: 1895 − 2005 = −110 kJ/mol। ইথেনের C–C বন্ধন শক্তি = 343.92 kJ/mol।",
+   "notes_en": "Standard heat of reaction is measured at 25 °C and 1 atm, same initial and final conditions; solutions are 1 molar.\nBond breaking absorbs heat (positive, endothermic); bond formation releases heat (negative, exothermic).\nAverage bond energy = mean energy to break all bonds of one type in a gaseous molecule. CH4: 1665.23 ÷ 4 = 416.31 kJ/mol. For a diatomic molecule bond dissociation energy = bond energy (H2 = 434 kJ/mol).\nBond energy = (sublimation heat + atomisation heat − formation heat) ÷ number of bonds.\nΔH = Σ(bond energies of bonds broken in reactants) − Σ(bond energies of bonds formed in products).\nExample: CH4 + Cl2 → CH3Cl + HCl: 1895 − 2005 = −110 kJ/mol. C–C bond energy in ethane = 343.92 kJ/mol.",
+   "mcqs": [
+    {
+     "question_bn": "বন্ধন ভাঙার প্রক্রিয়া কেমন?",
+     "question_en": "Bond breaking is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপোৎপাদী",
+       "en": "exothermic"
+      },
+      {
+       "id": "b",
+       "bn": "তাপহারী",
+       "en": "endothermic"
+      },
+      {
+       "id": "c",
+       "bn": "তাপনিরপেক্ষ",
+       "en": "thermally neutral"
+      },
+      {
+       "id": "d",
+       "bn": "সবসময় স্বতঃস্ফূর্ত",
+       "en": "always spontaneous"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বন্ধন ভাঙতে শক্তি শোষিত হয়।",
+     "explanation_en": "Energy is absorbed to break bonds.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রমাণ বিক্রিয়া তাপ কোন তাপমাত্রা ও চাপে নির্ণয় করা হয়?",
+     "question_en": "Standard heat of reaction is measured at –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0 °C ও 1 atm",
+       "en": "0 °C and 1 atm"
+      },
+      {
+       "id": "b",
+       "bn": "25 °C ও 1 atm",
+       "en": "25 °C and 1 atm"
+      },
+      {
+       "id": "c",
+       "bn": "100 °C ও 2 atm",
+       "en": "100 °C and 2 atm"
+      },
+      {
+       "id": "d",
+       "bn": "25 °C ও 10 atm",
+       "en": "25 °C and 10 atm"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রমাণ অবস্থা বলতে 25 °C ও 1 atm বোঝায়।",
+     "explanation_en": "Standard state means 25 °C and 1 atm.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH4(g) → C(g) + 4H(g) এর ΔH = 1665.23 kJ/mol হলে গড় C–H বন্ধন শক্তি কত?",
+     "question_en": "For CH4(g) → C(g) + 4H(g), ΔH = 1665.23 kJ/mol. What is the average C–H bond energy?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1665.23 kJ/mol",
+       "en": "1665.23 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "832.62 kJ/mol",
+       "en": "832.62 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "416.31 kJ/mol",
+       "en": "416.31 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "208.15 kJ/mol",
+       "en": "208.15 kJ/mol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "1665.23 ÷ 4 = 416.31 kJ/mol (গণনা)।",
+     "explanation_en": "1665.23 ÷ 4 = 416.31 kJ/mol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বিক্রিয়া তাপ নির্ণয়ের সঠিক সূত্র কোনটি?",
+     "question_en": "Which expression correctly gives the heat of reaction from bond energies?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔH = উৎপাদের বন্ধন শক্তি − বিক্রিয়কের বন্ধন শক্তি",
+       "en": "ΔH = bonds formed − bonds broken"
+      },
+      {
+       "id": "b",
+       "bn": "ΔH = ভাঙা বন্ধনের শক্তি − গঠিত বন্ধনের শক্তি",
+       "en": "ΔH = bonds broken − bonds formed"
+      },
+      {
+       "id": "c",
+       "bn": "ΔH = ভাঙা + গঠিত বন্ধনের শক্তি",
+       "en": "ΔH = bonds broken + bonds formed"
+      },
+      {
+       "id": "d",
+       "bn": "ΔH = শুধু গঠিত বন্ধনের শক্তি",
+       "en": "ΔH = bonds formed only"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিক্রিয়কের ভাঙা বন্ধনের শক্তি বিয়োগ উৎপাদে গঠিত বন্ধনের শক্তি।",
+     "explanation_en": "Energy of bonds broken minus energy of bonds formed.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H2 অণুর বন্ধন বিয়োজন শক্তি 434 kJ/mol হলে এর বন্ধন শক্তি কত?",
+     "question_en": "If the bond dissociation energy of H2 is 434 kJ/mol, its bond energy is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "217 kJ/mol",
+       "en": "217 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "434 kJ/mol",
+       "en": "434 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "868 kJ/mol",
+       "en": "868 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "0",
+       "en": "0"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দ্বিপরমাণুক অণুর ক্ষেত্রে দুটি মান সমান।",
+     "explanation_en": "For a diatomic molecule both are equal.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H2 + ½O2 → H2O(g) এর বিক্রিয়া তাপ কত? বন্ধন শক্তি: H–H 435.50, O=O 498.40, O–H 462.50 kJ/mol।",
+     "question_en": "Heat of reaction for H2 + ½O2 → H2O(g)? Bond energies: H–H 435.50, O=O 498.40, O–H 462.50 kJ/mol.",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−240.30 kJ/mol",
+       "en": "−240.30 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "+240.30 kJ/mol",
+       "en": "+240.30 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "−489.50 kJ/mol",
+       "en": "−489.50 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−925.00 kJ/mol",
+       "en": "−925.00 kJ/mol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "435.50 + ½×498.40 − 2×462.50 = 684.70 − 925.00 = −240.30 kJ/mol।",
+     "explanation_en": "435.50 + ½×498.40 − 2×462.50 = 684.70 − 925.00 = −240.30 kJ/mol.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "CH4 + Cl2 → CH3Cl + HCl এর ΔH কত? (C–H 413, Cl–Cl 243, C–Cl 339, H–Cl 427 kJ/mol)",
+     "question_en": "ΔH for CH4 + Cl2 → CH3Cl + HCl? (C–H 413, Cl–Cl 243, C–Cl 339, H–Cl 427 kJ/mol)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+110 kJ/mol",
+       "en": "+110 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "−110 kJ/mol",
+       "en": "−110 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "−2005 kJ/mol",
+       "en": "−2005 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−1895 kJ/mol",
+       "en": "−1895 kJ/mol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ভাঙা: 4×413 + 243 = 1895; গঠিত: 3×413 + 339 + 427 = 2005; ΔH = 1895 − 2005 = −110।",
+     "explanation_en": "Broken: 4×413+243 = 1895; formed: 3×413+339+427 = 2005; ΔH = −110 kJ/mol.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ইথেন (CH3–CH3) অণুর সম্পূর্ণ পরমাণুকরণে (C2H6 → 2C + 6H) ΔH = 2823 kJ। প্রতিটি C–H বন্ধন শক্তি 413.18 kJ/mol হলে C–C বন্ধন শক্তি কত?",
+     "question_en": "Complete atomisation of ethane (C2H6 → 2C + 6H) needs 2823 kJ. If each C–H bond energy is 413.18 kJ/mol, the C–C bond energy is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "343.92 kJ/mol",
+       "en": "343.92 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "469.50 kJ/mol",
+       "en": "469.50 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "2479.08 kJ/mol",
+       "en": "2479.08 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "413.18 kJ/mol",
+       "en": "413.18 kJ/mol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "6×413.18 = 2479.08; C–C = 2823 − 2479.08 = 343.92 kJ/mol (গণনা)।",
+     "explanation_en": "6×413.18 = 2479.08; C–C = 2823 − 2479.08 = 343.92 kJ/mol (derived).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.34",
+   "title_bn": "ল্যাভয়সিয়ে ও হেসের সূত্র",
+   "title_en": "Laws of Lavoisier and Hess",
+   "notes_bn": "ল্যাভয়সিয়ের সূত্র: কোনো যৌগকে তার উপাদান থেকে তৈরি করতে যে পরিমাণ শক্তি উৎপাদিত হয়, যৌগটিকে বিয়োজিত করে উপাদানে ফেরাতে ঠিক ততটুকু শক্তি লাগে। অর্থাৎ সংগঠন তাপ ও বিয়োজন তাপ সমান মানের কিন্তু বিপরীত চিহ্নের।\nউদাহরণ: H2 + ½O2 → H2O(l); ΔH = −285.85 kJ/mol; বিপরীত: H2O → H2 + ½O2; ΔH = +285.85। Cu + ½O2 → CuO; ΔH = −157 kJ/mol; CuO → Cu + ½O2; ΔH = +157 kJ।\nএনথালপি H = E + PV।\nহেসের সূত্র (১৮৪০, জি. এইচ. হেস): বিক্রিয়ার প্রারম্ভিক ও শেষ অবস্থা স্থির থাকলে বিক্রিয়া এক বা একাধিক ধাপে ঘটুক, বিক্রিয়া তাপ একই থাকে। অর্থাৎ ΔH কেবল প্রাথমিক ও চূড়ান্ত অবস্থার উপর নির্ভর করে, পথের উপর নয়। একে তাপ সমষ্টি সূত্রও বলে।\nউদাহরণ: C → CO2 এক ধাপে ΔH1 = −393.5; দুই ধাপে C → CO (−110.5) ও CO → CO2 (−283.0), যোগফল −393.5 kJ/mol।\nহেসের সূত্র তাপগতিবিদ্যার প্রথম সূত্র থেকে প্রাপ্ত।",
+   "notes_en": "Lavoisier's law: the energy needed to decompose a compound into its elements equals the energy released in forming it from them; heat of formation and heat of decomposition are equal in size and opposite in sign.\nExamples: H2 + ½O2 → H2O(l), ΔH = −285.85 kJ/mol; reverse +285.85. Cu + ½O2 → CuO, ΔH = −157 kJ/mol; CuO → Cu + ½O2, ΔH = +157 kJ.\nEnthalpy H = E + PV.\nHess's law (1840): for fixed initial and final states the heat of reaction is the same whether the reaction occurs in one step or several; ΔH depends only on initial and final states, not the path (law of constant heat summation).\nExample: C → CO2 in one step ΔH1 = −393.5; two steps C → CO (−110.5) and CO → CO2 (−283.0) sum to −393.5 kJ/mol.\nHess's law follows from the first law of thermodynamics.",
+   "mcqs": [
+    {
+     "question_bn": "ল্যাভয়সিয়ের সূত্রানুসারে কোনো যৌগের সংগঠন তাপ ও বিয়োজন তাপের সম্পর্ক কী?",
+     "question_en": "What is the relation between heat of formation and heat of decomposition (Lavoisier)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সমান মান, বিপরীত চিহ্ন",
+       "en": "Equal magnitude, opposite sign"
+      },
+      {
+       "id": "b",
+       "bn": "সমান মান, একই চিহ্ন",
+       "en": "Equal magnitude, same sign"
+      },
+      {
+       "id": "c",
+       "bn": "সংগঠন তাপ বেশি",
+       "en": "Formation heat is larger"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো সম্পর্ক নেই",
+       "en": "No relation"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সংগঠন তাপ ও বিয়োজন তাপ পরস্পর সমান মানবিশিষ্ট কিন্তু বিপরীত চিহ্নযুক্ত।",
+     "explanation_en": "They are equal in magnitude but opposite in sign.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হেসের সূত্র অনুযায়ী বিক্রিয়া তাপ নির্ভর করে –",
+     "question_en": "According to Hess's law the heat of reaction depends on –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিক্রিয়ার পথের উপর",
+       "en": "the path of reaction"
+      },
+      {
+       "id": "b",
+       "bn": "ধাপের সংখ্যার উপর",
+       "en": "the number of steps"
+      },
+      {
+       "id": "c",
+       "bn": "প্রাথমিক ও চূড়ান্ত অবস্থার উপর",
+       "en": "the initial and final states"
+      },
+      {
+       "id": "d",
+       "bn": "কেবল প্রভাবকের উপর",
+       "en": "only on a catalyst"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ΔH কেবল প্রাথমিক ও শেষ অবস্থার উপর নির্ভর করে।",
+     "explanation_en": "ΔH depends only on initial and final states.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Cu + ½O2 → CuO; ΔH = −157 kJ/mol। CuO → Cu + ½O2 এর ΔH কত?",
+     "question_en": "Cu + ½O2 → CuO; ΔH = −157 kJ/mol. What is ΔH for CuO → Cu + ½O2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−157 kJ/mol",
+       "en": "−157 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "+157 kJ/mol",
+       "en": "+157 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "−78.5 kJ/mol",
+       "en": "−78.5 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "0",
+       "en": "0"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ল্যাভয়সিয়ের সূত্র: বিপরীত বিক্রিয়ায় একই মান, বিপরীত চিহ্ন।",
+     "explanation_en": "Lavoisier: same value, opposite sign for the reverse reaction.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হেসের সূত্র কোন সূত্র থেকে অনুসিদ্ধান্ত হিসেবে পাওয়া যায়?",
+     "question_en": "Hess's law is a corollary of –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপগতিবিদ্যার প্রথম সূত্র",
+       "en": "the first law of thermodynamics"
+      },
+      {
+       "id": "b",
+       "bn": "চার্লসের সূত্র",
+       "en": "Charles's law"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাভোগ্যাড্রোর সূত্র",
+       "en": "Avogadro's law"
+      },
+      {
+       "id": "d",
+       "bn": "ল্য শাতেলিয়ারের নীতি",
+       "en": "Le Chatelier's principle"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে হেসের সূত্র প্রথম সূত্রের অনুসিদ্ধান্ত।",
+     "explanation_en": "The book states it follows from the first law.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H2O(l) এর সংগঠন তাপ −285.85 kJ/mol হলে H2O(l) → H2 + ½O2 এর ΔH কত?",
+     "question_en": "If ΔHf of H2O(l) is −285.85 kJ/mol, ΔH for H2O(l) → H2 + ½O2 is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−285.85 kJ/mol",
+       "en": "−285.85 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "+285.85 kJ/mol",
+       "en": "+285.85 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "+571.7 kJ/mol",
+       "en": "+571.7 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−142.9 kJ/mol",
+       "en": "−142.9 kJ/mol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বিপরীত বিক্রিয়ায় চিহ্ন উল্টে যায়।",
+     "explanation_en": "Reversing flips the sign.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C → CO এর ΔH = −110.5 এবং CO → CO2 এর ΔH = −283.0 kJ/mol। হেসের সূত্রে C → CO2 এর ΔH কত?",
+     "question_en": "C → CO has ΔH = −110.5 and CO → CO2 has ΔH = −283.0 kJ/mol. By Hess's law ΔH for C → CO2 is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−172.5 kJ/mol",
+       "en": "−172.5 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "+172.5 kJ/mol",
+       "en": "+172.5 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "−393.5 kJ/mol",
+       "en": "−393.5 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−283.0 kJ/mol",
+       "en": "−283.0 kJ/mol"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ΔH = −110.5 + (−283.0) = −393.5 kJ/mol।",
+     "explanation_en": "ΔH = −110.5 + (−283.0) = −393.5 kJ/mol.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "A → C বিক্রিয়ায় ΔH = −70 kJ; A → B ধাপে ΔH = −100 kJ। B → C ধাপের ΔH কত?",
+     "question_en": "For A → C, ΔH = −70 kJ; the step A → B has ΔH = −100 kJ. What is ΔH for B → C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−170 kJ",
+       "en": "−170 kJ"
+      },
+      {
+       "id": "b",
+       "bn": "−30 kJ",
+       "en": "−30 kJ"
+      },
+      {
+       "id": "c",
+       "bn": "+30 kJ",
+       "en": "+30 kJ"
+      },
+      {
+       "id": "d",
+       "bn": "+170 kJ",
+       "en": "+170 kJ"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ΔH(A→C) = ΔH(A→B) + ΔH(B→C): −70 = −100 + x, x = +30 kJ (গণনা)।",
+     "explanation_en": "−70 = −100 + x, so x = +30 kJ (derived).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "দুটি বিক্রিয়াপথে A → C যথাক্রমে এক ধাপে (ΔH1) ও দুই ধাপে (ΔH2 + ΔH3) ঘটে। কোনটি সঠিক?",
+     "question_en": "A → C occurs in one step (ΔH1) or in two steps (ΔH2 + ΔH3). Which is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔH1 > ΔH2 + ΔH3",
+       "en": "ΔH1 > ΔH2 + ΔH3"
+      },
+      {
+       "id": "b",
+       "bn": "ΔH1 = ΔH2 + ΔH3",
+       "en": "ΔH1 = ΔH2 + ΔH3"
+      },
+      {
+       "id": "c",
+       "bn": "ΔH1 = ΔH2 × ΔH3",
+       "en": "ΔH1 = ΔH2 × ΔH3"
+      },
+      {
+       "id": "d",
+       "bn": "ΔH1 < ΔH2 + ΔH3",
+       "en": "ΔH1 < ΔH2 + ΔH3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হেসের সূত্র: পথ যাই হোক, মোট ΔH সমান।",
+     "explanation_en": "Hess: total ΔH is the same for any path.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.35",
+   "title_bn": "ল্যাভয়সিয়ে ও হেসের সূত্র প্রয়োগ করে বিক্রিয়া তাপ নির্ণয়",
+   "title_en": "Applying Lavoisier's and Hess's Laws to Find Heats of Reaction",
+   "notes_bn": "যেসব বিক্রিয়ার তাপ সরাসরি পরীক্ষায় নির্ণয় করা কঠিন, হেসের সূত্র দিয়ে পরোক্ষভাবে তা নির্ণয় করা যায়।\nউদাহরণ: C + ½O2 → CO এর তাপ সরাসরি মাপা কঠিন, কারণ CO2ও তৈরি হয়। C + O2 → CO2 (−393.5) এবং CO + ½O2 → CO2 (−283) জানা থাকলে: x − 283 = −393.5, x = −110.5 kJ/mol।\nহেসের সূত্র দিয়ে গঠন তাপ, দ্রবণ তাপ, হাইড্রেশন তাপ, বিক্রিয়া তাপ ও বন্ধন বিয়োজন তাপ নির্ণয় করা যায়।\nদহন তাপ থেকে গঠন তাপ: ΔHf = Σ (উপাদানের দহন তাপ) − যৌগের দহন তাপ। উদাহরণ: C2H2 (দহন −1304, C −393.5, H2 −285.85) ⇒ ΔHf = +231.15 kJ/mol; CH4 (দহন −903) ⇒ −62.2 kJ/mol; সুক্রোজ (দহন −5643) ⇒ −2223.35 kJ/mol।\nপদ্ধতি: সমীকরণ উল্টানো/গুণ করে যোগ করে লক্ষ্য সমীকরণ বানাও, ΔH-ও একইভাবে যোগ করো।",
+   "notes_en": "Heats that are hard to measure directly can be found indirectly using Hess's law.\nExample: the heat for C + ½O2 → CO is hard to measure because some CO2 forms. Given C + O2 → CO2 (−393.5) and CO + ½O2 → CO2 (−283): x − 283 = −393.5, x = −110.5 kJ/mol.\nHess's law yields heats of formation, solution, hydration, reaction and bond dissociation.\nFrom combustion data: ΔHf = Σ(combustion heats of elements) − combustion heat of compound. E.g. C2H2 (comb. −1304, C −393.5, H2 −285.85) gives +231.15 kJ/mol; CH4 (−903) gives −62.2; sucrose (−5643) gives −2223.35 kJ/mol.\nMethod: reverse/multiply the given equations and add them to obtain the target equation; add the ΔH values the same way.",
+   "mcqs": [
+    {
+     "question_bn": "হেসের সূত্র প্রয়োগ করে কোন ধরনের বিক্রিয়ার তাপ নির্ণয় করা হয়?",
+     "question_en": "Hess's law is used to find the heat of which reactions?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "যেগুলোর তাপ সরাসরি মাপা কঠিন",
+       "en": "those hard to measure directly"
+      },
+      {
+       "id": "b",
+       "bn": "কেবল দ্রবণ বিক্রিয়া",
+       "en": "only solution reactions"
+      },
+      {
+       "id": "c",
+       "bn": "কেবল দহন বিক্রিয়া",
+       "en": "only combustion"
+      },
+      {
+       "id": "d",
+       "bn": "কেবল তাপহারী বিক্রিয়া",
+       "en": "only endothermic reactions"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কঠিন ক্ষেত্রে পরোক্ষভাবে হেসের সূত্র ব্যবহার হয়।",
+     "explanation_en": "Used indirectly where direct measurement is difficult.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কার্বনের CO তে অসম্পূর্ণ দহনের তাপ সরাসরি মাপা কঠিন কেন?",
+     "question_en": "Why is the heat of C → CO hard to measure directly?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO তাপ শোষণ করে",
+       "en": "CO absorbs heat"
+      },
+      {
+       "id": "b",
+       "bn": "সাথে কিছু CO2ও তৈরি হয়",
+       "en": "some CO2 also forms"
+      },
+      {
+       "id": "c",
+       "bn": "কার্বন বিক্রিয়া করে না",
+       "en": "carbon does not react"
+      },
+      {
+       "id": "d",
+       "bn": "CO বিষাক্ত নয়",
+       "en": "CO is not toxic"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "কার্বন ও অক্সিজেনের বিক্রিয়ায় CO2ও উৎপন্ন হয় বলে শুধু CO এর তাপ আলাদা করা যায় না।",
+     "explanation_en": "CO2 also forms, so the CO step cannot be isolated.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "C + O2 → CO2 (−393.5) এবং CO + ½O2 → CO2 (−283) থেকে C + ½O2 → CO এর ΔH কত?",
+     "question_en": "From C + O2 → CO2 (−393.5) and CO + ½O2 → CO2 (−283), ΔH for C + ½O2 → CO is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−676.5 kJ/mol",
+       "en": "−676.5 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "−110.5 kJ/mol",
+       "en": "−110.5 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "+110.5 kJ/mol",
+       "en": "+110.5 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−283 kJ/mol",
+       "en": "−283 kJ/mol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "x − 283 = −393.5 ⇒ x = −110.5 kJ/mol।",
+     "explanation_en": "x − 283 = −393.5, so x = −110.5 kJ/mol.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হেসের সূত্র দিয়ে নিচের কোনটি নির্ণয় করা যায় না?",
+     "question_en": "Which of these CANNOT be determined using Hess's law (as listed in the book)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গঠন তাপ",
+       "en": "heat of formation"
+      },
+      {
+       "id": "b",
+       "bn": "দ্রবণ তাপ",
+       "en": "heat of solution"
+      },
+      {
+       "id": "c",
+       "bn": "বন্ধন বিয়োজন তাপ",
+       "en": "bond dissociation heat"
+      },
+      {
+       "id": "d",
+       "bn": "বিক্রিয়ার বেগ",
+       "en": "rate of reaction"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "বইয়ে গঠন, দ্রবণ, হাইড্রেশন, বিক্রিয়া ও বন্ধন বিয়োজন তাপ নির্ণয়ের কথা আছে; বিক্রিয়ার বেগ নয়।",
+     "explanation_en": "The book lists heats of formation, solution, hydration, reaction and bond dissociation, not reaction rate.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C2H2, C(s), H2(g) এর দহন তাপ যথাক্রমে −1304, −393.5, −285.85 kJ/mol। C2H2 এর সংগঠন তাপ কত?",
+     "question_en": "Combustion heats of C2H2, C(s), H2(g) are −1304, −393.5, −285.85 kJ/mol. ΔHf of C2H2 is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−231.15 kJ/mol",
+       "en": "−231.15 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "+231.15 kJ/mol",
+       "en": "+231.15 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "−1072.85 kJ/mol",
+       "en": "−1072.85 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "+1072.85 kJ/mol",
+       "en": "+1072.85 kJ/mol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2(−393.5) + (−285.85) = −1072.85; ΔHf = −1072.85 − (−1304) = +231.15 kJ/mol।",
+     "explanation_en": "2(−393.5) + (−285.85) = −1072.85; ΔHf = −1072.85 + 1304 = +231.15 kJ/mol.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "CH4 এর দহন তাপ −903 kJ/mol; C ও H2 এর দহন তাপ −393.5 ও −285.85। CH4 এর সংগঠন তাপ কত?",
+     "question_en": "Combustion heat of CH4 is −903 kJ/mol; C and H2: −393.5 and −285.85. ΔHf of CH4 is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−62.2 kJ/mol",
+       "en": "−62.2 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "+62.2 kJ/mol",
+       "en": "+62.2 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "−1582.2 kJ/mol",
+       "en": "−1582.2 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−903 kJ/mol",
+       "en": "−903 kJ/mol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "−393.5 + 2(−285.85) = −965.2; ΔHf = −965.2 + 903 = −62.2 kJ/mol।",
+     "explanation_en": "−393.5 + 2(−285.85) = −965.2; ΔHf = −965.2 + 903 = −62.2 kJ/mol.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "সুক্রোজের (C12H22O11) দহন −5643 kJ, CO2 −393.5, H2O(l) −285.85 kJ/mol। 12C + 11H2 + 11/2 O2 → C12H22O11 এর ΔH কত?",
+     "question_en": "Sucrose combustion is −5643 kJ; ΔHf CO2 = −393.5, H2O(l) = −285.85 kJ/mol. ΔHf of sucrose is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "−2223.35 kJ/mol",
+       "en": "−2223.35 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "−7866.35 kJ/mol",
+       "en": "−7866.35 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "+2223.35 kJ/mol",
+       "en": "+2223.35 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "−5643 kJ/mol",
+       "en": "−5643 kJ/mol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "12(−393.5)+11(−285.85) = −4722 − 3144.35 = −7866.35; ΔHf = −7866.35 + 5643 = −2223.35।",
+     "explanation_en": "12(−393.5)+11(−285.85) = −7866.35; ΔHf = −7866.35 + 5643 = −2223.35 kJ/mol.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.36",
+   "title_bn": "ব্যবহারিক: ক্যালরিমিতি পদ্ধতিতে অক্সালিক এসিডের দ্রবণ তাপ নির্ণয়",
+   "title_en": "Practical: Heat of Solution of Oxalic Acid by Calorimetry",
+   "notes_bn": "মূলনীতি: 1 mol পদার্থকে অতিরিক্ত দ্রাবকে দ্রবীভূত করে পরে দ্রাবক যোগ করলেও তাপের পরিবর্তন না ঘটলে ঐ সময়ের তাপ পরিবর্তনই দ্রবণ তাপ; এখানে দ্রাবক পানি।\nউপকরণ: অক্সালিক এসিড ((COOH)2·2H2O), পানি, ক্যালরিমিটার, বিকার, কাচদণ্ড, থার্মোমিটার, স্ট্যান্ড, ক্ল্যাম্প।\nপদ্ধতি: বিকারে 87.4 mL পানি নিয়ে প্রাথমিক তাপমাত্রা t1 লিখি; 12.6 g অক্সালিক এসিড যোগ করে কাচদণ্ডে নেড়ে দ্রবীভূত করি এবং সর্বনিম্ন তাপমাত্রা t2 লিখি। (12.6 g + 87.4 g = 100 g দ্রবণ।)\nগণনা: Δt = t1 − t2; পানির আপেক্ষিক তাপ 4.184 kJ/kg·°C, তাই 1000 g দ্রবণের জন্য ΔH = 4.184 × Δt kJ/mol।\nতাপ শোষিত হয় (তাপহারী), তাই ΔH ধনাত্মক।\nসতর্কতা: এসিড দানাদার ও বিশুদ্ধ নিতে হবে; থার্মোমিটারে কাচদণ্ডের আঘাত লাগানো যাবে না; দ্রুত ও সুষমভাবে নাড়তে হবে।",
+   "notes_en": "Principle: heat change on dissolving 1 mol in so much solvent that further dilution gives no change; here the solvent is water.\nApparatus: oxalic acid ((COOH)2·2H2O), water, calorimeter, beaker, glass rod, thermometer, stand, clamp.\nProcedure: take 87.4 mL water, note initial temperature t1; add 12.6 g oxalic acid, stir to dissolve and record the lowest temperature t2. (12.6 g + 87.4 g = 100 g solution.)\nCalculation: Δt = t1 − t2; specific heat of water 4.184 kJ per kg per °C, so for 1000 g ΔH = 4.184 × Δt kJ/mol.\nHeat is absorbed (endothermic) so ΔH is positive.\nPrecautions: use pure granular acid; do not hit the thermometer with the glass rod; stir quickly and evenly.",
+   "mcqs": [
+    {
+     "question_bn": "এই পরীক্ষায় অক্সালিক এসিডের দ্রবণ তাপ নির্ণয়ে দ্রাবক কী?",
+     "question_en": "What is the solvent used in this experiment?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      },
+      {
+       "id": "b",
+       "bn": "পানি",
+       "en": "Water"
+      },
+      {
+       "id": "c",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "d",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দ্রাবক হিসেবে পানি ব্যবহার করা হয়।",
+     "explanation_en": "Water is the solvent.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অক্সালিক এসিড দ্রবীভূত হলে তাপমাত্রা কমে। এতে কোনটি বোঝা যায়?",
+     "question_en": "Temperature falls when oxalic acid dissolves. This indicates the process is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপোৎপাদী",
+       "en": "exothermic"
+      },
+      {
+       "id": "b",
+       "bn": "তাপহারী",
+       "en": "endothermic"
+      },
+      {
+       "id": "c",
+       "bn": "অবস্থা অপরিবর্তিত",
+       "en": "no thermal effect"
+      },
+      {
+       "id": "d",
+       "bn": "অসম্ভব",
+       "en": "impossible"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তাপ শোষিত হওয়ায় তাপমাত্রা কমে; ΔH ধনাত্মক।",
+     "explanation_en": "Heat is absorbed, so temperature drops and ΔH is positive.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পরীক্ষায় 12.6 g অক্সালিক এসিডের সাথে কত mL পানি নেওয়া হয়?",
+     "question_en": "How much water is taken with 12.6 g oxalic acid in the experiment?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "50 mL",
+       "en": "50 mL"
+      },
+      {
+       "id": "b",
+       "bn": "87.4 mL",
+       "en": "87.4 mL"
+      },
+      {
+       "id": "c",
+       "bn": "100 mL",
+       "en": "100 mL"
+      },
+      {
+       "id": "d",
+       "bn": "126 mL",
+       "en": "126 mL"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "12.6 g + 87.4 g = 100 g দ্রবণ।",
+     "explanation_en": "12.6 g + 87.4 g = 100 g solution.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ΔH নির্ণয়ের সূত্র কোনটি (Δt = t1 − t2)?",
+     "question_en": "Which formula gives ΔH (Δt = t1 − t2)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ΔH = 4.184 × Δt kJ/mol",
+       "en": "ΔH = 4.184 × Δt kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "ΔH = Δt / 4.184",
+       "en": "ΔH = Δt / 4.184"
+      },
+      {
+       "id": "c",
+       "bn": "ΔH = 4.184 + Δt",
+       "en": "ΔH = 4.184 + Δt"
+      },
+      {
+       "id": "d",
+       "bn": "ΔH = 4184 × Δt kJ/mol",
+       "en": "ΔH = 4184 × Δt kJ/mol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1000 g দ্রবণের জন্য 4.184 × 1000 × Δt J = 4.184 × Δt kJ।",
+     "explanation_en": "For 1000 g: 4.184 × 1000 × Δt J = 4.184 × Δt kJ.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পরীক্ষায় তাপমাত্রা 3.0 °C কমলে অক্সালিক এসিডের দ্রবণ তাপ কত হবে?",
+     "question_en": "If the temperature falls by 3.0 °C, the heat of solution of oxalic acid is –",
+     "options": [
+      {
+       "id": "a",
+       "bn": "+12.55 kJ/mol",
+       "en": "+12.55 kJ/mol"
+      },
+      {
+       "id": "b",
+       "bn": "−12.55 kJ/mol",
+       "en": "−12.55 kJ/mol"
+      },
+      {
+       "id": "c",
+       "bn": "+1.255 kJ/mol",
+       "en": "+1.255 kJ/mol"
+      },
+      {
+       "id": "d",
+       "bn": "+125.5 kJ/mol",
+       "en": "+125.5 kJ/mol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "4.184 × 3.0 = 12.552 ≈ 12.55 kJ/mol; তাপহারী তাই ধনাত্মক (গণনা)।",
+     "explanation_en": "4.184 × 3.0 = 12.552 ≈ 12.55 kJ/mol; positive since endothermic (derived).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "এই পরীক্ষায় কোন সতর্কতাটি সঠিক?",
+     "question_en": "Which precaution is correct for this experiment?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কাচদণ্ড দিয়ে থার্মোমিটারে আঘাত করা",
+       "en": "Strike the thermometer with the glass rod"
+      },
+      {
+       "id": "b",
+       "bn": "নাড়া ছাড়াই দ্রবীভূত হতে দেওয়া",
+       "en": "Let it dissolve without stirring"
+      },
+      {
+       "id": "c",
+       "bn": "থার্মোমিটারে আঘাত এড়িয়ে সুষমভাবে নাড়া",
+       "en": "Stir evenly without hitting the thermometer"
+      },
+      {
+       "id": "d",
+       "bn": "দ্রবীভূত হওয়ার আগেই তাপমাত্রা লেখা",
+       "en": "Record temperature before the solid dissolves"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে থার্মোমিটারে আঘাত না লাগিয়ে সুষমভাবে নাড়ার নির্দেশ আছে।",
+     "explanation_en": "The book advises even stirring while avoiding the thermometer.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "4.31",
+   "stimulus_bn": "একটি ল্যাবে তথ্য দেওয়া আছে: C2H2(g) এর দহন তাপ −1304 kJ/mol; C(s) এর দহন তাপ −393.5 kJ/mol; H2(g) এর দহন তাপ −285.85 kJ/mol। শিক্ষার্থী 2C(s) + H2(g) → C2H2(g) বিক্রিয়ার তাপ সরাসরি মাপতে পারছে না।",
+   "stimulus_en": "A lab gives: combustion heat of C2H2(g) = −1304 kJ/mol; of C(s) = −393.5 kJ/mol; of H2(g) = −285.85 kJ/mol. A student cannot measure the heat of 2C(s) + H2(g) → C2H2(g) directly.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "প্রমাণ সংগঠন তাপ কী?",
+     "question_en": "What is the standard heat of formation?",
+     "model_answer_bn": "কোনো যৌগের 1 mol কে প্রমাণ অবস্থায় (25 °C, 1 atm) তার উপাদান মৌল থেকে গঠন করার সময় যে তাপ পরিবর্তন ঘটে তাই প্রমাণ সংগঠন তাপ।",
+     "model_answer_en": "The heat change when 1 mol of a compound is formed from its elements under standard conditions (25 °C, 1 atm)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "SATP-তে মৌলের সংগঠন তাপ শূন্য ধরা হয় কেন?",
+     "question_en": "Why is the formation heat of an element taken as zero at SATP?",
+     "model_answer_bn": "কোনো উপাদানের পরম শক্তি নির্ণয় করা যায় না; তাই গণনার সুবিধার্থে IUPAC প্রমাণ অবস্থায় মৌলের অভ্যন্তরীণ শক্তি শূন্য ধরে।",
+     "model_answer_en": "Absolute energy cannot be determined, so for convenience IUPAC takes the energy of elements in the standard state as zero."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "C2H2 এর সংগঠন তাপ নির্ণয় কর।",
+     "question_en": "Calculate the heat of formation of C2H2.",
+     "model_answer_bn": "2(−393.5) + (−285.85) = −1072.85 kJ; ΔHf = −1072.85 − (−1304) = +231.15 kJ/mol।",
+     "model_answer_en": "2(−393.5) + (−285.85) = −1072.85 kJ; ΔHf = −1072.85 + 1304 = +231.15 kJ/mol."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "উপরের বিক্রিয়ার ΔH ও ΔE এর মধ্যে সম্পর্ক বিশ্লেষণ কর এবং বিক্রিয়াটি তাপোৎপাদী না তাপহারী ব্যাখ্যা কর।",
+     "question_en": "Analyse the relation between ΔH and ΔE for the reaction and state with reasoning whether it is exothermic or endothermic.",
+     "model_answer_bn": "ΔH = ΔE + ΔnRT; গ্যাসীয় মোল: বিক্রিয়ক H2 = 1, উৎপাদ C2H2 = 1, C কঠিন; তাই Δn = 0 এবং ΔH ≈ ΔE। ΔH = +231.15 kJ ধনাত্মক, তাই এটি তাপহারী; Hp > HR, উৎপাদের অভ্যন্তরীণ শক্তি বেশি, বন্ধন ভাঙার শক্তি বন্ধন গঠনের শক্তির চেয়ে বেশি।",
+     "model_answer_en": "ΔH = ΔE + ΔnRT; gaseous moles: reactant H2 = 1, product C2H2 = 1, C is solid, so Δn = 0 and ΔH ≈ ΔE. ΔH = +231.15 kJ is positive, so the reaction is endothermic; Hp > HR, the product has higher internal energy and bond-breaking energy exceeds bond-forming energy."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.32",
+   "stimulus_bn": "শিক্ষার্থী 100 mL 0.25 M H2SO4 দ্রবণকে 100 mL 0.4 M NaOH দ্রবণের সাথে মিশিয়ে তাপ পরিমাপ করল। আরেকটি পরীক্ষায় সে CH3COOH + NaOH এবং HF + NaOH নিয়ে একই কাজ করল। তীব্র এসিড-ক্ষারের প্রশমন তাপ −57.24 kJ/mol; CH3COOH + NaOH এর মান −55.14, HF + NaOH এর মান −68.60 kJ/mol।",
+   "stimulus_en": "A student mixes 100 mL of 0.25 M H2SO4 with 100 mL of 0.4 M NaOH and measures the heat. In another run CH3COOH + NaOH and HF + NaOH are used. Strong acid–base neutralisation heat is −57.24 kJ/mol; CH3COOH + NaOH is −55.14 and HF + NaOH is −68.60 kJ/mol.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "প্রশমন তাপ কী?",
+     "question_en": "What is the heat of neutralisation?",
+     "model_answer_bn": "1 mol H⁺ কে ক্ষার দ্বারা বা 1 mol OH⁻ কে এসিড দ্বারা সম্পূর্ণ প্রশমিত করলে যে তাপ নির্গত হয়।",
+     "model_answer_en": "The heat released when 1 mol H⁺ is completely neutralised by a base or 1 mol OH⁻ by an acid."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ প্রায় ধ্রুবক কেন?",
+     "question_en": "Why is the neutralisation heat of strong acids and bases nearly constant?",
+     "model_answer_bn": "এরা লঘু দ্রবণে 100% আয়নিত থাকে, তাই সব ক্ষেত্রেই মূল বিক্রিয়া H⁺ + OH⁻ → H2O।",
+     "model_answer_en": "They are 100% ionised in dilute solution, so the net reaction is always H⁺ + OH⁻ → H2O."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "প্রথম পরীক্ষায় নির্গত তাপ কত?",
+     "question_en": "How much heat is released in the first experiment?",
+     "model_answer_bn": "H2SO4 = 0.025 mol (0.05 mol OH⁻ প্রয়োজন), NaOH = 0.04 mol, তাই NaOH লিমিটিং। তাপ = 57.24 × 0.04 = 2.2896 kJ।",
+     "model_answer_en": "H2SO4 = 0.025 mol (needs 0.05 mol NaOH) and NaOH = 0.04 mol, so NaOH is limiting. Heat = 57.24 × 0.04 = 2.2896 kJ."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "CH3COOH ও HF এর ক্ষেত্রে প্রশমন তাপ কেন যথাক্রমে কম ও বেশি, সংখ্যাসহ বিশ্লেষণ কর।",
+     "question_en": "Analyse with numbers why the neutralisation heat is lower for CH3COOH and higher for HF.",
+     "model_answer_bn": "CH3COOH দুর্বল এসিড, আংশিক বিয়োজিত; পুরোপুরি আয়নিত হতে প্রায় 2.2 kJ শক্তি লাগে, ফলে −57.34 থেকে −55.14 kJ/mol হয়। HF এ F⁻ ক্ষুদ্র, চার্জ ঘনত্ব বেশি, পানির সাথে দৃঢ় হাইড্রেশনে অতিরিক্ত 11.26 kJ তাপ নির্গত হয়: −57.34 − 11.26 = −68.60 kJ/mol।",
+     "model_answer_en": "CH3COOH is a weak, partly ionised acid; about 2.2 kJ is used to complete its ionisation so −57.34 becomes −55.14 kJ/mol. In HF the small F⁻ has high charge density and strong hydration releases an extra 11.26 kJ: −57.34 − 11.26 = −68.60 kJ/mol."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 553-554 (printed 555-556, pH in medicine) and 583-588 (exercises/MCQ lists) are outside the assigned sections and were not used. Book errata avoided: in the 4.33 example C2H2+2H2 -> C2H6 the book counts one H-H bond instead of two (answer -728 kJ/mol is inconsistent; not used); the book's C-H calc for CH4 shows 1662.11/4 = 430.53 (actual 415.53; not used); exercise 8.50 Q1 answer -57.31 vs 114.64/2 = 57.32 and exercise 8.49 benzene formation sign (+47.45 by calculation, book prints -47.45) were not used. Oxalic acid quantity in the 4.36 note '(2.6)' is partly unreadable; 12.6 g used per procedure text."
+}

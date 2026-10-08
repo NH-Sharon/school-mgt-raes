@@ -1,0 +1,954 @@
+{
+ "chapter_no": 3,
+ "topics": [
+  {
+   "section_no": "3.1",
+   "title_bn": "ইলেকট্রন বিন্যাসের ভিত্তিতে মৌলের শ্রেণিবিভাগ",
+   "title_en": "Classification of elements by electron configuration",
+   "notes_bn": "মেন্ডেলিফ (১৮৬৯) ৬৩টি মৌলকে ১২টি পর্যায় ও ৮টি গ্রুপে সাজান; আইসোটোপ ব্যাখ্যা করতে পারেননি। আধুনিক সূত্র: মৌলের ধর্ম পারমাণবিক সংখ্যার পর্যায়ক্রমিক অপেক্ষক।\nবোরের দীর্ঘ সারণি: ৭টি পর্যায়, ১৮টি গ্রুপ; ল্যান্থানাইড ও অ্যাক্টিনাইড আলাদা দুই সারিতে।\ns-ব্লক: ns¹⁻², গ্রুপ ১-২ ও He (১৪টি); p-ব্লক: ns²np¹⁻⁶, গ্রুপ ১৩-১৮ (৩৬টি); d-ব্লক: (n−1)d¹⁻¹⁰ns¹⁻², গ্রুপ ৩-১২ (৪১টি); f-ব্লক: (n−2)f¹⁻¹⁴(n−1)d⁰⁻¹ns²।\nগ্রুপ নির্ণয়: p-ব্লকে 10+(ns+np ইলেকট্রন); d-ব্লকে (n−1)d + ns। উদাহরণ: S(16) গ্রুপ ১৬; Mo(42) গ্রুপ ৬।\nঅবস্থান্তর মৌল: স্থিত আয়নে d-অরবিটাল অসম্পূর্ণ; Sc ও Zn d-ব্লক হলেও অবস্থান্তর নয়।\nআবরণী প্রভাব s>p>d>f; ল্যান্থানাইড সংকোচ ৪f-এর দুর্বল আবরণের ফল; আদর্শ মৌল: ২য়-৩য় পর্যায়ের মৌল।\nIUPAC নাম: 0=নিল, 1=আন, 7=সেপ্ট…; ১০৪ = আননিল কোয়াডিয়াম (Unq)।",
+   "notes_en": "Mendeleev (1869): 63 elements, 12 periods, 8 groups; could not explain isotopes. Modern law: properties are periodic functions of atomic number.\nBohr long form: 7 periods, 18 groups; lanthanides/actinides placed separately.\nBlocks: s (ns¹⁻², groups 1-2 + He, 14), p (ns²np¹⁻⁶, groups 13-18, 36), d ((n−1)d¹⁻¹⁰ns¹⁻², groups 3-12, 41), f ((n−2)f¹⁻¹⁴(n−1)d⁰⁻¹ns²).\nGroup: p-block 10 + (ns+np electrons); d-block (n−1)d + ns electrons. e.g. S(16) group 16; Mo(42) group 6.\nTransition element: stable ion has incomplete d-subshell; Sc and Zn are d-block but not transition.\nScreening s>p>d>f; lanthanide contraction arises from poor 4f screening; ideal elements are those of periods 2 and 3.\nIUPAC names: nil=0, un=1, sept=7; 104 = unnilquadium (Unq).",
+   "mcqs": [
+    {
+     "question_bn": "দীর্ঘ পর্যায় সারণিতে (বোরের সারণি) পর্যায় ও গ্রুপের সংখ্যা কত?",
+     "question_en": "How many periods and groups does the long form (Bohr) periodic table have?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৭টি পর্যায়, ১৮টি গ্রুপ",
+       "en": "7 periods, 18 groups"
+      },
+      {
+       "id": "b",
+       "bn": "৮টি পর্যায়, ১২টি গ্রুপ",
+       "en": "8 periods, 12 groups"
+      },
+      {
+       "id": "c",
+       "bn": "১২টি পর্যায়, ৮টি গ্রুপ",
+       "en": "12 periods, 8 groups"
+      },
+      {
+       "id": "d",
+       "bn": "৬টি পর্যায়, ১৮টি গ্রুপ",
+       "en": "6 periods, 18 groups"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দীর্ঘ পর্যায় সারণিতে ৭টি পর্যায় ও ১৮টি গ্রুপ আছে।",
+     "explanation_en": "The long form table has 7 periods and 18 groups.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মেন্ডেলিফ ১৮৬৯ সালে ৬৩টি মৌলকে কয়টি পর্যায় ও গ্রুপে ভাগ করেন?",
+     "question_en": "In 1869 Mendeleev arranged 63 elements into how many periods and groups?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৭টি পর্যায়, ১৮টি গ্রুপ",
+       "en": "7 periods, 18 groups"
+      },
+      {
+       "id": "b",
+       "bn": "১২টি পর্যায়, ৮টি গ্রুপ",
+       "en": "12 periods, 8 groups"
+      },
+      {
+       "id": "c",
+       "bn": "৮টি পর্যায়, ১২টি গ্রুপ",
+       "en": "8 periods, 12 groups"
+      },
+      {
+       "id": "d",
+       "bn": "৬টি পর্যায়, ৯টি গ্রুপ",
+       "en": "6 periods, 9 groups"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের বর্ণনা অনুযায়ী মেন্ডেলিফের সারণিতে ১২টি পর্যায় ও ৮টি গ্রুপ ছিল।",
+     "explanation_en": "As the book states, Mendeleev's table had 12 periods and 8 groups.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন ব্লকের মৌলের সর্বশেষ ইলেকট্রন ns অরবিটালে প্রবেশ করে?",
+     "question_en": "In which block does the last electron enter the ns orbital?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "p-ব্লক",
+       "en": "p-block"
+      },
+      {
+       "id": "b",
+       "bn": "d-ব্লক",
+       "en": "d-block"
+      },
+      {
+       "id": "c",
+       "bn": "s-ব্লক",
+       "en": "s-block"
+      },
+      {
+       "id": "d",
+       "bn": "f-ব্লক",
+       "en": "f-block"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "সর্বশেষ ইলেকট্রন s-অরবিটালে প্রবেশ করলে মৌলটি s-ব্লকের।",
+     "explanation_en": "If the last electron enters an s-orbital the element is in the s-block.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পর্যায় সারণিতে s-ব্লকে মৌলের সংখ্যা কত (He সহ)?",
+     "question_en": "How many s-block elements are there (including He)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১০",
+       "en": "10"
+      },
+      {
+       "id": "b",
+       "bn": "১৪",
+       "en": "14"
+      },
+      {
+       "id": "c",
+       "bn": "২৬",
+       "en": "26"
+      },
+      {
+       "id": "d",
+       "bn": "৩৬",
+       "en": "36"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "গ্রুপ ১ ও ২-এর ১৩টি মৌল ও He মিলে ১৪টি s-ব্লক মৌল।",
+     "explanation_en": "13 elements of groups 1 and 2 plus He make 14 s-block elements.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Na(11)-এর পর্যায় ও গ্রুপ কোনটি?",
+     "question_en": "What are the period and group of Na (Z = 11)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পর্যায় ৩, গ্রুপ ১",
+       "en": "Period 3, Group 1"
+      },
+      {
+       "id": "b",
+       "bn": "পর্যায় ১, গ্রুপ ৩",
+       "en": "Period 1, Group 3"
+      },
+      {
+       "id": "c",
+       "bn": "পর্যায় ৩, গ্রুপ ২",
+       "en": "Period 3, Group 2"
+      },
+      {
+       "id": "d",
+       "bn": "পর্যায় ২, গ্রুপ ১",
+       "en": "Period 2, Group 1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Na = 1s²2s²2p⁶3s¹; সর্বোচ্চ কক্ষ ৩ ও একটি ইলেকট্রন, তাই পর্যায় ৩, গ্রুপ ১।",
+     "explanation_en": "Na = 1s²2s²2p⁶3s¹: highest shell 3 with one electron, so period 3, group 1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "S(16)-এর গ্রুপ নম্বর ও ব্লক কোনটি?",
+     "question_en": "What are the group number and block of S (Z = 16)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্রুপ ১৬, p-ব্লক",
+       "en": "Group 16, p-block"
+      },
+      {
+       "id": "b",
+       "bn": "গ্রুপ ৬, s-ব্লক",
+       "en": "Group 6, s-block"
+      },
+      {
+       "id": "c",
+       "bn": "গ্রুপ ১৬, d-ব্লক",
+       "en": "Group 16, d-block"
+      },
+      {
+       "id": "d",
+       "bn": "গ্রুপ ১৪, p-ব্লক",
+       "en": "Group 14, p-block"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "S = 3s²3p⁴ ⇒ গ্রুপ = 10+2+4 = 16 এবং p-ব্লক।",
+     "explanation_en": "S = 3s²3p⁴ so group = 10+2+4 = 16, p-block.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "He(1s²) s-ব্লকের মৌল হলেও 18 গ্রুপে রাখা হয়েছে কেন?",
+     "question_en": "Why is He (1s²), an s-block element, placed in group 18?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এর পারমাণবিক সংখ্যা সবচেয়ে বেশি",
+       "en": "It has the highest atomic number"
+      },
+      {
+       "id": "b",
+       "bn": "এটি রাসায়নিকভাবে নিষ্ক্রিয়",
+       "en": "It is chemically inert"
+      },
+      {
+       "id": "c",
+       "bn": "এটি ধাতু",
+       "en": "It is a metal"
+      },
+      {
+       "id": "d",
+       "bn": "এর ইলেকট্রন p-অরবিটালে আছে",
+       "en": "Its electrons are in a p-orbital"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "He রাসায়নিকভাবে নিষ্ক্রিয় বলে 2নং গ্রুপের বদলে 18 গ্রুপে Ne-এর উপরে রাখা হয়েছে।",
+     "explanation_en": "Being chemically inert, He is put above Ne in group 18 rather than in group 2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "আন-নিল-সেপ্টিয়াম (Unnilseptium)-এর পারমাণবিক সংখ্যা কত?",
+     "question_en": "What is the atomic number of unnilseptium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১১৭",
+       "en": "117"
+      },
+      {
+       "id": "b",
+       "bn": "১০৪",
+       "en": "104"
+      },
+      {
+       "id": "c",
+       "bn": "১০৭",
+       "en": "107"
+      },
+      {
+       "id": "d",
+       "bn": "১১০",
+       "en": "110"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "আন=১, নিল=০, সেপ্ট=৭ ⇒ ১০৭; প্রতীক Uns।",
+     "explanation_en": "un=1, nil=0, sept=7 gives 107; symbol Uns.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Mo(42)-এর ইলেকট্রন বিন্যাসের ভিত্তিতে এর অবস্থান কোনটি?",
+     "question_en": "Using its electron configuration, where is Mo (Z = 42) placed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পর্যায় ৪, গ্রুপ ৬",
+       "en": "Period 4, Group 6"
+      },
+      {
+       "id": "b",
+       "bn": "পর্যায় ৫, গ্রুপ ১",
+       "en": "Period 5, Group 1"
+      },
+      {
+       "id": "c",
+       "bn": "পর্যায় ৫, গ্রুপ ৬, d-ব্লক",
+       "en": "Period 5, Group 6, d-block"
+      },
+      {
+       "id": "d",
+       "bn": "পর্যায় ৫, গ্রুপ ১২",
+       "en": "Period 5, Group 12"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Mo = [Kr]4d⁵5s¹; পর্যায় ৫; গ্রুপ = 5+1 = 6; d-ব্লক।",
+     "explanation_en": "Mo = [Kr]4d⁵5s¹: period 5, group = 5+1 = 6, d-block.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Sc ও Zn d-ব্লকের মৌল হলেও অবস্থান্তর মৌল নয় কেন?",
+     "question_en": "Why are Sc and Zn d-block elements but not transition elements?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এরা অধাতু",
+       "en": "They are non-metals"
+      },
+      {
+       "id": "b",
+       "bn": "এদের ইলেকট্রন d-অরবিটালে যায় না",
+       "en": "Their electrons do not enter d-orbitals"
+      },
+      {
+       "id": "c",
+       "bn": "এদের স্থিত আয়ন (Sc³⁺, Zn²⁺) এর d-অরবিটাল যথাক্রমে শূন্য ও পূর্ণ",
+       "en": "Their stable ions (Sc³⁺, Zn²⁺) have empty and full d-orbitals respectively"
+      },
+      {
+       "id": "d",
+       "bn": "এরা তেজস্ক্রিয়",
+       "en": "They are radioactive"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অবস্থান্তর মৌলের স্থিত আয়নে d-অরবিটাল অসম্পূর্ণ থাকতে হয়; Sc³⁺ = 3d⁰, Zn²⁺ = 3d¹⁰।",
+     "explanation_en": "A transition element's stable ion needs an incomplete d-subshell; Sc³⁺ is 3d⁰ and Zn²⁺ is 3d¹⁰.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "বইয়ের হিসাবে p-ব্লকে মৌলের সংখ্যা এবং d-ব্লকে মৌলের সংখ্যা যথাক্রমে কত (118 মৌল ধরে)?",
+     "question_en": "Per the book (118 elements), how many p-block and d-block elements are there respectively?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৩৬ ও ৪১",
+       "en": "36 and 41"
+      },
+      {
+       "id": "b",
+       "bn": "৩৬ ও ৩৬",
+       "en": "36 and 36"
+      },
+      {
+       "id": "c",
+       "bn": "১৪ ও ৪১",
+       "en": "14 and 41"
+      },
+      {
+       "id": "d",
+       "bn": "৪১ ও ৩৬",
+       "en": "41 and 36"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী p-ব্লকে ৩৬টি ও d-ব্লকে ৪১টি মৌল।",
+     "explanation_en": "The book gives 36 p-block and 41 d-block elements.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "বিভিন্ন উপস্তরের আবরণী প্রভাবের সঠিক ক্রম কোনটি?",
+     "question_en": "Which is the correct order of screening effect of subshells?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "s > p > d > f",
+       "en": "s > p > d > f"
+      },
+      {
+       "id": "b",
+       "bn": "f > d > p > s",
+       "en": "f > d > p > s"
+      },
+      {
+       "id": "c",
+       "bn": "d > f > s > p",
+       "en": "d > f > s > p"
+      },
+      {
+       "id": "d",
+       "bn": "p > s > f > d",
+       "en": "p > s > f > d"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে আবরণী প্রভাবের ক্রম s > p > d > f; f-উপস্তরের প্রভাব সবচেয়ে কম।",
+     "explanation_en": "The book gives the order s > p > d > f; f-electrons screen the least.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.2",
+   "title_bn": "বিভিন্ন ব্লকের মৌলসমূহের সাধারণ ধর্মাবলি",
+   "title_en": "General properties of elements of various blocks",
+   "notes_bn": "s-ব্লক: গ্রুপ-১ ক্ষার ধাতু (তীব্র বিজারক, আয়নিকরণ বিভব উপর থেকে নিচে কমে, 2M+2H₂O→2MOH+H₂); Li ব্যতিক্রমী (একমাত্র N₂-এর সাথে Li₃N গঠন, LiNO₃ বিয়োজনে Li₂O)। গ্রুপ-২ মৃৎক্ষার ধাতু; শিখা পরীক্ষায় Ca ইটের মতো লাল, Ba সবুজ; Be, Mg শিখায় বর্ণ দেয় না।\np-ব্লক: গ্রুপ-১৩ B, Al… (AlCl₃ → Al₂Cl₆ ডাইমার); গ্রুপ-১৪ অক্সাইড CO₂ অম্লীয়, SnO₂/PbO₂ উভধর্মী, CO প্রশম; কার্বনের ক্যাটেনেশন। গ্রুপ-১৫ নিকটোজেন, গ্রুপ-১৬ চ্যালকোজেন, গ্রুপ-১৭ হ্যালোজেন (HI>HBr>HCl>HF), আন্তঃহ্যালোজেন ও ছদ্ম হ্যালোজেন (CN⁻, SCN⁻)। গ্রুপ-১৮ নিষ্ক্রিয়; XeF₂, XeF₄, XeF₆ গঠন করে।\nd-ব্লক/অবস্থান্তর: পরিবর্তনশীল জারণ অবস্থা, প্রভাবক, জটিল আয়ন, রঙিন যৌগ, প্যারাচুম্বকত্ব। Fe³⁺ (3d⁵) Fe²⁺-এর চেয়ে স্থিত; Cu²⁺ (3d⁹) ব্যতিক্রমে Cu⁺ অপেক্ষা স্থিত।\nচুম্বকত্ব: μ=√n(n+2) B.M; Fe³⁺ = 5.916, Cr³⁺ = 3.87, Cu²⁺ = 1.732। শক্তিশালী লিগ্যান্ড CN⁻ → d²sp³, [Fe(CN)₆]⁴⁻ ডায়াচুম্বক; দুর্বল F⁻ → sp³d², [FeF₆]⁴⁻ প্যারাচুম্বক।\nস্পেকট্রোকেমিক্যাল সিরিজ: I⁻<Br⁻<SCN⁻<Cl⁻<S²⁻<F⁻<OH⁻<C₂O₄²⁻<H₂O<edta<NH₃<en<CN⁻<CO।\nf-ব্লক: ল্যান্থানাইড (বিরল মৃত্তিকা) +৩ জারণ অবস্থা, অ্যাক্টিনাইড তেজস্ক্রিয়।",
+   "notes_en": "s-block: group 1 alkali metals are strong reducing agents, ionisation energy falls down the group, 2M+2H₂O→2MOH+H₂. Li is anomalous (only one forming Li₃N with N₂; LiNO₃ → Li₂O). Group 2 alkaline-earth; flame colours: Ca brick red, Ba green; Be and Mg give none.\np-block: group 13 (AlCl₃ dimerises to Al₂Cl₆); group 14 oxides: CO₂ acidic, SnO₂/PbO₂ amphoteric, CO neutral; catenation of C. Group 15 pnictogens, 16 chalcogens, 17 halogens (HI>HBr>HCl>HF), interhalogens, pseudohalogens (CN⁻, SCN⁻). Group 18 inert but Xe forms XeF₂, XeF₄, XeF₆.\nd-block/transition: variable oxidation states, catalysis, complex ions, coloured compounds, paramagnetism. Fe³⁺ (3d⁵) more stable than Fe²⁺; Cu²⁺ (3d⁹) is an exception, more stable than Cu⁺.\nMagnetism: μ=√n(n+2) B.M; Fe³⁺ 5.916, Cr³⁺ 3.87, Cu²⁺ 1.732. Strong ligand CN⁻ gives d²sp³ ([Fe(CN)₆]⁴⁻ diamagnetic); weak F⁻ gives sp³d² ([FeF₆]⁴⁻ paramagnetic).\nSpectrochemical series: I⁻<Br⁻<SCN⁻<Cl⁻<S²⁻<F⁻<OH⁻<C₂O₄²⁻<H₂O<edta<NH₃<en<CN⁻<CO.\nf-block: lanthanides (rare earths) mainly +3; actinides radioactive.",
+   "mcqs": [
+    {
+     "question_bn": "ক্ষার ধাতু পানির সাথে বিক্রিয়া করে কী উৎপন্ন করে?",
+     "question_en": "What do alkali metals form on reacting with water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MOH ও H₂",
+       "en": "MOH and H₂"
+      },
+      {
+       "id": "b",
+       "bn": "MO ও O₂",
+       "en": "MO and O₂"
+      },
+      {
+       "id": "c",
+       "bn": "MH ও O₂",
+       "en": "MH and O₂"
+      },
+      {
+       "id": "d",
+       "bn": "M₂O₂ ও H₂",
+       "en": "M₂O₂ and H₂"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "2M + 2H₂O → 2MOH + H₂।",
+     "explanation_en": "2M + 2H₂O → 2MOH + H₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন ক্ষার ধাতু N₂-এর সাথে সরাসরি বিক্রিয়া করে নাইট্রাইড গঠন করে?",
+     "question_en": "Which alkali metal directly reacts with N₂ to form a nitride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na",
+       "en": "Na"
+      },
+      {
+       "id": "b",
+       "bn": "K",
+       "en": "K"
+      },
+      {
+       "id": "c",
+       "bn": "Li",
+       "en": "Li"
+      },
+      {
+       "id": "d",
+       "bn": "Cs",
+       "en": "Cs"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "6Li + N₂ → 2Li₃N; অন্য ক্ষার ধাতু N₂-এর সাথে বিক্রিয়া করে না।",
+     "explanation_en": "6Li + N₂ → 2Li₃N; other alkali metals do not react with N₂.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "শিখা পরীক্ষায় Ba²⁺ কোন বর্ণ দেয়?",
+     "question_en": "What flame colour does Ba²⁺ give?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইটের মতো লাল",
+       "en": "Brick red"
+      },
+      {
+       "id": "b",
+       "bn": "টকটকে লাল",
+       "en": "Crimson red"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "d",
+       "bn": "হলুদ",
+       "en": "Yellow"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ের সারণি অনুযায়ী Ba²⁺ সবুজ বর্ণ দেয়।",
+     "explanation_en": "The book's table lists green for Ba²⁺.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হ্যালোজেন হাইড্রাসিডের অম্লত্বের সঠিক ক্রম কোনটি?",
+     "question_en": "What is the correct order of acid strength of the hydrogen halides?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HF > HCl > HBr > HI",
+       "en": "HF > HCl > HBr > HI"
+      },
+      {
+       "id": "b",
+       "bn": "HI > HBr > HCl > HF",
+       "en": "HI > HBr > HCl > HF"
+      },
+      {
+       "id": "c",
+       "bn": "HCl > HBr > HI > HF",
+       "en": "HCl > HBr > HI > HF"
+      },
+      {
+       "id": "d",
+       "bn": "HBr > HI > HF > HCl",
+       "en": "HBr > HI > HF > HCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H–I বন্ধন সবচেয়ে দুর্বল বলে HI সবচেয়ে তীব্র অ্যাসিড।",
+     "explanation_en": "The H–I bond is weakest, so HI is the strongest acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "LiNO₃ উত্তপ্ত করলে কী উৎপন্ন হয়?",
+     "question_en": "What forms when LiNO₃ is heated?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "LiNO₂ ও O₂",
+       "en": "LiNO₂ and O₂"
+      },
+      {
+       "id": "b",
+       "bn": "Li₂O, NO₂ ও O₂",
+       "en": "Li₂O, NO₂ and O₂"
+      },
+      {
+       "id": "c",
+       "bn": "Li ও NO₂",
+       "en": "Li and NO₂"
+      },
+      {
+       "id": "d",
+       "bn": "LiOH ও N₂",
+       "en": "LiOH and N₂"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "4LiNO₃ → 2Li₂O + 4NO₂ + O₂; অন্য ক্ষার ধাতুর নাইট্রেট MNO₂ ও O₂ দেয়।",
+     "explanation_en": "4LiNO₃ → 2Li₂O + 4NO₂ + O₂, unlike other alkali nitrates which give MNO₂ + O₂.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Li, Na, K-এর মধ্যে ১ম আয়নিকরণ বিভব কোনটির সবচেয়ে বেশি?",
+     "question_en": "Among Li, Na and K, which has the highest 1st ionisation energy?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Li (520.3 kJ/mol)",
+       "en": "Li (520.3 kJ/mol)"
+      },
+      {
+       "id": "b",
+       "bn": "Na (495.8 kJ/mol)",
+       "en": "Na (495.8 kJ/mol)"
+      },
+      {
+       "id": "c",
+       "bn": "K (418.9 kJ/mol)",
+       "en": "K (418.9 kJ/mol)"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলোর সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গ্রুপ বরাবর উপর থেকে নিচে আয়নিকরণ বিভব কমে; Li-এর মান সর্বোচ্চ।",
+     "explanation_en": "Ionisation energy falls down the group; Li is highest.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "AlCl₃ নিম্ন তাপমাত্রায় কী গঠন করে?",
+     "question_en": "What does AlCl₃ form at low temperature?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "AlCl₃ মনোমার",
+       "en": "AlCl₃ monomer"
+      },
+      {
+       "id": "b",
+       "bn": "Al₂Cl₆ ডাইমার",
+       "en": "Al₂Cl₆ dimer"
+      },
+      {
+       "id": "c",
+       "bn": "AlCl₆ আয়ন",
+       "en": "AlCl₆ ion"
+      },
+      {
+       "id": "d",
+       "bn": "Al₃Cl₉",
+       "en": "Al₃Cl₉"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Al অষ্টক পূর্ণ করতে Cl-এর নিঃসঙ্গ জোড় গ্রহণ করে Al₂Cl₆ ডাইমার গঠন করে।",
+     "explanation_en": "Al completes its octet using lone pairs from Cl, giving the Al₂Cl₆ dimer.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিম্নের কোনটি উভধর্মী অক্সাইড?",
+     "question_en": "Which of the following is an amphoteric oxide?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO₂",
+       "en": "CO₂"
+      },
+      {
+       "id": "b",
+       "bn": "SiO₂",
+       "en": "SiO₂"
+      },
+      {
+       "id": "c",
+       "bn": "SnO₂",
+       "en": "SnO₂"
+      },
+      {
+       "id": "d",
+       "bn": "CO",
+       "en": "CO"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "SnO₂ ও PbO₂ উভধর্মী; CO₂, SiO₂ অম্লধর্মী; CO প্রশম।",
+     "explanation_en": "SnO₂ and PbO₂ are amphoteric; CO₂ and SiO₂ are acidic; CO is neutral.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Fe³⁺ (3d⁵) আয়নের ম্যাগনেটিক মোমেন্ট কত? (μ = √n(n+2))",
+     "question_en": "What is the magnetic moment of Fe³⁺ (3d⁵)? (μ = √n(n+2))",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৪.৯০ B.M",
+       "en": "4.90 B.M"
+      },
+      {
+       "id": "b",
+       "bn": "৩.৮৭ B.M",
+       "en": "3.87 B.M"
+      },
+      {
+       "id": "c",
+       "bn": "৫.৯২ B.M",
+       "en": "5.92 B.M"
+      },
+      {
+       "id": "d",
+       "bn": "১.৭৩ B.M",
+       "en": "1.73 B.M"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "n = 5 ⇒ μ = √(5×7) = √35 ≈ 5.92 B.M (বইয়ে 5.916)।",
+     "explanation_en": "n = 5 so μ = √(5×7) = √35 ≈ 5.92 B.M (book: 5.916).",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন জটিল আয়নটি ডায়াচুম্বকীয়?",
+     "question_en": "Which complex ion is diamagnetic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[Fe(CN)₆]⁴⁻",
+       "en": "[Fe(CN)₆]⁴⁻"
+      },
+      {
+       "id": "b",
+       "bn": "[FeF₆]⁴⁻",
+       "en": "[FeF₆]⁴⁻"
+      },
+      {
+       "id": "c",
+       "bn": "[Fe(H₂O)₆]²⁺",
+       "en": "[Fe(H₂O)₆]²⁺"
+      },
+      {
+       "id": "d",
+       "bn": "[FeF₆]³⁻",
+       "en": "[FeF₆]³⁻"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শক্তিশালী লিগ্যান্ড CN⁻ d²sp³ সংকরায়নে সব ইলেকট্রন জোড়বদ্ধ করে, তাই ডায়াচুম্বকীয়।",
+     "explanation_en": "Strong-field CN⁻ gives d²sp³ with all electrons paired, so it is diamagnetic.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Cr³⁺ (3d³) আয়নের ম্যাগনেটিক মোমেন্ট কত?",
+     "question_en": "What is the magnetic moment of Cr³⁺ (3d³)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১.৭৩ B.M",
+       "en": "1.73 B.M"
+      },
+      {
+       "id": "b",
+       "bn": "৩.৮৭ B.M",
+       "en": "3.87 B.M"
+      },
+      {
+       "id": "c",
+       "bn": "২.৮৩ B.M",
+       "en": "2.83 B.M"
+      },
+      {
+       "id": "d",
+       "bn": "৪.৯০ B.M",
+       "en": "4.90 B.M"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "n = 3 ⇒ μ = √(3×5) = √15 = 3.87 B.M।",
+     "explanation_en": "n = 3 so μ = √(3×5) = √15 = 3.87 B.M.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নিচের কোন লিগ্যান্ডটি NH₃ অপেক্ষা শক্তিশালী ক্ষেত্র সৃষ্টি করে (স্পেকট্রোকেমিক্যাল সিরিজ অনুযায়ী)?",
+     "question_en": "Which ligand is stronger-field than NH₃ in the spectrochemical series?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H₂O",
+       "en": "H₂O"
+      },
+      {
+       "id": "b",
+       "bn": "F⁻",
+       "en": "F⁻"
+      },
+      {
+       "id": "c",
+       "bn": "Cl⁻",
+       "en": "Cl⁻"
+      },
+      {
+       "id": "d",
+       "bn": "CN⁻",
+       "en": "CN⁻"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "সিরিজে ক্রম: ... H₂O < edta < NH₃ < en < CN⁻ < CO; তাই CN⁻ NH₃-এর চেয়ে শক্তিশালী।",
+     "explanation_en": "In the series ... H₂O < edta < NH₃ < en < CN⁻ < CO, so CN⁻ is stronger than NH₃.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "3.1",
+   "stimulus_bn": "তিনটি মৌল A, B, C-এর পারমাণবিক সংখ্যা যথাক্রমে 16, 37 ও 30। শিক্ষার্থী রিনা এদের ইলেকট্রন বিন্যাসের ভিত্তিতে পর্যায় সারণিতে স্থান নির্ণয় করছে। সে লক্ষ করল C মৌলটি d-ব্লকে থাকলেও অবস্থান্তর মৌল নয়।",
+   "stimulus_en": "Elements A, B and C have atomic numbers 16, 37 and 30. Rina is locating them in the periodic table from their electron configurations. She notices that C lies in the d-block but is not a transition element.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "আধুনিক পর্যায় সূত্রটি লেখ।",
+     "question_en": "State the modern periodic law.",
+     "model_answer_bn": "মৌলসমূহের ভৌত ও রাসায়নিক ধর্মাবলি এদের পারমাণবিক সংখ্যা বৃদ্ধির সাথে পর্যায়ক্রমে আবর্তিত হয়।",
+     "model_answer_en": "The physical and chemical properties of elements are periodic functions of their atomic numbers."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "s-ব্লক মৌল বলতে কী বোঝ? He কেন 18 গ্রুপে রাখা হয়?",
+     "question_en": "What is meant by an s-block element? Why is He placed in group 18?",
+     "model_answer_bn": "যে মৌলের সর্বশেষ ইলেকট্রন s-অরবিটালে প্রবেশ করে তা s-ব্লক মৌল। He (1s²) রাসায়নিকভাবে নিষ্ক্রিয় বলে 2নং গ্রুপের বদলে 18 গ্রুপে রাখা হয়েছে।",
+     "model_answer_en": "An element whose last electron enters an s-orbital is an s-block element. He (1s²) is chemically inert, so it is placed in group 18 instead of group 2."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "A ও B-এর ইলেকট্রন বিন্যাস লিখে পর্যায়, গ্রুপ ও ব্লক নির্ণয় কর।",
+     "question_en": "Write the electron configurations of A and B and find their period, group and block.",
+     "model_answer_bn": "A(16) = 1s²2s²2p⁶3s²3p⁴: পর্যায় ৩, গ্রুপ = 10+2+4 = 16, p-ব্লক। B(37) = [Kr]5s¹: পর্যায় ৫, গ্রুপ ১, s-ব্লক।",
+     "model_answer_en": "A(16) = 1s²2s²2p⁶3s²3p⁴: period 3, group 10+2+4 = 16, p-block. B(37) = [Kr]5s¹: period 5, group 1, s-block."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "C মৌলটি d-ব্লকের হলেও অবস্থান্তর মৌল নয় কেন— বিশ্লেষণ কর।",
+     "question_en": "Analyse why C is a d-block element but not a transition element.",
+     "model_answer_bn": "C(30) = [Ar]3d¹⁰4s², পর্যায় ৪, গ্রুপ ১২, d-ব্লক। অবস্থান্তর মৌলের স্থিত আয়নে d-অরবিটাল আংশিক পূর্ণ থাকতে হয়। কিন্তু Zn²⁺ = 3d¹⁰ সম্পূর্ণ পূর্ণ; এটি পরিবর্তনশীল জারণ অবস্থা, প্রভাবক ধর্ম, প্যারাচুম্বকত্ব ও রঙিন যৌগ গঠন করে না। তাই Zn অবস্থান্তর মৌল নয়।",
+     "model_answer_en": "C(30) = [Ar]3d¹⁰4s², period 4, group 12, d-block. A transition element needs a partly filled d-subshell in a stable ion. Zn²⁺ = 3d¹⁰ is completely filled, and Zn shows no variable valency, catalytic action, paramagnetism or coloured compounds, so it is not a transition element."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.1",
+   "stimulus_bn": "একজন শিক্ষক ল্যান্থানাইড মৌলের পারমাণবিক ব্যাসার্ধের উপাত্ত দেখালেন: Ce 270 pm, Gd 254 pm, Lu 225 pm। তিনি বললেন, পারমাণবিক সংখ্যা বাড়লেও ব্যাসার্ধ কমে।",
+   "stimulus_en": "A teacher showed lanthanide atomic radii: Ce 270 pm, Gd 254 pm, Lu 225 pm. He noted that radius decreases even as atomic number increases.",
+   "difficulty": "advanced",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ল্যান্থানাইড সংকোচ কী?",
+     "question_en": "What is lanthanide contraction?",
+     "model_answer_bn": "ল্যান্থানাইড মৌলে পারমাণবিক সংখ্যা বৃদ্ধির সাথে পারমাণবিক ও আয়নিক ব্যাসার্ধের ক্রমহ্রাস।",
+     "model_answer_en": "The steady decrease in atomic and ionic radii along the lanthanide series with increasing atomic number."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "আবরণী প্রভাব বলতে কী বোঝ? উপস্তরগুলোর ক্রম লেখ।",
+     "question_en": "What is the screening effect? Give the order of the subshells.",
+     "model_answer_bn": "ভেতরের ইলেকট্রন নিউক্লিয়াসের আকর্ষণ থেকে বহিঃস্থ ইলেকট্রনকে আড়াল করার ক্ষমতা। ক্রম s > p > d > f।",
+     "model_answer_en": "The ability of inner electrons to shield outer electrons from the nuclear attraction. Order: s > p > d > f."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Ce থেকে Lu পর্যন্ত ব্যাসার্ধের মোট হ্রাস কত? (উপাত্ত অনুযায়ী)",
+     "question_en": "Calculate the total decrease in radius from Ce to Lu using the data.",
+     "model_answer_bn": "270 − 225 = 45 pm।",
+     "model_answer_en": "270 − 225 = 45 pm."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ল্যান্থানাইড সংকোচের কারণ ব্যাখ্যা কর এবং কেন ল্যান্থানাইডগুলোকে পৃথক করা কঠিন তা বিশ্লেষণ কর।",
+     "question_en": "Explain the cause of lanthanide contraction and analyse why lanthanides are hard to separate.",
+     "model_answer_bn": "নতুন ইলেকট্রন 4f উপস্তরে প্রবেশ করে; f-অরবিটালের আবরণী ক্ষমতা সবচেয়ে কম, তাই নিউক্লিয়াসের ধনাত্মক চার্জ বাড়ায় বহিঃস্থ ইলেকট্রন বেশি আকৃষ্ট হয় ও ব্যাসার্ধ কমে। ব্যাসার্ধ ও রাসায়নিক ধর্ম (সাধারণত +৩ জারণ অবস্থা) প্রায় একই বলে এদের পৃথক করা কঠিন।",
+     "model_answer_en": "New electrons enter the 4f subshell, which screens poorly, so the rising nuclear charge pulls outer electrons in more strongly and the radius shrinks. Their sizes and chemistry (mostly +3 state) are almost identical, so separating them is very hard."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.2",
+   "stimulus_bn": "তিনটি আয়ন: Fe³⁺, Cu²⁺ ও Cr³⁺। এদের ইলেকট্রন বিন্যাস যথাক্রমে [Ar]3d⁵, [Ar]3d⁹, [Ar]3d³। একটি পরীক্ষায় Fe(26)-এর দুটি জটিল আয়ন [Fe(CN)₆]⁴⁻ ও [FeF₆]⁴⁻ আলাদা চৌম্বক আচরণ দেখাল।",
+   "stimulus_en": "Three ions: Fe³⁺, Cu²⁺ and Cr³⁺ with configurations [Ar]3d⁵, [Ar]3d⁹ and [Ar]3d³. In an experiment, two Fe complexes, [Fe(CN)₆]⁴⁻ and [FeF₆]⁴⁻, showed different magnetic behaviour.",
+   "difficulty": "advanced",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ম্যাগনেটিক মোমেন্টের সূত্রটি লেখ।",
+     "question_en": "Write the formula for magnetic moment.",
+     "model_answer_bn": "μ = √n(n+2) B.M, যেখানে n = অযুগ্ম ইলেকট্রনের সংখ্যা।",
+     "model_answer_en": "μ = √n(n+2) B.M, where n is the number of unpaired electrons."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "জটিল যৌগে সন্নিবেশ সংখ্যা বলতে কী বোঝ? [Co(NH₃)₆]Cl₃-এ Co-এর সন্নিবেশ সংখ্যা কত?",
+     "question_en": "What is coordination number? Give it for Co in [Co(NH₃)₆]Cl₃.",
+     "model_answer_bn": "কেন্দ্রীয় আয়নের সাথে সন্নিবেশ বন্ধনে যুক্ত লিগ্যান্ড প্রদত্ত নিঃসঙ্গ জোড়ের সংখ্যা। এখানে ৬।",
+     "model_answer_en": "The number of ligand lone pairs bonded to the central ion by coordinate bonds. Here it is 6."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Fe³⁺ ও Cr³⁺-এর ম্যাগনেটিক মোমেন্ট নির্ণয় কর।",
+     "question_en": "Calculate the magnetic moments of Fe³⁺ and Cr³⁺.",
+     "model_answer_bn": "Fe³⁺: n = 5, μ = √(5×7) = √35 = 5.92 B.M। Cr³⁺: n = 3, μ = √(3×5) = √15 = 3.87 B.M।",
+     "model_answer_en": "Fe³⁺: n = 5, μ = √35 = 5.92 B.M. Cr³⁺: n = 3, μ = √15 = 3.87 B.M."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "[Fe(CN)₆]⁴⁻ ডায়াচুম্বকীয় কিন্তু [FeF₆]⁴⁻ প্যারাচুম্বকীয়— সংকরায়নের ভিত্তিতে বিশ্লেষণ কর।",
+     "question_en": "Analyse why [Fe(CN)₆]⁴⁻ is diamagnetic but [FeF₆]⁴⁻ is paramagnetic, using hybridisation.",
+     "model_answer_bn": "Fe²⁺ = 3d⁶। শক্তিশালী লিগ্যান্ড CN⁻ ইলেকট্রনকে জোড়বদ্ধ করে ২টি 3d, একটি 4s ও তিনটি 4p নিয়ে d²sp³ সংকরায়ন ঘটায়; অযুগ্ম ইলেকট্রন না থাকায় ডায়াচুম্বক। দুর্বল F⁻ জোড়বদ্ধ করতে পারে না; 4s, 4p ও 4d নিয়ে sp³d² সংকরায়ন হয়, ৪টি অযুগ্ম ইলেকট্রন থাকে (প্রায় 4.85 B.M) ফলে প্যারাচুম্বক।",
+     "model_answer_en": "Fe²⁺ = 3d⁶. Strong CN⁻ pairs the electrons and uses two 3d, one 4s and three 4p orbitals (d²sp³), leaving no unpaired electrons, so it is diamagnetic. Weak F⁻ cannot pair them; sp³d² uses 4s, 4p and 4d, four electrons stay unpaired (about 4.85 B.M), so it is paramagnetic."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.2",
+   "stimulus_bn": "ক্ষার ধাতু Li, Na, K-এর কিছু উপাত্ত: ১ম আয়নিকরণ বিভব (kJ/mol) Li 520.3, Na 495.8, K 418.9; গলনাঙ্ক (°C) Li 180.5, Na 97.8, K 63.7। শিক্ষার্থী লক্ষ করল Li অন্য ক্ষার ধাতুর চেয়ে ভিন্ন আচরণ করে।",
+   "stimulus_en": "Data for alkali metals: 1st ionisation energy (kJ/mol) Li 520.3, Na 495.8, K 418.9; melting point (°C) Li 180.5, Na 97.8, K 63.7. A student notes that Li behaves differently from the other alkali metals.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "মৃৎক্ষার ধাতু কাকে বলে? দুটি উদাহরণ দাও।",
+     "question_en": "What are alkaline-earth metals? Give two examples.",
+     "model_answer_bn": "গ্রুপ-২ এর ধাতু (ns² কাঠামো), যেমন Mg, Ca।",
+     "model_answer_en": "Group 2 metals with ns² structure, e.g. Mg and Ca."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "গ্রুপ বরাবর উপর থেকে নিচে আয়নিকরণ বিভব ও গলনাঙ্ক কীভাবে পরিবর্তিত হয়?",
+     "question_en": "How do ionisation energy and melting point change down the group?",
+     "model_answer_bn": "উভয়ই হ্রাস পায়; আকার বাড়ায় বন্ধন শক্তি ও নিউক্লিয়াসের আকর্ষণ কমে।",
+     "model_answer_en": "Both decrease; larger size weakens metallic bonding and nuclear attraction."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "Li ও K-এর ১ম আয়নিকরণ বিভবের পার্থক্য কত? Li ও Na এর গলনাঙ্কের পার্থক্য কত?",
+     "question_en": "Find the difference in 1st ionisation energy between Li and K, and in melting point between Li and Na.",
+     "model_answer_bn": "520.3 − 418.9 = 101.4 kJ/mol; 180.5 − 97.8 = 82.7 °C।",
+     "model_answer_en": "520.3 − 418.9 = 101.4 kJ/mol; 180.5 − 97.8 = 82.7 °C."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "Li-এর ব্যতিক্রমী ধর্মগুলো কারণসহ বিশ্লেষণ কর।",
+     "question_en": "Analyse the anomalous properties of Li with reasons.",
+     "model_answer_bn": "Li একমাত্র ক্ষার ধাতু যা N₂-এর সাথে Li₃N গঠন করে; অক্সিজেনের সাথে শুধু Li₂O দেয় (পারঅক্সাইড নয়); LiNO₃ বিয়োজনে Li₂O, NO₂, O₂ দেয়; LiCl জৈব দ্রাবকে দ্রবণীয় ও LiCl·2H₂O গঠন করে। কারণ: Li⁺-এর অত্যন্ত ক্ষুদ্র আকার, উচ্চ পোলারায়ন ক্ষমতা, d-অরবিটাল না থাকা ও উচ্চ আয়নিকরণ বিভব।",
+     "model_answer_en": "Li alone forms Li₃N with N₂, gives only Li₂O with oxygen (no peroxide), its nitrate decomposes to Li₂O, NO₂, O₂, and LiCl dissolves in organic solvents and forms LiCl·2H₂O. Reasons: very small Li⁺, high polarising power, no d-orbitals in the valence shell and high ionisation energy."
+    }
+   ]
+  }
+ ],
+ "notes": "All 45 pages (PDF 248-292) were readable. Topics 3.1 and 3.2 are long; pages 248, 292 are exam/other-section pages and not used except 292 header of 3.3 (skipped). Page 263 top table (IUPAC naming) used for 3.1. 3.2 text contains some garbled book formulas (e.g. coordination examples) that were avoided."
+}

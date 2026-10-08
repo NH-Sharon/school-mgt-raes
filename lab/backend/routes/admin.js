@@ -249,4 +249,18 @@ router.get('/audit-log', verifyToken, requireRole('system_admin'), async (req, r
   }
 });
 
+// ---- Textbook content seed (system admin only): Class 11/12 chemistry chapters, notes and question bank ----
+// POST /api/admin/seed-chemistry-hsc/11?chapter=3   (chapter optional; one chapter per call keeps it fast)
+router.post('/seed-chemistry-hsc/:cls', verifyToken, requireRole('system_admin'), async (req, res) => {
+  try {
+    const cls = Number(req.params.cls);
+    if (![11, 12].includes(cls)) return res.status(400).json({ message: 'Class must be 11 or 12' });
+    const summary = await require('../db/seed-chemistry-hsc').run(pool, cls, req.query.chapter ? Number(req.query.chapter) : null);
+    await logAudit('chapters', 0, 'seed-chemistry-hsc', req.user.userId, { cls, chapter: req.query.chapter || 'all', summary });
+    res.json(summary);
+  } catch (error) {
+    res.status(500).json({ message: 'Seed failed', detail: String(error.message || error).slice(0, 200) });
+  }
+});
+
 module.exports = router;

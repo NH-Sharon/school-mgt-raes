@@ -1,0 +1,2057 @@
+{
+ "chapter_no": 3,
+ "topics": [
+  {
+   "section_no": "3.8",
+   "title_bn": "অরবিটালের অধিক্রমণ",
+   "title_en": "Overlap of Orbitals (O2 and N2 formation)",
+   "notes_bn": "O(8)=1s²2s²2p⁴: 2p-তে দুটি অযুগ্ম ইলেকট্রন থাকায় দুই O পরমাণু দুটি ইলেকট্রন জোড় শেয়ার করে O=O (দ্বিবন্ধন) গঠন করে।\nN(7)=1s²2s²2p³: তিনটি অযুগ্ম ইলেকট্রন শেয়ার করে N≡N (ত্রিবন্ধন) গঠিত হয়।\nদুটি পরমাণুর p অরবিটালের পাশাপাশি ও আংশিক অধিক্রমণে মিশ্র আণবিক অরবিটাল ও π-বন্ধন সৃষ্টি হয়; π-বন্ধন σ-এর তুলনায় দুর্বল।\nO2-তে প্রতি O-তে দুই জোড়া, N2-তে প্রতি N-তে এক জোড়া অব্যবহৃত (নিঃসঙ্গ) ইলেকট্রন থাকে; তাই O2-তে বিকর্ষণ বেশি, N2 বেশি সুস্থিত।\nযত সুস্থিত অণু, তার বন্ধন বিয়োজন শক্তি তত বেশি। বই-এর তথ্য: F–F বন্ধন শক্তি 36, Cl–Cl 58 kcal mol⁻¹।",
+   "notes_en": "O has two unpaired 2p electrons, so two O atoms share two pairs to form O=O (double bond).\nN has three unpaired 2p electrons, so N≡N (triple bond) forms.\nSide-by-side partial overlap of p orbitals gives a π bond, weaker than a σ bond.\nEach O in O2 has two lone pairs, each N in N2 has one; O2 has more repulsion, so N2 is more stable.\nMore stable molecule means higher bond dissociation energy. Book data: F–F 36, Cl–Cl 58 kcal/mol.",
+   "mcqs": [
+    {
+     "question_bn": "O2 অণুতে দুটি অক্সিজেন পরমাণুর মধ্যে কী ধরনের বন্ধন থাকে?",
+     "question_en": "What type of bond joins the two atoms in O2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এক বন্ধন",
+       "en": "Single bond"
+      },
+      {
+       "id": "b",
+       "bn": "দ্বিবন্ধন",
+       "en": "Double bond"
+      },
+      {
+       "id": "c",
+       "bn": "ত্রিবন্ধন",
+       "en": "Triple bond"
+      },
+      {
+       "id": "d",
+       "bn": "আয়নিক বন্ধন",
+       "en": "Ionic bond"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "O-এর 2p-তে দুটি অযুগ্ম ইলেকট্রন থাকায় দুই জোড়া শেয়ার হয়, ফলে O=O।",
+     "explanation_en": "O has two unpaired 2p electrons, so two pairs are shared giving O=O.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N2 অণুতে N পরমাণু দুটির মধ্যে বন্ধন কোনটি?",
+     "question_en": "Which bond is present between the two N atoms in N2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এক বন্ধন",
+       "en": "Single"
+      },
+      {
+       "id": "b",
+       "bn": "দ্বিবন্ধন",
+       "en": "Double"
+      },
+      {
+       "id": "c",
+       "bn": "ত্রিবন্ধন",
+       "en": "Triple"
+      },
+      {
+       "id": "d",
+       "bn": "সন্নিবেশ বন্ধন",
+       "en": "Coordinate"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N-এর তিনটি অযুগ্ম 2p ইলেকট্রন শেয়ার হয়ে N≡N গঠিত হয়।",
+     "explanation_en": "Three unpaired 2p electrons are shared to give N≡N.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "N(7) পরমাণুর 2p উপস্তরে অযুগ্ম ইলেকট্রনের সংখ্যা কত?",
+     "question_en": "How many unpaired electrons are in the 2p subshell of N(7)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "N: 2px¹2py¹2pz¹, অর্থাৎ তিনটি অযুগ্ম ইলেকট্রন।",
+     "explanation_en": "N: 2px¹2py¹2pz¹, i.e. three unpaired electrons.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি দুটি পরমাণুর p অরবিটালের পাশাপাশি অধিক্রমণে গঠিত হয়?",
+     "question_en": "Which results from side-by-side overlap of two p orbitals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "σ-বন্ধন",
+       "en": "σ bond"
+      },
+      {
+       "id": "b",
+       "bn": "π-বন্ধন",
+       "en": "π bond"
+      },
+      {
+       "id": "c",
+       "bn": "আয়নিক বন্ধন",
+       "en": "Ionic bond"
+      },
+      {
+       "id": "d",
+       "bn": "হাইড্রোজেন বন্ধন",
+       "en": "Hydrogen bond"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পাশাপাশি ও আংশিক অধিক্রমণে π-বন্ধন সৃষ্টি হয়।",
+     "explanation_en": "Side-by-side partial overlap gives a π bond.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "N2 অণু O2 অণু অপেক্ষা বেশি সুস্থিত কেন?",
+     "question_en": "Why is N2 more stable than O2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N2-তে প্রতি পরমাণুতে নিঃসঙ্গ ইলেকট্রন জোড় কম থাকায় বিকর্ষণ কম",
+       "en": "Fewer lone pairs per atom in N2, so less repulsion"
+      },
+      {
+       "id": "b",
+       "bn": "N2-তে ইলেকট্রন বেশি",
+       "en": "N2 has more electrons"
+      },
+      {
+       "id": "c",
+       "bn": "N2 আয়নিক",
+       "en": "N2 is ionic"
+      },
+      {
+       "id": "d",
+       "bn": "O2-তে ত্রিবন্ধন আছে",
+       "en": "O2 has a triple bond"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "N2-তে প্রতি N-এ এক জোড়, O2-তে প্রতি O-এ দুই জোড় অব্যবহৃত ইলেকট্রন; তাই বিকর্ষণ N2-তে কম।",
+     "explanation_en": "Each N has one lone pair, each O has two; repulsion is lower in N2.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "F–F ও Cl–Cl বন্ধন শক্তি যথাক্রমে 36 ও 58 kcal mol⁻¹ হলে কোনটি সঠিক?",
+     "question_en": "Given F–F = 36 and Cl–Cl = 58 kcal/mol, which is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F2-এর বন্ধন Cl2-এর চেয়ে শক্তিশালী",
+       "en": "F2 bond is stronger than Cl2"
+      },
+      {
+       "id": "b",
+       "bn": "Cl2-এর বন্ধন F2-এর চেয়ে শক্তিশালী",
+       "en": "Cl2 bond is stronger than F2"
+      },
+      {
+       "id": "c",
+       "bn": "উভয় সমান",
+       "en": "Both equal"
+      },
+      {
+       "id": "d",
+       "bn": "তথ্য থেকে বলা যায় না",
+       "en": "Cannot be said"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বন্ধন বিয়োজন শক্তি বেশি হলে বন্ধন বেশি শক্ত; 58 > 36।",
+     "explanation_en": "Higher dissociation energy means a stronger bond; 58 > 36.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.9",
+   "title_bn": "সমযোজী বন্ধনের শ্রেণিবিভাগ",
+   "title_en": "Classification of Covalent Bond (σ and π)",
+   "notes_bn": "অরবিটালের অধিক্রমণ ও বৈশিষ্ট্যের ভিত্তিতে সমযোজী বন্ধন দুই প্রকার: σ (সিগমা) ও π (পাই)।\nσ: দুটি অরবিটালের একই অক্ষ বরাবর মুখোমুখি অধিক্রমণ। প্রকার: s–s (H2), s–p (HF), p–p (F2)। অধিক্রমণ কেবল একই দশায় (+ সঙ্গে + বা – সঙ্গে –) সম্ভব।\nσ-বন্ধনের দৃঢ়তা: p–p > s–p > s–s (s-এর অভিমুখ নেই, অধিক্রমণ ক্ষেত্র সবচেয়ে কম)।\nπ: দুটি p অরবিটালের পাশাপাশি অধিক্রমণ; σ-এর সঙ্গে সংযুক্ত থাকে, একা থাকে না; σ-এর চেয়ে দুর্বল ও বেশি সক্রিয়; দ্বিবন্ধনে 1σ+1π, ত্রিবন্ধনে 1σ+2π।\nσ-বন্ধনে পরমাণুর মুক্ত ঘূর্ণন সম্ভব, π-বন্ধনে নয়; জ্যামিতিক গঠন σ-বন্ধনের সংখ্যা দ্বারা নিয়ন্ত্রিত।\nসমযোজী যৌগ: স্বতন্ত্র অণু, নিম্ন গলনাঙ্ক/স্ফুটনাঙ্ক, তড়িৎ অপরিবাহী, সাধারণত অপোলার দ্রাবকে দ্রবণীয়।",
+   "notes_en": "Covalent bonds are σ or π depending on orbital overlap.\nσ: head-on overlap along the same axis; types s–s (H2), s–p (HF), p–p (F2); only same-phase lobes overlap.\nσ strength: p–p > s–p > s–s (s has no direction, least overlap).\nπ: side-by-side overlap of p orbitals; always accompanies a σ bond; weaker and more reactive; double = 1σ+1π, triple = 1σ+2π.\nσ allows free rotation, π does not; molecular geometry is set by the number of σ bonds.\nCovalent compounds: discrete molecules, low m.p./b.p., non-conducting, usually soluble in non-polar solvents.",
+   "mcqs": [
+    {
+     "question_bn": "σ-বন্ধন কীভাবে গঠিত হয়?",
+     "question_en": "How is a σ bond formed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অরবিটালের পাশাপাশি অধিক্রমণে",
+       "en": "By side-by-side overlap"
+      },
+      {
+       "id": "b",
+       "bn": "একই অক্ষ বরাবর মুখোমুখি অধিক্রমণে",
+       "en": "By head-on overlap along the axis"
+      },
+      {
+       "id": "c",
+       "bn": "ইলেকট্রন স্থানান্তরে",
+       "en": "By electron transfer"
+      },
+      {
+       "id": "d",
+       "bn": "ধাতব আয়নের মাধ্যমে",
+       "en": "Through metal ions"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "σ-বন্ধনে অরবিটাল একই অক্ষ বরাবর মুখোমুখি অধিক্রম করে।",
+     "explanation_en": "In a σ bond orbitals overlap head-on along the same axis.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "H2 অণুতে কোন ধরনের অধিক্রমণ ঘটে?",
+     "question_en": "Which overlap occurs in H2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "s–s",
+       "en": "s–s"
+      },
+      {
+       "id": "b",
+       "bn": "s–p",
+       "en": "s–p"
+      },
+      {
+       "id": "c",
+       "bn": "p–p",
+       "en": "p–p"
+      },
+      {
+       "id": "d",
+       "bn": "p–d",
+       "en": "p–d"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দুটি H পরমাণুর 1s অরবিটাল অধিক্রম করে s–s σ-বন্ধন গঠন করে।",
+     "explanation_en": "Two 1s orbitals overlap to form an s–s σ bond.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "HF অণুতে কোন অধিক্রমণ ঘটে?",
+     "question_en": "Which overlap occurs in HF?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "s–s",
+       "en": "s–s"
+      },
+      {
+       "id": "b",
+       "bn": "s–p",
+       "en": "s–p"
+      },
+      {
+       "id": "c",
+       "bn": "p–p",
+       "en": "p–p"
+      },
+      {
+       "id": "d",
+       "bn": "π–π",
+       "en": "π–π"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H-এর 1s ও F-এর 2pz মুখোমুখি অধিক্রম করে s–p σ-বন্ধন গঠন করে।",
+     "explanation_en": "H 1s and F 2pz overlap head-on giving an s–p σ bond.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "σ-বন্ধনের দৃঢ়তার সঠিক ক্রম কোনটি?",
+     "question_en": "Correct order of σ-bond strength?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "s–s > s–p > p–p",
+       "en": "s–s > s–p > p–p"
+      },
+      {
+       "id": "b",
+       "bn": "p–p > s–p > s–s",
+       "en": "p–p > s–p > s–s"
+      },
+      {
+       "id": "c",
+       "bn": "s–p > p–p > s–s",
+       "en": "s–p > p–p > s–s"
+      },
+      {
+       "id": "d",
+       "bn": "p–p > s–s > s–p",
+       "en": "p–p > s–s > s–p"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "p–p-তে অধিক্রম ক্ষেত্র সবচেয়ে বেশি, s–s-এ সবচেয়ে কম।",
+     "explanation_en": "p–p has the greatest overlap region, s–s the least.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি সঠিক?",
+     "question_en": "Which statement is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ত্রিবন্ধনে তিনটি σ-বন্ধন থাকে",
+       "en": "A triple bond has three σ bonds"
+      },
+      {
+       "id": "b",
+       "bn": "দ্বিবন্ধনে দুটি π-বন্ধন থাকে",
+       "en": "A double bond has two π bonds"
+      },
+      {
+       "id": "c",
+       "bn": "ত্রিবন্ধনে একটি σ ও দুটি π-বন্ধন থাকে",
+       "en": "A triple bond has one σ and two π bonds"
+      },
+      {
+       "id": "d",
+       "bn": "π-বন্ধন σ-এর অনুপস্থিতিতেও সম্ভব",
+       "en": "π can exist without σ"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ত্রিবন্ধন = 1σ + 2π; π-বন্ধন σ ছাড়া গঠিত হয় না।",
+     "explanation_en": "Triple bond = 1σ + 2π; π cannot form without σ.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "s–s σ-বন্ধন সবচেয়ে দুর্বল কেন?",
+     "question_en": "Why is the s–s σ bond the weakest?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "s অরবিটালের কোনো অভিমুখ নেই, অধিক্রম ক্ষেত্র সবচেয়ে কম",
+       "en": "s has no direction, so overlap is least"
+      },
+      {
+       "id": "b",
+       "bn": "s অরবিটাল বড় বলে",
+       "en": "s orbital is larger"
+      },
+      {
+       "id": "c",
+       "bn": "s-তে অযুগ্ম ইলেকট্রন নেই",
+       "en": "s has no unpaired electron"
+      },
+      {
+       "id": "d",
+       "bn": "এটি π-বন্ধন বলে",
+       "en": "It is a π bond"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অভিমুখহীন s অরবিটালের অধিক্রমণ বিস্তার সবচেয়ে কম।",
+     "explanation_en": "The directionless s orbital gives the smallest extent of overlap.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.10",
+   "title_bn": "অরবিটালের সংকরায়ন",
+   "title_en": "Hybridization of Orbital",
+   "notes_bn": "সংকরায়ন ধারণা দেন Pauling ও Slater; বিশুদ্ধ পরমাণবিক অরবিটালের বদলে সংকর অরবিটালে বন্ধন গঠিত হয়।\nকার্বন (6): 1s²2s²2px¹2py¹ – ভূমি অবস্থায় যোজ্যতা 2; উত্তেজিত C*: 2s¹2px¹2py¹2pz¹ – চারটি অযুগ্ম ইলেকট্রন।\nসংকরায়ন: কাছাকাছি শক্তির অরবিটাল মিশে সমান আকৃতি ও সমশক্তির নতুন অরবিটাল তৈরি; যত অরবিটাল অংশ নেয় তত সংখ্যক সংকর অরবিটাল হয়।\nসংকর অরবিটালের নিউক্লিয়াসের একদিকে লোব বড় হয়, তাই অধিক্রমণ বেশি ও বন্ধন বেশি শক্তিশালী; এরা কেবল σ-বন্ধন গঠন করে।\nH2O-তে বিশুদ্ধ p অরবিটাল হলে কোণ 90° হতো, বাস্তবে 104.5° – সংকরায়ন এ অসংগতি দূর করে। সংকরায়ন একটি তাত্ত্বিক ধারণা; এটি ছন্দের নীতি ও পাউলির নীতি মানে।",
+   "notes_en": "Hybridization (Pauling and Slater): mixing of atomic orbitals of near energy into equivalent hybrid orbitals.\nCarbon ground state 2s²2p² (valency 2); excited C*: 2s¹2px¹2py¹2pz¹ with four unpaired electrons.\nThe number of hybrid orbitals equals the number of orbitals mixed; all have equal shape and energy.\nHybrid orbitals overlap more, so bonds are stronger; they form only σ bonds.\nH2O: pure p orbitals would give 90°, actual 104.5°; hybridization explains this. It obeys Hund's rule and the Pauli principle.",
+   "mcqs": [
+    {
+     "question_bn": "সংকরায়ন মতবাদ কারা উপস্থাপন করেন?",
+     "question_en": "Who proposed the hybridization concept?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Pauling ও Slater",
+       "en": "Pauling and Slater"
+      },
+      {
+       "id": "b",
+       "bn": "Bohr ও Rutherford",
+       "en": "Bohr and Rutherford"
+      },
+      {
+       "id": "c",
+       "bn": "Sidgwick ও Powell",
+       "en": "Sidgwick and Powell"
+      },
+      {
+       "id": "d",
+       "bn": "Heitler ও London",
+       "en": "Heitler and London"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী Pauling ও Slater এ ধারণা দেন।",
+     "explanation_en": "Per the book, Pauling and Slater introduced it.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তিনটি অরবিটাল সংকরিত হলে কতটি সংকর অরবিটাল উৎপন্ন হয়?",
+     "question_en": "Mixing three orbitals gives how many hybrid orbitals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "b",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "d",
+       "bn": "6",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সংকর অরবিটালের সংখ্যা = অংশগ্রহণকারী অরবিটালের সংখ্যা।",
+     "explanation_en": "Number of hybrids equals the number of orbitals mixed.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "উত্তেজিত কার্বনের (C*) ইলেকট্রন বিন্যাস কোনটি?",
+     "question_en": "Electron configuration of excited carbon C*?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1s²2s²2px¹2py¹",
+       "en": "1s²2s²2px¹2py¹"
+      },
+      {
+       "id": "b",
+       "bn": "1s²2s¹2px¹2py¹2pz¹",
+       "en": "1s²2s¹2px¹2py¹2pz¹"
+      },
+      {
+       "id": "c",
+       "bn": "1s²2s²2p⁴",
+       "en": "1s²2s²2p⁴"
+      },
+      {
+       "id": "d",
+       "bn": "1s²2s¹2p³ (সব জোড়)",
+       "en": "all paired"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "2s-এর একটি ইলেকট্রন 2pz-এ গিয়ে চারটি অযুগ্ম ইলেকট্রন হয়।",
+     "explanation_en": "One 2s electron moves to 2pz giving four unpaired electrons.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সংকর অরবিটাল অসংকরিত অরবিটালের চেয়ে বেশি শক্তিশালী বন্ধন গঠন করে কেন?",
+     "question_en": "Why do hybrid orbitals form stronger bonds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অধিক্রমণের পরিমাণ বেশি",
+       "en": "Greater extent of overlap"
+      },
+      {
+       "id": "b",
+       "bn": "ইলেকট্রন সংখ্যা বেশি",
+       "en": "More electrons"
+      },
+      {
+       "id": "c",
+       "bn": "নিউক্লিয়াস বড়",
+       "en": "Larger nucleus"
+      },
+      {
+       "id": "d",
+       "bn": "π-বন্ধন গঠন করে",
+       "en": "They form π bonds"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সংকর অরবিটালের লোব দিকনির্দেশিত হওয়ায় অধিক্রমণ বেশি হয়।",
+     "explanation_en": "Directed lobes give greater overlap.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি 2s ও তিনটি 2p অরবিটাল সংকরিত হয়ে কী গঠন করে?",
+     "question_en": "One 2s and three 2p orbitals hybridize to give?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চারটি sp³",
+       "en": "Four sp³"
+      },
+      {
+       "id": "b",
+       "bn": "তিনটি sp²",
+       "en": "Three sp²"
+      },
+      {
+       "id": "c",
+       "bn": "দুটি sp",
+       "en": "Two sp"
+      },
+      {
+       "id": "d",
+       "bn": "চারটি sp",
+       "en": "Four sp"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1 + 3 = 4টি অরবিটাল, তাই চারটি sp³।",
+     "explanation_en": "1 + 3 = 4 orbitals, hence four sp³.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "সংকরায়ন ধারণা প্রয়োজন হয়েছে কেন?",
+     "question_en": "Why was hybridization needed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিশুদ্ধ অরবিটাল দিয়ে CH4-এর সমান বন্ধন ও H2O-এর 104.5° ব্যাখ্যা করা যায় না",
+       "en": "Pure orbitals cannot explain equal CH4 bonds and 104.5° in H2O"
+      },
+      {
+       "id": "b",
+       "bn": "পরমাণুর আকার বোঝাতে",
+       "en": "To explain atomic size"
+      },
+      {
+       "id": "c",
+       "bn": "আয়নীকরণ শক্তির জন্য",
+       "en": "For ionisation energy"
+      },
+      {
+       "id": "d",
+       "bn": "তেজস্ক্রিয়তার জন্য",
+       "en": "For radioactivity"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ভ্যালেন্স বন্ড তত্ত্ব এসব ক্ষেত্রে অসংগতি দেখায়, সংকরায়ন তা দূর করে।",
+     "explanation_en": "Valence bond theory showed discrepancies that hybridization resolves.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.11",
+   "title_bn": "সংকর অরবিটালের প্রকারভেদ",
+   "title_en": "Classification of Hybrid Orbital",
+   "notes_bn": "sp: একটি s + একটি p → দুটি sp; 180°, সরলরৈখিক; 50% s, 50% p। উদাহরণ BeCl2 (Be* = 2s¹2px¹)।\nsp²: একটি s + দুটি p → তিনটি sp²; 120°, ত্রিকোণাকার সমতলীয়; 33.33% s, 66.67% p। উদাহরণ BCl3।\nsp³: একটি s + তিনটি p → চারটি sp³; 109.5°, চতুস্তলকীয়; 25% s, 75% p। উদাহরণ CH4 (বর্গাকার নয়, কারণ CH2Br2-এর একটিই সমাণু)।\nsp³d: s + 3p + d(dz²) → পাঁচটি; ত্রিকোণীয় দ্বিপিরামিডীয়, উদাহরণ PCl5। sp³d²: s + 3p + 2d(dz², dx²–y²) → ছয়টি; অষ্টতলকীয়, 90°, উদাহরণ SF6।\nইথিন (CH2=CH2) sp², C=C 1.33 Å; ইথাইন (CH≡CH) sp, C≡C 1.20 Å; ইথেন C–C 1.54 Å। s-ধর্ম বাড়লে বন্ধন দূরত্ব কমে: C–H দৈর্ঘ্য CH3–CH3 > CH2=CH2 > CH≡CH।\nকোণের ক্রম: sp (180°) > sp² (120°) > sp³ (109.5°)। BeCl2 কঠিন অবস্থায় পলিমারিক শৃঙ্খল গঠন করে।",
+   "notes_en": "sp: one s + one p gives two sp orbitals; 180°, linear; 50% s (BeCl2).\nsp²: s + two p gives three; 120°, trigonal planar; 33.33% s, 66.67% p (BCl3).\nsp³: s + three p gives four; 109.5°, tetrahedral; 25% s (CH4; not square planar because only one CH2Br2 isomer exists).\nsp³d: trigonal bipyramidal (PCl5, uses dz²); sp³d²: octahedral, 90° (SF6, uses dz² and dx²–y²).\nEthene is sp², C=C 1.33 Å; ethyne sp, C≡C 1.20 Å; ethane C–C 1.54 Å. More s-character gives shorter bonds: C–H in CH3–CH3 > CH2=CH2 > CH≡CH.\nAngle order sp > sp² > sp³. Solid BeCl2 is a polymeric chain.",
+   "mcqs": [
+    {
+     "question_bn": "BeCl2 অণুতে Be কোন সংকরায়িত অবস্থায় থাকে?",
+     "question_en": "Hybridization of Be in BeCl2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp",
+       "en": "sp"
+      },
+      {
+       "id": "b",
+       "bn": "sp²",
+       "en": "sp²"
+      },
+      {
+       "id": "c",
+       "bn": "sp³",
+       "en": "sp³"
+      },
+      {
+       "id": "d",
+       "bn": "sp³d",
+       "en": "sp³d"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Be* = 2s¹2p¹ → দুটি sp অরবিটাল; আকার সরলরৈখিক (180°)।",
+     "explanation_en": "Be* 2s¹2p¹ gives two sp orbitals; linear, 180°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "BCl3 অণুর আকৃতি কোনটি?",
+     "question_en": "Shape of BCl3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সরলরৈখিক",
+       "en": "Linear"
+      },
+      {
+       "id": "b",
+       "bn": "ত্রিকোণাকার সমতলীয়",
+       "en": "Trigonal planar"
+      },
+      {
+       "id": "c",
+       "bn": "চতুস্তলকীয়",
+       "en": "Tetrahedral"
+      },
+      {
+       "id": "d",
+       "bn": "অষ্টতলকীয়",
+       "en": "Octahedral"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "B sp²-সংকরিত; কোণ 120°।",
+     "explanation_en": "B is sp² hybridized; 120°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH4-এর বন্ধন কোণ কত?",
+     "question_en": "Bond angle in CH4?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "90°",
+       "en": "90°"
+      },
+      {
+       "id": "b",
+       "bn": "104.5°",
+       "en": "104.5°"
+      },
+      {
+       "id": "c",
+       "bn": "109.5°",
+       "en": "109.5°"
+      },
+      {
+       "id": "d",
+       "bn": "120°",
+       "en": "120°"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "C sp³-সংকরিত, চতুস্তলকীয় গঠন, কোণ 109.5°।",
+     "explanation_en": "Carbon is sp³; tetrahedral; 109.5°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "sp² সংকর অরবিটালে s-ধর্মের শতকরা পরিমাণ কত?",
+     "question_en": "Percent s-character in an sp² orbital?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "25%",
+       "en": "25%"
+      },
+      {
+       "id": "b",
+       "bn": "33.33%",
+       "en": "33.33%"
+      },
+      {
+       "id": "c",
+       "bn": "50%",
+       "en": "50%"
+      },
+      {
+       "id": "d",
+       "bn": "66.67%",
+       "en": "66.67%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তিনটির মধ্যে একটি s, অর্থাৎ 1/3 = 33.33%।",
+     "explanation_en": "One s in three orbitals = 1/3 = 33.33%.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "PCl5 অণুর কেন্দ্রীয় পরমাণু ও আকৃতি কোনটি?",
+     "question_en": "Hybridization and shape in PCl5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp³, চতুস্তলকীয়",
+       "en": "sp³, tetrahedral"
+      },
+      {
+       "id": "b",
+       "bn": "sp³d, ত্রিকোণীয় দ্বিপিরামিডীয়",
+       "en": "sp³d, trigonal bipyramidal"
+      },
+      {
+       "id": "c",
+       "bn": "sp³d², অষ্টতলকীয়",
+       "en": "sp³d², octahedral"
+      },
+      {
+       "id": "d",
+       "bn": "sp², ত্রিকোণাকার",
+       "en": "sp², trigonal planar"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "P* এর s, তিনটি p ও একটি d (dz²) মিলে পাঁচটি sp³d অরবিটাল।",
+     "explanation_en": "P* uses s, three p and one d (dz²) giving five sp³d orbitals.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SF6 অণুতে সংকরায়নে কোন d অরবিটাল দুটি অংশ নেয়?",
+     "question_en": "Which d orbitals take part in SF6?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "dxy ও dyz",
+       "en": "dxy and dyz"
+      },
+      {
+       "id": "b",
+       "bn": "dz² ও dx²–y²",
+       "en": "dz² and dx²–y²"
+      },
+      {
+       "id": "c",
+       "bn": "dxz ও dyz",
+       "en": "dxz and dyz"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো d নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "sp³d²-সংকরায়নে dz² ও dx²–y² অংশ নেয়; আকৃতি অষ্টতলকীয়।",
+     "explanation_en": "sp³d² uses dz² and dx²–y²; octahedral.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "C–H বন্ধন দৈর্ঘ্যের সঠিক ক্রম কোনটি?",
+     "question_en": "Correct C–H bond length order?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH≡CH > CH2=CH2 > CH3–CH3",
+       "en": "CH≡CH > CH2=CH2 > CH3–CH3"
+      },
+      {
+       "id": "b",
+       "bn": "CH3–CH3 > CH2=CH2 > CH≡CH",
+       "en": "CH3–CH3 > CH2=CH2 > CH≡CH"
+      },
+      {
+       "id": "c",
+       "bn": "CH2=CH2 > CH3–CH3 > CH≡CH",
+       "en": "CH2=CH2 > CH3–CH3 > CH≡CH"
+      },
+      {
+       "id": "d",
+       "bn": "সবাই সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "s-ধর্ম বাড়লে দূরত্ব কমে: sp³ (25%) > sp² (33%) > sp (50%)।",
+     "explanation_en": "Greater s-character shortens the bond: sp³ > sp² > sp in length.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "CH4 অণু বর্গাকার সমতলীয় নয় তার প্রমাণ কী?",
+     "question_en": "What shows CH4 is not square planar?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH2Br2-এর একাধিক সমাণু",
+       "en": "CH2Br2 has several isomers"
+      },
+      {
+       "id": "b",
+       "bn": "CH2Br2-এর একটিই যৌগ পাওয়া যায়",
+       "en": "Only one CH2Br2 compound exists"
+      },
+      {
+       "id": "c",
+       "bn": "CH4 গ্যাসীয়",
+       "en": "CH4 is a gas"
+      },
+      {
+       "id": "d",
+       "bn": "CH4 অপোলার",
+       "en": "CH4 is non-polar"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বর্গাকার হলে CH2Br2-এর দুটি সমাণু সম্ভব হতো; বাস্তবে একটিই পাওয়া যায়।",
+     "explanation_en": "A square planar shape would allow two isomers; only one is found.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ইথিনে (CH2=CH2) কার্বনের সংকরায়ন ও π-বন্ধন গঠন কীভাবে ঘটে?",
+     "question_en": "In ethene how are hybridization and π bond arranged?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp²; অসংকরিত 2pz পাশাপাশি অধিক্রমণে π",
+       "en": "sp²; unhybridized 2pz overlap sideways to give π"
+      },
+      {
+       "id": "b",
+       "bn": "sp³; π নেই",
+       "en": "sp³; no π"
+      },
+      {
+       "id": "c",
+       "bn": "sp; দুটি π",
+       "en": "sp; two π"
+      },
+      {
+       "id": "d",
+       "bn": "sp²; π মুখোমুখি অধিক্রমণে",
+       "en": "sp²; π by head-on overlap"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রতি C-এর তিনটি sp² σ গঠন করে; অসংকরিত 2pz পাশাপাশি অধিক্রমণে π তৈরি হয়।",
+     "explanation_en": "Each C uses three sp² for σ; the unhybridized 2pz overlap sideways forming π.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.12",
+   "title_bn": "কেন্দ্রীয় পরমাণুর সংকর অবস্থা নির্ণয়",
+   "title_en": "Determining the Hybrid State of the Central Atom",
+   "notes_bn": "পদ্ধতি-১ (সরল অণু): X = SA + ½(E – V)। SA = সংযুক্ত পরমাণুর সংখ্যা, E = কেন্দ্রীয় পরমাণুর সর্ববহিঃস্থ কক্ষের ইলেকট্রন, V = যোজ্যতা (H, Cl, Br, OH⁻ = 1; O, S = 2)।\nধনাত্মক মূলকে X = SA + ½(E – V – b); ঋণাত্মক মূলকে X = SA + ½(E – V + a)।\nপদ্ধতি-২: X = ½(A + B), A = কেন্দ্রীয় পরমাণুর বহিঃস্থ ইলেকট্রন, B = যুক্ত একযোজী পরমাণুর সংখ্যা। বিকল্প: X = ½(E + c – b + a)।\nX: 2 → sp, 3 → sp², 4 → sp³, 5 → sp³d, 6 → sp³d²।\nউদাহরণ: CH4 X=4 (sp³); NH3 X=3+½(5–3)=4 (sp³); SO3 X=3 (sp²); CO X=1+½(4–2)=2 (sp); SF4 X=4+½(6–4)=5 (sp³d); NH4⁺ ও SO4²⁻ উভয়ে sp³।\nপদ্ধতি-৩: X = মোট σ-বন্ধন + নিঃসঙ্গ জোড় সংখ্যা।",
+   "notes_en": "Method 1: X = SA + ½(E – V); SA = attached atoms, E = outer electrons of central atom, V = valency (H, Cl, Br, OH = 1; O, S = 2).\nCation: X = SA + ½(E – V – b); anion: X = SA + ½(E – V + a).\nMethod 2: X = ½(A + B) with A = outer electrons, B = monovalent atoms attached. Alternative: X = ½(E + c – b + a).\nX = 2 sp, 3 sp², 4 sp³, 5 sp³d, 6 sp³d².\nExamples: CH4 4 (sp³); NH3 4; SO3 3 (sp²); CO 2 (sp); SF4 5 (sp³d); NH4⁺, SO4²⁻ sp³.\nMethod 3: X = σ bonds + lone pairs.",
+   "mcqs": [
+    {
+     "question_bn": "X = 4 হলে কেন্দ্রীয় পরমাণুর সংকরায়ন কোনটি?",
+     "question_en": "If X = 4, the hybridization is?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp",
+       "en": "sp"
+      },
+      {
+       "id": "b",
+       "bn": "sp²",
+       "en": "sp²"
+      },
+      {
+       "id": "c",
+       "bn": "sp³",
+       "en": "sp³"
+      },
+      {
+       "id": "d",
+       "bn": "sp³d",
+       "en": "sp³d"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "4টি সংকর অরবিটাল মানে sp³।",
+     "explanation_en": "Four hybrid orbitals means sp³.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সরল অণুর কেন্দ্রীয় পরমাণুর সংকর অবস্থা নির্ণয়ের সূত্র কোনটি?",
+     "question_en": "Formula for a simple molecule?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "X = SA + ½(E – V)",
+       "en": "X = SA + ½(E – V)"
+      },
+      {
+       "id": "b",
+       "bn": "X = SA – ½(E – V)",
+       "en": "X = SA – ½(E – V)"
+      },
+      {
+       "id": "c",
+       "bn": "X = E + V",
+       "en": "X = E + V"
+      },
+      {
+       "id": "d",
+       "bn": "X = SA × V",
+       "en": "X = SA × V"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই-এর সূত্র X = SA + ½(E – V)।",
+     "explanation_en": "Book formula X = SA + ½(E – V).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "SO3 অণুতে S-এর সংকরায়ন কোনটি? (SA=3, E=6, V=6)",
+     "question_en": "Hybridization of S in SO3? (SA=3, E=6, V=6)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp",
+       "en": "sp"
+      },
+      {
+       "id": "b",
+       "bn": "sp²",
+       "en": "sp²"
+      },
+      {
+       "id": "c",
+       "bn": "sp³",
+       "en": "sp³"
+      },
+      {
+       "id": "d",
+       "bn": "sp³d",
+       "en": "sp³d"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "X = 3 + ½(6–6) = 3, তাই sp²।",
+     "explanation_en": "X = 3 + ½(6–6) = 3, so sp².",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CO অণুতে C-এর সংকরায়ন কোনটি?",
+     "question_en": "Hybridization of C in CO?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp",
+       "en": "sp"
+      },
+      {
+       "id": "b",
+       "bn": "sp²",
+       "en": "sp²"
+      },
+      {
+       "id": "c",
+       "bn": "sp³",
+       "en": "sp³"
+      },
+      {
+       "id": "d",
+       "bn": "sp³d",
+       "en": "sp³d"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "X = 1 + ½(4–2) = 2, তাই sp।",
+     "explanation_en": "X = 1 + ½(4–2) = 2, so sp.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SF4 অণুতে S-এর সংকরায়ন কোনটি? (SA=4, E=6, V=4)",
+     "question_en": "Hybridization of S in SF4? (SA=4, E=6, V=4)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp³",
+       "en": "sp³"
+      },
+      {
+       "id": "b",
+       "bn": "sp³d",
+       "en": "sp³d"
+      },
+      {
+       "id": "c",
+       "bn": "sp³d²",
+       "en": "sp³d²"
+      },
+      {
+       "id": "d",
+       "bn": "sp²",
+       "en": "sp²"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "X = 4 + ½(6–4) = 5, তাই sp³d।",
+     "explanation_en": "X = 4 + ½(6–4) = 5, so sp³d.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NH4⁺ আয়নে N-এর X-এর মান কত? (SA=4, E=5, V=4, b=1)",
+     "question_en": "X for N in NH4⁺? (SA=4, E=5, V=4, b=1)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "6",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "X = 4 + ½(5–4–1) = 4 ⇒ sp³।",
+     "explanation_en": "X = 4 + ½(5–4–1) = 4, i.e. sp³.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "SO2 অণুতে পদ্ধতি-২ (X = ½(A+B)) ব্যবহার করলে S-এর সংকরায়ন কী? (A=6, B=0)",
+     "question_en": "Using Method 2 for SO2, hybridization of S? (A=6, B=0)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "sp",
+       "en": "sp"
+      },
+      {
+       "id": "b",
+       "bn": "sp²",
+       "en": "sp²"
+      },
+      {
+       "id": "c",
+       "bn": "sp³",
+       "en": "sp³"
+      },
+      {
+       "id": "d",
+       "bn": "sp³d",
+       "en": "sp³d"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "X = ½(6+0) = 3 ⇒ sp²।",
+     "explanation_en": "X = ½(6+0) = 3, so sp².",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "SO4²⁻ আয়নে S-এর X কত? (SA=4, E=6, V=8, a=2)",
+     "question_en": "X for S in SO4²⁻? (SA=4, E=6, V=8, a=2)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "c",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "d",
+       "bn": "6",
+       "en": "6"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "X = 4 + ½(6–8+2) = 4 ⇒ sp³।",
+     "explanation_en": "X = 4 + ½(6–8+2) = 4, sp³.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.13",
+   "title_bn": "সংকর অরবিটালে উপস্থিত নিঃসঙ্গ ইলেকট্রন জোড় সংখ্যা নির্ণয়",
+   "title_en": "Number of Lone Pairs on Hybrid Orbitals",
+   "notes_bn": "নিঃসঙ্গ ইলেকট্রন জোড় জানলে অণুর সঠিক জ্যামিতিক গঠন বোঝা যায়।\nসূত্র: L = (X – C – D); X = মোট সংকর অরবিটাল সংখ্যা, C = একযোজী পরমাণুর সংখ্যা, D = দ্বিযোজী পরমাণুর সংখ্যা।\nNH3: X=4, C=3, D=0 → L=1। H2O: X=4, C=2 → L=2। H3O⁺: X=4, C=3 → L=1।\nXeF2: X=2+½(8–2)=5, C=2 → L=3।\nICl4⁻: X=4+½(7–4+1)=6, C=4 → L=2।\nIO3⁻: X=3+½(7–6+1)=4, C=0, D=3 → L=1।",
+   "notes_en": "Knowing lone pairs gives the correct molecular geometry.\nFormula: L = X – C – D (X = hybrid orbitals, C = monovalent atoms, D = divalent atoms).\nNH3: X=4, C=3 → L=1. H2O: X=4, C=2 → L=2. H3O⁺: L=1.\nXeF2: X=5, C=2 → L=3.\nICl4⁻: X=6, C=4 → L=2.\nIO3⁻: X=4, C=0, D=3 → L=1.",
+   "mcqs": [
+    {
+     "question_bn": "নিঃসঙ্গ ইলেকট্রন জোড় নির্ণয়ের সূত্র কোনটি?",
+     "question_en": "Formula for lone pairs?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "L = X – C – D",
+       "en": "L = X – C – D"
+      },
+      {
+       "id": "b",
+       "bn": "L = X + C + D",
+       "en": "L = X + C + D"
+      },
+      {
+       "id": "c",
+       "bn": "L = C – X",
+       "en": "L = C – X"
+      },
+      {
+       "id": "d",
+       "bn": "L = X × C",
+       "en": "L = X × C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী L = (X – C – D)।",
+     "explanation_en": "Per book L = X – C – D.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NH3-এ N-এ নিঃসঙ্গ ইলেকট্রন জোড় কয়টি?",
+     "question_en": "Lone pairs on N in NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "b",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "c",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "d",
+       "bn": "3",
+       "en": "3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "X=4, C=3 ⇒ L=1।",
+     "explanation_en": "X=4, C=3, L=1.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "H2O অণুতে O-এ নিঃসঙ্গ জোড় কয়টি?",
+     "question_en": "Lone pairs on O in H2O?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "X=4, C=2, D=0 ⇒ L=2।",
+     "explanation_en": "X=4, C=2 gives L=2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H3O⁺ আয়নে নিঃসঙ্গ ইলেকট্রন জোড় কয়টি?",
+     "question_en": "Lone pairs in H3O⁺?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "b",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "c",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "d",
+       "bn": "3",
+       "en": "3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "X=4, C=3 ⇒ L=1।",
+     "explanation_en": "X=4, C=3 gives L=1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "XeF2 অণুতে Xe-এর নিঃসঙ্গ জোড় কয়টি? (X=5, C=2)",
+     "question_en": "Lone pairs on Xe in XeF2? (X=5, C=2)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "L = 5 – 2 – 0 = 3।",
+     "explanation_en": "L = 5 – 2 – 0 = 3.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ICl4⁻ আয়নে I-এর নিঃসঙ্গ জোড় কয়টি? (SA=4, E=7, V=4, a=1)",
+     "question_en": "Lone pairs on I in ICl4⁻? (SA=4, E=7, V=4, a=1)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "X = 4 + ½(7–4+1) = 6; L = 6 – 4 = 2।",
+     "explanation_en": "X = 4 + ½(7–4+1) = 6; L = 6 – 4 = 2.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.14",
+   "title_bn": "সংকর অরবিটালের সাথে সমযোজী যৌগের আকৃতির সম্পর্ক",
+   "title_en": "Hybrid Orbital and Shape of Covalent Compounds",
+   "notes_bn": "সংকরায়নের ভিত্তিতে অণুর আকৃতি ও বন্ধন কোণ নির্ধারিত হয়।\nBeCl2: sp, 180°, সরলরৈখিক। BCl3: sp², 120°, ত্রিকোণীয়। CH4: sp³, 109.5°, চতুস্তলকীয়।\nNH3: sp³, 107°, ত্রিকোণীয় পিরামিডীয়। H2O: sp³, 104.5°, V-আকৃতি।\nPCl5: sp³d, ত্রিকোণীয় দ্বিপিরামিডীয় (বিষুবীয় 120°, অক্ষীয় 90°)। SF6: sp³d², অষ্টতলকীয়, 90°।\nবন্ধন জোড় সংখ্যা: 2 → সরলরৈখিক 180°; 3 → ত্রিকোণাকার 120°; 4 → চতুস্তলকীয় 109°28′; 5 → ত্রিকোণীয় দ্বিপিরামিডীয়; 6 → অষ্টতলক 90°; 7 → পঞ্চকোণীয় দ্বিপিরামিডীয় (72°, 90°; IF7, ReF7)।",
+   "notes_en": "Hybridization sets shape and bond angle.\nBeCl2 sp 180° linear; BCl3 sp² 120° trigonal planar; CH4 sp³ 109.5° tetrahedral.\nNH3 sp³ 107° trigonal pyramidal; H2O sp³ 104.5° V-shaped.\nPCl5 sp³d trigonal bipyramidal (120° equatorial, 90° axial); SF6 sp³d² octahedral, 90°.\nBond pairs: 2 linear 180°; 3 trigonal planar 120°; 4 tetrahedral 109°28′; 5 trigonal bipyramidal; 6 octahedral 90°; 7 pentagonal bipyramidal (72°, 90°; IF7).",
+   "mcqs": [
+    {
+     "question_bn": "NH3 অণুর আকৃতি কোনটি?",
+     "question_en": "Shape of NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সমতলীয় ত্রিকোণ",
+       "en": "Trigonal planar"
+      },
+      {
+       "id": "b",
+       "bn": "ত্রিকোণীয় পিরামিডীয়",
+       "en": "Trigonal pyramidal"
+      },
+      {
+       "id": "c",
+       "bn": "সরলরৈখিক",
+       "en": "Linear"
+      },
+      {
+       "id": "d",
+       "bn": "অষ্টতলকীয়",
+       "en": "Octahedral"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "sp³ সংকরিত N, একটি নিঃসঙ্গ জোড়; বন্ধন কোণ 107°।",
+     "explanation_en": "sp³ N with one lone pair; angle 107°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "H2O অণুর আকৃতি ও বন্ধন কোণ কোনটি?",
+     "question_en": "Shape and angle of H2O?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সরলরৈখিক, 180°",
+       "en": "Linear, 180°"
+      },
+      {
+       "id": "b",
+       "bn": "V-আকৃতি, 104.5°",
+       "en": "V-shaped, 104.5°"
+      },
+      {
+       "id": "c",
+       "bn": "চতুস্তলকীয়, 109.5°",
+       "en": "Tetrahedral, 109.5°"
+      },
+      {
+       "id": "d",
+       "bn": "ত্রিকোণীয়, 120°",
+       "en": "Trigonal, 120°"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দুটি নিঃসঙ্গ জোড় থাকায় V-আকৃতি, 104.5°।",
+     "explanation_en": "Two lone pairs give a V shape, 104.5°.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "PCl5 অণুর জ্যামিতিক আকৃতি কোনটি?",
+     "question_en": "Geometry of PCl5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চতুস্তলকীয়",
+       "en": "Tetrahedral"
+      },
+      {
+       "id": "b",
+       "bn": "অষ্টতলকীয়",
+       "en": "Octahedral"
+      },
+      {
+       "id": "c",
+       "bn": "ত্রিকোণীয় দ্বিপিরামিডীয়",
+       "en": "Trigonal bipyramidal"
+      },
+      {
+       "id": "d",
+       "bn": "পঞ্চকোণীয় দ্বিপিরামিডীয়",
+       "en": "Pentagonal bipyramidal"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "পাঁচটি বন্ধন জোড়ের জন্য sp³d, ত্রিকোণীয় দ্বিপিরামিডীয়।",
+     "explanation_en": "Five bond pairs give sp³d, trigonal bipyramidal.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "SF6 অণুর বন্ধন কোণ কত?",
+     "question_en": "Bond angle in SF6?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "90°",
+       "en": "90°"
+      },
+      {
+       "id": "b",
+       "bn": "109.5°",
+       "en": "109.5°"
+      },
+      {
+       "id": "c",
+       "bn": "120°",
+       "en": "120°"
+      },
+      {
+       "id": "d",
+       "bn": "72°",
+       "en": "72°"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "sp³d² অষ্টতলকীয় গঠনে কোণ 90°।",
+     "explanation_en": "Octahedral sp³d² geometry has 90°.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH4, NH3 ও H2O সবাই sp³ হলেও বন্ধন কোণের সঠিক ক্রম কোনটি?",
+     "question_en": "All sp³; correct order of bond angles?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH4 > NH3 > H2O",
+       "en": "CH4 > NH3 > H2O"
+      },
+      {
+       "id": "b",
+       "bn": "H2O > NH3 > CH4",
+       "en": "H2O > NH3 > CH4"
+      },
+      {
+       "id": "c",
+       "bn": "NH3 > CH4 > H2O",
+       "en": "NH3 > CH4 > H2O"
+      },
+      {
+       "id": "d",
+       "bn": "সব সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "109.5° > 107° > 104.5°; নিঃসঙ্গ জোড় বাড়লে কোণ কমে।",
+     "explanation_en": "109.5° > 107° > 104.5°; more lone pairs reduce the angle.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কেন্দ্রীয় পরমাণুর সাথে সাতটি বন্ধন জোড় থাকলে আকৃতি কোনটি?",
+     "question_en": "Seven bond pairs around the central atom give?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অষ্টতলকীয়",
+       "en": "Octahedral"
+      },
+      {
+       "id": "b",
+       "bn": "পঞ্চকোণীয় দ্বিপিরামিডীয় (IF7)",
+       "en": "Pentagonal bipyramidal (IF7)"
+      },
+      {
+       "id": "c",
+       "bn": "ত্রিকোণীয় দ্বিপিরামিডীয়",
+       "en": "Trigonal bipyramidal"
+      },
+      {
+       "id": "d",
+       "bn": "চতুস্তলকীয়",
+       "en": "Tetrahedral"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই-এর সারণি: 7 জোড় → পঞ্চকোণীয় দ্বিপিরামিডীয়, 72° ও 90° কোণ।",
+     "explanation_en": "Table: 7 pairs give pentagonal bipyramidal with 72° and 90°.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "3.15",
+   "title_bn": "অণুর আকৃতি ও বন্ধন কোণের উপর মুক্তজোড় ইলেকট্রনের প্রভাব",
+   "title_en": "Effect of Lone Pair on Shape and Bond Angle",
+   "notes_bn": "Sidgwick ও Powell (1957) প্রস্তাবিত VSEPR তত্ত্ব: আকৃতি নির্ভর করে কেন্দ্রীয় পরমাণুর বন্ধন জোড় ও নিঃসঙ্গ জোড় এবং তাদের পারস্পরিক বিকর্ষণের উপর।\nবিকর্ষণ ক্রম: (L.P–L.P) > (L.P–B.P) > (B.P–B.P); তাই নিঃসঙ্গ জোড় বাড়লে বন্ধন কোণ কমে।\nNH3 107° (109.5° থেকে কমে), NF3 102.5°; PH3 93.3°, AsH3 91.8°; H2O 104.5°; H2S 92.12°।\nNF3-এ F বেশি তড়িৎ ঋণাত্মক, বন্ধন জোড় N থেকে দূরে সরে BP–BP বিকর্ষণ কমে, তাই কোণ NH3 অপেক্ষা কম। কেন্দ্রীয় পরমাণুর তড়িৎ ঋণাত্মকতা বেশি হলে বন্ধন জোড় কাছে আসে, কোণ বাড়ে।\nNO2: কোণ 135°, কৌণিক (angular)। বিজোড় ইলেকট্রনযুক্ত অণু (NO, NO2, O2⁻) প্যারাচুম্বকীয় ও রেজোন্যান্সে সুস্থিত।",
+   "notes_en": "VSEPR (Sidgwick and Powell, 1957): shape depends on bond pairs, lone pairs and their repulsion.\nRepulsion: LP–LP > LP–BP > BP–BP, so lone pairs reduce bond angles.\nNH3 107°, NF3 102.5°; PH3 93.3°, AsH3 91.8°; H2O 104.5°; H2S 92.12°.\nIn NF3 electronegative F pulls bond pairs away from N, lowering BP–BP repulsion, so a smaller angle than NH3. Higher central-atom electronegativity increases the angle.\nNO2: 135°, angular. Odd-electron species (NO, NO2, O2⁻) are paramagnetic and stabilised by resonance.",
+   "mcqs": [
+    {
+     "question_bn": "VSEPR তত্ত্ব কারা প্রস্তাব করেন?",
+     "question_en": "Who proposed VSEPR theory?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Sidgwick ও Powell",
+       "en": "Sidgwick and Powell"
+      },
+      {
+       "id": "b",
+       "bn": "Pauling",
+       "en": "Pauling"
+      },
+      {
+       "id": "c",
+       "bn": "Lewis",
+       "en": "Lewis"
+      },
+      {
+       "id": "d",
+       "bn": "Bohr",
+       "en": "Bohr"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1957 সালে Sidgwick ও Powell এ তত্ত্ব দেন।",
+     "explanation_en": "Sidgwick and Powell proposed it in 1957.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বিকর্ষণ বলের সঠিক ক্রম কোনটি?",
+     "question_en": "Correct order of repulsion?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "BP–BP > LP–BP > LP–LP",
+       "en": "BP–BP > LP–BP > LP–LP"
+      },
+      {
+       "id": "b",
+       "bn": "LP–LP > LP–BP > BP–BP",
+       "en": "LP–LP > LP–BP > BP–BP"
+      },
+      {
+       "id": "c",
+       "bn": "LP–BP > LP–LP > BP–BP",
+       "en": "LP–BP > LP–LP > BP–BP"
+      },
+      {
+       "id": "d",
+       "bn": "সব সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নিঃসঙ্গ জোড় বড় ইলেকট্রন মেঘ গঠন করায় বিকর্ষণ সবচেয়ে বেশি।",
+     "explanation_en": "Lone pairs occupy more space so LP–LP is greatest.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NH3 অণুতে H–N–H কোণ কত?",
+     "question_en": "H–N–H angle in NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "104.5°",
+       "en": "104.5°"
+      },
+      {
+       "id": "b",
+       "bn": "107°",
+       "en": "107°"
+      },
+      {
+       "id": "c",
+       "bn": "109.5°",
+       "en": "109.5°"
+      },
+      {
+       "id": "d",
+       "bn": "120°",
+       "en": "120°"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নিঃসঙ্গ জোড়ের বিকর্ষণে 109.5° থেকে কমে 107°।",
+     "explanation_en": "Lone pair repulsion lowers it from 109.5° to 107°.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H2S অণুতে H–S–H বন্ধন কোণ কত?",
+     "question_en": "H–S–H angle in H2S?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "104.5°",
+       "en": "104.5°"
+      },
+      {
+       "id": "b",
+       "bn": "92.12°",
+       "en": "92.12°"
+      },
+      {
+       "id": "c",
+       "bn": "107°",
+       "en": "107°"
+      },
+      {
+       "id": "d",
+       "bn": "109.5°",
+       "en": "109.5°"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী H2S-এর কোণ 92.12°।",
+     "explanation_en": "The book gives 92.12° for H2S.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NF3-এর কোণ NH3-এর চেয়ে কম কেন?",
+     "question_en": "Why is the NF3 angle smaller than NH3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "F বেশি তড়িৎ ঋণাত্মক হওয়ায় বন্ধন জোড় N থেকে সরে যায়, BP–BP বিকর্ষণ কমে",
+       "en": "F is more electronegative, pulling bond pairs from N and reducing BP–BP repulsion"
+      },
+      {
+       "id": "b",
+       "bn": "F-এর আকার ছোট",
+       "en": "F is smaller"
+      },
+      {
+       "id": "c",
+       "bn": "NF3-এ নিঃসঙ্গ জোড় নেই",
+       "en": "NF3 has no lone pair"
+      },
+      {
+       "id": "d",
+       "bn": "NH3 সরলরৈখিক",
+       "en": "NH3 is linear"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NF3 102.5°, NH3 107°।",
+     "explanation_en": "NF3 is 102.5° against 107° for NH3.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বন্ধন কোণের সঠিক ক্রম কোনটি?",
+     "question_en": "Correct order of bond angles?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH3 > PH3 > AsH3",
+       "en": "NH3 > PH3 > AsH3"
+      },
+      {
+       "id": "b",
+       "bn": "AsH3 > PH3 > NH3",
+       "en": "AsH3 > PH3 > NH3"
+      },
+      {
+       "id": "c",
+       "bn": "PH3 > NH3 > AsH3",
+       "en": "PH3 > NH3 > AsH3"
+      },
+      {
+       "id": "d",
+       "bn": "সব সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "107° > 93.3° > 91.8°।",
+     "explanation_en": "107° > 93.3° > 91.8°.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "NO2 অণুর আকৃতি ও কোণ কোনটি?",
+     "question_en": "Shape and angle of NO2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সরলরৈখিক, 180°",
+       "en": "Linear, 180°"
+      },
+      {
+       "id": "b",
+       "bn": "কৌণিক, 135°",
+       "en": "Angular, 135°"
+      },
+      {
+       "id": "c",
+       "bn": "চতুস্তলকীয়, 109.5°",
+       "en": "Tetrahedral, 109.5°"
+      },
+      {
+       "id": "d",
+       "bn": "ত্রিকোণীয়, 120°",
+       "en": "Trigonal planar, 120°"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নিঃসঙ্গ ইলেকট্রনের বিকর্ষণে কোণ 180° থেকে কমে 135°।",
+     "explanation_en": "Repulsion by the lone electron reduces 180° to 135°.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনটি বিজোড় ইলেকট্রনযুক্ত অণু?",
+     "question_en": "Which is an odd-electron molecule?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NO",
+       "en": "NO"
+      },
+      {
+       "id": "b",
+       "bn": "N2",
+       "en": "N2"
+      },
+      {
+       "id": "c",
+       "bn": "CH4",
+       "en": "CH4"
+      },
+      {
+       "id": "d",
+       "bn": "H2O",
+       "en": "H2O"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NO-তে মোট ইলেকট্রন বিজোড়; এটি প্যারাচুম্বকীয়।",
+     "explanation_en": "NO has an odd total of electrons and is paramagnetic.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "3.16",
+   "title_bn": "শিক্ষার্থীর কাজ: সহজ উপকরণ ব্যবহার করে যৌগের মডেল তৈরি",
+   "title_en": "Student Work: Making Models of Compounds",
+   "notes_bn": "CH4 মডেল: বড় আলু = C, চারটি ছোট আলু = H, কলমের রিফিল = বন্ধন। নিচে তিন কোণায় তিনটি রিফিল, উপরে চতুর্থটি; প্রান্তে ছোট আলু – চতুস্তলকীয় গঠন।\nNH3: বড় আলু = N, তিন ছোট আলু = H, তিন রিফিল ত্রিভুজের মতো; ম্যাচ কাঠির বারুদ-অংশ দুটি বিপরীত দিকে বসিয়ে নিঃসঙ্গ ইলেকট্রন জোড় দেখানো হয় – ত্রিকোণীয় পিরামিডীয়।\nH2O: একটি বড় আলু (O), দুটি ছোট আলু (H), দুটি রিফিল ও চারটি ম্যাচ কাঠি।\nআপেল, গোলকুল, আমলকী, পাটকাঠি, বাঁশের কঞ্চিও ব্যবহার করা যায়। চিত্রে BeCl2 (Cl–Be–Cl সরলরৈখিক), BCl3 ও CH4 মডেলও দেখানো হয়েছে।",
+   "notes_en": "CH4 model: big potato = C, four small potatoes = H, pen refills = bonds, arranged tetrahedrally.\nNH3: big potato = N, three small = H, three refills in a pyramid; matchstick heads placed oppositely represent the lone pair.\nH2O: one big potato (O), two small (H), two refills and four matchsticks.\nApples, guavas, jute sticks, bamboo twigs also work. Figures show BeCl2 (linear), BCl3 and CH4 models.",
+   "mcqs": [
+    {
+     "question_bn": "আলু দিয়ে CH4 মডেলে বড় আলু কী নির্দেশ করে?",
+     "question_en": "In the potato CH4 model, the big potato represents?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কার্বন",
+       "en": "Carbon"
+      },
+      {
+       "id": "b",
+       "bn": "হাইড্রোজেন",
+       "en": "Hydrogen"
+      },
+      {
+       "id": "c",
+       "bn": "বন্ধন",
+       "en": "A bond"
+      },
+      {
+       "id": "d",
+       "bn": "নিঃসঙ্গ জোড়",
+       "en": "A lone pair"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বড় আলু কেন্দ্রীয় C, ছোট আলু H।",
+     "explanation_en": "Big potato = central C; small ones = H.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH4 মডেলের আকৃতি কেমন হয়?",
+     "question_en": "Shape of the CH4 model?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চতুস্তলকীয়",
+       "en": "Tetrahedral"
+      },
+      {
+       "id": "b",
+       "bn": "সমতলীয় বর্গাকার",
+       "en": "Square planar"
+      },
+      {
+       "id": "c",
+       "bn": "সরলরৈখিক",
+       "en": "Linear"
+      },
+      {
+       "id": "d",
+       "bn": "V-আকৃতি",
+       "en": "V-shaped"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "চারটি কলম চারদিকে নিচে তিন ও উপরে এক – চতুস্তলকীয়।",
+     "explanation_en": "Four refills (three below, one above) give a tetrahedron.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NH3 মডেলে নিঃসঙ্গ ইলেকট্রন জোড় কীভাবে দেখানো হয়?",
+     "question_en": "How is the lone pair shown in the NH3 model?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ম্যাচ কাঠির বারুদযুক্ত দুটি অংশ বিপরীত দিকে বসিয়ে",
+       "en": "Two matchstick heads placed opposite"
+      },
+      {
+       "id": "b",
+       "bn": "একটি অতিরিক্ত আলু দিয়ে",
+       "en": "With an extra potato"
+      },
+      {
+       "id": "c",
+       "bn": "কলম ভেঙে",
+       "en": "By breaking a refill"
+      },
+      {
+       "id": "d",
+       "bn": "দেখানো যায় না",
+       "en": "Cannot be shown"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বই অনুযায়ী ম্যাচ কাঠির বারুদ অংশ নিঃসঙ্গ জোড় নির্দেশ করে।",
+     "explanation_en": "Per the book the matchstick heads show the lone pair.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "H2O মডেলের জন্য কী লাগে?",
+     "question_en": "What is needed for the H2O model?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একটি বড় আলু, দুটি ছোট আলু, দুটি কলম, চারটি ম্যাচ কাঠি",
+       "en": "One big and two small potatoes, two refills, four matchsticks"
+      },
+      {
+       "id": "b",
+       "bn": "একটি বড় আলু, চারটি ছোট আলু",
+       "en": "One big, four small potatoes"
+      },
+      {
+       "id": "c",
+       "bn": "তিনটি বড় আলু",
+       "en": "Three big potatoes"
+      },
+      {
+       "id": "d",
+       "bn": "দুটি বড় আলু ও তিনটি কলম",
+       "en": "Two big potatoes, three refills"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "O = বড় আলু, H = দুটি ছোট আলু, দুটি নিঃসঙ্গ জোড় দেখাতে চারটি ম্যাচ কাঠি।",
+     "explanation_en": "O = big potato, two H = small potatoes; four matchsticks show two lone pairs.",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "3.12",
+   "stimulus_bn": "শিক্ষার্থী রাফি তিনটি যৌগ নিয়ে কাজ করছে: A = BCl3, B = NH3, C = SF6। সে কেন্দ্রীয় পরমাণুর সংকরায়ন ও আকৃতি নির্ণয় করতে চায়।",
+   "stimulus_en": "Rafi studies three compounds: A = BCl3, B = NH3, C = SF6, and wants the hybridization and shape of each central atom.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "সংকরায়ন কী?",
+     "question_en": "What is hybridization?",
+     "model_answer_bn": "প্রায় সমশক্তির পরমাণবিক অরবিটাল মিশে সমান আকৃতি ও শক্তির নতুন অরবিটাল তৈরির প্রক্রিয়াকে সংকরায়ন বলে।",
+     "model_answer_en": "Mixing of atomic orbitals of nearly equal energy to form new equivalent hybrid orbitals."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "SF6-এ কোন কোন অরবিটাল সংকরায়নে অংশ নেয় ব্যাখ্যা কর।",
+     "question_en": "Which orbitals take part in hybridization in SF6?",
+     "model_answer_bn": "S-এর একটি 3s, তিনটি 3p ও দুটি 3d (dz² ও dx²–y²) অরবিটাল মিলে ছয়টি sp³d² অরবিটাল গঠন করে।",
+     "model_answer_en": "One 3s, three 3p and two 3d (dz², dx²–y²) orbitals mix to give six sp³d² orbitals."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "B যৌগে N-এর সংকর অবস্থা সূত্র দিয়ে নির্ণয় কর।",
+     "question_en": "Find the hybrid state of N in B using the formula.",
+     "model_answer_bn": "X = SA + ½(E–V) = 3 + ½(5–3) = 4; তাই sp³।",
+     "model_answer_en": "X = 3 + ½(5–3) = 4, so sp³."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "A ও B-এর আকৃতি ও বন্ধন কোণ তুলনা করে পার্থক্যের কারণ বিশ্লেষণ কর।",
+     "question_en": "Compare shape and bond angle of A and B and explain the difference.",
+     "model_answer_bn": "BCl3 sp², নিঃসঙ্গ জোড় নেই, ত্রিকোণাকার সমতলীয়, 120°। NH3 sp³, একটি নিঃসঙ্গ জোড় আছে; (L.P–B.P) বিকর্ষণ (B.P–B.P)-এর চেয়ে বেশি হওয়ায় কোণ 109.5° থেকে কমে 107° এবং আকৃতি ত্রিকোণীয় পিরামিডীয়।",
+     "model_answer_en": "BCl3 is sp², no lone pair, trigonal planar, 120°. NH3 is sp³ with one lone pair; LP–BP repulsion exceeds BP–BP, lowering the angle to 107°, trigonal pyramidal."
+    }
+   ]
+  },
+  {
+   "topic_section": "3.15",
+   "stimulus_bn": "একটি শ্রেণিতে বন্ধন কোণ তুলনা করা হলো: NH3 = 107°, NF3 = 102.5°, H2O = 104.5°, H2S = 92.12°।",
+   "stimulus_en": "Bond angles are compared: NH3 = 107°, NF3 = 102.5°, H2O = 104.5°, H2S = 92.12°.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "VSEPR তত্ত্ব কে কখন প্রস্তাব করেন?",
+     "question_en": "Who proposed VSEPR theory and when?",
+     "model_answer_bn": "1957 সালে Sidgwick ও Powell।",
+     "model_answer_en": "Sidgwick and Powell, 1957."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "বিকর্ষণ বলের ক্রম লেখ।",
+     "question_en": "Write the order of repulsive forces.",
+     "model_answer_bn": "(L.P–L.P) > (L.P–B.P) > (B.P–B.P)।",
+     "model_answer_en": "LP–LP > LP–BP > BP–BP."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "H2O-এর কোণ NH3-এর চেয়ে কম কেন?",
+     "question_en": "Why is the H2O angle smaller than NH3?",
+     "model_answer_bn": "H2O-তে O-এ দুটি নিঃসঙ্গ জোড় থাকায় L.P–L.P ও L.P–B.P বিকর্ষণ বেশি; NH3-তে একটি নিঃসঙ্গ জোড়। ফলে H2O-এর কোণ 104.5° ও NH3-এর 107°।",
+     "model_answer_en": "H2O has two lone pairs on O giving stronger LP–LP and LP–BP repulsion; NH3 has one, so angles are 104.5° and 107°."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "NF3-এর কোণ NH3-এর চেয়ে কম হওয়ার কারণ এবং H2S-এর কোণ H2O-এর চেয়ে বহুগুণ কম হওয়ার কারণ বিশ্লেষণ কর।",
+     "question_en": "Explain why NF3 has a smaller angle than NH3 and why H2S has a much smaller angle than H2O.",
+     "model_answer_bn": "NF3-এ F বেশি তড়িৎ ঋণাত্মক হওয়ায় বন্ধন জোড় N থেকে দূরে সরে যায়, BP–BP বিকর্ষণ কমে, তাই কোণ 102.5°। কেন্দ্রীয় পরমাণু S-এর ক্ষেত্রে বইয়ের ব্যাখ্যায় L.P–B.P বিকর্ষণের প্রভাব বেশি হওয়ায় বন্ধন কোণ অস্বাভাবিকভাবে কমে 92.12° হয়।",
+     "model_answer_en": "In NF3 electronegative F draws bond pairs away from N, reducing BP–BP repulsion, so 102.5°. In H2S the lone-pair effect on bond pairs is larger (as explained in the book), so the angle falls to 92.12°."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 338-365 readable. Section 3.17 (printed p.367) beyond range, not covered. Some inline figures/superscripts at 100 dpi were small but legible; O2/N2 bond-energy order remark in 3.8 thinking question not used because its symbols were ambiguous."
+}

@@ -1,0 +1,1808 @@
+{
+ "chapter_no": 1,
+ "topics": [
+  {
+   "section_no": "1.7",
+   "title_bn": "বুনসেন বার্নার দ্বারা বিভিন্ন যন্ত্রপাতিতে তাপ দেওয়ার কৌশল",
+   "title_en": "Heating apparatus with a Bunsen burner",
+   "notes_bn": "বুনসেন বার্নার ১৮৫৫ সালে জার্মান বিজ্ঞানী রবার্ট বুনসেন উদ্ভাবন করেন; এর তিনটি অংশ: ভূমি, ধাতব দীপনল ও বায়ু নিয়ন্ত্রক রিং।\nবায়ু ছিদ্র বন্ধ থাকলে উজ্জ্বল (হলুদ, কার্বন কণাযুক্ত) শিখা হয়; এর চারটি মণ্ডল: অদহন, অসম্পূর্ণ দহন, ক্ষুদ্র সম্পূর্ণ দহন ও সম্পূর্ণ দহন মণ্ডল।\nবায়ু ছিদ্র খোলা থাকলে নীলাভ অনুজ্জ্বল (জারণ) শিখা হয়; তিনটি মণ্ডল: অন্ধকার, নীলাভ আংশিক দহন (বিজারণ) ও সম্পূর্ণ দহন মণ্ডল। তাপ দেওয়ার কাজে অনুজ্জ্বল শিখাই বেছে নেওয়া হয়, কারণ এতে কার্বন কণা থাকে না।\nবায়ু ছিদ্র হঠাৎ সম্পূর্ণ খোলা উচিত নয়, এতে শব্দ ও শিখার পশ্চাৎ প্রজ্বলনের আশঙ্কা থাকে।\nটেস্টটিউবে তাপ: হোল্ডারে ধরে, কাত করে, জারণ শিখায় অল্প অল্প করে ও বিরামহীন না রেখে উত্তপ্ত করতে হয়। বিকারে তাপ: ত্রিপদ স্ট্যান্ড ও তারজালির উপর। গোলতলি ফ্লাস্কে ক্ল্যাম্প ও ত্রিপদী ব্যবহার হয়; কনিক্যাল ফ্লাস্ক টাইট্রেশনে ব্যবহৃত, কম তাপে ওয়াটার বাথে গরম করা যায়।\nপোর্সেলিন বাটি ১৫০০ °C পর্যন্ত তাপ সহ্য করে, কিন্তু HF ও সোডিয়াম কার্বনেটের তাপীয় বিয়োজনে ব্যবহার করা যায় না। দাহ্য পদার্থ খোলা শিখায় নয়, ওয়াটার বাথে গরম করতে হয়।",
+   "notes_en": "Bunsen burner invented in 1855 by German scientist Robert Bunsen; parts: base, metal burner tube, air regulator ring.\nAir hole closed: luminous yellow sooty flame (4 zones: non-combustion, incomplete combustion, small complete combustion, complete combustion). Air hole open: non-luminous blue flame (3 zones: dark zone, blue zone of partial combustion = reduction zone, complete combustion zone); used for heating as it has no carbon particles.\nNever open the air hole suddenly (noise, back-firing).\nTest tube: use holder, slant, heat the upper part, keep moving. Beaker: tripod + wire gauze. Round-bottom flask: clamp + tripod. Conical flask: used for titration; gentle heating via water bath.\nPorcelain bowl withstands up to 1500 C but not HF or thermal decomposition of Na2CO3. Flammable substances are heated in a water bath, not over an open flame.",
+   "mcqs": [
+    {
+     "question_bn": "বুনসেন বার্নারের বায়ু ছিদ্র সম্পূর্ণ বন্ধ থাকলে কী ধরনের শিখা সৃষ্টি হয়?",
+     "question_en": "What flame forms when the air hole of a Bunsen burner is fully closed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অনুজ্জ্বল নীলাভ শিখা",
+       "en": "Non-luminous blue flame"
+      },
+      {
+       "id": "b",
+       "bn": "উজ্জ্বল হলুদ শিখা",
+       "en": "Luminous yellow flame"
+      },
+      {
+       "id": "c",
+       "bn": "বর্ণহীন শিখা",
+       "en": "Colourless flame"
+      },
+      {
+       "id": "d",
+       "bn": "সবুজ শিখা",
+       "en": "Green flame"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বায়ু ছিদ্র বন্ধ থাকলে গ্যাসের অসম্পূর্ণ দহনে কার্বন কণা তৈরি হয় এবং উজ্জ্বল হলুদ শিখা পাওয়া যায়।",
+     "explanation_en": "With the air hole closed, incomplete combustion yields carbon particles and a luminous yellow flame.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বুনসেন বার্নারের তিনটি অংশ কোনগুলো?",
+     "question_en": "Which are the three parts of a Bunsen burner?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ভূমি, দীপনল, বায়ু নিয়ন্ত্রক",
+       "en": "Base, burner tube, air regulator"
+      },
+      {
+       "id": "b",
+       "bn": "ভূমি, তারজালি, ত্রিপদ",
+       "en": "Base, wire gauze, tripod"
+      },
+      {
+       "id": "c",
+       "bn": "দীপনল, সলতে, ঢাকনা",
+       "en": "Burner tube, wick, cap"
+      },
+      {
+       "id": "d",
+       "bn": "ভূমি, সলতে, বায়ু নিয়ন্ত্রক",
+       "en": "Base, wick, air regulator"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ভূমি বা ধাতব পাদমূল, ধাতব দীপনল ও বায়ু নিয়ন্ত্রক—এই তিনটি অংশের কথা বলা হয়েছে।",
+     "explanation_en": "The book lists the metallic base, metallic burner tube and air regulator.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তাপ দেওয়ার কাজে সাধারণত কোন শিখা বেছে নেওয়া হয়, এবং কেন?",
+     "question_en": "Which flame is usually chosen for heating, and why?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উজ্জ্বল শিখা, কারণ এটি বেশি আলো দেয়",
+       "en": "Luminous flame, because it gives more light"
+      },
+      {
+       "id": "b",
+       "bn": "উজ্জ্বল শিখা, কারণ এতে কার্বন কণা থাকে",
+       "en": "Luminous flame, because it contains carbon particles"
+      },
+      {
+       "id": "c",
+       "bn": "অনুজ্জ্বল শিখা, কারণ এতে সম্পূর্ণ দহন হয় ও কার্বন কণা থাকে না",
+       "en": "Non-luminous flame, because combustion is complete and no carbon particles remain"
+      },
+      {
+       "id": "d",
+       "bn": "অনুজ্জ্বল শিখা, কারণ এর তাপমাত্রা কম",
+       "en": "Non-luminous flame, because its temperature is lower"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "অনুজ্জ্বল শিখায় গ্যাসের পূর্ণ দহন হওয়ায় কার্বন কণা সৃষ্টি হয় না, তাই পাত্রে কালি জমে না।",
+     "explanation_en": "In the non-luminous flame combustion is complete so there is no soot deposited on the vessel.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টেস্টটিউবে তরল উত্তপ্ত করার সময় নিচের কোনটি সঠিক?",
+     "question_en": "Which is correct when heating a liquid in a test tube?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টেস্টটিউবের মুখ নিজের বা সহপাঠীর দিকে রাখা",
+       "en": "Point the mouth towards yourself or a classmate"
+      },
+      {
+       "id": "b",
+       "bn": "টেস্টটিউব হোল্ডারে ধরে কাত করে উপরের অংশ আস্তে নেড়ে গরম করা",
+       "en": "Hold it in a holder, slanted, and warm the upper part while moving it"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু তলদেশে অবিরাম তাপ দেওয়া",
+       "en": "Heat the bottom continuously"
+      },
+      {
+       "id": "d",
+       "bn": "উত্তপ্ত টেস্টটিউব সরাসরি ঠান্ডা পানিতে ডোবানো",
+       "en": "Dip the hot tube straight into cold water"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হোল্ডার ব্যবহার করে কাত করে এবং ধীরে ধীরে নেড়ে তাপ দিলে দুর্ঘটনা (ফেটে যাওয়া বা ছিটকে পড়া) এড়ানো যায়।",
+     "explanation_en": "A holder, slanted tube and gentle movement avoid bumping or cracking.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উজ্জ্বল শিখার কোন মণ্ডলে ঘন নীল-কালো অংশ দেখা যায় যেখানে গ্যাস বায়ুর সংস্পর্শে আসে না?",
+     "question_en": "In the luminous flame, which zone is the dark blue-black region near the burner mouth where gas does not meet air?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অদহন মণ্ডল",
+       "en": "Non-combustion zone"
+      },
+      {
+       "id": "b",
+       "bn": "অসম্পূর্ণ দহন মণ্ডল",
+       "en": "Incomplete combustion zone"
+      },
+      {
+       "id": "c",
+       "bn": "ক্ষুদ্র সম্পূর্ণ দহন মণ্ডল",
+       "en": "Small complete combustion zone"
+      },
+      {
+       "id": "d",
+       "bn": "সম্পূর্ণ দহন মণ্ডল",
+       "en": "Complete combustion zone"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দীপনলের মুখে ভিতরের ঘন নীল-কালো অংশটি অদহন মণ্ডল; এখানে গ্যাস বায়ুর অক্সিজেনের সংস্পর্শে না আসায় দহন ঘটে না।",
+     "explanation_en": "The dense blue-black part just inside the burner mouth is the non-combustion zone; gas cannot burn there without oxygen.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অনুজ্জ্বল শিখার কোন মণ্ডলকে কার্বন বিজারণ অঞ্চল বলা হয়?",
+     "question_en": "Which zone of the non-luminous flame is called the carbon (reduction) zone?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অন্ধকার মণ্ডল",
+       "en": "Dark zone"
+      },
+      {
+       "id": "b",
+       "bn": "নীলাভ আংশিক দহন মণ্ডল",
+       "en": "Blue zone of partial combustion"
+      },
+      {
+       "id": "c",
+       "bn": "সম্পূর্ণ দহন মণ্ডল",
+       "en": "Complete combustion zone"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলো",
+       "en": "All of them"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অন্ধকার মণ্ডলের উপরের নীলাভ আংশিক দহন মণ্ডলে হাইড্রোকার্বন ভেঙে সূক্ষ্ম কার্বন কণা তৈরি হয় বলে এখানে বিজারণ ঘটে।",
+     "explanation_en": "In the blue partial-combustion zone hydrocarbons dissociate into fine carbon, giving reducing action.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি পোর্সেলিন বাটি দিয়ে নিচের কোন কাজটি করা যাবে না?",
+     "question_en": "Which task must NOT be done in a porcelain bowl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কঠিন নমুনার উত্তাপ",
+       "en": "Heating a solid sample"
+      },
+      {
+       "id": "b",
+       "bn": "সোডিয়াম কার্বনেটের তাপীয় বিয়োজন",
+       "en": "Thermal decomposition of sodium carbonate"
+      },
+      {
+       "id": "c",
+       "bn": "দ্রবণ বাষ্পীভবন",
+       "en": "Evaporating a solution"
+      },
+      {
+       "id": "d",
+       "bn": "১০০০ °C তাপ দেওয়া",
+       "en": "Heating to 1000 C"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী HF-এ পাতনের এবং সোডিয়াম কার্বনেটের তাপীয় বিয়োজনে পোর্সেলিন বাটি ব্যবহার করা যায় না; এটি ১৫০০ °C পর্যন্ত তাপ সহ্য করে।",
+     "explanation_en": "Per the book, porcelain bowls cannot be used for HF distillation or thermal decomposition of Na2CO3; they tolerate up to 1500 C.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.8",
+   "title_bn": "রিয়েজেন্ট বোতলের ব্যবহার কৌশল",
+   "title_en": "Technique of using reagent bottles",
+   "notes_bn": "লেবেলবিহীন রিয়েজেন্ট বোতল কখনো ব্যবহার করা যাবে না; ব্যবহারের আগে লেবেলের নাম দেখে নিতে হবে।\nছিপি খুলে টেবিলে রাখা যাবে না; ছিপি বাম হাতের আঙুলে ধরে রাখতে হয়। ড্রপার যুক্ত ছিপির ক্ষেত্রে ড্রপার তুলে ব্যবহার করে একই বোতলে ফিরিয়ে দিতে হয়।\nএক বোতলের ড্রপার বা ছিপি অন্য বোতলে কখনো লাগানো যাবে না, নইলে রিয়েজেন্ট নষ্ট হয়।\nপ্রয়োজনের অতিরিক্ত রিয়েজেন্ট নেওয়া যাবে না; ব্যবহৃত রিয়েজেন্ট মূল বোতলে ফেরত দেওয়া যাবে না। বোতল ব্যবহারের পর আগের জায়গা ও ক্রমেই রাখতে হবে।\nরিয়েজেন্ট দ্রবণ ১৯৮২ সালে IUPAC নির্দেশনা অনুসারে 0.1 M ঘনমাত্রার করা হয়। প্রতি 100 mL 0.1 M দ্রবণে: Na2CO3 1.06 g, NaOH 0.4 g, HCl 0.365 g, HNO3 0.63 g, H2SO4 0.98 g, K2Cr2O7 2.94 g, KMnO4 0.316 g, AgNO3 1.70 g।\nমিথাইল অরেঞ্জ (স্কেত C14H14N3SO3Na) ক্ষারীয় মাধ্যমে হলুদ, অম্লীয় মাধ্যমে গোলাপি-লাল; ফেনলফথ্যালিন pH 8.2-এর উপরে গোলাপি, অম্লীয় মাধ্যমে বর্ণহীন। প্রস্তুতি: 150 mL উষ্ণ পানিতে 0.1 g মিথাইল অরেঞ্জ; 50 mL মিথিলেটেড স্পিরিটে 0.5 g ফেনলফথ্যালিন নিয়ে পানি দিয়ে 250 mL করা।",
+   "notes_en": "Never use an unlabelled reagent bottle; read the label first.\nDo not put the stopper on the table; hold it with the fingers. Dropper-stoppers are lifted out, used, and returned to the same bottle.\nNever swap droppers/stoppers between bottles. Take only the amount needed; never return excess to the stock bottle. Return bottles to their original order and place.\nReagent solutions are 0.1 M (IUPAC 1982). Per 100 mL of 0.1 M: Na2CO3 1.06 g, NaOH 0.4 g, HCl 0.365 g, HNO3 0.63 g, H2SO4 0.98 g, K2Cr2O7 2.94 g, KMnO4 0.316 g, AgNO3 1.70 g.\nMethyl orange: yellow in base, pink-red in acid. Phenolphthalein: pink above pH 8.2, colourless in acid. Prep: 0.1 g methyl orange in 150 mL hot water; 0.5 g phenolphthalein in 50 mL methylated spirit, made up to 250 mL.",
+   "mcqs": [
+    {
+     "question_bn": "লেবেলবিহীন রিয়েজেন্ট বোতল পেলে কী করা উচিত?",
+     "question_en": "What should you do with an unlabelled reagent bottle?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গন্ধ শুঁকে চিনে নেওয়া",
+       "en": "Identify by smelling it"
+      },
+      {
+       "id": "b",
+       "bn": "অল্প স্বাদ নিয়ে পরীক্ষা করা",
+       "en": "Taste a little"
+      },
+      {
+       "id": "c",
+       "bn": "ব্যবহার না করে ল্যাবরেটরি থেকে সরিয়ে নেওয়া",
+       "en": "Do not use it; remove it from the lab"
+      },
+      {
+       "id": "d",
+       "bn": "আনুমানিক নাম লিখে ব্যবহার করা",
+       "en": "Write a guessed name and use it"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে লেবেলবিহীন বোতল কোনো অবস্থাতেই ব্যবহার করা যাবে না এবং ল্যাবরেটরি থেকে সরিয়ে নিতে হবে।",
+     "explanation_en": "The book says unlabelled bottles must never be used and should be removed from the lab.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রিয়েজেন্ট বোতলের ছিপি খোলার পর কোথায় রাখতে হয়?",
+     "question_en": "Where should the stopper of a reagent bottle be kept once opened?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "টেবিলের উপর উপুড় করে",
+       "en": "Upside down on the table"
+      },
+      {
+       "id": "b",
+       "bn": "হাতের আঙুলে ধরে রেখে",
+       "en": "Held between fingers"
+      },
+      {
+       "id": "c",
+       "bn": "পাশের বোতলের মুখে",
+       "en": "On the neighbouring bottle"
+      },
+      {
+       "id": "d",
+       "bn": "সিংকের ধারে",
+       "en": "At the sink edge"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ছিপি টেবিলে রাখলে দূষিত হয় ও টেবিল ক্ষয় হতে পারে; তাই হাতে ধরে রাখা হয়।",
+     "explanation_en": "Placing it on the table contaminates it; the book says to hold it in hand.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "100 mL 0.1 M NaOH দ্রবণ তৈরিতে কত গ্রাম NaOH লাগে (বইয়ের তালিকা অনুযায়ী)?",
+     "question_en": "How many grams of NaOH are needed for 100 mL of 0.1 M NaOH (as tabulated)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.4 g",
+       "en": "0.4 g"
+      },
+      {
+       "id": "b",
+       "bn": "4.0 g",
+       "en": "4.0 g"
+      },
+      {
+       "id": "c",
+       "bn": "0.04 g",
+       "en": "0.04 g"
+      },
+      {
+       "id": "d",
+       "bn": "1.06 g",
+       "en": "1.06 g"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaOH-এর মোলার ভর 40; 0.1 mol/L × 0.1 L × 40 = 0.4 g, যা বইয়ের তালিকার সাথে মেলে।",
+     "explanation_en": "Molar mass 40; 0.1 mol/L x 0.1 L x 40 = 0.4 g, matching the table.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "মিথাইল অরেঞ্জ সূচকটি ক্ষারীয় মাধ্যমে কোন বর্ণ ধারণ করে?",
+     "question_en": "What colour does methyl orange show in an alkaline medium?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গোলাপি",
+       "en": "Pink"
+      },
+      {
+       "id": "b",
+       "bn": "বর্ণহীন",
+       "en": "Colourless"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ",
+       "en": "Yellow"
+      },
+      {
+       "id": "d",
+       "bn": "নীল",
+       "en": "Blue"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বই অনুযায়ী মিথাইল অরেঞ্জ ক্ষারীয় মাধ্যমে হলুদ এবং অম্লীয় মাধ্যমে গোলাপি (লাল গোলাপী) বর্ণ ধারণ করে।",
+     "explanation_en": "Per the book it is yellow in base and pink-red in acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "0.1 M AgNO3 দ্রবণের 100 mL প্রস্তুতিতে কত গ্রাম AgNO3 লাগে (বইয়ের তালিকা অনুযায়ী)?",
+     "question_en": "How many grams of AgNO3 are needed for 100 mL of 0.1 M AgNO3 (as in the book table)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.17 g",
+       "en": "0.17 g"
+      },
+      {
+       "id": "b",
+       "bn": "1.70 g",
+       "en": "1.70 g"
+      },
+      {
+       "id": "c",
+       "bn": "17.0 g",
+       "en": "17.0 g"
+      },
+      {
+       "id": "d",
+       "bn": "0.85 g",
+       "en": "0.85 g"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "AgNO3-এর মোলার ভর প্রায় 170; 0.1 × 0.1 × 170 = 1.70 g।",
+     "explanation_en": "Molar mass about 170; 0.1 x 0.1 x 170 = 1.70 g.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ফেনলফথ্যালিন সূচক প্রস্তুতিতে কোন দ্রাবক ব্যবহার হয়?",
+     "question_en": "Which solvent is used in preparing phenolphthalein indicator?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথিলেটেড স্পিরিট",
+       "en": "Methylated spirit"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় H2SO4",
+       "en": "Conc. H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু পাতিত পানি",
+       "en": "Only distilled water"
+      },
+      {
+       "id": "d",
+       "bn": "ইথার",
+       "en": "Ether"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 50 mL মিথিলেটেড স্পিরিটে 0.5 g ফেনলফথ্যালিন দ্রবীভূত করে পানি যোগে 250 mL করার কথা আছে।",
+     "explanation_en": "The book dissolves 0.5 g in 50 mL methylated spirit and dilutes to 250 mL with water.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "1.9",
+   "title_bn": "রাসায়নিক দ্রব্য সংরক্ষণ ও ব্যবহার সতর্কতা",
+   "title_en": "Caution in storing and using chemical reagents",
+   "notes_bn": "রাসায়নিক ব্যবহারের তিনটি বিষয়: বিন্যাস (Ordering), সংরক্ষণ (Storing) ও ব্যবহার (Using)। শ্রেণি শিক্ষক Materials Safety Data Sheet (MSDS) প্রস্তুত করেন।\nবিন্যাসে ইংরেজি বর্ণানুক্রম নয়, রাসায়নিকের ধর্ম অনুযায়ী সাজাতে হয়; দাহ্য আলাদা, অ্যাসিড আলাদা (HNO3 অন্য অ্যাসিড থেকে আলাদা), বিস্ফোরক পদার্থ ফ্রিজে আলাদা রাখতে হয়।\nলেবেলে থাকবে: নাম ও সংকেত, কবে গ্রহণ ও প্রথম খোলা হয়েছে, খোলার পর আয়ুষ্কাল, বিপদ সতর্কতা, দ্রবণের ক্ষেত্রে ঘনমাত্রা ও প্রস্তুতের তারিখ।\nঝুঁকির মাত্রা বোঝাতে আন্তর্জাতিকভাবে স্বীকৃত হ্যাজার্ড সিম্বল ব্যবহার হয়। প্রধান সিম্বল: বিস্ফোরক, দাহ্য তরল (ফ্ল্যাশ পয়েন্ট 60 °C-এর নিচে), জারক (Cl2, H2O2, HNO3), সংকুচিত গ্যাস, বিষাক্ত, তেজস্ক্রিয় রশ্মি, ক্ষয়কারক (pH < 2.5 বা > 12.5), উত্তেজক (Xi), ক্ষতিকারক, স্বাস্থ্যঝুঁকি, পরিবেশ দূষক, জৈব দূষক, ক্যান্সার সৃষ্টিকারক, বৈদ্যুতিক ঝুঁকি।\nNa, NaH, LiAlH4 পানিতে ফেলা যাবে না, কারণ পানির সংস্পর্শে বিস্ফোরণ ও আগুন ধরে। NaOH, KOH, তরল অ্যামোনিয়া কখনো ত্বকে লাগানো যাবে না।\nবিষাক্ত রাসায়নিকের বদলে নিরাপদ বিকল্প: CHCl3/CCl4 → হেক্সেন, বেনজিন → টলুইন, K → Ca।",
+   "notes_en": "Three aspects: Ordering, Storing, Using. The class teacher prepares the MSDS.\nArrange chemicals by their chemical nature, not alphabetically; keep flammables and acids separate (HNO3 apart from other acids); explosive-prone items stored separately in a refrigerator.\nLabel: name and formula, date received and date first opened, shelf life after opening, hazards, and for solutions the concentration and preparation date.\nInternationally recognised hazard symbols: explosive, flammable liquid (flash point below 60 C), oxidising, compressed gas, toxic, radioactive, corrosive (pH <2.5 or >12.5), irritant (Xi), harmful, health hazard, environmental pollutant, biohazard, carcinogenic, electrical.\nNa, NaH, LiAlH4 must not be thrown into water (explosion/fire). Never touch NaOH, KOH or liquid NH3 with skin.\nSafer substitutes: CHCl3/CCl4 -> hexane, benzene -> toluene, K -> Ca.",
+   "mcqs": [
+    {
+     "question_bn": "রাসায়নিক দ্রব্যের বিপদ সম্পর্কিত তথ্যপত্রের নাম কী?",
+     "question_en": "What is the data sheet that records a chemical's hazards called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "MSDS",
+       "en": "MSDS"
+      },
+      {
+       "id": "b",
+       "bn": "GHS",
+       "en": "GHS"
+      },
+      {
+       "id": "c",
+       "bn": "IUPAC",
+       "en": "IUPAC"
+      },
+      {
+       "id": "d",
+       "bn": "pH চার্ট",
+       "en": "pH chart"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Materials Safety Data Sheet (MSDS)-এ উপাদানের নাম, বিপদ ও নিরাপত্তা তথ্য লেখা থাকে।",
+     "explanation_en": "The Materials Safety Data Sheet (MSDS) lists name, hazards and safety information.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রাসায়নিক সাজানোর ক্ষেত্রে বইয়ের নির্দেশনা কোনটি?",
+     "question_en": "What does the book recommend for arranging chemicals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইংরেজি বর্ণানুক্রমে",
+       "en": "Alphabetically"
+      },
+      {
+       "id": "b",
+       "bn": "ধর্ম অনুযায়ী আলাদা করে",
+       "en": "According to chemical nature"
+      },
+      {
+       "id": "c",
+       "bn": "আকার অনুযায়ী",
+       "en": "By bottle size"
+      },
+      {
+       "id": "d",
+       "bn": "রঙ অনুযায়ী",
+       "en": "By colour"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই বলে ইংরেজি বর্ণমালা অনুসরণ না করে রাসায়নিকের ধর্মকে গুরুত্ব দিয়ে সাজাতে হবে।",
+     "explanation_en": "The book says not to follow alphabetical order but to arrange by chemical properties.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন সিম্বলটি দ্বারা pH মান 2.5-এর কম বা 12.5-এর বেশি এমন দ্রবণ বোঝানো হয়?",
+     "question_en": "Which symbol denotes solutions with pH below 2.5 or above 12.5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উত্তেজক (Xi)",
+       "en": "Irritant (Xi)"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষয়কারক",
+       "en": "Corrosive"
+      },
+      {
+       "id": "c",
+       "bn": "জারক",
+       "en": "Oxidising"
+      },
+      {
+       "id": "d",
+       "bn": "ক্ষতিকারক (X)",
+       "en": "Harmful (X)"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ক্ষয়কারক সিম্বলের ক্ষেত্রে বলা হয়েছে pH 2.5-এর কম বা 12.5-এর বেশি দ্রবণ ক্ষয়কারক।",
+     "explanation_en": "The book defines corrosive substances by pH < 2.5 or > 12.5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দাহ্য তরলের ক্ষেত্রে বইয়ে উল্লিখিত গলনাঙ্ক/ফ্ল্যাশ সীমা কত?",
+     "question_en": "What temperature limit does the book give for flammable liquids?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "60 °C-এর নিচে",
+       "en": "Below 60 C"
+      },
+      {
+       "id": "b",
+       "bn": "100 °C-এর উপরে",
+       "en": "Above 100 C"
+      },
+      {
+       "id": "c",
+       "bn": "0 °C-এর নিচে",
+       "en": "Below 0 C"
+      },
+      {
+       "id": "d",
+       "bn": "200 °C-এর উপরে",
+       "en": "Above 200 C"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে দাহ্য পদার্থের গলনাঙ্ক (ফ্ল্যাশ) 60 °C-এর নিচে বলা হয়েছে।",
+     "explanation_en": "The book says flammable substances ignite below 60 C.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোনটি পানির সংস্পর্শে বিস্ফোরণসহ আগুন ধরাতে পারে?",
+     "question_en": "Which of the following can catch fire explosively on contact with water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "b",
+       "bn": "NaH",
+       "en": "NaH"
+      },
+      {
+       "id": "c",
+       "bn": "CaCO3",
+       "en": "CaCO3"
+      },
+      {
+       "id": "d",
+       "bn": "KNO3",
+       "en": "KNO3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Na, NaH ও LiAlH4 পানিতে ফেললে বিস্ফোরণের মাধ্যমে আগুন ধরে—বইয়ে স্পষ্ট নিষেধ করা আছে।",
+     "explanation_en": "The book warns that Na, NaH and LiAlH4 ignite explosively in water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নিচের কোন জোড়াটি বিষাক্ত উপাদান ও তার বিকল্প হিসেবে বইয়ে উল্লিখিত?",
+     "question_en": "Which pair is given in the book as a toxic substance and its alternative?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেনজিন → টলুইন",
+       "en": "Benzene -> toluene"
+      },
+      {
+       "id": "b",
+       "bn": "টলুইন → বেনজিন",
+       "en": "Toluene -> benzene"
+      },
+      {
+       "id": "c",
+       "bn": "হেক্সেন → CCl4",
+       "en": "Hexane -> CCl4"
+      },
+      {
+       "id": "d",
+       "bn": "Ca → K",
+       "en": "Ca -> K"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "তালিকায় বেনজিনের বিকল্প হিসেবে টলুইন (C6H5-CH3) দেওয়া আছে; হেক্সেন CHCl3 ও CCl4-এর বিকল্প।",
+     "explanation_en": "The table gives toluene as the alternative to benzene; hexane replaces CHCl3 and CCl4.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.10",
+   "title_bn": "ব্যবহৃত রাসায়নিক দ্রব্যের নিরাপদ সংরক্ষণ, ব্যবহার ও পরিত্যাগ",
+   "title_en": "Safe storage, use and disposal of used chemicals",
+   "notes_bn": "উদ্বায়ী, তরল ও কঠিন রাসায়নিকের গন্ধ নেওয়া যাবে না; প্রতিটি পাত্রে নাম, সংরক্ষণের তারিখ ও প্রকৃতি লেবেল করতে হবে।\nরাসায়নিক আলমারি বা সেলফে রাখতে হয়, মেঝেতে বা মাটিতে নয়। 1 L-এর বেশি দাহ্য তরল নির্দিষ্ট ক্যাবিনেটে রাখতে হয়; দাহ্য ও জারক পদার্থ আলাদা রাখতে হয়। MSDS অনুসরণ করা বাধ্যতামূলক।\n১৯৯২ সালে জাতিসংঘের \"পরিবেশ ও উন্নয়ন\" সম্মেলনের মূল সুর ছিল \"One Chemical One Label World Wide\", যার ভিত্তিতে Globally Harmonised System (GHS) প্রচলিত।\nনাইট্রিক এসিড Al পাত্রেও রাখা যায় (গাঢ় HNO3 Al-এর উপর নিষ্ক্রিয় Al2O3 স্তর তৈরি করে)।\nব্যবহারে: খালি হাতে স্পর্শ বা স্বাদ নয়; পিপেটে মুখে টেনে নয়, পিপেট ফিলার; গাঢ় এসিড লঘু করতে ঠান্ডা পানিতে ফোঁটায় ফোঁটায় এসিড যোগ ও নাড়াতে হবে (এসিডে পানি নয়); গাঢ় অ্যামোনিয়া ফিউম হুডে লঘু করতে হবে; ব্যবহৃত রিয়েজেন্ট মূল বোতলে ফেরত নয়।\nপরিত্যাগের পাঁচ পথ: রি-সাইকেলিং, পুড়িয়ে ফেলা, নির্দিষ্ট স্থানে সংরক্ষণ, রাসায়নিকভাবে প্রশমন, সাধারণভাবে ড্রেনে ফেলা। এসিড বর্জ্য প্রশমনে Na2CO3 দ্রবণ ব্যবহার হয়; pH 5.5–9.0 হলে অতিরিক্ত পানিসহ ড্রেনে ফেলা যায়।\nNa ধাতু ইথানল/মিথানলে এবং LiAlH4 Na2SO4 বা MgSO4 দ্রবণে নষ্ট করা হয়; হ্যালোজেনযুক্ত হাইড্রোকার্বন, নাইট্রো, অ্যাজাইড, পারঅক্সাইড, কার্সিনোজেন ড্রেনে ফেলা যাবে না।",
+   "notes_en": "Never smell volatile, liquid or solid chemicals directly; label every container with name, storage date and nature.\nStore in cabinets/shelves, not on the floor; more than 1 L of flammables goes in a flammables cabinet; keep flammables and oxidisers apart. Follow the MSDS.\nGHS arose from the 1992 UN conference on Environment and Development: \"One Chemical One Label World Wide\".\nConcentrated HNO3 can be kept in aluminium (a protective Al2O3 film forms).\nSafe use: no bare-hand contact or tasting; use a pipette filler; add acid dropwise to cold water when diluting (stirring); dilute conc. NH3 in a fume hood; never return unused reagent to the stock bottle.\nFive disposal routes: recycling, burning, designated storage, chemical neutralisation, drain disposal. Acid waste is neutralised with Na2CO3; pH 5.5-9.0 may go down the drain with plenty of water. Na is destroyed with ethanol/methanol; LiAlH4 with Na2SO4 or MgSO4 solution. Halogenated hydrocarbons, nitro compounds, azides, peroxides and carcinogens must not be drained.",
+   "mcqs": [
+    {
+     "question_bn": "GHS প্রবর্তনের পটভূমিতে ১৯৯২ সালের সম্মেলনের মূল সুর কী ছিল?",
+     "question_en": "What was the motto of the 1992 conference behind GHS?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "One Chemical One Label World Wide",
+       "en": "One Chemical One Label World Wide"
+      },
+      {
+       "id": "b",
+       "bn": "Green Chemistry for All",
+       "en": "Green Chemistry for All"
+      },
+      {
+       "id": "c",
+       "bn": "Safe Lab Safe World",
+       "en": "Safe Lab Safe World"
+      },
+      {
+       "id": "d",
+       "bn": "Zero Waste Chemistry",
+       "en": "Zero Waste Chemistry"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে উল্লেখ আছে সম্মেলনের মূল সুর ছিল \"One Chemical One Label World Wide\"।",
+     "explanation_en": "The book states this as the conference's key theme.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গাঢ় সালফিউরিক এসিড লঘু করার সঠিক পদ্ধতি কোনটি?",
+     "question_en": "What is the correct way to dilute concentrated sulphuric acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এসিডে দ্রুত পানি ঢালা",
+       "en": "Pour water quickly into the acid"
+      },
+      {
+       "id": "b",
+       "bn": "ঠান্ডা পানিতে ফোঁটায় ফোঁটায় এসিড যোগ করে নাড়ানো",
+       "en": "Add acid dropwise to cold water with stirring"
+      },
+      {
+       "id": "c",
+       "bn": "সমান পরিমাণ একসাথে মেশানো",
+       "en": "Mix equal volumes at once"
+      },
+      {
+       "id": "d",
+       "bn": "এসিড গরম করে পানি মেশানো",
+       "en": "Heat the acid, then add water"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে ঠান্ডা পানিতে ফোঁটায় ফোঁটায় এসিড যোগ করা ও নাড়ার নির্দেশ আছে; গাঢ় এসিডে পানি যোগ করা নিষেধ।",
+     "explanation_en": "The book directs adding acid dropwise to cold water with stirring; adding water to conc. acid is prohibited.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বর্জ্য ব্যবস্থাপনার পাঁচটি ক্যাটাগরির মধ্যে নিচের কোনটি অন্তর্ভুক্ত নয়?",
+     "question_en": "Which is NOT one of the five waste disposal categories?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রি-সাইকেলিং",
+       "en": "Recycling"
+      },
+      {
+       "id": "b",
+       "bn": "পুড়িয়ে ফেলা",
+       "en": "Burning"
+      },
+      {
+       "id": "c",
+       "bn": "নদীতে সরাসরি ফেলা",
+       "en": "Dumping directly into rivers"
+      },
+      {
+       "id": "d",
+       "bn": "রাসায়নিকভাবে প্রশমিত করা",
+       "en": "Chemical neutralisation"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "পাঁচটি ক্যাটাগরি: রি-সাইকেলিং, পোড়ানো, নির্দিষ্ট জায়গায় সংরক্ষণ, রাসায়নিক প্রশমন ও সাধারণভাবে ড্রেনে ফেলা।",
+     "explanation_en": "The five are recycling, burning, designated storage, chemical neutralisation and ordinary drain disposal.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বর্জ্য এসিড প্রশমনে বইয়ে কোন দ্রবণ ব্যবহারের কথা বলা আছে?",
+     "question_en": "Which solution does the book use to neutralise acid waste?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na2CO3 দ্রবণ",
+       "en": "Na2CO3 solution"
+      },
+      {
+       "id": "b",
+       "bn": "NaCl দ্রবণ",
+       "en": "NaCl solution"
+      },
+      {
+       "id": "c",
+       "bn": "গাঢ় HCl",
+       "en": "Conc. HCl"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল",
+       "en": "Ethanol"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ব্যবহৃত ও উৎপন্ন এসিডকে প্রশমিত করতে Na2CO3-এর দ্রবণ ব্যবহার করা হয়।",
+     "explanation_en": "The book neutralises used acids with Na2CO3 solution.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বর্জ্য পানি ড্রেনে ফেলার আগে সাধারণত pH কত সীমার মধ্যে আনা হয়?",
+     "question_en": "Within what pH range may neutralised waste be drained?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.0–3.0",
+       "en": "1.0-3.0"
+      },
+      {
+       "id": "b",
+       "bn": "5.5–9.0",
+       "en": "5.5-9.0"
+      },
+      {
+       "id": "c",
+       "bn": "10.0–13.0",
+       "en": "10.0-13.0"
+      },
+      {
+       "id": "d",
+       "bn": "0–14 যেকোনো",
+       "en": "Any pH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "খনিজ এসিড ও ক্ষারক প্রশমন করে pH 5.5–9.0 এর মধ্যে এনে অতিরিক্ত পানিসহ ড্রেনে ফেলা যায়।",
+     "explanation_en": "Mineral acids/bases are neutralised to pH 5.5-9.0 and drained with excess water.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নাইট্রিক এসিড সংরক্ষণের ক্ষেত্রে বইয়ের নোট অনুযায়ী Al পাত্র কেন ব্যবহার করা যায়?",
+     "question_en": "According to the book note, why can nitric acid be stored in aluminium vessels?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Al সক্রিয় নয় বলে",
+       "en": "Al is unreactive"
+      },
+      {
+       "id": "b",
+       "bn": "Al-এর উপর অক্সাইডের নিষ্ক্রিয় স্তর তৈরি হয় বলে",
+       "en": "An inert Al2O3 layer forms on Al"
+      },
+      {
+       "id": "c",
+       "bn": "HNO3 দুর্বল এসিড বলে",
+       "en": "HNO3 is a weak acid"
+      },
+      {
+       "id": "d",
+       "bn": "Al-কে হাইড্রোজেন ঢেকে রাখে বলে",
+       "en": "Hydrogen coats Al"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সাধারণ তাপমাত্রায় নাইট্রিক এসিড Al-এর সাথে বিক্রিয়ায় Al2O3-এর আস্তরণ তৈরি করে, যা বিক্রিয়া থামিয়ে দেয়।",
+     "explanation_en": "Nitric acid forms an Al2O3 film on Al that stops further reaction.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.11",
+   "title_bn": "পরিবেশের উপর ল্যাবরেটরিতে ব্যবহৃত রাসায়নিক দ্রব্যের প্রভাব ও পরিমিত ব্যবহারের গুরুত্ব",
+   "title_en": "Effect of lab chemicals on the environment and the importance of minimal use",
+   "notes_bn": "ল্যাবের নাইট্রেট লবণ পরীক্ষায় NO2, কার্বনেট/সালফাইড-সালফাইট পরীক্ষায় CO2/SO2, অম্লীয় বাষ্প ইত্যাদি নির্গত হয়; NO2, SO2, CO2 অম্ল বৃষ্টি ঘটায়। H2S দুর্গন্ধযুক্ত ও বিষাক্ত।\nঅতিরিক্ত এসিড ড্রেনে মিশলে পানির pH কমে, pH 3-এর নিচে মাছসহ জলজ প্রাণী বাঁচে না; মাটির উর্বরতা ও অণুজীব নষ্ট হয়।\nভারী ধাতুর আয়ন (Pb2+, Hg2+, Cd2+) প্রাণিদেহে ঢুকে এনজাইম নষ্ট করে বিষক্রিয়া ঘটায়। As, Sb অপধাতুও বিষাক্ত।\nউদাহরণ: H2SO4, HNO3, HCl, NaOH, NH4OH, K2Cr2O7, KMnO4, CHCl3 ইত্যাদি স্বাস্থ্য ও পরিবেশ উভয়ের জন্য ক্ষতিকর (ফরমালিন, সাবান-ডিটারজেন্ট জৈব দূষক)।\nপরিমিত ব্যবহারের নিয়ম: অল্প পরিমাণ রাসায়নিক; বিকল্প কম ক্ষতিকর রাসায়নিক; গ্রুপভিত্তিক পরীক্ষা; আগে থেকে প্রয়োজনীয় পরিমাণ হিসাব; অপ্রয়োজনে পাতিত পানি নয়; বার্নার/স্পিরিট ল্যাম্প মোটেই অপ্রয়োজনে জ্বালানো নয়।\nসেমি-মাইক্রো পদ্ধতিতে Cu2+, Zn2+ শনাক্তকরণে H2S গ্যাসের বদলে থায়োঅ্যাসিটামাইড (CH3CSNH2) ব্যবহার হয়: CH3-CS-NH2 + H2O → CH3-CO-NH2 + H2S; উৎপন্ন H2S প্রায় সম্পূর্ণ দ্রবণে থেকে বিক্রিয়ায় অংশ নেয়, তাই পরিবেশ তেমন দূষিত হয় না।",
+   "notes_en": "Lab tests release NO2 (nitrate test), CO2/SO2 and acid vapours; NO2, SO2, CO2 cause acid rain. H2S is foul-smelling and poisonous.\nExcess acid in drains lowers water pH; below pH 3 aquatic life such as fish cannot survive; soil fertility and microbes are destroyed.\nHeavy-metal ions (Pb2+, Hg2+, Cd2+) enter living bodies and destroy enzymes; As and Sb are also poisonous.\nH2SO4, HNO3, HCl, NaOH, NH4OH, K2Cr2O7, KMnO4, CHCl3 etc. harm both health and environment; soap/detergent and formalin are pollutants.\nMinimal-use rules: use small amounts, substitute less harmful chemicals, group experiments, pre-calculate needs, avoid wasting distilled water, do not light a burner/spirit lamp unnecessarily.\nIn semi-micro Cu2+/Zn2+ detection, thioacetamide replaces H2S gas: CH3CSNH2 + H2O -> CH3CONH2 + H2S; almost all H2S stays in solution and reacts, so little pollution results.",
+   "mcqs": [
+    {
+     "question_bn": "নিচের কোন গ্যাসগুলো অম্ল বৃষ্টি ঘটাতে ভূমিকা রাখে (বইয়ের তথ্য অনুযায়ী)?",
+     "question_en": "Which gases contribute to acid rain according to the book?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O2, N2, He",
+       "en": "O2, N2, He"
+      },
+      {
+       "id": "b",
+       "bn": "NO2, SO2, CO2",
+       "en": "NO2, SO2, CO2"
+      },
+      {
+       "id": "c",
+       "bn": "H2, Ne, Ar",
+       "en": "H2, Ne, Ar"
+      },
+      {
+       "id": "d",
+       "bn": "CH4, N2, Ar",
+       "en": "CH4, N2, Ar"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে NO2, SO2 ও CO2-কে মাত্রাতিরিক্ত হলে এসিড বৃষ্টির কারণ হিসেবে উল্লেখ করা হয়েছে।",
+     "explanation_en": "The book names NO2, SO2 and CO2 as acid-rain causing gases when in excess.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "পানির pH কত এর নিচে নামলে মাছসহ কোনো জলজ প্রাণীর বেঁচে থাকা সম্ভব হয় না?",
+     "question_en": "Below what pH can aquatic animals like fish no longer survive?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "pH 3",
+       "en": "pH 3"
+      },
+      {
+       "id": "b",
+       "bn": "pH 7",
+       "en": "pH 7"
+      },
+      {
+       "id": "c",
+       "bn": "pH 9",
+       "en": "pH 9"
+      },
+      {
+       "id": "d",
+       "bn": "pH 12",
+       "en": "pH 12"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে পানির pH 3-এর নিচে নেমে গেলে মাছসহ জলজ প্রাণীর বেঁচে থাকা সম্ভব হয় না।",
+     "explanation_en": "The book states that below pH 3 aquatic animals cannot survive.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ভারী ধাতুর আয়ন প্রাণিদেহের কোন জৈব উপাদানকে ভেঙে দেয়?",
+     "question_en": "Heavy-metal ions destroy which biological component in animals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ভিটামিন",
+       "en": "Vitamins"
+      },
+      {
+       "id": "b",
+       "bn": "এনজাইম",
+       "en": "Enzymes"
+      },
+      {
+       "id": "c",
+       "bn": "চর্বি",
+       "en": "Fats"
+      },
+      {
+       "id": "d",
+       "bn": "পানি",
+       "en": "Water"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Pb2+, Hg2+, Cd2+ প্রাণিদেহে এনজাইমকে ভেঙে দেয় এবং এনজাইমের কার্যকারিতা নষ্ট করে বিষক্রিয়া ঘটায়।",
+     "explanation_en": "Pb2+, Hg2+, Cd2+ degrade enzymes and cause poisoning.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সেমি-মাইক্রো পদ্ধতিতে H2S গ্যাসের বিকল্প হিসেবে কী ব্যবহার করা হয়?",
+     "question_en": "What replaces H2S gas in the semi-micro method?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যামোনিয়াম থায়োসায়ানেট",
+       "en": "Ammonium thiocyanate"
+      },
+      {
+       "id": "b",
+       "bn": "থায়োঅ্যাসিটামাইড",
+       "en": "Thioacetamide"
+      },
+      {
+       "id": "c",
+       "bn": "সোডিয়াম সালফাইড",
+       "en": "Sodium sulphide"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিটোন",
+       "en": "Acetone"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "CH3CSNH2 পানির সাথে বিক্রিয়া করে ধীরে ধীরে H2S উৎপন্ন করে, ফলে গ্যাস সরবরাহের প্রয়োজন হয় না।",
+     "explanation_en": "CH3CSNH2 reacts with water to generate H2S in situ, so no gas supply is needed.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "থায়োঅ্যাসিটামাইড ও পানির বিক্রিয়ায় কী কী উৎপন্ন হয়?",
+     "question_en": "What forms when thioacetamide reacts with water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3-COOH + NH3",
+       "en": "CH3-COOH + NH3"
+      },
+      {
+       "id": "b",
+       "bn": "CH3-CO-NH2 + H2S",
+       "en": "CH3-CO-NH2 + H2S"
+      },
+      {
+       "id": "c",
+       "bn": "CH3-CH3 + H2S",
+       "en": "CH3-CH3 + H2S"
+      },
+      {
+       "id": "d",
+       "bn": "CH3-CN + H2O",
+       "en": "CH3-CN + H2O"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে বিক্রিয়াটি: CH3-CS-NH2 + H2O → CH3-CO-NH2 + H2S।",
+     "explanation_en": "As in the book: CH3-CS-NH2 + H2O -> CH3-CO-NH2 + H2S.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনটি ল্যাবরেটরিতে রাসায়নিক পরিমিত ব্যবহারের নিয়ম নয়?",
+     "question_en": "Which is NOT a rule for minimal use of chemicals?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গ্রুপভিত্তিক পরীক্ষা সম্পাদন",
+       "en": "Perform group-based experiments"
+      },
+      {
+       "id": "b",
+       "bn": "প্রয়োজনের চেয়ে বেশি রিয়েজেন্ট নিয়ে অবশিষ্ট ড্রেনে ফেলা",
+       "en": "Take extra reagent and drain the rest"
+      },
+      {
+       "id": "c",
+       "bn": "কম ক্ষতিকর বিকল্প রাসায়নিক ব্যবহার",
+       "en": "Use less harmful substitutes"
+      },
+      {
+       "id": "d",
+       "bn": "পূর্বেই প্রয়োজনীয় পরিমাণ নির্ধারণ",
+       "en": "Pre-determine the required amount"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অতিরিক্ত রিয়েজেন্ট নেওয়া ও ফেলে দেওয়া বর্জ্য বাড়ায়; বইয়ে প্রয়োজনীয় পরিমাণ নির্ধারণ করে স্বল্প ব্যবহারের কথা বলা হয়েছে।",
+     "explanation_en": "Taking and draining excess adds waste; the book requires fixing needed amounts in advance.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.12",
+   "title_bn": "সেমি-মাইক্রো এবং অ্যানালিটিক্যাল পদ্ধতি",
+   "title_en": "Semi-micro and analytical methods",
+   "notes_bn": "নমুনার পরিমাণের ভিত্তিতে বিশ্লেষণ তিন ধরনের: ম্যাক্রো, সেমি-মাইক্রো ও মাইক্রো।\nম্যাক্রো: কঠিন নমুনা 0.5 g–2.0 g, দ্রবণ 20–30 mL (সাধারণত 25 mL); সবচেয়ে বেশি বর্জ্য ও দূষণ। সেমি-মাইক্রো: 10–100 mg উপাদান, 2–4 mL দ্রবণ; বর্জ্য ও খরচ কম, সময় কম। মাইক্রো: 1–10 mg উপাদান, 0.2–1.0 mL দ্রবণ; বর্জ্য সামান্য, পরিবেশবান্ধব, তবে যান্ত্রিক দক্ষতা ও সূক্ষ্ম যন্ত্র দরকার।\nসেমি-মাইক্রো যন্ত্রপাতি: টেস্টটিউব 4 mL (75 × 10 mm, পাইরেক্স), বিকার 50–100 mL, রিয়েজেন্ট বোতল 25 ও 50 mL (গাঢ় এসিডের জন্য 125 mL ড্রপিং বোতল), রিয়েজেন্ট ড্রপার 0.2–1.0 mL, ড্রপিং টিউব (5 mL ব্যাসের 25 cm কাচনল), স্প্যাচুলা (12–18 cm), সেন্ট্রিফিউজ টিউব 3 mL (75 × 11 mm) ও সেন্ট্রিফিউজ যন্ত্র।\nপানিগাহ: 250 mL বিকারে প্রায় 200 mL পানি; বাষ্পীভবনে দ্রবণ ঘন করা হয়। H2S-এর বিকল্প থায়োঅ্যাসিটামাইড।\nমাইক্রো অ্যানালিসিস ১৯২৩ সালে ফ্রিৎজ প্রেগল-এর কাজে নোবেল পুরস্কার পায়; UV, IR, NMR, X-Ray, ক্রোমাটোগ্রাফি (HPLC, GLC) ইত্যাদিতে ব্যবহৃত হয়।\nসেমি-মাইক্রো পদ্ধতির অসুবিধা: অব্যবহৃত বর্জ্য ও রাসায়নিক বিপদজনক হিসেবে থেকে যায় (বইয়ের ভাষায় এটি পরিবেশবান্ধব নয়)।",
+   "notes_en": "Analysis by sample size: macro, semi-micro, micro.\nMacro: 0.5-2.0 g solid, 20-30 mL solution (usually 25 mL); most waste/pollution. Semi-micro: 10-100 mg, 2-4 mL; less waste, cost and time. Micro: 1-10 mg, 0.2-1.0 mL; minimal waste, eco-friendly, but needs mechanical skill and delicate apparatus.\nSemi-micro apparatus: 4 mL test tube (75 x 10 mm, Pyrex), 50-100 mL beaker, 25 and 50 mL reagent bottles (125 mL dropping bottle for conc. acids), 0.2-1.0 mL reagent dropper, dropping tube, spatula (12-18 cm), 3 mL centrifuge tube (75 x 11 mm) and centrifuge machine.\nWater bath: about 200 mL water in a 250 mL beaker; evaporation concentrates solutions. Thioacetamide replaces H2S.\nMicro analysis: Fritz Pregl won the Nobel Prize in 1923; used in UV, IR, NMR, X-ray, chromatography (HPLC, GLC).",
+   "mcqs": [
+    {
+     "question_bn": "ম্যাক্রো বিশ্লেষণে সাধারণত কত আয়তনের দ্রবণ নেওয়া হয়?",
+     "question_en": "What solution volume is typically taken in macro analysis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.2 mL",
+       "en": "0.2 mL"
+      },
+      {
+       "id": "b",
+       "bn": "2 mL",
+       "en": "2 mL"
+      },
+      {
+       "id": "c",
+       "bn": "25 mL",
+       "en": "25 mL"
+      },
+      {
+       "id": "d",
+       "bn": "250 mL",
+       "en": "250 mL"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে ম্যাক্রো বিশ্লেষণে 20–30 mL, সাধারণত 25 mL দ্রবণ নেওয়ার কথা বলা হয়েছে।",
+     "explanation_en": "The book gives 20-30 mL, usually 25 mL, for macro analysis.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন পদ্ধতিতে পরিবেশ দূষণের মাত্রা সবচেয়ে কম?",
+     "question_en": "Which method causes the least environmental pollution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ম্যাক্রো",
+       "en": "Macro"
+      },
+      {
+       "id": "b",
+       "bn": "সেমি-মাইক্রো",
+       "en": "Semi-micro"
+      },
+      {
+       "id": "c",
+       "bn": "মাইক্রো",
+       "en": "Micro"
+      },
+      {
+       "id": "d",
+       "bn": "সবগুলো সমান",
+       "en": "All equal"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "মাইক্রো পদ্ধতিতে বর্জ্য সামান্য, তাই এটি পরিবেশবান্ধব।",
+     "explanation_en": "Micro analysis produces very little waste and is eco-friendly.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সেমি-মাইক্রো টেস্টটিউবের আয়তন ও আকার কত?",
+     "question_en": "What are the volume and size of a semi-micro test tube?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4 mL, 75 × 10 mm",
+       "en": "4 mL, 75 x 10 mm"
+      },
+      {
+       "id": "b",
+       "bn": "25 mL, 150 × 25 mm",
+       "en": "25 mL, 150 x 25 mm"
+      },
+      {
+       "id": "c",
+       "bn": "10 mL, 100 × 20 mm",
+       "en": "10 mL, 100 x 20 mm"
+      },
+      {
+       "id": "d",
+       "bn": "1 mL, 50 × 5 mm",
+       "en": "1 mL, 50 x 5 mm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সেমি-মাইক্রো টেস্টটিউবের আয়তন 4 mL বা 75 × 10 mm বলা হয়েছে।",
+     "explanation_en": "The book gives 4 mL or 75 x 10 mm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সেমি-মাইক্রো পদ্ধতিতে নমুনা উপাদানের পরিমাণ কত?",
+     "question_en": "What mass of material is used in the semi-micro method?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.5–2.0 g",
+       "en": "0.5-2.0 g"
+      },
+      {
+       "id": "b",
+       "bn": "10–100 mg",
+       "en": "10-100 mg"
+      },
+      {
+       "id": "c",
+       "bn": "1–10 mg",
+       "en": "1-10 mg"
+      },
+      {
+       "id": "d",
+       "bn": "1–5 kg",
+       "en": "1-5 kg"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সেমি-মাইক্রোতে 10 mg থেকে 100 mg উপাদান ও 2–4 mL দ্রবণ ব্যবহার হয়।",
+     "explanation_en": "10-100 mg of material in 2-4 mL solution.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "একটি ম্যাক্রো নমুনা 1.5 g হলে তা সেমি-মাইক্রো সর্বোচ্চ সীমা 100 mg-এর কত গুণ?",
+     "question_en": "A macro sample of 1.5 g is how many times the semi-micro upper limit of 100 mg?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "15 গুণ",
+       "en": "15 times"
+      },
+      {
+       "id": "b",
+       "bn": "1.5 গুণ",
+       "en": "1.5 times"
+      },
+      {
+       "id": "c",
+       "bn": "150 গুণ",
+       "en": "150 times"
+      },
+      {
+       "id": "d",
+       "bn": "0.15 গুণ",
+       "en": "0.15 times"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "1.5 g = 1500 mg; 1500 ÷ 100 = 15।",
+     "explanation_en": "1.5 g = 1500 mg; 1500/100 = 15.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "মাইক্রো অ্যানালিসিস পদ্ধতির জন্য কে নোবেল পুরস্কার পান এবং কোন সালে?",
+     "question_en": "Who won a Nobel Prize for micro analysis, and in which year?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রবার্ট বুনসেন, ১৮৫৫",
+       "en": "Robert Bunsen, 1855"
+      },
+      {
+       "id": "b",
+       "bn": "ফ্রিৎজ প্রেগল, ১৯২৩",
+       "en": "Fritz Pregl, 1923"
+      },
+      {
+       "id": "c",
+       "bn": "ফ্রিৎজ প্রেগল, ১৯৯২",
+       "en": "Fritz Pregl, 1992"
+      },
+      {
+       "id": "d",
+       "bn": "রবার্ট বুনসেন, ১৯২৩",
+       "en": "Robert Bunsen, 1923"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "১৯২৩ সালে স্লোভেনিয়ার প্রাণরসায়নবিদ ফ্রিৎজ প্রেগল মাইক্রো অ্যানালিসিসে অবদানের জন্য নোবেল পান।",
+     "explanation_en": "Fritz Pregl received the Nobel Prize in 1923 for micro analysis.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.13",
+   "title_bn": "ল্যাবরেটরি নিরাপত্তা সামগ্রী ও ব্যবহার বিধি",
+   "title_en": "Laboratory safety tools and their safe use",
+   "notes_bn": "ঝরনা: এসিড বা ক্ষতিকর রাসায়নিক শরীরে পড়লে সাথে সাথে নিচে দাঁড়িয়ে পর্যাপ্ত পানি প্রবাহ নিশ্চিত করতে হয়; জামায় আগুন ধরলেও ঝরনার নিচে দাঁড়ানো যায়।\nসেফটি গ্লাস/গগলস: চোখকে রাসায়নিকের ছিটা থেকে রক্ষা করে। আইক্যাপ: চোখে রাসায়নিক পড়লে পানি ভরে চোখের উপর বসিয়ে ধোয়া হয়।\nফিউম হুড: বিষাক্ত ও ক্ষতিকর গ্যাসযুক্ত পরীক্ষা এখানে করতে হয়; সামনে কাচের স্লাইডিং দরজা; উপরে বায়ু নল ও পাখা; H2S ক্রমাগত সরবরাহে, গাঢ় H2SO4, HNO3, HCl লঘু করতে, লিকার অ্যামোনিয়া লঘু করতে ব্যবহার করা হয়।\nব্লাঙ্কেট: কাপড়ে আগুন ধরলে দৌড়াদৌড়ি না করে স্থির দাঁড়িয়ে থাকা বা মেঝেতে শুইয়ে ব্লাঙ্কেট দিয়ে জড়িয়ে আগুন নেভানো হয়। সেফটি গ্লাভস, ল্যাবরেটরি কিট (ফার্স্ট এইড বক্স), গ্যাস নির্গমনের সুরক্ষা বাক্স (বিষাক্ত গ্যাস পরীক্ষার জন্য)।\nঅগ্নি নির্বাপক যন্ত্র ব্যবহার: (১) দেয়াল থেকে খুলে নাও, (২) নলজেলকে আগুনের দিকে তাক করো, (৩) শীর্ষের পিন খুলে দাও, (৪) হাতলে জোরে চাপ দাও, (৫) CO2 গ্যাস আগুনের উৎসে স্প্রে করো। মানুষের গায়ে আগুন লাগলে এটি ব্যবহার করা যাবে না।\nসিংক, নিরাপত্তা সাওয়ার ও আই ওয়াশ স্টেশন, অগ্নি সংকেত (ফায়ার অ্যালার্ম) ও বালিভর্তি বালতি (আগুন নেভাতে বালি ছিটানো) প্রয়োজন। দাহ্য পদার্থ (Na, NaH, LiAlH4, ইথার, বেনজিন) সতর্কতার সাথে সংরক্ষণ করতে হয়।",
+   "notes_en": "Shower: if acid or a harmful chemical falls on the body, stand under it with plenty of water; also for burning clothes.\nSafety goggles protect eyes from splashes. Eye cap/eyewash: filled with water and placed over the eye to rinse.\nFume hood: do experiments producing toxic/harmful gases here; glass sliding front, vent pipe with fan on top; use for continuous H2S supply and for diluting conc. H2SO4, HNO3, HCl and liquor ammonia.\nFire blanket: for burning clothes, stay still or lie down and wrap with the blanket, never run. Safety gloves, lab kit (first-aid box), gas-release safety box.\nExtinguisher steps: take it off the wall, aim the nozzle at the fire, pull the top pin, press the handle hard, spray CO2 at the base of the fire. Never use it on a burning person.\nAlso needed: sink, safety shower and eye wash station, fire alarm, bucket of sand. Store flammables (Na, NaH, LiAlH4, ether, benzene) with great care.",
+   "mcqs": [
+    {
+     "question_bn": "ল্যাবরেটরিতে চোখে রাসায়নিক পড়লে প্রথম পদক্ষেপ কী?",
+     "question_en": "What is the first step if a chemical gets into the eye?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তুলা দিয়ে ঘষা",
+       "en": "Rub with cotton"
+      },
+      {
+       "id": "b",
+       "bn": "ট্যাপের পানি বা আই ওয়াশে দ্রুত ধোয়া",
+       "en": "Rinse quickly with tap water or an eye wash"
+      },
+      {
+       "id": "c",
+       "bn": "চোখ বন্ধ করে বসে থাকা",
+       "en": "Close the eyes and wait"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু ডাক্তারের জন্য অপেক্ষা",
+       "en": "Only wait for the doctor"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে কালবিলম্ব না করে ট্যাপের পানি বা আইক্যাপ/আই ওয়াশ দিয়ে চোখ ধোয়ার নির্দেশ আছে।",
+     "explanation_en": "The book says rinse immediately with tap water/eye cap/eye wash.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফিউম হুডের ভেতরে কোন কাজটি করা উচিত?",
+     "question_en": "Which task should be done inside a fume hood?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ওজন নেওয়া",
+       "en": "Weighing solids"
+      },
+      {
+       "id": "b",
+       "bn": "অতি ঘন H2SO4 লঘু করা",
+       "en": "Diluting very concentrated H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "কাচের যন্ত্র ধোয়া",
+       "en": "Washing glassware"
+      },
+      {
+       "id": "d",
+       "bn": "ঠান্ডা পানিতে নুন গোলা",
+       "en": "Dissolving salt in cold water"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে অতি ঘন H2SO4, HNO3, HCl এবং লিকার অ্যামোনিয়া লঘু করার সময় ফিউম হুড ব্যবহারের কথা আছে।",
+     "explanation_en": "The book recommends a fume hood for diluting very conc. H2SO4, HNO3, HCl and liquor ammonia.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ফিউম হুডের উপরের অংশে কী থাকে যা গ্যাস বাইরে বের করে?",
+     "question_en": "What on top of a fume hood removes gases to the outside?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানির ট্যাংক",
+       "en": "Water tank"
+      },
+      {
+       "id": "b",
+       "bn": "বায়ু নল ও শক্তিশালী পাখা",
+       "en": "Air duct with a strong fan"
+      },
+      {
+       "id": "c",
+       "bn": "বালির ঢিবি",
+       "en": "Sand pile"
+      },
+      {
+       "id": "d",
+       "bn": "সিলিন্ডার",
+       "en": "Gas cylinder"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "হুডের উপরের বায়ু নলের সম্মুখ ভাগে শক্তিশালী পাখা থাকে যা গ্যাস বাইরে অপসারণ করে।",
+     "explanation_en": "A strong fan in the air duct expels gases outside.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনো সহপাঠীর কাপড়ে আগুন ধরলে সঠিক কাজ কোনটি?",
+     "question_en": "What is the right action if a classmate's clothes catch fire?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দৌড়ে যেতে বলা",
+       "en": "Tell them to run"
+      },
+      {
+       "id": "b",
+       "bn": "স্থির দাঁড়িয়ে বা শুইয়ে ব্লাঙ্কেট দিয়ে জড়িয়ে ধরা",
+       "en": "Keep them still/lie down and wrap in a blanket"
+      },
+      {
+       "id": "c",
+       "bn": "অগ্নি নির্বাপক যন্ত্রের CO2 গায়ে স্প্রে করা",
+       "en": "Spray CO2 from an extinguisher on them"
+      },
+      {
+       "id": "d",
+       "bn": "পানির বদলে অ্যালকোহল ঢালা",
+       "en": "Pour alcohol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দৌড়ালে আগুনের তীব্রতা বাড়ে; ব্লাঙ্কেটে জড়িয়ে আগুন নেভাতে হয়, আর মানুষের গায়ে CO2 নির্বাপক ব্যবহার নিষেধ।",
+     "explanation_en": "Running worsens the fire; use a blanket. Extinguishers must not be used on a person.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অগ্নি নির্বাপক যন্ত্র ব্যবহারে নিচের কোন ধাপক্রম বইয়ের সাথে মেলে?",
+     "question_en": "Which sequence matches the book's extinguisher use?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পিন খোলা → হাতল চাপা → নেওয়া → তাক করা → স্প্রে",
+       "en": "Pull pin, press, take off wall, aim, spray"
+      },
+      {
+       "id": "b",
+       "bn": "দেয়াল থেকে নেওয়া → নজল তাক → পিন খোলা → হাতল চাপা → CO2 স্প্রে",
+       "en": "Take off wall, aim nozzle, pull pin, press handle, spray CO2"
+      },
+      {
+       "id": "c",
+       "bn": "স্প্রে → নেওয়া → পিন → চাপ → তাক",
+       "en": "Spray, take, pin, press, aim"
+      },
+      {
+       "id": "d",
+       "bn": "পিন খোলা → দৌড় → স্প্রে",
+       "en": "Pull pin, run, spray"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের ক্রম: দেয়াল থেকে খুলে নাও, নজলকে তাক করো, শীর্ষের পিন খোলো, হাতলে চাপ দাও, CO2 স্প্রে করো।",
+     "explanation_en": "Book sequence: remove from wall, aim nozzle, pull pin, press handle, spray CO2.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নিচের কোনটি ল্যাবরেটরির আই ওয়াশ/নিরাপত্তা সাওয়ারের মূল কাজ?",
+     "question_en": "What is the main purpose of the safety shower and eye wash station?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পরীক্ষার পানি সংগ্রহ",
+       "en": "Collecting water for experiments"
+      },
+      {
+       "id": "b",
+       "bn": "রাসায়নিক ছিটকে পড়লে অনবরত পানি প্রবাহে ধোয়া",
+       "en": "Washing with continuous water after a chemical splash"
+      },
+      {
+       "id": "c",
+       "bn": "গ্যাস ছাড়া",
+       "en": "Releasing gas"
+      },
+      {
+       "id": "d",
+       "bn": "আগুন ধরানো",
+       "en": "Starting a fire"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "চোখে, মুখে বা শরীরে ক্ষতিকর রাসায়নিক ছিটকে পড়লে অনবরত পানি প্রবাহে ধুয়ে ফেলার জন্য এগুলো দরকার।",
+     "explanation_en": "Used for washing off splashes with a continuous flow of water.",
+     "difficulty": "basic"
+    }
+   ]
+  },
+  {
+   "section_no": "1.14",
+   "title_bn": "প্রাথমিক চিকিৎসা ও ফার্স্ট এইড বক্স ব্যবহার বিধি",
+   "title_en": "First aid and use of the first aid box",
+   "notes_bn": "ফার্স্ট এইড বক্স হলো সেই বক্স যেখানে দুর্ঘটনার শিকার ব্যক্তিকে প্রাথমিক চিকিৎসা দেওয়ার জন্য বিভিন্ন চিকিৎসা যন্ত্রপাতি ও ঔষধপত্র একত্রে রাখা হয়। এর তিন উপাদান: ধারক (Container), চিকিৎসা যন্ত্রপাতি (Medical equipment), ঔষধ (Medicine)।\nযন্ত্রপাতি: পকেট মাস্ক, তুলা, ব্যান্ডেজ, আঠালো ব্যান্ডেজ, ড্রেসিং, থার্মোমিটার, পেনলাইট, চিমটা, ছুরি/কাঁচি, সিরিঞ্জ। ঔষধ: অ্যান্টিসেপটিক লিকুইড/মলম, ব্যথানাশক (প্যারাসিটামল), অ্যাসপিরিন, শীতলকারক জেল, ওরস্যালাইন, অ্যান্টাসিড ইত্যাদি।\nপ্রাথমিক চিকিৎসার তিন লক্ষ্য: জীবন রক্ষা (Preserve Life), অধিকতর ক্ষতির আশঙ্কা নিরোধ (Prevent Further harm), নিরাময় উন্নীতকরণ (Promote recovery)।\nচোখে রাসায়নিক: সেফটি গ্লাস না থাকলে পানি দিয়ে 15–20 মিনিট ধুতে হবে, এরপর ডাক্তার/নার্স। কাপড়ে আগুন: দৌড়ানো নয়, ব্লাঙ্কেট দিয়ে চেপে নেভানো। কাটা: ব্যান্ডেজে চেপে রক্তক্ষরণ বন্ধ, প্রয়োজনে ডাক্তার। মুখে রাসায়নিক: থুতু সহ ফেলে দিয়ে বারবার কুলকুচি।\nত্বকে এসিড: সাথে সাথে পানিতে ধুয়ে সোডিয়াম বাইকার্বনেট (NaHCO3) দেওয়া। ত্বকে ক্ষার: পানিতে ধুয়ে বোরিক এসিড (H3BO3)। প্রস্তাব: 5% (W/V) NaHCO3 কমপক্ষে 5–10 L ও 7% (W/V) H3BO3 5–10 L রাখা। হঠাৎ শক পেলে আক্রান্তকে শুইয়ে পা প্রায় 10–12 ইঞ্চি উপরে তুলে দেওয়া।",
+   "notes_en": "A first aid box holds medical equipment and medicines for emergency treatment. Three components: container, medical equipment, medicine.\nEquipment: pocket mask, cotton, bandage, adhesive bandage, dressing, thermometer, penlight, forceps, scissors/knife, syringe. Medicine: antiseptic liquid/ointment, painkiller (paracetamol), aspirin, cooling gel, ORS, antacid.\nThree objectives of first aid: preserve life, prevent further harm, promote recovery.\nChemical in eye: without goggles, wash with water for 15-20 minutes, then doctor/nurse. Burning clothes: do not run, smother with a blanket. Cut: press with bandage to stop bleeding. Chemical in mouth: spit out and rinse repeatedly.\nAcid on skin: wash with water then apply sodium bicarbonate (NaHCO3). Alkali on skin: wash then boric acid (H3BO3). Keep at least 5-10 L of 5% (W/V) NaHCO3 and 5-10 L of 7% (W/V) H3BO3. For sudden shock lay the person down and raise the legs about 10-12 inches.",
+   "mcqs": [
+    {
+     "question_bn": "প্রাথমিক চিকিৎসার তিনটি লক্ষ্যের মধ্যে কোনটি অন্তর্ভুক্ত নয়?",
+     "question_en": "Which is NOT one of the three objectives of first aid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জীবন রক্ষা",
+       "en": "Preserve life"
+      },
+      {
+       "id": "b",
+       "bn": "অধিকতর ক্ষতির আশঙ্কা নিরোধ",
+       "en": "Prevent further harm"
+      },
+      {
+       "id": "c",
+       "bn": "নিরাময় উন্নীতকরণ",
+       "en": "Promote recovery"
+      },
+      {
+       "id": "d",
+       "bn": "রোগের নাম নির্ণয় ও অস্ত্রোপচার",
+       "en": "Diagnose and perform surgery"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "বইয়ে তিনটি লক্ষ্য: জীবন রক্ষা, আরও ক্ষতি প্রতিরোধ ও নিরাময় উন্নীতকরণ; অস্ত্রোপচার এর অন্তর্ভুক্ত নয়।",
+     "explanation_en": "The three are preserve life, prevent further harm and promote recovery; surgery is not one.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফার্স্ট এইড বক্সের প্রধান তিনটি উপাদান কোনগুলো?",
+     "question_en": "What are the three main components of a first aid box?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ধারক, চিকিৎসা যন্ত্রপাতি, ঔষধ",
+       "en": "Container, medical equipment, medicine"
+      },
+      {
+       "id": "b",
+       "bn": "ধারক, গ্যাস, বালি",
+       "en": "Container, gas, sand"
+      },
+      {
+       "id": "c",
+       "bn": "ব্লাঙ্কেট, গ্লাভস, গগলস",
+       "en": "Blanket, gloves, goggles"
+      },
+      {
+       "id": "d",
+       "bn": "ঔষধ, ঝরনা, ফিউম হুড",
+       "en": "Medicine, shower, fume hood"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ফার্স্ট এইড বক্স তিন উপাদানে গঠিত: ধারক, চিকিৎসা যন্ত্রপাতি ও ঔষধ।",
+     "explanation_en": "The book names container, medical equipment and medicine.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গায়ের চামড়ার উপর এসিড পড়লে পানি দিয়ে ধোয়ার পর কী দিতে হয়?",
+     "question_en": "After washing acid off the skin with water, what is applied?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বোরিক এসিড",
+       "en": "Boric acid"
+      },
+      {
+       "id": "b",
+       "bn": "বেকিং সোডা (NaHCO3)",
+       "en": "Baking soda (NaHCO3)"
+      },
+      {
+       "id": "c",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালকোহল",
+       "en": "Alcohol"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে এসিডে পোড়া স্থানে ধোয়ার পর বেকিং সোডা (NaHCO3) দেওয়ার কথা বলা আছে।",
+     "explanation_en": "The book applies baking soda (NaHCO3) after rinsing acid burns.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্ষারের ক্ষেত্রে ক্ষত প্রশমনে কোনটি ব্যবহৃত হয়?",
+     "question_en": "Which is used to neutralise alkali burns?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বোরিক এসিড (H3BO3)",
+       "en": "Boric acid (H3BO3)"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "NaHCO3",
+       "en": "NaHCO3"
+      },
+      {
+       "id": "d",
+       "bn": "গাঢ় HNO3",
+       "en": "Conc. HNO3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ক্ষারের ক্ষেত্রে পানি দিয়ে ধোয়ার পর বোরিক এসিড দেওয়া হয়; ল্যাবরেটরিতে 0.1 M H3BO3 রাখার কথা আছে।",
+     "explanation_en": "Boric acid is used for alkali burns after water rinsing.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "চোখে রাসায়নিক পড়লে পানি দিয়ে কতক্ষণ ধুতে হবে (বইয়ের তথ্য)?",
+     "question_en": "For how long should the eye be washed with water after a chemical splash (per the book)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১–২ মিনিট",
+       "en": "1-2 minutes"
+      },
+      {
+       "id": "b",
+       "bn": "১৫–২০ মিনিট",
+       "en": "15-20 minutes"
+      },
+      {
+       "id": "c",
+       "bn": "২ ঘণ্টা",
+       "en": "2 hours"
+      },
+      {
+       "id": "d",
+       "bn": "৩০ সেকেন্ড",
+       "en": "30 seconds"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী 15–20 মিনিট ধুয়ে ডাক্তার বা নার্সের শরণাপন্ন হতে হয়।",
+     "explanation_en": "The book says 15-20 minutes, then see a doctor or nurse.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হঠাৎ শক পেলে আক্রান্ত ব্যক্তিকে শুইয়ে পা কত উপরে তুলতে হয়?",
+     "question_en": "When a person suffers sudden shock, how high should the legs be raised?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১০–১২ ইঞ্চি",
+       "en": "10-12 inches"
+      },
+      {
+       "id": "b",
+       "bn": "২–৩ ফুট",
+       "en": "2-3 feet"
+      },
+      {
+       "id": "c",
+       "bn": "১ ইঞ্চি",
+       "en": "1 inch"
+      },
+      {
+       "id": "d",
+       "bn": "পা নামিয়ে মাথা উঁচু",
+       "en": "Keep head up, legs down"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে মেঝেতে শুইয়ে দুই পা প্রায় 10–12 ইঞ্চি উপরে তুলে দিতে হবে।",
+     "explanation_en": "The book says raise the legs about 10-12 inches.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "1.7",
+   "stimulus_bn": "রুমানা ল্যাবরেটরিতে বুনসেন বার্নারের বায়ু নিয়ন্ত্রক রিং বন্ধ রাখায় হলুদ ও কালি জমা সৃষ্টিকারী শিখা পেল। রিং ধীরে ধীরে ঘোরানোর পর শিখা নীলাভ হয়ে গেল। এরপর সে একটি বিকারে তরল উত্তপ্ত করতে চাইল।",
+   "stimulus_en": "Rumana kept the air regulator ring of a Bunsen burner closed and got a yellow flame that deposited soot. After slowly turning the ring the flame became blue. She then wanted to heat a liquid in a beaker.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "বুনসেন বার্নার কে উদ্ভাবন করেন?",
+     "question_en": "Who invented the Bunsen burner?",
+     "model_answer_bn": "জার্মান বিজ্ঞানী রবার্ট বুনসেন ১৮৫৫ সালে এটি উদ্ভাবন করেন।",
+     "model_answer_en": "The German scientist Robert Bunsen invented it in 1855."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রথম অবস্থার শিখায় কালি জমা হওয়ার কারণ ব্যাখ্যা কর।",
+     "question_en": "Explain why the first flame deposits soot.",
+     "model_answer_bn": "বায়ু ছিদ্র বন্ধ থাকায় গ্যাসের অসম্পূর্ণ দহন হয় এবং সূক্ষ্ম কার্বন কণা উৎপন্ন হয়; এই কার্বন কণা শিখায় উজ্জ্বল হলুদ বর্ণ দেয় এবং পাত্রের গায়ে কালি হিসেবে জমে।",
+     "model_answer_en": "Closed air hole gives incomplete combustion producing fine carbon particles, which make the flame yellow and deposit as soot on the vessel."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "বিকারটি কীভাবে সঠিক উপায়ে উত্তপ্ত করা উচিত তা ধাপে ধাপে লেখ।",
+     "question_en": "Describe step by step how the beaker should be heated correctly.",
+     "model_answer_bn": "বার্নারের উপর ত্রিপদী স্ট্যান্ড বসিয়ে তার উপর তারজালি রাখতে হবে। বিকারে তরল নিয়ে তারজালির মাঝখানে বসাতে হবে। বায়ু ছিদ্র খুলে অনুজ্জ্বল শিখা তৈরি করে বিকারের নিচে আগুন দিয়ে তাপ নিয়ন্ত্রণ করতে হবে। বিকারের তরল যেন শুকিয়ে না যায় সে দিকে নজর রাখতে হবে।",
+     "model_answer_en": "Place a tripod over the burner with wire gauze on top and set the beaker at its centre. Open the air hole for a non-luminous flame and control the heat by regulating gas. Do not let the liquid dry up completely."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "কেন রুমানার জন্য তাপ দেওয়ার কাজে দ্বিতীয় শিখাটি উপযুক্ত—বিশ্লেষণ কর।",
+     "question_en": "Analyse why the second flame is suitable for Rumana's heating.",
+     "model_answer_bn": "দ্বিতীয় শিখা অনুজ্জ্বল; এতে গ্যাসের সম্পূর্ণ দহন হয়, কোনো কার্বন কণা থাকে না ও তাপমাত্রা বেশি, ফলে পাত্র কালো হয় না এবং দ্রুত ও নিয়ন্ত্রিতভাবে তাপ দেওয়া যায়। অন্যদিকে প্রথম শিখায় কালি জমে ও অসম্পূর্ণ দহনে কম তাপ উৎপন্ন হয়, তাই এটি তাপ দেওয়ার জন্য উপযুক্ত নয়।",
+     "model_answer_en": "The second flame is non-luminous: combustion is complete, no carbon particles are present and the temperature is high, so heating is clean and controllable. The first flame deposits soot and burns incompletely, so it is unsuitable."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.9",
+   "stimulus_bn": "মাহিরের ল্যাবে একটি রিয়েজেন্ট বোতলের গায়ে ক্ষয়কারক সংকেত রয়েছে। সে ওই বোতলের পাশে একটি লেবেলবিহীন বোতল ও সোডিয়াম ধাতু পানির সিংকের কাছে রেখেছিল। এতে ল্যাব শিক্ষক তাকে সতর্ক করলেন।",
+   "stimulus_en": "A reagent bottle in Mahir's lab carries a corrosive hazard symbol. He had kept it next to an unlabelled bottle and a piece of sodium metal near the water sink. The teacher warned him.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "MSDS কী?",
+     "question_en": "What is MSDS?",
+     "model_answer_bn": "Materials Safety Data Sheet—রাসায়নিক উপাদানের নাম, বিপদ ও নিরাপত্তা তথ্যের তালিকা।",
+     "model_answer_en": "Materials Safety Data Sheet: a record of a chemical's name, hazards and safety information."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "কোন ধরনের দ্রবণকে ক্ষয়কারক বলা হয়?",
+     "question_en": "Which solutions are called corrosive?",
+     "model_answer_bn": "যে দ্রবণের pH মান 2.5-এর কম বা 12.5-এর বেশি সেগুলো ক্ষয়কারক।",
+     "model_answer_en": "Solutions with pH below 2.5 or above 12.5."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "সোডিয়াম ধাতু পানির কাছে রাখা বিপজ্জনক কেন?",
+     "question_en": "Why is keeping sodium near water dangerous?",
+     "model_answer_bn": "Na পানির সংস্পর্শে এলে বিস্ফোরণসহ আগুন ধরে যায়। তাই এ ধরনের ধাতু পানি থেকে দূরে নিরাপদ স্থানে রাখতে হয়।",
+     "model_answer_en": "Na catches fire/explodes on contact with water, so it must be stored away from water in a safe place."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "শিক্ষকের সতর্কতার প্রেক্ষিতে মাহিরের কী কী ভুল হয়েছিল এবং তার সঠিক সমাধান কী—বিশ্লেষণ কর।",
+     "question_en": "Analyse Mahir's mistakes and the correct remedies.",
+     "model_answer_bn": "ভুলগুলো: (১) লেবেলবিহীন বোতল ব্যবহারের জন্য রাখা—এটি কখনো ব্যবহার করা যাবে না, অপসারণ করতে হবে; (২) Na পানির কাছে রাখা; (৩) ক্ষয়কারক রাসায়নিক দাহ্য বা বিক্রিয়াশীল বস্তুর পাশে রাখা। সমাধান: রাসায়নিককে ধর্ম অনুযায়ী আলাদা করে সাজানো, লেবেল ও MSDS অনুসরণ করা, নির্দিষ্ট সেলফে সংরক্ষণ করা।",
+     "model_answer_en": "Mistakes: (1) keeping an unlabelled bottle in use (it must be removed); (2) Na near water; (3) corrosives beside reactive/flammable items. Remedies: arrange chemicals by nature, follow labels and MSDS, store on designated shelves."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.11",
+   "stimulus_bn": "একটি স্কুল ল্যাবের শিক্ষার্থীরা ম্যাক্রো পদ্ধতিতে Cu2+ ও Zn2+ শনাক্ত করতে H2S গ্যাস ব্যবহার করে। ফলে ল্যাবে ঝাঁঝালো গন্ধ ছড়ায় ও বর্জ্য বেশি হয়। অন্য একটি স্কুল একই পরীক্ষা সেমি-মাইক্রো পদ্ধতিতে থায়োঅ্যাসিটামাইড দিয়ে করে।",
+   "stimulus_en": "Students of a school lab use H2S gas in the macro method to detect Cu2+ and Zn2+, spreading odour and generating much waste. Another school does the same test by the semi-micro method with thioacetamide.",
+   "difficulty": "advanced",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "সেমি-মাইক্রো পদ্ধতিতে কত আয়তনের দ্রবণ নেওয়া হয়?",
+     "question_en": "What volume of solution is used in semi-micro analysis?",
+     "model_answer_bn": "2–4 mL দ্রবণ নেওয়া হয়।",
+     "model_answer_en": "2-4 mL."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "থায়োঅ্যাসিটামাইড কীভাবে H2S উৎপন্ন করে? বিক্রিয়াটি লেখ।",
+     "question_en": "How does thioacetamide produce H2S? Write the reaction.",
+     "model_answer_bn": "পানির সাথে বিক্রিয়ায়: CH3-CS-NH2 + H2O → CH3-CO-NH2 + H2S।",
+     "model_answer_en": "CH3-CS-NH2 + H2O -> CH3-CO-NH2 + H2S."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "ম্যাক্রো পদ্ধতিতে বেশি দূষণ হওয়ার কারণ ব্যাখ্যা কর।",
+     "question_en": "Explain why the macro method pollutes more.",
+     "model_answer_bn": "ম্যাক্রোতে 0.5–2.0 g নমুনা ও 20–30 mL দ্রবণ নিতে হয়, ফলে বেশি রাসায়নিক অপচয় ও বর্জ্য সৃষ্টি হয় এবং গ্যাস সরবরাহের সময় বিষাক্ত H2S বাতাসে ছড়ায়।",
+     "model_answer_en": "It uses 0.5-2.0 g sample and 20-30 mL solution, creating more waste, and toxic H2S escapes into the air during gas supply."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "কোন স্কুলের পদ্ধতিটি পরিবেশ ও স্বাস্থ্যের জন্য ভালো—যুক্তিসহ বিশ্লেষণ কর।",
+     "question_en": "Which school's method is better for environment and health? Justify.",
+     "model_answer_bn": "দ্বিতীয় স্কুলের সেমি-মাইক্রো পদ্ধতি ভালো। অল্প রাসায়নিক লাগে, সময় ও খরচ কম, বর্জ্য কম এবং থায়োঅ্যাসিটামাইড থেকে উৎপন্ন H2S প্রায় সম্পূর্ণ দ্রবণে থেকে বিক্রিয়ায় অংশ নেয় বলে পরিবেশে গ্যাস কম ছড়ায়। এতে ল্যাবে বিষাক্ত গ্যাসের ঝুঁকিও কমে।",
+     "model_answer_en": "The semi-micro method is better: smaller quantities, less time and cost, less waste, and the H2S formed stays largely in solution and reacts, so little escapes, lowering toxic-gas risk."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.14",
+   "stimulus_bn": "মিতা ল্যাবে H2SO4 পাতলা করার সময় অসাবধানতায় অল্প এসিড তার হাতের ত্বকে ও অল্প ফোঁটা চোখে পড়ে যায়। সে সেফটি গ্লাস পরেনি। ল্যাবের ফার্স্ট এইড বক্স ও আইক্যাপ কাছেই ছিল।",
+   "stimulus_en": "While diluting H2SO4, Mita accidentally gets some acid on her hand and a few drops in her eye. She was not wearing safety glasses. A first aid box and eye cap were nearby.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "ফার্স্ট এইড বক্স কী?",
+     "question_en": "What is a first aid box?",
+     "model_answer_bn": "যে বক্সে দুর্ঘটনার শিকার ব্যক্তিকে প্রাথমিক চিকিৎসা দেওয়ার জন্য বিভিন্ন চিকিৎসা যন্ত্রপাতি ও ঔষধ একত্রে রাখা হয়।",
+     "model_answer_en": "A box that holds medical equipment and medicines together for giving first aid to accident victims."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রাথমিক চিকিৎসার তিনটি লক্ষ্য লেখ।",
+     "question_en": "Write the three objectives of first aid.",
+     "model_answer_bn": "জীবন রক্ষা, অধিকতর ক্ষতির আশঙ্কা নিরোধ ও নিরাময় উন্নীতকরণ।",
+     "model_answer_en": "Preserve life, prevent further harm and promote recovery."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "হাতের ত্বকের জন্য মিতার কী চিকিৎসা নেওয়া উচিত?",
+     "question_en": "What treatment should Mita give her hand?",
+     "model_answer_bn": "সাথে সাথে প্রবাহিত পানি বা ঝরনার নিচে ভালোভাবে ধুয়ে নিতে হবে, এরপর ক্ষতস্থানে বেকিং সোডা (NaHCO3) দিতে হবে এবং শিক্ষককে জানাতে হবে।",
+     "model_answer_en": "Wash thoroughly with running water/shower immediately, then apply baking soda (NaHCO3) and inform the teacher."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "চোখের দুর্ঘটনার ক্ষেত্রে মিতার করণীয় ও ভবিষ্যতে এড়ানোর উপায় বিশ্লেষণ কর।",
+     "question_en": "Analyse what Mita should do for the eye accident and how to avoid it in future.",
+     "model_answer_bn": "কালবিলম্ব না করে ট্যাপের পানি বা আইক্যাপে পানি ভরে চোখ 15–20 মিনিট ধুতে হবে, আইক্যাপের পানি পরিবর্তন করতে হবে, এরপর ডাক্তার বা নার্সের শরণাপন্ন হতে হবে। ভবিষ্যতে সেফটি গ্লাস পরা, এসিড লঘু করার সময় ঠান্ডা পানিতে ফোঁটায় ফোঁটায় এসিড যোগ করা এবং অতি ঘন এসিডে ফিউম হুড ব্যবহার করা উচিত।",
+     "model_answer_en": "Rinse immediately with tap water or eye cap for 15-20 minutes, changing the eye-cap water, then see a doctor/nurse. In future wear safety glasses, add acid dropwise to cold water, and use a fume hood for very conc. acid."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 35-70 were legible. Printed p.54 shows no section start; pages 68-70 (exercises) skipped for content. The book's table lists 0.316 g KMnO4 per 100 mL of 0.1 M, which does not match the molar mass (158 g/mol gives 1.58 g); no MCQ relies on it. Semi-micro/micro quantities follow the comparison table on p.60."
+}

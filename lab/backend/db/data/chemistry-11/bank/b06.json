@@ -1,0 +1,1927 @@
+{
+ "chapter_no": 2,
+ "topics": [
+  {
+   "section_no": "2.18",
+   "title_bn": "কেলাসন",
+   "title_en": "Crystallization",
+   "notes_bn": "কঠিন পদার্থকে মিশ্রণ থেকে বিশুদ্ধ কেলাসরূপে পৃথক করার পদ্ধতি কেলাসন; জৈব পদার্থে বেশি ব্যবহৃত।\nউপযুক্ত দ্রাবক নির্বাচনই মূল বিষয়: মূল যৌগ সহজে দ্রবীভূত হবে, ভেজাল অদ্রবীয় বা খুব সামান্য দ্রবীভূত থাকবে (যেমন পানি, অ্যালকোহল, ইথার, ক্লোরোফরম, বেনজিন)।\nধাপ: উচ্চ তাপমাত্রায় সম্পৃক্ত দ্রবণ → পরিস্রাবণে অদ্রবীয় ভেজাল অপসারণ → ঘন করা → ধীরে শীতল করলে কেলাস তৈরি।\nউদ্বায়ী/দাহ্য দ্রাবকে সরাসরি আগুনের বদলে পানিগাহ (water bath) ব্যবহার করা হয়।\nশোষণ পাম্পযুক্ত বুকনার ফানেলে কেলাস দ্রবণ থেকে আলাদা করা হয়; ভেজা কেলাস সামান্য দ্রাবকে ধুয়ে শুকানো হয়।\nপুনঃকেলাসন: একবারে বিশুদ্ধ না হলে কেলাস আবার একই পদ্ধতিতে কেলাসিত করা; পরপর দুবারে একই গলনাঙ্ক পেলে যৌগ বিশুদ্ধ ধরা হয়।",
+   "notes_en": "Crystallization separates a pure solid crystal from a mixture; used mostly for organic solids.\nSolvent choice is key: the main compound dissolves readily while impurities stay insoluble or only slightly soluble (water, alcohol, ether, chloroform, benzene).\nSteps: hot saturated solution -> filter off insoluble impurities -> concentrate -> cool slowly so crystals form.\nFor volatile/flammable solvents a water bath replaces a direct flame.\nA Buchner funnel with suction pump separates the crystals; they are washed with a little solvent and dried.\nRecrystallization: repeat if not pure; the same melting point on two successive crystallizations indicates purity.",
+   "mcqs": [
+    {
+     "question_bn": "কেলাসন প্রক্রিয়ায় কোন ধরনের পদার্থ পৃথক করা হয়?",
+     "question_en": "What kind of substance is separated by crystallization?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিশুদ্ধ কঠিন কেলাস",
+       "en": "A pure solid crystal"
+      },
+      {
+       "id": "b",
+       "bn": "গ্যাসীয় পদার্থ",
+       "en": "Gaseous substance"
+      },
+      {
+       "id": "c",
+       "bn": "উদ্বায়ী তরল",
+       "en": "Volatile liquid"
+      },
+      {
+       "id": "d",
+       "bn": "কলয়েড",
+       "en": "Colloid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কেলাসনে কঠিন উপাদানকে মিশ্রণ থেকে বিশুদ্ধ কেলাস আকারে পৃথক করা হয়।",
+     "explanation_en": "Crystallization separates a solid component as pure crystals.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "শোষণ পাম্পযুক্ত বুকনার ফানেল কীসের জন্য ব্যবহৃত হয়?",
+     "question_en": "What is a Buchner funnel with a suction pump used for?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কেলাসকে দ্রবণ থেকে দ্রুত পৃথক করতে",
+       "en": "To separate crystals quickly from the solution"
+      },
+      {
+       "id": "b",
+       "bn": "দ্রবণ ফোটাতে",
+       "en": "To boil the solution"
+      },
+      {
+       "id": "c",
+       "bn": "গ্যাস সংগ্রহ করতে",
+       "en": "To collect gas"
+      },
+      {
+       "id": "d",
+       "bn": "তরল পাতন করতে",
+       "en": "To distil a liquid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শোষণ পাম্প নিম্নচাপে পরিস্রাবণ করে কেলাস ও দ্রবণ আলাদা করে।",
+     "explanation_en": "Suction filters under reduced pressure, separating crystals from liquor.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কেলাসনের জন্য আদর্শ দ্রাবক কোনটি?",
+     "question_en": "Which describes an ideal solvent for crystallization?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মূল যৌগকে সহজে দ্রবীভূত করে, ভেজালকে করে না",
+       "en": "Dissolves the main compound readily but not the impurities"
+      },
+      {
+       "id": "b",
+       "bn": "সবকিছুকেই সমানভাবে দ্রবীভূত করে",
+       "en": "Dissolves everything equally"
+      },
+      {
+       "id": "c",
+       "bn": "মূল যৌগকে একেবারেই দ্রবীভূত করে না",
+       "en": "Does not dissolve the main compound"
+      },
+      {
+       "id": "d",
+       "bn": "কেবল ভেজালকে দ্রবীভূত করে এবং মূল যৌগ নয়",
+       "en": "Dissolves only impurities, not the main compound"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের শর্ত: মূল যৌগ সহজে দ্রবীভূত হবে, ভেজাল অদ্রবীভূত বা সামান্য দ্রবীভূত থাকবে।",
+     "explanation_en": "Per the book, the main compound dissolves easily while impurities stay undissolved or barely dissolved.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "উদ্বায়ী ও দাহ্য দ্রাবক ব্যবহারের সময় তাপ দিতে কী ব্যবহার করা হয়?",
+     "question_en": "Which heating arrangement is used with a volatile, flammable solvent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানিগাহ",
+       "en": "Water bath"
+      },
+      {
+       "id": "b",
+       "bn": "সরাসরি বুনসেন শিখা",
+       "en": "Direct Bunsen flame"
+      },
+      {
+       "id": "c",
+       "bn": "বালুগাহ ছাড়া তারজালি",
+       "en": "Wire gauze alone"
+      },
+      {
+       "id": "d",
+       "bn": "অতিরিক্ত গরম প্লেট",
+       "en": "Very hot plate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "আগুন ধরার ঝুঁকি এড়াতে পানিগাহে তাপ দেওয়া হয়।",
+     "explanation_en": "A water bath avoids fire risk from flammable vapour.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পুনঃকেলাসন কখন করা হয়?",
+     "question_en": "When is recrystallization carried out?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "একবার কেলাসনে সম্পূর্ণ বিশুদ্ধ না হলে",
+       "en": "When one crystallization does not give a fully pure product"
+      },
+      {
+       "id": "b",
+       "bn": "সবসময় ঠিক একবার",
+       "en": "Always exactly once"
+      },
+      {
+       "id": "c",
+       "bn": "গ্যাস বিশুদ্ধ করতে",
+       "en": "To purify a gas"
+      },
+      {
+       "id": "d",
+       "bn": "কেলাস দ্রবীভূত করে ফেলতে",
+       "en": "To destroy the crystals"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অবিশুদ্ধ কেলাস শুকিয়ে আবার একই পদ্ধতিতে কেলাসিত করাকে পুনঃকেলাসন বলে।",
+     "explanation_en": "Crystals not fully pure are recrystallized by the same method.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "গরম পরিস্রাবণে ফিল্টার কাগজে কেলাস পড়া রোধে কী ব্যবহার করা হয়?",
+     "question_en": "What prevents crystals forming on the filter paper during hot filtration?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গরম পানির আবরণযুক্ত ফানেল",
+       "en": "A funnel with a hot-water jacket"
+      },
+      {
+       "id": "b",
+       "bn": "বরফ-শীতল ফানেল",
+       "en": "An ice-cold funnel"
+      },
+      {
+       "id": "c",
+       "bn": "শুকনো কাচের দণ্ড",
+       "en": "A dry glass rod"
+      },
+      {
+       "id": "d",
+       "bn": "সিলিকা জেল",
+       "en": "Silica gel"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "দ্রবণ ঠান্ডা হলে ফিল্টারেই কেলাস জমে যেতে পারে, তাই গরম পানির আবরণযুক্ত ফানেল ব্যবহৃত হয়।",
+     "explanation_en": "Cooling would crystallize the solute in the filter, so a hot-water-jacketed funnel is used.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কেলাসন ধীরে ধীরে শীতল করার কারণ কী?",
+     "question_en": "Why is the solution cooled slowly during crystallization?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "যাতে দ্রবণ থেকে কেলাস ধীরে ধীরে উৎপন্ন হয় এবং ভেজাল দ্রবণে থেকে যায়",
+       "en": "So crystals form gradually while impurities stay in solution"
+      },
+      {
+       "id": "b",
+       "bn": "যাতে দ্রাবক বাষ্পীভূত হয়",
+       "en": "So the solvent evaporates"
+      },
+      {
+       "id": "c",
+       "bn": "যাতে গ্যাস উৎপন্ন হয়",
+       "en": "So gas is released"
+      },
+      {
+       "id": "d",
+       "bn": "যাতে সব ভেজালও কেলাসিত হয়",
+       "en": "So all impurities also crystallize"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ধীরে শীতল করলে পাত্রের নিচে ধীরে কেলাস উৎপন্ন হয়; অল্প ভেজাল দ্রবণেই থাকে।",
+     "explanation_en": "Slow cooling lets crystals form gradually; small amounts of impurity remain dissolved.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.19",
+   "title_bn": "ব্যবহারিক : কেলাসন পদ্ধতিতে অবিশুদ্ধ খাদ্য লবণ থেকে বিশুদ্ধ লবণের কেলাস তৈরি",
+   "title_en": "Practical: Pure salt crystals from impure table salt by crystallization",
+   "notes_bn": "অবিশুদ্ধ লবণে CaCl₂, CaSO₄, MgCl₂, MgSO₄ ইত্যাদির সাথে অদ্রবীয় ভেজাল থাকে।\nপদ্ধতি: ১০০ mL পাতিত পানিতে ২৫ g নমুনা লবণ মিশিয়ে সম্পৃক্ত দ্রবণ → পরিস্রাবণ → দ্রবণ ঘন করে ঠান্ডা করা।\nঠান্ডা দ্রবণে ৫–৬ ফোঁটা গাঢ় HCl দিলে Cl⁻ আয়নের ঘনমাত্রা বাড়ে; NaCl-এর আয়নিক গুণফল দ্রাব্যতা গুণফল ছাড়িয়ে যায় ও NaCl কেলাস হিসেবে পৃথক হয় (সল্টিং আউট)।\nকেলাস পরিস্রাবণ করে ২–৩ বার ধোয়া হয় এবং সিলিকা জেল বা গলিত CaCl₂ ডেসিকেটরে শুকানো হয়।\nকেলাস সাদা ও ঘনকাকার (কিউবিক)।\nউদাহরণ: W₁ = ২৫ g, W₂ = ১৫ g হলে কেলাস উৎপাদন হার = (১৫×১০০)/২৫ = ৬০%।\nসতর্কতা: সম্পৃক্ত দ্রবণে সর্বনিম্ন পানি, ধীরে ও সমভাবে উত্তপ্ত করা, গরম বিকার সাবধানে ধরা।",
+   "notes_en": "Impure salt contains CaCl2, CaSO4, MgCl2, MgSO4 and insoluble matter.\nMethod: dissolve 25 g sample in 100 mL distilled water, filter, concentrate, cool.\nAdding 5-6 drops of conc. HCl to the cold solution raises [Cl-]; the ionic product of NaCl exceeds its solubility product, so NaCl crystallizes (salting out).\nFilter, wash 2-3 times, dry in a desiccator with silica gel or fused CaCl2.\nCrystals are white and cubic.\nExample: W1 = 25 g, W2 = 15 g gives yield = 15x100/25 = 60%.\nPrecautions: minimum water, heat slowly and evenly, handle hot beaker carefully.",
+   "mcqs": [
+    {
+     "question_bn": "এই ব্যবহারিকে সম্পৃক্ত দ্রবণ তৈরিতে কত পানিতে কত লবণ নেওয়া হয়?",
+     "question_en": "How much salt is dissolved in how much water for the saturated solution here?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১০০ mL পানিতে ২৫ g",
+       "en": "25 g in 100 mL"
+      },
+      {
+       "id": "b",
+       "bn": "২৫ mL পানিতে ১০০ g",
+       "en": "100 g in 25 mL"
+      },
+      {
+       "id": "c",
+       "bn": "১০ mL পানিতে ৫ g",
+       "en": "5 g in 10 mL"
+      },
+      {
+       "id": "d",
+       "bn": "৫০০ mL পানিতে ১ g",
+       "en": "1 g in 500 mL"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ১০০ mL পাতিত পানিতে ২৫ g নমুনা লবণ নেওয়া হয়েছে।",
+     "explanation_en": "The book uses 25 g of sample in 100 mL distilled water.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ঠান্ডা দ্রবণে কোন পদার্থ যোগ করলে NaCl কেলাসিত হয়?",
+     "question_en": "Which substance added to the cold solution crystallizes NaCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় HCl",
+       "en": "Concentrated HCl"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "পাতিত পানি",
+       "en": "Distilled water"
+      },
+      {
+       "id": "d",
+       "bn": "AgNO₃",
+       "en": "AgNO3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গাঢ় HCl থেকে Cl⁻ বেড়ে NaCl কেলাসিত হয়।",
+     "explanation_en": "Conc. HCl supplies Cl-, driving NaCl out of solution.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রাপ্ত NaCl কেলাসের আকৃতি কেমন?",
+     "question_en": "What is the shape of the NaCl crystals obtained?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ঘনকাকার (কিউবিক)",
+       "en": "Cubic"
+      },
+      {
+       "id": "b",
+       "bn": "সূচাকার",
+       "en": "Needle-shaped"
+      },
+      {
+       "id": "c",
+       "bn": "পাতলা পাত",
+       "en": "Thin plates"
+      },
+      {
+       "id": "d",
+       "bn": "অনিয়তাকার",
+       "en": "Amorphous"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে কেলাসের গঠন ঘনকাকার বা কিউবিক বলা হয়েছে।",
+     "explanation_en": "The book states the crystal form as cubic.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "গাঢ় HCl যোগে NaCl কেলাসিত হওয়ার কারণ কী?",
+     "question_en": "Why does NaCl crystallize when conc. HCl is added?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl⁻ বাড়ায় আয়নিক গুণফল > দ্রাব্যতা গুণফল হয়",
+       "en": "Increased [Cl-] makes ionic product exceed the solubility product"
+      },
+      {
+       "id": "b",
+       "bn": "Na⁺ বিয়োজিত হয়ে যায়",
+       "en": "Na+ is destroyed"
+      },
+      {
+       "id": "c",
+       "bn": "পানি বাষ্পীভূত হয়",
+       "en": "Water evaporates"
+      },
+      {
+       "id": "d",
+       "bn": "HCl NaCl-এর সাথে বিক্রিয়া করে গ্যাস দেয়",
+       "en": "HCl reacts with NaCl to give a gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সমআয়ন Cl⁻ বাড়লে আয়নিক গুণফল Ksp ছাড়ায়, ফলে NaCl অধঃক্ষিপ্ত হয়।",
+     "explanation_en": "The common ion Cl- raises the ionic product above Ksp so NaCl separates.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "এই প্রক্রিয়ায় NaCl কেলাস পৃথক হওয়াকে কী বলে?",
+     "question_en": "What is the separation of NaCl crystals in this way called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সল্টিং আউট",
+       "en": "Salting out"
+      },
+      {
+       "id": "b",
+       "bn": "ঊর্ধ্বপাতন",
+       "en": "Sublimation"
+      },
+      {
+       "id": "c",
+       "bn": "ইলিউশন",
+       "en": "Elution"
+      },
+      {
+       "id": "d",
+       "bn": "বাষ্পপাতন",
+       "en": "Steam distillation"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে একে সল্টিং আউট (Salting out) বলা হয়েছে।",
+     "explanation_en": "The book names this salting out.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "২৫ g অবিশুদ্ধ লবণ থেকে ১৫ g বিশুদ্ধ কেলাস পাওয়া গেলে কেলাস উৎপাদন হার কত?",
+     "question_en": "If 15 g pure crystals are obtained from 25 g impure salt, what is the yield?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৬০%",
+       "en": "60%"
+      },
+      {
+       "id": "b",
+       "bn": "৪০%",
+       "en": "40%"
+      },
+      {
+       "id": "c",
+       "bn": "১৬.৭%",
+       "en": "16.7%"
+      },
+      {
+       "id": "d",
+       "bn": "১৫%",
+       "en": "15%"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "(১৫/২৫)×১০০ = ৬০%।",
+     "explanation_en": "(15/25) x 100 = 60%.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.20",
+   "title_bn": "পাতন, আংশিক পাতন, বাষ্প পাতন ও ঊর্ধ্বপাতন",
+   "title_en": "Distillation, fractional distillation, steam distillation and sublimation",
+   "notes_bn": "পাতন = বাষ্পীভবন + ঘনীভবন; উদ্বায়ী তরলকে অনুদ্বায়ী কঠিন বা ফুটনাঙ্কে ৪০°C-এর বেশি পার্থক্যের তরল থেকে পৃথক করে। যেমন অবিশুদ্ধ বেনজিন (ফুটনাঙ্ক ৮০.৪°C)।\nফুটনাঙ্ক ১২০°C-এর বেশি হলে লিবিগ শীতকের বদলে বায়ু শীতক (প্রায় ৮০ cm লম্বা, ১ cm ব্যাস)। ঝাঁকুনি রোধে কাচের টুকরা দেওয়া হয়।\nআংশিক পাতন: ফুটনাঙ্ক-পার্থক্য ৪০°C-এর কম হলে অংশ কলাম ব্যবহার; উদাহরণ মিথানল (৬৪°C), বেনজিন (৮০.৪°C), টলুইন (১১১°C)। ব্যবহার: পেট্রোলিয়াম থেকে ডিজেল/পেট্রল/কেরোসিন, রেকটিফাইড স্পিরিট।\nবাষ্প পাতন: পানিতে অদ্রবণীয় ও উদ্বায়ী জৈব যৌগ স্বাভাবিক ফুটনাঙ্কের নিচে ফোটে, কারণ P = P₁ + P₂ = বায়ুমণ্ডলীয় চাপ। ব্যবহার: ফুলের নির্যাস, ইউক্যালিপটাস তেল, লেমনগ্রাস থেকে সাইট্রাল।\nঊর্ধ্বপাতন: কঠিন → বাষ্প → কঠিন, তরল দশা ছাড়াই। উদাহরণ: NH₄Cl, কর্পূর, আয়োডিন, ন্যাপথালিন, বেনজোয়িক অ্যাসিড (গলনাঙ্ক ১২১°C, ১০০°C-এ ঊর্ধ্বপাতিত)। ঊর্ধ্বপাতিত পদার্থকে উৎক্ষেপ বলে।",
+   "notes_en": "Distillation = vaporization + condensation; separates a volatile liquid from a non-volatile solid or from liquids whose boiling points differ by more than 40 C (e.g. impure benzene, b.p. 80.4 C).\nFor b.p. above 120 C an air condenser (about 80 cm long, 1 cm diameter) replaces the Liebig condenser; glass pieces prevent bumping.\nFractional distillation: used when b.p. difference is under 40 C, with a fractionating column; e.g. methanol 64 C, benzene 80.4 C, toluene 111 C. Uses: petroleum to diesel/petrol/kerosene, rectified spirit.\nSteam distillation: for water-insoluble volatile organics, boils below normal b.p. because P = P1 + P2 = atmospheric pressure. Uses: flower extracts, eucalyptus oil, citral from lemongrass.\nSublimation: solid -> vapour -> solid with no liquid phase; e.g. NH4Cl, camphor, iodine, naphthalene, benzoic acid (m.p. 121 C, sublimes at 100 C). The product is called the sublimate.",
+   "mcqs": [
+    {
+     "question_bn": "পাতন প্রক্রিয়াটি কোন দুটি ধাপের সমষ্টি?",
+     "question_en": "Distillation is the sum of which two steps?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাষ্পীভবন + ঘনীভবন",
+       "en": "Vaporization + condensation"
+      },
+      {
+       "id": "b",
+       "bn": "গলন + কঠিনীভবন",
+       "en": "Melting + freezing"
+      },
+      {
+       "id": "c",
+       "bn": "দ্রবণ + পরিস্রাবণ",
+       "en": "Dissolving + filtering"
+      },
+      {
+       "id": "d",
+       "bn": "অধিশোষণ + ইলিউশন",
+       "en": "Adsorption + elution"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে পাতন = (বাষ্পীভবন + ঘনীভবন)।",
+     "explanation_en": "The book: distillation = (vaporization + condensation).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ফুটনাঙ্ক-পার্থক্য কত °C-এর কম হলে আংশিক পাতন ব্যবহার করা হয়?",
+     "question_en": "Fractional distillation is used when the boiling-point difference is less than how many degrees C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৪০",
+       "en": "40"
+      },
+      {
+       "id": "b",
+       "bn": "১০০",
+       "en": "100"
+      },
+      {
+       "id": "c",
+       "bn": "১২০",
+       "en": "120"
+      },
+      {
+       "id": "d",
+       "bn": "৪",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পার্থক্য ৪০°C-এর বেশি হলে সাধারণ পাতন, কম হলে আংশিক পাতন।",
+     "explanation_en": "Above 40 C simple distillation works; below it fractional distillation is used.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি ঊর্ধ্বপাতিত হয়?",
+     "question_en": "Which substance sublimes?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH₄Cl",
+       "en": "NH4Cl"
+      },
+      {
+       "id": "b",
+       "bn": "NaCl",
+       "en": "NaCl"
+      },
+      {
+       "id": "c",
+       "bn": "CaCO₃",
+       "en": "CaCO3"
+      },
+      {
+       "id": "d",
+       "bn": "MgSO₄",
+       "en": "MgSO4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের তালিকায় নিশাদল (NH₄Cl) ঊর্ধ্বপাতিত পদার্থ।",
+     "explanation_en": "NH4Cl is among the sublimable substances listed.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "মিথানল (৬৪°C), বেনজিন (৮০.৪°C) ও টলুইন (১১১°C) মিশ্রণের আংশিক পাতনে সবার আগে কোনটি গ্রাহক পাত্রে জমা হয়?",
+     "question_en": "In fractional distillation of methanol (64 C), benzene (80.4 C) and toluene (111 C), which collects first?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মিথানল",
+       "en": "Methanol"
+      },
+      {
+       "id": "b",
+       "bn": "বেনজিন",
+       "en": "Benzene"
+      },
+      {
+       "id": "c",
+       "bn": "টলুইন",
+       "en": "Toluene"
+      },
+      {
+       "id": "d",
+       "bn": "তিনটি একসাথে",
+       "en": "All three together"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সবচেয়ে কম ফুটনাঙ্কের মিথানলের বাষ্প প্রথমে শীতকে ঘনীভূত হয়।",
+     "explanation_en": "Methanol has the lowest b.p. so it distils first.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বাষ্প পাতন কোন ধরনের জৈব যৌগের জন্য উপযোগী?",
+     "question_en": "Steam distillation suits which kind of organic compound?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পানিতে অদ্রবণীয় ও উদ্বায়ী, পানিতে বিয়োজিত হয় না",
+       "en": "Water-insoluble, volatile and not decomposed by water"
+      },
+      {
+       "id": "b",
+       "bn": "পানিতে অত্যন্ত দ্রবণীয়",
+       "en": "Highly water-soluble"
+      },
+      {
+       "id": "c",
+       "bn": "অনুদ্বায়ী ও পানিতে বিয়োজনশীল",
+       "en": "Non-volatile and decomposed by water"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যাসীয় যৌগ",
+       "en": "Gaseous compounds"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সংজ্ঞা অনুযায়ী অদ্রবণীয় ও পানিতে বিয়োজিত হয় না এমন উদ্বায়ী যৌগ।",
+     "explanation_en": "As defined, volatile, water-insoluble compounds that do not decompose in water.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "১২০°C-এর বেশি ফুটনাঙ্কের তরল পাতনে কোন শীতক ব্যবহার করা হয়?",
+     "question_en": "Which condenser is used for liquids boiling above 120 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বায়ু শীতক",
+       "en": "Air condenser"
+      },
+      {
+       "id": "b",
+       "bn": "লিবিগ শীতক",
+       "en": "Liebig condenser"
+      },
+      {
+       "id": "c",
+       "bn": "পানির জ্যাকেট",
+       "en": "Water jacket"
+      },
+      {
+       "id": "d",
+       "bn": "বরফ শীতক",
+       "en": "Ice condenser"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে প্রায় ৮০ cm লম্বা ও ১ cm ব্যাসের কাচনল বায়ু শীতক হিসেবে ব্যবহারের কথা আছে।",
+     "explanation_en": "The book uses an air-cooled glass tube (about 80 cm x 1 cm).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বাষ্প পাতনে মিশ্রণ স্বাভাবিক ফুটনাঙ্কের নিচে ফোটে কেন?",
+     "question_en": "Why does the mixture boil below the normal b.p. in steam distillation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "P₁ + P₂ = বায়ুমণ্ডলীয় চাপ হলেই ফোটে",
+       "en": "It boils when P1 + P2 equals atmospheric pressure"
+      },
+      {
+       "id": "b",
+       "bn": "চাপ বাড়ানো হয় বলে",
+       "en": "Pressure is increased"
+      },
+      {
+       "id": "c",
+       "bn": "পানি বিয়োজিত হয় বলে",
+       "en": "Water decomposes"
+      },
+      {
+       "id": "d",
+       "bn": "শীতকের কারণে",
+       "en": "Because of the condenser"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "জৈব উপাদান ও জলীয় বাষ্পের চাপের সমষ্টি বায়ুচাপের সমান হলে মিশ্রণ ফোটে, যা প্রতিটির আলাদা ফুটনাঙ্কের কম তাপমাত্রা।",
+     "explanation_en": "Total vapour pressure P1 + P2 reaches atmospheric pressure at a temperature below the organic component's own b.p.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "বেনজোয়িক অ্যাসিডের গলনাঙ্ক ১২১°C হলেও ১০০°C-এ ঊর্ধ্বপাতন সম্ভব, এর ব্যবহার কী?",
+     "question_en": "Benzoic acid (m.p. 121 C) sublimes at 100 C. What can this be used for?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ভেজালযুক্ত বেনজোয়িক অ্যাসিডকে বিশুদ্ধ করতে",
+       "en": "To purify impure benzoic acid"
+      },
+      {
+       "id": "b",
+       "bn": "তরল বেনজোয়িক অ্যাসিড তৈরি করতে",
+       "en": "To make liquid benzoic acid"
+      },
+      {
+       "id": "c",
+       "bn": "পানিতে দ্রবীভূত করতে",
+       "en": "To dissolve it in water"
+      },
+      {
+       "id": "d",
+       "bn": "এটি ভেঙে CO₂ পেতে",
+       "en": "To decompose it into CO2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ঊর্ধ্বপাতনে বাষ্প শীতল গায়ে বিশুদ্ধ উৎক্ষেপরূপে জমে, ভেজাল থেকে যায়।",
+     "explanation_en": "The vapour deposits as pure sublimate on the cold surface, leaving impurities behind.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.21",
+   "title_bn": "দ্রাবক নিষ্কাশন",
+   "title_en": "Solvent Extraction",
+   "notes_bn": "পানি মেরু দ্রাবক; অনেক জৈব যৌগ পানিতে কম দ্রবণীয়, কিন্তু জৈব দ্রাবকে বেশি দ্রবণীয়।\nজলীয় দ্রবণ বা অন্য মিশ্রণ থেকে উপযুক্ত জৈব দ্রাবকে যৌগকে দ্রবীভূত করে পৃথক করাকে দ্রাবক নিষ্কাশন বলে। আদর্শ দ্রাবক ইথার (বেনজিন, CS₂, ক্লোরোফরম, টলুইন, পেট্রোলিয়াম-ইথারও ব্যবহৃত)।\n(ক) জলীয় দ্রবণ থেকে: পৃথকীকরণ ফানেলে দ্রবণ + ইথার ভালোভাবে ঝাঁকিয়ে স্থির রাখলে ইথারীয় স্তর উপরে, জলীয় স্তর নিচে; নিচেরটি সরিয়ে ২–৩ বার পুনরাবৃত্তি করা হয়।\nইথারীয় স্তর শুকাতে নির্জল CaCl₂, শুষ্ক MgSO₄ বা Na₂SO₄ ব্যবহার, তারপর পাতনে দ্রাবক সরানো।\nউদাহরণ: ইথানল + ক্লোরোফরম; ক্লোরোফরম নিচের স্তরে, অ্যালকোহল জলীয় স্তরে।\n(খ) কঠিন থেকে: সক্সলেট নিষ্কাশক যন্ত্র; দ্রাবকের পরিমাণ সাইফন সিলিন্ডারের আয়তনের প্রায় ১.৫ গুণ; বাষ্পায়ন-ঘনীভবন-সাইফনে প্রক্রিয়া চলতে থাকে।\nব্যবহার: উদ্ভিদ থেকে অ্যালকালয়েড, নারকেল/সয়াবিন তেল, ধানের কুঁড়া থেকে ভোজ্য তেল, মরিচের লাল রং।",
+   "notes_en": "Water is a polar solvent; many organic compounds are less soluble in it but more soluble in organic solvents.\nSolvent extraction separates a compound from an aqueous solution or other mixture by dissolving it in a suitable organic solvent. Ideal solvent: ether (also benzene, CS2, chloroform, toluene, petroleum ether).\n(a) From aqueous solution: shake with ether in a separating funnel and let stand; ether layer on top, aqueous below; drain the lower layer and repeat 2-3 times.\nEther extracts are dried with anhydrous CaCl2, dry MgSO4 or Na2SO4, then the solvent is distilled off.\nExample: ethanol + chloroform; chloroform is the lower layer and alcohol goes into the aqueous layer.\n(b) From solids: Soxhlet extractor; solvent volume about 1.5 times the siphon cylinder volume; continuous vaporization, condensation and siphoning.\nUses: alkaloids from plants, coconut/soybean oil, edible oil from rice bran, red colour from chilli.",
+   "mcqs": [
+    {
+     "question_bn": "জলীয় দ্রবণ থেকে নিষ্কাশনে কোন যন্ত্র ব্যবহৃত হয়?",
+     "question_en": "Which apparatus is used for extraction from an aqueous solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পৃথকীকরণ ফানেল",
+       "en": "Separating funnel"
+      },
+      {
+       "id": "b",
+       "bn": "সক্সলেট যন্ত্র",
+       "en": "Soxhlet apparatus"
+      },
+      {
+       "id": "c",
+       "bn": "বুকনার ফানেল",
+       "en": "Buchner funnel"
+      },
+      {
+       "id": "d",
+       "bn": "আংশিক কলাম",
+       "en": "Fractionating column"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "জলীয় দ্রবণ ও ইথার পৃথকীকরণ ফানেলে ঝাঁকানো হয়।",
+     "explanation_en": "Aqueous solution and ether are shaken in a separating funnel.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কঠিন পদার্থ থেকে নিষ্কাশনে ব্যবহৃত যন্ত্রের নাম কী?",
+     "question_en": "What is the apparatus for extraction from a solid called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সক্সলেট নিষ্কাশক",
+       "en": "Soxhlet extractor"
+      },
+      {
+       "id": "b",
+       "bn": "কিপ যন্ত্র",
+       "en": "Kipp apparatus"
+      },
+      {
+       "id": "c",
+       "bn": "লিবিগ শীতক",
+       "en": "Liebig condenser"
+      },
+      {
+       "id": "d",
+       "bn": "ডেসিকেটর",
+       "en": "Desiccator"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সক্সলেট নিষ্কাশক যন্ত্রের উল্লেখ আছে।",
+     "explanation_en": "The book names the Soxhlet extractor.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথার ও জলীয় দ্রবণের মিশ্রণে কোন স্তর উপরে থাকে?",
+     "question_en": "In an ether-water mixture, which layer is on top?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইথারীয় স্তর",
+       "en": "The ether layer"
+      },
+      {
+       "id": "b",
+       "bn": "জলীয় স্তর",
+       "en": "The aqueous layer"
+      },
+      {
+       "id": "c",
+       "bn": "কোনো স্তর হয় না",
+       "en": "No layers form"
+      },
+      {
+       "id": "d",
+       "bn": "উভয় সমান",
+       "en": "Both side by side"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইথারীয় স্তর উপরে ও জলীয় স্তর নিচে থাকে।",
+     "explanation_en": "Ether layer lies above and the aqueous layer below.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ইথারীয় স্তরকে পানিমুক্ত করতে কোনটি ব্যবহার করা যায়?",
+     "question_en": "Which can dry the ether layer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শুষ্ক Na₂SO₄",
+       "en": "Dry Na2SO4"
+      },
+      {
+       "id": "b",
+       "bn": "পাতিত পানি",
+       "en": "Distilled water"
+      },
+      {
+       "id": "c",
+       "bn": "তরল HCl",
+       "en": "Dilute HCl"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl দ্রবণ",
+       "en": "NaCl solution"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বিগলিত CaCl₂, শুষ্ক MgSO₄, শুষ্ক Na₂SO₄ উল্লেখ আছে।",
+     "explanation_en": "The book lists CaCl2, dry MgSO4 and dry Na2SO4.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ইথানল ও ক্লোরোফরমের মিশ্রণ পানিসহ ঝাঁকালে কী ঘটে?",
+     "question_en": "What happens when an ethanol-chloroform mixture is shaken with water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যালকোহল জলীয় স্তরে যায়, ক্লোরোফরম নিচের স্তরে থাকে",
+       "en": "Alcohol goes into the aqueous layer; chloroform forms the bottom layer"
+      },
+      {
+       "id": "b",
+       "bn": "ক্লোরোফরম উপরে ভাসে",
+       "en": "Chloroform floats on top"
+      },
+      {
+       "id": "c",
+       "bn": "সবকিছু একই স্তরে মেশে",
+       "en": "All mixes in one layer"
+      },
+      {
+       "id": "d",
+       "bn": "ইথানল নিচে জমে",
+       "en": "Ethanol settles at the bottom"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "অ্যালকোহল পানিতে দ্রবীভূত হয়, ক্লোরোফরম অদ্রবণীয় হয়ে নিচের স্তরে থাকে।",
+     "explanation_en": "Alcohol dissolves in water; chloroform stays as the lower layer.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সক্সলেট যন্ত্রে দ্রাবকের পরিমাণ সাধারণত সিলিন্ডারের আয়তনের কত গুণ নেওয়া হয়?",
+     "question_en": "In a Soxhlet extractor, the solvent volume is about how many times the cylinder volume?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১.৫",
+       "en": "1.5"
+      },
+      {
+       "id": "b",
+       "bn": "০.৫",
+       "en": "0.5"
+      },
+      {
+       "id": "c",
+       "bn": "১০",
+       "en": "10"
+      },
+      {
+       "id": "d",
+       "bn": "১০০",
+       "en": "100"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সিলিন্ডার আয়তনের প্রায় ১.৫ গুণ বলা হয়েছে।",
+     "explanation_en": "The book states about 1.5 times.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "সম্পূর্ণ নিষ্কাশনের জন্য জলীয় দ্রবণে একবারের বেশি অল্প অল্প ইথার ব্যবহার করা হয় কেন?",
+     "question_en": "Why is ether used in several small portions rather than once?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রতিবারে অবশিষ্ট যৌগের আরও অংশ নিষ্কাশিত হয়",
+       "en": "Each portion extracts more of the remaining compound"
+      },
+      {
+       "id": "b",
+       "bn": "ইথার সস্তা হয়",
+       "en": "Ether is cheaper"
+      },
+      {
+       "id": "c",
+       "bn": "পানি বাষ্পীভূত করতে",
+       "en": "To evaporate water"
+      },
+      {
+       "id": "d",
+       "bn": "স্তর বিলুপ্ত করতে",
+       "en": "To remove the layers"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সম্পূর্ণ পৃথকীকরণের জন্য আরও ২–৩ বার প্রক্রিয়া পুনরাবৃত্তির নির্দেশ আছে।",
+     "explanation_en": "The book repeats the process 2-3 times to separate the compound completely.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "সক্সলেট প্রক্রিয়ায় দ্রাবক বারবার ব্যবহৃত হয় কীভাবে?",
+     "question_en": "How is the solvent reused repeatedly in a Soxhlet extractor?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাষ্পীভবন, ঘনীভবন, সাইফনে নিচের ফ্লাস্কে ফেরা",
+       "en": "Vaporization, condensation, then siphoning back to the flask"
+      },
+      {
+       "id": "b",
+       "bn": "ফিল্টারে ছেঁকে",
+       "en": "By filtration"
+      },
+      {
+       "id": "c",
+       "bn": "ঊর্ধ্বপাতনে",
+       "en": "By sublimation"
+      },
+      {
+       "id": "d",
+       "bn": "হাতে ঢেলে",
+       "en": "By pouring by hand"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ঘনীভূত দ্রাবক সিলিন্ডার পূর্ণ হলে সাইফনে নিচের ফ্লাস্কে ফেরে ও আবার বাষ্পীভূত হয়।",
+     "explanation_en": "Condensed solvent fills the cylinder, siphons back to the flask and vaporizes again.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.22",
+   "title_bn": "ক্রোমাটোগ্রাফি",
+   "title_en": "Chromatography",
+   "notes_bn": "Chroma = রং, graph = চিত্র; ১৯০৩ সালে রুশ উদ্ভিদবিজ্ঞানী সোয়েট (Tswett) CaCO₃ কলামে উদ্ভিদ রঞ্জক পৃথক করেন।\nসংজ্ঞা: এক স্থির দশা ও এক সচল দশার মাধ্যমে মিশ্রণের উপাদান অধিশোষণ বা বণ্টনের ভিত্তিতে পৃথক করা।\nউপাদান যত বেশি মেরুযুক্ত (–COOH > –OH > –NH₂ > –CHO > –CO– > C=C) তত বেশি অধিশোষিত; কম মেরুযুক্ত উপাদান সচল দশায় দ্রুত এগোয়।\nধরন: অধিশোষণ (CC, TLC), বণ্টন (PC, GC), আয়ন বিনিময়, পরিব্যাপন; সচল দশা অনুযায়ী গ্যাস ও তরল ক্রোমাটোগ্রাফি; উচ্চমানের HPLC।\nকলাম: সিলিকা জেল/অ্যালুমিনা + দ্রাবক দিয়ে কলাম; পোলারিটি A > B > C হলে A উপরে, C নিচে; দ্রাবক দিয়ে ধুয়ে আলাদা করাকে ইলিউশন বলে।\nTLC: কাচ/অ্যালুমিনিয়াম পাতে সিলিকা জেল বা অ্যালুমিনার পাতলা স্তর, বাইন্ডার প্লাস্টার অব প্যারিস; দ্রাবক যে দাগ পর্যন্ত ওঠে তা দ্রাবক ফ্রন্ট। Rf = উপাদান কর্তৃক অতিক্রান্ত দূরত্ব ÷ দ্রাবক কর্তৃক অতিক্রান্ত দূরত্ব। শনাক্তে আয়োডিন (I₂), গাঢ় H₂SO₄ বা UV।",
+   "notes_en": "Chroma = colour, graph = picture; in 1903 Russian botanist Tswett separated plant pigments on a CaCO3 column.\nDefinition: separation of mixture components using a stationary and a mobile phase, based on adsorption or partition.\nThe more polar a component (-COOH > -OH > -NH2 > -CHO > -CO- > C=C), the more strongly it is adsorbed; less polar components travel faster with the mobile phase.\nTypes: adsorption (CC, TLC), partition (PC, GC), ion exchange, permeation; gas vs liquid by mobile phase; HPLC for high performance.\nColumn: silica gel/alumina packed with solvent; if polarity A > B > C, A stays on top and C lowest; washing out with solvent is elution.\nTLC: thin layer of silica gel/alumina on glass/aluminium plate with plaster of Paris binder; the line reached by solvent is the solvent front. Rf = distance moved by component / distance moved by solvent. Spots shown with iodine (I2), conc. H2SO4 or UV.",
+   "mcqs": [
+    {
+     "question_bn": "ক্রোমাটোগ্রাফি পদ্ধতি সর্বপ্রথম কে প্রদান করেন?",
+     "question_en": "Who first introduced chromatography?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোয়েট (Tswett)",
+       "en": "Tswett"
+      },
+      {
+       "id": "b",
+       "bn": "হেনরি",
+       "en": "Henry"
+      },
+      {
+       "id": "c",
+       "bn": "সক্সলেট",
+       "en": "Soxhlet"
+      },
+      {
+       "id": "d",
+       "bn": "লেসাইন",
+       "en": "Lassaigne"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ১৯০৩ সালে রুশ বিজ্ঞানী সোয়েটের কথা আছে।",
+     "explanation_en": "The book credits Tswett in 1903.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "TLC-তে সাধারণত অধিশোষকের স্তর আটকে রাখতে কী ব্যবহৃত হয়?",
+     "question_en": "What binds the adsorbent layer on a TLC plate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্লাস্টার অব প্যারিস",
+       "en": "Plaster of Paris"
+      },
+      {
+       "id": "b",
+       "bn": "চুন",
+       "en": "Lime"
+      },
+      {
+       "id": "c",
+       "bn": "গ্লুকোজ",
+       "en": "Glucose"
+      },
+      {
+       "id": "d",
+       "bn": "লবণ",
+       "en": "Salt"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বাইন্ডার হিসেবে প্লাস্টার অব প্যারিস বলা হয়েছে।",
+     "explanation_en": "Plaster of Paris is the binder.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Rf মানের সূত্র কোনটি?",
+     "question_en": "Which is the formula for Rf?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উপাদানের অতিক্রান্ত দূরত্ব ÷ দ্রাবকের অতিক্রান্ত দূরত্ব",
+       "en": "Distance moved by component / distance moved by solvent"
+      },
+      {
+       "id": "b",
+       "bn": "দ্রাবকের দূরত্ব ÷ উপাদানের দূরত্ব",
+       "en": "Solvent distance / component distance"
+      },
+      {
+       "id": "c",
+       "bn": "উপাদানের দূরত্ব × দ্রাবকের দূরত্ব",
+       "en": "Product of the two distances"
+      },
+      {
+       "id": "d",
+       "bn": "দুই দূরত্বের বিয়োগফল",
+       "en": "Difference of the two distances"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Rf = উপাদান কর্তৃক অতিক্রান্ত দূরত্ব / দ্রাবক কর্তৃক অতিক্রান্ত দূরত্ব।",
+     "explanation_en": "Rf is component distance over solvent distance.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কলাম ক্রোমাটোগ্রাফিতে কলাম থেকে দ্রাবক দিয়ে উপাদান আলাদা করে সংগ্রহের পদ্ধতিকে কী বলে?",
+     "question_en": "What is washing components out of a column with solvent and collecting them called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলিউশন",
+       "en": "Elution"
+      },
+      {
+       "id": "b",
+       "bn": "কেলাসন",
+       "en": "Crystallization"
+      },
+      {
+       "id": "c",
+       "bn": "ঊর্ধ্বপাতন",
+       "en": "Sublimation"
+      },
+      {
+       "id": "d",
+       "bn": "পাতন",
+       "en": "Distillation"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে একে ইলিউশন (elution) বলা হয়েছে।",
+     "explanation_en": "The book calls this elution.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কলামে পোলারিটি A > B > C হলে কোনটি সবচেয়ে আগে কলাম থেকে বের হয়?",
+     "question_en": "If polarity is A > B > C on a column, which elutes first?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "C",
+       "en": "C"
+      },
+      {
+       "id": "b",
+       "bn": "A",
+       "en": "A"
+      },
+      {
+       "id": "c",
+       "bn": "B",
+       "en": "B"
+      },
+      {
+       "id": "d",
+       "bn": "সবাই একসাথে",
+       "en": "All together"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সবচেয়ে কম পোলার C কম অধিশোষিত হয় ও আগে বের হয়।",
+     "explanation_en": "The least polar C is least adsorbed and comes out first.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অধিশোষণ ক্রোমাটোগ্রাফির উদাহরণ কোনটি?",
+     "question_en": "Which is an example of adsorption chromatography?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পাতলা স্তর ক্রোমাটোগ্রাফি",
+       "en": "Thin layer chromatography"
+      },
+      {
+       "id": "b",
+       "bn": "পেপার ক্রোমাটোগ্রাফি",
+       "en": "Paper chromatography"
+      },
+      {
+       "id": "c",
+       "bn": "গ্যাস-তরল ক্রোমাটোগ্রাফি",
+       "en": "Gas-liquid chromatography"
+      },
+      {
+       "id": "d",
+       "bn": "জেল পরিব্যাপন",
+       "en": "Gel permeation"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের শ্রেণিবিভাগে CC ও TLC অধিশোষণ ক্রোমাটোগ্রাফি।",
+     "explanation_en": "The book classes CC and TLC as adsorption chromatography.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন যৌগ সিলিকা জেলে সবচেয়ে বেশি অধিশোষিত হবে?",
+     "question_en": "Which group makes a compound most strongly adsorbed on silica gel?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–COOH যুক্ত যৌগ",
+       "en": "A compound with -COOH"
+      },
+      {
+       "id": "b",
+       "bn": "–C=C যুক্ত যৌগ",
+       "en": "A compound with C=C only"
+      },
+      {
+       "id": "c",
+       "bn": "–CO– যুক্ত যৌগ",
+       "en": "A compound with -CO-"
+      },
+      {
+       "id": "d",
+       "bn": "–CHO যুক্ত যৌগ",
+       "en": "A compound with -CHO"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের ক্রমে –COOH সবচেয়ে মেরুযুক্ত, তাই সবচেয়ে বেশি অধিশোষিত।",
+     "explanation_en": "In the book's order -COOH is the most polar and so most adsorbed.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "সচল দশায় দ্রাবকের পোলারিটি বাড়ালে সাধারণত Rf মানের কী পরিবর্তন হয়?",
+     "question_en": "Raising the mobile solvent's polarity generally does what to Rf?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পরিবর্তিত হয়",
+       "en": "It changes"
+      },
+      {
+       "id": "b",
+       "bn": "সবসময় ০ হয়",
+       "en": "Always becomes 0"
+      },
+      {
+       "id": "c",
+       "bn": "সবসময় ১-এর বেশি হয়",
+       "en": "Always exceeds 1"
+      },
+      {
+       "id": "d",
+       "bn": "কখনো বদলায় না",
+       "en": "Never changes"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে দ্রাবকের পোলারিটি বদলালে Rf মানও পরিবর্তিত হয়।",
+     "explanation_en": "The book says Rf varies with solvent polarity.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.23",
+   "title_bn": "পেপার ক্রোমাটোগ্রাফির সাহায্যে মিশ্রণ থেকে যৌগ পৃথকীকরণ",
+   "title_en": "Separating compounds by paper chromatography",
+   "notes_bn": "পেপার ক্রোমাটোগ্রাফি বিভাজন (বণ্টন) ক্রোমাটোগ্রাফি: সচল বাহক হলো জৈব দ্রাবক, স্থির মাধ্যম পেপারের পৃষ্ঠে শোষিত পানি।\nদুটি বল: দ্রাবকের সাথে নিয়ে যাওয়ার বল (প্রপেলিং) ও যৌগকে আটকে রাখা বল (রেফার্ডিং)।\nRf = যৌগ কর্তৃক অতিক্রান্ত দূরত্ব ÷ দ্রাবক কর্তৃক অতিক্রান্ত দূরত্ব; এটি বিশুদ্ধ সংখ্যা, সর্বদা ১ বা তার কম।\nউপকরণ: ফিল্টার কাগজ (১৫–৩০ cm × ১–৫ cm), দ্রাবক প্রোপানল/অ্যাসিটোন, বিকার, স্ট্যান্ড, সুতা, হেয়ার ড্রায়ার। বেসলাইন থেকে পেন্সিলে দাগ, ফোঁটা শুকিয়ে ঝুলিয়ে রাখা হয়; দ্রাবক ফ্রন্ট পেন্সিলে চিহ্নিত করতে হয়।\nঅ্যামিনো অ্যাসিড (গ্লাইসিন, অ্যালানিন, নরলিউসিন): পরিস্ফুটন দ্রাবক প্রোপানল:পানি = ৭:৩; শনাক্তকরণ বিকারক ৩% গ্লাসিয়াল অ্যাসিটিক অ্যাসিডযুক্ত প্রোপানলে নিনহাইড্রিন; ১০০–১০৫°C-এ ৫–৬ মিনিট গরম করা হয়।\nসাবধানতা: কাগজ ঝোলানোর সময় সোজা, ফোঁটা ছোট গোলাকার, দ্রাবক ফ্রন্ট পেন্সিলে চিহ্ন, আয়োডিন স্পর্শ নয়।",
+   "notes_en": "Paper chromatography is partition chromatography: the mobile phase is an organic solvent and the stationary phase is water adsorbed on the paper.\nTwo forces act: the propelling force (carrying solute with solvent) and the retarding force (holding solute back).\nRf = distance moved by compound / distance moved by solvent; a pure number, always 1 or less.\nMaterials: filter paper (15-30 cm x 1-5 cm), solvent propanol/acetone, beaker, stand, thread, hair dryer. Pencil baseline, spot dried, paper hung; mark the solvent front in pencil.\nAmino acids (glycine, alanine, norleucine): developing solvent propanol:water = 7:3; locating reagent ninhydrin in propanol with 3% glacial acetic acid; heat at 100-105 C for 5-6 min.\nPrecautions: hang paper straight, small round spots, mark solvent front with pencil, avoid touching with iodine.",
+   "mcqs": [
+    {
+     "question_bn": "পেপার ক্রোমাটোগ্রাফিতে স্থির মাধ্যম কোনটি?",
+     "question_en": "What is the stationary medium in paper chromatography?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পেপারের পৃষ্ঠে শোষিত পানি",
+       "en": "Water adsorbed on the paper"
+      },
+      {
+       "id": "b",
+       "bn": "জৈব দ্রাবক",
+       "en": "Organic solvent"
+      },
+      {
+       "id": "c",
+       "bn": "সিলিকা জেল",
+       "en": "Silica gel"
+      },
+      {
+       "id": "d",
+       "bn": "গ্যাস",
+       "en": "A gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে স্থির মাধ্যম হলো কাগজের পৃষ্ঠে শোষিত পানি।",
+     "explanation_en": "Water held on the paper surface is the stationary phase.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Rf মান সর্বদা কেমন হয়?",
+     "question_en": "What is the Rf value always like?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "১ বা তার কম",
+       "en": "1 or less"
+      },
+      {
+       "id": "b",
+       "bn": "১-এর বেশি",
+       "en": "Greater than 1"
+      },
+      {
+       "id": "c",
+       "bn": "ঋণাত্মক",
+       "en": "Negative"
+      },
+      {
+       "id": "d",
+       "bn": "১০০",
+       "en": "100"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "যৌগ কখনো দ্রাবকের চেয়ে বেশি পথ যায় না, তাই Rf ≤ ১।",
+     "explanation_en": "A compound never moves farther than the solvent so Rf <= 1.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যামিনো অ্যাসিড পৃথকীকরণে পরিস্ফুটন দ্রাবক প্রোপানল ও পানির অনুপাত কত?",
+     "question_en": "What propanol:water ratio is the developing solvent for amino acids?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "৭ : ৩",
+       "en": "7 : 3"
+      },
+      {
+       "id": "b",
+       "bn": "৩ : ৭",
+       "en": "3 : 7"
+      },
+      {
+       "id": "c",
+       "bn": "১ : ১",
+       "en": "1 : 1"
+      },
+      {
+       "id": "d",
+       "bn": "৯ : ১",
+       "en": "9 : 1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে প্রোপানল ও পানির ৭:৩ অনুপাতের মিশ্রণ বলা হয়েছে।",
+     "explanation_en": "The book specifies propanol:water = 7:3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনো যৌগ ৪.৫ cm গেলে এবং দ্রাবক ফ্রন্ট ৯ cm গেলে Rf কত?",
+     "question_en": "A compound moved 4.5 cm and the solvent front 9 cm. What is Rf?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "০.৫",
+       "en": "0.5"
+      },
+      {
+       "id": "b",
+       "bn": "২.০",
+       "en": "2.0"
+      },
+      {
+       "id": "c",
+       "bn": "৪.৫",
+       "en": "4.5"
+      },
+      {
+       "id": "d",
+       "bn": "১.৫",
+       "en": "1.5"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Rf = ৪.৫ ÷ ৯ = ০.৫।",
+     "explanation_en": "Rf = 4.5 / 9 = 0.5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যামিনো অ্যাসিডের স্পট শনাক্তকরণে কোন বিকারক ব্যবহৃত হয়?",
+     "question_en": "Which reagent locates amino acid spots?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিনহাইড্রিন",
+       "en": "Ninhydrin"
+      },
+      {
+       "id": "b",
+       "bn": "AgNO₃",
+       "en": "AgNO3"
+      },
+      {
+       "id": "c",
+       "bn": "ফেহলিং দ্রবণ",
+       "en": "Fehling's solution"
+      },
+      {
+       "id": "d",
+       "bn": "লেড অ্যাসিটেট",
+       "en": "Lead acetate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের শনাক্তকরণ বিকারক নিনহাইড্রিন দ্রবণ।",
+     "explanation_en": "Ninhydrin solution is the locating reagent in the book.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পেপার ক্রোমাটোগ্রামে দ্রাবক ফ্রন্ট কীভাবে চিহ্নিত করা উচিত?",
+     "question_en": "How should the solvent front be marked on the paper?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কাগজ বের করেই পেন্সিল দিয়ে",
+       "en": "With a pencil as soon as the paper is removed"
+      },
+      {
+       "id": "b",
+       "bn": "কলম দিয়ে",
+       "en": "With an ink pen"
+      },
+      {
+       "id": "c",
+       "bn": "চিহ্নের প্রয়োজন নেই",
+       "en": "No marking needed"
+      },
+      {
+       "id": "d",
+       "bn": "শুকানোর পরে আয়োডিন দিয়ে",
+       "en": "With iodine after drying"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সাবধানতা: শুকানোর আগেই পেন্সিলে দ্রাবক ফ্রন্ট চিহ্নিত করা।",
+     "explanation_en": "The book says mark the front in pencil before the paper dries.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পেপার ক্রোমাটোগ্রাফিতে দুটি বলের মধ্যে কোনটি যৌগের চলন বাধা দেয়?",
+     "question_en": "Which force opposes the movement of compounds?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ধারণকারী (রেফার্ডিং) বল",
+       "en": "Retarding force"
+      },
+      {
+       "id": "b",
+       "bn": "প্রপেলিং বল",
+       "en": "Propelling force"
+      },
+      {
+       "id": "c",
+       "bn": "মহাকর্ষ বল",
+       "en": "Gravitational force only"
+      },
+      {
+       "id": "d",
+       "bn": "চৌম্বক বল",
+       "en": "Magnetic force"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "শ্লথকারী বল যৌগ প্রবাহে বাধা দেয়; প্রপেলিং বল দ্রাবকসহ নিয়ে যায়।",
+     "explanation_en": "The retarding force hinders flow; the propelling force carries the compound with solvent.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনো নমুনা X-এর Rf = a/c, যেখানে a ও c কী?",
+     "question_en": "For sample X, Rf = a/c. What are a and c?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "a = উপাদানের দূরত্ব, c = দ্রাবকের দূরত্ব",
+       "en": "a = component distance, c = solvent distance"
+      },
+      {
+       "id": "b",
+       "bn": "a = দ্রাবকের দূরত্ব, c = উপাদানের দূরত্ব",
+       "en": "a = solvent distance, c = component distance"
+      },
+      {
+       "id": "c",
+       "bn": "a = ফোঁটার আকার",
+       "en": "a = spot size"
+      },
+      {
+       "id": "d",
+       "bn": "a = তাপমাত্রা",
+       "en": "a = temperature"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে Rf = a/c, a = উপাদান কর্তৃক, c = দ্রাবক কর্তৃক অতিক্রান্ত দূরত্ব।",
+     "explanation_en": "In the book Rf = a/c with a the component's and c the solvent's distance.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.24",
+   "title_bn": "গুণগত বিশ্লেষণের গুরুত্ব",
+   "title_en": "Importance of Qualitative Analysis",
+   "notes_bn": "নমুনায় কোন মৌল, মূলক বা যৌগ আছে তা শনাক্ত করা গুণগত বিশ্লেষণ। অজৈব লবণে ক্যাটায়ন ও অ্যানায়ন স্বতন্ত্রভাবে শনাক্ত হয় (যেমন Cl⁻-এর AgNO₃ পরীক্ষা, Na⁺-এর K₂H₂Sb₂O₇ পরীক্ষা)।\nক্যাটায়ন শনাক্তে অসুবিধা: Cu²⁺ ও Fe³⁺ উভয়ই K₄[Fe(CN)₆]-এর সাথে বিভ্রান্তিকর অধঃক্ষেপ দেয়; তাই ক্যাটায়নকে গ্রুপে ভাগ করে বিশ্লেষণ করা হয়।\nপরিমাণ অনুযায়ী: ম্যাক্রো (০.৫–১.০ g নমুনা, ২০ mL), সেমি-মাইক্রো (০.১–০.৫ g, ১ mL), মাইক্রো (০.০১ g বা কম)।\nজৈব যৌগের আঙ্গিক বিশ্লেষণ: C ও H শনাক্তে নমুনা + শুষ্ক CuO উত্তপ্ত → CO₂ (চুনের পানি ঘোলা) ও H₂O (অনার্দ্র CuSO₄ নীল)।\nলেসাইন পরীক্ষায় Na-এর সাথে গলিয়ে N, S, হ্যালোজেন যথাক্রমে NaCN, Na₂S, NaX হয়: Cl → AgCl সাদা (NH₄OH-এ দ্রবণীয়), Br → AgBr হালকা হলুদ (আংশিক), I → AgI হলুদ (অদ্রবণীয়); N → ফেরাস সালফেট + H₂SO₄ দিয়ে প্রুসিয়ান ব্লু; S → লেড অ্যাসিটেটে কালো PbS বা নাইট্রোপ্রুসাইডে বেগুনি; N ও S একসাথে → FeCl₃ দিয়ে গাঢ় লাল Fe(SCN)²⁺।\nচিকিৎসা, পানি পরীক্ষা, মাটির উৎকর্ষ নির্ণয়, ঔষধ ও কৃষিতে গুরুত্ব।",
+   "notes_en": "Qualitative analysis identifies which elements, radicals or compounds are in a sample. In inorganic salts cations and anions are identified independently (e.g. AgNO3 test for Cl-, K2H2Sb2O7 test for Na+).\nCation difficulty: Cu2+ and Fe3+ both give confusing precipitates with K4[Fe(CN)6], so cations are grouped before analysis.\nBy scale: macro (0.5-1.0 g, 20 mL), semi-micro (0.1-0.5 g, 1 mL), micro (0.01 g or less).\nElemental analysis of organics: C and H by heating sample with dry CuO -> CO2 (limewater turns milky) and H2O (anhydrous CuSO4 turns blue).\nLassaigne test (fusion with Na) gives NaCN, Na2S, NaX: Cl -> white AgCl (soluble in NH4OH), Br -> pale yellow AgBr (partly soluble), I -> yellow AgI (insoluble); N -> ferrous sulphate + H2SO4 gives Prussian blue; S -> black PbS with lead acetate or violet with nitroprusside; N and S together -> deep red Fe(SCN)2+ with FeCl3.\nImportant in medicine, water testing, soil assessment, drugs and agriculture.",
+   "mcqs": [
+    {
+     "question_bn": "গুণগত বিশ্লেষণ কী নির্ণয় করে?",
+     "question_en": "What does qualitative analysis determine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নমুনায় কোন মৌল/মূলক/যৌগ আছে",
+       "en": "Which elements/radicals/compounds are present"
+      },
+      {
+       "id": "b",
+       "bn": "কত পরিমাণ আছে",
+       "en": "Exactly how much is present"
+      },
+      {
+       "id": "c",
+       "bn": "কেবল তাপমাত্রা",
+       "en": "Only temperature"
+      },
+      {
+       "id": "d",
+       "bn": "কেবল ঘনত্ব",
+       "en": "Only density"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "গুণগত বিশ্লেষণ উপস্থিত উপাদান শনাক্ত করে।",
+     "explanation_en": "It identifies what is present.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ম্যাক্রো বিশ্লেষণে সাধারণত কত নমুনা ব্যবহৃত হয়?",
+     "question_en": "How much sample is typically used in macro analysis?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "০.৫–১.০ g",
+       "en": "0.5-1.0 g"
+      },
+      {
+       "id": "b",
+       "bn": "০.০১ g",
+       "en": "0.01 g"
+      },
+      {
+       "id": "c",
+       "bn": "১০০ g",
+       "en": "100 g"
+      },
+      {
+       "id": "d",
+       "bn": "১ mg-এর কম",
+       "en": "Less than 1 mg"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ম্যাক্রো বিশ্লেষণে প্রায় ০.৫–১.০ g।",
+     "explanation_en": "The book gives about 0.5-1.0 g.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "জৈব নমুনায় কার্বন শনাক্ত হয় কোন গ্যাস উৎপন্ন হওয়ায়?",
+     "question_en": "Carbon in an organic sample is detected through which gas?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CO₂",
+       "en": "CO2"
+      },
+      {
+       "id": "b",
+       "bn": "O₂",
+       "en": "O2"
+      },
+      {
+       "id": "c",
+       "bn": "H₂",
+       "en": "H2"
+      },
+      {
+       "id": "d",
+       "bn": "N₂",
+       "en": "N2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CuO-র সাথে উত্তপ্ত করলে কার্বন থেকে CO₂ হয়, যা চুনের পানি ঘোলা করে।",
+     "explanation_en": "Heating with CuO gives CO2, turning limewater milky.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হাইড্রোজেন শনাক্তে অনার্দ্র CuSO₄ পানির সংস্পর্শে কী বর্ণ ধারণ করে?",
+     "question_en": "What colour does anhydrous CuSO4 turn with water in the hydrogen test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নীল",
+       "en": "Blue"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা",
+       "en": "White"
+      },
+      {
+       "id": "c",
+       "bn": "কালো",
+       "en": "Black"
+      },
+      {
+       "id": "d",
+       "bn": "লাল",
+       "en": "Red"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CuSO₄ + 5H₂O → CuSO₄·5H₂O নীল।",
+     "explanation_en": "CuSO4 + 5H2O gives blue CuSO4.5H2O.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "লেসাইন নিষ্কাশনে Cl⁻ আছে তা কীভাবে বোঝা যায়?",
+     "question_en": "How does the Lassaigne extract show chloride?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "AgNO₃-এ সাদা অধঃক্ষেপ যা NH₄OH-এ দ্রবীভূত হয়",
+       "en": "White AgCl precipitate soluble in NH4OH"
+      },
+      {
+       "id": "b",
+       "bn": "হলুদ অধঃক্ষেপ অদ্রবণীয়",
+       "en": "Yellow precipitate insoluble in NH4OH"
+      },
+      {
+       "id": "c",
+       "bn": "কালো অধঃক্ষেপ",
+       "en": "Black precipitate"
+      },
+      {
+       "id": "d",
+       "bn": "গাঢ় লাল দ্রবণ",
+       "en": "Deep red solution"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaCl + AgNO₃ → AgCl (সাদা) ও AgCl NH₄OH-এ সম্পূর্ণ দ্রবীভূত।",
+     "explanation_en": "AgCl is white and dissolves fully in ammonium hydroxide.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নাইট্রোজেন ও সালফার উভয় থাকলে লেসাইন পরীক্ষায় FeCl₃ দিলে কী পাওয়া যায়?",
+     "question_en": "With both N and S, what does FeCl3 give in the Lassaigne extract?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "গাঢ় লাল দ্রবণ",
+       "en": "Deep red solution"
+      },
+      {
+       "id": "b",
+       "bn": "কালো অধঃক্ষেপ",
+       "en": "Black precipitate"
+      },
+      {
+       "id": "c",
+       "bn": "বেগুনি রং",
+       "en": "Purple colour"
+      },
+      {
+       "id": "d",
+       "bn": "সাদা অধঃক্ষেপ",
+       "en": "White precipitate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaSCN + FeCl₃ → [Fe(SCN)]Cl₂ গাঢ় লাল দ্রবণ।",
+     "explanation_en": "NaSCN + FeCl3 forms deep-red [Fe(SCN)]Cl2.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ঐ ক্ষেত্রে Na একটু বেশি নেওয়া হয় কেন?",
+     "question_en": "Why is a little excess Na taken in that test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অতিরিক্ত Na NaSCN-কে ভেঙে NaCN ও Na₂S দেয়, যাতে N-পরীক্ষা সঠিক হয়",
+       "en": "Excess Na converts NaSCN to NaCN and Na2S so the N test works"
+      },
+      {
+       "id": "b",
+       "bn": "Na সস্তা বলে",
+       "en": "Na is cheap"
+      },
+      {
+       "id": "c",
+       "bn": "পানি শোষণের জন্য",
+       "en": "To absorb water"
+      },
+      {
+       "id": "d",
+       "bn": "রং বদলাতে",
+       "en": "To change colour"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NaSCN + 2Na → Na₂S + NaCN; নইলে Fe³⁺-এর সাথে লাল বর্ণ হয়ে প্রুসিয়ান ব্লু আসে না।",
+     "explanation_en": "NaSCN + 2Na gives Na2S + NaCN, avoiding the red SCN colour that hides the Prussian blue.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Cu²⁺ ও Fe³⁺ শনাক্তে অসুবিধা কেন হয়?",
+     "question_en": "Why is it hard to identify Cu2+ and Fe3+ together?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উভয়ই K₄[Fe(CN)₆]-এ বিভ্রান্তিকর বর্ণের অধঃক্ষেপ দেয়",
+       "en": "Both give confusing coloured precipitates with K4[Fe(CN)6]"
+      },
+      {
+       "id": "b",
+       "bn": "দুটোই বর্ণহীন",
+       "en": "Both are colourless"
+      },
+      {
+       "id": "c",
+       "bn": "উভয়ই গ্যাস",
+       "en": "Both are gases"
+      },
+      {
+       "id": "d",
+       "bn": "উভয়ই পানিতে অদ্রবণীয়",
+       "en": "Both are insoluble in water"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে একটির উপস্থিতিতে অন্যের পরীক্ষায় বিভ্রান্তি তৈরির কথা আছে, তাই গ্রুপে ভাগ করা হয়।",
+     "explanation_en": "The presence of one confuses the test for the other, so cations are separated into groups.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "2.19",
+   "stimulus_bn": "রিমা ১০০ mL পানিতে ৪০ g অবিশুদ্ধ লবণ মিশিয়ে দ্রবণ ছেঁকে নিল, তারপর ঠান্ডা করে কয়েক ফোঁটা গাঢ় HCl যোগ করায় সাদা কেলাস পাওয়া গেল। শুকানোর পর ওজন হলো ২৪ g।",
+   "stimulus_en": "Rima dissolved 40 g impure salt in 100 mL water, filtered, cooled and added a few drops of conc. HCl; white crystals formed. After drying they weighed 24 g.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "সল্টিং আউট কী?",
+     "question_en": "What is salting out?",
+     "model_answer_bn": "গাঢ় HCl যোগে NaCl কেলাস হিসেবে দ্রবণ থেকে পৃথক হওয়াকে সল্টিং আউট বলে।",
+     "model_answer_en": "Separation of NaCl crystals from solution on adding conc. HCl."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "HCl যোগে কেলাস পাওয়া যায় কেন?",
+     "question_en": "Why do crystals form on adding HCl?",
+     "model_answer_bn": "Cl⁻ আয়নের ঘনমাত্রা বাড়ে, NaCl-এর আয়নিক গুণফল দ্রাব্যতা গুণফল ছাড়িয়ে যায়, ফলে NaCl কেলাসিত হয়।",
+     "model_answer_en": "[Cl-] rises, the ionic product of NaCl exceeds its solubility product, so NaCl crystallizes."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "কেলাস উৎপাদন হার নির্ণয় কর।",
+     "question_en": "Calculate the crystal yield.",
+     "model_answer_bn": "হার = (২৪×১০০)/৪০ = ৬০%।",
+     "model_answer_en": "Yield = 24 x 100 / 40 = 60%."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "কেলাস সিলিকা জেল ডেসিকেটরে শুকানো এবং ২–৩ বার ধোয়ার যৌক্তিকতা বিশ্লেষণ কর।",
+     "question_en": "Justify washing 2-3 times and drying in a silica gel desiccator.",
+     "model_answer_bn": "ধোয়ায় কেলাসের গায়ের লেগে থাকা মাতৃদ্রবণ ও ভেজাল সরে যায়; ডেসিকেটরে আর্দ্রতা শোষিত হয় ফলে কেলাস দ্রুত ও বিশুদ্ধ অবস্থায় শুকায়।",
+     "model_answer_en": "Washing removes mother liquor and impurities clinging to the crystals; the desiccator absorbs moisture so crystals dry quickly while staying pure."
+    }
+   ]
+  },
+  {
+   "topic_section": "2.20",
+   "stimulus_bn": "একটি মিশ্রণে মিথানল (ফুটনাঙ্ক ৬৪°C), বেনজিন (৮০.৪°C) ও টলুইন (১১১°C) আছে। অন্য একটি নমুনা ইউক্যালিপটাস পাতা, যা পানিতে অদ্রবণীয় তেল ধারণ করে।",
+   "stimulus_en": "A mixture contains methanol (b.p. 64 C), benzene (80.4 C) and toluene (111 C). Another sample is eucalyptus leaves holding a water-insoluble oil.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "আংশিক পাতন কাকে বলে?",
+     "question_en": "What is fractional distillation?",
+     "model_answer_bn": "দুই বা ততোধিক তরলের মিশ্রণকে তাদের ফুটনাঙ্ক অনুযায়ী অংশ অংশ করে পৃথক করার প্রক্রিয়া।",
+     "model_answer_en": "Separating a liquid mixture part by part according to boiling points."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রথম মিশ্রণে সাধারণ পাতনের বদলে আংশিক পাতন কেন?",
+     "question_en": "Why fractional rather than simple distillation for the first mixture?",
+     "model_answer_bn": "উপাদানগুলোর ফুটনাঙ্কের পার্থক্য ৪০°C-এর কম (যেমন ৬৪ ও ৮০.৪), তাই সাধারণ পাতনে পৃথক হয় না; অংশ কলাম লাগে।",
+     "model_answer_en": "Boiling-point gaps are under 40 C (64 and 80.4), so simple distillation fails; a fractionating column is needed."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "মিশ্রণ উত্তপ্ত করলে উপাদানগুলো কোন ক্রমে গ্রাহক পাত্রে জমবে ও কেন?",
+     "question_en": "In what order do they collect and why?",
+     "model_answer_bn": "মিথানল → বেনজিন → টলুইন; কম ফুটনাঙ্কের উপাদান আগে বাষ্পীভূত হয়ে অংশ কলাম পেরিয়ে শীতকে ঘনীভূত হয়।",
+     "model_answer_en": "Methanol, benzene, toluene; lower b.p. components vaporize first, pass the column and condense."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "ইউক্যালিপটাস তেল আহরণে কোন পাতন উপযুক্ত? কেন এটি তেলের স্বাভাবিক ফুটনাঙ্কের নিচে সম্ভব?",
+     "question_en": "Which distillation suits eucalyptus oil and why below its normal b.p.?",
+     "model_answer_bn": "বাষ্প পাতন। তেল ও জলীয় বাষ্পের চাপের সমষ্টি (P₁+P₂) বায়ুচাপের সমান হলেই মিশ্রণ ফোটে, যা তেলের নিজের ফুটনাঙ্কের নিচে, ফলে তেল বিয়োজিত হয় না।",
+     "model_answer_en": "Steam distillation. The mixture boils when P1 + P2 equals atmospheric pressure, which is below the oil's own b.p., so the oil does not decompose."
+    }
+   ]
+  },
+  {
+   "topic_section": "2.23",
+   "stimulus_bn": "একটি পেপার ক্রোমাটোগ্রামে দ্রাবক ফ্রন্ট বেসলাইন থেকে ১০ cm উঠেছে। উপাদান X উঠেছে ৬ cm এবং Y উঠেছে ২.৫ cm। দ্রাবক হিসেবে প্রোপানল ও পানি ৭:৩ ব্যবহৃত হয়েছে।",
+   "stimulus_en": "In a paper chromatogram the solvent front rose 10 cm from the baseline. Component X rose 6 cm and Y rose 2.5 cm. The solvent was propanol:water 7:3.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "Rf মানের সংজ্ঞা দাও।",
+     "question_en": "Define Rf.",
+     "model_answer_bn": "যৌগ কর্তৃক অতিক্রান্ত দূরত্বকে দ্রাবক কর্তৃক অতিক্রান্ত দূরত্ব দ্বারা ভাগ করলে প্রাপ্ত সংখ্যা।",
+     "model_answer_en": "Distance moved by compound divided by distance moved by solvent."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "পেপার ক্রোমাটোগ্রাফিতে স্থির ও সচল মাধ্যম কী কী?",
+     "question_en": "Name the stationary and mobile phases.",
+     "model_answer_bn": "স্থির মাধ্যম কাগজে শোষিত পানি; সচল বাহক জৈব দ্রাবক।",
+     "model_answer_en": "Stationary: water on the paper; mobile: organic solvent."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "X ও Y-এর Rf নির্ণয় কর।",
+     "question_en": "Calculate Rf for X and Y.",
+     "model_answer_bn": "Rf(X) = ৬/১০ = ০.৬; Rf(Y) = ২.৫/১০ = ০.২৫।",
+     "model_answer_en": "Rf(X) = 6/10 = 0.6; Rf(Y) = 2.5/10 = 0.25."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "কোনটি বেশি মেরুযুক্ত ও কেন? দ্রাবক বদলালে ফলাফলে কী প্রভাব পড়বে?",
+     "question_en": "Which is more polar and why? How would changing the solvent affect the result?",
+     "model_answer_bn": "Y বেশি মেরুযুক্ত, কারণ কাগজের পানির সাথে বেশি আবদ্ধ থেকে কম এগিয়েছে (কম Rf)। দ্রাবকের প্রকৃতি বদলালে Rf মানও পরিবর্তিত হবে।",
+     "model_answer_en": "Y is more polar: held more strongly by the paper's water so it moved less (lower Rf). Changing the solvent changes the Rf values."
+    }
+   ]
+  },
+  {
+   "topic_section": "2.24",
+   "stimulus_bn": "একটি অজানা জৈব নমুনাকে শুষ্ক CuO-সহ উত্তপ্ত করলে চুনের পানি ঘোলা হলো। অন্য একটি নমুনার লেসাইন নিষ্কাশনে AgNO₃ দিলে হলুদ অধঃক্ষেপ পাওয়া গেল যা NH₄OH-এ দ্রবীভূত হলো না।",
+   "stimulus_en": "An unknown organic sample heated with dry CuO turned limewater milky. In the Lassaigne extract of another sample, AgNO3 gave a yellow precipitate insoluble in NH4OH.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "লেসাইন পরীক্ষা কী জন্য ব্যবহৃত হয়?",
+     "question_en": "What is the Lassaigne test used for?",
+     "model_answer_bn": "জৈব যৌগে N, S ও হ্যালোজেন শনাক্ত করতে।",
+     "model_answer_en": "To detect N, S and halogens in organic compounds."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "প্রথম নমুনায় কোন মৌল ও কীভাবে শনাক্ত হলো?",
+     "question_en": "Which element was detected in the first sample and how?",
+     "model_answer_bn": "কার্বন; CuO বিজারিত হয়ে C থেকে CO₂ উৎপন্ন হয় যা চুনের পানি ঘোলা করে।",
+     "model_answer_en": "Carbon; CuO is reduced and C forms CO2 which turns limewater milky."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "দ্বিতীয় নমুনায় কোন হ্যালোজেন আছে? বিক্রিয়া লেখ।",
+     "question_en": "Which halogen is in the second sample? Give the reaction.",
+     "model_answer_bn": "আয়োডিন; NaI + AgNO₃ → AgI↓ + NaNO₃ (হলুদ)।",
+     "model_answer_en": "Iodine; NaI + AgNO3 -> AgI (yellow) + NaNO3."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "Cl, Br, I-এর AgNO₃ পরীক্ষার ফলাফল NH₄OH-এ দ্রবণীয়তার ভিত্তিতে তুলনা কর।",
+     "question_en": "Compare Cl, Br, I by solubility of their silver halides in NH4OH.",
+     "model_answer_bn": "AgCl সাদা, NH₄OH-এ সম্পূর্ণ দ্রবণীয়; AgBr হালকা হলুদ, আংশিক দ্রবণীয়; AgI হলুদ, অদ্রবণীয়।",
+     "model_answer_en": "AgCl white, fully soluble; AgBr pale yellow, partly soluble; AgI yellow, insoluble."
+    }
+   ]
+  }
+ ],
+ "notes": "All pages 222-240 readable. Pages 241-249 (summary/exercises and later sections) not used. Ninhydrin spot colour printed as 'deep yellow' in book; omitted from MCQs to avoid ambiguity. Book lists '>C=C<' as the last polarity item; written as C=C."
+}

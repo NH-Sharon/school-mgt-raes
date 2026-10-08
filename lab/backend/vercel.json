@@ -3,7 +3,13 @@
   "builds": [
     {
       "src": "server.js",
-      "use": "@vercel/node"
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": [
+          "db/data/chemistry-11/bank/**",
+          "db/data/chemistry-12/bank/**"
+        ]
+      }
     }
   ],
   "routes": [

@@ -1,0 +1,1760 @@
+{
+ "chapter_no": 2,
+ "topics": [
+  {
+   "section_no": "2.8",
+   "title_bn": "তড়িৎ চুম্বকীয় বর্ণালি",
+   "title_en": "Electromagnetic Spectrum",
+   "notes_bn": "আলো তড়িৎ-চৌম্বক তরঙ্গ; ম্যাক্সওয়েল দেখান আলো ও তড়িৎ-চৌম্বক ক্ষেত্র সম্পর্কিত। শূন্য মাধ্যমে বেগ c = 3×10⁸ m s⁻¹।\nতরঙ্গ সম্পর্ক: c = λν; তরঙ্গ সংখ্যা ν̄ = 1/λ = ν/c (একক cm⁻¹ বা m⁻¹)।\nপ্ল্যাঙ্কের কোয়ান্টাম তত্ত্ব (1901): শক্তি নিরবচ্ছিন্ন নয়, কোয়ান্টা আকারে; E = hν, h = 6.626×10⁻³⁴ J s। আইনস্টাইন (1905) ফোটন ধারণা দেন।\nদৃশ্যমান আলোর তরঙ্গদৈর্ঘ্য 380–780 nm; বেগুনি 380–425, নীল 425–450, আসমানি 450–500, সবুজ 500–575, হলুদ 575–590, কমলা 590–625, লাল 625–780 nm।\nতরঙ্গদৈর্ঘ্য বাড়ার ক্রম: γ-রশ্মি < X-রশ্মি < UV < দৃশ্যমান < IR < মাইক্রোওয়েভ < রেডিও তরঙ্গ।\nএকক: 1 nm = 10⁻⁹ m, 1 Å = 0.1 nm = 10⁻¹⁰ m; কম্পাঙ্কের একক হার্টজ (s⁻¹); পর্যায়কাল T = 1/ν।\nউদাহরণ: 575 nm হলুদ আলোর কম্পাঙ্ক 5.217×10¹⁴ Hz, তরঙ্গ সংখ্যা 1.739×10⁶ m⁻¹।",
+   "notes_en": "Light is an electromagnetic wave (Maxwell); speed in vacuum c = 3x10^8 m/s.\nc = lambda x nu; wave number = 1/lambda = nu/c (cm^-1 or m^-1).\nPlanck (1901): energy is quantised, E = h nu, h = 6.626x10^-34 J s; Einstein (1905) introduced the photon.\nVisible light 380-780 nm: violet 380-425, blue 425-450, cyan 450-500, green 500-575, yellow 575-590, orange 590-625, red 625-780 nm.\nIncreasing wavelength: gamma < X-ray < UV < visible < IR < microwave < radio.\n1 nm = 1e-9 m, 1 A = 0.1 nm; period T = 1/nu.\nExample: 575 nm yellow light has nu = 5.217e14 Hz, wave number 1.739e6 m^-1.",
+   "mcqs": [
+    {
+     "question_bn": "তড়িৎ চুম্বকীয় তরঙ্গের বেগ c, তরঙ্গদৈর্ঘ্য λ ও কম্পাঙ্ক ν এর সম্পর্ক কোনটি?",
+     "question_en": "Which relation connects speed c, wavelength λ and frequency ν of an electromagnetic wave?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "c = λ/ν",
+       "en": "c = λ/ν"
+      },
+      {
+       "id": "b",
+       "bn": "c = λν",
+       "en": "c = λν"
+      },
+      {
+       "id": "c",
+       "bn": "c = ν/λ",
+       "en": "c = ν/λ"
+      },
+      {
+       "id": "d",
+       "bn": "c = λ + ν",
+       "en": "c = λ + ν"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তরঙ্গের বেগ = তরঙ্গদৈর্ঘ্য × কম্পাঙ্ক, অর্থাৎ c = λν।",
+     "explanation_en": "Wave speed equals wavelength times frequency, c = λν.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের পরিসর কত?",
+     "question_en": "What is the wavelength range of visible light?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10–380 nm",
+       "en": "10–380 nm"
+      },
+      {
+       "id": "b",
+       "bn": "380–780 nm",
+       "en": "380–780 nm"
+      },
+      {
+       "id": "c",
+       "bn": "780–1000 nm",
+       "en": "780–1000 nm"
+      },
+      {
+       "id": "d",
+       "bn": "0.01–10 nm",
+       "en": "0.01–10 nm"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের তথ্য অনুযায়ী দৃশ্যমান আলো 380–780 nm এর মধ্যে পড়ে।",
+     "explanation_en": "Per the book, visible light lies within 380–780 nm.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্ল্যাঙ্কের কোয়ান্টাম তত্ত্ব অনুযায়ী একটি কোয়ান্টামের শক্তি কত?",
+     "question_en": "According to Planck's quantum theory, the energy of one quantum is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "E = hc",
+       "en": "E = hc"
+      },
+      {
+       "id": "b",
+       "bn": "E = h/ν",
+       "en": "E = h/ν"
+      },
+      {
+       "id": "c",
+       "bn": "E = hν",
+       "en": "E = hν"
+      },
+      {
+       "id": "d",
+       "bn": "E = ν/h",
+       "en": "E = ν/h"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বিকিরণ শক্তি কোয়ান্টা আকারে থাকে এবং E = hν, যেখানে h প্ল্যাঙ্ক ধ্রুবক।",
+     "explanation_en": "Radiant energy comes in quanta with E = hν, where h is Planck's constant.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তরঙ্গদৈর্ঘ্য বৃদ্ধির সঠিক ক্রম কোনটি?",
+     "question_en": "Which is the correct order of increasing wavelength?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "IR < দৃশ্যমান < UV < X-রশ্মি",
+       "en": "IR < visible < UV < X-ray"
+      },
+      {
+       "id": "b",
+       "bn": "X-রশ্মি < UV < দৃশ্যমান < IR",
+       "en": "X-ray < UV < visible < IR"
+      },
+      {
+       "id": "c",
+       "bn": "UV < X-রশ্মি < IR < দৃশ্যমান",
+       "en": "UV < X-ray < IR < visible"
+      },
+      {
+       "id": "d",
+       "bn": "দৃশ্যমান < IR < X-রশ্মি < UV",
+       "en": "visible < IR < X-ray < UV"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ক্রম: γ < X < UV < দৃশ্যমান < IR < মাইক্রোওয়েভ < রেডিও।",
+     "explanation_en": "Order: gamma < X < UV < visible < IR < microwave < radio.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "500 nm তরঙ্গদৈর্ঘ্যের আলোর তরঙ্গ সংখ্যা কত?",
+     "question_en": "What is the wave number of light of wavelength 500 nm?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5×10⁶ m⁻¹",
+       "en": "5x10^6 m^-1"
+      },
+      {
+       "id": "b",
+       "bn": "2×10⁶ m⁻¹",
+       "en": "2x10^6 m^-1"
+      },
+      {
+       "id": "c",
+       "bn": "2×10⁻⁶ m⁻¹",
+       "en": "2x10^-6 m^-1"
+      },
+      {
+       "id": "d",
+       "bn": "5×10⁻⁷ m⁻¹",
+       "en": "5x10^-7 m^-1"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ν̄ = 1/λ = 1/(500×10⁻⁹ m) = 2×10⁶ m⁻¹।",
+     "explanation_en": "Wave number = 1/λ = 1/(500x10^-9 m) = 2x10^6 m^-1.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "600 nm তরঙ্গদৈর্ঘ্যের আলোর কম্পাঙ্ক কত? (c = 3×10⁸ m s⁻¹)",
+     "question_en": "What is the frequency of light of wavelength 600 nm? (c = 3x10^8 m/s)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2×10¹⁴ Hz",
+       "en": "2x10^14 Hz"
+      },
+      {
+       "id": "b",
+       "bn": "5×10¹⁵ Hz",
+       "en": "5x10^15 Hz"
+      },
+      {
+       "id": "c",
+       "bn": "5×10¹⁴ Hz",
+       "en": "5x10^14 Hz"
+      },
+      {
+       "id": "d",
+       "bn": "1.8×10² Hz",
+       "en": "1.8x10^2 Hz"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "ν = c/λ = 3×10⁸ / 6×10⁻⁷ = 5×10¹⁴ Hz।",
+     "explanation_en": "nu = c/lambda = 3x10^8 / 6x10^-7 = 5x10^14 Hz.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "5×10¹⁴ Hz কম্পাঙ্কের একটি ফোটনের শক্তি কত? (h = 6.626×10⁻³⁴ J s)",
+     "question_en": "What is the energy of a photon of frequency 5x10^14 Hz? (h = 6.626x10^-34 J s)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.325×10⁻⁴⁸ J",
+       "en": "1.325x10^-48 J"
+      },
+      {
+       "id": "b",
+       "bn": "3.313×10⁻²⁰ J",
+       "en": "3.313x10^-20 J"
+      },
+      {
+       "id": "c",
+       "bn": "3.313×10⁻¹⁹ J",
+       "en": "3.313x10^-19 J"
+      },
+      {
+       "id": "d",
+       "bn": "6.626×10⁻²⁰ J",
+       "en": "6.626x10^-20 J"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "E = hν = 6.626×10⁻³⁴ × 5×10¹⁴ = 3.313×10⁻¹⁹ J।",
+     "explanation_en": "E = h nu = 6.626x10^-34 x 5x10^14 = 3.313x10^-19 J.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.9",
+   "title_bn": "তড়িৎ চুম্বকীয় বর্ণালির অঞ্চলসমূহ",
+   "title_en": "Regions of the Electromagnetic Spectrum",
+   "notes_bn": "বর্ণালি সাতটি প্রধান অঞ্চলে বিভক্ত: γ-রশ্মি, X-রশ্মি, UV, দৃশ্যমান, IR, মাইক্রোওয়েভ, রেডিও ওয়েভ।\nγ-রশ্মি সবচেয়ে ক্ষুদ্র তরঙ্গদৈর্ঘ্য ও সর্বোচ্চ শক্তির; তেজস্ক্রিয় আইসোটোপ থেকে নির্গত, ক্যান্সার চিকিৎসা ও খাদ্যশস্য সংরক্ষণে ব্যবহৃত।\nX-রশ্মি (0.01–10 nm): দেহের ভেতরের কাঠামোর ছবি তোলায় ব্যবহৃত। UV (10–380 nm): জাল টাকা/পাসপোর্ট শনাক্তকরণ, ভিটামিন-D প্রস্তুতি, জীবাণুনাশ।\nদৃশ্যমান (380–780 nm): VIBGYOR; আলোকসংশ্লেষণ ও দর্শনে কাজে লাগে। IR (780 nm–): ফিজিওথেরাপি, রিমোট কন্ট্রোল, অপটিক্যাল ফাইবার যোগাযোগ।\nমাইক্রোওয়েভ: মোবাইল টাওয়ার, Wi-Fi, ওভেন, রাডার। রেডিও ওয়েভ: বেতার/টিভি সিগনাল, MRI।\nশোষণ বর্ণালি: ইলেকট্রন শক্তি শোষণ করে উচ্চস্তরে গেলে (কালো রেখা, dark spectrum)। নির্গমন বর্ণালি: ইলেকট্রন উচ্চস্তর থেকে নিম্নস্তরে নামলে শক্তি বিকিরণ হয়; উজ্জ্বল রেখা।",
+   "notes_en": "The spectrum has seven regions: gamma, X-ray, UV, visible, IR, microwave, radio.\nGamma rays: shortest wavelength, highest energy; from radioactive isotopes; used in cancer therapy and food preservation.\nX-ray (0.01-10 nm): imaging inside the body. UV (10-380 nm): detecting fake notes/passports, vitamin D, killing germs.\nVisible (380-780 nm): VIBGYOR; vision and photosynthesis. IR (from 780 nm): physiotherapy, remote controls, optical fibre communication.\nMicrowave: mobile towers, Wi-Fi, ovens, radar. Radio waves: radio/TV signals, MRI.\nAbsorption spectrum: electron absorbs energy and jumps up (dark lines). Emission spectrum: electron falls to a lower level and emits energy (bright lines).",
+   "mcqs": [
+    {
+     "question_bn": "MRI যন্ত্রে কোন ধরনের তড়িৎ চুম্বকীয় বিকিরণ ব্যবহৃত হয়?",
+     "question_en": "Which electromagnetic radiation is used in MRI?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "γ-রশ্মি",
+       "en": "Gamma rays"
+      },
+      {
+       "id": "b",
+       "bn": "X-রশ্মি",
+       "en": "X-rays"
+      },
+      {
+       "id": "c",
+       "bn": "রেডিও ওয়েভ",
+       "en": "Radio waves"
+      },
+      {
+       "id": "d",
+       "bn": "UV রশ্মি",
+       "en": "UV rays"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "বইয়ে MRI যন্ত্রের সিগনালে রেডিও ওয়েভ ব্যবহারের কথা বলা হয়েছে।",
+     "explanation_en": "The book lists radio waves for the MRI signal.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "10 nm–380 nm তরঙ্গদৈর্ঘ্যের বিকিরণ কোনটি?",
+     "question_en": "Which radiation has wavelength 10 nm to 380 nm?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অবলোহিত",
+       "en": "Infrared"
+      },
+      {
+       "id": "b",
+       "bn": "অতিবেগুনি",
+       "en": "Ultraviolet"
+      },
+      {
+       "id": "c",
+       "bn": "মাইক্রোওয়েভ",
+       "en": "Microwave"
+      },
+      {
+       "id": "d",
+       "bn": "γ-রশ্মি",
+       "en": "Gamma rays"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "UV অঞ্চলের পরিসর 10–380 nm।",
+     "explanation_en": "The UV region spans 10–380 nm.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোন রশ্মির শক্তি সর্বোচ্চ?",
+     "question_en": "Which of the following has the highest energy?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "IR",
+       "en": "IR"
+      },
+      {
+       "id": "b",
+       "bn": "দৃশ্যমান আলো",
+       "en": "Visible light"
+      },
+      {
+       "id": "c",
+       "bn": "UV",
+       "en": "UV"
+      },
+      {
+       "id": "d",
+       "bn": "γ-রশ্মি",
+       "en": "Gamma rays"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "γ-রশ্মির তরঙ্গদৈর্ঘ্য সবচেয়ে কম, তাই শক্তি সবচেয়ে বেশি।",
+     "explanation_en": "Gamma rays have the shortest wavelength, hence the highest energy.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "শোষণ বর্ণালি সৃষ্টি হয় যখন—",
+     "question_en": "An absorption spectrum is produced when:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলেকট্রন উচ্চস্তর থেকে নিম্নস্তরে নামে",
+       "en": "an electron falls from a higher to a lower level"
+      },
+      {
+       "id": "b",
+       "bn": "ইলেকট্রন শক্তি শোষণ করে উচ্চতর শক্তিস্তরে যায়",
+       "en": "an electron absorbs energy and moves to a higher level"
+      },
+      {
+       "id": "c",
+       "bn": "নিউক্লিয়াস ভেঙে যায়",
+       "en": "the nucleus breaks"
+      },
+      {
+       "id": "d",
+       "bn": "পরমাণু আয়নিত না হয়ে নিস্তেজ থাকে",
+       "en": "the atom remains unexcited"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শক্তি শোষণ করে ইলেকট্রন উচ্চস্তরে গেলে শোষণ বর্ণালি (কালো রেখা) পাওয়া যায়।",
+     "explanation_en": "Absorption of energy raising the electron gives the absorption (dark-line) spectrum.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন জোড়াটি সঠিক?",
+     "question_en": "Which pair is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "γ-রশ্মি – টিভি সিগনাল",
+       "en": "Gamma rays - TV signal"
+      },
+      {
+       "id": "b",
+       "bn": "মাইক্রোওয়েভ – Wi-Fi ও মোবাইল সিগনাল",
+       "en": "Microwave - Wi-Fi and mobile signal"
+      },
+      {
+       "id": "c",
+       "bn": "রেডিও ওয়েভ – জাল টাকা শনাক্তকরণ",
+       "en": "Radio waves - detecting fake notes"
+      },
+      {
+       "id": "d",
+       "bn": "UV – ফিজিওথেরাপি",
+       "en": "UV - physiotherapy"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ের সারণি অনুযায়ী মাইক্রোওয়েভ মোবাইল টাওয়ার ও Wi-Fi এ ব্যবহৃত হয়।",
+     "explanation_en": "Per the book's table, microwaves are used in mobile towers and Wi-Fi.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অবলোহিত (IR) রশ্মির ক্ষেত্রে কোনটি সত্য?",
+     "question_en": "Which is true of infrared (IR) radiation?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দৃশ্যমান আলোর চেয়ে বেশি শক্তিসম্পন্ন",
+       "en": "More energetic than visible light"
+      },
+      {
+       "id": "b",
+       "bn": "তরঙ্গদৈর্ঘ্য লাল আলোর চেয়ে বেশি, তাই অদৃশ্য",
+       "en": "Longer wavelength than red light, hence invisible"
+      },
+      {
+       "id": "c",
+       "bn": "তরঙ্গদৈর্ঘ্য 10–380 nm",
+       "en": "Wavelength is 10–380 nm"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু রেডিও এন্টেনায় সৃষ্টি হয়",
+       "en": "Produced only in radio antennas"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "IR এর তরঙ্গদৈর্ঘ্য 780 nm থেকে বেশি এবং শক্তি লাল আলোর চেয়ে কম।",
+     "explanation_en": "IR wavelength exceeds 780 nm and its energy is lower than that of red light.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নির্গমন বর্ণালি সম্পর্কে কোনটি সঠিক?",
+     "question_en": "Which statement about an emission spectrum is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উচ্চস্তর থেকে নিম্নস্তরে নামার সময় ইলেকট্রন শক্তি বিকিরণ করে",
+       "en": "Electron emits energy when falling from a higher to a lower level"
+      },
+      {
+       "id": "b",
+       "bn": "ইলেকট্রন নিম্নস্তর থেকে উচ্চস্তরে গেলে সৃষ্টি হয়",
+       "en": "Produced when an electron rises to a higher level"
+      },
+      {
+       "id": "c",
+       "bn": "এর রেখাগুলো কালো",
+       "en": "Its lines are dark"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু শীতল গ্যাস থেকে পাওয়া যায়",
+       "en": "Obtained only from cold gas"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "উত্তেজিত ইলেকট্রন নিম্নস্তরে ফিরলে বিকিরিত আলোই নির্গমন বর্ণালি।",
+     "explanation_en": "Light emitted as excited electrons drop to lower levels forms the emission spectrum.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.10",
+   "title_bn": "পরমাণুর রেখা বর্ণালির বিশ্লেষণ",
+   "title_en": "Analysis of the Line Spectrum of Atom",
+   "notes_bn": "নিরবচ্ছিন্ন বর্ণালি: সব তরঙ্গদৈর্ঘ্য পরপর থাকে, যেমন রংধনু বা প্রিজমে বিচ্ছুরিত সূর্যালোক।\nরেখা বর্ণালি (পারমাণবিক): উত্তপ্ত গ্যাসীয় পরমাণু থেকে নির্দিষ্ট তরঙ্গদৈর্ঘ্যের কয়েকটি স্পষ্ট রেখা; প্রতিটি মৌলের রেখা বর্ণালি অনন্য।\nআণবিক বর্ণালি (গুচ্ছ বর্ণালি): অণু থেকে, বহু কাছাকাছি রেখার গুচ্ছ বা ব্যান্ড।\nরেখা বিচ্ছিন্ন কারণ শক্তিস্তর নির্দিষ্ট, তাই ΔE = E₂ – E₁ = hν এর মান নির্দিষ্ট।\nনাছোড় রেখা (persistent lines) দেখে মৌল শনাক্ত করা যায়।\nউদাহরণ: Na এর D₁ = 589.6 nm ও D₂ = 590 nm; H এর দৃশ্যমান রেখা 656.3 nm (লাল), 486.1 nm (আসমানি), 434.1 nm ও 410.1 nm।",
+   "notes_en": "Continuous spectrum: all wavelengths, e.g. rainbow or sunlight dispersed by a prism.\nLine (atomic) spectrum: a few sharp lines at fixed wavelengths from hot gaseous atoms; unique to each element.\nMolecular (band) spectrum: closely spaced lines forming bands, from molecules.\nLines are discrete because energy levels are fixed, so DeltaE = E2 - E1 = h nu has fixed values.\nPersistent lines are used to identify elements.\nExamples: Na D1 = 589.6 nm, D2 = 590 nm; H visible lines 656.3 nm (red), 486.1 nm, 434.1 nm, 410.1 nm.",
+   "mcqs": [
+    {
+     "question_bn": "রংধনু কোন ধরনের বর্ণালির উদাহরণ?",
+     "question_en": "A rainbow is an example of which spectrum?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রেখা বর্ণালি",
+       "en": "Line spectrum"
+      },
+      {
+       "id": "b",
+       "bn": "নিরবচ্ছিন্ন বর্ণালি",
+       "en": "Continuous spectrum"
+      },
+      {
+       "id": "c",
+       "bn": "আণবিক বর্ণালি",
+       "en": "Molecular spectrum"
+      },
+      {
+       "id": "d",
+       "bn": "শোষণ বর্ণালি",
+       "en": "Absorption spectrum"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "রংধনুতে সাত রং নিরবচ্ছিন্নভাবে মিশে থাকে।",
+     "explanation_en": "In a rainbow the seven colours merge continuously.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রেখা বর্ণালি কোন উৎস থেকে সৃষ্টি হয়?",
+     "question_en": "A line spectrum arises from:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "উত্তপ্ত বা উত্তেজিত গ্যাসীয় পরমাণু",
+       "en": "hot or excited gaseous atoms"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা আলোর বাল্ব",
+       "en": "a white-light bulb"
+      },
+      {
+       "id": "c",
+       "bn": "সূর্যের আলোর প্রিজম বিচ্ছুরণ",
+       "en": "prism dispersion of sunlight"
+      },
+      {
+       "id": "d",
+       "bn": "বৃষ্টির ফোঁটা",
+       "en": "raindrops"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পরমাণুর ইলেকট্রনের স্তর পরিবর্তনে নির্দিষ্ট রেখা সৃষ্টি হয়।",
+     "explanation_en": "Electron transitions between fixed levels in atoms give distinct lines.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রেখা বর্ণালির নাছোড় রেখার প্রধান ব্যবহার কী?",
+     "question_en": "What is the main use of persistent lines in a line spectrum?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তাপমাত্রা মাপা",
+       "en": "Measuring temperature"
+      },
+      {
+       "id": "b",
+       "bn": "মৌল শনাক্ত করা",
+       "en": "Identifying an element"
+      },
+      {
+       "id": "c",
+       "bn": "ভর নির্ণয়",
+       "en": "Finding mass"
+      },
+      {
+       "id": "d",
+       "bn": "pH নির্ণয়",
+       "en": "Finding pH"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নাছোড় রেখাগুলো মৌলের নিজস্ব বৈশিষ্ট্য, তাই শনাক্তকরণে কাজে লাগে।",
+     "explanation_en": "They are characteristic of the element and so identify it.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "হাইড্রোজেনের 656.3 nm এর রেখা কোন বর্ণের?",
+     "question_en": "The 656.3 nm line of hydrogen has which colour?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নীল",
+       "en": "Blue"
+      },
+      {
+       "id": "b",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "c",
+       "bn": "হলুদ",
+       "en": "Yellow"
+      },
+      {
+       "id": "d",
+       "bn": "লাল",
+       "en": "Red"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "লাল আলোর পরিসর বইয়ে 625–780 nm; 656.3 nm এর মধ্যে পড়ে।",
+     "explanation_en": "Red light spans 625–780 nm in the book, which contains 656.3 nm.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "পরমাণুর বর্ণালিতে কেন নির্দিষ্ট বিচ্ছিন্ন রেখা দেখা যায়?",
+     "question_en": "Why does an atomic spectrum show discrete lines?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইলেকট্রনের শক্তি যেকোনো মান নিতে পারে",
+       "en": "Electron energy can take any value"
+      },
+      {
+       "id": "b",
+       "bn": "শক্তিস্তর নির্দিষ্ট বলে ΔE = hν এর মান নির্দিষ্ট",
+       "en": "Energy levels are fixed so ΔE = hν has fixed values"
+      },
+      {
+       "id": "c",
+       "bn": "নিউক্লিয়াস ঘোরে",
+       "en": "The nucleus rotates"
+      },
+      {
+       "id": "d",
+       "bn": "আলো প্রতিফলিত হয়",
+       "en": "Light is reflected"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "স্থির শক্তিস্তরের ব্যবধান নির্দিষ্ট, তাই কম্পাঙ্কও নির্দিষ্ট।",
+     "explanation_en": "Fixed gaps between levels give fixed frequencies.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.11",
+   "title_bn": "বোর পরমাণু মডেল ও হাইড্রোজেন পরমাণু বর্ণালি",
+   "title_en": "Bohr Atom Model and Hydrogen Atom Spectrum",
+   "notes_bn": "ইলেকট্রন উচ্চস্তর (E₂) থেকে নিম্নস্তরে (E₁) নামলে ΔE = E₂ – E₁ = hν শক্তি বিকিরিত হয়।\nরিডবার্গ সমীকরণ: ν̄ = R_H (1/n₁² – 1/n₂²), R_H = 1.09678×10⁷ m⁻¹ = 1.09678×10⁵ cm⁻¹।\nn-তম কক্ষের শক্তি Eₙ = –2.176×10⁻¹¹/n² erg; কক্ষের ব্যাসার্ধ r ∝ n²। H এর আয়নিকরণ বিভব 2.1715×10⁻¹¹ erg = 13.55 eV।\nসিরিজ: লাইম্যান n₁=1 (UV), বামার n₁=2 (দৃশ্যমান), প্যাশ্চেন n₁=3 (IR), ব্র্যাকেট n₁=4 (অতি-IR), ফান্ড n₁=5, হামফ্রে n₁=6 (অতি-IR)।\nনির্দিষ্ট n₁: লাইম্যানের প্রথম রেখা ν̄ = (3/4)R_H; বামারের প্রথম (5/36)R_H; প্যাশ্চেনের প্রথম (7/144)R_H।\nn₂ → n₁ এ সর্বোচ্চ রেখার সংখ্যা = (n₂–n₁)(n₂–n₁+1)/2; যেমন 7 → 2 এ 15টি।\nLi²⁺ এর জন্য 1/λ = Z²R_H(1/n₁² – 1/n₂²), Z = 3; 1 erg = 6.24×10¹¹ eV।",
+   "notes_en": "Electron falling from E2 to E1 emits DeltaE = E2 - E1 = h nu.\nRydberg equation: wave number = R_H (1/n1^2 - 1/n2^2), R_H = 1.09678x10^7 m^-1.\nEnergy of nth orbit E_n = -2.176x10^-11 / n^2 erg; radius r proportional to n^2. Ionisation energy of H = 2.1715x10^-11 erg = 13.55 eV.\nSeries: Lyman n1=1 (UV), Balmer n1=2 (visible), Paschen n1=3 (IR), Brackett n1=4 (far-IR), Pfund n1=5, Humphreys n1=6 (far-IR).\nFirst lines: Lyman (3/4)R_H, Balmer (5/36)R_H, Paschen (7/144)R_H.\nMax number of lines for n2 -> n1 = (n2-n1)(n2-n1+1)/2; e.g. 7 -> 2 gives 15.\nFor Li2+ use Z^2 = 9 times R_H term; 1 erg = 6.24x10^11 eV.",
+   "mcqs": [
+    {
+     "question_bn": "হাইড্রোজেন বর্ণালির কোন সিরিজ দৃশ্যমান অঞ্চলে পড়ে?",
+     "question_en": "Which hydrogen series lies in the visible region?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "লাইম্যান",
+       "en": "Lyman"
+      },
+      {
+       "id": "b",
+       "bn": "বামার",
+       "en": "Balmer"
+      },
+      {
+       "id": "c",
+       "bn": "প্যাশ্চেন",
+       "en": "Paschen"
+      },
+      {
+       "id": "d",
+       "bn": "ব্র্যাকেট",
+       "en": "Brackett"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বামার সিরিজ (n₁ = 2) দৃশ্যমান অঞ্চলে।",
+     "explanation_en": "The Balmer series (n1 = 2) is in the visible region.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লাইম্যান সিরিজে n₁ এর মান কত?",
+     "question_en": "What is n1 for the Lyman series?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ইলেকট্রন প্রথম কক্ষে (n₁ = 1) নামলে লাইম্যান সিরিজ।",
+     "explanation_en": "Transitions to the first orbit (n1 = 1) form the Lyman series.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রিডবার্গ ধ্রুবক R_H এর মান কত?",
+     "question_en": "The value of the Rydberg constant R_H is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.09678×10⁷ m⁻¹",
+       "en": "1.09678x10^7 m^-1"
+      },
+      {
+       "id": "b",
+       "bn": "1.09678×10⁵ m⁻¹",
+       "en": "1.09678x10^5 m^-1"
+      },
+      {
+       "id": "c",
+       "bn": "6.626×10⁻³⁴ J s",
+       "en": "6.626x10^-34 J s"
+      },
+      {
+       "id": "d",
+       "bn": "3×10⁸ m⁻¹",
+       "en": "3x10^8 m^-1"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে R_H = 1.09678×10⁷ m⁻¹ (= 1.09678×10⁵ cm⁻¹)।",
+     "explanation_en": "The book gives R_H = 1.09678x10^7 m^-1.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "লাইম্যান সিরিজের প্রথম রেখার তরঙ্গ সংখ্যা কত?",
+     "question_en": "What is the wave number of the first line of the Lyman series?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(5/36) R_H",
+       "en": "(5/36) R_H"
+      },
+      {
+       "id": "b",
+       "bn": "(3/4) R_H",
+       "en": "(3/4) R_H"
+      },
+      {
+       "id": "c",
+       "bn": "(7/144) R_H",
+       "en": "(7/144) R_H"
+      },
+      {
+       "id": "d",
+       "bn": "R_H/4",
+       "en": "R_H/4"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ν̄ = R_H(1/1² – 1/2²) = (3/4)R_H।",
+     "explanation_en": "wave number = R_H(1/1^2 - 1/2^2) = (3/4)R_H.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "n = 5 থেকে n = 1 এ নামার সময় সর্বোচ্চ কতটি বর্ণালি রেখা পাওয়া যাবে?",
+     "question_en": "How many spectral lines at most appear for transitions from n = 5 to n = 1?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4",
+       "en": "4"
+      },
+      {
+       "id": "b",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "c",
+       "bn": "10",
+       "en": "10"
+      },
+      {
+       "id": "d",
+       "bn": "20",
+       "en": "20"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "(n₂–n₁)(n₂–n₁+1)/2 = 4×5/2 = 10।",
+     "explanation_en": "(n2-n1)(n2-n1+1)/2 = 4x5/2 = 10.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রথম কক্ষের তুলনায় তৃতীয় কক্ষের ব্যাসার্ধ কত গুণ?",
+     "question_en": "How many times larger is the radius of the third orbit than the first?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "6",
+       "en": "6"
+      },
+      {
+       "id": "c",
+       "bn": "9",
+       "en": "9"
+      },
+      {
+       "id": "d",
+       "bn": "27",
+       "en": "27"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "r ∝ n², তাই 3² / 1² = 9 গুণ।",
+     "explanation_en": "r is proportional to n^2, so 3^2/1^2 = 9 times.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "দ্বিতীয় কক্ষে H এর ইলেকট্রনের শক্তি কত? (Eₙ = –2.176×10⁻¹¹/n² erg)",
+     "question_en": "What is the energy of H's electron in the second orbit? (E_n = -2.176x10^-11/n^2 erg)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "–2.176×10⁻¹¹ erg",
+       "en": "-2.176x10^-11 erg"
+      },
+      {
+       "id": "b",
+       "bn": "–1.088×10⁻¹¹ erg",
+       "en": "-1.088x10^-11 erg"
+      },
+      {
+       "id": "c",
+       "bn": "–5.44×10⁻¹² erg",
+       "en": "-5.44x10^-12 erg"
+      },
+      {
+       "id": "d",
+       "bn": "–2.42×10⁻¹² erg",
+       "en": "-2.42x10^-12 erg"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "E₂ = –2.176×10⁻¹¹ / 4 = –5.44×10⁻¹² erg।",
+     "explanation_en": "E2 = -2.176x10^-11 / 4 = -5.44x10^-12 erg.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "হাইড্রোজেনের n = 2 থেকে n = 1 এ ইলেকট্রন নামলে বিকিরিত শক্তি কত? (E₁ = –2.176×10⁻¹¹ erg, E₂ = –5.44×10⁻¹² erg)",
+     "question_en": "Energy emitted when H's electron goes from n = 2 to n = 1? (E1 = -2.176x10^-11 erg, E2 = -5.44x10^-12 erg)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.632×10⁻¹¹ erg",
+       "en": "1.632x10^-11 erg"
+      },
+      {
+       "id": "b",
+       "bn": "2.72×10⁻¹¹ erg",
+       "en": "2.72x10^-11 erg"
+      },
+      {
+       "id": "c",
+       "bn": "1.632×10⁻¹² erg",
+       "en": "1.632x10^-12 erg"
+      },
+      {
+       "id": "d",
+       "bn": "5.44×10⁻¹² erg",
+       "en": "5.44x10^-12 erg"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ΔE = E₂ – E₁ = –5.44×10⁻¹² + 2.176×10⁻¹¹ = 1.632×10⁻¹¹ erg।",
+     "explanation_en": "DeltaE = -5.44e-12 + 2.176e-11 = 1.632e-11 erg.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "বামার সিরিজের প্রথম রেখা (n₂ = 3) এর জন্য ν̄ = ?",
+     "question_en": "For the first Balmer line (n2 = 3), the wave number is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "(3/4) R_H",
+       "en": "(3/4) R_H"
+      },
+      {
+       "id": "b",
+       "bn": "(5/36) R_H",
+       "en": "(5/36) R_H"
+      },
+      {
+       "id": "c",
+       "bn": "(21/100) R_H",
+       "en": "(21/100) R_H"
+      },
+      {
+       "id": "d",
+       "bn": "(7/144) R_H",
+       "en": "(7/144) R_H"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ν̄ = R_H(1/4 – 1/9) = (5/36)R_H।",
+     "explanation_en": "wave number = R_H(1/4 - 1/9) = (5/36)R_H.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.12",
+   "title_bn": "জাল পাসপোর্ট বা জাল টাকা শনাক্তকরণে UV রশ্মির ব্যবহার",
+   "title_en": "UV Rays to Detect Fake Passports and Money",
+   "notes_bn": "UV রশ্মির তরঙ্গদৈর্ঘ্য দৃশ্যমান আলোর চেয়ে কম, X-রশ্মির চেয়ে বেশি; এটি অদৃশ্য।\nটাকা ও পাসপোর্টে বিশেষ ফসফর/ফ্লুরোসেন্ট কালি ব্যবহৃত হয়, যা নির্দিষ্ট UV তরঙ্গদৈর্ঘ্যে আলো পেলে দৃশ্যমান আলো দেয়।\nফসফর UV শোষণ করে ইলেকট্রন উচ্চস্তরে যায়, ফিরে আসার সময় দৃশ্যমান আলো বিকিরণ করে।\nপ্রতিপ্রভা (ফ্লুরোসেন্স): উৎস বন্ধ করলে 10⁻⁶–10⁻⁸ সেকেন্ডের মধ্যে বিকিরণ থেমে যায়। অনুপ্রভা (ফসফরেসেন্স): উৎস বন্ধের পরেও 10⁻⁴–10 সেকেন্ড আলো দেয়।\nউদাহরণ: 1000 টাকার নোটে UV এ হালকা বেগুনি ও হালকা হলুদ রেখা; 500 ও 100 টাকার নোটে হালকা লালচে, বেগুনি ও হলুদ রেখা।\nজালিয়াতরা সাধারণ প্রিন্টারে এ নিরাপত্তা চিহ্ন নকল করতে পারে না।",
+   "notes_en": "UV has shorter wavelength than visible light and is invisible.\nNotes and passports carry special phosphor/fluorescent ink that emits visible light under specific UV wavelengths.\nThe phosphor absorbs UV, electrons jump up, and on returning they emit visible light.\nFluorescence stops within 1e-6 to 1e-8 s of removing the source; phosphorescence persists 1e-4 to 10 s after.\nBangladesh notes: 1000 taka shows light violet and light yellow marks; 500 and 100 taka show light red, light violet and light yellow marks.\nFakers with ordinary printers cannot reproduce these security features.",
+   "mcqs": [
+    {
+     "question_bn": "UV আলোয় টাকার নিরাপত্তা চিহ্ন দৃশ্যমান হয় কেন?",
+     "question_en": "Why does a note's security mark show under UV light?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "UV আলোয় নোট গরম হয়",
+       "en": "The note heats up under UV"
+      },
+      {
+       "id": "b",
+       "bn": "ফ্লুরোসেন্ট ফসফর UV শোষণ করে দৃশ্যমান আলো বিকিরণ করে",
+       "en": "Fluorescent phosphor absorbs UV and emits visible light"
+      },
+      {
+       "id": "c",
+       "bn": "UV রশ্মি নোটকে ছিদ্র করে",
+       "en": "UV pierces the note"
+      },
+      {
+       "id": "d",
+       "bn": "নোট আলো শোষণ করে না",
+       "en": "The note absorbs no light"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফসফরের ইলেকট্রন উত্তেজিত হয়ে ফিরে আসার সময় দৃশ্যমান আলো দেয়।",
+     "explanation_en": "The phosphor's excited electrons emit visible light on returning.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "প্রতিপ্রভা (ফ্লুরোসেন্স) ও অনুপ্রভা (ফসফরেসেন্স) এর পার্থক্য কী?",
+     "question_en": "What distinguishes fluorescence from phosphorescence?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রতিপ্রভা উৎস বন্ধের পরেও দীর্ঘক্ষণ থাকে",
+       "en": "Fluorescence persists long after the source is off"
+      },
+      {
+       "id": "b",
+       "bn": "অনুপ্রভা উৎস বন্ধের পরেও কিছু সময় থাকে",
+       "en": "Phosphorescence continues for some time after the source is off"
+      },
+      {
+       "id": "c",
+       "bn": "দুটোই একই",
+       "en": "They are identical"
+      },
+      {
+       "id": "d",
+       "bn": "প্রতিপ্রভায় আলো সৃষ্টি হয় না",
+       "en": "No light in fluorescence"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ফ্লুরোসেন্স দ্রুত থামে; ফসফরেসেন্স 10⁻⁴–10 সেকেন্ড চলে।",
+     "explanation_en": "Fluorescence stops quickly; phosphorescence lasts 1e-4 to 10 s.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রতিপ্রভার স্থায়িত্বকাল কত?",
+     "question_en": "What is the duration of fluorescence after the source is removed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10⁻⁶–10⁻⁸ সেকেন্ড",
+       "en": "10^-6 – 10^-8 s"
+      },
+      {
+       "id": "b",
+       "bn": "10⁻⁴–10 সেকেন্ড",
+       "en": "10^-4 – 10 s"
+      },
+      {
+       "id": "c",
+       "bn": "কয়েক ঘণ্টা",
+       "en": "a few hours"
+      },
+      {
+       "id": "d",
+       "bn": "কয়েক দিন",
+       "en": "a few days"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ফ্লুরোসেন্স 10⁻⁶–10⁻⁸ সেকেন্ডে শেষ হয় বলা হয়েছে।",
+     "explanation_en": "The book states fluorescence ends within 1e-6 to 1e-8 s.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বাংলাদেশের 1000 টাকার নোটে UV আলোয় কোন রং দেখা যায়?",
+     "question_en": "Which colours show on a Bangladeshi 1000 taka note under UV?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "হালকা বেগুনি ও হালকা হলুদ",
+       "en": "light violet and light yellow"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু লাল",
+       "en": "only red"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ ও নীল",
+       "en": "green and blue"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো রং নয়",
+       "en": "no colour"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সারণিতে এই দুই রং উল্লেখ আছে।",
+     "explanation_en": "The book's table lists these two colours.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "UV রশ্মি উৎপাদক যন্ত্রে নোট জাল কিনা পরীক্ষা কীভাবে সম্ভব?",
+     "question_en": "How does a UV device check whether a note is genuine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জাল নোটের ওজন মেপে",
+       "en": "by weighing it"
+      },
+      {
+       "id": "b",
+       "bn": "প্রকৃত নোটে থাকা ফসফরের বিশেষ বর্ণের প্রতিপ্রভা দেখে",
+       "en": "by seeing the characteristic fluorescence of the phosphor in a genuine note"
+      },
+      {
+       "id": "c",
+       "bn": "তাপমাত্রা মেপে",
+       "en": "by measuring temperature"
+      },
+      {
+       "id": "d",
+       "bn": "গন্ধ শুঁকে",
+       "en": "by smell"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নির্দিষ্ট তরঙ্গদৈর্ঘ্যের UV তে প্রকৃত নোটের ফসফর নির্দিষ্ট রং দেয়।",
+     "explanation_en": "Under the proper UV wavelength the genuine note's phosphor shows its set colour.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.13",
+   "title_bn": "চিকিৎসাবিজ্ঞানে IR রশ্মির ব্যবহার",
+   "title_en": "Uses of IR Rays in Medical Science",
+   "notes_bn": "IR রশ্মি আবিষ্কার করেন স্যার উইলিয়াম হার্শেল।\nIR এর তরঙ্গদৈর্ঘ্য প্রায় 750–10⁶ nm; কম্পাঙ্ক 4×10¹⁴ – 3×10¹¹ Hz।\nIR তিন অঞ্চলে ভাগ: Near-IR (780–2500 nm), Middle-IR (2500–25000 nm), Far-IR।\nNear-IR: মাংসপেশির ব্যথা নিরাময়, DOT পদ্ধতিতে মস্তিষ্কের রক্তে O₂ পরিমাপ।\nFar-IR: ত্বক ভেদ করে প্রায় 4 cm গভীরে পৌঁছে, রক্ত সঞ্চালন ও অক্সিজেন সরবরাহ বাড়ায়; বাত, আর্থ্রাইটিস, পেশির ব্যথায় ব্যবহৃত।\nFTIR বর্ণালি দিয়ে ক্ষতস্থান, কিডনি পাথরের গঠন ও জীবাণু নির্ণয় এবং Low/High emission পদ্ধতিতে চিকিৎসা হয়।",
+   "notes_en": "IR rays were discovered by Sir William Herschel.\nIR wavelength about 750-10^6 nm; frequency 4x10^14 - 3x10^11 Hz.\nThree regions: Near-IR (780-2500 nm), Middle-IR (2500-25000 nm), Far-IR.\nNear-IR: relieves muscle pain; DOT measures oxygen absorbed by haemoglobin in brain blood.\nFar-IR: penetrates about 4 cm of skin, boosts blood flow and oxygen delivery; used for rheumatism, arthritis, muscle pain.\nFTIR spectra help identify wounds, kidney stone composition and microbes; Low/High emission methods are used in therapy.",
+   "mcqs": [
+    {
+     "question_bn": "IR রশ্মি প্রথম কে আবিষ্কার করেন?",
+     "question_en": "Who first discovered IR rays?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ম্যাক্সওয়েল",
+       "en": "Maxwell"
+      },
+      {
+       "id": "b",
+       "bn": "স্যার উইলিয়াম হার্শেল",
+       "en": "Sir William Herschel"
+      },
+      {
+       "id": "c",
+       "bn": "প্ল্যাঙ্ক",
+       "en": "Planck"
+      },
+      {
+       "id": "d",
+       "bn": "লাইম্যান",
+       "en": "Lyman"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বই অনুযায়ী হার্শেল প্রথম IR রশ্মি আবিষ্কার করেন।",
+     "explanation_en": "The book credits Herschel with first discovering IR.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Near-IR রশ্মির তরঙ্গদৈর্ঘ্য পরিসর কত?",
+     "question_en": "What is the wavelength range of near-IR?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "780–2500 nm",
+       "en": "780–2500 nm"
+      },
+      {
+       "id": "b",
+       "bn": "10–380 nm",
+       "en": "10–380 nm"
+      },
+      {
+       "id": "c",
+       "bn": "2500–25000 nm",
+       "en": "2500–25000 nm"
+      },
+      {
+       "id": "d",
+       "bn": "0.01–10 nm",
+       "en": "0.01–10 nm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে Near-IR 780–2500 nm দেওয়া আছে।",
+     "explanation_en": "The book gives near-IR as 780–2500 nm.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন IR অঞ্চল ত্বক ভেদ করে প্রায় 4 cm গভীরে পৌঁছাতে পারে?",
+     "question_en": "Which IR region penetrates about 4 cm into the skin?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Near-IR",
+       "en": "Near-IR"
+      },
+      {
+       "id": "b",
+       "bn": "Middle-IR",
+       "en": "Middle-IR"
+      },
+      {
+       "id": "c",
+       "bn": "Far-IR",
+       "en": "Far-IR"
+      },
+      {
+       "id": "d",
+       "bn": "কোনোটিই নয়",
+       "en": "None"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "Far-IR এর এই বৈশিষ্ট্য বইয়ে বলা হয়েছে।",
+     "explanation_en": "The book states this property for far-IR.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "DOT পদ্ধতিতে Near-IR দিয়ে কী মাপা হয়?",
+     "question_en": "In DOT, near-IR is used to measure:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রক্তের গ্লুকোজ",
+       "en": "blood glucose"
+      },
+      {
+       "id": "b",
+       "bn": "মস্তিষ্কের রক্তে হিমোগ্লোবিন কতটা O₂ শোষণ করেছে",
+       "en": "how much O2 haemoglobin has absorbed in brain blood"
+      },
+      {
+       "id": "c",
+       "bn": "হাড়ের ঘনত্ব",
+       "en": "bone density"
+      },
+      {
+       "id": "d",
+       "bn": "শরীরের ওজন",
+       "en": "body weight"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Near-IR প্রয়োগে মস্তিষ্কের রক্তের হিমোগ্লোবিনের O₂ শোষণ নির্ণীত হয়।",
+     "explanation_en": "Near-IR gives the O2 uptake of haemoglobin in brain blood.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Far-IR ব্যথা উপশমে সাহায্য করে কারণ—",
+     "question_en": "Far-IR relieves pain because:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এটি দেহকে ঠান্ডা করে",
+       "en": "it cools the body"
+      },
+      {
+       "id": "b",
+       "bn": "দেহের তাপ বাড়িয়ে রক্ত সঞ্চালন ও অক্সিজেন সরবরাহ বৃদ্ধি করে",
+       "en": "it raises body temperature and boosts blood flow and oxygen supply"
+      },
+      {
+       "id": "c",
+       "bn": "এটি হাড় ভেঙে দেয়",
+       "en": "it breaks bones"
+      },
+      {
+       "id": "d",
+       "bn": "এটি রক্ত জমাট বাঁধায়",
+       "en": "it clots blood"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "তাপ রক্তনালী প্রসারিত করে রক্তপ্রবাহ বাড়ায়, ফলে পেশির ব্যথা কমে।",
+     "explanation_en": "Warmth widens vessels, increasing blood flow and easing muscle pain.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.14",
+   "title_bn": "রোগ নির্ণয়ে MRI পরীক্ষার মূলনীতি",
+   "title_en": "Principle of MRI Test to Identify Diseases",
+   "notes_bn": "MRI (ম্যাগনেটিক রেজোনেন্স ইমেজিং) NMR এর নীতির ওপর প্রতিষ্ঠিত দেহের অভ্যন্তরীণ ছবি তোলার পদ্ধতি; 1947 সালে Bloch ও Purcell উদ্ভাবন করেন।\nমানবদেহে প্রায় 70% পানি; পানির H-পরমাণুর নিউক্লিয়াস একটি প্রোটন, তাই MRI-সংবেদনশীল।\nশক্তিশালী চৌম্বকক্ষেত্রে প্রোটনের স্পিন +1/2 (α-স্তর, কম শক্তি) বা –1/2 (β-স্তর, উচ্চ শক্তি) অবস্থায় থাকে; ΔE = (β–α) = hν।\nরেডিও-কম্পাঙ্কের তরঙ্গ দিলে প্রোটন শক্তি শোষণ করে β-স্তরে যায়; তরঙ্গ বন্ধ করলে ফিরে এসে শক্তি বিকিরণ করে (relaxation time), যা থেকে 3D ছবি তৈরি হয়।\nসুবিধা: তেজস্ক্রিয় রশ্মি নেই, কোষের ক্ষতি করে না, মস্তিষ্ক/স্নায়ুর রোগ নির্ণয়ে কার্যকর।\nঅসুবিধা: পেসমেকার থাকলে বা ধাতব বস্তু থাকলে সমস্যা; অত্যন্ত ব্যয়বহুল।\nPaul Lauterbur ও Peter Mansfield 2003 সালে নোবেল পান।",
+   "notes_en": "MRI is imaging of the body's interior based on NMR; invented by Bloch and Purcell (1947).\nThe body is ~70% water; each H atom's nucleus is one proton, so MRI is sensitive to it.\nIn a strong magnetic field protons align with spin +1/2 (alpha, lower energy) or -1/2 (beta, higher energy); DeltaE = h nu.\nRadio-frequency waves excite protons to beta; after they are switched off the protons relax and emit energy (relaxation time), forming 3D images.\nAdvantages: no ionising radiation, no tissue damage, good for brain/nerve disease.\nDisadvantages: problems with pacemakers or metal implants; very expensive.\nLauterbur and Mansfield won the Nobel Prize in 2003.",
+   "mcqs": [
+    {
+     "question_bn": "MRI কোন নীতির ওপর প্রতিষ্ঠিত?",
+     "question_en": "MRI is based on which principle?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এক্স-রে শোষণ",
+       "en": "X-ray absorption"
+      },
+      {
+       "id": "b",
+       "bn": "নিউক্লিয়ার ম্যাগনেটিক রেজোনেন্স (NMR)",
+       "en": "Nuclear magnetic resonance (NMR)"
+      },
+      {
+       "id": "c",
+       "bn": "আলোর প্রতিসরণ",
+       "en": "Refraction of light"
+      },
+      {
+       "id": "d",
+       "bn": "তেজস্ক্রিয় ক্ষয়",
+       "en": "Radioactive decay"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "MRI NMR এর তত্ত্বকে কাজে লাগায়।",
+     "explanation_en": "MRI uses NMR.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "MRI-তে প্রধানত কোন নিউক্লিয়াস শনাক্ত করা হয়?",
+     "question_en": "Which nucleus is mainly detected in MRI?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "O-16",
+       "en": "O-16"
+      },
+      {
+       "id": "b",
+       "bn": "পানির H-পরমাণুর প্রোটন",
+       "en": "protons of H atoms in water"
+      },
+      {
+       "id": "c",
+       "bn": "C-12",
+       "en": "C-12"
+      },
+      {
+       "id": "d",
+       "bn": "Na",
+       "en": "Na"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দেহের প্রচুর পানির H নিউক্লিয়াস (প্রোটন) সংবেদনশীল।",
+     "explanation_en": "Protons of H in body water are the sensitive nuclei.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "X-ray এর তুলনায় MRI এর একটি সুবিধা কী?",
+     "question_en": "One advantage of MRI over X-ray is:",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এটি সস্তা",
+       "en": "It is cheap"
+      },
+      {
+       "id": "b",
+       "bn": "তেজস্ক্রিয় রশ্মি ব্যবহার হয় না, কোষের ক্ষতির আশঙ্কা নেই",
+       "en": "No ionising radiation, so no cell damage"
+      },
+      {
+       "id": "c",
+       "bn": "ধাতব বস্তুতে কাজ করে",
+       "en": "Works with metal implants"
+      },
+      {
+       "id": "d",
+       "bn": "পেসমেকারে নিরাপদ",
+       "en": "Safe with pacemakers"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "MRI তে তেজস্ক্রিয় রশ্মির প্রয়োগ নেই।",
+     "explanation_en": "MRI uses no radioactive/ionising radiation.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন রোগীর জন্য MRI পরীক্ষায় সমস্যা হয়?",
+     "question_en": "For which patient is MRI problematic?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "যার পেসমেকার আছে",
+       "en": "one with a pacemaker"
+      },
+      {
+       "id": "b",
+       "bn": "যার জ্বর আছে",
+       "en": "one with fever"
+      },
+      {
+       "id": "c",
+       "bn": "যার রক্তচাপ স্বাভাবিক",
+       "en": "one with normal BP"
+      },
+      {
+       "id": "d",
+       "bn": "যার চুল সাদা",
+       "en": "one with white hair"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "MRI চুম্বক নির্ভর, তাই পেসমেকার সমস্যা সৃষ্টি করে।",
+     "explanation_en": "MRI depends on magnets, so pacemakers cause trouble.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "চৌম্বকক্ষেত্রে প্রোটনের শক্তিস্তর সম্পর্কে সঠিক কোনটি?",
+     "question_en": "Which statement about proton energy levels in a magnetic field is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "α-স্তর (+1/2) কম শক্তির, β-স্তর (–1/2) বেশি শক্তির",
+       "en": "alpha (+1/2) is lower energy, beta (-1/2) higher"
+      },
+      {
+       "id": "b",
+       "bn": "α-স্তর বেশি শক্তির",
+       "en": "alpha is higher energy"
+      },
+      {
+       "id": "c",
+       "bn": "দুটো স্তরের শক্তি সমান",
+       "en": "both levels have equal energy"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো শক্তিস্তর থাকে না",
+       "en": "no levels exist"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "ΔE = (β–α) = hν, রেডিও তরঙ্গে α থেকে β এ যায়।",
+     "explanation_en": "DeltaE = (beta - alpha) = h nu; radio waves excite alpha to beta.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "MRI তে relaxation time বলতে কী বোঝায়?",
+     "question_en": "What does relaxation time mean in MRI?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "প্রোটন উত্তেজিত হতে যে সময় লাগে",
+       "en": "time protons need to get excited"
+      },
+      {
+       "id": "b",
+       "bn": "তরঙ্গ বন্ধের পর প্রোটন পূর্ব অবস্থায় ফিরে শক্তি বিকিরণ করার মধ্যবর্তী সময়",
+       "en": "time taken for protons to return and release energy after the pulse stops"
+      },
+      {
+       "id": "c",
+       "bn": "রোগীর বিশ্রামের সময়",
+       "en": "patient rest time"
+      },
+      {
+       "id": "d",
+       "bn": "যন্ত্র ঠান্ডা হওয়ার সময়",
+       "en": "machine cooling time"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "শক্তি শোষণ থেকে বিকিরণের মধ্যবর্তী সময়কে relaxation time বলে।",
+     "explanation_en": "The interval between absorbing and re-emitting energy is the relaxation time.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "2.15",
+   "title_bn": "ব্যবহারিক : শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব আয়নের শনাক্তকরণ",
+   "title_en": "Practical: Identifying Metal Ions by Flame Test",
+   "notes_bn": "পদ্ধতি: Pt তারকে গাঢ় HCl এ ভিজিয়ে বুনসেন শিখায় উত্তপ্ত করে পরিষ্কার করা হয় (শিখা বর্ণহীন হওয়া পর্যন্ত); পরে লবণের নমুনা নিয়ে শিখার বাইরের দীপ্তিহীন অংশে ধরে বর্ণ দেখা হয়।\nশিখার বর্ণ: Na⁺ উজ্জ্বল সোনালী হলুদ; K⁺ বেগুনি; Ca²⁺ ইটের মতো লাল; Sr²⁺ টকটকে লাল; Ba²⁺ হলুদাভ সবুজ; Cu²⁺ নীলাভ সবুজ।\nনীল কোবাল্ট কাচের মধ্য দিয়ে: Na এর হলুদ শোষিত হয় (বর্ণ দেখা যায় না); K লালাভ বেগুনি; Ba নীলাভ সবুজ; Ca ফিকে সবুজ; Cu কোনো বর্ণ নয়।\nকারণ: তাপে ইলেকট্রন উচ্চস্তরে যায়, ফিরে আসার সময় নির্দিষ্ট তরঙ্গদৈর্ঘ্যের (E = hc/λ) দৃশ্যমান আলো বিকিরণ করে।\nMg, Be, Al, Fe এ শিখা পরীক্ষা কার্যকর নয়: Mg এর পরমাণু ছোট, আয়নিকরণ বিভব বেশি, বুনসেনের তাপে ইলেকট্রন উত্তেজিত হয় না।\nPt ব্যবহার হয় কারণ এটি গাঢ় HCl দ্বারা আক্রান্ত হয় না, নিজস্ব বর্ণ দেয় না এবং অন্য মূলকের সাথে বিক্রিয়া করে না।",
+   "notes_en": "Method: clean a Pt wire by dipping in conc. HCl and heating in a Bunsen flame until colourless; dip in the sample and hold in the non-luminous flame.\nFlame colours: Na+ golden yellow; K+ violet; Ca2+ brick red; Sr2+ crimson; Ba2+ yellowish green; Cu2+ bluish green.\nThrough blue cobalt glass: Na yellow is absorbed (no colour); K reddish violet; Ba bluish green; Ca pale green; Cu no characteristic colour.\nReason: heat excites electrons; on returning they emit visible light of fixed wavelength (E = hc/lambda).\nFlame test fails for Mg, Be, Al, Fe: Mg is small with high ionisation energy so Bunsen heat cannot excite its electrons.\nPt is used because conc. HCl does not attack it, it gives no colour of its own and does not react with other radicals.",
+   "mcqs": [
+    {
+     "question_bn": "Ca²⁺ লবণ শিখায় কোন বর্ণ দেয়?",
+     "question_en": "What flame colour does a Ca2+ salt give?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ইটের ন্যায় লাল",
+       "en": "Brick red"
+      },
+      {
+       "id": "b",
+       "bn": "সোনালী হলুদ",
+       "en": "Golden yellow"
+      },
+      {
+       "id": "c",
+       "bn": "বেগুনি",
+       "en": "Violet"
+      },
+      {
+       "id": "d",
+       "bn": "নীলাভ সবুজ",
+       "en": "Bluish green"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সারণিতে Ca²⁺ এর শিখা ইটের ন্যায় লাল।",
+     "explanation_en": "The book lists brick red for Ca2+.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "সোডিয়াম লবণ শিখায় কী বর্ণ দেয়?",
+     "question_en": "What colour does a sodium salt give?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বেগুনি",
+       "en": "Violet"
+      },
+      {
+       "id": "b",
+       "bn": "উজ্জ্বল সোনালী হলুদ",
+       "en": "Bright golden yellow"
+      },
+      {
+       "id": "c",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "d",
+       "bn": "টকটকে লাল",
+       "en": "Crimson"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Na⁺ এর বৈশিষ্ট্যপূর্ণ শিখা উজ্জ্বল সোনালী হলুদ।",
+     "explanation_en": "Na+ gives a bright golden-yellow flame.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "শিখা পরীক্ষায় Pt তার ব্যবহারের কারণ কী?",
+     "question_en": "Why is platinum wire used in the flame test?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "এটি সস্তা",
+       "en": "It is cheap"
+      },
+      {
+       "id": "b",
+       "bn": "গাঢ় HCl দ্বারা আক্রান্ত হয় না ও নিজস্ব বর্ণ দেয় না",
+       "en": "It is not attacked by conc. HCl and gives no colour of its own"
+      },
+      {
+       "id": "c",
+       "bn": "এটি সহজে গলে যায়",
+       "en": "It melts easily"
+      },
+      {
+       "id": "d",
+       "bn": "এটি লাল শিখা দেয়",
+       "en": "It gives a red flame"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Pt অন্য মূলকের সাথে বিক্রিয়া করে না এবং নিজে কোনো বর্ণ সৃষ্টি করে না।",
+     "explanation_en": "Pt reacts with nothing and adds no colour.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "নীল কোবাল্ট কাচ কেন ব্যবহার করা হয়?",
+     "question_en": "Why is blue cobalt glass used?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "শিখা ঠান্ডা করতে",
+       "en": "to cool the flame"
+      },
+      {
+       "id": "b",
+       "bn": "হলুদ Na বর্ণ শোষণ করে অন্য আয়নের বর্ণ স্পষ্ট করতে",
+       "en": "to absorb the yellow of Na and make other ions' colours visible"
+      },
+      {
+       "id": "c",
+       "bn": "শিখা বড় করতে",
+       "en": "to enlarge the flame"
+      },
+      {
+       "id": "d",
+       "bn": "আয়ন ভাঙতে",
+       "en": "to break ions"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নীল কাচ Na এর হলুদ আলো শোষণ করে, ফলে K ইত্যাদির বর্ণ দেখা যায়।",
+     "explanation_en": "Blue glass absorbs Na's yellow, so K and others can be seen.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "Mg লবণ শিখা পরীক্ষায় বৈশিষ্ট্যপূর্ণ বর্ণ দেয় না কেন?",
+     "question_en": "Why doesn't a Mg salt give a characteristic flame colour?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Mg ভারী",
+       "en": "Mg is heavy"
+      },
+      {
+       "id": "b",
+       "bn": "Mg এর আয়নিকরণ বিভব বেশি, বুনসেন শিখার তাপে ইলেকট্রন উত্তেজিত হয় না",
+       "en": "Mg has high ionisation energy and its electrons are not excited by a Bunsen flame"
+      },
+      {
+       "id": "c",
+       "bn": "Mg তরল",
+       "en": "Mg is liquid"
+      },
+      {
+       "id": "d",
+       "bn": "Mg গ্যাসীয়",
+       "en": "Mg is gaseous"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ছোট আকারের কারণে Mg এর ইলেকট্রন নিউক্লিয়াসে দৃঢ়ভাবে আবদ্ধ।",
+     "explanation_en": "Its small size holds the electrons tightly to the nucleus.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নীল কোবাল্ট কাচের মধ্য দিয়ে কোন লবণ লালাভ বেগুনি শিখা দেয়?",
+     "question_en": "Which salt shows a reddish violet flame through cobalt glass?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "K লবণ",
+       "en": "K salt"
+      },
+      {
+       "id": "b",
+       "bn": "Na লবণ",
+       "en": "Na salt"
+      },
+      {
+       "id": "c",
+       "bn": "Cu লবণ",
+       "en": "Cu salt"
+      },
+      {
+       "id": "d",
+       "bn": "Ba লবণ",
+       "en": "Ba salt"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "সারণি অনুযায়ী K⁺ সাধারণভাবে বেগুনি এবং নীল কাচে লালাভ বেগুনি।",
+     "explanation_en": "Per the table, K+ is violet plainly and reddish violet via blue glass.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "2.11",
+   "stimulus_bn": "একজন শিক্ষার্থী হাইড্রোজেন পরমাণুর ইলেকট্রনের n = 3 থেকে n = 2 কক্ষে স্থানান্তরের ফলে সৃষ্ট বর্ণালি রেখা পর্যবেক্ষণ করল। সে R_H = 1.09678×10⁷ m⁻¹, h = 6.626×10⁻³⁴ J s এবং c = 3×10⁸ m s⁻¹ ব্যবহার করল।",
+   "stimulus_en": "A student studies the spectral line produced when the electron of a hydrogen atom moves from n = 3 to n = 2. Use R_H = 1.09678x10^7 m^-1, h = 6.626x10^-34 J s, c = 3x10^8 m/s.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "রিডবার্গ ধ্রুবক কাকে বলে?",
+     "question_en": "What is the Rydberg constant?",
+     "model_answer_bn": "রিডবার্গ সমীকরণ ν̄ = R_H(1/n₁² – 1/n₂²) এ ব্যবহৃত ধ্রুবক R_H, যার মান 1.09678×10⁷ m⁻¹।",
+     "model_answer_en": "The constant R_H in ν̄ = R_H(1/n1^2 - 1/n2^2); its value is 1.09678x10^7 m^-1."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "হাইড্রোজেনের বর্ণালিতে রেখা বিচ্ছিন্ন কেন?",
+     "question_en": "Why is the hydrogen spectrum made of discrete lines?",
+     "model_answer_bn": "ইলেকট্রনের শক্তিস্তর নির্দিষ্ট, তাই স্তরান্তরে ΔE = hν এর মান নির্দিষ্ট হয়। ফলে শুধু নির্দিষ্ট কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্যের আলো বিকিরিত হয়, নিরবচ্ছিন্ন নয়।",
+     "model_answer_en": "Energy levels are fixed, so DeltaE = h nu has fixed values; only light of definite frequency and wavelength is emitted, not a continuum."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "উদ্দীপকের রেখাটির তরঙ্গদৈর্ঘ্য nm এককে নির্ণয় কর।",
+     "question_en": "Calculate the wavelength of the line in nm.",
+     "model_answer_bn": "ν̄ = R_H(1/2² – 1/3²) = 1.09678×10⁷ × 5/36 = 1.52331×10⁶ m⁻¹। λ = 1/ν̄ = 6.5646×10⁻⁷ m = 656.46 nm।",
+     "model_answer_en": "wave number = 1.09678e7 x (1/4 - 1/9) = 1.09678e7 x 5/36 = 1.52331e6 m^-1; lambda = 1/that = 6.5646e-7 m = 656.46 nm."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "রেখাটির ফোটনের শক্তি নির্ণয় করে এটি কোন বর্ণের এবং কোন সিরিজের তা যুক্তিসহ বিশ্লেষণ কর।",
+     "question_en": "Find the photon energy and, with reasoning, state its colour and series.",
+     "model_answer_bn": "E = hc/λ = (6.626×10⁻³⁴ × 3×10⁸)/(6.5646×10⁻⁷) ≈ 3.03×10⁻¹⁹ J। 656.46 nm লাল আলোর পরিসরে (625–780 nm) পড়ে এবং n₁ = 2 হওয়ায় এটি বামার সিরিজের প্রথম রেখা; তাই দৃশ্যমান অঞ্চলে লাল।",
+     "model_answer_en": "E = hc/lambda = (6.626e-34 x 3e8)/6.5646e-7 = about 3.03e-19 J. 656.46 nm lies in the red range (625-780 nm) and n1 = 2 means it is the first Balmer line, visible and red."
+    }
+   ]
+  },
+  {
+   "topic_section": "2.15",
+   "stimulus_bn": "পরীক্ষাগারে তিনটি অজানা লবণ X, Y ও Z এর শিখা পরীক্ষা করা হল। X ইটের মতো লাল শিখা দিল; Y খালি চোখে সোনালী হলুদ শিখা দিল কিন্তু নীল কোবাল্ট কাচে কোনো বর্ণ দেখা গেল না; Z (Mg লবণ) কোনো বৈশিষ্ট্যপূর্ণ বর্ণ দিল না।",
+   "stimulus_en": "Three unknown salts X, Y, Z are flame-tested. X gives a brick-red flame; Y gives a golden-yellow flame to the naked eye but no colour through blue cobalt glass; Z (a Mg salt) shows no characteristic colour.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "শিখা পরীক্ষা কী?",
+     "question_en": "What is a flame test?",
+     "model_answer_bn": "বুনসেন শিখায় লবণ উত্তপ্ত করে শিখার বর্ণ দেখে ধাতব আয়ন শনাক্ত করার পরীক্ষা।",
+     "model_answer_en": "Heating a salt in a Bunsen flame and identifying the metal ion from the flame colour."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "শিখা পরীক্ষায় নীল কোবাল্ট কাচ কেন ব্যবহার করা হয়?",
+     "question_en": "Why is blue cobalt glass used in a flame test?",
+     "model_answer_bn": "নীল কাচ Na এর হলুদ আলো শোষণ করে নেয়, ফলে Na উপস্থিত থাকলেও অন্য ধাতুর বর্ণ শনাক্ত করা যায়।",
+     "model_answer_en": "It absorbs the yellow light of Na so that colours of other metals are not masked."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "X ও Y লবণে কোন কোন ক্যাটায়ন আছে তা শনাক্ত কর।",
+     "question_en": "Identify the cations in X and Y.",
+     "model_answer_bn": "X: ইটের ন্যায় লাল শিখা, তাই Ca²⁺। Y: সোনালী হলুদ ও নীল কাচে বর্ণহীন, তাই Na⁺।",
+     "model_answer_en": "X gives brick red, so Ca2+. Y is golden yellow and vanishes through blue glass, so Na+."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "Ca লবণ বর্ণ দিলেও Mg লবণ দেয় না কেন তা ব্যাখ্যা কর এবং বর্ণ সৃষ্টির কারণ বিশ্লেষণ কর।",
+     "question_en": "Explain why Ca gives colour but Mg does not, and analyse the origin of flame colours.",
+     "model_answer_bn": "শিখায় তাপে ইলেকট্রন উচ্চস্তরে উঠে, ফিরে আসার সময় E = hc/λ শক্তির দৃশ্যমান আলো দেয়। Ca এর ইলেকট্রন বুনসেনের তাপে উত্তেজিত হয়, কিন্তু Mg এর আকার ছোট ও আয়নিকরণ বিভব বেশি হওয়ায় ইলেকট্রন নিউক্লিয়াসে দৃঢ়ভাবে আবদ্ধ; তাই উত্তেজিত হয় না। এছাড়া Mg এর ক্ষেত্রে বিকিরণ দৃশ্যমান সীমার মধ্যে পড়ে না।",
+     "model_answer_en": "Heat raises electrons to higher levels; on returning they emit visible light of energy E = hc/lambda. Ca electrons are excited by a Bunsen flame, but Mg, being small with a high ionisation energy, holds its electrons tightly and is not excited; its emission also falls outside the visible range."
+    }
+   ]
+  }
+ ],
+ "notes": "Pages 136-166 read fully and legible (section 2.15 ends p.166, summary). Pages 167-175 (exercises) read only p.167 and not used. Some printed numerics on p.159/p.158 IR ranges are inconsistent in the book; used only ranges stated clearly (near-IR 780-2500 nm; IR 750-10^6 nm)."
+}

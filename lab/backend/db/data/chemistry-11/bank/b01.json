@@ -1,0 +1,1294 @@
+{
+ "chapter_no": 1,
+ "topics": [
+  {
+   "section_no": "1.1",
+   "title_bn": "ল্যাবরেটরি ব্যবহার বিধি : পোশাক, নিরাপদ গ্লাস, মাস্ক ও হ্যান্ড গ্লাভস",
+   "title_en": "Lab use rules: apron, safety glass, mask, gloves",
+   "notes_bn": "ল্যাবে ঢিলা জামাকাপড় নয়; রাসায়নিক থেকে পোশাক বাঁচাতে সাদা সুতি অ্যাপ্রন পরতে হয় (সুতি তাপ দ্রুত বিকিরণ করে, তাপ শোষণ কম)।\nনিরাপদ গ্লাস/গগলস চোখকে ধোঁয়া, ছিটা ও বাষ্প (SO₂, SO₃, NO₂, অ্যাসিড বাষ্প) থেকে বাঁচায়; কনট্যাক্ট লেন্স পরা চলবে না; সোডিয়াম ধাতু চোখের মারাত্মক ক্ষতি করে।\nমাস্ক : NO₂, NH₃, HCl, SO₂, H₂S, CO₂ ইত্যাদি গ্যাস ও উদ্বায়ী জৈব যৌগ (বেনজিন, টলুইন, ক্লোরোফর্ম ইত্যাদি) থেকে রক্ষা করে; ল্যাবের মাস্কে চারকোল, জিওলাইট ও কটন উল থাকে।\nহ্যান্ড গ্লাভস : নিওপ্রিন (পলিক্লোরোপ্রিন), ভিনাইল (PVC), জিটেক্স (কাচ-তন্তু, তাপরোধী; অ্যাসবেস্টসের বিকল্প), ল্যাটেক্স (প্রাকৃতিক রবার; পাতলা, তাপ/ঘর্ষণ সহে না), নাইট্রাইল (অ্যাক্রিলোনাইট্রাইল-বিউটাডাইন কো-পলিমার; পরিবেশবান্ধব, প্রোটিন নেই বলে অ্যালার্জি করে না), প্রাকৃতিক রবার (বৈদ্যুতিক শক প্রতিরোধী)।\nসোনালি বিধি : রাসায়নিক শুঁকা/চাখা নয়, খালি হাতে ছোঁয়া নয়, কাজের আগে রাফ শিট ও শিক্ষকের অনুমতি, গরম কাচের যন্ত্র ঠান্ডা পানিতে ডোবানো নয়, শেষে সাবান দিয়ে হাত ধোয়া।",
+   "notes_en": "No loose clothing in lab; wear a white cotton apron (cotton radiates heat quickly, absorbs little) to protect clothes from chemicals.\nSafety glass/goggles protect eyes from splashes and vapours (SO2, SO3, NO2, acid fumes); no contact lenses; sodium metal can seriously damage eyes.\nMask: protects against gases such as NO2, NH3, HCl, SO2, H2S, CO2 and volatile organics (benzene, toluene, chloroform); lab masks use charcoal, zeolite and cotton wool.\nGloves: neoprene (polychloroprene), vinyl (PVC), Zetex (glass-fibre, heat resistant, asbestos substitute), latex (natural rubber, thin, poor heat/friction resistance), nitrile (acrylonitrile-butadiene copolymer, eco-friendly, no protein so no allergy), natural rubber (insulates against electric shock).\nGolden rules: never smell/taste chemicals, never touch them bare-handed, prepare a rough sheet and get teacher approval first, never put hot glassware in cold water, wash hands with soap after work.",
+   "mcqs": [
+    {
+     "question_bn": "ল্যাবে অ্যাপ্রন হিসেবে কোন ধরনের কাপড় ব্যবহার করা শ্রেয়?",
+     "question_en": "Which fabric is preferred for a lab apron?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সাদা সুতি",
+       "en": "White cotton"
+      },
+      {
+       "id": "b",
+       "bn": "নাইলন",
+       "en": "Nylon"
+      },
+      {
+       "id": "c",
+       "bn": "পলিয়েস্টার",
+       "en": "Polyester"
+      },
+      {
+       "id": "d",
+       "bn": "রেশম",
+       "en": "Silk"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের মতে সাদা সুতি অ্যাপ্রন আরামদায়ক, তাপ দ্রুত বিকিরণ করে ও কম তাপ শোষণ করে।",
+     "explanation_en": "The book recommends white cotton as it is comfortable, radiates heat quickly and absorbs little.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ল্যাবে কোনটি পরা নিষিদ্ধ?",
+     "question_en": "Which must NOT be worn while working in the lab?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কনট্যাক্ট লেন্স",
+       "en": "Contact lenses"
+      },
+      {
+       "id": "b",
+       "bn": "সাদা অ্যাপ্রন",
+       "en": "White apron"
+      },
+      {
+       "id": "c",
+       "bn": "নিরাপদ গগলস",
+       "en": "Safety goggles"
+      },
+      {
+       "id": "d",
+       "bn": "নাইট্রাইল গ্লাভস",
+       "en": "Nitrile gloves"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "SO₂, SO₃, NO₂ ও অ্যাসিড বাষ্প লেন্সের ভেতরে ঢুকে চোখের ক্ষতি করতে পারে।",
+     "explanation_en": "Vapours like SO2, SO3, NO2 and acid fumes can get behind lenses and injure the eye.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোন ধাতু ব্যবহারের সময় চোখের মারাত্মক ক্ষতির আশঙ্কায় নিরাপদ গ্লাস অবশ্যই পরতে হয়?",
+     "question_en": "Eye damage from which metal makes safety glass compulsory when handling it?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সোডিয়াম",
+       "en": "Sodium"
+      },
+      {
+       "id": "b",
+       "bn": "কপার",
+       "en": "Copper"
+      },
+      {
+       "id": "c",
+       "bn": "সিলভার",
+       "en": "Silver"
+      },
+      {
+       "id": "d",
+       "bn": "জিংক",
+       "en": "Zinc"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সোডিয়াম ধাতু ব্যবহারের সময় চোখের মারাত্মক ক্ষতির কথা বলা হয়েছে।",
+     "explanation_en": "The book states sodium metal can cause severe eye damage.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ল্যাবের মাস্কে সাধারণত কোন উপাদান থাকে?",
+     "question_en": "Which materials are commonly used in a lab mask?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চারকোল, জিওলাইট ও কটন উল",
+       "en": "Charcoal, zeolite and cotton wool"
+      },
+      {
+       "id": "b",
+       "bn": "শুধু প্লাস্টিক",
+       "en": "Plastic only"
+      },
+      {
+       "id": "c",
+       "bn": "অ্যাসবেস্টস ও রবার",
+       "en": "Asbestos and rubber"
+      },
+      {
+       "id": "d",
+       "bn": "কাচ ও ধাতু",
+       "en": "Glass and metal"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে ল্যাবের মাস্কে চারকোল, জিওলাইট ও কটন উল ব্যবহারের কথা আছে।",
+     "explanation_en": "The book lists charcoal, zeolite and cotton wool for lab masks.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোন গ্লাভস প্রোটিনমুক্ত বলে ব্যবহারকারীর অ্যালার্জি সৃষ্টি করে না?",
+     "question_en": "Which glove, being protein-free, does not cause allergy?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ল্যাটেক্স",
+       "en": "Latex"
+      },
+      {
+       "id": "b",
+       "bn": "নাইট্রাইল",
+       "en": "Nitrile"
+      },
+      {
+       "id": "c",
+       "bn": "প্রাকৃতিক রবার",
+       "en": "Natural rubber"
+      },
+      {
+       "id": "d",
+       "bn": "ভিনাইল",
+       "en": "Vinyl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "নাইট্রাইল গ্লাভসে প্রোটিন নেই, তাই অ্যালার্জি সৃষ্টি করে না।",
+     "explanation_en": "Nitrile gloves contain no protein, so they do not trigger allergy.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোন গ্লাভস উচ্চ তাপমাত্রা সহ্য করে এবং অ্যাসবেস্টস গ্লাভসের বিকল্প হিসেবে ব্যবহৃত হয়?",
+     "question_en": "Which glove tolerates high temperature and substitutes asbestos gloves?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "জিটেক্স",
+       "en": "Zetex"
+      },
+      {
+       "id": "b",
+       "bn": "ল্যাটেক্স",
+       "en": "Latex"
+      },
+      {
+       "id": "c",
+       "bn": "ভিনাইল",
+       "en": "Vinyl"
+      },
+      {
+       "id": "d",
+       "bn": "নিওপ্রিন",
+       "en": "Neoprene"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "জিটেক্স গ্লাভস কাচ-তন্তু দিয়ে তৈরি, তাপরোধী; অ্যাসবেস্টসের বিকল্প।",
+     "explanation_en": "Zetex gloves are glass-fibre based and heat resistant, used instead of asbestos.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.2",
+   "title_bn": "গ্লাস সামগ্রী ব্যবহারের নিরাপদ কৌশল",
+   "title_en": "Safe use of glass apparatus",
+   "notes_bn": "ল্যাবের বেশিরভাগ যন্ত্র কাচের; সামান্য আঘাতে ভাঙে এবং ভাঙা কাচে গুরুতর কাটা-ছেঁড়া হয়।\nভাঙার কারণ : কল/বেসিনে ধোয়ার সময় আঘাত; ভিজা টেস্টটিউব বা কাচের বাইরে পানি থাকা অবস্থায় সরাসরি তাপ; ব্যুরেট স্ট্যান্ডে বেশি চাপে আটকানো; উত্তপ্ত কাচে পানি লাগানো।\nকাচ-নলে কর্ক/রাবার লাগানোর সময় রুমাল বা তোয়ালে জড়িয়ে ধরতে হয় এবং ছিদ্রে গ্লিসারিন/গ্রিজ লাগাতে হয়।\nটেস্টটিউব : উত্তপ্ত অবস্থায় ঠান্ডা পানিতে ধোয়া যাবে না; শেষে ব্রাশ ও তরল ডিটারজেন্টে পরিষ্কার করে স্ট্যান্ডে উপুড় করে রাখতে হয়। বিকার : পরিষ্কার করে উপুড় করে শুকানো হয়, তারজালি/বুনসেন বার্নারে শুকানো যাবে না।\nব্যুরেট : সাধারণত 25 ও 50 mL, প্রতি 1 mL = 10 ভাগ, অর্থাৎ ক্ষুদ্রতম ভাগ 0.1 mL; কক-এ গ্রিজ লাগাতে হয়। পিপেটে মুখে টানার সময় তরল যেন মুখে না ঢোকে।\nপাইরেক্স (বোরোসিলিকেট) কাচ শক্ত ও তাপসহ; থার্মোমিটার, রিয়েজেন্ট বোতল, বিকার ইত্যাদি কোমল কাচের যন্ত্র তাপ সহ্য করে না। (ছাপা পৃষ্ঠা ৮-৯ PDF-এ নেই)",
+   "notes_en": "Most lab apparatus is glass; it breaks easily and broken glass causes serious cuts.\nCauses of breakage: knocking against tap/basin while washing; heating a wet test tube or glass with water on the outside; over-tightening a burette in its stand; water falling on hot glass.\nWhen fitting a glass tube into a cork/rubber, wrap a handkerchief/towel round it and lubricate the hole with glycerine or grease.\nTest tube: never wash with cold water while hot; clean with brush and liquid detergent, store inverted on a stand. Beaker: clean, dry upside down; never dry over gauze or flame.\nBurette: usually 25 or 50 mL; each mL is split into 10 parts, so smallest division = 0.1 mL; grease the stopcock. When pipetting by mouth, liquid must never enter the mouth.\nPyrex (borosilicate) glass is strong and heat resistant; soft-glass items (thermometer, reagent bottle, wash glass etc.) tolerate little heat. (Printed pp. 8-9 missing from the PDF.)",
+   "mcqs": [
+    {
+     "question_bn": "কোন কাচের যন্ত্র সরাসরি উত্তপ্ত করা উচিত নয়?",
+     "question_en": "Which should not be heated directly?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রিয়েজেন্ট বোতল",
+       "en": "Reagent bottle"
+      },
+      {
+       "id": "b",
+       "bn": "কনিক্যাল ফ্লাস্ক",
+       "en": "Conical flask"
+      },
+      {
+       "id": "c",
+       "bn": "পাইরেক্স বিকার",
+       "en": "Pyrex beaker"
+      },
+      {
+       "id": "d",
+       "bn": "পাইরেক্স টেস্টটিউব",
+       "en": "Pyrex test tube"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "রিয়েজেন্ট বোতল কোমল কাচের, তাপ সহ্য করে না।",
+     "explanation_en": "Reagent bottles are soft glass and cannot stand heat.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "উত্তপ্ত টেস্টটিউব ঠান্ডা পানিতে ধুলে কী হয়?",
+     "question_en": "What happens if a hot test tube is washed with cold water?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ফেটে যায়",
+       "en": "It cracks"
+      },
+      {
+       "id": "b",
+       "bn": "আরও পরিষ্কার হয়",
+       "en": "It gets cleaner"
+      },
+      {
+       "id": "c",
+       "bn": "কিছুই হয় না",
+       "en": "Nothing"
+      },
+      {
+       "id": "d",
+       "bn": "রং বদলায়",
+       "en": "It changes colour"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "হঠাৎ ঠান্ডা পানি লাগলে উত্তপ্ত কাচ ফেটে যায়।",
+     "explanation_en": "Sudden cold water makes hot glass crack.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ব্যুরেটের ক্ষুদ্রতম দাগের আয়তন সাধারণত কত?",
+     "question_en": "What is the smallest division of a common burette?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1 mL",
+       "en": "1 mL"
+      },
+      {
+       "id": "b",
+       "bn": "0.1 mL",
+       "en": "0.1 mL"
+      },
+      {
+       "id": "c",
+       "bn": "0.5 mL",
+       "en": "0.5 mL"
+      },
+      {
+       "id": "d",
+       "bn": "0.01 mL",
+       "en": "0.01 mL"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রতি 1 mL 10 ভাগে বিভক্ত, তাই ক্ষুদ্রতম ভাগ 0.1 mL।",
+     "explanation_en": "Each mL is divided into 10, so the smallest division is 0.1 mL.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কাচের নলে কর্ক বা রাবার লাগানোর সময় কী করা উচিত?",
+     "question_en": "What should you do when fitting a glass tube into a cork or rubber?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রুমাল/তোয়ালে জড়িয়ে গ্লিসারিন বা গ্রিজ ব্যবহার করা",
+       "en": "Wrap with a cloth and use glycerine/grease"
+      },
+      {
+       "id": "b",
+       "bn": "জোরে চাপ দেওয়া",
+       "en": "Push hard"
+      },
+      {
+       "id": "c",
+       "bn": "নলটি উত্তপ্ত করা",
+       "en": "Heat the tube"
+      },
+      {
+       "id": "d",
+       "bn": "খালি হাতে ঠেলা",
+       "en": "Push with bare hands"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে হাত কাটা এড়াতে কাপড় জড়ানো ও লুব্রিকেন্ট ব্যবহার করতে বলা হয়েছে।",
+     "explanation_en": "The book advises a cloth wrap and a lubricant to avoid injury.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বিকার পরিষ্কার করার পর কীভাবে শুকানো উচিত নয়?",
+     "question_en": "How must a beaker NOT be dried after cleaning?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তারজালি বা বুনসেন বার্নারের তাপে",
+       "en": "Over gauze or Bunsen flame"
+      },
+      {
+       "id": "b",
+       "bn": "উপুড় করে টেবিলে রেখে",
+       "en": "Upside down on a table"
+      },
+      {
+       "id": "c",
+       "bn": "বাতাসে",
+       "en": "In air"
+      },
+      {
+       "id": "d",
+       "bn": "পরিষ্কার কাপড়ে ঢেকে",
+       "en": "Covered with clean cloth"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে বিকার তারজালি বা বুনসেন বার্নারের তাপে শুকানো যাবে না।",
+     "explanation_en": "The book prohibits drying beakers over gauze or burner.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "পাইরেক্স কাচ কোন ধরনের সিলিকেটের মিশ্রণ বলে উল্লেখ আছে?",
+     "question_en": "Pyrex glass is described as a mixture based on which silicate?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বোরো সিলিকেট",
+       "en": "Borosilicate"
+      },
+      {
+       "id": "b",
+       "bn": "সোডিয়াম-ক্যালসিয়াম সিলিকেট",
+       "en": "Sodium-calcium silicate"
+      },
+      {
+       "id": "c",
+       "bn": "শুধু কপার সিলিকেট",
+       "en": "Copper silicate"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যালুমিনিয়াম সিলিকেট",
+       "en": "Aluminium silicate"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কোমল কাচ সোডিয়াম-ক্যালসিয়াম সিলিকেট; পাইরেক্স বোরোসিলিকেট, যা শক্ত ও তাপসহ।",
+     "explanation_en": "Soft glass is sodium-calcium silicate; Pyrex is borosilicate, strong and heat resistant.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.3",
+   "title_bn": "ল্যাবরেটরি যন্ত্রপাতি ও গ্লাস সামগ্রী পরিষ্কার করার কৌশল",
+   "title_en": "Cleaning lab apparatus and glassware",
+   "notes_bn": "পরীক্ষার আগে যন্ত্র ল্যাব স্টোর থেকে নিয়ে পরিষ্কার করতে হয়; পরে নিজের কাজের টেবিল পরিষ্কার রেখে যেতে হয়।\nব্যবহারের পর রিয়েজেন্ট বোতল যথাস্থানে রাখতে হয়; ড্রপার অন্য বোতলে লাগানো যাবে না; ভাঙা কাচ, ফিল্টার পেপার সিংকে ফেলা যাবে না, নির্দিষ্ট পাত্রে ফেলতে হয়।\nব্যবহৃত রাসায়নিক পুনরায় মূল বোতলে রাখা যাবে না; শেষে গ্যাস বার্নার, পানির কল ও বৈদ্যুতিক সুইচ বন্ধ করতে হয়।\nটেস্টটিউব/বিকার : তরল ডিটারজেন্ট ও ব্রাশে ঘষে পানিতে ধুতে হয়। KMnO₄, K₂Cr₂O₇, আয়রন/কপার/নিকেল/কোবাল্ট লবণের দাগ পানি দিয়ে না ধুলে থেকে যায়।\nব্যুরেট : ট্যাপের পানিতে ধুয়ে ক্রোমিক অ্যাসিড দ্রবণে পরিষ্কার করা হয়, তারপর পাতিত পানিতে রিনস; কক জ্যাম হলে সরু তার দিয়ে গ্রিজ সরানো হয়।\nক্রোমিক অ্যাসিড : 250 mL বিকারে 4.0 g K₂Cr₂O₇ + 40 mL পাতিত পানি + 40 mL 2.0 M H₂SO₄ (ধীরে ধীরে, বরফ-ঠান্ডা পানিতে বিকার বসিয়ে)। K₂Cr₂O₇ + 4H₂SO₄ → K₂SO₄ + Cr₂(SO₄)₃ + 4H₂O + 3[O]। বর্ণ সবুজ হলে (Cr₂(SO₄)₃) আর ব্যবহার করা যাবে না।",
+   "notes_en": "Collect apparatus from the lab store before an experiment and clean it; leave your bench clean afterwards.\nReturn reagent bottles to their place; never swap droppers between bottles; broken glass and filter paper go in the designated bin, not the sink.\nNever return unused chemical to the stock bottle; switch off gas burner, tap and electric switches before leaving.\nTest tubes/beakers: scrub with liquid detergent and brush, rinse with water. Stains from KMnO4, K2Cr2O7 and Fe/Cu/Ni/Co salts remain if not washed promptly.\nBurette: wash with tap water, clean with chromic acid solution, rinse with distilled water; if the tap is blocked with grease, clear it with a thin wire.\nChromic acid: in a 250 mL beaker mix 4.0 g K2Cr2O7, 40 mL distilled water and 40 mL 2.0 M H2SO4 (added slowly, beaker standing in ice-cold water). K2Cr2O7 + 4H2SO4 -> K2SO4 + Cr2(SO4)3 + 4H2O + 3[O]. When it turns green (Cr2(SO4)3) it must be discarded.",
+   "mcqs": [
+    {
+     "question_bn": "ক্রোমিক অ্যাসিড দ্রবণ প্রস্তুতিতে কত গ্রাম K₂Cr₂O₇ নেওয়া হয়?",
+     "question_en": "How much K2Cr2O7 is used to prepare the chromic acid solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4.0 g",
+       "en": "4.0 g"
+      },
+      {
+       "id": "b",
+       "bn": "40 g",
+       "en": "40 g"
+      },
+      {
+       "id": "c",
+       "bn": "0.4 g",
+       "en": "0.4 g"
+      },
+      {
+       "id": "d",
+       "bn": "2.0 g",
+       "en": "2.0 g"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ের সারণিতে 4.0 g K₂Cr₂O₇, 40 mL পানি ও 40 mL 2.0 M H₂SO₄।",
+     "explanation_en": "The book's table gives 4.0 g K2Cr2O7, 40 mL water and 40 mL 2.0 M H2SO4.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ক্রোমিক অ্যাসিড তৈরির জন্য কত আয়তনের বিকার নিতে বলা হয়েছে?",
+     "question_en": "What size beaker is used for preparing chromic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "100 mL",
+       "en": "100 mL"
+      },
+      {
+       "id": "b",
+       "bn": "250 mL",
+       "en": "250 mL"
+      },
+      {
+       "id": "c",
+       "bn": "1000 mL",
+       "en": "1000 mL"
+      },
+      {
+       "id": "d",
+       "bn": "50 mL",
+       "en": "50 mL"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বইয়ে 250 mL আয়তনের পরিষ্কার বিকার নিতে বলা হয়েছে।",
+     "explanation_en": "The book specifies a clean 250 mL beaker.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ব্যবহারের পর কোন বর্ণ দেখা দিলে ক্রোমিক অ্যাসিড দ্রবণ ফেলে দিতে হয়?",
+     "question_en": "Which colour signals that chromic acid must be discarded?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সবুজ",
+       "en": "Green"
+      },
+      {
+       "id": "b",
+       "bn": "কমলা",
+       "en": "Orange"
+      },
+      {
+       "id": "c",
+       "bn": "বর্ণহীন",
+       "en": "Colourless"
+      },
+      {
+       "id": "d",
+       "bn": "নীল",
+       "en": "Blue"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Cr₂(SO₄)₃ জমে দ্রবণ সবুজ হলে জারণ ক্ষমতা কমে যায়।",
+     "explanation_en": "Green colour means Cr2(SO4)3 has built up and oxidising power is lost.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্রোমিক অ্যাসিড তৈরির সময় তাপ শোষণের জন্য কী করা হয়?",
+     "question_en": "How is the heat evolved while making chromic acid absorbed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বিকারকে বরফ-ঠান্ডা পানিভর্তি বড় পাত্রে বসানো",
+       "en": "Standing the beaker in a larger vessel of ice-cold water"
+      },
+      {
+       "id": "b",
+       "bn": "বিকার উত্তপ্ত করা",
+       "en": "Heating the beaker"
+      },
+      {
+       "id": "c",
+       "bn": "দ্রুত H₂SO₄ ঢালা",
+       "en": "Pouring H2SO4 quickly"
+      },
+      {
+       "id": "d",
+       "bn": "ঢাকনা দিয়ে রাখা",
+       "en": "Covering with a lid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "প্রচুর তাপ উৎপন্ন হয়, তাই বরফ বা শীতল পানিতে বিকার রেখে ধীরে ধীরে অ্যাসিড মেশানো হয়।",
+     "explanation_en": "The reaction is very exothermic, so the beaker sits in ice-cold water and acid is added slowly.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ক্রোমিক অ্যাসিড তৈরির বিক্রিয়ায় [O] এর সহগ কত?",
+     "question_en": "What is the coefficient of [O] in the chromic acid forming reaction?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "2",
+       "en": "2"
+      },
+      {
+       "id": "c",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "d",
+       "bn": "4",
+       "en": "4"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "K₂Cr₂O₇ + 4H₂SO₄ → K₂SO₄ + Cr₂(SO₄)₃ + 4H₂O + 3[O]।",
+     "explanation_en": "K2Cr2O7 + 4H2SO4 -> K2SO4 + Cr2(SO4)3 + 4H2O + 3[O].",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ব্যুরেটের স্টপকক গ্রিজে জ্যাম হলে কী করতে হয়?",
+     "question_en": "If the burette stopcock is jammed by grease, what is done?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "সরু তারের অগ্রভাগ ঢুকিয়ে গ্রিজ সরানো",
+       "en": "Push a thin wire through to remove grease"
+      },
+      {
+       "id": "b",
+       "bn": "কক ভেঙে ফেলা",
+       "en": "Break the stopcock"
+      },
+      {
+       "id": "c",
+       "bn": "উত্তপ্ত করা",
+       "en": "Heat it"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যাসিড ঢালা",
+       "en": "Pour acid"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সরু তারের অগ্রভাগ ঢুকিয়ে গ্রিজ অপসারণ করতে বলা হয়েছে।",
+     "explanation_en": "The book says to clear the grease with the tip of a thin wire.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.4",
+   "title_bn": "পল-বুঙ্গি ব্যালেন্স ও ডিজিটাল ব্যালেন্স (২-ডিজিট ও ৪-ডিজিট)",
+   "title_en": "Paul-Bunge balance and digital balance (2- and 4-digit)",
+   "notes_bn": "পল-বুঙ্গি রাসায়নিক ব্যালেন্স দিয়ে 0.0001 g পর্যন্ত ওজন নেওয়া যায়। চারটি অংশ : বেদী সজ্জিত ব্যালেন্স কক্ষ, স্তম্ভ, তুলাদণ্ড ও পাল্লা, আরোহী ও আরোহী বাহক।\nতুলাদণ্ডের দাগ : বামে 0, ডানে 10; প্রতি বড় ভাগ 5 ক্ষুদ্র ভাগে বিভক্ত। আরোহী 5 mg বা 10 mg ভরের বাঁকানো তার (Pt/Al)।\nআরোহী ধ্রুবক = (আরোহীর ভর × 2) ÷ 100; 5 mg হলে 0.1 mg = 0.0001 g, 10 mg হলে 0.2 mg = 0.0002 g। আরোহী জনিত ভর = ধ্রুবক × অতিক্রান্ত দাগ সংখ্যা।\nওজন বাক্সে 500 mg থেকে 100 g পর্যন্ত বাটখারা থাকে; বাম পাল্লায় পদার্থ, ডান পাল্লায় বাটখারা। ওয়েিং বোতলে নিয়ে ওজন করা হয়; পদার্থের ভর = (বোতলসহ ভর – খালি বোতলের ভর)।\nউদাহরণ : 5 mg রাইডার, 4 বড় + 5 ছোট = 45 ঘর → 45×0.0001 = 0.0045 g; Na₂CO₃ সহ বোতল 228.5945 g, খালি 200 g ⇒ Na₂CO₃ = 28.5945 g।\nডিজিটাল ব্যালেন্স : 2-ডিজিটে দশমিকের পর দুই ঘর (সাধারণ কাজে বেশি ব্যবহৃত, সস্তা, সহজ); 4-ডিজিটে 0.1 mg পর্যন্ত, কাচের দরজা বন্ধ রেখে ব্যবহার্য। রাইডার লাগে না, ব্যক্তিগত ভুল কম। কিন্তু বিদ্যুৎ লাগে; গাঢ় H₂SO₄/NaOH ওজন করা যাবে না; তরলের ফোঁটা প্যানে পড়বে না; ধারণক্ষমতার বেশি নয়।",
+   "notes_en": "Paul-Bunge chemical balance weighs to 0.0001 g. Four parts: case with leveling base, pillar, beam and pans, rider and rider carrier.\nBeam scale: 0 at left, 10 at right; each major division split into 5 small ones. Rider is a bent wire (Pt/Al) of 5 mg or 10 mg.\nRider constant = (rider mass x 2) / 100; 5 mg gives 0.1 mg = 0.0001 g, 10 mg gives 0.2 mg = 0.0002 g. Rider mass = constant x number of divisions moved.\nWeight box holds 500 mg to 100 g; substance on left pan, weights on right. Weighing bottle is used; mass of substance = (bottle + substance) - empty bottle.\nExample: 5 mg rider, 4 big + 5 small = 45 divisions -> 45 x 0.0001 = 0.0045 g; bottle+Na2CO3 = 228.5945 g, empty 200 g -> Na2CO3 = 28.5945 g.\nDigital balance: 2-digit reads two decimals (common, cheap, easy); 4-digit reads to 0.1 mg and is used with the glass doors closed. No rider needed, less personal error; but needs electricity, must not weigh conc. H2SO4/NaOH, avoid drops falling on pan, never exceed capacity.",
+   "mcqs": [
+    {
+     "question_bn": "পল-বুঙ্গি ব্যালেন্স দিয়ে সর্বোচ্চ কত দশমিক পর্যন্ত ওজন নেওয়া যায়?",
+     "question_en": "To what precision does a Paul-Bunge balance weigh?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.0001 g",
+       "en": "0.0001 g"
+      },
+      {
+       "id": "b",
+       "bn": "0.01 g",
+       "en": "0.01 g"
+      },
+      {
+       "id": "c",
+       "bn": "0.1 g",
+       "en": "0.1 g"
+      },
+      {
+       "id": "d",
+       "bn": "1 g",
+       "en": "1 g"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 0.0001 g পর্যন্ত ওজনের কথা বলা আছে।",
+     "explanation_en": "The book states it measures up to 0.0001 g.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রাসায়নিক পরীক্ষাগারে সাধারণত কোন ব্যালেন্স বেশি ব্যবহৃত হয়?",
+     "question_en": "Which digital balance is most used in school labs?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2-ডিজিট",
+       "en": "2-digit"
+      },
+      {
+       "id": "b",
+       "bn": "4-ডিজিট",
+       "en": "4-digit"
+      },
+      {
+       "id": "c",
+       "bn": "রোবারভাল",
+       "en": "Roberval"
+      },
+      {
+       "id": "d",
+       "bn": "স্প্রিং",
+       "en": "Spring"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে বলা আছে 2-ডিজিটের ব্যালেন্সই বেশি ব্যবহৃত হয়।",
+     "explanation_en": "The book says the 2-digit balance is used more.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "৪-ডিজিট ডিজিটাল ব্যালেন্সে কত পর্যন্ত ওজন পরিমাপ করা যায়?",
+     "question_en": "What does a 4-digit digital balance read to?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.1 mg",
+       "en": "0.1 mg"
+      },
+      {
+       "id": "b",
+       "bn": "1 mg",
+       "en": "1 mg"
+      },
+      {
+       "id": "c",
+       "bn": "0.01 g",
+       "en": "0.01 g"
+      },
+      {
+       "id": "d",
+       "bn": "0.1 g",
+       "en": "0.1 g"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 0.1 mg পর্যন্ত বলা হয়েছে।",
+     "explanation_en": "The book states up to 0.1 mg.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "5 mg ভরের আরোহীর আরোহী ধ্রুবকের মান কত?",
+     "question_en": "What is the rider constant for a 5 mg rider?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.0001 g",
+       "en": "0.0001 g"
+      },
+      {
+       "id": "b",
+       "bn": "0.0002 g",
+       "en": "0.0002 g"
+      },
+      {
+       "id": "c",
+       "bn": "0.001 g",
+       "en": "0.001 g"
+      },
+      {
+       "id": "d",
+       "bn": "0.05 g",
+       "en": "0.05 g"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "(5×2)÷100 = 0.1 mg = 0.0001 g।",
+     "explanation_en": "(5x2)/100 = 0.1 mg = 0.0001 g.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "10 mg আরোহী সম 30 ঘর সরলে আরোহী জনিত ভর কত? (ধ্রুবক 0.0002 g)",
+     "question_en": "With a 10 mg rider moved 30 divisions, what is the rider mass? (constant 0.0002 g)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.006 g",
+       "en": "0.006 g"
+      },
+      {
+       "id": "b",
+       "bn": "0.003 g",
+       "en": "0.003 g"
+      },
+      {
+       "id": "c",
+       "bn": "0.06 g",
+       "en": "0.06 g"
+      },
+      {
+       "id": "d",
+       "bn": "0.0006 g",
+       "en": "0.0006 g"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "30 × 0.0002 = 0.006 g।",
+     "explanation_en": "30 x 0.0002 = 0.006 g.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ওয়েিং বোতল 200 g; Na₂CO₃ সহ 228.5945 g। Na₂CO₃-এর ভর কত?",
+     "question_en": "Weighing bottle 200 g; with Na2CO3 it is 228.5945 g. Mass of Na2CO3?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "28.5945 g",
+       "en": "28.5945 g"
+      },
+      {
+       "id": "b",
+       "bn": "428.5945 g",
+       "en": "428.5945 g"
+      },
+      {
+       "id": "c",
+       "bn": "28.0 g",
+       "en": "28.0 g"
+      },
+      {
+       "id": "d",
+       "bn": "285.945 g",
+       "en": "285.945 g"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "228.5945 – 200 = 28.5945 g।",
+     "explanation_en": "228.5945 - 200 = 28.5945 g.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.5",
+   "title_bn": "মেজারিং সিলিন্ডার, ব্যুরেট, আয়তনমিতিক ফ্লাস্ক ও পিপেটের ব্যবহার",
+   "title_en": "Measuring cylinder, burette, volumetric flask and pipette",
+   "notes_bn": "মেজারিং সিলিন্ডার : mL দাগকাটা দীর্ঘ কাচ-পাত্র; আয়তন 2, 5, 10, 20, 50, 100, 200, 500, 1000 mL। নিচের তল (lower meniscus) দাগ বরাবর দেখে পাঠ নিতে হয়। গাঢ় HCl/H₂SO₄ জাতীয় তরল ডিজিটাল ব্যালেন্সে না মেপে এতে আয়তনে মাপা হয়।\nব্যুরেট : সাধারণত 50 mL; 1 mL = 10 ভাগ ⇒ 0.1 mL। 10 mL ও 25 mL ব্যুরেটে 0.05 mL পর্যন্ত। KMnO₄, AgNO₃, আয়োডিন দ্রবণে রাবার নল আক্রান্ত হয় বলে গ্লাস স্টপকক ব্যুরেট ব্যবহার হয়।\nআয়তনমিতিক ফ্লাস্ক : লম্বা গলার চ্যাপ্টা তলবিশিষ্ট, গলায় একটি দাগ; স্টপার আছে; সাধারণত 100, 250, 500, 1000 mL; 100 mL ফ্লাস্ককে প্রমাণ দ্রবণ প্রস্তুতিতে Standard flask বলা হয়।\nপিপেট : দুই প্রান্ত খোলা, মাঝে ভাল্ব (স্ফীতি); প্রথম শ্রেণি (নির্দিষ্ট আয়তন) ও দ্বিতীয় শ্রেণি (ক্ষেল সহ)। মুখে টেনে নেওয়া সম্পূর্ণ নিষিদ্ধ।\nআধুনিক পিপেট (Serological) পাম্প তিন ধরনের : Tri-Valve pump (রবারের, ভাল্ব A = Air, E = Empty/Exhaust, S = Suction), Syringe pump, Electronic pipette (0.1–10 mL; Micro pipet)।",
+   "notes_en": "Measuring cylinder: tall graduated glass vessel; sizes 2, 5, 10, 20, 50, 100, 200, 500, 1000 mL. Read at the bottom of the lower meniscus. Used to measure conc. HCl/H2SO4 by volume instead of weighing on a digital balance.\nBurette: usually 50 mL; each mL divided into 10 -> 0.1 mL. 10 and 25 mL burettes read to 0.05 mL. Glass-stopcock burettes are used for KMnO4, AgNO3 and iodine because rubber tubing is attacked.\nVolumetric flask: long-necked, flat-bottomed with one mark on the neck and a stopper; commonly 100, 250, 500, 1000 mL; the 100 mL flask is called a 'standard flask' for standard solutions.\nPipette: open at both ends with a bulge; first-class (fixed volume) and second-class (graduated). Mouth suction is strictly forbidden.\nModern (serological) pipette pumps: Tri-Valve pump (rubber; valves A = Air, E = Empty/Exhaust, S = Suction), Syringe pump, Electronic pipette (0.1-10 mL; micro pipet).",
+   "mcqs": [
+    {
+     "question_bn": "মেজারিং সিলিন্ডারে তরলের পাঠ কোথায় থেকে নেওয়া হয়?",
+     "question_en": "Where is the reading taken in a measuring cylinder?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "নিচের তল (lower meniscus)",
+       "en": "Bottom of lower meniscus"
+      },
+      {
+       "id": "b",
+       "bn": "উপরের তল",
+       "en": "Top of meniscus"
+      },
+      {
+       "id": "c",
+       "bn": "কাচের দেয়াল",
+       "en": "Glass wall"
+      },
+      {
+       "id": "d",
+       "bn": "যেকোনো তল",
+       "en": "Anywhere"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে তরলের নিচের তল দাগ স্পর্শ করার কথা বলা আছে।",
+     "explanation_en": "The book says the liquid's lower meniscus must touch the mark.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Tri-Valve পাম্পের 'A' ভাল্ব কী নির্দেশ করে?",
+     "question_en": "What does valve 'A' of a tri-valve pump stand for?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Air valve",
+       "en": "Air valve"
+      },
+      {
+       "id": "b",
+       "bn": "Acid valve",
+       "en": "Acid valve"
+      },
+      {
+       "id": "c",
+       "bn": "Add valve",
+       "en": "Add valve"
+      },
+      {
+       "id": "d",
+       "bn": "Absorb valve",
+       "en": "Absorb valve"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "A = Air valve, E = Empty/Exhaust, S = Suction।",
+     "explanation_en": "A = Air valve, E = Empty/Exhaust, S = Suction.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনটি আধুনিক সেরোলজিক্যাল পিপেটের পাম্প নয়?",
+     "question_en": "Which is NOT a serological pipette pump type?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Tri-Valve pump",
+       "en": "Tri-Valve pump"
+      },
+      {
+       "id": "b",
+       "bn": "Syringe pump",
+       "en": "Syringe pump"
+      },
+      {
+       "id": "c",
+       "bn": "Electronic pipette",
+       "en": "Electronic pipette"
+      },
+      {
+       "id": "d",
+       "bn": "Vacuum pump",
+       "en": "Vacuum pump"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "বইয়ে তিন ধরনের পাম্প: Tri-Valve, Syringe ও Electronic।",
+     "explanation_en": "The book lists Tri-Valve, Syringe and Electronic pumps only.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কেন KMnO₄ দ্রবণের জন্য রাবার নলযুক্ত ব্যুরেট ব্যবহার করা হয় না?",
+     "question_en": "Why is a rubber-tube burette not used for KMnO4 solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "রাবার নল আক্রান্ত হয়",
+       "en": "Rubber tube is attacked"
+      },
+      {
+       "id": "b",
+       "bn": "দ্রবণ হালকা",
+       "en": "Solution is light"
+      },
+      {
+       "id": "c",
+       "bn": "ব্যুরেট ভারী হয়",
+       "en": "Burette is heavy"
+      },
+      {
+       "id": "d",
+       "bn": "রং ম্লান হয়",
+       "en": "Colour fades"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "KMnO₄, AgNO₃, আয়োডিন দ্রবণে রাবার নল আক্রান্ত হয়।",
+     "explanation_en": "KMnO4, AgNO3 and iodine attack rubber tubing.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "প্রমাণ দ্রবণ তৈরিতে ব্যবহৃত 100 mL আয়তনমিতিক ফ্লাস্ককে কী বলা হয়?",
+     "question_en": "What is a 100 mL volumetric flask used for standard solutions called?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Standard flask",
+       "en": "Standard flask"
+      },
+      {
+       "id": "b",
+       "bn": "Wash flask",
+       "en": "Wash flask"
+      },
+      {
+       "id": "c",
+       "bn": "Round flask",
+       "en": "Round flask"
+      },
+      {
+       "id": "d",
+       "bn": "Conical flask",
+       "en": "Conical flask"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 100 mL ফ্লাস্ককে Standard flask বলা হয়েছে।",
+     "explanation_en": "The book calls it a Standard flask.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "10 mL ও 25 mL ব্যুরেট দিয়ে সর্বনিম্ন কত আয়তন সূক্ষ্মভাবে স্থানান্তর সম্ভব?",
+     "question_en": "What smallest volume can 10 mL and 25 mL burettes transfer precisely?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.05 mL",
+       "en": "0.05 mL"
+      },
+      {
+       "id": "b",
+       "bn": "0.5 mL",
+       "en": "0.5 mL"
+      },
+      {
+       "id": "c",
+       "bn": "0.1 mL",
+       "en": "0.1 mL"
+      },
+      {
+       "id": "d",
+       "bn": "0.005 mL",
+       "en": "0.005 mL"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 0.05 mL পর্যন্ত স্থানান্তরের কথা আছে।",
+     "explanation_en": "The book says up to 0.05 mL.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "1.6",
+   "title_bn": "কনিক্যাল ফ্লাস্ক, ওয়াশ বোতল, ব্যুরেট ও পিপেট ব্যবহারের কৌশল",
+   "title_en": "Using conical flask, wash bottle, burette and pipette",
+   "notes_bn": "কনিক্যাল ফ্লাস্ক : ছোট গলাযুক্ত চ্যাপ্টা তল; টাইট্রেশনে ব্যবহৃত; পরিষ্কার করে পিপেটে মাপা দ্রবণ নেওয়া হয়, সূচকের 1–2 ফোঁটা দেওয়া হয়, ডান হাতে গলা ধরে ঘুরিয়ে মেশানো হয়। গরম করতে তারজালিতে বসানো হয়; উত্তপ্ত অবস্থায় ঠান্ডা পানি লাগানো নয়।\nওয়াশ বোতল : 250–500 mL; কর্কে 45° বাঁকানো নল; পাতিত পানি রাখা হয়; ফানেলের গায়ে লেগে থাকা পদার্থ ধুয়ে নিতে ও ফ্লাস্কে দাগ পর্যন্ত আয়তন পূর্ণ করতে সাহায্য করে।\nব্যুরেট : 0 থেকে 50 mL; প্রতি mL আবার 10 ছোট ভাগে (0.1 mL); কাচের স্টপকক নিচের মুখ থেকে 5–6 cm উপরে। স্ট্যান্ডে সোজা আটকাতে হয়; প্রথমে পাতিত পানি ও দ্রবণ (10–15 mL) দিয়ে রিনস; সূচের ফাঁকা অংশ ভরে বুদবুদ সরানো হয়।\nটাইট্রেশনে বাম হাতে স্টপকক ঘুরিয়ে ফোঁটা ফোঁটা দ্রবণ ফ্লাস্কে দেওয়া হয় (তর্জনী ও মধ্যমা সামনে, বৃদ্ধাঙ্গুলী পাশে), ডান হাতে ফ্লাস্ক আন্দোলিত করা হয়; ব্যুরেটের মুখ ফ্লাস্কের গায়ে না ছুঁয়ে।\nপাঠ নেওয়া হয় তরলের নিচের তল দিয়ে, চোখ একই সমতলে রেখে; প্রতি টাইট্রেশনের পর ফ্লাস্ক পানিতে ধুয়ে নিতে হয়।\nপিপেট : Rinse করে ব্যবহার; ট্রাই-ভাল্ব পাম্পে A চেপে বায়ু বের করে, S দিয়ে তরল তোলা, E দিয়ে ফ্লাস্কে ঢালা।",
+   "notes_en": "Conical flask: small-necked flat-bottom flask used in titration; clean it, receive pipetted solution, add 1-2 drops of indicator, hold the neck with the right hand and swirl. Heat on gauze; never touch cold water while hot.\nWash bottle: 250-500 mL, stopper with a tube bent at 45 degrees, holds distilled water; used to wash substance clinging to the funnel and to make up to the mark in a flask.\nBurette: 0-50 mL, each mL divided into 10 (0.1 mL); glass stopcock 5-6 cm above the lower tip. Clamp vertically; rinse with distilled water then with 10-15 mL of the solution; fill the tip to remove air bubbles.\nTitration: left hand turns the stopcock (forefinger and middle finger in front, thumb behind), right hand swirls the flask; drip drop by drop and avoid touching the flask with the tip.\nTake the reading at the bottom of the meniscus with eye level in the same plane; rinse the flask with water after every titration.\nPipette: rinse before use; with a tri-valve pump squeeze A to expel air, S to draw liquid, E to release into the flask.",
+   "mcqs": [
+    {
+     "question_bn": "ওয়াশ বোতলের আয়তন কত হওয়া বাঞ্ছনীয়?",
+     "question_en": "What volume is recommended for a wash bottle?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "250–500 mL",
+       "en": "250-500 mL"
+      },
+      {
+       "id": "b",
+       "bn": "10–20 mL",
+       "en": "10-20 mL"
+      },
+      {
+       "id": "c",
+       "bn": "2000 mL",
+       "en": "2000 mL"
+      },
+      {
+       "id": "d",
+       "bn": "5 mL",
+       "en": "5 mL"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 250–500 mL এর মধ্যে রাখা বাঞ্ছনীয় বলা হয়েছে।",
+     "explanation_en": "The book recommends 250-500 mL.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ওয়াশ বোতলের নল কত ডিগ্রি কোণে বাঁকানো থাকে?",
+     "question_en": "At what angle is the tube of a wash bottle bent?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "45°",
+       "en": "45°"
+      },
+      {
+       "id": "b",
+       "bn": "90°",
+       "en": "90°"
+      },
+      {
+       "id": "c",
+       "bn": "30°",
+       "en": "30°"
+      },
+      {
+       "id": "d",
+       "bn": "180°",
+       "en": "180°"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 45° কোণে বাঁকানো নলের কথা আছে।",
+     "explanation_en": "The book says a tube bent at 45 degrees.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "টাইট্রেশনে ব্যুরেটের স্টপকক কোন হাত দিয়ে নিয়ন্ত্রণ করা হয়?",
+     "question_en": "Which hand controls the burette stopcock in titration?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাম হাত",
+       "en": "Left hand"
+      },
+      {
+       "id": "b",
+       "bn": "ডান হাত",
+       "en": "Right hand"
+      },
+      {
+       "id": "c",
+       "bn": "দুই হাত",
+       "en": "Both hands"
+      },
+      {
+       "id": "d",
+       "bn": "কোনো হাত নয়",
+       "en": "Neither"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বাম হাতে স্টপকক ঘুরিয়ে ডান হাতে ফ্লাস্ক আন্দোলিত করা হয়।",
+     "explanation_en": "The left hand turns the stopcock and the right swirls the flask.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ব্যুরেটে দ্রবণ ভরার আগে রিনস করতে প্রথমে কত mL দ্রবণ নেওয়া হয়?",
+     "question_en": "How much solution is used first to rinse the burette?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "10–15 mL",
+       "en": "10-15 mL"
+      },
+      {
+       "id": "b",
+       "bn": "1–2 mL",
+       "en": "1-2 mL"
+      },
+      {
+       "id": "c",
+       "bn": "40–50 mL",
+       "en": "40-50 mL"
+      },
+      {
+       "id": "d",
+       "bn": "0.1 mL",
+       "en": "0.1 mL"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে 10–15 mL নিয়ে অভ্যন্তরীণ ভাগ ভিজিয়ে অপসারণ করতে বলা হয়েছে।",
+     "explanation_en": "The book says use 10-15 mL to wet the inside, then drain.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "ব্যুরেটের পাঠ নেওয়ার সময় কোনটি সঠিক?",
+     "question_en": "Which is correct when reading the burette?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চোখ তরলতলের সমতলে রেখে নিচের তল দেখা",
+       "en": "Eye level with the liquid; read bottom of meniscus"
+      },
+      {
+       "id": "b",
+       "bn": "উপরের তল পড়া",
+       "en": "Read the top"
+      },
+      {
+       "id": "c",
+       "bn": "উপর থেকে তাকানো",
+       "en": "Look from above"
+      },
+      {
+       "id": "d",
+       "bn": "দূর থেকে আন্দাজ",
+       "en": "Estimate from afar"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে সমান্তরালে চোখ রেখে তরলের নিচের তল ধরার কথা আছে।",
+     "explanation_en": "The book says keep the eye in the same plane and read the bottom meniscus.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ব্যুরেটের স্টপকক নিচের মুখ থেকে কত উপরে থাকে?",
+     "question_en": "How far above the lower tip is the burette stopcock?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5–6 cm",
+       "en": "5-6 cm"
+      },
+      {
+       "id": "b",
+       "bn": "50 cm",
+       "en": "50 cm"
+      },
+      {
+       "id": "c",
+       "bn": "1 cm",
+       "en": "1 cm"
+      },
+      {
+       "id": "d",
+       "bn": "20 cm",
+       "en": "20 cm"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "বইয়ে জেট প্রান্ত থেকে 5–6 cm উপরে স্টপকক থাকে বলা হয়েছে।",
+     "explanation_en": "The book says it sits 5-6 cm above the jet end.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "1.4",
+   "stimulus_bn": "রিমা পল-বুঙ্গি ব্যালেন্সে 5 mg রাইডার দিয়ে এক টুকরো NaCl ওজন করছে। ডান পাল্লার বাটখারা 20 g ও 5 g এবং 200 mg; রাইডার বড় 3 ঘর ও ছোট 4 ঘর সরেছে (বড় ঘরের প্রতিটি 5 ছোট ঘর)।",
+   "stimulus_en": "Rima weighs NaCl on a Paul-Bunge balance with a 5 mg rider. Weights: 20 g, 5 g and 200 mg; the rider moved 3 big and 4 small divisions (each big = 5 small).",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "আরোহী ধ্রুবক কী?",
+     "question_en": "What is the rider constant?",
+     "model_answer_bn": "বীমের দৈর্ঘ্যের সাপেক্ষে প্রতি শতাংশ দাগে রাইডারের ওজনের পার্থক্য।",
+     "model_answer_en": "The weight difference of the rider per one percent mark (1/100) of the beam length."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "কেন ওয়েিং বোতলে ওজন নেওয়া হয়?",
+     "question_en": "Why is the weighing done in a weighing bottle?",
+     "model_answer_bn": "রাসায়নিক সরাসরি পাল্লায় রাখা যায় না; বোতলসহ ও বোতল ছাড়া ওজনের পার্থক্যে পদার্থের ভর পাওয়া যায়।",
+     "model_answer_en": "Chemicals cannot be placed directly on the pan; the mass is found from the difference between the weights with and without the substance."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "আরোহী ধ্রুবক ও আরোহীজনিত ভর নির্ণয় কর।",
+     "question_en": "Calculate the rider constant and the rider contribution.",
+     "model_answer_bn": "ধ্রুবক = (5×2)÷100 = 0.1 mg = 0.0001 g। ঘরের সংখ্যা = 3×5+4 = 19। আরোহী ভর = 19×0.0001 = 0.0019 g।",
+     "model_answer_en": "Constant = (5x2)/100 = 0.1 mg = 0.0001 g. Divisions = 3x5+4 = 19. Rider mass = 19 x 0.0001 = 0.0019 g."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "NaCl-এর মোট ভর নির্ণয় কর এবং ডিজিটাল ব্যালেন্সের সাথে একটি সুবিধা-অসুবিধা তুলনা কর।",
+     "question_en": "Find the total mass of NaCl and compare one advantage and disadvantage with a digital balance.",
+     "model_answer_bn": "মোট ভর = 20+5+0.2+0.0019 = 25.2019 g, এটিই NaCl-এর ভর (পাত্র ছাড়া ধরে)। ডিজিটাল ব্যালেন্সে রাইডার/হিসাব লাগে না, দ্রুত; কিন্তু বিদ্যুৎ লাগে।",
+     "model_answer_en": "Total = 20+5+0.2+0.0019 = 25.2019 g, which is the mass of NaCl (container ignored). Digital balance needs no rider or calculation and is quick, but needs electricity."
+    }
+   ]
+  },
+  {
+   "topic_section": "1.1",
+   "stimulus_bn": "একজন শিক্ষার্থী ল্যাবে ঢিলা পোশাক পরে ও কনট্যাক্ট লেন্স লাগিয়ে গাঢ় অ্যাসিড ঢালছিল, খালি হাতে ফ্লাস্ক ধরে কাজ করছিল এবং এক বোতলের ড্রপার অন্য বোতলে লাগাল।",
+   "stimulus_en": "A student in the lab wore loose clothes and contact lenses, poured conc. acid, handled a flask with bare hands and put the dropper of one bottle into another.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "নাইট্রাইল গ্লাভস কোন পদার্থ থেকে তৈরি?",
+     "question_en": "What is nitrile gloves made of?",
+     "model_answer_bn": "অ্যাক্রিলোনাইট্রাইল ও বিউটাডাইনের কো-পলিমার (সংশ্লেষিত রবার)।",
+     "model_answer_en": "A copolymer of acrylonitrile and butadiene (synthetic rubber)."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "ল্যাবে কনট্যাক্ট লেন্স পরা নিষিদ্ধ কেন?",
+     "question_en": "Why are contact lenses banned in the lab?",
+     "model_answer_bn": "SO₂, SO₃, NO₂ ও অ্যাসিড বাষ্প লেন্সের ভেতরে ঢুকে চোখের ক্ষতি করতে পারে।",
+     "model_answer_en": "Vapours like SO2, SO3, NO2 and acid fumes can enter behind the lens and damage the eye."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "শিক্ষার্থীটির কোন তিনটি কাজ ভুল ছিল এবং সঠিক পদ্ধতি কী?",
+     "question_en": "Identify three mistakes and the correct practice.",
+     "model_answer_bn": "১. ঢিলা পোশাক – সাদা সুতি অ্যাপ্রন পরা; ২. লেন্স ও গগলস ছাড়া অ্যাসিড – নিরাপদ গগলস; ৩. খালি হাত – নাইট্রাইল/নিওপ্রিন গ্লাভস; ড্রপার বদল – প্রতি বোতলের নিজস্ব ড্রপার।",
+     "model_answer_en": "1. Loose clothes - wear a white cotton apron; 2. No goggles - wear safety glass; 3. Bare hands - wear nitrile/neoprene gloves; also never swap droppers between bottles."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "তাপ-নিরোধ কাজের জন্য কোন গ্লাভস উপযোগী এবং কেন ল্যাটেক্স গ্লাভস উপযুক্ত নয়?",
+     "question_en": "Which glove suits heat work, and why is latex unsuitable?",
+     "model_answer_bn": "জিটেক্স গ্লাভস, কাচ-তন্তুর, তাপরোধী (অ্যাসবেস্টসের বিকল্প)। ল্যাটেক্স খুব পাতলা, তাই তাপ ও ঘর্ষণ রোধ করতে পারে না যদিও এসিড, ক্ষার, লবণে প্রতিরোধী।",
+     "model_answer_en": "Zetex gloves, being glass-fibre and heat resistant (asbestos substitute). Latex is very thin and cannot resist heat or friction though it resists acids, alkalis and salts."
+    }
+   ]
+  }
+ ],
+ "notes": "Printed pages 8-9 (rest of 1.2: pipette, conical flask, funnels) are absent in the PDF (p-009 is printed p.7, p-010 is printed p.10); 1.2 notes cover only visible content. Pages beyond printed p.28 not read (solution concentration, belongs to later sections)."
+}

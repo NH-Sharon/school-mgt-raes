@@ -1,0 +1,2586 @@
+{
+ "chapter_no": 4,
+ "topics": [
+  {
+   "section_no": "4.19",
+   "title_bn": "পানির আয়নিক গুণফল (Kw)",
+   "title_en": "Ionic Product of Water (Kw)",
+   "notes_bn": "পানি সামান্য বিয়োজিত হয়: H2O ⇌ H+ + OH-। সাম্যে Kw = [H+][OH-] (পানির ঘনমাত্রা ধ্রুবক ধরা হয়)।\n25 °C তাপমাত্রায় Kw = 1.008×10^-14 ≈ 1×10^-14 mol² L^-2 (g-ion² L^-2)।\nবিশুদ্ধ পানিতে [H+] = [OH-] = 1×10^-7 g-ion L^-1; তাই পানি নিরপেক্ষ।\nতাপমাত্রা বাড়লে বিয়োজন বাড়ে, ফলে Kw বাড়ে (0 °C এ 0.114×10^-14, 25 °C এ 1.008×10^-14, 50 °C এ 5.474×10^-14)।\nঅ্যাসিড যোগ করলে [H+] > [OH-] > কিন্তু [H+][OH-] = Kw থাকে; ক্ষার যোগ করলে [OH-] > [H+]।\nউদাহরণ: 0.01 M HCl এ [H+] = 10^-2, [OH-] = Kw/[H+] = 10^-12; 0.01 M NaOH এ [OH-] = 10^-2, [H+] = 10^-12।\nতড়িৎবিশ্লেষ্য: তীব্র (প্রায় সম্পূর্ণ আয়নিত, যেমন HCl, NaOH) ও মৃদু (আংশিক আয়নিত, যেমন CH3COOH, NH4OH)।\nপানির Kw তাপমাত্রা বাড়লে 8.85×10^-14 হলে [H+] = √Kw ⇒ pH = 6.53 (তখনও পানি নিরপেক্ষ)।",
+   "notes_en": "Water ionises slightly: H2O ⇌ H+ + OH-; Kw = [H+][OH-] ([H2O] taken constant).\nAt 25 C Kw = 1.008e-14 (about 1e-14) mol2 L-2.\nPure water: [H+] = [OH-] = 1e-7 g-ion/L, so it is neutral.\nHigher temperature raises ionisation and so Kw (0 C: 0.114e-14; 50 C: 5.474e-14).\nAdding acid: [H+] > [OH-]; adding base: [OH-] > [H+]; the product stays Kw.\nExamples: 0.01 M HCl gives [OH-] = 1e-12; 0.01 M NaOH gives [H+] = 1e-12.\nElectrolytes: strong (nearly fully ionised, e.g. HCl, NaOH) and weak (partly ionised, e.g. CH3COOH, NH4OH).\nIf Kw = 8.85e-14, [H+] = sqrt(Kw) and pH = 6.53 - water is still neutral.",
+   "mcqs": [
+    {
+     "question_bn": "25 °C তাপমাত্রায় পানির আয়নিক গুণফল Kw এর মান প্রায় কত?",
+     "question_en": "What is the approximate value of Kw of water at 25 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1×10^-7",
+       "en": "1×10^-7"
+      },
+      {
+       "id": "b",
+       "bn": "1×10^-14",
+       "en": "1×10^-14"
+      },
+      {
+       "id": "c",
+       "bn": "1×10^-12",
+       "en": "1×10^-12"
+      },
+      {
+       "id": "d",
+       "bn": "1×10^-1",
+       "en": "1×10^-1"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "25 °C এ Kw = [H+][OH-] = 10^-7 × 10^-7 ≈ 1×10^-14।",
+     "explanation_en": "At 25 C, Kw = [H+][OH-] = 1e-7 x 1e-7 = about 1e-14.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "Kw এর একক কোনটি?",
+     "question_en": "What is the unit of Kw?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "g-ion L^-1",
+       "en": "g-ion L^-1"
+      },
+      {
+       "id": "b",
+       "bn": "g-ion² L^-2",
+       "en": "g-ion^2 L^-2"
+      },
+      {
+       "id": "c",
+       "bn": "mol L",
+       "en": "mol L"
+      },
+      {
+       "id": "d",
+       "bn": "একক নেই",
+       "en": "dimensionless"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Kw = [H+] × [OH-] এবং প্রতিটির একক g-ion L^-1, তাই গুণফলের একক g-ion² L^-2।",
+     "explanation_en": "Kw is the product of two concentrations each in g-ion/L, so its unit is g-ion^2 L^-2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "তাপমাত্রা বাড়ালে পানির Kw এর মান কী হয়?",
+     "question_en": "What happens to Kw of water as temperature rises?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "কমে",
+       "en": "কমে"
+      },
+      {
+       "id": "b",
+       "bn": "বাড়ে",
+       "en": "বাড়ে"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত থাকে",
+       "en": "অপরিবর্তিত থাকে"
+      },
+      {
+       "id": "d",
+       "bn": "প্রথমে বাড়ে পরে কমে",
+       "en": "প্রথমে বাড়ে পরে কমে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "পানির বিয়োজন তাপহারী; তাপমাত্রা বাড়লে বিয়োজন বাড়ে, H+ ও OH- বাড়ে, তাই Kw বাড়ে।",
+     "explanation_en": "Ionisation of water is heat-absorbing; higher temperature raises [H+] and [OH-], so Kw increases.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "25 °C এ 0.01 M NaOH দ্রবণে [H+] কত?",
+     "question_en": "What is [H+] in 0.01 M NaOH at 25 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1×10^-2 g-ion L^-1",
+       "en": "1×10^-2 g-ion L^-1"
+      },
+      {
+       "id": "b",
+       "bn": "1×10^-7 g-ion L^-1",
+       "en": "1×10^-7 g-ion L^-1"
+      },
+      {
+       "id": "c",
+       "bn": "1×10^-12 g-ion L^-1",
+       "en": "1×10^-12 g-ion L^-1"
+      },
+      {
+       "id": "d",
+       "bn": "1×10^-14 g-ion L^-1",
+       "en": "1×10^-14 g-ion L^-1"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "NaOH সম্পূর্ণ আয়নিত, [OH-] = 10^-2। [H+] = Kw/[OH-] = 10^-14/10^-2 = 10^-12।",
+     "explanation_en": "NaOH is fully ionised: [OH-] = 1e-2, so [H+] = 1e-14/1e-2 = 1e-12 g-ion/L.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কোনো তাপমাত্রায় পানির Kw = 8.85×10^-14। ঐ তাপমাত্রায় বিশুদ্ধ পানির pH প্রায় কত?",
+     "question_en": "At some temperature Kw of water is 8.85e-14. What is the pH of pure water there (approx.)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "7.00",
+       "en": "7.00"
+      },
+      {
+       "id": "b",
+       "bn": "6.53",
+       "en": "6.53"
+      },
+      {
+       "id": "c",
+       "bn": "6.05",
+       "en": "6.05"
+      },
+      {
+       "id": "d",
+       "bn": "7.47",
+       "en": "7.47"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[H+] = √(8.85×10^-14) = 2.975×10^-7; pH = -log(2.975×10^-7) = 6.53। পানি তখনও নিরপেক্ষ।",
+     "explanation_en": "[H+] = sqrt(8.85e-14) = 2.975e-7, so pH = 6.53; the water is still neutral.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "কোনো জলীয় দ্রবণ অম্লীয় হলে 25 °C এ নিচের কোনটি সঠিক?",
+     "question_en": "For an acidic aqueous solution at 25 C, which statement is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[H+] < 1×10^-7 এবং [OH-] > 1×10^-7",
+       "en": "[H+] < 1×10^-7 এবং [OH-] > 1×10^-7"
+      },
+      {
+       "id": "b",
+       "bn": "[H+] > 1×10^-7, [OH-] < 1×10^-7 এবং [H+][OH-] = 10^-14",
+       "en": "[H+] > 1×10^-7, [OH-] < 1×10^-7 এবং [H+][OH-] = 10^-14"
+      },
+      {
+       "id": "c",
+       "bn": "[H+] > 1×10^-7 এবং [H+][OH-] > 10^-14",
+       "en": "[H+] > 1×10^-7 এবং [H+][OH-] > 10^-14"
+      },
+      {
+       "id": "d",
+       "bn": "[OH-] = 0",
+       "en": "[OH-] = 0"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অম্লীয় দ্রবণে [H+] > √Kw, [OH-] < √Kw, কিন্তু গুণফল Kw স্থির থাকে; OH- শূন্য হয় না।",
+     "explanation_en": "In acid, [H+] > sqrt(Kw) and [OH-] < sqrt(Kw), but the product stays Kw; OH- never becomes zero.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "নিচের কোনটি মৃদু তড়িৎবিশ্লেষ্য?",
+     "question_en": "Which of the following is a weak electrolyte?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "b",
+       "bn": "NaOH",
+       "en": "NaOH"
+      },
+      {
+       "id": "c",
+       "bn": "CH3COOH",
+       "en": "CH3COOH"
+      },
+      {
+       "id": "d",
+       "bn": "NaCl",
+       "en": "NaCl"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "CH3COOH জলীয় দ্রবণে আংশিক আয়নিত হয়, বাকিগুলো প্রায় সম্পূর্ণ আয়নিত।",
+     "explanation_en": "CH3COOH ionises only partially, whereas the others ionise almost completely.",
+     "difficulty": "basic"
+    }
+   ]
+  },
+  {
+   "section_no": "4.20",
+   "title_bn": "এসিডের বিয়োজন ধ্রুবক (Ka) এবং ক্ষারের বিয়োজন ধ্রুবক (Kb)",
+   "title_en": "Dissociation Constants Ka and Kb",
+   "notes_bn": "ব্রনস্টেড-লাউরি মতে HA + H2O ⇌ H3O+ + A-; Ka = [H3O+][A-]/[HA] (একক mol L^-1)।\nক্ষারক A- + H2O ⇌ HA + OH-; Kb = [HA][OH-]/[A-]। Ka বা Kb যত বড়, এসিড বা ক্ষার তত তীব্র।\nKa থেকে ঘনমাত্রা: 0.10 M CH3COOH (Ka = 1.8×10^-5) এ x² /0.10 = Ka ⇒ x = 1.34×10^-3, pH = 2.87।\n0.15 M NH3 (Kb = 1.8×10^-5) এ [OH-] = 1.64×10^-3, pOH = 2.78, pH = 11.22।\nবিয়োজন মাত্রা α = বিয়োজিত মোল ÷ মোট মোল; α = 1 হলে সম্পূর্ণ বিয়োজিত, α = 0 হলে অবিয়োজিত।\nঅসওয়াল্ডের লঘুকরণ সূত্র: K = Cα²/(1-α) ≈ Cα², α = √(K/C) ∝ 1/√C ∝ √V; লঘু করলে α বাড়ে।\n[H3O+] = Cα = √(C·Ka); [OH-] = √(C·Kb)। সীমাবদ্ধতা: শুধু মৃদু তড়িৎবিশ্লেষ্য ও লঘু দ্রবণে প্রযোজ্য।\n1.0×10^-2 M CH3COOH এর pH 3.37 হলে Ka = 1.82×10^-5, বিয়োজন 4.27%।",
+   "notes_en": "Bronsted-Lowry: HA + H2O <-> H3O+ + A-; Ka = [H3O+][A-]/[HA] (mol/L). For a base, Kb = [HA][OH-]/[A-].\nLarger Ka (Kb) means a stronger acid (base).\n0.10 M CH3COOH (Ka = 1.8e-5): x^2/0.10 = Ka, x = 1.34e-3, pH = 2.87.\n0.15 M NH3 (Kb = 1.8e-5): [OH-] = 1.64e-3, pOH = 2.78, pH = 11.22.\nDegree of dissociation alpha = moles dissociated / total moles; alpha = 1 means complete.\nOstwald dilution law: K = C alpha^2/(1 - alpha) ~ C alpha^2, alpha = sqrt(K/C) (proportional to sqrt(V)); dilution raises alpha.\n[H3O+] = C alpha = sqrt(C Ka); [OH-] = sqrt(C Kb). Valid for weak electrolytes in dilute solution only.\n1.0e-2 M CH3COOH with pH 3.37 gives Ka = 1.82e-5 and 4.27% dissociation.",
+   "mcqs": [
+    {
+     "question_bn": "HA ⇌ H+ + A- সাম্যের জন্য Ka এর রাশিমালা কোনটি?",
+     "question_en": "Which is the expression of Ka for HA <-> H+ + A-?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[HA]/([H+][A-])",
+       "en": "[HA]/([H+][A-])"
+      },
+      {
+       "id": "b",
+       "bn": "[H+][A-]/[HA]",
+       "en": "[H+][A-]/[HA]"
+      },
+      {
+       "id": "c",
+       "bn": "[H+]+[A-]/[HA]",
+       "en": "[H+]+[A-]/[HA]"
+      },
+      {
+       "id": "d",
+       "bn": "[H+][HA]/[A-]",
+       "en": "[H+][HA]/[A-]"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সাম্যধ্রুবক = উৎপাদের ঘনমাত্রার গুণফল ÷ বিক্রিয়কের ঘনমাত্রা।",
+     "explanation_en": "K = (product concentrations)/(reactant concentration).",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "কোনো এসিডের Ka এর মান বড় হলে এসিডটি—",
+     "question_en": "If Ka of an acid is large, the acid is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "দুর্বল",
+       "en": "দুর্বল"
+      },
+      {
+       "id": "b",
+       "bn": "তীব্র",
+       "en": "তীব্র"
+      },
+      {
+       "id": "c",
+       "bn": "নিরপেক্ষ",
+       "en": "নিরপেক্ষ"
+      },
+      {
+       "id": "d",
+       "bn": "অবিয়োজিত",
+       "en": "অবিয়োজিত"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Ka বেশি মানে বেশি বিয়োজন, তাই এসিড তীব্র।",
+     "explanation_en": "Larger Ka means more dissociation, hence a stronger acid.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "25 °C এ Ka = 1.8×10^-5 হলে 0.10 M CH3COOH দ্রবণে [H+] প্রায় কত? (x ≪ 0.10 ধরো)",
+     "question_en": "With Ka = 1.8e-5 at 25 C, what is [H+] in 0.10 M CH3COOH (assume x << 0.10)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.8×10^-3 M",
+       "en": "1.8×10^-3 M"
+      },
+      {
+       "id": "b",
+       "bn": "1.34×10^-3 M",
+       "en": "1.34×10^-3 M"
+      },
+      {
+       "id": "c",
+       "bn": "1.8×10^-6 M",
+       "en": "1.8×10^-6 M"
+      },
+      {
+       "id": "d",
+       "bn": "4.2×10^-3 M",
+       "en": "4.2×10^-3 M"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "x² = Ka × C = 1.8×10^-6 ⇒ x = 1.34×10^-3। pH = 2.87।",
+     "explanation_en": "x^2 = Ka x C = 1.8e-6, so x = 1.34e-3 M (pH 2.87).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বিয়োজন মাত্রা α এর সংজ্ঞা কোনটি?",
+     "question_en": "Which is the definition of degree of dissociation alpha?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "মোট আয়নের সংখ্যা ÷ মোট অণুর সংখ্যা",
+       "en": "মোট আয়নের সংখ্যা ÷ মোট অণুর সংখ্যা"
+      },
+      {
+       "id": "b",
+       "bn": "সাম্যে বিয়োজিত মোল ÷ মোট মোল",
+       "en": "সাম্যে বিয়োজিত মোল ÷ মোট মোল"
+      },
+      {
+       "id": "c",
+       "bn": "অবিয়োজিত মোল ÷ মোট মোল",
+       "en": "অবিয়োজিত মোল ÷ মোট মোল"
+      },
+      {
+       "id": "d",
+       "bn": "Ka ÷ Kb",
+       "en": "Ka ÷ Kb"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "α = সাম্যে বিয়োজিত মোল সংখ্যা / মোট মোল সংখ্যা।",
+     "explanation_en": "alpha = moles dissociated at equilibrium / total moles.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অসওয়াল্ডের লঘুকরণ সূত্র অনুযায়ী মৃদু তড়িৎবিশ্লেষ্যের ঘনমাত্রা 4 গুণ করলে α হবে—",
+     "question_en": "By Ostwald's dilution law, if the concentration of a weak electrolyte is made 4 times, alpha becomes—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4 গুণ",
+       "en": "4 গুণ"
+      },
+      {
+       "id": "b",
+       "bn": "2 গুণ",
+       "en": "2 গুণ"
+      },
+      {
+       "id": "c",
+       "bn": "অর্ধেক",
+       "en": "অর্ধেক"
+      },
+      {
+       "id": "d",
+       "bn": "এক-চতুর্থাংশ",
+       "en": "এক-চতুর্থাংশ"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "α = √(K/C); C চার গুণ হলে α অর্ধেক হয়।",
+     "explanation_en": "alpha = sqrt(K/C); 4x concentration halves alpha.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "25 °C এ 0.15 M NH3 দ্রবণের (Kb = 1.8×10^-5) pH কত?",
+     "question_en": "What is the pH of 0.15 M NH3 (Kb = 1.8e-5) at 25 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2.78",
+       "en": "2.78"
+      },
+      {
+       "id": "b",
+       "bn": "11.22",
+       "en": "11.22"
+      },
+      {
+       "id": "c",
+       "bn": "9.26",
+       "en": "9.26"
+      },
+      {
+       "id": "d",
+       "bn": "12.40",
+       "en": "12.40"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[OH-] = √(1.8×10^-5 × 0.15) = 1.64×10^-3; pOH = 2.78; pH = 14 - 2.78 = 11.22।",
+     "explanation_en": "[OH-] = sqrt(1.8e-5 x 0.15) = 1.64e-3, pOH = 2.78, pH = 11.22.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Ka = 1.8×10^-4 এর একটি মৃদু এসিডের 0.02 M দ্রবণে শতকরা কত ভাগ বিয়োজিত হবে?",
+     "question_en": "What percentage of a weak acid (Ka = 1.8e-4) dissociates in a 0.02 M solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.949%",
+       "en": "0.949%"
+      },
+      {
+       "id": "b",
+       "bn": "9.49%",
+       "en": "9.49%"
+      },
+      {
+       "id": "c",
+       "bn": "94.9%",
+       "en": "94.9%"
+      },
+      {
+       "id": "d",
+       "bn": "18%",
+       "en": "18%"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "α = √(Ka/C) = √(9×10^-3) = 0.0949 ⇒ 9.49%।",
+     "explanation_en": "alpha = sqrt(1.8e-4/0.02) = sqrt(9e-3) = 0.0949, i.e. 9.49%.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "1.0×10^-2 M মৃদু এসিড দ্রবণের pH 3.37 হলে (x ≪ C ধরে) Ka প্রায় কত?",
+     "question_en": "A 1.0e-2 M weak-acid solution has pH 3.37. Taking x << C, Ka is about—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.82×10^-5",
+       "en": "1.82×10^-5"
+      },
+      {
+       "id": "b",
+       "bn": "4.27×10^-4",
+       "en": "4.27×10^-4"
+      },
+      {
+       "id": "c",
+       "bn": "1.0×10^-7",
+       "en": "1.0×10^-7"
+      },
+      {
+       "id": "d",
+       "bn": "2.3×10^-2",
+       "en": "2.3×10^-2"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "[H+] = 10^-3.37 = 4.27×10^-4; Ka = (4.27×10^-4)²/10^-2 = 1.82×10^-5।",
+     "explanation_en": "[H+] = 10^-3.37 = 4.27e-4; Ka = (4.27e-4)^2/1e-2 = 1.82e-5.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.21",
+   "title_bn": "মৃদু এসিড ও মৃদু ক্ষারের বিয়োজনের উপর সম-আয়ন প্রভাব",
+   "title_en": "Common-Ion Effect on Weak Acids and Bases",
+   "notes_bn": "সম-আয়ন: দুই বা ততোধিক তড়িৎবিশ্লেষ্যের বিয়োজনে উৎপন্ন সাধারণ (একই) আয়ন।\nসম-আয়ন প্রভাব: মৃদু তড়িৎবিশ্লেষ্যের দ্রবণে সম-আয়নযুক্ত তীব্র তড়িৎবিশ্লেষ্য যোগ করলে মৃদুটির বিয়োজন হ্রাস পায়।\nউদাহরণ: CH3COOH-এ CH3COONa (সম-আয়ন CH3COO-) বা HCl (সম-আয়ন H+) যোগ করলে CH3COOH এর বিয়োজন কমে।\nকারণ: লা-শাতেলিয়ারের নীতি অনুযায়ী সাম্য বাম দিকে সরে অবিয়োজিত অণু বাড়ে।\nNH4OH-এ NH4Cl (সম-আয়ন NH4+) বা NaOH (সম-আয়ন OH-) যোগ করলে NH4OH এর বিয়োজন কমে।\nCH3COOH ও CH3COONa মিশ্রণে [H3O+] কমে, pH বাড়ে (যেমন 0.1 M CH3COOH + 0.05 M CH3COONa এর pH ≈ 4.44)।",
+   "notes_en": "Common ion: an ion supplied by two or more electrolytes in the same solution.\nCommon-ion effect: adding a strong electrolyte with a common ion to a weak electrolyte suppresses the weak electrolyte's ionisation.\nExamples: CH3COOH + CH3COONa (common CH3COO-) or + HCl (common H+); ionisation of CH3COOH falls.\nReason (Le Chatelier): equilibrium shifts left, forming more undissociated molecules.\nNH4OH + NH4Cl (common NH4+) or + NaOH (common OH-) lowers ionisation of NH4OH.\nIn CH3COOH + CH3COONa, [H3O+] falls and pH rises (0.1 M acid + 0.05 M salt: pH about 4.44).",
+   "mcqs": [
+    {
+     "question_bn": "সম-আয়ন প্রভাব বলতে কী বোঝায়?",
+     "question_en": "What is meant by the common-ion effect?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "তীব্র এসিড যোগে pH কমা",
+       "en": "তীব্র এসিড যোগে pH কমা"
+      },
+      {
+       "id": "b",
+       "bn": "সম-আয়ন যোগে মৃদু তড়িৎবিশ্লেষ্যের বিয়োজন হ্রাস",
+       "en": "সম-আয়ন যোগে মৃদু তড়িৎবিশ্লেষ্যের বিয়োজন হ্রাস"
+      },
+      {
+       "id": "c",
+       "bn": "তাপে বিয়োজন বৃদ্ধি",
+       "en": "তাপে বিয়োজন বৃদ্ধি"
+      },
+      {
+       "id": "d",
+       "bn": "লঘুকরণে বিয়োজন বৃদ্ধি",
+       "en": "লঘুকরণে বিয়োজন বৃদ্ধি"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সম-আয়নযুক্ত তীব্র তড়িৎবিশ্লেষ্য যোগ করলে মৃদু তড়িৎবিশ্লেষ্যের বিয়োজন কমে।",
+     "explanation_en": "Adding a strong electrolyte with a common ion suppresses the ionisation of a weak electrolyte.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "CH3COOH দ্রবণে CH3COONa যোগ করলে সম-আয়ন কোনটি?",
+     "question_en": "On adding CH3COONa to CH3COOH, the common ion is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na+",
+       "en": "Na+"
+      },
+      {
+       "id": "b",
+       "bn": "H+",
+       "en": "H+"
+      },
+      {
+       "id": "c",
+       "bn": "CH3COO-",
+       "en": "CH3COO-"
+      },
+      {
+       "id": "d",
+       "bn": "OH-",
+       "en": "OH-"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "উভয়ই CH3COO- আয়ন উৎপন্ন করে।",
+     "explanation_en": "Both produce the CH3COO- ion.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NH4OH দ্রবণে NH4Cl যোগ করলে NH4OH এর বিয়োজন—",
+     "question_en": "On adding NH4Cl to an NH4OH solution, the ionisation of NH4OH—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "বাড়ে",
+       "en": "বাড়ে"
+      },
+      {
+       "id": "b",
+       "bn": "কমে",
+       "en": "কমে"
+      },
+      {
+       "id": "c",
+       "bn": "অপরিবর্তিত থাকে",
+       "en": "অপরিবর্তিত থাকে"
+      },
+      {
+       "id": "d",
+       "bn": "সম্পূর্ণ হয়",
+       "en": "সম্পূর্ণ হয়"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NH4+ সম-আয়ন বাড়ায় সাম্য বাম দিকে সরে, [OH-] কমে।",
+     "explanation_en": "The common NH4+ shifts the equilibrium left; ionisation and [OH-] decrease.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH3COOH দ্রবণে HCl যোগ করলে CH3COOH এর বিয়োজন কমে কেন?",
+     "question_en": "Why does adding HCl lower the ionisation of CH3COOH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Cl- আয়নের কারণে",
+       "en": "Cl- আয়নের কারণে"
+      },
+      {
+       "id": "b",
+       "bn": "H+ সম-আয়ন বৃদ্ধিতে সাম্য বাম দিকে সরে",
+       "en": "H+ সম-আয়ন বৃদ্ধিতে সাম্য বাম দিকে সরে"
+      },
+      {
+       "id": "c",
+       "bn": "HCl মৃদু এসিড বলে",
+       "en": "HCl মৃদু এসিড বলে"
+      },
+      {
+       "id": "d",
+       "bn": "তাপমাত্রা কমে বলে",
+       "en": "তাপমাত্রা কমে বলে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "HCl থেকে প্রচুর H+ আসে; লা-শাতেলিয়ারের নীতিতে CH3COOH অণু গঠন বাড়ে।",
+     "explanation_en": "HCl supplies extra H+; by Le Chatelier's principle more CH3COOH molecules form.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "NH4OH দ্রবণে NaOH যোগ করলে নিচের কোনটি ঘটে?",
+     "question_en": "What happens when NaOH is added to an NH4OH solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH4OH এর বিয়োজন বাড়ে",
+       "en": "NH4OH এর বিয়োজন বাড়ে"
+      },
+      {
+       "id": "b",
+       "bn": "সম-আয়ন OH- এর কারণে NH4OH এর বিয়োজন কমে",
+       "en": "সম-আয়ন OH- এর কারণে NH4OH এর বিয়োজন কমে"
+      },
+      {
+       "id": "c",
+       "bn": "NH4+ বাড়ে",
+       "en": "NH4+ বাড়ে"
+      },
+      {
+       "id": "d",
+       "bn": "সাম্য ডান দিকে সরে",
+       "en": "সাম্য ডান দিকে সরে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "NaOH থেকে OH- সম-আয়ন আসে; সাম্য বাম দিকে সরে NH4OH এর বিয়োজন কমে।",
+     "explanation_en": "NaOH adds the common OH- ion; equilibrium shifts left and ionisation of NH4OH falls.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "0.1 M CH3COOH দ্রবণে 0.05 M CH3COONa যোগ করলে pH কত? (pKa = 4.7447)",
+     "question_en": "What is the pH of 0.1 M CH3COOH with 0.05 M CH3COONa added? (pKa = 4.7447)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4.74",
+       "en": "4.74"
+      },
+      {
+       "id": "b",
+       "bn": "4.44",
+       "en": "4.44"
+      },
+      {
+       "id": "c",
+       "bn": "5.05",
+       "en": "5.05"
+      },
+      {
+       "id": "d",
+       "bn": "3.87",
+       "en": "3.87"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "pH = pKa + log(0.05/0.1) = 4.7447 - 0.3010 = 4.4437 ≈ 4.44।",
+     "explanation_en": "pH = 4.7447 + log(0.05/0.1) = 4.7447 - 0.3010 = 4.44.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.22",
+   "title_bn": "বিয়োজন ধ্রুবক ও এসিড-ক্ষারের তীব্রতা",
+   "title_en": "Ionisation Constant and Strength of Acids and Bases",
+   "notes_bn": "এসিডের তীব্রতা নির্ভর করে: Ka, অণুস্থিত ঋণাত্মক আয়নের আকার, কেন্দ্রীয় পরমাণুর ধনাত্মক জারণমান ও আকার, এবং দ্রাবকের প্রকৃতির উপর।\nKa যত বেশি, এসিড তত তীব্র। HCl: Ka = 2.5×10^7, HBr: 3.2×10^9, HI: 1×10^10। CH3COOH: Ka = 1.8×10^-5 (0.1 M এ প্রায় 1-5% আয়নিত)।\npKa = -log Ka; pKa যত কম, এসিড তত তীব্র। pKa < 1 খুব শক্তিশালী; 1–3 মাঝারি; 3–5 দুর্বল; 5–15 খুব দুর্বল; >15 অতি দুর্বল।\nসারণি (pKa): H2CO3 6.35, HCOOH 3.80, CH3COOH 4.745, C6H5COOH 4.20, H2O 14.0।\nহাইড্রাসিড: ঋণাত্মক আয়ন যত বড়, এসিড তত তীব্র: HI > HBr > HCl।\nঅক্সিঅ্যাসিড: কেন্দ্রীয় পরমাণুর জারণমান বেশি হলে তীব্রতা বেশি: HNO3 > HNO2, H2SO4 > H2SO3। জারণমান সমান হলে ছোট আকার তীব্রতর: HNO3 > H3PO4।\nদ্রাবক: CH3COOH জলে দুর্বল কিন্তু NH3 এ তীব্র এসিডের মতো আচরণ করে।\nক্ষার: Kb যত বেশি, ক্ষার তত শক্তিশালী (NaOH, KOH তীব্র; NH4OH দুর্বল)।",
+   "notes_en": "Acid strength depends on Ka, size of the anion, oxidation state and size of the central atom, and the solvent.\nBigger Ka = stronger acid. HCl Ka 2.5e7, HBr 3.2e9, HI 1e10; CH3COOH Ka 1.8e-5 (about 1-5% ionised in 0.1 M).\npKa = -log Ka; lower pKa = stronger. pKa <1 very strong; 1-3 moderate; 3-5 weak; 5-15 very weak; >15 extremely weak.\nTable pKa: H2CO3 6.35, HCOOH 3.80, CH3COOH 4.745, C6H5COOH 4.20, H2O 14.0.\nHydracids: larger anion, stronger acid: HI > HBr > HCl.\nOxyacids: higher oxidation state of central atom is stronger: HNO3 > HNO2, H2SO4 > H2SO3; same oxidation state, smaller atom is stronger: HNO3 > H3PO4.\nSolvent: CH3COOH is weak in water but acts as a strong acid in NH3.\nBases: larger Kb = stronger base (NaOH, KOH strong; NH4OH weak).",
+   "mcqs": [
+    {
+     "question_bn": "pKa এর সংজ্ঞা কোনটি?",
+     "question_en": "Which defines pKa?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "log Ka",
+       "en": "log Ka"
+      },
+      {
+       "id": "b",
+       "bn": "-log Ka",
+       "en": "-log Ka"
+      },
+      {
+       "id": "c",
+       "bn": "1/Ka",
+       "en": "1/Ka"
+      },
+      {
+       "id": "d",
+       "bn": "Ka²",
+       "en": "Ka²"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "pKa = -log10 Ka।",
+     "explanation_en": "pKa = -log10 Ka.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "হাইড্রাসিডের তীব্রতার সঠিক ক্রম কোনটি?",
+     "question_en": "What is the correct order of strength of the hydracids?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCl > HBr > HI",
+       "en": "HCl > HBr > HI"
+      },
+      {
+       "id": "b",
+       "bn": "HI > HBr > HCl",
+       "en": "HI > HBr > HCl"
+      },
+      {
+       "id": "c",
+       "bn": "HBr > HI > HCl",
+       "en": "HBr > HI > HCl"
+      },
+      {
+       "id": "d",
+       "bn": "HCl > HI > HBr",
+       "en": "HCl > HI > HBr"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ঋণাত্মক আয়নের আকার I- > Br- > Cl-; আকার যত বড়, বিয়োজন তত বেশি।",
+     "explanation_en": "Anion size I- > Br- > Cl-; the larger the anion, the more the dissociation.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "HNO3 কেন HNO2 অপেক্ষা তীব্র এসিড?",
+     "question_en": "Why is HNO3 a stronger acid than HNO2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N এর জারণমান +5, +3 এর চেয়ে বেশি",
+       "en": "N এর জারণমান +5, +3 এর চেয়ে বেশি"
+      },
+      {
+       "id": "b",
+       "bn": "N এর জারণমান কম",
+       "en": "N এর জারণমান কম"
+      },
+      {
+       "id": "c",
+       "bn": "অণুর আকার ছোট",
+       "en": "অণুর আকার ছোট"
+      },
+      {
+       "id": "d",
+       "bn": "দ্রাবক ভিন্ন",
+       "en": "দ্রাবক ভিন্ন"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কেন্দ্রীয় পরমাণুর ধনাত্মক জারণমান বেশি হলে এসিড তীব্র হয় (N: +5 বনাম +3)।",
+     "explanation_en": "Higher positive oxidation state of the central atom (N: +5 vs +3) gives a stronger acid.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HCOOH এর Ka = 1.6×10^-4 হলে pKa প্রায় কত?",
+     "question_en": "If Ka of HCOOH is 1.6e-4, its pKa is about—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3.80",
+       "en": "3.80"
+      },
+      {
+       "id": "b",
+       "bn": "4.80",
+       "en": "4.80"
+      },
+      {
+       "id": "c",
+       "bn": "10.2",
+       "en": "10.2"
+      },
+      {
+       "id": "d",
+       "bn": "1.6",
+       "en": "1.6"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "pKa = -log(1.6×10^-4) = 4 - 0.204 = 3.80।",
+     "explanation_en": "pKa = -log(1.6e-4) = 4 - 0.204 = 3.80.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HNO3 ও H3PO4 উভয়ের কেন্দ্রীয় পরমাণুর জারণমান +5; তবুও HNO3 অধিক তীব্র—কারণ কী?",
+     "question_en": "Both HNO3 and H3PO4 have a +5 central atom, yet HNO3 is stronger. Why?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "N এর আকার P এর চেয়ে বড়",
+       "en": "N এর আকার P এর চেয়ে বড়"
+      },
+      {
+       "id": "b",
+       "bn": "N ছোট হওয়ায় চার্জ ঘনত্ব বেশি, ফলে O-H বন্ধন দুর্বল হয়",
+       "en": "N ছোট হওয়ায় চার্জ ঘনত্ব বেশি, ফলে O-H বন্ধন দুর্বল হয়"
+      },
+      {
+       "id": "c",
+       "bn": "H3PO4 তে H বেশি",
+       "en": "H3PO4 তে H বেশি"
+      },
+      {
+       "id": "d",
+       "bn": "HNO3 এর আণবিক ভর কম",
+       "en": "HNO3 এর আণবিক ভর কম"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "সমান জারণমানে কেন্দ্রীয় পরমাণু ছোট হলে চার্জ ঘনত্ব বেশি হয়, তীব্রতা বাড়ে।",
+     "explanation_en": "With the same oxidation state a smaller central atom has higher charge density, giving a stronger acid.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "পাওয়া pKa: H2CO3 6.35, HCOOH 3.80, CH3COOH 4.745, C6H5COOH 4.20। কোনটি সবচেয়ে তীব্র?",
+     "question_en": "Given pKa: H2CO3 6.35, HCOOH 3.80, CH3COOH 4.745, C6H5COOH 4.20. Which is the strongest acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "H2CO3",
+       "en": "H2CO3"
+      },
+      {
+       "id": "b",
+       "bn": "CH3COOH",
+       "en": "CH3COOH"
+      },
+      {
+       "id": "c",
+       "bn": "C6H5COOH",
+       "en": "C6H5COOH"
+      },
+      {
+       "id": "d",
+       "bn": "HCOOH",
+       "en": "HCOOH"
+      }
+     ],
+     "correct": [
+      "d"
+     ],
+     "explanation_bn": "সবচেয়ে কম pKa (3.80) যার সেটিই সবচেয়ে তীব্র।",
+     "explanation_en": "The lowest pKa (3.80) belongs to the strongest acid, HCOOH.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "দ্রাবকের প্রভাব সম্পর্কে নিচের কোনটি সঠিক?",
+     "question_en": "Which statement about the solvent effect is correct?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3COOH সব দ্রাবকে দুর্বল",
+       "en": "CH3COOH সব দ্রাবকে দুর্বল"
+      },
+      {
+       "id": "b",
+       "bn": "CH3COOH জলে দুর্বল কিন্তু NH3 এ তীব্র এসিডের মতো আচরণ করে",
+       "en": "CH3COOH জলে দুর্বল কিন্তু NH3 এ তীব্র এসিডের মতো আচরণ করে"
+      },
+      {
+       "id": "c",
+       "bn": "দ্রাবক তীব্রতায় প্রভাব ফেলে না",
+       "en": "দ্রাবক তীব্রতায় প্রভাব ফেলে না"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু HCl দ্রাবকের উপর নির্ভরশীল",
+       "en": "শুধু HCl দ্রাবকের উপর নির্ভরশীল"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "দ্রাবকের প্রোটন গ্রহণ ক্ষমতা বেশি হলে এসিডের বিয়োজন বেশি হয়।",
+     "explanation_en": "The greater the proton-accepting ability of the solvent, the more the acid dissociates.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "section_no": "4.23",
+   "title_bn": "বিয়োজন ধ্রুবক Ka ও Kb এর তাৎপর্য",
+   "title_en": "Significance of Ka and Kb",
+   "notes_bn": "নির্দিষ্ট তাপমাত্রায় মৃদু এসিডের Ka (ক্ষারের Kb) স্থির; ঘনমাত্রা পরিবর্তনে সাম্য সরে গেলেও Ka অপরিবর্তিত থাকে।\nএসিড/ক্ষার তীব্র হলে α ও Ka/Kb বেশি হয়; দুই এসিড সমান তীব্র হলে Ka একই।\nবহুক্ষারীয় এসিডে Ka1 > Ka2 > Ka3 (যেমন H3PO4: 7.52×10^-3, 6.23×10^-8, 4.8×10^-13)।\nসারণি (25 °C): HCOOH 1.77×10^-4, CH3COOH 1.75×10^-5, HCN 7.2×10^-10, HF 3.5×10^-4; NH4OH 1.76×10^-5, CH3NH2 4.8×10^-4, C6H5NH2 3.94×10^-10।\nগণনা: [H+] = 1.5×10^-3 M, C = 0.2 M হলে Ka = (1.5×10^-3)²/0.2 = 1.125×10^-5।\nএকক mol L^-1।",
+   "notes_en": "For a given weak acid (base), Ka (Kb) is fixed at constant temperature; it stays constant even when concentration changes shift the equilibrium.\nStronger acid/base: higher alpha and higher Ka/Kb; equally strong acids have equal Ka.\nPolyprotic acids: Ka1 > Ka2 > Ka3 (H3PO4: 7.52e-3, 6.23e-8, 4.8e-13).\nTable (25 C): HCOOH 1.77e-4, CH3COOH 1.75e-5, HCN 7.2e-10, HF 3.5e-4; NH4OH 1.76e-5, CH3NH2 4.8e-4, C6H5NH2 3.94e-10.\nCalculation: [H+] = 1.5e-3 M in 0.2 M acid gives Ka = (1.5e-3)^2/0.2 = 1.125e-5.\nUnit: mol/L.",
+   "mcqs": [
+    {
+     "question_bn": "নির্দিষ্ট তাপমাত্রায় মৃদু এসিডের Ka এর মান—",
+     "question_en": "At a fixed temperature the Ka of a weak acid is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ঘনমাত্রার সাথে বদলায়",
+       "en": "ঘনমাত্রার সাথে বদলায়"
+      },
+      {
+       "id": "b",
+       "bn": "স্থির থাকে",
+       "en": "স্থির থাকে"
+      },
+      {
+       "id": "c",
+       "bn": "প্রতি মিনিটে বাড়ে",
+       "en": "প্রতি মিনিটে বাড়ে"
+      },
+      {
+       "id": "d",
+       "bn": "শূন্য",
+       "en": "শূন্য"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "ঘনমাত্রা বদলালে সাম্য সরে গিয়ে Ka এর মান স্থির রাখে।",
+     "explanation_en": "Concentration changes shift the equilibrium so that Ka remains constant.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "ত্রিক্ষারীয় এসিডের ধ্রুবকের সঠিক ক্রম কোনটি?",
+     "question_en": "Which is the correct order of the constants of a tribasic acid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Ka1 < Ka2 < Ka3",
+       "en": "Ka1 < Ka2 < Ka3"
+      },
+      {
+       "id": "b",
+       "bn": "Ka1 > Ka2 > Ka3",
+       "en": "Ka1 > Ka2 > Ka3"
+      },
+      {
+       "id": "c",
+       "bn": "Ka1 = Ka2 = Ka3",
+       "en": "Ka1 = Ka2 = Ka3"
+      },
+      {
+       "id": "d",
+       "bn": "Ka2 > Ka1 > Ka3",
+       "en": "Ka2 > Ka1 > Ka3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "প্রথম H+ ছাড়া সহজ, পরবর্তী ধাপে কঠিন হয়।",
+     "explanation_en": "The first proton leaves most easily; later steps are harder.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি সবচেয়ে শক্তিশালী ক্ষার (মান 25 °C এ)?",
+     "question_en": "Which is the strongest base (25 C values)?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH4OH, Kb = 1.76×10^-5",
+       "en": "NH4OH, Kb = 1.76×10^-5"
+      },
+      {
+       "id": "b",
+       "bn": "CH3NH2, Kb = 4.8×10^-4",
+       "en": "CH3NH2, Kb = 4.8×10^-4"
+      },
+      {
+       "id": "c",
+       "bn": "C6H5NH2, Kb = 3.94×10^-10",
+       "en": "C6H5NH2, Kb = 3.94×10^-10"
+      },
+      {
+       "id": "d",
+       "bn": "NH2OH, Kb = 1.07×10^-8",
+       "en": "NH2OH, Kb = 1.07×10^-8"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Kb সবচেয়ে বেশি (4.8×10^-4) হওয়ায় CH3NH2 সবচেয়ে শক্তিশালী।",
+     "explanation_en": "CH3NH2 has the largest Kb (4.8e-4).",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "0.2 M একক্ষারীয় মৃদু এসিড দ্রবণে [H3O+] = 1.5×10^-3 M। এসিডের Ka কত?",
+     "question_en": "A 0.2 M monobasic weak acid has [H3O+] = 1.5e-3 M. What is Ka?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.125×10^-5",
+       "en": "1.125×10^-5"
+      },
+      {
+       "id": "b",
+       "bn": "7.5×10^-3",
+       "en": "7.5×10^-3"
+      },
+      {
+       "id": "c",
+       "bn": "2.25×10^-6",
+       "en": "2.25×10^-6"
+      },
+      {
+       "id": "d",
+       "bn": "1.5×10^-3",
+       "en": "1.5×10^-3"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "Ka = [H+]²/C = (1.5×10^-3)²/0.2 = 2.25×10^-6/0.2 = 1.125×10^-5।",
+     "explanation_en": "Ka = [H+]^2/C = 2.25e-6/0.2 = 1.125e-5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "0.10 M একটি এক-ক্ষারীয় মৃদু এসিডের pH 3.00 হলে (x ≪ C ধরে) Ka কত?",
+     "question_en": "A 0.10 M monobasic weak acid has pH 3.00. Taking x << C, Ka is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.0×10^-3",
+       "en": "1.0×10^-3"
+      },
+      {
+       "id": "b",
+       "bn": "1.0×10^-5",
+       "en": "1.0×10^-5"
+      },
+      {
+       "id": "c",
+       "bn": "1.0×10^-6",
+       "en": "1.0×10^-6"
+      },
+      {
+       "id": "d",
+       "bn": "1.0×10^-9",
+       "en": "1.0×10^-9"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[H+] = 10^-3; Ka = (10^-3)²/0.10 = 10^-5।",
+     "explanation_en": "[H+] = 1e-3; Ka = (1e-3)^2/0.10 = 1e-5.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "Ka = 1.8×10^-5 এর 0.01 M এসিডে [H+] কত?",
+     "question_en": "What is [H+] in 0.01 M acid with Ka = 1.8e-5?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4.24×10^-4 M",
+       "en": "4.24×10^-4 M"
+      },
+      {
+       "id": "b",
+       "bn": "1.8×10^-7 M",
+       "en": "1.8×10^-7 M"
+      },
+      {
+       "id": "c",
+       "bn": "1.34×10^-3 M",
+       "en": "1.34×10^-3 M"
+      },
+      {
+       "id": "d",
+       "bn": "4.24×10^-3 M",
+       "en": "4.24×10^-3 M"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "[H+] = √(Ka×C) = √(1.8×10^-7) = 4.24×10^-4।",
+     "explanation_en": "[H+] = sqrt(1.8e-5 x 0.01) = sqrt(1.8e-7) = 4.24e-4 M.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.24",
+   "title_bn": "pH ও pH স্কেল",
+   "title_en": "pH and the pH Scale",
+   "notes_bn": "pH = -log10[H+] (বা [H3O+]); pOH = -log10[OH-]। [H+] = 10^-pH। সরেনসেন লঘু দ্রবণের জন্য এ পদ্ধতি প্রবর্তন করেন।\nঘনমাত্রা 10 গুণ কমলে pH 1 একক বাড়ে; 10 গুণ বাড়লে pH 1 একক কমে।\nজলীয় দ্রবণে pH + pOH = pKw; 25 °C এ pKw = 14, তাই pH + pOH = 14 (সব তাপমাত্রায় নয়)।\nপ্রশম pH = 7 (25 °C); অম্লীয় pH < 7; ক্ষারীয় pH > 7। পানির 6.526 pH (উচ্চ তাপমাত্রা) এও প্রশম।\nবিস্তার: লঘু দ্রবণে pH 0–14। [H+] > 1 g-ion/L (যেমন 10 M HCl, pH = -1) এ pH < 0; [OH-] > 1 এ pH > 14 (10 M NaOH, pH = 15)।\nউদাহরণ: 0.025 M H2SO4 → [H+] = 0.05, pH = 1.30; 0.125 M Na2CO3 → [OH-] = 0.25, pOH = 0.60, pH = 13.40; 2×10^-3 M Ba(OH)2 → pH = 11.60।\npH 3 ও pH 6: প্রথমটি 10^3 = 1000 গুণ বেশি অম্লীয়।\nতীব্র অম্লীয় pH 0–2; মাঝারি 2–4; মৃদু অম্লীয় 4–6.99; মৃদু ক্ষারীয় 7.01–10; মাঝারি 10–12; তীব্র ক্ষারীয় 12–14।",
+   "notes_en": "pH = -log10[H+]; pOH = -log10[OH-]; [H+] = 10^-pH. Introduced by Sorensen for dilute solutions.\nA tenfold dilution raises pH by 1; a tenfold increase lowers it by 1.\nIn aqueous solution pH + pOH = pKw; at 25 C pKw = 14 so pH + pOH = 14 (not at all temperatures).\nNeutral pH = 7 (25 C); acidic < 7; basic > 7. Hot water with pH 6.526 is still neutral.\nRange 0-14 for dilute solutions; [H+] > 1 g-ion/L (10 M HCl, pH -1) gives pH < 0; [OH-] > 1 gives pH > 14 (10 M NaOH, pH 15).\nExamples: 0.025 M H2SO4: [H+] = 0.05, pH 1.30; 0.125 M Na2CO3: [OH-] = 0.25, pOH 0.60, pH 13.40; 2e-3 M Ba(OH)2: pH 11.60.\npH 3 vs pH 6: the first is 1000 times more acidic.\nBands: pH 0-2 strongly acidic; 2-4 moderately; 4-6.99 weakly; 7.01-10 weakly basic; 10-12 moderately; 12-14 strongly basic.",
+   "mcqs": [
+    {
+     "question_bn": "pH এর সংজ্ঞা কোনটি?",
+     "question_en": "Which defines pH?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "log[H+]",
+       "en": "log[H+]"
+      },
+      {
+       "id": "b",
+       "bn": "-log[H+]",
+       "en": "-log[H+]"
+      },
+      {
+       "id": "c",
+       "bn": "-log[OH-]",
+       "en": "-log[OH-]"
+      },
+      {
+       "id": "d",
+       "bn": "1/[H+]²",
+       "en": "1/[H+]²"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "pH = -log10[H+]।",
+     "explanation_en": "pH = -log10[H+].",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "25 °C এ 0.001 M HCl দ্রবণের pH কত?",
+     "question_en": "What is the pH of 0.001 M HCl at 25 C?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "c",
+       "bn": "7",
+       "en": "7"
+      },
+      {
+       "id": "d",
+       "bn": "11",
+       "en": "11"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[H+] = 10^-3 ⇒ pH = 3।",
+     "explanation_en": "[H+] = 1e-3, so pH = 3.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "25 °C এ pH + pOH = ?",
+     "question_en": "At 25 C, pH + pOH = ?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "7",
+       "en": "7"
+      },
+      {
+       "id": "b",
+       "bn": "10",
+       "en": "10"
+      },
+      {
+       "id": "c",
+       "bn": "14",
+       "en": "14"
+      },
+      {
+       "id": "d",
+       "bn": "1",
+       "en": "1"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "pKw = 14, তাই pH + pOH = 14।",
+     "explanation_en": "pKw = 14, hence pH + pOH = 14.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "pH = 3 ও pH = 6 এর দুটি দ্রবণের মধ্যে প্রথমটি কতগুণ বেশি অম্লীয়?",
+     "question_en": "Of two solutions with pH 3 and pH 6, how many times more acidic is the first?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3 গুণ",
+       "en": "3 গুণ"
+      },
+      {
+       "id": "b",
+       "bn": "100 গুণ",
+       "en": "100 গুণ"
+      },
+      {
+       "id": "c",
+       "bn": "1000 গুণ",
+       "en": "1000 গুণ"
+      },
+      {
+       "id": "d",
+       "bn": "10^6 গুণ",
+       "en": "10^6 গুণ"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "[H+] = 10^-3 বনাম 10^-6; অনুপাত 10^3 = 1000।",
+     "explanation_en": "[H+] is 1e-3 vs 1e-6; ratio 1e3 = 1000.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "0.025 M H2SO4 দ্রবণের pH কত? (সম্পূর্ণ আয়নিত ধরো)",
+     "question_en": "What is the pH of 0.025 M H2SO4? (assume complete ionisation)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.60",
+       "en": "1.60"
+      },
+      {
+       "id": "b",
+       "bn": "1.30",
+       "en": "1.30"
+      },
+      {
+       "id": "c",
+       "bn": "2.00",
+       "en": "2.00"
+      },
+      {
+       "id": "d",
+       "bn": "0.65",
+       "en": "0.65"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[H+] = 2×0.025 = 0.05; pH = -log 0.05 = 1.30।",
+     "explanation_en": "[H+] = 2 x 0.025 = 0.05; pH = -log 0.05 = 1.30.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "25 °C এ pH 4 এর HCl দ্রবণকে 10 গুণ লঘু করলে pH হবে প্রায়—",
+     "question_en": "A pH 4 HCl solution at 25 C is diluted 10 times. The pH becomes about—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3",
+       "en": "3"
+      },
+      {
+       "id": "b",
+       "bn": "5",
+       "en": "5"
+      },
+      {
+       "id": "c",
+       "bn": "8",
+       "en": "8"
+      },
+      {
+       "id": "d",
+       "bn": "4.5",
+       "en": "4.5"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[H+] 10^-4 থেকে 10^-5 হয়; pH = 5।",
+     "explanation_en": "[H+] drops from 1e-4 to 1e-5, so pH = 5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "0.125 M Na2CO3 দ্রবণের pH কত? ([OH-] = 2×0.125 ধরো)",
+     "question_en": "What is the pH of 0.125 M Na2CO3? (take [OH-] = 2 x 0.125)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.60",
+       "en": "0.60"
+      },
+      {
+       "id": "b",
+       "bn": "13.40",
+       "en": "13.40"
+      },
+      {
+       "id": "c",
+       "bn": "12.60",
+       "en": "12.60"
+      },
+      {
+       "id": "d",
+       "bn": "13.90",
+       "en": "13.90"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[OH-] = 0.25; pOH = 0.60; pH = 14 - 0.60 = 13.40।",
+     "explanation_en": "[OH-] = 0.25; pOH = 0.60; pH = 13.40.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "2×10^-3 M Ba(OH)2 দ্রবণের pH কত?",
+     "question_en": "What is the pH of 2e-3 M Ba(OH)2?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "11.30",
+       "en": "11.30"
+      },
+      {
+       "id": "b",
+       "bn": "11.60",
+       "en": "11.60"
+      },
+      {
+       "id": "c",
+       "bn": "2.40",
+       "en": "2.40"
+      },
+      {
+       "id": "d",
+       "bn": "11.90",
+       "en": "11.90"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[OH-] = 4×10^-3; pOH = 2.398; pH = 11.60।",
+     "explanation_en": "[OH-] = 4e-3; pOH = 2.398; pH = 11.60.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "90 °C এ Kw = 9.50×10^-14। ঐ তাপমাত্রায় বিশুদ্ধ পানির pH প্রায় কত?",
+     "question_en": "At 90 C, Kw = 9.50e-14. The pH of pure water there is about—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "7.00",
+       "en": "7.00"
+      },
+      {
+       "id": "b",
+       "bn": "6.51",
+       "en": "6.51"
+      },
+      {
+       "id": "c",
+       "bn": "5.51",
+       "en": "5.51"
+      },
+      {
+       "id": "d",
+       "bn": "7.49",
+       "en": "7.49"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[H+] = √(9.5×10^-14) = 3.08×10^-7; pH = 6.51। পানি তখনও নিরপেক্ষ।",
+     "explanation_en": "[H+] = sqrt(9.5e-14) = 3.08e-7; pH = 6.51; the water remains neutral.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "10 M HCl দ্রবণের pH কত?",
+     "question_en": "What is the pH of 10 M HCl?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1",
+       "en": "1"
+      },
+      {
+       "id": "b",
+       "bn": "-1",
+       "en": "-1"
+      },
+      {
+       "id": "c",
+       "bn": "0",
+       "en": "0"
+      },
+      {
+       "id": "d",
+       "bn": "10",
+       "en": "10"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[H+] = 10 g-ion/L; pH = -log 10 = -1 (pH 0 এর চেয়ে কম হওয়া সম্ভব)।",
+     "explanation_en": "[H+] = 10; pH = -log 10 = -1 (pH below 0 is possible).",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.25",
+   "title_bn": "বাফার দ্রবণ ও বাফার দ্রবণ প্রস্তুতি",
+   "title_en": "Buffer Solution and its Preparation",
+   "notes_bn": "বাফার দ্রবণ: অল্প পরিমাণ এসিড বা ক্ষার যোগ করলেও যার pH প্রায় অপরিবর্তিত থাকে; লঘু করলেও pH প্রায় স্থির।\nপ্রকার: দুর্বল এসিড + তার লবণ (CH3COOH + CH3COONa, অম্লীয় বাফার); দুর্বল ক্ষার + তার লবণ (NH4OH + NH4Cl, ক্ষারীয় বাফার); দুর্বল এসিড ও দুর্বল ক্ষারের লবণ ((NH4)2CO3); বহুক্ষারীয় এসিডের দুই লবণ (NaH2PO4 + Na2HPO4)।\nতীব্র এসিড + তার লবণ (যেমন HCl + NaCl) বাফার নয়।\nপ্রস্তুতি: দুর্বল এসিড + তীব্র ক্ষারের লবণ মিশিয়ে, বা তীব্র ক্ষার/এসিড কম পরিমাণে মৃদু এসিড/ক্ষারে যোগ করে (গ্রাম-তুল্যাঙ্ক সংখ্যা মৃদুটির চেয়ে কম)।\nহেন্ডারসন-হ্যাসেলবাখ: অম্লীয় বাফারে pH = pKa + log([লবণ]/[এসিড]); ক্ষারীয় বাফারে pOH = pKb + log([লবণ]/[ক্ষার]), pH = 14 - pOH।\nকার্যকর পরিসর: [লবণ]/[এসিড] = 0.1–10, অর্থাৎ pH = pKa ± 1 (ক্ষারীয় বাফারে pOH = pKb ± 1)।\nউদাহরণ: 0.1 M NH4OH + 0.2 mol NH4Cl (pKb 4.74) ⇒ pOH = 5.041, pH = 8.96। 0.03 mol NH3 + 0.015 mol (NH4)2SO4 (NH4+ = 0.03) ⇒ pH = 9.26।",
+   "notes_en": "A buffer resists change in pH on adding small amounts of acid or base, and on dilution.\nTypes: weak acid + its salt (CH3COOH + CH3COONa, acidic); weak base + its salt (NH4OH + NH4Cl, basic); salt of weak acid and weak base ((NH4)2CO3); two salts of a polybasic acid (NaH2PO4 + Na2HPO4).\nStrong acid + its salt (e.g. HCl + NaCl) is not a buffer.\nPreparation: mix the weak acid with a salt formed with a strong base, or add a smaller equivalent amount of strong base/acid to the weak acid/base.\nHenderson-Hasselbalch: acidic buffer pH = pKa + log([salt]/[acid]); basic buffer pOH = pKb + log([salt]/[base]), pH = 14 - pOH.\nEffective range: [salt]/[acid] between 0.1 and 10, i.e. pH = pKa +/- 1.\nExamples: 0.1 M NH4OH + 0.2 mol NH4Cl (pKb 4.74): pOH 5.041, pH 8.96. 0.03 mol NH3 + 0.015 mol (NH4)2SO4 (NH4+ = 0.03): pH 9.26.",
+   "mcqs": [
+    {
+     "question_bn": "বাফার দ্রবণের প্রধান বৈশিষ্ট্য কোনটি?",
+     "question_en": "What is the main property of a buffer solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "pH খুব দ্রুত বদলায়",
+       "en": "pH খুব দ্রুত বদলায়"
+      },
+      {
+       "id": "b",
+       "bn": "অল্প এসিড/ক্ষার যোগেও pH প্রায় অপরিবর্তিত থাকে",
+       "en": "অল্প এসিড/ক্ষার যোগেও pH প্রায় অপরিবর্তিত থাকে"
+      },
+      {
+       "id": "c",
+       "bn": "সবসময় pH 7",
+       "en": "সবসময় pH 7"
+      },
+      {
+       "id": "d",
+       "bn": "শুধু লঘুকরণে pH বদলায়",
+       "en": "শুধু লঘুকরণে pH বদলায়"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বাফার pH পরিবর্তনে বাধা দেয়।",
+     "explanation_en": "A buffer resists change in pH.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি অম্লীয় বাফার দ্রবণ?",
+     "question_en": "Which of the following is an acidic buffer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH4OH + NH4Cl",
+       "en": "NH4OH + NH4Cl"
+      },
+      {
+       "id": "b",
+       "bn": "CH3COOH + CH3COONa",
+       "en": "CH3COOH + CH3COONa"
+      },
+      {
+       "id": "c",
+       "bn": "HCl + NaCl",
+       "en": "HCl + NaCl"
+      },
+      {
+       "id": "d",
+       "bn": "NaOH + NaCl",
+       "en": "NaOH + NaCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মৃদু এসিড ও তার লবণের মিশ্রণ অম্লীয় বাফার।",
+     "explanation_en": "A weak acid with its salt is an acidic buffer.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "নিচের কোনটি বাফার নয়?",
+     "question_en": "Which of these is NOT a buffer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NaH2PO4 + Na2HPO4",
+       "en": "NaH2PO4 + Na2HPO4"
+      },
+      {
+       "id": "b",
+       "bn": "NH4OH + NH4Cl",
+       "en": "NH4OH + NH4Cl"
+      },
+      {
+       "id": "c",
+       "bn": "HCl + NaCl",
+       "en": "HCl + NaCl"
+      },
+      {
+       "id": "d",
+       "bn": "H2CO3 + NaHCO3",
+       "en": "H2CO3 + NaHCO3"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "তীব্র এসিড ও তার লবণ pH স্থির রাখতে পারে না।",
+     "explanation_en": "A strong acid with its salt cannot hold pH steady.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "CH3COOH ও CH3COONa সমমোলার হলে pH = ? (pKa = 4.74)",
+     "question_en": "If CH3COOH and CH3COONa are equimolar (pKa = 4.74), pH = ?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4.74",
+       "en": "4.74"
+      },
+      {
+       "id": "b",
+       "bn": "7.00",
+       "en": "7.00"
+      },
+      {
+       "id": "c",
+       "bn": "9.26",
+       "en": "9.26"
+      },
+      {
+       "id": "d",
+       "bn": "2.37",
+       "en": "2.37"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "[লবণ]/[এসিড] = 1 ⇒ log 1 = 0 ⇒ pH = pKa = 4.74।",
+     "explanation_en": "[salt]/[acid] = 1, log 1 = 0, so pH = pKa = 4.74.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "কার্যকর অম্লীয় বাফারের pH পরিসর কোনটি?",
+     "question_en": "What is the effective pH range of an acidic buffer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "pKa - 2 থেকে pKa + 2",
+       "en": "pKa - 2 থেকে pKa + 2"
+      },
+      {
+       "id": "b",
+       "bn": "pKa - 1 থেকে pKa + 1",
+       "en": "pKa - 1 থেকে pKa + 1"
+      },
+      {
+       "id": "c",
+       "bn": "pKa থেকে 14",
+       "en": "pKa থেকে 14"
+      },
+      {
+       "id": "d",
+       "bn": "7 থেকে pKa",
+       "en": "7 থেকে pKa"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[লবণ]/[এসিড] = 0.1–10 ⇒ pH = pKa ± 1।",
+     "explanation_en": "The ratio 0.1-10 gives pH = pKa - 1 to pKa + 1.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "1 L দ্রবণে 0.1 mol NH4OH ও 0.2 mol NH4Cl (pKb = 4.74)। pH কত?",
+     "question_en": "A 1 L solution contains 0.1 mol NH4OH and 0.2 mol NH4Cl (pKb = 4.74). pH = ?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "5.04",
+       "en": "5.04"
+      },
+      {
+       "id": "b",
+       "bn": "8.96",
+       "en": "8.96"
+      },
+      {
+       "id": "c",
+       "bn": "9.26",
+       "en": "9.26"
+      },
+      {
+       "id": "d",
+       "bn": "4.44",
+       "en": "4.44"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "pOH = 4.74 + log(0.2/0.1) = 5.041; pH = 14 - 5.041 = 8.96।",
+     "explanation_en": "pOH = 4.74 + log 2 = 5.041; pH = 8.96.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "1 L দ্রবণে 0.015 mol (NH4)2SO4 ও 0.03 mol NH3 আছে (pKb = 4.74)। pH কত?",
+     "question_en": "A 1 L solution has 0.015 mol (NH4)2SO4 and 0.03 mol NH3 (pKb = 4.74). pH = ?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4.74",
+       "en": "4.74"
+      },
+      {
+       "id": "b",
+       "bn": "9.26",
+       "en": "9.26"
+      },
+      {
+       "id": "c",
+       "bn": "8.96",
+       "en": "8.96"
+      },
+      {
+       "id": "d",
+       "bn": "9.56",
+       "en": "9.56"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[NH4+] = 2×0.015 = 0.03 = [NH3]; pOH = pKb = 4.74; pH = 9.26।",
+     "explanation_en": "[NH4+] = 0.03 = [NH3]; pOH = 4.74; pH = 9.26.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "0.1 M CH3COOH ও 0.2 M CH3COONa মিশ্রণের pH কত? (pKa = 4.74)",
+     "question_en": "What is the pH of 0.1 M CH3COOH + 0.2 M CH3COONa? (pKa = 4.74)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "4.44",
+       "en": "4.44"
+      },
+      {
+       "id": "b",
+       "bn": "5.04",
+       "en": "5.04"
+      },
+      {
+       "id": "c",
+       "bn": "4.74",
+       "en": "4.74"
+      },
+      {
+       "id": "d",
+       "bn": "5.74",
+       "en": "5.74"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "pH = 4.74 + log 2 = 4.74 + 0.30 = 5.04।",
+     "explanation_en": "pH = 4.74 + log 2 = 5.04.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.26",
+   "title_bn": "বাফার দ্রবণের ক্রিয়া কৌশল",
+   "title_en": "Mechanism of Buffer Action",
+   "notes_bn": "বাফার ক্রিয়া: অল্প এসিড/ক্ষার যোগের পরও pH পরিবর্তনে প্রতিরোধ।\nঅম্লীয় বাফার (CH3COOH/CH3COONa): CH3COONa সম্পূর্ণ আয়নিত, CH3COO- বেশি; যোগকৃত H+ কে CH3COO- ধরে CH3COOH গঠন করে। যোগকৃত OH- কে H+ প্রশমিত (H2O), সাম্য ডানে সরে নতুন H+ দেয়।\nক্ষারীয় বাফার (NH4OH/NH4Cl): যোগকৃত H+, OH- এর সাথে মিলে H2O; NH4OH আরও বিয়োজিত হয়ে OH- পূরণ করে। যোগকৃত OH- কে NH4+ ধরে অবিয়োজিত NH4OH গঠন করে।\nবাফার ক্ষমতা β = (1 L এ যোগকৃত এসিড/ক্ষারের গ্রাম-অণু) ÷ (pH এর পরিবর্তন) = dB/dpH।\n[লবণ]/[এসিড] = 1 হলে ক্ষমতা সর্বোচ্চ, তখন pH = pKa (ক্ষারীয়ে pOH = pKb)।\nকার্যকর অনুপাত 0.1–10: pH = pKa - 1 থেকে pKa + 1।\nকার্বনেট বাফার তৈরি: pH = pKa + log([NaHCO3]/[H2CO3]), H2CO3 এর pKa = 6.1; 10 mL 0.01 M NaHCO3 ও 10 mL 0.01 M H2CO3 মেশালে pH 6.1; 0.01 M, 100 mL NaHCO3 (M = 84) এর জন্য 0.084 g প্রয়োজন।",
+   "notes_en": "Buffer action: resistance to pH change when small acid/base is added.\nAcidic buffer (CH3COOH/CH3COONa): the salt is fully ionised and supplies CH3COO-; added H+ is taken up by CH3COO- to give CH3COOH. Added OH- is neutralised by H+ (to water), and the acid ionises further to replace it.\nBasic buffer (NH4OH/NH4Cl): added H+ combines with OH- to form H2O and NH4OH ionises more; added OH- is captured by NH4+ to give NH4OH.\nBuffer capacity beta = gram-moles of acid/base added per litre / change in pH = dB/dpH.\nMaximum capacity at [salt]/[acid] = 1, when pH = pKa (basic: pOH = pKb).\nEffective ratio 0.1-10: pH = pKa - 1 to pKa + 1.\nCarbonate buffer: pH = pKa + log([NaHCO3]/[H2CO3]), pKa of H2CO3 = 6.1; equal 10 mL of 0.01 M each gives pH 6.1; 100 mL of 0.01 M NaHCO3 (M = 84) needs 0.084 g.",
+   "mcqs": [
+    {
+     "question_bn": "CH3COOH/CH3COONa বাফারে অল্প H+ যোগ করলে H+ কীসের সাথে যুক্ত হয়?",
+     "question_en": "When a little H+ is added to a CH3COOH/CH3COONa buffer, with what does it combine?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "Na+",
+       "en": "Na+"
+      },
+      {
+       "id": "b",
+       "bn": "CH3COO-",
+       "en": "CH3COO-"
+      },
+      {
+       "id": "c",
+       "bn": "OH-",
+       "en": "OH-"
+      },
+      {
+       "id": "d",
+       "bn": "Cl-",
+       "en": "Cl-"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H+ + CH3COO- → CH3COOH; তাই [H+] প্রায় অপরিবর্তিত।",
+     "explanation_en": "H+ + CH3COO- gives CH3COOH, so [H+] barely changes.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "বাফার ক্ষমতা সর্বোচ্চ হয় যখন—",
+     "question_en": "Buffer capacity is maximum when—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "[লবণ] = 0",
+       "en": "[লবণ] = 0"
+      },
+      {
+       "id": "b",
+       "bn": "[লবণ]/[এসিড] = 1",
+       "en": "[লবণ]/[এসিড] = 1"
+      },
+      {
+       "id": "c",
+       "bn": "[লবণ]/[এসিড] = 100",
+       "en": "[লবণ]/[এসিড] = 100"
+      },
+      {
+       "id": "d",
+       "bn": "pH = 7",
+       "en": "pH = 7"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অনুপাত 1 হলে pH = pKa এবং ক্ষমতা সর্বোচ্চ।",
+     "explanation_en": "At ratio 1, pH = pKa and capacity is greatest.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "NH4OH/NH4Cl বাফারে অল্প OH- যোগ করলে কী ঘটে?",
+     "question_en": "What happens when a little OH- is added to an NH4OH/NH4Cl buffer?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "NH4+ দিয়ে OH- অবিয়োজিত NH4OH গঠন করে",
+       "en": "NH4+ দিয়ে OH- অবিয়োজিত NH4OH গঠন করে"
+      },
+      {
+       "id": "b",
+       "bn": "Cl- OH- কে ধরে",
+       "en": "Cl- OH- কে ধরে"
+      },
+      {
+       "id": "c",
+       "bn": "pH দ্রুত বাড়ে",
+       "en": "pH দ্রুত বাড়ে"
+      },
+      {
+       "id": "d",
+       "bn": "NH4OH বেশি বিয়োজিত হয়",
+       "en": "NH4OH বেশি বিয়োজিত হয়"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "NH4+ + OH- → NH4OH (সামান্য বিয়োজিত)।",
+     "explanation_en": "NH4+ captures OH- to form weakly ionised NH4OH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অম্লীয় বাফারে অনুপাত [লবণ]/[এসিড] = 0.1 এবং pKa = 4.74 হলে pH কত?",
+     "question_en": "In an acidic buffer with [salt]/[acid] = 0.1 and pKa = 4.74, pH = ?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3.74",
+       "en": "3.74"
+      },
+      {
+       "id": "b",
+       "bn": "4.74",
+       "en": "4.74"
+      },
+      {
+       "id": "c",
+       "bn": "5.74",
+       "en": "5.74"
+      },
+      {
+       "id": "d",
+       "bn": "4.64",
+       "en": "4.64"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "pH = 4.74 + log 0.1 = 4.74 - 1 = 3.74।",
+     "explanation_en": "pH = 4.74 + log 0.1 = 3.74.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "বাফার ক্ষমতা β এর সংজ্ঞা কোনটি?",
+     "question_en": "What is the definition of buffer capacity beta?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "pH পরিবর্তন ÷ যোগকৃত এসিড",
+       "en": "pH পরিবর্তন ÷ যোগকৃত এসিড"
+      },
+      {
+       "id": "b",
+       "bn": "1 L এ যোগকৃত এসিড/ক্ষারের গ্রাম-অণু ÷ pH পরিবর্তন",
+       "en": "1 L এ যোগকৃত এসিড/ক্ষারের গ্রাম-অণু ÷ pH পরিবর্তন"
+      },
+      {
+       "id": "c",
+       "bn": "pKa ÷ pH",
+       "en": "pKa ÷ pH"
+      },
+      {
+       "id": "d",
+       "bn": "Ka ÷ Kb",
+       "en": "Ka ÷ Kb"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "β = dB/dpH।",
+     "explanation_en": "beta = gram-moles of acid/base added per litre divided by the pH change.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "10 mL 0.01 M NaHCO3 ও 10 mL 0.01 M H2CO3 (pKa = 6.1) মিশ্রণের pH কত?",
+     "question_en": "Mixing 10 mL of 0.01 M NaHCO3 with 10 mL of 0.01 M H2CO3 (pKa = 6.1) gives pH = ?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "6.1",
+       "en": "6.1"
+      },
+      {
+       "id": "b",
+       "bn": "7.1",
+       "en": "7.1"
+      },
+      {
+       "id": "c",
+       "bn": "5.1",
+       "en": "5.1"
+      },
+      {
+       "id": "d",
+       "bn": "6.4",
+       "en": "6.4"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "[NaHCO3]/[H2CO3] = 1, তাই pH = pKa = 6.1।",
+     "explanation_en": "The ratio is 1, so pH = pKa = 6.1.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "100 mL 0.01 M NaHCO3 (M = 84) দ্রবণ প্রস্তুতে কত গ্রাম NaHCO3 লাগে?",
+     "question_en": "How many grams of NaHCO3 (M = 84) are needed for 100 mL of 0.01 M solution?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "0.84 g",
+       "en": "0.84 g"
+      },
+      {
+       "id": "b",
+       "bn": "0.084 g",
+       "en": "0.084 g"
+      },
+      {
+       "id": "c",
+       "bn": "8.4 g",
+       "en": "8.4 g"
+      },
+      {
+       "id": "d",
+       "bn": "0.0084 g",
+       "en": "0.0084 g"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মোল = 0.01 × 0.1 = 0.001; ভর = 0.001 × 84 = 0.084 g।",
+     "explanation_en": "Moles = 0.01 x 0.1 = 0.001; mass = 0.001 x 84 = 0.084 g.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.27",
+   "title_bn": "মানুষের রক্তে pH",
+   "title_en": "pH in Human Blood",
+   "notes_bn": "সুস্থ মানুষের রক্তের pH প্রায় 7.4 (সীমা 7.35–7.45); রক্ত ক্ষারীয় মাধ্যম।\npH 7.45 এর বেশি হলে অ্যালকালিসিস; 7.0 এর নিচে নামলে অ্যাসিডোসিস। pH 0.5 এর বেশি বদলালে জীবন হুমকিতে।\nরক্তের বাফার: ফসফেট (H2PO4-/HPO4^2-), বাইকার্বনেট (H2CO3/HCO3-) ও প্রোটিন বাফার।\nCO2(g) + H2O ⇌ H2CO3 ⇌ H+ + HCO3-। অতিরিক্ত H+ ⇒ H+ + HCO3- → H2CO3 → H2O + CO2 (ফুসফুস দিয়ে নির্গত)। অতিরিক্ত OH- ⇒ OH- + H2CO3 → HCO3- + H2O।\npH = pKa + log([HCO3-]/[H2CO3]) = 6.1 + log(24/1.2) = 6.1 + 1.30 = 7.4।\nK1(H2CO3) = 4.5×10^-7, pH 7.4 ([H+] = 3.98×10^-8) ⇒ [HCO3-]/[CO2] = 11.3।\nঅ্যামিনো অ্যাসিড (প্রোটিন) অম্লীয় মাধ্যমে ক্ষার, ক্ষারীয় মাধ্যমে এসিড, নিরপেক্ষে জুইটার আয়ন; pH নিয়ন্ত্রণ করে।\nউদাহরণ: 1.5% (W/V) NaOH = 0.375 M ⇒ pOH = 0.4259, pH = 13.57।",
+   "notes_en": "Healthy blood pH is about 7.4 (7.35-7.45); blood is slightly basic.\nAbove 7.45 is alkalosis; below 7.0 is acidosis. A change over 0.5 pH is life-threatening.\nBlood buffers: phosphate (H2PO4-/HPO4^2-), bicarbonate (H2CO3/HCO3-) and protein buffers.\nCO2 + H2O <-> H2CO3 <-> H+ + HCO3-. Excess H+: H+ + HCO3- -> H2CO3 -> H2O + CO2 (exhaled). Excess OH-: OH- + H2CO3 -> HCO3- + H2O.\npH = 6.1 + log(24/1.2) = 6.1 + 1.30 = 7.4.\nWith K1 = 4.5e-7 and pH 7.4 ([H+] = 3.98e-8): [HCO3-]/[CO2] = 11.3.\nAmino acids act as base in acid, acid in base, and zwitterion at neutral pH, thus regulating pH.\nExample: 1.5% (W/V) NaOH = 0.375 M, pOH 0.4259, pH 13.57.",
+   "mcqs": [
+    {
+     "question_bn": "সুস্থ মানুষের রক্তের pH সাধারণত কত?",
+     "question_en": "What is the normal pH of healthy human blood?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.5–2.0",
+       "en": "1.5–2.0"
+      },
+      {
+       "id": "b",
+       "bn": "4.0–5.5",
+       "en": "4.0–5.5"
+      },
+      {
+       "id": "c",
+       "bn": "7.35–7.45",
+       "en": "7.35–7.45"
+      },
+      {
+       "id": "d",
+       "bn": "9.0–10.0",
+       "en": "9.0–10.0"
+      }
+     ],
+     "correct": [
+      "c"
+     ],
+     "explanation_bn": "রক্তের স্বাভাবিক pH প্রায় 7.4।",
+     "explanation_en": "Normal blood pH is about 7.4.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রক্তের pH 7.45 এর বেশি হলে এ অবস্থাকে কী বলে?",
+     "question_en": "What is it called when blood pH exceeds 7.45?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "অ্যাসিডোসিস",
+       "en": "অ্যাসিডোসিস"
+      },
+      {
+       "id": "b",
+       "bn": "অ্যালকালিসিস",
+       "en": "অ্যালকালিসিস"
+      },
+      {
+       "id": "c",
+       "bn": "কোমা",
+       "en": "কোমা"
+      },
+      {
+       "id": "d",
+       "bn": "অ্যানিমিয়া",
+       "en": "অ্যানিমিয়া"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "7.45 এর উপরে অ্যালকালিসিস; 7.0 এর নিচে অ্যাসিডোসিস।",
+     "explanation_en": "Above 7.45 is alkalosis; below 7.0 is acidosis.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "রক্তের প্রধান বাফার কোনটি?",
+     "question_en": "Which is the main buffer of blood?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "CH3COOH/CH3COONa",
+       "en": "CH3COOH/CH3COONa"
+      },
+      {
+       "id": "b",
+       "bn": "H2CO3/HCO3-",
+       "en": "H2CO3/HCO3-"
+      },
+      {
+       "id": "c",
+       "bn": "NH4OH/NH4Cl",
+       "en": "NH4OH/NH4Cl"
+      },
+      {
+       "id": "d",
+       "bn": "HCl/NaCl",
+       "en": "HCl/NaCl"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "বাইকার্বনেট-কার্বনিক অ্যাসিড বাফার রক্তের pH নিয়ন্ত্রণে মুখ্য।",
+     "explanation_en": "The bicarbonate/carbonic acid buffer is the main regulator.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "রক্তে অতিরিক্ত H+ প্রবেশ করলে অতিরিক্ত CO2 কীভাবে বের হয়?",
+     "question_en": "When excess H+ enters blood, how is the resulting CO2 removed?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ঘামের সাথে",
+       "en": "ঘামের সাথে"
+      },
+      {
+       "id": "b",
+       "bn": "ফুসফুসের প্রশ্বাসের মাধ্যমে",
+       "en": "ফুসফুসের প্রশ্বাসের মাধ্যমে"
+      },
+      {
+       "id": "c",
+       "bn": "মূত্রের মাধ্যমে",
+       "en": "মূত্রের মাধ্যমে"
+      },
+      {
+       "id": "d",
+       "bn": "পাকস্থলী দিয়ে",
+       "en": "পাকস্থলী দিয়ে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "H+ + HCO3- → H2CO3 → H2O + CO2, CO2 ফুসফুস দিয়ে নির্গত হয়।",
+     "explanation_en": "H2CO3 breaks into H2O and CO2, which is exhaled through the lungs.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "HCO3- = 24 mM, H2CO3 = 1.2 mM, pKa = 6.1 হলে রক্তের pH কত?",
+     "question_en": "With [HCO3-] = 24 mM, [H2CO3] = 1.2 mM and pKa = 6.1, blood pH is—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "6.1",
+       "en": "6.1"
+      },
+      {
+       "id": "b",
+       "bn": "7.4",
+       "en": "7.4"
+      },
+      {
+       "id": "c",
+       "bn": "7.8",
+       "en": "7.8"
+      },
+      {
+       "id": "d",
+       "bn": "4.8",
+       "en": "4.8"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "pH = 6.1 + log 20 = 6.1 + 1.30 = 7.4।",
+     "explanation_en": "pH = 6.1 + log 20 = 7.4.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "K1(H2CO3) = 4.5×10^-7 এবং রক্তের pH = 7.4 ([H+] = 3.98×10^-8) হলে [HCO3-]/[CO2] অনুপাত কত?",
+     "question_en": "With K1 = 4.5e-7 and blood pH 7.4 ([H+] = 3.98e-8), what is [HCO3-]/[CO2]?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.13",
+       "en": "1.13"
+      },
+      {
+       "id": "b",
+       "bn": "11.3",
+       "en": "11.3"
+      },
+      {
+       "id": "c",
+       "bn": "113",
+       "en": "113"
+      },
+      {
+       "id": "d",
+       "bn": "0.088",
+       "en": "0.088"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অনুপাত = K1/[H+] = 4.5×10^-7/3.98×10^-8 = 11.3।",
+     "explanation_en": "Ratio = K1/[H+] = 4.5e-7/3.98e-8 = 11.3.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "1.5% (W/V) NaOH দ্রবণের pH কত? (NaOH = 40)",
+     "question_en": "What is the pH of 1.5% (W/V) NaOH? (NaOH = 40)",
+     "options": [
+      {
+       "id": "a",
+       "bn": "12.43",
+       "en": "12.43"
+      },
+      {
+       "id": "b",
+       "bn": "13.57",
+       "en": "13.57"
+      },
+      {
+       "id": "c",
+       "bn": "0.43",
+       "en": "0.43"
+      },
+      {
+       "id": "d",
+       "bn": "14.43",
+       "en": "14.43"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "15 g/L ÷ 40 = 0.375 M; pOH = 0.426; pH = 13.57।",
+     "explanation_en": "15 g/L / 40 = 0.375 M; pOH = 0.426; pH = 13.57.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "0.001 M CH3COOH এর 15% আয়নিত হলে pH প্রায় কত?",
+     "question_en": "If 15% of 0.001 M CH3COOH is ionised, pH is about—",
+     "options": [
+      {
+       "id": "a",
+       "bn": "2.0",
+       "en": "2.0"
+      },
+      {
+       "id": "b",
+       "bn": "3.8",
+       "en": "3.8"
+      },
+      {
+       "id": "c",
+       "bn": "1.5",
+       "en": "1.5"
+      },
+      {
+       "id": "d",
+       "bn": "4.8",
+       "en": "4.8"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "[H+] = 0.001×0.15 = 1.5×10^-4; pH = 3.82।",
+     "explanation_en": "[H+] = 0.001 x 0.15 = 1.5e-4; pH = 3.82.",
+     "difficulty": "advanced"
+    }
+   ]
+  },
+  {
+   "section_no": "4.28",
+   "title_bn": "কৃষি, রসায়ন শিল্প, টয়লেট্রিজ, ঔষধ সেবনে pH এর গুরুত্ব",
+   "title_en": "Importance of pH in Agriculture, Industry, Toiletries and Medicine",
+   "notes_bn": "কৃষি: উদ্ভিদের পুষ্টি গ্রহণ মাটির pH এর উপর নির্ভর করে। মাটির pH 3.00–9.5 নিয়ন্ত্রণ করা হয়; উপকারী অণুজীবের জন্য pH 6.6–7.3 অনুকূল। অম্লীয় মাটিতে চুন (CaO), ডলোমাইট ইত্যাদি দিয়ে pH বাড়ানো হয়। pH 9.5 এর উপরে হলে অণুজীব মরে যায়; তখন KNO3, NH4NO3, TSP, (NH4)2HPO4 ইত্যাদি সার ব্যবহৃত হয়।\nরসায়ন শিল্প: পানীয় জলের pH 6.8–7.2; বিশ্লেষণী রসায়নে বাফার দ্বারা pH নিয়ন্ত্রণ; মৃৎশিল্পে মাটির pH 6–6.5; চামড়া ট্যানিংয়ে pH 3.5–4.5; কাগজ শিল্পে সেলুলোজের জন্য 5% কস্টিক সোডা (ক্ষারীয়) ও 2% H2SO4 (অম্লীয়)।\nটয়লেট্রিজ: ত্বক, চুল, দাঁতের জন্য উপযুক্ত pH; টুথপেস্ট pH ≈ 8.0; শ্যাম্পু 5–5.5 (বাচ্চাদের 5.5); ত্বকে অ্যাসিডিক আবরণ ব্যাকটেরিয়া থেকে রক্ষা করে।\nঔষধ: পাকস্থলীর pH 1.8–2.2; অ্যান্টাসিড (Mg(OH)2, Al(OH)3, MgO) অতিরিক্ত HCl প্রশমিত করে; অ্যাসপিরিন অম্লীয়, pKa 3.5 (Ka = 3.16×10^-4), পাকস্থলীতে শোষিত হয়; ক্লোরোকুইন মৃদু ক্ষারধর্মী, ক্ষুদ্রান্ত্রে (pH 7.5–8.0) শোষিত হয়; ইনজেকশনে রক্তের pH 0.5 এর বেশি বদলানো বিপজ্জনক।",
+   "notes_en": "Agriculture: nutrient uptake depends on soil pH; soil pH is controlled within 3.00-9.5 and 6.6-7.3 favours beneficial microorganisms. Acidic soil is limed (CaO, dolomite). Above pH 9.5 micro-organisms die; fertilisers such as KNO3, NH4NO3, TSP, (NH4)2HPO4 are used.\nIndustry: drinking water pH 6.8-7.2; buffers used in analysis; pottery clay pH 6-6.5; leather tanning pH 3.5-4.5; paper uses 5% NaOH (basic) and 2% H2SO4 (acidic) for cellulose.\nToiletries: suitable pH for skin, hair, teeth; toothpaste about 8.0; shampoo 5-5.5 (baby 5.5); the skin's acid mantle protects against bacteria.\nMedicine: stomach pH 1.8-2.2; antacids (Mg(OH)2, Al(OH)3, MgO) neutralise excess HCl; aspirin is acidic, pKa 3.5 (Ka 3.16e-4), absorbed in the stomach; chloroquine is a weak base absorbed in the small intestine (pH 7.5-8.0); injections must not shift blood pH by more than 0.5.",
+   "mcqs": [
+    {
+     "question_bn": "সুস্থ মানুষের পাকস্থলীর pH সাধারণত কত?",
+     "question_en": "What is the normal pH of the stomach?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "1.8–2.2",
+       "en": "1.8–2.2"
+      },
+      {
+       "id": "b",
+       "bn": "4.0–5.0",
+       "en": "4.0–5.0"
+      },
+      {
+       "id": "c",
+       "bn": "7.0",
+       "en": "7.0"
+      },
+      {
+       "id": "d",
+       "bn": "8.5",
+       "en": "8.5"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "পাকস্থলীতে HCl থাকায় pH 1.8–2.2।",
+     "explanation_en": "HCl keeps stomach pH at 1.8-2.2.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অ্যান্টাসিড হিসেবে ব্যবহৃত যৌগ কোনটি?",
+     "question_en": "Which compound is used as an antacid?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "HCl",
+       "en": "HCl"
+      },
+      {
+       "id": "b",
+       "bn": "Mg(OH)2",
+       "en": "Mg(OH)2"
+      },
+      {
+       "id": "c",
+       "bn": "H2SO4",
+       "en": "H2SO4"
+      },
+      {
+       "id": "d",
+       "bn": "HNO3",
+       "en": "HNO3"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "Mg(OH)2 ও Al(OH)3 অতিরিক্ত HCl প্রশমিত করে।",
+     "explanation_en": "Mg(OH)2 and Al(OH)3 neutralise excess HCl.",
+     "difficulty": "basic"
+    },
+    {
+     "question_bn": "অম্লীয় মাটির pH বাড়াতে কী ব্যবহার করা হয়?",
+     "question_en": "What is added to raise the pH of acidic soil?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "চুন (CaO) বা ডলোমাইট",
+       "en": "চুন (CaO) বা ডলোমাইট"
+      },
+      {
+       "id": "b",
+       "bn": "H2SO4",
+       "en": "H2SO4"
+      },
+      {
+       "id": "c",
+       "bn": "NH4Cl",
+       "en": "NH4Cl"
+      },
+      {
+       "id": "d",
+       "bn": "HCl",
+       "en": "HCl"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "CaO, ডলোমাইট ইত্যাদি ক্ষারধর্মী; মাটির pH বাড়ায়।",
+     "explanation_en": "Basic materials like CaO and dolomite raise soil pH.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "চামড়া ট্যানিংয়ের সময় দ্রবণের pH কত থাকে?",
+     "question_en": "What pH is maintained during leather tanning?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "3.5–4.5",
+       "en": "3.5–4.5"
+      },
+      {
+       "id": "b",
+       "bn": "7–8",
+       "en": "7–8"
+      },
+      {
+       "id": "c",
+       "bn": "9–10",
+       "en": "9–10"
+      },
+      {
+       "id": "d",
+       "bn": "12–13",
+       "en": "12–13"
+      }
+     ],
+     "correct": [
+      "a"
+     ],
+     "explanation_bn": "কাঁচা চামড়ায় ট্যানিংয়ের সময় pH 3.5–4.5।",
+     "explanation_en": "Tanning is done at pH 3.5-4.5.",
+     "difficulty": "medium"
+    },
+    {
+     "question_bn": "অ্যাসপিরিন (pKa = 3.5) প্রধানত কোথায় শোষিত হয় এবং কেন?",
+     "question_en": "Where is aspirin (pKa = 3.5) mainly absorbed and why?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "ক্ষুদ্রান্ত্রে, কারণ এটি ক্ষারধর্মী",
+       "en": "ক্ষুদ্রান্ত্রে, কারণ এটি ক্ষারধর্মী"
+      },
+      {
+       "id": "b",
+       "bn": "পাকস্থলীর অম্লীয় মাধ্যমে, কারণ এটি অম্লধর্মী অণু",
+       "en": "পাকস্থলীর অম্লীয় মাধ্যমে, কারণ এটি অম্লধর্মী অণু"
+      },
+      {
+       "id": "c",
+       "bn": "রক্তে সরাসরি",
+       "en": "রক্তে সরাসরি"
+      },
+      {
+       "id": "d",
+       "bn": "মুখগহ্বরে",
+       "en": "মুখগহ্বরে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "অম্লধর্মী ঔষধ অম্লীয় মাধ্যমে (পাকস্থলী) অবিয়োজিত অবস্থায় বেশি শোষিত হয়।",
+     "explanation_en": "Acidic drugs are absorbed in acidic medium (stomach) in the unionised form.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ইনজেকশনের ঔষধের pH কেন নিয়ন্ত্রণ করা হয়?",
+     "question_en": "Why must the pH of injected medicines be controlled?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "স্বাদের জন্য",
+       "en": "স্বাদের জন্য"
+      },
+      {
+       "id": "b",
+       "bn": "রক্তের pH 0.5 এর বেশি বদলালে জীবন ঝুঁকিতে পড়ে",
+       "en": "রক্তের pH 0.5 এর বেশি বদলালে জীবন ঝুঁকিতে পড়ে"
+      },
+      {
+       "id": "c",
+       "bn": "রঙ বজায় রাখতে",
+       "en": "রঙ বজায় রাখতে"
+      },
+      {
+       "id": "d",
+       "bn": "দাম কমাতে",
+       "en": "দাম কমাতে"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "রক্তের pH 0.5 এর বেশি বদলালে মানবদেহ ঝুঁকিতে পড়ে।",
+     "explanation_en": "A blood pH change over 0.5 puts life at risk.",
+     "difficulty": "advanced"
+    },
+    {
+     "question_bn": "ক্লোরোকুইন (মৃদু ক্ষার) কোথায় ভালো শোষিত হয়?",
+     "question_en": "Where is chloroquine (a weak base) absorbed well?",
+     "options": [
+      {
+       "id": "a",
+       "bn": "পাকস্থলীতে (pH ≈ 2)",
+       "en": "পাকস্থলীতে (pH ≈ 2)"
+      },
+      {
+       "id": "b",
+       "bn": "ক্ষুদ্রান্ত্রে (pH 7.5–8.0)",
+       "en": "ক্ষুদ্রান্ত্রে (pH 7.5–8.0)"
+      },
+      {
+       "id": "c",
+       "bn": "মুখে (pH 3)",
+       "en": "মুখে (pH 3)"
+      },
+      {
+       "id": "d",
+       "bn": "ত্বকে (pH 4–5)",
+       "en": "ত্বকে (pH 4–5)"
+      }
+     ],
+     "correct": [
+      "b"
+     ],
+     "explanation_bn": "মৃদু ক্ষার পাকস্থলীতে আয়নিত হয়ে শোষিত হয় না; ক্ষুদ্রান্ত্রে শোষিত হয়।",
+     "explanation_en": "A weak base is ionised in the stomach, but absorbed in the small intestine.",
+     "difficulty": "advanced"
+    }
+   ]
+  }
+ ],
+ "cq": [
+  {
+   "topic_section": "4.20",
+   "stimulus_bn": "একজন শিক্ষার্থী 25 °C এ 0.10 M CH3COOH (Ka = 1.8×10^-5) এবং 0.15 M NH3 (Kb = 1.8×10^-5) দ্রবণ প্রস্তুত করল। লঘু করার সাথে CH3COOH এর বিয়োজন কীভাবে বদলায় সে তা জানতে চায়।",
+   "stimulus_en": "At 25 C a student prepares 0.10 M CH3COOH (Ka = 1.8e-5) and 0.15 M NH3 (Kb = 1.8e-5). She wants to know how the dissociation of CH3COOH changes on dilution.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "এসিডের বিয়োজন ধ্রুবক Ka কী?",
+     "question_en": "What is the dissociation constant Ka of an acid?",
+     "model_answer_bn": "জলীয় দ্রবণে HA ⇌ H+ + A- সাম্যে Ka = [H+][A-]/[HA]; এটি এসিডের বিয়োজনের সাম্যধ্রুবক।",
+     "model_answer_en": "For HA <-> H+ + A- in water, Ka = [H+][A-]/[HA], the equilibrium constant of dissociation."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "Ka বেশি হলে এসিড তীব্র হয় কেন ব্যাখ্যা করো।",
+     "question_en": "Explain why a larger Ka means a stronger acid.",
+     "model_answer_bn": "Ka বেশি মানে সাম্যে H+ ও A- এর ঘনমাত্রা বেশি, অর্থাৎ বিয়োজন বেশি; তাই এসিড তীব্র।",
+     "model_answer_en": "Larger Ka means higher [H+] and [A-] at equilibrium, i.e. more dissociation, hence a stronger acid."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "0.10 M CH3COOH এ [H+] ও pH নির্ণয় করো।",
+     "question_en": "Find [H+] and pH of 0.10 M CH3COOH.",
+     "model_answer_bn": "x² = Ka × C = 1.8×10^-5 × 0.10 = 1.8×10^-6; x = 1.34×10^-3 M; pH = -log(1.34×10^-3) = 2.87।",
+     "model_answer_en": "x^2 = 1.8e-5 x 0.10 = 1.8e-6; x = 1.34e-3 M; pH = 2.87."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "দ্রবণটি লঘু করে 0.01 M করলে α কত হবে? অসওয়াল্ডের লঘুকরণ সূত্রের আলোকে মন্তব্য করো এবং 0.15 M NH3 এর pH নির্ণয় করো।",
+     "question_en": "Find alpha after diluting to 0.01 M and comment using Ostwald's dilution law; also find the pH of 0.15 M NH3.",
+     "model_answer_bn": "0.10 M এ α = 1.34×10^-3/0.10 = 1.34%। 0.01 M এ α = √(1.8×10^-5/0.01) = 4.24×10^-2 = 4.24%; লঘু করলে α বাড়ে (α ∝ 1/√C)। NH3: [OH-] = √(1.8×10^-5 × 0.15) = 1.64×10^-3; pOH = 2.78; pH = 11.22।",
+     "model_answer_en": "At 0.10 M, alpha = 1.34e-3/0.10 = 1.34%. At 0.01 M, alpha = sqrt(1.8e-5/0.01) = 4.24%; dilution raises alpha (alpha proportional to 1/sqrt(C)). NH3: [OH-] = sqrt(1.8e-5 x 0.15) = 1.64e-3; pOH 2.78; pH 11.22."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.24",
+   "stimulus_bn": "পরীক্ষাগারে তিনটি দ্রবণ আছে: (A) 0.025 M H2SO4, (B) 0.125 M Na2CO3, (C) pH = 3 ও (D) pH = 6 এর দুটি HCl দ্রবণ। 25 °C এ Kw = 1×10^-14।",
+   "stimulus_en": "A lab has: (A) 0.025 M H2SO4, (B) 0.125 M Na2CO3, and two HCl solutions (C) pH 3 and (D) pH 6. At 25 C, Kw = 1e-14.",
+   "difficulty": "medium",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "pH এর সংজ্ঞা দাও।",
+     "question_en": "Define pH.",
+     "model_answer_bn": "দ্রবণে H+ (H3O+) আয়নের ঘনমাত্রার ঋণাত্মক লগারিদমকে pH বলে: pH = -log[H+]।",
+     "model_answer_en": "pH is the negative logarithm of the H+ (H3O+) concentration: pH = -log[H+]."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "25 °C এ pH + pOH = 14 কেন?",
+     "question_en": "Why is pH + pOH = 14 at 25 C?",
+     "model_answer_bn": "Kw = [H+][OH-] = 10^-14; উভয় পাশে -log নিয়ে pH + pOH = pKw = 14।",
+     "model_answer_en": "Kw = [H+][OH-] = 1e-14; taking -log gives pH + pOH = pKw = 14."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "(A) ও (B) এর pH নির্ণয় করো।",
+     "question_en": "Calculate the pH of (A) and (B).",
+     "model_answer_bn": "(A) [H+] = 2×0.025 = 0.05; pH = 1.30। (B) [OH-] = 2×0.125 = 0.25; pOH = 0.60; pH = 13.40।",
+     "model_answer_en": "(A) [H+] = 0.05, pH = 1.30. (B) [OH-] = 0.25, pOH = 0.60, pH = 13.40."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "(C) ও (D) এর মধ্যে কোনটি কতগুণ বেশি অম্লীয়? 10 M HCl এর pH কত এবং এটি কী নির্দেশ করে?",
+     "question_en": "Which of (C) and (D) is more acidic and by what factor? What is the pH of 10 M HCl and what does it show?",
+     "model_answer_bn": "(C) এ [H+] = 10^-3, (D) এ 10^-6; (C) 10^3 = 1000 গুণ বেশি অম্লীয়। 10 M HCl এ pH = -log 10 = -1; অর্থাৎ [H+] > 1 g-ion/L হলে pH 0 এর নিচে যেতে পারে।",
+     "model_answer_en": "[H+] is 1e-3 in C and 1e-6 in D, so C is 1000 times more acidic. 10 M HCl: pH = -1; for [H+] > 1 g-ion/L pH can fall below 0."
+    }
+   ]
+  },
+  {
+   "topic_section": "4.25",
+   "stimulus_bn": "1 L দ্রবণে 0.10 mol NH4OH ও 0.20 mol NH4Cl আছে (pKb = 4.74)। আয়তন পরিবর্তন উপেক্ষা করো।",
+   "stimulus_en": "A 1 L solution contains 0.10 mol NH4OH and 0.20 mol NH4Cl (pKb = 4.74). Ignore volume change.",
+   "difficulty": "hard",
+   "parts": [
+    {
+     "level": "knowledge",
+     "marks": 1,
+     "question_bn": "বাফার দ্রবণ কাকে বলে?",
+     "question_en": "What is a buffer solution?",
+     "model_answer_bn": "যে দ্রবণে অল্প এসিড বা ক্ষার যোগ করলে pH প্রায় অপরিবর্তিত থাকে তাকে বাফার দ্রবণ বলে।",
+     "model_answer_en": "A solution whose pH remains nearly constant on adding small amounts of acid or base."
+    },
+    {
+     "level": "comprehension",
+     "marks": 2,
+     "question_bn": "এ দ্রবণ অল্প HCl যোগে pH ধরে রাখে কীভাবে?",
+     "question_en": "How does this solution hold its pH when a little HCl is added?",
+     "model_answer_bn": "যোগকৃত H+ দ্রবণের OH- এর সাথে মিলে H2O গঠন করে; NH4OH আরও বিয়োজিত হয়ে OH- পূরণ করে, ফলে [OH-] ও pH প্রায় স্থির থাকে।",
+     "model_answer_en": "Added H+ combines with OH- to form water and NH4OH ionises further to replace OH-, keeping [OH-] and pH nearly constant."
+    },
+    {
+     "level": "application",
+     "marks": 3,
+     "question_bn": "দ্রবণের pH নির্ণয় করো।",
+     "question_en": "Calculate the pH of the solution.",
+     "model_answer_bn": "pOH = pKb + log([NH4+]/[NH4OH]) = 4.74 + log 2 = 5.041; pH = 14 - 5.041 = 8.96।",
+     "model_answer_en": "pOH = 4.74 + log(0.20/0.10) = 5.041; pH = 8.96."
+    },
+    {
+     "level": "higher",
+     "marks": 4,
+     "question_bn": "দ্রবণে 0.01 mol HCl যোগ করলে pH কত হবে? বিশুদ্ধ 1 L পানিতে একই HCl যোগে pH কত হত? তুলনা করো।",
+     "question_en": "What is the pH after adding 0.01 mol HCl? What would the pH of 1 L pure water with the same HCl be? Compare.",
+     "model_answer_bn": "HCl যোগে NH4OH 0.09 mol, NH4Cl 0.21 mol। pOH = 4.74 + log(0.21/0.09) = 4.74 + 0.368 = 5.108; pH = 8.89 (পরিবর্তন মাত্র 0.07)। বিশুদ্ধ পানিতে [H+] = 0.01, pH = 2 (পরিবর্তন প্রায় 5 একক)। অতএব বাফার pH পরিবর্তন প্রতিরোধ করে।",
+     "model_answer_en": "After HCl: NH4OH 0.09 mol, NH4Cl 0.21 mol. pOH = 4.74 + log(0.21/0.09) = 5.108; pH = 8.89 (a change of only 0.07). Pure water: [H+] = 0.01, pH = 2 (a change of about 5 units). The buffer resists the pH change."
+    }
+   ]
+  }
+ ],
+ "notes": "All 56 pages (PDF 500-555, printed 502-557) were readable. PDF index = printed page - 2. Section 4.20 includes dissociation degree and Ostwald's dilution law (printed 511-514) and 4.19.2 electrolytes (printed 506) is folded into 4.19. 4.28 notes combine pages 552-556. Numerical MCQs recomputed; Ka from pH uses the book's x<<C approximation. The book's printed buffer-range remark (pKa-1 to pKa+1) is used instead of its example range quoting 5.6."
+}
